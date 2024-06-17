@@ -9,6 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+ROYAL SOCIETY
 ```{r}
 #cleaning scraped data royal society to make sure theres no duplicates
 data <- read.csv("scraped_royalsociety_for_now.csv")
@@ -28,7 +29,25 @@ print(rows_removed)
 
 ```
 
+```{r}
+#adding a new column to royal society csv to match the downloaded pdf file name (for readability later)
 
+file_path <- "royalsociety_files.csv"
+royal_society <- read.csv(file_path, stringsAsFactors = FALSE)
+
+transform_to_filename <- function(identifier) {
+  clean_identifier <- gsub("^10.1098/", "", identifier)
+  filename <- gsub("\\.", "_", clean_identifier)
+  filename <- paste0(filename, ".pdf")
+  return(filename)
+}
+royal_society$pdf_filename <- sapply(royal_society$identifier, transform_to_filename)
+write.csv(royal_society, file = file_path, row.names = FALSE)
+
+
+```
+
+SPECTATOR
 ```{r spectator1}
 #quick ChatGPT nonsense to clean and split the spectator text file at https://www.gutenberg.org/files/12030/12030-h/12030-h.htm
 

@@ -1,0 +1,141 @@
+---
+title: "downloading_files"
+author: "Ingrid Backman"
+date: "2024-06-04"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+pacman::p_load(tidyverse, stringi)
+```
+
+iterate through data and download each file from the download link under the column pdf_download_link with a timer of 3 seconds between downloads, put them into the destination folder (the downloaded file) under the same name as the title column of that row + some other information (date)
+
+```{r}
+data <- read.csv("scraped_royalsociety_for_now.csv")
+
+#resetting all to false when i delete the downloaded files for testing
+ data <- data %>%
+   mutate(downloaded = FALSE)
+```
+
+
+```{r}
+data <- data %>%
+  filter(pdf_download_link != "pdf_download_link")
+```
+
+```{r function_for_download_loop}
+download_file <- function(link, location, referer) {
+  download.file(
+    link,
+    location,
+    mode = "wb",
+    headers = c(
+      "User-Agent" = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0',
+      "referer" = referer,
+      Connection = "keep-alive",
+      Encoding = "gzip, deflate, br, zstd",
+      Language = "en-US,en;q=0.5"
+    )
+  )
+}
+
+```
+
+```{r download_loop_function, errors = F}
+download_loop <- function() {
+  for (i in 1:nrow(data)) {
+    if (data$downloaded[i] == FALSE) {
+      # Getting the right referer for each page
+      referer <- paste0('https://royalsocietypublishing.org', data$pdf_link[i])
+      
+      # setting file_name to DOI numbers
+      #can be changed if different file names are preferred
+      title <- data$identifier[i]
+      title <- stri_replace_all_regex(
+        title,
+        pattern = c('10.1098/', "\\."),
+        replacement = c("", "_"),
+        vectorize = FALSE
+      )
+      file_name <- paste0(title) #more can be added here
+      file_name <- stri_replace_all_regex(
+        file_name,
+        pattern = c(' ', ',', ';', "\\.", "__", "'"),
+        replacement = c("_", "", "", "", "_", ""),
+        vectorize = FALSE
+      )
+      
+      # flag for success
+      success <- FALSE
+      
+      # Attempt to download until successful
+      while (!success) {
+        res <- try(download_file(
+          link = data$pdf_download_link[i],
+          location = paste0("D:/Fact_fiction_corpus/pdf/", file_name, ".pdf"),
+          referer = referer
+        ),
+        silent = TRUE)
+        if (inherits(res, "try-error")) {
+          print(paste0("Error downloading ", title, " trying again!"))
+          Sys.sleep(1)
+        } else {
+          data$downloaded[i] <<- TRUE  # To not download it again, can be done differently
+          success <- TRUE
+          print(paste0(title, " has been downloaded"))
+          Sys.sleep(1)
+        }
+      }
+    } else {
+      print(paste0(title, " has already been downloaded"))
+    }
+  }
+}
+
+download_loop()
+```
+
+```{r}
+#writing the updated TRUE/FALSE
+write.csv(data, "scraped_royalsociety_for_now_TF.csv", row.names = FALSE)
+```
+
+
+```{r EXTRA}
+      # # Getting the right file name that is acceptable for windows etc.
+      # # Title gets shortened if it's over 100 characters to a complete word
+      # title <- data$title[i]
+      # if (nchar(title) > 100) {
+      #   truncated_title <- substr(title, 1, 100)
+      #   last_space <- max(gregexpr(' ', truncated_title)[[1]])
+      #   title <- substr(truncated_title, 1, last_space - 1)
+      # }
+      # file_name <- paste0(title, "_date_", data$date[i])
+      # file_name <- stri_replace_all_regex(
+      #   file_name,
+      #   pattern = c(' ', ',', ';', "\\.", "__", "'"),
+      #   replacement = c("_", "", "", "", "_", ""),
+      #   vectorize = FALSE
+      # )
+```
+
+
+```{r}
+headers = c(
+  `User-Agent` = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0",
+  `Accept` = "*/*",
+  `Accept-Language` = "en-US,en;q=0.5",
+  `Accept-Encoding` = "gzip, deflate, br, zstd",
+  `Referer` = "https://royalsocietypublishing.org/doi/epdf/10.1098/rstl.1665.0051",
+  `Sec-Fetch-Dest` = "script",
+  `Sec-Fetch-Mode` = "cors",
+  `Sec-Fetch-Site` = "same-origin",
+  `Connection` = "keep-alive"
+)
+
+res <- httr::GET(url = "https://royalsocietypublishing.org/templates/jsp/cloudReader/js/readerServiceWorkerHelper.js", httr::add_headers(.headers=headers))
+```
+

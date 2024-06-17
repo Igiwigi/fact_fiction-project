@@ -1,0 +1,131 @@
+---
+title: "cleaning_outputcsv"
+author: "Ingrid Backman"
+date: "2024-04-16"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+ROYAL SOCIETY
+```{r}
+#cleaning scraped data royal society to make sure theres no duplicates
+data <- read.csv("scraped_royalsociety_for_now.csv")
+original_rows <- nrow(data)
+data_unique <- unique(data)
+unique_rows <- nrow(data_unique)
+duplicate_rows <- data[!duplicated(data), ]
+
+rows_removed <- data[!rownames(data) %in% rownames(data_unique), ]
+
+write.csv(data_unique, "output_unique.csv", row.names = FALSE)
+
+cat("Number of rows before removing duplicates:", original_rows, "\n")
+cat("Number of rows after removing duplicates:", unique_rows, "\n")
+
+print(rows_removed)
+
+```
+
+```{r}
+#adding a new column to royal society csv to match the downloaded pdf file with the original (just to make it easier to match the filenames later)
+file_path <- "royalsociety_files.csv"
+royal_society <- read.csv(file_path, stringsAsFactors = FALSE)
+
+transform_to_filename <- function(identifier) {
+  clean_identifier <- gsub("^10.1098/", "", identifier)
+  filename <- gsub("\\.", "_", clean_identifier)
+  filename <- paste0(filename, ".pdf")
+  return(filename)
+}
+royal_society$pdf_filename <- sapply(royal_society$identifier, transform_to_filename)
+write.csv(royal_society, file = file_path, row.names = FALSE)
+
+```
+
+SPECTATOR
+```{r spectator1}
+#quick ChatGPT nonsense to clean and split the spectator text file at https://www.gutenberg.org/files/12030/12030-h/12030-h.htm
+
+# Read the content of the spectator.txt file
+spectator <- readLines("prog/spectator.txt")
+
+# Convert the content to a single string
+spectator_text <- paste(spectator, collapse = "\n")
+
+# Define the regex pattern to match "No. " followed by one to three digits
+# and ensure a weekday occurs within the next 100 characters, or "Preface\n"
+pattern <- "(No\\.\\s\\d{1,3}\\s(?=[\\s\\S]{0,100}(Thursday|Monday|Tuesday|Wednesday|Friday|Saturday|Sunday)))|Preface\\n"
+
+# Use gregexpr to find match positions
+matches <- gregexpr(pattern, spectator_text, perl = TRUE)
+match_positions <- unlist(matches)
+
+# Initialize a list to store the split text chunks
+spectator_split <- list()
+
+# Iterate over match positions to extract chunks
+for (i in seq_along(match_positions)) {
+  start_pos <- match_positions[i]
+  if (i < length(match_positions)) {
+    end_pos <- match_positions[i + 1] - 1
+  } else {
+    end_pos <- nchar(spectator_text)
+  }
+  
+  chunk <- substring(spectator_text, start_pos, end_pos)
+  
+  # Only include the chunk if it is at least 200 characters long
+  if (nchar(chunk) >= 200) {
+    spectator_split <- c(spectator_split, list(chunk))
+  }
+}
+
+# Initialize vectors to store section numbers and content
+section_numbers <- character()
+section_content <- character()
+
+# Iterate over the chunks and extract section numbers and content
+for (chunk in spectator_split) {
+  # Extract section number
+  section_num <- ifelse(grepl("Preface\\n", chunk), "Preface", 
+                        gsub("No\\. (\\d+).*", "\\1", grep("No\\. (\\d+)", chunk, value = TRUE)))
+  
+  # Append to section numbers vector
+  section_numbers <- c(section_numbers, section_num)
+  
+  # Append to section content vector
+  section_content <- c(section_content, chunk)
+}
+
+# Create dataframe
+spectator_df <- data.frame(Section_Number = section_numbers, Content = section_content)
+
+```
+
+
+```{r spectator2}
+# possibly for cleaning up the text but not really necessary
+# spectator_df$Content <- gsub("\n", " ", spectator_df$Content)
+# spectator_df$Content <- gsub("\t", " ", spectator_df$Content)
+# spectator_df$Content <- gsub(" {1,}", " ", spectator_df$Content)
+
+
+# Iterate over each row of the dataframe
+for (i in seq_len(nrow(spectator_df))) {
+  # Extract section number and content for the current row
+  section_number <- spectator_df$Section_Number[i]
+  content <- spectator_df$Content[i]
+  
+  # Generate file name
+  file_name <- paste0("prog/", section_number, ".txt")
+  
+  # Write content to file
+  writeLines(content, file_name)
+}
+
+
+```
+

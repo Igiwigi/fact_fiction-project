@@ -1,0 +1,123 @@
+---
+title: "visualizing_data"
+author: "Ingrid Backman"
+date: "2024-08-27"
+output: html_document
+---
+Aiming to visualize the data (so far) to understand the distribution of the fact/fiction words between documents and years
+Cleaned up ver
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(pacman)
+p_load(ggplot2, dplyr, tidyr, readr, readxl, lubridate)
+```
+
+```{r}
+load_and_preprocess_data <- function(file_path) {
+  data <- read_excel(file_path, sheet = 1)
+  data$Keyword <- as.factor(data$Keyword)
+  data$Filename <- as.factor(data$Filename)
+  
+  data <- data %>%
+    mutate(Category = case_when(
+      grepl("fac", Keyword, ignore.case = TRUE) ~ "fact",
+      grepl("fic", Keyword, ignore.case = TRUE) ~ "fiction",
+      TRUE ~ "other"
+    ))
+  
+  return(data)
+}
+
+rs_data <- load_and_preprocess_data("../ff_royal_society_words_found_context_separate.xlsx")
+s_data <- load_and_preprocess_data("../ff_spectator_words_found_context_separate.xlsx")
+```
+
+
+```{r summarizing}
+s_data %>% #spectator
+  group_by(Keyword) %>%
+  summarise(count = n(), .groups = 'drop') %>%
+  mutate(total = sum(count), percentage = round((count / total) * 100, 1))
+
+rs_data %>% #royal society
+  group_by(Keyword) %>%
+  summarise(count = n(), .groups = 'drop') %>%
+  mutate(total = sum(count), percentage = round((count / total) * 100, 1))
+```
+
+
+
+```{r}
+plot_word_distribution_by_year <- function(data, title, group_var = "Category") {
+  # Get the min and max years
+  min_year <- min(year(data$Date), na.rm = TRUE)
+  max_year <- max(year(data$Date), na.rm = TRUE)
+  
+  data %>%
+    mutate(Year = year(Date)) %>%
+    group_by(Year, !!sym(group_var)) %>%
+    summarise(count = n(), .groups = 'drop') %>%
+    ggplot(aes(x = Year, y = count, fill = !!sym(group_var))) +
+    geom_bar(stat = "identity", position = "dodge") +
+    theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
+    labs(title = title,
+         x = "Year",
+         y = "Count of words",
+         fill = group_var) +
+    scale_x_continuous(breaks = function(x) {
+      # Get default breaks
+      default_breaks <- scales::pretty_breaks()(x)
+      # Add min and max years if they're not already included
+      unique(sort(c(min_year, default_breaks, max_year)))
+    })
+}
+
+create_pie_chart <- function(data, title, group_var = "Category") {
+  summary_data <- data %>%
+    group_by(!!sym(group_var)) %>%
+    summarise(count = n(), .groups = 'drop') %>%
+    mutate(total_count = sum(count),
+           percentage = round((count / total_count) * 100, 2))
+  
+  ggplot(summary_data, aes(x = "", y = count, fill = !!sym(group_var))) +
+    geom_bar(stat = "identity", width = 1) +
+    coord_polar("y") +
+    theme_void() +
+    geom_text(aes(label = paste0(!!sym(group_var), ": ", count, " (", percentage, "%)")),
+              position = position_stack(vjust = 0.5)) +
+    labs(title = title,
+         fill = group_var)
+}
+```
+
+
+```{r, royal society}
+rs_data %>% group_by(Keyword) %>% summarise(count = n(), .groups = 'drop') %>% mutate(total = sum(count), percentage = round((count / total) * 100, 1))
+
+plot_word_distribution_by_year(rs_data, "Distribution of fact/fiction words in Royal Society documents by Year", "Keyword")
+plot_word_distribution_by_year(rs_data, "Distribution of fact/fiction words in Royal Society documents by Year", "Category")
+
+create_pie_chart(rs_data, "Distribution of Fact and Fiction Categories (Royal Society Data)", "Category")
+```
+
+```{r, spectator}
+#this omits the unclear dates out of analysis though since they cant parse as Dates :( 
+#Maybe fix later (preface esp)
+s_data <- s_data %>%
+  mutate(Date = ifelse(Date == "unclear", NA, Date),
+         Year = year(Date))
+
+s_data %>% group_by(Keyword) %>% summarise(count = n(), .groups = 'drop') %>% mutate(total = sum(count), percentage = round((count / total) * 100, 1))
+
+plot_word_distribution_by_year(s_data, "Distribution of fact/fiction words in Spectator documents by Year", "Keyword")
+plot_word_distribution_by_year(s_data, "Distribution of fact/fiction words in Spectator documents by Year", "Category")
+create_pie_chart(s_data, "Distribution of Keywords in Fact and Fiction Categories (Spectator Data)", "Category")
+create_pie_chart(s_data, "Distribution of Keywords in Fact and Fiction Categories (Spectator Data)", "Keyword")
+```
+```{r}
+#write rs_data and s_data into a csv (in case its useful)
+write.csv(rs_data, "rs_data.csv")
+write.csv(s_data, "s_data.csv")
+```
+

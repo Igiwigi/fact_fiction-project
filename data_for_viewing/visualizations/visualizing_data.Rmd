@@ -10,7 +10,7 @@ Cleaned up ver
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 library(pacman)
-p_load(ggplot2, dplyr, tidyr, readr, readxl, lubridate)
+p_load(ggplot2, dplyr, tidyr, readr, readxl, lubridate, gridExtra)
 ```
 
 ```{r}
@@ -95,10 +95,11 @@ create_pie_chart <- function(data, title, group_var = "Category") {
 ```{r, royal society}
 rs_data %>% group_by(Keyword) %>% summarise(count = n(), .groups = 'drop') %>% mutate(total = sum(count), percentage = round((count / total) * 100, 1))
 
-plot_word_distribution_by_year(rs_data, "Distribution of fact/fiction words in Royal Society documents by Year", "Keyword")
-plot_word_distribution_by_year(rs_data, "Distribution of fact/fiction words in Royal Society documents by Year", "Category")
+rs_plot1 <- plot_word_distribution_by_year(rs_data, "RS: Distribution by Year", "Keyword")
+rs_plot2 <- plot_word_distribution_by_year(rs_data, "RS: Distribution by Year", "Category")
+rs_plot3 <- create_pie_chart(rs_data, "RS: Distribution of Categories", "Category")
 
-create_pie_chart(rs_data, "Distribution of Fact and Fiction Categories (Royal Society Data)", "Category")
+rs_grid <- grid.arrange(rs_plot1, rs_plot2, rs_plot3, ncol = 2, top = "Royal Society Data")
 ```
 
 ```{r, spectator}
@@ -110,11 +111,15 @@ s_data <- s_data %>%
 
 s_data %>% group_by(Keyword) %>% summarise(count = n(), .groups = 'drop') %>% mutate(total = sum(count), percentage = round((count / total) * 100, 1))
 
-plot_word_distribution_by_year(s_data, "Distribution of fact/fiction words in Spectator documents by Year", "Keyword")
-plot_word_distribution_by_year(s_data, "Distribution of fact/fiction words in Spectator documents by Year", "Category")
-create_pie_chart(s_data, "Distribution of Keywords in Fact and Fiction Categories (Spectator Data)", "Category")
-create_pie_chart(s_data, "Distribution of Keywords in Fact and Fiction Categories (Spectator Data)", "Keyword")
+s_plot1 <- plot_word_distribution_by_year(s_data, "Spectator: Distr. by Year", "Keyword")
+s_plot2 <- plot_word_distribution_by_year(s_data, "Spectator: Distr. by Year", "Category")
+s_plot3 <- create_pie_chart(s_data, "Spectator: Distr. of Categories", "Category")
+s_plot4 <- create_pie_chart(s_data, "Spectator: Distr. of Keywords", "Keyword")
+
+s_grid <- grid.arrange(s_plot1, s_plot2, s_plot3, s_plot4, ncol = 2,
+                       top = "Spectator Data")
 ```
+
 ```{r}
 #write rs_data and s_data into a csv (in case its useful)
 write.csv(rs_data, "rs_data.csv")

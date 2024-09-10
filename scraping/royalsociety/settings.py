@@ -14,10 +14,10 @@ NEWSPIDER_MODULE = "royalsociety.spiders"
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-USER_AGENT = 'Mozilla/5.0 (iPad; CPU OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148'
+USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36'
 
 # Obey robots.txt rules
-ROBOTSTXT_OBEY = False
+ROBOTSTXT_OBEY = False #for now
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32
@@ -25,7 +25,9 @@ ROBOTSTXT_OBEY = False
 # Configure a delay for requests for the same website (default: 0)
 # See https://docs.scrapy.org/en/latest/topics/settings.html#download-delay
 # See also autothrottle settings and docs
-DOWNLOAD_DELAY = 2
+CONCURRENT_REQUESTS = 64  # Default is 16
+CONCURRENT_REQUESTS_PER_DOMAIN = 32  # Default is 8
+#DOWNLOAD_DELAY = 1  # Reduce delay to increase request rate
 # The download delay setting will honor only one of:
 #CONCURRENT_REQUESTS_PER_DOMAIN = 16
 #CONCURRENT_REQUESTS_PER_IP = 16
@@ -54,25 +56,14 @@ DOWNLOAD_DELAY = 2
 #RETRY_HTTP_CODES = [500, 503, 504, 400, 403, 404, 408]
 
 
-FAKEUSERAGENT_PROVIDERS = [
-    'scrapy_fake_useragent.providers.FakeUserAgentProvider',  # This is the first provider we'll try
-    'scrapy_fake_useragent.providers.FakerProvider',  # If FakeUserAgentProvider fails, we'll use faker to generate a user-agent string for us
-    'scrapy_fake_useragent.providers.FixedUserAgentProvider',  # Fall back to USER_AGENT value
-]
+#FAKEUSERAGENT_PROVIDERS = [
+#    'scrapy_fake_useragent.providers.FakeUserAgentProvider',  # This is the first provider we'll try
+#    'scrapy_fake_useragent.providers.FakerProvider',  # If FakeUserAgentProvider fails, we'll use faker to generate a user-agent string for us
+#    'scrapy_fake_useragent.providers.FixedUserAgentProvider',  # Fall back to USER_AGENT value
+#]
 
-USER_AGENT = 'Mozilla/5.0 (iPad; CPU OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148'
-
-# ROTATING_PROXY_LIST = [
-    # 'http://45.65.138.48:999',
-    # 'http://78.28.152.111:80',
-    # 'http://118.70.12.171:53281',
-    # 'http://197.243.20.178:80',
-# ]
-
-
-## Enable The Proxy Middleware In Your Downloader Middlewares
 DOWNLOADER_MIDDLEWARES = {
-    "royalsociety.middlewares.AntiBanMiddleware": 543
+   "royalsociety.middlewares.SeleniumBaseMiddleware": 543,
 }
 
 # Enable or disable extensions
@@ -87,6 +78,10 @@ ITEM_PIPELINES = {
     "royalsociety.pipelines.RoyalsocietyPipeline": 300,
     'scrapy.pipelines.files.FilesPipeline': 1,
 }
+
+#LOG_LEVEL = 'WARNING'
+#LOG_LEVEL = 'INFO'
+
 
 FILES_STORE = r"C:\Users\Igiba\Documents\scraping\scraping\royalsociety\pdfs"
 

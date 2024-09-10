@@ -4,13 +4,16 @@ author: "Ingrid Backman"
 date: "2024-04-16"
 output: html_document
 ---
+```{r}
+test <- read.csv("combined_run2.1.csv")
+```
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-ROYAL SOCIETY
-```{r}
+```{r 1st run}
 #cleaning scraped data royal society to make sure theres no duplicates
 data <- read.csv("scraped_royalsociety_for_now.csv")
 original_rows <- nrow(data)
@@ -29,23 +32,91 @@ print(rows_removed)
 
 ```
 
-```{r}
-#adding a new column to royal society csv to match the downloaded pdf file with the original (just to make it easier to match the filenames later)
-file_path <- "royalsociety_files.csv"
-royal_society <- read.csv(file_path, stringsAsFactors = FALSE)
+```{r 2nd run}
+#combining and cleaning data together from the 2nd run (rstb domain of royal society)
+library(dplyr)
 
-transform_to_filename <- function(identifier) {
-  clean_identifier <- gsub("^10.1098/", "", identifier)
-  filename <- gsub("\\.", "_", clean_identifier)
-  filename <- paste0(filename, ".pdf")
-  return(filename)
-}
-royal_society$pdf_filename <- sapply(royal_society$identifier, transform_to_filename)
-write.csv(royal_society, file = file_path, row.names = FALSE)
+combined_run_now <- read.csv("combined_run2.csv")
+file_list <- list.files(pattern = "royalsociety2ndrun.*\\.csv$|royalsociety3.*\\.csv$")
+
+new_combined_df <- lapply(file_list, read.csv) %>%
+  bind_rows() %>%
+  distinct(og_url, .keep_all = TRUE) %>%
+  filter(!(author == "author" | rowSums(is.na(.)) == ncol(.)))
+
+new_combined_df <- new_combined_df[, colSums(is.na(new_combined_df)) != nrow(new_combined_df)]
+
+final_combined_df <- bind_rows(combined_run_now, new_combined_df) %>%
+  distinct(identifier, .keep_all = TRUE)
+
+final_combined_df <- final_combined_df[, colSums(is.na(final_combined_df)) != nrow(final_combined_df)]
+
+head(final_combined_df)
+
+write.csv(final_combined_df, "combined_run2.1.csv", row.names = FALSE)
 
 ```
 
-SPECTATOR
+
+```{r 2nd run}
+write.csv(combined_df, "combined_run2.csv", row.names = FALSE)
+
+```
+
+
+```{r 2nd run}
+library(dplyr)
+visited_urls_df <- read.csv("visited_urls.csv")
+
+repeat_count <- visited_urls_df %>%
+  group_by_all() %>% 
+  filter(n() > 1) %>% 
+  nrow() 
+
+print(paste("Number of repeated rows:", repeat_count))
+#thats way too many repeated rows...
+```
+
+
+```{r 2nd run}
+library(dplyr)
+restricted_urls_df <- read.csv("restricted_urls.csv")
+
+restricted_urls_df <- restricted_urls_df %>%
+  group_by_all() %>% 
+  unique()
+
+write.csv(restricted_urls_df, "restricted_urls.csv", row.names = FALSE)
+```
+
+
+```{r 2nd run}
+#making a new visited urls file
+library(dplyr)
+
+final_combined_df <- read.csv("combined_run2.1.csv")
+restricted_urls_df <- read.csv("restricted_urls.csv", header = FALSE, col.names = "og_url")
+
+visited_urls_new_df <- final_combined_df %>%
+  select(og_url) %>%
+  distinct()
+
+restricted_urls_new_df <- restricted_urls_df %>%
+  select(og_url) %>%
+  distinct()
+
+all_visited_urls_df <- bind_rows(visited_urls_new_df, restricted_urls_new_df) %>%
+  distinct()
+
+write.csv(all_visited_urls_df, "visited_urls.csv", row.names = FALSE)
+
+head(all_visited_urls_df)
+
+
+```
+
+
+
 ```{r spectator1}
 #quick ChatGPT nonsense to clean and split the spectator text file at https://www.gutenberg.org/files/12030/12030-h/12030-h.htm
 

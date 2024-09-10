@@ -8,7 +8,6 @@ from scrapy import signals
 # useful for handling different item types with a single interface
 from itemadapter import is_item, ItemAdapter
 import undetected_chromedriver as uc
-import cloudscraper
 from scrapy.http import HtmlResponse
 
 class RoyalsocietySpiderMiddleware:
@@ -57,91 +56,79 @@ class RoyalsocietySpiderMiddleware:
     def spider_opened(self, spider):
         spider.logger.info("Spider opened: %s" % spider.name)
 
+import logging
+from scrapy.http import HtmlResponse
+from seleniumbase import SB
+from urllib.parse import urlparse, urlunparse
+import os
+import re
+from scrapy.exceptions import CloseSpider
 
-class RoyalsocietyDownloaderMiddleware:
-    # Not all methods need to be defined. If a method is not defined,
-    # scrapy acts as if the downloader middleware does not modify the
-    # passed objects.
-
-    @classmethod
-    def from_crawler(cls, crawler):
-        # This method is used by Scrapy to create your spiders.
-        s = cls()
-        crawler.signals.connect(s.spider_opened, signal=signals.spider_opened)
-        return s
-
-    def process_request(self, request, spider):
-        # Called for each request that goes through the downloader
-        # middleware.
-
-        # Must either:
-        # - return None: continue processing this request
-        # - or return a Response object
-        # - or return a Request object
-        # - or raise IgnoreRequest: process_exception() methods of
-        #   installed downloader middleware will be called
-        return None
-
-    def process_response(self, request, response, spider):
-        # Called with the response returned from the downloader.
-
-        # Must either;
-        # - return a Response object
-        # - return a Request object
-        # - or raise IgnoreRequest
-        return response
-
-    def process_exception(self, request, exception, spider):
-        # Called when a download handler or a process_request()
-        # (from other downloader middleware) raises an exception.
-
-        # Must either:
-        # - return None: continue processing this exception
-        # - return a Response object: stops process_exception() chain
-        # - return a Request object: stops process_exception() chain
-        pass
-
-    def spider_opened(self, spider):
-        spider.logger.info("Spider opened: %s" % spider.name)
-
-class SeleniumMiddleWare(object):
-
+class SeleniumBaseMiddleware:
     def __init__(self):
-        path = "G:/Downloads/chromedriver.exe"
-        options = uc.ChromeOptions()
-        options.headless=True
-        chrome_prefs = {}
-        options.experimental_options["prefs"] = chrome_prefs
-        chrome_prefs["profile.default_content_settings"] = {"images": 2}
-        chrome_prefs["profile.managed_default_content_settings"] = {"images": 2}
-        #self.driver = uc.Chrome(options=options)
-        self.driver=  uc.Chrome(options= options, use_subprocess=True, driver_executable_path = path)
-       
+        self.logger = logging.getLogger(__name__)
+        self.logger.setLevel(logging.INFO)
+        self.visited_urls = set()
+        self.load_visited_urls()
+        self.consecutive_non_doi = 0
+        self.max_consecutive_non_doi = 200  #just to make sure it stops eventually when it runs out of doi pages (incase it doesnt, unclear)
+
+    def normalize_url(self, url):
+        """Normalize the URL by removing the fragment part."""
+        parsed_url = urlparse(url)
+        normalized_url = urlunparse(parsed_url._replace(fragment=''))
+        return normalized_url
+
+    def verify_success(self, sb):
+        sb.assert_element('img[alt="logo"][src="/specs/products/rsj/releasedAssets/images/logo-4624b65b73c2070723979895b2fa46d3.svg"]', timeout=4)
+
+    def load_visited_urls(self):
+        if os.path.exists('visited_urls.csv'):
+            with open('visited_urls.csv', 'r') as f:
+                self.logger.info("Opening the visited URLs CSV file.")
+                for line in f:
+                    url = line.strip().strip('"')
+                    self.visited_urls.add(url)
+            self.logger.info(f"Total number of visited URLs loaded: {len(self.visited_urls)}")
+        else:
+            self.logger.info("No visited URLs file found. Starting with an empty set.")
+
+    def is_doi_page(self, url):
+        """Check if the URL is a DOI page."""
+        return bool(re.search(r'/doi/10\.1098/rstb', url))
 
     def process_request(self, request, spider):
-        try:
-            self.driver.get(request.url)
-        except:
-            pass
-        content = self.driver.page_source
-        self.driver.quit()
+            normalized_url = self.normalize_url(request.url)
 
-        return HtmlResponse(request.url, encoding='utf-8', body=content, request=request)
+            if normalized_url in self.visited_urls:
+                self.logger.info(f"Skipping already visited DOI (from some other run): {normalized_url}")
+                return #is empty return ok?
 
-    def process_response(self, request, response, spider):
-        return response
-        
-        
-class AntiBanMiddleware:
-    cloudflare_scraper = cloudscraper.create_scraper()
+            with SB(uc=True, headless2=True) as sb:
+                sb.uc_open_with_reconnect(request.url, 3) #slower but maybe reliable
+                try:
+                    self.verify_success(sb)
+                except Exception:
+                    if sb.is_element_visible('input[value*="Verify"]'):
+                        sb.uc_click('input[value*="Verify"]')
+                    elif sb.is_element_visible('iframe'):
+                        sb.uc_gui_click_captcha()
+                    
+                    try:
+                        self.verify_success(sb)
+                    except Exception as e:
+                        raise Exception("Page verification failed after CAPTCHA handling!") from e
 
-    def process_response(self, request, response, spider):
-        request_url = request.url
-        response_status = response.status
-        if response_status not in (403, 503):
-            return response
+                source = sb.get_page_source()
 
-        spider.logger.info("Cloudflare detected. Using cloudscraper on URL: %s", request_url)
-        cflare_response = self.cloudflare_scraper.get(request_url)
-        cflare_res_transformed = HtmlResponse(url=request_url, body=cflare_response.text, encoding='utf-8')
-        return cflare_res_transformed
+            if self.is_doi_page(normalized_url):
+                self.consecutive_non_doi = 0
+            else:
+                self.consecutive_non_doi += 1
+                if self.consecutive_non_doi >= self.max_consecutive_non_doi:
+                    self.logger.info(f"Reached {self.max_consecutive_non_doi} consecutive non-DOI pages. Stopping the spider.")
+                    raise CloseSpider(f"Reached {self.max_consecutive_non_doi} consecutive non-DOI pages") #doesnt seem to actually stop the scraping
+
+            return HtmlResponse(normalized_url, encoding='utf-8', body=source, request=request)
+
+

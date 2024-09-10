@@ -21,7 +21,7 @@ class MyItem(scrapy.Item):
 class RoyalSocietySpider(CrawlSpider):
     name = 'royalsociety_spider'
     allowed_domains = ['royalsocietypublishing.org']
-    start_urls = ["https://royalsocietypublishing.org/loi/rsta/group/c1600.d1660.y1665"] #doing rsta now
+    start_urls = ["https://royalsocietypublishing.org/loi/rsta/group/c1800.d1880.y1887"] #doing rsta now
     custom_settings = {
         'FEEDS': {'royalsociety_rsta.csv': {'format': 'csv'}}
     }
@@ -114,6 +114,6 @@ class RoyalSocietySpider(CrawlSpider):
     def append_item_to_csv(self, item):
         """Appends to a dataframe so I can rest assured the data *is* somewhere even if the item pipeline doesn't work."""
         df = pd.DataFrame([item])
-        file_exists = os.path.isfile('royalsociety2ndrun_backup.csv')
-        df.to_csv('royalsociety2ndrun_backup.csv', mode='a', header=not file_exists, index=False)
+        file_exists = os.path.isfile('royalsocietyrsta_backup.csv')
+        df.to_csv('royalsocietyrsta_backup.csv', mode='a', header=not file_exists, index=False)
 

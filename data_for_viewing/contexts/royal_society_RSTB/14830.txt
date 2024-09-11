@@ -1,0 +1,25 @@
+x=1/4, since (1 — £)4/4 < 1. Hence (x*, y*) = (1/4, 0) is not a mutants. Continuity of the fitness function then implies that
+BNE, and there is thus a discontinuity at e = 0: while residents any mutant that is not a behavioural alike to fitness-
+may use the mixed strategy 1/4 when there are no mutants maximizers obtains a strictly lower equilibrium fitness than
+around, they no longer do so as soon as the mutant preference the fitness-maximizers.
+function at hand is present in the population. Ok & Vega-Redondo [19] adopt similar topological prop-
+The potential existence of multiple equilibria together erties, and they show that fitness-maximizers are robust to
+with potential discontinuities in the set of BNE introduces a the entry of non-fitness-maximizers even in finite but large
+sharp contrast with the linearity in ¢ of the score functions enough populations. By contrast, in small populations the
+under strategy evolution (2.4) and under preference evolution entry of mutants makes the resident fitness-maximizers
+under complete information (3.12), which implied that analy- shift their strategy away from any strategy they would have
+sis of the score function at e =0 was sufficient to check played in the absence of mutants in many fitness games,
+evolutionary stability (recall results 2.6 and 3.4). In spite of and the result no longer holds (this is reminiscent of the
+these challenges, there are conditions that render general fact that a strategy that is ES in infinite populations is not
+analysis possible, even for settings with multiple equilibria. necessarily ES in finite populations [29]).
+In particular, several authors have shown that the fitness- Why should evolutionary biologists take interest in result
+maximizing preference function is ES. 3.13? After all, the prediction is not surprising: under incomplete
+Prior to stating one such result, one additional issue needs information fitness-maximizers prevail in a panmictic setting. I
+to be addressed, however. Recall that the goal here is to mini- would argue that the result is valuable because it solves a
+mally constrain the set of possible preference functions, @. In dilemma inherent to fitness games with multiple ESSs.
+particular, © contains several functions that give rise to the Indeed, for such fitness games, analysis under the assumption
+same strategy choices (recall remark 3.9), and hence that in gen- that selection operates at the level of strategies delivers no
+eral there will be no preference function that is ESI against all clear prediction. By contrast, analysis under the assumption
+the other preference functions (since residents must obtain a that selection operates at the level of preferences predicts that
+strictly higher average fitness than mutants for it to be ES, see one particular preference function stands out as being viable
+definition 3.11). The following definition of behavioural alikes from an evolutionary perspective.

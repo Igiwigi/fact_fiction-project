@@ -1,0 +1,24 @@
+When comparing individual algorithms, partial corre-
+lation (pls implementation) and clr_mi attain the highest
+average rank across gold standards of all algorithms (figure
+3b). Except for the ChIP-seq and literature-based gold stan-
+dards, pls-based partial correlation ranks top for each gold
+standard. The two algorithms clr_mi and ARACNE with
+cut-off parameter 7= 0.5, both based on mutual information
+but using additional strategies for eliminating indirect links,
+perform similarly to pcor_pls. Therefore, all three top-per-
+forming algorithms employ a strategy for pruning indirect
+links. On the other hand, being able to detect only linear
+relationships does not impact performance strongly. This is
+indicated by the fact that partial correlation is among the
+best-performing algorithms and that Pearson correlation
+and mutual information attain a similar average rank. We
+concluded that reconstruction success of an algorithm is
+determined more by the pruning strategy used than by
+which measure is used to score co-expression patterns.
+
+Somewhat surprisingly, the two implementations for par-
+tial correlation performed very differently, with the pls
+implementation ranking top, although this implementation
+has been shown to have the highest error for estimating the
+partial correlation matrix on synthetic data [18].

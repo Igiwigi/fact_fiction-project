@@ -1,0 +1,25 @@
+number of cases averted is large during those times. (Online version in colour.) z=
+yy
+‘counterfactual’. We demonstrate the ability of our method to could think of our complete graph as constructing a causal >
+factor away cross-epidemic variation, which can lead to coun- diagram from a compartmental model. However, Ackley =
+terintuitive results, such as uncertainty intervals that suggest et al. seem primarily interested in the other direction: convert- = &
+that an intervention programmed to have only beneficial ing causal diagrams to compartmental models. Cook et al. =
+effects instead has some small chance of having a negative take a different approach to the same problem we present >
+effect. We further show our method is tractable when applied here, replacing ‘events’ with ‘resistance to accumulated infec-
+to many familiar models and control strategies and have tion’ as their random component [19]. As stated in their 3
+implemented software to aid in its use in common cases. paper, however, this approach does not exactly preserve the Ss
+This ‘single-world’ approach of matching controlled impact of interventions (though it is a good approximation
+epidemic simulations with their exact uncontrolled counter- under some assumptions) and cannot be used to model cer-
+factual answers a subtly different question compared with tain interventions. Our method preserves the impact of
+comparisons between independently simulated sets of epi- interventions and supports a wider class of control measures
+demics with and without control. The single-world method (e.g. ring vaccination, electronic supplementary material, SC).
+estimates how many cases we expect to be prevented by using a Here, we focus on a common class of discrete-time sto-
+control measure, while the independent simulation approach chastic state-based models to illustrate our method, but the
+estimates the expected difference in size between two different epi- diversity of models used in practice is far greater. While the
+demics, one with and one without the control measure. To put it in general idea presented here could be applied to any epidemic
+more concrete terms, an example of the first type of question model, it is the efficient pruning of possible states and events
+is, ‘How many cases of influenza will we prevent next year if that makes this approach tractable. We expect our approach
+we increase vaccination rates by 15%?’, while an example of to extend trivially to certain classes of models (e.g. network
+the latter is, ‘How many fewer influenza cases do we expect models, simple agent-based models), with effort to others
+next year compared with last if vaccination increases by (e.g. discretizing continuous time approaches), and not at
+15%?’. Both are important public health questions, but all for certain classes of complex models (e.g. agent-based

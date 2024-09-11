@@ -1,0 +1,25 @@
+(b) Step 2: Separate trials depending on neuron activity state at the time of stimulation and compare with control
+non-stimulated trials in the same state.
+he same analysis as in (a) with trials separated depending on whether the stimulus arrived when AVA was in a High
+activity state (i) or in a Low activity state (ii). Kato et al. [20] and Gordus et al. [58] showed that AVA activity is bi-stable (see
+Material and methods for state classification). Colour bar in (a) applies to these panels.
+his analysis revealed that if AVA is in a High activity state at the time of IAA-off, no response is observed (i). This is
+probably due to AVA’s bi-stability: if AVA is already in a High state, it cannot rise further upon IAA-off. By contrast, if
+AVA is in a Low activity state pre-stimulus (ii), activity rises upon [AA-off much more compared with control buffer-off,
+because rises are observed in a higher fraction of animals.
+his analysis is crucial, because AVA Low controls also show, on average, a spontaneous rise on the same timescale as do
+stimulated animals. We confirmed that AVA rises upon control buffer-off were indeed spontaneous, i.e. not induced by
+pressure change upon buffer switch, as the same change is observed during the pre-stimulus periods lacking buffer switches
+(data not shown). Furthermore, we can conclude that AVA response is, in fact, not very variable once pre-stimulus state is
+taken into account (80% responders in b(ii), versus 50% responders in a). These data lead to a new interpretation of
+IAA-off responses: High-state AVA does not appear to respond to this stimulus, while Low-state AVA responds reliably.
+
+
+
+(c) Step 3: Convert activity changes to state probabilities to reveal how the stimulus affects behavioural state.
+
+Many interneurons have been characterized to belong to either a forward or reverse command state ensemble (see the
+main text). For these neurons, the instantaneous brain-wide motor command state can be read out from the neuron’s activity
+in a binary manner: for AVA, Rise and High correspond to reverse command state and Fall and Low correspond to forward
+command state [20]. For the AVA Low pre-stimulus trials, we binarized AVA activity according to these command states
+(Material and methods) and plotted the instantaneous probability of Rise + High states across trials (i). Panels (ii) and (iii)

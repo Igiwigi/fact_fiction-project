@@ -1,0 +1,25 @@
+HRF shape, including approaches where estimation of the
+basis function parameters is jointly optimized with esti-
+mation of brain activity [278,279]. However, the results
+have been mixed (see [280]), which might reflect variability
+across studies in the tasks, the use of relatively small
+sample sizes and biased selection of participants (particu-
+larly when older volunteers are more healthy than
+average). The recent study by West et al. [280] addressed
+these problems by using a large, population-derived cohort
+called Cam-CAN, in which a simple sensorimotor task was
+optimized for detection of HRF shape [281]. This study
+found extensive effects of age on the HRE, particularly its
+latency, in many brain regions, despite the fact that there
+were no performance differences between young and old
+adults (although latencies of neuronal responses were not
+directly measured).
+
+(ii) Dynamic causal modelling
+
+Dynamic causal modelling (DCM) is a model-based approach
+to studying brain connectivity [282], which includes a bio-
+physical model of the BOLD response [267,268]. DCM uses
+a Bayesian framework to simultaneously estimate parameters
+capturing neural activity (and connectivity) and parameters
+capturing the vascular mapping of that activity to the

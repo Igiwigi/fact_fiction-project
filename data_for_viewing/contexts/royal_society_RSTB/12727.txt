@@ -1,0 +1,25 @@
+phenotypic trait, the change in the mean of the trait from one genetic covariance between a trait and fitness is thus more typi-
+time point to another can be written as the sum of two com- cally considered in relation to predicting change from one
+ponents: the first owing to variation in fitness, which is the generation to the next, because this is a larger question in
+effect of selection changing the contributions from individuals which both evolutionary biologists and animal breeders are
+of different trait values, and the second owing to changes in the more likely to be interested. However, doing so is a much
+expression of the trait over the time-step (which may be for var- greater challenge for studies of natural systems experiencing
+ious reasons, such as imperfect transmission or phenotypic natural selection on multivariate phenotypes and environ- :
+plasticity) [1,2,6,7]. Although the Price equation is usually con- mental heterogeneity, not least because it requires analysis of | 5
+sidered in the context of describing change across generations, it individuals’ total lifetime fitness. Here, we consider only the = =
+is also equally valid for considering change within a generation, contribution of a single episode of selection to phenotypic >
+for example owing to variation in survival—and even just to and genetic change, and hence the application of the Price Ss
+variation in survival of a particular life-stage, or episode of equation to analysing within-generation change. Doing so is = =:
+selection [2]. This application to a single episode of selection possible because of the convenient fact that the Price equation = S'
+is obviously considerably simpler to analyse as there is no applies to any time-frame, and so does not require consider- >
+‘transmission phase’. The Price equation then reduces to its ation of total lifetime fitness: we are not attempting a full =
+first term, and simply asks: how does variation in survival of description of observed cross-generational changes in pheno- = &
+a particular episode of selection change the mean of a trait? For- type. This is not a new point, but it is one that maybe often =
+mally, the first term of the Price equation thus specifies the gets overlooked in the ambition to consider total evolutio- >
+change in the mean of the trait, AZ, owing to selection as nary change. We show here that it is challenging enough to N
+Az = Sp = op(z,v), (1.1) address the relatively modest aim of considering only within- s
+generation change owing to an episode of viability selection a
+where Sp is a selection differential and op(z,w) is the covariance of a single trait.
+between the phenotypic trait z and relative fitness w [1] The process of estimating the additive genetic covariance
+(we use a subscript P here to denote phenotypic values, to can also provide useful insights into the operation of selection
+distinguish from what follows). via a component of fitness [4,11]. We assume we are dealing

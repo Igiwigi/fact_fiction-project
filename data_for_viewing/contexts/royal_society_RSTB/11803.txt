@@ -1,0 +1,25 @@
+where pj is the presence weight of clade j in cell i and pin is
+the presence weight of member species m in cell i.
+
+(vi) Conservation optimization
+
+We used forward stepwise selection to identify future conserva-
+tion priorities. We also tried backward stepwise elimination
+and it yielded nearly identical results. Our algorithm begins
+
+(iv) Land conservation status with the current conservation status landscape (one minus the
+While most prior phylodiversity conservation studies have trea- scores shown in figure 2b), and calculates the hypothetical mar-
+ted land conservation status as a binary variable, levels of ginal value of increasing each cell’s conservation status from its
+biodiversity protection in fact vary on a gradient from unpro- current level to 1 (full protection, e.g. a national park), using
+tected private land to highly protected public land, with many the following equation:
+
+intermediate designations offering partial protection. We there- h
+
+fore developed a continuous score varying from 0 to 1, which MV; = Ya(s(6 + ric = si) a) BG, »), (2.1)
+aims to represent how the long-term security of resident biodi- fl ji
+
+versity varies by land management class. These conservation
+status scores were assigned at the parcel level using spatial data-
+sets on protected areas [48], conservation easements [49] and
+wilderness areas [50], as well as military and tribal lands. Parcels
+were grouped into categories based on ownership and manage-

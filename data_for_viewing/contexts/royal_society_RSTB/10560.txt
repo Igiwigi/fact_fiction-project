@@ -1,0 +1,24 @@
+statistics, we simulated learning of a ‘community structure’
+sequence that cannot be parsed based on transition probability
+or joint frequency [5,19]. The sequence was generated via a
+random walk on a graph (figure 3b) with three densely inter-
+connected ‘communities’ of nodes [41]. The walk tends to
+stay in a community for a while before transitioning to the
+next, but any individual node has an equal probability of tran-
+sitioning to exactly four other nodes. We constrained the
+sequences such that the observed joint frequencies were exactly
+equated in each epoch (as opposed to equated on average).
+Thus, transition probabilities did not provide information
+about the location of community boundaries. To learn these
+boundaries, it was necessary to pick up on the fact that
+nodes in the same community were connected to overlapping
+sets of other nodes, whereas nodes from different communities
+were not.
+
+The only change to the architecture and parameters for this
+simulation was the addition of seven units to EC;,, and EC,,,; to
+accommodate the 15 nodes in the graph (versus the eight
+paired items). We exposed the model to sequences in the
+same way as for the pair structure paradigm, with two items
+presented at a time in a moving window and the previous
+

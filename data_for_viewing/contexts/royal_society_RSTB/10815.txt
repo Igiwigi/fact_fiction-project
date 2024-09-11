@@ -1,0 +1,25 @@
+heterosynaptic plasticity. Intuitively, the measured synaptic
+weights become ‘sticky’ and are always attracted back
+to their momentary stable state, ie. weak or strong. This
+prediction requires future experimental clarification.
+
+The path towards saturation of synaptic weights during a pair-
+ing experiment (figure 8) is vital to building better plasticity
+models. Virtually any information which helps theorists to
+
+constrain how the synaptic weight increases would be help-
+ful. Importantly, this also includes any information about
+conditions (or experimental protocols) which do not induce
+plasticity, despite the fact that either the presynaptic or the
+postsynaptic neuron or both have been activated.
+
+11. Condusion
+
+One of the most striking differences between plasticity models
+and experimental data concerns their timescales. Hebbian plas-
+ticity can be induced within seconds to minutes [45,68,69,87].
+In simulated network models, a similarly fast form of Hebbian
+plasticity leads to runaway activity within seconds, unless
+Hebbian plasticity is complemented with RCPs. Here, ‘rapid’
+means that these changes need to take effect after seconds or
+at most a few minutes [26]. This, however, is much faster

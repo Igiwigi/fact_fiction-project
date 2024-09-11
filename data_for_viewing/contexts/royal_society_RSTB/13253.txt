@@ -1,0 +1,25 @@
+This points to an intrinsic interrelation of filopodia effects on was not due to an overall embryonic delay (data not shown). =
+tip selection speed with the quality of local activating signal To characterize the generality of this effect, we quantified = 5!
+in their environment. the pErk pixel values within a rectangular region along the = &
+To provide the first experimental validation of these pre- DA in ImageJ. The left side of the rectangle was aligned to =
+dictions in vivo we analysed tip selection in the dorsal aorta the anterior side of the first patch of bright pErk staining  &
+(DA) of zebrafish embryos. We chose developing zebrafish seen in the DA for all of our data at 22 hpf (our highest data =
+in particular because they are (i) easily amenable and well- timepoint, N= 5, control 1 = 46, LatB n = 43). We then created >!
+validated for live-imaging angiogenesis being transparent a plot profile of the rectangle in Image] to generate a list of =~
+during development [71] and (ii) sprouting of ISVs from pErk pixel brightness values along the anterior-posterior s
+the DA is a highly stereotypical process with simple trackable axis. When we averaged the values of the pErk brightness pro- a
+branch initiations arising from a single pre-existing DA vessel files over all embryos, we found that the control had a more
+[47], very similar to the simulation set-up used above. spatially periodic appearance of pErk brightness along the
+First, using high spatiotemporal resolution imaging of DA (figure 2f, left subpanel). This is descriptive of the fact
+emerging tip cells in live zebrafish embryos, we confirmed that ECs in the DA at 22 hpf already have regular differential
+our time-ordered argument to be correct, as filopodia were activation patterns corresponding to ISV locations across the
+observed on ECs residing in the DA at timepoints prior to tip fish in the control group. In the LatB condition, there were
+cell selection and ISV branching (figure 2d). We then used still some elements of periodicity, but much of it is lost when
+low-dose latrunculin B (LatB) from these early timepoints averaging across fish and experiments. This suggests that
+to specifically disrupt filopodia extension by perturbing LatB impinges on the ability of the cells to reliably create a
+F-actin nucleation at filopodia (but not other actin nucleation differential pattern in Vegfr activations.
+sites) [27,44]. A dose-response study previously found that To quantify this difference in spatial periodicity, we
+low doses of LatB, within the range of 0.08 and 0.1 pg mI", employed the Lomb-Scargle Periodogram—which is a com-
+specifically disrupt filopodia in zebrafish ISVs, without monly used signal processing algorithm used to assess the
+impacting cortical actin, cell shape changes or causing the presence of periodic modes [74]. This algorithm works essen-
+myocardial embryonic lethal issues that arise with higher tially by checking how well sine waves of a given frequency

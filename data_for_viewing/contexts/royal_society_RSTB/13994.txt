@@ -1,0 +1,25 @@
+
+(f) Association mapping using real data type cannot be ruled out, one should also keep in mind that
+To test associations with actual phenotypic values, we these datasets had high FPR for some simulations, especially
+measured growth for all our isolates on 10 mM copper sulfate the sake dataset. In the other datasets, the CUP1-2 gene was
+and normalized these sizes by growth on the standard YPD significantly associated with the phenotype, with no other
+
+medium at 30°C. These measures are a proxy for the fitness significant association.
+
+
+The score of association is an indicator of the ease with as this kinship will introduce a bias in allele frequencies which
+
+which a dataset is able to detect the causal variant. Here, will also lead to false associations, as we have observed for
+we see that the 1011 strains dataset shows the lowest p-value the sake and the European wine subpopulations. In fact,
+(4.9 x 10-"), followed by the European wine dataset (6.03 x additional simulations would be very useful in order to test
+10-1’) and the sampled diversity dataset (1.04 x 10). These more precisely for other variables that could have an impact
+results are consistent with our simulations, as the 1011 strains on the results of the GWAS, such as genetic diversity, variation
+and the sampled diversity datasets were the ones that in heritability and size effect distribution.
+
+showed the best results. The detection of the CUP1-2 gene for The results of our associations vary considerably from one
+the European wine subpopulation is attributed to the evol- cohort to another, allowing us to evaluate the limits of GWAS
+utionary history of this population, and its link with human and present what would constitute an ideal dataset for associ-
+activity. Indeed, in that case, the acquisition of resistance to ation studies. For mapping a Mendelian trait, the sampled
+copper sulfate is certainly reflecting convergent evolution due diversity set is the best, with the fewest false positives, and is
+to human selection for industrial processes [28], thus emphasiz- followed by the total dataset with 1011 strains. When the trait
+ing the fact that dataset composition also depends on the is complex, the entire population has the advantage of map-

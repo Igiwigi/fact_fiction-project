@@ -1,0 +1,25 @@
+
+obtained by differentiation of stem cells. The CellNet plat- Although CellNet currently is among the most powerful and
+form is publicly available and easy to use also by scientists practical methods to evaluate genome-wide data for similarities
+without a specific background in bioinformatics. with specific tissues, it is important to be aware of its limitations.
+
+First, the tissue training datasets used in CellNet were generated
+with whole-tissue extracts, which may lead to confounding
+
+(b) Example of application effects due to their multicellular composition. The degree of
+Genome-wide expression data of ESCs/hiPSCs and HLCs these confounding effects depends on the individual tissues.
+as described above (figure 2) were analysed by the In the case of liver, the abundance of hepatocyte mRNA largely
+CellNet algorithm [22]. The ESC-GRN status was close to 1.0 overwhelms mRNA from non-parenchymal cells, owing to the
+for the stem cells of each of the three centres, while a low fact that hepatocytes represent the largest cell component of
+ESC-GRN status of approximately 0.2 was obtained the liver (approx. 70%) and that hepatocytes contain approxi-
+for freshly isolated PHHs and for human liver tissue mately four times more mRNA per cell than non-parenchymal
+(figure 6a). An interesting observation was that the ESC-GRN cells [13,41]. Hence, using a whole-liver expression profile is a
+status of HLCs did not decrease to the level of PHHs, with the robust reference for assessing hepatocyte differentiation in
+best result obtained by the protocol of centre 2 (CEL). The stem cells. Second, CellNet is limited to the cells/tissues that
+
+GRN status for liver showed an increase from approximately were included in the training datasets, and the normalization
+
+
+(a) (b)
+
+-log(p-value) activation z-score JN S|

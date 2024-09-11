@@ -1,0 +1,25 @@
+nizable by the PDA is a proper subset of those stand as psychologists, biologists or neuroscientists
+captured by the Turing machine. In fact, a PDA can [22]. Indeed, as our understanding of neural compu-
+recognize the A”B” language discussed earlier, which tation in vertebrates progresses, it seems likely that
+is beyond an FSA. Thus, we now have a nested set different hierarchies will arise, and prove to be more
+of patterns, enclosed one within the other like Russian useful. Until such progress is made, however, FLT
+dolls. A second intermediate form of automaton is seems to provide the best theoretical starting point, and
+called a linear-bounded automaton and _ includes indeed has no obvious competition.
+
+both the FSA and PDA within it. Figure 2 provides One might object that some models of neural
+an illustration of this nested hierarchy. computation, especially connectionist networks, offer
+The Chomsky hierarchy provides a broad framework just such an alternative framework. This is not true.
+
+for discussing the computational power of automata, In fact, neural networks are automata, like any
+universally accepted in this role in theoretical computer other well-defined computational system. Indeed,
+
+Phil. Trans. R. Soc. B (2012)
+
+
+Review. AGL meets FLT W. T. Fitch and A. D. Friederici 1937
+
+surprisingly simple recurrent neural networks can be of ‘understanding’ the signals that are fed to it. These
+shown to be Turing-equivalent in principle [23] systems are purely syntactic and have no semantics.
+(although programming such networks to do some of — Thus, ‘language’ in FLT is missing a substantial com-
+the tasks they could perform in theory has been diffi- ponent of natural language (the central component of
+cult or impossible in practice). Other classes of | meaning). A ‘language’ in this formal context is a set

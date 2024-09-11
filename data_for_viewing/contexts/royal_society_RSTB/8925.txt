@@ -1,0 +1,25 @@
+(vStr), both of which have been implied in coding value related questions. The contributions present a variety of com-
+information. The data reported here from a rodent delay- putational-level ideas on goal-directed choices and establis!
+discounting task support a differential engagement of vStr in links with the empirical literature to propose how they
+action selection and OFC in post-decision processing, includ- might be neurally realized.
+ing outcome monitoring and learning. Larsen & O’Doherty A first issue here concerns the computational principles guid-
+[18] use a combined electroencephalogram-functional mag- ing goal-directed choice, and their neuronal implementation.
+netic resonance imaging approach to study the temporal Daw & Dayan [26] present a comprehensive and accessible
+aspects of valuation and choice in humans. The results speak view of goal-directed choice in terms of model-based reasoning
+to the time course of engagement of different brain areas, (as opposed to model-free computations associated instead with
+with an initial recruitment of posterior cortical areas, such as habits). It explores in detail the challenges of model-based com-
+intraparietal sulcus, and a successive shift during choice pro- putations (e.g. their computational complexity) and advances
+cesses to more anterior areas: ventromedial and_ lateral several proposals on how the brain might solve them, for
+prefrontal cortex. The fact that additional signals emerged example by combining model-based and model-free methods
+later in time in dorsomedial prefrontal cortex suggests that or using one or more approximations, also pointing to existing
+this area might support post-decision action-selection rather evidence on the neuronal implementation of the proposed
+than decision per se. These two studies, using different tech- computations. Friston et al. [27] explain goal-directed decision-
+niques, are illuminating on the temporal dynamics of making within the ‘active inference’ framework. They discuss
+decision-making in the brain, suggesting a distributed architec- how this normative framework can assimilate several notions
+ture for valuation that supports selection, monitoring and in neuroeconomics and computational theory such as expected
+learning purposes in a highly coordinated way. utility and the exploration—exploitation dilemma. Moreover,
+Taken together, the six contributions to this first topic give a the paper presents a novel perspective on dopaminergic
+comprehensive view of the systems-level brain architecture sup- responses in terms of changes in precision (inverse variance of
+porting goal-directed choice, analysing its multifarious aspects the probability distributions implied in active inference) discuss-
+that link to cognitive control, selection, valuation, monitoring ing how it relates to other widespread ideas in the field (e.g. the
+and learning among others. The emerging picture is that of a idea that dopamine encodes reward prediction errors).

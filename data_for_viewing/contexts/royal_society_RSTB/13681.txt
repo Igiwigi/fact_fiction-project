@@ -1,0 +1,25 @@
+with a simple (first-order) social norm that prizes cooperation
+and penalizes the loner and defection choices through bad repu-
+tations. By comparing the effect of social norms differing by the
+relative reputations they assign to defectors and loners, we
+explore the strategic exchanges between punishment and repu-
+tation. Similarly to Panchanathan & Boyd [47], we consider
+ephemeral groups of agents that interact repeatedly during
+each time period and are then reshuffled.
+
+We find that while reputation alone mildly increases
+cooperation, and punishment alone does not, the two mech-
+anisms synergistically interact, leading to high cooperation.
+Our findings stem from the fact that reputation emerges as
+a partial substitute for punishment, thus making all types
+of punishment less necessary. Our results indicate a way
+through which social groups can sustain cooperation despite
+the presence of anti-social punishment.
+
+2. The model
+
+A fully-mixed population of N agents play the OPGG in ran-
+domly chosen groups of n > 4 as in Hauert [11]. During each
+interaction, players are given the choice between cooperating
+C), defecting (D) or abstaining from the game (L). Coopera-
+tors incur a cost c to participate and contribute towards the

@@ -1,0 +1,25 @@
+
+the participants. Participants were actively encouraged to take
+breaks in order to avoid fatigue.
+
+(c) Electroencephalography recording and analysis
+
+The EEG was recorded at a sampling rate of 256 Hz using a 64-
+channel Refa 8 amplifier and 64-channel Waveguard EEG caps
+(both from ANT Neuro, Enschede, The Netherlands). A band-
+pass filter from 0.5 to 20 Hz (with a slope of 48 dB/oct each)
+and a notch filter of 50 Hz were applied. Following that, a raw
+data inspection was conducted manually to reject technical arte-
+facts from the EEG, before an independent component analysis
+(ICA; Infomax algorithm) was conducted. Using ICA, horizontal
+and vertical eye movement, blinks and pulse artefacts were
+corrected in the EEG data. After these pre-processing steps,
+cue-locked segments were formed. Only correct trials were
+included in the data analysis; i.e. Go trials were included when-
+ever a correct response was given in a time window of 800 ms of
+stimulus onset. NoGo trials were included when there was
+no response within 800 ms of stimulus onset. Segments started
+500 ms prior to the locking point (cue onset was set to time
+point 0) and ended 1000 ms thereafter, resulting in an overall seg-
+ment length of 1500 ms. Afterwards, an automated artefact
+rejection was applied for all the segments. Activity below

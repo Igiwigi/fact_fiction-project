@@ -1,0 +1,25 @@
+dictions that can be compared to specific brain systems in these findings provide initial evidence that adjusting the
+terms of detailed patterns of behaviours. This has led to the luminance and colour of image stimuli to unbalance M and
+development and optimization of experimental designs for P processing impacts SC activity, as predicted by our model.
+empirical inquiry in the real brain. Second, they contribute to Fourth, we explored the effects of different sources of uni-
+exploring and generating new hypotheses through proof-of- form image noise and the assignment of saliency to specific
+principle demonstrations that create plausibility and motivate image locations and facial features depending on emotional
+further research, especially in the absence of a fully fledged expressions. Results show that the mouth region (and there-
+theory of how a cognitive function emerges from neural archi- fore the smile) is crucial for categorizing happy expressions,
+tectures. DNNs have made strides in elucidating principles of and the eye area is most useful to recognize sadness [123].
+development and organization in the primary (geniculo- These computations arguably reflect internal representational
+striate) cortical visual system, more specifically in the ventral transformations instantiated by the DNN that progressively
+stream [48,51]. However, a circuit-level DNN model that repro- defines which features are more relevant to perform the task.
+duces the architecture and neurobiological constraints of the Clearly, the fact that our model of the retino-collicular
+retino-collicular system has never, to our knowledge, been system seems capable of expression discrimination and pre-
+devised yet. dicts several patterns of human and primate behaviours
+The present study marks a first step towards the investi- does not mean that other brain areas are not crucial for
+gation with artificial neural networks of salient facial emotional processing, or that the final encoding is not the
+features based on expression perception carried out uniquely by-product of complex interaction at the system level [129].
+by the retino-collicular system. When the field of inquiry is in The key issue is that the retino-collicular system can actively
+its infancy, and the understanding of a biological phenom- instantiate early emotional evaluation and pass it on to these
+enon is limited, as in the present case, the equivalence other brain structures, contrary to the prevailing view [16].
+between DDNs and biological brains can be profitably under- Our circuit-level model of the retino-collicular system can
+stood mainly in the context of the behavioural outcomes they be used to delve more deeply into understanding the devel-
+produce. Noteworthy, several similarities to human behav- opment and organization of early visual processing for
+iour and primate neurophysiology emerged spontaneously facial expressions and other stimulus categories. In fact, mod-

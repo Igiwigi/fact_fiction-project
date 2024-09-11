@@ -1,0 +1,25 @@
+within a 4.5Mb region around the Xist locus in mouse ated [43-45]. Using their high-resolution Hi-C data, Rao et al.
+embryonic stem cells (ESCs) and discovered that this region [42] showed that the human Xi, but not the Xa, features a
+consisted of a series of discrete 200 kb—1 Mb regions that series of ‘superloops’ of interaction anchored at 24 X-linked
+showed preferential interactions, which they termed topolo- loci. Among these loci were the IncRNA loci XIST, DXZ4,
+gically associating domains (TADs). TADs were observed FIRRE and ICCE (loc550643), the latter three of which consist
+both before and after ESC differentiation to neuronal progeni- of tandem repeats that are euchromatic in character and bind
+tor cells (NPCs) and in male primary mouse embryonic CTCF only in the Xi [44]. Indeed, all but one of the 24 super-
+fibroblasts (MEFs). Furthermore, in the differentiated cells, loop anchor points were determined to exist along the
+TADs were retained by both the Xa and the Xi based on Xi-bound CTCF, confirming the factor’s critical role in 3D
+super-resolution 3D DNA-FISH and the deconvolution of conformation of nuclear DNA.
+female MEF 5C data into contributions from each X chromo- In situ DNase Hi-C is a variant of the Hi-C protocol that
+some. However, TADs were attenuated along the Xi uses DNase to digest DNA rather than relying on restriction
+presumably due to the fact that XCI leads to a reduction in endonucleases that depend on specific cut sites, thereby
+these intra-TAD contact frequencies. improving coverage and resolution [46]. Using this method
+
+The Hi-C protocol extends the 5C method and theoreti- on a highly polymorphic F,; hybrid mouse system (BL6 x
+cally permits one to determine the contact frequencies spretus) with skewed XCI both in vivo (whole brain with a
+between all DNA-DNA interactions, at least for mappable spretus Xi) and in vitro (Patski cells with a BL6 Xi), Deng
+regions of the genome, by essentially multiplexing 4C-seq and co-workers produced allelic contact maps that revealed
+across every locus of interest. However, very deep sequen- that the Xi possessed less defined TADs relative to the Xa,
+cing is typically required to obtain reasonable levels of as had also been observed in mouse fibroblasts (figure 1a,b)
+coverage and resolution, especially in the case of mammalian [47,48]. In their place were found two superdomains, demon-
+genomes [37,38]. Briefly, Hi-C bridges interacting DNA frag- strating a bipartite structure of the mouse Xi (figure 1b).
+ments along with a biotin, which can be selected with Three-dimensional models inferred from the DNase Hi-C
+streptavidin beads to produce a library representing a data allowed for the definition of a hinge between the super-

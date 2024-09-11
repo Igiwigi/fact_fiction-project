@@ -1,0 +1,25 @@
+of protected areas and outcomes.° For the deforestation
+sample, we use inverse variance weighting with replacement,
+and post-match bias adjustment to estimate the ATT. For the
+poverty sample, we use one-to-one genetic matching [25] have shown that the impacts of protected areas can vary
+
+with replacement, and post-match bias adjustment [26,27] nonlinearly with slope, and this variation can differ across
+to estimate the ATT. countries. For the deforestation analyses, we calculate the
+
+slope of each 30m land parcel. For the socioeconomic
+analyses, we calculate the average slope (in degrees) based
+on the slope of each 100 m land parcel within a canton.
+
+The fact that protected areas have the potential to affect
+multiple units (parcels or cantons) raises concerns regarding
+the statistical precision of our ATT estimates. The concern is
+that if the outcome is systematically correlated across units
+
+according to some grouping, then the precision of our estimates (ii) Distance to major city
+will be overstated. This is a particular concern in the deforesta- Distance to city captures the variation in the opportunity cost
+tion analysis because we are not able to observe the relevant of land and deforestation pressure as a function of distance to
+management units, which is one of the reasons that we ran- major markets [16,30]. In theory, proximity to a major market
+domly sample parcels from across the forested landscape.” should increase the opportunity cost of land (e.g. lower trans-
+Therefore, we have numerous forest parcels in our analyses portation costs, etc.) and deforestation pressure. However, as
+that lie within the same protected areas, which may result with slope, the functional relationship between distance to
+in correlated outcomes among these units. Because cantons cities and the impacts of protected areas is not well understood

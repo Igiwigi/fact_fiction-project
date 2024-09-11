@@ -1,0 +1,24 @@
+castes (queens and males), but not workers [32]. A total of 24 182 species for which data on parasitism and GRS were available.
+Psithyrus species have been found in the nests of 34 of the focal For Myrmica ants, we estimated an ultrametric tree based on the
+230 bumblebee species. However, because direct observations 3886 bp sequence data matrix and tree topology of Jansen et al.
+of breeding inquiline queens are not available for all presumed [31], both of which are available in TreeBase (http://purl.org/
+hosts [32], we performed statistical analyses using also a dataset phylo/treebase /phylows/study /TB2:S10277). The original top-
+that considered as hosts only those 24 bumblebee species for ology was ultrametricized based on penalized likelihood with
+which nests with breeding Psithyrus queens had been found [32]. the chronos command (correlated rate model with 4 = 1) in the
+
+Geographical range sizes were obtained by counting the ape v. 4.0 [45] package in R v. 3.3.2 [46]. The resultant tree was
+number of 611000 km” squares that each species occupies, then used as a starting tree and topological constraint in an
+based on data from [34] for bumblebees and AntMaps [40,41] analysis in BEAST v. 2.5.1 [47], in which branch lengths were
+for ants. We added Bombus glacialis to one of our datasets owing estimated by implementing a GTR +1+G substitution model
+to the fact that it occurs only on two arctic islands [32]. Reliable and assuming an uncorrelated lognormal molecular clock. The
+data on GRS were not available for the focal wasp species. analysis was run for 10 million steps while sampling trees and
+
+parameters every 1000 steps. After confirming in Tracer v. 1.7.1
+[48] that the run had converged and that ESS values were greater
+
+(b) Phylogenetic trees than 200, the final maximum clade credibility tree with median
+To control for the effect of relatedness among species, which can node heights was calculated in TreeAnnotator (part of the
+confound comparative analyses [42,43], we estimated phylogen- BEAST package) based on the 9001 trees sampled after a 10%
+etic signal in GRS and parasitism and performed phylogenetic burnin. Outgroups and species with missing data were then
+
+logistic regression based on ultrametric phylogenetic trees of pruned in Mesquite, leaving a tree with 63 terminals. For vespine

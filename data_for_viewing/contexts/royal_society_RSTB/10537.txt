@@ -1,0 +1,25 @@
+input available for such learning. Clerkin et al. [20] adopt Mareschal & French [24] address a related question that is ©
+an ecologically motivated approach to the development of currently the subject of heated debate: Does the SL mechanism —-s
+early word learning, asking what the visual environment target the transitional probabilities between elements in the =
+looks like during the first year of an infant's life. Although input signal, or is it simply designed to group together =
+the visual input is very cluttered with many objects in co-occurring elements into memory chunks? Using a variant -
+view, the frequency distribution of particular object cat- of a connectionist autoencoder model, they show how gradual 2
+egories follows a power-law distribution: a very small set of chunking of co-occurring elements within an input can poten- S
+objects occur repeatedly. The authors note that this frequency tially explain effects associated with backward and forward w
+pattern is quite different from the uniform distribution that is transitional probability learning, as well as preference for — 'Y
+typically used in SL experiments (typically under the heading whole-words over part-words which occur with equal prob- = &
+of ‘cross-situational learning’). Nonetheless, the right-skewed ability in the stream. They also show that such a model is s
+distribution of objects in the child’s visual field may be cru- developmentally plausible by predicting the established
+cial for word learning, as suggested by the fact that the improvement of SL with age. This work demonstrates the criti-
+names for these visual object categories belong to the first cal role that explicit computational theories of SL can have in
+words that are learned. This paper thus underscores the reconciling apparently discrepant findings and_ theoretical
+importance of incorporating ecological constraints into both accounts, offering a more parsimonious explanation of a
+experimental work and theoretical considerations about SL. range of effects without sacrificing descriptive adequacy.
+
+Although often implicit in the discussion of SL results, it Using the domain of sentence processing as an anchor,
+is clear that the outcome of SL is not simply a representation Altmann [25], in a sense, turns SL on its head. After describ-
+of the statistics of the input. Rather, the cognitive system uses ing how repeated encounters with regularities in the input
+sensitivity to distributional patterns to shape its expectations are the basis for generalization and abstraction in the form
+and behavioural responses in an adaptive way, constrained of semantic knowledge, he reverse engineers this process.
+by preexisting biases in that system. The study by Feher In so doing, Altmann offers a possible account of how seman-
+et al. [21] provides an innovative test of this perspective in tic types acquired through SL underpin the ability to process

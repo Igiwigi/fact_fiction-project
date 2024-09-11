@@ -1,0 +1,25 @@
+from colonization and extinction dynamics, but do not expli-
+citly consider dispersal. Briscoe et al. [35] found that SDMs
+made more reliable spatial predictions, but DOMs provided
+superior temporal predictions of occupancy dynamics. Our
+
+results corroborate and generalize these findings, showing
+that dynamic population models which explicitly consider
+demography and dispersal can provide more accurate predic-
+tions of range and population dynamics than other currently
+used approaches. Still, SDMs provided better spatial predic-
+tions of occupancy and our IBMs improved the temporal
+predictions over DOMs only for a few but not all species.
+In part, this can be explained by the fact that our IBMs
+used fewer predictors and instead imposed structure through
+specific assumptions on the causal demographic—ecological
+processes. Its predictions are therefore expected to fit less clo-
+sely to training data and in turn perform better on
+extrapolation. Further, the underlying heuristic habitat
+maps were based only on published trait data of main habitat
+preferences and may be overestimating the amount of suit-
+able habitat. The preferences were given in terms of coarse
+habitat classes, such as deciduous or coniferous forest,
+while the true habitat preferences may be much more specific
+and met in only a smaller subset of the identified habitat
+areas. Lower predictive accuracy compared to DOMs could

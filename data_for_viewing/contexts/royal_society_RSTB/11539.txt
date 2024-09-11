@@ -1,0 +1,25 @@
+Pcl PC1 simultaneous structural changes along a single trajectory
+Figure 4. Two-dimensional representation of the free-energy landscape AG together with the substantial heterogeneity found for differ-
+(in units of kg), plotted as a function of the first two principal components ent trajectories clearly suggest that the commonly used
+PC1 and PC2. (a) Energy landscapes associated with the cis and trans equili- term ‘allosteric pathway’ should not be taken literally as in
+brium states of PDZ2. (b) Free-energy landscape associated with the non- a falling row of dominoes [5,53].
+equilibrium allosteric transition, drawn as black background. The coloured Another interesting observation from figure 4 is the frequent
+lines indicate the time evolution of selected single non-equilibrium changes and back-crossings of the trajectories between neigh-
+trajectories. Adapted with permission from Buchenberg et al. [32]. bouring conformations, which resemble a diffusive motion on
+the free-energy landscape, similar to that discussed for protein
+folding [18,19]. Rather than the conventional picture of two-
+state folding with a dominant free-energy barrier giving rise
+these changes do not necessarily occur in a directed sequence to single exponential kinetics, the structural rearrangements
+as in a falling row of dominoes, except for the fact that underlying allosteric communication resemble to a certain
+everything follows upon the initial 1 ps process around the extent a ‘downhill folding’ scenario [16—18,51,52]. Proceeding
+binding pocket. Beyond that 1 ps process, similar timescales from high-energy unfolded conformations to low-energy
+are found in figure 2b for all observables, regardless of native states without passing major (say, 23 kgT) free-energy
+whether they are close to or far away from the effector barriers, downhill folders may exhibit numerous significantly
+site. For example, the remote C-terminus settles already populated conformational states that are connected by a large
+between approximately 100 ns and 1 js (see doi96 and d3494 number of transition pathways. This structural and dynamical
+in figure 2b), significantly earlier than the binding pocket heterogeneity typically leads to highly non-exponential kin-
+itself (do176 and d3s9 in figure 2b). Also the ensemble- etics, which is what we see in figure 2. Just like for proteins
+averaged structural evolution seems to suggest that on all that are characterized as downhill-folders [47], the dynamical
+timescales numerous steps happen simultaneously. content of figures 2 and 3 contains a continuum of timescales
+To further investigate this notion, we change to a global with some substructure, but without any clear gap that
+view of the dynamics and perform a dihedral angle principal would indicate a separation of timescales between the crossing

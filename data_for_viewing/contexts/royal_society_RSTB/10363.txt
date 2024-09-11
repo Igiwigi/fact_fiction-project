@@ -1,0 +1,25 @@
+tive to the air, and the air’s velocity relative to the ground,
+so we may write the identity dx/dt=U+W, where
+W = W(x(t), t) is the local wind velocity (figure 1). Differen-
+tiating with respect to time and rearranging yields the
+new identity dU/dt = d°x/d# — dW/dt. Substituting both
+identities into equation (2.2) and rearranging, we have
+
+dE dx dw
+SF = [meme] tr gw — mu (2.3)
+
+Equation (2.3) captures all of the mechanical energy flows
+associated with soaring flight, and it can be rewritten using
+only scalar quantities by making use of the fact that the
+scalar product of two vectors is equal to the magnitude
+of one vector multiplied by the magnitude of the other's
+projection onto it.
+
+By Newton’s second law, the square brackets in equation
+(2.3) comprise the total force acting on the bird (md?x/dt?)
+minus its body weight (mg). This is equal to the total aerody-
+namic force, of which only the component acting in the
+direction of the bird’s air velocity (U) can contribute to the
+first scalar product. As this component is equal to the net for-
+wards aerodynamic force of thrust T= T(U) minus drag
+D=D(U), we may rewrite the first scalar product as

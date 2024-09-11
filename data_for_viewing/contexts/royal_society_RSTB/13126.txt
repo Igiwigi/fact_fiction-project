@@ -1,0 +1,25 @@
+elements of the video scene that influenced monkeys’ gaze, we
+included gaze consistency and the proportion of gaze-out-of-
+frame observations as regressors along with the ethogram vari-
+ables. As estimators of per-view decision processes, we included
+gaze typicality and gaze-out-of-frame as regressors as well.
+
+A final challenge was the principled selection of the window
+duration used to count spikes, each window forming an indepen-
+dent observation in our regression model. Because both neuronal
+firing rates and ethogram regressors are temporally autocorre-
+lated, selection of an analysis window shorter than the scale of
+neural firing rate autocorrelation would bias our model toward
+false positives, due to the fact that adjacent bins would be
+highly correlated in the data while treated as independent by
+the model. Conversely, the selection of too large an analysis
+window would risk failing to adequately represent some of the
+briefer behaviours in the ethogram and could violate the assump-
+tion of stationarity within each window. The autocorrelation
+function, for example neurons taken from the 5s window
+during Blank presentations, revealed that the autocorrelation coef-
+ficient falls to below 0.1 at a lag of approximately 100 ms in the
+absence of task stimuli (electronic supplementary material,
+figure S1). On this basis, we selected a 200 ms window (twice
+the 100 ms cutoff) to balance the needs to avoid autocorrelation
+and maintain stationarity within each window. Thus, each video

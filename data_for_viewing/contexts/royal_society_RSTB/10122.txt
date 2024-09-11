@@ -1,0 +1,25 @@
+of the study: What is the relationship between morphology, in full-3D morphospace. Reasoning that the species, identified by
+
+
+this study
+Tohoku university
+
+specimen focused image
+
+Figure 5. Visual comparison of data types: Tohoku University 3D specimens from CT and semi-3D half-hulls extracted using the run3dmorph software on stacked
+microscopic images. Three examples specimens are shown: Trilobatus sacculifer, Truncorotalia truncatulinoides and Neogloboquadrina dutertrei. The Tohoku University
+specimens were digitized using X-ray CT at 5 jum resolution. Run3dmorph-extracted 3D-meshes are shown next to their corresponding focused 2D-image.
+
+PMH based on morphology, are, in fact, morphologically dis- (i) Assessing topological similarity: morphology,
+
+tinct, we conducted a linear discriminant analysis (LDA) on the
+
+principal component coordinates prior to conducting hierarchical ecology and phylogeny
+
+clustering for the semi-3D dataset. This was done to bring the An analysis of topological similarity was used to assess the
+variance that is useful in distinguishing species clusters to the overall similarity of morphospace as captured by the semi- and
+forefront of the semi-3D analysis, thereby minimizing the poten- full-3D analyses, and to examine the relationship between plank-
+tial noise introduced by the current limitations of the semi-3D tonic foraminiferal morphology, ecology and phylogeny. These
+approach. We constructed the PCA—LDA model using the func- analyses were conducted using the consensus dendrograms for
+tion Ida from the MASS package [100], with PCs 1 through 457 the semi- and full-3D morphological clustering, the ecological
+(the maximum number of PCs that could be included without clustering, and a pruned version of Aze eft al.’s [22] phylogeny

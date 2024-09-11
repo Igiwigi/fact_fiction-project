@@ -1,0 +1,25 @@
+with virulence, in accordance with non-seasonal models [70,71]. + yBP(t) -1. (3.10)
+
+This is because if hosts can return to being susceptible—and there- (b+ BmP(t))(a +b + y)
+
+fore to reproduce—selection to avoid infection is weakened. oo . .
+While it is not explicit that there are fluctuations present,
+
+it is known that for a wide range of parameter space the
+
+(b) Example 2. Free-living parasite stages attractor of the resident dynamics, and hence the densities
+In our second case, we do not extrinsically ‘force’ fluctuations S*(t), P(t) and P*(t) are limit cycles. We, therefore, must
+on the system, but instead note that in certain model formu- again explore how to attain fitness in this case.
+lations limit cycles intrinsically arise as an outcome. In host- The method is in fact identical to that above, but with one
+parasite systems, a well-known example of this is when there added complication. Previously we could assume that the
+are free-living parasite stages that drive transmission. Such a period of the fluctuations was the same as the forcing
+population could be modelled as follows: period (taken to be 1 above), or perhaps some simple multiple
+of it in case of period-doublings. In the case where there are
+s = (a—qg(S+1))S — bS — BSP + yl, (3.4) intrinsic limit cycles it is unlikely to even be an integer
+di value. While in simple models we can calculate the period
+a BSP —(b+a+ yl (3.5) explicitly from details of the model, in general we must add
+dp a stage between steps 1 and 2 above to calculate the period
+and an al — SP. (3.6) numerically. This can be done by finding peaks at later time
+points in the resident dynamics and calculating the time
+Now infection is not through direct contact of susceptible between them. Most programming languages have such a
+and infected individuals but through susceptible hosts picking built-in function—in our accompanying Python code we use

@@ -1,0 +1,25 @@
+target value x, O(t) shifts to higher values. Likewise, O(t) shifts to lower
+values when y is too low. For y= y = « changes in synaptic efficacy
+
+are 710. longer required to provide stability. In their model, LTP
+and LTD saturate due to soft weight bounds. However, the
+Such an analysis was done by Zenke et al. [26] using model does not crucially depend on this point and would
+the plasticity model of Pfister & Gerstner [27], combined presumably also work with other RCPs.
+with negative feedback via either a sliding threshold or Finally, these findings are in good empirical agreement
+synaptic scaling. The critical timescale 7.,i, was determined with many existing simulation studies of plastic network
+as the value 7, (equation (3.2)) above which a recurrent models (figure 1)—in each of these, a rapid homeostatic
+neural network, initially tuned to a low-activity asynchron- control mechanism on a timescale of seconds to minutes
+ous state [91,92], generates runaway activity. Using was implemented to maintain stability [14,19,21,22,27,63,94].
+simulations and mean field theory, Teri, was found to be We can summarize our insights as follows. The fact that
+of the order of seconds to minutes. Thus, the negative Hebbian plasticity has to be appropriately constrained
+feedback needs to be too rapid to be linked to the through stabilizing mechanisms to avoid runaway activity
+known experiments of homeostatic synaptic plasticity is well known. Classic models such as Oja’s rule or the
+reviewed in figure 1. BCM model, for example, explicitly include appropriate
+Several remarks are in order. First, although signatures of mechanisms based on the postsynaptic firing rate as an indi-
+the stereotypical activity dependence of the BCM model cator and driver of stabilizing processes. However, the fact
+(figure 3a) are also present in STDP data and captured by that these processes have to be rapid in absolute terms only
+many modern plasticity models [27,61-63,65,93], the exist- becomes apparent when units of time are fixed to a biologi-
+ence of a sliding threshold mechanisms is still a topic of cally meaningful timescale. Moreover, RCPs need to be
+ongoing debate. However, we have shown analytically, and even more rapid in large recurrent network models, because
+confirmed in simulations, that the instability that arises a large number of plastic synapses tend to amplify instabil-
+through slow feedback in the BCM model is virtually identi- ities unless the learning rate is scaled with the inverse

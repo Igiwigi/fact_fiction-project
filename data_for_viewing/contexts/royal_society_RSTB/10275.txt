@@ -1,0 +1,25 @@
+performed by subpopulations of neurons. Nevertheless,
+
+there are now well-validated strategies that can be used to 2. Characterizing repetition suppression
+
+refine the coarse resolution of the fMRI signal which provide
+
+a means to investigate neural activity at the meso-scale, the at a single-cell level
+level of neural representations. Repetition suppression was first reported from single-unit
+Two fMRI techniques are currently being widely used to recordings in the primate inferotemporal (IT) cortex [35]. In
+access neural information in humans at a more precise spatial response to repeated presentation of a light stimulus
+resolution, namely repetition suppression and multivariate (figure 1a), neurons in the IT cortex initially showed a large
+pattern analysis. {MRI repetition suppression (also termed response (figure 1b), but with repeated exposure to the stimu-
+fMRI adaptation) relies on the fact that neurons show suppres- lus the response waned (figure 1c—d). When the stimulus was
+sion in their response to repeated presentation of stimuli presented again, after it had been turned off for 15 min, the
+or information to which they are sensitive (see the following response of the neuron was fully recovered (figure 1e).
+for existing reviews: [16—20]). This phenomenon is robustly Repetition suppression has since been observed in single-
+observed across brain regions and species, in wake and sleep, unit activity across a large number of different experimental
+and using a range of different measurement techniques. conditions and brain regions, including the IT cortex [35,37—39],
+fMRI multivariate pattern analysis (MVPA), on the other V1 [40-44], somatosensory cortex [45], prefrontal cortex (PFC)
+hand, takes advantage of small biases in the distribution [46,47], rhinal cortex [48], entorhinal and perirhinal cortex ([36],
+of functionally specific neurons across neighbouring voxels. see figure 1f—h for example repetition suppression in the entorh-
+Such biases give rise to variation in the activation pattern inal cortex). Repetition suppression can occur across a range of
+across voxels, which can be used to infer underlying neural rep- repetition time lags, including when multiple interleaving
+resentations (see the following for existing reviews: [21-24]). stimuli are presented in between the repeating stimulus
+Multivariate approaches are powerful when applied to brain [36,49] (figure 2). In a small portion of neurons, the repetition

@@ -1,0 +1,25 @@
+from more than 80 individuals working in over a dozen countries.
+
+The computer code defining the model is spread across sub-projects that
+each defines specific aspects of the organism, such as cellular ion channels or
+motor behaviours. Each of these spatial and conceptual scales is typically mod-
+elled independently, with multi-scale integration being a long-term goal of the
+project. These scales vary in spatial extent (nanometre to millimetre) and in
+level of abstraction (tracking of ion concentrations versus body wall dynamics).
+Each sub-project is organized as a public repository on GitHub, a web-based
+software development platform that serves as the de facto location for collabora-
+tive, open-source software projects, including those defining biological models.
+Each sub-project also has distinct success criteria, which all have in common a
+goal of reproducing empirical stylized facts associated with a biological
+subsystem using biologically inspired dynamical models.
+
+e-mail: rgerkin@asu.edu
+
+(a) Unit tests
+
+In practice, formalizing these success criteria requires producing a checklist of
+experimental observations and then assessing how well a single model can
+reproduce them when simulated with the appropriate parameters and stimulus
+conditions. Here we implicitly assume that the ability to reproduce experimen-
+tal results is an indicator of model fitness, and that models which reproduce
+more such results are, ceteris paribus, superior to those that reproduce fewer.

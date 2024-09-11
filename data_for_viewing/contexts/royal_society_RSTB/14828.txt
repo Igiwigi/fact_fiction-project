@@ -1,0 +1,25 @@
+License http://creativecommons.org/licenses/by/4.0/, which permits unrestricted use, provided the original
+THE ROYAL SOCIETY P ie ue u J
+PUBLISHING author and source are credited.
+
+
+by defining a ’’strategy’ [as] a behavioural phenotype, ie. it is making it easy to derive insights on preference evolution | 2 |
+
+a specification of what an individual will do in any situation and understand the challenges that its analysis presents.
+in which it may find itself’ ([10, p. 10], see also the recent Ss
+book by McNamara & Leimar [11]); this is also in line with While much of the literature focuses on one-shot simul- =
+standard vocabulary in non-cooperative game theory (see taneous-move games with a finite number of strategies, suchas
+[12]). Second, I examine a continuum population, in which the Prisoner’s Dilemma or the Hawk—Dove game, the setting in Ss
+individuals are randomly matched into pairs to interact, i.e. fact encompasses a large number of other kinds of interactions, = =
+there is no partner choice. Third, I restrict attention to inter- for instance those with an infinite number of pure strategies, S
+actions in which both individuals have access to the same and/or where the interactants play in a sequential manner. ©
+set of strategies, called X, and the material consequences of Several such games are described in detail in electronic sup- =
+strategy choices are identical for all individuals in the popu- plementary material, §51.° While several general results will be 5
+lation. Letting w(x, y) denote the (personal) fitness of an presented, I will often refer to the following two examples. =
+individual using strategy x when the other is using strategy =
+y, I will refer to [= (X, w) as the fitness game.' The question =
+at hand is whether some resident strategy x, present in a share Example 2.3. (Fitness game I) This is a (simultaneous-move =
+1— of the population, would resist the invasion of some one-shot) public goods game with strategy set X=R, and = =
+mutant strategy y, present in a small share e >0 of the fitness function a
+opulation. An evolutionarily stable strategy (ESS) is then =
+formally defined as follows (ok Y w(x, y) = (m+ ky)x — x. (2.2) <

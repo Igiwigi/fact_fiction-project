@@ -1,0 +1,24 @@
+of spacers targeting vectors of ABR had a striking effect on
+reducing the predicted count of ABR genes. Particularly com-
+pared with the weaker association between the count of
+spacers targeting vectors without ABR and ABR genes, this
+
+We found that looking both across and within species,
+CRISPR-Cas system presence was associated with a reduction
+in counts of ABR genes. In addition, where spacers targeted
+MGEs that carry ABR, a concurrent reduction in ABR genes
+was seen. These results have promising implications for the
+delivery of novel technologies to combat ABR such as
+phage therapy and CRISPR-Cas antimicrobials, which rely
+on bypassing bacterial immune systems to kill cells. In fact,
+they may be ideal for this purpose, if the most multidrug-
+resistant strains are also the most immunocompromised.
+
+Data accessibility. The Snakemake pipeline used to calculate genome
+lengths and detect CRISPR-Cas systems, ABR genes, intl1, ICEs
+
+evidence strongly suggests CRISPR-Cas is an important and plasmid replicons, as well as R scripts used for producing
+barrier to vectors of ABR, thereby blocking the acquisition trees and statistical analysis for this work are available at https://
+of ABR genes themselves. Many ICEs, phages and plasmids github.com/elliekpursey /crispr-pathogens.
+
+remain to be characterized, and once our databases of these Authors’ contributions. E.P. helped design the study, performed all data

@@ -1,0 +1,24 @@
+sources, must be small. In reproducible measurements much the greater part of the total
+error is contributed by the accidental errors. ‘These accidental errors, which are usually
+to all intents and purposes normally distributed, produce no systematic bias in the means
+of sets of observations. What does happen is that these random errors increase, on the
+average, the scatter of the observations about their mean. Due to this increased scatter
+the estimates of the variance of such sets of observations will be systematically too
+large. Thus if a pair of variates is being considered, there will be no systematic bias in the
+estimates of their means, while the estimates of their variances will be systematically too
+large. However, if the errors in the two variates are independent, as is usually the case,
+so that making a large positive error in the measurement of, say, x does not increase the
+chances of making a similar error in measuring the corresponding value of y, then, on
+the average, no bias will be produced in the estimate of the covariance of x and y. ‘These
+facts mean that the magnitude of the coefficient of correlation between x and y will
+be systematically underestimated. ‘This is important, and the point is worth developing
+more formally.
+
+As we have seen, observational errors produce no systematic bias in the means; but
+they add to the expectations of x” and y? additional terms ¢, and ¢, respectively. ‘The errors
+of x and y being independent, there is no addition to the expectation of xy. Then if 07,
+o2 and ¢,0, are these expectations in the ideal case where there are no errors of measure-
+ment; and o(?, 0/2? and o,0,,p’ are the corresponding expectations in the practical case,
+
+x9 y
+which includes errors of measurement:

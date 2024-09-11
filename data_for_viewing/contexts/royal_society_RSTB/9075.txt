@@ -1,0 +1,25 @@
+thresholds, breakpoints and nonlinear relationships between the
+environment and key demographic variables that are at the heart
+of many biological processes. While this criticism is valid for
+some statistical approaches, such as various tree-based modelling
+approaches (where each node on the tree identifies a key value of
+one or more environmental variable that splits a subset of the
+data into presence and absence categories; the same variable
+may appear in several different places and levels within the
+tree, and with different key values, making biological interpret-
+ation difficult), nonlinear discriminant analysis is based on the
+assumption of a multivariate normal response of a species to cli-
+matic variables, and can allow for thresholds, breakpoints and
+nonlinearities. Key here is the fact that nonlinear discriminant
+analysis allows the observations to be split into a number of
+clusters (for both presence and absence observations), thus
+
+
+accommodating a limited but realistic variety of responses of
+species to environmental variables.
+
+Briefly, data were extracted for all the Fourier processed vari-
+ables at each presence and pseudo-absence site in the three
+training sets. Before analysis, the data were clustered, using the
+k-means clustering algorithm in SPSS v22 (©IBM Corporation
+and others), into between one and eight clusters each for pres-

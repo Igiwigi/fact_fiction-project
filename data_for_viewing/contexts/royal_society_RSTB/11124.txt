@@ -1,0 +1,25 @@
+4. Computational theories
+
+Whereas there is broad consensus that animals from many
+phyla perceive numerosity and reason about it arithmetically,
+there is no consensus about what an appropriate computational
+theory of this ability should look like. Three papers elaborate
+three very different theories. Gallistel [26] suggests that the
+symbols for number are realized at the molecular level and
+form the basis for the brain’s ability to represent every kind of
+quantity, not just numerosity. His theory attributes Weber's
+Law to the limited number of bits used to represent magnitudes
+across the many orders of magnitudes. He calls attention to the
+fact that fixed-point schemes for representing number obey
+Weber's Law. Hannagan et al. [27] suggest that numbers are
+coded by vectors of activation across multiple cortical units.
+Successive integers are obtained through multiplication by a
+fixed but random matrix. Their scheme also generates
+Weber's Law. Zorzi & Testolin [28] develop a scheme in
+which the neural representation emerges from the interaction
+between deep neural networks endowed with basic visual pro-
+cessing when confronted with visually experienced sets. Their
+scheme also exhibits Weber’s Law-like properties.
+
+5. Modality specificity and modality
+independence

@@ -1,0 +1,25 @@
+Table 6. Correlations (Pearson’s r and associated p-values) between relative methods. We found that the BTF works better than the Brow-
+errors and each of the variables tree size (NV) and mean tree imbalance (/,) nian motion models implemented in RevBayes (RBE RBV)
+for the variable-size phylogenies on a lattice. and BEAST (BRW). We think that the main reason is that
+the BayesTraits variant transforms the geographical coordi-
+nates into three-dimensional Cartesian coordinates, which is
+more suitable for modelling geographical movements in
+terms of Brownian motion than the RevBayes or BEAST var-
+iants, which assume a rectangular flat earth surface for
+BIF 0.581 0.00007 0.309 0.04923 modelling geographical expansion. As for the reason why
+the variable rates models as implemented in BayesTraits
+
+BV 0420 0.00621 0.144 Neardd and RevBayes do not work as well as the fixed rates Bayes-
+BRW —0.628 0.00001 0.357 0.02202 Traits model, this may relate to the fact that the simulations
+RBF —0.536 0.00031 0.246 0.12100 have a probabilistically fixed lexical replacement rate that is
+RBV 0.625 0.00002 0.488 0.00121 not related to the branch length. BEAST ends up in the
+
+- lower end of the performance hierarchy. This may be owing
+Div 0.467 0.00208 0.089 0.57900 to model overparameterization: BEAST’s relaxed random
+random —0.558 0.00015 0.253 0.11110 walk model allows for each branch to have a separate rate,
+centroid —0.325 0.03788 0.141 0.38090 and there may simply not be information to estimate each
+md 0.538 0.00029 0.295 0.06091 branch-specific rate as a free parameter [44]. This does not
+
+happen in the variable rates models in BTV and RBV.
+Another possible reason for the low performance of BEAST
+could be the joint inference of both phylogeny and home-

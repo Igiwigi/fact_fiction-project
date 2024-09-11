@@ -1,0 +1,25 @@
+
+Craft et al. imaged tubulin being transported by IFT in Chlamy-
+domonas flagella, and reported ‘occupancy’ as the fraction of
+IFT trains that had an associated tubulin signal. In order to
+think about such results, we recall the distinction between
+IFT trains and IFT particles discussed in the Introduction.
+
+P ‘IFT particle’ refers to the individual protein complexes
+L= 24 (D/A) (2.2) made up of IFT proteins, while ‘IFT train’ refers to the linear
+array of particles that move as a group within the flagellum.
+Because tubulin occupancy has been determined as a function
+of IFT trains, while tubulin binding is a function of individual
+IFT particles, it is critical to take into account the fact that the
+number of particles per train is a function of length. Figure 4a
+diagrams the results of our prior experiments [18] in which
+Lou (2+ (D/Awt)) we showed, both by quantitative TIRF microscopy and by
+
+where L is the length, P is the total size of the flagellar precur-
+sor pool (tubulin) expressed in length equivalents, D is the
+rate of flagellar disassembly and A is the injection coefficient.
+Solving for L, we find
+
+We can then write the expected ratio of flagellar lengths in
+a mutant (Ly) compared to the flagellar length in wild-type
+cells (Ly,), given that the injection coefficients for the two

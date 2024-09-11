@@ -1,0 +1,25 @@
+
+Figure 4. Expansion of a grid system is an optimal response to spatial uncertainty. (2) Mean squared decoding error on an 18 m track in grid systems subjected to
+varying expansion, under low uncertainty (s.d. 2 cm; solid line) and higher uncertainty (s.d. 6 cm; dashed line). For each level of uncertainty, there is an optimal
+expansion factor that minimizes decoding error, and grid scale expansions smaller or larger than this will result in greater errors. (b) The mean optimal expansion
+factor is greater for higher levels of uncertainty; this relationship appears linear. (c) Mean squared decoding error for baseline (solid line) and optimally expanded
+(dashed line) grid systems, and for performance at chance (dotted line). Labels indicate mean optimal expansion. (d), (e) and (f) show simulations in a two-
+dimensional 1 m? environment and are equivalent to (a), (b) and (c), respectively. Error bars are the s.e.m. of 10 runs of the simulation per set of conditions,
+each consisting of 1000 decodes of random locations.
+
+Figure 4a shows the decoding error for the grid system, pattern. In fact, the true optimum is likely to be even smaller
+for two levels of uncertainty, as a function of the grid scale than that observed here. Our estimate was limited by the
+expansion factor in the range 0.125—7. For both levels of range examined, and expansion factors smaller than 0.125
+uncertainty, small expansion factors lead to large decoding were not examined. However, the fact that these shrunken
+errors, reflecting the occurrence of decoding ambiguity grids can code location with so little error is further evidence
+errors caused by spatial uncertainty (for this grid system of the power of grid systems to encode unique locations over
+and environment, Poisson firing alone does not cause ambi- ranges much larger than their scales.
+guity errors, or at least does so only extremely rarely, In summary, using simulations of one- and two-dimen-
+owing to population coding; see §3a). Equally, for larger sional environments, we have modelled uncertainty as
+expansion factors, the overall decoding error increases independent spatial noise affecting each grid module. Ele-
+owing to decreasing precision. The scaling factor representing vated spatial uncertainty was shown to greatly increase the
+the optimal trade-off between these two factors depends on occurrence of ambiguity errors, resulting in a pronounced
+the level of uncertainty. In fact, the optimal expansion reduction in spatial coding accuracy. However, the deleteri-
+factor, which minimizes decoding error in this situation, ous effect of spatial uncertainty is less pronounced in
+increases linearly with the level of spatial uncertainty, as systems with larger scale grids. Hence, a uniform expansion
+illustrated in figure 4b. The differences in decoding error gen- of all grid modules in a system was seen to mitigate the

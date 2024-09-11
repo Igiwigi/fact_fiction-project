@@ -1,0 +1,25 @@
+directly with costs of interventions and allow researchers to generality.
+discuss, quantitatively, the information gain of data from Percolation models do not yet yield a recipe for the analy-
+different levels through increased explained variance in log- sis of spillover count datasets. Rather, researchers will have to
+probabilities of success (e.g. the value of wildlife surveillance consider various phenomena described here on a case-
+versus vaccine coverage). by-case basis owing to the wide range of data quality, data
+Percolation models of spillover lend themselves to easy quantity, research questions and underlying biology in patho-
+visualizations of model structure and tractable calculations gen spillover datasets. The usual statistical concerns of model
+of spillover rates. They also provide two important results complexity; which covariates to include, the behaviour of
+for the inference of spillover risk across levels and across regularization, how to quantify the relative importance of
+alternative pathways. In general, one cannot use GLMs for covariates and so on, must be considered in light of the
+both levels or alternative sources and the overall rate of spil- behaviour of spillover counts we have shown here. For
+lover. However, when one assumes linear models between a example, lasso regression [33] could easily shrink the slope
+covariate and the log-rates of shedding from alternative for a covariate to zero when the slope is in fact high but invis-
+sources and/or the log-odds of successful passage through ible owing to its modulation of a non-dominant source or a
+a barrier to spillover, the resulting nonlinearity is always currently low-attrition process on the pathway to spillover.
+approximately piecewise linear. Thus, count data of spillover More generally, based on the results in figures 2 and 3, we
+incidence should be carefully analysed for piecewise linearity suspect such approaches, which are typically employed to
+using tools such as generalized additive models, switching- prevent overfitting, could exacerbate the challenges of identi-
+regression models or ensembles of linear models. Projections fying sensitive yet non-dominant pathways and weak
+beyond the range of observed covariates should be especially attrition processes. At the current stage, we see these percola-
+wary of the piecewise linearity arising in the log-rate of tion models not as a general recipe for statistics as much as a
+pathogen spillover. The switching dominance and invisibility tool for understanding—and in some cases using clever
+of processes with weak attrition, even if they have a strong experimental design, data collection or statistical analyses to
+sensitivity to management actions, present a unique avoid—the pitfalls facing data analysts and managers in the
+challenge for pathogen spillover data analysis and manage- field. If our work suggests one firm recommendation to ana-

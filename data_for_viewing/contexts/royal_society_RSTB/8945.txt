@@ -1,0 +1,25 @@
+reliabilities through estimates of default-likelihoods, that is, like- tion resulting from abrupt and intermittent model-based a
+lihoods of external cues and action outcomes when the current constructs of new actors, when model-free RL adjustments of s
+external contingencies presumably match no monitored strat- ongoing actors become unreliable, is optimal with forward infer- a
+egies. The concepts of default-likelihood and absolute ential processes operating online and bearing upon a limited = 2
+reliability generalize the notion of expected /unexpected uncer- number of counterfactual strategies. Ss
+tainty proposed by Yu & Dayan [51] and provide the Newly created actors may be inferred as being initially S
+computational foundations of the present theory. They may unreliable indicating that the environment is likely in a state =
+be related to the psychological notions of metacognitive that was not previously observed. The prefrontal executive ‘S
+processes and confidence judgements [52]. system then switches into an exploration period corresponding ‘©
+Based on this computational framework, we identify three to hypothesis testing: this unreliable actor guides behaviour and _ =>
+critical inferential capabilities associated with the development may be subsequently confirmed or rejected. Confirmation — =
+of specific prefrontal regions. The OFC and ACC appearing in occurs when this actor become reliable before any counterfac- yy
+rodents provides the ability to make factual, reactive reliability tual strategies. The ventral striatum is predicted to detect this 2
+inferences; reliability inferences are based on action outcomes confirmation event yielding to the actor consolidation in &
+and only bear upon the actor strategy guiding action and learn- long-term memory. Conversely, rejection occurs when a coun- a
+ing external contingencies. The OFC is predicted to encode terfactual strategy become reliable before this actor. The LPC is Ps
+strategies’ internal models predicting action outcomes and to predicted to retrieve this reliable counterfactual strategy to © ©
+revise actor absolute reliability according to action outcomes. serve as actor. Critically, hypothesis testing prevents the &
+Critically, the actor strategy learns actions through RL so that capacity-limited buffer from monitoring unnecessary strategies 3
+the more outcomes are rewarding, the more the reliability emerging from long-term memory. Hypothesis testing, more-
+reflects the predicted occurrence of these outcomes. The over, is a primitive form of backward inferences, because
+ACC, by contrast, detects when the actor strategy becomes every decision to create new strategies may be subsequently
+unreliable for triggering the creation of new actor strategies revised on the basis of subsequent information. Backward
+from long-term memory. The LPC appearing in primates pro- inferences are actually critical in optimal adaptive systems
+vides the additional ability to make factual, proactive inferences. operating in open-ended environments for dealing with the

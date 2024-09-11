@@ -1,0 +1,25 @@
+set of age-specific fertility and mortality rates. For where fj, is the correlation between fitness and trait i. =
+human populations it is generally expressed per It is difficult to predict how the correlation will change if S
+annum we switch to a different measure of fitness. However, if the =
+r the factor by which the population will grow during two measures of fitness are highly correlated than 1; is 8
+| . oo . not likely to change radically. On the other hand, as we = &
+a specified period of time given a set of fertility shall see, we can sometimes predict that o,, will change =
+and mortality rates. It is equal to exp(r). For the substantially when we switch fitness measures.
+present discussion, we assume it is the growth The selection differentials give the observed association
+over 1 year between each trait and selection. However, the selection
+: . . differential for a given trait is determined not only by its
+T the mean length of generation—the time required
+
+direct effect on selection but also by the fact that it is correl-
+for a population to increase by a factor of Ro ated with other traits that are directly associated with
+selection. Therefore, to estimate the direct force of selection
+associated with a given trait, it is necessary to control for
+the correlations between traits.
+
+The direct force of selection for a trait is given by its selec-
+tion gradient, 8; It is equal to the partial regression
+coefficient from a multiple linear regression of relative fitness
+on all of the traits. For present purposes, we can simply state
+that 8; can be expressed as the ratio o,,/0; multiplied by a
+term based on the correlations among the traits, and the correl-
+ations between each trait and relative fitness [19]. As before, it is

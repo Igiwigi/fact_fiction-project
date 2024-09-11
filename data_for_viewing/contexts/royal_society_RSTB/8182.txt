@@ -1,0 +1,25 @@
+information flow between logic modules’. I believe of the loci in micro-organisms have only one instantia-
+everything is there in the ‘hardware’ of the cell; there tion, the disparity between ourselves and E. coli will
+is no explicit ‘software’ level, except one in our become more respectable. It is very likely that the
+minds. If we do need a new language to help us under- compound structure of a locus is not only the conse-
+stand these processes I believe it should be a picture quence of evolution, but also facilitated it by
+language that can be generated from the information allowing accretion not only to genomes as a whole
+in CELLMaP and not more text. There is already too but also to individual loci.
+
+much text in the world. One good way to view the pro- We may compare CELLMaP with how our under-
+blem is as a new kind of molecular biology, the standing of a city would be embodied in an
+molecular biology of organization. analogous CITYMAP. The white pages of the tele-
+
+The basic fact that living systems are the products of | phone directory are like the genome sequence. We
+evolution raises additional questions. We might like to trust it to be accurate and complete and although it
+think that organisms can be represented by a set of lists the people who compose the city it tells us little
+numbers which we should try to determine as accu- about how it might work. The yellow pages are com-
+rately as possible. Such numbers as the affinity parable to the annotated sequence; they tell us a
+constants of enzymes or the number of molecules of little more about function. Thus, a list of plumbers
+a protein expressed in a cell will be relevant for allows us to deduce that there will be pipes somewhere
+CELLMapP or for any other system. In fact, one of the in the city because plumbers plumb pipes. However,
+criticisms of systems biology is that their measure- the essential feature of the city is grasped only when
+ments of the behaviour of systems are not accurate we realize that there are units called homes in which
+enough and noise emanating from many sources will families live; that in the morning, the families disas-
+blur the true values. We must recognize that these semble and the components then travel and
+numbers are ultimately specified in DNA sequences aggregate with components from other homes in

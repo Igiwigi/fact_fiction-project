@@ -1,0 +1,25 @@
+general principles of motor learning in the field of
+
+6. Computational approach es to vocal learning ‘developmental robotics’ [87]. Of particular relevance are
+
+approaches that invoke a babbling phase of self-exploration
+(a) Backg round in order to learn an ‘inverse model’ of the relationship between
+It has long been accepted that a productive approach to under- motor controls and subsequent behaviour [87-91]. In particu-
+standing how an observed system might function internally is lar, there are important relationships between (i) the number of
+to construct a mechanism that exhibits the same behaviours ‘degrees-of-freedom’ (DoF) of a system’s morphology, (ii) the
+(‘What I cannot create, I do not understand’, Richard Feyn- state-space of possible behaviours to be explored and (iii) the
+man). In modern times, this usually involves the creation of learning policy required to calibrate the control mechanisms
+appropriate computational models, that is, algorithms that to a target level of accuracy (judged intrinsically or extrinsi-
+attempt to replicate the processes of interest and thereby pro- cally). The fact that motor babbling offers significant benefits
+vide a functional testbed for selecting among alternative in robotics provides evidence that such computational prin-
+hypotheses. In the case of systems that ‘learn’, recent times ciples are somewhat independent of the learning agent
+have seen huge developments in the fields of artificial intelli- (whether living or non-living), and thus could be applied to
+gence and machine learning, primarily arising from the investigation of animal vocal development.
+
+advances in multi-layered artificial neural networks, an
+approach knownas ‘deep learning’ [73]. It is, therefore, no sur-
+
+prise that a few researchers have started to apply these (e) Open questions
+
+techniques to problems in bioacoustics [74], particularly for Therefore, what appears to be needed in the field of vocal
+automatic call detection and classification [75,76]. However, learning is a clear enumeration of the research questions

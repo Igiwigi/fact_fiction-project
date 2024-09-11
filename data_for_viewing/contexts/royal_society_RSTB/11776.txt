@@ -1,0 +1,25 @@
+
+small number of muscles means only that these muscles functionally (correlations between neuronal activity),
+cannot be independently controlled by the nervous system a choice that should be carefully considered in the a
+and must have an amount of correlation. Thus, the predicted context of the line of inquiry. s
+phenotypes (reduction in overall controllability of a few (iti) Chemical and electrical synapses, the two distinct forms of a
+muscles) can be in some cases quite subtle. wiring between neurons, differ greatly mechanistically, 2.
+While the structural controllability framework provides a with effects on connectivity that are felt at the network = S
+deterministic number of controllable muscles, there is in general level (figure 2). Specifically, in chemical synapses, an =
+more than one configuration of muscles that could make up electrical signal in the presynaptic cell is transformed =
+this number. The set of 89 independently controllable muscles to a chemical signal (release of a neurotransmitter) “2
+in the healthy worm is not unique, but we can assign a prob- and then transformed back to an electrical signal ©
+ability to which muscles are controllable. This exploits the in the responding cell (neuron or muscle) through post- =
+fact that there are multiple solutions to the control problem synaptic neurotransmitter receptors that are, or control, =
+[35], each of which gives rise to the same level of controllability. ion channels. The signal is directional (from presynaptic =
+Hence cataloguing the independent solutions can inform to postsynaptic cell), and the strength and timing of the -
+us which muscles are more likely to experience a reduction in signalling depends only on the state (ie. membrane 2
+control. For each ablation of a neuron or neuron class, we potential) of the sending cell. Despite some nonlineari- S
+numerically obtained the probability pattern of each muscle ties, the properties of chemical synapses can be w
+losing its controllability, and compared this pattern to that reasonably approximated by the matrix formulation of —
+of the healthy worm. The difference between these two our control framework. 3
+probability patterns reveals which muscles are affected most By contrast, electrical synapses (gap junctions) are ©
+strongly by the ablation. In practice, we find that the sets of channels by which electrical current can flow between ©
+affected muscles tend to be spatially co-localized across differ- coupled cells. While current can, in principle, flow in
+ent solutions. For example, in the case of the DD neurons, the either direction through the electrical synapse, at any
+control analysis predicted a reduction in control over the set given time it can only flow in one direction, and this

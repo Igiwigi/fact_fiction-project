@@ -1,0 +1,25 @@
+Let us assume we have a set of populations for which we have statistics involving X, and both admixture sources will be
+single-nucleotide polymorphism (SNP) allele frequency data non-zero, and, in some cases, F3(Xy; X2, X3) will be negative
+from S biallelic loci, and for simplicity, I will assume that (exact conditions can be found in [41]).
+
+there is no missing data. Let xj, denote the frequency of an arbi-
+trary allele at the /th SNP in the ith population; and let X;= (xj1,
+
+Xj2, ...Xjs) be a vector collecting all allele frequencies for popu- (b) Geometric interpretation of F-statistics
+lation i. As X; will be the only data summary considered here An implicit assumption in the development of F-statistics in
+for population i, I make no distinction between the population the context of admixture graphs has been that population
+and the allele frequency vector used to represent it. lineages are mostly discrete, and that gene flow is rare.
+The three F-statistics are defined as Recently, Oteo-Garcia & Oteo [49] showed that this is not,
+s in fact, necessary. Specifically, they interpret the populations
+Fo(X1, X2) = La — xy)" (2.1a) X; as points or vectors in the S-dimensional allele frequency
+SH space R°. In this case, the F-statistics can be thought of as
+13 inner (or dot) products, and they showed that all properties
+F3(X1; Xz, X3) = gu — X21) (X11 — X31) (2.1b) and tests related to treeness can be derived in this larger
+Il s space. In this framework, the F-statistics can be written as
+and F4(X1, Xo; X3, X4) = ice — Xz) (x31 — X41). (2.1c) 13 > 1
+Fl Fa(X1, X2) = seu =X) = 5 (X1 — X2, X1 — X2)
+The normalization by the number of SNPs S is assumed 1 mt
+to be the same for all calculations and is thus omitted =3 |X1 — X2||? (2.3a)
+subsequently. Both F; and F, can be written as sums of s
+Fe-statistics Fs(X1; X2, X3) = pact — X21) (X11 — X31)
+2F3(X1; Xz, X3) = Fo(X1, X2) + Fo(X1, X3) — Fo(X2, X3) 1 m

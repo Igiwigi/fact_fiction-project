@@ -1,0 +1,25 @@
+latter. More detailed and mathematical treatments Simple symmetrical pattern where a particular number
+are easy to find [5,17—20], and a paper in this issue of items of type A is followed by the same number of
+
+provides a particularly accessible formal introduction different type B. Examples of this set include
+designed for experimentalists [16]. {AB, AABB, AAABBB, AAAABBBB, etc.}, and
+
+extend indefinitely (so a string of 1346 ‘A’s followed
+
+by 1346 ‘B’s is still a member of the set). This pattern
+(a) Regular expressions is notated A”B” in FLT. It is easily proved that this set
+We start our survey with a simple, well-defined cannot be specified by a regular expression (see the text-
+computational system, termed a finite-state machine, books listed earlier for mathematical proofs). We
+which is equivalent to another simple construct conclude from this fact that there are patterns that we
+called a ‘regular expression’. Search functions, such can conceive of, and that we could easily (if laboriously)
+as the dir command in DOS, or the /s function in recognize ourselves, but that cannot be captured by a
+UNIX, provide everyday examples. Such functions regular expression. Why does this matter? Because, as
+use a syntax that allows us to search for the arbitrary demonstrated by the mathematician Stephen Kleene
+
+Phil. Trans. R. Soc. B (2012)
+
+
+Review. AGL meets FLT W. T. Fitch and A. D. Friederici 1935
+
+in 1956 in the theorem that bears his name, regular (a) a (b) a b
+expressions and the corresponding rule sets termed

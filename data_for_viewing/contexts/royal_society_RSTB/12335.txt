@@ -1,0 +1,25 @@
+from a metatranscriptomic analysis but with single-cell from non-cellular particles and non-eukaryotes. Cell
+resolution; (iii) life cycle stages or temporal cell types for selection through FACS can solve this issue by target-
+each of the members of the community; and (iv) microbial ing only cells of interest. FACS additionally allows the
+interactions and their associated transcriptional pheno- strict selection of only single cells, which may contain
+types. Many of the predictions of these analyses could be within them endosymbionts, prey, parasites and/or
+validated by using multiplexed fluorescence in situ hybrid- pathogens. This is another major advantage when
+ization [82,83], targeting markers for different temporal studying cell-cell interactions, as it is possible to
+cell states/cell types in a particular species or against mar- distinguish between true intracellular interactions
+kers for multiple species (to validate interactions and and random aggregates. The latter could be
+community composition). removed during cell dissociation/homogenization
+However, considering the methodological state-of-the-art before sampling, and FACS would provide a
+discussed in §2, we foresee important technical and analytical second level of exclusion of doublet or multiplet
+challenges associated with realizing single-cell ecology event. In contrast to FACS, droplet microfluidic
+experiments of this nature. applications with higher doublet rates may result
+
+in some false positive interactions owing to random
+
+co-encapsulation events.
+(i) Sampling bias. An essential aspect when sampling a (iii) Lack of reference genomes. Another problematic
+heterogeneous community will be the use of a meth- aspect of the single-cell analysis of a multi-species
+odology agnostic to distinct cell properties. For ensemble would be the absence of reference
+
+
+genomes/transcriptomes to map sequencing reads, at
+least for the majority of sampled cells. To address this

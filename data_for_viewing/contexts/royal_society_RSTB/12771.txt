@@ -1,0 +1,25 @@
+particle-based approach: it belongs to the family of discrete interactions [33].
+methods being characterized by the fact that each agent is The analysis and classification of the collective motion of
+individually represented by a material point, whose velocity identical interacting particles is also the topic of the well-
+varies according to an ordinary differential equation. Our known Vicsek’s model [34]. In particular, it assumes that
+general model (that is not referred to a particular species) rea- flocking phenomena are owing to alignment mechanisms,
+listically distinguishes between individual speed and with uncertainties arising from a random contribution in
+direction of motion. The former is in fact typically established individual velocity. This approach is then extended in [35]
+by the purpose of movement and/or by physiological limit- with the introduction of a Lennard-Jones-type potential to
+ations, the latter results instead from the competition represent repulsive and attractive dynamics. Interestingly,
+between different behavioural stimuli, mainly coming from each velocity contribution is therein weighted by a parameter
+the environment and from interagent interactions. In this that, at variance with our work, can independently vary in R.
+respect, we here account for repulsion, attraction and align- Another difference with respect to our model relies on
+ment inputs that are active in non-overlapping individual the fact that the extension of the interaction regions are
+neighbourhoods. Escape strategies are also included in the significantly small so that the particles interact strictly locally.
+case of heterogeneous systems, i.e. formed by a predator The influence of a hunter on group collective dynamics is
+chasing a group of prey. Remarkably, each of the considered deeply investigated by particle-based models as well. For
+behavioural stimuli is here simply defined by an orientation instance, in [20], each prey is assumed to be subjected to an
+(unit) vector and a weight, which is correlated to an individual increasingly linear attraction towards groupmates and to a
+preference. A constraint on the sum of the weights is finally hyperbolic repulsion both towards groupmates and towards
+given to avoid simultaneous minimization/maximization of the predator. The cohesive term and the velocity component
+all individual movement traits. relative to hunter avoidance are multiplied by coefficients
+Our model is not completely new: rather, it combines and varying in R*, whereas the repulsion between prey individ-
+modifies at various extents concepts and ingredients already uals has a constant unitary weight. Predator dynamics are
+present in the literature. More specifically, focusing on the then completely determined by an attraction term which
+similarities and differences of our mathematical framework has a hyperbolic or a more than hyperbolic law. In particular,

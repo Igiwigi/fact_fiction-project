@@ -1,0 +1,25 @@
+
+For BOLD-fMRI, we pursued imposing a “vascular filter” in some part of the brain. Thus, draining veins should show
+
+on the acquisition of functional maps through the use of up in GE- or SE-based functional images due to such an
+
+
+intravascular effect as far away as approximately 4mm [23] highly parallel imaging along the phase encoding direction, | 5 |
+
+from the actual site of neuronal activity changes. However, and partial Fourier acquisitions. Otherwise, the spatially non-
+this non-specific ‘intravascular’ component is dramatically sup- specific contributions masquerading as functional maps a
+pressed with increasing magnetic fields. The MR detectability appear even in SE based functional images (e.g. [35]). s
+of dHb containing blood decreases precipitously with increas- Recently, an alternative approach was described exploiting a
+ing magnetic fields. Therefore, if the dHb containing blood is the fact that the majority of the undesirable large-vessel signals = 2
+absent in an MR image to begin with, such intravascular effects associated with the GE BOLD effect (signals that obfuscate the S
+related to neuronal activity changes would also not be detected; true territory of neuronal activity change) are the pial vessels =
+this happens at very high magnetic fields (7 T and above) when located on the cortical surface. So, if fMRI data are acquired =
+the echo times (TEs) employed are long compared with blood at high enough resolution (possible at very high magnetic ‘=
+T> at the magnetic field used [29]. fields), then some fraction of the upper cortical layers can be s
+In other words, the vascular filter of SE fMRI is very much stripped away and the functional mapping analysis restricted = 5
+dependent on magnetic field magnitude. However, the very to the remaining deeper layers of the cortex [36]. Using retino- = =
+high magnetic field by itself is not enough; one must in topy as a source of stimulation, these investigators were able to =
+addition make sure the TE in the SE sequence is long com- show that they obtained accurate depiction of the stimulus in -
+pared with the Tz of dHb containing blood. Fortuitously, the brain when looking selectively at deeper layers but 2
+while the T, of dHb containing venous blood and the T, of not the superficial layers [36]. Note that one cannot just strip S
+tissue both decrease with increasing magnetic fields ([14,29] off the anatomical space occupied by the blood vessel itself w

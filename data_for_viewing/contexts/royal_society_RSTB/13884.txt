@@ -1,0 +1,24 @@
+(i) Example
+
+As an example, I visualize the admixture statistic F(X; Sardi-
+nian, Finnish), on the first two PCs of the Western Eurasian
+dataset (figure 4a). In this case, the projected n-ball (light
+grey) and circle based on two dimensions (dark grey) have
+similar sizes. However, several populations that appear
+
+we should not consider them as a mixture between
+Sardinians and Fins.
+
+inside the circles (e.g. Basque, Canary Islanders) have, in (d) Outgroup-F;-statistics as projections
+fact, positive F; values, so they lie outside the n-ball. This A common application of F;-statistics is, given an unknown
+reveals that the first two PCs do not capture all the genetic sample Xy, to find the most closely related population
+variation relevant for European population structure. Conse- among a reference panel (X;) [63]. This is done using an out-
+quently, approximating F; by the first two or even 10 PCs group-F;-statistic F;(Xo; Xy, Xj), where Xo is an outgroup.
+(figure 4b) only gives a coarse approximation of F3, and The reason an outgroup is introduced is to account for differ-
+from figure 4c we see that many higher PCs contribute to ences in sample times and additional drift in the reference
+F; statistics. populations (figure 52). The outgroup-F;-statistic F3(Xo; Xu,
+However, many populations, particularly from Western X3) represents the branch length from Xo to the common
+Asia and the Caucasus, on the right-hand side of the node between the three samples in the statistic, and the
+plot, fall outside the circle. This allows us to immediately closer this node is to Xy, the longer the branch and hence
+
+conclude that their F3-statistics must be positive, and the larger the F5-statistic.

@@ -1,0 +1,25 @@
+Walking between and to various transport modes depends with purposive behaviour of the human variety based on
+on non-automated data which is hard to get although in decision-making that attempts to optimize socio-economic
+time, some of this data might be acquired by automation costs and benefits, but, to a large extent, all these approaches
+using smart phone technology, subject of course to important are need to complement one another.
+limits on privacy and confidentiality. These then are some of When we scale up to cities which we represent by subdi-
+the problems that plague these kinds of applications. vision into small zones or neighbourhoods, sometimes called
+
+We noted above that the discrete choice models we have TAZs (Traffic Assignment/ Analysis Zones) which often have
+introduced here can be used to compute the probabilities of a few thousand trip makers located within, we usually adapt
+individuals making different kinds of trips during any these to simulate all the trips that are generated in each of
+period of time. These models treat individuals as agents these zones. We can also use the same kinds of utilities
+and enable the sequence of origins and destinations that based on benefits less costs that we specified in our generic
+take place when individuals travel to be simulated. Essen- equations listed previously in (4.1) to (4.5). In fact, the
+tially, each individual has a travel profile and time budget model we specified in these equations is what is called
+that needs to be met in terms of their daily activities. An indi- singly-constrained in that the flows or trips generated sum
+vidual will then generate trips to satisfy their daily activities to the activity at the origins i while the model is designed
+schedule, and this leads to these trips being assigned to the to predict activity at the destinations j. Formally then
+network. Where they travel to is dependent on predictions O,(t) =, OF(t) = DK Fi where we aggregate over k indi-
+from the models noted above, and these predictions are viduals and j destinations and Dj(t) = >°; Di(t) =u Fi
+used to generate all the travel decisions during each individ- where we aggregate over k individuals and i origins. We
+ual’s activity schedule. When all these trips are loaded still index these flows at a cross-section in time and insofar
+(assigned) to the various networks, it is likely that the pattern as there is any dynamics, it is able to enter these equations
+is not feasible in certain ways and this leads to positive feed- through the utility terms. But as such, there are no explicit
+back that enables the individual traveller to make marginal dynamic processes based on feedbacks of the kind that are
+changes in their schedules and locations that lead to another key to the way the city evolves. These models are still, at

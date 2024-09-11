@@ -1,0 +1,25 @@
+allowing users to test the relative importance of different spe- to the incompleteness of the fossil record. The lack of an under-
+ciation modes such as sympatric speciation, vicariance and lying phylogeny makes the DES model unsuitable for ancestral
+founder-event speciation [22]. These additional parameters range estimation, but applicable to a wide range of extinct and
+provide a comprehensive framework to statistically assess extant lineages for which fossil occurrences are available,
+the most likely scenarios of range inheritance at cladogenetic including those lacking a reliable phylogenetic hypothesis.
+events. By contrast, anagenetic range evolution is still typically The main focus of the DES model is the estimation of dispersal
+modelled under very simplistic parametrizations involving rates between areas and area-specific extinction rates, with the
+two parameters: one rate of dispersal (or area gain) and one possibility to allow for temporal rate variations.
+rate of local extinction (or area loss) [20-22]. Most phylogenetic In this study, we (i) present the DES model and provide a
+methods are, therefore, currently unable to infer rate asymme- Bayesian implementation to infer dispersal, extinction and
+tries and temporal variations in dispersal and extinction from sampling parameters, (ii) assess its ability to accurately esti-
+the data (but see [10,24,25]). This limitation can be attributed mate the parameters through extensive simulations and
+to the fact that, although it is theoretically possible to popu- (iii) apply the method to a large empirical dataset of plant fos-
+late the DEC transition matrix with asymmetric dispersal sils to estimate dispersal and extinction levels in North
+rates and area-specific extinction rates [20], the data used in America and Eurasia throughout the Cenozoic. Finally, we dis-
+biogeographic analysis (current ranges and phylogenetic cuss the usefulness of dispersal and extinction rates estimated
+relationships of extant species) are probably insufficient to esti- from fossil data to inform and improve phylogeny-based
+mate all required parameters [26]. This is highlighted by the biogeographic inferences.
+
+poor accuracy of dispersal and extinction rates estimated
+under DEC-based methods, even in the simple case of constant
+and symmetric parameters [20,22]. 2. Material and methods
+Improved estimation of dispersal and extinction rates is
+potentially achieved by integrating the processes of geographi-
+cal range evolution within the birth-death diversification

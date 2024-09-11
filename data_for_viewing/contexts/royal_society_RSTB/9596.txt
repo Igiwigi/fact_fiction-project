@@ -1,0 +1,25 @@
+~
+(e) Helminth— microbiota interactions: diversity =
+Preliminary analyses showed that the number of observed OTUs (h) Helminth-associated variation in the predicted oo
+was a good proxy for microbiota alpha diversity. To assess Ss
+whether there was an association between microbiota diversity, . metagenome . . . =
+helminths within their gut niche (the location(s) of the gut in To identify metagenomic features in each gut section that were =
+which the helminths reside) and sections of the gut microbiota associated with the presence and abundance of particular helminths, &
+sampled, we used linear mixed effect models (LMEs) with micro- we used COG categories as a response variable in DESzQ2 analyses. a
+biota diversity as a response variable and presence or abundance
+of helminths, gut section and helminth-gut section interactions as
+explanatory variables. Log-transformed read counts for each gut 3. Results
+section within each host were used as covariates to account for
+the fact that the probability of OTU detection varied with Within the gastrointestinal tract of 29 A. flavicollis, two hel-
+sequencing depth. The effects of individual mouse and geo- minth species (T. muris and Aspiculuris tetraptera) were
+graphical location were modelled as a nested random intercept. present in only one individual, so these helminths were
+Backwards stepwise deletion of non-significant terms was used excluded from further analyses (table 1). Instead, two nema-
+to produce the most parsimonious model. todes, H. polygyrus and Syphacia spp., and cestodes
+
+Hymenolepis spp. were ubiquitous in each of three rodent
+populations sampled. In addition, M. muris was found in
+only one population. Each helminth colonized distinct parts
+of the gut; Hymenolepis spp. and H. polygyrus were detected
+
+(f) Helminth— microbiota interactions: composition
+To determine whether there were differences in microbiota

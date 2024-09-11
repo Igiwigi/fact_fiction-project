@@ -1,0 +1,25 @@
+bacteria like Lactococcus lactis [106] and Bacteroides thetaiotao- CRISPRi and CRISPRa have also been adapted to
+micron, where it was used to alter the bacterial metabolic eukaryotic cells and—of particular relevance to this review— —__
+capacity and its resistance to antimicrobial peptides [107]. to Saccharomyces cerevisiae [121], where it could help inthe devel- =:
+In the latter work, the CRISPRi repression was also shown opment of probiotic yeast. Note that while dCas9 itself can 5!
+to be functional in the mouse gut. efficiently block transcription in bacteria, CRISPRi in eukaryotic = >
+It is also possible to repurpose dCas9 as a transcriptional cells requires the fusion of dCas9 to effector domains. =
+activator, in a strategy also known as CRISPRa. In a first g
+proof of concept, dCas9 was fused to the omega subunit of =
+the RNA polymerase, yielding moderate activation [100]. In ~
+a recent study, activator deonains were recruited to the 7. Challenges and future prospects “
+dCas9 ribonucleic complex using a more elaborate strategy. Over the past few years, we have seen the application of 3
+Activator domains were fused to the MS2 coat protein, CRISPR tools to organisms as diverse as Firmicutes, Proteo- S
+which binds to a MS2 hairpin itself fused to the guide RNA bacteria, yeasts and human cells. The fact that the Cas9
+[108]. Several candidate activators could easily be tested in protein from S. pyogenes worked easily in so many different
+this manner and strong activation was obtained with SoxS, cellular backgrounds was surprising to many. This bodes
+which could further be optimized to yield up to a 50-fold well for the future applications of CRISPR technologies to
+increase in the expression of a target reporter gene. The the extremely diverse set of organisms that compose our
+authors further showed how this design could be used to microbiome, even though Cas9 from different origins, or
+activate silent metabolic pathways. Note however that this even other Cas proteins, might be better suited than others
+strategy is very sensitive to the distance between the target to specific organisms.
+and the promoter. Binding needs to occur within a narrow While CRISPR-Cas systems seem easily portable between
+window roughly 60-90 bases upstream of the transcription species, one key consideration is that the outcome of DNA clea-
+start site. When no PAM is available in the desired range, it vage by Cas nucleases can be very different depending on the
+might not be possible to use this tool without further efforts type and efficiency of the DNA repair pathways present in
+to modify PAM specificity [109]. different organisms. As an example, Cas9 cleavage in the

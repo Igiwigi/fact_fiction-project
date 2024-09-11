@@ -1,0 +1,25 @@
+to the same clone and their data were pooled. Pond location, urban-
+ization level and the number of clones used in our experiment are
+given in electronic supplementary material, table SA4.
+
+Exploratory analyses indicated different patterns of the cladoceran
+community body size change depending on whether the com-
+munities were dominated by small- or large-bodied taxa (see §3).
+We divided the data into two subsets. The large-species dominated
+community subset (n = 34, large species having an average body
+size > 1mm, see e.g. [32]; species included: D. magna, D. obtusa,
+D. pulex and the chydorid Eurycercus lamellatus), involving commu-
+nities having more than 5% of large species in terms of abundances
+(a 5% cut-off value is inspired by the fact that their body size is large,
+so that in terms of biomass their contribution is more substantial),
+and the small-species dominated community subset (1 = 50; all
+other ponds). All analyses on communities presented below were
+
+done on all three datasets (i.e. the full dataset and the two subsets). (ili) Genetic variation and phenotypic plasticity in body size in
+For the analyses involving genetic variation in D. magna, only the Daphnia magna
+large-species subset was used as community dataset. Data analyses We tested for the effect of urbanization and temperature exposure
+were conducted with the R software v. 3.2.3 for Windows [43]. Out- on genotypic values (this term is clarified in electronic supple-
+liers and influential data points were detected using the Cook’s mentary material, Box SA1) of D. magna size at maturity
+distance, the outlier test function (‘car’ package, [43]), and visual with clone (nested in population) and population included as
+screening by plotting the model residuals versus leverage and plot- random effects in our linear mixed-effect model (using the
+ting all the data points. The justification for outlier removal as well as ‘Ime4’ and ‘car’ packages in R to compute approximate F-test

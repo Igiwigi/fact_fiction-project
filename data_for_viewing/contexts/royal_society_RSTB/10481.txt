@@ -1,0 +1,25 @@
+To answer the first two questions, we need a compu-
+tational technique to detect ‘one-way streets’. Recognizing
+that lag threads are simply propagation sequences that
+order voxels from early to late, one-way streets can be recov-
+ered by looking for correlations in voxel-wise temporal
+ordering across lag threads (figure 3d,e). Intuitively, ‘land-
+marks’ (e.g. voxels) on a one-way street are always visited
+in the same order. Hence, regardless of whether the
+one-way street is traversed early or late in a specific path
+(e.g. lag thread), the ordering of landmarks will be highly
+correlated over all paths (e.g. over all lag threads). When
+we compute the voxel-wise propagation sequence correlation
+across lag threads, we in fact find topographies of high corre-
+lation, indicating the presence of one-way streets (figure 3f).
+We refer to these ‘one-way street topographies’ as ‘lag
+thread motifs’. Comparing the propagation sequence corre-
+lation matrix (figure 1f) against a conventional zero-lag
+(functional connectivity) correlation matrix (figure 1b), we
+
+find substantial agreement [42]. Thus, not only do we find
+evidence of ‘one-way street’ motifs in BOLD signal propa-
+gation, these lag thread motifs match the topographies of
+RSNs. Interestingly, the voxel-wise propagation sequence
+correlation matrix also exhibits anti-correlations, predomi-
+nantly in the off-diagonal blocks. These anti-correlations

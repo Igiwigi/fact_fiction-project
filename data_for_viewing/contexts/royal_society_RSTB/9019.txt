@@ -1,0 +1,25 @@
+nodes which are selected among the N nodes at random, avoiding
+cating how widely individual nodes are connected to different multiple times of selection. This step is repeated until the number
+modules of the network. Third, both neural networks show of links becomes E. The small-worldness o., is larger than
+lower algorithmic entropy than their alternative arrangements. unity for small-world networks, equal to unity if the ratio between
+
+find that the formation of fibre bundles, or the fasciculation,
+is correlated with the reduced total wiring length. A similar
+behaviour is observed from the network of neurons and the
+network of ganglia in C. elegans. To quantify this bundling
+behaviour, we introduce the novel measure of dispersion, indi-
+
+
+C/Cyana and L/Lyana is the same as for random networks (note that of the fact that the modularity, unless there are small fluctu-
+
+absolute C and L might still differ from those of random networks), ations, converges to a single value for a given temperature.
+and smaller than unity when the clustering coefficient is smaller After a sufficient number of link swappings are performed, the
+and/or the characteristic path length is larger than for random net- connection specificity of the original network is lost and the
+works. The total wiring length (W) is the sum of the Euclidean resulting network has the desired modularity but is otherwise
+distance between all connections of a network when the network maximally random. Any choice of network snapshot at this
+nodes are provided with spatial locations. state is statistically identical to every other, and the entire set of
+
+such networks is the ensemble of networks with the given mod-
+ularity. In practice, we first performed 800 x E link swaps for a
+
+() Modul arity and link swapping given temperature, and then sampled 100 network snapshots

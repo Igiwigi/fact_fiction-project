@@ -1,0 +1,25 @@
+the exposure to a very large corpus of spelling—sound words. If a word is found in the phonological lexicon but is
+pairs. That is, the input (spelling) and the ‘desired’ output not yet in the orthographic lexicon, a direct link between the
+(target pronunciation) for many thousands of words are typi- two is established. Thus, exactly as in Share’s [2] theory, each
+cally presented until the error-correction procedure employed successful decoding encounter with an unfamiliar word pro-
+as learning algorithm reaches a level of performance that is vides an opportunity to acquire word-specific orthographic
+considered adequate by some external criterion. However, information. At the same time, the pronunciation of the decoded
+this training regimen is highly implausible: the kind of word is used as a ‘built-in-teacher’—that is, an internally gener-
+supervised learning used in all models implies that a teacher ated teaching signal—to improve the efficiency of the TLA
+externally supplies the pronunciation of all words that should decoding network itself. As a result, high decoding accuracy is
+be learnt. As argued above, in real life, although there is an obtained rather quickly (figure 3).
+external teacher (sometimes), the external teacher does not One important issue that we have not fully addressed yet
+provide correct pronunciations for many thousands of is what happens when initial decoding results in the acti-
+words. As a matter of fact, the power of self-teaching is the vation of several word candidates. In our simulations, we
+idea that such an external teacher is not needed [2]. simply chose the correct word (figure 2c) if it was in the
+In this work, an external teacher is only needed for the cohort of word candidates. This oversimplification is based
+pretraining of a small number of grapheme—phoneme corre- on the assumption that in the real learning situation with
+
+spondences [15] and for the selection of some word candidates real texts, children will have additional information from
+
+
+the story context, images, semantics or syntax to help them implemented through poor vocabulary (a small phonological
+
+chose the correct target. Nevertheless, as shown in Simulation lexicon), noise in the phonological lexicon, underspecified pho-
+3, even if the model failed to choose a word or chose an incor- nological representations or phoneme deficits. Similarly, visual
+rect word, the learning process was not dramatically affected deficits could be simulated through noisy letter detectors, poor

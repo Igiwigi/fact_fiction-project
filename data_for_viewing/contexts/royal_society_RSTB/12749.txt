@@ -1,0 +1,25 @@
+model for fitness by computing a Taylor polynomial for a more appropriate to particular biological questions than
+
+potentially nonlinear and frequency-dependent fitness func- others. Mathematical translation rules between different
+
+tion, and then we apply the Price equation to the resulting social evolution approaches are then in an informal sense
+
+approximate additive model of fitness [8], thus obtaining an simultaneously translations between different causal perspec-
+
+approximate model for evolutionary change. So, if we break tives that can be applied under regression, additive and weak
+
+down the process into steps, what looks like differentiation selection models. I have previously argued that, although
+
+of the fitness function is in fact something relatively complex perhaps easiest to initially derive using direct fitness kin
+
+and by no means obvious. We have gone from a static selection formalism [36], models of gamete evolution under
+
+description of fitness to a model that tracks change of pheno- gamete competition and gamete limitation [32], and local
+
+type over time under weak selection. From this perspective, it mate competition sex allocation models [83], can both benefit
+
+no longer seems very puzzling that differentiation reveals from an MLS interpretation. It is not that the MLS perspective
+
+aspects of causal structure that may not be obvious when is in some absolute sense the correct interpretation for these
+
+we write down the initial fitness function. questions, but rather that in both models, there are ecological

@@ -1,0 +1,25 @@
+approaches—leading to the successful sequencing of DNA independent short-read RNA-seq method. While short-read
+molecules almost 1 million base-pairs in length [2]. RNA-seq would not be able to systematically resolve isoforms,
+
+assemblies of these reads can be used to estimate transcript
+(b) Length bias lengths. Comparing representation of transcripts of different
+All current long-read transcriptome sequencing approaches lengths in long-read datasets prepared with different protocols
+are biased towards short transcripts. As a result, the lengths will then help reveal biases of these protocols.
+of reads produced and therefore transcripts sequenced by The question then still remains: how do we overcome the
+these various approaches do not reflect the transcript lengths inherent limitations of PCR amplification, sequencing library
+as determined by annotation efforts like GENCODE. While preparation, and the cDNA and direct RNA sequencing process
+the expression of short and long transcripts surely varies itself. One thing that is certain is that future efforts will have to
+for each sample and each sample will only include a fraction overcome these limitations or, ironically, the world of long
+of all transcripts in the GENCODE annotation, the fact transcripts will remain closed to long-read transcriptomics.
+remains that current long-read approaches appear to have a It will be up to the wider genomics community as well as
+hard time capturing long transcripts. PacBio and ONT to address these limitations. While adding
+
+This bias is rooted in the way samples are prepared for complexity to sample preparations and distorting sample com-
+sequencing as well as the sequencing technology itself. To pre- positions, size selections on the RNA or cDNA level might
+pare full-length eukaryotic mRNA molecules for sequencing, mitigate length bias in sample preparation. Also, reducing
+protocols for PacBio and ONT sequencers today rely on some cDNA amounts required for sequencing reactions might elimin-
+
+version of RT using oligo-dT priming most often paired with ate the need for PCR entirely. Additionally, PacBio sequencers
+
+
+200 bases

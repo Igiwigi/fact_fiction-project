@@ -1,0 +1,25 @@
+ing, such models will be broadly referred to as gene-species of the species tree is difficult, as this also requires the proposal
+reconciliation models. of correlated moves on gene trees, making them well adapted
+In addition to duplications, losses and transfers, incomplete to the new species tree. Several computational shortcuts or
+lineage sorting (ILS) is an additional cause of discrepancy statistical alternatives have been proposed to circumvent these
+between gene trees and species trees. ILS is typically addressed rather challenging MCMC mixing issues (reviewed in [78]).
+
+using probabilistic models based on the multi-species coalescent
+
+[79-81]. In their general structure, multi-species coalescent
+
+models are similar to the gene-species reconciliation models . . .
+
+accounting for gene duplications, losses and transfers. In fact, 4. Achievi ng the integ ration
+
+ILS and diversification of gene families can be simultaneously Gene-species tree reconciliation models represent a recent key
+considered in one single modelling framework [82]. development in statistical evolutionary genetics. They are
+
+
+very likely to become one of the methods of reference in the a better resolution of the gene-specific histories. This is but 6 |
+
+near future. On the other hand, presently, the approach does one example of the subtle modulations that can be more
+not seem to be completely ready for routine application to finely captured once the two problems of sequence evolution a
+large-scale phylogenetic problems. This is in part due to the and gene diversification are jointly considered. S
+<
+computational limitations mentioned in the previous a

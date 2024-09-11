@@ -1,0 +1,25 @@
+
+principle, following well-defined principles [68]. But, as the duplication rules is consistent with the hierarchical
+
+
+architecture of software networks. Although human minds consciously plans for the future cannot avoid tinkering when | 6 |
+
+take part in the manufacturing of software technology (instead preserving software stability.
+of the blind watchmaker) and software systems cannot repair We can find common signatures of tinkering in the stat- 3
+themselves [72], tinkering appears to be the main driver for istics of software subgraphs. As happened with network z
+the large-scale software structure. In addition, software motifs for cellular networks, here too the distribution of S
+design principles include fault-tolerance and extensibility, motifs in dependency graphs is essentially a by-product of Ss
+and the latter is closely related to the capability of software tinkering. Given a (sparse) subgraph motif Q, the average =
+to evolve. The fact that a simple growth model (figure 2d) is number of occurrences (G) of this motif in an uncorrelated S
+able to explain most of the statistical properties of software scale-free network scales with the subgraph size and the ©
+graphs [60] is an unexpected turn to Jacob’s views: even the exponent of the in-degree distribution [74]: =
+engineer, who consciously plans for the future, cannot avoid (G@)~N"S esoyel B.A) 5
+tinkering when preserving software stability. ’ . >=
+A simple model, known as the Growing Network with where s is the maximum in-degree in the motif and n andg =
+Copying [73], explains the asymmetric nature of the two are the numbers of nodes and links in the motif, respectively. _,
+degree distributions and the robust scaling exponents. The This scaling is actually valid for 2<y;<s+1. Interestingly, =
+rules are summarized in figure 2a and include directed this prediction is in very good agreement with the number — 3"
+links. The network grows by introducing a single node at a of appearances of motifs in software networks [60]. a
+time. This new node links to m randomly selected target It has been proposed that network features (e.g. motif abun- =
+node(s) with probability p, as well as to all ancestor nodes dances) reveal functions [40]. However, software and proteome = 8
+of each target, with probability q. Specifically, if we label networks display very similar structural features, including 3

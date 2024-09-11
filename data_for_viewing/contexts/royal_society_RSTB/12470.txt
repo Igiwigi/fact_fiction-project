@@ -1,0 +1,25 @@
+may be used to determine that neuron’s preferred SWR pattern, or more generally, its tuning to SWR activity. Ideally, can-
+didate readout neurons would be positively identified as receiving hippocampal input (e.g. with opto-tagging), and show
+temporal relationships with SWRs that reflect a genuine readout rather than merely correlation. Since SWR activity is poten-
+tially dynamic and high-dimensional, a range of appropriate dimensionality reduction techniques may need to be employed
+to characterize readout. Different neurons and brain structures may be ‘tuned’ to different SWR features, applying different
+projections or decision boundaries to the input. For instance, lateral septum neurons may respond preferentially to an ‘overall
+activity’ dimension [33], whereas ventral striatal neurons may respond preferentially to activity associated with reward [37].
+
+Approach 2: trigger disruption or stimulation on specific SWR content features and observe the neural/behavioural consequences. Real-
+time detection of specific SWR features can be used for a variety of interventions that causally test the importance of such fea-
+tures. For instance, selectively disrupting forward or reverse replay may reveal distinct behavioural impairments associated with
+each. Recording in putative readout areas while artificially triggering SWRs, and inhibiting synaptic terminals in triggered on
+SWRs occurring, can provide complementary evidence that a given neuron or area, in fact, performs a readout.
+
+appropriate for retrieval of specific cues, spatial contexts and replay methods that capture the order of firing across
+semantic information that lacks a clear temporal component. populations of neurons.
+
+Sequence replay and ensemble reactivation are in principle
+
+not mutually exclusive either: for instance, the phenomenon
+
+of remapping suggests that distinct contexts are associated (b) Sequence detection
+with specific ensembles (maps) in which multiple distinct tem- There are several popular metrics for quantifying sequence
+porally organized experiences can occur [38-40]. Thus, a given replay: the rank-order (Spearman) correlation [14,15,55], the
+SWR may involve both the reactivation of a specific ensemble replay score (radon transform) introduced by Davidson et al.

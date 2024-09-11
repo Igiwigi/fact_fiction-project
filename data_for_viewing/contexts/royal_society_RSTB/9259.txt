@@ -1,0 +1,25 @@
+music across cultures that may be challenging for traditional
+symbolic models.
+
+One interesting feature of vector grammars is that they are
+computationally more expressive than their symbolic
+counterparts—in fact, they result in an entirely different
+
+
+class of complexity that is not comparable with the models of
+the CH from which the models originated (this is due to the
+large amounts of information that the large real-valued vec-
+tors may carry). For instance, Rodriguez [157] demonstrated
+that a right-branching vector grammar (or, in fact, its special
+case, the Elman network [150]) can generate several context-
+free languages, even though it is well-known that right-
+branching symbolic grammars are finite-state. The reason is,
+Rodriquez argues, that small displacements in a continuous
+vector space can be used to implement a counter. We may
+expect that also other classes of symbolic grammars can be
+approximated by vector grammars with very simple structure
+(even if the non-terminals are in some sense more complex).
+While much theoretical work exploring their expressive
+power is still necessary, they provide another motivation to
+move on to probabilistic, non-symbolic models that move
+beyond the constraints of the CH.

@@ -1,0 +1,25 @@
+and columns, or the solution of simultaneous linear equations in 6 unknowns is sufficiently
+rapid, disproportionate labour is involved in increasing the 6 to 12, and if 52 unknowns
+were attempted the labour involved would become fantastic.
+
+A consideration which has been still more influential in framing our method is that
+even if we were to calculate the 52 partial regression coefficients showing the average
+effect in bushels per acre of an extra inch of rainfall, for each week of the year, such a
+calculation would leave out of consideration the all-important fact that this effect
+may be expected to change continuously during the year. The true partial regression
+coefficients for neighbouring periods must be relatively alike. The method of partial
+correlation as hitherto developed, takes no account of the serial character of our weather
+variates ; after calculating the partial regression coefficients, we should still be far from
+the facts, if we did not smooth the series so obtained by a continuous curve, which
+should average out the independent errors in the values obtained for the successive
+weeks.
+
+Disregarding, then, both the arithmetical and the statistical difficulties, which a direct
+attack on the problem would encounter, we may recognise that whereas with q subdi-
+visions of the year, the linear regression equations of the wheat crop upon the rainfall
+would be of the form
+
+= C+ 47, + 4%, + ... af,
+
+where 7, 72, ..., 7, are the quantities of rain in the several intervals of time, and
+@, ... @, are the regression coefficients, so if infinitely small subdivisions of time were

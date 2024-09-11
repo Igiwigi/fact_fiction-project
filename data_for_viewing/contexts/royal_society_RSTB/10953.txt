@@ -1,0 +1,25 @@
+to escape genes. A cluster of escapees near Mecp2, the Xic and the Kdm5c escape locus, are indicated below. (d) ATAC-see reveals the spatial organization of
+accessible chromatin in NPCs. Xist RNA FISH cloud falls in a region of depletion of accessible chromatin. (e) Model for how the megadomain structure of the
+Xi is formed during X inactivation. TADs on the Xa are lost and replaced by two large domains separated by the DXZ4 element. Full-length Xist containing
+the A-repeat region is required for this restructuring. After X inactivation, small escape TADs form. Within these TADs, escape genes make contact with one another
+and are regulated at highly proximal CTCF elements. Figures adapted from Giorgetti et al. [68] and Chen et al. [69].
+
+difficult to separate sequencing reads from the inactive and ighly polymorphic hybrid cell lines to get a high resolution
+active X chromsomes. A number of strategies have tradition- picture of the Xi. We used allele-specific Assay for Transposase
+ally been used to deal with this. Male cell lines have been Accessible Chromatin (ATAC)-seq and HiC in hybrid undiffer-
+engineered to contain an inducible Xist transgene on the entiated mouse embryonic stem cells and neural progenitor
+X-chromosome, which upon induction will turn on the Xist cells (NPCs) to study the relationship between 3D chromatin
+transcript and lead to chromosome silencing [46]. This structure, local chromatin structure and gene expression on
+approach is limited by the fact that after silencing of the the Xi [68].
+
+X-chromosome, male cells begin to die, making it impossible
+to track the later stages of XCI. Female cell lines with
+dox-inducible Xist transgenes have also been engineered
+
+but suffer the same limitation [72]. Furthermore, in these (d) Higher-order structure of the Xi
+
+systems, XCI proceeds much more quickly than it does in Upon X inactivation, we and others showed that the inactive
+
+the endogenous context and thus may not follow an identical X-chromosome in the mouse undergoes massive structural
+
+process. To study the stable Xi, it is necessary to distinguish rearrangement, yielding two chromosomal lobes or megado-

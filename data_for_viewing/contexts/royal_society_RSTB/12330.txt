@@ -1,0 +1,25 @@
+this technique, here we divide scRNA-seq into four basic
+steps and summarize common options for each step (figure 1):
+sampling, cell isolation, cell lysis, and library preparation.
+Additionally, we discuss specific challenges relevant to apply-
+ing scRNA-seq to microbial eukaryotes. We recommend
+excellent specific reviews for detailed discussions on the mol-
+ecular biology [23,24], performance and estimated costs
+[25,26], and data analysis [27,28] aspects of scCRNA-seq.
+
+(a) Sampling and preservation additional advantages such as strict filtering of cell doublets
+Sampling strategy is a critical component in capturing the and non-cellular particles (which can be very abundant in
+native transcriptomes of the cells of interest (figure 1a). Ideally, environmental samples). Moreover, in the case of complex
+fresh cells should be isolated and immediately lysed in an communities in the field, FACS can be used to further target
+RNA-stabilizing buffer. However, this is usually not the case, specific cell populations either using intrinsic cell properties
+even in a laboratory setting with model organisms. The time (e.g. presence of pigments) or in combination with staining
+needed for harvesting samples, dissociating them into single (e.g. against specific organelles).
+cells, and isolating cells of interest may affect the RNA compo- A different technology commonly used to isolate single
+sition of the cells. This can be particularly dramatic in the case cells is microfluidics [39]. With lab-on-a-chip devices, cell iso-
+of unicellular eukaryotes, as changes in cell states/life stages lation, lysis, and other reactions can be integrated into a single
+have been shown to be extremely fast in many species [29,30]. chip. The earliest available commercial platform designed
+Although most single-cell studies are performed on fresh specifically for single-cell analyses was the Fluidigm Cl
+cells, several chemicals have been employed to try to preserve system [40]. Although it is not possible to select cells, the C1
+native cell states in animal samples, including methanol [31], system allows imaging of each capture site for the presence
+dimethylsulfoxide [32], crosslinkers that require later reverse of single cells and their viability [41]. Fluidigm C1 has been
+cross-linking such as paraformaldehyde [33] and dithio-bis- successfully used to isolate single cells of unicellular algae

@@ -1,0 +1,25 @@
+
+2. The necessity of stabilizing mechanisms
+
+One question that is frequently raised outside of the homeo-
+static plasticity field is whether or not these stabilizing
+mechanisms are actually necessary for proper brain function.
+This question has been repeatedly addressed by theorists and
+modellers, and their work typically indicates that without
+some form of stabilization of firing rates or synaptic weights,
+network models that can store memory patterns in recurrent
+synaptic strength become unstable, typically in the direction
+of activity being too high [1-4]. These runaway increases
+in activity emerge from the fact that most Hebbian strength-
+ening mechanisms are dependent on coincident firing
+between the pre- and post-synaptic neurons, and this process
+involves a positive feedback loop: namely, the more frequent
+coincident activity in a group of neurons is, the more likely
+that synapses connecting these neurons are strengthened.
+These strengthened synapses further increase coincident
+activity within the group and very quickly, in a positive
+feedback loop, activity pathologically increases.
+
+3. Mechanisms of homeostatic stabilization
+
+If some form of stability is necessary, what mechanisms may

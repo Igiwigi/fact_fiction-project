@@ -1,0 +1,25 @@
+
+(f) Superhuman chess
+
+The second example comes from an illuminating study that
+investigated whether AI with superhuman chess perform-
+ance produced human-like sequences during the game. The
+
+(e) Human Navigation Turing Test authors analysed the extent to which the agent’s chess strat-
+The first example used human experiments to improve the egies and sequences of moves were recognized as ‘human-
+human-like navigation of AI agents in video games. To this like’ by expert chess players, and found that they were not
+end, two recent papers introduced the Human Navigation [3]. These results suggest that the challenge of playing super-
+Turing Test (HNTT) for a 3D video game (Bleeding Edge human chess and the challenge of playing human-like chess are
+on XBox, figure 3). The HNTT was designed to test whether quite different (figure 3), a fact that has been overlooked by
+state of the art (SoTA) AI for navigation in 3D video games, the field in spite of being seemingly obvious. Now some
+with similar benchmark scores, behaved in a human-like way may argue that humans could improve their chess perform-
+to human observers [1]. In HNTT, observers were shown ance if they learn the superhuman play from the AI.
+pairs of videos of gameplay and asked to judge which one However, just as some physical ranges of motion are unna-
+
+was more likely played by an average human player rather tural for the human body, certain algorithmically generated
+
+
+moves may never be human-like either—as the authors two sequences, ABC and XYZ, in phase 1. In phase 2, they
+
+observed in unpublished follow-up research, teaching the were shown only the pairs BZ and YC, signalling that the
+Al-generated sequences to humans did not improve their transition structure of the initial sequence had changed. In 3

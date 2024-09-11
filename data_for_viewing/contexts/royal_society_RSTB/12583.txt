@@ -1,0 +1,24 @@
+
+2. Revi f . di . widespread generalization in that it could recall sequences of
+. heview 0 previous studies assessing letters it had never been trained on. However, the model was
+
+combinatorial generalization in conventional only tested on a limited form of generalization in which each
+. . letter was trained in each position within a list. When Bowers
+connectionist architectures
+
+et al. [27,28] excluded specific letters in specific positions
+
+Fodor & Pylyshyn [11] provided an early seminal criticism of during training (e.g. the letter A was trained in all positions
+the conventional connectionist framework. They argued that apart from position 1) and then included them in that position
+a wide range of cognitive capacities rest on the fact that the at test, the model did poorly, highlighting the model’s failure
+mind is compositional, with a small set of context-independent in combinatorial generalization. Similar limitations in related
+elements (e.g. words, units of meaning) used to productively networks were observed by other authors [19,29].
+
+compose more complex representations in limitless ways. On Do these findings pose a challenge to the conventional
+their view, conventional connectionist models that fail to connectionist approach to explaining human cognition?
+build in mechanisms to explicitly code for the compositional Botvinick & Plaut [24] defended this approach by arguing
+structure of cognition are doomed to fail in combinatorial that the restricted generalization was a strength based on
+generalization tasks in which networks are required to produce their claim that humans would also fail under similar training
+novel outputs based on novel combinations of familiar sym- conditions. Alternatively, the conventional approach might be
+bols. For example, after training a network on the symbols supported by noting that Bowers et al. [27,28] only observed
+John’, ‘Mary’, ‘loves’ and the relation ‘loves (John, Mary)’ a limited performance with a simple recurrent network. More

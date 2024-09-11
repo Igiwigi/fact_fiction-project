@@ -1,0 +1,25 @@
+. Results MAF lower than 5% were also removed. The retained
+
+age . matrices contain between 14164 SNPs for the European
+(a) Characteristics of subpopulations selected for wine group and 82869 SNPs for the 1011 strains and cover
+
+genome-wide associations the entire genome in each dataset (table 1). After these prun-
+The performance of genome-wide association studies varies ing steps, the distribution of the MAF shows a rapid decrease,
+greatly depending on the characteristics of the population with a strong bias toward the low frequency variants
+used to conduct the experiment. In order to evaluate the influ- (figure 1b). However, the distribution of the MAF is more uni-
+ence of parameters such as minor allele frequency, sample size form for the mixed origins dataset, and the sake dataset has
+and relatedness, we used six different sets of individuals from 13% of the SNPs with a MAF of around 0.49. These latter
+the 1011 sequenced isolates of S. cerevisiae. Among the different SNPs are distributed across the entire genome and this bias
+clades identified though the analysis of phylogenetic relation- is linked to the fact that half of the sake strains are clustered
+ships between the isolates [4], four were directly selected as on a thin branch of the tree, suggesting that they are very
+subsets: European wine, sake, mosaic region 3 and the mixed close and share a recent common ancestor (figure 1a).
+origin cluster (figure 1a). We have also included the complete In order to test the ability of each dataset to map the
+
+dataset with 1011 individuals and the sampled diversity causal variants responsible for phenotypic variation,
+
+
+extensive simulations were performed. The causal genetic false positives. The sample size is not the only factor influen- [5 |
+
+determinants of two types of traits, Mendelian and complex cing the FPR, as the sampled diversity shows the best
+
+traits governed by one and a large number of genetic variants performance, and the European wine cluster (second highest g

@@ -1,0 +1,25 @@
+A feathers
+y=ay-SiW=wly’ scales
+Aw! = An’x': AW2= Ay’h gills
+leaves
+AW! = A(W2"y’) x", AW? = Ay’ (Wh)? skin
+
+Figure 5. The simplified network architecture used in our main analysis and simulations, showing an input unit for each of the eight base items in the new dataset,
+plus an additional, initially unused input unit for sparrowhawk, to be learned after learning the eight base items. There is now only one hidden layer, and the
+network is linear, in that the vector of activations of hidden units of the network h is just the product of the input vector times the input-to-hidden matrix W', and
+the network output , is just the product of the vector h times the hidden-to-output weights W’, as shown in the first row of inset equations. When the network is
+trained using back-propagation, the error signal y’ for the hidden-to-output weights is the difference between the target vector y and the network's output y, while
+the error signal h’ for the input to hidden weights is the output-layer error signal y’ back-propagated through the hidden to output weights W?, as shown by the
+second row of equations. The third row of equations expresses the fact that the change in each weight matrix depends on the learning rate 2 times the activations
+at the input to the matrix times the error signal at the output of the matrix. The fourth row of equations substitutes factors from the first and second rows to make
+explicit how the change to each weight matrix depends on the other weight matrix. (Online version in colour.)
+
+between the input and the output layer, and because the signal on the input side is the hidden layer activation pattern
+characteristics we describe are also exhibited when there are h, which depends on the input to hidden weights W'. If
+more hidden layers. Although the computations that can be these input to hidden weights were all zeros, the hidden
+performed by a deep linear network can also be performed layer activations would all be 0, so there could be no change
+by an equivalent network that directly links input units to to the hidden-to-output weights. For the input to hidden
+output units with a single layer of connection weights, the weights, the activation on the input side is just the input pattern
+dynamics of learning in deep linear networks are surprisingly x, and the error signal on the output side of these weights is the
+nonlinear and very different from those of a network without a learning signal y’ back-propagated through (i.e. multiplied
+hidden layer [26]. The key insight here is that the signals by) the hidden-to-output weights. So, if these hidden-to-

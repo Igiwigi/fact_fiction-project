@@ -1,0 +1,25 @@
+The general idea of reconstructing an asymmetric molecule
+from low-exposure projections cast by randomly oriented
+‘copies’ or realizations of that molecule was first formulated
+in 1975 [8] and later put into practice through the development
+of an image processing system, SPIDER [9]. Importantly,
+the method is based on the ability to align such low-exposure
+images by cross-correlation with sufficient accuracy to deter-
+mine the molecule’s structure [10]. A brief account of the
+early development of mathematical concepts and compu-
+tational approaches has been given elsewhere [11]. What is
+important, in the context of this review, are two distinct
+advantages of the single-particle over crystallographic
+methods [12,13]. One is the fact that the imaging of the mol-
+ecule in single, non-attached form is likely to yield a more
+authentic structure—unaffected by interaction of the molecule
+with its neighbours, and arguably more representative of the
+free molecule in solution. In contrast, both X-ray crystallo-
+graphy and electron crystallography [14] result in structures
+that are influenced by the energy minimization inherent in
+the formation of a closely packed crystal, and thus may signifi-
+cantly differ from the structures assumed by the functional
+molecule in the course of its work cycle. The second advan-
+tage of single-particle techniques is related to the fact that
+
+multiple equilibrating conformations and binding states of

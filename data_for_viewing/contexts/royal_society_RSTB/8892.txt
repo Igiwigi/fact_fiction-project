@@ -1,0 +1,25 @@
+unit, and a small average will reflect regularity. In its simplest acknowledged in Knight [32], that the subsections were too
+form, this ‘raw’ PVI leaves a problem because as values v for short to neutralize for phonological content and to allow
+the property p are scaled up (for instance, as durations the values of the metrics to ‘settle’.
+become proportionately greater under rallentando, or when a Gibbon [31] claims that ‘The [PVI] model has an empirical
+slower speaker is measured) the pairwise differences will problem: it assumes strictly binary rhythm. Hence, alterna-
+become larger in a way which will falsely imply increasing irre- tions as in Little John met Robin Hood and so the merrie men
+gularity. Low [21], therefore, used a normalized PVI as shown in were born are adequately modelled, but not the unary
+equation (2.1) below, where each difference is calculated as a rhythm (syllable timing) of This one big fat bear swam fast
+proportion of the mean value for p within the pair, the resultant near Jane's boat or ternary dactylic and anapaestic rhythms
+fractional average PVI values being summed over the utter- (or those with even higher cardinality) like Jonathan Appleby
+ance, and multiplied by 100 merely to yield a whole number wandered around with a tune on his lips and saw Jennifer Middle-
+
+ton playing a xylophone down on the market-place.’ In fact, the
+
+PVI = 100 x » Vk Vk-1 Mn—1)). (2.1) originators of the PVI were perfectly aware that English
+£3 |(ve + Ve-1)/2 rhythm is not consistently binary; Nolan [33] explicitly antici-
+pates the point, as reprised in §6 below, and Lin & Wang
+Lower normalized vowel PVI values (nPVI-V) were indeed [34] deliberately incorporate constructed sentences with
+found in Singapore English than British English [21,22]. This ‘unary’ rhythm in the expectation that these would not
+lent quantitative support for the implication of the ‘syllable differ in PVI between British and Singaporean English. The
+timed’ label that syllables (represented by measurements of PVI metric does not ‘assume binary rhythm’, it assumes a
+their vowels) show less variability in Singapore English. sufficient predominance of strong-weak alternation in natural
+The PVI was extended to cross-language comparison by usage that the cumulative effect will be to raise the PVI value
+Grabe & Low [23]. They took one speaker from each of 18 in a language impressionistically described as stress-timed.
+languages, and for duration calculated both the normalized For instance, even in Gibbon’s carefully constructed dactylic

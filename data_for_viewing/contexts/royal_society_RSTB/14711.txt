@@ -1,0 +1,25 @@
+are required to ensure sustainable consistency and quality
+of research in the field.
+
+4, What we mean by computer human-like navigation behaviour in video games [1]. In
+. . . what follows we will also discuss deep MBRL agents with
+science/ engineering goals high scores on Atari benchmarks that, when tested on tasks
+This section regards research that is primarily focused on engin- for testing human model-based behaviour, did not show
+eering, benchmarks and computer science goals. Whether the flexible behaviour expected of model-based agents with
+through building deep learning algorithms, robotics or novel a model of the environment [36]. In spite of the focus of
+benchmarks, computer science and engineering goals include the present paper, the author acknowledges that not all AI
+making theoretical and empirical advances in computer science, sol- research is, nor needs to be, dedicated to connections between
+ving theoretical or real-world problems and adapting AI for specific neural and cognitive sciences. That said, it is the author's
+applications. In fact, the majority of AI research is applied to hope that the following examples offer motivations for AI
+diverse domains, including scientific problems [142], most of researchers with engineering goals to look to the cognitive
+which have nothing to do with biological behaviour or neuro- and neuro- sciences for inspiration (also see §5 for potential
+
+science (just as much of computer science is not about Al). future directions).
+
+
+(a) Examples in the rubric members (dynamic topology) achieved the highest level of
+hierarchical innovation across tasks. In the future, the extension
+of such multi-agent studies, paired with metalearning [54],
+could offer a window into the evolution of human-like
+
+Interaction grounded learning (IGL) or action inclusive IGL is

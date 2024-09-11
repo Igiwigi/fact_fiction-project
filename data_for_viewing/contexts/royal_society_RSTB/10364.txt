@@ -1,0 +1,25 @@
+conditions. This presumably allows them to exploit updrafts groundspeed rather than to airspeed. Such an analysis could
+that would be unsuitable for sustained soaring on fixed wings. appear to lead to different conclusions regarding the mechan-
+
+The third scalar product in equation (2.3) (-mU - dW/dt) is ism of shear soaring, because the largest gain in kinetic energy
+equal to mU multiplied by the scalar projection of the time relative to the ground occurs when a bird turns downwind
+derivative of the wind (dW/dt) onto the headwind direction near the top of the shear layer [13,28], which is not associated
+vector (h), defined as the unit vector opposite to the bird’s air with any gain in kinetic energy relative to the air [15,16]. How-
+velocity vector (figure 1). We will write this projection as ever, it is the bird’s airspeed—not its groundspeed—which
+dW, /dt, and can therefore rewrite the third scalar product determines the aerodynamic force that is produced. Moreover,
+as mU(dW;//dt). It should be noted that the projection of the the fundamental source of energy in shear soaring is the vari-
+time derivative of the wind onto h is not identical to the time ation in wind speed that the bird encounters as it passes
+derivative of the projection of the wind onto h, which reflects through the shear layer [32]. Hence, while it is possible to use
+the fact that a bird cannot harvest aerodynamically useful either formulation to solve for flight trajectories that result in
+mechanical energy from a constant wind field merely by turn- no net change in mechanical energy over a period of cyclical
+ing into the wind. The resulting term mU(dW;/dt) represents ascent and descent [28,38], the mechanism by which useful
+dynamic soaring, and measures the rate at which useful kinetic kinetic energy is gained must be understood in relation to the
+energy is obtained from a time-varying wind field. Because bird’s movement relative to the air, not the ground. This
+U> 0, it is clear by inspection that energy will be gained accords with the original verbal description of the mechanism
+through dynamic soaring if and only if dW, /dt > 0, which is by Rayleigh [32].
+
+satisfied when flying in either a strengthening headwind or a
+weakening tailwind. The principle of dynamic soaring can
+
+therefore be captured in one very simple rule: fly upwind in a (b) Aerodynamic cost of transport ina moving
+strengthening wind and downwind in a weakening wind.

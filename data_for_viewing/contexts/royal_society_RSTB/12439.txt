@@ -1,0 +1,25 @@
+Since these seminal studies, to assess reactivation, a simple coherence are swapped (i.e. the ‘flow’ of time is reversed). Reac- =
+within animal paradigm has become the standard protocol in tivation can thus be assessed by a significant difference =
+the field. The typical experiment consists of a naive animal between EV and REV across recording sessions. S
+sleeping in its home cage for several hours, being exposed to EV has three main limitations. First, it does not account for = ©
+a new environment or maze, and then returning to its home the possible change in firing rates (independent of correlations) =
+cage for several more hours. This paradigm then allows for that inevitably leads to changes in correlation [14]. Itis possible 5
+the comparison of activity patterns between the behavioural to control for this by subsampling spike trains to equalize rates =
+epoch and the post-behaviour epoch, while using the pre- [15], or greatly increase the time bin size in order to estimate the >
+behaviour epoch as an internal control to determine if such contribution of slow time-scale rate fluctuations. Second, it Ss
+activity patterns were pre-existing. does not allow for the resolution of reactivation in time as it = =
+One key issue with the study of these phenomena is that evaluates only reactivation over an entire sleep epoch. Third, — 5!
+the observation and quantification of such patterns depend all cell-pair correlation values are considered, not controlling = >
+intimately on the choice of methods used for detection and for the fact that data of limited duration inevitably generates =
+statistical assessment of their existence. non-zero correlations. 3
+is]
+Ss
+oo (b) Tracking reactivation over time ie
+2. Reactivation methods Methods have been developed to compare at a given time the =
+(a) Cell-pair correlation and explained variance instantaneous co-firing with a template of ensemble spiking S
+
+([16], see ‘template matching’ below). Using a template allows
+for the tracking of the time course of reactivation, and thus to
+correlate, for example, the instantaneous reactivation with
+some physiological events such as SWRs. However, the tem-
+plate is composed of only one instance or trial of spiking

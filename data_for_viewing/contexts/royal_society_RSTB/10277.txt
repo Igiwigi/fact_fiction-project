@@ -1,0 +1,25 @@
+signal during intermediate time bins following stimulus onset (blue: expected; red: unexpected). Both plots: both repetition and expectation of an auditory tone give
+reduced neural signal during late time bins following stimulus onset. Time is denoted along the x-axis and periods during which a significant effect was observed
+are shown in grey’. The average auditory evoked response measured using MEG is shown on the y-axis. Adapted from [103].
+
+show cross-stimulus adaptation in proportion to neural selec- sequences violate transition rules between visual stimuli that
+tivity [65]. Notably, however this does not necessarily were learned during training [109]. These results appeal to a
+compromise the ability to use fMRI adaptation to index long line of literature showing heightened responses in
+neural selectivity within a voxel because much of the received scalp-evoked potentials and neuroimaging measurements
+input comes from other neurons within the voxel. A relevant when stimuli are unexpected or novel [110-113].
+question for future investigation concerns whether, with an Although these results appear to suggest a common
+unbiased selection of neurons, average suppression is equal mechanism for repetition suppression and stimulus expec-
+to average selectivity across the population. However, even tation, there is increasing evidence to suggest that these two
+with the data provided in [65], it is likely that with the appro- phenomena are in fact mediated by distinct processes. Firstly,
+priate controls, bulk suppression effects can provide in macaque IT, expectation suppression can be observed with
+information about population selectivity. single-unit and LFP measurements when learned transition
+Mechanisms for repetition suppression derived from statistics are violated, but repetition suppression is not modu-
+single-unit measurements can therefore be used to guide lated by expectation [114]. Similarly, in humans, expectation
+interpretation of fMRI repetition suppression effects. However, does not modulate repetition suppression in LOC when
+by imaging the whole brain at once, human brain imaging repetition frequency is more subtly modulated (60%:40%
+provides an opportunity to test alternative explanations for repetition frequency) [115]. Therefore, expectation suppres-
+repetition suppression, most notably the hypothesis that rep- sion is not necessarily observed in concert with repetition
+etition suppression can be accounted for by predictive coding suppression.
+[20,77,99]. Inspired by models of perceptual inference, predic- Secondly, when attention is explicitly modulated in an
+tive coding describes how the brain anticipates upcoming fMRI study, expectation suppression is only observed when
+events and generates an error signal when predictions are vio- participants are attending [116], while repetition suppression

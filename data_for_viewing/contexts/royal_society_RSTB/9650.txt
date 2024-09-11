@@ -1,0 +1,25 @@
+
+Figure 7. Position of the five largest highways in fungi on tree A. Branch lengths are in expected numbers of amino acid substitutions, and coloured according to
+
+the number of incoming gene transfers and originations. The five largest highways of transfers are represented. On the right, boxplots show pairwise genome
+
+synteny comparisons. Transferred genes are found to change neighbours more often than non-transferred genes. On tree B, the five largest highways concern
+
+329, 244, 177, 174, 168 genes, the three largest ones of which involve Aspergillus nidulans.
+
+to reconcile the ‘real’ trees that had been used to simulate This study also allows the comparative study of different
+gene alignments. In this study, empirical results also show methodologies for reconstructing genome evolution. We show
+that gene trees reconstructed by ALEml_undated are accurate. that the recent developments provide a framework adapted to
+First, the fact that the reconstructions of ancestral genome different domains of life, and that gene tree-aware methods
+sizes based on our reconciled gene trees are not significantly show more precision in the quantification of gene transfers.
+
+different from extant genome sizes suggests that our gene Our results suggest that further analyses of datasets for other
+trees do not contain large numbers of incorrect bipartitions. clades of prokaryotes and eukaryotes, using gene tree-aware
+Second, the over-representation of transferred genes in approaches, will provide a more fine-grained, quantitative
+tandem cannot be explained by random errors in gene view of the dynamics of genome evolution across the tree of life.
+
+trees, but shows that bona fide information can be retrieved
+from gene trees reconstructed by ALEml_undated.
+
+Data accessibility. Species trees, gene family alignments, ALE files and
+concatenates and Count sessions are available on Dryad with

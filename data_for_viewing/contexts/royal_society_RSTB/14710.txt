@@ -1,0 +1,25 @@
+revaluation [17,18,100]) to test the flexibility of existing deep model-based RL agents (DreamerV2, PlaNet, muZero). The results revealed that neither deep
+MBRL agent passed the flexibility test that model-based agents are expected to pass, but changing replay in these agents could solve this challenge [36].
+(Online version in colour.)
+
+(i) No free lunch: behaviour on how many tasks? Sometimes artificial agents built with an engineering goal
+in mind may happen to match or exceed human overall
+
+scores, or task-specific benchmark measures, e.g. the overall
+score in Atari games. However, that is not necessarily
+always their primary goal nor contribution (though it could
+be). Moreover, it has also been shown that even AI agents
+with the same overall benchmark scores are not necessarily
+judged to be equally human-like by human judges. In fact,
+While multitasking and continual RL have substantially con- benchmarks may contribute in early stages of model develop-
+
+tributed to this direction, many challenges and opportunities ment. For instance, consider Brain-Score [87], a platform for
+remain for future work [56,138-141]. comparing computational models of vision against brain
+
+benchmarks using neural measurements of the ventral IT
+cortex. Brain-Score results show that up to a certain point,
+better performance on image recognition correlated with
+better matches to neural and behavioural data. However,
+once the agent’s behaviour gets closer to being human-like,
+the agent's performance on benchmarks cannot predict
+which model is likely to be judged as more human-like, e.g.

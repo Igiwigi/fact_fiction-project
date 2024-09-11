@@ -1,0 +1,25 @@
+tions and identifies and quantifies isoform data; however, it covery (figure 4). To realize this potential both computational = =
+does not use nanopore reads for de novo splice site detection and experimental workflows will need to be developed and S
+and relies on annotation and short-read data [28]. improved. Although anecdotal evidence exists that modifi- ©
+Specifically designed for the analysis of R2C2 reads, the cation information can be extracted from ONT base and raw =
+Mandalorion pipeline developed by our laboratory at UCSC data, no experimental and computational workflows exist yet 5
+takes advantage of the higher accuracy of R2C2 reads to ident- to systematically establish and validate the detection of the =
+ify and quantify isoforms without the need for Ilumina data, large variety of modifications present in RNA [28]. Further- >
+while also identifying new gene features and isoforms [31]. more, improvements to experimental workflows will have to __
+One thing to consider when identifying isoforms is how reduce the RNA input requirements which currently limit = =
+to deal with raw data containing molecular biology artefacts. direct RNA sequencing to large samples or cell lines. =
+First and foremost, this includes the amplification of either The detection of DNA modifications using raw PacBio data =
+fragmented RNA or genomic DNA. While, ideally, these arte- may serve as a cautionary tale here [52]. While the detection of =
+facts should be minimized during sample preparation, any methylated bases was shown to be possible using raw PacBio = &
+pipeline should be equipped to recognize potentially incor- data, this approach never managed to compete with Illu- =
+rect isoforms stemming from them. Tools like Sqanti which mina-based bisulfite sequencing for methylation detection. 3
+can detect these types of artefacts can serve as quality control However, direct RNA sequencing has the potential to detect s
+for future isoform identification pipelines [48]. RNA modifications for which currently no other sequencing S
+assay exist and might therefore fill a unique niche in the &
+(iii) Isoform quantification genomic toolset. ~
+
+Quantifying and performing differential expression analysis
+of transcript levels on the isoform instead of the gene level
+
+brings with it a large set of new challenges. ;
+First, it will be a challenge to decide at which point a 5. Conclusion

@@ -1,0 +1,25 @@
+number diffuses locally from that initial cluster (figure 6e),
+mirroring the medial-to-lateral gradient of selectivity observed
+using functional magnetic resonance imaging in human
+subjects (figure 6f). On average, the location of a unit along
+the medial-to-lateral axis correlates with its number preference
+(D7, rpearson = 0.95, Ppearson < 0.001; excluding initial state
+selective units: rpearson = 0.86, Ppearson < 0.001), as observed
+experimentally (figure 6¢,1). According to our model, however,
+such a medial-to-lateral direction is not universal but contingent
+upon the location of the units that are activated in the initial
+state So: different locations would produce different gradients,
+depending on the diffusion opportunities offered by the
+source. In fact, an initial vector So, containing multiple ran-
+domly placed clusters of units, results in multiple coexisting
+gradients that run in opposite directions on different parts of
+the simulated cortex, as is also manifest in the data [16]
+(figure 6i,j). Similarly, our simulations show that the convexity
+or concavity of the gradient is not universal, but depends on the
+spread of the initial state cluster. Overall, the diffusion process
+by which we explain numerotopy is not unrelated to the self-
+organizing Turing reaction—diffusion model [40], although in
+our case, the large-scale topography of number regions only
+obtains after smoothing of the selectivity map by a Gaussian
+filter. We thus predict that higher-resolution imaging should
+uncover a more intertwined topography of number preferences

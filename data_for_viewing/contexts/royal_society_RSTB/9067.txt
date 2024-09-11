@@ -1,0 +1,25 @@
+through the duration of stages/states of development. Mos-
+quito larval development, for example, takes place at
+timescales varying from days to weeks [171,172], whereas
+human health interventions such as vaccination programmes
+may vary from days to weeks to months [173,174]. Modelling
+efforts must therefore include methods by which to couple
+the timescales of these processes in biologically relevant
+ways that capture the dynamics, but without creating artifi-
+cial restrictions or producing erroneous model artefacts.
+
+
+Capturing these temporal scales successfully is made more
+complicated by the fact that the duration of life stages/
+states (excluding disease-specific states) in hosts most often
+progress unaltered by vector or pathogen, but disease vectors
+have been shown to be susceptible to alteration in their basic
+survival, developmental and fecundity rates by the microbes
+and pathogens they carry [175,176]. Furthermore, pathogen
+states/stages are predominantly driven by their epidemiolo-
+gical dynamics within and among hosts and vectors and, in
+some cases, progress to a different developmental stage
+only upon successful completion of the cycle between vectors
+and (sometimes multiple species of) hosts [177].
+
+When broadening the scope of questions asked with these

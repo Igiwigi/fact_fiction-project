@@ -1,0 +1,25 @@
+
+stimulus discriminability counting spikes over post-stimulus windows of a few tens of
+
+milliseconds [6,39]. Moreover, almost all the information
+
+I(S;R) = dP P(r,s)log, PoP aay a (2.1) about whisker identity provided by the whole train of spikes
+
+emitted after stimulus presentation was carried already by the
+
+
+20 response r (equation (2.1)) as a columnar population spike
+
+18 . count exploits the fact that in the few tens of milliseconds
+e following stimulus onset more spikes are emitted in response
+16 : ° ° to stimulation of the topographically matching whisker than
+14 ° ° to any other [6,42]. This suggests that spike counts regist-
+2 : > ° ered in some post-stimulus window should discriminate the
+_ stimulated whisker well. For the information analysis, we con-
+= 10 ° ° D2 sidered a population of n sequentially recorded neurons in
+8 ° D3 column D2 and varied n parametrically from 1 to 100. We
+6 DI then computed how much information the columnar spike
+4 ba c2 count encoded about the stimulated whisker (D1 or D2), with
+eo o perfect discrimination corresponding to 1 bit of information.
+
+2 cw ° We compared two cases. In the first case, we assumed

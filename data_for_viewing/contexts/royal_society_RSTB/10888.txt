@@ -1,0 +1,25 @@
+sex ratios in the past and could still influence outcomes today We retain several individual characteristics from HILDA
+(§2c). Third of all, we use an econometric method that relies as controls, such as age, gender, level of education, whether
+only on the sex ratio among convicts in the 31 counties that the respondent was born in Australia, and marital status, as
+housed convicts (§2c). well as population-level variables from the 2011 census at
+Descriptive statistics on historical data are available in the postal area level (present-day population sex ratio and
+table 1. Convicts were about 34% of the total population of urbanization) as well as data on mineral and land type
+Australia at the time, but their proportion was much higher from Geoscience Australia.
+in the adult population—male convicts made up more than In HILDA, the location of respondents is given by the pre-
+80% of the adult male population of NSW in the mid nine- sent-day postal area. The unit of observation in the historical
+teenth century. The population sex ratio was 2.04 male for census is a historical county. A historical county typically
+every female. The sex ratio among convicts was much includes several present-day postal areas. In order to match
+higher, above 16. Some of the discrepancy is explained by historical counties to present-day postal areas, we collected
+the fact that we do not have a consistent breakdown of age and digitized 17 hard copies of maps from the National
+for the total population across states, so that the population Library of Australia and from State Libraries in order to
+includes people of all ages. No demographic study has construct these boundaries and match historical counties
+found evidence of abnormal sex ratios at birth in Australia to present-day boundaries using ArcGIS geographical infor-
+[26], either historically or contemporarily. Because the popu- mation software. For a list of maps used and more
+lation sex ratio is always above 1 (table 1), and generally information on the matching process, see the online Appendix
+above the natural sex ratio at birth, the influence of birth of our companion paper [17].
+
+brings the sex ratio closer downwards. By contrast, convicts
+only included people of marriageable age, between 15 and
+50 years of age when transported ([27], p. 14). (c) Econometric methods
+Figure 2 maps the sex ratio in the whole population (i) OLS
+(panel (a)) as well as in the subpopulation where convicts

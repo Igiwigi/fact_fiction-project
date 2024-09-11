@@ -1,0 +1,24 @@
+CRISPR editing in molluscs to date (table 2), but gene knock- target edit unless both eggs and sperm are edited. It may
+out via non-homologous end joining (described in [106]) has also be plausible to use sperm as the delivery vehicle for the
+been successfully demonstrated in the freshwater snail Lym- CRISPR/Cas9 complex to edit the eggs after fertilization, an
+naea stagmalis, the squid Doryteuthis pealeii and C. gigas approach shown to be successful in chickens [126]. The abun-
+[119,123,124]. Furthermore, exogenous DNA insertion via the dance of active transposable elements in molluscan genomes
+homology-directed repair (HDR) pathway has been demon- could be adapted to allow insertion of exogenous DNA
+strated in the marine snail Crepidula fornicata [117]. These sequences, which has been successfully demonstrated in the
+four studies are the only reported use of CRISPR in molluscs, pacific oyster to incorporate green fluorescing protein (GFP)
+which demonstrates that the CRISPR/Cas9 system can be suc- [118]. Combined with a large number of gametes, low trans-
+cessfully implemented, but knowledge of the optimal genesis and editing efficiency mean there is a clear need for
+approaches for successful editing is limited. Cell lines are typi- a high-throughput screen to select for successfully edited/
+cally used at early stages of gene-editing research, but there are transgenic gametes/embryos. One possible option is to use a
+no suitable cell lines for marine molluscs and the use of fluorescence-activated cell sorting (FACS)-based approach,
+primary culture has significant limitations [125]. where the cells (either gametes or embryos) contain a fluor-
+Transgenesis, the process of introducing and expressing escent protein, such as GFP. Incorporating fluorescent
+exogenous DNA from another organism, has also been suc- proteins has been successful in molluscs previously through
+cessfully demonstrated in other molluscs (table 2). Different CRISPR/Cas9 HDR, electroporation and natural transfection
+approaches have been successfully demonstrated, including (table 2). This approach would need to be optimized to account
+CRISPR/Cas9_ HDR, plasmid and transposon-mediated for issues such as the delayed time until an expression of fluor-
+transfection (table 2). Most of these studies have been for escent protein, and/or the relatively large size of embryos
+proof of concept, only focussing on the expression of reporter [127]. Alternatively, antibiotic selection using G418 has been
+proteins such as fluorescence. An increase in the growth rate demonstrated to be a potential approach for the enrichment
+of abalone following the introduction of fish growth hormone of transfected embryos in C. virginica [112].
+has been reported [110], but the mechanism of this response While early studies in aquaculture species have focused on

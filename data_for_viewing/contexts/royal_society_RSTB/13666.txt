@@ -1,0 +1,25 @@
+sar oe * » os s oe S se a a a & os on oo i
+w
+Figure 6. Daily confirmed cases in Norway. (a) New cases; (6) instantaneous growth rate (shaded regions are 95% confidence intervals). Solid vertical lines indicate S
+when students returned to school, and dashed lines indicate other interventions. (Online version in colour.) Ss
+=
+8
+I
+These findings are consistent with earlier works suggesting confirmed cases while monitoring the degree of testing in ~
+that school closure in isolation is insufficient to prevent the place to ensure such numbers were indicative.
+spread of COVID-19 [6,8,11]. The evidence for the impact of The GP regression method allows one to account for
+school closures on growth rates in Norway and Denmark is differences between the simulated epidemic trajectories
+more limited. While there was a reduction in growth rate of from the ODE model and the observed cases. However, the
+hospitalized cases after school closures, it has not been possible fact that closures occurred very early on in the epidemic
+to link this effect with school closures. means that the GP method often had to be trained on a
+While school closures are often among the first limited number of data points.
+implemented control measures, school reopenings are typically Since the instantaneous growth rate relies on the deriva-
+staggered with other eased restrictions, often with a small initial tive of splines, it is subject to increased error at the
+cohort of returning students. Since, to our knowledge, no strin- boundaries of the data. However, the observed signals are
+gent restrictions were introduced to compensate for the qualitatively robust to this limitation. Owing to the noisiness
+additional transmission risk due to school reopening, a lack of of some data streams from relatively low incidence following
+signal in the growth rate after reopening would be indicative mass quarantine, the values of the instantaneous growth rate
+that schools do not contribute substantially to community should be taken as a quantification of the trend in incidence
+transmission. From our analysis, the reopening of schools to rather than the true value on any given day.
+younger year groups and exam students in Germany, Denmark The data have generally not made it possible to account
+and Norway has not resulted in a significant increase in the for inevitable geographic variability, the age distribution

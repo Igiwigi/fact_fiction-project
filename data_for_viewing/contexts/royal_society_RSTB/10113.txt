@@ -1,0 +1,25 @@
+distribution (see Material and methods), several lineages may The analysis of the Cenozoic plant fossil record for the Northern
+go extinct before they have the chance of dispersing to a new Hemisphere demonstrates that biogeographic range evolution
+area. Additionally, fossil data provide a more direct evidence is not a time-homogeneous process, but varies through time
+of extinction, for instance, in cases of lineages with fossil occur- and between areas. This represents a strong violation of the
+rences in areas where the lineage does not occur at the present assumptions characterizing most phylogenetic methods in bio-
+(e.g. area B in figure 1). geography and involving constant or symmetric dispersal as
+In the DES model, we use the preservation rates to estimate well as constant or absent extinction (e.g. [11,20—22,65]). Our
+the probability of false absences due to the incompleteness of results show that such rate variation through time and space
+the fossil record, and these parameters are essential to correctly can be estimated from fossil data without incurring issues in
+estimating dispersal and extinction rates. Preservation rates parameter identifiability or convergence, provided that suffi-
+can only be inferred from lineages that were sampled in at cient fossil occurrences are available. While we ran our
+least one fossil occurrence, thus neglecting lineages that are analyses in a scenario with only two areas, further development
+entirely missing from the fossil record [39]. This fact might and testing are necessary to assess the robustness of the
+explain the slight tendency toward an overestimation of the approach for a larger number of areas.
+preservation rates (figure 2c). The general temporal trends in extinction rates obtained
+While the DES model allows for asymmetric dispersal and under the DES model closely resemble those estimated
+
+extinction rates, it assumes that (i) the same rates apply to all under a birth—death model using global data [46]. Strikingly,
+
+
+the time slice characterized by a generally stable climate extinction rates does not require known phylogenetic relation-
+
+(32-14 Ma) also showed the lowest dispersal and extinction ships among lineages, as demonstrated by our simulations.
+rates. By contrast, strong climate changes were associated This is possible because dispersals and extinctions are assumed
+with phases of high plant turnover with increased extinction to occur independently along each lineage [18] and fossil occur-

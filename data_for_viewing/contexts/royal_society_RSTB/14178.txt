@@ -1,0 +1,25 @@
+that a deeper study of both individual and cultural learning ~~
+mechanisms would also prove fruitful here.
+To conclude, the take-away message is that knowledge in
+a variety of forms obtained by multiple forms of learning
+mechanisms clearly plays a key role in augmenting evolution
+in the context of evolutionary robotics where robots have
+both adaptable form and behaviour, with many potential
+lines of research remaining open.
+
+This makes the process of finding a matching type more
+straightforward and therefore increases the chance of being
+able to bootstrap from the repository. However, it should
+be clear that robots of the same type may in fact have very
+different skeletons (and therefore sizes) and different layouts
+of sensors/actuators, and hence even an inherited controller
+may not perform well. Although finer-grained definitions of
+type that accounted for these differences could be introduced,
+
+they would reduce the probability of a match (a way to miti- Data accessibility. This article has no additional data.
+
+gate this would be to store several controllers per type in Authors’ contributions. E.H.: conceptualization, funding acquisition,
+conjunction with an informed heuristic for selecting among writing—original draft; L.L.G.: conceptualization, writing—review
+them). Again there are obvious opportunities for future and editing.
+
+work in this direction to better understand how to best Competing interests. We declare we have no competing interests.

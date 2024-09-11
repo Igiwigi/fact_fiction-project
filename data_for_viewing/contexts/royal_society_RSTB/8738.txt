@@ -1,0 +1,25 @@
+
+the state of an ecosystem that occur close to bifurcation
+
+points [21]. Mathematically, critical transitions are associated (b) Slow—fast cydic transitions
+
+with bifurcation points. At a bifurcation, the current ecosystem Some systems have intrinsic cycles caused by the interaction
+state becomes unstable and the system jumps to an alternative between fast and slow variables. Such cycles tend to have rela-
+(usually radically different) state. Here, we look at local bifur- tively abrupt transitions but although these can be loosely
+cations with eigenvalues that smoothly diminish to zero, like attributed to tipping points, the alternative ‘states’ in such
+a saddle-node, transcritical or a Hopf bifurcation. The reason cycles are not stable. Instead, each time the ecosystem shifts,
+why we can anticipate a critical transition in advance lies in a negative feedback starts to operate ‘moving’ environmental
+
+the fact that prior to a bifurcation point small disturbances conditions backwards till a shift to the previous state takes
+
+
+Box 1. The relationship between resilience, CSD and early warnings.
+
+Ecological resilience (ecR) depends on the distance to the border of the unstable manifold in state space (ds) and on the dis-
+tance to the critical threshold (dp) in parameter space [ecR = f(ds,dp)] (a). We can approximate ds as the distance to the border
+of the attraction basin and dp as the height h of the attraction basin to the alternative state (b,c). Recovery rate (recR) (or engin-
+eering resilience) depends on the slope of the basin of attraction, which is defined by ds and dp [recR = dp/ds]. This slope can
+be approximated by the eigenvalue |A| which determines the stability of the current equilibrium of the system [recR=|A|].
+CSD occurs as the system approaches the threshold, dp becomes smaller, recovery rate decreases and ecological resilience
+declines. Although ecological resilience is not approximated completely by |A|, CSD indicates the progressive shrinking of
+the basin of attraction of the current state. Moreover, the dynamics of the monitored ecosystem differ radically far from

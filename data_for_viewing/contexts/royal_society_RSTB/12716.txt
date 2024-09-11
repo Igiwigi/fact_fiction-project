@@ -1,0 +1,24 @@
+ae Pa One approach to the estimation of b and c would be to esti-
+Substituting in the second and third, dividing both by m, and mate a model like the model in appendix B, with the fitness
+rearranging gives w;,; of individual j in group i being explained by p;—which
+
+indicates whether or not that individual is a cooperator
+itself—and by pj; = (1/(m — 1)) )°.4; Pik —which would be
+and the share of cooperators in group i, excluding individual j
+itself. The formulae at the end of appendix B, with the right
+replacements for the variables, would then apply here too.
+The model there, however, does not allow for group-level
+noise. If we want to estimate the difference b—c, and allow
+_ Cov(w, p) —b- Var(p) for noise at the group-level as well as individual noise, then
+Cov(p, q) we can use the fact that, for both versions of the model, b —
+c is also the effect that one additional cooperator has on the
+total group payoff. That makes the average group payoff a
+linear function of its share of cooperators, and with the
+Cov(w, q) - Cov(p, q) = b - [Cov(p, or + (Cov, p) —b noise in the group average equal to the average noise in indi-
+- Var(p)) Var(q), vidual fitnesses in the group plus the group-level noise, this
+
+gives us m observations of group averages
+
+Cov(w, p) = b - Var(p) + c - Cov(p, q)
+
+Cov(w, q) = b - Cov(p, q) +c - Var(q).

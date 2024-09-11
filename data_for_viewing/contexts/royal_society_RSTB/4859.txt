@@ -1,0 +1,25 @@
+
+The system of orthogonal functions of the chief practical importance are those which
+arise in the elimination of progressive changes by means of a polynomial function of the
+time. These are the same functions as are used in analysing the sequence of weather
+in each particular season ; it is worth noting that the above theorem is true of any
+orthogonal system. .
+
+In an unchanging series of independent values, i.e., one in which the frequency of
+occurrence of any value is independent of the time, all the quantities 2’, except z,', will
+be distributed in symmetrical curves about the mean value zero. If the values of x
+are normally distributed about the mean m, with standard deviation co, then all the
+values of x will be normally distributed with standard deviation oc, z,/, about a mean
+m/ n, and the remainder about zero. This follows at once from the fact that the distri-
+bution of the points representing the sample will be a globular normal cluster, and conse-
+quently the distribution of their projections on a line drawn in any direction will be
+invariable. Even when the values of x are not normally distributed, those of 2’ will
+in general be much more nearly so, owing to the properties of compound distributions
+which have often been discussed.
+
+The simplest type of changing series is one in which the several values are distributed
+independently and in similar distributions, but about a changing mean. It is with a
+view to eliminating slow changes in the mean, that most methods of obtaining residuals
+from smoothed values are employed. It is usually the case that slow changes in the
+mean value may be sufficiently represented by a polynomial whose degree is small
+compared to the number of observations in the series. In such cases the first few values

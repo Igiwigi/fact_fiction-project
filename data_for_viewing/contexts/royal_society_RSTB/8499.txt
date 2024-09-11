@@ -1,0 +1,25 @@
+
+gramme remains in its preliminary stages. Current more biologically grounded computational primitives
+empirical research provides a detailed exploration of [158]. While we strongly support moves in this direc-
+only two particular grammars: the complicated regular tion, it is crucial that they be grounded in empirical
+grammar introduced by Reber [83] and since explored data rather than in intuitions or assumptions about
+by scores of researchers, and the supra-regular A”B” what computational operations are or are not ‘primi-
+grammar introduced by Fitch & Hauser [8] and tive’. For instance, it seems intuitive to humans that
+since explored by at least six different research symmetry recognition should be a very simple and
+groups. However, there are many other grammars, basic operation, and thus part of the conceptual toolkit
+and empirical approaches, worthy of exploration, and of most visually-sophisticated organisms. Years of
+we welcome this ongoing broadening of the field. pigeon research demonstrates that this assumption is
+Investigations of FSGs such as edge grammars incorrect, and that generalized bilateral symmetry is in
+[147,148] and other subregular grammars [16] may fact an extremely difficult concept for these animals to
+provide a more detailed dissection of computational attain [74]. A similar point can be made about the diffi-
+primitives particularly relevant to animal researchers culty of cross-serial versus nested dependencies in
+[59]. For humans, as discussed already, detailed human experiments: while most people’s robust intui-
+exploration of other simple context-free grammars tion is that the former should be much easier, what
+such as the mirror grammar or copy grammar will few experimental data is available paint a murkier story.
+probe the limits of our own pattern-discovery abilities. FLT both allows us to characterize such exper-
+Innovative experimental designs will play an important iments in more general terms (e.g. that generalized
+role in this—for example, using serial-reaction time symmetry requires a supra-regular grammar) and pro-
+tasks and cross-modal auditory/visual AGL [67]. vides an explicit language for notating and reporting
+
+Two further directions immediately beckon. FLT different string types or grammars (as in (AB)” or
+has developed considerably in the last decades in two A”B”). FLT also, and more controversially, provides

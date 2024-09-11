@@ -1,0 +1,25 @@
+The next step is to use large-scale techniques for molecular
+profiling of tissues and cells from human vaccinees [7,16,17].
+The tool kit accessible to modern immunologists includes a
+broad range of ‘omics’ technologies, such as high-throughput
+sequencing of DNA (DNA-seq), RNA (RNA-seq) or transcrip-
+tion factor binding sites (chromatin immunoprecipitation,
+ChIP-seq) [18], microarrays [7,9-11,16,17,19], high-resolution
+
+mass-spectrometry proteomics/metabolomics [20], CyTOF
+mass cytometer [21] and genome-wide RNAi screening [22].
+It is essential that the data obtained from these techniques are
+integrated or associated with data obtained from ‘convention-
+al’ immunological assays, such as ELISA, ELISpot, FACS,
+and neutralization assays. These assays enable quantita-
+tive and qualitative assessment of immune status and
+responses, and therefore can be useful for correlation analyses
+or as endpoints in predictive analyses.
+
+The third step is to generate mathematical models from
+the molecular snapshots of cells and tissues that explain or
+predict the structure and behaviour of the system being per-
+turbed. There are a myriad of modelling frameworks that can
+be applied to these purposes (reviewed in [23]), which range
+from simple linear regression models to advanced and com-
+putationally expensive feature selection methods for

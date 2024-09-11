@@ -1,0 +1,25 @@
+additionally new external contingencies may always appear, 2. Reactive inferences, memory recollection
+
+arbitrating between exploring /learning new behavioural strat-
+
+egies versus exploiting/adjusting previously learned ones and the paralimbic prefrontal cortex
+raises an intractable computational problem. Here, we propose Arbitrating between these two options first requires inferring
+a computational theory postulating that the prefrontal cortex when external contingencies change and require switching
+has evolved as primary solving this arbitration problem. away from the current actor strategy. Our theory assumes that
+The statistically optimal solution involving Dirichlet pro- the development of paralimbic prefrontal regions in lower mam-
+cesses mixtures [19] is computationally intractable for the mals implements a first inferential step: namely, inferring such
+two following reasons. First, arbitrating between creating new changes based on the inconsistency between actual action out-
+strategies versus adjusting previously learned ones is in essence comes and the outcome contingencies the actor has learned so
+non-parametric. This requires optimal adaptive processes to far. Such inferences are factual as they only bear upon the out-
+systematically re-evaluate offline past arbitrations whenever come predictive model the actor strategy has learned, and
+new information is acquired and consequently, to revise the reactive as they operate only after observing action outcomes.
+repertoire of previously learned strategies in a backward To make such inferences, the actor thus learns both a
+fashion. Second, optimal adaptive processes require monitoring selective and predictive model: the former maps stimuli onto
+online the whole repertoire of learned strategies that con- actions, adjusts through RL and enables selection of the most
+tinuously increase when new strategies are created. These rewarding actions in response to stimuli; the latter maps stimu-
+computational requirements for optimal arbitrations rapidly lus—action associations onto expected outcomes and. learns
+yield to intractable computations, suggesting that the prefron- by simply registering outcome frequencies given responses
+tal cortex has evolved as implementing online only forward to stimuli. Critically, the predictive model enables inference
+inferences over a small portion of the repertoire of learned strat- online of the actor absolute reliability, i.e. the posterior prob-
+egies. Accordingly, our theory postulates that under these ability the current external contingencies match those the
+constraints, the development of prefrontal regions from lower actor has learned (figure 1a). Updating online actor absolute

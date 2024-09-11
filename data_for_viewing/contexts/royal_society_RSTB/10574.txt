@@ -1,0 +1,25 @@
+of individual object—label mappings would arise from the stat-
+istics with which, across trials, multiple objects would co-occur
+with multiple labels. In each learning trial of their study, a pair
+of objects were shown to infants between 11 and 15 months of
+age, accompanied by a pair of words. The problem was that, on
+each trial, the infant could not possibly know which of the two
+objects should be paired with which of the two words (the
+‘Gavagai’ problem; [20]).
+
+Smith & Yu [19] reasoned as follows: if in the first learning
+trial, the two objects were a bat and a ball, and the two words
+were ‘bat’ and ‘ball’ (in the study, nonsense objects and non-
+sense words were in fact used), the ball could, in principle,
+become associated both with ‘bat’ and with ‘ball’, and the bat
+
+
+could similarly become associated both with ‘bat and ‘ball’. words in a language corpus (within a sliding window of fixed | 3 |
+
+Thus, on the basis of a single trial, the infant could not know width) and treating the ensuing matrix as a high-dimensional
+which was the ‘correct’ pairing (given the potential to indiscri- space that was then reduced using principal components analy- a
+minately pair each object with each label). Consider, now, a sis to generate a semantic space in which proximity within the s
+second trial in which the two objects were a dog and a ball, space corresponded to semantic similarity. The contents of the a
+and the two words were ‘ball’ and ‘dog’. In this case, analogous sliding window constituted the episodic context of each word = 2
+to the first, the dog could, in principle, be associated with ‘ball’ it contained, and the calculation of co-occurrence within the Ss
+and with ‘dog’, and the ball could also be associated with window was a largely indiscriminate process that associated =

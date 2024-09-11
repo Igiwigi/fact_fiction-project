@@ -1,0 +1,25 @@
+order to corroborate this hypothesis, we first compute ‘early ance the distance between the true homeland and a single,
+jump indices’ as the percentage of the distances traversed ‘best-candidate’, homeland even for the Bayesian methods,
+during the first 4 time steps out of the sum of all distances tra- although these methods actually produce a range of credible
+versed (results are in the file percent_early.txt in the electronic candidate locations rather than a single location. This was
+supplementary material, folder SI-11). We then gauge the done in the interest of comparability. Now we look at
+impact of early jumps on errors in two different ways, as fol- whether conclusions might look different when considering
+lows: (a) early jump indices are correlated with relative errors the 95% HPD intervals, extracting these as done in [12].
+across the 1000 cases; (b) following the traditional way of These intervals correspond to geographical ‘swarms’ of dots
+defining outliers in a histogram, taking a larger outlier to that strongly tend to form circular or elliptical shapes. There-
+exceed a value of 1.5 times the interquartile range, we identify fore, one can assess a result by fitting a convex hull to the
+outliers in the early jump indices as well as in the relative swarm and determine whether the true homeland lies
+errors and then compute an agreement index as the percen- inside or outside of this fitted periphery. This test, however,
+tage of large error outliers that pertain to cases that are also is confounded by the fact that the area of the convex hull
+large outliers in terms of their early jump indices. If errors can vary tremendously. For instance, if one method proposes
+are in a large part owing to early jumps, the correlations an area almost corresponding to the extension of the entire
+produced in approach (a) should be high, but the correlations family and the true homeland falls within this area, is it
+are based on all 1000 sets, so factors other than early jumps then fair to say that the result is better than the result of
+affect the results. Approach (b) is more focused just on the some other method whose output is an area that is ten
+early jumps. Results for all baselines and methods except times smaller and lies in the vicinity of the true homeland
+for centr, for which the correlations (approach a) were but does not contain it? In order to take this issue into
+non-significant, are displayed in table 2. account, we record not only hits and misses, i.e. containment
+Table 2 shows that the two approaches to measuring the within versus absence of the true homeland from the fitted
+error rates’ sensitivity to early jumps agree (Spearman’s p = convex hull, but also measure the area of the latter. This
+0.905) and that they both indicate relatively high sensitivities. allows us to produce a performance measure where the
+Thus, early jumps are a problem for all methods. number of hits out of the 1000 cases is weighted (divided)

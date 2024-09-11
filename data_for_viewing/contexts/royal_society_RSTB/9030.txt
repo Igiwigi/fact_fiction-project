@@ -1,0 +1,25 @@
+and control it, but also to steer it to desirable states.
+
+thing, it would be useful to integrate the fact that the brain pos- (i) From comparison to classification and categorization
+sesses qualitatively different nodes, be they neurons or entire If network properties genuinely describe functional brain
+brain regions. For other basic concepts, e.g. that of distance, activity and its modulations under given conditions, e.g. cog-
+neuroscience should promote alternative definitions, at least nitive tasks or neurological pathologies, then it should be
+when considering a functional space isomorphic to the ana- possible to use them to discriminate various activity regimes
+tomical one (as opposed to a phase space representation). associated with these conditions.
+Likewise, community structure should be redefined in such a One principled way to overcome this limitation involves
+way as to account for the possibility for a given neural assem- assessing what network properties optimize a given task, for
+bly to pertain to different communities, possibly at different instance classifying experimental samples corresponding to
+spatial and temporal scales. different experimental conditions. The amount of information
+Network properties should reflect the fact that the brain is codified in each network can be approximated by the success
+a complex adaptive system. This requires a clear understand- score achieved in a classification task, where a model is trained
+ing of how functional networks respond to external stimuli at to identify subjects belonging to the two considered classes [93].
+various spatial and temporal scales, or damaged brain net- Not only does this strategy allow identifying the combinations
+works adapt, after both permanent neurological damage of properties obtaining higher classification scores, but it also
+and, at faster time scales, e.g. following epileptic seizures, affords a quantitative assessment of the degree to which these
+and become active again [140]. Parameters measuring brain properties actually discriminate between different experimental
+adaptiveness, including topology—dynamics interactions conditions. This strategy is by no means confined to classifi-
+should be proposed. The evolvability of a network, i.e. the con- cation tasks; for instance, it could conceivably be applied to
+tinued propensity to adaptive innovation [141], may be modelling and predicting certain types of behaviour.
+estimated by quantifying navigability within the network rep- Another strategy may consist in trying to define networks
+resentation of the system’s phase space, i.e. the system’s along some metrics that would allow calculating distances
+ability to find any given region of its phase space starting between them. For example, distances between pairs of

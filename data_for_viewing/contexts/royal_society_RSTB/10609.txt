@@ -1,0 +1,25 @@
+any number of hosts, but we focus our analysis on the a parameter that defines the shedding rate per parasite. =
+simpler case where there are only two hosts. We are inter- If we add these expressions into the R,, expression 2
+ested in understanding how host traits, parasite traits and above, we attain host body size-, temperature- and infection s
+the environment influence the magnitude of R,,,. If increas- site-dependent criteria for the evolution of generalism. a]
+ing the value of some host trait increases R,,, then this trait Note that we use the infection site to mean inside (endo) =
+makes it easier for the generalist parasite to invade, and versus on the surface of the host (ecto). By taking the deriva- 3
+we conclude that the trait has a positive effect on the evol- tive of R,, with respect to host mass and temperature, we can -
+ution of generalism. Mathematically, this is equivalent to investigate how these key parameters influence the evolution = ©
+asking about the derivative of R,, with respect to the trait of generalism. S
+of interest. Moreover, by varying the values of other parameters, we = _&
+To facilitate a comparison between the model and data, can explore very different infection scenarios. In particular, a
+we focus our analysis on the effect of host body size and we vary the number of specialist parasites in the system, <=
+temperature, taking advantage of the fact that many key par- whether co-infection occurs, and whether the parasite avoids Ss
+ameters of the model are likely to be allometric functions of contact with hosts that are not susceptible to infection, and S
+host body size and temperature. In particular, host carrying investigate how these changes affect the evolution of general-
+capacities (Kj), maximum per-capita reproductive rates (rj) ism. Table 2 reports the parameter values needed to construct
+and mortality rates (u;) will scale with host body size and these different scenarios and the relevant state variables.
+temperature [20] as We explicitly consider the first case in table 2. Substituting
+
+these parameters into equation (2.12), we find that the
+
+= KeE/AT y3/4
+Kj = Koe Wi , specialist-only system will be unstable (i.e. generalism will
+
+= roe FATWA evolve) whenever

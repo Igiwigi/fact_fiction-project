@@ -1,0 +1,25 @@
+between hosts via vectors—which is a route of transmission for forecasting numbers of cases [82] or representing pro-
+for a number of pathogens of humans, plants and animals. cesses such as disease surveillance [83]. In this issue,
+In this theme issue, Alonso et al. [74] consider a complex com- Bourhis ef al. [84] link a statistical approach for estimating
+partmental model of malaria that accounts for features such infection prevalence to the susceptible—infected compart-
+as superinfection of human hosts, and Chowell et al. [75] use mental model to account for temporal variations in the
+a model including pathogen transmission via mosquitoes to number of infected hosts during an outbreak.
+consider the impacts of hurricanes on epidemic dynamics. The optimal type of model to use depends on the questions
+As well as being able to address questions that are common of interest in the particular host—pathogen system under con-
+to diseases of humans, plants and animals, compartmen- sideration, and the wide range of available models reflects
+tal models can account for differences between systems the increasing number of data sources described in the pre-
+comprising these different host types. As an example, cryptic vious section. For example, analyses of pathogen sequencing
+infectiousness has been included in plant disease models to data have been linked with models of epidemic dynamics lead-
+represent the fact that some hosts become infectious before ing to the field of phylodynamics [85,86]. This issue includes a
+the onset of symptoms (see [70,71] and figure 3b top), whereas review paper by Lycett et al. [59] in which the history of
+simple models of Ebola virus disease in humans have incorpor- avian influenza is summarized, including the inference of
+ated the onset of infectiousness following a non-infectious but transmission routes using phylodynamic methods (figure 3d).
+symptomatic period (see [72,73] and figure 3b bottom). Such a wide range of modelling approaches provides a
+There are a number of other differences between human, suite of techniques for forecasting and planning control
+animal and plant disease systems that require different epidemio- when epidemics are ongoing.
+logical modelling approaches. Perhaps the most obvious of these
+is host movement. Plant populations are typically stationary and (d) Foreca sting and control
+livestock are contained within strict boundaries, whereas As described in §1, mathematical modelling is increasingly
+humans have significantly more freedom of movement that per- used in real-time when epidemics are ongoing for forecasting
+mits long-distance pathogen transmission. However, plant hosts (figure 4a) and testing interventions (figure 4b). This has led
+can be motile—for example in plant trade networks—and animal to the field named ‘outbreak analytics’ in the context of patho-

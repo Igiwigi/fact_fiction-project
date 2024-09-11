@@ -1,0 +1,25 @@
+lations or partial correlation can be assessed using asymptotic 1000 0.939 0.804 0.712 0.64 0.589 ee
+statistics [107,108]. Other statistical tests, currently used in 2
+phase coherence analysis (e.g. the Rayleigh statistics), are par- 8
+ticularly robust when the number of available trials is larger 3
+than 50 [109]. The use of data surrogates is also a good data- is then to fix a threshold T on the number of links among the s
+driven solution for the statistical assessment of FC measures ones that are tested as significantly different from zero, rather
+in the presence of short signals [66]. Other approaches allow than on the weights [106,116]. In this case, the groups/
+to determine the probability that correlation-based FC conditions analysis can be performed by comparing brain
+measures are significantly higher than those expected from graphs with the same number of links so that possible emer-
+independent signals by using the Fisher’s Z transformations ging differences can be associated with a different network
+[110,111]. Positive biases have been also reported for topology, excluding any network density effect. However,
+common FC nonlinear measures, such as phase synchrony choosing a density threshold for the brain graph may not
+[112,113]. Another important issue comes from the fact that be sufficient to reveal topological changes between sub-
+statistical significance should be tested for each link. In a jects/conditions. It has already been observed that when
+directed brain graph with N nodes, there are N(N — 1) links the density threshold is too high or too low, the brain
+and then N(N — 1) tests to perform. In statistics, this issue graph cannot be differentiated from a random or lattice net-
+is called multiple testing and possible solutions consist of work [8]. Then, a common procedure is to choose a
+adjusting the statistical threshold to the number of tests. In neu- sequence of increasing threshold within a range of admissible
+roimaging, if the number of brain nodes is high and the length densities with respect to random or lattice networks. The
+of the signals is short, high correlations may emerge simply by comparison between groups/conditions is then performed
+chance [114]. This suggests that the threshold should be chosen exploiting the entire collection of predetermined thresholds.
+according to the dimension of the problem, i.e. number of brain A first approach consists of testing the difference between
+nodes and length of the signals. For example, it can be demon- the topological properties of the brain graphs at each
+strated that for a brain graph with 500 nodes and a length of threshold [117]; a second approach is to compare the proper-
+the fMRI signals equal to 500 time points, the measured corre- ties of the brain graphs by integrating the topological metric

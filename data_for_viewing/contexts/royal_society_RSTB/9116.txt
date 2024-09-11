@@ -1,0 +1,24 @@
+computation and robotics’.
+
+Keywords:
+sequential action control, neural model,
+everyday action
+
+1. Introduction
+
+Action control is essential to the daily routines of life, being an integral part of
+everyday activities from getting dressed to making pancakes. Yet, in our effort
+George Kachergis to distill cognitive processes in the laboratory, our controlled experiments often
+e-mail: george.kachergis@gmail.com remove many of the interesting aspects of voluntary action. Although arbitrary
+stimulus—response experiments have in fact granted many insights into basic cog-
+nitive mechanisms of perception, learning and decision-making, as engineers
+endeavour to build humanoid robots to accomplish everyday cooking and clean-
+ing tasks [1], the field of cognitive psychology seemingly has embarrassingly little
+advice to offer (for a review, see [2]). Despite early interest in how an action pre-
+cipitates from thinking of its to-be-achieved effects, or goal [3], the more
+mainstream sensorimotor paradigm investigates the reverse: stimuli-driven per-
+ception resulting in action. From the sensorimotor perspective [4,5], the
+stimulus is seen as the driving force behind the subsequent selection, preparation,
+planning and execution of an action. However, the sensorimotor approach is dif-
+ficult to extend to the broader arena of goal-directed action, where desired effects
+can lead executive function to initiate appropriate actions.

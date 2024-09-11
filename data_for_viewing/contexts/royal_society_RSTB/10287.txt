@@ -1,0 +1,25 @@
+brain’s metabolic budget [61]. Synaptic transmission and network parameters and the whole genome. We found two dis- ©
+maintenance of resting membrane potentials represent major tinct components of gene expression that were specifically = -
+demands on the brain’s supply of ATP, generated mainly by related to different aspects of nodal topology and connection = =
+mitochondrial metabolism of glucose [62]. Our data further distance, and had different spatial patterning as well as differ- S
+suggest that hubs mediating more long-distance connections ential enrichment for biological processes. This pattern of -
+between modules face greater metabolic demands than hubs results is not obviously attributable to a homogeneous and 2
+mediating more short-distance connections within modules. spatially isotropic effect of distance as a confounding factor S
+This may be because long-distance, inter-modular hubs must of both genomic co-expression and functional connectivity w
+energetically restore and maintain electrical potentials across [63,64,68]. Instead, these results suggest to us that multiple =
+a greater surface area of axonal membrane. These results dimensions of spatially patterned gene expression define func- ©
+from human fMRI network analysis are analogous to recent tionally connected systems of cytoarchitectonically similar 3
+results from tract-tracing and gene expression data in the nodes. By this account, the intertwined patterning of spatial ©
+mouse indicating that genes regulating oxidative metabolism location, nodal topology and gene expression is in fact the phe-
+were strongly co-expressed in pairs of brain regions that notype of interest and it would therefore not be appropriate to
+included a hub [63]. correct the data for spatial location prior to analysis. This is not
+It was also notable that the genes associated with inter-mod- to say that potentially problematic issues related to spatial
+ular degree and long distance (positively weighted on PLS2 in location were entirely neglected in our analysis. For statistical
+these data) were enriched for a set of 19 genes, expressed specifi- inference on PLS results by permutation testing, for example,
+cally in human supragranular cortex, that may have been the significance of association between nodal topology and
+necessary for the characteristically human evolution of cortico- gene expression defined by the first two PLS components
+cortical connectivity and associative cognitive processes [10]. could be artefactually inflated by randomly permuting the
+The HSE genes were not significantly enriched in the genes regional network metrics regardless of their spatial proximity.
+associated with intra-modular degree and short distance (posi- This point is related to the more general issue of exchangeability
+tively weighted on PLS1). Interestingly, the positively weighted in the proper design of permutation tests. If units of observation
+genes on PLS2 were not significantly enriched for 116 genes (regional nodes) are not expected to be independent of each

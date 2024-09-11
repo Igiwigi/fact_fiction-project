@@ -1,0 +1,25 @@
+tide sites, estimated that a fraction pa=0.01 of mutations is
+selectively advantageous with a mean effect size of N.s=5. By
+contrast, recent estimates based on the correlation between
+within-population synonymous nucleotide site diversity of a
+
+biologically more realistic (analogous to one chromosome).
+
+gene and its divergence from related species at non-synonymous (a) GBMs reduce local adaptation
+
+sites suggest that beneficial mutations may be much rarer (p, = Comparing the mean divergence along the local trait axis
+10~*) [17] but of larger effect (mean N,s = 250). Given that both between simulations with and without GBMs shows clearly
+estimates are likely biased by their contrasting assumptions that GBMs reduce mean phenotypic divergence and thus
+about the effect of selection on linked neutral sites and the fact local adaptation (Az in figure 1). Unsurprisingly, the effect
+
+that targets of selections are unlikely to be uniformly distributed
+in real genomes, we have implemented both a ‘weak-frequent’
+(weak selection, frequent mutations) and a ‘strong-rare’ scenario
+and explored a range of U values for each case (see table 1 for
+parameter values).
+
+All simulations were run for two different lengths of
+
+of GBMs on local adaptation depends on the relative
+mutation rates of GBMs to LBMs (Ug /Uy yellow versus
+orange in figure 1). We do not find any qualitative differences

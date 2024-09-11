@@ -1,0 +1,25 @@
+the circles shows the number of tows that fall into that bin, the colour shows the proportion of those tows where the species was present. The SDM model fit is
+shown as contour lines of predicted occurrence. (b,c) The full coastwide dataset was used to fit the SDMs. Panels (d) and (e) show only the trawls from BC and WA.
+(f) The projected change in occurrence for each 3 km? grid cell between the historical baseline (1986-2005) and the future projection (2046-2065), here
+based on the BCCM model and RCP 4.5. The inset histogram in (f) shows the distribution of values across all 3 km* grid cells and provides a legend for the
+colours shown on the map. Grid cells where the probability of occurrence was projected to be below 0.1 in both the historical and future time periods are
+shown in grey and are not included in the histogram, as we do not consider these to be important habitat for the species. Plots for all species and projected
+changes from both climate models and both RCP scenarios are available in electronic supplementary material, appendix A and in our Shiny app (https://msea.
+science/gf_climate_shiny/).
+
+surveys. However, our final analysis included only the 34 species dissolved oxygen, log depth and survey. We included quadratic
+(listed in the relevant figures) for which the models had adequate terms for temperature and log depth to allow species occurrences
+forecasting ability, as outlined in the ‘Assessing predictive to peak at intermediate values (figure 1b-e). We fitted a breakpoint
+accuracy’ section 2a(iii) below. function for log dissolved oxygen to reflect the fact oxygen is a lim-
+
+Temperature, depth and dissolved oxygen for the observed iting factor [26]. That is, each species is expected to have an oxygen
+data were obtained by CTD instrumentation and dissolved threshold, below which oxygen limitation is expected to reduce
+oxygen sensors deployed on the headrope of the trawls. Dissolved their probability of occurrence, but above this threshold species
+oxygen was available for 17.7% of the trawls. We filled in missing should not be sensitive to changes in oxygen concentrations [41].
+oxygen data using predictions from a generalized linear mixed A survey term specifying the data souree—NOAA West Coast,
+effects model fitted with the sdmTMB package [38] which was NOAA Alaska, NOAA Bering or DFO Pacific—was included as
+also informed by an additional 7037 oxygen observations from a catchability covariate to account for variation in detection prob-
+the International Pacific Halibut Commission (IPHC) ocean profile ability across surveys due to differences in survey design and gear.
+data [39]. Full details of the dissolved oxygen model are provided We expected that these differences in detection probability should
+in the electronic supplementary material. This model was able to be small because our analysis was based on the presence/absence
+predict withheld data with an R* of 0.952 (electronic supplemen- data. The use of survey ID as a fixed effect in a presence/absence

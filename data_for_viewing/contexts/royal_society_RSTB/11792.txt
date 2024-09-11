@@ -1,0 +1,24 @@
+By organizing the research output of an entire community
+into a shared structure, integrative simulations have the
+potential to advance biological thinking significantly.
+Rather than being replacements for existing theoretical or
+experimental techniques, these composite simulations
+should be viewed as powerful tools to augment the thought
+process and technical toolbox of scientists. Figure 3 summar-
+izes how integrative simulations can be an organic part of the
+research process. The same observations that researchers use
+to form mental models and hypotheses are first organized
+into databases such as PyOpenWorm and ChannelWorm
+(arrow a). Researchers benefit from these databases directly,
+for example, by having on-demand access to useful facts
+about C. elegans physiology (arrows b and c). Subsequently,
+these datasets are formalized into mathematical models, a
+process that is itself intrinsically valuable to researchers as
+part of hypothesis generation (arrow e). Most significant are
+the final steps of this sequence, in which the datasets and
+mathematical models are integrated into a larger, composite
+simulation. By studying the outputs of simulations, analo-
+gous to the outputs of experiments, researchers are able to
+augment their intuition and mental models about biological
+function in ways that would not be possible through
+experimentation alone (arrows f and g).

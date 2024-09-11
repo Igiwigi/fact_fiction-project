@@ -1,0 +1,25 @@
+e/ + (si/ai(0) — 1) plotting the corresponding simulated values in the figure.
+The small deviations between network model and theory are
+Let us understand what these equations mean. The matrix due to effects of the random initial values of the connection
+IO(t) is the set of output vectors produced by the network weights, which affect the true values of the a;(0), which are
+where each row vector corresponds to the output produced approximated by fixed constant values in equation (2.2).>
+for one of the inputs to the network. If each a;(t) value was For our purposes, the most important fact to come out of
+equal to the corresponding s;, then the network’s output this analysis is the observation that the learning proceeds
+would correspond to the item-property matrix. What the first according to the hierarchical structure of the training data, as
+equation expresses, then, is that the output of the network at captured by the SVD. The time course of learning of each
+time t can be described as the weighted sum of the dimensions dimension of the SVD follows a sigmoidal curve whose
+of the SVD of the training data. What the second equation cap- parameters depend only on the overall strength of the dimen-
+
+tures is the fact that the weight on each dimension follows a sion s; and its initial value a;(0). Three specific points are
+
+
+(a) sparrow
+hawk
+
+salmon
+
+sunfish
+
+oak
+
+maple

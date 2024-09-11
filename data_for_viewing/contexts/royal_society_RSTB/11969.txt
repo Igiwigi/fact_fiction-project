@@ -1,0 +1,25 @@
+In this section, we discussed two severe weaknesses of computationally intractable and, in situations in which compu-
+the Savage framework. Firstly, we used tools from compu- tational complexity is high, ineffective in representing
+tational complexity theory to show that the Savage uncertainty. We also discussed new empirical evidence sup-
+framework is computationally intractable, rendering its core porting our claims, casting further doubt on the plausibility
+axioms implausible. Secondly, we showed that the Savage of the framework’s axioms.
+framework is ineffective in representing decision tasks with The empirical evidence, in particular, calls for new theories
+high degrees of computational complexity. of decision-making that are plausible from a computational as
+To address the first of the above issues, future models of well as biological perspective. This means that computational
+decision-making should take into account the computational resource requirements implied by such theories need to be
+complexity of decision tasks. For such models to be plausible, within the resources available to decision-makers. Com-
+the computational requirements necessary to solve a particular putational complexity theory provides a candidate framework
+decision task should not exceed the decision-maker’s compu- for quantifying computational resource requirements. The
+tational capacities. Future work will need to (i) characterize endeavour will be complicated by the fact that allocation of
+the computational resource requirements of decision tasks cognitive resources in the brain is likely dynamic, dependent
+encountered in ecologically relevant settings and (ii) character- on motivation, physiological state and other context-dependent
+ize the computational resources available to decision-makers in factors.
+such settings [30,34,64]. Some immediate questions arise for the future study of
+The latter is complicated by the fact that the brain likely decision-making. On the one hand, it will be important to
+allocates computational resources dynamically. At this point, characterize the computational complexity of decisions
+it is an open question which mechanism the brain uses for encountered in every-day life, that is, the distribution of
+the allocation of computational (cognitive) resources, a pro- real-world instances of key computational problems encoun-
+blem referred to as cognitive control or meta-decision-making tered in ecologically relevant settings. On the other hand, it
+[34,65,66]. Most frameworks of cognitive control are based on should be investigated which strategies people use to make
+
+the concept of optimization: decision-makers optimally complex decisions, how they adapt to varying levels of

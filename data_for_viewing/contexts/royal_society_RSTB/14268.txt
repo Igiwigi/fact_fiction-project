@@ -1,0 +1,25 @@
+
+measurement issues we could validate only 1450 and 1158 volumes,
+
+respectively.
+
+(f) fMRI: first-level analysis
+
+To control for variance due to motions of the head, movement
+
+(d) Acquisition and processing of auditory data parameters that were estimated during the re-alignment pro-
+We recorded the full experimental procedure with an fMRI- cedure were introduced as regressors into the general linear
+adapted fibre optic microphone (MR confon, Magdeburg, model (GLM). The fMRI data were additionally adjusted for arte-
+Germany). For every subject, we obtained a single audio file of facts by a reduced weighting of motion-contaminated volumes
+the length of 30 + 5 min representing the total duration of the using the RobustWLS toolbox [35]. An event-related analysis
+
+scanning period. After the experiment, Audacity® software was conducted to separately identify the regions of the brain
+
+
+that were activated by the anticipation (A)—and the treatment participant showed no audible reaction to the stimuli, neither | 4 |
+
+(T)—stimuli in each subject. A reaction and neuronal conduction during TiS nor during TiV. The Kendall’s tau-b correlation
+
+time of 400 ms after the request to effectively tickle was included analysis determined a strong correlation (r= 0.506, p< 0.001) ¢
+in the modelling (see also [16]). Contrast images were calculated between the laughter score (total number of laughs) during z
+to assess the neuronal activity that was tested in the four tickle alone and tickle accompanied by voluntary vocalization. =

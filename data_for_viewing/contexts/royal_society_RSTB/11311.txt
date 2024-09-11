@@ -1,0 +1,25 @@
+ence the dynamic of cultural change (e.g. [92]). As they are inference frameworks can be applied to cultural frequency
+not included in the generative model, their influences may data, potentially allowing us to close the gap between
+be mistakenly attributed to social learning processes that theoretical modelling work and empirical work in cultural
+are able to produce a similar effect at the population level. evolution.
+But this potential pitfall is also itself amenable to testing In particular, we focused on the topic of inferring how
+with the generative inference framework. Researchers can at human populations use social information based on the avail-
+least evaluate the extent to which posterior distributions able empirical evidence. In many case studies of interest, the
+change when assuming a population bottleneck between available data are in the form of frequencies of different var-
+the beginning and the end of the phase. iants of a cultural trait in the population at one or several
+The accuracy of ABC inference depends partly on how the points in time, which means that we face a classical inverse
+difference between observed and simulated data is calculated problem. Naturally, attempting to address this problem
+and on the achieved tolerance level. Calculating the differ- leads to the question of how much information about under-
+ence based on summary statistics S instead of the full data lying processes of social learning can in fact be extracted from
+D results in discarding likely useful information [93]. If a cultural frequency data of a given resolution. The framework
+summary statistic (or set of) is not sufficient—as is generally outlined here allows us to address this equifinality problem.
+the case in practice—the resulting posterior distribution will At the heart of this framework is a generative model, which
+not be equal to that computed with the full data [94] captures the main cultural and demographic properties of
+(see also [93] for a review of strategies dealing with this the system considered. As noted, there are no restrictions
+issue). While the impact of using insufficient statistics on on the type of model used, with the one described in §2d(i)
+inference results can be mitigated by careful application, we simply an example tailored specifically to the observed popu-
+note that by using the actual frequencies for calculating the lation-level frequency data. Whatever their form, these
+difference between observed and simulated data this problem models establish a causal link between model parameters
+is circumvented entirely. Further, any posterior distribution controlling the strengths of underlying evolutionary pro-
+with large tolerance levels does not approximate the ‘true’ cesses and observable population-level patterns; in our case,
+posterior distribution and should be treated with caution. between parameters controlling the strengths of social learn-

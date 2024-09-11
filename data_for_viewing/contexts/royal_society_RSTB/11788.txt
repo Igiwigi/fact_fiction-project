@@ -1,0 +1,25 @@
+Nay
+
+Let
+
+Figure 7. (a) Screenshot of NEURON-UI while in edit mode, a simplified cell builder (bottom left) lets the user edit any selected section (in yellow) while the Run
+control panel (right) is used to control the simulation. (b) NetPyNE-UI showing the result of a simulation of a large-scale M1 microcircuit model with widgets
+showing a raster plot (top left), individual cell membrane potentials (bottom left), population spiking statistics (middle) and the power spectral densities for
+two populations (right).
+
+common problems and rewriting entire software components [66], while having a shared infrastructure that undergoes
+and workflows. There is also a significant advantage in inter- regular release cycles ensures maintenance is less burden-
+acting with the active community of Geppetto developers, some for each specific application. Furthermore, the
+who can assist with any queries. The net time saving com- distributed nature of the Geppetto code base and the fact
+pared to an approach that starts from scratch is difficult to that updates are made independently of any specific project
+estimate but is likely to range from six months to five ultimately increases the longevity of any application built
+years’ depending on the targeted scope—the more the with this platform.
+
+features required that overlap with Geppetto’s the bigger The diversity of applications that have been built so far
+the savings—and on the size and experience of the team of with Geppetto illustrates the flexibility of its model abstrac-
+developers involved. Moreover, extensive sharing of modules tion capabilities, which can encompass different domains,
+
+between applications results in them being thoroughly tested data and scientific modelling formalisms. Also, as_ the
+
+
+(Coasrorhebats elegans is 2 fee-tvng (pot paresiic), ransperent nematode (oundwor), ebout 1 mm in length,

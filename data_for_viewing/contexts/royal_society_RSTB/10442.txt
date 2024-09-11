@@ -1,0 +1,25 @@
+ago [48,49], PdeR and Pde are active PDEs now termed ‘trigger PDEs’, whose function as c-di-GMP sensing effectors has only been recently characterized [30,50]
+and is described in detail in §85 and 6, respectively. Note that the array of c-di-GMP-responsive effector components is not exhaustive, but those mentioned here
+have been chosen to represent different families of proteins.
+
+The multifunctionality of these trigger PDEs is reminis- interactions with other macromolecules (TF, DNA promoter
+cent of bifunctional ‘moonlighting’ enzymes already regions or RNA) which results in a control of gene expression.
+observed many years ago (more recently summarized The c-di-GMP-specific PDE PdeR in E. coli seems the first
+in [62]) and, in particular, a subclass of these, for which the trigger enzyme found to be involved in second messenger sig-
+name ‘trigger enzymes’ was proposed because they act as nalling, which makes it a ‘trigger PDE’ that acts as a novel type
+regulatory factors that trigger transcriptional responses [63]. of c-di-GMP-sensing effector. In principle, its mode of oper-
+These bifunctional enzymes (and in some cases transport ation is not so different from other effectors, which are
+systems) control gene expression via direct protein—protein allosterically controlled by c-di-GMP binding. The difference
+or protein-DNA/RNA interactions in response to the avail- is the fact that a trigger PDE not only binds the ligand, but
+ability of the substrates for their enzymatic (or transport) also degrades it, i.e. it possesses a mechanism to get rid of its
+activities, with the substrates being central metabolites ligand and even decrease its cellular concentration. Thus, a
+as illustrated by the following examples: (i) the proline- trigger PDE not only responds to c-di-GMP, but feeds back
+degrading enzyme PutA directly binds to and controls the onto the level of c-di-GMP, which corresponds to an inherent
+activity of promoter regions of target genes [64]; (ii) the negative feedback loop. This circuitry renders signalling
+apo-form of the iron-sulfur cluster enzyme aconitase binds through a trigger PDE more dynamic—a sustained response
+to iron-responsive elements in mRNAs encoding other tricar- depends on continuous synthesis of c-di-GMP by at least one
+boxylic acid cycle enzymes [65], (iii) the esterase Aes and the active DGC, since otherwise the trigger PDE would reduce
+BC-S lyase MalY control the transcription factor MalT by the concentration of the signalling ligand (with kinetics
+direct interaction [66-68]; and (iv) the phosphotransferase depending on the actual cellular concentration and specific
+system involved in glucose uptake also binds and sequesters activity of the trigger PDE). On the other hand, a trigger PDE
+the transcription factor Mlc [69]. In all cases, the enzymatic can accelerate switching off even multiple downstream

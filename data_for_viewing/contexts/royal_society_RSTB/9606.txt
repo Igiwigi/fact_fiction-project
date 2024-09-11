@@ -1,0 +1,24 @@
+type which facilitates the growth of the first genotype, and
+vice versa, such that both parasite loads increase endlessly.
+If we assume that this process is much faster than the trans-
+mission process and that very high parasite loads eventually
+lead to host death, the host will die before infecting another
+host and is thus epidemiologically irrelevant. We call this
+case ultrainfection as it cannot be considered within the
+superinfection—co-infection framework.
+
+The drawback of allowing ultrainfection is that some
+parameter sets might result in genotypes that do not reach
+a steady state in any class, such that the between-host
+dynamics would be in fact governed by an effective
+number of genotypes n’ smaller than n. To avoid these
+‘shadow genotypes’, one solution is to force the steady state
+in single infections to be both positive and stable. When a
+susceptible is infected by only one genotype, let us say k,
+the infected steady-state parasite load is then x4, and its
+value is given by equation (2.6) applied for n = 1,
+
+— & °
+
+Xgk = — ————_ =: xy. (3.1)
+Wik Tk + Vik

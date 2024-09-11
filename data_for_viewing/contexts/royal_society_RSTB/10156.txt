@@ -1,0 +1,25 @@
+refer to this slightly abstract construct as an ‘LN element’
+(figure 1) to distinguish it from simple cells. The response
+
+‘false’ match
+
+of a single LN element will still depend upon the spatial 2
+phase of a luminance grating, and so to build model complex a
+cells it is usual to combine two LN elements that have RFs in x
+quadrature (the RF in the second element is obtained by shift- z
+ing all of the Fourier components through 90°). The fact that 3
+
+the two LN elements are in quadrature confers phase invari-
+ance on the model complex cell. The fact that the response of
+both LN elements depends on disparity makes the model
+sensitive to interocular phase difference.
+
+Note that once a single monocular RF has been defined
+(of any shape), these rules completely define a model com-
+plex cell selective for zero disparity (with identical RFs in
+each eye, as in figure 1). Thus, BEMs can be built with any
+shape of RF, although almost all studies have used Gabor
+functions to describe the monocular RFs. Although it has
+always been recognized that this compact description is
+bound to be an oversimplification, it nonetheless provided
+a powerful framework for understanding both the responses

@@ -1,0 +1,25 @@
+work in our group, in which we further control for con-
+founding effects of age, gender, brain size and motion, as
+well as using a leave-one-family-out cross-validation frame-
+work (LOFO) instead of the original LOSO framework (thus
+accounting for the family structure of the HCP dataset, see
+Methods), further revised the effect size down to about
+rLoro = 0.09 using methods matched as closely as possible
+to the original study [46]; yet using improvements including
+better inter-subject alignment and multivariate modelling,
+we found rjoro = 0.263 (N = 884) [49]. Note that this
+effect size is comparable to recent estimates of the relation-
+ship between brain size and intelligence [50]. Though the
+explained variance is small, it would, in fact, fall around
+the 65th percentile of correlations observed in individual-
+differences research [51] (with the caveat that ryoro
+correlation is derived from a cross-validation procedure,
+which breaks the assumption of independence between
+individual data points).
+
+According to recent guidelines [52], the assessment of gen-
+eral intelligence with HCP’s 24-item Progressive Matrices
+would be considered of ‘fair’ quality (one test, one cognitive
+dimension, testing time less than 19min), and would be
+expected to correlate with general intelligence in the range
+0.50-0.71. This rather low measurement quality itself is

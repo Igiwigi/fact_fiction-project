@@ -1,0 +1,25 @@
+increases (given richness and abundance) as some species
+get progressively rarer. A more pragmatic argument comes
+from Chao et al. [6], who noted that estimating the relative
+abundance of rare species is an increasing problem for diver-
+sity measures as @ increases; they therefore suggest using
+only more estimable Hill diversities with ¢ <1. However,
+theoretical work suggests that even richness (¢=1) is
+poorly estimated [24,25], and by this logic should not be
+used either. Finally, and most generally, diversity measures
+have traditionally been considered separate from abun-
+dance/density measures (but see [78,79]), whereas with
+increasing ¢ values, observed diversity and observed abun-
+dance tend to be more strongly correlated (and in fact
+approach a correlation of one in our datasets). Despite these
+arguments, our results show that Hill diversities with 7>1
+are meaningful ecological diversity measures, at least in the
+sense that they convey more information about function
+than do more widely used Hill numbers. Choosing to exclude
+these Hill diversities might be desirable for some conceptual-
+izations of diversity, but we are opening the narrower
+question of which Hill diversities—with their variable
+emphasis on richness, abundance, evenness and domi-
+nance—best explain ecosystem function. In this pursuit,
+allowing diversity metrics to highlight absolute abundance
+is valuable.

@@ -1,0 +1,25 @@
+each particular system, which can be treated as irrelevant as topological and dynamical network properties. Far from
+they disappear when getting rid of details and observing being mere fancy mathematical descriptions of a system,
+the system at increasingly longer length scales. these properties have important implications for the system’s
+Appropriate null models facilitate quantitative network functioning [52].
+evaluation. A random network topology with the same The particular structure of connections has important con-
+degree distribution as the original network can be used as a sequences for the information processing capacities. The ability
+null model [34]. to process and propagate signals between nodes is for example
+
+affected by whether networks possess branching or loop-like
+features [53]. It also affects the efficiency and robustness of
+
+(ii) From structure to dynamics to function networks. For instance, several studies have suggested that
+The fact that the same methodology can be applied to net- the SW organization of functional brain activity favours high
+works of different nature is an advantage when delineating communication efficiency for a low wiring cost [4]. It has
+the relationship between anatomy, dynamics and function. also been shown that the presence of rich-club organization
+For example, the topological properties of anatomical and func- provides important information on network properties such
+tional networks have been compared with the aim of detecting as hierarchal structure, modularity and resilience [54,55]. The
+influences or constraints of one network on the other [35-37]. SW structure is commonly associated with an efficient organiz-
+Although difficult to compare, owing to dissimilar origins ation of the brain, compatible with a simultaneous integration
+and to a different number of nodes and links, these networks and segregation of information through the network [19]. On
+share some topological properties, such as the SW structure the other hand, scale-free networks are highly resistant against
+[38-40]. Several studies have compared functional networks random failures [18,56], though extremely fragile to attacks
+at rest with structural connections, reporting high correspon- targeting their most connected nodes [57]. Similarly, the pres-
+dence between both types of networks in regions with higher ence of degree—degree correlations affects the tendency to
+density of anatomical connections, while high variability separate into distinct groups, as well as network synchroniz-

@@ -1,0 +1,25 @@
+We show that GBMs lead to more erratic evolutionary trajec- such as inversions [28] or chromosomal fusions.
+tories during local adaptation in the face of gene flow and may The theme of this special issue is the evolution of
+slow down the evolution of reproductive isolation regardless of strong reproductive isolation during speciation. It might be
+whether we consider local adaptation to a fixed set of optima suggested that our results are of little relevance since they
+or as a runaway process. Our implementation approximates an appear to address primarily the initial evolution of reproduc-
+infinite-sites-model with uniformly distributed mutational tar- tive barriers through adaptation to stable but divergent trait
+gets for both locally beneficial mutations (LBMs) and GBMs. optima in two populations connected through migration.
+Given the importance of linkage, any deviation from our assump- We show that in this case, migration shuts down only in
+tion of a polygenic trait under divergent selection, or from the regions of the genome that contribute to local adaptation
+assumption that mutational targets for LBMs and GBMs do not causing partial reproductive isolation. However, we would
+arise in strictly separate parts of the genome, will reduce the nega- argue that the equilibrium shown in figure 1 corresponds to
+
+tive impact of GBMs on local adaptation. We only considered a stable endpoint, despite the fact that barriers between
+
+
+locally adapted taxa remain permeable and globally beneficial
+genes can introgress with negligible delay [8]. Biologists
+studying gene flow in nature discarded the biological species
+concept (BSC) more than a quarter of a century ago [29]
+because its simplistic requirement of complete reproductive
+isolation, while attractive for the purposes of categorization,
+contradicts the widespread evidence of hybridization.
+There is now strong evidence from genomic data that species
+barriers have been permeable across entire radiations (e.g.
+Heliconius butterflies [30]). Likewise, the discovery that

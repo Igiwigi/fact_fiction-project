@@ -1,0 +1,25 @@
+
+fon (te, telt)
+fe (telt) *f(te) xf) (1.1)
+
+= fev (telte, Hy) x f (te) x f (A).
+
+f(t, ..-, tsa) =
+
+Thus, to calculate the time prior using fossil calibrations
+and the birth—-death process, one must calculate: (i)
+foo(te, telt1), Gi) fao(te|f1) and (iii) f(t.) x f(t). Calculating
+(i) and (iii) is straightforward; however, it turns out that cal-
+culating (ii) is in general very hard. In fact, here I show that
+the procedure proposed by Yang & Rannala to obtain (ii)
+leads to a misspecified density. Thus, Yang & Rannala’s
+resulting conditional density for node ages without calibra-
+tions, fgp(telte, 4), is also misspecified. The problem is
+moderate, in the sense that the fossil calibration densities are
+not affected, and estimated divergence times on the phylogeny
+will be appropriately constrained by the fossil calibrations
+specified by the user. However, the misspecified fgp(telt., t1)
+density can look quite strange and sometimes can have mul-
+tiple modes, and may thus lead to a multi-modal posterior
+distribution for the ages of nodes without fossil calibrations.
+Such misspecified densities may be biologically unrealistic.

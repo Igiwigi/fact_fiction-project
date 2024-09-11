@@ -1,0 +1,25 @@
+depends on the parameters of the model only through two diversity of PRDM9.
+
+
+The simulations presented here are based on relatively This may be reasonable if the main role of recombination is to | 13 |
+
+simple (exponential and power-law) fitness schemes. In prac- promote correct chromosome segregation. However, the fine-
+tice, the fitness of individuals as a function of their PRDM9 scale distribution of recombination across the genome plays a
+genotype might certainly be more complicated. In particular, an important role in shaping the distribution of LD. In particu- s
+it may not necessarily be monotonic and instead show a lar, under low PRDM9 diversity, recombination is concentrated a
+maximum for an intermediate CO rate. Further work might on few hot spots that are constantly reused at the level of the = 2-
+be needed in this direction. Nevertheless, many of our results population, thus creating large haplotype blocks within S
+appear to be relatively general. In particular, the scaling as a which LD tends to accumulate, potentially resulting in a genetic =
+function of N, and the fact that diversity is determined by the load through background selection or interference between =
+mutational input are essentially valid under arbitrary fitness concurrent selective sweeps. In this context, rare PRDM9 alleles “2
+models, as long as the absolute fitness of a diploid can be could be favoured because they break up those large haplotype
+expressed as a function of the activities (fraction of active blocks, thereby contributing to a more efficient dissipation of — -5
+targets) of its two alleles. On the other hand, more complex LD. Unlike what we have considered in our model thus far, =
+models could be imagined, for which the results presented this specific form of selection is inherently frequency-dependent =
+here are not valid, in particular, if the fitness of an allele and therfore genuinely diversifying. As a result, it would -
+directly depends on population-level quantities, such as the provide a mechanism for explaining high levels of PRDM9 2
+amount of linkage disequilibrium (see below). polymorphism without having to invoke very high mutation S
+Self-consistent mean-field approximations have already rates at this locus. In turn, allowing for a lower mutation rate w
+been used in the context of other evolutionary problems u would then make it possible to accomodate more reasonable = 'Y
+(e.g. in [33]). They could, in principle, be applied to many values for the strength of dBGC, g, while still predicting ©
+other evolutionary Red Queen models, at least if the aim is to significant levels of depletion of recombination landscapes. s

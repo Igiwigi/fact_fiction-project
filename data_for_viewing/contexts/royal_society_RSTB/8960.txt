@@ -1,0 +1,25 @@
+possible to bound the uncertainty, given relatively coarse minate with the approximate values y° TH. Generally, in tree
+extra information such as the range of possible rewards and traversal, estimated values can be substituted so as to treat a
+probabilities. In principle, one would like to exploit this infor- branch like a leaf. Finally, in just the same way, MB methods
+
+mation to target future computation more precisely, as a form using local backups, sample roll-outs or transitions can be
+
+
+applied locally to improve the existing estimates at any given in turn, each column of M can be learned via either of the | 5 |
+
+state x. sampling methods in §2 (trajectory or transition based, or
+
+Such a combination of MF estimates with MB refinement in general, TD(A)), where visits to state y are counted in a
+is motivated by the fact that estimating 7 from MF experience place of rewards. In general, TD learning of M requires s
+is so closely related to some of the methods we discussed for updating an entire row of the matrix following the transition a
+computing % from a model. That both involve accumulating from some state x to y, according to the observed transition © 2
+samples, though from different sources, makes it seem natur- (1 for y, 0 elsewhere) plus a vector-valued backup of the dis- 3
+al more freely to intermix both sorts of samples, experiential counted occupancies over all other states expected following S
+and model-generated, in updating the same vector. This is the y, ie. yihy. =
+idea behind the Dyna architecture [50], and since has been The successor matrix is not only useful for MF evaluation. | ‘S
+refined to take better advantage of search trees [51,52]. Because it summarizes and thus replaces the trees, rollouts ‘©
+These considerations suggest that it may make sense for or iterations over state visits that are required to produce =
+MF learned values and model-derived computed values to the MB computations based on equations (2.8) or (2.9), it =
+share a single value store, which is both updated online can save almost all the computation associated with the yy
+from experience and subjected to refinement with MB implied algorithms. All that would formally be required is 2
+methods. This store can be seen as caching the conclusions an MB estimate of the utility of the immediate reward at &

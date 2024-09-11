@@ -1,0 +1,25 @@
+which range from simpler autonomic responses within the
+
+body (e.g. release of antidiuretic hormone) to complicated 3. Formalizing brain design as structure learning
+goal-directed plans that cancel errors through much longer
+
+loops through the environment (e.g. rent a beach umbrella In generative models
+or buy an ice cream on a sunny beach), depending on the Before we sketch an evolutionary history of brain designs, we
+allostatic complexity of the organism. provide a formal way to interpret evolutionary trajectories,
+Third, the same error correction scheme—that functions using the notion of generative models. Generative models are
+for internal (homeostatic and drive) states—can be used to constructs from statistical theory that generate predictions
+control bodily movements and external variables, too. This about observations and are widely used in data science and
+is illustrated by the use of ‘equilibrium points’ in motor con- machine learning. Here, we are concerned with generative
+trol—and the fact that it is possible to guide bodily actions by models as explanations of how the brain works. Active infer-
+setting fixed point attractors at desired movement endpoints ence posits that creatures entail generative models of the
+[16]. Another illustration of the same principle is the notion of hidden causes (x) of their sensations (y): see figure 2 for a
+
+‘goals’ in cognitive theory [17]. In sophisticated animals like summary of this formalism. The brain’s models generate
+
+
+predictions (e.g. about environmental contingencies or the 4. Three examples of simple predictive motifs in | 4 |
+effects of body movements) and steers adaptive actions (u) ,
+
+that bring about desired sensations (e.g. reach a food source). ancestral brains
+
+Generative models in the brain do not need to be internal We start this tour through generative models using three

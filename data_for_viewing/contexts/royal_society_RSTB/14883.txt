@@ -1,0 +1,25 @@
+Figure 1. Overview of DfrB1 structure and key residues. The DfrB1 homotetramer (PDB 2RK1) complexed with DHF substrate (carbons in green, only the pterin group
+is resolved) and NADP* (carbons in grey). The VQIY active-site motif is coloured (from dark to light blue) for each protomer. K32 residues that bind the negative
+charges of DHF and NADPH are shown as orange sticks (two conformations are shown). Residues W45 at the monomer—monomer interfaces and W38 at the dimer—
+dimer interfaces, are coloured in purple and pink, respectively. (Online version in colour.)
+
+poorly conserved, unstructured N-terminus (electronic sup- DfrB-H2 is twice the length and includes the DfrB1 N-terminus.
+plementary material, figure $3). This SH3-like fold has no Although the other nine reported DfrB are always identified as
+evolutionary homology to any characterized protein. No dis- 78 residues in length, this gene has two start codons: one for the
+tant homologues in the UniProtKB/Swiss-Prot database of translation of the 97-residue DfrB-H2, and one for a 78-residue
+functionally annotated sequences are identified for DfrB1 enzyme that is identical to DfrB1 except for one residue at the
+according to PSI-BLAST, using an E-value threshold of 107°; junction of the N-terminus and the SH3-like fold. We have no
+by contrast, applying the same method to the Escherichia information on the relative expression levels of each gene pro-
+coli FolA identifies 90 characterized sequences sharing less duct in vivo. In fact, the well-studied, ‘canonical’ DfrB1 may
+than 50% local identity. not be produced in nature in its 78-residue form but may
+Recognizing that standard search tools are inefficient in always be accompanied by the longer N-terminus that charac-
+yielding evolutionary insight into the emergence of DfrB terizes DfrB-H2. Characterization of DfrB-H2 will inform on
+enzymes, we searched the complete UniProtKB for DfrB the impact of varying the N-terminus length on DfrB function.
+homologues, including uncharacterized proteins. By those The four more distant homologues, DfrB-H3 to DfrB-H6,
+means, we identified a total of 68 sequences. They describe are all mainly clustered among genes encoding hypothetical
+30 non-redundant proteins having sequence similarity with proteins having no predicted function. Among the few
+DfrB1 among which 21 are described as putative, as they genes having a putative function, both DfrB-H3, identified
+have only been identified by bioinformatic predictions. in a Pseudomonas phage, and DfrB-H5, identified in Methylo-
+Their length ranges from 67 to 463 amino acids. A set of 18 bacterium pseudosasicola, are found in proximity to a DNA
+close homologues to the DfrB1 (greater than 80% global methyltransferase. DfrB-H4, identified in a Vibrio phage, is
+sequence similarity) includes nine of the 10 known DfrB found at a distance of 2 kb of a DNA methylase gene. Finally,

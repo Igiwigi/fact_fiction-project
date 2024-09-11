@@ -1,0 +1,25 @@
+
+and movement behaviour [9-12], biologging can also gather information about
+
+the abiotic environment experienced by the host (e.g. [11,13]). These data can
+
+e-mail: x.harrison@exeter.ac.uk also be used to understand how individual performance is influenced by
+environmental variation and/or extremes, and potentially to predict how ani-
+mals may respond to climate change (see Chmura et al. [14]). The diverse
+plethora of data that can be gathered from a single device mean that biologging
+studies are extremely information-rich, perhaps containing thousands of data
+points for each measured variable (e.g. [15-17]). However, this high per-
+device information content comes at a cost. Data analysis is complicated by
+the fact that resulting datasets are often time series, where successive values
+of our metrics of interests are dependent on values from prior sampling
+events [18] (table 1). For example, the blood pO of a diving elephant seal at
+time f during a dive is entirely dependent on pO; at time f — 1 because of a lim-
+ited store of oxygen [34]; or, trends in body temperature over time may be non-
+random because of circadian rhythms [35,36]. This distinction is important
+because it changes some decisions we might make about how we conduct
+our analyses. To glean some insight from our hard-won biologging data, not
+only do we need to draw on the ‘standard’ statistical toolkit that physiologists
+are expected to be familiar with, including general(ized) linear models, their
+mixed model equivalents [37] and their potential pitfalls [38,39], but we also
+need to equip ourselves with the skills necessary to deal with time series
+[18,40]. Testing hypotheses about the processes driving variation in our data

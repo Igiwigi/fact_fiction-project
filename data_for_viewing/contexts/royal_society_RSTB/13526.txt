@@ -1,0 +1,25 @@
+genomes (see above paragraph on changes in transcriptional
+
+orientation). Inversions can arise via multiple double-stranded 3. Annotation challe nges
+breaks or by inverted repeats (see [117] for the description of Considerable effort is required for annotation of the genes of
+inverted repeat mechanisms) in which one repeat is deleted, molluscan mitogenomes. Most protein-encoding genes are
+likely via recombination [118]. However, inversions would easily identified with orthologues by sequencing similarity,
+seem to have immediately deleterious consequences for with occasional consideration of hydrophobicity plots for
+transcriptional control of mitochondrial genomes. There has atp8 and nad4L, but there are challenges with inferring the
+been speculation of an ‘evolutionary ratchet’, whereby genes correct start codon in cases where there are multiple, closely
+rearranging by inversions to be on a single strand would spaced alternatives. An inference must consider the possi-
+eliminate the selective pressure to maintain transcription of bility of overlap with the upstream gene and the extent of
+the other strand and, once lost, would make any further inver- evolutionary conservation of the ORF. This is confounded
+sion of any gene immediately non-functional such that by the fact that molluscs employ the invertebrate mitochon-
+reversion to a state of genes on both strands would be highly drial genetic code (NCBI Genetic Code 5) that allows for
+unlikely [113]. Investigating mitochondrial transcriptional alternative start codons in addition to ATG, including ATA,
+dynamics in closely related species (or M- versus F-type ATY, TTG and GTG (normally encoding for methionine, iso-
+mtDNAs from the same species) that have inversions relative leucine, leucine and valine, respectively). Each of these
+to one another might prove especially useful in understanding would provide a match to at least two nucleotides of the
+how inversions are able to persist longer than other types trnM anticodon (CAU), which must do double duty in
+of mitochondrial genome rearrangements. How these most mitochondrial systems as the tRNA for both methionine
+inversions and subsequent changes in expression affect mito- and, in the case of protein initiation, formyl-methionine.
+chondrial function and fitness will also be of broad interest to Ordinarily, inferring a stop codon for any gene is straight-
+the mitochondrial community. forward but, here too, mitochondrial genomes present a
+Fourth is the evident selective pressure for genome stream- challenge. In many cases, mitochondrial genomes are tran-
+lining, both in terms of gene content and genome size. One of scribed as a single polycistronic RNA from each strand (see

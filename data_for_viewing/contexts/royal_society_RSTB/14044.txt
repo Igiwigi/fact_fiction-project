@@ -1,0 +1,25 @@
+opment of both systems in avian and in mammalian brains, contexts in which it is embedded, and evaluated for success =
+now including hippocampus and associated limbic cortices or reinforcement expectations by the history of such actions — 5!
+along with olfactory structures. The variation is so pro- in the basal ganglia. By virtue of downstream or recurrent = >
+nounced, as in the extent of the hippocampus of the projections to the thalamus, the action may thereby be =
+armadillo in figure 5, that it seems entirely possible that com- aborted, modified or executed, and in time elevated to 3
+pletely different strategies for common needs might have habit [186,211]. ‘Hierarchical reinforcement learning’ may =
+developed independently. For example, a nocturnal olfactory introduce levels of execution to such a command, which
+specialist might develop a fully memorized allocentric may integrate sequences. ‘Planning’ as discussed in this
+environmental representation for avoidance of and escape paper involves computation of the virtual consequences of Ss
+from predators and for foraging, while a neocortex-depen- any one, or a set of independent decisions, extending in a 8
+dent animal might use the cued-array map described branching tree-like fashion to several expected outcomes.
+earlier, augmented by sequence information contributed by We suggested, with minimal elaboration, that the combina-
+its hippocampal formation. The fact that the largest mamma- torial procedure used to compute an egocentric location, or
+lian predators in our sample have the largest, and most a limb position as described by Andersen, Colby and col-
+symmetric representation of both subcomponents is highly leagues previously—if reimagined as decision consequences
+interesting. Balanced or asymmetric, the information sources strung out over time—might support sequential planning.
+of these two anatomical entities must be integrated in some Many other solutions are possible, of course, even likely—
+way, and the nature of information integration in intervening hybrid decisions involving multiple structures and decision
+structures in the animals with the most distinct lifestyle and classes for example [253].
+structural differences, for example, entorhinal cortex or the We briefly mentioned the interesting clue from follow ups
+amygdala, would be very informative about how such infor- on the success of the latest offspring of AlphaGo, MuZero, on
+mation-integration problems are solved in evolutionary time. why adding model-based planning can lead to efficiencies in
+
+learning compared to model-free reinforcement learning
+with massive training. Planning may act to prune an infinite

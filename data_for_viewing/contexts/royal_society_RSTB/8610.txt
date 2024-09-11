@@ -1,0 +1,25 @@
+auditory brain neurons from female crickets were obtained in response to call songs of the male cricket. Voltage traces from an auditory neuron in response to songs
+with different pulse intervals. The three panels show traces obtained in response to songs where the inter-pulse interval was 5 ms (top), 15 ms (middle) and 60 ms
+(bottom). This particular neuron exhibited selectivity to temporal patterns with an inter-pulse interval of 15 ms. (ii) Temporal tuning of neural responses (black) and
+behavioural phonotactic (grey) responses obtained from three female crickets over a range of different pulse intervals (10-100 ms) (adapted with permission from
+Kostarakos & Hedwig [60]).
+
+and order selectivity have not been carefully examined but are dynamics and timing because they provide a tractable
+broadly consistent with SDN models. approach to understand the underlying mechanisms. And
+because, as mentioned, in vitro timing would provide
+strong support to the notion that timing is a basic and general
+
+4. Timing and neural dynamics in vitro computation of neural networks.
+The fact that interval- and order-selective neurons have been
+observed in a wide range of subcortical and cortical areas (a) Neural dynamics in vitro
+across many species favours the notion that timing may be Several in vivo and in vitro studies have shown that the richly
+a general and intrinsic property of neural networks. Perhaps interconnected circuits in the cortex exhibit complex dynamic
+the most rigorous prediction of models that propose that patterns of activity [83-90]. This dynamics can be studied
+timing is an intrinsic computation is that timing may be through intracellular recordings from single neurons, extra-
+able to be observed in vitro. That is, if neural networks are cellular recordings from multiple neurons or multi-cell
+indeed intrinsically capable of timing, it may not only be Ca*t-imaging; and methods have revealed that complex yet
+possible to observe examples of timing in vitro, but also to, reproducible patterns of activity appear to be a general and
+in a sense, ‘teach’ in vitro circuits simple temporal tasks. We widespread regime of recurrent neural circuits.
+now discuss studies that have attempted to ask and answer In vitro whole-cell recordings in both acute and organotypic
+this question experimentally. slices demonstrate that in addition to a short-lasting monosy-
+These studies focus on examples of timing that may rely naptic EPSP, external stimulation can elicit long-lasting

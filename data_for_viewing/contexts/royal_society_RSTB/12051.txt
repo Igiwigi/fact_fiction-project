@@ -1,0 +1,25 @@
+PHO84. TRK1 encodes a high-affinity potassium transporter epistasis among pairs of genes in which we observed three or
+and PHO84 encodes a high-affinity phosphate transporter. more independent mutations. We assumed that all observed
+The biological cause of their interaction is unclear, although mutations in these ‘multi-hit’ genes are beneficial. However,
+there is evidence of crosstalk between potassium and this may not be the case. We estimate around 12% of the
+phosphate import [53,54]. genes included in this analysis to have been mutated three
+While gene-deletion studies are particularly good at or more times simply by chance. These mutations are distrib-
+detecting strong negative pairwise interactions between dele- uted uniformly among genotypes and therefore decrease the
+terious mutations, such as synthetic lethality (reviewed in signal-to-noise ratio in our data. One way to decrease FDR is
+[9]), our method identifies primarily positive interactions to consider genes with an even higher degree of parallelism.
+between pairs of selectively accessible mutations. In theory, Of course, this would come at a cost of potentially missing
+our approach could also capture negative interactions, but interesting genetic interactions among less frequently
+this would require observing an absence of certain muta- mutated genes.
+tional combinations more often than expected by chance. Second, high FDR may in fact reflect a real biological
+Such mutational incompatibilities have been observed in phenomenon. Gene-deletion studies have shown that strong
+evolution experiments [36,47]; for example, mutations in an pairwise epistasis is relatively rare, around 4% if both positive
+HXT6/7 hexose transporter and its negative regulator, and negative interactions are counted [6]. Thus, strong pair-
+MTHI, in glucose-limited yeast chemostat populations are wise genetic interactions among beneficial mutations might
+incompatible [47]. The absence of negative interactions in our also be rare. Weak epistasis might be more common, but it
+list of significant pairs suggests that we are underpowered to is also harder to detect. The highly significant value of the
+detect them. aggregate MI,., statistic in our study suggests that genetic
+Several recent experimental evolution studies have found interactions jointly have affected the outcome of the evol-
+that adaptive mutations often exhibit a global (i.e. not specific utionary process at the genetic level. At the same time, the
+to a particular gene pair) type of negative epistasis, which is difficulty of reliably identifying individual interacting gene
+referred to as ‘diminishing returns epistasis’ [55-58]. For pairs suggests that genetic interactions, rather than being
+example, we previously demonstrated that beneficial alleles strong and concentrated in a small number of gene pairs,

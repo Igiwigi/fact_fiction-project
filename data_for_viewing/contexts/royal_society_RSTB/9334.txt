@@ -1,0 +1,24 @@
+cally detailed models of dynamic effects induced by focal brain to more detailed physiological models that can generate simu-
+lesions [144], degeneration [145] or psychiatric disorders [146]. lations of rich temporal patterns of brain dynamics, but that
+Another intriguing application of network-based computatio- are also computationally costly and difficult to implement.
+nal modelling is the use of such models to capture spreading Physics-based models of communication processes combine
+dynamics of epilepsy, which may eventually become a tool computational simplicity with analytic transparence. Despite
+for data-driven surgical mapping and selection of stimulation their simplicity, models that are based on structural graph
+sites [147]. measures [148] and/or models of diffusive processes [149]
+
+Computational models are also increasingly useful for and routing [150] have proved capable of reproducing observa-
+understanding the mechanistic underpinnings of functional tional data on brain dynamics, for example, the topography of
+connectivity. This is important since functional connectivity resting-brain functional connectivity (figure 3).
+has become a prominent mode for measuring brain dynamics, In summary, computational models of the human brain
+despite the fact that its neurobiological origin and meaning are that can reproduce and predict patterns of brain activity at
+far from clear. It is generally assumed that functional con- rest and in response to stimulus- and task-evoked pertur-
+nectivity reflects ‘dynamic interactions’ among nodes in the bations have come within reach, not least because of
+
+brain, ie. is driven by the temporal dynamics of neural significant progress in human connectomics and cerebral
+
+
+cartography. It seems certain that network maps will remain and their hierarchical organization into large-scale networks, El
+
+important ingredients for building ever more detailed the extension of whole-brain connectivity to cellular-scale
+computational brain models in the future. networks, and the mapping of structure/function relations a
+in empirical recordings and computational models. s

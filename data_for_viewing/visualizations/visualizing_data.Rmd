@@ -28,9 +28,13 @@ load_and_preprocess_data <- function(file_path) {
   
   return(data)
 }
+```
 
-rs_data <- load_and_preprocess_data("../ff_royal_society_words_found_context_separate.xlsx")
+
+```{r}
+rstl_data <- load_and_preprocess_data("../ff_royal_society_words_found_context_separate.xlsx")
 s_data <- load_and_preprocess_data("../ff_spectator_words_found_context_separate.xlsx")
+rstb_data <- load_and_preprocess_data("../ff_royal_society_words_found_context_separate_RSTB.xlsx")
 ```
 
 
@@ -40,7 +44,12 @@ s_data %>% #spectator
   summarise(count = n(), .groups = 'drop') %>%
   mutate(total = sum(count), percentage = round((count / total) * 100, 1))
 
-rs_data %>% #royal society
+rstl_data %>% #royal society
+  group_by(Keyword) %>%
+  summarise(count = n(), .groups = 'drop') %>%
+  mutate(total = sum(count), percentage = round((count / total) * 100, 1))
+
+rstb_data %>% #royal society
   group_by(Keyword) %>%
   summarise(count = n(), .groups = 'drop') %>%
   mutate(total = sum(count), percentage = round((count / total) * 100, 1))
@@ -93,14 +102,28 @@ create_pie_chart <- function(data, title, group_var = "Category") {
 
 
 ```{r, royal society}
-rs_data %>% group_by(Keyword) %>% summarise(count = n(), .groups = 'drop') %>% mutate(total = sum(count), percentage = round((count / total) * 100, 1))
+rstl_data %>% group_by(Keyword) %>% summarise(count = n(), .groups = 'drop') %>% mutate(total = sum(count), percentage = round((count / total) * 100, 1))
 
-rs_plot1 <- plot_word_distribution_by_year(rs_data, "RS: Distribution by Year", "Keyword")
-rs_plot2 <- plot_word_distribution_by_year(rs_data, "RS: Distribution by Year", "Category")
-rs_plot3 <- create_pie_chart(rs_data, "RS: Distribution of Categories", "Category")
+rs_plot1 <- plot_word_distribution_by_year(rstl_data, "RSTL: Distribution by Year", "Keyword")
+rs_plot2 <- plot_word_distribution_by_year(rstl_data, "RSTL: Distribution by Year", "Category")
+rs_plot3 <- create_pie_chart(rstl_data, "RSTL: Distribution of Categories", "Category")
 
-rs_grid <- grid.arrange(rs_plot1, rs_plot2, rs_plot3, ncol = 2, top = "Royal Society Data")
+rs_grid <- grid.arrange(rs_plot1, rs_plot2, rs_plot3, ncol = 2, top = "Royal society RSTL")
 ```
+
+
+```{r}
+rstb_data %>% group_by(Keyword) %>% summarise(count = n(), .groups = 'drop') %>% mutate(total = sum(count), percentage = round((count / total) * 100, 1))
+
+#odd formatting of years
+rs_plot1 <- plot_word_distribution_by_year(rstb_data, "RSTB: Distribution by Year", "Keyword")
+rs_plot2 <- plot_word_distribution_by_year(rstb_data, "RSTB: Distribution by Year", "Category")
+rs_plot3 <- create_pie_chart(rstb_data, "RSTB: Distribution of Categories", "Category")
+
+rs_grid <- grid.arrange(rs_plot1, rs_plot2, rs_plot3, ncol = 2, top = "RSTB")
+```
+
+
 
 ```{r, spectator}
 #this omits the unclear dates out of analysis though since they cant parse as Dates :( 

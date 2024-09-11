@@ -1,0 +1,25 @@
+tion and action (as in [39]), the perception of an external indicates the current value of the signal y. This sequence
+event should be sufficient to prime the action system to shows how representations change their position and their
+select a behaviour aiming to reproduce the target sensorimo- distance from the policy representation so that they get
+tor state that has been learned in that context, its goal. One closer to it in the final timestep. It is easy to see how, in the
+way to check if this integration has been achieved is to given example, representations begin to converge first in
+explore the internal dynamics of the agent’s internal sensory timestep 35, when the visual inputs become similar to the
+representations during an episode. This representation target. Then an increasing convergence signal is triggered at
+dynamics is affected by the continuous stream of sensory timestep 39 when the agent actually touches the object with
+inputs during the episode and it should converge towards a pattern of activation that is even more similar to the
+the region in the common representation space that is defined target touch allowing also for the internal somatosensory rep-
+by the selected policy. The dynamics of the internal represen- resentation to converge with the policy representation. Thus
+tations during behaviour can be viewed as moving towards the analysis of the internal dynamics of representations
+an attractor, which is in fact the goal that the agent is during behaviour once the topological alignment is acquired
+
+pursuing. shows that the agent is able to select the policy that will
+
+
+reproduce the motor-sensory contingency relevant for the meaningless. Thanks to this comparison, the convergence | 14 |
+current context. over time between motor and sensory representations can
+be computed. Importantly, convergence between represen-
+tations in the internal space is influenced by the actions that
+
+(e) Semantic content in the internal representation are actually taken in the environment and the subsequent
+Space changes in sensory inputs. Thus a convergence signal can
+However, how can we establish that these internal represen- be used to detect motor-sensory contingencies or action-

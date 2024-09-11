@@ -1,0 +1,25 @@
+is particularly suited in this case because it is invariant to networks. This finding corroborates previous research showing
+scale, which helps in comparing outcomes across exper- that reputation does not contribute much to the clustering and
+iments with very different incentive structures [35]. proliferation of cooperators beyond what the possibility to
+Analogously, I use the Pearson correlation coefficient between exclude defecting partners can already do [26]. The positive
+the rate of cooperation and final payoff to measure the corre- effect found in CUES15 is likely contingent on two design
+spondence between behaviour and rewards. decisions in the experiment: (1) the assumption that memory
+
+To test the effects of reputational information on inequal- is a source of reputation, such that in the no reputation con-
+ity, | compare the Gini and Pearson correlation coefficients in dition, individuals do not know even their own partners’
+the conditions with reputational information with the base- actions, and (2) the payoff matrix with CD=DD, which
+line condition without. I use the Mann-Whitney test to means that cooperators do not lose by interacting with defec-
+assess the differences in each control-treatment pair. This is tors. Because of these two assumptions, exclusion does not
+a non-parametric test that does not assume a normal distri- occur when reputation = 0, evidenced by the fact that the net-
+bution for the residuals. It essentially checks against the works have much higher density then [25].
+null hypothesis that a randomly selected value from one con- Regarding the expected positive effect of reputational
+dition would be equally likely to be less than or greater than a information on the correspondence between payoffs and coop-
+randomly selected value from the other condition. erative behaviour, I find supporting evidence that is statistically
+
+Since the experiments were not designed to test group-level significant in BOLT04, SEIN06, STAH13, CUES15 and
+hypotheses, effect sizes and statistical power are not always KAME!I7a (figure 3). The overall results, however, are not stat-
+large enough to provide evidence at the level of a single exper- istically significant for randomly rewired networks (6/8, 1-
+iment. Hence, I additionally conduct a meta-analysis across all sided p=0.145) and significant for strategically updated
+control-treatment pairs using the sign test [36]. I first count the networks only if the eight outliers from MELA18 are removed
+number of positive and negative effects, regardless of whether (12/15, 1-sided p = 0.018). Figures S5 and S6 in the electronic
+they are statistically significant. I then conduct the binomial test, supplementary material show in more detail how reputational

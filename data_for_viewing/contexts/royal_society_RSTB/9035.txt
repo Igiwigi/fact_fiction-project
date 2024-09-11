@@ -1,0 +1,25 @@
+
+(k=1 for N= 2000), the major changes produced by the and low-amplitude input currents. Here, we have attempted
+
+
+to circumvent the complexity of those approaches by using a Second, if the NN is made to operate in a slower collective
+
+more phenomenological strategy, whose goal is to test regime (e.g. in the alpha band) the synchronization between
+whether microscopic and mesoscopic descriptions of neur- the NMs is decreased (while still being significant), even
+onal populations communicate with one another by using though the three oscillators are now closer in frequency.
+synchronization as a proxy of effective communication. The synchronization between the NMs is mediated by
+Even when the NN operates in a fast dynamical collective the locking between the NMs and the NN, which leads to
+regime in the gamma range, a sufficiently large subpopu- an increase in the alpha band activity of the NN, as reflected
+lation of neurons within that network is able to mediate the in figure 3. The fact that synchronization is maintained even
+communication and subsequent synchronization between when the NN is operating in the alpha band (figure 4c,d)
+two NMs that are described mesoscopically and operate at indicates that the intrinsic NN dynamics does not interfere
+much lower frequencies. Frequency and phase locking arise notably in the communication between the NM populations.
+even when the two NMs operate at very different frequen- Furthermore, the fact that synchronization improves slightly
+cies (in the theta and alpha bands) and with very different when the NN is operating in gamma (as shown also
+dynamical features (spike-like dynamics in one case and in figure 4c,d) shows that fast and slow scales interact to a cer-
+quasi-harmonic dynamics in the other). Structural clustering tain extent in order to drive the synchronization. We interpret
+within the NN diminishes the ability of the microscopic neur- this to be due to an increase in the precise timing of the firing
+onal population to induce synchronization. The size of the that is associated with a faster neuronal rhythm. The results
+subpopulation of neurons that directly coupled the two reported here point towards an alternative way to probe the
+NMs must also be large enough to allow the intrinsically interaction of scales in the brain, by using synchroniza-
+irregular neurons to reach a sufficiently strong collective tion between neuronal populations as a way of testing the

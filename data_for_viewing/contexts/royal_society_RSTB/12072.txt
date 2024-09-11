@@ -1,0 +1,25 @@
+cerns the sufficient sample size [7]. An example of this is the practical ‘rule of
+three’ [8,9]. It gives the upper bound of the 95% confidence interval (CI) of
+the incidence when all of the N sampled hosts are assessed as healthy: Qo; =
+3/(N + 1). Estimating disease incidence (denoted q hereafter), or proving its
+absence, is of most interest during the early stages of epidemics, i.e. when
+incidences are low and containment measures are still promising.
+
+Simple practices like the ‘rule of three’ make the assumption that the
+samples are independent binomial draws with probability q and size N. How-
+
+Electronic supplementary material is available ever, as a pathogen spreads across the surveyed population, our samples will
+online at https://dx.doi.org/10.6084/m9. carry dependencies on the underlying epidemic process. For example, by pool-
+figshare.c.4457801. ing all the samples together, we neglect the fact that early monitoring rounds
+
+THE ROYAL SOCIETY
+
+PUBLISHING © 2019 The Author(s) Published by the Royal Society. All rights reserved.
+
+
+have most likely sampled a lower incidence q than the current Table 1. Variables and structure of a sampling series.
+one, resulting in an underestimation of the incidence. An
+alternative and unbiased solution is to estimate q only from
+the last round to date. But obviously, such a poor use of
+data would only be tolerable in cases where the monitoring no. of samples Ny Np Ny Nya Ny
+interval and epidemic growth rate are both very large, so

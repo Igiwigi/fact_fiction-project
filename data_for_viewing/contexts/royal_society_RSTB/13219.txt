@@ -1,0 +1,25 @@
+particular, the explicit nature of such models makes them rep-
+resent very specific demographic scenarios, therefore care must
+be taken that a wide range of plausible scenarios are rep-
+resented in the analysis. Here it is especially important to
+make sure that the considered models capture the key patterns
+of variation observed in the data, for example using the
+descriptive statistics and other tools described above on simu-
+lated data from these models.
+
+Despite their ability to explicitly represent a wide range of
+demographic processes, so far only relatively few studies have
+used spatially explicit models to reconstruct demographic his-
+tory. This is probably due to the fact that such simulation
+approaches can be complicated to set up and computationally
+demanding to perform. Early studies used linear steppingstone
+models to represent founder effects during the expansion of ana-
+tomically modern humans out of Africa [88,89] and the levels of
+shared genetic variation between humans and Neanderthals
+[78]. Warmuth et al. [90] used a spatially explicit model of Eura-
+sia to infer the origin and timing of horse domestication. The
+SPLATCHE2 framework [91] uses a two-dimensional spatially
+explicit model, which has been used to study interbreeding
+between humans and Neanderthals [92]. Eriksson et al. [86]
+used a global spatial model to link late Pleistocene human
+demography to climate; this model was later used to test the

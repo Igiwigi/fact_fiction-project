@@ -1,0 +1,24 @@
+5 02b 3 5 02-
+a . a ‘Ss .
+za
+° <4
+| rd] a | a
+ol ob " os Oo
+RESTI-REST2 RESTI-RUN REST2-RUN EV REV null clustered
+
+Figure 4. Population and ensemble activities are stable following task exposure. (a) For each session, we took the upper triangle of the correlation
+matrices for the firing rate vectors of all cells for each individual imaging block (n=3 mice; n=13 sessions). We computed the Pearson correlation
+between the correlation coefficients of the cell-pairs as a measure of similarity between the population activity structure across the three imaging
+blocks. The mean and standard errors of the resulting Pearson correlation coefficients are shown (one-way ANOVA; ***p < 0.001). The lack of significant
+difference between RESTI—RUN and REST2—RUN possibly reflected the fact that the animals were already highly experienced on the task. (6) Explained
+
+2
+variance was calculated as EV = (te — ReunpestaReesrirest2) /' / (1 — Ruy aesti)(1 — Rest =) , where the R-values correspond to Pearson correlation coef-
+
+ficients in (a) [39,40]. These values were controlled against the reverse explained variance (REV). REV was obtained using the same equation, but by substituting REST2 with
+REST1 epochs and vice versa. EV was significantly higher than REV, suggesting that reactivation had occurred (p = 0.0183; Wilcoxon rank sum test; n = 13 sessions; n = 3
+mice; white dot, median; box, first and last quartiles; whiskers, minimum and maximum values; solid dots, outliers). (c) To assess the fraction of neurons that remained co-
+active after RUN, we calculated a stability index O/(N, + N. — 0), where N, is the number of co-active neurons detected in REST1, N is the number of co-active neurons
+detected in REST2 and 0 is the number of neurons that were co-active during both resting blocks. To determine how likely it was that the resulting values were obtained by
+chance, we estimated the expected number of overlapping neurons between the two blocks as the expected value of the corresponding hypergeometric distribution (shown as
+‘null’. The average p-value from the hypergeometric distribution, indicating how likely it is that the proportion of overlap 0 was due to chance, is reported.

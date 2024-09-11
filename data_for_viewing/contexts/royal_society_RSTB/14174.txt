@@ -1,0 +1,25 @@
+for itself the appropriate balance between morphological and fitness is measured as its ability to accomplish a task. Deviat-
+neural complexity in response to the particular environment ing from much of the previous work in ER, the TOL adds a
+and task under consideration. This has given rise to a thriving learning phase to the evolutionary cycle in which individual
+field more generally known as morphogenetic robotics [16]: learning occurs after every new robot is ‘born’. Hale et al. [8]
+defined in broad terms, this specifically includes approaches describe a physical implementation of the TOL, in which
+to ‘the design of the body or body parts, including sensors robots are three-dimensionally printed then enter a simplified
+and actuators, and/or, design of the neural network-based replica of the real environment dubbed the ‘nursery’. Here, a
+controller of robots’ [16, p. 146]. In addition, the term also robot refines its skills before being released into the real
+includes research dubbed ‘evo-devo’ which considers robots world. Furthermore, robots that fail to attain a defined
+that can change their morphology over the course of their life- level of learning are removed from the system and do not
+time [17]. In this article, we only discuss work that falls into participate further in the evolutionary cycle.
+the former category, in that artificial evolution produces a Eiben and Hart further expand on the role of the learning
+robot body whose controller can adapt over a lifetime phase in [21], arguing that it is in fact essential, particularly if
+owing to individual or cultural learning mechanisms, but evolving directly in hardware. In the extreme case where
+whose body remains fixed during this period. there is a complete mis-match between the number and
+In order to develop a system that can achieve this in prac- type of sensors and actuators of parents and that of their off-
+tice, evolution should act on a population whose individuals spring, any inherited neural controller is not likely to be
+have a genome that encodes the information required to gen- usable, as the network will have an incorrect structure, i.e.
+erate both morphology and control. However, this notion an incorrect number of inputs and outputs. In this case, a
+raises a challenge for artificial evolutionary methods in the new control neural network must be generated that matches
+design of the genome encoding. Assuming no prior knowl- the offspring body, and the weights of the network learned
+edge of what type of robot is required for a task, then a from scratch [9]. On the other hand, using any representation
+single population should contain a diverse set of genotypes that permits inheritance of controller with an appropriate
+that encode for morphologically diverse body-plans. Here, structure for the child, then the learning process can act as
+an artificial evolutionary system significantly diverges from a form of adaptation over the course of an individual’s life-

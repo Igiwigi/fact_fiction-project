@@ -1,0 +1,25 @@
+invading mutant lineages.° For example, the ESS for the sex k=)0,ks. The number of possible states for k increases | 6 |
+
+ratio of a population depends on the genetic structure of quickly with the group size n and the number of classes c
+
+the population: in a large, randomly mating population, the but is finite. For simplicity of notation, we assume there is
+
+sex ratio is 1:1 when the ratio is determined by a diploid auto- an ordering of these states so that we can use k to index vec-
+
+somal gene [121,123,124], but it can take other values when tors and matrices below. When the mutant phenotype is rare,
+
+the gene is sex-linked or the genetic system is more complex growth of the mutant population can be modelled using a
+
+like in insects that are haplodiploid [121,125]. The fact that matrix population model [120] or multitype branching pro-
+
+ESSs can incorporate genetic and demographic forces along- cess [143] with a projection matrix Aly, x)=[ayx(y, x)]
+
+side natural selection shows that the ESS method is a more where the ayx(y, x) element measures the expected number
+
+general tool than potentially originally envisioned by May- of groups with k’ mutants with phenotype y that result
+
+nard Smith and other proponents of the phentoypic gambit. from the reproduction occurring in a group with k mutants
+
+Below, we will describe two cases that capture this flexibility: in a population resident for phenotype x. The largest eigen-
+
+group- and class-structured populations with kin selection value A(y, x) of the projection matrix A(y, x) is the invasion

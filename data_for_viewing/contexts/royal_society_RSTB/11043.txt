@@ -1,0 +1,25 @@
+have played a key role in shaping the evolution of telomere
+dynamics. For example, Stone ef al. [35] noted that while
+short telomeres protect humans from cancer, they could
+account at least in part for the relatively high rate of heart dis-
+ease. Also, Gorbunova et al. [16,36] have extensively studied
+the inverse association between telomerase activity and body
+mass in rodents, highlighting the fact that telomerase suppres-
+sion might have evolved as a tumour suppressor mechanism in
+larger species. The novelty in our model rests in the formal inte-
+gration of the trade-offs of TL (cancer versus senescence) into a
+fitness model that also takes into account the variability in mor-
+tality and cancer risk due to body size. By taking advantage of
+the fact that tumour suppressor mechanisms can be integrated
+into the Armitage—Doll equation of cancer risk, we offer a
+simple mathematical solution that tailors cancer risk by TL.
+The equations we develop here allow us to model fitness
+
+
+based on TL across a broad size-range of species, from a 2 g Fourth, we assume that the variables explored here relate to 6 |
+
+shrew to an elephant more than six orders of magnitude one another as determined by a specific set of parameter
+larger. Given this tremendous range of size across mammals, values. We chose a set of values that we consider biologically a
+it is notable that we are able to predict the size at which shorter plausible, and where possible, reflect known observation. For s
+telomeres are favoured to within a few kilograms of the example, the effect of size on the Gompertz intercept, a, was a
+observed range. chosen such that predicted life expectancy versus size isreason- 2

@@ -1,0 +1,25 @@
+Another circumstance in which structural solution is
+possible is when what is sought is a small change in the struc-
+ture from a known one. There are no symmetry restrictions to
+such a difference structure, only that it be close to the known
+dark structure (the same assumption as made in the differ-
+ence Fourier method of time-resolved crystallography).
+Such a solution is of great significance in that it suggests
+the possibility of following the fast time variation of the
+structure of a photoexcited biomolecule of uncrystallized bio-
+molecules in solution under conditions which somewhat
+Iq. q', Ad) = Iq, Pq’, & + Ad))vp, (2.1) mimic their functional states in living organisms. Any steric
+
+Due to the fact that the particles are presented to the XFEL
+beam in random orientations, the individual intensities will
+not be obviously related to intensities on other diffraction
+patterns. However, it has been pointed out [9,17] that the
+average angular correlations over a large number of such
+diffraction patterns can yield a quantity that is directly rela-
+ted to the three-dimensional diffraction volume of a single
+particle. If an oversampled version of the three-dimensional
+diffraction volume can be extracted from this ensemble of dif-
+fraction patterns, modern iterative phasing algorithms [18,19]
+would be expected to be able to reconstruct the three-
+dimensional electron density of an individual particle from
+the multiple diffraction patterns expected to be measured in

@@ -1,0 +1,24 @@
+centre to surpass a threshold that leads to potassium release. on the metabolism dynamics and the stress relieving capabili-
+As we have recently described [6], oscillations can be triggered ties of the cells owing to the potassium effects. The AtrkA
+in experimental biofilms by transiently stopping the media mutant strain was characterized in [7] to be deficient in electro-
+flow of the microfluidics chamber. This is also the case in this chemical signalling, owing to the deletion of the gating domain
+model, where oscillations can be triggered by transiently set- of the YugO channel. The mutation can be interpreted to render
+ting the flow-rate parameter (#) to zero. If the biofilm is a channel with reduced conductance and increased basal leak
+sufficiently large, such a perturbation leads to a sudden [7]. This can be modelled with increased ay (to simulate a
+reduction in the glutamate availability and stress increase, leaky channel), and reduced gx (to simulate reduced conduc-
+with the subsequent potassium release and oscillatory onset tance once the channel is open). The model simulations
+(electronic supplementary material, figure S1). predict that oscillations start at the same size as with the
+Moreover, the model predicts that depolarizing any basal parameters, but with a reduced period, in good agree-
+region of the biofilm should be sufficient to trigger a self- ment with the experimental data (last condition in figure 6).
+propagating wave of stress and potassium release, with the The unaffected onset size is consistent with the fact that gluta-
+associated changes in membrane potential. This is repro- mate metabolism is largely unperturbed in this mutant,
+duced experimentally as shown in figure 5c: a short whereas the altered potassium channel leads to less effective
+increase in the concentration of potassium in the media trig- stress relief during wave propagation (electronic supplemen-
+gers a wave in experimental biofilms, which propagates tary material, figure $2), and thus facilitates a subsequent
+inwards from the original (peripheral) depolarization site. cycle. Therefore, the relationship between biofilm size and
+
+oscillation period is not universal, but depends upon the meta-
+bolic and electrical signalling capabilities of the cells and thus
+
+4. Glutamate metabolism and stress release on the genetic background of the strain.
+determine oscillation onset size and period

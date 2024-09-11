@@ -1,0 +1,24 @@
+Second, our correlational analyses suggested that we are non-independent data points and this fact is often not
+should be wary of relationships between aggregated variables, fully appreciated [75]. Such clustering is often not (fully)
+as many variables might correlate with ASR without implying accounted for (e.g. [40,72,73,77]). We illustrated the impor-
+any substantive, theoretically meaningful relationship. For tance of clustering by controlling for region (continent) in
+example, the level of elevation correlates significantly with an analysis of the relation between sex ratio and teenage fer-
+ASR at US state level. Around a quarter to a third of the vari- tility. While the analyses of country-level UN data suggest a
+ables in our datasets had significant associations with ASR at statistically significant association between sex ratios (15-17)
+national level. Importantly, also at the much smaller level of and teenage fertility, after controlling for region we no longer
+US states we found around a third of our variables to be found any evidence for such a significant association. It is
+associated with ASR. This means that problems with nation- important to indicate here that we are not claiming that
+level analyses are not necessarily resolved by moving to a the dummy covariate approach used here is novel (e.g.
+lower level of aggregation. Therefore, we suggest that any [71,119]), or that is the optimal way for dealing with spatial
+finding of an association with ASR at an aggregate level clustering. In fact, many analytical options exist, such as,
+should be treated with great caution. for example, multilevel modelling [120-122] or a phylo-
+Third, we argue that a reason for why we find many sig- genetic approach [123-125]. What this dummy approach
+nificant associations is probably due to the substantial demonstrates is that, if controlling for clustering, even in a
+(spatial) clustering in aggregated data. Such clustering vio- very crude way by using a division into continents, substan-
+lates the statistical assumption of non-independence of data tially reduces the effect we should be wary of the conclusions
+
+points. Analytical units such as countries, states and counties we can draw. In our case, the effects were strongly reduced
+
+
+Table 3. The effect of sex ratio (15-17) on teenage fertility in OLS regression models. Model 1 contains all available data, Model 2 controls for continent. | 8 |
+Model 3, excludes extreme values in adult sex ratio (>3IQR rule) and Model 4 further controls for continent. Reference category for continent is Africa.

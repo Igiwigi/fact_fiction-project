@@ -1,0 +1,25 @@
+distance from the cluster of individuals, however with at bottom panel in figure 5). Increasing differences between
+least a prey within its hunting region, i.e. Niq9(f = 0) # 0. prey preference for interagent avoidance and the other behav-
+Furthermore, the initial orientation of the hunter points to ioural stimuli reduce the time needed by the predator to reach
+the centre of mass of the group of targets (figure 2c). The a target, as captured by the central plot in figure 7b. Also in
+predator is finally assumed to catch a target when their this case a threshold value for f, emerges, which is close to
+relative non-dimensional distance drops below 10°. 3. The confused predator is instead not able to take advan-
+The dynamics of the heterogenous system are then tage of this prey phenomenology, as captured by the inset
+numerically studied upon variations of (i) predator hunting i3 in figure 5.
+strategy and (ii) hierarchy of prey behavioural preferences The prey group safely moves away from both types
+which are quantified, as seen, by the weights a”, being of predator when they are able to synchronize their move-
+() € {rep, align, attr, escape}. In particular, we hereafter ment, regardless of their spacing and escape stimulus (ie.
+focus on representative cases characterized by the fact that aélisn > qtep = g@tt™ — a Pe), see top panels in figure 6. In
+one (or more) prey behavioural stimuli significantly over- fact, as soon as some individuals within the population are
+come the others. With the terminology ‘significantly able to perceive the presence and the location of the predator,
+overcome’, we arbitrarily mean that the corresponding they start to evade in the opposite direction: such information
+a-value(s) is (are) at least twofold higher than the others. is then quickly transmitted to the rest of group and allows all
+The resulting simulation outcomes are then analysed qualitat- animals to behave accordingly. Such a collective phenomen-
+ively (ie. in terms of prey escape strategies) and ology represents an example of coordinated defence
+quantitatively (ie. in terms of time needed by the predator mechanism.
+to eventually reach a target individual, hereafter defined as A coupling between sufficiently high escape and attrac-
+f)). A numerical realization is finally stopped either as soon tion stimuli (i.e. a®P* = a >> af = a8") is detrimental
+as the predator catches a prey or at f = 2000, i.e. at a suffi- for prey in the case of a not confused predator. The tendency
+ciently long time to have a clear idea of the system dynamics. to remain somewhat compact in fact delays the evasive strat-
+As shown in figure 5, when the prey agents are mainly egy: in particular, some individuals fall behind the rest of the
+subjected to the escape stimulus (ie. aS*P° >> a™P = group and are unable to avoid the attack of the focused

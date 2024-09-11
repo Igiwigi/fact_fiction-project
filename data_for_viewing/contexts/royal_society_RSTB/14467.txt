@@ -1,0 +1,25 @@
+
+the whole time (clips 4 and 8) compared to when the block vw
+moved out of the way (clips 1 and 5). Similarly, their judge- lision between the balls and participants judged whether ball B a
+ments tended to be lower when the block was in front of would go through the gate if ball A was not present in the
+the gate the whole time (clips 2 and 6) compared to when it scene. Here, participants’ judgements were only affected by =
+moved into the way (clips 3 and 7). where the block was positioned at the time when video clip 2
+
+paused. Participants’ hypothetical judgements that ball B
+would go through were a little higher when the block was
+
+(e) Model comparison initially out of the way than when it was in the way. I had
+As figure 7 shows, the simulation model closely tracks told participants in the instructions that the block sometimes
+participants’ hypothetical and counterfactual judgements moves. While in fact the probability that the block moved
+(Pearson correlation: r= 0.97, Spearman correlation: r; = 0.79, was 50% across the ten clips that participants saw, they did
+Root mean squared error (RMSE) = 12.50). The simulation not know this. So it makes sense that they would assume
+model has two free parameters: one that captures participants’ that ball B would be less likely to go into the gate when the
+uncertainty in how exactly ball B would have moved if ball A block was initially in the way than when it was out of the way.’
+had not been present in the scene op, and one that captures In the counterfactual condition, the clips played until the
+participants’ uncertainty about the moment in time in which end so participants were able to see whether or not the block
+the block would have started to move Opjock. I fitted these moved in the actual situation. Here, participants’ judgements
+two parameters in the model to participants’ judgements by were most strongly affected by the final position of the block.
+minimizing the sum of squared errors between model predic- They agreed that ball B would have gone through the gate if
+tions and participants’ mean hypothetical and counterfactual ball A had not been present when the final position of the
+judgements (see appendix for more details on how the par- block was out of the way, and disagreed when the block
+ameters were fitted). This analysis reveals that uncertainty ended up in front of the gate. Their judgements were

@@ -1,0 +1,25 @@
+and was first introduced by Brooks in 1991 [13]. Pfiefer and independent mechanism are likely to require fine-tuning to “>
+Bongard’s seminal text ‘How the body shapes the way we specialize the controller to the nuances of the new body. = =
+think’ [14] expanded on the idea that intelligent control is This motivates the requirement for learning to occur in = =
+not only dependent on brain, but at the same time both con- addition to evolution, in order to either refine a controller = >
+
+strained and enabled by the body. The text provides to body or create a new if the inherited controller is =
+numerous examples of how intelligence might arise as a unsuitable. R
+result of the interplay of morphology, materials, interaction 3
+with the environment and control. . . ~
+(c) If it evolves it needs to learn s
+Eiben et al. proposed an evolutionary framework for robotic =
+(b) Co-evolution of morphology and control evolution called the Triangle of Life (TOL) [20]. The three =
+For the evolutionary roboticist, this clearly points to the fact sides of the triangle represent three phases: (i) morphogenesis ~
+that to properly exploit the power of evolution to discover in which the body of a robot is created® from the specification
+appropriate robots for a given task, one must consider the denoted on a genome; (ii) learning in which the new robot
+co-evolution of body and control, rather than use EAs to undergoes training to improve its inherited controller, per-
+either search for controllers for fixed (hand-designed) body- haps following a syllabus of increasingly complex skills in a
+plans [15] or vice-versa, optimize morphology only. This restricted or simplified environment; and (iii) life, i. the
+has the obvious advantage of allowing evolution to discover robot is released into the intended real environment and its
+for itself the appropriate balance between morphological and fitness is measured as its ability to accomplish a task. Deviat-
+neural complexity in response to the particular environment ing from much of the previous work in ER, the TOL adds a
+and task under consideration. This has given rise to a thriving learning phase to the evolutionary cycle in which individual
+field more generally known as morphogenetic robotics [16]: learning occurs after every new robot is ‘born’. Hale et al. [8]
+defined in broad terms, this specifically includes approaches describe a physical implementation of the TOL, in which
+to ‘the design of the body or body parts, including sensors robots are three-dimensionally printed then enter a simplified

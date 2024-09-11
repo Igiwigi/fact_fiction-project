@@ -1,0 +1,25 @@
+this study we assumed constant leaf area over time when evolutionary assumptions that depend on the impact of a
+scaling from leaf-level to plot-level in figure 3, as the LAI specific processes and structures on the fitness of organisms s
+variation at this site is relatively small. However, phenology [29-32]. The link between A and plant fitness is clear, as a
+schemes [20,74] should be easily integrated with SOX; in the reproductive success of a plant depends on its energetic = 2-
+addition, our model opens the possibility for plant hydrau- investment in reproductive tissues over its lifespan [82], and S
+lics-driven phenology schemes. Linking vegetation in tissues necessary for survival and acquisition of resources =
+phenology to drought responses is a much-needed function- other than carbon. The cost term in SOX, represented by =
+ality in many ecosystem models [21,75], and could further xylem hydraulics dysfunction, implies that the complete ‘2
+improve how SOX represents vegetation responses to extreme loss of hydraulic conductance (i.e. k.os = 0) would be associ- s
+drought (figure 3b). The hydraulic processes represented by ated with plant mortality, which represents the ultimate = -5
+SOX also open up the possibility for a more explicit represen- fitness cost [18,19,82]. There is substantial evidence that =
+tation of drought-induced mortality in DGVMs. The high levels of xylem cavitation-induced embolism are in S
+thresholds of hydraulic conductance loss associated with fact associated with plant mortality [9-11], which corrobo- -
+increased risks of plant mortality, thought to be close to rates this assumption. Even non-lethal loss of hydraulic 2
+0.5k,¢max for gymnosperms [12] and 0.12k,.max for angios- conductivity should be detrimental to plant fitness, as recov- S
+perms [9,10], can be linked from the SOX output into a ery of hydraulic conductivity through construction of new w
+DGVM module that controls vegetation demographic pro- vessels [53,54,83], or through active refilling of embolized
+cesses, such as the TRIFFID module currently used in vessels [84-87], requires carbon investment, which would =
+JULES [74]. necessarily detract from plant tissue growth and reproductive ©
+The good performance of the simplified SOX implemen- investments. Differences in plant capabilities of recovering = &
+tation we show in this study, which is comparable even to hydraulic conductivity, be it through refilling or through
+that of more detailed models previously used on the site the construction of new vessels, imply that a given level of
+[51,76], illustrates the parsimony of the xylem hydraulics- hydraulic damage predicted by the xylem vulnerability func-
+based optimization approach. Our model evaluation at the tion might not fully represent the costs of stomatal opening,
+Caxiuana TFE plot shows that accounting for soil hydraulic as the long-term carbon balance impact of embolism are

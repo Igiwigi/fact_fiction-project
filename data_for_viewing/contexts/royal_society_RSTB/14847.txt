@@ -1,0 +1,25 @@
+2. Methods a nonlinear combination of the input received and is then
+passed on to the next layer.
+
+(a) Model overview Third, the representations that are learned by the SC are pro-
+The model uses goal-oriented supervised DNN with an overall cessed and forwarded to an objective function that specifies the
+architecture designed to match the neurophysiological and struc- goal of the system, in our case a discriminative classification of
+tural characteristics of the retino-collicular network. At its core, emotional facial expressions. During training, the strength of
+the model is composed of three main stages (figure 1). connections between units is learned by the system based on
+
+First, we designed a front-end that reproduces retinal func- experience rather than handcrafted by the researcher. The behav-
+tions and differentiates among encoding properties of the P M iour of the system (i.e. the accuracy in sorting facial categories) is
+and K pathways that originate from different classes of retinal the joint product of the architecture, objective function, learning
+ganglion cells [56,57]. Each channel analyses the visual input tule specified. Accuracy is in fact a metric that shows how correct
+in parallel and approximates the physiological characteristics the model was during classification, defined as the proportion of
+
+of P M and K pathways in terms of colour opponency, correct predictions.
+
+
+PMK stimuli
+chromatic _spatial/frequency representation
+processing processing
+
+in
+
+parvocellular

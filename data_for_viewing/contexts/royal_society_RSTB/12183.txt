@@ -1,0 +1,25 @@
+million years, eusocial colonies have deeply engineered the a periodic component [42]. This means that ants can be active or
+environment and dominated the terrestrial biosphere [39]. In inactive and the total number of active individuals changes in
+trying to attach biological fitness, insect colonies appear to such a way that at times no ant in the colony is active while
+behave as superorganisms: it is the colony as a whole that the synchronization events are linked to an almost fully active
+plays an evolutionary role, rather than its individual agents colony. These bursts have been found in other species [43] and
+(ants). Across the biosphere, we encounter both monomorphic result from the propagation of activity carried by moving indi-
+
+and polymorphic ant colonies, the latter exhibiting viduals that can activate dormant ants in ways similar to those
+
+
+found in epidemic models [36,44,45]. Synchronization of neural previous linear approximation. Hereafter, we will indicate
+
+masses is in fact a major research field within neuroscience [46], by N and p the total number and density of ants, respectively.
+and it has been shown to pervade a wide range of functional If A(x, #) indicates the probability density of active ants at S
+traits and behavioural patterns. Is there something similar a given point of our two-dimensional lattice x € Q, then it =
+taking place in ant colonies? can be written as: A(x, t) = P[S,(f) = 1]. The activity density S
+This problem provides a simple example of a fluid network. will evolve following a master equation according to the =
+Here the description level of individuals and their interactions previous rules: =
+is limited to a Boolean set of variables ¥ = {0, 1} associated =
+with the inactive (motionless) and active (moving) states, d A(x #) = Jy> P[S,(t) = 0.9 S(t) = 1] — aA(x, 8), (3.3) 8
+respectively (see inset of figure 4c). An NN model here is dt 4 =
+
+thus limited to a coarse-grained representation of ants. Such oo ; s
+a model was suggested in Solé et al. [40] under the assumption where (u) indicates sum over the set of q nearest neighbours, =
+that individuals can be described as an underlying continuous P[Sx =01 Su = 1] is the probability of having a pair of 2

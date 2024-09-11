@@ -1,0 +1,24 @@
+p= 1x 107, wp =2 x 10’ and o=1 x 10*. If the true ages
+are T=, and 7 =, and the mean of the rate prior is
+equal to the true substitution rate, r= 107°, then the posterior
+of 7, is as shown in figure 3. If the calibration prior for 7; is
+instead grossly incorrect with true 7, = 1.5 x 10°” the result-
+ing posterior is shown in figure 3. In this case, the incorrect
+calibration prior leads to a posterior that is apparently very
+precise but grossly incorrect.
+
+5. Concluding remarks
+
+The species divergence time inference problem has unusual
+statistical properties owing to the fact that the two distinct
+sources of data (sequence and fossil calibrations) will only
+lead to an identifiable model when used in combination. Cor-
+rect assignment of fossils to ancestral lineages appears
+critical. Incorrect fossil assignments can result in posterior
+densities that are highly inaccurate, yet appear very precise.
+The specification of the prior on calibrations should also
+be done with care as the combination of marginal fossil
+calibrations with rank order constraints of phylogenetic
+trees can cause a change in the prior that may reduce the
+apparent uncertainty of divergence time estimates. This can
+be checked by running an MCMC program using a fixed

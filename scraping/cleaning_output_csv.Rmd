@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ```{r 1st run}
 #cleaning scraped data royal society to make sure theres no duplicates
-data <- read.csv("scraped_royalsociety_for_now.csv")
+data <- read.csv("data/royalsociety2ndrun2.csv")
 original_rows <- nrow(data)
 data_unique <- unique(data)
 unique_rows <- nrow(data_unique)
@@ -23,7 +23,7 @@ duplicate_rows <- data[!duplicated(data), ]
 
 rows_removed <- data[!rownames(data) %in% rownames(data_unique), ]
 
-write.csv(data_unique, "output_unique.csv", row.names = FALSE)
+write.csv(data_unique, "2nd_run.csv", row.names = FALSE)
 
 cat("Number of rows before removing duplicates:", original_rows, "\n")
 cat("Number of rows after removing duplicates:", unique_rows, "\n")
@@ -36,8 +36,8 @@ print(rows_removed)
 #combining and cleaning data together from the 2nd run (rstb domain of royal society)
 library(dplyr)
 
-combined_run_now <- read.csv("combined_run2.csv")
-file_list <- list.files(pattern = "royalsociety2ndrun.*\\.csv$|royalsociety3.*\\.csv$")
+combined_run_now <- read.csv("combined_run2.1.csv")
+file_list <- list.files(pattern = "royalsociety2.*\\.csv")
 
 new_combined_df <- lapply(file_list, read.csv) %>%
   bind_rows() %>%
@@ -53,7 +53,7 @@ final_combined_df <- final_combined_df[, colSums(is.na(final_combined_df)) != nr
 
 head(final_combined_df)
 
-write.csv(final_combined_df, "combined_run2.1.csv", row.names = FALSE)
+write.csv(final_combined_df, "2nd_run_combined.csv", row.names = FALSE)
 
 ```
 
@@ -65,7 +65,6 @@ write.csv(combined_df, "combined_run2.csv", row.names = FALSE)
 
 
 ```{r 2nd run}
-library(dplyr)
 visited_urls_df <- read.csv("visited_urls.csv")
 
 repeat_count <- visited_urls_df %>%
@@ -75,18 +74,6 @@ repeat_count <- visited_urls_df %>%
 
 print(paste("Number of repeated rows:", repeat_count))
 #thats way too many repeated rows...
-```
-
-
-```{r 2nd run}
-library(dplyr)
-restricted_urls_df <- read.csv("restricted_urls.csv")
-
-restricted_urls_df <- restricted_urls_df %>%
-  group_by_all() %>% 
-  unique()
-
-write.csv(restricted_urls_df, "restricted_urls.csv", row.names = FALSE)
 ```
 
 
@@ -197,6 +184,92 @@ for (i in seq_len(nrow(spectator_df))) {
   writeLines(content, file_name)
 }
 
+
+```
+
+```{r}
+#check if any of the rstb pages (2nd_run_combined.csv) are already in the first run in old/1st_run.csv. omit from 2nd_run_combined.csv the ones that are shared by both
+# Load necessary library
+# Load necessary library
+library(dplyr)
+
+first_run <- read.csv("old/1st_run.csv", stringsAsFactors = FALSE)
+second_run <- read.csv("2nd_run_combined.csv", stringsAsFactors = FALSE)
+
+filtered_second_run <- second_run %>%
+  filter(!(identifier %in% first_run$identifier))
+
+rows_filtered_out <- nrow(second_run) - nrow(filtered_second_run)
+
+print(paste(rows_filtered_out, "rows were filtered out."))
+
+write.csv(filtered_second_run, "2nd_run_filtered.csv", row.names = FALSE)
+
+print("Filtering completed. Saved as 2nd_run_filtered.csv.")
+
+
+
+
+
+```
+
+```{r}
+#fixing doi names for later download
+second_run <- read.csv("2nd_run_combined.csv")
+
+# Assuming your data frame is called 'df'
+second_run$identifier <- ifelse(
+  grepl("^rstb", second_run$identifier), # Check if the identifier starts with 'rstb'
+  gsub("https://royalsocietypublishing.org/doi/", "", second_run$og_url), # Extract the DOI part from 'og_url'
+  second_run$identifier # Keep the original identifier if it's already in the correct format
+)
+
+# Preview the fixed column
+print(second_run$identifier)
+
+write.csv(second_run, "2nd_run_combined.csv", row.names = FALSE)
+
+
+```
+
+
+```{r creating_metadata}
+data <- read.csv("2nd_run_combined.csv") #rstb
+
+#the metadata file for royal society (i dont remember how i originally did it)
+data <- data %>%
+  mutate(downloaded = TRUE) %>%
+  mutate(filename = stri_replace_all_regex(
+    identifier,
+    pattern = c('10.1098/', "\\."),
+    replacement = c("", "_"),
+    vectorize = FALSE
+  )) %>%
+  mutate(filename = stri_replace_all_regex(
+    filename,
+    pattern = c(' ', ',', ';', "\\.", "__", "'"),
+    replacement = c("_", "", "", "", "_", ""),
+    vectorize = FALSE
+  )) %>%
+  mutate(filename = paste0(filename, ".pdf"))
+
+write.csv(data, "royalsociety_metadata2.csv", row.names = FALSE)
+```
+
+```{r combining_metadata}
+old_metadata <- read.csv("D:/Fact_fiction_corpus/texts/royal society/royalsociety_metadata.csv")
+
+new_metadata <- read.csv("royalsociety_metadata2.csv")
+
+#combine them into one, remove duplicates, write it as royalsociety_metadata_new.csv
+combined_metadata <- bind_rows(old_metadata, new_metadata) %>%
+  distinct(identifier, .keep_all = TRUE)
+
+write.csv(combined_metadata, "royalsociety_metadata_new.csv", row.names = FALSE)
+
+#load the new metadata file but only the filename column
+metadata <- read.csv("royalsociety_metadata_new.csv") %>%
+  select(filename)
 
 ```
 

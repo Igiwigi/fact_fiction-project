@@ -12,14 +12,14 @@ pacman::p_load(tidyverse, stringi)
 
 iterate through data and download each file from the download link under the column pdf_download_link with a timer of 3 seconds between downloads, put them into the destination folder (the downloaded file) under the same name as the title column of that row + some other information (date)
 
+
 ```{r}
-data <- read.csv("scraped_royalsociety_for_now.csv")
+data <- read.csv("2nd_run_combined.csv")
 
 #resetting all to false when i delete the downloaded files for testing
  data <- data %>%
    mutate(downloaded = FALSE)
 ```
-
 
 ```{r}
 data <- data %>%
@@ -44,15 +44,16 @@ download_file <- function(link, location, referer) {
 
 ```
 
-```{r download_loop_function, errors = F}
+```{r}
 download_loop <- function() {
+  failed_files <- list()
+  
   for (i in 1:nrow(data)) {
     if (data$downloaded[i] == FALSE) {
       # Getting the right referer for each page
       referer <- paste0('https://royalsocietypublishing.org', data$pdf_link[i])
       
       # setting file_name to DOI numbers
-      #can be changed if different file names are preferred
       title <- data$identifier[i]
       title <- stri_replace_all_regex(
         title,
@@ -60,7 +61,7 @@ download_loop <- function() {
         replacement = c("", "_"),
         vectorize = FALSE
       )
-      file_name <- paste0(title) #more can be added here
+      file_name <- paste0(title)
       file_name <- stri_replace_all_regex(
         file_name,
         pattern = c(' ', ',', ';', "\\.", "__", "'"),
@@ -68,35 +69,49 @@ download_loop <- function() {
         vectorize = FALSE
       )
       
-      # flag for success
       success <- FALSE
+      retry_count <- 0
       
-      # Attempt to download until successful
-      while (!success) {
+      while (!success && retry_count < 20) {
         res <- try(download_file(
           link = data$pdf_download_link[i],
-          location = paste0("D:/Fact_fiction_corpus/pdf/", file_name, ".pdf"),
+          location = paste0("D:/Fact_fiction_corpus/texts/royal society/pdf2/", file_name, ".pdf"),
           referer = referer
         ),
         silent = TRUE)
+        
         if (inherits(res, "try-error")) {
-          print(paste0("Error downloading ", title, " trying again!"))
+          retry_count <- retry_count + 1
+          print(paste0("Error downloading ", title, " retry #", retry_count))
           Sys.sleep(1)
         } else {
-          data$downloaded[i] <<- TRUE  # To not download it again, can be done differently
+          data$downloaded[i] <<- TRUE
           success <- TRUE
           print(paste0(title, " has been downloaded"))
           Sys.sleep(1)
         }
       }
+      
+      # If it fails 20 times, add to the failed files list and print a message
+      if (!success && retry_count == 20) {
+        print(paste0("Failed to download ", title, " after 20 attempts. Please recheck this page."))
+        failed_files <- c(failed_files, title)
+      }
     } else {
       print(paste0(title, " has already been downloaded"))
     }
   }
+  
+  print("The following files failed to download after 20 attempts:")
+  print(failed_files)
 }
 
+```
+
+```{r download_loop_function, errors = F}
 download_loop()
 ```
+
 
 ```{r}
 #writing the updated TRUE/FALSE

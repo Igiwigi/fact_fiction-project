@@ -48,8 +48,7 @@ class RoyalSocietySpider(CrawlSpider):
         
         #skip if empty response body (already visited)
         if not response.body.strip():
-            self.logger.info("OH NO! Skipping empty response from URL: %s", response.url)
-            self.save_empty(response.url)
+            self.logger.info("Skipping empty response from URL (page already scraped): %s", response.url)
             return
                 
         item = MyItem()
@@ -104,11 +103,6 @@ class RoyalSocietySpider(CrawlSpider):
     def save_restricted_url(self, url):
         """Appends each restricted website to a CSV file."""
         with open('restricted_urls.csv', 'a') as f:
-            f.write(url + '\n')
-
-    def save_empty(self, url):
-        """Appends each empty website to a CSV file."""
-        with open('empty_urls.csv', 'a') as f:
             f.write(url + '\n')
 
     def append_item_to_csv(self, item):

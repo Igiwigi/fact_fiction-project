@@ -62,7 +62,6 @@ from seleniumbase import SB
 from urllib.parse import urlparse, urlunparse
 import os
 import re
-from scrapy.exceptions import CloseSpider
 
 class SeleniumBaseMiddleware:
     def __init__(self):
@@ -113,7 +112,7 @@ class SeleniumBaseMiddleware:
             self.logger.info(f"Skipping already visited DOI (from some other run): {normalized_url}")
             return None
 
-        with SB(uc=True, headless2=True) as sb:
+        with SB(uc=True, headless2=True) as sb: #with SB(uc=True, agent=user_agent) as sb: maybe another user agent
             sb.uc_open_with_reconnect(request.url, 3)
             try:
                 self.verify_success(sb)

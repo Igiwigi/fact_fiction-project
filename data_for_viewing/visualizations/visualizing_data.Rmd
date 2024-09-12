@@ -14,6 +14,46 @@ p_load(ggplot2, dplyr, tidyr, readr, readxl, lubridate, gridExtra)
 ```
 
 ```{r}
+#date fix 
+library(lubridate)
+
+fix_dates_data <- function(dataframe) {
+  if ("Date" %in% names(dataframe) &&
+      is.character(dataframe[["Date"]])) {
+    fix_date_format <- function(date_str) {
+      parsed_date <- parse_date_time(date_str, orders = c("ymd", "ym"))
+      
+      if (is.na(parsed_date) &&
+          grepl("^\\d{4}-\\d{1,2}$", date_str)) {
+        parsed_date <- parse_date_time(paste0(date_str, "-01"), orders = "ymd")
+      }
+      
+      if (!is.na(parsed_date)) {
+        return(format(parsed_date, "%Y-%m-%d"))
+      } else {
+        return(NA_character_)
+      }
+    }
+    
+    dataframe[["Date"]] <- sapply(dataframe[["Date"]], fix_date_format)
+    
+    failed_parses <- is.na(dataframe[["Date"]])
+    if (any(failed_parses)) {
+      cat("Values in the 'Date' column that failed to parse:\n")
+      print(dataframe[["Date"]][failed_parses])
+    } else {
+      cat("All values in the 'Date' column are now correctly formatted as YYYY-MM-DD.\n")
+    }
+  } else {
+    cat("The 'Date' column is missing or is not of character type.\n")
+  }
+  
+  return(dataframe)
+}
+```
+
+
+```{r}
 load_and_preprocess_data <- function(file_path) {
   data <- read_excel(file_path, sheet = 1)
   data$Keyword <- as.factor(data$Keyword)
@@ -35,6 +75,7 @@ load_and_preprocess_data <- function(file_path) {
 rstl_data <- load_and_preprocess_data("../ff_royal_society_words_found_context_separate.xlsx")
 s_data <- load_and_preprocess_data("../ff_spectator_words_found_context_separate.xlsx")
 rstb_data <- load_and_preprocess_data("../ff_royal_society_words_found_context_separate_RSTB.xlsx")
+word_counts <- rbind(read.csv("word_counts_rstb.csv"), read.csv("word_counts_rstl.csv"))
 ```
 
 
@@ -55,10 +96,104 @@ rstb_data %>% #royal society
   mutate(total = sum(count), percentage = round((count / total) * 100, 1))
 ```
 
+```{r new}
+plot_word_distribution_by_year <- function(data, word_counts, title, group_var = "Category") {
+  min_year <- min(year(data$Date), na.rm = TRUE)
+  max_year <- max(year(data$Date), na.rm = TRUE)
+  
+  word_counts <- word_counts %>%
+    rename(Year = 1, TotalWords = 2) %>%
+    mutate(Year = as.numeric(Year))
+  
+  plot_data <- data %>%
+    mutate(Year = year(Date)) %>%
+    group_by(Year, !!sym(group_var)) %>%
+    summarise(count = n(), .groups = 'drop') %>%
+    left_join(word_counts, by = "Year") %>%
+    mutate(ratio = count / TotalWords * 1000)
+  
+  ggplot(plot_data, aes(x = Year, y = ratio, fill = !!sym(group_var))) +
+    geom_bar(stat = "identity", position = "dodge") +
+    theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
+    labs(title = title,
+         x = "Year",
+         y = "per 1000 words",
+         fill = group_var) +
+    scale_x_continuous(breaks = function(x) {
+      default_breaks <- scales::pretty_breaks()(x)
+      unique(sort(c(min_year, default_breaks, max_year)))
+    })
+}
+
+create_pie_chart <- function(data, word_counts, title, group_var = "Category") {
+  total_words <- sum(word_counts$Word.Count)
+  
+  summary_data <- data %>%
+    group_by(!!sym(group_var)) %>%
+    summarise(count = n(), .groups = 'drop') %>%
+    mutate(total_count = sum(count),
+           percentage = round((count / total_words) * 100, 4))
+  
+  ggplot(summary_data, aes(x = "", y = count, fill = !!sym(group_var))) +
+    geom_bar(stat = "identity", width = 1) +
+    coord_polar("y") +
+    theme_void() +
+    geom_text(aes(label = paste0(!!sym(group_var), ": ", count, " (", percentage, "%)")),
+              position = position_stack(vjust = 0.5)) +
+    labs(title = title,
+         fill = group_var)
+}
+```
+
+
+```{r, royal society}
+rstl_data %>% group_by(Keyword) %>% summarise(count = n(), .groups = 'drop') %>% mutate(total = sum(count), percentage = round((count / total) * 100, 1))
+
+rstl_plot2 <- plot_word_distribution_by_year(rstl_data, word_counts, "RSTL: Normalized Distr. by Year", "Category")
+rstl_plot3 <- create_pie_chart(rstl_data, word_counts, "RSTL: Distribution of Categories", "Category")
+
+rstl_grid <- grid.arrange(rstl_plot2, rstl_plot3, ncol = 1, top = "Royal Society RSTL (Normalized)")
+
+plot_word_distribution_by_year(rstl_data, word_counts, "RSTL: Normalized Distr. by Year", "Keyword")
+
+```
+```{r}
+# library(writexl)
+# rstb_data <- fix_dates_data(rstb_data)
+# write_xlsx(rstb_data, "../ff_royal_society_words_found_context_separate_RSTB.xlsx")
+```
 
 
 ```{r}
-plot_word_distribution_by_year <- function(data, title, group_var = "Category") {
+rstb_data %>% group_by(Keyword) %>% summarise(count = n(), .groups = 'drop') %>% mutate(total = sum(count), percentage = round((count / total) * 100, 1))
+
+#odd formatting of years
+rstb_plot2 <- plot_word_distribution_by_year(rstb_data, word_counts, "RSTB: Distribution by Year", "Category")
+rstb_plot3 <- create_pie_chart(rstb_data, word_counts, "RSTB: Distribution of Categories", "Category")
+
+rstb_grid <- grid.arrange( rstb_plot2, rstb_plot3, ncol = 1, top = "RSTB")
+
+plot_word_distribution_by_year(rstb_data, word_counts, "RSTL: Normalized Distr. by Year", "Keyword")
+
+```
+```{r combined}
+#odd results, less impressive; but, some years should likely be omitted or i should return with the right to scrape locked pages
+rs_data <- rbind(rstl_data, rstb_data)
+
+rs_data %>% group_by(Keyword) %>% summarise(count = n(), .groups = 'drop') %>% mutate(total = sum(count), percentage = round((count / total) * 100, 1))
+
+rs_plot2 <- plot_word_distribution_by_year(rstb_data, word_counts, "RS: Distribution by Year", "Category")
+rs_plot3 <- create_pie_chart(rstb_data, word_counts, "RS: Distribution of Categories", "Category")
+
+rs_grid <- grid.arrange( rs_plot2, rs_plot3, ncol = 1, top = "Royal Society (so far)")
+
+plot_word_distribution_by_year(rstb_data, word_counts, "RS: Normalized Distr. by Year", "Keyword")
+
+```
+
+
+```{r}
+plot_word_distribution_by_year_old <- function(data, title, group_var = "Category") {
   # Get the min and max years
   min_year <- min(year(data$Date), na.rm = TRUE)
   max_year <- max(year(data$Date), na.rm = TRUE)
@@ -82,7 +217,7 @@ plot_word_distribution_by_year <- function(data, title, group_var = "Category") 
     })
 }
 
-create_pie_chart <- function(data, title, group_var = "Category") {
+create_pie_chart_old <- function(data, title, group_var = "Category") {
   summary_data <- data %>%
     group_by(!!sym(group_var)) %>%
     summarise(count = n(), .groups = 'drop') %>%
@@ -98,31 +233,8 @@ create_pie_chart <- function(data, title, group_var = "Category") {
     labs(title = title,
          fill = group_var)
 }
+
 ```
-
-
-```{r, royal society}
-rstl_data %>% group_by(Keyword) %>% summarise(count = n(), .groups = 'drop') %>% mutate(total = sum(count), percentage = round((count / total) * 100, 1))
-
-rs_plot1 <- plot_word_distribution_by_year(rstl_data, "RSTL: Distribution by Year", "Keyword")
-rs_plot2 <- plot_word_distribution_by_year(rstl_data, "RSTL: Distribution by Year", "Category")
-rs_plot3 <- create_pie_chart(rstl_data, "RSTL: Distribution of Categories", "Category")
-
-rs_grid <- grid.arrange(rs_plot1, rs_plot2, rs_plot3, ncol = 2, top = "Royal society RSTL")
-```
-
-
-```{r}
-rstb_data %>% group_by(Keyword) %>% summarise(count = n(), .groups = 'drop') %>% mutate(total = sum(count), percentage = round((count / total) * 100, 1))
-
-#odd formatting of years
-rs_plot1 <- plot_word_distribution_by_year(rstb_data, "RSTB: Distribution by Year", "Keyword")
-rs_plot2 <- plot_word_distribution_by_year(rstb_data, "RSTB: Distribution by Year", "Category")
-rs_plot3 <- create_pie_chart(rstb_data, "RSTB: Distribution of Categories", "Category")
-
-rs_grid <- grid.arrange(rs_plot1, rs_plot2, rs_plot3, ncol = 2, top = "RSTB")
-```
-
 
 
 ```{r, spectator}
@@ -134,10 +246,10 @@ s_data <- s_data %>%
 
 s_data %>% group_by(Keyword) %>% summarise(count = n(), .groups = 'drop') %>% mutate(total = sum(count), percentage = round((count / total) * 100, 1))
 
-s_plot1 <- plot_word_distribution_by_year(s_data, "Spectator: Distr. by Year", "Keyword")
-s_plot2 <- plot_word_distribution_by_year(s_data, "Spectator: Distr. by Year", "Category")
-s_plot3 <- create_pie_chart(s_data, "Spectator: Distr. of Categories", "Category")
-s_plot4 <- create_pie_chart(s_data, "Spectator: Distr. of Keywords", "Keyword")
+s_plot1 <- plot_word_distribution_by_year_old(s_data, "Spectator: Distr. by Year", "Keyword")
+s_plot2 <- plot_word_distribution_by_year_old(s_data, "Spectator: Distr. by Year", "Category")
+s_plot3 <- create_pie_chart_old(s_data, "Spectator: Distr. of Categories", "Category")
+s_plot4 <- create_pie_chart_old(s_data, "Spectator: Distr. of Keywords", "Keyword")
 
 s_grid <- grid.arrange(s_plot1, s_plot2, s_plot3, s_plot4, ncol = 2,
                        top = "Spectator Data")

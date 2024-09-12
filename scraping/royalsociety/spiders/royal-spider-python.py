@@ -7,8 +7,6 @@ import pandas as pd
 
 #works, albeit slow
 
-#add if 403 code, add to maybe not visited list
-
 class MyItem(scrapy.Item):
     author = scrapy.Field()
     publisher = scrapy.Field()
@@ -19,6 +17,9 @@ class MyItem(scrapy.Item):
     language = scrapy.Field()
     pdf_link = scrapy.Field()
     pdf_download_link = scrapy.Field()
+    subjects = scrapy.Field()
+    keywords = scrapy.Field()
+    
 
 class RoyalSocietySpider(CrawlSpider):
     name = 'royalsociety_spider'
@@ -69,6 +70,12 @@ class RoyalSocietySpider(CrawlSpider):
         item['title'] = re.sub(r'[\\/:*?"<>|]', '', response.css('meta[name="dc.Title"]::attr(content)').get(default='dunno'))
         item['language'] = response.css('meta[name="dc.Language"]::attr(content)').get(default='dunno')
         item['pdf_link'] = response.css('a:contains("View PDF")::attr(href)').get(default='dunno')
+
+        #these were added recently and miss from a lot of data! kind of problematic
+        item['subjects'] = response.css('section.article__keyword .section__body .rlist li a::text').getall() or ['']
+        item['keywords'] = [keyword.strip() for keyword in response.css('meta[name="keywords"]::attr(content)').get(default='').split(',')]
+
+
 
         if item.get('og_url'):
             item['pdf_download_link'] = self.convert_to_download_link(item['og_url']) 

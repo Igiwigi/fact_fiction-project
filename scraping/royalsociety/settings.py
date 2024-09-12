@@ -27,6 +27,8 @@ ROBOTSTXT_OBEY = True #for now (we obey it anyway)
 # See also autothrottle settings and docs
 CONCURRENT_REQUESTS = 64  # Default is 16
 CONCURRENT_REQUESTS_PER_DOMAIN = 32  # Default is 8
+RETRY_TIMES = 10  # Default is 2
+RETRY_HTTP_CODES = [500, 502, 503, 504, 400, 403, 404, 408]
 #DOWNLOAD_DELAY = 1
 # The download delay setting will honor only one of:
 #CONCURRENT_REQUESTS_PER_DOMAIN = 16

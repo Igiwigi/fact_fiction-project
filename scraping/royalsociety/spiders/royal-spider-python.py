@@ -26,14 +26,14 @@ class RoyalSocietySpider(CrawlSpider):
     allowed_domains = ['royalsocietypublishing.org']
     start_urls = ["https://royalsocietypublishing.org/loi/rsta/group/c1800.d1880.y1887"] #doing rsta now
     custom_settings = {
-        'FEEDS': {'royalsociety_rsta_new.csv': {'format': 'csv'}}
+        'FEEDS': {'royalsociety_rsta_latest.csv': {'format': 'csv'}}
     }
     visited_urls = set()
 
     rules = (
-        Rule(LinkExtractor(allow=r'/doi/10\.1098/rsta'), callback="parse_doi_page", follow=True),
-        Rule(LinkExtractor(allow=r'/toc/rsta'), follow=True),
-        Rule(LinkExtractor(allow=r'/loi/rsta'), follow=True),
+    Rule(LinkExtractor(allow=r'/doi/10\.1098/rsta', deny=r'badge\.dimensions\.ai'), callback="parse_doi_page", follow=True),
+    Rule(LinkExtractor(allow=r'/toc/rsta'), follow=True),
+    Rule(LinkExtractor(allow=r'/loi/rsta'), follow=True),
     )
 
     def parse_doi_page(self, response):
@@ -75,8 +75,6 @@ class RoyalSocietySpider(CrawlSpider):
         item['subjects'] = response.css('section.article__keyword .section__body .rlist li a::text').getall() or ['']
         item['keywords'] = [keyword.strip() for keyword in response.css('meta[name="keywords"]::attr(content)').get(default='').split(',')]
 
-
-
         if item.get('og_url'):
             item['pdf_download_link'] = self.convert_to_download_link(item['og_url']) 
         
@@ -117,6 +115,6 @@ class RoyalSocietySpider(CrawlSpider):
     def append_item_to_csv(self, item):
         """Appends to a dataframe so I can rest assured the data *is* somewhere even if the item pipeline doesn't work."""
         df = pd.DataFrame([item])
-        file_exists = os.path.isfile('royalsociety_rsta_new2.csv')
-        df.to_csv('royalsociety_rsta_new2.csv', mode='a', header=not file_exists, index=False)
+        file_exists = os.path.isfile('royalsociety_rsta_latest2.csv')
+        df.to_csv('royalsociety_rsta_latest2.csv', mode='a', header=not file_exists, index=False)
 

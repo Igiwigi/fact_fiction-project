@@ -17,7 +17,7 @@ NEWSPIDER_MODULE = "royalsociety.spiders"
 USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36'
 
 # Obey robots.txt rules
-ROBOTSTXT_OBEY = True #for now (we obey it anyway)
+ROBOTSTXT_OBEY = False #for now (we obey it anyway)
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32

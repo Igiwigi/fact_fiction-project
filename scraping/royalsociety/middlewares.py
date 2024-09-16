@@ -70,7 +70,7 @@ class SeleniumBaseMiddleware:
         self.visited_urls = set()
         self.load_visited_urls()
         self.consecutive_non_doi = 0
-        self.max_consecutive_non_doi = 200  #just to make sure it stops eventually when it runs out of doi pages (incase it doesnt, unclear)
+        self.max_consecutive_non_doi = 100  #just to make sure it stops eventually when it runs out of doi pages (incase it doesnt, unclear)
 
     def normalize_url(self, url):
         """Normalize the URL by removing the fragment part."""
@@ -79,7 +79,7 @@ class SeleniumBaseMiddleware:
         return normalized_url
 
     def verify_success(self, sb):
-        sb.assert_element('img[src="/pb-assets/journals-logos/rsta-1540911457623.svg"]', timeout=4)
+        sb.assert_element('img[src*="/pb-assets/journals-logos/rsta"]', timeout=4)
 
     def load_visited_urls(self):
         if os.path.exists('visited_urls.csv'):
@@ -112,8 +112,8 @@ class SeleniumBaseMiddleware:
             self.logger.info(f"Skipping already visited DOI (from some other run): {normalized_url}")
             return None
 
-        with SB(uc=True, headless2=True) as sb: #with SB(uc=True, agent=user_agent) as sb: maybe another user agent
-            sb.uc_open_with_reconnect(request.url, 3)
+        with SB(uc=True, headless2=True, locale_code="en") as sb: #with SB(uc=True, agent=user_agent) as sb: maybe another user agent
+            sb.uc_open_with_reconnect(request.url, 4)
             try:
                 self.verify_success(sb)
             except Exception:
@@ -126,7 +126,8 @@ class SeleniumBaseMiddleware:
                     self.verify_success(sb)
                 except Exception as e:
                     raise Exception("Page verification failed after CAPTCHA handling!") from e
-
+            #sb.sleep(4)
+            #sb.reconnect(4)
             source = sb.get_page_source()
 
         if self.is_doi_page(normalized_url):

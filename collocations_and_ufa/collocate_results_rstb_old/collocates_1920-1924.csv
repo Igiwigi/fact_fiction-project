@@ -1,0 +1,21 @@
+No.,Word,Total no. in whole corpus,Expected collocate frequency,Observed collocate frequency,In no. of texts,Mutual Information value
+1,emphasise,6,0.01,3,5,9.13
+2,despite,7,0.01,3,4,8.90
+3,notwithstanding,7,0.01,2,4,8.32
+4,reveals,11,0.01,3,5,8.25
+5,intelligible,9,0.01,2,5,7.96
+6,spite,55,0.05,8,21,7.34
+7,accordance,14,0.01,2,11,7.32
+8,Apart,15,0.01,2,8,7.22
+9,attention,73,0.07,9,22,7.11
+10,matter,119,0.11,12,23,6.82
+11,affords,20,0.02,2,13,6.80
+12,ascertained,23,0.02,2,8,6.60
+13,supported,46,0.04,4,18,6.60
+14,illustrate,25,0.02,2,13,6.48
+15,recall,27,0.02,2,9,6.37
+16,explain,42,0.04,3,21,6.32
+17,inclination,34,0.03,2,6,6.04
+18,owing,171,0.15,10,31,6.03
+19,Owing,36,0.03,2,17,5.96
+20,significant,42,0.04,2,14,5.73

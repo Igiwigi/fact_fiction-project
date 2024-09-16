@@ -1,0 +1,18 @@
+No.,Word,Total no. in whole corpus,Expected collocate frequency,Observed collocate frequency,In no. of texts,Mutual Information value
+1,-being,3,0.00,2,3,12.35
+2,therein,39,0.00,3,21,9.23
+3,ſupported,35,0.00,2,22,8.80
+4,confirmed,50,0.01,2,32,8.29
+5,compared,66,0.01,2,39,7.89
+6,Theſe,280,0.04,3,114,6.39
+7,however,187,0.02,2,52,6.39
+8,If,217,0.03,2,90,6.17
+9,matter,374,0.05,3,82,5.97
+10,different,561,0.07,2,160,4.80
+11,number,623,0.08,2,109,4.65
+12,theſe,1621,0.21,5,240,4.59
+13,thoſe,988,0.13,3,195,4.57
+14,ſo,1281,0.16,2,232,3.61
+15,ſome,1824,0.23,2,268,3.10
+16,I,5551,0.71,5,305,2.82
+17,The,2890,0.37,2,280,2.44

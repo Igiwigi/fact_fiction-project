@@ -1,0 +1,21 @@
+No.,Word,Total no. in whole corpus,Expected collocate frequency,Observed collocate frequency,In no. of texts,Mutual Information value
+1,ve—d,2,0.00,2,0,10.12
+2,unintelligible,5,0.00,2,5,8.80
+3,denies,7,0.01,2,3,8.31
+4,elicited,7,0.01,2,4,8.31
+5,significant,11,0.01,3,8,8.25
+6,Nothing,8,0.01,2,5,8.12
+7,untenable,8,0.01,2,2,8.12
+8,maintains,9,0.01,2,6,7.95
+9,explains,11,0.01,2,10,7.66
+10,stroma,11,0.01,2,1,7.66
+11,harmony,17,0.02,3,14,7.62
+12,quadricovariant,12,0.01,2,2,7.54
+13,significance,12,0.01,2,8,7.54
+14,adduced,33,0.03,5,14,7.40
+15,propriety,16,0.01,2,13,7.12
+16,curious,83,0.07,10,34,7.07
+17,before-mentioned,22,0.02,2,12,6.66
+18,conclusive,29,0.03,2,14,6.26
+19,anatomical,31,0.03,2,11,6.17
+20,confirmation,34,0.03,2,20,6.03

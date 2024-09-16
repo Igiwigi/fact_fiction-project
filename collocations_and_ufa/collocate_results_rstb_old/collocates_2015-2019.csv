@@ -1,0 +1,21 @@
+No.,Word,Total no. in whole corpus,Expected collocate frequency,Observed collocate frequency,In no. of texts,Mutual Information value
+1,arte-,21,0.01,10,16,10.83
+2,civically,7,0.00,2,1,10.09
+3,brute,10,0.00,2,5,9.58
+4,underscored,22,0.01,4,21,9.44
+5,stylized,23,0.01,4,15,9.37
+6,tautology,12,0.00,2,4,9.31
+7,inescapable,19,0.00,3,12,9.23
+8,fiction,15,0.00,2,7,8.99
+9,arithmetical,46,0.01,6,8,8.96
+10,ResF,17,0.00,2,1,8.81
+11,obscures,29,0.01,3,27,8.62
+12,performer,21,0.01,2,3,8.50
+13,Notwithstanding,50,0.01,4,29,8.25
+14,side-effect,25,0.01,2,16,8.25
+15,verifying,28,0.01,2,24,8.09
+16,descended,29,0.01,2,27,8.04
+17,infinitely,30,0.01,2,27,7.99
+18,despite,1728,0.45,112,971,7.95
+19,discriminability,32,0.01,2,17,7.90
+20,notwithstanding,32,0.01,2,17,7.90

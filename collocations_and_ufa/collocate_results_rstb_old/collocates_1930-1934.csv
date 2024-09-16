@@ -1,0 +1,21 @@
+No.,Word,Total no. in whole corpus,Expected collocate frequency,Observed collocate frequency,In no. of texts,Mutual Information value
+1,intensified,3,0.00,2,3,9.58
+2,puzzling,4,0.00,2,3,9.17
+3,well-established,4,0.00,2,4,9.17
+4,despite,10,0.01,3,7,8.43
+5,notwithstanding,16,0.01,3,10,7.75
+6,recognition,29,0.03,5,19,7.63
+7,relating,12,0.01,2,8,7.58
+8,inconsistent,12,0.01,2,8,7.58
+9,supported,93,0.08,14,40,7.43
+10,well-known,20,0.02,3,14,7.43
+11,spite,68,0.06,10,31,7.40
+12,notwithstanding,16,0.01,2,10,7.17
+13,Because,17,0.01,2,6,7.08
+14,stress,19,0.02,2,13,6.92
+15,accord,22,0.02,2,7,6.71
+16,revealed,45,0.04,4,27,6.67
+17,Lupin,25,0.02,2,3,6.52
+18,inferred,25,0.02,2,17,6.52
+19,afforded,28,0.02,2,12,6.36
+20,matter,202,0.18,13,51,6.21

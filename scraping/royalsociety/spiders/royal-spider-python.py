@@ -7,6 +7,8 @@ import pandas as pd
 
 #works, albeit slow
 
+#maybe rerun the other pages (rstb in particular) to see if any non-restricted pages are missing
+
 class MyItem(scrapy.Item):
     author = scrapy.Field()
     publisher = scrapy.Field()
@@ -24,9 +26,9 @@ class MyItem(scrapy.Item):
 class RoyalSocietySpider(CrawlSpider):
     name = 'royalsociety_spider'
     allowed_domains = ['royalsocietypublishing.org']
-    start_urls = ["https://royalsocietypublishing.org/loi/rsta/group/c1800.d1880.y1887"] #doing rsta now
+    start_urls = ["https://royalsocietypublishing.org/toc/rsta1887/1887/178"] #doing rsta now
     custom_settings = {
-        'FEEDS': {'royalsociety_rsta_latest.csv': {'format': 'csv'}}
+        'FEEDS': {'royalsociety_rsta_checking_missing.csv': {'format': 'csv'}}
     }
     visited_urls = set()
 
@@ -115,6 +117,6 @@ class RoyalSocietySpider(CrawlSpider):
     def append_item_to_csv(self, item):
         """Appends to a dataframe so I can rest assured the data *is* somewhere even if the item pipeline doesn't work."""
         df = pd.DataFrame([item])
-        file_exists = os.path.isfile('royalsociety_rsta_latest2.csv')
-        df.to_csv('royalsociety_rsta_latest2.csv', mode='a', header=not file_exists, index=False)
+        file_exists = os.path.isfile('royalsociety_rsta_checking_missing2.csv')
+        df.to_csv('royalsociety_rsta_checking_missing2.csv', mode='a', header=not file_exists, index=False)
 

@@ -1,0 +1,21 @@
+No.,Word,Total no. in whole corpus,Expected collocate frequency,Observed collocate frequency,In no. of texts,Mutual Information value
+1,propriety,11,0.01,5,9,9.33
+2,certainty,26,0.02,5,15,8.09
+3,curious,68,0.05,13,42,8.08
+4,variance,13,0.01,2,8,7.76
+5,singular,44,0.03,5,22,7.33
+6,detailed,36,0.03,4,23,7.29
+7,respecting,80,0.06,8,42,7.14
+8,illustration,22,0.02,2,15,7.01
+9,supported,26,0.02,2,18,6.76
+10,Natural,36,0.03,2,6,6.29
+11,developed,57,0.04,3,16,6.22
+12,striking,41,0.03,2,23,6.11
+13,migration,47,0.03,2,3,5.91
+14,migration,47,0.03,2,3,5.91
+15,importance,71,0.05,3,38,5.90
+16,new,215,0.15,9,65,5.89
+17,belonging,49,0.03,2,23,5.85
+18,extraordinary,61,0.04,2,24,5.53
+19,additional,62,0.04,2,41,5.51
+20,stated,100,0.07,3,39,5.41

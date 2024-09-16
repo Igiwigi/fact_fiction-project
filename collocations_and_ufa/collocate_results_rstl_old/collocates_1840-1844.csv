@@ -1,0 +1,21 @@
+No.,Word,Total no. in whole corpus,Expected collocate frequency,Observed collocate frequency,In no. of texts,Mutual Information value
+1,propriety,12,0.01,5,11,8.80
+2,countenance,5,0.00,2,3,8.74
+3,illustrative,7,0.01,2,4,8.25
+4,recorded,51,0.05,12,15,7.97
+5,ant,10,0.01,2,7,7.74
+6,leading,19,0.02,3,12,7.40
+7,men-,13,0.01,2,8,7.36
+8,certainty,34,0.03,5,19,7.29
+9,Should,22,0.02,3,14,7.19
+10,record,26,0.02,3,13,6.94
+11,foregoing,51,0.05,5,17,6.71
+12,supported,33,0.03,3,22,6.60
+13,additional,79,0.07,7,35,6.56
+14,demonstrated,26,0.02,2,13,6.36
+15,detailed,40,0.04,3,17,6.32
+16,argument,48,0.04,3,11,6.06
+17,striking,73,0.07,4,28,5.87
+18,Those,38,0.04,2,23,5.81
+19,mind,46,0.04,2,16,5.54
+20,experimental,72,0.07,3,24,5.48

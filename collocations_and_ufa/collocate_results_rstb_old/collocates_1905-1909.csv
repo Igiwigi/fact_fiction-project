@@ -1,0 +1,21 @@
+No.,Word,Total no. in whole corpus,Expected collocate frequency,Observed collocate frequency,In no. of texts,Mutual Information value
+1,disproved,3,0.00,2,1,9.06
+2,Were,6,0.01,3,4,8.65
+3,unconscious,4,0.00,2,1,8.65
+4,harmony,10,0.01,3,5,7.91
+5,relating,7,0.01,2,7,7.84
+6,overlooked,9,0.01,2,3,7.48
+7,emphasised,11,0.01,2,6,7.19
+8,protosomites,13,0.02,2,1,6.94
+9,concerning,20,0.02,3,11,6.91
+10,shortened,14,0.02,2,3,6.84
+11,coincident,15,0.02,2,7,6.74
+12,curious,16,0.02,2,13,6.65
+13,spite,50,0.06,6,19,6.59
+14,Monotreme,17,0.02,2,1,6.56
+15,refers,17,0.02,2,9,6.56
+16,strengthened,17,0.02,2,6,6.56
+17,supported,43,0.05,5,27,6.54
+18,mind,30,0.04,3,14,6.32
+19,matter,136,0.17,12,33,6.14
+20,revealed,23,0.03,2,12,6.12

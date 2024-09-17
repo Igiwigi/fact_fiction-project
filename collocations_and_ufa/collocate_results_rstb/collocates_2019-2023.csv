@@ -1,0 +1,24 @@
+No.,Word,Total no. in window corpus,Expected collocate frequency,Observed collocate frequency,In no. of texts,Mutual Information value
+1,bedeviled,5,0.00,4,5,11.29
+2,brute,4,0.00,2,3,10.61
+3,belies,5,0.00,2,5,10.29
+4,distract,9,0.00,2,9,9.44
+5,undermined,29,0.01,5,25,9.08
+6,tautology,12,0.00,2,2,9.03
+7,fiction,57,0.02,9,10,8.95
+8,preti,15,0.00,2,0,8.70
+9,underscored,16,0.01,2,16,8.61
+10,tempered,17,0.01,2,15,8.52
+11,overlook,43,0.01,3,29,7.77
+12,impeding,29,0.01,2,27,7.75
+13,cessfully,30,0.01,2,26,7.70
+14,ecu,31,0.01,2,1,7.66
+15,fallacy,62,0.02,4,15,7.66
+16,artifact,50,0.02,3,13,7.55
+17,complicated,306,0.10,14,196,7.16
+18,exacerbated,101,0.03,4,83,6.95
+19,virtue,130,0.04,5,70,6.91
+20,spite,133,0.04,5,82,6.88
+
+Total tokens in window,8629481
+Total texts in window,1772

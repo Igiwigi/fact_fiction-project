@@ -14,7 +14,7 @@ iterate through data and download each file from the download link under the col
 
 
 ```{r}
-data <- read.csv("2nd_run_combined.csv")
+data <- read.csv("3rd_run_combined.csv")
 
 #resetting all to false when i delete the downloaded files for testing
  data <- data %>%
@@ -75,7 +75,7 @@ download_loop <- function() {
       while (!success && retry_count < 20) {
         res <- try(download_file(
           link = data$pdf_download_link[i],
-          location = paste0("D:/Fact_fiction_corpus/texts/royal society/pdf2/", file_name, ".pdf"),
+          location = paste0("D:/Fact_fiction_corpus/texts/royal society/pdf_rsta/", file_name, ".pdf"),
           referer = referer
         ),
         silent = TRUE)

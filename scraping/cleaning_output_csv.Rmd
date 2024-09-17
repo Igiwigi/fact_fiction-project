@@ -13,6 +13,15 @@ test <- read.csv("combined_run2.1.csv")
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+```{r}
+data <- read.csv("restricted_urls.csv") 
+data <- data %>%
+  unique()
+write.csv(final_combined_df, "restricted_urls.csv", row.names = FALSE)
+
+```
+
+
 ```{r 1st run}
 #cleaning scraped data royal society to make sure theres no duplicates
 data <- read.csv("data/royalsociety2ndrun2.csv")

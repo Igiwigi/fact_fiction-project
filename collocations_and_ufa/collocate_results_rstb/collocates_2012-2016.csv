@@ -1,0 +1,24 @@
+No.,Word,Total no. in window corpus,Expected collocate frequency,Observed collocate frequency,In no. of texts,Mutual Information value
+1,trier,18,0.01,6,1,9.90
+2,civically,7,0.00,2,1,9.68
+3,finder,14,0.00,4,2,9.68
+4,fiction,11,0.00,3,4,9.62
+5,inescapable,16,0.01,3,12,9.07
+6,fantasy,11,0.00,2,3,9.03
+7,stylized,18,0.01,3,14,8.90
+8,underscored,20,0.01,3,19,8.75
+9,infinitely,17,0.01,2,14,8.40
+10,resf,17,0.01,2,0,8.40
+11,disputed,29,0.01,3,17,8.22
+12,performer,27,0.01,2,6,7.73
+13,astonishing,28,0.01,2,22,7.68
+14,discriminability,29,0.01,2,14,7.63
+15,notwithstanding,73,0.03,5,14,7.62
+16,overlook,30,0.01,2,21,7.58
+17,hampered,77,0.03,5,65,7.54
+18,complicated,286,0.10,17,194,7.42
+19,economist,35,0.01,2,3,7.36
+20,acknowledging,38,0.01,2,25,7.24
+
+Total tokens in window,7553562
+Total texts in window,1656

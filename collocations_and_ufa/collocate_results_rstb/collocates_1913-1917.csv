@@ -1,0 +1,24 @@
+No.,Word,Total no. in window corpus,Expected collocate frequency,Observed collocate frequency,In no. of texts,Mutual Information value
+1,reveals,8,0.01,3,5,8.29
+2,coupled,7,0.01,2,5,7.89
+3,despite,11,0.01,3,5,7.83
+4,happened,10,0.01,2,6,7.38
+5,notwithstanding,12,0.01,2,8,7.12
+6,spite,55,0.07,9,22,7.09
+7,demonstrate,19,0.02,3,15,7.04
+8,supported,52,0.06,8,24,7.00
+9,reveal,15,0.02,2,10,6.79
+10,solely,16,0.02,2,9,6.70
+11,establish,30,0.04,3,21,6.38
+12,matter,163,0.20,15,40,6.26
+13,concerning,23,0.03,2,15,6.18
+14,express,48,0.06,4,25,6.12
+15,attention,135,0.16,11,34,6.08
+16,owing,181,0.22,14,38,6.01
+17,primordial,26,0.03,2,5,6.00
+18,explain,49,0.06,3,24,5.67
+19,responsible,34,0.04,2,14,5.61
+20,elimination,35,0.04,2,5,5.57
+
+Total tokens in window,495516
+Total texts in window,49

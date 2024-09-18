@@ -1,0 +1,25 @@
+sin(a)’
+from which one deduces the following identity, valid for 0 <a < 1/2:
+
+ca
+
+sina
+
+t a s
+| S(t,s)gs dWs =| (t —s)*-1S(E,s) (| (s —r)*S(s,r)gr aw) dr.
+0 0 0
+
+For 2<p<oo and dea< b the process Rg(s):= Sols —r)*S(s,r)gydW, belongs to
+LP(0, T; LP(2; X)), which we identify with L? (2; L?(0,T; X)), and then use the fact that the mapping
+Rah KG — s)*-!S(t,s)Ry(s) ds maps the latter space into L?(2; C([0, T]; X)). Mutatis mutandis this
+method extends to the more general setting of 2-smooth Banach spaces. By bookkeeping the norm
+estimates and tracking constants, and performing a standard localization argument, the following
+result is obtained.
+
+Theorem 4.5 (Factorization method). Let (S(t,s))o<s<r<r be a Co-evolution family on a
+(2,D)-smooth Banach space X and let 2<q<oo. For all gEL(Q;L1(0, T; y(H,X))), the process
+S S(t,s)g¢s dWs)te[o,r] has a continuous version. For g € Lh (2;L1(0, T; y(H, X))) with 0 <p <q, this
+version satisfies
+P
+
+E sup

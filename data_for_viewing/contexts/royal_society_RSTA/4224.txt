@@ -1,0 +1,25 @@
+(cf., for example, his book, ‘Wahrscheinlichkeit, Statistik and ihre Wahrenheit’, Berlin, 1928).
+[Solche Gesamtheiten, Kollektive gennant, sind tiberhaupt notwendig um die Wahrschein-
+lichkeitsrechnung als Lehre von den Haufigkeiten begriinden zu kénnen. Sie wurden
+von R. v. MISES eingefiihrt, der ihre Bedeutung ftir die Wahrscheinlichkeitsrechnung
+erkannte, und einen entsprechenden Aufbau derselben durchfiihrte (vgl. z. B. sein Buch
+Wahrscheinlichkeit, Statistik und ihre Wahrheit, Berlin 1928).]
+
+Note the discrepancy in the titles given for von Mises’ book; apparently, the translator made
+an error here. In fact, von Neumann also errs in this passage, as the ‘ihre’ is an interpolation.
+Nevertheless, the meaning of the passage is clear: in 1932, von Neumann interpreted probability
+in a frequentist manner.
+
+Evidence of this occurs throughout MFQM, in fact. For example, ‘expectation value’ is defined
+as ‘the arithmetic mean of all results of measurement in a sufficiently large statistical ensemble’
+(p. 308). Liiders [43], who improved upon von Neumann’s theory of measurement, also thought in
+terms of ‘an ensemble of identical and independent systems’ [einer Gesamtheit gleichartiger und
+unabhangiger Systeme]. This is one example of later researchers not finding a Bayesian message
+in von Neumann.
+
+(b) Probability as extended logic (ca 1937)
+
+To see how von Neumann’s thinking on the foundations of probability changed, we turn next
+to an unfinished manuscript from about 1937, which is included in his Collected Works [44]. Von
+Neumann imagines a collection of a large number of ‘specimens’ of a physical system S$; and
+considers interpreting the transition probability P(a, 6) =@ in terms of a relative frequency:

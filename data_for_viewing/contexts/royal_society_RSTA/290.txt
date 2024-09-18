@@ -1,0 +1,25 @@
+
+2. The control of gene expression 8
+
+For the purposes of this exposition, we focus on prokaryotic gene regulation via promoters.
+A promoter is a loosely defined object. We can take it to signify a stretch of DNA, upstream of
+every gene, which controls whether that gene is expressed or not. The properties of a promoter,
+like those of a gene, are determined by its DNA sequence. A survey of bacterial promoters reveals
+a conserved pattern of nucleotides, all variations of a particular consensus sequence. The most
+conserved regions are two short stretches situated —35 and —10 nucleotides from the site at
+which transcription begins [2, ch. 7]. These regions are thought to provide the binding site that is
+specifically recognized by the RNA polymerase protein (figure 2a).
+
+There are in fact numerous proteins that, like the polymerase, are able to recognize and bind
+specific nucleotide sequences. Their binding sites are typically between six and 20 base pairs in
+length. Binding is mediated by physical interactions between residues on the protein and on the
+DNA molecule. Given the structure of a protein we should, in principle, be able to calculate its
+interaction energy with a particular DNA sequence. The result of such a calculation would be
+the ‘DNA-binding code’. The search for such a code is an active area of research [16-18], but
+for the time being we can rely on experimental measurements of binding affinities [7,8]. Various
+classes of DNA-binding proteins are known, grouped according to the structure of their DNA
+recognition domains. These proteins are often modular, having one domain that binds DNA,
+and another that is responsible for regulatory interactions. Once bound to DNA, a protein can
+recruit other proteins to its vicinity, or can prevent them from binding. In particular, a DNA-
+binding protein can interact with and influence the binding and transcriptional activity of the
+RNA polymerase. Such molecules are known as gene regulatory proteins or transcription factors.

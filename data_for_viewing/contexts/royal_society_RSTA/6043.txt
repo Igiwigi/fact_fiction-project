@@ -1,0 +1,25 @@
+
+While the Bovik-Benveniste methodology was successfully used in various applications (e.g. [3
+[41-46]) and incorporated in a few numerical procedures, e.g. [47-51], some controversy and : S
+issues related to its implementation remain. For example, in [15], it was suggested that the : Ss
+methodology does not work for the case when all phases in the original problem have the same : =
+properties. There, the jumps across an interface (obtained at the second step of the methodology) 7S
+
+were confused with the jumps across a layer. The former, as expected vanish, while non-zero
+jumps across the layer are recovered at the post-processing step of the methodology, in which the
+problem, of a domain subjected to some load and prescribed vanishing jumps across the interface,
+is solved analytically and the fields at the traces of the layer boundaries are exactly evaluated. A
+more serious issue was reported in [30], where it was stated that ‘the numerical results for the O(h?)
+version .. . revealed a serious deficiency consisting in the fact that for very stiff interphases its predictions do
+not improve over the corresponding results of its O(h) version ...and even fall more distant from the exact
+solution’, and concluded that ‘the construction of an O(h*) version ...in elasticity which behaves
+satisfactorily at all ranges of interphase stiffness remains an open issue’.
+
+Even though the models of the second group are somewhat more versatile, in the sense
+that they can be used for curved and relatively thick layers, they are still of low (up to the
+second) order. Until recently, higher-order interface models were proposed for conductivity
+problems only, e.g. [9,36]. In this paper, we derive the boundary conditions associated with Model
+I and Model II up to the third order for two-dimensional elastostatics problems with layers of
+arbitrary sufficiently smooth curvatures. To do that, we develop a novel complex variables-based
+approach that results in explicit expressions for the boundary conditions for the two models. We
+demonstrate that the use of the third-order Model II takes care of the issue identified in [30]. Using

@@ -1,0 +1,25 @@
+wave-group amplitudes and lengths we identify the pair with length L*, corresponding to the ied
+
+largest amplification.
+We formulate the precursor for extreme waves by utilizing the projection of the wavefield to
+this wave-group with critical length scale, L*:
+
+x—-—xXx
+
+Yo(x*, t) =2L* (sech ( Ee -) U(x, o) , (3.6)
+
+where the factor 2L* is a normalization constant. In figure 6c, we present the conditional PDF of
+the maximum wave elevation in a future time instant within a prediction window extending from
+t; =50 to ty = 350, given the magnitude of the precursor |Yo| at the current time instant. The fact
+that the high-likelihood unstable mode is localized in space also allows for the determination
+of the neighbourhood, x*, where the extreme event will occur in the near future. Note that
+compared with the OTD method the precursors based on the highest-likelihood unstable mode
+provides with longer warning times. This is because OTD modes need a small amount of time to
+align to the currently most unstable modes. The modes presented have been used for predicting
+extreme events in nonlinear water waves with high success rates and low false-positive rates [41].
+Moreover, in [42] a similar analysis was employed for two-dimensional directional waves.
+
+4. Quantification problem: efficient computation of the probability density
+function
+
+The next problem we are interested in involves the parsimonious statistical quantification of

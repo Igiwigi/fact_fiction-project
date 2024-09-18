@@ -1,0 +1,25 @@
+there is no way to examine the AM any more in that case. For EMD, however, any multiplicative
+process-induced energy intensity fluctuation could only be examined indirectly from the AM,
+which leads to the new high-dimensional, full informational spectral analysis to be given in the
+next section.
+
+3. A full informational, complete frequency-domain representation:
+Holo-Hilbert spectral analysis
+
+For any data, after the necessary first additive decomposition, we have the expansion given in
+equation (1.3). The carrier FM part has been covered in the HSA [7], in which the variation of the
+amplitude is implicitly expressed as the temporal modulations of the spectral intensity without
+further expansion or conversion into the frequency domain. Thus, this time-frequency analysis is
+in fact an incomplete spectral analysis.
+
+Here, we are going to concentrate on the variation of the amplitude function, a;(t). In the above
+example of multiplicative interaction between the sinusoidal wave and the white noise, the IMFs
+of the data (in figure 2b) are given in figure 4a and the corresponding Hilbert spectrum is given
+in figure 4b. Although one can clearly see modulation of the IMFs especially in the first few
+IMF components, the Hilbert spectrum fails to reveal any trace of the modulation effects by the
+sinusoidal wave, which should appear along the dotted line given in this figure. The modulation
+can be seen only in the energy density fluctuation at the carrier frequency range. Neither Fourier
+nor the HSA could represent the effects of multiplicative processes, being as they are based on
+additive expansions (see §1).
+
+Now let us examine the IMFs given in figure 4a again. Let us compute the envelopes for the

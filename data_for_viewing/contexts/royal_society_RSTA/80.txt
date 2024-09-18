@@ -1,0 +1,25 @@
+rise to the same spatial structures. As a result, it is useful on the theoretical side to find the
+minimal set of biophysical mechanisms under which typically observed patterns may appear
+in water-limited systems. Most existing mathematical models of vegetation pattern formation
+assume an interplay between short-range facilitation and long-range competition. While it is clear
+that such a combination of mechanisms is probably responsible for patterns in some conditions—
+for example, regular stripes on hillsides [9]—whether or not both mechanisms must always be
+present for pattern formation is an open question. While competition for water is likely to be
+the key factor for semiarid systems, some studies [11,12] have suggested that local facilitative
+interactions may be unnecessary, or of only minor importance, for pattern formation. Following
+these ideas, the authors have recently introduced a model of vegetation density for water-limited
+regions where only competition among plants is considered [3]. Here, the interaction enters by
+allowing the growth rate of a plant to diminish with the number of other individuals competing
+with it for resources (water). Despite the fact that facilitation is ignored, this non-local competition
+model produces a spectrum of spatial patterns similar to the one observed in models assuming
+that both facilitation and competition are necessary.
+
+In this paper, we extend the results of Martinez-Garcia et al. [3] to address several open
+questions. (i) Do patterns depend on how competition enters in the dynamical equations?
+(ii) What is the role of nonlinearities? (iii) Can simple models featuring non-local competition be
+derived from more fundamental ones that consider the dynamics of plants and water sources? To
+answer these questions, we present a set of non-local models with only competitive interactions
+that enter in the equations either linearly or nonlinearly. In the latter case, we complement our
+previous work by also allowing non-local competition to enter in the death term. Patterns emerge
+in all of these models, and in a sequence related to the one observed in standard facilitative—
+competitive models. We also present preliminary results on how the non-local density equations

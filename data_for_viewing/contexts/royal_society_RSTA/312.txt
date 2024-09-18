@@ -1,0 +1,25 @@
+variable), though it must clearly be related to the Richardson number. Lozovatsky & Fernando [6]
+argue that the mixing efficiency of naturally occurring stratified shear flows is given by the
+parameter y = Ry (1 — R¢), where Ry is the flux Richardson number. They use the wind velocity
+and sonic temperature data obtained near Salt Lake City, Utah, to examine the dependence of y on
+both the Richardson number and the (appropriate) Reynolds number. The authors find that the
+mixing efficiency is a constant in certain ranges of these parameters, but not in others. Broadly
+speaking, the results explain the wide variability of y noted in previous studies of geophysical
+problems involving turbulent mixing.
+
+Engineering and geophysical problems involving turbulent mixing—ranging from the spread
+of pollutants and hazardous plumes to combustion to the effect of anthropogenic tracers in
+climate change—are typically very complex and it has been difficult to derive rigorous results for
+these complex problems. On the other hand, rigorous results can, in fact, be attained for simple
+models of the complex phenomena. If these models are good enough to capture qualitatively
+the basic ingredients of laboratory experiments and real phenomena, it is conceivable that
+one may better understand the underlying physical content of the observed complexity. This
+content could include such features as transitions between Gaussian and stretched-tail probability
+density functions for the passive scalar, the nature of the steady-state turbulent spectrum for
+scalar variance and the eddy diffusivity approximations for tracers. Such studies also advance
+our arsenal of mathematical tools in addressing the more difficult class of real problems. The
+paper by Majda & Gershgorin [7] belongs to this class and is motivated by considerations
+of climate variations. It develops the theme by considering the problem of zonal jets and
+B-plane Rossby waves. Closed exact formulas for the mean and variance of a model equation
+with interesting simplifications are obtained, along with results for quantities such as non-local
+eddy diffusivity.

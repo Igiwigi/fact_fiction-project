@@ -1,0 +1,25 @@
+for bootstrapping; so it was proposed by Hyvarinen [26] that one should analyse a number of
+separate datasets. If the independent components are similar enough in the different datasets, one
+can assume that they correspond to something real. In some applications, one naturally obtains a
+number of data matrices that one would expect to contain the same independent components. In :
+the case of neuroimaging, for example, one typically measures brain activities of many subjects, —
+and tries to find components that the subjects have in common [27]. In general, even if one only ia
+measures a single dataset, one can just divide it into two or more parts. : Se
+
+Using this idea of analysing different datasets, it is actually possible to formulate a proper is
+statistical testing procedure, based ona null hypothesis, which gives p-values for each component. i=
+The key idea is to consider the baseline where the orthogonal transformation A estimated after al
+whitening is completely random, this gives the null distribution that models the chance level :g
+[26]. In the space of orthogonal matrices, it is in fact possible to define ‘complete randomness’ :§
+as the uniform distribution in the set of orthogonal matrices owing to the compactness of that :
+set. To see whether a component is significantly similar in the different datasets, one computes
+the distribution of the similarities of the components under this null distribution and compares its
+quantiles with the similarities obtained for the real data. This gives a statistically rigorous method
+for assessing the reliability of the components. The similarities can be computed either between
+the mixing coefficients corresponding to each component [26] or between the actual values of the
+independent components [28], depending on the application.
+
+5. Group independent component analysis, or three-way data
+
+In some applications, one does not measure just a single data matrix but several, as already
+pointed out in §4. In other words, the random vector x is measured under different experimental

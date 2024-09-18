@@ -1,0 +1,25 @@
+
+An important issue for many types of anisotropy is the scale over which the mean magnetic field is
+defined. For a local mean field, Bic, it might be the same scale as that of the considered fluctuations,
+or perhaps 2, 5 or 10 times that. Studies employing either wavelets or structure functions now
+commonly take this approach. For a global mean field, Bo, the averaging occurs over the whole
+data interval (or simulation domain), so that Bo is uniform. The particular mean field used can
+lead to significant differences in results [23,100,101]. Possibly the most well-known solar wind
+case concerns the energy spectrum and how the inertial range slope depends on the angle between
+the measurement direction and the direction of Bo or Bic, No systematic difference in slopes is
+seen when a global field is used, but steeper spectral slopes are seen at small angles when local
+mean fields are employed (see [6] for a review).
+
+Note that wavelet ‘spectra’ computed relative to local mean fields are, in fact, not spectra in the
+classical second-order moment sense [23]. Rather, because the direction of Bloc is itself a random
+variable, wavelet ‘spectra’ also involve third- and higher-order correlations.
+
+Recall that the properties of linear wave modes are typically derived assuming a homogeneous
+background with a mean magnetic field that is uniform and constant [126]. If one wishes to
+investigate the properties of wave modes relative to a BI, this is clearly a more complicated
+situation. In the extreme cases where Bic is defined over the same scale as the fluctuations,
+
+SThis is closely related to the correlation scale and the energy-containing scale [13,18].
+
+7When the electron gyrofrequency is reached the behaviour changes again, with claims for powerlaws, exponential
+dependence and combinations of these. See [4] and references therein.

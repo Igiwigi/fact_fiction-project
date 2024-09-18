@@ -1,0 +1,25 @@
+intrinsically degenerate. In transit spectroscopy, the degeneracy in the retrieval of molecular
+abundances may be caused by the imprecise knowledge of Rp (equation (2.1)). In IR
+eclipse and direct imaging spectroscopy, the information on molecular abundances is
+entangled with the atmospheric vertical thermal profile; see for instance Tinetti ef al.
+[90] for a more detailed discussion. For transiting planets, to remove the degeneracy
+between molecular abundances/planetary radius or molecular abundances/vertical
+thermal gradient, a broad wavelength coverage is needed together with adequate
+signal-to-noise ratio (SNR) and spectral resolving power (SRP) (see point 7). Direct
+imaging observations also suffer from the lack of knowledge of the planetary radius and
+sometimes mass. When the mass and the radius are not known, model estimates need to
+be invoked, increasing the source of degeneracy.
+
+. Accurate linelists are an essential element of radiative transfer models, and this fact is not
+always appreciated. As a result, the abundances for molecular species are often derived
+with linelists that are incomplete or extrapolated from measurements/calculations at
+low temperatures. This issue—especially together with point 3—may introduce large
+errors. For instance, all the current claims of carbon-rich or carbon-poor planets [91]
+published in the literature are unsubstantiated for this reason. This problem is well
+known to spectroscopists, and linelists at high temperatures are being calculated ab initio
+or measured in the laboratory [92].
+
+. We are dealing with very low SNR observations. While the adoption of new data analysis
+methods and models might address some of the issues listed above, the lack of good data
+is something we cannot solve in the short term. I indicate below the SNR per spectral
+resolution element and SRP that would be needed to guarantee a sound spectral retrieval.

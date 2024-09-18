@@ -1,0 +1,25 @@
+three primary electrophysiological components of ischaemia on the susceptibility to conduction
+block (in both simple fibres and strongly heterogeneous tissue).
+
+Our emulation also allowed us to generate plausible parameter maps of re-entry risk in
+heterogeneous tissue, as well as the likelihoods of successful/blocked propagation in such tissue.
+Our results implicate WL as the most critical component of re-entry formulation, given that even
+cases with a low frequency of block (and low S) still often exhibited the unidirectional block
+event(s) required for re-entry initiation. Only for the lowest ¢ value was a decrease in excitability
+seen to clearly increase propensity for re-entry, as this proportion of obstacles was no longer
+guaranteed to generate the required block through structural effects. On the other hand, block
+susceptibility does directly inform at which point re-entries will fail to develop due to a complete
+inability to propagate through the heterogeneous tissue. As such, high amounts of hyperklaemia,
+in fact, protect against re-entries situated in regions of heavily damaged tissue.
+
+There are also several limitations to our study, that we address here in detail. Firstly, concerns
+of computational feasibility allowed us to only simulate a small number of realizations for each
+
+
+combination of ischaemia parameters and obstacle proportion ¢. Our use of emulation to predict
+further regions of interest in the parameter space partially alleviates this issue, but more robust
+conclusions could, of course, be obtained with access to richer data. Variability introduced by
+different micro-scale realizations of obstruction is important—for example, our patient-specific
+study considering this used 500 biventricular meshes each with their own unique pattern of
+obstructions in order to thoroughly examine the effects of structural variability on re-entry
+dynamics [30].

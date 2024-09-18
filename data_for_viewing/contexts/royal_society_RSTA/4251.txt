@@ -1,0 +1,24 @@
+so that there is an infinite number of such objects. The particular elastic invariants :
+
+S, ly VS, (2.7)
+
+will be of fundamental significance, subsequently.
+
+The first theme to be discussed in the paper is the following: give a finite functional basis for
+the set of elastic invariants, and a similar basis for the measures of defectiveness. (I will be precise
+about what is meant by a functional basis later.) These tasks were addressed in [11-14], and I note
+that some of the results relevant to the first task can be read in terms of, and understood by means
+of, Cartan’s theory of equivalence of vector fields, as set out by Olver [15].
+
+The second theme (there are five in all) relates to the fact that two distinct crystal states may
+not be elastically related to one another even if they have identical measures of defectiveness. I
+say that, as in [11,12], two crystal states are related by (implicitly non-trivial) neutral deformation
+in that case, and remark that the corresponding changes of state can be interpreted in terms of
+rearrangements of vector fields, or ‘slip’. The equations that determine whether or not a crystal
+state XY (cf. (2.1)) allows neutral deformation are partial differential equations for lattice vector
+fields {I/,(-)} in a crystal state also defined on 2 € R,
+
+2s ({I,()}, 2}. (2.8)
+
+One solution of these partial differential equations is {I,(-)}, neutral deformations exist if there is
+a solution {1/,(-)} 4 {Ia(-)}.

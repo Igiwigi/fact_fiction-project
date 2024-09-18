@@ -1,0 +1,25 @@
+RDGE: Ice divergence divu (i,j) used to ridge sea ice was changed in convergence and shear
+to divu (i,j) * (cl-cl/c3) +divu (i,j) *cl/c3 in the module ice_dyn_evp.F90.
+
+CINE: The northeast replacement pressure variable clne was modified in ice_dyn_evp.F90
+as clne=clnex (cl-cl/c3) +clne*cl/c3 immediately after its assignment.
+
+KSNO: Thermal conductivity of snow, ksno, was increased from 0.30-0.303 Wm! K7? in
+Icepack, a 1% change constituting a Category III code revision.
+
+Modifications in RDGE and CINE are algebraically synonymous with the CICE6 baseline, but
+slightly alter the numerics of the continuity and momentum equations, respectively. The KSNO
+case results in a Category III climate change owing to the model’s strong sensitivity to the
+thermal conductivity of snow [43]. In fact, we define any parameter change in an existing CICE
+configuration as a Category III change that would first be detected during maintenance of the code
+repository, rather than by the 2SPT and QSC tests. Nevertheless, KSNO serves as a benchmark
+against which RDGE and C1NE may be compared.
+
+We seek to answer three questions using the RDGE-C1NE-KSNO suite: First, are the combined
+2SPT and QSC tests sufficiently sensitive to differentiate Category I, II and III code modifications?
+Second, is our target 5-year test window sufficiently long for the purpose? Finally, how do the
+2SPT and QSC test results from RDGE-C1INE-KSNO compare with other instances where we
+know that the 5-year h; climate differs between paired sea-ice simulations? For this last question,
+we make use of the simulations from other Consortium models with clear /,; signals. Answers to
+each of these questions are summarized in figures 4—6, but the results of RDGE and C1NE were so
+similar that we omitted the latter case where appropriate (figures 4 and 6). To answer our second

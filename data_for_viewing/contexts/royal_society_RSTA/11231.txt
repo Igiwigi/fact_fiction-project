@@ -1,0 +1,25 @@
+Corollary.—The associated oscillation function, being the sum of two upper semi-
+continuous functions,t is itself an upper semi-continuous function.
+
+Theorem 9.—If S’ be a component of the fundamental set 8, such that all the
+limiting points of S! which belong to S are contained in 8’, then the wpper (lower) limit
+of a function in (S—S’) is the same as that of the associated upper (lower) limiting
+function in (S—8’).
+
+This follows from the fact that the maximum (minimum) at any point P of (S—S’)
+is unaffected by the values of the function at the points of 8’, since P is not a limiting
+point of 8’. Whence the result is easily deduced.
+
+The fact that the value at a point of an upper (lower) semi-continuous function is
+the maximum (minimum) at that point in the case of such a function, enables us to
+substitute the word value instead of maximum (minimum) in the definition of
+integration. ‘
+
+The definition in this case takes the following simplified form :—
+
+Divide the fundamental set S into a finite or countably infinite number of
+measurable components, multiply the content of each component by the wpper (lower)
+limit of the values of an upper (lower) semi-continuous function at points of that
+component and sum all such products; then the lower (upper) limit of all such
+
+* Barre, ‘ Ann. di Mat.’ (3), vol. IIL, 1899.

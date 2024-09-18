@@ -1,0 +1,25 @@
+
+A numerical study on thermal jet drilling exploiting the thermal spallation phenomenon exhibited
+by granite was carried out. The governing discretized system of equations was solved with
+explicit time stepping. While this substantially facilitated the solution of the problem with
+temperature-dependent material properties and damage-dependent thermal conductivity, it also
+imposed a severe restriction on the critical time step of the mechanical part of the system of
+equations. Fortunately, the mechanical part of the problem admitted extreme mass scaling of
+using 10000-fold density (even 100 000-fold with a minor error), which increased the critical time
+step to 100-fold allowing practically convenient solution times. It is the relatively low loading rate
+nature of the thermal loading that renders the mechanical part amenable to mass scaling.
+
+The 3D simulations of the thermal jet drilling corroborated the already experimentally
+established fact that this method is a viable one with granite rock. Rock heterogeneity has a
+significant effect in facilitating the underlying thermal spallation phenomenon. More precisely, a
+test simulation using a heat flux, modelling a thermal jet with 10 mm of radius, with an intensity
+of 3 MWm~ and a duration of 0.1s, followed by 0.1s natural cooling phase, showed that
+the significant rate of penetration, approximately 300mm min~!, can be theoretically achieved.
+This is a novel result possible to be achieved only through genuine 3D simulations. Finally, a
+test simulation exploiting heating-forced cooling cycle demonstrated that this method is more
+economical in heated rock mass since sufficient damage levels can be achieved when the heated
+zone is rapidly cooled down to a temperature lower than that of the surrounding rock mass. It
+can be concluded that the present model can serve as a valuable numerical tool for the research
+and development of thermal jet drilling.
+
+Data accessibility. This article has no additional data.

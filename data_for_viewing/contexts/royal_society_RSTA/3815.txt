@@ -1,0 +1,25 @@
+
+Figure 5. Inner-scaled streamwise Reynolds stress profile as a function of the (a) inner-scaled and (b) outer-scaled wall-
+normal distance. (a) Successive profiles corresponding to different Re (figure 4b) are offset by A(u'*+)? = 3 for clarity. Grey
+symbols indicate single-wire results corrected for spatial resolution effects as described in [28]; X-wire measurements are
+fully resolved. Dashed lines indicate the prediction of the near-wall peak amplitude based on a compilation of simulations
+and experiments [54], i.e. (w2)+ = 3.63 + 0.65 In R*. (b) Only profiles for R*+ > 2.4 x 10* are shown. The black solid line
+indicates the logarithmic profile obtained through a fit to the data between 0.025 < y/R < 0.25 (range being indicated
+through dashed lines); yielding Ay = 1.30, By = 1.81 and B) = 1.91 for equation (4.1), with free parameters and A, fixed to
+the value of 1.26 found in [32], respectively. The red solid line represents DNS at Rt = 3008 [22]. (Online version in colour.)
+
+yt (Rt)? values of 2.6-3.9 [7,32,50]. It should be noted that, while the location of the lower
+bound for the logarithmic region in the aforementioned studies is found empirically, there is a
+physical basis, as argued by Klewicki and co-workers [52,53]: this position, in fact, should locate
+the start of the region where the mean dynamics lose a leading-order viscous effect. This thus
+ensures a correspondence between the aforementioned empirical observation and the classical
+notion that the logarithmic layer is an ‘inertial sublayer’ in physical space.
+
+Considering the streamwise variance profiles in inner scaling (figure 5a), the profiles
+from the X-wire measurements in both the streamwise/spanwise and streamwise /wall-normal
+configurations agree exceptionally well with each other and are in agreement with the single-
+wire measurements, except for the lowest Reynolds number. This discrepancy might be related to
+difficulties in the calibration at low velocities, say mean velocities below 5m s~!, in which case the
+calibration needs to be accurate down to nearly 1 ms-! [55], which could not be ensured for the
+in situ calibration of the boundary-layer probes. Although the streamwise variance profile exhibits
+a mild second peak, the fact that the wire length in inner units L* increases up to 40 and 80 viscous

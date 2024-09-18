@@ -1,0 +1,25 @@
+ti-1:tj=a;, fori=1,...,n, (3.2)
+
+where a; € (—1,1). The kinetic energy of the system is
+i
+T=5 domi Fe (3.3)
+is
+
+The Lagrange equations have the following form:
+mit; = iti + vitia+ vivitit1, fori=0,...,n, (3.4)
+
+where A; and y; are the Lagrange multipliers and yo = yy41 =0.
+
+Group SO(3, R) is a symmetry group of this system. In fact, its dynamics does not depend on
+the orientation of the inertial frame because all constraints are invariant with respect to the natural
+action of SO(3,R) in R°. Thus, the total angular momentum
+
+n
+m= > rj X Mir; (3.5)
+i=0
+
+is a first integral of equations (3.3).
+
+It is difficult to perform efficient analysis of the described system because even for small n
+the analytical form of equations of motion in terms of any reasonable parametrization is very
+complicated. This is why we decided to derive equations of motion in a different way.

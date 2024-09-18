@@ -1,0 +1,25 @@
+
+Ficure 16. Values of 1000 and contours of 10.
+
+28. Here again computation was made more laborious by the occurrence of r in the
+‘relaxation pattern’. The nature of the requisite modification was never in doubt; for an
+increase in the assumed value of k, unaccompanied by any change in the assumed shape,
+decreases 7 everywhere according to (33), while an increase given at some point to the radius
+of the jet entails a reduction at that point of 4é and therefore of 1 - and 7. At neighbouring
+points it increases 7 by rendering the jet more concave: consequently errors of opposite
+sign could be eliminated by changing the shape of the free stream-line, errors all of like sign
+by changing k.
+
+In fact only two changes of k were necessary, since the second (by good fortune) led to
+negligible errors at all points. Initially p was assumed to have the value 0-71, and sub-
+sequently this was altered to 0-75 and 0-78 (the accepted figure). Our first attempts were
+made on a net fairly coarse in all parts, since it was apparent that a finer mesh near B would
+yield for that point a value of dy/dv higher by an amount fairly easy to estimate.
+
+One point perhaps calls for notice: —In § 26, by taking 27y-, as a measure of the total flow,
+we gave ‘dimensional’ significance to y, whereas in the computations r, z, v, a were (as is
+necessary) treated as ‘non-dimensional’. But the point has no importance in this example,
+because the boundary conditions, namely, (11) of §5, are still satisfied when y is multiplied
+by any constant quantity (the constants on their right-hand sides being multiplied similarly).
+
+* “.. .this coefficient is found experimentally to be about 0-62’ (Lamb 1932, § 24).

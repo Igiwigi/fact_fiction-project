@@ -1,0 +1,25 @@
+
+where we have introduced the average Hamiltonian H:=(H'+H")/2 and the difference
+Hamiltonian (or perturbation) AH := H” — H’. Note that, for simplicity, we have for the moment
+used one-dimensional notation, and moreover, as both H’ and H” are separable in coordinates
+and momenta, so are H and AH, and expressions such as (d"H(x)/dx")(Ax)" stand for
+(a"T(p)/dp")(Ap)” + (8"V(q)/0q")(Aq)", etc. There are two important observations to make.
+
+First, in the Ax expansion (3.11), derivatives of the average Hamiltonian H appear only with
+odd powers of Ax and derivatives of the perturbation AH appear only with even powers of Ax.
+Second, the average Hamiltonian appears naturally and plays a prominent role. The average
+Hamiltonian must be used in order to preserve the order of the expansion. Otherwise (e.g. if
+H' were used as a reference in displaced harmonic oscillators) what appears to be a first-order
+expansion in Ax would in fact be of second order. This has a consequence, explained below in
+§4, that in displaced harmonic oscillators, the dephasing representation (1.2) mentioned in the
+introduction is exact if the average Hamiltonian H is used as reference, but not if H’ is used
+instead (see equation (4.3)).
+
+It turns out to be useful to truncate expansion (3.11) at increasing powers of Ax. As we will see
+later, both the zeroth- and first-order expansions yield simple analytical results, the latter agreeing
+exactly with the dephasing representation. The second-order expansion cannot be solved fully
+analytically, but nevertheless yields an appealing extension of the dephasing representation.
+
+(d) Zeroth-order expansion
+Truncating expansion (3.11) at the zeroth power of Ax, i.e. setting
+H'(x") — H'(x’) © AH(x), (3.12)

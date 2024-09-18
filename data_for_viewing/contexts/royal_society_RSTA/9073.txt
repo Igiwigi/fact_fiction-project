@@ -1,0 +1,25 @@
+in the expanded function, we first of all find the complete coefficient of a* and then
+operate upon it with the Hammond combination of operators
+
+DD ss0 Day
+
+The result is an integer followed by the sum of an infinite series of symmetric
+functions. The integer mentioned is the number we seek.
+
+Art. 5. We now expand the generating function. On well-known principles we
+can assert that the coefficient of a‘ in the expansion is the homogeneous product-sum
+of order k of unity, and of the whole of the a, 8, y, ... products which occur in the
+denominator factors of the generating function. The elements, of which we must
+form homogeneous product sums are, in fact, ,
+
+1
+a, B, Y ave’ a
+ral B, rae oe ap, ay; By, sie «|
+
+a’, B, y’*, ... a8, ay, ...aBy, 28d, ...
+
+We can form these product-sums from the sums of the powers of these elements,
+because we have before us the well-known symmetric function formula
+
+hig ke kK
+te as 8 18g" +++ 8% F

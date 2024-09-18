@@ -1,0 +1,24 @@
+
+It is difficult to give any precise information about the degree of accuracy of the coefficients
+in this Fourier expansion but it may be observed that when equations (6-1-9) were solved
+for the coefficients B,, D,,...,B;,D;, all the remaining coefficients being zero, the value
+found for 6@ agreed with the first six terms in the bracket in (6-3-1) or at most differed by
+one in the fourth decimal place. To be sure of three significant figures for the values of
+00 it would be necessary to have more terms in the Fourier expansion but the considerable
+extra numerical work which would be required does not appear to be worth while, and it is
+only when all the terms in the bracket in (6-3-1) have the same sign that the third figure is
+likely to be much in error.
+
+The value of 22 at the hole may most conveniently be found by evaluating 77+ 00 +-22
+and then by using (6-3-1) and the fact that 77 is zero at the hole. This gives
+- = {—0-1689 — 0-1211 cos 7€ + 0-0293 cos 21€ — 00105 cos 3m
+
++-0-0047 cos 41€ —0-0024 cos 56+ 0-0014 cos 620}cos29 (A=1). (6°3-2)
+73-2
+
+
+596 A. E. GREEN ON THREE-DIMENSIONAL
+
+Some check on the accuracy of the work is provided by the fact that at the surfaces of the
+plate ¢ = +1 the stress 22 should vanish. The formula (6-3-2) for 22 gives only a very small
+residual stress 0-0005 T cos 20 when ¢ = +1.

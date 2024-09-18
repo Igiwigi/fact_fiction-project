@@ -1,0 +1,24 @@
+(f) Rank-width
+
+In this section, we introduce the notion of rank-width, which is a complexity measure of a
+graph. It is in some ways similar to the tree-width, introduced in [21]. The tree-width captures
+essentially how tree-like the graph is. This is useful for finding algorithms for problems on graphs
+of bounded tree-width, motivated by the fact that many graph problems are easy on trees. More
+on algorithms for problems on graphs of bounded tree-width can be found in [22]. Rank-width,
+
+
+compared to tree-width, captures a larger class of graphs with similar complexity. For example,
+the complete graph has very low complexity, due to its highly symmetric nature, but the tree-
+width is in this case maximal. On the other hand, the rank-width is one for both trees and complete
+graphs. In fact, it turns out that the graphs of rank-width one are exactly the distance-hereditary
+graphs, see [23].
+
+We start by defining the cut-rank of a graph. To do this, we will use the following notation
+for a graph G with vertices V and adjacency matrix I and two subsets of the vertices A,B C V;
+IA, B] is the |A| x |B|-matrix describing the connections between the sets A and B. So, foraeA
+and b € B, the element (I”[A, B])qy is 1 if (a,b) is an edge in G and 0 otherwise.
+
+Definition 2.7 (cut-rank). Let us assume that A is a subset of the vertices V of some graph G
+with adjacency matrix I”. The cut-rank cutrk,(G) of G with respect to A, is then defined as
+
+cutrk,(G) = rankg, ('[A, V\A]), (2.27)

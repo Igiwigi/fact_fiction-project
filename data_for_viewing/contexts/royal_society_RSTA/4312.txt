@@ -1,0 +1,25 @@
+material, for our analysis indicates that these data are only marginally useful for our purposes.
+The detailed data analysis procedures are also given in the electronic supplementary material; we
+will outline the data analysis of the vertical components here as follows: the raw data from the
+vertical component was first cleansed by removing the occasional outliers caused mostly by data
+dropout for lack of suspended particles serving as acoustic reflectors. The root mean squared
+value of the cleansed data is 0.10ms~!, which suggests that the magnitude of the velocity is
+about O(10-! ms~!). The Fourier spectra for the raw and cleansed data are given in figure 2a
+together with a Kolmogorov —5/3 power law spectral form used as a guide for turbulence
+motions. From the spectra, we can see that, after the removal of the outliers, the spectrum of
+the cleansed data generally follows the Kolmogorov spectral line up to near 10 Hz before finally
+levelling off. Ideally, the higher the frequency, the more isotropic the turbulence should be. The
+levelling off, however, indicated otherwise; the higher-frequency turbulence seen here actually
+approaches white noise, a fact that can only be explained by the insufficient accuracy of the ADV
+instrument used in this experiment. The overall spectral shape is similar to those obtained either
+in the laboratory [18] or in the field [20], all showing a prominent peak of the surface wave, near
+0.2 Hz in this case, and a long tail. Of note here is that the spectral tail, covering nearly two
+decades in frequency, indicates that the large-scale waves in the open ocean data indeed offer, for
+the first time, a possibility to have a scale separation between waves and turbulence.
+
+To separate wave motion from turbulence, we used the empirical mode decomposition (EMD)
+method as a filter [28], which can decompose the data into a series of intrinsic mode functions
+(IMFs) and a residual trend varying monotonically. Specifically, given a time series x(t), EMD
+
+
+(b)

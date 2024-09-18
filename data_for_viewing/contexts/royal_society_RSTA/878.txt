@@ -1,0 +1,25 @@
+orbit =
+
+Figure 3. Pictorial representation of Wheeler's delayed-choice experiment in space. A photon wave packet enters the first
+beam splitter (BS) of an interferometer, which extends along thousands of kilometres in space. The interferometer can be
+randomly arranged according to two configurations that correspond to the presence or the absence of the second BS (in/out
+BS) located on the Earth. Following Wheeler's idea, the configuration choice is performed when the photon has already entered
+the interferometer. In the actual implementation of Vedovato et al. [21], the interferometer begins and terminates at the MLRO,
+extending up to the target satellite, and the measurement choice performed on the ground is space-like separated from the
+photon reflection at the satellite.
+
+In his idea, depicted in figure 3, a photon enters an interferometer that can be arranged
+according to two alternative configurations. If the interferometer is closed, one can observe
+an interference pattern, reflecting the fact that the photon travelled both routes at the same
+time, as a classical wave. If the interferometer is left open, then the two detectors show a
+flat probability distribution in the recorded clicks, reflecting the fact that the photon travelled
+along only one arm of the interferometer, as a classical particle. The mutual exclusivity of
+the two experimental arrangements needed for observing the two complementary behaviours
+allows one to consider the photon to be either a wave or a particle at any moment of the
+experiment. To prevent any causal link between the configuration choice and the photon’s
+behaviour, Wheeler proposed to delay the final setting of the apparatus until after the
+photon had already entered the interferometer, preventing it from knowing beforehand how
+to behave.
+
+In 2017, we reported in the work by Vedovato et al. [21] the implementation of Wheeler’s
+idea along a satellite-ground interferometer that extends for thousands of kilometres in space.

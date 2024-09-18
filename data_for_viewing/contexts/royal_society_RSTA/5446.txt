@@ -1,0 +1,25 @@
+
+Phil. Trans. R. Soc. A (2010)
+
+
+Review. Geometry and physics 923
+
+This example illustrates a much more general property of quantum invariants.
+Often they are captured by a generating function that allows two different
+expansions. These two expansions and the corresponding interpretations are an
+example of a duality transformation. Such dualities point to deep symmetries
+underlying quantum field theory. Naively, a quantum field theory is described by
+a path integral over a space of classical fields. However, many phenomena such
+as duality symmetries are not readily explained within that framework. In fact,
+it is well known in physics that a single theory can have various weakly coupled
+descriptions in terms of very different sets of fields. Even fundamental properties
+such as the gauge group are not invariant.
+
+Other ‘quantum results’ involve seeing structure in algebraic topology by
+packaging cohomology groups of related spaces together. There are many
+examples of this type of activity. A beautiful case is the S-duality of a special
+class of V = 4 supersymmetric Yang-Mills theories (Vafa & Witten 1994). These
+encode a set of invariants that are close cousins of the Donaldson invariants. The
+generating function of these theories takes the form
+
+Z(t)= oer", qae™™,

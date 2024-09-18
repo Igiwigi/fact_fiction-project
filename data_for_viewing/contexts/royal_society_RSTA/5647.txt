@@ -1,0 +1,25 @@
+
+
+with k = 0, the wall drag is purely viscous and the ‘weak anomaly’ which is observed empirically
+implies that the vertical derivatives of streamwise velocity, u/dy, must diverge at the wall as
+Re — ox, for otherwise f(Re) = O(1/Re) if those derivatives remain smooth. This is in addition
+to any divergences of velocity-gradients in the flow interior that are required by the slowly
+vanishing energy dissipation there [20]. In the case of rough walls, the viscous drag is observed to
+vanish slowly, just as for smooth walls, so that the asymptotic drag f,(k/H) is due entirely to the
+form drag on the roughness elements in the limit [30]. The non-vanishing drag with rough walls
+thus has the same origin as the non-vanishing drag for flow past finite solid bodies and analogous
+flow phenomena are observed near the roughness elements, such as separating boundary layers
+and pressure asymmetry [30,42,43]. As recently shown [44] (also [45]), the associated form drag
+must in fact be due to a flux of spanwise vorticity across the streamwise flow. Although the
+viscous drag becomes negligible in the limit, it is again observed to vanish more slowly than
+1/Re so that the wall-normal derivatives du/dn must diverge as Re > oo.
+
+These divergences of velocity-gradients at the wall, as well as the additional divergences in the
+interior, can be described as an ‘ultraviolet catastrophe’. They imply that a naive interpretation
+of the fluid equations (2.1) as partial differential equations is no longer possible when Re — oo.
+As in quantum field theory and critical phenomena, the development of a valid dynamical
+description in that limit requires a regularization of these divergences [24]. Regularizing by a
+suitable ‘coarse-graining’ operation, the resulting regularized dynamics in fact corresponds to
+what in mathematics is called a weak formulation of the fluid equations: see [46], §2 or [25]. In this
+formulation, one may pass to the limit Re oo and, under physically reasonable assumptions
+consistent with observations, the limits (along suitable subsequences) exist and are described as

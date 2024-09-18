@@ -1,0 +1,25 @@
+While most known proteins present a folded state, intrinsically disordered proteins (IDPs)
+represent a large family of proteins whose structure is not stable and most of the polypeptide
+chain is disordered. In addition, structured proteins often contain disordered regions, which
+appear as blurred electron density maps in X-ray or cryoEM data. IDPs have even been defined
+as ‘protein clouds’ invoking their dynamic nature and lack of secondary or tertiary structure,
+but as an ensemble of structural conformations not directly accessible in conventional high-
+resolution structural approaches [92]. Study of these particular proteins is still a challenge.
+HS-AFM is likely the only technique capable of visualizing the dynamic structure of IDPs [93].
+An important contribution towards a visualization of unfolded proteins was reported on IDPs
+[93-95]. In the work by Miyagi et al., the authors studied facilitates chromatin transcription
+protein (FACT), a protein with predicted large ID regions that facilitates RNA polymerase II
+transcription and chromatin remodelling [94]. HS-AFM imaging at a remarkable 5-17 frames
+per second of immobilized FACT revealed a stable lumpy structure, flanked by long tail-like
+structures that underwent rapid fluctuations (figure 4). Analysis of the contour length of the
+fluctuating regions and using deletion mutants allowed them to identify the tail structures as
+the two major ID regions. Moreover, analysis of the root mean squared point-to-point distance
+of the tail-like structures as a function of the contour length provided a measure of the elasticity
+of these ID regions by using statistical polymer chain analysis to obtain the persistence length
+(Ip). Interestingly, the reported |)~10nm was much larger than the value usually obtained
+in force-extension curves of unfolded proteins (approx. 0.4nm), suggesting higher stiffness
+[96-98]. Making IDPs stiffer (larger /») would indeed lower the probability of reaching compact,
+folded structures by limiting the number of accessible states. This is likely accomplished through
+electrostatic repulsion between charged residues, abundant in IDPs [99]. IDPs seem to have
+evolved to avoid a funnel energy landscape and remain within a tier of states with similar energy,
+still avoiding misfolding and, perhaps, taking advantage of frustration [100].

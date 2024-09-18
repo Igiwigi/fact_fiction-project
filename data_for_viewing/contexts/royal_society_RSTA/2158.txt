@@ -1,0 +1,25 @@
+in (Uns Be ©) >1- ah
+
+Thus, as in the case of expander graphs, one aims to minimize the non-trivial eigenvalues of
+an adjacency operator. It turns out that the spectral bounds for Ramanujan graphs reappear in
+these settings.
+
+Theorem 6.2 ([36,37]).
+
+(1) If S C PU(2) is a symmetric set of size k, then 4g => 2Vk — 1.
+(2) For prime p=1 (mod 4), there is an explicit symmetric set Sp C PU(2) of size k=p+1 such
+that 4s, =2Vk—1.
+
+In fact, the connection to Ramanujan graphs runs deeper than the spectral bound. The
+construction of Sp, and of the (p + 1)-regular Ramanujan graphs in [1], can be described using
+a single subgroup of PU(Q), which acts simply-transitively on the Bruhat-Tits tree of PU2(Q,) =
+PGL2(Qy,) (this isomorphism follows from p = 1 (mod 4)). This also solves the compiling problem:
+by writing any A € (S)) in p-adic coordinates, one recovers its decomposition in (S,) by following
+the (unique) path leading from A to the root of the tree (cf. [20]).
+
+The proof of the spectral bound As, = 2/k—1 uses again the RP conjecture (Deligne’s
+theorem), but while [1] uses the RP conjecture for automorphic representations of weight two and
+arbitrary level, [36,37] use the conjecture for representations of level two and arbitrary weight. To
+
+
+see that the gates of [36,37] are optimally covering (compared with random ones), one needs to

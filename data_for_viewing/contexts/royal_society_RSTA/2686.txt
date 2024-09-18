@@ -1,0 +1,25 @@
+
+In §2, it has been shown that the forward modelling of muon imaging can be described as a line
+integral along the muon path, which is similar to the well-studied forward modelling of X-ray
+CT. Hence, image reconstruction algorithms based on the Radon transform [12] and algorithms
+based on systems of linear equations [13] can be used directly for muon imaging. However, to
+use the above-mentioned image reconstruction algorithms, muon quasi-beams have to be formed
+
+and muon attenuation or the variance of the scattering angles has to be calculated for each quasi- :2
+beam. To keep the statistical error small, the number of muons in each quasi-beam has to be : =
+large. There are two ways to increase the muon number for each quasi-beam, one is to increase : S
+the angular and spatial bin sizes, and the other is to increase the data collection time. Increasing a]
+the bin sizes has a negative effect on the image spatial resolution. On the other hand, due to : <
+the fact that the cosmic ray muon rate is relatively low, to gather enough muons to reconstruct : >
+a high resolution image is time-consuming. Furthermore, the assumption of a straight muon io
+beam path by the quasi-beam worsens the image spatial resolution even further, because the 18
+actual muon paths inside the matter are most likely to be curved due to the multiple scattering : s
+effect. Therefore, for applications that require a high spatial resolution, an image reconstruction 18
+
+algorithm not relying on an explicit muon beam is required. Moreover, for some applications,
+such as imaging a volcano [14], or imaging an underground mineral deposit, where the possible
+detector deployment locations are limited, special image reconstruction methods are also needed.
+
+Indeed, for multiple scattering imaging, from the very beginning, the Radon transform-based
+image reconstruction method and the algebraic image reconstruction method were ruled out
+by this imaging technique developer. Instead, the Point of Closest Approach (PoCA) and the

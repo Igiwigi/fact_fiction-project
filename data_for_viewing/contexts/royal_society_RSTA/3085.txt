@@ -1,0 +1,25 @@
+in the next section.
+
+The last part of the abstract that I will highlight here is the sentence on significance: ‘The signal
+was observed with a matched-filter signal-to-noise ratio of 24 and a false alarm rate estimated
+to be less than 1 event per 203000 years, equivalent to a significance greater than 5.10.’ There
+are two different measures of significance quoted here, and they have quite different statistical
+meaning. The signal arrived at a time when the detectors were behaving well and the noise was
+Gaussian. After matched filtering with the best-fitting template from a library of waveforms that
+incorporate our best understanding of inspiral-and-merger physics [17], the combined amplitude
+signal-to-noise ratio was 24. This is a 240 detection, by this measure, and the probability of a false
+alarm is something like 10-°°, even allowing for the fact that millions of templates would have
+been tested against the data in the search. But the abstract quotes our confidence at something
+like 50. This much more conservative figure comes from the fact that the detector noise is not
+always Gaussian, but is characterized by random ‘glitches’, which are bursts of interference that
+originate mainly within the detector.
+
+The detectors are extremely difficult to control at this sensitivity level; they have a duty cycle
+only around 60-70%, and even when in operation mode their Gaussian data are frequently
+interrupted by these glitches. Since the LIGO detection criterion is that an event should be
+coincident between the two detectors, the analysis constructs the probability that two randomly
+occurring glitches could also be coincident, and could look enough like a binary inspiral to
+masquerade as a signal. On that probability scale, we are confident that a ‘glitch event’ as strong
+as GW150914 would happen by chance less frequently than once per 203000 years. This is a
+probability equivalent to that of 5.lo in Gaussian noise, but of course the glitch coincidence
+distribution is not a Gaussian one.

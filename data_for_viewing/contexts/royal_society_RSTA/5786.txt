@@ -1,0 +1,25 @@
+'= 0.08
+
+— JH model
+
+0 100 200 300 400 500 0 0.02 0.04 0.06 0.08 0.10 0.12 0.14
+undercooling (K) velocity (m s~!)
+
+Figure 4. The present model and JH model calculated results with similar parameters of Cs/Csg/Ce/C//Te/
+M.,/mp/Vp/Vp, = 0.003/0.999/0.75/0.75/1400/450/450/0.2/0.12: (a) the curve of AT-V and (6) the curve of V-R. (Online
+version in colour.)
+
+6546, 47.9092879672443, 51.0508806208341, 54.1924732744239, 57.3340659280137, 60.47565
+85816035, 63.6172512351933]. In fact, it is yn =n + 0.257.
+
+Substituting it into equation (2.272), we arrive at
+
+ cos"[(11 + 0.25)2 /fy — 0.7577]
+M .
+m Xu Vfal(n + 0.25)xP
+
+This expression is easier than equation (2.25) to calculate M, but as shown in figure 3a, the result
+from equation (2.27b) has a big error when fy < 0.2; nevertheless, it is better than that method from
+the roughly yy =n7.
+
+Therefore, two methods can be used to calculate the value of M and some other relations to

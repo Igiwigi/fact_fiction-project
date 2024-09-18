@@ -1,0 +1,25 @@
+while [19] add mathematical complexity of indeterminate oceanographical usefulness by making
+the underlying ocean viscous. The primary focus of the model in [16] was to explain some
+laboratory observations on wave propagation in grease ice written up subsequently in [20],
+whereas a broader range of ice types including the MIZ are included in [19]. Using a Lagrangian
+formulation, Weber [21] employs a viscous model also to represent a MIZ—in this case for an
+unlayered, rotating ocean. A viscous boundary layer model based upon the eddy viscosity in the
+turbulent boundary layer beneath the ice cover has also been suggested [22-24], recognizing that
+eddy viscosity is a phenomenological parameter to be determined as a function of flow conditions
+
+rather than a physical measurable viscosity. These few papers collectively illustrate a reasonably : =
+common way of parametrizing the aggregated effect of sea ice on waves. : S
+
+In fact, sea ice itself is viscoelastic, with different degrees of nonlinearity dependent on its 2
+physical properties and environmental circumstances. At ocean wave forcing frequencies, first- aed
+year sea ice itself is approximately anelastic [25], ie. any viscous deformation is recoverable, 22
+which is a specific form of viscoelasticity where the hysteresis loop is closed. However, current [4
+viscoelastic plate [26] and viscoelastic layer [15,27-29] models—the latter originally built to : >
+synthesize the elastic plate [5] and viscous layer model [16], ignore this subtlety. Instead, they : =
+accommodate other kinds of sea ice deformation and/or alternative dissipative mechanisms that is
+
+cause energy loss as the waves propagate into and through the material. In doing this, they
+are including both the modest dissipation due to sea ice flexure plus the typically substantial
+energy loss arising from the several known but neglected pervasive mechanisms discussed in
+§1—many of which are nonlinear but are being rendered in a linear way in the model. In all cases,
+a dispersion relation w = w(k) results that, as usual, is constructed by first assuming the Airy

@@ -1,0 +1,25 @@
+moment-closure-based SIR model on heterogeneous clustered networks of heterogeneous links
+according to the Eames and Keeling model [25] and the Volz model [26,27], and then performed
+some numerical tests of the clustered PGF model, in contrast to simulation and other ordinary
+differential equation (ODE) approaches [31].
+
+An important issue of interest in epidemiological research is the behaviour of competing
+pathogens. In many circumstances, a variety of strains with different infections, toxins and
+mobilities can exist together and compete for the same susceptible population. On the one hand,
+different strains can lead to different infectious states, and a conversion between different states
+may occur. On the other hand, one pathogen sometimes generates many strains with different
+spreading features. Competitive multi-virus propagation shows very rich behaviour, beyond that
+of single-virus propagation, hence a detailed investigation of multi-virus epidemic dynamics is
+required [32-35]. In fact, this occurs not only in the process of epidemic spreading; information
+transmission also shows competition with other information in the same population [36,37].
+In [33], competing strains in heterogeneous networks were studied, and the existence of an
+epidemic threshold in the presence of other strains in the susceptible-infected—susceptible (SIS)
+model was confirmed by using the heterogeneous mean-field approach. In [38], the Miller—Volz
+model [28-30] was used to study two competing products within the same market. Their model
+shows that, if the two products have the same word-of-mouth marketing rate on the network,
+then the ratio of their market shares is exactly the same as the ratio of their advertisement
+rates. In these competitive spreading models, two or more viruses are exclusive: a node cannot
+be infected by two viruses simultaneously, that is to say, if a node (individual) is infected
+by one virus, it cannot be infected by the other one. This type of model has implications for
+many applications, such as product adoption (e.g. Apple versus Android smart phones), virus
+antidote propagation, opposing opinions about a subject, where people are for, against, or neutral,

@@ -1,0 +1,25 @@
+At high temperatures, the magnetization curves, as expected, have an equilibrium shape: they a)
+are exactly described by formulae (2.12)-(2.14). Evidently, this is due to the fact that foro ~1
+all relaxation times are of the order 19 (figure 5a), and, therefore, in the considered frequency
+range wty <1 these relaxation times are much shorter than the period 27/w of the exciting field.
+Notably, the spin-flop transition under intense thermal fluctuations is completely smeared.
+A decrease of temperature leads to the so-called dynamic magnetic hysteresis: at o = 10 and
+20, the magnetization curves turn into loops, provided the particle has a spontaneous magnetic
+moment, see lines for 6 4 0. Obviously, in the frequency range under consideration, this effect is
+associated exclusively with the interwell relaxation mode. The point is that all the other relaxation
+times of the spectrum are of the order of 1, irrespective of temperature and field strength;
+therefore, the corresponding modes do not play any significant role in the magnetic response at
+wt <1. The behaviour of interwell relaxation time 11, as shown above, is qualitatively different.
+The exponential growth of 11(0,q) with the increase of o leads to the fact that this time in a
+certain range of values q becomes much greater than the period of the field. In this case, the
+system has no time to relax to an equilibrium state, and in result the relationship between the
+average magnetization m and the field q is no longer single-valued: dynamic hysteresis arises.
+In the frequency range wt) <1, a necessary condition for that effect is the change of m when
+the AFM vector switches between two energy wells. At 6 =0, it does not hold, that is why the
+magnetization curves demonstrate not hysteresis. However, at higher frequencies, when not only
+the interwell but also other relaxation modes contribute to the magnetic response, hysteresis can
+be observed even at 8 = 0.
+In qualitative agreement with the experimental data [24], an increase of the parameter o
+(cooling down of the system) leads to the growth of the half-width q, of the hysteresis loop. This
+quantity, which is appropriate to call the dynamic coercivity, can be estimated setting wt) (0, qc) ~
+1 (it means that increase of frequency results in enhancement of qc) or qc may be calculated exactly

@@ -1,0 +1,24 @@
+F(y;k) =| ———__ and K(k) =F (55k) a
+0 V1—R sin? t 2 1S
+5
+are the elliptic integrals of first kind (see, for example, [46] for more details on these functions and : o
+their properties). : a
+The core of the proof consists in showing that these dynamical modes together with the :3
+infinitesimal generators of homotheties, translations, rotations and hyperbolic rotations (i.e. those : &
+1 Xo
+
+transformations preserving the set of ellipses), form a basis of L?(R/2zZ). This is one of the main
+difficulties (maybe the hardest one) involved in the extension of the perturbative result in [11] to
+the case of perturbations of any ellipse, as studied in [43]. While in the former case, one can take
+advantage of the fact that these functions can be considered small perturbations of the Fourier
+modes, in the latter new strategies need to be exploited.
+
+In [43] we consider analytic extensions of the action-angle coordinates of the elliptic billiard,
+more specifically, of the boundary parametrizations induced by each integrable caustic (these
+functions can be explicitly expressed in terms of elliptic integrals and Jacobi elliptic functions).
+A detailed study of their complex singularities and the size of their maximal strips of analyticity
+allowed us to deduce their linear independence (both for finite and infinite combinations) and,
+by a suitable codimension argument, to show that they form a complete set of generators, thus
+completing the proof that they are a basis of L?(R/2xZ).
+
+(b) Local Birkhoff conjecture for nearly circular domains (theorem 4.9)

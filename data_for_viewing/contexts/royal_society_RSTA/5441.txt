@@ -1,0 +1,24 @@
+oscillators.
+
+Synchronization phenomena represent nowadays a huge research field, and the
+next contribution by Rubido et al. (2009) also focuses on synchrony, in this
+case arising in a set of light-controlled oscillators (LCOs). An LCO is a realistic
+pulse oscillator whose behaviour resembles the integrate-and-fire oscillator, but
+
+Phil. Trans. R. Soc. A (2009)
+
+
+3154 O. Descalzi et al.
+
+differs by the fact that its discharge is not instantaneous. The authors study
+experimentally and numerically a system composed of coupled LCOs in different
+configurations, including local coupling. Synchronization times are quantified
+as a function of the initial conditions and the coupling strength. For each
+configuration, the number of stable states is determined by varying the different
+parameters that characterize each oscillator.
+
+The next two contributions show that information theory provides novel
+effective tools to investigate important multi-disciplinary problems such as the
+characterization of pseudo-random number generators (PRNGs) via complexity
+and randomness quantifiers and the characterization of high-order correlations in
+the information transmitted by neuronal systems via Shannon information theory.

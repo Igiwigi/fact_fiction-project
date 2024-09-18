@@ -1,0 +1,25 @@
+being concerned about its magnitude. In contrast to this, the TO imposes strict conditions on
+both the magnitude and phase characteristics of S;; and S12, as we explain below, which in turn
+calls for anisotropic « and 4p MTMs. The scattering matrix/FT approach avoids these problems
+altogether and is able to work with e-only materials for the lens and reflectarray problems, and is
+realizable with complex (¢, j1) materials that have wideband characteristics and do not suffer from
+the shortcomings of the MTMs.
+
+A simple example of FT is the transformation of the spherical fields emanating from a point
+source into a planar phase front by using a flat lens whose behaviour mimics that of a convex :
+lens, for instance. The same problem when tackled by the TO leads to a relatively complex design =
+and calls for MTMs that are not only difficult to realize, but lead to performance characteristics 3
+that are not on par with the FT-based design, as we will demonstrate in this paper. This is true :
+despite the fact that the latter design uses realistic materials, which can either be fabricated in nee)
+the laboratory, or are commercially available off-the-shelf that are modified slightly to realize the :
+desired material parameters. Such materials are wideband as well as relatively insensitive to the [4
+polarization and incident angle of the incoming wave. DN
+
+Finally, we will point to a new interpretation of the TO algorithm that has recently been [5
+employed to design absorbers that help reduce the RCS of real-world targets. An example based aed
+on this type of design strategy will be included in the paper. .
+
+The concept of FT has been introduced in recent literature by Liu et al. [2] to manipulate wave
+propagation, and it has been explained in [2] how the FT they proposed complements the TO
+algorithm. (The reader is referred to the work cited above for further details.) It is useful to point
+out, however, that the FT approach introduced in this work differs from the one presented in [2],

@@ -1,0 +1,24 @@
+constant wave phasespeed (cf. [5,14]). With w and k assumed to be locally constant, (4.4) can
+
+be written as
+
+(@ —kY)V7 Wy + kV? Wz =0. (4.6)
+
+With respect to applications in water waves, this equation provides the basis for the method
+introduced by Dean [30] for computing the kinematics of nonlinear waves, albeit specifically for
+
+irrotational motion (2 =0) when (4.6) reduces to V7W =0, matching (4.2). This was extended : =
+by Dalrymple [31] for nonlinear waves interacting with a rotational current. Although it may be : =
+possible to formulate the governing equations in terms of p or W alone, as in (4.6) for W, it should LB
+be noted that the two quantities are in fact related via the dynamic surface boundary condition : =
+(2.1e); we remark that although (2.1e) appears quite innocuous, it transforms to a highly complex, : a
+nonlinear Bernoulli relation when expressed in terms of the streamfunction. 74
+
+In the present approach, attention is directed at the pressure as specified by (2.1b), and it is : >
+assumed that (4.6) can be solved, as required, even for rotational flow. Returning to (2.1b), and : =
+employing (4.1), enables the first equation to be expressed as : S
+
+1 a tc)
+
+1
+aha 5h — a [aM +¥2)— ww] AZ,

@@ -1,0 +1,25 @@
+along the axis of the cylinder and the slowness of the flow, rather than a perturbation parameter
+that depended on the geometry which was a measure of the non-circularity of the cross-section, to
+study the flows of Rivlin—Ericksen fluids.> Rivlin—Ericksen fluids fall under the category of what
+
+1 The following comments are not meant to diminish whatsoever the significant contributions of Rivlin to non-Newtonian
+fluid mechanics. It is, however, necessary to view his early efforts with the insight and hindsight that several decades of
+research, that have been built upon his innovative studies, offers. Rivlin-Ericksen fluids cannot stress relax, a characteristic
+exhibited by a very large class of non-Newtonian fluids, nor can they exhibit instantaneous elasticity. While this limits the
+scope of application of Rivlin-Ericksen fluids, general power-law fluids that are a special subclass of Rivlin-Ericksen fluids
+are useful in describing a reasonably large class of non-Newtonian fluids. Also, other than in the case of the Navier-Stokes
+model and power-law fluid models, that are Rivlin-Ericksen fluids of order one, one will encounter serious problems with
+regard to the specification of boundary conditions for the boundary-value problems for higher-order Rivlin-Ericksen fluids,
+as the equations governing the flow lead to partial differential equations of order n +1 for fluids of order 1. This, in fact,
+led investigators to study very special boundary-value problems where terms of order greater than two in the equation
+were absent or by using formal perturbation methods to solve boundary-value problems without recognizing that they were
+treating singular perturbations as though they were regular perturbations. Also, while the early attempt by Greensmith &
+Rivlin to determine pressure hole errors was an important investigation, they incorrectly concluded that such errors do not
+exist. Also, Rivlin’s work on multiple integral representations with Green and others does not have much utility as it is well-
+nigh impossible to design an experimental programme to determine uniquely the material properties of the fluids defined
+using the integral representations. The equations that they engender are also very computationally challenging, to use and
+this is why no initial-boundary-value problems that correspond to realistic practical problems have been solved within the
+context of such models. Rivlin’s recognition of the analogous behaviour of the flows of non-Newtonian fluids and turbulent
+flow of a Navier-Stokes fluid, namely the similarity in the structure of the secondary flow in tubes of non-circular cross-
+section, while interesting, is at best a very superficial analogy and thus his conjecture that one can use this to develop models
+for the turbulent flow of a Navier-Stokes fluid is a gross over-simplification at best.

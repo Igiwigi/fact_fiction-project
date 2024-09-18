@@ -1,0 +1,25 @@
+shear, which is a more prevailing motion in the ocean surface layer than the turbulence-induced
+shear based on controlled laboratory experiments [18]. Indeed, this wave-induced drift is also a
+driving mechanism for Langmuir circulation [34,39-41], which is also a crucial factor in surface
+mixing. Therefore, it makes eminently physical sense for a parametrization of the non-breaking
+surface wave-induced vertical viscosity to include the Stokes drift explicitly.
+
+The importance of ocean general circulation models (OGCMs) is so high that it cannot be
+overemphasized. However, most OGCMs, if not all, had suffered from common problems such as
+the simulated sea surface temperatures are too high, the simulated mixed layer depth (MLD)
+in the upper ocean is too shallow, or the simulated subsurface temperature is too low in the
+summer time [42] especially for the Southern Ocean [43], until the non-breaking surface wave-
+induced vertical mixing was included into OGCMs [6] which much relieves the above-mentioned
+common problems. In fact, all these challenges indicate that the vertical mixing in the upper
+ocean has been underestimated. The weak point of the governing equations of all OGCMS is the
+turbulence closure schemes which have very high uncertainty. Validation of turbulence closure
+schemes seems a solution to determining which kind of scheme should be selected. However,
+the only option for turbulence measurements in the open ocean was the indirect dissipation rate
+[44] before the HHSA is available. The in situ observation results [44], which show the dissipation
+rate decays exponentially in the upper 50 m, confirmed the original parametrization scheme [6].
+To show the effects of the non-breaking wave-induced mixing of equation (5.8), here we design
+four sets of numerical experiments to test the sensitivity of By to different models and turbulence
+closure schemes. For each set of numerical experiments, the original OGCM was spun up for
+10 years, and the model ran with and without By separately for 1 year more. All four OGCMs
+including MOM4, NEMO, ROMS and POM are popularly used all over the world. MOM4, ROMS
+and POM employ KPP [5], KPP and Mellor—Yamada [4] turbulence closure schemes, respectively,

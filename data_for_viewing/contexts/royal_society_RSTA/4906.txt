@@ -1,0 +1,25 @@
+
+The original paper of Maurer & Rhodes [45] characterizing the functionally complete groups
+is not algorithmic, but Horvath [43] gave an algorithm to calculate a representing polynomial for
+a given function and gave several upper and lower bounds for minimal length and for minimal
+depth of these polynomials. While there exist some results on the length of unary polynomials
+over finite groups [58], no estimates could be found in the literature for the n-ary case until
+recently [43,59]. This seems surprising as groups algebraically capture the notion of symmetry
+and play a fundamental role in physics, mathematics and numerous areas of computer science.
+
+Finitary universal computation is defined here as the set of computational properties that follow
+from functional completeness. It includes the capacity to implement arbitrary mappings between
+finite sets of arbitrarily large size using polynomial functions, a familiar property of Boolean
+functions. This follows from the fact that functionally complete algebras A can implement any
+f: A" > A with a polynomial for all n > 0, and hence can implement any function f’: A" > A”
+component-wise for all m,n > 0.
+
+In the presence of SNAGs, there are many ways to implement finitary analogues of universal
+computation, as we now explore, with new results in §4c. Frohlich’s theorem [60] states that every
+function f: G > G with f(1) = 1 is a product of g(x) := axa" (inner automorphisms, a € G) under
+pointwise multiplication if and only if G isa SNAG or has at most two elements. For SNAGs, there
+is the following analogue of the Stone—Weierstrass theorem significantly generalizing Frohlich’s
+result.
+
+Theorem 4.1 (Stone-Weierstrass property of SNAGs (Maurer-Rhodes [45])). Let G be a finite
+group and X be any finite set, both with three or more elements. Consider the set of functions GX from X to

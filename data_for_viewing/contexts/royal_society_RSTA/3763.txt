@@ -1,0 +1,25 @@
+while calculating the starting field to five cells per wavelength, followed by linear interpolation.
+Part of a Hanning window was used to gradually allow the pressure to go to zero towards the
+top of the calculation domain in order to prevent spurious reflections. Analysis is performed in
+octave bands. Twenty sound frequencies were individually simulated with the hybrid analytical—
+CM-GFPE model to constitute each band.
+
+Numerical results depicted in figure 8 show a rather complex sound pressure level distribution
+along the valley. In both ground type scenarios, significant shielding is observed directly near
+the source side of the valley. However, strong differences are predicted further across the valley.
+Starting from about the centre of the valley, near-free-field sound propagation is predicted at
+all octave bands for the rigid ground, while there is a much stronger reduction along the
+grass-covered valley. Effects become increasingly pronounced with increasing sound frequency,
+consistent with the fact that surface impedance decreases with frequency. These numerical
+simulations indicate the importance of ground type in the case of ridge wind turbines emitting
+sound into a valley. This behaviour deviates from wind turbine sound propagation above flat
+ground, where the effects of ground type are typically much less pronounced [36].
+
+An estimation of the total wind turbine received sound pressure level is shown in figure 9,
+for both ground types. A (relative) spectrum is considered to allow balancing the importance of
+the different octave bands, as they behave quite differently during propagation across the valley.
+To perform this analysis, the mean over a large set of spectral source power level measurements
+near large horizontal-axis wind turbines with a power production of more than 2 MW, as reported
+in [15], is used. This spectrum is repeated in appendix B.
+
+When assuming a total sound power level of 105dBA, the 35dBA broadband exposure

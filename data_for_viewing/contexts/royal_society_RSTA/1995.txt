@@ -1,0 +1,25 @@
+analysed with particular attention to Reynolds number effect on fluid paths. The two modelled
+polymers are polystyrene (PS) and acrylonitrile butadiene styrene (ABS). For these two materials
+one shall consider the parameters reported in table 2, so as to describe viscosity according to the
+CY model [37]: with the choice of a parameter equal to 1 — 1, the CY model is further simplified
+
+and can be rewritten as follows:
+Ho
+
+=o 4.1
+Mh Thape (4.1)
+
+Before presenting any result, it is important to highlight how the physical quantities have to
+be converted into lattice units. As stated before, in fact, LBM is based on a non-dimensional
+approach, thus, viscosity and other physical parameters have to be converted into their respective
+values into the LB framework. In order to do that, some conversion factors have to be specified.
+More specifically, according to SI units, one has to define length, time and mass conversion factors
+which allow passing from the real to LB world and vice-versa. In this work, the PS has been
+chosen as a reference, thus, the kinematic viscosity at zero shear rate is assumed to be equal to
+
+
+0.20
+
+0.16 |-
+
+= 0.12,

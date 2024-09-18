@@ -1,0 +1,25 @@
+very small and the relationship between Sx and x is less apparent.
+
+5. Findability: hybrid density matrix renormalization group-X algorithm
+
+Having seen that the localized eigenstates of the XX model can be represented reasonably
+
+efficiently by MPS, we turn to the issue of finding such representations using the DMRG-X : =
+method. In performing DMRG-X for this relatively simple model, we found that the algorithm : S
+was having great difficulty converging for certain disorder realizations within a particular range : 2
+of parameters. The problem is not in the ability to represent such a state as an MPS, as better MPS aed
+representations can be constructed from the exact eigenstate, using an algorithm by White [46]. 22
+Note that this algorithm is not the only way and may not be the optimal method to construct such ne]
+MPSs, and in fact there has been much work on MPS representations for known states [47-49]. : fe
+White’s algorithm iteratively applies pairwise rotations to an initial product state MPS, truncating : S
+the bond dimension as necessary, to construct a variational approximation—not necessarily the [6
+
+best one—to the exact eigenstate. Given such an MPS as an initial state, performing a DMRG-
+X sweep will actually worsen the state when in the problematic parameter range (W ~ 1.5). The
+typical energy variance o7 of the DMRG-X-obtained eigenstates is shown for L = 32 as a function
+of W and x in figure 3a. There is a particular region 1 < W <2 in which variance remains high
+and the algorithm fails to converge onto an eigenstate. A significant portion of samples within
+this region did not show a monotone decrease in variance with increasing x, meaning that the
+optimal state was never being reached.
+
+A problem occurs when there is a near degeneracy between two many-body eigenstates that

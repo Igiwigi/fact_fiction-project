@@ -1,0 +1,25 @@
+
+with initial datum (y?, w°, xe), vd), control u, and By) =(1/N) ry 5 (xv?) is such that W, (AX, pw) >0
+for N—> +00.
+
+Proof. Note that the optimal controls wx, of the finite-dimensional optimal control problems
+(5.11)-(5.12) belongs to X = L\((0,T],U), which is a compact set with respect to the weak topology
+of L!. Hence, (uxX)Nen admits a subsequence, which we do not relabel, weakly convergent to
+some u* € L!([0, T],U/). Moreover, as done in the proof of theorem 3.3, we can associate with each
+of these controls a sequence of solutions ¢y(t) = (yn(t), wn (6), MN (E)) == (Yn (t), WN (E), Xn (b), UN (E))
+
+of (5.4) uniformly convergent to a solution ¢,(t) = (y.(t),w.(#), ux(#)) of (5.2) in the sense of : >
+definition 3.1 with control u*. In order to conclude that u* is an optimal control for (5.4), we |
+need to show that it is actually a minimizer of F. For that, we use the fact that F is the -limit of : S
+the sequence (Fy)Newn as proved in theorem 5.3. Let u € X be an arbitrary control and let (11y)Nen : 3
+be a recovery sequence given by the I’ — limsup condition, so that a
+F(u) = lim sup Fy (un). (5.13)
+N00
+
+By using now the optimality of (uy))Nen
+
+lim sup Fy (uy) = lim sup Fy (uy) = lim inf Fy (uy). (5.14)
+N00 N00 N-0o
+
+Applying the  — lim inf condition yields
+lim inf Fy(uyy) = F(u*). (5.15)

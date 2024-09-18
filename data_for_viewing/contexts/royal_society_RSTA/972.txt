@@ -1,0 +1,25 @@
+
+Figure 2. Minimal speed above which a front connecting the two uniform steady states is possible. It has been obtained by
+solving numerically equation (2.4). Fixed parameters are « = 6 =D=1and y =0 or 0:5 (indicated in the figure). The
+straight lines are the small-z approximations given by equation (2.5). The dots denote results obtained by numerical simulation
+of the equations using an Euler forward difference scheme, with as initial condition a step function. (Online version in colour.)
+
+The above equation has been solved numerically. The minimal speed cm =cm(t) is shown in
+figure 2 for two different values of y together with their local approximation
+
+cm =2—(y +2)t + O(t?) (t > 0). (2.5)
+
+
+The expression (2.5) clearly illustrates the fact that the minimal speed is decreasing with the ls |
+delay. Equation (2.4) is obtained as follows: first, we switch to travelling wave coordinates by
+
+substituting z = x + ct in equation (2.3), then we linearize the resulting equation around u = 0 and 3
+examine the decay to zero of u(z) as z—> —oo. A front that decays to zero in an oscillatory fashion 1S
+
+ia
+is of no interest since u is a population and thus needs to remain positive. The interesting result [8
+
+from an ecological point of view is that the minimum speed decreases compared to equation (2.2)
+as the delay increases.
+
+3. Bistable travelling fronts

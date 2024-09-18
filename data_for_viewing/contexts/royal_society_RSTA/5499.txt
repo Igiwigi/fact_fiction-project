@@ -1,0 +1,25 @@
+
+The feedback between digital models located at the cyber space level and real objects
+positioned at the physical level is implemented to verify the type, quality and associated
+functionality of the data obtained in simulation. The data about the actual work of the equipment
+can be used in the analysis of emergencies for predictive analytics and machine learning [37].
+Moreover, the tracking of physical objects can enable control of the key parameters of both
+individual equipment and the entire production system work [1].
+
+For this purpose, a data/information infrastructure has to be implemented. It allows all
+technological equipment to be connected and interoperate. In this project, this infrastructure is
+provided by the Industrial Internet-of-Things (IloT) platform Winnum [38].
+
+As a matter of fact, this platform allows counting on monitoring data that is located in the
+cyber space and is associated with specific models of equipment, processes and production plans
+(schedules), which together serve as a basis for the digital twin of the described production
+system. The IIoT platform allows the integration of third-party equipment, e.g. working with
+CNC equipment provided by other manufacturers, given that this equipment has the adequate
+process interface, special connectors that work e.g. with their web-interfaces.
+
+A physical object to be manufactured in the cyber-physical platform is called here ‘smart
+product/smart workpiece’. As a matter of fact, the smartness of the product consists in this
+research project of the capability of the physical object to provide the operator of equipment,
+the production supervisors, the maintenance technicians, the production managers, and all
+components of the platform (on all three levels) with real-time (current) data and information
+necessary for performing decision-making processes and their functionality, at the corresponding

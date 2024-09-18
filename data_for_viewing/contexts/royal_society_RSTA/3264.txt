@@ -1,0 +1,25 @@
+layer-liquid phase’ phase transition boundaries, respectively. As this takes place, the mushy layer
+is filled with the solid and liquid material. In addition, solid phase structures in the form of
+dendrites, nuclei and more complex formations evolve in such a layer and completely compensate
+its supercooling. In this case, the mushy layer is described by means of the quasi-equilibrium
+model [8-10]. We consider the case when the temperature distributions in the solid phase (Ts)
+and mushy layer (Tm) can be approximated by the linear functions
+
+Ts(z, t) =To(t) + Ci(f)z, 0<z<a(t), 11
+and T(z, t)=Ty(£) + To(t)z, a(t) <z < b(t), en)
+
+where To(t) is the temperature at z=0 (e.g. atmospheric temperature), and C,(t), Ti(t) and
+T2(t) represent the time-dependent functions found below. The linear form of the temperature
+profiles (2.1) follows from the fact that the temperature relaxation time is many times smaller
+than a characteristic time of the phase interface motion or than a characteristic relaxation time of
+solute diffusion. Note that a linear temperature distribution has been observed in a number of
+experiments (see, among others, [26-29]).
+
+Let us describe the mass transport in the mushy layer by means of the Scheil equation [30,31]:
+
+a
+ppt — P)Cm) =O, alt) <2 < b(t), (2.2)
+where ¢(z, t) is the solid fraction and Cy(z, t) stands for the solute concentration (brine salinity in
+
+the case of sea water and ice). Note that equation (2.2) satisfies experimental data in a broad range
+of experimental conditions [1].

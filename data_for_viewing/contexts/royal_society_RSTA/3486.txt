@@ -1,0 +1,24 @@
+that there is a considerable amount of error checking and error handling involved. In Cogent, the
+treatment of values of union type (such as the result type in the example, which has two variants,
+Success and Error) has to be exhaustive. From a correctness perspective, this has the advantage
+that it statically ensures that all errors are handled. However, mostly, the error-handling code
+just passes the error it received from the callee back to the caller after freeing all the memory
+allocated in the function so far. These default situations could be expressed much more concisely
+by adding specialized language constructs. Owing to Cogent’s type system, the compiler even
+knows which objects have to be deallocated before returning, so the default clean-up code could
+be automatically generated.
+
+
+Independent of the language, we cannot always avoid serialization and deserialization of data.
+In fact, a significant portion of file systems code is typically concerned with this monotonous and
+error-prone task. Data description languages address exactly this problem by generating the code
+automatically given specifications of the serialized and deserialized format. Following a similar
+approach as PADS [71], we are currently working on adding language-level support for data
+(de-)serialization to Cogent.
+
+The current version of Cogent already demonstrates the benefits of expressive type systems
+for automatic verification. This is not surprising. After all, type checking asserts properties of the
+code at compile time, and the more details are encoded in the type system, the more information
+we have. Cogent’s type system at the moment only scratches the surface of what is possible in this
+respect, and it will be interesting to investigate this further by extending Cogent’s type system to
+support refinement or even dependent types.

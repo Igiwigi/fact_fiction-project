@@ -1,0 +1,24 @@
+equation from which the effective eddy scale could be obtained. At the time, before the arrival
+of the digital computer, this idea could not be properly tested. However, the late 1960s and
+
+early 1970s saw a burgeoning of such ‘two-equation turbulence models’, e.g. [21-23], that (as the Dos
+numerical capabilities of computational solvers progressively expanded) were applied to mimic : =
+increasingly complex practical turbulent flows. Sy
+
+Success in the computational modelling of such flows was by no means always achieved, a
+however. Besides the considerable empiricism embedded in any of the scale-determining ty
+transport equations, the assumption that the behaviour of turbulent flows could be modelled via : _
+an assumed eddy viscosity was itself a highly limiting concept that became less and less tenable : Ss
+as attention shifted to flows with increasingly complex strain fields. Indeed, in many cases, there : S
+would be the added complication of force-field effects such as buoyancy, too. In fact, from the : Ss
+1930s, physicists had been seeking ways to approximate the turbulent stresses by routes that did :&
+
+not assume a linear connection between strain rate and Reynolds stress. Proposals were advanced
+for determining all relevant second- and third-moment turbulent velocity products directly from
+transport equations, e.g. [24]. There was, however, no prospect (or risk) of these proposals being
+tested: their advocates were purely armchair explorers! J. C. Rotta is the person who did most to
+cut these fanciful ideas down to size. He proposed [25] that, in addition to a scale-determining
+equation, one should simply solve transport equations for the Reynolds stresses. Indeed at least
+one of his proposed approximations for processes that could not be handled exactly is still
+widely used today. Current achievements with such models are summarized inter alia in a recent
+textbook [26].

@@ -1,0 +1,25 @@
+——_— : 21
+ae (ta) 6.21)
+
+Returning to (5.15), we thus have the following theorem:
+
+Theorem 5.1. Let p > 3 be prime. Then
+
+1 1 \F 2 foe a) WP! fog a) 21+ 1) trar42(Tp) + 1)
+oe L(= = -2) 5.22)
+1 » ( 1x0) ( _ THI
+PHP Sa, \2 k+2\ k & \k-2) (k + 21+ 2)p
+
+The fact that our final formula for the moments (in the d=3 case) can be expressed so
+cleanly and succinctly suggests that an alternate point of view should exist that produces the
+same formula more directly. Indeed, A Diaconu & V Pasol (2014, personal communication) have
+derived an equivalent formula using multiple Dirichlet series over finite fields, though perhaps a
+simpler approach can be found.
+
+We list the first 10 moments in table 22.
+
+It appears, from our numerical data, that (5.22) also holds for Fj, if k < 9, i.e. if we replace p with
+any odd prime power q, whether divisible by 3 or not. For k > 10, one would need to adjust the
+terms tr2),2(T)). For example, for k= 10, and q= Pp, it appears from our tables that one should
+replace t(p) by 2t(p*) - t(p). We do not attempt to address the general formula here since the
+above suffices for the purpose of testing the Andrade-Keating conjecture, which does not see the

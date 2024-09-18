@@ -1,0 +1,24 @@
+Therefore,
+
+m(t) =; 1[t — 8 + By (2"*(5))],
+
+since (5) =z'*(5). We note in passing that, for t > 6, f — 6 + ®,,(z'*(5)) € (0, +00) and, hence, it
+belongs to the domain of #,, 1 by step 3.
+
+
+By step 2, we deduce that
+Z(t) < Ot 6+ Gy, (2"(6))], ford <t<T.
+
+This estimate holds true for all 0<6 <6d,. We will take liminfs_,9+ on both sides of the
+inequality, recalling that lim infs_,9+ =lim,_,9+ infp<s<~. We will use the following facts: ®,,
+and &), 1 are decreasing diffeomorphisms, and, since z’*(5) > Rj, for 0<6 <6, and (z"*)' <
+G,(z"*), it follows that, at least in the interval (0,6;,), tr z'*(t) is non-increasing. However,
+we would like to have z’*(8) <z'*(0), 0<6 <6d,. If z*(0)=+00 then this inequality follows
+trivially. Otherwise, if z’*(0) < +00, this means wo €L?(T?). Recall hypothesis 2.4, of theorem
+2.4, where we assumed, in particular, that g’* € L©((0,T); L?(T?)). Then we can conclude, using
+standard energy estimates, just as we did in the proof of lemma 3.1, that w”* € L®((0,T); L?(T2)) A
+L?((0,T); H!(T?)). Since we also have u"* € L©((0, T); H!(T?)), see again the proof of lemma 3.1, we
+find dm € L?((0,T); H~1(T?)). Therefore, w”* € C°([0, T]; L2(T?)) and, hence, z”« is a continuous,
+non-increasing function on the closed interval [0, 6;]. We note in passing that this analysis holds
+for each fixed vx.
+Thus, in light of these considerations, we have

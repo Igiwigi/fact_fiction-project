@@ -1,0 +1,25 @@
+'=FOG(x,);8, D(x, 1) = UD
+
+1—(1/2v)W(x, t)’
+
+where
+
+a, 1 [a _@-y
+Te) = [-. Fly, 0) exp ( = ) dy
+
+denotes the general heat flow. Note that the length scales /2at cancel out because of (4.2). In the
+case of the Burgers equation, this last form provides the general solution.
+
+Before closing this subsection it may be in order to emphasize the following fact. In terms
+of the scaled velocity potential @(&), the exact solution is given by = —2v log(1 — (1/2v)¥),
+whose leading-order approximation agrees with the scaled heat flow @() ~ Ge). This confirms
+the near-identity nature of ®(é).
+
+(b) 2D Navier-Stokes equations
+
+In 2D incompressible flows, the source-type solution is given by the Burgers vortex, which is not
+only near-Gaussian, but also exactly Gaussian. Because of this peculiarity, the final steady state
+does not contain any useful information regarding the nonlinear terms. Hence, it is impossible
+to lift (or generalize) the final state to find a more general class of solutions and we end up with
+obtaining the linearized solution only. Curiously enough the better understood 2D Navier-Stokes
+equations defy the current approach to gain some information about their solutions.

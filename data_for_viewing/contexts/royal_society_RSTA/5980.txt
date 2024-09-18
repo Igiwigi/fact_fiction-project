@@ -1,0 +1,25 @@
+using another common representation of the nuclear wavepackets employing an expansion
+in terms of time-dependent Gaussian functions [25-33]. This representation has the strong
+advantage that it avoids evaluation of the Hamiltonian integrals over multi-dimensional grid
+by using Gaussian integration when possible, or by using a local approximation motivated by the
+fact that Gaussian functions have a limited spatial extension. This approach is particularly useful
+for on-the-fly simulation of molecular systems for which the potential energy surfaces are not
+known analytically (see for instance the integrals’ approximations described in [34-36]). However,
+a severe drawback of the Gaussian expansion is that Gaussian functions are not double-valued
+functions. A general approach to solve this difficulty is to remove the GP from the adiabatic states
+by using an extra phase factor [6]. Nevertheless, choosing the right phase factor requires prior
+knowledge of the CIs locations. However, their locations are generally not known in on-the-fly
+simulations of real molecular systems. Thus, it is not always possible to cancel the GP of the
+adiabatic states [37]. Another drawback comes from the fact that the diagonal elements of the
+non-adiabatic coupling matrix, also known as diagonal Born—Oppenheimer corrections (DBOCs),
+are not often calculated in electronic structure packages and are furthermore non-integrable
+unless special basis functions are utilized [38,39]. Thus, DBOCs are also often overlooked. Despite
+these difficulties, time-dependent Gaussian functions are very often employed in non-adiabatic
+dynamics for the advantages they provide in on-the-fly quantum dynamics.
+
+The difficulties appearing at CIs can in principle be resolved by applying a diabatization of
+the electronic states [40]. However, only approximate quasi-diabatization are possible [36,41,42],
+which introduce an additional source of error. Here, we focus on an alternative representation
+
+
+of the electronic states: the moving crude adiabatic (MCA) representation [43-45]. In the MCA

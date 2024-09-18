@@ -1,0 +1,25 @@
+environment [24]. Here, the normalization constant Fo reads
+
+1, ifp» =1fori* =1 or =N and pj =0Vi¢i*
+Po=44 (2.5)
+By otherwise.
+
+If our system lies in a very ordered state, which occurs when almost all the p;-values are
+zeros except for a particular state k ¢ i with py = 1, we have a normalized Shannon entropy H ~ 0
+and a normalized FIM ¥ ~ 1. On the other hand, when the system under study is represented
+by a very disordered state, that is when all the p;-values oscillate around the same value we
+obtain H ~ 1, whereas F ~ 0. One can state that the general FIM behaviour of the present discrete
+version (equation (2.4)) is opposite to that of the Shannon entropy, except for periodic motions
+[22,23]. The local sensitivity of FIM for discrete PDFs is reflected in the fact that the specific
+‘i-ordering’ of the discrete values p; must be seriously taken into account in evaluating the
+sum in equation (2.4). This point was extensively discussed by Rosso and co-workers [22,23] in
+previous works. The summands can be regarded as a kind of ‘distance’ between two contiguous
+probabilities. Thus, a different ordering of the pertinent summands would lead to a different
+FIM value, hereby its local nature. In this work, we follow the lexicographic order described by
+
+
+Lehmer  (http://www.keithschwarz.com/ interesting /code/factoradicpermutation /Factoradic
+Permutation.hh.html) in the generation of Bandt-Pompe PDF (see §2c). Given the local character
+of FIM, when combined with a global quantifier as the Shannon entropy, conforms the Shannon—
+Fisher plane, H x F, introduced by Vignat & Bercher [25]. These authors showed that this plane
+is able to characterize the non-stationary behaviour of a complex signal.

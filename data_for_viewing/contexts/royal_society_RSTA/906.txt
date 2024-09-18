@@ -1,0 +1,25 @@
+are the normalized eigenvectors of M~!K. For simplicity, we assume that the damping matrix
+B can be expressed as a linear combination of the mass and stiffness matrices and, therefore, is
+also diagonalized by the matrix P. This diagonalization process is equivalent to expressing the
+particle displacements x; in equation (5.1) in terms of modal displacements un, using the relation
+Xj = Pintn, and then left-multiplying both sides by P™, resulting in
+
+PimMiPintin + PimBijPjntin + PimKijPinun + Pim TijkPinPauna = PimFi(t). (5.4)
+
+The diagonalized system in equation (5.4) does not provide any significant numerical advantage,
+because I”jj, is highly non-local in the modal basis (ie. modes far apart in frequency interact as
+strongly as nearby modes). However, we can see the motivation for this approach if we look at
+the experimental results in the modal basis (figure 3a). In this basis, most of the motion occurs
+in the second extended mode and in the localized mode. In fact, these modes hold around 90%
+of the system’s energy (figure 3b). Therefore, we can restrict our description to these two modes
+without incurring a significant error. To construct this reduced description, we consider equation
+(5.5) for the indices m = E and m=L, where E and L are the mode numbers corresponding to the
+localized and second extended modes, respectively. We also prescribe the values of uy, and 1) to
+be zero for all values of n and | different from E and L. With these restrictions in place, equation
+(5.4) can be rewritten as
+
+my it, + by, + (ky — 2yug)uy = F) cos(2zfjt) (5.5)
+
+and
+meiig + bette + keug — yuz =0. (5.6)
+In this reduced description, uj, and ug are the displacements of the localized and

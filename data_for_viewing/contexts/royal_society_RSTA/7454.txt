@@ -1,0 +1,24 @@
+
+Proof. This assertion is merely a combination of the results of previous theorems. The
+given integrals must first be expressed as products of an LZ integral and an S integral, the
+values of the latter being —2 and —1 respectively by theorem 13. The expression for the
+first Z integral is given directly by theorem 15. The second is obtained by putting —P,,/r,.
+for Gj. in theorem 16, which gives a linear combination of integrals of the first type as
+a result. (L,+L,—L) can be taken as even, since the resulting terms vanish if this is not so.
+
+Comment. The above analysis expresses all the two-electron integrals required for atoms
+in terms of integrals of the radial factors of the single-electron functions and in terms of the
+Q coefficients. The Q coefficients are defined in terms of other quantities, but since only
+comparatively few are required, these will be tabulated and used as numerical data. The
+wisdom of this is illustrated by the fact that for extensive calculations on atomic states, up
+to those of 3p shell, only fifty such coefficients have been used. No general formula for the
+radial integrals can be given, since these might involve very different types of functions in
+different applications. However, for the case of the polynomial exponential functions
+which are used in the accompanying numerical investigations general formulas can be
+obtained and have been given in part II. Formulas for the corresponding single-electron
+functions are also given there, so that the analysis of this section has reduced the evaluation
+of all the fundamental integrals required for converging calculations of atomic wave
+functions to comparatively simple and stereotyped procedures.
+
+
+ELECTRONIC WAVE FUNCTIONS. VI 109

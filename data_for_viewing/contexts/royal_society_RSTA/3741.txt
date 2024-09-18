@@ -1,0 +1,25 @@
+
+Creative Commons Attribution License http://creativecommons.org/licenses/
+by/4.0/, which permits unrestricted use, provided the original author and
+
+THE ROYAL SOCIETY source are credited.
+
+PUBLISHING
+
+
+structure theory. We then ran 160000 NVE trajectories on a large slab of diamond, and the
+results are in reasonable agreement with experiment: they suggest that energy dissipation from
+surface hotspots is complete within a few hundred femtoseconds, but that a small fraction
+of CH3 does in fact undergo dissociation prior to the onset of thermal equilibrium. Second,
+we developed and tested a general procedure to formulate and solve the energy-grained
+master equation (EGME) for surface chemistry problems. The procedure we outline splits the
+diamond slab into system and bath components, and then evaluates microcanonical transition-
+state theory rate coefficients in the configuration space of the system atoms. Energy transfer
+from the system to the bath is estimated using linear response theory from a single long
+MD trajectory, and used to parametrize an energy transfer function which can be input into
+the EGME. Despite the number of approximations involved, the surface EGME results are in
+reasonable agreement with the NVE MD simulations, but considerably cheaper. The results a]
+are encouraging, because they offer a computationally tractable strategy for investigating :
+non-equilibrium reaction dynamics at surfaces for a broader range of systems. :§
+
+This article is part of the themed issue ‘Theoretical and computational studies of non- a

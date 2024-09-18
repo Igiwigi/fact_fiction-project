@@ -1,0 +1,25 @@
+are violated.
+
+
+1 depends on the state of subsystem 2, i.e. subsystem 1 observes subsystem 2 as it evolves, then
+there is only one unit rather than two. Accordingly, equation (3.20) tells us that the global EP
+rate can depend on this property of whether subsystem 1 observes the state of subsystem 2 as
+subsystem 1 evolves, even though the conditional distribution of subsystem 1’s final state given its
+initial state, Pla (tp) x(t), X2(t;)), is independent of the state of subsystem 2. In general, this effect
+of the unit structure on the EP will occur whenever the two subsystems are initially statistically
+coupled. See electronic supplementary material, appendix E for a discussion.
+
+Equation (3.21) applies to any unit structure. In addition, for any unit structure M* over a set
+of coordinates M C w, equation (3.15) and the fact that the union of a set of units is itself a unit
+means that «° — o™ > 0. Therefore using equation (3.21) to expand o™ gives
+
+o? = Yocum” >-arTM, (3.22)
+
+Equation (3.22) holds even if M* Cc .N“*, and at the other extreme, even if no unit in M* is also in
+N*.
+
+4. Strengthened second law for composite systems
+
+In general, to evaluate the in-ex sum of local EPs on the rh.s. of equation (3.21) requires detailed
+knowledge of the precise rate matrices during the process. However, following Landauer, the
+goal in this paper is to derive bounds that are independent of those details, depending only on

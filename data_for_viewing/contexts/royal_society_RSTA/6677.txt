@@ -1,0 +1,25 @@
+at zero incidence. The second problem corresponds with the case of a thin plate aerofoil
+which may, be at any incidence. In the particular case of a flat plate aerofoil g(x, z) becomes
+the constant ¢ over the plane of the aerofoil, where ¢ is the angle of incidence.
+
+OPERATIONAL TRANSFORM OF PROBLEM
+With axes as defined previously we introduce the Laplace transform, with respect to z,
+
+of the fundamental equation
+
+ae) ig 0p wo?
+
+Ox? * Oy? 027°
+Thus, if d(x, y) = ) e-'=4(x,y, Z) dz is the Laplace transform of ¢, then, using the fact that
+
+Jo
+
+with our choice of axes ¢, 04/0z are zero over the plane z = 0
+
+0d ig
+Ox? Fa = a8. (7)
+
+
+AEROFOIL THEORY. PARTS I AND II d 331
+
+The method can only be used effectively if a boundary condition for the transform equation

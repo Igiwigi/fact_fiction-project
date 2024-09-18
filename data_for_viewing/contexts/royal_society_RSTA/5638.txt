@@ -1,0 +1,25 @@
+
+Therefore, as mentioned earlier and from estimates (3.22), we deduce
+R
+G(s,0) — G(0,0) = lim, (G'(s,0) - G"(0,0)) =0 inc (10.8 +¢];H? (z)) , (3.41)
+>
+
+which in particular implies that 0,G(0,-)=0 in H-?(R/(LZ)). As a result of all the above, we
+conclude that G satisfies the boundary value problem:
+
+in 2-—AG=0, ond? d;G=0and | G(x) dx =0. (3.42)
+2Q
+
+But, G=0 the only solution to (3.42), which contradicts the fact that ||G||,(@) =1. This in turn
+completes the proof. |
+
+Eventually one observes that by virtue of lemma 3.4 the tensor (u” @ u") converges in the
+C°(@) norm to (wu @ wu) (in fact it converges in the C8 (2) norm for any B €(0,@)), with the
+uniform estimate ||u" ® u"||coa(q) < C||u ® ul|cva(g), where C is independent of 7. By means of
+
+
+estimates (3.35) and (3.36), one concludes that IP" || con 2) is bounded, and hence, one can extract
+a subsequence, also denoted P”, which converges to P € (2) in the C°(@) norm. Moreover,
+arguing exactly as in the proof of proposition 3.11, one can show from the above and equation
+(3.40):
+5 5

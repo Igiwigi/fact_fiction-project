@@ -1,0 +1,24 @@
+
+One feature of the low-altitude area scaling factors in the two climatic perturbation-based
+experiments, Esw and Epgw, is the decreasing scaling rate for dew point temperatures beyond
+20°C. In Egw, a gradual drop in sensitivity is seen for all percentiles, whereas in Epgw, it is a more
+rapid transition. While this may seem to conflict with a simple scaling argument, it may actually
+be qualitatively consistent with the scaling curves in figure 3: above a dew point of 20°C, the
+scaling curves do show a decrease in the sensitivity of hourly precipitation extremes to dew point
+temperature. We think this is likely a physical effect as the flattening of the scaling curves was also
+obtained in observed precipitation from Hong Kong, where there is ample data in the high dew
+point temperature regime [7]. Finally, we note that Egcm does not show a decreased sensitivity
+
+
+beyond a dew point of 20°C, and this may well be related to the fact that Egcy is rather cold Ee
+(and dry) and therefore has too little data in this high dew point temperature regime to derive
+
+the scaling factors (see also the dew point temperature ranges for each percentile at the bottom of 3
+figure 3). oS
+
+The scaling factors for the high-altitude area (greater than 400 m) reveal a surprisingly similar : gS
+behaviour for all three experiments (figure 4 def). They all show approximately CC behaviour ey
+up to a dew point of 15°C for all percentiles and higher scaling factors for the highest percentile, : 2
+peaking at 12-13% per degree at a dew point of 18-20°C. Beyond that dew point temperature 1a
+scaling factor appears to decrease, most visible for Egy and least visible for Egcm (see also 2B
+electronic supplementary material for sensitivity to interpolation). :3

@@ -1,0 +1,24 @@
+divided. The mean of this sample will be denoted by ,A,. Lf ¢ is even there is no centrally
+located systematic sample, but either of the two samples a half unit off centre can usually
+be taken as equivalent to a centrally located sample.
+
+Since there is only one centrally located sample for a given sequence or function, no mean
+square deviation corresponding to V[f,] can be calculated for a single sequence or function.
+The sampling error can only be expressed in terms of the difference of the mean of the sample
+from the mean of the whole sequence or function.
+
+(d) End-corrections
+
+Instead of taking the ordinary mean ,/, fora randomly located systematic sample, allow-
+ance can be made for the fact that the first and last terms are situated at distances from the
+ends of the sequence or function which in general differ from 4d. The simplest form of
+adjustment, and the only one which is ordinarily worth considering, is to assign a weight to
+the first term of ($d-+-r—4)/d in the case of a sequence and (4$¢+-7)/din the case of a function,
+and a similar weight of ($d+-r’—4)/d or (4d+7’)/d to the last term, where 7’ is the number
+or distance of the last term reckoned from the end of the sequence or function.
+
+We will call such a mean the mean of a randomly located systematic sample with end-
+corrections and will denote it by ,/,. If/ is not a multiple of d the divisor ,n, will be replaced
+by a non-integral divisor ,n/,. The mean square deviation v[h/,] can be defined as before,
+retaining ,n,. If the sequence is random, v[h/,] will not be an exact estimate of o?, but with
+a sequence of any length the difference will be of no consequence.

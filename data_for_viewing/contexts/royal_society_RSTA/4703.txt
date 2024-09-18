@@ -1,0 +1,25 @@
+ot Cyn
+This evolution equation can make sense in the set of probability measures depending on the 1g
+regularity of the potential W. However, if the potential is singular at the origin the well-posedness acy
+only happens in L? spaces (see [60,68,69] for more details). For steady configurations, we expect :s
+Vw =0 on the support of 1, owing to the formal energy dissipation identity for solutions, i.e. :
+
+d
+—E[wi] =— Vuiled
+qemu Je! Wil dur,
+
+where ju; is any solution at time t of (4.6) and y= W * ju; its associated potential. Therefore, the :3
+points on the support of a local minimizer jx of the energy E should correspond to critical points a
+of its associated potential yy. This fact is made rigorous in the following proposition. [3
+
+Proposition 4.1 ([64], theorem 4). Assume that W is a non-negative lower semi-continuous function : a)
+in Li, (RY). If pw is a dg-local minimizer of the energy, then the potential w satisfies the Euler-Lagrange : ~
+conditions given by ig
+
+@) WO) = (W * w(x) = 2E lH] wae. :3
+(ii) W(x) = (W w(x) < 2E[1] for all x € supp(v). 3
+(ili) W(x) = (W * w)(x) = 2E[u] for ae. x € RN.
+
+These conditions simplify to
+
+w(x) =(W * w)(x) =2E[u] for a.e. x € supp()

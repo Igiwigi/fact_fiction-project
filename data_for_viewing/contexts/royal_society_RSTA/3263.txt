@@ -1,0 +1,25 @@
+and completely determine their dynamics and the physical properties of solidified materials [1-7].
+A number of such processes can happen in the presence of a matrix, or layer of mixed state,
+that is filled with the solid and liquid phases. A theoretical description of this layer, termed a
+‘mush’ or ‘mushy layer’, was given a while back by Hills et al. [8]. They formulated a nonlinear
+set of mushy layer equations and solved a much-reduced set of them approximately for the
+constrained crystallization regime of a binary system. Shortly thereafter Fowler found a more
+complete approximate solution of these equations [9]. The self-similar solidification scenario
+has since been described by Worster [10] and Alexandrov and co-workers [11-13] for binary
+and ternary systems. Different analytical solutions for the steady-state crystallization conditions
+with a mush have also been obtained in a series of papers [14-18]. Some approximate analytical
+solutions [19-22] describing the time-dependent mushy layer evolution processes for various
+crystallization conditions should be mentioned as well. An important point in all of these studies
+lies in the fact that the heat and mass fluxes at the phase transition boundaries were given in
+a standard (conductive) form. However, there exist processes where the heat and mass fluxes
+should be chosen in convective form. Such situations take place, for instance, when we are dealing
+with the evolution of sea ice in the presence of substantial oceanic flows [23-25]. The present paper
+is concerned with complete analytical solutions of the mushy layer equations that describe this
+crystallization scenario. In addition, we analyse below how possible stochastic fluctuations alter
+the deterministic behaviour of the obtained solutions.
+
+2. Theoretical background
+
+Let us consider the process of directional crystallization of a binary mixture (e.g. ice and water or
+metallic melt) along the spatial direction z (figure 1). The total phase transition domain is divided
+into three parts: solid phase 0 < z < a(t), mushy layer a(t) < z < b(t) and liquid phase z > b(t). Here

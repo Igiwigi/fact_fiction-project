@@ -1,0 +1,25 @@
+a positive cosmological constant and showed that the perturbed solutions decay to solutions with
+constant negative spatial scalar curvature that lie sufficiently close to the background solutions.
+This was accomplished by using a Hodge decomposition of the fluid’s n-velocity field and it was
+observed that the pure rotational (‘curl’ part) and harmonic (topological) contributions decouple
+at the linear level. This simplified the analysis and a subsequent energy type argument similar to
+the one used by Andersson & Moncrief [26] was employed to conclude the result.
+
+Motivated by the linear stability result, the second author executed a fully nonlinear analysis
+
+assuming a certain smallness condition on the initial data [34]. However, construction of a suitable : =
+Lyapunov functional for the complete Einstein—Euler system that controls the required norm of : =
+the data (contrary to the rescaled volume functional which only controls the minimum regularity 1B
+of (g,k, p,v)) is not straightforward. This is a consequence of the fact that the Euler equations : =
+are not of ‘diagonal’ nature while expressed in our choice of CMCSH gauge.” This problem is ZR
+circumvented by constructing a Lyapunov functional using D. Christodolou’s energy current [3
+[15,35]. Using the monotonic decay property of this Lyapunov functional for sufficiently small :8
+data, it is shown that the perturbed solutions are globally well posed to the future and moreover :8
+that they decay to the nearby solutions with constant negative scalar curvature. This result : S
+however required that the adiabatic index should lie in suitable range (yq € (1, (n + 1)/n), i.e. that 7S
+
+the perturbations are restricted to lie within the so-called ‘sound cone’).
+
+In 3+1 dimensions, the fixed points are characterized by the condition that the metric be
+negative Einstein. Following Mostow rigidity, this automatically implies that the manifold be
+hyperbolic. Contrary to the situation in 3+ 1 dimensions, the fixed points are not isolated in

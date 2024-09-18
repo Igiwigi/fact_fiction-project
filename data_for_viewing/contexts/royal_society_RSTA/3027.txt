@@ -1,0 +1,25 @@
+(a) Theorem 1.1 for anti-de Sitter space
+
+Clearly theorem 1.1 is stated in very general terms, however, one might worry that there are
+implicit assumptions about the global (asymptotic) geometry within which the black hole of
+interest sits. In fact, all that is really required is that the radiation can be remotely separated from
+the black hole’s interior and its surrounding neighbourhood (on distances large compared to the
+UV cutoff, presumably the Planck scale). This is all we need to ensure that maximal entanglement
+between R and B and/or N may be identified as contributing to the thermodynamic entropy of
+these systems (as discussed in the main text).
+
+What about if there is a boundary to the space-time, such as in AdS space? Here the radiation :
+could travel all the way to the boundary and return in a finite time, so we have to worry about =
+any returning radiation which is no longer well separated. In fact, there is a simple accounting 3
+(or relabelling) trick that allows us to handle this straightforwardly. To see what this relabelling [8
+involves let us first recall that Levy’s lemma constrains the correlations in a very general way: In :
+particular, the order in which subsystems are ‘sampled’ is irrelevant, only the dimensionalities DA
+of the identified subsystems play a role. This means that we can simply redefine R (figure 1) Dw
+as that radiation from an earlier epoch that remains well separated from the black hole and its :2
+surrounding neighbourhood at the epoch of interest. Any earlier radiation that falls back into the :g
+black hole neighbourhood (or into the black hole itself) is then incorporated into B’, N’, R’ or some [&
+combination of all three. :
+
+With that relabelling everything goes through as before. The ‘PT’ (now no longer necessarily
+a time) refers to any scenario where the thermodynamic entropy of any radiation, from earlier
+epochs and which remains well separated from (B,N), equals one-half the Bekenstein-Hawking

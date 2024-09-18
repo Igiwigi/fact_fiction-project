@@ -1,0 +1,25 @@
+As the history length increases the overall PE also increases, with all nodes acquiring positive
+values of PE for large k. For all k, the control kernel nodes have the highest PE, with the exception
+of the start node SK (which only receives external input). When the dynamics of the cell-cycle
+network is initiated, knowledge about future states can only be stored in the spatial dimension
+so PE < 0 for all nodes. The transition to temporal storage first occurs for the four control kernel
+nodes, which for k= 4 have PE > 0, while others nodes have negative PE (self-loops nodes) or
+PE close to 0. All nodes make the transition to PE > 0 at history length k =5. This suggests that
+the informational architecture of the cell cycle is space (processing) dominated in its early evolution
+and later transitions to being time (storage) dominated with a characteristic time scale.
+
+(b) Inter-level architecture
+
+We pointed out in §3 the fact that the local-level informational architecture picks out a clear
+difference between biological and random networks, whereas the global measures do not. We
+conjecture that this is because in biological systems important information flows occur between
+levels, ie. from local to global and vice versa, rather than being solely characteristic of local or
+
+
+1.0 ek=l
+
+ek=2
+
+@k=3
+
+ek=4

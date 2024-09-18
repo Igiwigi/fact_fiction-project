@@ -1,0 +1,24 @@
+
+(b) Schwinger algebras and Heisenberg indeterminacy principle
+
+In the classical case there can be at most one maximal partition of the identity, and conversely if
+this is the case, then the measurement algebra is classical in the sense of the previous definition.
+
+In this section, we formulate in terms of measurements the fundamental new qualitative
+feature of quantum physics, i.e. the Heisenberg principle. As stated in the introduction, we
+want to formulate this principle as a general information-theoretic statement, whose application
+should not be restricted to the domain of micro-physics. More specifically, we individuate the
+qualitative essence of the Heisenberg principle in the mere statement of existence of incompatible
+observables. In the language of measurement algebras this means that a non-trivial quantum
+situation is characterized by the fact that it admits at least two different maximal partitions of the
+identity.
+
+(A8) Heisenberg indeterminacy principle (weak form). There exist two different maximal
+partitions of the identity (Aq) and (Bg).
+
+Definition 3.3. A Schwinger algebra of rank n over a set T is a triple
+{A,T, (A@))xer}, (3.8)
+
+where A is a real associative *-algebra, T is a set and, for every x in T, A(x) := {A,(x),...,An(x)} is
+a maximal partition of the identity in A such that, for any x,y in T, for any j,k =1,...,n and for
+any y €x, the following conditions hold:

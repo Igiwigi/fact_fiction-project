@@ -1,0 +1,25 @@
+cannot be trivial, i.e. always giving the same output independently of the input state. If they
+are not trivial, then p(01|00)=1 implies that both effects Eoj and Ej\9 have 1 as eigenvalue.
+Since it is a qubit measurement, by the completeness relation Egjg + E1j9 = 1, it follows that
+the measurement is projective, and, then, that the initial state and the intermediate state, i.e.
+after the first measurement, are pure. The same argument applies to Eq; and E41. This is,
+however, in contradiction with the condition p(00|10) = 1. Notice that we did not use the condition
+p(00|01) = 1. Analogous arguments can be found for the other vertices.
+
+The observation that such extremal points of the polytope cannot be reached, provides us
+with a way of writing down temporal inequalities able to discriminate between qubit and qutrit
+
+
+machines. In fact, for each vertex we can write an expression in terms of probabilities that reaches
+its algebraic maximum precisely on it. Namely, we can write
+
+By := p(00|00) + p(00|11) + p(01|01) + p(01)10),
+By := p(01|00) + p(01|11) + p(00|01) + p(00)10),
+
+(5.15)
+B3 := p(01|00) + p(00|11) + p(01\01) + p(01|10)
+and Bg := p(01|00) + p(01/11) + p(01|01) + p(00|10).
+One can, then, derive bounds for such expression in the case of qubit machines
+Bi <3, Bo <3, B3 53.186 and By <3.186. (5.16)
+
+So far, no general method has been developed for calculating such bounds and the methods

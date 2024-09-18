@@ -1,0 +1,25 @@
+An example is the Dedukti proof checker [12] which has a rich proof language based on the
+411-calculus modulo [13,14]. An alternative approach is the use of proof certificates [15] that are
+essentially logic programs encoding a focused sequent calculus, and that can be used as a meta-
+language to describe proofs produced by tools based on the sequent calculus. However, the
+problem of proof identity remains untouched since these approaches only translate one syntactic
+representation of a proof into another, and these translations are neither unique nor canonical.
+
+2. Objectives for a universal notion of proof identity
+
+The lack of understanding of the nature of proofs has its cause in the very fundamentals of proof
+theory: we study formal proofs as syntactic objects that are represented in some formal proof systent,
+and we cannot consider the proof independently from that system. In that respect, we can say
+that current proof theory is not a theory of proofs, but a theory of proof systems. In fact, most of the
+important theorems of proof theory, like soundness, completeness, cut admissibility, focusing
+or proof complexity results are not about proofs but about proof systems. All notions of proof
+identity that exist are between proofs within the same proof system, as it is not clear what it
+means to compare two formal proofs that are given in two different proof systems.
+
+(a) Existing notions of proof identity
+
+Up to now, there exist only four notions of proof identity, and two of them are trivial: (1) two
+proofs are the same if they prove the same theorem, and (2) two proofs are the same if they are
+syntactically equal. They have already been ruled out by Hilbert, and there is no need to discuss
+them further here. The two non-trivial existing notions of proof identity are based on normalization
+and generality, respectively [16].

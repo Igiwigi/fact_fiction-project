@@ -1,0 +1,25 @@
+Corollary 2.22. (Corollary 1 of the claim) The above claim is also true if the linearly independent (1 x n)
+vectors {(v')',...,(v™)'} in R" serve as common left eigenvectors of the matrix operators A and B.
+
+Corollary 2.23. (Corollary 2 of the claim) If each of the matrices A and B has n linearly independent 8
+eigenvectors (i.e.m =n) and if all these n eigenvectors are shared by A and B, then the matrix operators A :y
+and B commute (i.e. AB = BA). 2
+
+Remark 2.24. The following two observations are made from the above analysis: 3S
+
+(i) From corollaries 2.21 and 2.23, it follows that, for a sequence of measure-preserving and
+weak-mixing PFSA, the state transition probability matrices tend to commute. Therefore,
+the norms of commutators of the state transition matrices are expected to be relatively
+small. In view of the fact that ergodicity is a mild relaxation of weak mixing [32], it
+is conjectured that the commutator norm of the evolving state transition probability
+matrices would be relatively small for ergodic and measure-preserving PFSA.
+
+(ii) While the state space of a dynamical system can be partitioned to make the constructed
+symbolic system be ergodic in the nominal phase, one may encounter cases where the
+symbolic system is only recurrent (but not necessarily ergodic) in the nominal phase; in
+those cases, there will be a subset of symbols B, where B C A, that are persistently visited
+in the nominal phase. However, if the subset A\B of symbols is never visited during the
+nominal phase, the symbolic system restricted to B could still be ergodic in the nominal
+phase. In either case, whether the nominal-phase of the symbolic system is ergodic on
+its own or after restriction, choosing a reference state transition matrix for computing the
+commutator norm from the nominal phase would make the commutator norm expected

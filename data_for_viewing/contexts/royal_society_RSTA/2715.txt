@@ -1,0 +1,25 @@
+
+(a) UV fold
+
+Near the UV fold the LSs are described by the following expression (appendix A):
+
+Here Aa =a — asy > 0 and the plus (minus) sign corresponds to dim <2 (dm > 2). Figure 4 shows
+that in both cases this expression predicts the vegetation profile accurately. In particular, we
+see that for dm <2 the profile takes the form of a hole while for dm> 2 it develops a peak.
+However, in contrast to the case dm <2 with real eigenvalues at the fold, the expression in the
+case din > 2 misses the small amplitude oscillations in the tail of the profile: in this case the
+solutions are no longer exponentially localized and instead asymptote as |x| — 00 to oscillations
+with wavenumber / (dm — 2)/d consistent with the pure imaginary spatial eigenvalues that are
+now present at the fold. In fact, when dm > 2 exponentially localized states are present only at
+discrete values of the parameter a that accumulate on as, [47].
+
+We discuss here in detail the behaviour of the LS branch when dm > 2. The branch near dy,
+is shown in red in figure 4b with the complete branch shown in figure 5a, both computed on
+a half-domain of length L= 1017. We see that initially the biomass peak grows while the hole
+
+
+0.98 1.00 1.02 0 201 0.98 1.00 1.02 0 201
+a x a x
+
+Figure 6. Bifurcation diagrams for m = 0.5 and d = 7, computed on a half-domain L = 10A;7 with NBCs showing (a) LS~
+(red) and (b) LS+ (magenta) emanating from the vicinity of the Turing bifurcation on the UV state (black) together with sample

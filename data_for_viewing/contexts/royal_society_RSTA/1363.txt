@@ -1,0 +1,25 @@
+
+Om Te POT
+Then p-e=s, p-é=t, and p€ S? provided
+y72(1 — 42)? = (8? +P — 2ast +27 — 1) > 0.
+Hence given t € [—1,1] we have that f(s) = ¢(t) for all s satisfying
++P —2arst+a2-1<0,
+so that f(s) is constant in the interval
+at—/a-1)0-2),at+ Ja—-2)0-P).
+
+This interval depends continuously on ft and at t = 4 the right-hand endpoint is 1, while at f= —A
+the left-hand endpoint is —1. Therefore, f is constant on [—1, 1], giving the result. a
+
+Remark 3.7. A more sophisticated proof is to use the fact that any rotation is a product of a
+finite number of rotations about e and é, as proved in [12] (see also [13]). Thus p(Rp) = p(p) for
+all R € SO(3), so that p is constant.
+
+Corollary 3.8. If p ePNC(S?) is axisymmetric and has cubic symmetry then p(p)=1/4 is
+constant.
+
+Proof. If p is axisymmetric with axis e and has cubic symmetry then we have that
+e(Qip)=f(Qip-e)=/(P Qe) forall Qe P™.
+
+But if Qe were parallel to e for all i this would imply that Q? € P4 := P48 m SO(3) has the same
+axis of rotation e for each i, which is not the case. Hence, p is axisymmetric with respect to two
+non-parallel axes of rotation. | |

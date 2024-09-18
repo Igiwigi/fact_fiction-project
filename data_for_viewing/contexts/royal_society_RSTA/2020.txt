@@ -1,0 +1,24 @@
+time (ms)
+Figure 5. Threshold error in voltage u for observation error standard deviations of 0.05 (black) and 0.1 (red). As the observation : >
+error increases, the error in the analysis increases as well. (Online version in colour.) ia
+Oo
+o
+S
+oo
+co
+
+Even with the larger error the LETKF reduces the analysis error, although the error reduction
+is not as swift and the analysis error using 0.1 observation error does not reach the same low
+levels as using 0.05 observation error (figure 5). The observation error gives a theoretical limit on
+the possible accuracy of the analysis, so the fact that a larger observation error leads to a large
+analysis error not surprising. What is encouraging is that the larger observation error does not
+appear to change the overall effectiveness of the LETKF in reducing the analysis error.
+
+(c) Model error cases
+
+In the remaining scenarios, we consider cases in which the numerical prediction model is different
+from the model used as the truth. Here, we consider only cases in which model parameters were
+changed, but it is possible to use an entirely different model for the truth (for example, we used
+the Beeler—Reuter for some studies in [65]) or to use experimental data for the observations.
+
+(i) Electrophysiological parameter: excitability

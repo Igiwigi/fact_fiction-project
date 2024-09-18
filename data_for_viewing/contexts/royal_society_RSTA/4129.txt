@@ -1,0 +1,25 @@
+<° matrix
+
+Figure 12. N-layers concentric cylinder model (NCYL). (Online version in colour.)
+
+microscale. Such nonlinear responses can be captured using the two-scale micromechanics model : =
+recently developed by Zhang & Waas [41]. This two-scale micromechanics model is extended : =
+to any number of matrix layers, in general, by Patel et al. [42], and is henceforth called the : a
+N-layer concentric cylinder (NCYL) model. The implementation of this NCYL model for a fibre aes
+tow in a multi-scale computational framework for H2.5DTCs is presented in §7a. In the present 22
+NCYL model, the inner fibre core is surrounded by (N — 1) matrix layers. During the process a}
+of damage evolution, the damage occurring in the discrete matrix layers is identified based on : =
+the calculation of the strain and stress fields, whereas the undamaged matrix layers retain their : S
+virgin properties. It is important to emphasize the fact here that, in the 2CYL model, the entire : gS
+
+volume of matrix material was degraded by the same amount, as it is not possible to restrict
+damage to a particular region of matrix volume. As a result, the model overpredicts the stiffness
+and the nonlinear stress-strain response. This limitation is eliminated by the NCYL model and
+the radius of the discrete damage zone can be controlled as an input variable to this model. The
+homogenized elastic properties of the fibre tow (Ej, v{,, G{,, KS, and G§,) are functions of the
+degraded properties of the damaged matrix layers and the virgin properties of the undamaged
+matrix layers. This is very crucial for progressive damage analysis, which is based fully on an
+analytical solution.
+
+In the experiment, catastrophic failure modes are reported, including fibre tow breakage, tow
+splitting and transverse cracking, resulting in a loss of load-carrying capability at the macroscale,

@@ -1,0 +1,25 @@
+
+(b'|M(A)|b’). (3.11)
+
+By starting with a measurement that accepts no systems, then one state, two states and so on
+through increasingly less selective measurements—tecalling that this involves summing over
+selective measurement symbols—one sees that the resulting quantities, which can be written in
+the form p(a’, b’), are candidates for probabilities. Moreover, one has that p(a’, b’) = p(b’, a’). Noting
+that the sum of probabilities is conventionally normalized to 1, one has the natural restriction that
+p(a', b') = (b' |a’)(a' | b’) = 0. This condition can be satisfied with (b’ |a’) real, with (b’ |a’) = (a’ |b’),
+
+but this would involve (b’| being interchangeable with |b’), which is in conflict with the difference : 2
+in the physical interpretation of the two. Instead, taking (b’|a’) and (a’ |b’) to be complex and : =
+taking (b’ | a’) = (a’|b’)* avoids any such conflict (see below). In fact, the matrix formed by the :8
+p(a’,b’) can be seen to be doubly stochastic. : 5
+With the algebra of measurement symbols established, a measurement-based statistical : Ss
+interpretation of the quantum formalism is possible, in particular, by considering a triple product ih
+of measurements formed from the symbols of two incompatible properties, namely, : g
+M(b)Ma@’)M(b’) = (a’ |b’) (b' | a’) M(b’) = pla’, b' Mv’), (3.12) : =
+
+S
+
+where p(a’, b’) = (a’ |b’) (b' |a’) is the invariant through which (a’ | b’) gains physical meaning. One 18
+
+naturally expects the result of an intervening measurement to produce a fraction of the ensemble
+introduced at the beginning of this composition of measurements.

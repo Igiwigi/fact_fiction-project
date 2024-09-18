@@ -1,0 +1,25 @@
+under the assumption that the initial vorticity satisfies a reflection symmetry. For analytic initial
+data, local-in-time existence of analytic solutions was proved by Sulem-Sulem-Bardos-Frisch [4].
+
+The singularity formation was conjectured by Birkhoff—Fisher and Birkhoff [20,21]. For analytic
+initial data, the possibility that the curvature may blow up in finite time was supported by
+asymptotic analysis of Moore [22] and also verified by numerical simulations by Krasny and
+Meiron-Baker—Orszag in [23,24]. Note that the system (1.1) and (1.2) is known to be ill-posed in
+H® for s> 3 [25]. For more comprehensive discussion on the well-posedness theory, we refer to
+[3,26,27].
+
+(a) Steady solutions of the vortex sheet
+
+There are very few known examples of nontrivial steady solutions, and in fact, other than the
+circle or the line, the list only comprises the segment of length 2a and density
+
+y(x)=2Vae—x2, xe [-a,a], (1.4)
+
+which is a rotating solution with angular velocity @ [28] and the family found by Protas—Sakajo
+[29], made out of segments rotating about a common centre of rotation with endpoints at the
+vertices of a regular polygon. We remark that none of these are supported on a closed curve.
+
+Numerically, O’Neil [30,31] used point vortices to approximate the vortex sheet and compute
+uniformly rotating solutions and Elling [32] constructed numerically self-similar vortex sheets
+forming cusps. O’Neil [33,34] also found numerically steady solutions which are combinations of
+point vortices and vortex sheets.

@@ -1,0 +1,25 @@
+remotely applied tension is the dominant loading mode for tensile failure of fibres and an in-plane
+shear would be the modifying loading mode for this failure mode.
+
+Let us begin with the fibre failure mode in tension, discussed in §§3a and 4a. The essential
+feature of this failure mode is the local load sharing from one failed fibre to its neighbouring intact
+fibres. The properties of the matrix and the fibre-matrix interface as well as the microstructural
+parameters such as the interfibre spacing play roles in this load transfer process. If remotely
+applied transverse tension (or compression) and in-plane shear stress are combined with the :
+axial tension, then these additional loads will affect the local load transfer by changing the local :=
+stress field. Without fully analysing these modifying effects, it is commonly assumed that the 23
+transverse load (tension or compression) has no effect and that the in-plane shear contributes to
+the fibre failure mode in tension in the form of a quadratic interaction, as in equation (2.3). In mea)
+fact, this equation also suggests that if the in-plane shear is the dominant loading mode, then :
+the mechanisms of shear cracks leading to transverse crack formation, discussed in §§3e and 4e, a]
+will be modified by the imposed axial tension in the same way. Obviously, this assertion is not DNS
+supported by any analysis at the microstructural level. ares
+
+Consider next the fibre failure mode in compression, discussed in §§3b and 4b. Although [8
+different mechanisms underlying this failure mode are possible, in the common case of glass— .
+epoxy and carbon-epoxy, the mechanism involved is plastic microbuckling leading to kink-band
+formation. The roles of the local shear stress and fibre misalignment have been identified as the
+important factors governing this mechanism. If transverse normal stress (tensile or compressive)
+and the in-plane shear stress are applied in addition to the axial tension, then their effects must be
+considered in terms of any changes induced in the local shear stress and in the fibre misalignment.
+Experimental studies have focused on combining the axial compression with the in-plane shear

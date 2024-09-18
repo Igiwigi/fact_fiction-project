@@ -1,0 +1,25 @@
+
+Let y = (1,72) : [81,82] + W4 be such that y(s;) € 41 and y(sz) € 13,4. By /3), ®(y(s2)) € Q3 and
+by 11) ®(y(s1)) € Qi. Moreover by (2.12), we have ||®(y(s1))|| = R. Hence there exists one zero of
+oi(y(s)), with s € [1,52]. Let
+
+§=min {s €[si,s2]: 1(y(s)) =0}.
+Note that, by (2.11), ¢2(y(8)) 40 and, by (2), ¢2(y(8)) < 0. At this point, we choose
+
+§=min {s €[s1,5]: ¢2(y(s)) =0} .
+Now, by the definition of § and of 5 we have that (8) > 0. Moreover, by (I4) we have that
+(v7 (8)|| < R and by (2.12) it cannot be in 4,4. We conclude that 0 < 71(8) <r. Also we have that
+
+®(y(s)) € Q) for each s € [s},[. In fact by the definition of $ and, by (/2), for each s € [s1,$[, ®(y(s))
+cannot be in Q4, Q2 and hence in Q3. The result now follows. a
+
+(d) Main results
+
+Our next goal consists in the investigation of the dynamical properties associated with a map
+which can be expressed as a composition of maps of the form like Y and @ in the theorems
+above.
+
+As a preliminary example, we consider a planar map F of the form
+
+F:=@ow,
+Our first result gives a conclusion in the line of Poincaré—Birkhoff fixed-point theorem.

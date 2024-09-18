@@ -1,0 +1,25 @@
+no}
+Ash OR
+
+(which scales once again like length”). In fact, our analysis of the lower bound would also work : s
+for this non-local substrate term. However, our analysis of the upper bound requires estimating at
+the energy of an explicitly given deformation, which would be much more difficult for a non-
+local model. Moreover, the use of (2.2) would not eliminate another key idealization, namely
+that the sheet is free to slip along the substrate. In addition, our goal is to consider a thought-
+experiment not a physical experiment: how does geometry induce wrinkling, when a thin elastic
+sheet is required to conform to a sphere? With these considerations in mind, we take the view that
+the Winkler model used in (2.1) is appropriate for our purposes.
+
+In fact, Winkler-type substrate terms have been used to model many experiments. In [1,2,4,7]
+(see also [5]), such a term arises from the gravitational potential of the fluid below the sheet. There
+is, however, an important difference: in that work the prefactor scales as h-1, whereas in (2.1) it
+scales as h~?. By considering one-dimensional examples, one sees that in our setting the cost of
+wrinkling (determined by optimizing the length scale, based on competition between the bending
+and substrate terms) is O(1) (half way between I? and h-?); this is why it contributes to the
+leading-order energy. In [1,2,4,7], by contrast, the different scaling makes the cost of wrinkling
+0(1) (so it is subdominant).
+
+We turn now to a discussion of our results. They involve (i) identification of an effective
+functional Fy, whose minimum determines the radial strain in the sheet, the approximate length
+scale of wrinkling and the limiting behaviour of the minimum elastic energy (min E;,) as h — 0;
+and (ii) upper and lower bounds for the excess energy, defined as the difference between min E;,

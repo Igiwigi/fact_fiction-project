@@ -1,0 +1,24 @@
+calibrate the model.
+
+The calibration of the nonlinear terms of the model is absolutely indispensable. The reason
+being that it is only the nonlinear terms that go beyond the Gaussian model and provide a
+microeconomic potential that has a minimum, and which can match the average market price
+of a given commodity. In particular, in the absence of the nonlinear terms, the quadratic potential
+yields all average market prices to be zero and is clearly quite useless for analysing market prices.
+
+We show below that the values of the nonlinear terms are 10 times greater than the error
+terms, clearly showing that the value of the nonlinear terms is a defining feature of market prices.
+To check the consistency of the evaluation of the nonlinear terms using Feynman diagrams, a
+numerical simulation has been carried out in [2] to confirm that the range of the nonlinear terms
+obtained from the market data can in fact be obtained using the Feynman perturbation expansion.
+
+The action is written in terms of the scaled variable y(t) and we obtain
+
+° 1... 1.. y a B
+= dt} Li? + <b + Ly + = + Hy +..- t.
+A [. [sit shit + Sie + Sah + Ba + const.,
+where
+a=(-@de Yd + Bs eX) = (b—a)y
+and
+
+pa (atdeY + dtse) = (a? —ab+P)y.

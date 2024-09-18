@@ -1,0 +1,25 @@
+is typically of the form
+
+log p(x) = > G (= is?) + log Z(H), (6.4)
+J
+
+i
+
+where the w; are the rows of the separating matrix like in (2.6), the data are whitened, and W
+is constrained orthogonal. (The log-likelihood can be obtained from this formula by just taking
+the sum over all observed data points x(t).) What is new here is that instead of taking the
+nonlinear function G of the estimated components w/x separately, it is taken of the sums of
+squares. Computing squares is of course intimately related to computing correlations of squares.
+The matrix H describes the dependencies of the linear components w/ x. In fact, the nonlinear
+components Yi hij (w) x)? take the place of the estimated maximally independent components
+here. We can thus think of this model as a nonlinear version of ICA as well.
+
+The function Z in (6.4) is the normalization constant or partition function of the model. What
+makes estimation of these models challenging is that this function Z depends on the parameters
+hj (it is constant only with respect to x) and there is no simple formula for it. Computationally
+simple, general ways of dealing with this problem are considered by Hinton [48], Hyvarinen [49]
+and Gutmann & Hyvarinen [50], among others, and applied on this model by Osindero et al. [46],
+K6ster & Hyvarinen [47] and Gutmann & Hyvarinen [50], respectively.
+
+An alternative approach would be to try to find simple objective functions that are guaranteed
+to find the right separating matrix in spite of correlations of squares [51,52]. Such methods

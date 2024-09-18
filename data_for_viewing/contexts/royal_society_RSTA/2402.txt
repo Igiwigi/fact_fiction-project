@@ -1,0 +1,24 @@
+The SM is one of the simplest approach to demonstrate the phenomenon of bistability while
+excluding the dynamic bifurcation effect. Based on the results of experimental chatter tests
+(figure 3c), the workpiece is prepared such that steps are machined onto it in increasing and then
+in decreasing order (figure 4b). Since the length of the workpiece is given, a trade-off must be
+made between the number and the length of steps. It is important at all steps to provide enough
+space (time) for the tool to reach its stationary state. Obviously, there is smaller possibility to
+capture the phenomenon of bistability in the SM than in the HT due to the limited resolution of
+axial depth of cut steps on the workpiece. When the measurements do not capture bistability, the
+test results cannot be distinguished from supposingly linear chatter tests where instability should
+arise in symmetric arrangement along the steps.
+
+For the measurements, we also use the industrial jargon to label vibration states as ‘stable’ as
+SSC and CH. In fact, all these states are related to a stable invariant object of the dynamical system
+(1.4). Chatter CH state involves both the evolved threshold vibration and the onset of amplifying
+vibrations originated, on the one hand, from the USC period one solution xp. The stability loss
+is caused by an orbital Hopf bifurcation [13], which introduces dominant (chatter) frequency
+(figure 3i) and its modulations [72]. The Hopf bifurcation in the nonlinear milling model is
+subcritical and gives rise to an unstable invariant torus branch (ITB) of quasi-periodic solutions
+xgp with Qz and w¢. The arising subcritical branches can be found by, for example, nonlinear
+SDM [65] or path-following methods based, for example, collocation [33].
+
+On the other hand, this unstable torus can also repel the process from the expected SSC to an
+amplifying solution toward the threshold (CH) state that we hear and measure in the long term.
+The threshold vibration state can be quasi-periodic or chaotic resembling the frequency content

@@ -1,0 +1,25 @@
+at the spatial infinities sufficiently rapidly. On the other hand, a weak invariant can be free
+from boundary conditions as long as its expectation value is finite and equation (2.3) holds.
+Accordingly, there exist large degrees of freedom in its choice. This is certainly an advantageous
+
++ Lil, t)] =0, (2.2)
+
+
+point since it implies that a wide class of quantities satisfying equation (2.2) can be chosen as a
+weak invariant, depending on physical interest. However, as seen in the subsequent discussion,
+a weak invariant is subject to the final condition, not the initial condition.
+
+Although the first moment of the weak invariant satisfies equation (2.3), the higher moments
+do not, in general. In fact, the variance (AJ)? = (J?) — Uy? monotonically increases as follows:
+
+d(Aj)?
+
+_ 1)2
+ap = 2(PO), (2.4)
+
+where J =0J (x, f)/@x.
+
+Because of its irreversible nature and the structure of the first-order time derivative, it is non-
+trivial to develop the action principle for the Fokker-Planck equation. A quantum mechanical
+analogue of this issue has been studied in [26,27]. There, an auxiliary field A has been introduced
+for the extension of the space of variables, by which the action can be constructed. In the present

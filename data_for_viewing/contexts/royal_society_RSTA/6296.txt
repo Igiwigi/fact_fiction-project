@@ -1,0 +1,25 @@
+by/4.0/, which permits unrestricted use, provided the original author and
+
+THE ROYAL SOCIETY source are credited.
+
+PUBLISHING
+
+
+taken as evidence for rejecting the axiom of choice as constructively valid. However, showing that
+a certain instance of excluded middle is not constructively valid is not sufficient for ensuring that
+only principles of intuitionistic logic are satisfied. After all, there could be intermediate principles
+that are derivable in T. Dick de Jongh was the first to investigate this phenomenon: in his doctoral
+dissertation [3], he showed that the propositional principles valid in Heyting arithmetic (HA)
+under all substitutions are exactly those of propositional intuitionistic logic (IPC). This fact is now
+known as de Jongh’s theorem and has sparked fruitful investigations into the logical structure of
+intuitionistic arithmetic. A generalization of de Jongh’s theorem would be to consider not only
+the propositional principles of HA but also its propositional admissible rules (see definition 2.3).
+Visser [4] showed that the propositional admissible rules of HA are exactly those of IPC. A further
+generalization would be to consider the two notions in the setting of predicate logic.
+
+In this article, we survey results about the logical structure of constructive set theories and also
+provide a few new results in the area as well as questions for future research.
+
+The study of the logical properties of classical and non-classical theories goes back at least
+
+several decades. Early results on the logics of theories date from the 1970s, and Rybakov’s seminal : =

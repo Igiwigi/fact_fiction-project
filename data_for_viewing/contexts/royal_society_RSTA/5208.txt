@@ -1,0 +1,25 @@
+to trigger on and which allow to discriminate against the overwhelming background of events 1B
+with hadronic jets. Typically, these are processes involving electrons or muons, which carry a : a
+large momentum transverse to the beam axis and which are well isolated from other hadronic 12
+activity in the event. For example, one of the relevant processes sought at the Tevatron, for a Dy
+Higgs boson with mass around 120 GeV, is the associated production of a Higgs and a Z or W : s
+boson, with the Higgs decaying into a bottom—anti-bottom quark pair, and the Z or W decaying : 3
+leptonically, ie. Z—> e+€~ or Wt > (#4). For larger Higgs masses around 160GeV, the most : 8
+
+sensitive channel turned out to be Higgs production via gluon fusion (a quantum-loop-induced
+process), with the Higgs boson decaying to a pair of W bosons, which in turn decay leptonically,
+Le. gg > H> WW = Cty by.
+
+Despite the fact that such leptonic channels help to reduce the backgrounds, the overall
+challenge is still huge. For example, in a sample of 1 fb~! of accumulated data before any further
+event selection, the fraction of ZH > e+ €-bb events compared with everything else is 5 in 10/4!
+Therefore, efforts were focused on maximizing the signal acceptance and efficiency, in order not to
+lose any signal event. In particular, trigger algorithms, lepton selections and b-tagging algorithms
+were optimized, the last again relying on the excellent performance of silicon vertex detectors.
+Furthermore, the invariant mass resolution for reconstructing the hypothetical Higgs mass from
+two b-tagged jets was pushed to the ultimate performance. The best possible background
+rejection was achieved by extensive use of multi-variate techniques such as neural networks
+or boosted decision trees. With those machine-learning techniques the discrimination between
+signal and background events could be improved, exploiting and optimally combining as much
+as possible the measured event properties. Undoubtedly, the extensive experience gained with
+these techniques also influenced their widespread use later at the LHC. Finally, the results from

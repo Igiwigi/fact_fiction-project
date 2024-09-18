@@ -1,0 +1,25 @@
+
+TO-based flat lens
+
+Figure 2. Lens problems described in the context of the generalized scattering matrix method. (Online version in colour.)
+
+which is also a classical design. What is more important, however, is that this lens design can also
+be realized—just like in the case of the convex lens—by using dielectric-only materials that are
+often readily available commercially, or can be synthesized conveniently as we show below.
+Next, let us change the design specification for the flat lens as follows: we now stipulate that the
+flat lens perform precisely like the convex lens in its entirety, implying that the fields at the input
+and output ports be identical for the convex and flat lens designs. Obviously, such a performance
+of the flat lens would be highly desirable because it would deliver the proven performance of the
+classical convex lens design. In fact, this is exactly the goal of the TO-based design, which has
+been attempted by a number of authors [9-14]. What is not so obvious, however, is that such a
+seemingly minor change in the specifications, in which we insist that the flat lens design should
+not only manipulate the phase distribution at the output port but also the amplitude distribution,
+has a highly significant impact on the realizability of this type of flat lens, which we refer to herein
+as the TO-based design. Some of the difficulties arising in the realization of the TO design are: (i) it
+calls for both dielectric and magnetic materials, (ii) these materials must be anisotropic in general,
+and (iii) typically some of the values called for can only be realized by using MTMs, which can
+be lossy, dispersive and narrowband, forcing us to use substitutes that are likely to compromise
+the performance of the lens. It is equally important to realize that there is no simple way out of
+this conundrum without paying a high price in terms of cost and complexity, and/or sacrificing
+the performance of the lens. In summary, the FT approach to flat lens design in which we require
+that the device transforms the electromagnetic field distribution as it traverses through the device

@@ -1,0 +1,25 @@
+
+10 704 288 164 978 454 686 113 488 249 750
+
+How were physicists able to solve this difficult problem without actually doing
+the computations in algebraic geometry? The short answer is: by placing the
+enumerative problem in the right physical context. Within quantum theory it
+makes perfect sense to combine all the numbers Ny into a single generating
+
+function
+F(g) => Naa’.
+d
+
+In fact, this function has a straightforward physical interpretation. It can be seen
+as a probability amplitude for a string to propagate in the Calabi-Yau space
+X. In quantum theory one has to operate under the fundamental principle of
+summing over all possible histories with a weight given by the classical action. In
+that spirit a quantum string can be thought to probe all possible rational curves
+of every possible degree d at the same time, with weight q‘. The classical limit is
+recovered when we send the parameter g to zero, in which case only the degree
+d=0 curves contribute, i.e. the points of X.
+
+But there was a second ingredient that helped to find the physical solution.
+There exists an equivalent formulation of this physical process using a so-called
+mirror Calabi~Yau manifold Y. As far as classical geometry is concerned, the
+spaces X and Y are very different; they do not even have the same topology. But

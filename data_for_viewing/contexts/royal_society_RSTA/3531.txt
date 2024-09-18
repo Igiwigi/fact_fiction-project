@@ -1,0 +1,25 @@
+
+The method described in this paper is conservative by design, and the resulting uncertainty
+bands may be dishearteningly large (figure 3). Conventional methods will usually provide
+estimates with tighter bounds, and their use may well be justified if the underlying distribution
+FX(x) is well behaved. However, the robust posterior distribution (and BIS implementation) can
+still be used for comparison purposes. Significant differences in results will highlight the impact
+of explicit and implicit assumptions made in the analysis, pointing out the need to confirm their
+validity in a particular application.
+
+Multivariate applications. A natural extension of this work is to consider the case of multivariate
+samples. In its full generality, this is far from trivial, because a number of convenient properties
+that accompany working on the real line no longer apply. In particular, the total ordering of real
+numbers, the convenient cumulative form of the Dirichlet process and the fact that upper and
+lower bounds of p-boxes are each valid cumulative distribution functions.
+
+The definition and properties of multivariate p-boxes are a topic of ongoing research [13].
+A general account of the bivariate case has recently been given by Pelessoni et al. [14]. Retracing
+the construction of the robust posterior distribution F? for the bivariate case will require
+addressing a number of challenges: (i) defining a random posterior p-box along the lines of (5.3)
+and theorem 5.2; (ii) maximizing the learning rate (minimizing the impact of the prior), while
+ensuring that the p-box is compatible with continuous distributions (see theorem 5.5 for the one-
+dimensional case); (iii) defining a practical numerical procedure for sampling from the posterior
+distribution and determining the impact on quantities of interest.
+
+However, results of Troffaes & Destercke [13] suggest that the extension to multivariate spaces

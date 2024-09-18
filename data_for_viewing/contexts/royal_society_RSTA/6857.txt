@@ -1,0 +1,25 @@
+11. A simplified treatment will have value in the early stages of computation. It is
+clear that y will vary much faster with # than with a, and y, if not faster, at least not much
+more slowly. This means that the f-differentials will predominate in (19), so that without
+serious error we may suppress the «-differentials to obtain
+9 (290) _ 29y _ = 24
+al 7) =0, whence x i const. = A (say). (24)
+
+Equally 0/08 will predominate over y-/dx in the expression (22) for p’2q’, so that without
+serious error* we may suppress the «-differential to obtain
+
+waey =p'q. (25) ©
+
+* Here, in fact, the error is of second order when (@y/8x)/(@/r/2B) is small (cf. § 22).
+
+
+METHODS APPLIED TO ENGINEERING PROBLEMS 375
+
+w eliminating dy/02, we have approximately
+q = p'q'x? = Auh, (26)
+— (7 YF ay ae
+ere, by the second of (24), y= 3 ag _ af x2 dp’. (27)
+pplied to (27), the boundary condition (20) gives
+
+Bi By
+tA | “248, ie. w= -2

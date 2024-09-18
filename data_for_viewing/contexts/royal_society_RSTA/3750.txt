@@ -1,0 +1,25 @@
+Equation (5.1) represents a set of coupled differential equations which is typically discretized
+into a set of contiguous intervals or ‘grains’ with energy spacing AE and written as a matrix
+equation:
+
+d :
+aP= Mp. (5.5) :2
+Diagonalizing the matrix M provides a solution for p, the population vector p(E), i.e. 3
+p(t) =Uexp(At)U~!p(0), 66) 2 >
+
+where U is the matrix of eigenvectors of M, and A a diagonal matrix of the corresponding
+eigenvalues. The EGME has advanced to the point that it is routinely able to provide near- 74
+quantitative predictions of gas-phase kinetics for reactive systems comprising multiple wells and ae
+transition states. Part of the reason for its success in the gas phase arises from the fact that the [ae
+system/bath boundary is relatively well defined: the system comprises the reactive molecule 8
+of interest (which has available to it a range of reactive pathways), and the bath comprises .
+third bodies which undergo collisions with the reactive system of interest. For example, the
+atmospheric bath is made up of Nz and Oz, both of which can undergo elastic and inelastic
+collisions with the reacting species. Third-body collisions of this sort can be treated (often to
+a relatively high degree of accuracy) using standard functional forms that have their origins
+in isolated binary collision models, quantum mechanical scattering calculations and classical
+trajectory simulations.
+
+Two important questions that arise in trying to apply system—bath models like the EGME to
+systems other than the gas phase are as follows: (i) How do we define the system/bath boundary?
+(ii) How do we treat energy transfer probabilities between the system and the bath? The approach

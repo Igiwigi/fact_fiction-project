@@ -1,0 +1,25 @@
+which has given quantum foundations a bad reputation among physicists working in other
+disciplines. In this paper, two quite distinct usages of ‘(non)contextual’ will be discussed. One
+is due to Bell, and appears in older work on quantum foundations; for this, I will use the term
+‘Bell (non)contextual’. It is discussed in §§2—4. The other is frequently found in more recent work
+and for it I use the term ‘global (non)contextual’. A precise definition, motivated by the work of
+Abramsky et al. [1], is presented in §5. There are undoubtedly other definitions to be found in the
+literature, but in the present work I limit myself to these two.
+
+As the title suggests, my aim is to relate ‘(non)contextual’ to the topic of quantum
+measurements. Here, there is enormous confusion, as exemplified by the well-known measurement
+problem. Alas, ‘measurement’ is another term often used in quantum foundations without a
+clear meaning, so of necessity any discussion of how it relates to contextuality must be based
+on some understanding of, if not solution to, the measurement problem. In fact, there are (at
+least) two measurement problems. The first, widely discussed, problem is how to think about
+the macroscopic outcome of a measurement, traditionally referred to as a pointer position, since
+unitary time evolution often results in a quantum superposition (Schrédinger cat) of possible
+measurement outcomes. The second, less discussed but equally important, is how to infer from
+the macroscopic outcome the earlier microscopic property that the apparatus was designed to
+measure. Both problems are discussed in §3. The second is the one most intimately connected to
+notions of quantum contextuality.
+
+The approach employed in the remainder of this paper is, without apology, based upon the
+consistent histories (CH), or decoherent histories interpretation of quantum mechanics. It is, so far
+as I know, the only interpretation presently available which can provide a complete solution to
+both measurement problems. There is no room ina short article to reproduce its essential features;

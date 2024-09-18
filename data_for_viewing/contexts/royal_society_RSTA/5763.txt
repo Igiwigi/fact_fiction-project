@@ -1,0 +1,24 @@
+5S; = 0, +1) = 1/3, and N = 26 000 realizations of the environment have been sampled. (Online version in colour.)
+
+or the tails of the endpoint distributions. One important quantity is the quenched variance of the
+endpoint distributions
+
+V; = VP = Varj,[S:]-
+
+For polymer models with translation-invariant random potential, the disorder-averaged variance
+is linear in ¢ [11,12], ie.
+
+avd ch (2.4)
+
+where C is some model dependent constant. This fact can also be understood through the ‘tilt
+symmetry’. Let us consider the tilted partition function
+
+Z} =P exp (B S(S,,’) +h-St)].
+i=1
+
+Then (Vi) = [(82/ah) In Z!"},-0. On the other hand, under mild conditions, the usual sub-
+additivity argument implies the existence of the limiting free energy
+mn PINZt _
+
+li lim
+t+oo t too

@@ -1,0 +1,24 @@
+where R € X is homeomorphic to the unit square [0, 1]? and
+
+Ro = Rie U Reight
+
+
+is the disjoint union of two disjoint compact arcs Rjog, R, CAR (which are called the
+
+right
+‘components’ or ‘sides’ of R~).!
+
+We also denote by R* the closure of IR \ (Rye U Reight) which is the union of two compact
+arcs Ravn and Rip: The order in which we label the two components of R~ is not relevant. The
+essential fact is that R~ splits as the union of two disjoint arcs. The same remark applies to R*.
+
+Given an oriented rectangle (R, R- ) itis always possible to find a homeomorphism h : [0, 1? >
+R =h((0, 1]*) < X such that h({0} x [0,1]) = Reegy ML x [0, 1]) = Right h({0,1] x {0} = Riown and
+h([0, 1] x {1}) = Rip: This can be proved using some classical results from plane topology like the
+Schénflies theorem [36].
+
+Next we introduce the concept of ‘stretching along the paths’ which plays a central role in our
+approach.
+
+Suppose that X is a metric space and that @ : Dg(C X) > X is a map defined on a set Dg. Let
+M :=(M,M-) and N := (N,N) be oriented rectangles in X.

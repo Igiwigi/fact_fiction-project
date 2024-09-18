@@ -1,0 +1,25 @@
+information, from information we extract knowledge and finally from knowledge we distil the
+ultimate goal: Wisdom, the ability to do the ‘right thing’ (figure 4).
+
+BD-driven decision theory is obviously of paramount importance to science, business and
+society, as it is to each of our private lives. But, as a matter of fact, the ‘constitutive relation’
+between Data and Information, Information versus Knowledge and Knowledge versus Wisdom is
+not well known, to put it mildly. In the following, we shall argue that the pyramid representation
+is deceptive, for it conveys the idea that the layers stand in a simple linear relationship to one
+another, which is by no means the case. More importantly, it suggests that by expanding the
+basis (data) all upper-lying layers will expand accordingly, whence the mantra: more data, more
+wisdom.
+
+This flies in the face of a very general fact of life: sooner or later, all finite systems hit their
+ceiling, the technical name of the game being nonlinear saturation, another well-known concept
+in the science of complex systems. This is the very general competition-driven phenomenon by
+which increasing data supply leads to saturation and sometimes even loss of information; adding
+further data actually destroys information.
+
+But let us discuss saturation first. A well-known example of nonlinear saturation is logistic
+growth in population dynamics. Let x be the number of individuals of a given species which
+reproduce at a rate a > 0, say a births per year per individual. In differential terms dx/dt = ax,
+leading to untamed exponential growth. But obviously in a finite environment, with finite space
+and a finite amount of food, such untamed growth cannot last forever for the environmental
+finiteness will necessarily generate competition, hence a depletion term. Assuming competition
+is only between two individuals at a time, this results in the famous logistic equation

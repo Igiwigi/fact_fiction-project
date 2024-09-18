@@ -1,0 +1,24 @@
+putative history of system dynamics the result Y; of any potential measurement can be derived.
+To take an example, suppose a particular measurement y; gives the total number of infections in a
+1-week period. Here all the infection transitions in (which contains complete information about
+the dynamics of the system) would be added together for that week to give Y;. The small constant
+£g;(dependent on the time series g; to which i belongs) is introduced to ensure validity even when
+yj or Y; are zero.!!
+
+When y; and Yj; are equal the contribution to the EF in equation (2.6) is zero. When they are
+unequal the contribution is always positive (and for small deviations, close to the square of the
+fractional change in the quantity). The weights w; in equation (2.6) set the relative importance
+of different measurements. In particular, they place greater weight on larger observed values!”
+
+°The value 1 in equation (2.5) is arbitrary. While x(y |£) is strictly a probability density, the fact that it is unnormalized does
+not matter because the posterior probability in equation (2.4) is only known up to a constant of proportionality.
+
+1For example, taking the difference between Y; and y; and squaring would result in something akin to a least-squares
+approach.
+
+"Its value is set to 2% of the highest peak from the time series to which the measurement i belongs. This was a simple way to
+suppress the effect of noise in measurements with low values.
+
+2-This reflects the fact that daily transitions, like case and death data, are expected to be Poisson distributed, and so larger
+values are expected to be less susceptible to stochastic variation than smaller values.
+

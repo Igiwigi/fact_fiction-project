@@ -1,0 +1,25 @@
+band at approximately 90 Hz, with values for Sg for this band of 0.0002 m?s~> and
+0.0005 m?s~3, respectively. Again the response shows energy in bands outside that of the
+initial forcing, this time dominated by the bands at two and three times the forcing frequency,
+approximately 175 and 250Hz. The prediction of energy in the bands at resonance (i.e.
+the directly driven bands, and those at integer multiples of the driving frequency) again
+is accurate to within a few decibels; however, two distinct errors are present: (i) the SEA
+methodology has a tendency to smear the energy across neighbouring frequency bands,
+for example in case (c) the benchmark predicts frequency content in the seventh band,
+while the SEA method makes a prediction that includes energy in both the seventh and
+eighth bands; (ii) outside of the resonant bands the prediction is less accurate. Errors
+outside of strongly driven bands are to be expected as the assumption of equation (2.9)
+required that each frequency band contains resonant oscillators. A resonant assumption would
+incorrectly predict the energy if the oscillators were in fact only weakly driven. Noticeably,
+the nonlinear SEA results fall within the error bars of the bench mark code for the bands at
+resonance.
+
+
+(a) (b)
+
+nonlinear SEA
+
+benchmark
+~ 2 omean error
+
+3 -40

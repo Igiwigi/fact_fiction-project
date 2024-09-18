@@ -1,0 +1,25 @@
+
+Trt
+where tg = In(2)/y is the division time, /, is the total length of all ribosomal proteins in base pairs
+as a cross-species average, Ip (bp) is the average length of all other cellular proteins, 7 = 63 (amino
+acids s~!) [105] is the maximum base pair processing rate of the ribosome, 7 (s~!) and ¢ (s~!) are
+specific degradation rates for ribosomes and proteins, respectively (both taken to be 6.20 x 10-5
+[27]), u is the specific growth rate and Np is the total number of proteins (table 1).
+
+(b) Parameter values =
+
+In figure 1, the lines represent transformations (division by cell volume) of the best ordinary least
+squares fits of metabolic rate against cell volume (compared with the RMA (reduced major axis) mea)
+fits carried out in [25]). The large scatter in the data for unicellular eukaryotes is due to the fact fo
+that the metabolic rate scaling is approximately linear with cell volume, and thus power density 24
+is effectively just the residual values around this linear scaling relationship. DNS
+For the translational efficiency in unicellular eukaryotes, we combined values for yeast, aon
+and for multicellular eukaryotes, we used values for mammalian cells. The equations for [k
+bacteria are general provided that we can accurately estimate the number of ribosomes and .
+proteins, and the overall time to divide for a given cell volume. For yeast, we use a value
+of N, = 1.87 x 10° [106], Np =5 x 10” [107] and a division time of tq = 7561.6 (s) [108]. For
+mammalian cells, we use N; = 1.27 x 107 [109], Np = 1.70 x 10° [110] and a division time of tg =
+1.71 x 10° (s) [111].
+
+Data accessibility. All the data used in this paper can be found as compilations in [20,25,28,29], where [20,25]
+provide online data files as supplementary information. Other key values, which are either directly quoted or

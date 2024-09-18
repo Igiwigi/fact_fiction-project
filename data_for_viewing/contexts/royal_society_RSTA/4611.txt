@@ -1,0 +1,25 @@
+‘characteristic earthquakes’ recur more or less regularly, a renewal process is assumed and the
+time-dependent probabilities are calculated from the average recurrence interval and date of the
+most recent event. The term ‘characteristic earthquake’ was originally defined for a repeating
+earthquake with similar slip distribution [7], but it has been used more broadly allowing some
+variability. The ERC adopted the Brownian Passage Time (BPT) model [8], among several
+probability density function models, to calculate the 30-year probability. If data indicate that
+temporal distribution of earthquake occurrence is random, or if available data are insufficient
+to indicate regular recurrence, the Poisson process, in which earthquakes are assumed to occur
+randomly, is adopted to calculate the time-independent probability. As of 2010, the highest 30-year
+probability in Japan, 99%, was calculated for a large earthquake with M ~ 7.5 in the Miyagi-oki
+region, just west of the 2011 Tohoku earthquake source. However, the 2011 Tohoku earthquake
+(M 9.0) was much larger than the long-term forecast. As detailed in the following sections, this
+underestimation is due to the fact that the government's long-term forecast was based ona simple
+‘characteristic earthquake’ model with seismological and historical data of past earthquakes in the
+last few centuries.
+
+
+
+@ sk  130°R 135° M40°R SE (b)
+104 fe : : : : 0.01
+com 1923-2014 IMA data
+O-
+com log n(M) = 7.673 —0.883M
+10° % 0.1
+Sea of Japan z

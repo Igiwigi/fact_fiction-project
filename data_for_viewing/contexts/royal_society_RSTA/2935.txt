@@ -1,0 +1,25 @@
+a natural frequency with short-circuited patches equal to ,/ Ki /m/2n = 29.59 Hz.
+
+The restoring force surface method is used to characterize the mechanical nonlinearity at
+higher excitation levels. Compared to the previous measurements, the forcing amplitude is
+multiplied by 10 so as to approach 1 mm for the maximum displacement at the end of the beam.
+The nonlinear restoring force fx, is available as it can be computed from the filtered temporal
+series through
+
+Ri = ft — mii* — cir* — KE ut, (4.3)
+
+and its phase-space representation is given in figure 7a. The two-dimensional section
+corresponding to u* =0 represented in figure 7b highlights the cubic nonlinearity induced by
+the thin lamina: fNL = Kyu. In fact, a one-term harmonic balance approximation u~u* =
+Usin(t + 5,) means that
+
+Ro = Kn). (4.4)
+
+A nonlinear coefficient Ky = 2.507 x 10? Nm~$ is then obtained by filtering the signal uw
+
+and solving equation (4.4) by a least-squares method, which provides an excellent fit with a
+normalized mean-squared error equal to 0.4%. Furthermore, from equation (2.7),
+
+fi (it =0) =P Kui, (4.5)
+
+which is the cubic approximation represented in figure 7a,b. This approximation offers a good

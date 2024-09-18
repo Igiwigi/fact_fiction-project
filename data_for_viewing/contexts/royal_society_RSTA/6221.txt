@@ -1,0 +1,25 @@
+in velocity, respectively, it can be regarded as an intermediate between them. We call (2.2a) the
+Signorini contact condition of dynamic type (hereinafter, referred to as SCD condition). With the SCD
+and Tresca friction conditions, we prove unique existence of a strong solution for the linearized
+elastodyanmic equations, thus having properties (i) and (ii). Moreover, property (iii) is also
+approached by our model because 6 > 0 can be fixed to an arbitrarily small value (however it
+is not possible to make exactly 5 = 0).
+
+An expository interpretation of our result may be that making the Signorini contact condition
+in displacement ‘dynamic a bit’ (recall that boundary conditions having quantities with time
+derivative are called dynamic) leads to some stabilization effect to the system. We expect that
+
+
+this fact has some connection with Baumgarte-like stabilization techniques known in numerical
+simulations of non-smooth mechanics (see [17]), which is to be investigated in the future. The
+present result will also be of basic interest when we make an attempt to more involved crack
+problems, e.g. propagation and singular behaviour of crack tips.
+
+This paper is organized as follows. In §2, we introduce notation and the precise mathematical
+setting to be studied. In §3, a variational inequality formulation as well as the definition of a
+strong solution is introduced, and we present the main theorem. Section 4 is devoted to its proof
+based on regularization of a variational inequality and Galerkin’s method. The strategy basically
+follows our previous study [15]; nevertheless, the analysis, in particular a priori estimates and a
+uniqueness proof, becomes more intricate to deal with the contact condition.
+
+2. Preliminaries

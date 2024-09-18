@@ -1,0 +1,25 @@
+We have established that if (c) in the convergence theorem fails to hold (but the remaining two
+are satisfied), the limit lim,_,1— T;(#)x exists and is uniform for f in compact subsets of R* only for
+x in the subspace Xq of the original Banach space. Outside of Xo, the limit usually does not exist.
+
+In the theory of singular perturbations it often happens, though, that the limit exists even if
+x ¢ Xo; of course, this limit must then not be uniform as described above. It may be shown that in
+
+
+such a case it is uniform for f in compact subsets of the open right half-axis (0,00). For singular
+perturbation theorists, the reason for that is clear: there are initial (and possibly other) layers
+involved here, and the convergence simply cannot be uniform around f = 0.
+
+In fact, quite often singular perturbation theorems have the form
+
+Jim T,(t)x =T(t)Px, t>0,xeEX, (5.1)
+ro1-
+
+where {T(t), t = 0} is a strongly continuous semigroup on a subspace Xq of X and P is a projection
+onto Xo (in the sense that P* = P and Px = x,x € Xo). To repeat, in this case, the classical theory
+does not work and, in particular, condition
+
+lim (A—A,)-1x=(4-B)-!Px, = xeX, (5.2)
+rol
+
+(where B is the generator of {T(f), t > 0}) for all (some) 4 > 0 is necessary but not sufficient for (5.1).

@@ -1,0 +1,25 @@
+exterior.
+
+
+Outer billiards can be defined also in two-dimensional spherical and hyperbolic geometries.
+In the spherical case, the inner and outer billiards are conjugated by the spherical duality. See [87]
+for a survey.
+
+Let us also mention two other non-conventional billiard systems: projective billiards [88] and
+symplectic billiards [89].
+
+(i) Around the Birkhoff conjecture
+
+It is a classical fact (see, for instance, [83] and references therein) that the billiard in an ellipse
+is integrable: the interior of the table is foliated by caustics, the confocal ellipses. Likewise, the
+billiard inside an ellipsoid is Liouville integrable; e.g. [90,91].
+
+The following is known as the Birkhoff conjecture; see [92].
+
+Conjecture 4.1. If a neighbourhood of the boundary of the billiard table 2 C R? is foliated by : =
+caustics, then the billiard curve y is an ellipse. a
+
+We also formulate a generalized conjecture: if an open subset of the convex billiard table is foliated 73
+by caustics, then this table is elliptic. DS
+A polynomial version of Birkhoff’s conjecture concerns the case when the integral of the :
+billiard map is polynomial in the velocity. In the case of outer billiards, one modifies these 7

@@ -1,0 +1,25 @@
+
+The analysis addresses the minimization of the packing energies subject to multiple
+constraints, either in their exact or in their relaxed form. These leads to a free boundary problem
+for a polyconvex energy functional. The constraints involved are of geometric type, including
+those that reflect the rigidity of the material to splay and twist deformations, the hexagonal
+structure of the lattice, and the conservation of mass. The elastic energy is particularly relevant to
+the modelling of DNA encapsidation, due to the polymeric structure of the DNA molecule, with
+persistence length of the same order of magnitude as the capsid size. This results on high bending
+configurations of the well-ordered DNA region and forces a disordered core, towards the centre
+of the capsid, that we take as being in the isotropic liquid crystal phase. We assume that the capsid
+is an axisymmetric domain and neglect its polyhedral structure. Although some viruses present a
+chiral arrangement, this analysis focuses on standard spooling configurations around the capsid
+axis. In fact, it is found that among the set of admissible configurations, the planar, azimuthal,
+spool-like configuration is the unique minimizer. The shape of the core depends on the physical
+parameters of the model, and in particular, the bending rigidity of the DNA.
+
+Determining the appropriate parameter ranges of the effective coefficients of the model
+involves three types of data. First of all, the size of the disordered core and density graphs
+revealing the ordered and disordered mass distribution in the capsid are available, for some
+viruses, as (CryoEM) cryogenic electron microscopy images. The length of the genome L, the
+effective DNA filament diameter d (it accounts for electrostatic repulsion), its persistence length
+Ly and the size of the capsid R, are also available for many viruses. In particular, these values
+allow us to estimate the bending modulus K3. We also appeal to the dimensional estimates of the
+compression and shear moduli of the hexagonal elastic energy, C and B, respectively, in terms of
+K3 as proposed in [23]. We explore values for the isotropic modulus v and the surface tension «

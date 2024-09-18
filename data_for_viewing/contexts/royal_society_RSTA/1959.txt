@@ -1,0 +1,24 @@
+
+min(§ig) < Ue < max(Eq), (C1)
+
+and temperature T
+min |tly — Sal? SDT < max lta — fia. (C2)
+i i
+
+Interestingly, the condition (C 1) translates to the fact that information cannot propagate at a speed
+below the smallest discrete velocity of the lattice, and above the maximal one—this condition
+is more commonly known as the (Courant, Friedrichs et Lewy) CFL condition. Similarly, the
+condition (C 2) translates to the fact that the temperature is bounded by the minimal and maximal
+internal energies of discrete velocities. Observing a lower limit for the temperature might be
+surprising at first, but in fact, this is exactly what is observed during simulations of both DVMs
+and LBMs (figures 1 and 2).
+
+Consequently, by choosing the minimal and maximal norm of discrete velocities, and by
+centring the velocity discretization accordingly, researchers from the DVM community are able to
+obtain stable simulations that lead to accurate results even for very large velocity and temperature
+variations. In this context, the lattice can either be adjusted in a static [29] or dynamic [35] manner.
+Interestingly, both approaches share similarities with adaptive LBMs that were proposed by
+Sun et al. [102-104] in the late 1990s and early 2000s, and recently reinterpreted by Dorschner
+et al. [105]. Nevertheless, contrarily to the latter LBMs which suffer from conservation issues
+due to space interpolations [106], DVMs rely on finite-volume discretizations of the DVBE, hence
+preventing any conservation issue.

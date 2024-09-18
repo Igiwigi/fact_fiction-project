@@ -1,0 +1,25 @@
+elements and took 2 days to run on the same computing system using 32 CPUs.
+
+(a) Elastic and strength properties
+
+Considerable gradual linear growths of the elastic moduli under loading in the weft and warp
+directions are observed for strains from 0.1% to 0.5% (figure 14). The linear growth is followed by
+a slow gradual reduction of the moduli with further increase of strains. The nonlinear behaviour
+is attributed to a combination of matrix microdamage and fibre splitting. The latter appears to
+be a minor cause contributing less to the modulus versus strain variations. The stress-strain
+response, as shown in figure 14a, exhibits a higher degree of linearity in the weft direction due
+to the fact that loading occurs directly on the fibre tows situated in the outermost surface. The
+warp direction shows more of a progression in failure of the material as shown in figure 14b and
+deviations from linearity occur relatively early in the loading regime. However, due to the fact
+that different fibre tows will have different stresses at the same externally applied displacement
+indicates that the carbon may fail earlier than the glass and the failure envelope is progressive due
+to the hybrid materials before two-piece failure. Numerical predictions using the two-scale multi-
+scale method showed excellent agreement with experimental data for in-plane elastic moduli in
+both the weft and warp directions for the idealized perfect geometry without any imperfections
+(model I). After including the in situ geometrical imperfections and the fibre crookedness in the
+FE model (model II), the predicted elastic moduli reduced the respective model I values (e.g.
+warp-directional modulus 34.12 GPa and weft-directional modulus 39.95 GPa) by only 2.2% in
+the warp and 2.3% in the weft directions. As we can see, there is a reduction in stiffness after
+including the geometric imperfections. For this hybrid configuration, the weft direction is stiffer
+than the warp direction due to the fact that there is one additional glass fibre tow layer in the weft
+direction, as summarized in table 7.

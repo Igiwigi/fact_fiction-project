@@ -1,0 +1,25 @@
+i
+Table 1. Comparison between the numerical slope 6 and its theoretical prediction 8, in (6.9) of the A? versus c dependence at :38
+the bifurcations Co max ANd Comin in the problem with the regularized potential (¢ = 0.25, x = 4,r, = 1). Parameters involved 18
+
+in the theoretical calculations are also shown. Here the first column shows the values of cg at which H’(co) = 0 (comax in the
+first row and Comin in the second), and the second column shows the corresponding values of ¢) where an eigenvalue crosses
+Zero (or a Floquet multiplier crosses 1), together with H’’ (co) and ox.
+
+a 4 H"(G) a B
+1.00546 1.00572 —5.3912 x 104 —5.6315 x 10” 9.5734 x 10-4 2.4400 x 10-4
+1.0497 1.0492 3.2588 x 10° —7.0461 x 104 —4,6250 x 10-3 —45713 x 103
+
+but cl, approaches the corresponding co values. This is a consequence of the fact that, for small 1,
+the solution at the boundaries is larger than the machine precision.
+To connect these results with the theoretical analysis of (3.4), figure 5 shows the dependence of
+22 with respect to c near dl, for both bifurcations, which according to theorem 5.3, must be linear
+in the vicinity of cl, with the slope
+u
+fat (co) 69)
+
+ay
+
+where a is defined in (3.11). To compute f; in (6.9), we use cg, i.e. the value of c at which H’(c) = 0;
+however, for determining a we calculate the eigenmodes at ch, as this value corresponds to the
+point where we are closer to a quadruplet of zero eigenvalues. Table 1 shows the numerical

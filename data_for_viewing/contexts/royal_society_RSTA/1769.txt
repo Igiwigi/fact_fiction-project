@@ -1,0 +1,25 @@
+this value by the 0.8 input power multiplier used to account for CBET. (Online version in colour.)
+
+different HT vapour mixtures, surrounded by either pure CH or CH with 2% D shells (these
+shells were homogeneous, and did not have a layer structure such as those presented in the paper
+referenced). Each of the ten shots was simulated using the parameters described in §3, including
+the 0.8 multiplier to the laser power used to account for CBET. For each of the 10 experimental
+shots the laser energy absorbed, DT and TT yields were measured, while the bang time and burn
+width were recorded for three of the shots.
+
+Figure 6 shows the fractional laser absorption. It is clear that the simulated absorption is
+typically just outside of the error of the experimental absorption, giving a slightly lower value.
+This could be improved by increasing the value of the CBET multiplier, but given the reasonable
+agreement between the two (and the fact that high accuracy is not expected or required from this
+1D code) it was decided that this constituted an acceptable level of agreement. Figure 7 shows
+the simulated DT and TT yields, normalized to the experimental data, for each of the 10 shots.
+The normalized DT yield has a mean of 1.14 and varies between approximately 0.7 and 1.7, while
+the normalized TT yield has a mean of 0.76 and varies between approximately 0.4 and 1.2. Again,
+given that HYADES is a 1D code, this is a reasonable level of agreement for the purposes of this
+paper, suggesting that the code and settings used are sufficient to give a reasonable estimate of
+the obtainable yield. It is notable that while the DT yield is a slight overestimate, the TT yield is a
+significant underestimate. This could be explained by kinetic effects such as fuel stratification [60],
+which are not included in hydrodynamic codes and are known to lead to increased TT yields
+compared to when this effect is not modelled [61].
+
+Figure 8 shows the normalized bang time and burn width. The bang time displays very

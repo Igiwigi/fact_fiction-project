@@ -1,0 +1,25 @@
+The PROTONS algorithm is based on precursor information of Ha flare location, time- 13
+integrated soft X-ray flux, peak of the soft X-ray flux and time of maximum, occurrence of type i=
+II and/or IV radio bursts. The output of PROTONS is a probability of the SEP occurrence and 8
+an estimation of the maximum proton flux at E > 10 MeV as well as the expected time of this if
+peak intensity. This model is currently in use by the Space Weather Prediction Center (SWPC) : x
+at the National Oceanic Atmospheric Administration (NOAA) [92,93]. The Proton Prediction : =
+System (PPS), developed at the Air Force Research Laboratory (AFRL), uses signatures of solar :3
+flares such as the SXR intensity and location, a fixed time parameter (0.25h after the flare’s iad
+
+onset) for the injection of particles into the IP medium and a time-invariant longitudinal SEP
+intensity gradient of a factor of ~10/radian from the position of the parent solar flare [94,95]. This
+gradient attenuates the maximum particle intensity as the angular distance from the site of the
+flare increases [94]. Recent multi-spacecraft studies verified the fact that the largest SEP intensities
+are observed from spacecraft that are well connected to the parent solar event and that there is a
+longitudinal gradient that on average falls in approximately 45° [79,96]. PPS provides predictions
+of the probability of SEP occurrence, as well as time-intensity profiles of SEPs observed at 1 AU for
+a number of user adjustable energy ranges [95,97]. Based on the association of properties of hard
+and soft X-ray flares with subsequent SEP events, concepts that use either the relation between
+gradual hard X-ray flares and SEP events [98] or the ratio of the soft X-ray fluxes of the two X-ray
+wavebands in solar flare events, which yield the flare plasma temperature and emission measure,
+assuming a single temperature source [89,99], have been proposed [100]. It was recently shown
+that the ratio of the soft X-ray solar flare fluxes [99] constitutes a viable SEP event forecasting
+parameter [100]. A technique to provide short-term forecasting of SEPs based on flare location,
+flare size and evidence of particle acceleration/escape as parametrized by flare longitude, time-
+integrated soft X-ray intensity and time-integrated intensity of type III radio emission at ~1 MHz,

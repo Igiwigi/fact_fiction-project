@@ -1,0 +1,25 @@
+temperature. The liquid films do not migrate at temperatures close to the solidus temperature,
+since there is no supersaturation and thus no driving force for melting.
+
+The formation of a typical microstructure during LFM, referred to as the particle free zone,
+is reproduced by the CA simulation. It is found that the migration direction of the liquid film is
+triggered by the concentration fluctuations that set a concentration gradient which in turn leads
+to diffusion away from the trailing (solidifying) interface towards the leading (melting) interface.
+The liquid droplets ahead of the leading interface are absorbed by the liquid film when the liquid
+film sweeps through the solid matrix. The liquid solidifying at the trailing interface forms a region
+free of liquid droplets. The simulated microstructure behind the migrating liquid film showing
+a particle free zone agrees well with experimental observations. It is also found that the solid
+concentration in the particle free zone is lower than the initial composition; essentially it is the
+equilibrium solid concentration, due to the fact that the resolidification at the trailing interface
+occurs with local equilibrium. Simulated concentration profiles across the migrating liquid film
+agree well with experimental quenched liquid films.
+
+CA simulation calculations are performed regarding the evolution of microstructure and
+composition field for an Al-4wt.%Cu alloy with an initially equiaxed grain structure in a
+temperature gradient. The LFM effect is considered in the simulation. The simulated grain
+structure becomes coarser and highly elongated during annealing. LFM is considered to strongly
+contribute to such grain structure changes. The lateral grain width increase is solely controlled by
+
+
+LEM, while the grain elongation in longitudinal direction is attributed to both LFM and TGZM.
+It is found that the grains with higher concentrations are swallowed by the adjacent grains with

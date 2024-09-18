@@ -1,0 +1,25 @@
+(a) Independent component analysis using time-frequency decompositions
+
+The basic ICA model assumes that the s; and x; are random variables, i.e. they have no time
+structure. In the basic theory, it is in fact assumed that the observations are independent and
+identically distribution (i.id.), as is typical in statistical theory. However, it is not at all necessary
+that the components are i.id. for ICA to be meaningful. What the ii.d. assumption means in
+practice is that any time structure of the data is ignored and what is analysed is simply the
+marginal distribution of the data over time.
+
+Nevertheless, it is clear that the time structure of the data could be useful for estimating
+the components. In §6c, we already used it to model dependencies between the components,
+but even in the case of completely independent components, time structure can provide more
+information. In fact, it is sometimes possible to estimate the ICA model even for Gaussian data,
+based on the time structure (autocorrelations) alone, as initially pointed out by Tong et al. [65]
+and further developed by Belouchrani et al. [34], among others (see ch. 18 of Hyvarinen et al.
+[3] or Yeredor [36] for reviews.) However, such methods based on autocorrelations alone have
+the serious disadvantage that they only work if the independent components have different
+autocorrelation structures, i.e. the components must have different statistical properties. This is
+in stark contrast to basic ICA using non-Gaussianity, which can estimate the model even if all the
+components have identical statistical properties (essentially, this means equal marginal pdfs).
+
+Thus, it should be useful to develop methods that use both the autocorrelations and non-
+Gaussianity. In an intuitive sense, such methods would more fully exploit the structure present
+in the data, leading to smaller estimation errors (e.g. in terms of asymptotic variance). Various
+combinations of non-Gaussianity and autocorrelations have been proposed. An autoregressive

@@ -1,0 +1,25 @@
+
+reaction into two separate streams (figure 62) which mixed on the chip just upstream of the
+junction such that the solution got in contact with oil almost immediately after mixing. By using
+this method, we never observed bubbles and recovered full control over formation of droplets.
+
+(b) Frequency coding of information in Belousov—Zhabotinsky medium
+
+The construction of logic gates with compartmentalized excitable medium described in the
+previous section can be applied to BZ droplets, but the recent experiments performed within
+the NEUNEU project [47] have shown that it is difficult to control a stable network with excitable
+BZ droplets. On the other hand, it is relatively easy to make a structure composed of interacting
+droplets containing oscillatory medium. It is also easy to fix required period of oscillations by
+selecting proper concentrations of reagents. These experimental facts encouraged us to introduce
+anew concept of information coding based on frequency of local oscillations. :=
+Numerical simulations confirmed by experiments predict that high-frequency oscillations : Ss
+can expand through the medium composed of oscillatory droplets analogously to expansion 12
+of excitations in an excitable medium [56]. The phenomenon is illustrated in figure 7 where nee)
+the time evolutions for different sets of droplets generated in a microfluidic reactor are shown. :
+It is known that frequency of oscillations depends on the droplet size [56,57]. It seems that a ne]
+few different phenomena can be responsible for this effect. In [57], the effect is explained by DN
+reactions between organic radicals and oxygen diffusing from the oil phase. Our experiments [sz
+on the influence of droplet size on oscillation period in separated droplets were performed for 58
+different concentrations of BZ reagents and another type of oil (decane). We observed a significant .
+increase in oscillation period for droplets with diameters below 1mm. The same effect was
+observed in both aerobic and anaerobic conditions. In the latter case, decane was argonated for

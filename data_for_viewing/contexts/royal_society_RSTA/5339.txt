@@ -1,0 +1,25 @@
+table 3.
+
+answers m Nn m=32 m= 64 :s
+uncontrolled 16971 = 2687 77 + 461 184 + 198 58.3 + 6.0 : a
+k=1 18.3 + 13 22.3 + 0.6 322 41.0 51.6 + 2.6 : s
+k=10 897 + 23 89.4 + 48 65.4 + 2.4 712 + 32 :&
+k=100 TNA + 28.9 716.6 + 20.1 _— _ : Es
+
+k= 1000 7136.0 + 190.0 _— _— — :8
+
+Compared with the times shown in the bottom half of table 3, execution is around 20% faster, [=
+for the same type of source data. A similar 20-30% improvement occurs when count queries iB
+are measured. The difference is accounted for by the fact that the FM-INDEX for English-200 is 2
+171 MB, whereas that for English-2108 is 10 times larger, at 1875 MB. Even though the cache on 78
+the test hardware is only 6 MB, it is big enough that some parts of the index that are frequently [yw
+accessed remain permanently present in cache while English-200 is being searched, but to a lesser :
+extent when English-2108 is being searched. That translates into measurably different execution 73
+times. Large data structures are also intrinsically slower to access on most modern architectures 8
+because of translation look-aside buffer misses when memory addresses are being computed. :
+Gog & Petri [5] provide detailed experiments that address this issue.
+
+To undertake valid experiments, it is thus important that the test files that are used are at a
+scale that fully reflects the hardware and, conversely, for referees to be sceptical of results that
+are demonstrated on datasets that are small relative to the hardware. For example, it would be
+inappropriate to test a mechanism designed for secondary storage (disk or SSD) using ‘just’ 10 GB

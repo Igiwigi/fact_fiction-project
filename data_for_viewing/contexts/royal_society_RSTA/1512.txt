@@ -1,0 +1,25 @@
+For instance, Météo France is currently implementing a random forest for post-processing
+ensemble forecasts [26], paving the way towards more full implementation.
+
+For AI to be fully integrated, this would imply that when changes are made to the systems, the
+centre would consider the post-processed result rather than the output of the NWP models alone.
+It would also involve making computational space and time for the AI method a priority. This
+would also imply trust in the methods, which will come with rigorous statistical validation. Such
+applications could be in terms of post-processing NWP output, ML downscaling, implementation
+as part of satellite products, enhancing prediction for high impact events and anomaly detection.
+It may involve conditional correction, such as identifying a regime and providing regime-
+dependent corrections. To accelerate such progress requires the ability to not only publish
+successful applications but also the failures. If failures are also routinely published, a vast amount
+of time could be saved by not having each research group try the same thing. In fact, a repository
+of failures could be quite valuable to the community.
+
+In the climate arena, downscaling using AI could save vast amounts of computational power
+and time while maintaining the type of accuracy needed if research advances to the place where
+the methods are fully trusted. Al can assist with intelligently weighing the models in CMIP runs to
+produce a ‘best estimate’ rather than a simple mean or median. Using feature detection as a new
+product of the output could aid in better understanding changes in patterns and the potential
+emergence of new patterns.
+
+As discussed in the prior section, community trust in the output of Al-post-processed model
+runs could lead to faster discovery and deeper understanding of weather and climate simulations.
+This acceptance hinges entirely on the development of interpretability methods and statistically

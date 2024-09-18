@@ -1,0 +1,25 @@
+
+Another possible explanation for our results is that we have defined our random networks in
+a way that makes them too similar to the biological case, thus masking some of the differences
+between functional biological networks and our random network controls. It is indeed likely
+that biologically inspired ‘random’ networks will mimic some features of biology that would
+be absent in a broader class of random networks (e.g. such as the specific pattern in the
+distribution of information storage discussed in the previous section). However, if our random
+graph construction is too similar to the biological networks to pick up important distinctive
+features of biological organization, then it does not explain the observed unique patterns in TE nor
+that AI is largest for control kernel nodes which play a prominent role in the regulation of function
+for the biological network. We therefore accept that the lack of distinct emergent, global patterns
+in information generated due to causal architecture as a real feature of biological organization and
+not an artefact of our construction. This observation may offer clues to what may in fact be the
+most distinct features of biological systems.
+
+
+4. Characterizing informational architecture
+
+The foregoing analyses indicate that what distinguishes biology as a physical system cannot be causal
+structure (topology) alone, but instead biology can be distinguished by its informational architecture,
+which arises as an emergent property of the combination of topology and dynamics. This is
+supported by the distinct scaling in information processing (TE) observed for the fission yeast
+cell-cycle network as compared to ER and SF ensembles reported above. In our example, what
+distinguishes biology from other complex physical systems cannot be global topological features
+alone, as the SF networks differ in their patterns of information processing from the fission yeast

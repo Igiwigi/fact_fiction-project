@@ -1,0 +1,24 @@
+mechanics becomes evident when reading the first few paragraphs of the paper. Taylor begins
+by noting that in experiments of the flow of fluids past solid boundaries, ‘steady motion breaks
+down and eddying flow sets in’ [2, p. 289], and that ‘A great many attempts have been made
+to discover some mathematical representation of fluid instability, but so far they have been
+unsuccessful in every case’ [2, p. 289]. Taylor goes on to enumerate attempts by giants in the
+field of fluid mechanics including Kelvin, Rayleigh, Sommerfeld, Orr, Mises and Hopf to examine
+flow between two infinite parallel plates, but who all concluded that ‘the fundamental small
+disturbances of this system are stable’ [2, p. 289]. Taylor also discusses [2, p. 290] Osborne
+Reynolds’ (1895) [3] and William Orr’s (1907) [4] ‘promising’ but unsuccessful attempts to
+consider the stability related to Reynolds’ classic 1883 experimental results [5] for the transition
+to turbulent flow in a pipe.
+
+Clearly, Taylor saw this as a challenge. In fact, he quotes Orr’s remarks that ‘It would
+seem improbable that any sharp criterion for stability of fluid motion will ever be arrived at
+mathematically’ [4, p. 75], [2, p. 290]. Taylor proves just the opposite by intentionally considering
+flow between concentric rotating cylinders rather than between two parallel planes. Taylor
+made clear that he was searching for an example where a mathematical representation could be
+found to match observable results, and he ended up focusing on Rayleigh’s instability criterion
+[6, p. 210] ‘so that a detailed comparison can be made between the results of analysis and those
+of experiment’ [2, p. 290]. The motivation was simply that ‘It is very much easier to design
+apparatus for studying the flow of fluid under pressure through a tube, or the flow between
+two concentric rotating cylinders’ [2, p. 291]. Taylor then opts for studying the concentric cylinder
+case rather than pipe flow because he notes that in pipe flow small disturbances are stable while
+large disturbances, which are much more difficult to study, are unstable [2, p. 291].

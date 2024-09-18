@@ -1,0 +1,24 @@
+
+Ww.
+
+and gig’: Yu Zy Yw [Lor Z onall other qubits].
+
+Notice that in both cases the AVN argument is reduced to just three qubits. Moreover, by the
+discussion at the end of the previous subsection, we know that the state corresponding to the
+subgraph induced by u, v, w in either of these two cases is LC-equivalent to a tripartite GHZ state:
+incase 1, we have a complete graph on three vertices, while in case 2, we have a star graph centred
+atu. a
+
+The second part of the above result means that the essence of the contradiction is witnessed
+by looking at only three qubits. In fact, in the contexts being considered, the experimenters at the
+remaining n — 3 parties perform either no measurement or a Z measurement. We could imagine
+that, in trying to build a consistent global assignment of outcomes in Zz to all the measurements,
+each of these n — 3 parties i is allowed to freely choose a value 0 or 1 for the variable Z;. Then, the
+equations for the variables representing the measurements of the remaining three parties would
+be those of the usual GHZ argument, up to flipping an even number of the values on the right-
+hand side. In terms of the state, we can use the ‘partial inner product’ operation described, for
+example, in [35, p. 129] to apply the eigenvectors corresponding to the chosen values for the
+other 1 — 3 parties to |G), resulting in a three-qubit pure state that is LC-equivalent to the GHZ
+state.
+
+From this theorem, we immediately obtain the following corollaries:

@@ -1,0 +1,25 @@
+RESP —> RR 0.748 0.003 0.295 0.069
+SAP — Rl 0.573 0.003 0.904 0.025
+RESP —> RR | SAP 0.778 0.003 0.445 0.069
+SAP —> RR | RESP 0.159 0.025 0.520 0.003
+
+from the supine to the upright position is observed only if we neglect instantaneous causality;
+this suggests that baroreflex activation resulting in a stronger transfer of information from SAP
+to RR is actually active only in the LF band [8], while finding it in the HF band seems indicative
+of inappropriate modelling of the instantaneous effects. On the other hand, RESP > RR | SAP
+decreases significantly from rest to tilt in the HF band, which has been previously documented
+and reflects a weakening of the non-baroreflex respiratory sinus arrhythmia mechanisms during
+postural stress [25]. Finally, we find that the inclusion of instantaneous causality increases the
+HF values for all the measures. This fact, that was previously observed for cardiorespiratory
+interactions assessed during postural stress [9], can be explained if we consider the instantaneous
+effects as fast (within-sample) contributions to the dynamics of the system.
+
+The analysis of the PB database (figure 5 and tables 3 and 4) shows that LF values are small or
+negligible for all measures. This confirms the lack of respiratory sinus arrhythmia effects in the
+LF band seen before when RESP is the driver [24], and indicates that—contrary to the postural
+
+
+Table 4. Statistical analysis for the second database; comparison GC versus iGC
+
+spontaneous Kendall W Kendall W
+RESP —> RR . 0.136 <0.001 1

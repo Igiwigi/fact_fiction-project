@@ -1,0 +1,25 @@
+
+.#? = 0), and on this basis the quantities (15-4) were evaluated for @? = 0 and 20 and inter-
+polated linearly in .@} for other values. This is certainly not accurate, but even if slightly
+incorrect values of the quantities (16-4) are used the only result is that a few more trial
+solutions have to be made before the criterion given by the sign of (16-3) is satisfied, and even
+ifsix trials have to be made instead of two, this only adds 2 min. to the total time of obtaining
+a final solution, whereas evaluating the quantities (16-4) from three (or five) preliminary
+solutions for each value of .@?, and punching and verifying a card for supplying these data
+to the machine would take longer than this, and the alternative process of working out an
+addition to the machine set-up to evaluate the quantities (16-4) from such a set of solutions
+would take longer than the aggregate time taken by the few additional solutions needed on
+account of the use of inaccurate values of the quantities (16-4). So the apparently crude use
+of approximate values of the quantities (16-4) is in fact the most efficient. This, of course,
+is a result of the high computing speed of the ENIAC and the short time which it takes to
+evaluate a single trial solution.
+
+An example of the results of this process is shown in table 1. The first two columns give
+the successive estimates of 4(0) and 7(0), the second two the resulting values of (5)
+and 1,(0).
+
+Taste 1. EXAMPLE OF SUCCESSIVE APPROXIMATIONS TO /ij(0), 7(0). {=
+
+initial values final values
+——————e— Oh OS om.
+2h9(0) 2r9(0) h(5) 2r9(5)

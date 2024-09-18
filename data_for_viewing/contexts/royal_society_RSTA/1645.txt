@@ -1,0 +1,25 @@
+. The ambipolar effect is
+
+(b) Average properties of the magnetic field
+
+Figure 4 shows that non-ideal effects influence the ‘shear’ component of the ideal Poynting flux
+more, i.e. the one associated with the horizontal motions along vertical flux tubes. Since these are
+the motions causing vorticity in the magnetized plasma, it is not surprising that Q- is affected
+in a similar way. In order to clarify the reasons for this behaviour, we considered the average
+properties of the magnetic field in all three runs.
+
+The horizontal and temporal average of the vertical and horizontal components of the
+magnetic field are displayed in figure 5. It shows that differences between the three models
+are present only in the layers above the surface, in agreement with the fact that both Hall and
+ambipolar effects are negligible in deep layers. This figure confirms what was already seen in
+figure 3c,d, i.e. that the magnetic field is weaker in the upper layers of the AMBI run, and stronger
+in the AMBIHALL run. Figure 5 demonstrates that this is true for both vertical and horizontal
+magnetic field components. However, these components are affected to a different extent. The
+ratio of By/Bz (figure 5c) reveals that the field that emerged to the upper layers is more horizontal
+in the AMBI case, and is more vertical in the AMBIHALL case, compared to the BATT one. Therefore,
+AMBIHALL simulation produces more vertical flux tubes. Since these flux tubes are necessary to
+propagate vortical motions along them, this can explain an excess of the latter in the AMBIHALL
+model.
+
+Figure 6 illustrates the latter point further. It shows snapshots of the magnetic field strength
+at an arbitrary time moment, in the upper photosphere. The differences in the structures formed

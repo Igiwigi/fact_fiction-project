@@ -1,0 +1,25 @@
+of a situation one is interested in. Thus let {P;} and {Q;} be two PDIs for the same system. If and
+only if they are compatible,
+
+P)Qk =QkP; for all j and k, (3.4)
+
+can there be a common refinement, a PDI consisting of all the non-zero P;Q;; otherwise they are
+incompatible and cannot be combined. The CH approach resolves (or evades or tames) the standard
+quantum paradoxes by means of the single framework rule, which prohibits as meaningless those
+arguments which reach some conclusion by (often implicitly) combining properties belonging to
+incompatible PDIs or frameworks; the latter term can include PDIs involving events at different
+times.
+
+An immediate application to the present discussion arises from the fact that the {Mj}, the
+possible measurement outcomes, form a PDI. But there is another PDI with just two projectors,
+[W] and I, — [W], with [¥] = |W) (| the weird ‘cat’ property introduced above, and I,, the identity
+on the apparatus Hilbert space Hm. This PDI, {[¥], Im — [W]}, is incompatible with the {Mj} PDI
+when, as we are assuming, two or more of the rj are non-zero. Both PDIs are valid quantum
+descriptions, but they cannot be combined. One cannot say, at least while being careful in the use
+of language, that [Y] corresponds to the pointer being simultaneously in several locations, since
+talk of [W] renders talk of pointer positions represented by the M; meaningless.” In summary, the
+CH approach resolves the first measurement problem, a Schrédinger cat state |W) of the output,
+by employing a framework or PDI {M;} as the sample space to which |W) assigns probabilities
+
+2In the quantum logic of Birkhoff & von Neumann [10], the combination of [¥] and some M; is meaningful, but false. This,
+alas, is not very helpful; see the discussion in $4.6 of [11].

@@ -1,0 +1,25 @@
+of a system [15], and it does not capture the full meaning of transparency (though transparency : ~
+is often equated with disclosure of system internals in technical communities and scholarship). Do
+Disclosure does serve the interests of transparency, however; transparency demands a mix of : S
+understanding how a system works, understanding why it works in that way, and a perception D8
+on the part of affected people that the mechanisms and processes of a system function to achieve 1B
+the correct goals.* To that end, sufficient transparency may simply mean disclosing the fact and : S
+
+scope of data processing in a computer system, as is required by the GDPR in the EU. However,
+when transparency is demanded, it is important to be clear over what transparency is required
+and to whom that transparency is intended.
+
+Achieving transparency requires considering who must learn what in order to find a system
+understandable. Nearly always, this will encompass the fact of the system’s existence and the
+scope of the things it considers, at least in an abstract sense. Sometimes, it will also involve general
+claims about the mechanisms underlying the system or properties of the system. The concept
+of ‘open-source’ software, or software which has source code that is both freely available and
+permissively licensed, strengthens transparency by combining detailed source code disclosure
+with the ability to derive additional knowledge by recompiling or modifying the software.°
+This stands in contrast to regimes where source code is merely disclosed or is disclosed under
+conditions or to specific parties. However, transparency neither requires nor is provided by either
+open source or source availability alone.
+
+Transparency is generally served by reproducibility, or the ability to reconstruct the actions
+of some computer system on multiple occasions [47].° Lack of reproducibility is a source of
+inscrutability which differs from those we have seen above, in that it is due to the technology

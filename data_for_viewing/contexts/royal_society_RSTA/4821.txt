@@ -1,0 +1,25 @@
+the constraints. We can now represent the D-2 transverse variables in the cellular automaton as
+classical degrees of freedom (both for the bosons and the fermions), while leave the remaining
+variables to be exclusive properties of the quantized (super)string only. They do not affect the
+dynamics, so our mapping remains valid.
+
+This, however, leads to a problems concerning string interactions. In earlier publications, we
+proposed to admit classical interactions when strings meet in a point. The classical interaction
+could consist of an exchange of arms of the string at such meeting points. The problem with this
+proposal is that the question whether strings coincide at one point will involve the dependent
+degrees of freedom as well. If these are determined by quantum equations (the string- and
+superstring constraints in operator form), then it is difficult to see how these interactions can
+be seen as classical interactions in the automaton.° The difficulty is further exacerbated by the
+fact that the procedure is not Lorentz invariant by construction; indeed, making the discretized
+cellular automaton Lorentz invariant is rather difficult, and this difficulty shows up when we try
+to include the string interactions.
+
+This difficulty is also related to the question of background dependence. Our model, as yet,
+is assumed to have a flat background. It is this flat background that then takes the form of a
+rectangular lattice. Any interaction in the string would lead to gravitons interacting with it, and
+these in turn would generate curvature in the background. One may suspect what all this means
+physically: the lattice will feature local lattice defects of various forms; the strings may merge
+with defect lines in some delicate manner, but all this has not been sorted out.
+
+What we did find is one rather astonishing fact, which seems to have been overlooked by
+string theoreticians: the lattice size parameter a is fixed in our theory. There is only one lattice size

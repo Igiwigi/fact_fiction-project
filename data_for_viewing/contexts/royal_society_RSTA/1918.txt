@@ -1,0 +1,25 @@
+extended to predict the reaction consumption rate as a function of the flow and reaction-rate
+control parameters.
+
+2. Mathematical and numerical models
+
+Here, we introduce the model based on the LBM that we will use to study simplified weakly
+ionized plasma fluid. The model describes momentum, electric charge and species concentration
+fields, taking into account electric breakdown reactions and the interaction between charged
+species and the electric field.
+
+(a) Lattice Boltzmann method for the momentum field
+
+LBM models the fluid via probability distribution function of fictive gas particles. Such particles
+perform consecutive propagation and collision processes over a discrete lattice mesh. The
+governing equation for the D2Q9 model is [26]
+
+file tei,t+1) —filx,) = — thle, 1) fx, )] + oF; (2.1)
+
+ciew | (ci uP “| (2.2)
+
+f; (p,u) ono {4 zt tae
+2 d 2
+
+
+g, i=0

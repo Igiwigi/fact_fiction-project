@@ -1,0 +1,24 @@
+boundary (3.15) and then use the free boundary condition (3.5) to define a new function h(t, 4).
+
+It was proved in [30] that the mapping > /i has a unique fixed point if 0 <t <T, which yields
+the solution asserted in theorem 3.2.
+
+
+The extension of the solution to all times remains a difficult open problem, so here we
+formulate a much simpler one.
+Consider the cylindrically symmetric case, so that
+
+(x,y,z, =P(r,z,b), r= (x7 + yy,
+
+and, in fact, take
+g(r,z,t) = Z(r,t) — z.
+
+Then the free boundary moves according to the equation
+
+Zt + vZ; — v3 =0,
+
+where v = (v, v3), and v is the radial velocity. Consider the elliptic system (3.8)-(3.11) with P a : =
+given function of (r,t). Find conditions on the function Z(r,0) and the pressure P(r,z) such that
+the wound begins to heal, that is, Z; > 0 at t = 0, i.e.
+
+bZ(r,0)—v3 <0 att=0. :8

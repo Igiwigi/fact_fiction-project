@@ -1,0 +1,25 @@
+aspect, without implying insight.
+
+
+2. From patterns to physics: the von Neumann revolution
+
+The development of dynamical meteorology as a science in the twentieth century has been told
+by both practitioners (e.g. [11,12]) and historians (e.g. [13,14]). The pioneering papers of Vilhelm
+Bjerknes (e.g. [15]) are often used as a signpost marking the beginning of dynamical meteorology,
+and we choose to use Vilhelm Bjerknes to highlight a fundamental dialectic that has enlivened
+the field since the beginning, and to this day, as we shall see below. Bjerknes pioneered the
+use of partial differential equations (the first use of the ‘primitive equations’) to represent the
+state of the circulation and its time evolution, but closed-form solutions were hard to come by.
+Numerical methods were also immature, and basic facts about the computational stability of
+the methods were yet unknown. The failed attempts by Richardson [16] involving thousands of
+human ‘computers’ are also well documented. One could consider it the first attempt at parallel
+processing, and at 64000 ‘cores’, it would be considered still quite cutting-edge today!. Bjerknes
+attempted a ‘graphical calculus’ using drawing tools but they were imprecise at 2-3 decimal digits
+of precision, as stated in [13, p. 87]. We note this as we shall return to the issue of numerical
+precision later in §3. Finally, abandoning the equations-based approach (global data becoming
+unavailable during war and its aftermath also played a role), Bjerknes reverted to making maps of
+air masses and their boundaries [15]. Forecasting was often based on a vast library of paper maps
+to find a map that resembled the present, and looking for the following sequence, what we would
+today recognize as Lorenz’s analogue method [17]. Nebeker has commented on the irony that
+Bjerknes, who laid the foundations of theoretical meteorology, was also the one who developed
+practical forecasting tools ‘that were neither algorithmic nor based on the laws of physics’ [14].

@@ -1,0 +1,25 @@
+To simulate the propagation of impact-generated tsunami waves, the governing equations of
+the respective wave theories must be able to handle nonlinear waves and the different profiles of
+the horizontal velocity. The Boussinesq wave theory is an excellent candidate for such a theory.
+However, the nonlinear processes that result in dispersion acting on time and length scales require
+very fine temporal and spatial resolutions on top of the demanding wave theory required to
+adequately simulate the wave dynamics. The next section will cover some of the prominent
+approaches to study the evolution of impact-generated tsunami waves.
+
+4. Quantitative assessment
+
+jumerous attempts have been made to quantify impact-generated tsunami waves, including the
+formation of waves, how they propagate across the ocean and the run-up process at the coast.
+The fact that no conclusive answer has been found to the question of whether impacts in the
+
+
+marine environment produce mega-tsunamis of greater dimensions than any other generation
+mechanism is due to deviating results from different methodological approaches.
+
+(a) Analogue experiments
+
+The first estimates are based on underwater nuclear explosion experiments suggesting an
+empirical relationship between the energy Y equivalent of kilotonnes of TNT (1 kt TNT = 4.186 x
+10!7J; in an impact event, the energy corresponds to the kinetic energy of the impactor), the wave
+amplitude A as a function of distance r, and water depth h [27]: A = 45(h/ r(Y)°>. Gault & Sonett
+[1] found similar scaling laws by conducting impact experiments with water-covered targets in

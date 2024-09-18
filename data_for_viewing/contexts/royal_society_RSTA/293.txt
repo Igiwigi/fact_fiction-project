@@ -1,0 +1,24 @@
+the probability of occurrence of that state. If we agree to measure all free energies as differences
+from that of the bare configuration, a comparison of (2.2) and (2.4) shows
+
+K ace SPAT (2.5)
+
+That is, the values of the reaction rate constants are constrained by free-energy differences: their
+ratio must be consistent with the equilibrium prediction. There is in fact a much more basic
+constraint on the kinetic constants. Imagine that the DNA is involved in several complexes.
+In that case the condition P, =P_, while sufficient to ensure time-invariance of probabilities,
+is certainly not necessary. It could be that the depletion of a certain species through one
+reaction is compensated for, not by the reverse reaction, but by a separate creation pathway.
+However, detailed balance asserts that in equilibrium such solutions are not acceptable: all
+forward reactions must be balanced by the corresponding reverse reactions. This fact is not at
+all evident from a reaction-kinetic formulation. While it will be convenient to work within the
+kinetic framework of rate constants, we must always bear in mind the constraints imposed by
+equilibrium considerations.
+
+We can now use these general results to study a few relevant examples, where we now
+explicitly treat multi-step reactions. Consider a DNA region D to which the protein X can bind.
+For convenience, let us measure energy in units of kT, and let the free energy of the bare DNA be
+zero. Suppose the free energy of state DX is ex (figure 2b). The probability that the DNA is bare is
+given by
+
+1

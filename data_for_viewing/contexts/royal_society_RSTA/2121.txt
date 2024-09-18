@@ -1,0 +1,24 @@
+
+(a) Localization and subsystems in quantum gravity
+
+LQFT furnishes an example of the role of such a mathematical structure. As described in the
+algebraic approach (see e.g. [24]), this mathematical structure arises from the manifold M on
+which the LOFT is defined. Associated with any open set U Cc M, there is a subalgebra Ay C A of
+the observables with support only in U (e.g. fields smeared with compact-support test functions).
+For spacelike separates open sets U, U’, the subalgebras Ay and Ay commute. Moreover, these
+subalgebras have nesting and intersection properties just like the open sets. So, the subalgebras
+‘mirror’ the topological structure of the manifold given by the open sets, along with the causal
+structure. This ‘net’ of subalgebras is the mathematical structure relevant to describing LQFT.
+However, this does not appear to be the correct mathematical structure for describing a
+gravitational theory. In fact, already at the perturbative level, we discover that this local algebraic
+structure must fail. Consider a scalar field ¢(x), coupled to gravity. While [¢(x),@(y)] =0 for
+spacelike x-y, (x) is not a gauge-invariant observable. Gauge observables can be constructed
+
+3For further discussion, see e.g. [12], and references therein.
+‘Beyond [13], see also, for example, [15].
+
+5For further discussion see [16].
+
+
+[25]°, by ‘dressing’ $(x) to give a new operator (x) that also creates the gravitational field
+associated with a particle created by $(x).

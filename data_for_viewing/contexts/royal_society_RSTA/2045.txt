@@ -1,0 +1,25 @@
+(d) Solution of the advection—diffusion problem in the fracture for At = 0(1)
+andy > 1
+
+For the moments of time of the order At=O(1) and y — 1, applying formula (3.17), equation
+(3.12) can be converted to the following form:
+
+ac + ac 1 CC
+dt | aX Pe ax2
+
+AY’y aC
++t AC=—0 | AYC+ ——— }. 29
+‘ ( + oF ) (3.29)
+Owing to the fact that At=O(1), it is reasonable to introduce a new temporal variable T = At
+in equation (3.29). For the values t= T/A, when T = O(1), the concentration front will move to a
+distance greater than | along the fracture. Therefore, a new characteristic scale Xo for the variable
+should be introduced. This scale can be found from comparison of the coefficients of the leading
+
+terms at the considered moments of time. As a result, Xp =1/(A +6 A”). After the substitutions
+
+xa*%, raat (3.30)
+Xp ,
+
+equation (3.29) will take the following form:
+
+ac | aC PC

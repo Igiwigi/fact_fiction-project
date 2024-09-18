@@ -1,0 +1,25 @@
+
+with the arguments defined in (4.4).
+
+The usefulness of the Valanis-Landel and I,-material strain energies is not confined to
+materials with limiting chain extensibility. The Valanis-Landel model, in particular, provides
+accurate models of incompressible, isotropic elasticity. The strain energy (4.4), (5.8) should also
+be considered from this point of view.
+
+(b) Counting chains
+
+The WG and AB models are presented here as a three-chain and a four-chain model, respectively.
+They are more usually described in the literature as a three-chain model and an eight-chain model.
+This discrepancy stems from the fact that different network geometries may yield equivalent
+models. In the present instance, each network is such that all of the chains intersect at the origin,
+both before and after deformation. So, if the chains in a particular network are joined at their
+centres and then affixed to the continuum, which is deformed as before, it should be clear that
+the stretches and the stored energy will be as before but the number of chains is doubled. The
+consistent chain counts are (3, 6, 4) or (6, 12, 8).
+
+6. Approximate inverse Langevin functions
+
+Introducing an approximate inverse Langevin function £;1 will yield explicit strain energies from
+(4.3) or (4.4) and (4.5). Consider the following candidate functions:
+
+15x

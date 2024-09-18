@@ -1,0 +1,25 @@
+By condition (H,) and property (P), one can see that equation (3.4) has no T-periodic
+solution on 02; for any 0 <6 <1. Recalling that ImP and ImQ coincide with the set of real
+constant functions, if 1 solves the equation QN(u) =0, then u is constant, say u(t) =c, that is,
+So f(t,c,c,0) dt = 0. By assumption (H,), u cannot belong d2,. Therefore, we are in the position to
+apply the Continuation theorem 2.5, obtaining
+
+|DL(L — N, 2;)| =| deg(F, 2, 0 ImP, 0)|,
+where
+1 (T~
+FO=-2| Fbec.0)at
+T Jo
+Thanks to condition (Hin), property (f;) and the definition of f, it follows that F(c) <0 if c <0,
+F(0) =0, and F(r) > 0. Therefore, as a basic fact in degree theory, one has
+deg(F, 2; 1 ImP, 0) = 1,
+
+and this implies, by theorem 2.5, that problem (1.5) admits at least one T-periodic solution u in
+,. Any T-periodic solution is non-negative and, if non-trivial, strictly positive in R.
+
+However, the previous computation does not allow us to understand if (1.5) has only the trivial
+solution or also some positive ones. Thus, in order to prove the existence of positive T-periodic
+solutions and, in particular, to conclude the proof of the theorem, we employ the excision property
+
+
+of the degree as follows. Consider the parametrized equation
+—ul(t) =F (t, u(t), u(t — 2), u'() +av(t). (3.5)

@@ -1,0 +1,25 @@
+can be enlarged into K(0,2), for a new direction @ and slightly larger 8, which can be shown to
+be 6 =2/2 — (2/2 — 0), for a universal jz. Therefore, once we prove (5.3), then an iteration (by
+considering iteratively 2u(x/2*)) will give us a sequence of cone improvements K(6x, ex), in By-x,
+with 0; = 1/2 — w(—1 — 1/2) =-+» = 2/2 — w*(x — 6). This in turn implies cle regularity at the
+origin. As this holds with same constant in a uniform neighbourhood of the origin, we obtain
+C!-regularity of the free boundary.
+
+(b) Interior gain on monotonicity
+
+To complete our heuristic proof, we need to prove the implication (5.3). To explain this
+geometrically, we consider a point z = (3/4)e, right above the origin. Then the half-space IT, :=
+{x - Vu(z) > 0} contains the cone of monotonicity K(9, en). All directional derivatives in directions
+v, that go into the half space are of course positive at z, in fact as they go strictly into the half space,
+
+‘This is a consequence of the boundary Harnack inequality.
+
+
+away from the edge of 7; they become strictly positive at z, proportionally to ¢(|Vu(z)|, where t
+is the distance of v to the edge of J7,. On the other hand, if the direction happens to be also in the
+cone of monotonicity, it is non-negative everywhere in our domain, say in a cylinder centred at
+the origin. Therefore, from Harnack inequality, the directional derivatives that are inside the cone
+are not only positive but comparable to ¢|Vu(z)| in, say, half the original cylinder.
+
+Finally, if the direction v is at the edge of the cone, but strictly inside /7, being of size t\v|, it
+forces positivity in a full neighbourhood of directions of size f.

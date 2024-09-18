@@ -1,0 +1,24 @@
+ij i j i j i
+As a consequence, we obtain a uniform bound on the yth moment of the discrete minimizers.
+As a result, the minimizing sequence corresponding to the associated atomic measures is tight,
+leading also towards a global minimizer of E[j].
+
+3. Further remarks in one dimension
+
+Here, we concentrate on the one-dimensional case (d = 1) for more refined properties.
+
+(a) Confinement of discrete global minimizers
+
+We check first how sharp are the conditions on the exponents of the potential to obtain the
+confinement of global discrete minimizers independently of 1. In fact, when the potential is very
+repulsive at the origin, we can show that a uniform bound in n of the diameter of the global
+minimizers in the discrete setting does not hold. If x is a minimizer of E;,(x), we always assume
+that the labelling of the x; is in increasing order: x1 <x2 <+++<Xn.
+
+Theorem 3.1. Suppose a < y <0 and a < —2. If x is a minimizer of Ey, then there exists a constant
+Ca,y such that, for n large enough,
+
+Xp — Xp > Cyynt*/e
+
+holds.
+

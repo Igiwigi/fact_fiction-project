@@ -1,0 +1,25 @@
+to the sign of the charge carrier, these composites provide a counterexample as they show the 73
+macroscopic Hall coefficient can be opposite in sign to the Hall coefficients of the constituent iL
+materials, assuming their Hall coefficients are zero or share a common sign. The argument that : =
+the Hall coefficient corresponds to the sign of the charge carrier assumes that the electrons, or a]
+holes, travel in straight lines, which of course is not the case in these composite materials. The : 2
+microstructures were motivated by a three-phase example [31] having cubic symmetry, where it : 3
+was rigorously shown that the Hall coefficients Ril , RH and Re of all three isotropic phases can be : =I
+
+non-negative, while at the same time R# is negative. One can explain this [29,31] in terms of the
+‘matrix valued’ electric field E(x) whose three column vectors e1 (x), e2(x), and e3(x) each solve the
+conductivity equations, with zero magnetic field (i.e. the same x(x) and p = pI). Assuming (E) = I,
+a perturbation argument [31,32] shows that the sign change of the Hall coefficient is related to the
+fact that the trace of the cofactor matrix of E(x) changes sign, at least in certain regions in the
+unit cell of periodicity. On the other hand, in any multiple rank laminates (with (E) =I) Briane
+and Nesi show that the determinant of E(x) remains positive [33], whereas it does take negative
+values in certain regions in the interlinked tori geometries [34]. While they show that the trace of
+the cofactor matrix of E(x) can change sign in three-phase multiple rank laminates, it is an open
+question as to whether it can change sign in two-phase multiple rank laminates. If it cannot, then
+the path is clear to establishing that there are three-dimensional two-phase geometries such that
+G(L1, Lz) and G4(L1, Lz) differ. We add that while in (2.13) the conductivity tensor o (x) = x(x)p7!
+is not symmetric, one can perturb the problem slightly so that phase 2 is slightly conducting,
+and then, using ideas of Cherkaev & Gibiansky [35], make a transformation to an equivalent
+problem where the tensor entering the constitutive law is real, symmetric and positive definite
+(see [36] and section 12.11 of [7]). Also one can introduce a periodic vector potential v for j — (j)
+in (2.13) so that j — (j) is expressed in terms of the antisymmetric part of Vv using the completely

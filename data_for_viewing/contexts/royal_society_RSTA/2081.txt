@@ -1,0 +1,25 @@
+
+2. Transport equations
+
+Transport equations (which, together with the thermodynamic equations of state, define a
+material) are essential in the analysis of non-equilibrium systems. Usually, they express the
+fluxes in terms of gradients of some physical quantities (for instance, the thermodynamic
+conjugates to conserved variables). Indeed, in classical transport equations (Fourier Law,
+Fick Law, Ohm Law, Seebeck Law, Peltier Law, Soret Law, Dufour Law, etc.) the heat flux,
+the mass flux and the electric flux are expressed in terms of the gradients of temperature,
+chemical potentials and electrical potential, denoted as thermodynamic forces (with forces
+understood not as mechanical forces, but in a more general sense, in an analogous way to
+which one may speak of social forces or economical forces, as causes producing some effects)
+[15]. In fact, each flux may depend on several different forces, though a number of different
+couplings.
+
+
+The fluxes are not necessarily simple physical quantities, but they may be constituted by asum 3 |
+of several contributions. For instance, the heat flux may contain terms related to the transport
+
+of molecular kinetic energy, molecular potential energy, vibrational and rotational energies of 3
+the molecules, and so on [17]. Analogously, the mass flux will be a sum of the contributions of 1S
+
+the mass fluxes of different kinds of chemical species in the system, and the momentum flux in
+macromolecular solutions or blends will contain the contributions of the several internal degrees
+of freedom of the macromolecular chains or networks [5,6,9-12,16,17].

@@ -1,0 +1,25 @@
+analogous to an objective molecular structure is the set of deformations yj,..., yj, defined as
+above, such that for each x € T and each z € R there is an orthogonal tensor Q; depending on x
+
+‘Excluding Astatine, whose structure is not known.
+
+
+such that En
+
+QilxX)(yZ) — yi 00) + yilx + e) € ¥(R). (1.3)
+For typical origami structures, we would also impose the continuity and invertibility (if S
+possible) of y. Also, for classic origami y is piecewise rigid, but this need not be the case. : gS
+The definitions (1.1)-(1.3) are not so convenient for the design of structures or molecules. In : 3
+fact, they imply a more useful underlying group structure. We first observe that real atomistic ‘2
+
+structures are discrete, and we add this to the definition of an objective structure: the structure
+contains no accumulation points. We consider an objective molecular structure S defined by (1.2).
+We consider isometries, written in conventional notation (Q|c), Q € O(8) and ce R3. Next, we
+define the isometry group of S as the set of all (Q|c) such that
+
+(Qle)(xk,c) = Oxke +C=XK0, kK=1,...,N, €=1,...,M, (1.4)
+
+where /7(-,-) is a permutation on two indices that preserves species in the sense given above. The
+natural group product associated with this definition is composition of mappings
+
+(Qi le1)(Qale2) = (Qi Qz\e1 + Qie2) (1.5)

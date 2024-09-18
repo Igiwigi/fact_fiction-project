@@ -1,0 +1,25 @@
+
+The tuning-fork oscillator and amplifiers providing the supply current are housed
+in a metal cabinet some 50 ft. from the bridge, and are connected to it by twinned
+cable enclosed in an earth-connected sheath of copper braid. The amplifier is
+actually housed in an outbuilding of the Laboratory some 150 metres from the room
+in which the bridge stands, and is connected to the bridge through a toroidal
+transformer, the windings of which are electrostatically screened from one another,
+The purpose of this transformer is to avoid imposing on the detector points of the
+bridge the very large earth-capacitances of the long leads to the amplifier, for,
+although the use of the Wagner earthing-arm renders the effect of these capacitances
+nugatory, the ease with which the necessary conditions of balance, both on the main
+bridge and on the Wagner arm, can be approached is largely influenced by the
+magnitude of the earth-capacitances of the detector arm. In fact, if these
+capacitances are so large that their impedances become comparable with those in
+the bridge network, the adjustments on the bridge and on the Wagner arm cease
+to be independent and the approach to the final balances can be made only by a
+great number of very small adjustments. By having an isolating transformer near
+the bridge, all this trouble is avoided, as the earth capacitances which are effective
+are only those associated with the leads between bridge and transformer, which can
+be kept very short. The return leads from the amplifier to the galvanometer are
+in any case isolated from the bridge and their length and associated capacitances
+are of no very great significance.
+
+With this disposition of the equipment, the stray coupling, both capacitive and
+inductive, between the bridge, supply, and detector, is reduced to a very low order

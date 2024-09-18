@@ -1,0 +1,25 @@
+were produced with VESTA [31].
+
+3. Results and discussion
+
+(a) Fe surfaces and interfaces :=
+We begin with an analysis of a conventional, centrosymmetric ferromagnetic metal, Fe, in which : a
+we break the inversion symmetry by introducing a surface. Bulk Fe occurs in the bec structure at 73
+low temperatures, with a net magnetization from the ferromagnetic ordering of the local moments aes
+on the Fe atoms. The magnetocrystalline anisotropy orients the magnetic moments along a (001) 22
+direction, which lowers the space group symmetry to 14/mm'm’'; the resulting site symmetry of Fe, [4
+which is on Wyckoff position 2a, is 4/mm'm'. The presence of inversion symmetry at the atomic : *
+site forbids the presence of magnetoelectric multipoles. Our first-principles calculations in this : =
+setting confirm this fact. [&
+
+On introduction of a surface, or an interface to a dielectric material, the inversion symmetry
+is broken and the system becomes insulating in the normal direction. These two properties
+combine to allow the linear magnetoelectric effect, which has been demonstrated for slabs of
+other ferromagnetic metals both computationally [9,10] and experimentally [32,33].
+
+Our first model system is a ferromagnetic Fe slab, represented by a superlattice containing
+16 (001)-oriented layers of bcc-structure Fe separated by 102 A-thick vacuum layers (figure 1b,
+upper panel). We set the in-plane lattice constant of the bec Fe unit cell to 2.98 A, corresponding
+to an in-plane Fe-Fe distance of 2.43A, so that it forms a coherent interface with MgO in the
+Fe/MgO heterostructures that we study next (amgo/ /2 =2.98 A). We then relax the out-of-plane
+Fe—Fe distances, and obtain a Fe-Fe distance of 2.41 A in the outer layers, while the Fe-Fe distance

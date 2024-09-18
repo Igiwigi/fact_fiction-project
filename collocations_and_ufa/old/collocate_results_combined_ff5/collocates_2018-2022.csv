@@ -1,0 +1,11 @@
+No.,Word,Total no. in window corpus,Expected collocate frequency,Observed collocate frequency,In no. of texts,Mutual Information value
+1,undermined,28,0.01,5,25,9.18
+2,fiction,59,0.02,10,11,9.10
+3,complicated,340,0.10,17,215,7.34
+4,exacerbated,120,0.04,6,100,7.34
+5,virtue,142,0.04,5,78,6.84
+6,spite,146,0.04,5,93,6.80
+7,despite,2988,0.92,102,1313,6.79
+8,sheet,239,0.07,6,53,6.35
+9,reflects,916,0.28,22,552,6.29
+10,remarkable,389,0.12,6,262,5.65

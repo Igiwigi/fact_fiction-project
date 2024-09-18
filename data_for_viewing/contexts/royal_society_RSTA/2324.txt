@@ -1,0 +1,25 @@
+
+It is easy to see that the ¢;’s agree locally. Indeed, both 0 and 1 are valid assignments for a single
+variable, which is the most two valuations can have in common. On the other hand, the fact that
+the liar cycle gives rise to a paradox means that the valuations do not agree globally. Indeed, a
+global assignment of truth values to each s1,...,S; consistent with formulae (3.3) is impossible,
+as they collectively yield s1 <> -s1.
+
+4. Non-locality and contextuality
+
+We shall now expose a surprising connection between the valuation algebraic theory of
+disagreement with a completely different topic, namely the study of non-locality and
+contextuality in quantum foundations. This will show that all of the examples of local agreement
+versus global disagreement we have just presented are in fact mathematically equivalent to
+contextuality. We will adopt the sheaf-theoretic description of contextuality developed in [3]. We
+will now review the main definition, assuming basic knowledge of sheaf theory and category
+theory.
+
+(a) The sheaf-theoretic structure of non-locality and contextuality
+
+Our starting point is a simple idealized experiment, depicted in figure 3. Suppose there are two
+agents, Alice and Bob, who can each independently select one of two different measurements
+to perform on their respective share of a given system: a1, a2 for Alice, by, bz for Bob. After a
+measurement is performed, one of two possible outcomes, 0 or 1, is observed. Note that only
+one measurement per party can be chosen at a time, so that there are four possible sets of
+jointly performable measurements, or contexts: {a1,b1}, {a1,b}, {az,b1}, {a2,b2}. When a context

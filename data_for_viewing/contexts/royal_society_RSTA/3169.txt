@@ -1,0 +1,25 @@
+
+It is historically interesting to note that, in the Hilbert, von Neumann and Nordheim paper,
+the basic object is the Green function of the Schrédinger equation, interpreted as transition
+amplitude, whose square gives the transition (or conditional) probability. This approach will
+be, 20 years later, the basis of the Feynman approach to quantum mechanics [10]. But in his
+later monograph [7] von Neumann follows a completely different, purely algebraic, approach
+based on the duality states-observables. This approach formally unifies classical and quantum
+probability in the sense that also classical probability can be formulated in terms of this duality,
+where state becomes synonymous with expectation value, from which a probability measure can be
+recovered with standard procedures. This approach was later pursued by Segal [11]. The price to
+pay is that one of the basic notions that distinguishes probability from general measure theory,
+namely conditioning, was absent in this approach. An indication that von Neumann was aware
+of this is that he devoted a long manuscript to the quantum conditioning problem. The fact
+that this manuscript was never published is an indication of the author’s dissatisfaction with
+its conclusion (which amounts to an algebraic version of the usual Bayes formula: today we
+know that this is not the correct answer). This manuscript was later published under the editorial
+supervision of Halperin [12]. The attempts to introduce a notion of quantum conditioning in
+the context of C* and von Neumann algebras have a long history, which eventually led to the
+conclusion that, in von Neumann algebras, there is an analogue of the conditional expectation,
+but contrarily to the classical case, in general it is not a projection [13]. This problem will not
+be discussed here. For more information on von Neumann’s role in the origins of quantum
+probability, see [14].
+
+Mackey’s monograph [15] was the starting point of an impetuous development of the studies
+on the mathematical foundations of quantum theory. Very good expositions of the lattice-

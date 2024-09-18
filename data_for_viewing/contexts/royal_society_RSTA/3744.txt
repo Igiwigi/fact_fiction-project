@@ -1,0 +1,25 @@
+1.54 A and greater than 4.5 A—i.e. the potential is described almost entirely by Vj in the reactant : 3s
+region and by V2 in the product region. A comparison between the fitted Ag and AEgp initio aS a : =
+function of r is shown in figure 4a. 2
+
+Owing to the difficulty of calculating ab initio values for the potential energy curve of CH3 [3
+dissociation from anything larger than structure D in figure 2, the EVB potential for CH3 [a
+dissociation was constructed as follows: The functional form and parameter values required to :8
+specify Hj2 were obtained from fits to ab initio energies along the neopentane dissociation curve Ss
+(shown in figure 4a); the offset parameters ¢1 and ¢2 were specified so that Vj + ¢1 is equal to zero 18
+
+and V2 + €2 equals the -CH3 dissociation energy of structure D (see figure 2) at large r. A relaxed
+scan along the C-C reaction coordinate for the final parametrized diamond EVB model is shown
+in figure 4b. The fact that the neopentane fits in figure 4a can produce reasonable dissociation
+curves at the diamond surface (figure 4b) indicates that the fitted EVB parameters have some
+degree of transferability.
+
+4. Molecular dynamics simulations of —CH3 dissociation at the diamond surface
+
+(a) NVE simulations
+
+Having obtained an accurate and efficient -CH3 dissociation potential at the diamond surface,
+we investigated the relative rates of processes (R2a) and (R2b) using non-equilibrium NVE MD
+simulations. Here, ‘non-equilibrium’ refers to the fact that the initial conditions of each NVE
+trajectory were modified from coordinates and velocities selected from an NVT ensemble (details
+below), in order to emulate the nascent vibrationally excited SCH3* species that we expect would

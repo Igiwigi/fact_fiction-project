@@ -1,0 +1,24 @@
+interaction—it involves only A and D, so only the records in A are relevant. By contrast,
+equations (3.16), (3.17) could be satisfied equally well by orthogonality of the local state of S
+alone or, indeed, of the global states of S.A. In other words, when one can access the composite
+system AS, the condition that allows for reversible copying can be satisfied by the global state
+even when it is not met by the record states of A alone [14]. Our next goal is to consider the effects
+of more global copying operations.
+
+
+4. Knowing of the record but not the outcome
+
+Immediately above, in equations (3.18)-(3.20), we have insisted that the orthogonality condition,
+Tr pea ps A — 0, should be satisfied ‘in the apparatus’, that is, that the apparatus eigenspaces that
+correspond to the records should be orthogonal. This insistence stemmed from the fact that the
+copying evolution 4p coupled only to A. However, one can imagine a situation where S(s_4)p
+couples D to a global observable of SA. In that case, one might be able to find out that A ‘knows’
+the outcome—the state of S—without actually finding out the outcome.
+
+The simplest such example is afforded by a one qubit apparatus that measures a one qubit
+system. The correlated—entangled—state of the two is then simply:
+
+Wsa) =| tAr) +414 Ay), (4.1)
+
+in obvious notation. Agent D can then detect the presence of the correlations established when S
+and A interacted.

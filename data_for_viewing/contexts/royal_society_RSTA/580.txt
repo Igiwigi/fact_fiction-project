@@ -1,0 +1,25 @@
+NOAA’s operational NSWE model as used for real-time flooding predictions has been tested 22
+with every significant tsunami since 2003 [1]. Predictions for the time histories of surface elevation : Ss
+done in real time have been shown in excellent agreement with the measurements from DART DNS
+buoys, except for unexplained time shifts of a few minutes in the arrival of the waves. No BT : =
+models have been tested for far-field propagation in as many events, and all comparisons of 73
+
+BT models we know of, also do require almost identical time shifts as NSWE models to match
+predictions with the DART measurements. Further, no BT models have been shown to model
+flooding from real tsunamis any better or as consistently as NSWE models, not to mention that
+many BT models de-facto become NWSE near or post breaking [82]. Despite this inconvenient
+truth, BT models have been peddled as panacea, not by mathematicians who are the most likely
+to understand their convergence and appreciate their advantages, but by engineers with no prior
+experience in tsunamis. The fact that the imagined benefits of BT simulations compared to the
+NSWEs are lost when done at inappropriate resolution somehow escapes many modelers, who
+don’t even check the convergence of their schemes for their specific application.
+
+BT codes may have substantial benefits when simulating near-shore storm waves or swell
+entering ports [64], but their benefits for studying tsunamis in ports remain unproved. One basic
+issue here is the duration of the event. Storm waves can last for several hours, allowing for time
+for nonlinear coupling of shorter frequencies, while near-shore tsunamis last for tens of minutes.
+BT models can probably predict detailed time histories of landslide tsunamis, but in the single
+historical case for which field observations exist, BT models predict maximum run-up to the same
+level of accuracy as NSWE models [84].
+
+If a regulator’s objective is to use the highest-end model available at the particular time a

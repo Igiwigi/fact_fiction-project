@@ -1,0 +1,24 @@
+solutions of (H) are oscillatory. Thus, equivalently, we say that (H) is non-oscillatory if (H) has a
+non-oscillatory solution. Nevertheless, for equation (P) with p # 1, the situation is different, since
+in this case oscillatory solutions and non-oscillatory solutions may coexist.
+
+In this paper, we deal with the existence of particular types of non-oscillatory solutions, that is
+solutions x of (P) such that xy > 0, Axy <0 for large n and
+
+lim xy =0, lim x! = Ay, P(Axy) = —00, (1.2)
+n in
+
+where x!" is called the quasi-difference of x. Solutions satisfying (1.2) are called intermediate
+solutions. This terminology originates from the corresponding continuous case and is due to the
+fact that, when (1.1) is satisfied, any non-oscillatory solution x of (P) satisfies either limy xn = lx 4
+0, or (1.2), or limy Xn = 0, lim, xl = —lx, 0 < ty < 00, see [3,4]. The investigation of intermediate
+solutions is a hard problem, due to difficulties in finding suitable sharp upper and lower bounds
+for these solutions, see e.g. [5, p. 241] and [6, p. 3], in which these facts are pointed out for the
+continuous case.
+
+In the half-linear case the problem of the existence of intermediate solutions has been
+completely solved by the following.
+
+Theorem 1.1. Assume (1.1).
+
+(i) Equation (H) does not have intermediate solutions if

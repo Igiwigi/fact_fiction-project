@@ -1,0 +1,25 @@
+
+where C;. denotes the reference concentration of ion and T is the temperature. The analytical
+solution for the stationary distribution of potential is [21,23,39]
+
+“1 -—————
+__keT Woe ~y = ekpT
+vy) =4—— (tan (tn (7 exp ())) , = | (3.7)
+
+where Y% is the potential at the bottom boundary and Ap is the Debye length.
+
+Figure 6 shows that the numerical results of the concentration and potential distributions along
+the Y axis are consistent with the analysis. In figure 6b, the potentials at location close to y=
+100 Ibu from simulation and analysis different slightly, which due to the fact that in the analytical
+solution, it is assumed a boundary at y = +00.
+
+4. Simulation of the simplified reactive plasma flow in a cylinders packed bed
+
+(a) Simulations and results
+
+With all the validated 2D LB model components discussed previously, we developed a numerical
+model to study a (simplified) weakly ionized plasma flow in a packed bed reactor. The bed
+consist of a regular array of cylinders (which appear to be spheres in 2D) and it is simulated
+to study the reactant consumption rate, q, under different control parameters. It is easy to realize
+that the consumption rate, q, depends in principle on many parameters such as, e.g., the inflow
+concentration(s), the flow velocity /pressure drop in the bed, the reaction rate coefficient (which

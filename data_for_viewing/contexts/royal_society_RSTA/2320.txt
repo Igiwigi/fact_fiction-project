@@ -1,0 +1,25 @@
+
+uz | = uz | 0. (3.7)
+
+x=-h 2=0 ~
+
+It is seen from figure 2 that as the contrast grows (from jz = 0.5 to 4 =0.3), the density of the
+cut-off frequencies seemingly increases. Moreover, high contrast (4 <1) necessitates the lowest
+cut-off frequency becoming small, as seen on a zoomed part of figure 4 showing the behaviour of
+the first mode in the near-zero vicinity. This phenomenon has been recently noted in studies of
+low-frequency dynamics in high-contrast elastic composites (e.g. [33]). We also observe that the
+dispersion curves in figure 4 look similar to those for seismic metasurfaces (e.g. [34,35]).
+
+The fact that the Rayleigh wave is very pronounced in case of a high contrast, i.e. it provides a
+good approximation for a broad range of frequencies, inspires approaching the original problem
+in plane elasticity in §2 within the framework of the hyperbolic-elliptic model for the near-surface
+wave field [29], see appendix B. However, before implementing this model, we try to reduce the
+role of the coating to effective boundary conditions along the interface x2 =0 as has been done,
+for example, in [3] dealing with a layered half-space subject to normal stress applied along the
+surface.
+
+4. Effective boundary conditions
+
+Consider an inhomogeneous Dirichlet problem for an infinite thin layer (—h < x2 < 0), subject to
+the boundary conditions
+u; | 0 and u; | =Ui, (4.1)

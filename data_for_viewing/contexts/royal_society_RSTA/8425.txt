@@ -1,0 +1,24 @@
+of (3.25), would each have their sets of daily multipliers and each constituent would
+yield two sets of hourly sums.
+
+10.1. The hourly sums would have to be analysed by formuls such as those for
+X,, Y, but limited to 24 hours. In order to isolate contributions from a particular species
+we found it necessary for the formule to be extended outside the 24 hours. Con-
+sequently, by the procedure outlined above, the corrections for any given constituent
+would have to be made for all other constituents, and not for those of the same species
+only.
+
+10.2. Such in essence is BOrGEN’s method, but the daily multipliers are replaced
+by +1, and so the principles of the Least Square Rule are still further ignored. There
+is probably no real objection to this simplification, and, in fact, the author has supplied
+the Hydrographer with a method of analysis of tidal observations extending over 29
+days, in which the multipliers for both daily and hourly processes are +1.
+
+10.3. The instructions by Dr. Hessen,* however, imply that only one out of the
+two possible sets of 24 hourly sums is evaluated except when known conjugate con-
+stituents with equal and opposite values of 9 necessitate both. This simplification is
+equivalent to the arbitrary choice of half the functions X,,, provided by the T.I.
+method. ‘lo compute all the possible functions by BOrcEn’s method would approxi-
+mately double the work, whereas in the T.I. method there is very little temptation to
+compute only half the functions, as the final processes are very simple and easily
+performed, owing to the condensation of the material at each stage.

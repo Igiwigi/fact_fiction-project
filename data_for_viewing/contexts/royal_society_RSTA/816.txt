@@ -1,0 +1,25 @@
+rough. Adapted from ref. [20]. :=
+
+growth. At intermediate and large undercoolings, dendritic-like structures are formed. The DN
+intersection of the dendrites with the sample surface hint at fourfold symmetry, best seen for 23
+germanium at intermediate undercooling. Also these observations are in agreement with the work : 3
+by Nagashio & Kuribayashi [28]. They found on the quenched sample twin-free dendrites. EBSD
+investigations indicate that the side branches of the dendrites also grow in the (111) direction as
+
+the dendrite stem does.
+
+At large undercoolings, the pictures show a solid-liquid boundary without any contours. In
+particular, the dendritic morphologies disappeared. Nagashio & Kuribayashi [28] explained this
+finding by the fragmentation of dendrites during recalescence. In fact, microstructures of samples
+solidified at large undercoolings exhibit an equiaxed grain refined microstructure. Fragmentation
+of dendrites by a Rayleigh type instability has been found in metallic systems [36]. Karma worked
+out a model of dendrite fragmentation by a Rayleigh type instability that explains microstructural
+double transitions from equiaxed grain refined to coarse-grained dendritic at a smaller critical
+undercooling and from coarse-grained dendritic to equiaxed grain refined microstructure at a
+higher critical undercooling in alloys [37].
+
+MD simulations of Buta et al. confirmed that the steps are indeed rough and diffuse and that
+the step kinetics is isotropic with linear kinetics [34]. It was shown that the steps have a two-
+atomic-layer structure. The velocity normal to the {111} direction is much lower than the range of
+step velocity found by the same computer experiments. Physically, this can be explained by some
+significant ordering of the liquid setting on the terrace in front of the step, due to short-range

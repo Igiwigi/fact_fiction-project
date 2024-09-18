@@ -1,0 +1,25 @@
+other words, the damping produces a fractalization of the amplitude basins, which implies a
+higher unpredictability for the system, showing only two possible states, interwell oscillations or
+no oscillations at all. We refer to this phenomenon as damping-induced fractalization.
+
+3. Restoring the interwell high-amplitude oscillation with a minimum value of
+the forcing parameter F
+
+In this section, we address the following question: is it possible to restore the high-amplitude
+oscillations suppressed by the damping effect? The previous section showed how the damping
+in our system (equation (2.1) with F =0) reduces the high-amplitude oscillations of Region IV
+(yellow in figure 4) making the trajectories fall into the fixed point (dark blue in figure 4). This
+change may be undesired, particularly because a small variation in the time delay may cause a
+dramatic change in the dynamics. In fact, in the amplitude basins the yellow and blue basins are
+intermingled due to the damping-induced fractalization of the parameter space.
+
+The phenomenon of delay-induced resonance studied in [16] for the overdamped case implies
+that even for the parameter values for which the time delay does not induce sustained oscillations
+a resonance may appear following a different mechanism. Our scenario is different, as the
+underdamped oscillator presents oscillations and the damping term, for certain values, eliminates
+these oscillations. However, we show that, even in this case, the delay-induced resonance
+phenomenon appears and as a consequence a small forcing is a valid mechanism to gain back
+the oscillations and reduce the fractality caused by the damping.
+
+In the following subsections, we explore the parameter values for which a small periodic
+forcing can restore the high-amplitude oscillations. To achieve our goal, we start analysing, in

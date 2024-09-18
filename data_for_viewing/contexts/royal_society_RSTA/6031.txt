@@ -1,0 +1,25 @@
+Figure 2. (a) Structure of the LMI (4.4) for a two-dimensional version of the RB convection problem in example 3.4 with
+A3 = 0 and after symmetry reduction. The basis functions are products of sinusoidal functions with wavenumber k in the
+horizontal direction, and either Legendre polynomials or piecewise (PW) cubic basis functions with compact support in the
+vertical direction. (6) Chordal decomposition of a block with nonzero wavenumber k for the PW cubic case. (Online version in
+colour.)
+
+4. Computational implementation
+
+Calculating the best upper bound on &* that the background method has to offer requires solving
+the minimization problem (3.82) or its improved version (3.21). Usually, these problems are
+analytically intractable and must be tackled numerically.
+
+The computational implementation of the background method is complicated by the fact that
+the Euler-Lagrange equations for the optimal A and v in (3.82) and for the optimal u in (3.8b) are
+nonlinear and, often, admit multiple solutions. Only solutions satisfying the spectral constraint
+(3.9) correspond to the saddle point of problem (3.8b) and give the optimal bound on $"; the
+others are ‘spurious’ stationary points for which the eigenvalue problem (3.10) has negative
+eigenvalues (see figure 2 in [35] for a schematic illustration), and which therefore do not produce
+valid bounds.
+
+
+This issue has historically been addressed using delicate numerical schemes based on
+continuation and bifurcation analysis [20,33,34,39,44,62-64]. Recently, two simpler alternatives
+have emerged that do not require continuation and have been applied successfully to a
+variety of flows. One approach [36,37,42,51,65,80,84,85] discretizes the minimization problem

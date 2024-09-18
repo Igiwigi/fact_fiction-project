@@ -1,0 +1,24 @@
+
+
+discrete setting by showing the qualitative properties of the global minimizers in the set of equal- 3 |
+mass Dirac deltas. These discrete approximations are used extensively in materials science and
+variational calculus with hard-core potentials [33-36] in order to understand the crystallization _
+phenomenon. However, these discrete approximations with soft potentials such as (1.2) are more 3
+difficult; apart from various properties of the minimizers [8,13,17,24], the existence as well as :<
+the convergence of these discrete minimizers are not established in general. In a certain range of :3
+exponents, we prove that the diameter of the support of the discrete minimizers does not depend :
+on the number of Dirac deltas. This result, together with standard compactness arguments, results
+in our desired global minimizers among probability measures.
+
+In fact, our strategy to show the confinement of discrete minimizers is in the same spirit as the
+proof of the confinement of solutions of the aggregation equation in [37,38]. In our case, the ideas
+behind the proof in §2 are based on convexity-type arguments in the range of exponents y > a > 1 :
+to show the uniform bound in the diameter of global minimizers in the discrete setting. Section 3 =
+is devoted to more refined results in one dimension. We show that, for very repulsive potentials,
+the bounds on the diameter are not uniform in the number of Dirac deltas, complemented by
+numerical simulations. In the range of exponents y > 1 > a, the minimizers turn out to be unique Dk
+(up to translation), analogous to the simplified displacement convexity in one dimension. In :
+the special case y =2 and a =1, we can find the minimizers and show the convergence to the [4
+continuous minimizer explicitly. DN
+
+2. Existence of global minimizers

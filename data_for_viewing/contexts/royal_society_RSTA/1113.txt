@@ -1,0 +1,24 @@
+
+3
+HU + >> dy, F)(U) = M(U)nu(U).
+j=l
+
+This form relates the change of entropy nu(U) directly to the various irreversible processes that
+occur in a system [2]. In other words, the change of entropy drives the irreversible processes,
+while the latter lead to the change of entropy.
+
+Notice that the dissipation matrix may depend on the non-equilibrium variables as well as the
+conserved ones, while the usual Onsager relation only allows the dependence on the conserved
+variables. It was shown in [16] why the dissipation matrix M = M(U) must be positive instead
+of semi-positive definite. In fact, this positive definiteness guarantees that (u,v) =0 whenever
+q(u, v) =0. This means that the local equilibrium states are those attaining the maximum of the
+entropy with respect to the non-equilibrium variable.
+
+We conclude this section with the entropy-production inequality proposed in [28], which follows
+from the conservation-dissipation principle. Look at the entropy production in (3.4): = ny(U) -
+M(U)n,(U), which is the inner product of the thermodynamic fluxes Q(U) and (entropic) forces
+nu(U). It is direct to see that
+
+o = nu(U) - QU) = mo(U) - M(U)no(U)
++. MU) AU)
+= MUWF > ane |M(U)?

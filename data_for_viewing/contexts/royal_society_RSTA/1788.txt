@@ -1,0 +1,25 @@
+where T = T(x, y,Z,t) is the surface temperature distribution, A is the thermal conductivity of the
+material (W m7! K), p is the density (kg m?), Cy is specific heat capacity (J ket K) and q (x,y,z, t)
+is the heat generated function per unit volume and unit time. By solving the equation, the value
+of temperature T and the temperature profile in the sample can be obtained.
+
+The ideal expression of current in the excitation coil can be written as I(t) = Ip sin(2zft), t < th,
+where Io is the current peak value, f is the operation frequency of coil which depends on the
+values of equivalent capacitance and inductance in the excitation source resonant circuit and
+t, is the heating time. When time is greater than t,, the current disappears. Joule heat and
+thermal diffusion work together during the heating stage. This temperature rise of the sample
+is determined by the excitation frequency, the heating time, the high-frequency magnetic field at
+the sample surface and characteristics of the material such as electrical conductivity, magnetic
+permeability, thermal diffusivity and thermal conductivity. In fact, the control loop looks for
+the resonant frequency of the excitation source and the coil current is not an ideal sinusoidal
+expression in the initial stage. This time has an impact on the temperature rise.
+
+(c) Resonant frequency tracking loop
+
+The excitation source for ECPT is actually an induction heating power supply system and the
+schematic diagram of this system is illustrated in figure 2. Since electricity is rectified and filtered,
+a DC voltage Ug is generated and this drives the full bridge converter. The MOSFET switch tubes
+of the full bridge converter are Q1—Q4, and C; is the resonant capacitor. In order to increase the coil
+current and improve the detection effect, a step-down transformer T1 is used. The coil, sample and
+capacitor constitute the series resonant circuit. Due to the electromagnetic interaction between
+the excitation coil and the sample, an equivalent circuit model [32] can be used to characterize

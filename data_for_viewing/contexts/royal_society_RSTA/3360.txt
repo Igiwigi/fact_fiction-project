@@ -1,0 +1,24 @@
+Timp liz Se 2°" (2E/2P-K/7) 4. pPrK/2—m/3y FIL, > 0, (3.42)
+
+provided that p — k/2 € [—0.99m, —0.01m]. The main gain here is the factor 3 in 29/2)0P-K/2) in the : =>
+right-hand side (Schur’s test would only give a factor of 1). a
+
+The proof of (3.42) uses a TT* argument, which is a standard tool to prove L? bounds for 1B
+Fourier integral operators. This argument depends on a key non-degeneracy property of the :
+function ®, more precisely on what we call the restricted non-degeneracy condition aa)
+
+YE n)=V2,PE, MIVEPE,n), Ve PE MIAO if O(E,n)=0. G43) 8
+
+This condition, which appears to be new, can be verified explicitly in our case, when | |& — n| — :3
+yo| « 1. The function Y does in fact vanish at two points on the resonant set {7 : ®(€, 7) = 0} (where 1S
+HE -—nl-yvol * 2"), but our argument can tolerate vanishing up to order 1.
+
+The non-degeneracy condition (3.43) can be interpreted geometrically: the non-degeneracy of
+the mixed Hessian of @ is a standard condition that leads to optimal L? bounds on Fourier integral
+operators. In our case, however, we have the additional cut-off function y<,((&,7)), so we can
+only integrate by parts in the directions tangent to the level sets of ©. This explains the additional
+restriction to these directions in the definition of Y in (3.43).
+
+Given the bound (3.42), one can control the contribution of small modulations, i.e.
+
+p-x<-yZ Tem. (3.44)

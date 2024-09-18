@@ -1,0 +1,24 @@
+:3
+Figure 7. Distribution of results for different methods and for 10 different material assignments, where each area in the aes
+anes)
+
+phantom is assigned a random mixture of all three materials. The seven methods shown in red (light grey in print version)
+(lower case labels) use the nonlinear model in the reconstruction, while the other five methods (upper case labels) use the
+linear model. From top to bottom, the methods are constraint using (1) non-negative matrix factorization projections, (2) mixed
+wavelet sparsity and non-negative matrix factorization projections, (3) mixed wavelet sparsity and low-rank matrix factorization
+projections, (4) wavelet tree sparsity, (5) wavelet sparsity, (6) low-rank matrix projections, (7) positivity, (8) total variation
+regularization, (9) wavelet tree sparsity and (10) wavelet sparsity. The second to last results are those achieved with ART [1]
+and the last results are those for FBP. (Online version in colour.)
+
+results in the light of the fact that we are unable to calculate exact projections onto the union
+of these two constraints and the fact that our algorithm is primarily designed for subspace
+models (which the non-negative factorization is not) shows that the two constraints are capturing
+important complementary properties of the data. This demonstrates that there is a need to study
+these joint constraints in more detail in the future.
+
+The only linear cost function-based result that is not matched by the nonlinear methods is
+the linear approach with the TV constraint. This suggests that the TV constraint is much more
+powerful for our phantoms than the related wavelet constraints we use here. This suggests the
+use of similar constraints also with our nonlinear model, which can be easily done by adding a TV
+regularization term to the nonlinear cost function. Combining this with the non-negative matrix
+factorization constraint is likely to offer additional benefits, though this is still under investigation.

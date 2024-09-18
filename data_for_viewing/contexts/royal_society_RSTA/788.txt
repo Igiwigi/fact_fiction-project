@@ -1,0 +1,25 @@
+hand side. In terms of the state, we can use the ‘partial inner product’ operation described, for
+example, in [35, p. 129] to apply the eigenvectors corresponding to the chosen values for the
+other 1 — 3 parties to |G), resulting in a three-qubit pure state that is LC-equivalent to the GHZ
+state.
+
+From this theorem, we immediately obtain the following corollaries:
+
+Corollary 4.6. A graph state |G) is strongly contextual if and only if G has a vertex of degree at least 2.
+Corollary 4.7. Every strongly contextual three-qubit stabilizer state is LC-equivalent to the GHZ state.
+
+The graph theoretic arguments used in the proof of the AvN triple theorem present some
+similarities to the techniques developed in [37] to derive Bell inequalities that are maximally
+violated by some graph states. In fact, corollary 4.6 also follows from theorem 1 in [37]. However, it
+is important to note that the AvN triple theorem goes beyond the graph-state formalism to expose
+the underlying algebraic structure of AVN arguments, which ultimately rests on AvN triples.
+
+“The notation in (4.3) indicates that ¢“ =X, g“ =" =Z, and g" is either Z or I for every other vertex z € V \ {u, v,w}, and
+analogously for the other lines.
+
+5This is actually the application of a linear map to a vector under map-state duality [36].
+
+
+3 4
+
+Figure 3. The four-qubit two-dimensional cluster state.

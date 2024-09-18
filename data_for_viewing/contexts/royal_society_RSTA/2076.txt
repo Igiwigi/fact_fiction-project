@@ -1,0 +1,25 @@
+5 A (x, tf) =0 is imposed, i.e. the final condition on the auxiliary field being fixed. In this respect,
+recall also that equation (2.7) keeps A (x, tf) unchanged.
+
+
+On the other hand, the equation for the auxiliary field
+
+a A(x, t)
+ot
+is obtained from equation (2.10) under the initial condition 6 P (x, t;) =0, ie. P (x,t;) being fixed.
+This equation shows that the spatial integral of the auxiliary field is not necessarily a conserved
+quantity, in contrast with the probability distribution function.
+
+A crucial point is the fact that equations (2.2) and (2.11) are identical to each other. It is
+therefore concluded that the auxiliary field introduced into the action for the Fokker—Planck equation
+is a weak invariant associated with the equation. In this way, the auxiliary field, which used to be a
+mathematical object introduced rather formally, is now endowed with a physical significance.
+
++ LTA, 6] =0, (2.11)
+
+3. Weak invariant as Noether charge
+
+Canonical theory is constructed from the Lagrangian density in equation (2.6). The
+canonical momentum densities conjugate to the probability distribution function and
+auxiliary field are Mp =d£/0(0P/dt)=A/2 and I, =d£/0 (0 A/dt)=—P/2, respectively.
+dP/dt and @A/dt cannot be solved in terms of the canonical momentum densities.

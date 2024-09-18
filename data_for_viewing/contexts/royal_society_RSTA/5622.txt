@@ -1,0 +1,25 @@
+Rosen’s original derivation of the characteristic functional based on the Hopf equation is mostly
+straightforward. We recall that Rosen’s symbolic expression can be obtained without using the
+Hopf equation, which is allegedly based on the idea of Novikov, §29.5 of [25]. See also [27], p. 252.
+The rationale for including this is that the second derivation stands valid when we have external
+forcing which is not necessarily white-in-time Gaussian. For simplicity, we illustrate it here using
+the unforced equation.
+
+We formally rewrite du/dt = Q[u] as
+
+t
+u6s,8)=uo(s) + [ Qluts, 2dr.
+0
+In fact, this virtually trivial recasting leads to a non-trivial result. Consider
+exp (i0(x) - u(x, t)) = exp {ia : (0 + I, Q[u(x, t)] dr) |
+0
+=[ex {ioe : (v0 + i. Q[v(x,t)] ar)} exp (ifs T) — v(x, t))w(x, ar) D[v]P[w],
+0 0
+
+by virtue of (3.3). Plugging u(x,t) = u(x) + So Q[v(x, t’)] dr’ into the above equation, we have
+
+t
+0
+
+exp (i0(x) - u(x, t)) = ] exp {ia : (uo + | Q[v(x, t)] ar)}
+t t

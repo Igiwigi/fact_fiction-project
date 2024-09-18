@@ -1,0 +1,25 @@
+
+Robinson & Sadowksi showed in [35] that it is an easy corollary of the results in [17] that the
+box-counting dimension of the singular set is no larger than! 5/3, and as a consequence were
+able to prove that for any particular suitable weak solution there is a unique particle trajectory for
+almost every initial condition: even when the solution is only ‘weak’, the Lagrangian formulation
+of the dynamics still makes sense. (The proof combines an argument due to Foias et al. [37] that
+produces a volume-preserving particle flow for any weak solution, with a dynamical result that
+for almost any initial condition such a flow must avoid the singular set. The almost-everywhere
+uniqueness follows relatively easily.)
+
+8. Conclusion
+
+We end with a quick summary of the above discussion. The key fact to take away is that
+proving the uniqueness of solutions depends upon being able to show that they are sufficiently
+smooth. There is, therefore, a natural hierarchy of solutions, whose properties improve with their
+regularity.
+
+— Very weak solutions are not unique.
+
+— Weak (finite-energy) solutions may not be unique, but exist for all time. They enjoy various
+‘partial regularity’ properties, which are, for example, sufficient to show that ‘particle
+paths’ exist for almost all initial conditions, so that a Lagrangian approach is valid even
+for weak solutions. This is an avenue that deserves to be explored further.
+
+— Strong (finite-enstrophy) solutions are unique but can be guaranteed to exist for only a

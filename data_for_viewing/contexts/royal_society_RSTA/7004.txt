@@ -1,0 +1,24 @@
+3-51. Errors in reading and measuring the records
+
+The error arising from measuring up the record may be estimated as follows. If acm. is
+the amplitude and we assume that the maximum values a,,,, @,,,, etc., can be measured to
+within --¢, independent of their magnitude, it can be shown that A(a2,) = 2e(a2,/N)? is a
+good estimate of the error in the mean-square peak value, where N is the total number of
+peaks measured. If is the horizontal component of acceleration, # = ka, where k gal/cm.
+is a constant of the apparatus, and the second-order correction dg is #?/2g. Assuming that
+each peak is sinusoidal, a? = 4a2, and dg = k?4a2,/2g; hence
+
+A(g) = KA(az) /4g = Ke (az,/N)4/2g.
+For a typical acceleration recorder record, N = 360, k = 9:81, (a2,)* = 0-4 and ¢ may be taken
+as --0.1 cm., to allow not only for errors in measuring the amplitude but also for the fact
+that individual peaks are neither truly sinusoidal in form nor of equal duration. This gives
+6g=7-8 mgals and A(dg) =0-146 mgal. If we assume that the two horizontal components
+are independent, then the error in the resultant will be the square root of the sum of the
+squares of the errors in the individual components. If the mean-square values of both
+components are equal, the total correction will be 15-6 mgals and the error only + 0-21 mgal.
+The accuracy with which the records can be measured is therefore quite adequate. In the
+case of the long-period pendulum records the scale factor k=19-6. The accuracy is there-
+fore slightly inferior but still quite adequate. For the fluctuations of the chronometer marks
+the situation is somewhat different. Details of the method of measuring have been given by
+Meinesz (19414).
+"3°52. Errors owing to limitations in the instruments

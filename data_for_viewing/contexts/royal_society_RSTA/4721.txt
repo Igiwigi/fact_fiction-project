@@ -1,0 +1,25 @@
+(| 10) for p€[1, 00),
+Wwe = ¥° (2.2)
+
+esssup ||1(f)||x() for p= 00.
+te[0,T]
+Note that we made an abuse of notation after the definition of the first space and identified
+u(t) = (ii(t), t) with ii(t). That (2.2) defines a norm is easy to see once one checks that the integrals
+are well defined (the case p =o is easy), which can be shown by a straightforward adaptation
+
+
+of the proof of theorem 2.8 in [6] for the case when each X(t) is separable (see also electronic
+supplementary material, S1) and the proof of lemma 3.5 in [14] for the non-separable case. The
+fact that ae is a Banach space follows from lemma 2.3 below.
+
+Important notation 2.2. Given a function u€ Lk, the notation it will be used to mean the
+pullback i(-) := ¢_,)u(-) € L?(0, T; Xo), and vice versa.
+
+Lemma 2.3. The spaces L?(0,T; Xo) and oe are isomorphic via $y.) with an equivalence of norms:
+
+1 b
+om elle SMO—QuOllLo,7;X0) S Cxllully» for all we Ly.
+
+Proof. We show the case p = 00 here; an adaptation of the p = 2 case done in [6] easily proves the
+lemma for p € [1, 00) (see also electronic supplementary material, S2). Let u € LY. Measurability
+of ui follows as u € Ly. Now, by definition, we have that for all t € [0, T]\N, ||u(4)Ilx@) <A, where N

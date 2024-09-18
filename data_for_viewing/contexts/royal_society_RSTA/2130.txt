@@ -1,0 +1,24 @@
+
+
+It can also be shown by differentiating the solution p(¢) that the Jacobian L@) is related to A(0)
+through
+
+~ a d\.
+4) =8"'@) (10) - 0%) 5(@). @.17)
+
+In the past, Method II was not formulated for multi-oscillator systems except for oscillatory
+reaction—diffusion systems; space-discrete systems such as networks and populations of
+oscillators were carefully avoided [7]. In discrete systems, the pair coupling, which has to be
+treated as a perturbation, depends on the two-state vectors of the coupled pair like V(X, X’). This
+fact seemed to make it difficult to treat the problem formally as a one-oscillator problem. As we
+see later in this section, this seeming difficulty can be circumvented easily. However, before going
+into this problem, we begin with an easier case to treat, because the formulation is almost the
+same as for discrete systems except for one essential point.
+
+The following example may be practically uninteresting but seems quite instructive for
+illustrating the general structure of the theory. Suppose that the perturbation P(t) is simply given
+by a function only of X of the oscillator of concern. This means that the nature of the oscillator
+has been slightly changed. By putting P(t) = «5F(X), where 5F(X) represents the change in the
+oscillator dynamics, the equation to be reduced is given by
+
+X = F(X) + €dF(X). (3.18)

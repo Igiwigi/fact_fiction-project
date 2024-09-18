@@ -1,0 +1,25 @@
+with the action of Q’(f) and P(t) given through q’ and p, respectively. Further we know that
+IQ’ Hl32@:0) = 14, 7 Hilzqe2zweny and ||P(AIl3,@,2) = pC, +2) ll @g2,gx). For more details, see
+for example Reed & Simon [35, p. 210] or Karambal & Malham [4]. The linear base and auxiliary
+equations above correspond to the case when A = C = O, D = d(d)) and B is given by the bounded
+multiplicative operator b = b(x). Recall that in our ‘abstract’ formulation above we required that
+Pec™((0,T]; Dom(D) NM Dom(B)). The explicit form for p = p(x,y;t) given in lemma 2.8 reveals
+that P will only have this property for certain classes of operators d = d(01). For example, suppose
+d=d(0}) is diffusive so that it takes the form of a polynomial with only even-degree terms in 0;
+and the real scalar coefficient of the degree 2N term is of the form (—1)N+1 apy). In this case, the
+exponential term exp(d(2zik)t) decays exponentially for all t > 0. We could also include dispersive
+forms for d. For example, d= ap , for which the exponential term exp(d(2z7ik) t) remains bounded
+for all t > 0. We also note that for such diffusive or dispersive forms for d=d(0;) the integral
+kernel function p = p(x,y;t) is in fact smooth. Also recall, from our ‘abstract’ formulation, we
+require Q’ € C™([0, #]; 32(Q; Q)). The explicit form for q’ = q/(x,y; t) given in lemma 2.8 reveals that
+its time dependence is characterized through the term i(k; t). For the diffusive or dispersive forms
+
+
+for d = d(d,) just discussed we observe that i(k; t) + —1/d(2mik) for all k 4 0 while for the singular
+value k=0 the term 1(0;f) grows linearly in time. Thus in such cases, while we know that for
+some time T > 0 for f € [0, T] we have ||Q'()Il3,(@,0) = lq", 7 Dllzq@zgemny = 114, 7 Dll a@azycmany is
+bounded, we also have
+
+14°C, Dlla@2zcne
+
+=| Pa, KT (A; HB*(k — A)b(K — v)I(v; )Po(v, «) da dv de dk

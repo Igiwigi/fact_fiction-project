@@ -1,0 +1,25 @@
+application of the commutative law of addition etc. [and because] this always corresponds
+to geometric theorems or logical conclusions, one can count these [processes], and, for
+instance, in proving certain theorems of elementary geometry (the Pythagoras theorem,
+[theorems] on remarkable points of triangles), one can very well decide which of the proofs
+is the simplest. [Author’s note: Part of the last sentence is not only barely legible in Hilbert’s
+notebook but also grammatically incorrect. Corrections and insertions that Hilbert made in
+this entry show that he wrote down the problem in haste.]’
+
+From this note, it is clear that Hilbert’s 24th problem is about the simplicity of proofs.
+Therefore, in this problem, one has to compare proofs and consequently it is important to know
+when two proofs can be said to be the same. For instance, one may formalize a proof in two
+different ways and if we are given two different formalizations, it is important to know whether
+these formalizations correspond to the same proof. In fact, if they do correspond to the same proof
+and we want some kind of criteria measuring the simplicity of proofs, that criteria must assign
+the same simplicity for those two formalizations.
+
+In this paper, we hope to give a possible reason for Hilbert mentioning syzygies in his 24th
+problem. In order to do such, we consider the problem of identification of proofs in the context of
+the membership problem of a polynomial f in an ideal. The main idea throughout this article is
+the following: given a Grébner basis, we consider the corresponding reductions and apply those
+to f in all possible ways. With this information, we can draw a graph where a rewriting step
+corresponds to an edge. We then can easily identify some paths with each other because they
+essentially come from applying the rewriting rules in a different order. After these identifications,
+how can we identify two paths that are not a simple reordering of the application of the rewriting
+tules? To each path, there is a corresponding expression for f in terms of the Grébner bases. So,

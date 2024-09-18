@@ -1,0 +1,25 @@
+
+im R,R,rdr = - S [cnt Goel E st) Creer est ais exp| — or) |e (17)
+
+fais ner n*' +n +2—p'—p°
+7? 3 Zev nL )epln*’, n(" a T(n*’ +n*"+1—p'—p").
+
+(as)
+This series terminates ifn*’ and n*” are integers, but in general is of the form of an asymptotic
+expansion. It can, however, be evaluated with sufficient accuracy by ignoring terms for
+
+which p +p" <1 nT. (19)f
+
+The first omitted term is in fact unimportant, except when the sum of the others is passing
+through a zero. The significance of condition (19) can perhaps most clearly be visualized by
+noting that it corresponds to neglecting in the integrals of (17) powers of r less than 2. The
+main contribution from these comes from the region close to the origin. Thus the maximum of
+
+#1 ne”
+rs exp| — of a ie )] (20)
+occurs at a radial distance r,, given by
+Se ee
+Tm = COn¥?pn®) " (21)
+
+The limitation imposed on s (that it should be below 2) is a compromise aimed at keeping
+7, as small as possible (it can be seen from (21) that it is always much less than the total extent

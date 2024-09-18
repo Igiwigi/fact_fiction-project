@@ -1,0 +1,25 @@
+the cotangent bundle T*X encoding the singular structure of u—in particular smooth [=
+distributions have empty wavefront sets; :3
+
+— under pull-backs by smooth functions the wavefront set obeys 13
+
+WE (x *u) CK*WE (ul); is
+
+— in the QFT context, the wavefront set condition (3.3) on the two-point function is sufficient : 4
+to fix the wavefront sets of all 1-point functions exactly (combining [16, Prop. 6.1] and DN
+[17]) and also ensures that the two-point function differs from the ‘Hadamard parametrix’ [sz
+by a smooth function [18]; and :B
+
+— the form of the wavefront set condition recalls the fact that Minkowski two-point .
+functions are positive frequency in the first variable and negative frequency in the
+second.*
+
+It is easily seen that S(M, J) is a state space for A(M, J). Now consider a morphism yw : (M, J) >
+(M’, J’) and a Hadamard state w € S(M’, J’). Then the n-point functions of and &/(y)*w are
+related by
+
+WO raf fn) = (AW oP (fd: Pay (fn))
+= a(S WOupyf) (LAW) Pury fo)
+= 0( Per py(Woh) <= Povey Wf) = WE haf Wohin),
+
+ie. WO yeu =(Wx---x w)* wi, from which it follows that &(yW)*w is Hadamard. Hence,

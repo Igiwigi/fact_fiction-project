@@ -1,0 +1,25 @@
+log N, the logarithm of the number of states the system can take on, and later I write Shannon’s
+formula for the entropy of random variable X that can take on states x; with probability p; as
+
+N
+H(X) =— )> pilogpi. (3.1)
+i=1
+
+Actually, to be perfectly honest, I did not even write that formula. I wrote one where there are
+only two states, that is, N =2 in equation (3.1). Then, I went on to tell you that the expression
+log N was ‘just a special case’ of equation (2.1). But I think I need to clear up what happened here.
+
+
+In §2, I talked about the fact that you really are given some information when a mathematician
+defines a random variable. Like, for example, in equation (3.1) above. If you know nothing about
+the random variable, you do not know the p;. You may not even know the range of i. If that is
+the case, we are really up the creek, with paddle in absentia. Because you would not even have
+any idea about how much you do not know. So in the following, let us assume that you know at
+least how many states to expect, that is, you know N. If you do not know anything else about a
+probability distribution, then you have to assume that each state appears with equal probability.
+Actually, this is not a law or anything. I just do not know how you would assign probabilities
+to states if you have zero information. Nada. You just have to assume that your uncertainty is
+maximal in that case. This happens to be a celebrated principle: the ‘maximum entropy principle’.
+The uncertainty (3.1) is maximized if p; =1/N for all i. If you plug in p; = 1/N in (3.1), then you get
+
+Hmax = log N. (3.2) :3

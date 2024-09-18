@@ -1,0 +1,25 @@
+methods tends to be the best-fit of an a priori analytic model (or one of a family of trialled models)
+and is obtained with some difficulty and expense. These methods are included here primarily
+as additional means to confirm the character of the nonlinearity (typically, by looking back at
+the Characterization step from the later Location and Quantification steps which demand such
+methods). The exception to this category is restoring force surfaces, which can give significant
+(and, notably, non-parametric) insight into the character of the nonlinearity, but is a typically
+single DOF analysis.
+
+(iii) Location and quantification (Steps 6 and 7)
+
+The existing methods for Location and Quantification of nonlinear features are essentially those
+first mentioned as ‘other methods’ for Detection and Characterization of nonlinearities in the
+previous sections. This follows from the fact that these methods are typically based on the trialled
+parameters or the closest fit to an a priori analytic form. However, methods based on FRFs, time-
+domain or time-frequency representations are of limited use for Location and Quantification
+given that all DOFs will tend to exhibit some effects from the nonlinearity, and not necessarily
+in an obvious or intuitive way.
+
+
+We perceive location of hidden/previously unknown nonlinear features as a greater challenge
+than the previous steps of Detection and Characterization, largely because the act of trying
+to locate infers analysis of a multi-DOF system, and any nonlinear system which passed the
+Detection stage will typically exhibit an influence of the nonlinearity at all DOFs—making
+standard FRF, time-domain and time-frequency plots of limited use. Indeed, the measured DOFs
+may be inadequate to be connected meaningfully by a representative nonlinear element.

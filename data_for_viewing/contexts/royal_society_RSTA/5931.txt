@@ -1,0 +1,24 @@
+
+holds in the sense of distributions. To obtain this we denote u! = u(x + 2) and u = u(x) and derive
+a weak form of the ‘doubling variables’ identity
+
+[9 vor—wenvedr= [Gen —0@s):Vodx
+= [0-1 9: Vo —u edu: V9) Ax
+= [0-@uivion — u ® dgu: Ve) dx
+=: [seu ody [wasn veds
+
+=f ur @ din -pax— | u @ dgu: Vo dx,
+Ta Ta
+
+where we used the fact that u is distributionally divergence-free. This establishes that (3.3) holds
+in the sense of distributions. Dotting the above equation with ¢, we find
+
+(d + u- V)(Seu- L) = —L- Vydep — Set - Ve(Seut - L) + [Seul? + def. (3.4)
+
+Integrating this balance over the torus, we have
+
+[ |Seul? dx=-Ve - I deu(Seu - £) dx, (3.5)
+1 1
+
+where we used only periodicity of the solution fields. Averaging (in the separation vector ¢)
+equation (3.5) over a ball of radius L centred at zero, we find

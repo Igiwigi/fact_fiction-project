@@ -1,0 +1,25 @@
+lattices by analytic means [35]. Here, we provide additional details regarding the integrability-
+based approach put forward in that work. The Hamiltonian of the one-dimensional Hubbard
+model is
+
+1 1
+H=-t > ¢ aCjtlo + 1 6So) + uy? (nis - >) (m1 - >) : (1.1)
+J
+
+joaty
+
+Here, ¢jo, dt « are fermionic operators satisfying the usual anticommutation relations, Nig =
+dt ofjo, t>0 is the hopping parameter and U > 0 is the strength of the on-site repulsion. The
+outline of this paper is as follows. In §2, we briefly recall necessary facts from the exact solution
+of the Hubbard model. In §3, we consider typical states at finite temperature. In §§4 and 5, we
+employ methods of integrability to show that it is possible to construct particular eigenstates at
+finite energy densities for which the charge degrees of freedom do not contribute to the volume
+term in the bipartite EE, corroborating the notion of the QDL diagnostic proposed in [33]. In §6,
+we show that there exists a parametrically large regime in which thermal states support a weaker
+version of QDL as proposed in [35].
+
+2. Eigenstates of the Hubbard Hamiltonian
+
+The Bethe ansatz method provides an exact solution of the one-dimensional Hubbard model [36].
+Within the framework of the string hypothesis, eigenstates in the Hubbard model are determined
+by solutions to Takahashi’s equations [36]. For a state with N electrons, M of which are spin-down,

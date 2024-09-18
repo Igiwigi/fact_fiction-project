@@ -1,0 +1,25 @@
+L (i.e. of the boundary 0 of any of its geometric realizations 2): D = Dy. Recall that this notion
+of fractal dimension (often also called ‘box dimension’ in the applied literature), which is very
+different mathematically and physically from the classic Hausdorff dimension [13], can be defined
+as follows: given ¢ > 0, let Q. = {x € Q: dist(x, 2) < ¢} denote the e-neighbourhood (or tubular
+neighbourhood) of 2, and let V(e) = |_|, the volume (i.e. length or one-dimensional Lebesgue
+measure) of 2. (Itis shown in [1,2] that, for a fixed e > 0, V(e) depends only on £L = (Gy. Hence,
+as was mentioned earlier, all of the notions discussed here depend only on £ and not on the
+geometric representation of L by 2 C R.) Then, given d > 0, let M% (resp., M,q) denote the upper
+(resp., lower) limit of V(e)/e!~4 as ¢ > Ot, called the d-dimensional upper (resp., lower) Minkowski
+content of £L. Clearly, we always have 0 < M,q < M5 <a.
+
+The Minkowski dimension of L (or, equivalently, of its boundary 32), denoted by Dy = Dm(L),
+is then given by Dy := inf{d > 0: M3 < 00} = sup{d > 0: M% = +00}. In fact, Dm is the unique real
+number, such that M%=-+00 for d< Dm and M7 =0 for d> Dm (e.g. [7,23-26]). Physically, it
+can be assumed as a critical exponent as it gives information about the behaviour of V(¢) as
+a power of e. In the sequel, for brevity and in light of the aforementioned identity D=Dy,
+we will use D instead of Dy to denote the Minkowski dimension of £. A fractal string CL (or,
+equivalently, its boundary 32) is said to be Minkowski non-degenerate if 0 < M,(<)M* < 00, where
+M* := Mj and M, :=M,.,p denote, respectively, the upper and the lower Minkowski content of
+L£ (i.e. of dQ). In addition, if M, =M*, we denote by M this common value and state that £
+(i.e. 9) is Minkowski measurable and has Minkowski content M. Hence, £ is Minkowski measurable
+with Minkowski content M if and only if the following limit exists in (0, +00) and lim,_,9+ V(e)/
+el PHM.
+
+(b) Geometric interpretation of the critical strip

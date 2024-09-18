@@ -1,0 +1,24 @@
+gender or ethnicity and the choice of font? If we do not understand what relationship is being
+hypothesised as part of an algorithmic decision, then it becomes nearly impossible to determine
+when an algorithm is capturing structure that is spurious or should not be considered.
+Traditionally humans have focused on understanding simple relationships between few
+variables. This is somewhat of a fallacy: as we have looked for them, we have discovered natural
+laws that seem to represent simple relationships between observed quantities, seeming to indicate
+that such simple relationships are fundamentally important. Yet if the true relationships are
+very complex-for example, our planetary weather system—could we ever in a data-poor setting
+
+discover them? Historically science has often appealed to the principle of Occam’s razor, which : =
+suggests that if several equally valid explanations are on offer, then the simplest should be chosen. : S
+Yet what if simple explanations offer no ability to predict? It is not clear if machines should be built : 2
+to resemble humans [71], looking for simple overarching frameworks. In fact a basic usage of 14
+computing is to keep track of many more very complex structures than we are able to as humans. : _
+
+Without the simplicity of Occam’s razor encouraging us to see a simple relationship between a 4
+few variables, it is also hard to understand what to do with unusual observations. Often in large : =
+populations it is easier to find outliers lying far from the main body of observations, and involving : 3
+ranges of predictors that no other observations involve. Very little can be guaranteed about : &
+
+predictive or statistical performance when this is true. As models become more more complex
+this effect is exacerbated further. In such settings, one can imagine scenarios in which decisions
+ought to be made instead on what could be considered ‘fair’ treatment, based on offering the
+options available to the nearest part of the bulk of the population.

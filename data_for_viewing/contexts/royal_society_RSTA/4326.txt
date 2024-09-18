@@ -1,0 +1,25 @@
+amplitude fluctuations in the time domain. Knowing the importance of the amplitude functions, it
+is surprising to see that, up to this time, the study of AM fluctuations in data has never attracted as
+
+
+much attention as the FM. One of the difficulties in amplitude-related analysis is how to define the
+amplitude fluctuation for a non-stationary and nonlinear signal in general. Ideally, the amplitude
+should be the envelope to a FM carrier. A well-known tool, the Hilbert transform, seems to fit
+our need. But as discussed by Huang ef al. [2,11], the Hilbert transform could not extract a well-
+behaved smooth envelope for an arbitrary signal. Furthermore, the Bedrosian theorem [14] clearly
+indicated that the Hilbert transform would favour the fast-changing component of the signal. In
+the case of an AM signal, the Hilbert transform would only compute frequency from the higher
+carrier wave components. In most cases, the Hilbert transform-defined envelopes are also highly
+oscillatory and verge on nonsensical results [3]. In fact, the envelope for an arbitrary time series
+cannot be defined meaningfully as discussed in [11]. The only way a unique envelope can be
+defined is through the IMF [2]. This requires the time series to be decomposed by the EMD first,
+as given in equation (1.3).
+
+For any process having prominent cyclic variations, the time-domain analysis is especially
+effective. Let us designate all the prominent modes with discernible modulation patterns as
+waves and the rest as random modulations with no features. Then for any additively decomposed
+component, we will have
+
+cj(t) = F(w1,W2,W3,...,N), (5.1)
+
+with w, as waves and nas featureless noise. It is possible to represent an amplitude function as

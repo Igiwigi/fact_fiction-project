@@ -1,0 +1,25 @@
+TéL?2((0,00);Hi(D)) and aT €L2,.((0,00); H71(D)),
+
+loc ‘loc
+
+and enforcing the PDE as an equality on H~1(D). Existence and uniqueness of weak solutions
+with initial data in L*(D) follows (see, e.g. [52]).
+
+Remark 2.3. A particular consequence of the previous remark that will be used throughout the
+proof of proposition 2.1 is that
+(u- VT,T)=0 fora. t,
+
+if u and T are as in the proposition. This follows from a smooth approximation argument and the
+fact that T(., f) € Hj(D) a.e. in t. Indeed, if T(-, t) is smooth and compactly supported in D then
+
+1
+wvrn=5f u-V|T/?dx=0
+2Jp
+
+by the divergence theorem. The bilinear form T+> (u- VT,T) is continuous on H}(D), per (2.2).
+The claimed identity follows from the density of smooth and compactly supported functions in
+HD).
+
+0
+
+Remark 2.4. In the case that u and f are steady, the bounds from the proposition become sharp

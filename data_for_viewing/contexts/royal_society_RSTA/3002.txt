@@ -1,0 +1,25 @@
+Secondly, the NDDE model (2.5)-(2.7) can be transformed into a partial differential Haus-type
+equation [9] with the help of the multiple time-scale analysis, where a ‘spatial’ operator acting on
+the fast time scale replaces the delay operator [29,36]. This can only be done by neglecting higher
+order derivatives (beyond diffusion) along the longitudinal direction. This approximation results
+in a discrepancy between the models for almost all parameter values.
+
+Finally, the NDDE model (2.5)-(2.7) accounts for diffraction via a lumped exponential operator
+exp(iq?) (in Fourier domain), whereas the Haus model [9] considers an additive operator iq’.
+Therefore, these approaches might yield identical results only for long wavelength LSs, for which
+the characteristic wavelength A< > 1 so that exp(iq’) * 1+ iq’. In our case, the typical FWHM
+of the LBs in the transverse dimension is A, ~ 6 (cf. figure 8b), which is not particularly large
+and can explain some of the differences between the two approaches. In our case, the qualitative
+convergence between the two models stems from the fact that in the MF regime (Qo > 0, Gp >
+0,« — 1) the LBs become wider in the transverse dimension.
+
+After we have demonstrated the quantitative accuracy of the functional mapping (3.5), we
+can use it to investigate the effect of large losses on the LB stability domain. Figure 10 illustrates
+how the stability domain on the plane of two parameters, normalized unsaturated gain go, and
+normalized unsaturated loss qq = Qo/— log «, changes with the decrease of the linear attenuation
+
+
+() 20
+
+. - . 42.5
+10

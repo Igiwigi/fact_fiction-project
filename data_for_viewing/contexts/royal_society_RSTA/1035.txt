@@ -1,0 +1,25 @@
+
+The core analytical approach to solving the problem that corresponds to the flow having the
+specific form given by equations (2.2) and (2.3) is given below. It is important to bear in mind that,
+for the fully nonlinear problem, other solutions might exist. We are only proving the existence and
+uniqueness of flows given by (2.2) and (2.3).
+
+
+Let us define the operator G: (L?(Q))? + (L?(@))* such that
+n
+G(T)T=2{(1+2R2 ITP)’ +R} T, (3.8)
+
+which clearly is not linear, but it still has some useful properties that can help in our task of finding
+a solution. In fact, it is easy to see that
+
+Nn
+|{(2+2R2IT?)" +R} T pq OF R9)ITlac@y, 6.9)
+ie. G(\T|)T € (L2(2))?, and also
+1
+Rs ITIPacg) = I. {(1+2R2 ITP)" + Ro] T- Tax. (3.10)
+
+Now, we take T, S € (L?(2))? (\(C1(2))* and let t > 0 to calculate the following:
+[tsar + 1S/?)(T + tS) — G(IT*)T] - [(T + #8) — T] dx. (3.11)
+Rearranging terms and dividing by 1/#? yields
+I. ZIG(T + #S|?) — G(\TP)IT- Sdx + I. G(T + tS|?)S - Sdx, (3.12)
+and by letting t > 0 we obtain

@@ -1,0 +1,25 @@
+
+with non-zero pairwise entanglement. By increasing k, the size of the communities is reduced, up
+to the limit for k = N/2, where all the communities have size 2, and correspond to pairs of highly
+entangled spins.
+
+Strikingly, for each value of k, the algorithm detects ne =k communities for any N on the
+weighted networks, as figure 5a shows (there are some small fluctuations, likely due to numerical
+errors). As a consequence, the average size of the communities is 5,=N/k. Moreover, the
+distribution of community sizes is highly peaked around the mean, as shown in figure 5b. It
+is worth stressing that identifying precisely k communities for large k is especially remarkable
+considering our description of the network topology in the previous section. Indeed, for low B,
+the graphs are essentially m-nearest-neighbours lattices for a wide range of k, so the difference
+in the community structure is far less obvious than the top-left networks in figure 1. In fact,
+when fed the unweighted networks (that is, with all the weights transformed as wij > O(«jj)),
+the inferred community structure changes considerably, as can be seen from the blue curves in
+figure 5a. The curves of number of detected communities 1, versus k show plateaus where n;, is
+roughly constant, interrupted by dips that appear at the same values of k/N for which the average
+degree changes abruptly (cf. figure 4a,b). Hence, we conclude that, in this regime, the community
+structure is encoded in the dependence of the concurrence with respect to the position along the
+chain.
+
+Recalling the physical interpretation of k as the quantum number associated with the total
+magnetization, one may argue that the emergent entanglement structures reflect a global
+symmetry of the system. Specifically, we conjecture that the emergent entanglement structures
+that we observe in the spin chain stem from the structure of the kink—antikink pairs in the dual

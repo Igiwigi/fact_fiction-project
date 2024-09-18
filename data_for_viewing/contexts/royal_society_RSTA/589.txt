@@ -1,0 +1,25 @@
+
+Ct N= Sr Saas)
+
+sin[¢ + o|t — t’| sin(o)].
+In summary, the complex branch yields the propagator
+
+G(t—t) =N el!" 18) sinfd + wlt — t'|sin(@)}; NV (5.3)
+
+_ wo
+~ 2P sin{2o}"
+
+Empirical studies show that the behaviour of commodities is modelled by the complex branch,
+and hence our choice of domain and additional constraints are as discussed above. In fact, we shall
+later see that our model fits the market data quite well.
+
+Note that the market correlation function additionally exhibits oscillations that do not vanish
+even for large t — t’, for which the model correlation function has decayed to zero. The value for
+t — t' for which the model correlation function G(t — f’) is zero indicates the range for which the
+model is applicable, and which is an important consideration in fitting market data.
+
+6. Calibrating the propagator
+
+The prices and volatility of different commodities vary over a wide range and the action should
+be written in terms of variables that factor out the scale of the prices and their volatilities. With
+this in mind, we define a new set of variables y(t) by the following change of variables from x(t)

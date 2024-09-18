@@ -1,0 +1,25 @@
+4. Magnitude of uv motions
+
+Discerning a self-similar structure that connects the geometry and dynamics of the momentum
+transporting motions naturally leads to consideration of the signal magnitudes. Features of the
+magnitudes of uv motions are represented by the PDF, and an example is given in figure 3.
+Figure 3a shows the PDF of the —uvt signal for yt near the start of the inertial domain at
+5+ =10100 with a dark (coloured) solid line, whereas the light (grey) line is the cumulative
+density function (CDF). The hatched regions show the percentage of data about the median. The
+highly non-Gaussian nature of the PDF and the high concentration of data around zero magnitude
+are clear. Figure 3b presents the PDFs as a function of y*. Interestingly, the shape of the PDF is
+nearly invariant over most of the boundary layer, with an obvious reduction in width in the outer
+region. This reduction in the PDF size in the outer part is a consequence of the non-turbulent
+region interspersed with the turbulent uv-containing region. In fact, the (externally) intermittent
+
+
+0 L 1
+
+1 10 102
+yt /5*
+
+Figure 4. The skewness of —uv versus wall-normal position normalized by the intermediate length scale. Symbols are
+tabulated in table 1. (Online version in colour.)
+
+region starts at a yt of about (4)6+ [23], which is roughly the location where the width of the PDF
+size starts to decrease.

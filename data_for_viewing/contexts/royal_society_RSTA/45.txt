@@ -1,0 +1,24 @@
+that better physiological denoising algorithms for such data are needed. Furthermore, we selected
+not to perform white matter (WM) or cerebrospinal fluid (CSF) regression, which is a relatively
+common practice in similar studies, as it is rather difficult to obtain accurate individualized masks
+for WM and/or CSF and consequently, some fraction of the grey matter signal may be regressed
+from the data, masking out the pure effects of physiological noise, in which we are interested [22].
+
+The frequency sub-bands that yielded the stronger correlations between time-varying degree
+and band-limited power are related to each signal’s characteristic and suggest that fluctuations
+in these bands have a clearer modulatory effect. For PETCO2 modulations in very low-frequency
+power (0-0.08 Hz in functional space and 0-0.02 in MNI space) were found to have the clearer
+effect, which is consistent with the previously described spectral characteristics of PETCO2
+fluctuations [19,32]. For HR, a wider frequency band was identified (0-0.25 Hz) reflecting the
+fact that HR has a richer spectral content than PETCO}. Additionally, the identified frequency
+band contains the low-frequency (LF—around 0.1 Hz) spectral peak and possibly also the high-
+frequency (HF—around 0.2 Hz) spectral peak of the HR signal. While, often, these two spectral
+peaks are assumed to correspond to cardiac sympathetic and cardiac parasympathetic neural
+activity, respectively, the relative contributions of each mechanism still remain the subject of
+controversy and investigation. What is generally accepted is that both LF and HF components
+of the HR signal (or HRV—note that fluctuations in these two signals have the same spectral
+characteristics) are affected by the complex interactions between both parasympathetic and
+sympathetic nerve fibres as well as mechanical, and other factors on the pacemaker cells usually
+located in the sinoatrial node [42]. The effects of these two components could be disentangled
+by obtaining estimates of instantaneous HF and LF HR power by using, e.g. point-process
+models [43].

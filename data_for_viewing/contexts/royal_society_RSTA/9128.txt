@@ -1,0 +1,24 @@
+is measured by the action line-element and the system of curves consists of all natural
+trajectories of total energy h—that is, it consists of all the geodesics of the manifold.
+The correspondence between points on the curves is fixed by the condition that the arc
+O* P* should be equal to the arc OP, where O and O* are arbitrarily selected origins on the
+undisturbed curve and any disturbed curve respectively. Thus the problem of stability
+in the action sense is that of the convergence of geodesics in Riemannian space. If two
+geodesics pass through adjacent points in nearly parallel directions, the distance between
+points on the geodesics equidistant from the respective initial points is either permanently
+small or not. If permanently small, there is stability. As simple examples we may quote
+the great circles on a sphere as illustrating stability and the straight lines on a plane as
+illustrating instability.
+
+There is anlimportant fact (easily deducible from the calculus of variations) in the case
+where the order of the disturbed curve is infinitesimal. It is that if O*O is perpendicular
+to C, then so also is P*P, where P and P* are any pair of corresponding points. In con-
+sidering stability in the action sense it is in general sufficient to consider only cases
+where O*0 is perpendicular to C ; thus we may say that there is stability in the action
+sense when every point of the disturbed geodesic is adjacent to the undisturbed geodesic.
+
+Perpendicularity with respect to the action line-element is equivalent to perpendicu-
+larity with respect to the kinematical line-element. Thus it appears that stability in
+the action sense is equivalent to stability in the kinematico-statical sense for disturbances
+which do not change the total energy, except in those cases where (h—V) either
+becomes zero at some point of the undisturbed curve or tends to infinity.

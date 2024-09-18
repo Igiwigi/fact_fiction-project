@@ -1,0 +1,24 @@
+ensures exchangeability and provides for a simple update via Bayes rule. The approach in Fong
+et al. [27] supports the replacement of (0 | Xcomp) with an estimate, 9(Xcomp), using an appropriate
+functional targeting any statistic of interest, not necessarily indexing a likelihood function, and a
+predictive p(Xmis | Xobs) built using all available information at time of inference, not necessarily
+involving a prior. For example, in this regard, it is perfectly valid and reasonable to consider
+uncertainty in estimates arising from the Bayes linear model (e.g. Lindley & Smith [5]) obtained
+in the limit of large data, without assuming that the true data generating process is a linear
+model. The conventional Bayesian approach conflates these two issues, that the estimate refers
+to parameters in the predictive model assumed to be true (see §3).
+
+(a) Martingales
+
+In fact, martingales are important for this view of the Bayesian methodology. Consider the
+
+posterior mean conditional on x}.741, Le.
+
+J Of Cn41 | 0) 10 | X10) dO
+POn+1 | X1:n)
+
+Ova = | O10 |xinsa) a0
+where x,,41 has been taken from the predictive p(x,41 | X1:n). Then, clearly, E (@)41 | Xn) =@n and
+so for m >, the sequence of posterior means forms a martingale. Indeed, any mean functional
+would form a martingale as would the sequence of posterior distributions itself. Martingales are
+the important feature to ensure convergence of the parameter of interest.

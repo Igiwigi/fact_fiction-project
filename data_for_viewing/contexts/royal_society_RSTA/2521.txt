@@ -1,0 +1,24 @@
+
+2
+
+% Length of proof is 236.
+
+% Level of proof is 39.
+
+% Maximum clause weight is 49.
+
+The drop in the parameters is not as dramatic as before, but we still have a simpler proof. Note
+that the maximum clause weight, which started at 87, did not change in this iteration. We could
+continue in the same vein for a while, but what will happen eventually is that the proof lengths
+will no longer drop, but might in fact rise a bit. Generally speaking, what tends to happen is that
+proof lengths (and the other parameters) rise and fall. A stable proof might be found at some
+point or it might not.
+
+Instead, let me introduce another part of this general technique: squeezing the maximum
+clause weight. We reduce the allowed maximum clause weight of the search to 48. This means
+that any time PROVER9 generates a clause of weight greater than 48, it will be deleted instead of
+being put on the SOS. (We also have to set a flag that tells PROVER9 to apply this weight restriction
+to hint matchers; by default, it does not do so.) So what we expect to happen here is that the clause
+of weight 49 which showed up in the last two proofs will be generated but deleted before it has
+a chance to be selected as given. If all goes well, PROVER9 will find a proof that bypasses that
+clause. Here is the result.

@@ -1,0 +1,24 @@
+Figure 1. Variation with time of total resistance (filled circle) and current (red solid line) for borate buffer solution, and a 18
+:F
+membrane with average nanotube diameter of 16 nm. This result is representative for all membranes and conditions tested. : S
+Sudden decreases in total resistance are clearly linked to current shocks, which disrupt the concentration polarization layer 1
+
+build-up, which is then resumed until the next current shock. The compounded error of the resistance values is estimated at
+25%. (Online version in colour.)
+
+(d) Numerical analysis
+
+As the experimental conditions in the present work fall close to or within the region of EDL
+overlap, the simplified solution for F=1 reported in equation (1.11) cannot be applied to the
+present case and, in fact, does not accurately reflect experimental data. Therefore, equation (1.4)
+has to be used, with a calculated solution for F. This was done considering the full, nonlinear
+P-B equation (1.6) and the linearized one equation (1.7). The former was solved numerically,
+while for the latter the exact solution in equation (1.8) was used. Finally, equation (1.5) was
+integrated numerically. A solution for the numerical resolution of the nonlinear P-B equation has
+been constructed via the following steps:
+
+— equation (1.6) has been collocated in equispaced points;
+
+— the differential operators have been discretized via finite differences of order 2;
+
+— boundary conditions were imposed in strong form; and

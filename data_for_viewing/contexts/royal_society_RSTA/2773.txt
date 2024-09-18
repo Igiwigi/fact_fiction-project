@@ -1,0 +1,24 @@
+regularly by the controllers of computer systems. Indeed, if only to protect their investment
+in developing the system or their costs in operating and maintaining it, the controllers of a
+system are likely to demand particular performance targets according to their preferred metrics
+for success. The questions of how a system is measured, what about it is measured, and how
+well the system must perform against those metrics are all key issues to be established during
+the design and deployment of a computer system. Claims that a system is inscrutable should
+address how a system is measured and describe why the desired introspection into its operation
+is relevant to observable performance. Once again, we see that inscrutability is likely to be the
+result of pre-existing power dynamics, not a property of the technology or its application.
+
+Extensional review of computer systems may also be undertaken by privileged oversight
+entities. It is common that the inputs and outputs of specific decisions are reviewed for
+accuracy or so errors can be corrected. In fact, the right to review computer system outputs
+in this way is guaranteed in laws such as in the adverse action notices of the Fair Credit
+Reporting Act (FCRA) and the Equal Credit Opportunity Act (ECOA) in the USA, and
+in the Article 13-15 rights to data access and correction in the GDPR in Europe. Beyond
+individual decisions, examination of group-level system outcomes is a cornerstone of quantitative
+evaluation for policy interventions of all kinds. While there are limits, courts have even
+held that group-level extensional evaluation is an important approach to counteracting
+discrimination [44].
+
+
+It is tempting to believe that the presence of information for review will naturally lead to Lo |
+accountability for any observable issues. But this is not the case: holding parties responsible

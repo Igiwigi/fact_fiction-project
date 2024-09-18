@@ -1,0 +1,24 @@
+
+Linearized Grad-type moment equations have proper entropy inequality, and are stable [30].
+One can say that the Grad method preserves enough of the properties of the Boltzmann equation
+at least close to equilibrium. Even without a formal entropy inequality, the nonlinear Grad-type
+equations are able to describe processes outside of the hydrodynamic regime sufficiently well.
+However, the lack of structure—loss of 2nd law and hyperbolicity—might lead to breakdown of
+solutions, or unphysical results for strong non-equilibria.
+
+(d) Closure by entropy maximization
+
+For the Grad closure, the distribution is a perturbation of the Maxwellian that assumes (very
+small) negative values at large velocities, and hence the entropy (2.6) cannot be determined.
+Maximization of entropy (MaxEnt) offers an alternative route to closure, that is in fact centred on
+entropy, and produces a positive distribution function, and a proper form of the 2nd law [31,32].
+
+The idea is to chose the least biased distribution that is compatible with the chosen variables,
+which is obtained by maximizing the entropy (2.6) under the constraint of given values for the
+
+
+variables F4. Taking care of the constraints by means of Lagrange multipliers A, this results in a
+distribution that is the exponential of a polynomial in c,
+
+fax = exp [- > Axoa| . (2.12)
+A

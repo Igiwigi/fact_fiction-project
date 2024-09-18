@@ -1,0 +1,25 @@
+
+Figure 8. Sample-induced curriculum from agent's learned abstractions. 1S
+
+account which concepts are most easily taught together, a preference that our model does not =
+have. a
+
+(a) Result: the synergy between tactic induction and curricula 1S
+
+We now evaluate whether this induced curriculum would help a second agent learn faster. [3
+Intuitively, when solving problems in a random order, the first agent takes many samples to :3
+accumulate evidence that a certain abstraction is useful, and time is wasted attempting problems
+that are either too hard (require abstractions several levels above its current tactics) or too easy
+(e.g. solved within a single step given its current tactics). Thus, the fact that the learner is
+performing tactic induction provides a strong reason why a curriculum might be helpful.
+
+To train a second agent using a curriculum, we first sample one of the valid topological orders
+on all problems solved by the first agent. Then, we split the resulting sequence of problems into
+three blocks. When sampling problems for the second agent, we initially only sample problems
+from the first block, until training success rate reaches a minimum of 90%, at which point we
+include the second block in the pool of problems, and again include the third block once the
+agent reaches a success rate of 90% when solving the last batch of problems. This schema matches
+a well-known definition of a training curriculum [36]: a function that assigns weights to training
+examples at each iteration in such a way that, at the end of training, sampling from the reweighted
+distribution is equivalent to sampling from the original target distribution, but examples might
+be gradually introduced throughout training.

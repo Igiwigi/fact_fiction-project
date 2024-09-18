@@ -1,0 +1,24 @@
+
+Since s(t) = ¢s1(t/e) is rapidly oscillating, we expect the particle to move primarily in the normal
+direction to the surface, i.e. along one of the curves from the normal family. If the particle were
+actually constrained a normal curve, the centripetal force of constraint would arise, namely kv?N,
+with the average k(v2)N over the period e. Now let us remove our non-existent constraint, and
+thus the centripetal force; the released particle then should behave as if the opposite force —k( v2)N
+were acting on it. This explains the last term in (5.5).
+
+There is an striking contrast between the brevity of the above heuristic argument and the much
+greater length of a rigorous proof of (5.3) (found in [25]). The heuristic argument also reveals a
+geometric aspect of the averaged equations obtained by a formal argument. This geometric form
+looks quite different from (5.3), and it is not clear how the geometric significance of these averaged
+equations could be discovered by other means. In fact, the geometrical form (5.3) of the averaged
+equations was arrived at before the rigorous proof of it was given in [25]. It would be of interest
+to convert the heuristic argument into a rigorous proof, thereby replacing the normal form-based
+argument in which the underlying geometry remains hidden.
+
+(ii) An illustration
+
+Consider the time-dependent surface with a ‘vibrating bump’, as shown in figure 8. According to
+the above, the effect of this vibration is to create a potential well, i.e. an effective force attracting
+to a potential minimum inside the vibrating patch.
+
+6. Ponderomotive magnetism

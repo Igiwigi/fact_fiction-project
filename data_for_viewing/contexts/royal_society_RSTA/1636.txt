@@ -1,0 +1,25 @@
++ (==) [aa (t) — wa (Ig) (3.20)
+In the recent years, a growing research interest has been devoted to this kind of equations, where
+the linear differential operator x” is replaced by the so-called Minkowski curvature operator or
+
+
+relativistic acceleration (see, for instance, [48-53] and references therein). Equation (3.20) is a
+special case of a ¢-Laplacian equation
+
+(o('))' + +a (f) — na” (Ig) = 0 (3.21)
+
+with ¢:]—L,L[— R an odd strictly increasing homeomorphism (a singular homeomorphism,
+according to [54]). The interest in studying equation (3.21), in the context of the present paper,
+comes from the fact that, writing the equation as an equivalent first-order system in the
+phase-plane of the for (3.1), we have that
+
+h(t,y)=hy):=¢ ly), ,VyeR,
+
+with |h(y)| < L for all y € R. Being h globally bounded, we have the global continuability of the
+solutions for the initial value problems associated with (3.1) and, moreover, lemma 3.7 applies.
+Then the following result holds.
+
+Theorem 3.11. Assume (C5) and any integer m > 1. Then, there exists a positive constant .* = A*(m) ix
+for which the following property holds: =
+
+for each A > 2* there exists u* = u*(A) > O such that for each > yx*, equation (3.20) admits at least

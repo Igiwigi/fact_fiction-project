@@ -1,0 +1,25 @@
+obtained by linearizing around a small step height. This provided an avenue to study these waves
+in three dimensions using linear theory [26-28]. While we did not consider the linearized elastic
+sheet problem here, the wave behaviour in this problem can be obtained using a method similar
+to the corresponding analysis in [18]. This suggests that it is possible to study elastic waves
+in a linearized three-dimensional regime, in which the waves typically arise due to Airy-type
+behaviour in the analytically continued complex domain.
+
+Many of the most interesting questions regarding waves in elastic sheets arise in the study
+of flexural-gravity waves; that is, including the effects of gravity. This is the natural next step to
+explore using exponential asymptotic methods. Given the similarity between gravity-capillary
+and flexural-gravity waves, it is likely that an analysis of this sort would share many similarities
+with the gravity—capillary studies of Trinh & Chapman [24,25]. Implementing a computational
+scheme for the full nonlinear flexural-gravity wave problem would be challenging due to the fact
+that the different wave contributions propagate in opposite directions (as in the gravity—capillary
+problem, discussed in detail in [25]), making numerical studies more complicated.
+
+Data accessibility. This article has no additional data.
+
+Authors’ contributions. C.J.L. conceived the problem, performed the asymptotic analysis and wrote the
+manuscript. L.K. assisted in the formulation of the problem, and editing the manuscript. R.P. wrote the code
+and performed the numerical computations.
+
+Competing interests. We declare we have no competing interest.
+
+Funding. C.J.L. acknowledges the support of ARC Discovery Project DP190191190, and Macquarie University

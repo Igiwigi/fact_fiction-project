@@ -1,0 +1,24 @@
+
+524 MR. R. A. FISHER ON THE MATHEMATICAL
+
+a maximum for variations of 6, @., @;, &c. In this form the method is applicable to
+the fitting of populations involving any number of variates, and equally to discontinuous
+as to continuous distributions.
+
+In order to make clear the distinction between this method and that of BayEs, we
+will apply it to the same type of problem as that which Bayes discussed, in the hope
+of making clear exactly of what kind 1s the information which a sample is capable of
+supplying. This question naturally first arose, not with respect to populations distri-
+buted in frequency curves and surfaces, but with respect to a population regarded as
+divided into two classes only, in fact in problems of probability. A certain proportion,
+p, of an infinite population is supposed to be of a certain kind, e.g., “ successes,” the
+remainder are then “ failures.” A sample of » is taken and found to contain x successes
+and y failures. The chance of obtaining such a sample is evidently .
+
+7 oe
+Figie (1—py.
+Applying the method of maximum likelihood, we have
+
+S (log f) = x log p+y log (1—A)
+
+whence, differentiating with respect to p, in order to make this quantity a maximum,

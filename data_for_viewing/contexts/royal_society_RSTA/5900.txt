@@ -1,0 +1,25 @@
+[3,4]. These attempts, which solely rely on brute-force direct numerical simulations (DNS), have
+the intrinsic complication that any extreme realization of an observable will necessarily be very
+rare, and thus hard to observe. Therefore, exploring extreme events not only requires high
+numerical resolution but further extremely large datasets, most of which are wasted because they
+do not exhibit the desired event. On this basis, we instead employ specific rare event techniques
+[5], in particular stochastic field theory and instanton calculus [6], or equivalently, sample path
+large deviation theory [7]. The two are intimately connected [6,8], and have proven successful
+in related fields, such as extreme shocks in Burgers turbulence [9-11], extreme surface heights in
+the Kardar—Parisi-Zhang (KPZ) equation [12], in ocean waves and tsunamis [13,14], or extreme
+mechanical forces in grid-generated turbulence [15]. The key idea is to replace the inefficient naive
+sampling approach by a deterministic optimization problem that yields the maximum-likelihood
+trajectory of the system that leads to a prescribed rare outcome. The advantage of this method
+is the fact that it yields the best estimate of the typical extreme event in the limit of it becoming
+increasingly rare, which is the limit we are most interested in, and at the same time also the regime
+that is hardest to reach via DNS.
+
+As we will discuss later, instanton techniques not only allow for the computation of the
+limiting most likely path to obtain an extreme event, but further yield estimates for the
+exponential tail scaling of the observable’s probability density function (PDF). A concrete
+prediction of our results is the fact that intuitive rotationally symmetric realizations of extreme
+vorticity outcomes (namely, vortex tubes/filaments) or extreme strain outcomes (namely,
+colliding or contracting vortex rings) are not necessarily the most likely way to reach extreme
+values, even if the observable exhibits rotational symmetry. In fact, we present that the rotationally
+symmetric events become subdominant, particularly for large positive strain values, and are
+dominated in probability by asymmetric field configurations. In other words, the stochastic

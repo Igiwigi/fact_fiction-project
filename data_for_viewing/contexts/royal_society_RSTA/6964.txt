@@ -1,0 +1,24 @@
+The third category (v) involves mixed boundary conditions, and the problem of stretching
+is probably the more important of this type. This is discussed in the next section.
+
+The first category, given by equation (C. 1), has already been dealt with, and it is now of
+interest to consider the application of the method of the difference correction and the use of
+large intervals in the second problem given by equations (C. 2). No boundary derivative is
+specified, so that this problem is not strictly within the scope of this paper, but it is men-
+tioned here as belonging to the biharmonic type of problem, and as an introduction to the
+next section.
+
+There are no difficulties as regards the relaxation of the finite-difference equations
+resulting from (C.2). Both functions u and v are recorded, with their associated residuals,
+at every mesh point, and the relaxation is in fact quite easy and much more convergent than
+the corresponding treatment of equation (C.1). The method of Fox (1947a) for the treat-
+ment of curved boundaries is still applicable, and the only new problem is presented by the
+occurrence of the terms 0?u/dx dy, 0°v/0x dy in the differential equations.
+
+The usual approximation is given, with reference to figure 20, in the form
+
+4h? Ouy
+Bi ag ae hates he (C. 3)
+
+Computation of the difference correction for this expression is more laborious than in the
+case of 0?u/dx? or 0?u/dy?. One method is to use the differences of u to calculate accurately

@@ -1,0 +1,25 @@
+
+Carbon has been for a long time the standard material for the plasma facing component as
+it is rather forgiving when the plasma touches the wall. Unfortunately, carbon reacts easily with
+hydrogenic isotopes (including tritium) to form carbohydrates. Additionally, carbon easily forms
+dust with the result that much of the tritium would lay on the bottom of the tokamak. Therefore,
+
+
+in Europe, a clear decision was made towards metallic plasma facing components. This was
+first pioneered on ASDEX Upgrade which was gradually equipped with a tungsten wall and
+later followed by JET, where most of the wall was changed to beryllium, while the divertor was
+changed to tungsten. As a result, the tritium retention dropped by a factor of 20, to a level low
+enough for ITER to be able to work for a long time without any opening to get the tritium out
+[11,12]. A drawback of the metallic wall, however, is the fact that it is less straightforward to make
+high-performance plasmas, as the heavy metals from the divertor have a tendency to migrate
+into the core plasma. Special operational procedures are needed to achieve high-performance
+operation in a metal wall tokamak. This involves ample central heating, seeding of the edge
+plasma with noble gasses, flushing impurities with benign Edge Localized Modes, etc. Detailed
+studies at JET [13] over a number of years were needed to bring the performance with the ITER-
+Like Wall back to the same level as with the former Carbon wall. The effect of choking of the
+plasma performance due to influx of heavy metal impurities is, in general, less severe in a large
+tokamak with a larger volume to surface ratio.
+
+The operation at high performance, near the operational limits, comes at a price. Namely,
+disruptions in which the plasma comes to a sudden termination lead to strong forces on the
+vacuum vessel [14]. These become stronger for larger devices and therefore much effort needs to

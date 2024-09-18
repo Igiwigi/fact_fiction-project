@@ -1,0 +1,25 @@
+
+stationary signals; that is, it does not require any a priori assumptions about the signal itself and nee)
+its convergence has been proved when applied to one-dimensional signals.
+
+Post-processing method (PostP). Given the classification matrix C ¢ R'*", produced by a ty
+given classifier, we decompose C using the MIF method into its first IMF I; and a 3
+remainder/trend R. We then remove the first IMF from C producing the new classification :2
+C=C-—h=R. We represent this method using the operator PostP: RIX +> RI, .
+C+ C=PostP(C).
+
+We observe that, since the convergence of this method applied to the decomposition of two-
+dimensional signals is still an open problem, we checked the meaningfulness of the outcome of
+such a post-processing using the one-dimensional convergent MIF method. We consider, in fact,
+the classification scores first along each row and then along each column of the classification
+matrix, and vice versa. The results of these two procedures prove to be close to that obtained
+by post-processing directly the two-dimensional classification using the two-dimensional MIF
+method.
+
+The other method we present here is a pre-processing technique. The goal is to devise a
+completely data-driven decorrelation and mean-centring technique that can be applied to a
+hyperspectral dataset before classifying it with the plain COS measure. The idea behind this pre-
+processing method comes from the observations we made previously regarding the ACE and COS
+classifiers. In particular, we know that ACE requires a priori knowledge of the mean signature
+and covariance matrix of the background, and we observed that if we can somehow whiten
+and mean-centre the hyperspectral image pixel signatures then the COS and ACE classifiers

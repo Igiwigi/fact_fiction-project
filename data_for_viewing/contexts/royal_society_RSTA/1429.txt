@@ -1,0 +1,25 @@
+feomput(N) =
+
+However, load imbalances per process may occur due to irregular domains and corresponding
+decompositions. In particular, the computational load varies significantly, for example, between
+cloudy and cloud-free areas. In this case, it makes sense to model
+
+tcomput(1) — fimbalance(1)
+
+fcomput(N) N + timbalance(N)
+
+with temporal evolution timbalance(N) for the imbalanced compute part. The latter is, however,
+very complex to deduce analytically, due to the aforementioned state-dependency argument on
+cloudy areas and the fact that simulation models comprise up to millions of lines-of-code.
+
+
+
+12800
+
+—— model
+
+6400 AN - —te— model + est. load imbalance
+i measured
+300 = — — ideal scaling
+2 1600
+&

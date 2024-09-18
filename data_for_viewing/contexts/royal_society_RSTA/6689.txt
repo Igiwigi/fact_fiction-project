@@ -1,0 +1,25 @@
+point QP, is outside H. Then, provided 7; is sufficiently large, the lattice QA” has a point
+QP outside H, and also, by the hypothesis of the induction, has at least 2k+-1 points in H.
+But now the lattice A® has at least 2k+-1 points in the bounded body Q-'H, and has two
+additional points +P) in K, If r; is sufficiently large, K°? contains Q-'H, and so A’?
+has at least 2k +3 points in K*, contrary to supposition. This contradiction establishes the
+induction from k to k+1, and so completes the proof of lemma 1.
+
+LemMA 2. Suppose that K is a fully automorphic and boundedly reducible star body, and let k be
+a positive integer. Then there is a bounded star body H,, contained in K such that, if A is a lattice with
+determinant A<A(K), then there are at least 2k-+-1 points of A in H,,.
+
+Proof. The result is true when k = 1 by the definition of a boundedly reducible star body.
+The general result follows by induction just as in the proof of lemma 1; in fact, the proof may
+be used word for word if A is replaced by 1.
+
+Lema 3. Suppose that K is a fully automorphic and fully reducible star body, and let k be a positive
+integer. Then there is a bounded star body Hj contained in K such that, if A is any lattice with deter-
+minant A<A(K), then there are at least 2k+-1 points of A in H¥ ; at least 2k+-1 being strictly inside
+H¥ unless A is a critical lattice of K.
+
+Proof. We first prove that there exists a bounded star body H; contained in K such that,
+if A is any lattice, which is not a critical lattice of K, with determinant A<A(X), then there
+are at least 2k-+-1 points of A strictly inside H;. This is true when k = 1 by the definition of
+a fully reducible star body. The result follows by induction just as in the proof of lemma 1.
+It is necessary to make a number of minor changes in the proof; A is taken to be 1 throughout,

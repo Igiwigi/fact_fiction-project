@@ -1,0 +1,24 @@
+MEEMD techniques.
+
+To have a better understanding of the true performance of these different post-processing
+methods, we can compare directly the classifications depicted in figures 2b and 4a,b with the
+ground truth shown in figure 1b. From this comparison, it is evident that when using the wavelet
+transform, while the noise is removed in a reasonable way, the shape of the plume is partially lost
+due to excessive blunting. Since in this context it is very important to identify the boundaries of
+the plume with high accuracy, the wavelet transform proves not to be the best option as a post-
+processing technique. More in general, in all the examples we tested, standard techniques for
+noise removal, such as Fourier or wavelets transform, tend to have problems producing accurate
+boundaries. This is due to two reasons: these kinds of signals are in general non-stationary,
+and the standard transformations often use bases that are determined a priori. Both limitations
+are overcome by the use of the MIF method as a post-processing technique. In fact, the MIF
+technique can handle a non-stationary signal and does not require any a priori assumption or
+knowledge of it, as confirmed in this example by the shape of the plume and its boundary after
+MIF post-processing (figure 2b).
+
+Regarding the results obtained via MEEMD we point out that, even if the results are
+comparable with that produced with the proposed method, this approach has disadvantages.
+
+
+(b)
+20
+40

@@ -1,0 +1,25 @@
+bucket
+
+bucket
+detector
+detector jcc
+object object
+uv uv
+camera camera
+position-correlated momentum-
+photon pairs anticorrelated
+upright image Photon pairs inverted image
+Figure 2. Ghost imaging systems can be configured to take advantage of either the position (a) or momentum (6) correlations : &
+inherent in SPDC. The fact that one can do either is a manifestation of EPR-type correlations. a
+>
+yy
+single photon within the field of view. One contribution from our groups [12,14,15] has been to 1B
+use an intensified camera to do exactly this. By reducing the gate time of the intensifier such that =
+the gain is large only for the instant of the photon arrival, it is possible to reduce the number Da
+of dark events to far fewer than one dark event per frame. The detection of the idler photon by : oy
+the single-element detector is used to gate the detection of the position-correlated signal photon, al
+and summing over many photon events reveals the image. The time sequencing between idler 1
+and subsequent signal detection, further lengthened by the trigger delay of the camera itself, : &
+
+means that in our configuration the signal photons need to be delayed using an image-preserving
+optical delay line. This camera-based approach has recently been configured in a microscope,

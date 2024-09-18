@@ -1,0 +1,25 @@
+functional Fo captures this effect, by keeping (only) the energy due to radial stretching and our :
+estimate for the cost of wrinkling
+
+Here, v is a real-valued function of one variable (r = |x|), constrained by the boundary condition
+(0) =0. We shall show that minimization of this one-dimensional variational problem provides
+a good estimate for the radial deformation of the sheet. In addition, it provides a lot of information
+about the length scale of the wrinkling at radius r (via the analysis that led to W,¢)).
+
+Assuming that the sheet actually wrinkles (i.e. assuming that the excess length of the outer
+circles is large enough to induce wrinkling rather than compression), the cost of changing the
+length scale of wrinkling from circle to circle does not enter the leading-order energy; rather,
+it contributes to the principal correction (the excess energy). As we are interested in how
+the wrinkling pattern changes with 1, it is crucial to understand the principal correction. In fact,
+it seems to be of order h (more precisely: we have a lower bound that is linear in h, and an upper
+bound that is almost linear in /).
+
+Our main mathematical result is the following characterization of the leading-order energy
+and the principal correction.
+
+Theorem 2.1. Assume a; € (0,2~°(ro/R)*), and let € be the excess energy, defined by
+:= inf E, — mi v).
+c= inf n(u, €) anin, Fo(®)
+
+Then there exist constants hg > 0, co > 0 and cy < 00, all depending on as,r9 and R, such that for any
+h € (0,ho) the excess energy € satisfies

@@ -1,0 +1,25 @@
+is first either engraved [44] or transferred onto the flat specimen surface with an appropriate
+technique [45]. Metrological printed grids consist of white and black contrast lines that are
+superimposed on the specimen as shown in figure 1 by applying photosensitive coating of small
+thickness on a polymer base with high-resolution printers (50 800 dpi) that are able to reach up to
+
+
+20 lines mm". Depositing the carrier onto the sample surface is a more common technique when ls |
+it comes to testing cementitious materials. This is achieved by first coating the photographic film
+
+and sample surface with a thin layer of white epoxy glue that ensures a good image contrast. 3
+After curing, the film is slowly peeled off the base. This results in black lines being transferred : o
+onto the specimen surface, based on the fact that the peeling stress between the black ink and the is
+glue is much higher than the stress between photographic coating and support. Indeed, the fact : Zs
+that the sample surface has to be instrumented by depositing a perfect regular pattern represents : B
+
+a drawback of this method from a practical point of view, as the gluing process is a cumbersome
+task that can introduce initial imperfections to the deposited grid.
+
+In the present case, the specimen surface is recorded during the test with an ultra-high-speed
+camera. Assuming continuous light being detected by the photosensitive fill, dedicated to one
+pixel on the camera chip, the intensity of digitalized light at a given position of a captured :
+frame can be expressed with a periodical fringe function. Spatial phase fields can be calculated, :=
+using one of the many phase detection algorithms [46]. The routine used in the present case is 3
+based on the windowed discrete Fourier transform already implemented in Matlab® software. :
+The convolution window can be triangular as suggested in [47] or Gaussian as in [48]. A mea)

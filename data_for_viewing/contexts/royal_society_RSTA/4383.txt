@@ -1,0 +1,25 @@
+
+EE) lambda/  Pbandwidth] modulation) smpute | constraints
+[Tibre | core | centre frequency format
+
+ra
+
+Figure 2. (a) Optical agent on a bare metal optical switch, (b) optical agent on an optical white box, (c) structure of an optical
+bandwidth flow (OBF) and (d) optical network switching/connectivity dimensions.
+
+for performing specific networking tasks and protocols. In order to address this limitation, there
+is an increasing need for a highly flexible, programmable, protocol- and function-agnostic optical
+switching node capable of performing any transport functions as well as network functions
+and algorithms. This is further motivated by the fact that many networking functions are being
+generalized for their execution over commodity hardware, allowing the distribution of functions
+to the most suitable resources in the network.
+
+(a) Bare metal optical switch
+
+The first step for the design and development of an open and programmable optical node is to
+leverage on SDN technology to convert a classical optical switch to a bare metal optical switch that
+is fully open and can be programmed in an abstracted way by any external control mechanism.
+We define a bare metal optical switch as a classical optical switch which is SDN enabled, i.e.
+without any integrated control software and equipped with SDN-enabled control interfaces. This
+allows the configuration of the switch with any external (third party) controller. As shown in
+figure 2a, we propose a novel optical SDN agent (see details in §4) that sits on top of any classical

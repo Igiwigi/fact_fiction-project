@@ -1,0 +1,24 @@
+
+Next, we attempt to use only the uncompensated, raw voltage-clamp measurements (i.e. only Iout
+in figure 5a, and Vmq) to infer the underlying membrane voltage, Vm, and the parameters of the
+model cells. We then compare the model Vm predictions with the current-clamp measurements.
+Here our focus is on the Type II Model Cell, since this should be the more challenging of the
+two and more similar to a real ionic current (similar results for the Type I Model Cell are
+in the electronic supplementary material, §S5). To optimize the model parameters root-mean-
+squared error (RMSE) between the simulated and recorded Iout was minimized using a global
+
+
+Table 2. Type II Model Cell parameters (for the components shown in figure 3). (Row 1) Hardware component labels (Voi is zero
+as there is no battery/voltage-offset component). (Row 2) Patchmaster amplifier software estimates using a simple test pulse.
+(Row 3) inferred values from the mathematical model. The mathematical model captures the fact that there are kinetics in the
+Type Il cell and improves on the amplifier's estimates of the components.
+
+Ry (M&2)_— (PF) Rm (M82) (PF) Gu (PF) Rs (M82) Vor (mV)
+
+component label 100 1000 500 47 22 30 0
+Patchmaster estimate _ _ 91.30 8.80 41.19 33.60 —120
+fitted parameters 94.20 1062.69 520.70 4.85 36.38 34.87 0.20
+
+optimization algorithm [33]. All optimization was done with an open source Python package,
+PINTS [34], and simulations were performed in Myokit [35]. All codes and data are freely
+available at https: / /github.com/CardiacModelling / VoltageClampModel.

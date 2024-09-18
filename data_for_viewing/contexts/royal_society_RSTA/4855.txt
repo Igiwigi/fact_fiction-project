@@ -1,0 +1,25 @@
+identities had generally been checked by computer methods and were resistant to any intuitive
+interpretation. Momentum twistors revealed just such an intuitive interpretation.
+
+The amplitudes can be regarded as volumes of polytopes. The different expressions for them arise
+through different ways of triangulating the polytopes into simplicial cells. Spurious poles arise
+from triangulations which introduce extra vertices. Using this insight, it became possible for the
+first time to see this highly non-trivial NMHV amplitude as a single geometric object. (However,
+it should be borne in mind that this polytope corresponds to one colour-stripped component of
+the amplitude. The momentum twistors encode momentum conservation very neatly, but the
+price paid for this elegance is that, in the total amplitude, each of the partial amplitudes requires
+different momentum-twistor coordinates for its expression.)
+
+The polytopes associated with NMHV amplitudes are in fact four-dimensional, living in a
+CP*. An extra dimension is added to twistor space to take care of the range of possible helicity
+allocations. This CP* geometry was sketched by Hodges [21] and further developed by Mason &
+Skinner [22] and Arkani-Hamed et al. [23]. This work also showed that the new momentum-
+twistor picture is entirely consistent with the Grassmannian picture as developed in the original
+twistor space.
+
+Naturally, the emergence of these concepts did not take place in isolation from other major
+developments. The influence of super-string theory, without which the application of twistor
+geometry to amplitudes would not have made progress, has already been noted. Another parallel
+development is the reformulation of twistor Lagrangians, or action principles. Penrose [5] had
+in fact derived the early twistor diagrams from a consideration of twistor Hamiltonians. The
+Witten twistor-string model stimulated a revival of this approach, notably by Lionel Mason

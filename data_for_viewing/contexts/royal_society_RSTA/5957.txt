@@ -1,0 +1,25 @@
+condition for any isolated quantum dynamics. Incorporating the structure of the problem might
+improve our result.
+
+3. Proof of threshold theorem
+
+From equations (2.6) and (2.7), the time evolution of the expectation of the state is described as
+
+4 |
+ig Ello) = (Aw -5 0) ELI6())], (3.1)
+k
+
+
+where we used E[dW;(t)] =0 in the Ito process. Then, using the fact that |y(T)) is the solution of
+equation (2.1), we find
+
+olti2)10 Nasi M ELI g(T))] = (D)). (3.2)
+
+We describe the state in one realized time trajectory of equation (2.6) as |;(t)) and expand it at the
+final time T as
+
+\;(T)) = > Cinln). (3.3)
+n
+From equation (3.2), we immediately find
+
+ell) Lage VC] =Cn=1-e. (3.4)

@@ -1,0 +1,24 @@
+
+Summarizing figures 12, 13 and 14, one can conclude that introducing the new
+physical parametrizations schemes described in §2 and, in particular, the new mushy-layer
+thermodynamic approach of Turner et al. [37] can improve the main basin average characteristics
+of the sea ice with respect to the SFFT14 set-up. The improvement is particularly clear for the
+August SIA and SIE and the September SIA. However, the potential improvement in simulating
+the sea ice trends is not so clear, where we see an improvement in the August SIE trend but a
+deterioration of the SIV trends. The inter-annual variability of the main sea ice characteristics
+quantified by the correlation coefficients, R and R*, figures 13 and 14 show that the model
+simulations (with the exception of SST) do not perform as well as the SFFT14 simulation. To
+understand these differences, one must realize that inter-annual variability is dependent on the
+mean state of the ice pack. We expect, for example, a thinner and less concentrated sea ice cover
+to be more responsive to inter-annual variability in the external forcing. This highlights the fact
+that even within a stand-alone set-up, tuning a sea ice model to reproduce simultaneously the
+mean, trends and inter-annual variability of the main sea ice characteristics is a delicate exercise.
+Interestingly, we find that the SST_TIME simulation outperforms all other model runs in almost
+every single category both in terms of averages and correlations (note that the SFFT14 run is better
+at capturing September SIE inter-annual variability). While this result is unsurprising in the sense
+that a time-dependent SST from reanalysis captures a large part of the inter-annual variability of
+the atmospheric and oceanic forcing as well as of the SIE, it nevertheless highlights once more the
+importance of the upper ocean in driving the sea ice response and the coupled nature of the sea
+ice-ML system [16,62].
+
+4. Discussion and conclusion

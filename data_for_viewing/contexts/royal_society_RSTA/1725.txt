@@ -1,0 +1,25 @@
+the angle of analyticity of Too; see also [22]. Let us emphasize here that the corresponding results
+for L1 (2) are not known until today. Indeed, we formulate here the following open problem: Let
+n> 2,2 CR" bea bounded domain with smooth boundary and Aj the Stokes operator, suitably
+defined, on L1 (2) := {we CO(@):divu=0 in)!"
+an analytic semigroup on L} (2)?
+
+. Does then A; generate a Co-semigroup or
+
+
+The approach to the primitive equations by evolution equations is based on the hydrostatic
+Stokes semigroup which was introduced first in [23]. Its extension to the setting of bounded
+functions was investigated only recently in [24]. The iteration scheme for the nonlinear problem
+rests on the fact that the combination of the terms V, P and e!4* nevertheless gives rise to bounded
+operators on the associated spaces which satisfy in addition typical second-order parabolic
+estimates.
+
+The classical Stokes semigroup also plays an important role in the investigation of viscoelastic
+fluids of Oldroyd-B type and nematic liquid crystals. The associated semigroups, i.e. the Oldroyd
+and the Ericksen—Leslie semigroup, are defined by a certain coupling of the Stokes semigroup to a
+transport equation or by the equation for the so-called director, respectively. It is known that both
+of them generate analytic semigroups on LP (2) x W1P(Q) and we (@) x LP(Q), respectively, for
+1 <p <ow. The Oldroyd semigroup is known to have very particular spectral properties; see §6
+for details.
+
+Some words about notation are in order at this point. For a closed linear operator A with

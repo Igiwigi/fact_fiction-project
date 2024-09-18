@@ -1,0 +1,25 @@
+stabilizing (respectively, destabilizing) influence on the ring. Similarly for z; <0 if the
+northern polar has strength I np < Fimax (respectively, I; np > Fmax) it has a stabilizing
+(respectively, destabilizing) influence on the ring. This is in agreement with atmospherical
+observations. For example, the case of polygonal zonal jets of potential vorticity present
+in the Southern Hemisphere when the southern polar vortex is active, during the months
+of July-August. In figure 7, we see an example of an hexagonal jet which occurred in
+1998.
+
+(b) Non-fixed polar vortices
+
+As previously commented, this case has a system of a higher number of degrees of freedom with
+respect to the case of fixed polar vortices and has been summarized in proposition 6.3. Due to the
+fact that the Hessian now has non-diagonal terms we cannot fully diagonalize the Hamiltonian
+as before using only the properties of circulant matrices. From proposition 6.3 and corollary 7.1,
+by taking Tsp = —N-TI, np, We can immediately infer the following corollary to deduce stability
+zones.
+
+
+PV, 350 K, 15 July 1998 16 July 1998
+
+Figure 7. An example of polygonal zonal jet of potential vorticity in the Earth’s atmosphere present when the southern polar
+vortex is active during the months of July and August. The data shown are relative to 4 days observations during the period 15-18
+of July of 1998. The hexagonal structure shown seems to be relatively stable during this period. The data are of potential vorticity
+of the isoentrope surface 350K, calculated by using ERA-Interim (https://apps.ecmwf.int/datasets/data/interim-full-daily/
+levtype=sfc/). Figure courtesy of Bernard Legras, LMD, ENS, Paris. (Online version in colour.)

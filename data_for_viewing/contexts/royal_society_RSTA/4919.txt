@@ -1,0 +1,25 @@
+
+20000 40000 60000 80000 100000 2000 4000 6000 8000 10000
+iterations iterations
+
+Figure 9. Image RMSE curves resulting from algorithm 1 run with different values of A for M, = 21 and data generated from : =
+the Nside = 128 version of the structure walnut phantom. Results for P; and TV are shown on (a) and (b), respectively.
+
+day. As a result, a study may not be completed in a reasonable amount of time; thus, we fix K and :3
+
+2. for our phantom-recovery study. [8
+Because large-scale first-order optimization algorithms are seeing many new developments at :s
+
+present, it is likely that there either exists or will be a better alternative to algorithm 1. In fact, we 5S
+
+invite the interested reader to find such an alternative, which can have an important impact on
+
+CT imaging! For example, as will be seen shortly, algorithm 1 has limited success for phantom
+
+recovery studies for P; on systems of realistic size.
+
+(c) Algorithm issues
+
+We demonstrate first some of the challenges in carrying out large-scale recovery studies by
+applying algorithm 1 to a medium-scale problem using an Ngiqe = 128 version of the structure
+walnut phantom. The phantom has a gradient-domain sparsity of 1826 and a pixel sparsity of

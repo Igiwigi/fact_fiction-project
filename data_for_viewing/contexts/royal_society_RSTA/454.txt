@@ -1,0 +1,25 @@
+ENSO. However, the connection with the surface temperatures in both the Atlantic and Arctic
+regions appears to be much weaker than observed. This suggests that much of the model skill
+originates from the remote teleconnection with ENSO. This likely occurs via recently discovered
+global atmospheric teleconnection pathways where the stratosphere plays a key role [22]. This
+is interesting as it requires both the accurate initialization of the tropical Pacific ocean and the
+development of climate models that resolve the stratosphere in order to obtain skilful predictions
+of extra-tropical North Hemisphere winter climate.
+
+There is a strong dependence of seasonal prediction skill, both in the tropics and increasingly
+in the extratropics, on correctly initializing ENSO in the tropical Pacific. As was discussed in §2,
+the TAO/TRITON array is the key component of the ocean observing system for ENSO. It should
+be a concern then that the TAO/TRITON array has suffered considerable degradation recently
+and many of the 70 moored buoys are no longer returning data. In fact, as at the start of October
+2013, I believe the array has not been serviced for 18 months. This is linked to budget cuts facing
+NOAA that are placing harsh constraints on the ship-time needed for servicing the array. This is
+a stark illustration that sustaining even the most demonstrably useful ocean observations is not
+immune to political and financial pressures.
+
+(c) Challenges for improving the representation of ocean—atmosphere coupling and the
+need for better estimates of air—sea fluxes
+
+An interesting result from the GloSea5 seasonal hindcast experiments is that the model ocean
+does not seem to drive the model atmosphere with the same strength as that in the real world.
+Many tens of ensemble members (versions of the model started from virtually the same initial
+conditions but with some random perturbation) are needed in order to achieve the skilful NAO

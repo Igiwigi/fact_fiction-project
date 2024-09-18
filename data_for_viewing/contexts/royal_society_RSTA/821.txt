@@ -1,0 +1,25 @@
+100 1000
+T(K)
+
+Figure 4. Comparison of calculated and measured rate coefficients as a function of temperature. (Online version in colour.)
+
+bars. These rate coefficients appear to be consistent with reaction (1.1) proceeding with nearly
+every collision between the species. This is indeed the case in the QCT calculations, where
+the capture rate, defined as the rate for entering the ion—molecule well, is essentially the same
+as the overall reaction rate. In fact, the SIFT rate coefficients reported here are slightly larger
+than the parametrized collision rate by Su & Chesnavich [4], which takes into account only the
+polarizability and permanent dipole moment of the neutral species.
+
+Despite the fact that our PES has the same long-range terms as in Wei et al. [10], our calculated
+rate coefficients are much larger than the earlier QCT results. The difference can thus be attributed
+to the different level of the ab initio theory. The current CCSD(T)-F12b method is considered as the
+gold standard in ab initio calculations because it captures electron correlation due to high-order
+excitations that are necessary for describing the dispersion interactions. While such interactions
+are at shorter range than the ion-dipole interaction, they might still affect the reactivity at large
+impact parameters. To illustrate this point, we plot in figure 5 the minimal energy path including
+the centrifugal potential Jtot(Jtot + 1)/2R?, where jz is the reduced mass of reactants and R is
+
+
+50 2.7348
+; Tro = 250 : T= 145
+2.951 A

@@ -1,0 +1,25 @@
+[0, Cmax], then at the decision time f;, we must choose the optimal C;. Once the decision is made, : o
+we must hold that choice of C; constant over the period t, < t < ty,1, and the value of making that : <
+
+choice we will write as V;(t; tk41) = V(t; C;, tk4.1). Now the optimization becomes relatively simple
+and can be written as
+V*(t= th) = max[Vi(tk; tepid] (4.6)
+
+The optimal condition (4.6) can then be transformed into the terminal condition required to solve
+for the previous period [t,_1, f;]. The appropriate condition at t, is then
+
+Vi(t = th ith) = maxlVj( ty; tev], (4.7) :&
+
+for all i. The positive and negative superscripts take account of the fact that our choice of S
+commitment is in the period [t,_1, ty] or [tk, tri]. : 2
+Now if the market includes a delay, so that the owner must precommit to a delivery rate 1S
+starting in the future, then at time ft, the owner must choose from the set {C;} for the period : ~
+starting at f;41 and ending at t,;. We approximate the full set of admissible controls by a finite : 4
+set of pairs, where each pair includes the commitment for the current period as well as the next. :B
+So we denote C; ; = (Cj, Cj) as the scenario in which C; is the current commitment and C; is the :3
+commitment at the next step, and V;; to denote the value of implementing that control strategy. : =
+
+We have
+tha
+Viste) =E] | MTR Vo, Qe, CAs + MV Fart)
+t

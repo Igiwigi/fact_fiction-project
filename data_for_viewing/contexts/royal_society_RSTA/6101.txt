@@ -1,0 +1,24 @@
+ey +1
+with y = b/a. In addition, we introduce a small geometrical parameter ¢ = a/I, where | denotes the
+typical scale characterizing the variation of the local stress.
+First, assume that y ~ 1. In this case, only the terms in the series (A 1) with |k — j| ~ 1 will not
+be exponentially small. For these terms
+
+oj = oy(1 + Ole|k — j))). (A3)
+Therefore, we may deduce from (A 1) that
+k-1 oo A
+34 © Aog > el Hb/a > wm =oK (1 time e”) . (A4)
+
+The exponential term e~'” in (A 4) corresponds to a boundary layer localized near the origin. It
+decays at k > 1, leading to the expected far-field behaviour sx ~ ox. In fact, the latter justifies the
+choice of the normalizing constant A in the original formula (A 1).
+
+
+It is worth noting that although no homogenized non-local relation corresponding to (A 1)
+is possible since the decay rate of the boundary layer is of the order of the chain step, we still
+observe a discrete exponential boundary layer. The latter may be combined with a homogenized
+slowly varying interior solution predicted at leading order within the framework of classical local
+elasticity.
+
+Next, we consider y < 1, for which more terms (satisfying |k — j| < y~! >> 1) should be retained
+in the sum (A 1). In this case,

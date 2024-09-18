@@ -1,0 +1,25 @@
+where any atom has F = 3 degrees of freedom (d.f.) and r neighbours (different chemical elements
+having different numbers of neighbours), and assigned r/2 constraints associated with the bonds
+(dividing by 2 because of sharing constraints by both atoms) and 2r — 3 angle constraints.’ Thus
+across the system each atom has, on average, C = 2.5(r) — 3 constraints. Setting F = C gives the
+condition that the case (r) = 6/2.5 = 2.4 for the boundary between an over-constrained (larger (r))
+and under-constrained (smaller (r)) system. The thought had been that this point will mark a
+transition between whether a glass is easily formed or not.
+
+In Cambridge, being aware of this work, Volker Heine and I were then inspired by a talk given
+by Marcel Vallade [6] of the University of Grenoble concerning the flexibility of quartz in its high-
+temperature 8 phase. In f-quartz, there is a phonon mode that softens on cooling towards the
+a-B phase transition. For the phase transition, this mode will soften at wave vector q = 0, but in
+fact, there is a softening of the whole branch from q =0 to q=a*/2. For phonon wave vectors
+q— 0, there is an interaction between the soft optic mode and a transverse acoustic mode that
+varies as q”; the soft optic mode and transverse acoustic mode have same symmetry for q #0
+but different symmetries at q=0, and thus the coupling must vanish as q — 0 [7]. This gives
+rise to the previously unexpected incommensurate phase transitions over a short temperature
+interval between the a and £ phases. In order to understand the origin of this behaviour, Vallade
+had shown that the soft mode can propagate with rotations and translations of undistorted SiO4
+tetrahedra, with the type of motion extending across a range of wave vectors in the phonon
+dispersion curves.
+
+At that time, we were intrigued that our experimental colleagues in the area of Mineral Physics
+were finding many displacive phase transitions in network aluminosilicates. These materials are
+composed of corner-sharing AlO4 and SiO, tetrahedra, with charge-balancing cations occupying

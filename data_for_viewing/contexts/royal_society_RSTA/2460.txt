@@ -1,0 +1,24 @@
+
+where A, € Ri xN is the optical channel gain matrix of user u, which is a sub-matrix of Hy €
+P
+
+Ry, Ni Su € Rypt is the transmitted signal vector for user u; and ny, € Ry, x1 is the additive
+white Gaussian noise (AWGN) vector where each element of 1, is independently distributed with
+N(0, o?). In this paper, without loss of generality, the optical-to-electrical (O/E) and electrical-to-
+optical (E/O) conversion coefficients are assumed to be one.
+
+When SM is employed in a system, data is encoded both as spatial and PAM constellation
+symbols. Since only one of the LEDs is activated during transmission, the overall spectral
+efficiency of the system is log,(N;) + log,(M) bits/s/Hz. As noted in [16], a signal constellation
+with zero intensity cannot be used in optical SM, due to the fact that there would not be an active
+transmit element and hence no spatial information exists based on SM principles. In this paper,
+the intensity levels of M-PAM signals for optical SM are given as
+M_—AQm—1), form=1,2,...,M, (2.2)
+
+m
+
+
+LED,, 1
+
+LED,, > S
+:<

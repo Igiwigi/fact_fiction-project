@@ -1,0 +1,25 @@
+motion of incompressible viscous simple fluids; in other words, the question is whether a smooth
+flow and a smooth scalar pressure can exhibit spontaneous formation of singularities [12-14].
+Besides its obvious analytical interest for the theory of regularity (which has been developed in
+an appropriate sense also for classes of stochastic partial differential equations), such a question
+is expected to be crucial in the understanding of turbulence [15]. In turn, a related basic question
+emerges: whether the assumptions that give rise to the Navier-Stokes equations constitute an
+appropriate setting for turbulence; in other words, we may ask whether the scheme of simple
+(incompressible and viscous) fluids is appropriate to describe the transition from laminar to
+turbulent flows. Physics shows us such a transition; so, under question is not its existence, rather
+the way we describe it.
+
+This type of questions motivates foundational analyses of models and/or theories (per se
+classes of interconnected models). A question remains in fact vigilant every time we construct
+a model: What are we actually doing?
+
+Clarifying what is at the ground of a model or, better, a theory has even practical effects,
+besides its indisputable theoretical interest: it addresses, in fact, analytical and computational
+choices; it allows one to better understand the nature of approximations, avoiding as much as
+possible their ad hoc introduction only for the sake of convenience; it clarifies the nature of
+boundary conditions, distinguishing those physically admissible from those that are not so. In
+short, besides their clarifying nature, such a type of analysis may have not only have an inspiring
+role for mechanics and pure mathematics but also an inspiriting role.
+
+Starting from the middle of the twentieth century, C. A. Truesdell III promoted, with his school,
+a foundational program in continuum mechanics and thermodynamics, which started with the

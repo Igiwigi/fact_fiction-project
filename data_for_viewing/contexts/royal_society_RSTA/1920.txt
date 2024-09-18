@@ -1,0 +1,25 @@
+Just as Boltzmann employed idealized binary collisions to derive a kinetic equation describing
+dilute gases in a closed and thermally insulated environment, econophysics employs simplified
+but representative economic transactions in a closed society, wherein economic agents perform
+pairwise economic transactions and exchange money / wealth with each other [1,2].
+
+These agent-based models have been successfully used to explain macroeconomic phenomena,
+such as wealth distribution and the emergence of oligarchy. The agent-based binary-transaction
+models of econophysics may be analysed using Brownian dynamics simulations. Alternatively,
+they may be used to derive partial differential equations for the agent density function, and these
+may be solved using a variety of algorithms, such as finite-difference or finite-element methods.
+In the limit of small, frequent transactions, these partial differential equations typically reduce to
+Fokker-Planck equations. These Fokker—Planck equations are generally nonlinear, owing to the
+binary nature of the collisions, and non-local, owing to the fact that agents with very different
+values of wealth may transact with each other. Nonlinear, non-local Fokker—Planck equations of
+similar form also arise in other branches of physics, such as polymer dynamics and plasma kinetic
+
+theory. Recent work has demonstrated that Fokker—Planck equations can be conveniently solved : =
+using the lattice Boltzmann method [3]. : =
+
+The extended yard-sale model (EYSM) [4] and the affine wealth model [5] are two recently 13
+developed agent-based models that have received significant attention [6] due to their ability : =
+to match empirical wealth distribution data with only a few free parameters. In this work, we 8
+show that the Fokker—Planck equation for the EYSM can be formulated as a lattice Boltzmann : o
+model. However, unlike standard lattice Boltzmann model formulation for advection-diffusion 1
+equations, this model requires a higher order scheme with entropic equilibrium in order to : S

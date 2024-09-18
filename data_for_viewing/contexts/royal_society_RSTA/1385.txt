@@ -1,0 +1,25 @@
+
+is the most rigid one for compliance minimization and is also minimizing the maximal stress
+norm in the cell [33]. In particular, the boundary of the hole is equi-stressed and [33] proposed an
+implicit expression of the boundary of the Vigdergauz microstructure in terms of the macroscopic
+strains (or macroscopic stress) and the volume fraction (apart from the material properties). More
+recently, Liu et al. [34] proposed an alternative expression in terms of the volume fraction and
+another (non-intuitive) geometrical variable. The goal of this section is to numerically compare
+our microstructure featuring a super-ellipsoidal hole with the Vigdergauz microstructure. The
+conclusion is that they are very similar and the differences between their shapes are negligible in
+practice.
+
+Therefore, we favour super-ellipsoidal holes because the Vigdergauz microstructures have a
+very complex parametrization which is not easy to handle numerically. In fact, it is not explicit
+and depends on elliptic integrals and requires finding zeros of nonlinear equations. This makes
+the super-ellipsoidal hole more convenient in terms of simplicity and computational cost.
+
+(i) Level-set description of Vigdergauz microstructure
+
+Let us first provide a description of the Vigdergauz microstructure through the zero value
+
+of a level-set function. Early work [33] described the Vigdergauz microstructure in terms of i>
+the macroscopic strain and volume fraction (and material) parameters. In [34], the Vigdergauz : <
+microstructure is described by a symmetry (non-intuitive) parameter r and the volume fraction : >
+p. Here, we slightly modify the parametrization of the last work by using the semi-axis ratio :3
+& instead and the volume fraction parameter p, as we did for computing the optimal super- : =I

@@ -1,0 +1,25 @@
+solving a more general class of problems, namely
+
+u* =arg min {f(Ku) + sw), (3.12)
+
+where f and g are convex (possibly) non-smooth functions and K a linear operator. The key change
+from the FISTA problem is the splitting of the complicated f(K(u)), which as a whole may not be
+proximable, into simpler parts f and K to be handled separately. CIL provides two algorithms
+for solving this problem, depending on properties of f and assuming that g is proximable. If f is
+proximable, then the linearized ADMM method [30] can be used; available as LADMM in CIL. If the
+so-called convex conjugate, f*, of f is proximable, then the primal dual hybrid gradient (PDHG)
+method [31-33], also known as the Chambolle-Pock method, may be used; this is known as PDHG
+in CIL.
+In fact, an even wider class of problems can be handled using this formulation, namely
+
+u* =arg min | Yo fi(Kiu) + «| , (3.13)
+
+
+(a) (d) (©)
+
+105
+\ — Fista
+10+ — PDHG dual
+— PDHG gap
+2
+2

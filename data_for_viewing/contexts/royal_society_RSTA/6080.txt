@@ -1,0 +1,25 @@
+
+RNA has been studied in depth as a paradigmatic example of the sequence-to-structure map
+[51]. It has been shown that the frequency distribution of secondary structures follows a
+lognormal distribution [15,16], thus quantifying the bias in phenotype (structure) abundance.
+Accordingly, common phenotypes are orders of magnitude more frequent than average-sized or
+small phenotypes (which are, by any reasonable measure, invisible to evolution). RNA structure
+is tightly related to molecular function and, as such, it may have played a main role at the early
+stages of chemical evolution and, especially, in an RNA world predating modern cells [52]. The
+repertoire of secondary structures in large populations of short RNA polymers is limited [53]:
+topologically simple RNA modules are abundant. In open RNA chains, there is a predominance
+of stem—loops (composed of a stem and a hairpin loop) and hairpin structures [54], while closed
+RNA chains preferentially fold into rod-like structures (a stem closed by two hairpin loops) [55].
+This fact is solely based on thermodynamic principles [56] and implies that, by default, short RNA
+sequences will predominantly yield a handful of structures.
+
+The relevant implication of this high redundancy is that some of those abundant structures
+might be the end result of random RNA polymerization (as could have been the case in prebiotic
+environments [57]). With no previous selection, random polymers might have thus covered
+an array of incipient functions. Such is the case with a variety of hairpin-like structures able
+to promote ligation reactions [58,59], or of hammerhead structures involved in cleavage [60].
+RNA self-ligation might indeed be instrumental in the modular construction of more complex
+ribozymes, as theoretically proposed [34] and empirically shown [61,62].
+
+There are reasons to believe that the severe phenotypic bias of the sequence-to-structure RNA
+map, as quantified through the lognormal distribution of phenotype sizes, is a general property

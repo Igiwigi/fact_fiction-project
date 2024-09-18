@@ -1,0 +1,24 @@
+~ + 1 - 4 +15
+4 1-1600 1556 +424
+—1555 +420
+5 1-0045 —1136
+—2691
+6 0-7354
+
+Ay = +0-0507
+
+
+NON-SINGULAR LINEAR INTEGRAL EQUATIONS 515
+
+The fact that the vector suffers less change than the eigenvalue when the difference
+correction is applied is no unusual feature of eigenvalue problems, and was noticed by
+Fox (1947, 1949) in connexion with the solution of differential equations. This phenomenon
+is not confined to oscillatory functions. Consider, for example, the integral equation
+
+1
+Af (2-+92) fly) dy f(x): (42)
+It is easy to show that this has two eigenvalues, given by the roots of the equation
+
+42+ 30A—45 = 0,
+
+and the eigenfunctions have the form x2—4+ 71.

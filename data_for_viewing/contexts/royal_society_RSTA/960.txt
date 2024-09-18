@@ -1,0 +1,24 @@
+with the forms 2 and W*(). Now (x,y,4,9) is a common ‘good’ coordinate system for both
+systems and the conditions of theorem 5.4 are still fulfilled for @ and w*(@). After this, it remains Dos
+to apply proposition 5.3 for the integrable systems (H, F, 2) and (A, F, ¥*(@)). =
+
+The fact that (i) implies (ii) follows from the assumption that the symplectic forms 2 and 38
+Q induce the same orientation and coorientation on yo. Indeed, this implies that preserves the :
+homology classes of y and jz. on each ‘narrow’ torus. Therefore, if we set x = ©*x in the definition nee)
+of the actions I(H, F) and I,(H, F), then I(H, F) = I(H, F) and I,(H, F) =1.(H, F). | 72
+
+Note that due to analyticity it is sufficient to compare the actions only on the family of ‘narrow’ : a
+tori, although I and I are defined on the whole neighbourhood U(yp). :S
+
+Remark 5.5. In fact, we do not even need to mention H and F in the statement of theorem 5.4 [8
+at all and can equivalently reformulate it as follows: .
+
+Consider a singular fibration with a parabolic orbit yo which is Lagrangian with respect to two
+symplectic structures 2 and $2. Suppose that 2 and & induce the same orientation and the same
+coorientation of yp. The necessary and sufficient condition for the existence of a (real-analytic)
+diffeomorphism @ in a tubular neighbourhood of yo sending each fibre to itself and such that
+*(2) = is that these two systems have common action variables in the sense that for every
+closed cycle t on any ‘narrow’ torus we have
+
+} x=4 %, fordx=2, d%=2,
+t t

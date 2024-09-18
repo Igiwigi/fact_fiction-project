@@ -1,0 +1,25 @@
+t
+u(t) :=T(t)xo +| T(t —s)f(s) ds (5.1)
+0
+is a classical solution of (iaP2) if it is a classical solution of the inhomogeneous abstract Cauchy problem
+
+| it) =AP u(t) +f), £20,
+
+iaCP 4B
+u(0) = up. Gach)
+
+Proof. Uniqueness of the solution follows since the difference of two solutions of (iaCP 4s)
+solves the homogeneous problem (aCP 4s) for the initial value up = 0. In case Lf =g the function
+u defined in (5.1) gives a solution of (iaCPy4s). This follows immediately from the fact that
+u(t) € D(A®) implies that LA,,u(t) = Bu(t) for all t > 0. a
+
+(c) Decoupling for analytic semigroups
+
+The problem (aP2) consists of two differential equations where the second one describes, by
+means of the boundary operator B : D(B) Cc X > 3X, an interaction between the state space X and
+the boundary space dX.
+
+The aim of this section is to ‘decouple’ this problem, i.e. we show its equivalence to a
+system consisting of two independent Cauchy problems: the first one on the space Xo = ker(L)
+of functions having zero trace governed by the operator Ag with abstract Dirichlet boundary
+conditions. The second one on the boundary space 0X governed by a Dirichlet-to-Neumann

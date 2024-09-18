@@ -1,0 +1,25 @@
+0.1 1 10 100 1000 10000
+frequency (Hz)
+
+Figure 9. Power spectral density of fluctuations in fluorescence measured for three individual QDs.
+Solid lines are fitted power laws to low-frequency and high-frequency portions of the power spectra,
+and horizon dashed lines are expected shot-noise levels (Pelton et al. 2007).
+
+there is a greater opportunity for some other transition, such as ‘on’ to ‘off’, to
+occur. This possibility is absent when the photoexcitation is at low energy. So in
+this case of an ‘on’ state there can be a difference in the log-log plot, depending
+on the excitation energy.
+
+There are several additional facts that reflect on the mechanism. The §, to P,
+transition seen in figure 6 is known from a S, — P, infrared absorption spectrum
+occurring when a hole is deliberately created by coating the surface of the QD
+with a thiocresol. A photoexcited thiocresol readily loses an electron to the S.
+state in the conduction band to the QD (Shim & Guyot-Sionnest 2000), and
+so the S, > P, optical transition can be observed. Another relevant observation
+involves evidence that the trapped hole is localized and diffusing about rather
+than distributed as a band over the surface of the QD. Evidence of a diffusing
+charge is seen in the effect of an alternating electric field on the fluorescence
+of the QD (Park et al. 2007). A possible explanation of the effect of both
+enhancement and decrease of the fluorescence when the field is increasing is
+that of a trapped charge hopping from site to site on the surface rather by a
+delocalized band.

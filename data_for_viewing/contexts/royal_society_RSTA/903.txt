@@ -1,0 +1,24 @@
+2P AS? post |) = Wipost), (A3)
+
+by using equations (2.15) and (2.19). The operations on the qubits in V(G)\V’ in the left part of
+equation (A 2) will only give a global phase as follows:
+
+n-k n—-k
+® ZEisadioiadiy, | a QHD HAA x,
+i=1 i=l
+nk yi . nok
+= (yea Ljai Kixjadj(vi,v)) ® xi) (A4)
+
+i=l
+The exponent in the global phase }); k Die 1 xixjadj(v;, vj) is in fact the number of edges in the
+
+induced graph G,; = G[{v; : x; = 1}]. Let us now consider the correction operators in the right part
+of equation (A 2). A qubit v € V’ will have a Z contribution from the ith factor if v € Ny, and xj =1.
+
+1We identify 0 and 1 with the measurement outcomes +1 and —1, respectively.
+
+
+Thus, we see that the total contribution on qubit v is given by
+
+ZY, where yy = > Xj. (A5)
+ie{iz yEN,\V'}

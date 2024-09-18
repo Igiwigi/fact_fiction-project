@@ -1,0 +1,25 @@
+highlight particular considerations for the procurement problem under study.
+
+SA is in fact an adaptation of the well-known Metropolis—Hastings algorithm (see [22] and
+references therein). That is, its goal is to obtain a sequence of random samples from a probability
+distribution from which direct sampling is computationally challenging. The particular idea in
+SA is that the mode(s) of these distributions are the minimizer(s) of the objective function f, and
+hence the resulting samples will tend to be located in parts of the parameter space which are
+approximately optimal.
+
+Note from (3.2) that a proposed move to a smaller f value is always accepted. A proposed
+move to a larger f value, by contrast, is accepted with a probability which depends on T; (and
+which converges to zero as Tj | 0). The constants T; are chosen to decrease to 0 at an appropriate
+speed. In fact, T, may be called the temperature at time k and the name ‘simulated annealing’ arises
+from an analogy between the algorithm and the controlled cooling used in the annealing process
+in metallurgy.
+
+
+There are two main questions of interest regarding SA:
+
+(i) Does the Markov chain (%;)x<j converge to an optimal parameter 6*?
+(ii) How quickly does this convergence take place?
+
+The first question of convergence can be answered theoretically in certain specific cases. The
+papers [23,24] present sufficient conditions under which SA converges on a finite parameter
+space. There are also results about convergence in the case of a continuous parameter space [25]. In

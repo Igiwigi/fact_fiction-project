@@ -1,0 +1,25 @@
+(3.1) relative to the interval [f2;_9, t] C IF. Consider the compact set defined as
+
+U | U %m()40)
+
+i=1,..n \telt
+
+Such set contains Ao and has a positive distance from the origin. As a consequence, there exists
+an annulus A, := A[r (A), R(A)] which contains Ag in its interior. We can now enter the setting
+of theorem 2.7 and conclude that such result holds for each map Yj.
+
+As a next step, we apply theorem 3.8 to the maps ; on the intervals I; , i= 1--- ,n, and find a
+p*(A) = u*(r1(A), R1(A)) > 0 such that for each x > *(A) properties (2.12)-(2.15) hold. Gathering
+together all the previous facts, we conclude that we can apply theorem 2.13 with m; =m for each
+i=1,...,n.
+
+The statement about the chaotic dynamics follows by remark 2.15. Our proof is concluded. Mf
+
+Remark 3.10. An easy computation shows that M,(at) < N,(at), for each i=1,...,n. Hence,
+M(at) < N(a*), and for (3.14) to hold it is necessary that goo < go. If we fix now any weight a(t) and
+any function r(t) as in theorem 3.9, we get a sufficient condition for (3.14) to hold (and hence for
+the theorem to apply) if we can make the ratio g40/go suitably small. This is the case, for example,
+if g has a sublinear growth at oo, that is if limys|—. +00 9(s)/s = 0, since this property allows to choose
+@ 8o0 > 0 as small as needed.
+
+A previous result for multiple periodic solutions with an asymptotically linear g(x) and r(t) =1

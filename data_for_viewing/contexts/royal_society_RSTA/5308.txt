@@ -1,0 +1,25 @@
+with damping (the linear term —A) instead of gain (+A in (3.2)). As shown in [70], when the
+injection is of rocking type, as in equation (3.3), the decomposition (3.4), with (3.5) and (3.6), holds
+and the slow part is governed by the following damped nonlinear Schrédinger equation with
+parametric gain,
+
+dpAs = —[1 + in(@ — 2y)]Ag + inyA® + iV7Ag + inlAs|7As- (6.2)
+
+This equation predicts the existence of phase-bistable homogeneous states and patterns, and these
+predictions hold even far from the conditions leading to (6.2), which are fast rocking.
+
+Note that this result concerning the effectiveness of Rocking below a Hopf bifurcation (i.e. for
+weakly damped waves) is not at odds with the reasoning in §2 because in the case of the Kerr
+cavity, equation (6.1), no mechanical analogue (in terms of a potential) can be drawn. In fact, if we
+consider a variational case (deriving from a potential) below the oscillation threshold (4 = —1), it
+is easy to check, following the steps in §3, that equation (2.3) for a single oscillator admits solutions
+of the form ((3.4) and (3.6)), where the slow part verifies
+
+das
+dt
+
+=—(1+2y)As — yA® = |Agl?As, (6.3)
+
+and this equation does not hold but the trivial solution A, = 0, i.e. no phase bistability below the
+Hopf bifurcation if the nonlinearity is real. It is the imaginary character of the Kerr nonlinearity
+that makes rocking effective below the oscillation threshold.

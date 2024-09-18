@@ -1,0 +1,25 @@
+confirms the usefulness of the simple Zz Yukawa model for the purpose of studying the lower
+bound. The reason for this agreement simply lies in the fact that the bottom Yukawa coupling is
+much smaller than that of the top quark, with the latter dominating the dynamics near the lower
+bound. The situation is different at large Higgs self-coupling: here, the different number of scalar
+degrees of freedom plays a substantial role which leads to a narrowing of the IR window, now
+having its centre near 200 GeV.
+
+This model is also of interest, because it is used for non-perturbative studies of the Higgs
+mass bounds in lattice simulations [34-37]. The chiral gauge structure of the standard model is so
+
+
+far not accessible on the lattice, but this chiral model suffices to address quantitative questions,
+while extrapolating to the full standard model with the aid of perturbation theory. In fact, the
+same mechanism for relaxing the conventional lower bound by means of higher-order operators
+that we discovered for the Z) model is also active in this chiral model [13,14]; the corresponding
+plot upon an inclusion of a ~d3,a(b* 6) operator looks identical to figure 1b; see fig. 4 in [14].
+The existence of this mechanism is also confirmed by lattice studies [38-41], corroborating the
+functional RG studies.
+
+The chiral model nevertheless has a technical disadvantage, as the chirally broken (Fermi)
+phase necessarily goes along with the appearance of massless Goldstone modes. In the full
+standard model, they disappear through the Higgs mechanism, while they have to be removed
+by hand in the model studies both on the lattice as well as in the functional RG studies. This
+introduces a quantitatively small degree of model dependence which cannot be removed as a
+matter of principle. To avoid the full complexity of the standard model, but nevertheless acquire

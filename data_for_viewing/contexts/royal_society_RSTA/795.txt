@@ -1,0 +1,25 @@
+equation of kinetic theory to hydrodynamics, as one has gone from an arbitrary momentum
+
+
+distribution at a point in space-time to just three of its moments. In integrable models, there is
+a significant difference in how hydrodynamical equations are related to kinetic theory. Consider
+Lieb-Liniger as an example. As a distribution is uniquely determined by all of its moments under
+the Hamburger moment problem conditions, hydrodynamics for all the conserved charges is, at
+least possibly, equivalent to a kinetic theory description of the evolution of p(k, x, t).
+
+What form would we expect such an evolution equation for the pseudomomentum to take? In
+an integrable model, quasi-particles interact with each other through phase shifts: the initial and
+final momenta of two particles going through a collision are preserved, but there is a scattering
+phase shift. (In fact the Yang—Baxter equation, which we have used to name a class of integrable
+models, is an expression of how scattering phase shifts for three particles are determined by the
+two-particle scatterings and independent of their sequence.) According to Wigner, an energy-
+dependent phase shift can be interpreted as a time delay, i.e. particles of one momentum k are
+delayed by passing through particles of another momentum k’. [=
+
+We thus should expect a Boltzmann-like equation with no collisions that rearrange momentum : 3
+but with a velocity at each point that depends on the distribution of other particles,
+
+d:o(k, x, t) + dx(u[{o(k, x, H}lo(k, x, #)) = 0. (3.10) S
+
+The only part of this ‘Bethe-Boltzmann’ equation requiring Bethe ansatz methods is the a]
+calculation of the self-consistent backflow that determines the velocity functional v[] (for the case DNS

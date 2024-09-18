@@ -1,0 +1,25 @@
+medium, then equation (4.21) is akin to a discretized version of the heat equation with the
+Maxwell-Cattaneo regularization term. This term, transforming the heat (partial differential)
+equation into a damped wave equation, was historically introduced to create a maximum speed of
+
+
+propagation of heat in the medium [35]. We also note that at every moment the finite subsystems
+are at equilibrium with their respective finite bath. This property corresponds to the ‘local
+equilibrium’ assumption in thermodynamics, a paradigm which allows us to write dynamical
+equations for the thermodynamic quantities far from global equilibrium. Nevertheless, one can
+with the formalism presented in this paper interconnect dynamical systems in arbitrary patterns,
+not just those that arise from such a dicretization.
+
+In fact, the scope of systems we can model includes those considered in [5], and goes beyond
+their axiomatic approach in that we propose a detailed dynamic description of internal states and
+correlations within and across systems. In particular, we generalize ectropy with meta-energy,
+which accounts for those cross-system correlations, and behaves as a Lyapunov function even as
+heat can momentarily flow from cold to hot systems, a possibility indeed allowed by (4.21).
+
+To conclude this section, let us mention that establishing the validity of Fourier’s law even
+in the non-equilibrium stationary case from microscopic dynamics is a notoriously difficult
+problem [36]. We circumvent it here by the use of finite baths, defined by a phenomenological
+macroscopic dynamics rather than derived from microscopic first principles. In counterpart, we
+obtain a satisfactory dynamical description beyond the stationary solution.
+
+5. Conclusion

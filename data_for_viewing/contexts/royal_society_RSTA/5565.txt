@@ -1,0 +1,25 @@
+. 7 . »WSG wae . ae
+of magnitude than the first layer neighbours aa these deviations are almost irrelevant for =
+
+the total equilibrium distribution function, even though they are larger. Nevertheless, figure 5a :8
+shows clearly that the Poisson WSG equilibrium distribution function captures the MD data more aaa
+precisely. 1S
+
+6. Outlook 3
+
+In this article, we have derived a better approximation for the MDLG equilibrium distribution :s
+function. It deviates from the previous best approximation by Parsa et al. [1] in a broad transition [2
+region between the ballistic and diffusive regime of random particle displacements.
+Despite the fact that these deviations are small, we expect them to be of great importance in
+the analysis of non-equilibrium systems, particularly systems not too far from equilibrium, as
+is typical in hydrodynamic systems. What we have outlined here is the equilibrium behaviour
+of the MDLG mapping of an MD simulation onto an LG. The key interest, however, lies in
+the non-equilibrium predictions of this mapping. In future research, we will investigate MDLG
+predictions for LG and lattice Boltzmann collision operators. In such systems, we expect to find
+only small deviations from local equilibrium, and to quantify these small deviations it is essential
+to have a very good understanding of the equilibrium behaviour of the MDLG mapping.
+
+Data accessibility. This manuscript has no further supporting data.
+
+Authors’ contributions. A.J.W. supervised the research, contributed to it and revised the manuscript. A.P.
+contributed to the research, embedded the proposed model, set up the test cases, performed the data analysis

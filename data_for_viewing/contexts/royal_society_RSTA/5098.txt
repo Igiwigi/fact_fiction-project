@@ -1,0 +1,25 @@
+
+
+(a) (b)
+
+Figure 1. Examples of synthetic rock materials: spherical elements are used in the three-dimensional case (a), whereas
+discs/cylindrical elements correspond to the two-dimensional scenarios (b). This latter case is a version of the Taylor—Schneebeli
+material consisting of piled, small diameter, unit-length rods assumed to experience identical deformation in any transverse
+cross section. (Online version in colour.)
+
+that are in contact with each other. Typically, the particles have regular geometries (spheres
+in three dimension or discs in two dimension), their diameter being much smaller than the
+characteristic length of the continuum body that their collective behaviour aims to describe
+(figure 1). A fictitious linear-spring/dashpot/slider is employed to account for the interaction
+between any two particles in contact with each other. The stiffness of the elastic springs and
+the other ‘material’ constants for the sliders and the dashpots are not directly accessible from
+measurements, but are related to the bulk properties of the physical solid (Young’s modulus,
+Poisson’s ratio, etc.) and need to be calibrated through simulations of typical rock/soil mechanics
+tests such as, for example, bi-axial compression and indirect tension test [4-6]. Numerical
+simulations by DEM-type methods are dynamic in nature, the motion of the particles being
+governed by the usual linear and angular equilibrium equations of Newtonian mechanics, while
+the time integration is carried out with an explicit algorithm using a sufficiently small time step.
+Nonetheless, static behaviour can be easily described by introducing sufficiently large numerical
+damping (e.g. [7]).
+
+The existence of vastly different multiple spatial scales is implicit in any DE model. At one end

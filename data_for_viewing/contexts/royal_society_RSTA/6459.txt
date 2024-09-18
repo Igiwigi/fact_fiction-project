@@ -1,0 +1,24 @@
+
+intended to deprive the labels of any physical meaning, we could prefer an intrinsic formalism
+that avoids using such ‘surplus structure’ right from the start (like the Fock space formalism in
+quantum field theory or the reduced phase space description in gauge theories). However—as
+we shall see in the next section—the thesis that fundamental physical symmetries like exchange
+symmetries or gauge symmetries are nothing but a mere formal device by means of which we can
+get rid of a previously introduced representational redundancy is not devoid of problems.
+
+4. Indistinguishability in gauge theories
+
+The notion of symmetry is intimately related to the notion of indistinguishability. Briefly, a
+symmetry transformation is a non-trivial operation acting on a given configuration such that
+the initial and the final states are indistinguishable. It is a well-known fact that symmetries play
+an essential role in physics [104,105]. A fundamental step in the understanding of the physical
+importance of the notion of symmetry was the discovery by Emmy Noether of the relation
+between (global) symmetries (defined by a finite dimensional Lie group) of the corresponding
+Lagrangian and conserved quantities (i.e. quantities that do not change under the temporal
+evolution of the system). Noether’s second theorem encodes a generalization of this result to
+local symmetries, that is, to symmetries defined by an infinite-dimensional Lie group [106-108].
+In this case, the existence of local symmetries leads to the existence of relations between the
+canonical variables of the Hamiltonian formulation called constraints [109-111]. The importance
+
+1°For other discussions regarding the applicability of the notion of ‘primitive thisness’ to quantum systems see [100-102] and
+(79, pp. 16-35], as well as Kastner [99].

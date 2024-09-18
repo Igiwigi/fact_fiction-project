@@ -1,0 +1,24 @@
+(iii.) Zero, or any multiple of 8, may occur underneath any of the k, factors Q, ;
+
+(iii. ...) And lastly, zero, or any multiple of 7, may occur underneath any of the &;
+factors Q,.
+
+How many such compositions exist ?
+We have merely to find the coefficient of «™ in the expansion of
+
+(l4+a+a?+...)§(Ltartat+...)*(l+a%+a%+...)* (l+a'+a%+...)*;
+
+for this is the function which enumerates the compositions which possess these
+
+properties. In fact to form the composition we take a power of # from each of the
+
+first /, factors; then a power of x from each of the next k, factors, observing that
+
+the éxponents of are all zero or multiples of two; then a power of x from the next
+
+k; factors, observing that the exponents are all zero or multiples of three ; and so on,
+
+until finally in the /, factors we find that the exponents are all zero or multiples of 7.
+Hence it follows that the operation
+
+D,,Q:"Q,* ... Q:*

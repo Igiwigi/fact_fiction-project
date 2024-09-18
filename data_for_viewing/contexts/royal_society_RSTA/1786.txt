@@ -1,0 +1,25 @@
+
+
+ultrasonic methods are a good example. Ultrasonic inspection methods are usually classed as
+NDE methods, and in the case of A-scan, B-scan etc. which assume a prior location, this is
+appropriate. However, methods based on, for example, ultrasonic Lamb-wave scattering, also
+have the potential to locate damage, even over reasonable distances. Good examples of the use
+of Lamb-wave methods abound in the literature, and there will be no attempt here to provide
+a survey; however, a couple of milestones will be indicated. Guided-wave methods generally
+have proved very powerful in applications like pipe inspection, where the waves can propagate,
+and thus inspect over, large distances [4]. Lamb waves are singled out where the structure of
+interest is plate-like, and this has proved very powerful in the inspection of composite laminates
+[5]. It is arguable that the prediction level is not critical for NDE as almost all inspection
+methods involve taking the structure out of service for more detailed analysis or repair. In fact,
+almost all applications will be offline. Some element of ‘prediction’ is accommodated in the
+general philosophy of NDE, as code-based inspections ultimately relate the estimated damage
+to estimated consequence, based on structural integrity calculations.! The important parts of the
+identification hierarchy for NDE are thus:
+
+(i) DETECTION: the method gives a qualitative indication that damage might be present in
+the structure.
+(ii) CLASSIFICATION: the method gives information about the type of damage.
+(iii) ASSESSMENT: the method gives an estimate of the extent of the damage.
+
+Two other important distinctions between SHM and NDE were highlighted above; the
+first relates to the sensing technology. It is generally considered that SHM will be based on

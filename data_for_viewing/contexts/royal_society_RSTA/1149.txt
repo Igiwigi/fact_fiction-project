@@ -1,0 +1,25 @@
+
+
+
+Most of the time, the impact of collision models on the stability of LBMs is investigated through
+numerical simulations only, and the influence of the scaling used to compute the time step is
+rarely studied which further restricts the validity of these comparative studies. Consequently,
+the present work intends to study the stabilization properties of collision models, from a more
+general viewpoint, by relying on the concept of linear stability analysis (LSA) which, for example,
+does not depend on the time step scaling. Usually, the LSA is used to determine the linear
+stability properties of a given numerical scheme for uniform base flows and assuming a periodic
+simulation domain. To further include the impact of boundary conditions or grid mesh refinement
+techniques, one must use more complicated methods [55,56]. In the CFD community, the LSA
+is most commonly called a von Neumann (or Fourier) analysis owing to the fact that von
+Neumann was among the first to study the linear stability of numerical schemes used to solve
+partial differential equations [57]. Even if this analysis cannot quantify the impact of nonlinear
+(de)stabilization mechanisms, it is a mandatory step to assess the good behaviour of a numerical
+scheme in terms of both accuracy and robustness [57,58]. When it comes to the LBM community,
+
+despite the tremendous number of numerical validations of collision models that have been : =
+published up to now, only a few of them rely on the LSA [7-9,11,16,59-78]. In addition, the latter : =
+usually present results in a formalism that differs from previous studies (particular assumption of 1B
+the stability criterion, reduced interval of values for the relaxation time, etc), which prevent any : =
+general comparison of the (linear) stability of collision models. 8
+
+Consequently, this paper aims at (1) clarifying the exact physical properties of a given collision : o

@@ -1,0 +1,25 @@
+
+and we arrive at the conclusicn, that if a given operand, a function of x, could be
+expressed as a linear function of exponential functions of x, the r times repeated
+operation of @, could take place with facility upon each term of the linear function,
+and a general law for the repeated operation of 0, upon the operand would be
+obtainable, This reflection suggests the possibility of finding symmetric function
+operands in a form which will enable the repeated performance of Hammonn’s
+operators in a practically effective manner. It is quite certain that any such operand
+must possess at least two properties in common with the exponential function : (i) its
+first term must be unity ; (ii) it must contain an infinite number of terms. The first
+step was to find a symmetric function Q, of the elements a, 8, y, ... such that the
+effect of every Hammond operator upon it is to leave it unchanged ; or, as I prefer to
+say, to multiply it by unity. Q, is, in fact, the sum of unity and the whole of the
+monomial symmetric functions S@?A’y* ... = (pgr ...). It is in the partition notation
+
+a= 1+(1)-+(2)+(12)+(8)+(21)+(19) +... ad inf.
+
+It was then found that the effect of any Hammond operator upon any power of Q, is
+merely to multiply it by a positive integer. It then appeared that, denoting Q, by
+F(a, 8, y, ..-), the function
+
+Q, = F (a’, BY, y', ...)
+
+possesses properties of a character similar to those appertaining to Q,. The fact is
+that any Hammond operator when performed upon any power of Q,, say Q;“ has the

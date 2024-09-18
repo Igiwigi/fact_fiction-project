@@ -1,0 +1,25 @@
+
+The inverse tangents that present themselves in such an expression as G (a, b, «, y, 2)
+are indeterminate at corners of a corner square, but never infinite, and each of them is
+multiplied by an expression, which vanishes at the corner where the inverse tangent
+becomes indeterminate. ‘Thus the infinity is not removed at the expense of introducing
+a new indeterminacy.
+
+The discussion has been restricted to the evaluation of 6?y/éa éy for the assumed law
+of pressure, because this was the derivative which became infinite when the pressure was
+assumed to be uniform over the pressed area, and discontinuous at its boundary. It is
+clear that the other derivatives required to express the stress-components, for the
+assumed law of pressure, could be evaluated by processes similar to those used above.
+The results would not be of much interest. The fact that the stress at every point would
+be determinate is in accordance with the result of § 1.4.
+
+It is important to observe that the breadth ¢ of the border must be finite. It would
+not be possible to pass to a limit by diminishing ¢ indefinitely. The only result would
+be to reproduce § 2.5 (1) with its disturbing infinity.
+
+It may be noted that in the course of the work the double integral
+
+il} log (z + r) da’ dy’,
+
+taken over a square, has been evaluated, and there is nothing in the processes that have
+been employed to restrict their application to a square. They would apply equally

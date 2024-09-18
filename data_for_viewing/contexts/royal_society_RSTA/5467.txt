@@ -1,0 +1,25 @@
+In order to model these measurements, the cell contractility model was re-
+calibrated for MSCs by decreasing oOmax to 8kPa and employing a Hill constant
+k, =12 while keeping all other parameters fixed. Good correspondence between
+measurements and predictions is obtained (within measurement uncertainty) for
+ooth the scaling of Fy, with N (figure 9b) and the average traction force per
+post as a function of post position (figure 10). It is worth noting here that
+he threshold number of posts, when the behaviour of the cells switches from
+an upscaling to a downscaling response, appears to be dependent on cell type;
+compare figures 5a, 7 and 9b. However, recall that Deshpande et al. (2007)
+1ad shown that this threshold number of posts increases with decreasing post
+spacing. We thus believe that the primary reason for differences in the threshold
+values seen between figures 5a, 7 and 9b is not cell type but rather is related
+o the fact that the post spacing varied for the different cell types investigated
+1ere.
+
+In summary, the contractile response of MSCs on an array of micro-posts
+exhibits the same qualitative trends as smooth muscle cells and fibroblasts.
+Further, the contractility model once suitably recalibrated again captures the
+observations with acceptable accuracy.
+
+6. Sensitivity to the properties of the micro-posts
+
+The bio-chemo-mechanical model here is further used to predict the sensitivity of
+the response of smooth muscle cells to the geometric and mechanical properties of
+the PDMS micro-posts. All simulations are presented for initially square-shaped

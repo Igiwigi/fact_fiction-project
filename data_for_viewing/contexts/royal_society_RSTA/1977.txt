@@ -1,0 +1,25 @@
+
+of the forcing, according to
+
+te(t,t) = pUpao [? qe oa] . (4.13)
+« Jo(«a)
+As the flow becomes increasingly reversing at higher De, the WLM solution experiences larger
+shear rates as discussed before. The Giesekus constitutive equation becomes more appropriate
+than the UCM equation in this regime. For w #0, the presence of the mobility factor in
+equations (4.12) couples normal and shear stresses. This coupling makes radial normal stresses
+susceptible to undergoing a saddle-node bifurcation, controlled by the local shear rate d,uz.
+This possibility can be pursued perturbatively, by considering that the shear stresses t,z in the
+UCM base flow are a first-order approximation of the actual shear stresses in the base flow. This
+approximation relies on the fact that the UCM velocity profiles are in good agreement with the
+velocity profiles experimentally observed at small forcing amplitudes, except at resonances [27].
+Following this reasoning, we have found that above a critical value of the forcing amplitude
+normal radial stresses diverge in a finite time, and so do all other stress components. Normal
+
+radial stresses are perpendicular to the flow direction and can bend the streamlines, giving rise : =
+to the secondary flow observed experimentally [21]. Repeating this scheme systematically, in the : a
+whole range of forcing frequencies experimentally accessible, we have found remarkably good 73
+agreement with the threshold determined experimentally, as shown in figure 4, with no adjustable iL
+parameters other than material properties and system dimensions. =
+
+Since the present scheme relies on maximum shear stresses 1,z in the UCM base flow, it is not [4
+affected by the fact that the Giesekus model with no solvent viscosity contribution is incomplete : *

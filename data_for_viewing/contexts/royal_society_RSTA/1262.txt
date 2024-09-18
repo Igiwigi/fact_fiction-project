@@ -1,0 +1,25 @@
+detection of the waves in the photosphere that have periods of 5 min or less, but the 135s vector
+magnetic field data from HMI has a Nyquist frequency of 3.7 mHz so it can be used for wave
+research, but we discuss such data options further in §2.
+
+Recently, Alfvén waves heating chromospheric plasma in a sunspot umbra through the
+formation of shock fronts was reported [37]. In this work, the highly inclined (70-80 degrees)
+magnetic field geometry in the outer boundary of the umbra, alongside the tangential velocity
+signatures, distinguished the waves as distinct from umbral flashes. Observed local temperature
+enhancements of 5% in the chromosphere were reported and thought to be evidence of dissipation
+of mode-converted Alfvén waves driven by upwardly propagating magneto-acoustic oscillations.
+Alfvén shocks are predicted to form in regions with high negative Alfvén speed gradients [38]. In
+this case of the nearly horizontal outer umbral fields, the volume expansion of the magnetic fields
+and the fact that the density does not drop off steeply means a negative gradient in the Alfvén
+speed can exist. The study by [37] motivated us to search for oscillatory signatures in highly
+inclined magnetic field geometries, even though our choice of feature being a polarity inversion
+line is a very different environment that of the outer umbral field, we have an opportunity to
+characterize the transverse velocity oscillations.
+
+The purpose of this paper is twofold. First, we explore the oscillations observed with HMI.
+Since HMI observes the full solar disc for all of the magnetic activity present in Solar Cycle 24,
+and perhaps that of Solar Cycle 25, then any successful measurement of wave power as well as
+differentiation of photospheric wave modes from the use of HMI data will support other research
+conducted with higher spatial and temporal resolution instruments hosted by DKIST, SST and
+other instruments around the world. Specifically, within this paper, we analyse the signals and
+oscillations within the active region NOAA 11158 on 16 February 2011 when the region was

@@ -1,0 +1,24 @@
+
+We make the simple observation that, if 09 is any radial function in R?, then u - Voy =0. Hence,
+6 is a steady solution of (2.3), while if 6 solves the two-dimensional heat equation with initial
+data 6) and diffusion coefficient «, then 6“ is the unique solution of (2.1) with initial data 6.
+
+Let now ¢é Cc (R?) be a radial, smooth bump function supported on the unit disk in R? and
+set:
+
+1
+40(x,Y) = O(%,Y) ——=,_ (x,y) £(0,0). (4.2)
+V. e+y
+We have that 0) € L?(R2) BS oo (R?) for all 1 <p <2, that 0“, 0 <« <xg for some fixed xo, satisfies
+(3.9) and that 6 — 6) weakly* in L*((0,T); ee) for all T > 0 ([55], Proposition 4). In fact, since the
+heat semigroup is strongly continuous in BS oo and the limit « > 0, for fixed t > 0 is equivalent to
+
+the limit t > 04 for fixed « in this case, 0“ converges strongly to 0 in C((0,T); BS oo):
+From ([55], theorem 5), we have the following result.
+
+Theorem 4.1. Let 69 be as in (4.2) and let u be as in (4.1). Let 0“ be the solution of (2.1) with initial
+data 09. Then, for each t > 0,
+
+3
+lim « | \Vo'(x,y, dx dy = 2.
+R2

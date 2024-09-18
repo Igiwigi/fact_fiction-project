@@ -1,0 +1,25 @@
+exists a certain time window in which the choice of the a's really change the behaviours of the
+functions. More concretely, if we add a phase in the coefficients defining the original vector %, we
+may observe quite large oscillations. Then, interference terms in Yq make it, in general, quite difficult
+to get a decision. In particular, this is the effect of the relative phases in the interference coefficients
+(figure 1b,d), while if these coefficients have all the same phases, a decision can be reached quite
+soon (figure 1a,c). However, if we wait for a sufficiently long time, in both cases we reach the
+same final values of the DFs: the asymptotic values of the DFs only depend on the state of the
+environment, and not on the particular choice of %.
+These conclusions are confirmed by other choices of the state on the environment. For instance,
+we plot again the DFs for the choices Cy,1 (figure 2a,c) and C,,2 (figure 2b,d) and for the same choice
+of the parameters as in figure 1, while the state of the environment is chosen different, because we
+take now N; = Np = 1. We see that there is no particular difference between the two DFs nj(t) and
+np(t) (this is possibly due to the fact that Nj = Nz). However, adding the phases to the a) creates,
+again, a lot of noise in the DM process, noise which disappears, but only after a sufficiently long
+time.
+It is useful to stress that, changing further the parameters of the Hamiltonian, does not really
+affect our conclusions. Indeed, figure 3 shows that even with different choices of the parameters
+in H, the choice C2 with jrex = 100 (rather than jrex = 500, as in the previous figures), phases create
+noise, and again, this noise becomes smaller and smaller after some time.
+In this case, the existence of an asymptotic limit for the DFs is less evident, but this is only due
+to the small time interval considered. It is not hard to imagine that we could still recover a clear
+asymptotic value for ;(t) if we consider a time interval larger than just [0, 0.5]. However, we will
+not do this here in order to keep the range of the figures uniform.
+So far, we have taken Hcoop = 0. The same behaviour is observed if we take Hcoop #0: we could
+check (but we do not include the plots here) that the choice Cy,2 is again much more noisy than

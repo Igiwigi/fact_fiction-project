@@ -1,0 +1,25 @@
+out different approaches. One notable exception is Weatherbench [142]. Such benchmark datasets
+and frameworks are well established in the ML community (e.g. MNIST [143] or ImageNet [144])
+and they contributed substantially to the rapid pace of DL developments in application areas
+such as image recognition, video prediction, speech recognition, gaming and robotics. While a lot
+of meteorological data is freely available from weather centres and research institutions, proper
+use of these data requires some knowledge about Earth system science and the data formats and
+tools, which are used by the environmental research community. It might help if tools for reading
+and working with these datasets were integrated in major ML frameworks.
+
+When reflecting on the ultimate goal of replacing computationally expensive NWP models
+with DL algorithms, it is important to reconsider the objectives of weather forecasting and
+carefully define the requirements, which must be met by any potential alternative method. Certain
+criteria, which we now consider essential for a ‘good’ weather forecast, may in fact be conceptions,
+which are resulting from our experiences with numerical models, and they may not be applicable
+to forecasting systems based on DL. One particular aspect in this regard is self-consistency of
+forecast results, which is often taken for granted by numerical modellers, even though it is not
+
+
+strictly fulfilled in current NWP forecast systems. In this article, we consciously propose thinking
+about a replacement of the entire core NWP workflow including the DA, numerical modelling,
+and output processing, because the task of weather forecasting can then be described as a huge
+Big Data problem of mapping a plethora of Earth system observations onto a well-defined set of
+specific end-user weather forecast products. Seen in this way, the problem of weather forecasting
+is more amenable to DL methods than a replacement of the actual NWP model itself with its
+grid structure, operator concepts etc. which are tied to the very concept of classical numerical

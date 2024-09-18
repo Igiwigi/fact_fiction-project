@@ -1,0 +1,25 @@
+intermediate directions without needing to change the value of the fitted parameters, which
+means that the parameters of the model are angle-independent. Remarkably, the relaxed
+micromorphic parameters are also frequency-independent, which is another strong point of our
+homogenized model. This is a major strength of the relaxed micromorphic model, since standard
+homogenization techniques do not allow us to directly transfer anisotropy from the micro to
+the macro scale [50,51], and often give rise to frequency-dependent homogenization relations
+[32,35,38,52-55].
+
+(a) A periodic metamaterial for acoustic wave control
+
+The unit cell (figure 1) used in this work has already been introduced and characterized in [5,6]
+and we recall its geometric and elastic properties in the table of figure 1. This unit cell has been
+conceived for elastic waves control in the acoustic regime. In fact, dispersion curves for the
+associated periodic metamaterials can be obtained via standard Bloch—Floquet analysis (black
+dotted line in figure 2) and show a band-gap between 1725 and 2136 Hz.
+
+Standard Bloch—Floquet analysis is very effective in describing the metamaterial’s behaviour
+when it is sufficiently large to be modelled as an infinite medium. However, it is not suitable
+
+
+(a) (b)
+
+dispersion curves, 0 = 0° (Re) dispersion curves, 0 = 45° (Re)
+3000 3000
+2500 [== shear mo 2500

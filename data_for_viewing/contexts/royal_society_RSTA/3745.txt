@@ -1,0 +1,25 @@
+and V2 + €2 equals the -CH3 dissociation energy of structure D (see figure 2) at large r. A relaxed
+scan along the C-C reaction coordinate for the final parametrized diamond EVB model is shown
+in figure 4b. The fact that the neopentane fits in figure 4a can produce reasonable dissociation
+curves at the diamond surface (figure 4b) indicates that the fitted EVB parameters have some
+degree of transferability.
+
+4. Molecular dynamics simulations of —CH3 dissociation at the diamond surface
+
+(a) NVE simulations
+
+Having obtained an accurate and efficient -CH3 dissociation potential at the diamond surface,
+we investigated the relative rates of processes (R2a) and (R2b) using non-equilibrium NVE MD
+simulations. Here, ‘non-equilibrium’ refers to the fact that the initial conditions of each NVE
+trajectory were modified from coordinates and velocities selected from an NVT ensemble (details
+below), in order to emulate the nascent vibrationally excited SCH3* species that we expect would
+be formed upon hydrogen atom addition to SCH)p. (In the canonical (NVT) ensemble, amount of
+substance (N), volume (V) and temperature (T) are conserved.) MD trajectories were propagated
+in order to observe the fraction of trajectories in which prompt methyl formation was observed
+prior to the establishment of thermal equilibrium.
+
+The procedure we used to carry out these MD simulations was as follows: A 1.6 us (1 fs
+time step) NVT simulation of SCH3 was carried out using a Langevin thermostat with a
+friction coefficient of 10ps! and heat bath of 1300K (a typical temperature at which carbon
+etching is observed experimentally under [8] CVD growth conditions). Temperature equilibration
+was achieved within a few picoseconds, after which time coordinates and velocities from this

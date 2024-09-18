@@ -1,0 +1,24 @@
+using two different image encoders: ResNet, in which the image encoding is trained on an image classification task and thus Ss
+implicitly has access to linguistic supervision via the linguistic categories (e.g. animal names); and BEIT, in which the image Dw
+encoder is trained on a reconstruction objective with no access to linguistic signals. i
+
+grounding question, there is a second reason these studies are difficult to interpret. Namely,
+they usually compare the performance of an LLM to human performance, but do not report
+performance of any grounded model. Thus, to the extent that the LLMs underperform humans
+(which is always the case), we cannot conclude whether a lack of grounding is the reason for the
+gap. This limitation is not sloppiness on the part of the authors—running such a comparison is
+difficult if not impossible given current technology and resources. It would require two models
+which are trained on identical language data, one with access to ‘grounding’ (which could be
+instantiated in countless possible ways) and one without. And training such models assumes
+we know the right way to give the model ‘grounding’, which we certainly do not. In fact, we
+attempted to run such a study in [96]. We reported a null result (ie. no measurable difference
+between the grounded and ungrounded models), but the result was unsatisfying for exactly the
+reasons just stated. In order to train comparable models, we were limited to language from very
+restricted domains (cooking videos). Even setting aside the issue of data, the null result could
+always be due to our having trained the model badly, e.g. choosing a bad method for integrating
+modalities. Thus, even in this context in which I am actively arguing that grounding is not
+required for meaning, I would not point to our results from [96] as evidence in favour of the
+claim. Simply put, more work is needed before we can draw strong conclusions, especially given
+negative results, from studies of this type.
+
+(c) Summary and discussion

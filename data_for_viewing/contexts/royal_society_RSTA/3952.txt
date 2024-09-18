@@ -1,0 +1,25 @@
+
+
+The hydration level of soluble macromolecules is high enough in concentrated conditions
+to affect substantially the diffusional and transport properties of proteins. Hydrodynamic
+interactions are therefore key to understanding both the motion of proteins in dilute and
+in crowding conditions. This has been pointed out in seminal theoretical and experimental
+work [7-10].
+
+From the previous discussion, it is clear that a crucial role is played by modelling appropriately
+the high diversity of biological environments. This is a formidable task and requires selecting the
+relevant degrees of freedom and propagating them in time subject to properly chosen boundary
+conditions. Computer simulation and modelling can play a synergistic role in this sense. In
+fact, an explicit particle-based representation of the macromolecules cannot be avoided, whereas
+hydrodynamics has to be accounted for in explicit terms.
+
+Our approach to modelling the cellular environments takes these two elements in
+
+consideration by the following dual approach: (i) by describing macromolecules by using : =
+appropriate implicit solvent coarse-grained (CG) models at quasi-atomistic detail (i.e. the OPEP : S
+force field [11]), such that the secondary, tertiary and quaternary structures are well reproduced 2
+and (ii) by describing water as a dynamically responsive medium that obeys the laws of fluid aed
+dynamics and that is able to host the presence of embedded bodies (figure 1). Depending on the 22
+level of description of the biological process, the intramolecular flexibility of the macromolecules : S
+can be treated differently, from accurate standard intramolecular forces, including bonding, DNS
+bending and torsional terms, to a cruder elastic network, up to a rigid body representation. At : =

@@ -1,0 +1,25 @@
+represented in this region. The intensity of the coupling between the land surface and the
+atmosphere is another important factor in West Africa where PMIP simulations show very
+
+
+different intensities of evaporation depending on the convection and precipitation regimes [49].
+Finally, model biases and the representation of the ITCZ are factors that precondition the surface
+humidity and vegetation growth. The MH precipitation differences with modern conditions are
+located to the north of the present-day ITCZ [50]. Model biases in the modern location of the ITCZ
+are therefore also a factor that partly impacts the MH vegetation feedback.
+
+4. Model biases and vegetation feedback in Africa
+
+The fact that land-surface albedo feedbacks are affected by model biases in the PI simulations
+makes it difficult to fully disentangle the part of the results that is purely because of model
+dynamical and physical representations of climate from the part that results from model tuning,
+initial state and implementation of the experimental protocol. To further illustrate this point
+
+we consider MH simulations run with two different versions of the IPSL climate model [33]: : =
+IPSL_CM5A_LR and IPSL_CM5B_LR. These two versions share the same ocean, sea-ice and land- : yy
+surface models. The differences between them only arise from atmospheric physics and tuning (3
+[51]. Both versions use the same atmospheric deep convection scheme, but the IPSL_CM5B_LR : S
+version of the atmospheric component (LMDZ5B) includes a mass flux representation of the 22
+thermal plumes or rolls of the convective boundary layer, coupled to a bi-Gaussian statistical ne]
+cloud scheme, as well as a parametrization of the cold pools generated below cumulonimbus : S
+by re-evaporation of convective precipitation [52]. These improvements in atmospheric physics : =

@@ -1,0 +1,25 @@
+networks on successful detection and transmission of weak signals. In this context, complex
+network models derived from graph theoretical analysis of neuroimaging data provide a useful
+environment for the computational study of these two resonance phenomena.
+
+In this review, a coalescence of recent intriguing SR and VR studies in neuronal media is
+presented. More precisely, our focus is on weak signal detection via both phenomena in complex
+neuronal networks in the light of experimental and theoretical findings. We have tried to make
+it as comprehensive as possible to guide further research. After briefly introducing these two
+phenomena and their neural interpretation, the remainder of this review is organized as follows:
+In §2, we emphasize the significance of connectivity and complexity in the neural system. In §3,
+we present a representative mathematical expression of resonance behaviour and widely used
+metrics for evaluating it. Then, in §4, we discuss in detail recent SR and VR studies investigating
+the effects of various biophysical facts on the weak signal detection performance in neuronal
+networks. Finally, we summarize the review with concluding remarks in §5.
+
+2. Significance of neuronal connectivity
+
+In line with the technological advances across recent decades, the knowledge on neuronal
+connectivity has been advanced with different neuroimaging methods including functional
+magnetic resonance imaging (fMRI), diffusion tensor imaging (DTI), transcranial magnetic
+stimulation (TMS), arterial spin labeling (ASL), functional near infrared spectroscopy (fNIRS)
+and magnetoencephalography (MEG) [27-29]. The term ‘connectivity’ in neuroscience refers to
+patterns of links between distinct units within a nervous system. It can be defined with individual
+neurons and their synaptic contacts at microscale, with groups of neural circuits at mesoscale and
+with interconnected brain regions at macroscale. From an anatomical point of view, these refer

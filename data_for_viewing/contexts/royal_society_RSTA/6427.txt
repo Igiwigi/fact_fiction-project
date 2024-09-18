@@ -1,0 +1,25 @@
+by/4.0/, which permits unrestricted use, provided the original author and
+
+THE ROYAL SOCIETY source are credited.
+
+PUBLISHING
+
+
+aim of this work is to investigate such a strain-limiting model for the response of vicoelastic
+materials. More precisely, we are interested in studying a model where the linearized strain is
+given as a function of the stress and the stress-rate.
+
+Implicit constitutive theories certainly allow for a more general structure for material response
+compared to explicit ones, which, in fact, can be seen as a subclass. Moreover, models with
+limiting strain provided by implicit constitutive theories are able to capture experimental
+observations providing theoretical justification for the response of materials such as Gum metal
+and titanium alloys that were previously proposed in a rather ad hoc manner (see [3] and
+references therein). Even though some implicit models for describing the elastic response of
+solids existed for a considerable amount of time, the importance of the cause and the effect in
+those descriptions was not realized until recently when constitutive models were introduced
+to describe the response of elastic solids wherein the stress T and the deformation gradient are
+related implicitly.
+
+In the classical Cauchy elasticity, the stress is a function of the strain B. As a result of
+linearization of the strain we obtain T = C: €, where : stands for matrix product, C is the fourth
+order elasticity tensor and € denotes the linearized strain. In conclusion, one could only obtain a

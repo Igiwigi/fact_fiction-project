@@ -1,0 +1,25 @@
+momenta. An analogous result was obtained by Mironov in [51] for m=5 under the additional
+assumption of real analyticity.
+
+As for the ‘degree > 5’ line of table 1, let us first mention the results of Kiyohara [46], who,
+for each d > 3, constructed a family of metrics on S* whose geodesic flows admit a polynomial
+integral of degree d, but do not admit any non-trivial integrals of degree 1 or 2. Unfortunately,
+for the examples constructed in [46], it is not clear whether they might have non-trivial integral
+of ‘intermediate’ degrees d' (i.e. 2 < d’ < d) or not. The integral F of degree d constructed in [46]
+is irreducible, but one may still imagine that there exists an additional polynomial integral of a
+smaller degree which is independent of both H and F. The point is that the metrics constructed
+in [46] are Zoll metrics, i.e. all of their geodesics are closed. This means that the geodesic flows are
+superintegrable (see the discussion in §3c), which implies that additional integrals exist; it is not
+clear though whether they are polynomial in momenta and, in fact, we conjecture that it is not the
+case.
+
+Problem 3.1. Complete table 1: (i) construct new examples of natural Hamiltonian systems
+on closed two-dimensional surfaces admitting polynomial integrals; describe and, if possible,
+classify them; (ii) prove, if possible, the non-existence of such integrals (perhaps under some
+additional assumptions).
+
+Of course, this general problem is very complicated, and a solution of certain special cases
+(some of them are listed below) is interesting. Even a construction of one new integrable example
+ona closed surface deserves to be published!
+
+Let us list some conjectures/special cases/additional assumptions which were studied in

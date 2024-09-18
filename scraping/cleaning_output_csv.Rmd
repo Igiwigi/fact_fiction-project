@@ -223,9 +223,12 @@ write.csv(second_run, "2nd_run_combined.csv", row.names = FALSE)
 
 
 ```{r creating_metadata}
-data <- read.csv("2nd_run_combined.csv") #rstb
+library(dplyr)
+library(stringi)
 
-#the metadata file for royal society (i dont remember how i originally did it)
+data <- read.csv("3rd_run_combined.csv")
+
+# Your previous mutations
 data <- data %>%
   mutate(downloaded = TRUE) %>%
   mutate(filename = stri_replace_all_regex(
@@ -242,7 +245,32 @@ data <- data %>%
   )) %>%
   mutate(filename = paste0(filename, ".pdf"))
 
-write.csv(data, "royalsociety_metadata2.csv", row.names = FALSE)
+# Function to remove only the exact number of shared terms between subjects and keywords
+remove_shared_terms <- function(subjects, keywords) {
+  subjects_list <- unlist(strsplit(subjects, ",\\s*"))
+  keywords_list <- unlist(strsplit(keywords, ",\\s*"))
+  
+  for (term in keywords_list) {
+    match_idx <- match(term, subjects_list)
+    if (!is.na(match_idx)) {
+      subjects_list <- subjects_list[-match_idx]
+    }
+  }
+  return(paste(subjects_list, collapse = ", "))
+}
+
+# Apply the function and handle "dunno" cases
+data <- data %>%
+  rowwise() %>%
+  mutate(subjects = remove_shared_terms(subjects, keywords)) %>%
+  mutate(subjects = ifelse(subjects == "dunno", NA, subjects),  # Set "dunno" to NA
+         subjects = na_if(subjects, ""),                        # Set empty subjects to NA
+         keywords = na_if(keywords, ""))                        # Set empty keywords to NA
+
+write.csv(data, "royalsociety_metadata3.csv", row.names = FALSE)
+
+
+
 ```
 
 ```{r combining_metadata}

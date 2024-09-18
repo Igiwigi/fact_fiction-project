@@ -1,0 +1,25 @@
+
+d - a
+—H(B)=—2 E-Bd
+SHB) if x,
+
+so that orthogonality of B and E is key to helicity conservation. This is precisely the type of
+question whose general study was pioneered in the work of Tartar and Murat. Indeed, we recall
+the following version of the div-curl lemma [6,13]: suppose we have a sequence of magnetic
+and electric fields (Bx, Ex) —~ (B,E) converging weakly in LP x LP’ and such that {V - By} and
+{0,B, + V x Ex} are uniformly bounded in L? x LP’. Then Bx - Ex ~B-E inthe space of measures.
+Observe that, since E; = By x ux, the energy bound in (3.9) is not enough to put us in this setting.
+On the other hand, for instance if we assume uniform bounds on (u,), (Bx) in L3, then (Ex) is
+bounded in L*/? and the div-curl lemma applies. A closely related result in [52] is that in fact for
+any weak solution of (3.8) with u,B €L> magnetic helicity is a conserved quantity. In terms of
+the general framework sketched in §2 this implies that in the L3 (and in particular the bounded)
+setting the relaxed constitutive set K’ has empty interior, because necessarily B - E = 0. Conversely,
+adding this condition to (3.12) leads to a relaxation of ideal MHD which is consistent with the
+Woltjer—-Taylor theory, and in particular to the following result in [51]:
+
+Theorem 3.4. There exist weak solutions u,B € L° of the ideal MHD system (3.8) for which € and W
+are not conserved in time, but magnetic helicity H remains constant.
+
+Finally, to close this section we recall that, beside conditions for the conservation of magnetic
+helicity, also the conservation of energy and cross-helicity have been studied in [49,52-54].
+Conservation of the magnetic helicity was shown in [49] for solutions u,B which are Hélder

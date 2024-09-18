@@ -1,0 +1,25 @@
+but with opposite sign. The result implies that the structure possesses an alternating strain
+deformation ahead of the bridge crack front [36]. In all admissible regimes computed below, this
+behaviour located at 7 < 0 is typical during the bridge fracture process. In fact, in the next sections,
+we demonstrate that it is the behaviour of the structure within the bridge crack zone at 7 > 0 that
+provides an upper speed limit for this failure regime.
+
+
+Additionally, the analytical model developed above assumes (0) = tc, which is the case for
+all trajectories shown in figure 3. For 7 >1, the trajectories undergo oscillations. This results
+from the release of waves during the bridge fracture process that travel outward to the right of
+the front. In relation to this, as demonstrated in figure 3, for n > 0 the displacement amplitude
+of even-numbered nodes can increase with increasing a, whereas the displacement amplitude
+of the odd-numbered nodes will decrease. Physically, this observation corresponds to the fact
+that stiffer vertical links will prohibit the odd-numbered nodes for n > 0 from undergoing large
+displacements, whereas the less constrained even-numbered nodes in this region will be more
+prone to excitation.
+
+(c) Energy ratio dependency on the bridge crack speed
+
+In figure 4, we show the dependency of the energy ratio y on the bridge crack speed that has been
+computed using (4.6) for the three structures considered.
+
+The behaviour of y can be described with two distinct regimes: (i) a regime where y grows
+monotonically with increasing v and approaches unity when v — oo; and (ii) a regime occurring at
+low speeds, where the value of y can oscillate rapidly with increasing v. For regime (i), indicated

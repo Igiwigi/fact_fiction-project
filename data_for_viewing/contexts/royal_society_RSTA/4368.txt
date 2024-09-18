@@ -1,0 +1,24 @@
+1 2
+
+For example, in the Euplotid nuclear code, there are two amino acids (Ile, Cys) that are
+represented by three codons each (table 1). In the same way, in the non-power model, numbers 7
+and 16 have degeneracy 3 since they are represented by three binary strings each (in green).
+
+We have seen that the degeneration of both the Euplotid nuclear and of the mitochondrial
+genetic code admit a non-power representation. Is this a fortunate coincidence?
+
+The degeneracy distributions that admit a non-power representation are extremely rare. In
+order to see this, note that symmetry of the degeneracy table is a necessary condition for a
+existence of a non-power representation. The ratio between the number of symmetric degeneracy
+tables over the total number of possible tables gives a coarse assessment of this fact under the
+assumption that every table occurs with the same probability.
+
+Counting the number of degeneracy tables is analogous to what in physics is called the Bose—
+Einstein statistics, that is, counting the ways one can distribute k indistinguishable balls into 1
+labelled urns. In our 6-bit binary system, we have 64 strings/balls and 24 numbers/urns. Hence,
+
+the total number of tables is
+n+k—1)\_ (64+23\ _ 20
+( k-1 )-( 23 ) =sa2 10 :
+
+The number of symmetric tables is

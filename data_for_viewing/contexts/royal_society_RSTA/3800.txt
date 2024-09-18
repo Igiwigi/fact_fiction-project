@@ -1,0 +1,25 @@
+and, via variable transformations, the exchange of leading balance as a function of the increasing
+scale of the momentum transporting motions with wall-normal distance. These analyses evidence
+the existence of an underlying hierarchy (distribution) of scaling layers, W(y), whose widths
+physically represent the characteristic size of the turbulent motions responsible for momentum
+transport, which is dominated in the wallward direction, i.e. by the negative uv motions, or
+uv<, herein. The y variation of W, dW/dy, is of central importance, as it is analytically shown
+to approach a constant on the domain where the leading-order balance solely involves inertial
+terms. In the context of the mean momentum equation, this is the origin of distance-from-the-
+wall scaling that underlies a logarithmic mean velocity profile, and recent empirical studies at
+high Reynolds number support the onset of logarithmic dependence on the inertial domain as
+specified by the present theory (e.g. [5,16]).
+
+The features of the theory most relevant to this study relate to the fact that the coordinate
+stretching function, ¢, that yields an invariant form of the mean momentum equation across
+the entire hierarchy of scaling layers is analytically given by ¢ =dy/dW, and thus this scaling
+parameter approaches constancy, ¢ > ¢¢, as the Reynolds number tends to infinity. Indeed, the
+
+
+theory specifies that $7 =1/«, where « is the leading coefficient in the logarithmic mean profile
+equation (i.e. the von Karman constant). By employing a valid but discrete construction of the
+layer hierarchy, Klewicki ef al. [11] show that the quantity ¢2/(¢- + 1) approaches a constant
+a on the inertial domain, and through a number of empirical measures show that a equals
+unity to within a couple of per cent, i.e. within the measurement uncertainty. Remarkably, the
+condition a =1 indicates that ¢. =, where  =(1+ V5)/2 is the golden ratio. Geometrically,
+a =1 corresponds to an extended version of distance-from-the-wall scaling. It requires both a

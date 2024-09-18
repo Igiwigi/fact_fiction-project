@@ -1,0 +1,25 @@
+denoted by H, and h,. If/is not an integral multiple of d it will be necessary to work with the
+means. Otherwise the choice of means or totals is a matter of convenience.
+
+In considering the accuracy of systematic sampling we shall require some expression for
+the variance of the actual samples. The true errors of sampling will be given by the deviations
+of h, from the mean of all the terms of the sequence. It appears best, however, to adopt the
+convention that
+
+err =
+Vike) = 7 uD)
+
+remembering that, with this convention, a factor (d—1)/d must be introduced into the final
+estimate of error of a sequence to allow for the fact that we are sampling from a finite popula-
+tion. The corresponding variance of the sums H, will be denoted by V[H,]. If / is not a
+multiple of d, V[h,] will not be exactly equal to the variance of h,, since the mean of h, will
+not be exactly equal to the mean of all the terms of the sequence, but for long sequences the
+difference will be trivial.
+
+
+350 : F. YATES ON SYSTEMATIC SAMPLING
+It will often be more convenient to express these variances on a per term basis. These
+will be defined by of H,] = ofhg] = sg Vib].
+
+If the terms are randomly distributed uncorrelated variates with variance ? the deviations
+of f, will provide an estimate of 7? based on d—1 degrees of freedom given by

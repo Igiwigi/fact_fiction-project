@@ -1,0 +1,25 @@
+number of references available in the literature. The computational configuration is as follows. ne]
+The two-dimensional cylinder of diameter D is centred at a distance of 5D away from the inlet, : “
+OD away from the sides, and 20D away from the outlet. It is subjected to a uniform flow : =
+of streamwise velocity ug, and four Reynolds numbers are considered: Rep = ugD/v = 40, 100, [8
+
+200, 500. In all the simulations, the Courant number is fixed at CFL=0.1. The fluid mesh is
+unstructured and does not change in the course of time. The typical value of the element edge
+lengths at the outer boundaries is Le = D, whereas the minimum edge length /. near the cylinder
+is indicated in table 1. The domain is discretized using a mixed finite-element discretization
+method, where discontinuous linear polynomials are used for the velocity field (ie. P1-DG
+discretization) and continuous piecewise quadratic polynomials are used for the pressure field
+(i.e. P2 discretization). A well-known difficulty in representing solid structures as immersed in an
+extended computation domain is the fact that sharp fluid—structure interfaces are smeared on the
+computational cells. This affects the accuracy with which forces, and hence boundary conditions,
+are represented on the structure surface. A related issue concerns the computation of diagnostic
+variables. In particular, the integral of the pressure and viscous forces on the bluff-body surface
+is not straightforward owing to the smeared representation of the structure. Despite extensive
+literature on the numerical modelling of FSIs, this post-processing difficulty has been scarcely
+addressed [22,23]. This study shows that one of the main differences between DB and immersed-
+body type approaches is the location of the pressure extrema. In the DB approach, the maximum
+pressure occurs at the cylinder boundary, which is in accordance with experimental observations.
+In the IS approach, the pressure lines close in the shell as shown by figure 3. Thus, the pressure
+extrema are located close to the first node of the fluid mesh where the shell concentration field
+equals zero. This occurs at a distance R* ~R+ A+ 1. from the cylinder centre, where R is the
+cylinder radius, A is the thickness of the shell surrounding the cylinder and /, is the edge length

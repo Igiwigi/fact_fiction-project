@@ -1,0 +1,25 @@
+
+P(D|0,M)P(0,M) _ P(D| 0, M)P(@ | M)P(M)
+P(D) P(D)
+
+In the following text, x is used to denote the current state of a Markov chain. In the context of
+algorithms which generate samples from the posterior parameter distribution only, x is simply
+equal to 6, the current position of the Markov chain in the parameter space. For RIMCMC—where
+the Markov chain is being used to generate samples from the joint posterior (equation (4.3))—
+the current state of the Markov chain is x = {0,,k}, where k indexes the model structures and 6;
+represents the current parameter estimates of the kth model.
+
+Guaranteeing that the resulting Markov chain will obey detailed balance (and therefore have
+a stationary distribution equal to the target) is complicated by the fact that different model
+structures will usually feature different numbers of parameters and, as result, RIMCMC involves
+the propagation of a Markov chain across parameter spaces of varying dimension.
+
+Consider the situation where the algorithm’s current state is x € R" and the state x’ ¢R” is
+proposed via
+
+P(0,M|D)=
+
+(4.3)
+
+x’ =h(x,u), (4.4)
+where |i is a user-defined function and u is an auxiliary random variable sampled from a

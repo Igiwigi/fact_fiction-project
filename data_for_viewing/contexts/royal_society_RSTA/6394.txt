@@ -1,0 +1,25 @@
+
+22: end procedure
+
+5. Case study: solving Khan Academy problems in Peano
+
+The main design goal of Peano is to provide a flexible representation for educational mathematical
+domains, both to let us understand how learning in this domains can take place and to facilitate
+applications in computer-assisted education. We now describe at our main case study in this
+direction: the formalization of the algebra sections of Khan Academy illustrated in figure 1. These
+
+Specifically, we could allow a backward step when all the produced sub-goals can be expressed with already existing objects.
+Multiple steps might then be needed to construct the necessary objects to apply a backward step. This would overcome the
+fact that, in proof assistants, backward steps typically allow the immediate, arbitrary instantiation of existential quantifiers as
+long as the result type-checks, thus allowing infinite options.
+
+
+real : type.
++: [real -> real -> real]. - : [real -> real -> real].
+* ; [real -> real -> real]. / : [real -> real -> real].
+
+/* Commutativity */
++_comm : [((+ 'a 'b) : real) -> (= (+ 'a 'b) (+ 'b ‘a))].
+* comm : [((* 'a 'b) : real) -> (= (* ‘a 'b) (* 'b ‘a))].
+
+/* Associativity */

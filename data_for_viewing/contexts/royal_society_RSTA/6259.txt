@@ -1,0 +1,25 @@
+The peak of viral replication is usually controlled by the innate response together with target
+cell limitation and further clearance of the virus is controlled by CD8 T-cells and antibodies [27—
+29]. In this simplified model, we do not represent the innate response, and we consider notional
+antibodies as generalized effectors providing the only mechanism for clearance of viral particles.
+We begin with the activation of B-cells in an infected individual bound to a virus population,
+
+. (a pdr) (3.2)
+
+On the left-hand side, the individual has no activated B-cells, and on the right-hand side, they
+acquire a population of activated B-cells. The subscript on B indicates that all B-cells in this
+population are naive: they have very low affinity for viral proteins. This process is interpreted as
+allocation of a population of B-cells and not production of the cells themselves. This is somewhat of
+a computational fiction and is an artefact of the simplifying choice as with the virus population to
+not track individual cells, but only their count (or in this case, their affinity). The process therefore
+proceeds immediately, at infinite rate.
+
+The function of B-cells is to produce antibodies. Again, as with the virus population, we do
+not track individual antibody proteins, we simply track their number, again logarithmically. The
+second process in the activation of immune response is,
+
+@
+
+As with the activation of B-cells, this process is interpreted as allocation of a population of
+antibodies, not the production of antibodies themselves. Antibody production is a separate rule
+(equation (3.5)). As with the allocation of a B-cell population, the allocation of an antibody

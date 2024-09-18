@@ -1,0 +1,24 @@
+a®
+fa-Z, into=0).
+Indeed, the imaginary parts agree, and since both members are analytic also the real parts agree,
+after adjustment of the, possibly time-dependent, additive level in g. We also see that
+
+ap 2 dWaw
+at 2 az az
+
+1
+tp=alvl +p (6.9)
+
+in such regions. In other words, the time derivative of the velocity potential is a single-valued
+function having a direct hydrodynamical interpretation. The fact that ¢ is globally single-valued
+can be seen as a way to express Kelvin’s Law (2.9) for conservation of circulations. By contrast,
+the imaginary part of f need not be globally single-valued (but the derivative f/0Z always is).
+
+As a further remark, Bernoulli’s equation, stating that the right member of (6.9) is constant in
+the case of stationary flow, comes out very nicely: when the flow is stationary, so that ¥ =0, then
+f is analytic and real-valued in regions without vorticity, and hence equals a (real) constant there.
+
+In the point vortex case, one may view the usage of f as one way (out of many) to get rid of the
+pressure p. Indeed, the pressure shows up only in the real part of f, and one can see its role there
+as just a way to make this real part equal to the harmonic conjugate of (minus) the imaginary part,
+namely w.

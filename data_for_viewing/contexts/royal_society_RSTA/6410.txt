@@ -1,0 +1,25 @@
+
+Figure 6. PIMC results for the SSF of the UEG with N = 34 at © = 1 for r, = 4 (green squares) and r, = 20 (red circles). The
+dashed curves show corresponding results within the RPA, and the dotted line depicts the SSF of the ideal Fermi gas, which is
+independent of r,.
+
+the DSF substantially differs from the plasmon shape with respect to both its peak position and
+the peak shape. In this regime, the RPA becomes increasingly inaccurate, and the dotted red curve
+noticeably deviates from the solid green PIMC results. With increasing q, the systematic error of
+the RPA becomes more pronounced and attains a maximum around intermediate wavenumbers,
+q~ 1.5qp. In the single-particle limit of q >> qr, the RPA becomes exact again, and no systematic
+deviations are visible for q = 4.39qp and q = 6.27qp (figure 5e,f). Interestingly, the main source of
+error in the RPA at intermediate wavenumbers seems to be a constant shift in F(q, t) that does not
+depend on the imaginary time. In fact, it is easy to see that the first derivative of F(q,t) around
+the origin is exactly reproduced by the RPA, since it fulfils the f-sum rule; cf. equations (2.17)
+and (2.18). From equation (2.22), it is then clear that the bulk of the RPA error should already
+be present in the SSF S(q), which is shown in figure 6. The green squares show our exact PIMC
+results for r; = 4, and the green dashed line represents the corresponding RPA. Evidently, the RPA
+underestimates the true magnitude of S(q) for intermediate q, which explains the observed trends
+in figure 5.
+
+The dashed blue curves in figure 5 were computed from a simple quasi-particle ansatz. In this
+model, it is assumed that the DSF consists of a single delta-like peak around the quasi-particle
+excitation energy wap,
+
+Ssp(q,@) = A{5(o — wap) + & PP? 5(w + wQr)}, (3.1)

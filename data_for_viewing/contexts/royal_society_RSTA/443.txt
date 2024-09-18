@@ -1,0 +1,25 @@
+of the knowledge is non-negative.
+
+Let C(z), z > 0, denote the probability distribution of knowledge of the (fixed) background. It
+is reasonable to assume that C(z) has a bounded mean, so that
+
+| C(z)dz=1 and | zC(z)dz=M. (2.2)
+R, "
+We note that the distribution of the background will induce a certain policy of acquisition of
+knowledge. For example, let us assume that the background is a random variable uniformly
+distributed on the interval (0,a), where a> 0 is a fixed constant. If we choose for simplicity
+(x) = Ap(x) =4, and the individual has a degree of knowledge x > a, in the absence of randomness
+the interaction will always produce a value x* < x, namely a partial decrease of knowledge. In this
+case, in fact, the process of selection in an individual with high knowledge cannot be restored by
+interaction with the environment.
+
+The study of the time evolution of the distribution of knowledge consequent to interactions
+of type (2.1) among individuals can be obtained by resorting to linear kinetic collision-like
+models [45,46] like the ones previously used in the context of opinion dynamics. Let F = F(x, t)
+be the density of agents which at time f > 0 are represented by their knowledge x € R+. Then, the
+time evolution of F(x, t) obeys a Boltzmann-like equation. This equation can be fruitfully written
+in weak form. It corresponds to saying that the solution F(x, f) satisfies, for all smooth functions
+¢(x) (the observable quantities),
+
+. | F(x, thp(x) dx = (| ; (y(x*) — v(x))F(x, t)C(z) dx a} (2.3)
+Ry RA

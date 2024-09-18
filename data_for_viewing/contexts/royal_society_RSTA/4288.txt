@@ -1,0 +1,25 @@
+turned out to be sufficient for our convergence result in theorem 4.1, but there might be
+substantially weaker abstract conditions that would allow for a larger class of discretization
+schemes.
+
+5. Evolutionary relaxation
+
+The original microscopic problem was described by pure phases with z(t, x) € {e1, 2}, i.e. the phase
+indicator @ should only take the values @ = 0 for phase 1 or 6 = 1 for phase 2. Thus, we define the
+pure, or unrelaxed, state space
+
+P= {0 €L7(2) | (x) € {0,1} for a.a. x € Q}.
+
+Obviously, P is a subset of 2, but it is not weakly closed. In fact, Z is the convex hull of P, while P
+contains all extremal points of 2.
+
+We may consider the full ERIS (UxP,€,D) or the equivalent reduced ERIS (?,J,D), but it is
+not clear whether this system has any energetic solutions for general loadings via gpir and ¢.
+However, following the ideas in [8,16,27] (see also [15] for a similar relaxation of a RIS related
+to fracture), one can define upper and lower incremental relaxations [27, def. 4.1]. Indeed, for a
+special case of our two-phase problem, the lower relaxation was established in [26].
+
+(a) The relaxation result
+
+Here, we want to address the time-continuous relaxation as introduced in [16, §4]. For this, we
+consider approximate incremental minimization problems for (P, J,D) defined via (2.2) with a

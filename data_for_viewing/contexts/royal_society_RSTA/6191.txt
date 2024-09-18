@@ -1,0 +1,24 @@
+intracellular AP for both passive and active sensors with good neuron sealing (left column). The
+reason why, in the passive case, the intracellular Vout differs from an attenuated replica of the
+neuron AP will be explained later by means of the transfer function analysis. The signal reduces
+to ~ 20 + 30 1 Vpp if sealing is less effective (right column), highlighting the importance of good
+adhesion of the neuron to the sensor. On the other hand, the signals sensed with extracellular
+contact have a biphasic shape, resembling the first time derivative of the intracellular AP. The
+Vpp is much smaller than its intracellular counterpart, and therefore it is magnified in the figure.
+Approximately, both passive and active sensors achieve ~ 6 Vpp with Ryjseal = 900 M2, and
+1 1 Vpp or less with Ryjseal = 100 M@. While these numbers depend on the chosen parameter
+values and can be improved to some extent by changing the sensor geometry and coupling to
+the neuron, the observed trends are consistent with expectations because of the screening of the
+double layers at the cleft’s interfaces in the intrinsic part of the device next to the protrusions and
+because of the fact that Rjseai is directly connected to ground.
+
+With the goal in mind to investigate the time and frequency responses of the four case-study
+systems of figure 6 for various neuron-sensor coupling conditions, figure 8 shows the modulus
+of the transfer functions (TFs) |7(f)| = |Vout(f)/Vn(f)| for the circuits in figure 4 and two Rpjseal
+values over an extended frequency range suited to identify some relevant features. Qualitatively
+speaking, the TFs confirm that in the frequency range of the AP spectra, a flat gain can be achieved
+in intracellular sensing conditions, whereas for extracellular sensing the TFs are dominated by low
+frequency zeros. This is the reason why for intracellular sensing the output waveform resembles
+an undistorted and scaled copy of the AP, while for extracellular sensing it reflects the distorted
+time derivative of the AP.
+

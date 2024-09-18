@@ -1,0 +1,25 @@
+the ‘ultimate’ scaling-law for heat transport Nu ~ /RaPr, leads to Spiegel’s free-fall scaling-
+law for the velocity field Re ~~ /Ra/Pr, where the Reynolds number Re is based on the height
+of the domain and the root-mean-square velocity. In other words, using CISS we can validate
+both Spiegel’s prediction of a diffusivity-free regime for the heat transport, Nu ~ /Ra Pr, and the
+free-fall scaling assumption that underpins it [21].
+
+The upper bounds derived in the present study provide a useful point of view to discuss
+the proposed scaling theories for CISS. For instance, in Lepot et al. [12], we report a scaling
+exponent y ~ 0.55 for the scaling-law Nu ~ RaY at Pr =7. Assuming that the flow becomes fully
+
+
+turbulent at large driving amplitude, the slight departure of the measured exponent from 1/2
+must be attributed to finite-Reynolds-number effects. As a matter of fact, we showed in Lepot
+et al. using DNS that the scaling exponent y is indeed much closer to 1/2 for Pr=1 than for
+Pr=7, the former corresponding to reduced viscous effects. The upper bounds (2.28) and (2.34)
+are also fully compatible with the scaling predictions that we put forward in [14,15] with regard
+to the dependence of the Nusselt number on Ra, Pr and the dimensionless absorption length ¢.
+By contrast, the upper bounds challenge some scaling predictions recently put forward in [39] for
+CISS: out of the five scaling regimes proposed in [39], three correspond to a scaling exponent y > 1
+and are thus discarded by the general upper bound (2.34). The remaining two scaling regimes
+havea scaling exponent y > 1/2: they appear to violate the upper-bound (2.28) on fully turbulent
+branches of solutions and thus require a dissipation coefficient that vanishes asymptotically at
+large driving amplitude. It thus appears that care must be taken when applying the intuition
+gathered from the Rayleigh-Bénard set-up to CISS. The present data indicate that, to some
+extent, CISS behaves in a much simpler fashion than RB convection: as in most instances of fully

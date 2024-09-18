@@ -1,0 +1,25 @@
+
+3We have fitted the empirical cumulative distributions in an interval of distances between 700 and 2000, to remove the effect
+
+of short distances and the possible undersampling at large distances. We have verified that reducing the lower extreme of the
+interval up to 300 and increasing the higher extreme up to the maximum length did not change the results significantly.
+
+
+The resulting fitting parameters are shown in table 1. As can be seen, the fit is very good (1? >
+0.998, x? < 0.1) for the group of organisms in figure 1 which showed a different CG distribution.
+Moreover, for these organisms, the fitting parameters are very similar, with a characteristic length
+ranging from 200 to about 300 bases (from a minimum of 214 for Equus to a maximum of 294 for
+mouse). The only exception is Monodelphis, which has a characteristic length of 452, nearly double
+the others. This may be due to the fact that in this organism CpG autosomal density is very
+different from the other amniotes (0.9% versus 1.7-2.2% [44]). For the other group of organisms,
+once again, the situation is more heterogeneous: for example, for Apis and Danio, the exponential
+function seems to fit the empirical data well (?? = 0.98, x2 = 0.1) and also the characteristic lengths
+are comparable with the ones of the first group (A = 296 and 299, respectively), while Drosophila
+and Saccharomyces have very good fits (r? > 0.99, x? ~ 0.1 for S. cerevisiae), but their characteristic
+lengths differ by an order of magnitude (A = 44 and 37, respectively). For the other organisms, :
+the exponential distribution seems unfit, even if with a heterogeneous degree of dissimilarity (see :=
+
+electronic supplementary material, figure S2, for a visual inspection). Sy
+Finally, we remark that some small characteristic lengths could be related to the small size 2
+
+of the genome of the organism (as for Adenovirus, E. coli and S. cerevisiae), but this association nee)

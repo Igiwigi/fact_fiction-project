@@ -1,0 +1,25 @@
+* The case of several common zeros is considered in §§5 (a) and (c).
+
+
+EVALUATION OF ZEROS OF HIGH-DEGREE POLYNOMIALS 401
+
+(ii) If the available value of q is insufficiently accurate to resolve the ambiguities in
+equation (5-2), then we can revert to the last polynomial of the sequence {U,(q)} in which
+no considerable cancellation has occurred, and obtain a better value of ¢g by iteration
+(see § 7), since g must be a zero of this polynomial. Using the more accurate value we can
+then proceed as in (i).
+
+(iii) Finally, the cancellation in one of the polynomials, say U,_,(q), may be so severe
+that the common factor process cannot be continued. This apparent failure may in fact
+be turned to considerable advantage, for if the polynomial U,(q) (which is of degree less
+than half that of f(x)) is solved numerically, each real or complex zero q will correspond to
+an approximate quadratic factor x?—grx-+-7? of f(x), and we can quickly obtain* 2k zeros
+of ftx).
+
+a Summarizing, if we regard methods I, II and III merely as means of resolving the
+‘ambiguities j in the formula (5-2), then they are of equivalent accuracy. As a corollary, it is
+“pften possible to apply them keeping comparatively few figures in the calculations and yet
+till obtain as many decimals in g at the finish as there are significant figures in r.
+
+n
+<(b) Speed

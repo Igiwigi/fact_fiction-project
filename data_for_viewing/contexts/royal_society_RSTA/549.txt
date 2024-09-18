@@ -1,0 +1,25 @@
+beam expanders [66,67], low-profile antenna arrays [68-70], omnidirectional retroreflectors [71],
+omnidirectional absorbers [72,73] and so on.
+
+Although transformation optics provides the general path to the design of a medium
+with exotic electromagnetic effects, the experimental implementation is a non-trivial challenge.
+Fortunately, with the development of metamaterial technology, previously inaccessible electric
+and magnetic material properties can be achieved by artificially structured building blocks
+[74-76]. By tailoring the resonant or non-resonant electric and magnetic responses of these
+subwavelength building blocks, which are typically arranged in a periodic fashion, negative
+[77,78], near-zero [79-81] or high [82,83] permittivity and permeability values can be realized
+along with a controllable degree of anisotropy [84,85]. The required inhomogeneous and/or
+anisotropic material properties of the transformation optics designs can thus be realized using
+specially designed metamaterials. However, because of the fact that the material parameters
+of most of the above-mentioned transformation optics designs have extreme values, which
+make their metamaterial realizations highly sensitive to frequency shifts and absorption losses,
+the majority of these designs are either limited to mathematical constructions and numerical
+validations or have only been experimentally demonstrated within a narrow frequency range.
+Several efforts have been carried out in recent years to mitigate these shortcomings by sacrificing
+certain types of functionality. One approach is to employ quasi-conformal mappings [18], which
+
+
+
+eliminates the anisotropy and non-unity permeability of the transformed medium because the
+magnetic response at optical wavelengths is very rare and weak even in optical metamaterials.
+The drawback of such methods is that the transformed medium would suffer from increased

@@ -1,0 +1,25 @@
+— the difference, for the reconstructions with sharp and smooth filters, is significant in
+the case of cross sections which have large range of density values with non-uniform :
+distribution. The RMSE is observed to be approximately 0.23 for two- and three-phase a
+simulation cases. Sharp filters are recommended for such flow conditions; 3
+
+— second-level reconstructions, in the case of IITK data and similar simulated data, show 8
+slightly larger density values in comparison with first-level density values; :
+
+— air fractions, in second-level cases, are relatively smaller for both two- and three-phase aa)
+cases; and Dw
+
+— inferences drawn from the second-level KT-1 approach are consistent with the first-level :
+KT-1 approach in cases of simulated data. This fact gives confidence that second-level a
+analysis with real-world data has good reliability. :8
+
+Acknowledgements. The authors thank the Alexander von Humboldt Foundation (Germany), Prof. D. Mewes,
+Prof. A. Luke and Dr M. Behling for providing support for interaction regarding two- and three-phase flow
+bubble column data. One of author (S.S.) also thanks Ms K. Rathore and Dr M. Bajpai for their help in
+collecting data on micro-CT scanner at IIT Kanpur.
+
+Appendix A
+
+An experiment was performed, at the Gottfried Wilhelm Leibniz University Hannover, Germany,
+to analyse the phase distribution in a three-phase bubble column and this experiment was done
+and reported by Behling [28]. Some salient features of the data collection process and related

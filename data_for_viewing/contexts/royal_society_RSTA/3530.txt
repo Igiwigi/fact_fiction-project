@@ -1,0 +1,25 @@
+n+1 n+1
+Fe= [= WiHxy, >, Wy. (5.12)
+i=1 i=1
+
+with (Win41} ~ Dir[1,...,1] and {x(1),n)} being the ordered dataset {xj.,,}, augmented by x(q) = x,
+and x(n41) = XR.
+
+The fact that the robust posterior distribution F? can be expressed in this simple manner has
+significant implications. Equation (5.12) provides an intuitive understanding of the method that
+has been developed. The interval | is partitioned into n +1 closed intervals with boundaries
+at the observed points {x;}'!_,. Each of these intervals is assigned a random weight W;, drawn
+from a Dirichlet distribution. Note that this Dirichlet distribution with n+ 1 unit parameters
+is in fact the uniform distribution on the unit simplex A”, as can be seen from equations (3.1)
+and (3.2).
+
+Realizations of the posterior distribution Ff (figure 2b) have a natural interpretation in the
+DS theory of belief functions [11]: a probability mass Wj is assigned to the elementary events
+[x@-1),x(], from which a belief function on IC R can be constructed. This assignment is inherently
+‘imprecise’ in the following sense. The elementary events have overlapping boundaries (the
+points x(;)), so that there is no precise probability associated with the open intervals (x(j-1), x()
+or the points x(). As a result, the set of probability events does not form a o-algebra on I (it is not
+closed under complementation), and one cannot define an underlying ‘precise’ probability model
+that could be extended to J by means of inner /outer measure models [18].
+
+Although a specific probability distribution governs the probability mass assigned to each

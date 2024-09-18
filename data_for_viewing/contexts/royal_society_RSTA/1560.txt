@@ -1,0 +1,24 @@
+o =0.1 for the SR-detector, we can first comment on the curve plotted with crosses in figure 8a
+which corresponds to the same noise intensity ¢ =0.1. This curve, which shows the evolution
+of the cross-covariance C;r versus the perturbation amplitude A, presents non-monotonous
+behaviour with a maximum value C;,7 = 0.554 achieved for a perturbation amplitude A* = 0.95.
+Such resonance curve constitutes the classical signature of the VR phenomenon. Moreover, the
+optimal value of the cross-covariance exceeds the one obtained with the SR-detector which
+was C;,7 = 0.322 for the same noisy Saturn image. It quantitatively confirms that VR-detector
+perceives noisy images with a better quality than SR-detectors. The same resonant behaviours
+of the cross-covariance are reported in figure 8a for the noise intensity o =0.2 (filled circles),
+o =0.3 (empty circles) and o =0.45 (stars). The corresponding optimal images are proposed in
+figure 8c-e respectively. In addition, we recall in figure 8b the optimal image obtained with the
+VR-detector when the noise level is o = 0.1. We observe that the quality of the perceived image
+decreases as the noise level of the initial image increases. In fact, it is not surprising since the
+maxima of the cross-covariance also reduces with increasing values of noise in figure 82.
+
+On the other hand, figure 8a also reveals that VR ceases to exist when the noise level o of
+the initial image exceeds the optimal noise RMS value y* of the SR-detector. Indeed, the cross-
+covariance is a monotonous decreasing function of the perturbation amplitude for the noise
+intensity o = 0.55 (squares), o = 0.65 (diamonds) and o = 0.75 (triangles) which are beyond the
+critical noise value y* = 0.5. The result is that there exists a critical value of noise beyond which
+no perception enhancement can be expected with VR.
+
+We also propose to analyse if the image resolution N* impacts the performances of the
+VR-detector. Therefore, we consider the other images of figure 1 with the same level of

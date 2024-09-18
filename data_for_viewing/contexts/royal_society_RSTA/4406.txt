@@ -1,0 +1,25 @@
+performance and costs need to be balanced for the given system and application/network [18].
+
+3. The fibre capacity crunch
+
+At the system level, the historical capacity scaling, over four orders of magnitude, was
+achieved in large part by a combination of transceiver capacity increases and long-distance
+wavelength division multiplexing (WDM) of signals. The bandwidth-distance product of systems
+steadily increased. Mid-link transceivers (that were responsible for optical-to-electrical-to-optical
+conversion for signal regeneration) were replaced by optical amplifiers as the transmission
+distances increased. Since a single optical amplifier has sufficient bandwidth to simultaneously
+amplify tens of signals across the entire WDM band (e.g. the C band), considerable savings in
+cost and energy could be achieved. More channels were added at higher data rates without a
+significant change in cost or energy. In fact both the cost per bit and energy per bit scaled down
+at exponential rates [19,20].
+
+In recent years, however, the full band for erbium-doped fibre amplifiers, which are the
+predominant amplifier in commercial systems, has become fully exhausted and the spectral
+density of the transceivers is approaching the Shannon channel capacity limit. Likewise,
+
+
+transmission distances have reached continental scales. This situation is often referred to as the
+optical fibre capacity crunch [1]. Further growth through historical means is no longer possible.
+
+The solution to the fibre capacity crunch is straightforward in concept, but very challenging to
+realize. Continued capacity growth requires moving to multiple amplifier bands and/or multiple

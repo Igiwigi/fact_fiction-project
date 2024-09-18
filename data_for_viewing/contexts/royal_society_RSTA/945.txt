@@ -1,0 +1,25 @@
+the motion or other asymptotic information [3,4] to have the so-called asymptotic completeness,
+see [1].
+
+For the unbounded potentials considered here, the question of classical asymptotic
+completeness is even more involved. In the case of celestial mechanics, that is (in units where
+the gravitational constant equals one), V;;(q) = —mjmj;/|\lq\|, there are collisions for n> 2, and : =
+non-collision singularities for n > 4, see [5-7] and §2. Moreover, as shown in [8] for d=1 and 3
+n=4 there are initial conditions which (after regularization of binary collisions) do not lead to :
+singularities but for which limy—. +00 ||q(t, Xo) ||/t = 00, so that asymptotic velocity (1.3) does not nee)
+exist (see also [9]). :
+
+Conversely, for n < 4 celestial bodies asymptotic velocities exist for all initial conditions. This [4
+follows from von Zeipel’s theorem and the fact that j*(x) < 00 for n < 3, see theorem 2.6. DN
+
+Definition 1.1. The potential V in (1.1) is admissible if it is long-ranged, central (V;;(q) = : g
+Wi (lai) for qé R4\{0}), and for some a € (0,2) andI>0 1m
+
+lagVij(q)| <Lilg-*""! iB] <2, liq € (0,1), 1 <i<j<n). (1.4)
+
+Remark 1.2 (The constant /). By taking the maximum, we will use the same constant I in (1.2)
+and (1.4). To gain more flexibility, by further increasing I, we assume that (1.4) is valid even for
+Ilqll S20 m)/ ming mj.
+
+Example 1.3 (Homogeneous potentials are admissible). If the pair potentials are
+homogeneous, that is for a;; ¢ (0,2) and Ii; ¢R

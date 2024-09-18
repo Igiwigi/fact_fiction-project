@@ -1,0 +1,24 @@
+systems, one can evaluate the amplitude of the Fourier mode after some time. From the auto-
+correlation function of a Fourier mode, averaging over starting time f, for a fixed time lag ty — to,
+one gets
+
+(Gree (At) = Gf (t2)aie (H)) nba :2
+T> ty ty :
+
+= lim Ca dt] ar | dt” :8
+To 00 0 oo oo !
+
+x 2252 (8Gep(E)SGcx(E)) CGI HEA), (631 38
+
+where the star denotes the complex conjugate. We will use the fact that the quenched disorder iw
+is uncorrelated above a size |-, to approximate its Fourier transform along the front as the one :
+obtained for a straight line travelling at speed v in this landscape: :3
+
+Along such straight fronts at positions (x’, ag + vt’) and (x", ag + ot”), the values of G,(x’, ’) = : 8
+G¢(x', a9 + vt’) and G,(x", ”) = G,(x", ap + vt”) correspond to a white noise of square amplitude :
+oe. that are correlated for spatial distances |x’ — x”| <1, (where |, is defined as the correlation
+range of the quenched disorder), and time lags such that Jt’ — t”| </:. Hence, expressing this
+condition with a Heaviside function © as @(I, — o|t’ — t”|), the resulting time integration kernel
+in the equation above can be expressed as
+
+(Gelx", G(x, #)) = 02 Olle — |x’ — x" )O(le — alt! — #1)

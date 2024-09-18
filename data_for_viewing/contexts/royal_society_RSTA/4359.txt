@@ -1,0 +1,25 @@
+where &7 are the acoustic mode eigenvalues and ar is the equivalent radius of the resonator 2S
+at temperature T. The term Af? represents the sum of several small frequency perturbations, [3
+for which corrections were applied. The most important of these is the thermal boundary Dy
+layer [28,29], which reduces the mode frequencies by approximately 10~4f2, and increases ¢° by [3
+a near-equal amount. In applying this correction, we used the argon thermal conductivity values [3
+recently calculated by Mehl, as reported in [3]. Smaller corrections, of the order of approximately .
+10~®f2, were applied for the dissipation of energy in the bulk of the gas [25], the presence of gas
+inlet and outlet ducts [30], the mechanical compliance of the transducers [25], the second-order
+acoustic eigenvalue perturbation owing to the ellipsoidal shape [31] and the temperature-jump
+effect [32]. For the latter, we used a value of h = 0.777 for the thermal accommodation coefficient
+at all temperatures, which was derived from low-pressure measurements at Typw in our previous
+work [5]. We investigate the effects of a temperature-dependent h in §4c(vii). Another small
+correction was applied for the fact that the ‘isotherms’ are not truly isothermal owing to small
+variations in the average Tog at each pressure. Each f;' on an isotherm was corrected to a common
+Tog using an expression derived from equation (4.11). The uncertainty in the acoustic corrections
+is discussed in §4c(vii).
+
+The model approximates the pressure dependence of ur as a third-order expansion in p(p, T):
+
+ur? (p) =uo,r°(1 + K(T)p + L(T)p* + M(T)p%), (4.11)
+
+where 9? = yokgT/m is the limiting low-density speed-of-sound squared. The coefficients K, L
+and M are the second, third and fourth acoustic virial coefficients, which are connected via exact
+relations to the density virial coefficients B, C and D [33]. The gas densities p(p, T) were calculated
+using equation (4.2).

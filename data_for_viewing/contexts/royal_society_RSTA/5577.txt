@@ -1,0 +1,25 @@
+Similar considerations were already present in the thinking of the ancient Greeks to obtain
+what Aristotle defined as téxvn [téchne]: a real productive science [34]. He noted that the
+technological advancement can be obtained by different means, that could be achieved by either
+scientists or empirics. However, Aristotle set apart scientists from the empirics: people with a
+high degree of expertise in a specific domain, but who lack any theory to justify their results.
+The empirics can even often achieve outstanding results, but what clearly divides science from
+empiricism is that it comes with a theory whose domain principles justify why certain decisions
+are correct in specific circumstances [34,35]. ML algorithms are like empirics to a certain extent,
+but complemented with means of understanding (interpreting) their decision process may lead
+to scientific knowledge.
+
+In our opinion, we do not believe that the current state-of-the-art ML algorithms might
+significantly outperform the human capability of detecting cardiac abnormalities. In fact, the
+number of possible confounding factors, co-morbidities, number of rare conditions and evolution
+in time of the diseases may all increase the amount of data necessary for ML models to be
+trained. In order to mitigate such issues, the creation of innovative ML algorithms, capable of
+incorporating the domain knowledge, would facilitate the development of these models (e.g.
+less data-hungry algorithms, faster training, larger interpretability) and the introduction of such
+methodologies in the clinical practice, thus fostering trust in their use.
+
+a) Limitations of the study
+
+The frameworks presented some limitations. First, rhythm-based cardiac abnormalities were
+not properly handled by our methodology. Given the fact that an altered rhythm may or may
+not affect the regularity of the occurrence of any waves, it was not possible to define the one-

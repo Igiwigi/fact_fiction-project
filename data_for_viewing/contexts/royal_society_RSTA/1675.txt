@@ -1,0 +1,24 @@
+
+The most reliable benchmark for characterizing Earth-like exoplanets is, naturally, the Earth.
+By placing the observer at a distance such that the Earth appears as an unresolved ‘pale
+blue dot’, we may simulate the observation of Earth as an exoplanet. In this single ‘dot’, all
+the spectropolarimetric information from sunlight reflected off of Earth’s oceans, continents,
+biomarkers and clouds is integrated into a spatially unresolved point. If we can reliably extract
+this information from the unresolved signal and reverse-engineer the properties of the Earth as
+we know it, we will have developed a powerful tool for characterizing exoplanets, including their
+oceans, continents, atmospheric composition and life signatures, even if we are unable to spatially
+resolve them.
+
+The Earth is already continuously being observed by remote-sensing satellites, which monitor,
+e.g., atmospheric trace gas concentrations, crop health and weather patterns. Apart from the fact
+that there are currently no Earth remote-sensing satellites with polarimetric capabilities,! such
+Low Earth Orbit observations typically have their field-of-view limited to localized portions of the
+Earth’s surface, and not the entire Earth’s disc. A mosaic of such observations does not realistically
+represent the instantaneous single-pixel view of Earth, because the individual segments vary
+in terms of local time and weather conditions, and the distribution of local illumination and
+viewing geometries is very different from the distribution when the Earth is viewed from afar.
+In particular, most satellites have a nadir viewing direction, and are in sun-synchronous orbits,
+observing a given location on the Earth at more or less the same time of day. Especially the
+polarization is very sensitive to the illumination and viewing angles [4]. Even satellites locked
+in geostationary orbit would not provide us with complete insight, as they only observe a single
+hemisphere, thus missing out on the variations due to the daily rotation.

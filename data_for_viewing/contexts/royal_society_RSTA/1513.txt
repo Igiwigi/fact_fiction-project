@@ -1,0 +1,25 @@
+glu
+pyrn
+uky
+4 Jan 6 Jan 8 Jan 10 Jan
+validity time (dashed line represents time zero)
+Figure 5. An example from the road surface temperature dataset. The solid black line shows observations up to ‘time zero’ : =
+(the vertical dashed line), beyond which various NWP forecasts (coloured lines) provide estimates of future outcomes. (Online : =
+version in colour.) :3
+: 3S
+=
+surface temperature observed at the road network weather station for the concurrent forecast : re
+time. The dataset spans 2342 forecasting hours for each of the four sites. Spanning all lead times : 2
+and owing to the fact that a multitude of forecasts are made for each hour by the time it is : Ss
+observed, the dataset spans over 1.34 million forecasts. This site-specific dataset highlights the : Ss
+
+challenges involved in providing fully probabilistic forecasts from NWP outputs. Kirkwood et al.
+[98] provide more details of the dataset and propose a machine learning-based solution to this
+forecasting problem. Figure 5 presents an example time series from this dataset.
+
+(e) Data archives
+
+Our initiative to archive data in a repository to better enable testing AI methods is not unique. For
+instance, the Pangeo ecosystem (https://pangeo.io/) promotes open, reproducible and scalable
+science. The community provides documentation, develops and maintains the software and
+provides computing system architectures, focusing on open-source tools. It is in use by several

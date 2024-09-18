@@ -1,0 +1,25 @@
+from § 8""'¢ = 8", and from the given difference equation simultaneously. On the
+other hand if any of the first (n—1) differential coefficients are unknown at a the
+summation from column to column across the table cannot be carried out, and so the
+step method is impossible. The conditions for stepwise integration of partial equations
+are not so simple and require investigation.
+
+§2°2. As an example of stepwise integration, let us take the equation for diffusion
+in a tube, o0d*h/dx* = dd/ot. In the first place, if ¢ =F (x,t) is a solution of
+0'h/da*? = dd/ot, then ¢ = F (ax, a’ot) is a solution of the given equation. So we
+need only concern ourselves with 0°¢/0.c* = d¢/dt, and the results will apply to bodies
+of any linear dimensions and any uniform diffusivity. Let us suppose the boundary
+conditions are: ¢ = 0 when « = +4 for all values of t; ¢ = 1 for all values of « when
+t= 0; in fact the familiar case of a uniformly heated slab, the faces of which are
+suddenly cooled. The method of this example is so simple that it can hardly be
+novel. It is introduced to show how easy it sometimes is to obtain approximate
+integrals by arithmetic of equations usually treated by complex analysis. We draw
+up a table with a row for each 0-1 of # and a column at every 0°001 of ¢. (The reason
+for making the time step small will appear later, §3'2"1.) The given boundary values
+are next inserted.
+
+Taste I.
+
+0-005
+
+correct by

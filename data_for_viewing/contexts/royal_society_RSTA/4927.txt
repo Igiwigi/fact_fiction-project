@@ -1,0 +1,24 @@
+1 dz
+Da, p(s;X) = =H le, Da, p(s + 2)X* z
+
+So, then
+
+0°
+Now, if we move the paths of integration in z and w so that their real parts are positive but small,
+we can use the formula (4.1) to evaluate the integral over t; however, the imaginary parts of z and
+w can be large. We believe (4.1) holds uniformly when the real parts of the shifts are < 1/log T
+but the imaginary parts of the shifts can be large, as large as T!~¢ and even larger. This has not
+been proved to hold for (4.1), but has been proved, as mentioned above, by Bettin [7] in the case
+of the second moment.
+Now we use the fact that
+
+Da p(s + 2) = Da+z,p+2(8)
+
+and, assuming the uniform version of (4.1), replace [>° W(t/T)Da,a(s + 2)D),s(1 — s + w) dt in the
+above by
+
+0
+| Wh) Zir(a+z,B+z,y +w,d +w) dt.
+0
+
+Next, note that

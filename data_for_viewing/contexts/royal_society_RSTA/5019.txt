@@ -1,0 +1,25 @@
+In spite of this, there is ample evidence that magnetic fields in highly conducting ionized :
+astrophysical objects, like stars and galactic discs, show evidence of changes in topology, i.e.
+‘magnetic reconnection’, on dynamical time scales [3-5]. Historically, magnetic reconnection
+research was motivated by observations of the solar corona [6-8] and this influenced attempts
+to find peculiar conditions conducive for flux conservation violation, e.g. special magnetic field
+configurations or special plasma conditions. For instance, Priest & Forbes [5] showed examples of
+magnetic configurations that produce fast reconnection and much work has been done showing
+how reconnection can be accelerated in plasmas with very small collision rates [9-13] (see also
+reviews [14-16] and references therein). However, it is clear that reconnection is a ubiquitous
+process taking place in various astrophysical environments. For instance, magnetic reconnection
+can be inferred from the existence of large-scale dynamo activity inside stellar interiors [17,18]. We
+would argue that it is also required to enable the eddy-type motions in magnetohydrodynamic
+(MHD) turbulence, e.g. in the Goldreich & Sridhar turbulence [19]. In fact, it is easy to show that
+without fast magnetic reconnection, magnetized fluids would behave like Jello or felt, rather than
+as a fluid.
+
+It is clear that solar flares [20] are just one vivid example of reconnection activity. Other
+dramatic reconnection events attributed to reconnection include y-ray bursts (see [21] for a
+review), while reconnection routinely takes place essentially everywhere both in collisional and
+collisionless magnetized plasmas. Incidentally, magnetic reconnection occurs rapidly in computer
+simulations due to the high values of resistivity (or numerical resistivity) that are employed at the
+resolutions currently achievable. Therefore, if there are situations where magnetic fields reconnect
+slowly, numerical simulations do not adequately reproduce the realities of astrophysical plasmas.
+This means that if collisionless reconnection is the only way to make reconnection rapid, then
+numerical simulations of many astrophysical processes including those of the ISM, which is

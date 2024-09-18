@@ -1,0 +1,25 @@
+dependence of y and é than calculated in [23], as discussed in §2. The tensor differential operator
+T has components I = —122 = 001 — 22 and 2 = [1 = 20102 so that I : w= 2d dg Wap.
+
+(i) Multiplicative noise
+
+Equations (1.6) and (1.7) represent only the mean-field behaviour flowing from the microscopic
+model. The complete picture must include the noise sources induced in the coarse-grained
+dynamics by the stochastic part of the microscopic dynamics, as discussed in [19,23]. The noise
+in (1.6) is the divergence of a random current with covariance of order p(Q + 1/2), where | is the
+unit tensor, while that in (1.7), rewritten as an equation for Q, is of order 1/p. Crucially, p and
+Q in the foregoing refer to the local, instantaneous values of the fields in question. Such density-
+dependent multiplicative noise is a generic consequence [31] of the central limit theorem together
+with the fact that p and Q are, respectively, the density of an extensive quantity and the local
+expression of an intensive quantity. Stochastic PDE treatments of dynamic critical phenomena
+at equilibrium [32] implicitly ignore such field dependence, presumably because it is irrelevant
+
+
+there. In active matter, where density fluctuations are large across an entire phase rather than just
+at phase boundaries, it could well have more serious consequences [23], but we will not explore
+this issue further in this paper. In §2, we will present results from a numerical solution of (1.6)
+and (1.7), mainly without noise sources.
+
+(ii) Proliferation of topological defects
+
+Topological defects in active nematics pose puzzles that are still to be resolved—and that,

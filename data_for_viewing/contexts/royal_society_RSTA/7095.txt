@@ -1,0 +1,25 @@
+Figure 20
+
+The correction factors ¢(x) have to be determined from the equations (100) and (102).
+Now if we divide (102) by /*(0), use (100), and introduce the functions g(x) = [_f(x)/f(0)]8,
+the equations (102) transform into the system of linear equations
+
+als) S9'e(i) =e) Eel),
+which have the only solution
+e(x) = g(x) =[f()//(0)]°. (103)
+This form of the conditions that ¢(x) must satisfy is very convenient for numerical calculations.
+
+The potential energy U, and therefore the surface roughness s = 2U/¢, can also be written
+in a general form. In fact, the energy corresponding to the configuration of figure 20 is
+
+¥{lij| + ik] +]é—-1| + |i—m
+and therefore the potential energy per molecule U of the surface will be
+
+1gXf{li—j|+|i—A| +] 1-1] + |i—m |} a(t 3, &, bm)
+U= 32 TPs, bl, m) i
+
+where the summations are carried out over all values of i, j, k, /, m. Using (98) and (100)
+the potential energy or the surface roughness can be written in the form
+
+s= dp Ind fA) (105)
+45-2

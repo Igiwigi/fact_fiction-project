@@ -1,0 +1,25 @@
+i<r+1+y-+2y’ and this will hold over the whole range of integration when ¢<r+1+y and
+y,.; will then be zero, i.e. equation (64) will hold for r+ 1 if it holds for r. Since by equation
+(68) it holds for r = 1 it follows by induction that it is true for all r.
+
+Thus the successive terms in our solution as given by equation (28) each start their
+contribution at unit time after the preceding term and since in our choice of units this unit
+time is the time taken for a sound pulse to travel the width of the strip, our solution corre-
+sponds, as it should do, to a series of diffraction waves starting from each edge, a wave from
+any one edge starting a further wave when it reaches the farther edge and so on.
+
+Moreover, we note that by virtue of equation (64) that the solution obtained by stopping
+
+at any term y, in equation (55) is in fact the exact solution for ¢<r+1+y. Conversely for
+11-2
+
+
+82 E. N. FOX ON THE DIFFRACTION OF
+
+any finite time our solution consists only ofa finite number of terms corresponding physically
+to a finite number of ‘reflexions’ of the original diffraction wave from each edge. We may
+also note that by virtue of equation (64) the range of integration in equation (61) is in fact
+finite.
+
+Equations (55), (62) and (61) thus give an explicit formal solution for y(y,t) which is
+the distribution of —dp/dn on AB in figure 1 and by symmetry this gives also the distribution

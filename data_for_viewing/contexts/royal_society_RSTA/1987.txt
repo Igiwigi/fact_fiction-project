@@ -1,0 +1,25 @@
+level followed by a discretization of this state would result in a discrete equilibrium that inevitably
+violates the second law of thermodynamics. As a solution to this shortcoming and in line with the
+general philosophy of the entropic model, the authors proposed a solver relying on a discrete
+equilibrium with exponential form by solving the discrete entropy minimization problem and
+finding the corresponding Lagrange multipliers at each node [25]. Such an approach to the
+
+
+construction of stable LB solvers for compressible flows was further extended in [26] by using
+all of Grad’s 13 moments (raw moments instead of temperature-scaled central) in the numerical
+reconstruction of the discrete equilibrium state. Another approach to guarantee stability of LB
+solvers based on polynomial equilibria for extreme configurations is to minimize deviations
+from the reference state by adapting it to the local state of the flow. This rational is based on
+the fact that the reference state is the only state in which such discrete equilibria exactly satisfy
+entropy minimization, and hence all deviations in higher-order moments go to zero. In practice a
+LBM-compatible formulation of this concept was first introduced through shifted stencils in [27].
+Later on, a linear stability study along with theoretical analysis of the phase-space discretization
+procedure confirmed the Galilean invariance of the discrete equilibrium distribution functions
+(EDFs) and that, when using shifted stencils (with the shifts closely matching the fluid velocity),
+one could achieve unrestricted Mach numbers [28]. The concept of shifted stencils has also been
+formulated within the context of a more general framework with temperature- and velocity-
+dependent discrete stencils [29-31] or through the particle on demand formulation [32]. It is worth
+noting that such an approach in extending the operation range of discrete kinetic models and
+reducing higher-order moments errors had previously been used in the context of Eulerian solvers
+(as opposed to Lagrangian solvers such as LBM). Interested readers are referred to [33-35] for
+additional details.

@@ -1,0 +1,25 @@
+
+adaptively. Mitaim & Kosko [18] derived the optimal noise level of the stochastic system when
+it reached adaptive SR by performing a stochastic gradient ascent on the signal-to-noise ratio
+(SNR). In the past decades, the adaptive SR has been widely used in the enhancement of weak
+periodic signals [19-23]. Based on the autocorrelation of the sensor output, Krauss et al. [24]
+realized the adaptive SR of unknown or highly variable input signals. Li et al. [25] proposed
+an adaptive SR method based on a sliding window to detect weak shock signals with different
+amplitudes. In addition, the SR caused by the LFM signal is also of wide concern [26-29]. Lin et
+al. found the phenomenon of SR in the frequency oscillation system excited by the LFM signal
+and Gaussian white noise [30]. However, there are few studies on the SR caused by the NLFM
+signal.
+
+In fact, for different types of NLFM signal with very weak noise, by introducing the idea of
+segmented processing, aperiodic resonance can occur in a nonlinear system with appropriate
+parameters [31]. It should be noted that the traditional evaluating indicator designed based on
+the periodic characteristic signal, such as SNR, cannot evaluate the SR effect of the NLFM signal.
+The establishment of a new evaluation indicator for the NLFM signal is the key factor to induce
+the occurrence of SR. In addition, the NLFM signal is usually interfered by noise. Compared
+with the weak noise case in [31], the enhancement of NLFM signal with strong noise is much
+more difficult and significant. Meanwhile, the simple piecewise processing may not be able to
+induce the resonance of the nonlinear system when the strong noise is considered simultaneously.
+Hence, the necessary decomposition and noise reduction pre-processing are also very important
+to achieve the optimal signal enhancement effect. As a classical method of signal decomposition,
+empirical mode decomposition (EMD), could decompose the complex signal into a series of
+intrinsic mode functions (IMFs). Owing to its good adaptability, the EMD method is often used in

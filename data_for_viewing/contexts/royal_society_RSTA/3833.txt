@@ -1,0 +1,25 @@
+described above. It turns out, however, that there is no profound relationship between chirality
+and spin. One may appreciate this simply by noting that a parity inversion of the beam reverses
+the handedness of the beam (and the direction of propagation) while, nevertheless, leaving the
+spin unchanged. Spin derives not from the screw sense of the helices but instead from the sense
+of rotation of the field vectors: the spin can be cast as an integral over At x A, for example, with
+A“ the solenoidal magnetic vector potential and x denoting the conventional vector product.
+This resembles the angular momentum r x ¢ associated with the rotation of a particle’s position
+vector r, say.
+
+At first glance, then, it might appear that chirality and the angular momentum of light are
+disparate subjects: chirality is the concept of handedness while the angular momentum of light,
+in particular spin, is associated with rotation rather than any form of inversion. Developments
+in recent years have revealed, however, that these two fields are, in fact, subtly intertwined. The
+purpose of this short paper is to elucidate and consolidate some of the advances in this direction.
+
+
+In what follows, we consider ourselves to be in an inertial frame of reference, adopting a right-
+handed Cartesian coordinate system x,y,z with time t. Indices taken from the start of the Roman
+alphabet (a,b,c, ...) may take on the values x, y or z and a double appearance of an index implies
+summation over x, y and z. We take a microscopic view, focusing upon freely propagating light or
+the interaction of this light with individual molecules. We work within the semiclassical domain,
+where the electromagnetic field is treated classically and everything else is treated quantum
+mechanically [37].
+
+2. The angular momentum of light

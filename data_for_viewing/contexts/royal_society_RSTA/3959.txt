@@ -1,0 +1,25 @@
+y =0.01 was applied to enable a larger simulation time step. It was required for several particles
+to diffuse two-dimensionally in or at the surface of a membrane (particles P1 and P6-P9).
+In the iPRD approach, two-dimensional diffusion is achieved by assigning an effective three-
+dimensional diffusion constant, D3,, to a particle moving under BD, that when constrained by
+an attractive planar potential (see below), results in two-dimensional motion with an effective
+diffusion constant, D3p. The value of D3, for Env3 (P6-P9) particles was chosen and tested by
+preliminary simulations to yield a value for D3, compatible with experimental observations [48].
+For matrix particle P1, no specific measurements were available. Therefore, parameters for D3p
+were chosen that resulted in D3, values compatible with general experimental ranges for two-
+dimensional membrane protein diffusion [47]. Particles that were always chemically connected
+([P1-P2], [P4—P5,P11], [P6-P9]) were assigned matching diffusion constants. As the CS was
+always chemically connected until elimination, it was assigned the same value as P1. To emulate
+the fact that the immature capsid lattice is effectively locked, capsid-related particles (P4, P5
+and P11) were assigned diffusion constants, D3), several orders of magnitude lower than that
+for a single capsid particle in three dimensions, while geometry potentials ensured planarity
+and spatial confinement (see below). With this choice of diffusion parameters, modulated P10
+diffusion still strongly dominates that of other particles involved during the reaction. Thus, it
+was not necessary to apply modulation factors to other particles.
+
+Space exclusion was applied to all particle types using a harmonic pairwise repulsive (HR)
+potential (PI1) with force constant kyr, centred on the sum of the corresponding pairwise
+interaction radii (rj; = Ry; + R1j). The form of the HR potential is given by
+
+1 .
+shur(lti — 1jl— ry), if Iti — jl < ry,

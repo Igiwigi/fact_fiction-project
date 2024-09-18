@@ -1,0 +1,25 @@
+Funding. The US Office of Naval Research supported this work under grant nos. N0014-17-1-2676 and N0014- 23
+18-1-2625. Computations were performed via the Extreme Science and Engineering Discovery Environment 1B
+(XSEDE) under allocation CTS120005, supported by National Science Foundation grant no. ACI-1548562. : =
+Acknowledgements. The authors thank Rodney Fox and Alberto Passalacqua for valuable discussion of 2k
+quadrature moment methods. : 3S
+s
+Appendix A. Conditional hyperbolic method of moments inversion algorithm 8
+8
+This is the inversion algorithm for the 4-node CHyQMOM scheme. Given the first- and second- ‘Ss
+
+order moments {/1,9, 0,1, 2,0, 41,1, Ho,2} it computes the nodes (&;, é;) and corresponding weights
+w; for i=1,2,3,4, in phase-space. In this work, we assume j19,9 = 1. To tail the algorithm to our
+hybrid scheme of arbitrary number of quadrature nodes, the algorithm adds some fictitious extra
+nodes to the scheme with zero-valued weights to match the desired number of nodes of the hybrid
+scheme.
+
+Algorithm 3: CHyQMOM inversion algorithm.
+
+1 w;=0.25, 1<i<4;
+2 w;=0.00, 4<i<N;
+
+2.
+3 OR=/ 12,0 — Lior
+
+4 qa =H10HO1 ,

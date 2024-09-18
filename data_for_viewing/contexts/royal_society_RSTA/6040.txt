@@ -1,0 +1,24 @@
+is a parameter of temporal variability in the landscape, which verifies, in particular, the positions
+of discordant structures. The reliable description of the localization of the maxima of landscape
+variability involves the smoothing and the digital transformation o; in the circular sliding
+window of radius r, with the use of Hanning’s transmission function.
+
+An additional parameter, which verifies the position of discordant structures, can be called
+the spatial density of lineaments. Since there is a direct analogy between the resulting structure of
+lineaments and the fault tectonics, the increase in the density of lineaments is correctly interpreted
+as an increase in the fragmentation. The procedure is based on the calculation in the sliding
+window of radii r/2, r and 2r of the number of vertices of the mapped lineaments.
+
+The physical basis of the method of assessing the rate of geological fragmentation with depth
+and their conformity of geological and engineering setting of the task are based on the fact that
+there are periodic and quasi-periodic components in the structure of any spatially distributed
+field due to the formation of a standing wave
+
+K(x, t) = Acos (kx)cos(wt — w),
+
+in the spatial structure of an unbalanced geological environment [43]. Hence, it is possible to apply
+the calculation of the spatial stationary parameter on the matrix of field values in sliding windows
+of different sizes D, for different wavelengths D =A, with the approximate value of depth H=
+4/2 [44]. A fixed-depth geological system is modelled as a polygonal structure associated with
+
+the standing wave and characterized by an interval of wavelengths [AM,,, AH... ].

@@ -1,0 +1,24 @@
+
+y = (x52),
+
+then the supersonic source strength per unit area is
+
+1a
+So far we have been dealing with the case of a symmetrical aerofoil at zero incidence, which
+is of interest only in giving the magnitude of wave drag for this case. Before proceeding to
+the detailed consideration of this drag it will be advantageous to consider the extension of
+our methods, necessary to deal with the antisymmetrical case, from which the lift on a thin
+aerofoil at incidence may be calculated.
+
+Mathematically the simplicity of the zero incidence case arises from the fact that 04/dy
+can be specified over the plane in which the aerofoil lies. When we take the Laplace trans-
+form, then in the consequent two-dimensional equation for ¢, 04/dy is known along the whole
+of the x-axis. Thus, when we represent ¢ by a Fourier integral, the consequent integral
+equation to determine the coefficients is an easy one, involving only the inversion of the
+Fourier integral. In the case of incidence circumstances are entirely different, for now we
+have no knowledge of 0¢/dy except at the aerofoil surface. To illustrate the difficulties involved
+we shall consider briefly an important special case—that ofa flat plate aerofoil of rectangular
+plan, set at incidence in a supersonic stream, with its leading edge normal to the stream.
+For the theoretical treatment we suppose the chord of the aerofoil to be infinite. It is clear
+that, if the trailing edge is parallel to the leading edge for any actual case, then the pressures
+on the wing are the same as they would be for an infinitely extended aerofoil.

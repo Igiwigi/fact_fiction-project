@@ -1,0 +1,25 @@
+Meso-scale approximations have also been shown to be effective in modelling the response
+of elastic solids with rigid and free clouds of impurities [48,49], low frequency acoustic
+problems involving rigid defect clusters [50] and steady-state heat conduction in densely
+packed composites [51]. The approximations have also proven to be useful in modelling flows
+involving fluids interacting with many small obstacles within narrow spaces [52], important for
+
+understanding CO2-sequestration processes. : =
+
+More recently, meso-scale approximations have been produced to model vibration in both : =
+finite or infinite membranes containing clusters of rigid movable masses distributed along :B
+a contour [53]. There, the scheme developed uses functions acting as solutions to suitable : =
+model problems of the Helmholtz operator, moving away from the low-frequency boundary ZR
+layers previously applied in [29,30,50]. In fact, this provides a way to address modes at higher : oS
+frequencies, which we demonstrate here in modifying the approach of [53] to develop asymptotic :8
+models for in-plane elastodynamic problems for densely perforated media. :8
+
+In §2, we describe the problem for in-plane vibration modes of a finite elastic medium : S
+containing many inclusions. Sections 3 and 4 are dedicated to developing an approximation 1S
+
+for eigenfrequencies and eigenfunctions of the elastic body and serve to introduce the model
+problems used and to develop the associated asymptotic algorithm, respectively. Numerical
+simulations demonstrating the efficiency of the asymptotic approach of §4 are then given in
+§5 for elastic solids containing a range of configurations of perforations. These illustrations
+use Green’s tensor for the interior of the disc, presented in electronic supplementary material,
+appendix A. Further examples of the effectiveness of the approach are also given in electronic

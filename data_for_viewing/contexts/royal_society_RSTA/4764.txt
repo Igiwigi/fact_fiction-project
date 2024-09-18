@@ -1,0 +1,25 @@
+All of these equations reflect conservation laws. With the notable exception of elastic solids (which
+we shall elaborate on below), all equations are strictly mathematically equivalent and have the
+form of a generalized Laplace equation
+
+V-(aVf)=0 (1.2)
+
+for a scalar function f(r). Upon performing a coordinate transformation according to r—> r! =
+r'(r), one can arrange the problem into a Laplace equation of the same form; however, the scalar
+
+
+Figure 1. The concept underlying coordinate-transformation-based cloaking can intuitively be explained by a square grid
+of streets in a city. Distorting the original city in (a) on a computer by software, e.g. PHorosHop, leads to an apparently
+inhomogeneous and anisotropic distribution of car velocities in (6). The trick of transformation optics is to turn this fictitious
+velocity distribution into a real one by introducing a corresponding material distribution. Adapted from [3]. (Online version
+in colour.)
+
+material parameter a =a(r) has to be replaced by a generally inhomogeneous and anisotropic
+
+‘o!
+material parameter distribution, ie. by a tensor a which can be derived from the coordinate
+
+transformation via
+© e«6T ]}
+
+a’ =JaJ = (1.3)

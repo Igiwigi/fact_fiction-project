@@ -1,0 +1,24 @@
+to assume that eigensubspaces have equal dimension. The operator © is represented with the .
+aid of the projectors onto eigensubspaces corresponding to its eigenvalues: © = @wiwEwiw +
+@nwiwEnwiw: Then the probability of the event water invasion into the oil well is given by the
+formula
+
+Pwiw = jim pwiw(t) = jim Tr o(t)Ewiw.
+
+Of course, an expert has to finish estimation of the probability of the event WIW in finite time.
+She cannot wait until all fluctuations die. Therefore the approximation for sufficiently large T is
+used: pwiw © pwiw(T).
+
+Such T is determined from the condition of diminishing fluctuations of the matrix elements (in
+fact, fluctuations of the probability pwiw(t). We remark that figures 3-6 represent only the rough
+picture of the behaviour of matrix elements. By using a finer time scale, we would see a variety of
+small spikes on the basic curves of these figures).
+
+6. Conclusion
+
+We presented a model of dynamical PRA for the exploration and management of hydrocarbon
+reservoirs based on the theory of open quantum systems. This model can serve as the theoretical
+base for the creation of an automatic system for decision-making. We set the conceptual
+foundations for the development of such a system for the continuous update of the belief state
+of an expert. Of course, its concrete realization is a complex problem (derivation of the proper
+quantum master equations).

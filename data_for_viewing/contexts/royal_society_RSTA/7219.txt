@@ -1,0 +1,25 @@
+Some incidental problems call for notice which were not confronted in Part III.
+Thus whereas one of the two conjugate functions a, # can be computed by the methods
+given previously, its computed values (being only an approximation to a plane-harmonic
+function) are not in general compatible with a single-valued conjugate. In Case (c)
+we are concerned with a region of infinite extent, and the device of ‘geometrical
+inversion”’ must be applied in order to render the problem tractable by relaxation
+
+
+RELAXATION METHODS APPLIED TO ENGINEERING PROBLEMS 475
+
+methods. For some applications we require values of the ratio h = | d(a+-7f)/d(x-+1y)| at
+least as accurate as those of « or #: examples are given to show that the requisite accuracy
+is attainable, use being made (when necessary) of the fact that log / is plane-harmonic.
+
+The last problem treated (calculation of the electric capacity of a straight cable or
+condenser) is in essence an example of conformal transformation but can be solved
+when only one of «, # has been computed. It does not demand construction of the «—/
+map.
+
+REFERENCES
+
+Bradfield, K. N. E., Hooker, S. G. and Southwell, R. V. 1937 Proc. Roy. Soc. A, 159, 315.
+Bryant, L. W. and Williams, D. H. 1925 Phil. Trans. A, 225, 199.
+
+Christopherson, D. G. and Southwell, R. V. 1938 Proc. Roy. Soc. A, 168, 317.

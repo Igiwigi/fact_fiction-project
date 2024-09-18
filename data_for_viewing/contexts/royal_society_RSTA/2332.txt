@@ -1,0 +1,25 @@
+equation (2.14). The main difficulty in solving this equation was the presence of exponential
+factors inside matrix M;.
+
+It has been demonstrated that an iterative approach, of the kind first proposed in [38], is
+highly effective at resolving this Wiener-Hopf equation, thereby both solving the initial problem
+and determining important fracture mechanics parameters for the system. Namely, the stress
+intensity factor, Ky, at the crack tip and the critical opening, u), at the opposite end of the process
+zone. A thorough analysis of the numerical approach used showed the high level of stability
+and accuracy, alongside the rapid rate of convergence, for the entire solution. Of particular note
+was the fact that the values of both Ky and u; stabilize after only a small number of iterations,
+although the required number of iterations is higher for smaller lengths of the process zone L.
+
+The fact that the method outlined here is more efficient for larger L is not unexpected, as the
+initial condition (3.8) of the iterative process corresponds to the case L > oo. As such, although
+the iterative method does converge for all positive L > 0, it is clear from the presented results that
+both the solution accuracy and convergence rate improve with the growth of L. There are however
+solutions to this issue. The computational performance, in this case, could be greatly increased
+through a rescaling of the x-axis, although this would introduce an additional challenge in the
+manipulation of the right-hand side of (2.14). Alternatively, for small L there exists an alternative
+asymptotic method for the matrix factorization, which was presented in [35].
+
+In addition, it was demonstrated that the relationship between critical values of the crack
+opening displacement and the stress intensity factor represent a boundary between unstable
+and equilibrium cracks. This result was achieved through qualitative analysis, performed to
+determine admissible values of length of the process zone (4.9) for which both necessary

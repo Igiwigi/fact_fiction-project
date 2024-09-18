@@ -1,0 +1,25 @@
+theory as a functor .&/ : LocSre > Alg.
+
+The definition of the morphisms ./(y) seems almost an afterthought, but it is actually crucial
+to the definition of the theory. Indeed, the algebras by themselves do not really specify the
+theory at all. To see this, fix a background (M, J) and also choose a particular real-valued solution
+
+
+¢ € C™(M) to the classical equation of motion. Now define a map xg :./(M, J) > /(M,0) by
+
+Koop (= Pano) + ({, fod vol) Lesans) (2)
+
+and «1.(m,J) =1<(m0). One may check that this map on generators is compatible with the
+relations of the two algebras! and therefore extends to a morphism in Alg; in fact, it is an
+isomorphism, with inverse defined on generators by
+
+Ke Po (f) = Pann f) — (Rc d vol) Lemp:
+
+As the algebras </(M,J) and «/(M,0) are isomorphic, they carry no specific information about
+the background source J.2 Note, however, that xs depends on the special choice of a particular
+
+solution ¢, and there is no canonical way of choosing such a solution in a general background. : =
+
+Developing this point a bit further, let 4 ¢R and define a functor %, : LocSrc — LocSrc so that : >
+246(M,]J)=(M,AJ) and so that, if w:(M,J)—> (M’,J'), then 4%(w):(M,AaJ) > (M’,AJ') has the [3
+same underlying map as yy. Then the functor 4 := .o/ o %, : LocStc—> Alg is a new theory, which : =

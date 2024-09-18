@@ -1,0 +1,24 @@
+
+(a) If 2 is bounded, then there exist M, 6 > 0 such that To. on L3°(Q) satisfies
+IToo(Bflloo <Me"'Iflloo, > 0.
+(b) Let 2 be an exterior domain and n > 3. Then Too extends to a bounded analytic semigroup on
+
+L&°(Q) of angle 1/2.
+
+The above assertions are due to Abe & Giga [17], Maremonti [55], Hieber & Maremonti [56] and
+Bolkart & Hieber [22]. Let us remark that the above assertion b) can be regarded as an extension
+of a classical result due to Borchers & Sohr [42] for 1 < p < o to the case p = 00.
+
+The approach developed in [22] even gives pointwise upper bounds for the solution of the Stokes
+equation on L3°(@). In fact, for u > 0,q € [1,00] and (z,x,L,u9) € Ex/2 x R" x Ry x L®(Q) define
+
+~3y z|H/2
+B,(z,x,L, uo) := |Molln(B@,Lyn@)lZl “4 + |IUolloo Ct ge
+
+Then the following result holds.
+
+Theorem 3.10 ([22]). Let n > 3, 2 C R" be an exterior domain of class Cl where 1>3.and1> n/2and
+let 0 € (0, /2),q €[1, 00] and zp > 0. Then there exist constants C, Cz, > 0 such that
+
+|(Too(Z)uo)(x)| < C Bg(z,x,L, uo) + Czy sup Bg(z,&,L, uo),
+EedQ

@@ -1,0 +1,24 @@
+subsystem. The analysis we provide in this study focuses on such singular solutions. For the
+extensions to small positive €, we refer to other work [59-61].
+
+Remark 2.2. We analyse the dynamics of the network by constructing singular solutions. If
+inh is not too large, then f(x,¥) — ginhS}(¥ — Xinh) =0 represents a cubic-shaped curve for each
+sy € [0,1]. Let us denote this curve by Cs,; curves Co and C; are shown in figure 3a. The trajectory
+for Ej lies on the left/right branches of one of these curves (ch 18) during the silent/active
+phase, respectively. Fast jumps between different phases occur when an §; reaches the right
+knee of its respective cubic or the effect of inhibition by the J-cell wears off. Similarly, J lies
+on the cubic curve determined by its total synaptic input stot, denoted by %,,,, as shown
+in figure 3b. Note in figure 3a that the s;=1 nullcline (C;) lies above the s;=0 nullcline
+(Co), while in figure 3b, the stot =1 nullcline (7) lies below the sto¢=0 nullcline (J). These
+relations result from the fact that the E; receive inhibition from J while J receives excitation
+from the E;.
+
+
+_ x —_>x
+
+Figure 3. Plots of possible trajectories for (a) E-cells and (6) J-cell in black solid lines. The double arrows on the solid lines
+indicate the fast jumps between the silent and active phases. The trajectories shown are for the situation when there is a delay
+only in the inhibitory synapse. The points P; and Q; and the construction of this solution are discussed in §3a. (Online version in
+colour.)
+
+3. Model analysis

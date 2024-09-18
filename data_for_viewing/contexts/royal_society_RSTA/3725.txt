@@ -1,0 +1,25 @@
+
+Finally, it remarked that, setting one or both the microinertia parameters to zero, SH
+waves can still propagate. Nonetheless, microinertia plays an important role, because for large
+wavenumbers, k — oo, the phase velocity remains bounded and attains the constant value
+
+V2 =3p 7 "bond + bonny, + bang llb5yn + bil. (4.22)
+
+The finiteness of the phase velocity for large wavenumbers is in agreement with the results for
+the classical structural models of a Rayleigh beam and a Love rod [18,19]. Note further that in the
+special case where bz = 0, so that (E) is lost at the (EI/P) boundary, the phase velocity (4.19) of a
+wave propagating in the direction n = (+1,0) becomes inversely proportional to the wavenumber
+k. The latter observation suggests that the presence of microinertia will cause high-frequency
+(large-wavenumber) disturbances to ‘almost’ stop propagating in this direction. In fact, in this
+direction the medium behaves as a Cauchy material without Cosserat effects but with non-zero
+microinertia, having a phase velocity of the form v2 =12p7lcssh po k?. An analogous conclusion
+is reached in the case where (E) is lost at the (EC/H) boundary.
+
+(d) Time-harmonic Green’s function
+
+A time-harmonic concentrated body force Xz = S8(x)5(y) e' is applied in an infinite orthotropic
+constrained Cosserat material with microinertia subjected to antiplane deformation. This problem
+
+
+set-up allows one to determine the Green’s function for the out-of-plane displacement, which
+is derived below by employing a Fourier transformation technique sharing analogies with the

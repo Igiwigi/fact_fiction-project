@@ -1,0 +1,25 @@
+
+04
+
+‘with PreP and PostP
+
+10-5 104 103 102 10-1 1 10-5 104 103 102 10-1 1
+FPr log scale FPr log scale
+
+Figure 6. (a) ROC curves for the COS classification of the hypercube Location 1 released r134a and (b) ROC curves comparison for
+the hypercube Location 1 released r134a. (Online version in colour.)
+
+First of all it is still an open problem to prove the convergence of this technique even in one
+dimension. In fact, in this case, the method reduces to the so-called EEMD technique, whose
+convergence is not known. Whereas we recall that, even if the convergence of the MIF method
+is still an open problem as well, its one-dimensional version, the iterative filtering technique, has
+been proved to be convergent under mild conditions [4]. Furthermore, the MEEMD has been
+found to be much slower than the proposed method. On an average personal computer, it takes
+around 4s to produce the cleaned classification plotted in figure 2b, while the MEEMD runs for
+more than 190s on the same computer to produce the result shown in figure 4b.
+
+We observe that, with this dataset, the MF classifier gives results similar to ACE, so we avoid
+presenting them and move directly to the COS classifier.
+
+The pixel classification produced by COS applied to the raw hypercube is shown in figure 5a,
+where we reversed the pixel classification values. We needed to do so in order to have meaningful

@@ -1,0 +1,25 @@
+for any t < 0. The latter is called the modified history function of z.
+
+Now we will study equation with respect to this concept of modified delay. To this end, we
+first need the following technical result.
+
+Lemma 4.4. Let K be the Riemann—Stieljest integral defined in (4.7) and let C be its restriction to the
+domain of Q. Then
+D(G)cD(Ca) and (Ca)\p(q) = K.
+
+
+Proof. For simplicity, we denote by
+= e* U(-,0), aA€eC.
+By using the fact that |j|([—a, 0]) > 0 as wa > 0 and using [39, Lem. 6.1], one can see that
+
+lim Ke, =0. (4.11)
+
+d>+00
+
+Using (4.5) and the resolvent equation, for any x € X,A € p(Q) and yp sufficiently large, we obtain
+CuR(u, Q)exx = — (Ke,.x — Ke,x) .
+—Kh
+
+By letting 4 > oo and using (4.11), we obtain Im(e,) C D(Ca) end Cae, = Ke,,. Now let g € D(G).
+Observe that y — ¢,9(0) € D(Q), then g — e,g(0) € D(C) and ¢ = (y — e,9(0)) + e,¢(0) € D(Ca).
+Thus D(G) Cc D(Ca). On the other hand,

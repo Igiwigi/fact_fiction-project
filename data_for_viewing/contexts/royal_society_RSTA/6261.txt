@@ -1,0 +1,24 @@
+associated with the smoothing (here, LOESS with span = 0.3). December and June peaks associated with the Alpha and Delta
+variants are evident in all regions. Blips in September and March correspond to low case numbers and may be artefacts. (Online
+version in colour.)
+
+and produces estimates of subsequent hospitalizations, deaths and recoveries. It executes within
+minutes on a single processor.
+
+The WSS code generates R-numbers at the regional level (figure 6). The statistics for the
+four UK nations and nine English regions are sufficiently good to produce stable independent
+estimates at that resolution, and are consistent with the SPI-M published values (subject to 16-
+day lags). We also evaluated R at the level of individual health boards in Scotland. These values
+showed plausible trends, except for the smallest boards. The issue there is due to not only
+insufficent data, but also the fact that rural values may be driven by incomers as already discussed
+in §1b. Consequently, case data may not be indicative of community transmission rates in those
+areas. The local authority regions in England also often have too-small numbers for accurate
+evaluation, although a combination of large R and high case numbers can be indicative of local
+hotspots or superspreading events.
+
+The data can also be sliced to provide a growth-rate breakdown by age group (figure 7).
+Breakdown by age has a similar problem to that for regions because the case data refer to
+infectees, not infectors—and generally infectors are in a different age group from infectees [21].
+This intergenerational mixing is particularly true for families, hospitals and care-home situations.
+Specifically, when case numbers are unevenly distributed across age groups, the ‘R-numbers’
+ascribed to older age groups do not imply that these people are responsible for infection.

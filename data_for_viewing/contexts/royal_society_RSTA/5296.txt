@@ -1,0 +1,24 @@
+u°=0 and forneN,
+
+ytd — yn (5.2)
+and min ( ——— + Mw™*3, v0) — 1) — W(x, (1+ De)} =0 forxeR.
+E
+
+Step 2: subsolution u"*".
+As in the proof of lemma 4.1, we check that
+
+u(x) =max(0, W(x, (n + 1)e))
+
+is a subsolution of the scheme (5.2), distinguishing for w+! the regions "+! > 0 and w"*! <0
+with w"*1(x) = W(x, (n+ Le) (and using the fact that y is non-decreasing in time).
+Step 3: supersolution it"*?,
+
+Set
+
+i) (x) = (x, (n + Le)
+
+and as in the proof of lemma 4.3, we easily check that i"+7 is a supersolution of the scheme (5.2).
+To this end, we have in particular to note that u"+! — uv" > 0 and we already checked that Mii > 0
+which implies
+
+Mii! > 0.

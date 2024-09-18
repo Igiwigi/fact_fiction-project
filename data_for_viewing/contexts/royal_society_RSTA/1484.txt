@@ -1,0 +1,24 @@
+iterative computations; designing iterative algorithms based on general assumptions about the
+numerical properties and structure of the data, or the statistical distribution of the data, is an
+effort that does not help in solving particular problems.
+
+As we have seen throughout this article, ‘the data’ cannot be reduced to something as simple
+as the matrix condition number. For CG, the nonlinear adaptation to the data is the main principle
+
+
+behind the method; this is the beauty of Krylov subspace methods. This was appreciated early on
+by Lanczos and Einstein, who corresponded on the topic of the Lanczos method [4]:7
+
+The reason why I am strongly drawn to such approximation mathematics problems is
+not the practical applicability of the solution, but rather the fact that a very ‘economical’
+solution is possible only when it is very ‘adequate’. To obtain a solution in very few steps
+means nearly always that one has found a way that does justice to the inner nature of the
+problem.
+
+— Cornelius Lanczos in a letter to Albert Einstein on 9 March 1947
+
+Your remark on the importance of adapted approximation methods makes very good
+sense to me, and I am convinced that this is a fruitful mathematical aspect, and not just
+a utilitarian one.
+
+— Einstein’s reply to Lanczos on 18 March 1947

@@ -1,0 +1,25 @@
+Boz, =(x+y + O(y?),y + O(y')).
+
+In particular, near the boundary {y=0}, this map can be seen as a small perturbation of
+the integrable map (x,y) (x + y,y), and hence, under suitable regularity assumptions, KAM
+theorem can be applied (it is sufficient, for example, that 02 is C®, so that the map is at least ©).
+Hence, there exists a positive measure Cantor set of smooth homotopically non-trivial invariant
+curves for the map which accumulates on {y = 0} and on which the motion is smoothly conjugate
+to a rigid rotation with Diophantine rotation number (see [17,24] for a refined version); this
+translates into the existence of a positive measure set of caustics, accumulating to the boundary
+of the billiard table.
+
+
+Remark 3.5. Observe that it is extremely important that @ is strictly convex. In fact, Mather [25]
+proved the non-existence of caustics if the curvature of the boundary vanishes at one point. An
+alternative proof of this result has been provided by Gutkin & Katok [26], where the authors
+also investigate how the shape of the domain determines the location of caustics, establishing the
+existence of open regions which are free of caustics and estimating (from below) the size of these
+regions.
+
+The next step consists then in asking in which cases these caustics foliate the whole billiard
+table or an open dense subset of it, as it happens in the circular and elliptic cases. In other words:
+Are there other examples of integrable billiards?
+
+This apparently naive question turns out to be much more difficult to extricate, and it has
+given rise to one of the most famous (and somehow impenetrable) open problems in dynamical :

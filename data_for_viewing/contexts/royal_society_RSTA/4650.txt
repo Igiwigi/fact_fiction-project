@@ -1,0 +1,25 @@
+A fair assessment of the quality of the underlying model is hence not possible for this metric
+unless one carefully takes the tuning of every single model into account. It should be noted that
+in practice, most modelling groups will only use very few observational targets to tune their
+sea-ice model, which is why tuning becomes a less relevant factor in studies that consider many
+metrics simultaneously.
+
+(e) Unclear link between past and future
+
+The discussion of individual metrics has so far been based on the tacit assumption that we can : =
+infer the quality of simulating the future evolution of a climate observable from the quality of 3
+simulating its past evolution for which observational data might be available. However, the link 1B
+between the model performance for a past evolution and the performance for the future evolution : a
+of the system is often not clear. A trivial example for this fact is given in figure 3, where the 72
+obviously ‘poor’ simulation with an increase in sea-ice cover over the period 1979-2012 becomes Dw
+almost identical to the much more ‘realistic’ simulation shortly after this period. This change : Aes
+in perceived quality is simply related to internal variability, but for the severe changes that the :2
+climate system of the Earth currently undergoes, additionally the relevance of individual physical : e
+
+processes is very likely to change with time. This implies that a model that did well in the past
+does not necessarily do well in the future and vice versa.
+
+Sticking to the example of sea ice, the multi-year sea ice that used to be the prevalent ice type
+in the Arctic until some years ago has distinctly different properties compared with the first year
+ice that covers much of the Arctic Ocean today. If the processes that a particular model represents
+well are parametrized based on the properties of the multi-year sea ice, such a model is likely to

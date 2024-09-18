@@ -1,0 +1,25 @@
+calculated at the B3LYP/6-31G(d) level of theory.)
+
+B3LYP B3LYP-D3
+
+BDE(C—C) BDE(C-H) BDE(C—C) BDE(C-H)
+model B 87.1 96.4 90.8 97.1
+model C 71 90.5 82.4 11
+model D Bé 90.8 813 1.8
+
+show that the smaller model B leads to an overestimate of the C-CH3 and -CH2-H BDEs at the
+diamond [100] surface, due to the lack of steric hindrance at the surface. In this respect, models C
+and D should be closer to the energies that we would expect at the surface of the diamond slab.
+The data in table 2 suggest that this is in fact the case, as the calculated bond energies appear
+to be converging to a limit as the system size increases. Note that the B3LYP bond energies are
+smaller than the B3LYP-D3 energies (especially for BDE(C-C)), owing to neglect of the attractive
+dispersive interactions between the methyl radical and the surface. A similar effect can also be
+seen for the C-C bond energy of neopentane in table 1. It is also worth noting that B3LYP-D3
+underestimates the neopentane BDEs compared to both the experimental and the CCSD(T)-F12
+values (both of which are in good agreement). Assuming that B3LYP-D3 makes a similar
+underestimate in the bond energy at the diamond [100] surface, our best estimates of the surface
+C-—CH3 BDEs and CH,—H BDEs (based on the model D B3LYP-D3 value and the difference
+between the B3LYP-D3 and CCSD(T)-F12 neopentane values) are 86.6 and 93.6 kcal mol!,
+respectively.
+
+3. Analytical potential energy surface for CH3 dissociation at the diamond

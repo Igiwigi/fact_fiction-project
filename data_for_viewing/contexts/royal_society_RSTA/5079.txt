@@ -1,0 +1,24 @@
+with modelling efforts to understand mechanism 3 and 4, relatively little effort has gone into
+modelling cluster localization and fully account for effects of heterogeneities [42].
+
+The onset of macroscopic localization serves as an effective indicator of a material’s ductility
+for engineering purposes because it is the precursor to failure and it marks the limit of the
+uniform strain that can be imposed on the material. Nevertheless, there appears to be considerable
+confusion in the literature between the two types of plastic localizations: macroscopic localization
+driven by damage softening (mechanism 3) where plastic flow engulfs the voids in the band whose
+width is set largely by void spacing, and void coalescence (mechanism 4) where the band width is
+more narrow with continuing plastic deformation limited to the ligaments between neighbouring
+voids. The distinction between these two modes of localization was evident in the pioneering
+computational work on void growth and localization of Koplik & Needleman [43] and Tvergaard :
+[44]. Perhaps the more recent confusion surrounding the two modes stems from the fact that =
+coalescence may occur as a secondary localization within an earlier localization and that the :3
+earlier work did not attempt to quantify the distinction between them. As noted above, this is
+one of the primary objectives of this paper. In addition, in the discussion of the results, we raise nee)
+the issue of whether the class of models used here, and in almost all computational studies to :
+date which employ aligned periodic arrays of voids, might be too idealized to realistically capture [4
+when macroscopic localization precedes coalescence. DN
+
+The model, along with details related to its numerical implementation issues, is presented in [sz
+§2 with some details given in the electronic supplementary material. Results of the simulations D8
+are presented and discussed in depth in §3. Section 4 contains the final summary, discussion of .
+open questions and suggestions for further research.

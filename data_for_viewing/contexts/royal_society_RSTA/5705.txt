@@ -1,0 +1,25 @@
+
+quantum annealing. The preprocessing and postprocessing time is excluded because it is identical
+in both algorithms. The time is shown as a function of the density of the event, which is the
+percentage of charge particles with respect to the expected multiplicity for the HL-LHC. The
+computing time for the annealer is much larger than that of the CPU, however, the annealing
+time is essentially independent of the number of tracks and remains below a second and superior
+to the current performance on quantum annealers for track densities 10% and larger.
+
+A similar approach to charged particle pattern recognition on quantum annealers is pursued
+in [33]. The Denby—Peterson method is adapted to perform pattern recognition by classifying
+track segments. The QUBO is constructed by combining hit doublets into triplets. The terms in
+the objective function depend on the angles separating the tracks and include a bias term to
+favour high momentum tracks. The algorithm also exploits the fact that tracks are expected to
+have originated from the beam spot. Penalties are added for bifurcated tracks in which the hits
+are not aligned along a potential trajectory and for edges that are not aligned appropriately in the
+plane parallel to the beam direction.
+
+The TrackML dataset is preprocessed by dividing the event into 32 overlapping sectors in
+the plane perpendicular to the beam. Hits in the barrel and the endcap of the detector are
+considered. Candidate edges are selected using Gaussian kernel density estimation to determine
+the probability that an edge between a pair of hits is true and then the QUBO is divided into
+smaller optimization problems. The annealing is performed using the D-Wave 2X system.
+
+Figure 5 shows the purity (a) and efficiency (b) as a function of the number of particles
+per event. The performance using simulated annealing (SA) and quantum annealing (QA) is

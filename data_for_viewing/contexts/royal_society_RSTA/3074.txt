@@ -1,0 +1,25 @@
+
+It is a fundamental principle in quantum mechanics that the product of the standard deviations
+of two non-commuting quadrature operators can never be smaller than 1—this is stated by the
+Heisenberg Uncertainty Principle, the foundation of quantum mechanics:
+
+AX, - AX > 1. (2.3)
+
+Coherent states are so-called minimum uncertainty states. This means that the product of
+the standard deviation of the amplitude quadrature and the standard deviation of the phase
+quadrature is minimized, i.e. (here) equal to 1. It is actually more common to quantify the
+uncertainty of a variable X in terms of its variance A?X, which is the square of the standard
+deviation AX. For a coherent state, the size of the variance of the amplitude and the phase
+quadrature is identical, shown by the fact that the uncertainty distribution is spherically
+symmetric. This is somewhat of a special case.
+
+The product of the variances of two non-commuting variables can be larger than or equal
+to 1, but never smaller. The Heisenberg Uncertainty Principle, however, does not state that the
+variances of the uncertainties of the two non-commuting variables have to be identical. The
+Heisenberg Uncertainty Principle can obviously also be fulfilled if the uncertainties are not equal
+(e.g. for 2 - 3 =1, or for 3 -5=1, or even for 10- 3 >1).
+
+So-called squeezed states fulfil the Heisenberg Uncertainty Principle in this way. The process
+of squeezing deforms the round ‘noise ball’ (as shown on figure 3b) into a noise ellipse, hence
+the term squeezed states. This does not imply that the laser mode now has a different shape—it
+means that the uncertainties in the two quadratures have been redistributed, leading to a change

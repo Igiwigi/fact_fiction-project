@@ -1,0 +1,25 @@
+and thus the determination of tangent tensors pose their own challenges under generic non-
+homogeneous loading conditions when the principal stretches change order and travel through
+coalescing values. However, algorithmic solutions (see e.g. [8], §5.6), closed-form expressions for
+the tangent tensors [9-12] and invariant-based reformulations [13,14] or approximations [15] have
+helped to overcome these problems so that Ogden’s model can efficiently be used with finite
+elements and is available in various software packages for mechanical analysis.
+
+In addition to the advantage of compact mathematical form, the use of principal stretches in
+general and the Valanis—Landel hypothesis in particular allows an interpretation of the model
+in terms of the molecular statistical theory of rubber elasticity, which was not in the scope of the
+developments by Ogden [1]. To this end, the three eigenvectors of the right stretch tensor and their
+corresponding eigenvalues can be understood as the referential direction and elongation of the
+end-to-end vectors of three ideal representative chains, respectively. In fact, this link to the three-
+chain model was already highlighted in [7] and later elaborated in [16,17]. Along these lines, it was
+shown that Ogden’s phenomenological model can be reinterpreted in terms of a non-affine three-
+chain model of non-Gaussian chains [16], based on a specific completion of four essential steps:
+(i) postulation of a generally nonlinear relation between the deformation of the chain end-to-end
+vector and the macroscopic deformation; (ii) a suitable representation of the free energy of a single
+chain with fixed end-to-end length; (iii) complementation of the free energy through contributions
+from topological constraints; and (iv) averaging of the chains’ free energy to obtain the energy
+of the network. Adopting this idea, we show in the present work that, by accomplishing these
+steps in a different way, one both recovers other well-known models of rubber elasticity and
+easily discovers new forms that could turn out to be suitable for describing the behaviour of
+hyperelastic rubber-like materials. The schematic view furthermore allows Ogden’s model to be
+categorized and located within the large group of isotropic hyperelastic constitutive models of

@@ -1,0 +1,25 @@
+
+This is, in a nutshell, the beautiful metaphor provided by nature for the BEH mechanism.
+
+3. The problem of mass in the standard model
+
+In the electroweak theory of Glashow, Weinberg and Salam, we have four agents transmitting
+forces, the vector bosons W+,W~,Z and the photon field y. Their description is in terms of a
+gauge theory with group SU(2) x U(1), and it is not consistent to add masses by hand.
+
+In this gauge group, we have four quantum numbers similar to electric charge: three for weak
+isospin (the SU(2) part) and one for weak hypercharge (the U(1) part). It is a remarkable fact about
+the weak interactions (as obtained by numerous experiments), that the left- and right-handed
+components of quarks and leptons couple differently to the force fields. This fact protects them
+from acquiring mass if we try to use the analogy with how we represent the mass of the electron
+in quantum electrodynamics (QED). Adding by hand a mass term in the SM again violates gauge
+invariance and renders the theory inconsistent.
+
+The key to SSB in the SM it to introduce two complex scalar field that form a doublet with
+respect to weak isospin:
+
+Ht
+(() ||, 01, 62, 63. (3.1)
+
+In analogy with §2, we can describe the scalar doublet in terms of a common modulus |H P=
+|H*|? + |H°/? and three angles. Three of the charges develop condensates, and only one, electric

@@ -1,0 +1,24 @@
+
+T T T T
+0.2 0.1 0 0.1 0.2 0.3
+PC1
+
+Figure 2. Biplot for the fossil teeth data (correlation matrix PCA), obtained using R's b ip Lot command. (Online version in
+colour.)
+
+defined on a low-rank approximation (usually q = 2), enabling a graphical representation of the
+markers. When q = p the biplot has the following properties:
+
+— The cosine of the angle between any two vectors representing variables is the coefficient
+of correlation between those variables; this is a direct result of the fact that the matrix
+of inner products between those markers is HH’ = AL?A’ = (n — 1)S (2.4), so that inner
+products between vectors are proportional to covariances (variances for a common
+vector).
+
+— Similarly, the cosine of the angle between any vector representing a variable and the axis
+representing a given PC is the coefficient of correlation between those two variables.
+
+— The inner product between the markers for individual i and variable j gives the (centred)
+value of individual i on variable j. This is a direct result of the fact that GH’ = X*. The
+practical implication of this result is that orthogonally projecting the point representing
+individual i onto the vector representing variable j recovers the (centred) value xj; — X;-

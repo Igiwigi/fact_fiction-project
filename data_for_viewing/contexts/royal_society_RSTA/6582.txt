@@ -1,0 +1,25 @@
+electrokinetic mobility of hydrophilic and hydrophobic surfaces in the linearized (Debye—Hiickel)
+limit. eal
+
+2. Modified Poisson—Boltzmann equation :3
+
+We deal with the simple case of a planar interface, in which the electrostatic potential and [o
+all density distributions only depend on the perpendicular coordinate z. In the presence of an :8
+inhomogeneous dielectric profile, the Poisson equation reads .
+
+VegeL (VW) =—p2), (2.1)
+
+where V =d/dz, €9 is the vacuum permittivity, y(z) is the electrostatic potential and p(z) is the
+charge density due to ions. At an interface, the dielectric response function is in fact a tensor; for
+laterally homogeneous charge distributions only the perpendicular component ¢ | (z) is relevant.
+Introducing the perpendicular electrostatic field E | (z) = —Vy(z) and the approximate relation
+
+D1 (2) ~e0e1@E.@), (2.2)
+
+which becomes virtually exact in the long-wavelength limit for constant vertical displacement
+field D, (z), we can rewrite the Poisson equation as
+
+coV2W(2) = ~€7!@)p(2) — Di@Veq"). (23)
+
+According to the Boltzmann equation, the charge density is determined by the electrostatic
+potential via

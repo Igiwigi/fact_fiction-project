@@ -1,0 +1,25 @@
+One of these attacks, called a linkage attack, can be successful when another public database has
+information that overlaps with a k-anonymized dataset. For example, the medical records of the
+governor of Massachusetts were identified by crossing anonymized medical data with public
+voter registration records. In addition, when the number of sensitive variables is large, which is
+the case with genomic sequences and GWAS data, they can only be achieved by deleting most of
+these variables, hence losing utility [26].
+
+4. Learning from noisy data: differential privacy
+
+Another formal data protection model, called differential privacy [27,28], was introduced to address
+the shortcomings of previous privacy models. In this popular model, which was awarded the
+Gédel Prize in 2017, de-identification is prevented by the addition of noise to the data. The
+model is based on the fact that auxiliary information will always make it easier to identify an
+individual in a dataset, even if anonymized. Instead, differential privacy seeks to guarantee that
+the information that is released when querying a database is nearly the same whether a specific
+person is included in the study or not [27]. Unlike k-anonymity, differential privacy provides
+formal statistical privacy guarantees.
+
+More specifically, a query function y is called e-differentially private if, for any set S of possible
+answers, and for any two databases D and D’ that differ by exactly one sample, the probability
+that the answer to y on D is in S is €-close to the probability that the answer to the same query is
+in the same set when D’ is queried: P(w(D) € S) <e® P(W(D’) € S).
+
+Both interactive and non-interactive settings can be considered. In a non-interactive setting, an
+obfuscated version of the database is released. Alternatively, only summary statistics are released,

@@ -1,0 +1,25 @@
+where B; is the biomass density (t km~) of prey group i; (P/B);, the production to biomass ratio
+(yr!) of group i; Bj, the biomass density (t km~?) of predator group j; (Q/ B);, the consumption
+to biomass ratio (yr?) of group j; n, the number of predator groups preying on group i; DCj,
+the proportion of prey i in the diet of predator j; E;, the net migration (t km? yr7!) of group i
+(emigration — immigration); Y;, the total catch (t km? yr) of group i; and EE;, the ecotrophic
+efficiency of group i, i.e. the fraction of production of group i; consumed by its 1 predators or :=
+grazers (in a balanced model, EE; <1). A value of 1 implies that all losses are due to predation : 3S
+or grazing, while a value of 0 implies that group i is never consumed and all its mass losses are 12
+due to natural processes unrelated to predation. Therefore, the expression (1 — EE;) refers to the nee)
+fraction of the production of group i lost to natural mortality due to causes other than predation :
+(old age, disease, etc.). a]
+For the sake of simplicity, we assumed E;=0 and Y;=0 for all functional groups. The DN
+assumption that E; =0 can be justified by the fact that the area of the Southern Ocean is vastly iG
+greater than its perimeter (i.e. the length of the Antarctic Polar Front) and hence migration most [3S
+likely has little effect on biomass on an oceanic scale. In addition, the difference in physical .
+conditions between Antarctic and subantarctic waters probably prevents the former from acting
+as a net biomass source or sink. The assumption that Y;=0 for all groups, while not strictly
+correct, is a defensible approximation given that, on an oceanic scale, current fisheries remove
+far less biomass than predators for all target groups (small mysticetes, krill and large demersal
+fish) and no Antarctic fisheries existed in 1900.
+Ecopath requires values of any three of B, P/B, Q/B, P/Q and EE as input to balance the
+model and calculate the value of the missing fourth parameter. A diet composition must also
+be entered for every consumer (electronic supplementary material, table S1). Once mass-balance
+among groups has been achieved using the first ‘master equation’, mass balance is ensured within
+each functional group using the second Ecopath ‘master equation’:

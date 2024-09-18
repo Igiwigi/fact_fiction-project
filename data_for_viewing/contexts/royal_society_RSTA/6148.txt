@@ -1,0 +1,25 @@
+time. Calculations here are harder, of course. In addition, in view of the limitations of the MS
+scheme to provide a more physical renormalization of the VED, we shall adopt an alternative
+scheme (a variant of the so-called adiabatic regularization and renormalization method [60,61]).
+Furthermore, to make our task not exceedingly burdensome, we shall hereafter assume that there
+is no SSB, hence no scalar field self-interactions (A =0). In this case, m? > 0 is the physical mass
+squared of the field. The ZPE part in a curved background is already sufficiently demanding
+even when the scalar field does not couple to itself. This means we shall focus on just the
+one-loop piece of Vzpg in equation (2.2). Within this, more restricted, set-up we will tackle
+the calculation of the energy density of the vacuum fluctuations of a quantized scalar field
+in FLRW space-time. For the sake of completeness, we admit the presence of a non-minimal
+coupling & of ¢ to gravity, despite it is not mandatory for renormalizability in this case. Since
+there are no self couplings in our calculation, there are no ZPE loops beyond one, and hence
+the one-loop contribution that we are addressing here, Vzpgp =f vy, is in fact the full ZPE
+result. The calculation entails renormalization subtleties since we meet, of course, UV-divergent
+integrals. As noted, conventional approaches such as e.g. the MS scheme, lead to the very
+same conflictive terms ~m* as those previously met in Minkowski space. We shall therefore
+eschew unsuccessful renormalization methods of this sort in the cosmological arena. We shall use
+instead the adiabatic renormalization procedure (ARP) [60-62] to renormalize the VED, although
+implemented off-shell via the approach defined in [57,58] and introduced for running couplings
+in [107-109].
+
+(a) Energy-momentum tensor
+The curved space EMT of matter follows from the metric functional variation of the matter action
+
+T™ —_— a 5Sm

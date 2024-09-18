@@ -1,0 +1,25 @@
+the actual structure of the data, estimation of the model can be improved. A closely related
+‘non-negative ICA’ approach was proposed by Plumbley [92].
+
+See Plumbley et al. [93] for a detailed review, and Cichocki et al. [89] for further work including
+extensions to three-way data.
+
+8. Conclusion
+
+It is probably fair to say that in the last 10 years, ICA has become a standard tool in machine
+learning and signal processing. The generality and potential usefulness of the model were never
+in question, but in the early days of ICA, there was some doubt about the adequacy of the
+assumptions of non-Gaussianity and independence. It has been realized that non-Gaussianity
+is in fact quite widespread in any applications dealing with scientific measurement devices (as
+opposed to, for example, data in the social and human sciences). On the other hand, independence
+is now being seen as a useful approximation that is hardly ever strictly true. Fortunately, it does
+not need to be strictly true because most ICA methods are relatively robust regarding some
+dependence of the components.
+
+
+Owing to lack of space, we did not consider applications of ICA here. The applications have
+become very widespread, and it would hardly be possible to give a comprehensive list anymore.
+What characterizes the applications of ICA is that they can be found in almost every field of
+science owing to the generality of the model. On the other hand, each application field is likely
+to need specific variants of the basic theory. Regarding brain imaging and telecommunications,
+such specialized literature is already quite extensive. Thus, the future developments in the theory

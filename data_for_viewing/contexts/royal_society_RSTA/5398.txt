@@ -1,0 +1,25 @@
+tractable. It is also worth mentioning that a useful computation strategy for the case where
+Q=0 is to add a diffusion to the drift equation, which has the effect of allowing the smoother
+to downweight distant measurements, and so deconcentrate the likelihood function, perhaps
+reducing the number of local maxima. But this paper is not about computational strategies, but
+about the fundamental challenges. On this basis, a stochastic model has to be more challenging
+than a deterministic model, although, at the same time, some computational approximations will
+perform less badly with a stochastic model than with a deterministic one.
+
+4. Uncertain static parameters
+
+We fully expect 0 to be uncertain; worse, it is often ill-defined, except as an instrumental quantity
+that we introduce in order to construct a prior distribution over X. This makes it hard to specify
+a prior distribution 7 (@), but in fact this is not our main difficulty.
+
+
+Q’ 9” 6”
+
+Figure 3. Structural instability and the effect of uncertain static parameters. Static parameters are not location parameters. :2
+(Online version in colour.) Do
+
+The following approach is sometimes invoked to demonstrate that uncertain static parameters ee
+cause no additional difficulties if the data assimilation problem has been solved. (Of course, ae
+the point of this paper is that the data assimilation problem is often intractable, but put this to [3
+one side.) Simply construct an augmented state vector (x(t),0(t)), where @ has the degenerate 8
+evolution equation dé /dt =0, with 6(0) = 4. .

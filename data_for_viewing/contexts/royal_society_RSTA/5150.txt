@@ -1,0 +1,25 @@
+
+Fx(t) = 5Ci(A, 0) pAU? (8), (2.1)
+
+where p is air density, A is the rotor disc area and the thrust load Fy depends both on wind
+speed U and the state of the rotor, conveniently represented by a thrust coefficient Ct. The latter
+is primarily a function of the tip speed ratio A =wR/U and the blade pitch angle 6. The wind
+velocity in equation (2.1) can be taken to be the relative velocity U,,| = U — x, thereby explicitly
+including the effect of aerodynamic damping through the tower top velocity <(f). This model is
+extensively used for control system studies (e.g. [4]).
+
+The coefficients C,(A, @) to be used with equation (2.1) are here derived in three different ways.
+The standard way is to use values obtained from steady-state rotor simulations under constant
+wind. It is not straightforward to estimate (in fact, model) these coefficients accurately for many
+different values of blade pitch and tip speed ratio, which also includes cases in significant stall
+where the turbine slows down over a relatively long period of time to reach steady state. Typically,
+the wind speed fluctuations move the turbine out of this regime long before the steady-state
+behaviour is reached, and it is questionable how realistic the use of steady-state coefficients would
+be in these cases. Therefore, the quasi-static model is only evaluated for the low wind speed of
+6ms-! (case FcCtSteady). It is also common to approximate the Cp curve of a wind turbine by
+a parametric function, e.g. using an exponential approximation [22]. From this, a formula for the
+C, curve can be derived, but this approach is subject to the same limitation of modelling only the
+steady-state behaviour.
+
+In order to improve upon this, we have used a linear statistical model that assumes
+the following relationship to regress the values of C; on values of the covariates A, 6 and

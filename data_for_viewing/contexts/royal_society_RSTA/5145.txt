@@ -1,0 +1,25 @@
+the blade tip in the flapwise direction for the jth blade is given by
+
+fill) =2ATo(#) sin(go). (3.3)
+
+In the mathematical framework adopted in this study, the active control forces have been
+modelled as external modal loads applied to each blade. The principle of virtual work is used
+again in order to include the effect of the controller into the Lagrangian formulation.
+
+A numerical simulation is carried out to illustrate the capabilities of the active tendon
+controller described above. The numerical model presented in §2 has been simulated using the
+specifications of the NREL 5 MW baseline reference wind turbine [41]. It should be noted that,
+although offshore dynamics are not included in this study, the control principles illustrated in
+what follows are equally valid for both onshore and offshore systems. In fact, the numerical
+results presented in the paper can readily be extended to offshore wind turbines. A linear
+
+
+@ 6 (b) 15
+
+Fan ee ee es 10 bye mh in egy
+SPP ENG N TERS SENET ENS he
+1 0.8 bff fiver) eee vee eee | eee a oe
+4h oollh i} Th aah ah dh gy
+— 1 c }. jf it
+B . i ! | hf
+= fi by day ahd hae eh ee

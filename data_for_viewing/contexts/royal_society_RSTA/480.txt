@@ -1,0 +1,24 @@
+generate instances of axioms when applied to the empty list [ ], whereas P3 and P; would be
+inference rules: P3 having one hypothesis and P; having two.
+
+In Stanford LCF, there were no validation procedures, so the user just had to trust that the
+subgoaling algorithms were implemented soundly. In Edinburgh LCF, Milner wanted to allow
+users to program their own subgoaling algorithms by defining their own tactics and tacticals.
+
+The validation functions produced by tactics create theorems, and Milner wanted to ensure
+that users could not program unsound theorem-generating functions. He writes
+
+[...] we draw attention to a point of great pragmatic significance. Our metalanguage allows
+a user to write tactics — even invalid ones — with great freedom. But with this freedom he
+can by no means generate an event that [...] is not a theorem. This follows from the fact
+that events are objects of type theorem, and that the only operations for generating them
+are the basic inference rules [...] and rules derived from them. This is a fine illustration of
+the security provided by a type discipline; indeed, without it we could not claim to present
+a viable methodology.
+
+
+It is the ability of LCF system users to safely program tactics without worrying about
+soundness that make the tactic approach so attractive, and it is one of the aspects of LCF that
+influenced subsequent work.
+
+3. From 1980 to 2014

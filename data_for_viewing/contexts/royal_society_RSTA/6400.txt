@@ -1,0 +1,25 @@
+Around 1990, Thomas Stocker and Dan Wright constructed a two-dimensional THC model
+[13] that was much more sophisticated than ours. In particular, they approached the closure
+problem by converting the momentum equations into a vorticity equation, thereby eliminating
+the geostrophic balance, and they developed parameterizations for the zonally averaged vorticity
+balance (see [14,15] for comprehensive analyses). Their approach crucially relied on dissipation
+of relative vorticity in frictional boundary layers, thus emphasizing ageostrophic effects. Their
+model showed some impressive successes when compared with the results of OGCMs, in relating
+meridional flow strength to meridional density differences (e.g. fig. 3b in [15]).
+
+Despite these successes, I felt that the analysis in Wright et al. [14] and Wright et al. [15
+left a fundamental gap. To the best of my understanding, they never returned to (2.1), the
+zonally averaged equation for the zonal momentum balance. But there was, and still is, the
+observational fact that all large-scale oceanic flow below the Ekman layer is in geostrophic balance
+to an accuracy beyond observational capabilities (e.g. [16,17]); furthermore, by the observational
+knowledge of the 1990s, all analyses of hydrographic sections gave a stable result of northward
+integrated transport above 1000m depth in the subtropical North Atlantic (e.g. [18,19]). Hence
+there ought to be a robust relationship between the pressures (or densities) at the eastern and
+western boundaries of the North Atlantic. A strong northward THC should be reflected in a
+definitive relationship between the pressure terms in (2.1), and any satisfactory dynamical closure
+for the THC should speak to this relationship. By contrast, the approach by Wright, Stocker and
+colleagues stressed ageostrophic effects.
+
+While the success of the Stocker and Wright model—and by implication the success of the
+vorticity closure approach—might have put the question of geostrophic balance of the THC onto
+the back burner, a few theoreticians pushed ahead, at least on qualitative terms. Simultaneously

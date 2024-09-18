@@ -1,0 +1,25 @@
+
+Let a spectrum function W(f) be defined such that fluctuations having frequencies
+between fand /+ df contribute [u?] W(/) df to the total value of [v2]. Then W(/) is related
+to r, by the transformation
+
+W(f) =4| r,cos2afr dr.
+(See, for example, Taylor 1938). *
+
+To apply this equation it is necessary that the correlogram should be extended until
+7, approaches the axis of 7. This has been done for two records, 41 4 and 43a, as shown in
+figure 4, taking the mean value of r, for the two traces in each case. The points do not
+approach the axis asymptotically but appear to oscillate about it, and these oscillations have
+been smoothed out in drawing the curves. This is considered a justifiable, and in fact a
+necessary, procedure, since the values of 7 are of the order of 1 min and thus an appreciable
+fraction of the 10 min length of record. The standard deviation of the errors in 7, is estimated
+below to be of the order of 0-15, and the square root of the covariance of near values r, and
+7,, of the same order, so that the oscillations appearing are probably spurious.
+
+0 40 80 120
+time interval 7 (seconds)
+Ficure 4, Auto-correlation curves for longer time intervals. — © — record 41 a, — x —record 43a.
+Each set of points represents the mean from the two meters.
+From the curves of r,, W(/) has been computed numerically for records 41.4 and 43a,
+and the resulting curves of W(/) against f are shown in figure 5. Both curves show the
+largest values of W(/) for the lowest values of /f, Apart from a small peak at f= 0-067 s~!

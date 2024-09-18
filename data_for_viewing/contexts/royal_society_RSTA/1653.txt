@@ -1,0 +1,24 @@
+of such plasma conditions in the high chromosphere cannot be ruled out. Moreover, it has
+been suggested that ALMA observations may also have some (small) contributions from coronal
+heights [66].
+
+Although gravity waves have been suggested to not reach high chromospheric heights (i.e.
+they are reflected back to the lower atmospheric levels by the magnetic canopy as slow magneto-
+acoustic waves [107]), the dominant low frequencies of 1-2mHz that we find here could also
+perfectly align with such waves that were previously observed in the lower chromosphere [39].
+We cannot, however, verify here the nature of the waves represented by the low-frequency ALMA
+oscillations.
+
+Considering that all chromospheric diagnostics (except Ha intensity) show very pronounced
+3-min oscillations dominating the dynamics of the chromosphere, the fact that only a very small
+fraction of all the pixels in the ten datasets analysed here show peak power near 5.5 mHz may
+be considered a surprise, in particular since 1-D simulations predicted a very strong, highly
+nonlinear response in mm temperature brightness to the 3-min oscillations [68,71]. Why do the
+1-D hydrodynamic simulations work remarkably well in reproducing other diagnostics such as,
+e.g. the temporal evolution of the Ca II H and K line profile [3], but seem to completely fail in
+reproducing the mm response to these oscillations? Magnetic fields are certainly an important
+factor, but they should be a similarly important factor for other diagnostics. We should note that
+the 3—5 min fluctuations have previously been reported in mm observations (at 85 GHz) from the
+10-element Berkeley-Illinois-Maryland Array [108] (with spatial resolution of ~10 arcsec), and
+from observations with ALMA Band 3 [109]. In both studies, the authors applied a high-pass
+filter to the data by subtracting a third-order polynomial fit from the time series. For short time

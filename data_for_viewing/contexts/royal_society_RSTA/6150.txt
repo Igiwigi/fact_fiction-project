@@ -1,0 +1,25 @@
+previously in §5. Indeed, bearing in mind that da = 25a one can check that
+
+5 2 8Wren(M)
+(Ti) ren(M) = ard FH
+= dp a(M)guv + 8M3(M)Gpy + 5e(M)Y Hv, (6.11)
+
+in which the coefficients of the various tensor expressions on the rh.s. are given explicitly by
+equations (6.8). If we take the 00th-component of this result and use the formulae given in the
+appendices of [57,58] to perform the identifications on both sides we encounter once more the
+
+3We use DR to cancel divergent terms only for convenience. The subtraction (6.6) ensures already a finite result. However,
+the intermediate UV-terms can be cancelled quite efficiently with DR. If desired, one can obtain the same results with the
+subtraction procedure used to renormalize the EMT. We illustrated already this fact in the appendix B of [57]. The important
+point here is not about regularization but about renormalization: indeed, the subtraction prescription (6.6) involves not just
+the UV-divergences but the full expression obtained from the sum of the first three terms (j = 0, 1,2) in the DeWitt-Schwinger
+expansion (6.4). This is, of course, entirely different from the MS renormalization prescription.
+
+
+result (5.2) and, with it, we end up anew with the renormalized VED as given in equation (5.5)
+(q.e.d.)
+
+Finally, we can derive the RG equation for the VED. The explicit quantum correction 5p, (M)
+computed in (6.8) adds up to the classical term p,(M) in the original action (2.7) (written
+with renormalized parameters), such that the combined quantity —p,(M) + 5p,(M) must be RG
+invariant. From this simple observation, the 6-function coefficient for the coupling p,(M) obtains

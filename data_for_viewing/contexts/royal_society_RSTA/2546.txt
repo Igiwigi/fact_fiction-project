@@ -1,0 +1,24 @@
+who have to take legal liability for the cars they make, or building companies who have to take
+legal liability for the buildings and bridges they build. Is it really so much harder to make correctly
+functioning software than to make correctly functioning cars? Both are engineering problems,
+but in the case of cars, we have a clear understanding of the underlying scientific principles, we
+know the laws of classical mechanics and thermodynamics. But in the case of software, we only
+havea very rudimentary knowledge of the underlying science. A computer program is built from
+algorithms, but we understand what an algorithm is as much as we understand what a proof is.
+We know one when we see one, but we have no idea of what it means for two algorithms to be the
+same. Hilbert’s question can be reformulated in terms of algorithms: What is the simplest algorithm
+for a given problem?
+
+At the current state of the art, the only way to guarantee that the software at hand is indeed
+without errors is to use verification tools to obtain a formal proof. In fact, according to the ISO/IEC
+
+‘Translation by the author.
+
+2In this article, the term proof theory always refers to the subfield of structural proof theory. The areas of ordinal analysis and
+reverse mathematics are not discussed here.
+
+3Proof normalization will be discussed in §2a below.
+
+
+Common Criteria*, the highest level of assurance (EAL7) for software is achieved by formal
+mathematical proofs of the correctness.

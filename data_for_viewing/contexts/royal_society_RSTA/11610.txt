@@ -1,0 +1,25 @@
+The component forces acting at the centre of the first sphere are
+
+AMq cos 6/2dt, pMq cos 6/2dt, vMq cos 6/2dt.
+
+Those acting at the centre of the second sphere are the same with reversed signs.
+
+For two spheres colliding with relative velocity qg we find that the virial is
+eMq cos 6/2dt at each instant during collision. We have to multiply this by the
+chance that, given two spheres A and B with relative velocity q, they shall be in
+collision at any given instant.
+
+It is assumed that we are dealing with a space throughout which T, is constant,
+and therefore the fact that the relative velocity is q, affords no presumption with
+regard to the relative position of the two spheres. About the centre of sphere A
+suppose a spherical surface described with radius c. An element of that surface is
+2rc* cos Asin 6d. Upon that element of surface form the element of volume
+2c? cos 9 sin 6d qdt. And form a similar element of volume on the other side of
+the sphere A, that is, using 7 — @ for #6. Then the two spheres are at this instant in
+collision if the centre of the sphere B is within either of those elements.
+
+Let V be the volume in which 7 spheres are moving with T, constant. Then by
+our assumption B is as likely to be in any part of V as in any other. Therefore the
+chance that A and B, having relative velocity q, are in collision, is
+
+dic? cos @ sin 0 dO qdt

@@ -1,0 +1,24 @@
+where div~! is a suitable operator of order —1 which inverts the divergence.
+0)
+
+In order to gain an understanding of the size of the two terms R,,, we can expand the
+
+argument of the operator div~! in Fourier series in the fast variables, ‘with coefficients which 3!
+depend on the slow variables. We illustrate this principle in the case of the second term: Dm
+
+Ro = div™ [eg : Vey | =div! > cx(x, Heltah, (3.23) : ae
+keZ3,k40 18
+
+The coefficients c,(x, f) vary much slower than the rapidly oscillating exponentials and moreover : x
+the coefficient co vanishes: this is in fact the content of condition (3.18). When we apply the [Ss
+operator div-! we can therefore treat the cy, as constants and gain a factor 1/A,4; in the
+outcome: a typically ‘stationary phase argument’. The conditions (3.18) and (3.19) ensure that
+
+the same argument can be applied when dealing with RU. ve Equation (3.18) ensures that when the
+differential operators hit the fast exponentials the resulting term vanishes, while (3.19) guarantees
+
+that the Fourier expansion in the fast variables misses the zero frequency coefficient: (3.19)
+
+encodes the high-high to low interaction with which the perturbation ‘cancels’ Ry.
+
+Returning to (3.23) observe that:

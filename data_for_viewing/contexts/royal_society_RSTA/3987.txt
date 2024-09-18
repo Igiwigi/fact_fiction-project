@@ -1,0 +1,25 @@
+extra gain may qualitatively be explained by considering that the LB information processed in
+the bulk provides a higher quality, less noisy, input to the DSMC in the Knudsen layer than bulk
+DSMC alone. Thus, LB serves as a sort of DSMC accelerator.
+
+Finally, a clarification about the flow domain decomposition technique and its range of
+applicability is due. This type of hybrid approach is a suitable choice to analyse multiscale
+problems if the flow features a bulk region for which a constitutive model is known to be
+accurate, but it may become not an efficient nor an accurate method if such a condition is not
+fulfilled. This would be the case, for example, of the Couette flow at a larger Kn number than
+the one presented here. For such a condition, it is known that rarefaction effects spread also
+across the bulk of the flow and the classical Navier-Stokes equations can no longer accurately
+reproduce the flow properties found in the bulk. To overcome this limitation, however, the
+kinetic roots of the LBM may help. In fact, whereas LBM was specifically designed to solve
+the Navier-Stokes equations [30,31], in the last decade various groups have begun to explore
+the possibility to extend the LB methodologies towards non-equilibrium flows beyond Navier-
+Stokes hydrodynamics by adopting higher-order lattices [2426] or introducing further modelling
+in order to mimic effects of free particle streaming [44]. This is also equivalent to saying that, if
+a higher-order lattice is adopted, the size of the domain where the DSMC solver is still needed
+can be significantly reduced, thus further improving the overall computational efficiency of the
+simulation. In this view, it should be pointed out that the coupling strategy here proposed can
+be directly applied to any suitable lattice, provided that the discrete speeds are abscissae of a
+Gauss—Hermite quadrature. The extension to higher-order lattice models of the hybrid scheme is
+currently under development.
+
+A remark on the range of application of the proposed hybrid method is in order. While

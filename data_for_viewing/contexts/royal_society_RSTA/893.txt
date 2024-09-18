@@ -1,0 +1,25 @@
+the limited lifetime of quantum memories.
+
+— Quantum error correcting codes play an important role in realizing fault tolerant
+quantum computing systems, and have also been put forward as a means to eventually
+realize all photonic quantum repeaters in the future [8]. Here, our algorithm can be used a
+design tool to find the measurements to realize a specific target state from a given source
+state.
+
+We will phrase our results in terms of graph states, which enables us to apply existing
+algorithmic methods more easily. Graph states form a strict subclass of stabilizer states, which are
+described by simple undirected unweighted graphs. The vertices in the graph represent qubits
+initialized in the state |+) = (1//2)(|0) + |1) and edges represent controlled phase gates between
+the corresponding qubits. Any stabilizer state is in fact single-qubit Clifford equivalent to some
+graph state [9]. Furthermore, a graph state that is single-qubit Clifford equivalent to a given
+stabilizer state on n qubits can be found efficiently in time O(n>). Thus, if we find an efficient
+algorithm that decides if some graph state |G;) can be reached from |G,) by LC + LPM + CC, we
+also have an efficient algorithm for the more general case where the target and source states are
+stabilizer states.
+
+Let us now phrase our problem in a way that forms a natural relation to graph properties. To
+this end, we introduce the notion of a qubit-minor in the following definition, which precisely
+captures whether a graph state can be reached from another by LC + LPM + CC.
+
+
+Definition 1.1 (qubit-minor). Assume |G) and |G’) are graph states on the sets of qubits V and

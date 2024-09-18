@@ -1,0 +1,25 @@
++ AGHD + ABID + ARGS + Agey + AGI + Agi. (6.28)
+
+(e) Acquisition of modes
+
+Once the invariance defect of Grad’s approximation is computed, we can proceed to R13
+equations, e.g. by adopting the relaxation time shortcut, multiplying the non-local invariance
+defect (6.28) by —t and evaluating the R13 fluxes. However, due to the large number of terms with
+different symmetry in (6.28), this makes it difficult to discern any structure behind the resulting
+equations. Therefore, it is much more instructive to first rewrite Aploc as a superposition of modes,
+in the same way as we have it for the Maxwellian. We therefore defer evaluation of fluxes to
+§8, after we clarify the modes. To achieve that, some further transformation of the nonlinear
+contributions is necessary. Specifically, by extracting the irreducible part of the rank-three tensor,
+and taking into account the fact that o is trace-free, we transform Aplin. (6.18) as follows:
+
+Aplin = ~ VR aC 9)(CaCgCy)(GapdyT) + —— O ~ wict- 14C? + 35)Cu(oupdgT). (6.29)
+A similar transformation of Agin (6.19) yields
+Agin= 5 eo 7)(CaCpCy) (Ga dpuy)
++—“ (4 _ act 4.35¢ (a up + Opa — 25 ayy) (6.30)
+25p/RT aff \ Calls Bia Babyy } °
+Furthermore, one immediately recognizes that Agia (6.22) and Agi (6.23) are composed of two
+terms with the structure of the second and third primary modes,
+i M
+agin = ~ 5c —7)(CaCp) (9p) Fya) — 5p “Cc —10C? + 15)qudgope (6.31)
+and M
+Sip = ~ 5a ~ WCC BNA %eP) — Fe AE (Ct =10C? + 15)(qu dup). (6.32)

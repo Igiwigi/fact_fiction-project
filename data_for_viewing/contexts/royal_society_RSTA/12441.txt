@@ -1,0 +1,24 @@
+
+51. In what follows with reference to change of variables, we shall always speak as
+if the change had reference only to /. Exactly similar reasoning applies to similar
+changes of variables in any other function such as }, a, or a part only of any one of
+these. There is, indeed, no reason why the function should be a scalar.
+
+So far, 7 has been assumed an explicit function of the list of variables (25), § 27.
+These are by far the most convenient variables for most mathematical operations, and
+we shall continue as often as otherwise so to regard 7. For many physical interpreta-
+tions, however, it is necessary to regard /, or a part of it, expressed in terms of other
+variables. Consider, for instance, air as a dielectric. This will be taken account of by
+supposing / to contain a term quadratic in d. Suppose, now, we compress the air till
+its density is (say) doubled. We know as a matter of experimental fact, that the
+specific inductive capacity will not thereby be largely altered. This will mean, not
+that the quadratic expression in d is but slightly altered in form, but that the equal
+expression in d’ is thus slightly altered. Moreover, to express simply the fact of
+electric and magnetic isotropy of fluids requires that the independent variables should
+be the dashed letters. Let then
+
+Ids =Uds =U'ds’ orl=ml’=ml” ...... (1)
+where
+L is an explicit function of 0, ; p’, P, v;d, D, C, H
+v ‘ " 60°; psp’, ¥s a, DC, Hs 9 - (2).
+i” ” ” 0, eo; Ps ps ¥; a’, he Cc", H”

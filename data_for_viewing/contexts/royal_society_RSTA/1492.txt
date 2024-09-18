@@ -1,0 +1,24 @@
+reflection microscopy was experimentally demonstrated in 1981 [22]. The first confocal
+fluorescence image was published in 1984 [23].
+
+In this period, the theory of confocal imaging was also developed. The PSF of a confocal
+microscope with a small pinhole is equal to the product of the illumination and detection PSFs:
+h(x) = hy(x)h2(x). So the OTF is the convolution of the illumination and detection OTFs: C(m) =
+Ci(m) ® C2(m) [24]. The principle of confocal optical sectioning was analysed [25]. The use of a
+Bessel beam as illumination in a confocal microscope was proposed, and patented [26,27]. Image
+formation in the spinning disc microscope was analysed [28]. It was shown that, in a confocal
+microscope, misaligning the confocal pinhole results in an improvement in spatial resolution
+[29]. As the detector element is moved away from the optical axis, the width of the PSF becomes
+narrower, the peak of the PSF becomes weaker, the sidelobe level increases, and the peak of the
+PSF moves laterally. These effects explain the fact that ISM gives better resolution than a confocal
+microscope. Image formation in confocal fluorescence microscopy was analysed, and improved
+resolution predicted [30]. A confocal microscope with computer control, image acquisition and
+processing was developed [31]. The three-dimensional (3D) spatial frequency cut-offs of the
+confocal microscope in transmission, reflection and fluorescence modes were presented [32].
+
+Commercial confocal microscopes started to become widely used in biomedical research
+laboratories around 1990. Also in the 1990s, commercial spinning disc microscopes became
+available. It became appreciated that in order to record a fluorescence image of adequate strength,
+a pinhole larger than around 1 Airy Unit (AU), equal to the size of the Airy disc in the detector
+plane, should be used, thus eliminating the transverse resolution improvement of confocal
+microscopy.

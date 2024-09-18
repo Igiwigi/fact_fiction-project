@@ -1,0 +1,25 @@
+16 18 20 22 24 26 =17.400,
+—12000 1820 22 24 26
+1 2 3 4 5 6 7 1 2 3 4 5 6 7
+internuclear separation (A) internuclear separation (A)
+
+Figure 1. Potential energy curves calculated for C+ interacting with RG. The key in (a) applies to all plots. The interaction
+energies have been calculated at the RCCSD(T)/aVooZ level of theory and both non-SO and SO curves are shown as dashed and
+solid lines, respectively —see text for details. The zoom-ins in (b)—(d) have the same vertical energy scale as that in the C+-Ne
+plot (a), allowing visual comparison of the evolution of the SO splitting of the 2/7 ¢ states as the atomic number of the RG atom
+increases. (Online version in colour.)
+
+these plots, it can be seen that the X2/7 states are always much more strongly bound than
+are the A?+ ones. This is in line with the fact that the latter have the unpaired carbon 2p
+electron positioned along the internuclear axis, where there will be higher electron repulsion
+with electrons from the RG atom. For the 7/7 state, the unpaired electron is positioned
+perpendicular to the internuclear axis, reducing electron repulsion, and so allowing the RG atom
+to interact more effectively with the positive charge on the carbon nucleus. The spectroscopic
+constants obtained from the non-SO interaction potentials are presented in table 1, and these
+are commented on below. Additionally, we provide the calculated vibrational energy levels as
+electronic supplementary material.
+
+To check whether multi-reference character may be affecting the spectroscopic parameters, we
+also calculated MRCI curves (although not over such a wide range as the RCCSD(T) ones) and
+from these derived the spectroscopic parameters. We then compared these with the non-SO non-
+CP-corrected RCCSD(T)/QZ results, with the sets of data presented together in table 2 for easy

@@ -1,0 +1,25 @@
+exponents that can be used to define universality classes able to describe a broad variety of
+systems which manifest fractal features [35-38]. A widely known emergent phenomenon, such
+as ferromagnetism, can be understood in terms of the collective behaviour due to the spin-
+spin interactions of electrons in a material which tend to spontaneously align at the critical
+temperature, effectively magnetizing the system at large scale. Here, note that ferromagnetism
+would have no meaning for a system of one particle, since the phenomenon is related to collective
+behaviour causing simultaneous alignment even in the absence of an external magnetic field. A
+paradigmatic approach to gain insight about critical phenomena is the Ising model at different
+dimensions: it has been shown that a simple two-dimensional Ising model with fields is universal,
+ie. it can be used to facilitate the physical simulation of Hamiltonians with complex interactions
+[39] and it has been related to cellular automata [40]. Remarkably, there are systems that do
+not even need a parameter (e.g. temperature) to be tuned in order to exhibit the scale-invariant
+organization in space or time, such as in critical systems at phase transition. In fact, such systems
+dynamically reconfigure their state and spontaneously reach a critical point, which is also an
+attractor. This peculiar behaviour is widely known as self-organized criticality [41,42] (SOC) and
+it is characteristic of driven nonlinear systems of many interacting units out of equilibrium [43]:
+the signature of SOC is the fractal organization in space or time, and it has been observed in
+biological, ecological, physical and social systems [44,45].
+
+At this point, since most of the systems mentioned so far are non-living, it is worth remarking
+what is meant by ‘organization’ in open systems out of thermal equilibrium. Here, it is defined
+by the formation of spatial or temporal (or both) structures that are perceived by an external
+observer able to measure them in terms of information. On the one hand, this information can
+be understood as a ‘difference which makes a difference’ [46], which does not allow for an
+operational definition. On the other hand, the mathematical concept of information as introduced

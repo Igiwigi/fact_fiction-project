@@ -1,0 +1,25 @@
+he has had a special interest in graph theory. So
+why are these graphs named after him? This will be
+explained in §2. The explanation will suggest what
+should be the definition of a Ramanujan graph, for a
+general graph, not necessarily k-regular. Moreover, it
+will suggest the definition for directed graphs (digraphs)
+and even high-dimensional simplicial complexes (the so-
+called Ramanujan complexes), as will be explained in §3
+and in §4.
+
+Ramanujan graphs have found plenty of applications
+in computer science and pure mathematics. Most of
+them have to do with the fact that they provide optimal
+expanders (see [2-4] and the references therein). Lately,
+Ramanujan complexes and high-dimensional expanders
+have also started to be a popular subject of research
+(cf. [5,6] and references therein).
+
+THE ROYAL SO C IETY © 2019 The Author(s) Published by the Royal Society. All rights reserved.
+
+PUBLISHING
+
+
+Here, we concentrate on describing their aspects which truly use the full power of being
+Ramanujan, and not merely expansion. In §5, we will describe random walks on Ramanujan

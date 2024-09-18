@@ -1,0 +1,25 @@
+
+N=llilgi=aAfi A efi gi AD + ile Afi=gi A einfirgi AD|=Nyp + Ne.
+Therefore,
+
+efcommute <> N, and Ny have the same parity.
+
+Similarly, :2
+f,gcommute <=> Ny and Ng have the same parity, 5
+
+egcommute <> N, and Ng have the same parity, (2
+and the result follows. a : oo
+
+Note that this new definition can be used to derive an alternative proof of the fact that any [8
+AVN triple for n-partite states can be reduced to an AvN triple that involves only three qubits, in :s
+accordance with theorem 4.5. Indeed, given an AvN triple (e,f,g) in Pn, as Ng, Ne, Ny are odd, we :&
+can always choose three indices 1 < i, i2, 13 < n such that
+
+Cir =f Fir Cn Fly =8n and Ci, =8i, Afis-
+
+Clearly, the elements of the triple restricted to these indices constitute an AvN triple in P3 and
+therefore an AVN argument.
+
+The rationale for introducing definition 5.1 is that it allows us to better understand AvN triples
+from a computational perspective. We show a first example by providing a closed formula for the
+number of AvN triples in Py.

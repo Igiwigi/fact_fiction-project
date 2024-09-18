@@ -1,0 +1,25 @@
+
+Generating actionable predictions requires a high level of automation which can be achieved
+through a powerful combination of software and hardware, making calculations immediately
+scalable for industrial and clinical applications. To make predictions which are fast enough
+for actionable decision making, urgent priority must be given to such calculations on high-
+performance computers. Our requirements for on demand access to large-scale computing
+resources for such purposes are well known and have informed numerous initiatives across the
+world to provide appropriate access mechanisms for medical and clinical research. This is part of
+
+
+
+the core business of the Computational Biomedicine Centre of Excellence (www.compbiomed.eu)
+which has innovation and sustainability at its heart. As a matter of fact, the EasyVVUQ software
+which we have introduced as an open-source toolkit, and as part of the VECMA Toolkit [30], is
+based on its original applications to MD as discussed here. It is now being applied widely in many
+fields of concern to this theme issue of Phil Trans A, from fluid dynamics to climate prediction
+and fusion energy research. As such, it can be reasonably considered that the study of uncertainty
+quantification in MD is now beginning to have an impact within the wider general field of VVUQ.
+
+8. Conclusion
+
+Ensemble molecular dynamics simulation provides us with a powerful methodology that enables
+us to connect ergodic theory and uncertainty quantification, and to obtain reproducible results
+from simulations in a systematic and theoretically well-grounded manner. As evidenced in the
+case of ligand—protein binding free energy predictions, ensemble simulation-based approaches

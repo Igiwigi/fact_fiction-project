@@ -1,0 +1,24 @@
+originate mainly within the detector.
+
+The detectors are extremely difficult to control at this sensitivity level; they have a duty cycle
+only around 60-70%, and even when in operation mode their Gaussian data are frequently
+interrupted by these glitches. Since the LIGO detection criterion is that an event should be
+coincident between the two detectors, the analysis constructs the probability that two randomly
+occurring glitches could also be coincident, and could look enough like a binary inspiral to
+masquerade as a signal. On that probability scale, we are confident that a ‘glitch event’ as strong
+as GW150914 would happen by chance less frequently than once per 203000 years. This is a
+probability equivalent to that of 5.lo in Gaussian noise, but of course the glitch coincidence
+distribution is not a Gaussian one.
+
+In fact, this is just a lower limit on the significance against glitches. In all of Advanced LIGO’s
+data during the first observing run (O1) during which this signal was seen, there were no glitches
+at any time in the two detectors that were strong enough to have masqueraded as this signal even
+if they had occurred simultaneously, and extrapolating from the glitch distribution suggests that
+no such glitch coincidence would have occurred even if the detectors had been operated for a time
+equivalent to the age of the Universe! This was, therefore, an exceptionally strong event to have
+occurred as the first detection. LIGO would have been confident to have claimed a first detection
+for a much weaker event than this one.
+
+
+black holes of known mass
+GW150914

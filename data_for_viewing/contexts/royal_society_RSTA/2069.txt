@@ -1,0 +1,25 @@
+A novel computational method based on a multiscale random-walk algorithm was developed by
+Plapp & Karma [18] to simulate three-dimensional dendritic growth. They showed that the scaling
+law (3.1) must be changed in the case of three-dimensional axisymmetric dendritic growth by the
+following formula:
+
+zpx(x) = a|x|9/?, (3.2)
+
+where all designations correspond to expression (3.1) and x represents the spatial coordinate of a
+symmetrically growing dendrite.
+
+Physically, the scaling laws (3.1) and (3.2) are different due to the fact that the tip velocity is
+much larger in the three-dimensional case than in the two-dimensional case. The latter is caused
+by the fact that the heat- and mass transfer equations, as well as boundary conditions in 3D and
+2D, have a different form, which is dictated by various Lamé coefficients [32,33].
+
+To conclude this section, we stress the fact that the Ivantsov solutions work only at the
+dendritic tip and in a very small vicinity around the tip, but the scaling laws (3.1) and (3.2)
+determine the shape of the neighbouring area to the dendrite tip.
+
+4. Sewing together various tip shapes
+
+In this section, we present the analytical expressions for dendritic shapes obtained by the method
+of sewing together two different solutions: the Ivantsov parabolic shape (paraboloidal shape in
+three dimensions) valid at the dendritic tip and the power law (3.1) (or the power law (3.2) in
+three-dimensional case) valid at a distance of the order of several tip diameters from the dendritic

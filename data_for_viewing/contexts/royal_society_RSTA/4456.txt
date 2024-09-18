@@ -1,0 +1,25 @@
+
+1 t™ N
+Q= BL Vai.) (2.3)
+i=1 j=1
+1 t™ N
+and Baa » X bi(r,9,2), (2.4)
+i=l j=
+
+where N is the number of water molecules inside the axial or radial bin and f is the number of MD
+time steps over which the system is sampled. When the water density p is small, the statistics of
+Qand B will be unreliable, so only measurements for p > 100 kg m~° are considered here. We will
+show that these order tensors provide information beyond a standard dipole moment calculation,
+the information for which is in fact contained within one of the eigenvalue/eigenvector pairs of
+the tensor B.
+
+The measured values of Q and B are interpreted through an investigation of their eigenvalues
+and eigenvectors. The tensors are symmetric and traceless so that two of the total three
+eigenvalues are independent, and the set of eigenvectors forms an orthogonal triad, for each
+
+
+tensor. It is the eigenvectors that describe the principal axes of the averaged molecular axes, and 4 |
+the eigenvalues measure the spread of molecular deviation from the eigenvector: Q provides
+
+information about the long molecular axis, and B describes the effects of molecular biaxiality on “3
+the ensemble average properties. Both tensors are zero in the isotropic phase (i.e. bulk water), : a

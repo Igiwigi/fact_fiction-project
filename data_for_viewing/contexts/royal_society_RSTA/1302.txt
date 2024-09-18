@@ -1,0 +1,24 @@
+frequency (Hz)
+
+Figure 2. Reference power-frequency response strategies for the BESS response to local frequency (blue line) and the AGCsignal
+(red line). As in (2.5), response to local frequency takes precedence. The common deadband D is indicated by the dashed central
+line. (Online version in colour.)
+
+Thus the battery response is given by
+B= Le[5i](B'G@)) — BP) + (1 — Le [5D (B86) — BP). (25)
+
+Here, the indicator function 1¢[5;] determines whether the local frequency at bus i lies in the
+range € = E€! UV €2, where €! = (—00, —F”] U [F", 00) and €? = (—F", —F"] U [F", F”) (figure 2). The
+terms (B!(5;) — B?) and (B8(3) — B), where the functions B!(4;)) and B8(3)) are defined below, take
+account of the fact that the BESS will in general be responding at a pre-contingency level B? just
+prior to time 0. These terms therefore model the change in power output when the BESS delivers
+its reference response. Since we do not explicitly model the state of the system prior to time 0, the
+values of B? are randomly sampled initial conditions, see §3 for more details.
+
+(i) Battery energy storage systems response to local frequency 6;
+
+According to (2.5), if the local frequency 6; lies in the range € then the BESS response is determined
+by this local frequency deviation. In this case, the power-frequency relation of the response is
+
+
+given by the blue graph in figure 2: 7

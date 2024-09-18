@@ -1,0 +1,25 @@
+with [15]. We deduce that if 7 is sufficiently small, the regularized DBOC can reproduce the effect
+of the exact DBOC. We then test the compensation of GP and DBOC: it was previously found that
+when GP is not included in the simulation, not including DBOC improves the results [15]. This is
+indeed what we observe in figure 1 for the ‘no DBOC’ case, where the initial population dynamics
+is captured when both GP and DBOC are overlooked.
+
+We now test the impact of GP in enhancing the transfer probability for the components of
+the wavepackets with zero angular momentum with respect to the CI [15]. This effect is better
+illustrated in the case of the butatriene cation, where the wavepacket has a large component
+(87%) with zero angular momentum when arriving at the CI [15]. Figure 2a shows that DBOC
+only has a minor impact on the population evolution. Indeed, including DBOC or not does
+not significantly affect the population dynamics. This absence of effect also appears through
+the fact that the value of the regularization parameter does not significantly change the results.
+
+
+1.00
+
+§
+0.75}
+3
+a
+Q
+2
+3s 0.50fF
+i]

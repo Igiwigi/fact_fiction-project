@@ -1,0 +1,25 @@
+Comparison between the measured mean flow and that predicted by the four CFD simulations
+were originally shown in [38]. The comparisons are included again in this paper with the results
+from the high-fidelity simulations added.
+
+The high-fidelity simulation results are assessed using both the data from the probe files
+and by extracting data from the saved volume file. When taking data from the volume file, the
+circumferential placement of the probes is an option. Figure 3 shows the volume from the front as
+a two-dimensional slice.
+
+In the SDT experiment, the hotwire probe was moved along a single radial line to obtain data
+at different locations between the hub and tip. When the radial locations are placed in the volume
+at different circumferential locations from 90° to 106°, slight differences in the results are found
+as shown in figure 4. The difference is attributed to both the fact that a cartesian grid not aligned
+with the wake is used in the gap and that there is an averaging process used when saving the data
+into the volume file and an interpolation process used when extracting the data. Note that probe
+values are saved without any space averaging or interpolation involved (the value of the probe
+containing voxel is used).
+
+Figure 4a shows there is no appreciable grid, sampling or interpolation effect present in the
+total mean flow values. However, the calculated average passage wake does vary slightly from
+circumferential slice to circumferential slice as shown in figure 4b. The variance of the average
+passage wake obtained at the different circumferential locations is about 0.6% at its highest in the
+centre of the wake. To account for the difference from slice to slice, when data from the volume file
+is analysed, an average of the result over 71 circumferential slices taken in the volume is reported
+when possible. Figure 4 shows the increase in the total mean flow introduced by the insertion of

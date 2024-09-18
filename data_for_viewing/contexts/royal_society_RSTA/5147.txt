@@ -1,0 +1,25 @@
+
+Semi-active control of wind turbines has been explored by Arrigan et al. [22,23] to suppress
+the vibrations by using semi-active TMDs. The control algorithm is based on a short-time Fourier
+transform and retuning the damper to track the dominant/natural frequencies of the structural
+system. Control of both edgewise and flapwise vibrations has been investigated.
+
+Recently, the issue of structural and mechanical vibrations in wind turbines due to the
+occurrence of electrical grid faults has been analysed by Basu et al. [24] and Staino et al. [25].
+The study [24,25] indicated that the effect of electrical grid faults may propagate through the
+mechanical subsystem of the turbine and cause major structural vibrations. The application of :
+custom power devices to counteract the effect of grid fault-induced vibration is considered in :=
+
+the study. Numerical results show that flexible alternating current transmission system (FACTS) Sy
+devices and unified power quality conditioner (UPQC) in particular are successful in mitigating a
+vibrations due to electrical faults, and they can be conveniently applied to stabilize the generator aed
+shaft speed, drive train oscillations, edgewise blade vibrations and tower responses. : _
+
+Offshore wind energy has gained increasing attention owing to increased electricity generation : Ss
+of offshore power plants with respect to their onshore counterparts and also other advantages : s
+such as reduced visual impacts, less turbulence and lower noise constraints. For floating offshore : s
+wind turbines, it has been proposed to modify the blade pitch angle and the generator torque to : Ss
+
+improve the damping of problematic motions and loads on floating platforms [26-28]. Recently,
+passive control of floating wind turbine nacelle and spar vibrations using multiple TMDs has
+been investigated by Dinh & Basu [29]. In an overview of floating offshore wind turbines [30], the

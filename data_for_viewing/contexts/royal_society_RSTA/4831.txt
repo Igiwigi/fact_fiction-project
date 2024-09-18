@@ -1,0 +1,24 @@
+pieces of a manifold, as in §4. As yet, it is not altogether clear how this is to be interpreted, as we
+do not actually have a twistor space, like T or PT, leading to T or PT, above. Instead, we appear
+to have a form of non-commutative geometry [10] arising from some kind of deformation A of the
+algebra A.
+
+Fortunately, for a real space-time M, we can explicitly construct a global (real) 5-manifold PV’
+analogous to the 5-space PN and, moreover, a non-projective 7-dimensional version V analogous
+to the 7-space N. The idea is to use NV to provide us with a key part of 4’s structure. The curved
+PN is the space whose points represent the individual null geodesics—or rays—in M. It is best to
+assume that M is globally hyperbolic, as this ensures that PV is a Hausdorff (5-real-dimensional)
+space [11]. If we include a (null-vector) momentum p (index form p,), pointing along each ray and
+parallel-propagated along it—to give what I call a scaled ray—then we get a 6-real-dimensional
+space p\, whose points represent these scaled rays. In fact, pN is naturally a real symplectic
+
+
+6-manifold, with symplectic potential 1-form ® and closed symplectic 2-form Z, given [2] by
+G=pidx", L=db&=dp, A dx"
+
+(where, in coordinate notation, ‘dx*’ stands for the coordinate 1-form basis, and in abstract
+indices dx“ is just a ‘Kronecker delta’ translating the abstract index on ‘p,’ to conventional 1-
+form notation). When PV = PN, so our symplectic 6-manifold is the canonically given pN(=pV),
+we can apply twistor notation, finding
+
+® =iZ"dZy =-iZ,dZ", EY =db =idZ% A dZy.

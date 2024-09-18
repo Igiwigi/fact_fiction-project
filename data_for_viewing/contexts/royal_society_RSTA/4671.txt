@@ -1,0 +1,25 @@
+on unique concepts and methodologies.! Finally, in §5, a case study is used to demonstrate =
+how MCMC can be used within a Bayesian framework to generate robust models of nonlinear a)
+dynamical systems. .
+
+2. Bayesian system identification
+
+The problem of SI is easily stated: given measured data from a structure or system, how does one
+infer the equations of motion which ‘generated’ the data. This problem is not at all easy to solve;
+it is essentially an inverse problem of the second kind and can be extremely ill-posed even if the
+underlying equations are assumed to be linear in the parameters of interest [3]. Furthermore, the
+‘solution’ may not even be unique. If the equations of motion are not linear in the parameters of
+interest, the difficulties multiply. Another issue is concerned with confidence in derived parameter
+estimates. This issue is a result of the fact that measurements or data from a system will, in reality,
+almost always be contaminated by random noise. Given a set of data D = {(xj,y;),i=1,...,N}
+of sampled system inputs x; and outputs y;, if there is no measurement noise, an identification
+algorithm should yield a deterministic estimate of the system parameters 0,
+
+0 =id(D), (2.1)
+
+where the function id represents the application of the identification algorithm to the data D.
+Now, if noise e(f) is present on the input or output data (or both), 6 will become a random vector
+conditioned on the data. In this context, one no longer wishes to find an estimate of 0, but rather
+to specify one’s belief in its value. If it is assumed that the noise is Gaussian with (unknown)
+standard deviation o,, then the parameter o, can be subsumed into 0, and inferred along with the
+model parameters. In probabilistic terms, instead of equation (2.1) one now has

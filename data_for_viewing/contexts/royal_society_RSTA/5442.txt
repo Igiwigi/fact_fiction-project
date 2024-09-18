@@ -1,0 +1,25 @@
+is a long-term programme with many ramifications, somewhat reminiscent of
+Hilbert’s sixth problem: the axiomatization of all branches of science, in which
+mathematics plays an important part.
+
+In the following sections we will put flesh on the bare bones of the above
+remarks by listing a few of the spectacular discoveries in mathematics that have
+emerged from the interaction with physics.
+
+3. Counting curves
+
+Our first example comes from enumerative geometry, a particularly active field
+in the nineteenth century. In classical geometry many problems concern counting
+the number of solutions. Starting with the fact that two straight lines in the plane
+meet in one point (which may be at infinity, in which case the lines are parallel),
+one goes on to show that curves in the plane given by polynomial equations of
+degrees m and n meet in mn points, provided we allow complex solutions, points
+at infinity and count intersections with multiplicity.
+
+A slightly more complicated problem is to count the number of curves in the
+plane that satisfy certain constraints. One such problem for curves of degree d,
+which are rational, i.e. can be described parametrically by rational functions of
+one complex variable, is to ask how many such curves go through n general points.
+If n=3d-—1, this number Nj is finite and the problem is to find a formula for
+Ny. If d=1 or 2, then N = 1, but the general formula was not known to classical
+geometers, and only emerged from physics! Moreover, the methods from physics

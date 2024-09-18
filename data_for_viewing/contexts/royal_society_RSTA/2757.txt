@@ -1,0 +1,25 @@
+undergraduate Physics course, and everybody accepts that this should be enough for having a
+bigger picture of the electrical and electronic world.
+
+Yet, in the year 2013, I came across Oliver Heaviside’s work in full. How? From around
+
+2010 I was involved in a large research project on the new generation of energy-harvesting
+electronics. The project embraced several research teams from different universities. The full set
+of expertise of these teams included power generation, power regulation and energy-harvesting-
+aware computational circuits. My team at Newcastle was responsible for the latter. It was during :3
+that project that I started to build the vision of computational electronics that was driven by .
+potentially unpredictable and variable power sources rather than what had usually been seen
+as the recipient of unlimited power or energy supply. I called this type of computing ‘energy-
+modulated’ [1], to emphasize the fact that it was energy flow that defined the computational
+action. In the following section on energy-modulated computing, I shall briefly explain its main
+idea. To underpin this concept, a patent on a self-powered voltage sensor was filed in 2011 [2].
+In this method and apparatus, we used a capacitor to store the energy of the measured signal
+as a charge. This charge then was used to drive a self-timed frequency divider (or counter),
+which effectively converted the charge in the capacitor into binary code. At some point, the
+voltage across the capacitor became too low to drive the increment action in the counter. The
+resulting code could then be used as a digital measure of the initial voltage across the capacitor.
+An interesting challenge was to determine the strict relationship between this voltage and the
+code. Furthermore, another interesting question came up. What is the law according to which
+the charge, and hence the voltage across the capacitor, follows in time when the capacitor is
+discharged through a digital load formed by such a self-timed circuit? This answer was found
+and it appeared to be a hyperbolic (not exponential!) decay law—we presented in the following

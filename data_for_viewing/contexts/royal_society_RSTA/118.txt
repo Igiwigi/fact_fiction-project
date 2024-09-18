@@ -1,0 +1,25 @@
+
+melanophores and xanthophores. The study of interactions involving iridophores is ongoing, and
+agent-based models (ABMs) are being used for theoretical analyses [13,14,21-24].
+
+Nakamasu et al. [25] investigated how melanophores and xanthophores affect each other’s
+survival by using a laser to erase pigment cells in the middle of the formed pattern. The results
+are summarized in figure 2a. At close range, melanophores and xanthophores kill each other
+(thus suppressing survival) [25]. However, the opposite is true at long distances. When the laser
+kills all the xanthophores in a large area, cell death also occurs in the melanophores, indicating
+that xanthophores located at a distance are necessary for the survival of melanophores [25].
+Mathematically, the network of interactions shown in figure 2a has similar properties to that of
+the original Turing’s model, as it includes both activation loops working at short distances and
+inhibition loops working at long distances [15]. In fact, a simple ABM created using this network
+can form stripes from random patterns. [21-24]. A three-cell network model with iridophores is
+shown in figure 2b.
+
+
+Xanthophore
+stripe region
+
+Melanophore
+stripe region
+
+Xanrhophore
+stripe region

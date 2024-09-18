@@ -1,0 +1,24 @@
+allowing us to characterize capacity in these regimes. We present these lower bounds next.
+
+We focus on lower bounds that have simple analytical expressions. These are namely lower
+bounds that use a continuous input distribution fy. Lower bounds based on discrete input
+distributions will be discussed in §6.
+
+To derive a lower bound, let us assume that X is a continuous random variable. This might
+be restrictive, but will lead to a simple lower bound expression. Note that I(X; Y) = h(Y) — h(Y|X).
+Since h(Y|X) =h(Z), which does not depend on X, one can maximize I(X; Y) by maximizing h(Y)
+with respect to fy. Instead of maximizing h(Y), we make the following observation: In the extreme
+case of zero noise, Y and X have the same distribution. Therefore, one expects that, if noise is :
+relatively small compared to the received signal, then Y has a distribution that is ‘similar’ to that :3
+of X. In fact, the signal-to-noise ratio in VLC channels can often be high, making this observation :
+practically relevant. This means that, in this regime, a ‘good’ choice of fx is one that maximizes :s
+h(X). PD
+
+To find the maximum h(X), one can use the maximum-entropy theorem [16, theorem 12.1.1]. : 8
+For a random variable X € [0, A] with Ex[X] <E and E > (A/2), the maximum h(X) is achieved when [=
+X is uniformly distributed, i.e. ia
+
+1 :3
+
+AO) = a for x € [0, A]. (5.1) 1S
+If E < A/2, then h(X) is maximized when X follows the truncated-exponential distribution

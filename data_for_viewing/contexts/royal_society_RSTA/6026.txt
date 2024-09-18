@@ -1,0 +1,25 @@
+gaps of metamaterials to create elastic shielding devices protecting objects from elastic waves
+[1-4]. Depending on the devices’ operating frequencies, these shields can act for seismic [27],
+acoustic [3,5,31-33] or ultrasonic [5-7,34,35] protection of objects that need to be isolated from the
+external environment.
+
+In light of the previous remarks, it is established that metamaterials can be used for protection
+purposes. Yet, no effort is made to explore the energy which is reflected by the shield and that
+affects its surroundings. It is of primary importance to master such reflection phenomena to
+make metamaterial shields suitable for practical purposes. The effect of elastic waves in the
+surroundings of the shield is usually not explored due to the lack of simplified homogenized
+models allowing the simulation of large meta-structures with reasonable computational costs.
+We show in this paper that, once such a model is established, suitable boundary value problems
+can be set up allowing an eased simulation of both the inner and outer domain. In fact, even if
+dynamic homogenization methods have provided important advancements in the modelling of
+infinite-size metamaterials [32,33,35—40], little is known about handling scattering problems at the
+boundaries of finite-size metamaterials. This lack of knowledge is mainly due to the difficulties
+arising in establishing pertinent macroscopic boundary conditions formally upscaled from
+microscopic ones. To overcome this problem, we propose here to study the scattering properties of
+the considered shielding device via the relaxed micromorphic model, introduced by the authors
+[41-43] and recently equipped with a set of well-posed, physically coherent boundary conditions
+[7]. We prove that the relaxed micromorphic model shows excellent agreement with the scattering
+profiles obtained via full microstructured simulations when a direct comparison is possible due to
+the small specimen’s size. This agreement is established for a wide frequency range (from zero to
+beyond the first band-gap) and for all angles of propagation of the incident wave. These results are
+important since, to the authors’ knowledge, no other homogenized model is able to predict finite-

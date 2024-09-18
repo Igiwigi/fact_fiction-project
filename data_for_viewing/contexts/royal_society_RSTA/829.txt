@@ -1,0 +1,25 @@
+equilibrium point of an n d.f. system there are at least n PO whose periods are close to those
+of the linearized system. Moser [30] gave generalizations of this theorem to unstable equilibria. A
+survey of the existence theorems of PO for nonlinear dynamical systems is presented in [31,32].
+
+Centre-saddle (CS) bifurcations of PO are ubiquitous and their existence is supported by
+the Newhouse theorem [21,33] initially proved for dissipative dynamical systems, and also it
+was later extended to Hamiltonian systems [34,35]. The theorem states that tangencies of the
+stable and unstable manifolds associated with unstable equilibria and PO generate an infinite
+number of period doubling and CS bifurcations. Hence, the originally single unstable PO (named
+Lyapunov orbits) of the fundamental families of index-1 saddles are expected to generate such CS
+bifurcations as their manifolds expand along the unstable degree of freedom.
+
+As a matter of fact, intersections of the stable and unstable manifolds coming either from
+the same or different Lyapunov PO generate homoclinic and heteroclinic orbits respectively [21],
+which connect remote regions of phase space. Their numerical location is not easy and that
+makes PO families more precious in studying the entanglement of the molecular phase space
+at high excitation energies. For polyatomic molecules the large number of index-1 saddles
+and their associated Lyapunov families of PO, which are spread over the configuration space,
+generate a network of heteroclinic/homoclinic orbits, where trajectories may be trapped. This
+will considerably alter the dynamics of molecule from those deduced from the minimum energy
+pathways of PES. An example will be given in the next section.
+
+If we want to go beyond the linear approximation, in order to construct tori, normally
+hyperbolic invariant manifolds and generally (un)stable invariant manifolds, the method of
+normal forms is a powerful one. The aim of normal form approximation is to build a series of

@@ -1,0 +1,24 @@
+concurrency and growing memory system complexity [11].
+
+As with a distributed computing system, growing parallelism makes synchronizing
+communication increasingly expensive. As sparse iterative problems typically prohibit the use
+of dense matrix—matrix mathematical routines with high computational intensity, the use of
+algorithms like Gaussian elimination with strong sparse data dependencies often leverage only
+a small fraction of the available compute power. However, algorithms that relax or remove
+conventional synchronization-enforcing paradigms can achieve higher performance on many-
+core and accelerator architectures. An example is incomplete factorization (ILU) preconditioners
+where the synchronizations of a truncated Gaussian elimination process allows for only limited
+parallelization via level scheduling, notoriously resulting in low performance. Based on the
+observation that incomplete factorizations as used for preconditioning are typically only a rough
+approximation of the exact factorization and the fact that for a given sparsity pattern S of the
+ILU, the incomplete factorization is exact in the locations of S [12], it is possible to formulate
+the search for values in the incomplete factors as an iterative process [13]. In an element-wise
+
+
+identify locations
+with non-zero ILU
+residual
+
+compute ILU
+residual and check
+convergence

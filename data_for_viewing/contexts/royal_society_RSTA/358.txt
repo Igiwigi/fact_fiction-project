@@ -1,0 +1,24 @@
+a roll of a die, as they are for modelling uncertainty in the mass of a planet. Incidentally,
+both forms of uncertainty are fundamentally subjective; one’s uncertainty about a roll of a die
+depends on one’s knowledge of the exact initial conditions of the roll, in just the same way as the
+uncertainty about the mass of the planet depends on knowledge of the observational data on the
+planet’s orbit.
+
+Finally, people trained in the sciences are uncomfortable with the very notion of subjectivity
+in data analysis and modelling. This again is deeply misguided: all models involve assumptions,
+and all conclusions drawn from data analysis are conditional on assumptions. The probabilistic
+framework forces the scientist to be completely transparent about the assumptions, by expressing
+all assumptions as distributions on unknown quantities. These assumptions can then be easily :
+contested, and the same data can be reanalysed under different modelling assumptions (and =
+priors). The fact that conclusions could change depending on the assumptions is essential to is
+good scientific practice. Fortunately, given enough data, the effect of the prior is generally Ss
+overcome by the likelihood, and posterior conclusions will converge [4-6]. This is directly :8
+analogous to the progress of science, where of many possible hypotheses, only the ones consistent i=
+with the data will survive. Bayesian modelling is subjective but not arbitrary: given a full al
+specification of the model, and the data, there is only one way to reason about any quantity :g
+of interest. :&
+
+Modelling thus becomes a very simple procedure: :
+
+— write down your assumptions (possible models, parameters, noise processes, etc.),
+representing all forms of uncertainty using the language of probability theory and

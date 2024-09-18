@@ -1,0 +1,25 @@
+
+— extensive validation and analysis using multi-layer PWM-coded NNs show good
+scalability of the proposed approach; however, deeper NNs may need circuit-level
+compensation after each layer or high-precision representation techniques to improve
+the overall accuracy and efficiency.
+
+5. Conclusion
+
+We propose the first mixed-signal (analogue/digital/relative temporal) perceptron design using
+the principles of PWM. Central to our design are a number of parallel inverters that suitably
+transcode the input-weight pairs from the spatial domain to the relative temporal domain.
+This approach aims to deliver high resilience to amplitude and frequency variations in the
+supply voltage, exploiting the fact that PWM-based solutions are typically agnostic to such
+variations.
+
+Another advantage of the proposed design is its simplicity. While conventional
+implementations of the perceptron require complex logic to perform multiplication and addition,
+the proposed approach uses only one gate (either an inverter or a two-input NAND) per
+bit for every input. Thus, for the 3 x 3 weighted addition VAC we used only 54 transistors.
+This significantly reduces the logic requirement and, therefore, the power consumption of the
+entire device.
+
+Extensive experimentation on the perceptron and its use in neural networks of relatively
+significant sizes helps to explore the perceptron design’s advantages, usability and limitations.
+Also through experimental studies, design improvements are found which further strengthen the

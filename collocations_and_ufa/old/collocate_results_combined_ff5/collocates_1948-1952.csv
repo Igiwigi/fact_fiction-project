@@ -1,0 +1,11 @@
+No.,Word,Total no. in window corpus,Expected collocate frequency,Observed collocate frequency,In no. of texts,Mutual Information value
+1,borne,61,0.05,9,19,7.53
+2,supported,67,0.05,7,25,7.03
+3,spite,75,0.06,7,23,6.87
+4,owing,152,0.12,6,32,5.63
+5,account,361,0.29,7,43,4.60
+6,due,476,0.38,9,46,4.57
+7,view,731,0.58,13,46,4.48
+8,larva,1292,1.03,7,8,2.76
+9,cell,2565,2.05,6,24,1.55
+10,specie,2947,2.35,5,0,1.09

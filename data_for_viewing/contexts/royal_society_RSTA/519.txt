@@ -1,0 +1,25 @@
+nonlinear inverse problems under a range of non-convex constraints. We have applied the method
+to the inversion of the nonlinear X-ray transmission model to solve X-ray computed tomography
+reconstruction. This not only allowed us to address the beam-hardening problem but also allowed
+us to reconstruct images from few projections. Extensive simulation results on synthetic data have
+shown that advanced non-convex constraints, such as a combination of wavelet sparsity and non-
+negative matrix factorization, can have significant benefits over standard positivity constraints
+alone. While these non-convex constraints do not guarantee globally optimal solutions, we could
+show that when we initialized our method with a good linear reconstruction, then the non-
+convexly constraint nonlinear reconstructions were often better. However, the improvement also :
+comes at the cost of increased computational complexity. For real data, inverting the nonlinear =
+model often took hundreds of iterations to achieve the best performance. =
+
+The fact that TV regularization outperforms even our best nonlinear model-based estimate {8
+shows the power to the TV constraint for objects with uniform material density as we simulated :
+here. It is likely that the inclusion of such a TV regularization term in our nonlinear model aa)
+will offer similar benefits, especially when combined with the non-negative matrix factorization Dw
+constraint. Using joint constraints has also demonstrated clear benefits. While we enforced these :
+here with consecutive projections, recent studies (not reported here) have shown that an approach :3
+that averages the projections onto the individual constraints tends to perform better than the :8
+approach used here, though a detailed study of how this works in the tomographic setting is still :
+to be undertaken.
+
+The main drawback of our approach currently is the slow convergence due to the complex
+nature of the non-convex cost function. This was here addressed with a sensible initialization
+approach, though additional benefits are likely if better optimization strategies are adopted.

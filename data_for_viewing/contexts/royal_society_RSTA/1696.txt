@@ -1,0 +1,25 @@
+Definition 2.5. For a semiflow g=(y;)1+0 on X, we define the corresponding Koopman
+semigroup Ty = (Ty(#))1>0 on Cp(X) by Ty(t)f =f © yt for f ¢ Cp(X) and t > 0.
+
+It is evident that each T,(f) is a linear operator on C,(X), Ty(s + t) = Ty(s)T y(t) holds for all
+s,t>0, and Ty(0) = Ide, x). Thus, Jy is in fact a semigroup of linear operators. We now study its
+continuity properties and therefore have to consider a suitable topology on Cp(X).
+
+Clearly, C,(X) is a Banach space with respect to the supremum norm || - ||oo. However, besides
+the norm topology Tt}... there is a second natural topology on this space, namely the compact-
+open topology t, defined by the seminorms px(f) := sup,cx |f(x)| for f € Cp(X) and every compact
+subset K C X. Both topologies have their disadvantages: On one hand, the norm topology is too
+strong to reflect the properties of X. On the other hand, equipping C,(X) with the compact-open
+topology generally does not yield a complete topological vector space. In fact, C},(X) is dense in
+the space C(X) of all continuous complex-valued functions on X with respect to the compact-open
+
+1Some authors use the term semi-dynamical system for obvious reasons.
+
+
+topology. In order to circumvent these problems we ‘mix’ the two topologies. We refer to [24,25]
+for an introduction to locally convex topologies.
+
+Definition 2.6. The mixed topology tm on Cp(X) is the strongest locally convex topology on
+C,(X) agreeing on norm-bounded sets with the compact-open topology Te.
+
+Such a locally convex topology indeed exists, see [26,27], where this construction first appeared

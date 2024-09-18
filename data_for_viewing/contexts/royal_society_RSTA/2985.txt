@@ -1,0 +1,25 @@
+
+1 . .
+_ iQX _ —iQX
+IX) = 5 (Ite — | ne)
+
+= |0,0) cos(QX) + if1,0) sin(QX), (3.1)
+
+where we used the Euler formula to get the second line, and |1, 0) =(1/./2)(|t)) + |) t)) is the
+mgs =0 component of the spin-triplet state. Equation (3.1) shows that the |1, 0) component appears
+automatically in any S/F system due to the different phase shifts acquired by the up- and down-
+spin electrons as they propagate in F. Note that the m; =0 component of the spin-triplet state has
+all the same properties as the spin-singlet state, in that it oscillates and decays over a very short
+length scale in F. (The fact that the ms =0 triplet component is generated in any S/F proximity
+system was missed in some early theory papers. It has become commonplace to refer to short-
+ranged proximity effects as simply ‘spin-singlet’ when in fact one should say ‘spin-singlet plus
+ms =0 component of spin-triplet’, but the latter is too burdensome to write every time.) To get the
+long-range spin-triplet components, |1, 1) =|t‘¢) or |1, —1) =|), we simply need to add a second
+ferromagnetic layer whose magnetization axis is non-collinear with that of the first ferromagnetic
+layer. So imagine now the system S/F’/N/F, where F’ is magnetized along the z-axis, and F is
+magnetized along an axis in the x-z plane at an angle 6 with respect to the z-axis. Let the thickness
+of F’ be dy. Ignoring any phase shifts in N, we can write the state |x) at the N/F interface from
+equation (3.1) in the rotated basis of F:
+
+Ix) =cos(Qdp’)|0, 0) + isin(Qdp) [ (sin(o)/V2) |1,1)o +.cos(6)|1, 0)g — (sin(@)/v2) i1, -1)0| .
+(3.2)

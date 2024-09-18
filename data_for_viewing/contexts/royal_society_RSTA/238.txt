@@ -1,0 +1,25 @@
+important for understanding traffic dynamics.
+
+Before concluding this section, we collect the characteristic times appearing in
+traffic. We would like to emphasize that, even though these are close to each other
+in magnitude, their physical meaning and their effects on the dynamics may be
+
+completely different.
+
+— Reaction time. T,0,K*% 0.5-1.5s is a dead time required to process
+information about stimuli and to initiate actions. It may be different for
+different kinds of stimuli; see model (3.10).
+
+— Relaxation time. T* 1-10s appears owing to the fact that vehicles are
+capable of only finite acceleration; see model (3.12).
+
+— Desired time gap (also called time headway). Tsay 1-2s is the time
+distance drivers would like to keep when following a leader; see
+model (3.13).
+
+We remark that these times should also be distinguished from the numerical
+update time that is simply an artefact of time discretization. However, depending
+on the discretization scheme, its effects may be similar to those of the multiples of
+the reaction time (Kesting & Treiber 2008). In the following sections, all results
+are presented on the dynamic car-following model (3.7), (3.10), but most methods
+are also applicable to (3.7), (3.8) and (3.1), (3.4).

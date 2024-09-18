@@ -1,0 +1,24 @@
+256 H. W. TURNBULL ON THE GEOMETRY OF MATRICES
+
+RATIONAL NORMAL LOCI
+
+15. The nest of spaces formed by polar chains originating in a region D,, common
+to D and the scroll may be regarded as an osculating system of a certain rational normal
+locus. contained by the scroll. For example, the point, line, plane, ..., [/] of such a
+nest originating in a single point of contact d, of index e = +1 prove to be the point of
+contact, tangent line, osculating plane, ..., osculating [|p] of a rational normal curve
+of order e. This curve which lies on # is contained by that space [e] which is defined
+by the [/] and the external point a, of A.
+
+In fact, the points [x’, y’] given by the e+ 1 successive rows of
+
+(1)
+
+form such an osculating system for the curve
+Filoc{a+0, avo, ..., av+avPtl, 0, ..., 0; 1, v, ..., v4, 0, ..., O}.
+
+This is a rational normal curve of order e with parameter v and fixed a. The values of P,
+aL /dv, 30°1'/dv", etc., at v = 0 give the points represented by the successive rows of (1).
+But the first row denotes the point d,: hence the first two give the tangent line, the first
+three the osculating plane, at d;; and so on until the final row gives the point a,, so
+that all e+ 1 rows give the space [e] containing 7.

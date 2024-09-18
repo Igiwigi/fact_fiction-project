@@ -1,0 +1,25 @@
+the past few years [21-24]; of these, the Contextuality-by-Default approach [24] also emphasizes
+applications of contextuality beyond quantum theory. However, this approach is focused on
+probabilistic models. By encompassing a wider range of models, notably possibilistic ones, the
+sheaf-theoretic approach allows a much larger class of examples to be recognized as exhibiting
+contextuality.
+
+(b) Outline
+
+We begin, in §2, by introducing valuation algebras, inference problems and a few key examples.
+In §3, we introduce a general definition of disagreement and discuss many instances of local
+agreement and global disagreement. Section 4 reviews the sheaf-theoretic definition of non-
+locality and contextuality, and presents the connection with disagreement. In §5, we show that,
+in many relevant valuation algebras, detecting disagreement is in fact an inference problem,
+and introduce the concept of complete disagreement. Section 6 deals with the connection
+between disagreement and logical forms of contextuality. Finally, we discuss future research paths
+in §7.
+
+2. Valuation algebras and generic inference
+
+(a) Basic definitions
+
+We begin by reviewing the language of valuation algebras. In the simplest terms, a valuation
+algebra is a set of pieces of information, or valuations, concerning some variables. Each valuation
+carries information about a subset of the variables, called its domain. Valuations can be combined
+together to obtain joint information, or projected to focus the available information on specific

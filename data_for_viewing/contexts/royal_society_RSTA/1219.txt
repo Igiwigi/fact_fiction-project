@@ -1,0 +1,25 @@
+
+Iterating this argument, we conclude that if f € ce ), for every t > 0 the function T(f)f belongs
+to cRe(RN ) and for every multi-index a there exists c = c(a) > 0 such that
+
+c
+D*T(Hflloo S jaya flee O<ts1 (3.6)
+
+while the sup norm of all the derivatives of T(t)f decay exponentially as t— oo if all the
+eigenvalues of B have negative real part.
+
+The semigroup T(t) is neither compact, see [7, Example 5.4], nor analytic if B40, see [6,
+Lemma 3.3], in C,(RN). Theorem 4.2 of [7] and the counterexample in [6] show that it is neither
+compact nor analytic even in Co(RY). In fact, the counterexample in [6] shows that, in general,
+T(t) does not map Co (RY) into the domain of the infinitesimal generator Ag of T(t) in Co (RN), and
+therefore T(t) is not differentiable in Co(R'Y). Moreover, if B 4 0 then ||T(f) — T(s)|| = 2 fors At and
+the semigroup is not norm-continuous, see [8].
+
+
+Still, the representation formula for T(t) easily yields that for every f € Cy (RN, C) the function
+(t,x) +> T(E)f(x) is continuous in [0, +00) x RN, and therefore for all 4 with positive real part the
+operators R,, defined by
+
++00
+Rf (x) =| eT (Hf (x) dt, feC(RN;C), xe RN,
+0

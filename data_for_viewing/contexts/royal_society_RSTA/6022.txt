@@ -1,0 +1,25 @@
+
+
+(c) ML for excited states
+
+In many MQC dynamics applications, the QC properties of the molecular systems are usually
+calculated for each time step during the simulation. Such a repeatedly large number of calls to a
+QC program is the main bottleneck to run long timescale in nonadiabatic dynamics simulations.
+In this scenario, ML has emerged as a promising approach to speed up the prediction of molecular
+properties required for excited state molecular dynamics while still retaining the same level of
+accuracy as the underlying QC method used as a reference to train the ML predictor [14,15].
+
+The main advantage of using ML models as a surrogate for the QC method comes from the
+fact that, once the ML model has been fitted to the reference data to reproduce QC properties
+within the desired accuracy, the solution of the Schrédinger equation is wholly skipped, thereby
+resulting in extremely fast predictions for new molecular configurations produced during the
+dynamics. This type of multi-dimensional regression problem is known as supervised learning in
+the ML field, where kernel methods and neural networks have become the preferred algorithms
+
+for fitting (highly nonlinear) chemical data [52]. : 2
+
+However, performing fully ML-driven excited state dynamics is rather challenging [14,15]. >
+One crucial issue is related to the intrinsic multi-dimensional nature of the target properties : 8
+required for an MQC simulation. The ML model should accurately predict the potential energy D>
+of the diverse molecular configurations accessible in each electronic state (which are scalar : <
+properties) and interatomic forces and nonadiabatic coupling vectors (vectorial quantities). 3

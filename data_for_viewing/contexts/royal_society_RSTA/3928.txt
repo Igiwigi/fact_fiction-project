@@ -1,0 +1,25 @@
+The point is that the larger the data are the more we need to mistrust miraculous events: if the data
+are large enough than many low probability events will happen. Analytics professionals should
+guard against such occurrences and must avoid being beguiled by unexpected relationships and
+structures. It should be part of a professional code for data scientists to guard against this, yet too
+
+often the rare or extreme event is presented without a true calculation of whether events such as : =
+these occur in data like this. : =
+Quite common and un-professional is the allowance of an assumption of causality within 3
+observed relationships where there is no known causal link. Recently, in [56] the authors stated : =
+‘Screen time [at 14 years] was associated with lower academic performance [at 16 years], 8
+suggesting that strategies to limit screen behaviours among adolescents may benefit academic : Pe
+performance.’ This cautious ‘may’ was somehow lost in the subsequent media reporting which : =
+went straight down the causal route, with no proved causal link [57]. In fact, it is easy to construct : =
+the opposite casual link to explain the correlation: the subjects who were always relatively poor :3
+as)
+
+academically were destined to get poor results at 16 years. At the age of 14, they displayed an
+early warning to their parents by spending little time doing homework they felt would be beyond
+them and settling down to some relaxing screen time instead. The point here is that those in
+analytics should seek to avoid such causal interpretations being placed on their results without
+the necessary caveats. In [57], there appear no such caveats.
+
+This leads us to suggest that there should be a general ethical responsibility places on data
+scientists to step forward and correct known abuses of their outputs that could lead to the
+profession falling into disrepute. The situation is entirely analogous to the intervention made

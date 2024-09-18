@@ -1,0 +1,25 @@
+du+u-Vu+—Vp=vAu+-—f inD, (1.2)
+p p
+
+where p(x, f) and v > 0 are the pressure and kinematic viscosity and p > 0 is the density. Dotting
+(1.2) by u, integrating by parts, and remembering that V - u=0 yields the fundamental ‘balance
+law’
+
+v{)waP) =~ (ew).
+
+Thus, a constraint on the mean power (f-u) can be regarded as a constraint on the mean
+enstrophy (|Vu|?). Having found an optimal u, we can then simply read off from (1.2) the
+corresponding optimal f. This is not to say that every optimal velocity is dynamically stable—
+in fact, in related problems involving extremal orbits the opposite situation holds [41,42].
+Nevertheless, to get started, we set aside the momentum equation henceforth and focus solely
+on optimizing advection—diffusion.
+
+Switching to non-dimensional variables, let x =R=1. The value of the mean enstrophy
+(|Vul*), or the mean energy (|u|?) when we discuss it, will be called the Peclét number Pe as either
+quantity sets the relative strength of advection to diffusion. (In dimensional variables, Pe = UR/«
+with U being the imposed velocity scale.) In the advective limit Pe + oo, one expects to be able to
+drive (|VT|*) > 0 along a well-chosen sequence of velocities. The question is: at what optimal rate
+
+
+can this convergence occur? Our main result is a set of upper and lower bounds on min(|VT|?) 4 |
+subject to the enstrophy constraint (/Vu|*) = Pe? that identify the optimal cooling rate up to a

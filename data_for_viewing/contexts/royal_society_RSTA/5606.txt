@@ -1,0 +1,24 @@
+
+0°
+
+k
+= dy ety | doy ...doxP(o1,...,0%) exp yy. Oj
+
+“°° i=l
+oo
+=| dye Y**Gyy). (8.2)
+
+00
+The asymptotes of P(X) are determined by the singularities of the generating function G(y). For
+X; — —oo, the leading singularity in the upper half plane is y=2:. This follows from the fact
+that for any i there is a finite probability of zero amplitude, so that the moments (|q;|1 diverge for
+q < —2. At the left tail, it gives limy,_, 55 P(X;) « exp(—2X,), which is indeed observed in figure 6.
+It is not clear at the moment how to find the singularities in the lower half-plane that determine
+the positive moments and the anomalous exponents.
+
+Of course, if multipliers were statistically independent, then (8.2) would break into a product
+and one would be able to find the statistics of amplitudes using the standard tools of large
+deviation theory. Such theories of multiplicative cascades go back to Kolmogorov’s work on
+ore pulverization, where at every step of the cascade a stone is broken into random pieces
+independent of the previous steps; assuming a finite variance of multipliers one obtains
+

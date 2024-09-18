@@ -1,0 +1,25 @@
+
+As of writing, there is no formal proof, to my knowledge, that bears directly on this argument.
+[85] propose a proof that no isomorphism can exist between an ungrounded LM and a formal
+semantic representation of meaning. However, the conclusions of the proof (that the spaces cannot
+be isomorphic) depends on an assumption about meaning as reference which is not compatible
+with contemporary models of meaning in humans. Thus, relevant insight on this question comes
+primarily from empirical studies.
+
+For example, in [86], we investigated the ability of LLMs to map terms for colours (red, navy)
+and spatial directions (right, northwest) to a grounded representation on the basis of a small
+
+
+number of examples. We can make an analogy here to being lost in the woods, and the fact that
+a person, being shown which direction is north and east, can immediately infer south and west.
+Similarly, for an LLM with a correct (but not yet grounded) representation of these concepts, a
+small number of well-chosen examples should be sufficient to infer the grounded meaning of the
+entire space. We found that the largest LLMs are able to perform such grounding significantly
+above chance (albeit far from perfectly). Moreover, the LLMs are able to generalize the mapping
+to unseen subspaces. For example, being shown examples of only the primary and secondary
+colours, plus 54 shades of pinks and reds (crimson, brick, salmon etc.), the LLM is able to infer the
+correct word for distant colours such as navy.
+
+Such findings are largely consistent with earlier work by Abdou et al. [87], which looked
+specifically at the mappability of LLM representations for colour words to the perceptual
+similarity of those colours (using CIELAB encodings). [87]’s conclusions were generally positive,

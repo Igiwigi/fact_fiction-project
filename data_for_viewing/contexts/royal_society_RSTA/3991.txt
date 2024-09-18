@@ -1,0 +1,25 @@
+
+
+chemical potential (j2(4), i.e. obtained without TD) was measured by Widom insertion across 4
+layers. Then, the TD force was set to —dji®*/dx, which in our terminology implies dF = —dai™.
+Decomposing {i into ideal and excess parts, ji = kgT In[n.A°] + jx (with A the de Broglie thermal
+wavelength) and using equation (2.13),
+
+ksT
+O=du=dfii+dF ; dn + dji® + dF. (3.7)
+
+Thus by imposing d¥ = —dji™, one gets di = 0 across the system, as desired. A similar argument
+involving the excess chemical potential to achieve the constant density route was derived in
+reference [20]. In fact, the self-consistent iterative evaluation of F(A) to achieve constant density
+presented in [20] looks at the relation dF = —dji® the other way around, ie. as a fast and efficient
+way to evaluate the excess chemical potential ji of complex molecules (e.g. polymers), on which
+the Widom insertion method fails.
+
+(c) Kirkwood free energy integration: canonical A subsystems
+
+In terms of our description, the Kirkwood thermodynamic integration (TI) corresponds to a series
+of A subsystems which are thermally connected but which are not allowed to exchange mass. Thus,
+each 4 box has the same N, T and V and density 1 = N/V. Equivalently, it can be seen as a unique
+system with fixed mass and volume (and temperature) whose transformation parameter is varied
+from 4 =0 to 4=1. The thermodynamic potential for this ensemble is the Helmholtz potential,
+F=U-—TS +A@, whose molar form is

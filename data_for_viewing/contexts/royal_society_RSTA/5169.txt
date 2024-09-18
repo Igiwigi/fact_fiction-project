@@ -1,0 +1,25 @@
+the purpose of minimizing visual impact and harnessing the large resources available; it has been
+estimated, for instance, that only the wind resource potential at 5-50 nautical miles off the US
+coast could provide the total electrical generating capacity currently installed in the USA (more
+than 900 GW) [14].
+
+In past years, a number of international standards and guidelines have been released for design
+and assessment of offshore wind turbines [15-17]. In the meanwhile, numerical modelling has
+progressed towards more sophisticated descriptions of structural components, mechanical and
+electrical subsystems of modern offshore wind turbines, along with an appropriate treatment
+of the incident wind and wave fields. Existing numerical models rely on modal representation,
+multi-body, finite-element (FE) concepts, sometimes combined in mixed approaches, and involve
+system motion equations to be solved by fully coupled nonlinear time-domain integration, to
+account for inherent interactions between aerodynamic and hydrodynamic responses. In fact,
+while aerodynamic loads on the rotor are to be derived from aeroelastic models, considering
+
+
+the complex interaction between air flow and rotor blades, the influence of control systems
+and support structure dynamics, the latter affects the calculation of the hydrodynamic loads.
+Hence, although in some cases and especially in the early stages of design, simplified analyses
+are implemented with responses to wind and wave loads computed separately and next
+superposed [18,19], only fully integrated time-domain simulations are currently recommended as
+the basis of final, detailed wind turbine design calculations, owing to the role played by system
+nonlinearities inherent to rotor aerodynamics, hydrodynamics and control systems [20-22].
+
+For either existing solutions in shallow-transitional waters or future projects in deeper waters,

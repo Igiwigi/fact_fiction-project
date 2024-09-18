@@ -1,0 +1,24 @@
+Wojtkowski [28], by means of the so-called mirror formula. This approach was later exploited
+by Bialy [29] for billiards on the sphere and the hyperbolic plane, as well as for magnetic billiards.
+
+Observe that Bialy and Wojtkowski’s result is not in contrast with what we have discussed
+in the case of elliptic billiards. In fact, in that case the family of convex caustics represented by
+confocal ellipses do not foliate the whole domain (the segment between the two foci is left out),
+and neither set of homotopically non-trivial invariant curves has full @-measure in the phase
+space: the homotopically trivial invariant curves corresponding to orbits tangent to confocal
+hyperbolae, foliate a positive @-measure set (in the phase portrait (figure 4) this set corresponds to
+the area below the separatrix, i.e. the stable/unstable manifold of the hyperbolic 2-periodic orbit
+corresponding to the major semi-axis of the ellipse).
+
+What about other notions of integrability? In the study of integrable systems, in fact, in most :23
+of the cases integrals of motion are non-degenerate not everywhere, but either on an open-dense : =
+subset of the phase space (we shall refer to this as global integrability) or just a proper (non-trivial) :§
+open subset (we shall refer to this as local integrability). : =
+
+Remark 4.3. An interesting result* by Innami [30] shows that the existence of caustics with : a
+rotation numbers accumulating to 3 implies that the billiard must be an ellipse. This regime of [4
+integrability is somehow opposite to the one we are interested in, which is concerned with caustics : >
+near the boundary of the billiard table, ie. with small rotation numbers. Innami’s proof is based : =
+on Aubry—Mather theory; a simpler and more geometric proof of Innami’s result has been recently :3
+
+given in [31].

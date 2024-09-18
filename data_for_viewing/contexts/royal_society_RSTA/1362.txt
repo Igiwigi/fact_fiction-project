@@ -1,0 +1,25 @@
+in two-dimensional geometry. The tip radius for ice dendrites grown in pure water with the
+sixfold symmetry represents a monotonously decreasing function of undercooling (figure 4a).
+On the other hand, large undercooling leads to an increase in the growth rate of crystal vertices
+(figure 4b). The undercooling balance (3.11) and selection criterion (4.18) well agree with the
+phase-field simulations.
+
+Another comparison is made in figure 5 for the same dendrites evolving in three-dimensional
+geometry. Here, we have two tip radii: pg in the basal plane and p2 < p¢ in the perpendicular
+plane. To calculate these radii, we apply the selection criterion (4.18) twice, in each of these planes
+(using the constant aspect ratio for ice crystals in the form of elliptical paraboloids [47]). As is
+easily seen, the tip radii and growth rate have the same behaviour: pg and p2 decrease and V
+increases with increasing AT. The slight discrepancy between theory and modelling for a larger
+radius is explained by the fact that instead of the Ivantsov solutions for axisymmetric crystals, in
+this case, it is necessary to use the Horvey—Cahn solutions for non-axisymmetric ice crystals in
+the form of elliptical paraboloids [35,38].
+
+Figure 6 compares the present theory and computations carried out for nickel crystals with the
+fourfold symmetry using the enthalpy-based method. Here, we compare the tip diameter p4 and
+tip velocity V as functions of the melt undercooling AT for various forced flow velocities U, fixed
+far from the growing dendrite. It is easy to see that an increase in the rate of fluid flow U leads
+to an increase in the growth rate V of dendrites and thinning of the dendritic tips (4 becomes
+smaller). This results in a finer-grained structure of the solid phase of the material and a shorter
+crystallization time for the sample.
+
+Figure 7 compares the theory of stable dendritic growth with experimental data for different

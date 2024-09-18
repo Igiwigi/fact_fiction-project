@@ -1,0 +1,24 @@
+never applies weight restrictions to input clauses. Let us squeeze down to 33.
+
+2
+
+% Length of proof is 195.
+
+% Level of proof is 29.
+
+Here we are getting very close to the simplest proof we found above, but now a question
+is raised. The earlier simple proof is only three steps shorter than this one, but this one has
+
+
+a significantly smaller maximum clause weight (in fact, the non-input clauses have weight no
+greater than 33). Perhaps this proof should be considered to be simpler than the earlier one?
+Let us bypass this question by squeezing the maximum clause weight to 30.
+
+2
+
+% Length of proof is 183.
+
+% Level of proof is 30.
+
+Note that the level went up slightly, but the length is down quite a bit, so it is reasonable to say
+that this proof is simpler than any that came before.

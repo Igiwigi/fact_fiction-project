@@ -1,0 +1,24 @@
+high purity, defect-free, flat and rigid substrate surfaces. Fabricating miniaturized electronics on
+flexible substrates is understandably challenging, as the electronic response changes are bound
+to change with mechanical stresses induced by flexibility. It is nevertheless possible to apply
+advanced fabrication techniques such as photolithography to flexible devices. For example,
+Liu et al. produced a device made of a spin-coated polyimide and SU-8 substrate with 25 ym
+Cr-Au wiring using photolithography [23]. Elon Musk’s neuroscience start-up Neuralink use
+photolithography to produce gold on polyamide ‘threads’ which have diameters between 5 and
+50 um with submicron resolution [6]. Despite the advanced nature of research into polymers
+and nanofabrication, the niche of nanofabricating on flexible substrates is, in our opinion,
+underdeveloped. In this work, the focus will be solely on photolithography rather than other
+pattern transfer methods such as electron-beam lithography and nanoimprint lithography for
+three reasons: (1) the simplicity of the technique, (2) its wide adoption and (3) the remarkable
+fact that the Rayleigh criterion (equation (1.1)) has been overcome to produce single nanometre
+features, leading to Moore’s law continuing to apply for half a century [24]. The criterion is the
+general limit for the minimum resolvable detail in imaging or the minimum distance D at which
+two light spots of wavelength 4 can be resolved
+
+_ 1222 _ 061A
+
+= 122, _ 0.61) (1.1)
+2nsin0d 2NA
+
+
+conventional mask phase-shift mask

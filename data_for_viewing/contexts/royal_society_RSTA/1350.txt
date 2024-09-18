@@ -1,0 +1,25 @@
+with the identity being (I|0). Using these definitions, let G be the isometry group of S.
+
+We claim that S is the orbit of Molecule 1, M1 = {x1,,¢:¢=1,...M}, under G. To see this,
+rearrange the definition of an objective molecular structure to read Qi jXpq + xij - Qi =Xi1(p,q)- :
+Here, to simplify the notation, we have suppressed the parametric dependence of the permutation Dy
+TI on i,j. Thus, gi := (Qij| xij — Qi;x1;) belongs to the isometry group G for each i=1,...N, : S
+
+j=1,...,M. But, gi) operating on the j® atom of Molecule 1 is, trivially, &(i,j)(X1,j) = xij. So, the 1B
+orbit of M, under G is contained in S. But S contains the orbit of M1 under G by the definition
+(1.4) of an isometry group.
+
+This simple proposition obscures two facts. First, it allows for molecules to be overlapping.
+Once recognized, this is in fact a good feature in terms of applications. An example is the ethane
+molecule, C2H¢, which, in terms of the present discussion, can be considered as the orbit of
+C-H under its isometry group. But, clearly, various elements of this group map the C of C-H
+to itself. It would not be useful to exclude these elements. The second issue is discreteness. To be
+realistic, the atomic structure should be discrete. Also, discreteness is a powerful hypothesis used
+extensively in the known derivation of the discrete groups of isometries presented, for example,
+in the International Tables of Crystallography.
+
+So, the question arises: could one have a non-discrete group of isometries G and a molecule
+My such that the orbit of M1 under G is a discrete structure (and therefore realistic)? To show that
+this possibility is uninteresting, it is sufficient to consider an objective atomic structure.
+
+Proposition 1.1. Suppose S is a discrete structure which is the orbit of a non-discrete isometry group G

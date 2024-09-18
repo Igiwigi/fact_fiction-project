@@ -1,0 +1,25 @@
+which is a quadratic program (QP) with linear constraints. There is plenty of literature available [s
+to solve quadratic optimizations, [30]. In general, the matrix A = (4;;)(i;)<cxe is indefinite. Thus, .
+we are facing the most complicated QP which might be potentially NP-hard, see [31].
+
+However, our empirical applications show that standard algorithms provide a solution in
+
+reasonable time. The reason is likely the very special structure of A which is a Euclidian distance
+matrix (EDM) and is mainly studied in the context of Euclidean distance matrix completion
+problems (EDMCP). Such a matrix has full rank if y; 4 y; for all i, j € c with i # j, [32]. Additionally,
+[33] provides a proof that —A has exactly one negative eigenvalue. As our feasible region of the
+QP is compact, we can apply quadratic programming theory (see [31]). It follows that there exists
+a polynomial time algorithm for (3.11) that provides e-exact solutions. As —A has exactly one
+negative eigenvalue, this polynomial time is in fact quadratic. However, to our knowledge, there
+is no algorithm for QPs with EDMs available so far where this property has been proven. Still, it
+is fair to assume that any reasonable algorithm available for solving (3.11) will benefit from the
+aforementioned structure of the problem.
+
+4. Applications
+
+In this section, we show different applications for ensemble and scenario reduction using
+the energy distance and the Wasserstein distance for comparison purposes. First, we study
+ensemble and scenario reduction for a Bernoulli random walk which corresponds to a binary
+tree. Afterwards, we consider scenario reduction for electricity load/demand/consumption and
+electricity prices,” which are highly relevant in many energy systems applications. However, both
+considered real data studies are mainly for illustration purposes. We do not apply the reduced

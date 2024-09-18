@@ -1,0 +1,25 @@
+Dams demand in node n in scenario tree node m in time period (hour) t MW
+fi capacity of line / MW
+fp maximum capability to shift power of the FACTS device in line / MW
+im discount factor of scenario tree node m pu
+RM downward ramp rate limit of generator g as a percentage of its capacity per hour %h-
+Re upward ramp rate limit of generator g as a percentage of its capacity per hour %h"
+x reactance of line/ Q
+Nb round-trip efficiency of battery storage plant b pu
+r risk-aversion factor pu
+xf unitary investment cost of battery storage plant b (annuitized) SMW yr
+ny unitary investment cost of generator g (annuitized) SMW yr
+mt investment cost of line / (annuitized) Sy
+n° investment cost of the FACTS device in line / (annuitized) Sy
+m8 variable cost of generator g $MWh7"
+
+(Continued.)
+
+
+Table 1. (Continued.) | |
+
+symbol meaning unit
+Pm probability of scenario tree node m pu
+TP energy capacity of battery storage plant b measured in hours at full power capacity h
+t! scaling factor to transform annuitized investment cost into investment cost in an epoch pu
+ia scaling factor to transform operational cost in representative days into operational cost in pu

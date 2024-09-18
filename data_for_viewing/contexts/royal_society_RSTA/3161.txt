@@ -1,0 +1,25 @@
+All eigenvalues 4 of such a pinned n-pulse solution are real-valued and the n-pulse solution is stable if
+all } > —p for which the matrix M(A) :=
+
+aGi (in) —2V BFR — G5 (itp) eV) Gey GI (fin) CVPR)
+G4 (iy) eV FRO) eyGh (fig) = 2VEFR ++ inGifin VIFF)
+. . . . (1.6)
+a4 Gi (ii) eV EFA) a2Gi, (fig) e VFA —¥2) se QyG),(iin) — 2 FR
+
+is non-invertible, necessarily have (4) < 0—see also remark 1.5.
+
+See figure 1 for an example of a numerically obtained stable pinned 1-pulse solution supported
+by the scalar version of (1.3). The fact that all eigenvalues of a pinned n-pulse solution of the
+scalar version of (1.3) are real-valued stems from the fact that the associated stability problem is
+a Sturm-Liouville problem ([27], e.g.). A direct consequence is that, unlike their counterparts in
+two-component slow-fast RDEs ([24], e.g.), pinned n-pulse solutions of the scalar version of (1.3)
+cannot undergo Hopf bifurcations. A straightforward computation also shows that the matrix
+M(0) (1.6) is non-invertible if and only if {ayy is a degenerate solution of (1.5). So, upon changing
+a system parameter, a stable pinned n-pulse solution and unstable pinned n-pulse solution
+generically merge and disappear in a saddle-node bifurcation when 4 =0 is an eigenvalue (of
+both pinned 1-pulse solutions), see, for example, §2a(i) and figure 1. Or, alternatively, a stable
+pinned 1-pulse solution and unstable pinned n-pulse solution merge and exchange stability via
+a transcritical bifurcation when 4 =0 is an eigenvalue. In §2, we first introduce the geometrical
+singular perturbation framework to study the existence and stability of pulse solutions supported
+by (1.3) for N=1 and n=1. As it turns out, the linearity of (1.3) away from the localized
+impurities significantly simplifies the stability analysis and the stability condition follows, in

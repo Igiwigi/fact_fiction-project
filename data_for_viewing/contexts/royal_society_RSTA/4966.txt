@@ -1,0 +1,25 @@
+(b) What causes the anisotropic cascade in turbulent plasmas?
+
+The anisotropic nature of the nonlinear energy transfer in Alfvénic plasma turbulence has long
+been recognized in laboratory plasmas [62-64] and in the solar wind [22], as well as in the
+results of numerical simulations [65,66]. It is observed that energy is preferentially transferred
+to small scales perpendicular to the local magnetic field direction, leading to anisotropic, small-
+scale turbulent fluctuations that are elongated along the local magnetic field, characterized by the
+wavevector anisotropy ky <k_.
+
+Why is magnetized plasma turbulence anisotropic? This question can be answered rather
+simply, in the context of incompressible MHD, through physical intuition derived from the
+picture of nonlinear energy transfer presented above. Basically, the anisotropy arises as a direct
+consequence of two facts: (i) only counter-propagating Alfvén waves interact nonlinearly and
+(ii) the nonlinear energy transfer is maximized for interactions between perpendicularly polarized
+Alfvén waves.
+
+Consider the nonlinear interaction between two plane Alfvén waves with arbitrary
+wavevectors kj and kz. We adopt the convention that the wave frequency must be non-negative,
+w= 0, so that the propagation direction of the wave along the mean magnetic field is given by
+the sign of the parallel component of the wavevector. The nonlinear interaction between these
+two modes is non-zero only for counter-propagating Alfvén waves [17,48,49], so the parallel
+components kj; and kj2 must be opposite in sign. A mode kg receiving energy via the nonlinear
+interaction between these two modes must satisfy k3 = k; + kg, so its parallel component must
+have ky3 < ky, and ky3 < ky. The nonlinear term in (2.1) has the form z* - Vz*. The magnitude
+of this nonlinear term is maximized when the perpendicular components of the wavevectors of

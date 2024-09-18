@@ -1,0 +1,25 @@
+where I is the identity matrix. Such a matrix V can be easily found by PCA: normalizing the
+principal components to unit variance is one way of whitening data (but not the only one).
+The utility of this two-step procedure is that after whitening, the ICA model still holds,
+
+Z=VX=VAS=AS or z=As, (2.5)
+
+where the transformed mixing matrix A = VA is now orthogonal [2,5]. Thus, after whitening, we
+can constrain the estimation of the mixing matrix to the space of orthogonal matrices, which
+reduces the number of free parameters in the model. Numerical optimization in the space of
+orthogonal matrices tends to be faster and more stable than in the general space of matrices,
+which is probably the main reason for making this transformation.
+
+It is important to point out that whitening is not uniquely defined. In fact, if z is white, then
+any orthogonal transform Uz, with U being an orthogonal matrix, is white as well. This highlights
+the importance of non-Gaussianity: mere information of uncorrelatedness does not lead to a
+unique decomposition. Because, for Gaussian variables, uncorrelatedness implies independence,
+whitening exhausts all the dependence information in the data, and we can estimate the mixing
+matrix only up to an arbitrary orthogonal matrix. For non-Gaussian variables, on the other hand,
+whitening does not at all imply independence, and there is much more information in the data
+than what is used in whitening.
+
+For whitened data, considering an orthogonal mixing matrix, we estimate A by maximizing
+some objective function that is related to a measure of non-Gaussianity of the components. For a
+tutorial treatment on the theory of objective functions in ICA, we refer the reader to Hyvarinen &
+Oja [2] and Hyvarinen et al. [3]. Basically, the main approaches are maximum-likelihood

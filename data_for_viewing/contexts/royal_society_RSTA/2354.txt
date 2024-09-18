@@ -1,0 +1,25 @@
+
+On = 0.2 On = 0.2 On = 0.2
+
+through the pj(@), ie. the posterior joint-PDF of the elastic parameters. The same lognormal
+distribution considered for the compressive strength in C2 was employed to build the term
+Pj(F|@). Finally, C4, represented by the dash-dotted blue line in figure 17, does not account for
+the natural period experimental measurement. Its fragility curve was evaluated considering the
+prior joint-PDF of the elastic parameters (po(0)) reported in figure 6. The term P;(F|@) accounts for
+the variability of the compressive strength, and the same lognormal PDF employed for case C2
+and C3 was selected for comparative purposes.
+
+Comparing the C4 fragility curve with others, it is possible to observe that the median collapse
+value is not maintained. This is due to the fact that the prior joint-PDF of the elastic parameters
+has a different median value compared with the posterior joint-PDF (figure 7). Moreover, the
+dispersion of the collapse fragility curves increases from C1 to C4. This variability is a result of
+the role played by the different sources of uncertainties on the seismic vulnerability of masonry
+towers, as well as the different approaches employed to define it. Some considerations can
+be drawn from the seismic vulnerability of the four cases considered, from the observation
+of the fragility curves reported in figure 17. In terms of PGA, the probability of failure P7(F)
+corresponding to the 5th percentile, varies from 0.19g to 0.36g for C4 and C1, respectively.
+Intermediate PGA levels are obtained in the C3 (0.26 g) and C2 (0.30 g) cases.
+
+5. Conclusion
+
+A methodology was proposed, which incorporates both modelling and measurement

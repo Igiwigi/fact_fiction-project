@@ -1,0 +1,11 @@
+No.,Word,Total no. in window corpus,Expected collocate frequency,Observed collocate frequency,In no. of texts,Mutual Information value
+1,propriety,12,0.02,5,11,8.34
+2,recorded,51,0.07,12,15,7.52
+3,certainty,34,0.04,5,19,6.84
+4,foregoing,51,0.07,6,17,6.52
+5,additional,88,0.11,7,37,5.95
+6,important,155,0.20,5,51,4.65
+7,remarkable,219,0.28,6,48,4.41
+8,mentioned,183,0.24,5,34,4.41
+9,connected,198,0.25,5,45,4.30
+10,shown,338,0.43,7,66,4.01

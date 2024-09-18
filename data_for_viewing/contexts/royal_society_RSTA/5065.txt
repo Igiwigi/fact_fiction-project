@@ -1,0 +1,25 @@
+Analytical solutions at the atomic level for moving cracks were first found by Slepyan. His
+original calculations applied to out-of-plane (mode III) cracks in an infinite square lattice [17].
+Slepyan and co-workers then generalized the solutions to in-plane (mode I) cracks in an infinite
+square lattice [18]. Many additional solutions due to Slepyan are found in [19].
+
+Additional solutions for cracks in a finite strip formed from a triangular lattice were found by
+Marder & Gross [20]. This paper also considers linear and nonlinear instabilities of the solutions.
+Many additional observations on the experimental implications of the solutions in discrete lattices
+are contained in [21].
+
+In all these analytical solutions, the central quantity obtained from the analytical methods is a
+relationship between the external load applied to make a crack move and the speed v at which
+the crack travels. In fact, the speed v of the crack enters the theory as an input parameter, and
+the calculations give the load as an output. For subsonic cracks, one can equivalently say that one
+obtains Kj(v), the stress intensity factor as a function of crack speed. For supersonic cracks, the
+end result is the external system strain ey, as a function of crack speed [14].
+
+The theory provides more than just this relation. In principle, the theory makes it possible to
+find the behaviour of every atom as a function of time for a crack moving in steady state. This
+information is relatively easy to obtain for cracks moving in anti-plane shear [20]. However, for
+two-dimensional cracks where atoms move freely in the plane, the expressions are so lengthy
+
+
+that to our knowledge no one has completed the process of extracting analytically the motion of 3 |
+every atom.

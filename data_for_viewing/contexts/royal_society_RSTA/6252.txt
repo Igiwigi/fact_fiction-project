@@ -1,0 +1,25 @@
+inner Cluster 1 1.5
+(outer Cluster 3) J 1
+NY % & 5 © A 05
+variable j
+
+Figure 5. Posterior distribution of the number of inner clusters per outer cluster (a), relative frequency of the inner clusters
+corresponding to the Binder estimate of the inner cluster allocation (b), cluster-specific empirical means of the counts (c).
+For outer Cluster 1, the latter is only shown for the four largest inner clusters for visualization purposes. Results are obtained
+conditionally on the Binder estimate of the outer clustering. (Online version in colour.)
+
+(see figure 6). Notably, around a quarter of the individuals in outer Cluster 2, as captured by its
+inner Cluster 2, forward COVID-19 messages to many more people (question j = 3) than subjects
+in inner Cluster 1 of outer Cluster 2. Figure 4 also supports the fact that outer Cluster 2 engages
+with WhatsApp in a much more persistent manner than the other outer clusters. These results
+highlight that a sizeable minority of WhatsApp users has a relatively large propensity to spread
+COVID-19 messages during a critical phase of the pandemic. This is in line with a similar survey
+in Singapore [38] and findings on ‘superspreaders’ on other social media.
+
+
+(a) (b) (c)
+
+Figure 6. Heatmaps of the posterior co-clustering probabilities for the inner clusters per outer cluster. Results are obtained
+conditionally on the Binder estimate of the outer cluster allocation. Observations are reordered based on the co-clustering
+
+probability profiles, through hierarchical clustering. (a) Outer Cluster 1, (b) outer Cluster 2 and (c) outer Cluster 3. (Online version

@@ -1,0 +1,25 @@
+Proof. Let us consider F = (f1,f2,f3,fa,fs) € H. We want to find (u, v,c,g, w) such that
+v=fi, c=fy w=fy
+—kyD*u — KD + a(D?u + rD?v) + bDg — nD8y — tc = tpfs
+and nD>u + tnD?v — bDu — thDv + 6D? 9 — Ey — kyD*y = Jf.
+
+We can obtain v, c and y immediately and so, the above system becomes
+—k,D*u + aD*u + bDy — nD®y = tpfs +k{D*f, - atD7f;, + tf2 : ~
+
+and
+nD>u — bDu + 6D? — Ey — kyD*y = Jfs — tnD®ft — thDf. ty
+
+This system can be solved using the same argument we have done in the proof of lemma 3.1, Dw
+and we obtain u and ¢ with the necessary regularity conditions. In fact, it can be shown that the 2
+inequality (3.13) also holds. a [8
+
+Theorem 4.2. The operator A generates a C°-semigroup of contractions. :s
+
+Again, undamped solutions can be found whenever b + nn =0 for a natural number 1 €N.
+Therefore, we assume in this section that b + nn? 40 for every ne N.
+
+We proceed as in the previous section and prove the existence of solutions of the form (3.14)
+such that 9i(w) > —e for all positive sufficiently small whenever Jk} 4 kypt. In this case, # must
+satisfy the equation
+
+(ky + kfo)n* + an?(1 + tw) + pw?(1 + tw) nn + bn

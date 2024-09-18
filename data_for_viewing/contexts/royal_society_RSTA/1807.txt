@@ -1,0 +1,25 @@
+rotational superradiance, the scatterer must be a rotating object.!
+— The system needs to provide an absorption mechanism.
+
+One interesting system to satisfy these conditions are rotating black holes (BHs). Indeed, the
+ergosphere provides a mechanism to allow for the presence of negative energy and the event
+horizon acts as a perfect absorber. It was indeed shown, soon after Zel’Dovich’s seminal paper,
+that rotating BHs can be the stage of the superradiance effect [7-9]. Since then, a long list of
+systems spanning the various fields of physics have been found to exhibit this effect, and some
+others are still being looked for. Among them are water waves on a cylinder [10], orbital angular
+momentum beam incident on a disc [11-14], or binary BHs [15].
+
+Following a long history of theoretical studies, the rotational superradiance effect was recently
+observed in the Nottingham experiment [1]. This experiment, motivated by the stunning fact
+that, under specific conditions, waves propagating on a flowing fluid experience the presence of an
+effective curved space-time [16,17], was based on multiple theoretical studies of superradiance in
+analogue systems [18-24]. However, even with this whole array of studies, a complete theoretical
+description of the superradiance experiment is still missing. This is due to the various effects
+present in this experiment, the main ones being dispersion and vorticity, which even make the
+determination of effective governing equations a difficult task. The effect of vorticity on shallow
+water flows has been studied in [25,26] while dispersive effects in irrotational flows have been
+investigated in [27]. In this paper, built upon the work in [27], we use a Wentzel-Kramers—
+Brillouin (WKB) approximation to predict the reflection coefficient spectrum to be compared with
+the experimental results of [1]. The paper is organized as follows: in §2, we briefly review the
+work of [27] in order to establish the notation and make the present-study self-consistent. In §3,
+we derive the connection formula that relates WKB modes on both side of a saddle point. In §4,

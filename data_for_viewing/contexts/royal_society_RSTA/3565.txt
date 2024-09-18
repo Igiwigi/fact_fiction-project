@@ -1,0 +1,25 @@
+In investment cost of scenario tree node m $ : Sy
+a
+Om operational cost of scenario tree node m $ a]
+Bn capacity of battery storage plant b in scenario tree node m MW S
+Peat power output of battery storage plant b in scenario tree node m in time period (hour) t MW g
+Pere discharge power of battery storage plant b in scenario tree node m in time period (hour)t © MW : SS
+Pont charge power of battery storage plant b in scenario tree node m in time period (hour) t MW : s
+Pre energy stored in battery storage plant b in scenario tree node m in time period (hour) t MWh a
+Pn capacity of generator g in scenario tree node m MW
+Po at power output of generator g in scenario tree node m in time period (hour) t MW
+gen voltage angle in From/To node of line / in scenario tree node m in time period (hour) t rad
+Him installation of line / in scenario tree node m {0,1}
+Hin installation of the FACTS device in line / in scenario tree node m {0,1}
+parameters
+AS availability factor of generator g in time period (hour) t pu
+Dams demand in node n in scenario tree node m in time period (hour) t MW
+fi capacity of line / MW
+fp maximum capability to shift power of the FACTS device in line / MW
+im discount factor of scenario tree node m pu
+RM downward ramp rate limit of generator g as a percentage of its capacity per hour %h-
+Re upward ramp rate limit of generator g as a percentage of its capacity per hour %h"
+x reactance of line/ Q
+Nb round-trip efficiency of battery storage plant b pu
+r risk-aversion factor pu
+xf unitary investment cost of battery storage plant b (annuitized) SMW yr

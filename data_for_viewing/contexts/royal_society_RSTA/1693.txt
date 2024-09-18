@@ -1,0 +1,25 @@
+previously discussed. The variation of the shock speed during the acceleration process, as shown
+in figure 4, may also play a role. Besides the average energy, also the Ht cutoff energy and the
+
+
+number of ions reflected by the shock increase with the laser intensity. If a beam with higher
+charge is desirable, protons with energies >> 30 MeV will not be stopped in the core and therefore
+their energy will not contribute to the ignition. For the highest ap considered here, despite losing
+some charge, we estimate that the number of ions with energy between 9 and 30 MeV will be
+sufficient to create the ‘hot spot’. The ion maximum energy is always higher than predicted by
+the CSA model. The latter is derived considering cold ions with no thermal spread. At shock
+formation time, our simulations show that the upstream ions have a certain thermal distribution,
+which will be maintained after reflection. An ion with velocity vo, different from 0, will thus
+acquire a velocity 2v; + vg upon reflection. This will result in the fact that a few ions have higher
+energies with respect to the theoretical model.
+
+3. Summary
+
+We presented two-dimensional PIC simulations modelling the interaction of a near-infrared
+intense laser pulse with the ICF corona plasma. A hole-boring driven shock is generated around
+the critical density. The collisionless shock travels through the exponentially increasing plasma
+gradient and reflects both hydrogen and carbon ions. As a result, a hydrogen ion beam with
+average energy of 8 MeV and energy spread of 46% is generated. Ions with such energies will be
+able to penetrate the dense core and deposit their energy there. The approach could thus represent
+a valid alternative to achieve ion fast ignition. Indeed our simulations indicate that an adequate
+amount of protons could be accelerated by the shock, depending on the laser waist size. Since

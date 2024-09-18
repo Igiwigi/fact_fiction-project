@@ -1,0 +1,25 @@
+structure [34], but the shear stress and the heat flux are negligibly small. This is due to the fact
+that the relaxation time of the dynamic pressure is much larger than the other relaxation times
+of the shear stress and of the heat flux in a polyatomic gas. In the preliminary works in RET of
+dense gases [31,35,36], the case where all the dissipative fluxes except for the dynamic pressure
+are negligible was studied in detail in order to highlight the importance of the dynamic pressure.
+This is the RET theory of dense gases with six fields (ETP) that takes into account one relaxation
+process with the assumption that molecular rotation and vibration can be treated as a unit. And,
+as in the RET theory of rarefied gases, it was shown that the constitutive equations are completely
+determined by the thermal and caloric equations of state. The system is the simplest one after the
+Euler system of a perfect gas.
+
+It is evident, however, that such an RET theory with only one relaxation process has limitations
+to its applicability. In fact, we have many experimental data on sound waves [4,5,37] showing
+that the relaxation time of the rotational mode and that of the vibrational mode are quite
+different to each other. Therefore, in a case with a high temperature where both rotational and
+vibrational modes exist, more than one molecular relaxation process should be taken into account
+to have a more realistic RET theory. The purpose of the present paper is to construct such a
+realistic RET model of dense gases, and thereby to extend the applicability range of the theory
+in the previous papers [31,35,36,38]. This new theory includes the previous RET theory of dense
+gases with six fields [31] as a particular case, and it also includes the RET theory of rarefied
+polyatomic gases with seven fields [24] in a natural way as a special case in the rarefied-gas
+limit.
+
+Organization of the paper is as follows: In §2, an RET model of dense gases with seven fields is
+constructed step by step, and its characteristic features are discussed. In §3, explicit expressions of

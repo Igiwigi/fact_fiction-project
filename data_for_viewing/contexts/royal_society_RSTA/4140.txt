@@ -1,0 +1,25 @@
+wavefield pattern. It is in this context that an interesting solution was recently proposed in the
+field of water waves [37]. Because of the wave superposition principle, the emergence of this
+time-reversed wave is, however, not limited to this choice of new initial conditions. For instance,
+a new initial condition {g,0};,, can be split into 1/2{g, d¢g(r, t)/dt}:,, associated with a forward
+wave and 1/2{g, —d¢g(r, t)/dt};,, associated with a backward time-reversed wave. This particular
+disruption erases the arrow of time starting from a ‘frozen’ picture of the wavefield at time t,, with
+no favoured direction of propagation. Similarly, a new set of initial condition {0, dg(r, t)/dt},,, in
+which the wavefield is null would also comprise a backward-propagating wave with negative
+sign. More generally, any superposition of the old initial conditions {g, dg/dt};,, with a new set of
+initial conditions {0, f(dg/dt)};,, with f being any function of dy/dt results in the superposition of : =
+a forward and backward-propagating wave. 3
+
+To prepare such a new wave pattern, we use the fact that a sudden modification of the wave
+celerity in the whole medium at time fm results in a new source term that depends on the incoming nee)
+wavefield observed at time f,. This offers a straightforward way to experimentally implement :
+an instantaneous TRM. To understand the origin of this source term in the d’Alembert wave a]
+equation, let us introduce a time-dependent phase velocity c(t) =cg/n(t), where n(t) is a time- DN
+dependent index and cp is the initial phase velocity. The disruption undergone by the medium [o
+at time t,,, can be modelled by a 6-Dirac function such that c(t)? = (1 + a5(t — tm)). The wave aaa]
+equation can be written as a nonhomogeneous equation in which the equivalent source term ,
+s(r, t) is induced by the velocity disruption:
+
+1 02,1)
+Ag(r, t) — = — — =s(r,b), 3.1
+wn) 3 Fa ste! G.1)

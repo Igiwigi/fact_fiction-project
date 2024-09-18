@@ -1,0 +1,25 @@
+efficiency modelled using fractional calculus are ultracapacitors. The results of ultracapacitor =
+modelling were presented by Dzieliriski et al. [7]. A comparison between integer and fractional is
+order modelling of ultracapacitors was presented by Dzielitiski et al. [8]. : Sp
+
+While introducing the mathematical model of non-homogeneous beam heating, the effect of :s
+anomalous diffusion was taken into account (see [9] for details of anomalous diffusion, and =
+[10] for subdiffusion parameter measurement). On the other hand, the control of such thermal i=
+plants has been discussed previously [11-13], in which a fractional order proportional-integral— :g
+derivative-type controller has been employed to solve the temperature control problem. In this 73
+paper, the use of a fractional order calculus to model the heating process using a thermoelectric :
+module also known as the Peltier module is presented.
+
+This paper is organized as follows. In §2, the basic facts on fractional calculus are described.
+Section 3 gives a mathematical description of the heating process. In §4, experimental verification
+of the heating process model is described. Section 5 concludes this article with some comments
+and ideas for further work.
+
+2. Fractional calculus
+
+A fractional order differential calculus is a generalization of the integer order integral and
+derivative to real or even complex order. This idea first emerged at the end of the seventeenth
+century and has been developed in the area of mathematics throughout the eighteenth and
+nineteenth centuries in the works of, for example, Liouville, Riemann, Cauchy, Abel, Griinwald
+and many others. More recently, by the end of the twentieth century, it turned out that some
+physical phenomena are modelled more accurately when fractional calculus is used. There exist

@@ -1,0 +1,25 @@
+
+For the fields typical of the ALPHA-1 and -2 magnets, the antihydrogen magnetic moment
+Hy is approximately 0.670KT~1, and results in a trap depth of approximately 540mK for
+antihydrogen atoms born at the centre of the magnetic volume. In these traps, antihydrogen
+atoms are confined vertically primarily by the field gradient of the octupole, making the
+gravitational potential difference across the trap approximately 50|1K over the approximately
+44mm height of the trap. Antihydrogen will tend to be deflected vertically by the additional
+gravitational dependence, which in principle can be measured with our position-sensitive
+detector.
+
+The gravitational analysis involved calculating the reverse cumulative averages (RCA) (x|t)
+and (y|t) for antihydrogen annihilation positions as a function of time f during the trap ramp-
+down. This choice of measure aimed to weigh the fact that events occurring at later times during
+the magnet ramp, though fewer in number, will deflect more by the gravitational potential as they
+possess a lower energy. A detailed comparison between the experimental distribution measured
+in ALPHA-1 against extensive simulations for different test values of F was made. Figure 3 shows
+an example of the RCA of annihilation positions compared against simulations for F = +150. The
+RCA distributions from the real data are tested for incompatibility with simulated data in order
+to create a bound on F. With this approach, we excluded F < —12 and F > 75 at the 95% certainty
+level. Worst-case scenarios for possible systematic errors moved these bounds to F < —65 and
+F>110 [18].
+
+As a proof-of-principle experiment, this analysis activity served to identify the key areas of
+improvement required to achieve a better measurement on F. The dataset used in the above
+analysis included 434 antihydrogen atoms that are consistent with sampling from the cold (less

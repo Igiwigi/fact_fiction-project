@@ -1,0 +1,25 @@
+
+
+data-informed moment methods that use low-order moments to learn specific high-order ones
+[50-52]. Extension from [46] includes non-uniform and long-time pressure forcings, making the
+trained model appropriate for computational fluid dynamics (CFD) solvers.
+
+We emphasize that incorporating a trained neural network into a numerical method comes
+with its constraints. The neural networks train on a finite set of pressure profiles thought
+appropriate for a class of physical problems. However, one cannot ensure that this fully
+generalizes, something which must be verified. Here, pressure profiles are sampled from a
+distribution that can represent many practical bubbly flow problems. Yet, the method is not
+guaranteed to generalize well for drastically different external forcings. The former caution stems
+also from the fact the used neural network is trained on a fixed time step, which may result in
+poor generalization for cases with much faster dynamics.
+
+Section 2 formulates a model problem that serves as the basis for the proposed extension
+of CHyQMOM, namely the dynamics of a population of cavitating bubbles whose statistics
+are significantly non-Gaussian. In §3, the new hybrid method is described. Section 4 shows
+that this approach can improve low-order moment predictions while extrapolating out of the
+moment space to compute required high-order moment predictions. This section also investigates
+the utility of additional quadrature points whose locations are selected by the recurrent neural
+networks (RNN). It also compares the computational costs of the present approach and the
+classical CHyQMOM. Section 5 summarizes our conclusion.
+
+2. Problem formulation

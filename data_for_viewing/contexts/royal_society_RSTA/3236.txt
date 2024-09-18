@@ -1,0 +1,24 @@
+V(@) in equation (2.1). Hence, we need to replace V(#) with the effective potential that is sensitive a
+to the quantum effects, which we denote with Vog(#), in (2.1). The important point here is that the DB
+infra-red modes are correctly taken into account by the Fokker-Planck equation (2.1) so Veg(¢) : oe
+should include only the ultraviolet physics. Furthermore, since we are interested in physics 78
+during inflation with a large scale H >> Aj, the curvature of the background must be included Dw
+in the computation of Veg(¢). :
+
+3. Effective potential in curved space 3
+
+The calculation for the quantum corrected effective potential at the ultraviolet limit is surprisingly
+simple when compared with what one usually encounters when deriving an effective potential
+on a curved background. The reason for this is that at the ultraviolet limit all well-behaved field
+theories must have universal behaviour, which translates as the fact that the divergences that are
+generated are independent of the state in which they are calculated. Hence, at very high momenta
+even with a background with large curvature the effective potential resembles very much the
+well-known flat space results. Another way of understanding the simplification arising at short
+wavelength modes is realizing that any smooth surface when magnified enough will approach
+flat space.
+
+The effective potential in the high ultraviolet on an arbitrary curved background we can
+very conveniently derive via the resummed heat kernel method [13]. This includes the essential
+curvature terms. We point out that this derivation is completely semi-classical or that gravity is
+not quantized. Since A;/Mp1 <1 this is an accurate approximation when the Higgs is not the
+dominant energy component, as was recently rigorously shown to be true in [6].

@@ -1,0 +1,25 @@
+3 3 w
+5 S
+“2 8
+» oO
+COVID-19 * co
+1 ee AN ZN | COVID-IS
+0 100 200 300 400 500 600
+
+days (since 1 Jan 2020)
+
+Figure 4. Time variation in reproduction number. (a) The inferred value of the reproduction number R; as a function of time
+(solid red line gives posterior mean and dashed lines indicate the 95% credible interval). This is proportional to the overall
+effective contact rate (see equation (2.3)). (b) The effective reproduction number Re (which accounts for the fact that a fraction
+of the population is not susceptible). Above/below the horizontal black line shows where COVID-19 is increasing/decreasing. The
+vertical blue lines denote important milestones during the epidemic [31]. Arrows showing changes in the dominant COVID-19
+variant are estimated from COG UK [32] (see electronic supplementary material, appendix 0) and for vaccination come from CIS
+[33] (these indicate the time period in which between 5% and 95% of individuals are vaccinated with the first dose for selected
+age groups). (Online version in colour.)
+
+models that can be simulated using a t-leaping algorithm. While this represents a very broad
+class of processes, including many epidemiological models of disease transmission, it should be
+noted that ABC-MBP can in principle be applied to a wider range of stochastic models and is
+not limited to exponential waiting times [30]. However, application of ABC-MBP methodology
+to such processes including appropriately formulated agent-based models [39,40] has yet to be
+assessed and will likely hit computational limits as model and data complexity are increased.

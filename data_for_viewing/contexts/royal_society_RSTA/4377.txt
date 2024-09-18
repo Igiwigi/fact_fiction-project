@@ -1,0 +1,25 @@
+thing is that they give us a new type of information. When an illegal value keeps reappearing in
+the same point for a long enough number of times (we can choose 5, 10 or any other convenient
+number), we can reasonably conclude that that point is either a minimum or a maximum. We can
+therefore fix its value, and this means that the total number of unknowns is reduced by one. By
+repeating this operation, the number of the unknowns becomes progressively smaller and when
+it reaches the number of equations a complete reconstruction is possible. That is the result we
+were looking for. The memory matrix allows us to collect information that was not present in the
+initial data and which is gradually emerging during the reconstruction process.
+
+
+Let us now take a closer look at the memory matrix. The information of the vortices appears ls |
+in the memory space, but we use that information in the structure space, because it is here that we
+reduce the number of the unknowns. We are in fact transferring information from the memory
+space to the structure space with a conventional rule of the type ‘If a vortex appears in the memory
+space, fix the corresponding point in the structure space to a minimum or a maximun’.
+
+A reconstruction from incomplete information, in short, does not require only a memory.
+It requires memory and codes. The reconstruction memory is where new information appears.
+The reconstruction codes are the tools that transfer information from the memory space to the
+structure space.
+
+5. The code theory of development 2
+Embryonic development is nof a reconstruction of structures from projections and it is not Sy
+achieved by computations, but it is nevertheless a reconstruction from incomplete information, and 2
+there may well be general principles that apply to all such cases. aed

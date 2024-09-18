@@ -1,0 +1,25 @@
+which corresponds to a linear distance of ca 8 A, imposed by the finite length of the nanopore,
+which is independent of temperature and hydrophobicity.
+
+Axial diffusion is always dominated by molecules moving in the contact layer; see the inset of
+figure 7b for the hydrophobic pore. This behaviour was also observed for water confined between
+hydrophobic plates when the density of water is high enough to create three distinct layers [13].
+We find this behaviour for all the investigated pores, even for the highest hydrophilicity. In fact,
+in the case of water confined in hydrophilic confinement, the layers of water closer to the surface
+were shown to be immobile and even in a glassy state already at high temperature [26,27,49,50].
+In silica pores, water of the contact layers can form hydrogen bonds directly with the pore
+wall [29,51] and the mobility of these molecules may vanish due to these strong directional
+hydrogen bonds [26,49]. The different behaviour observed in the present simulations seems
+related to the fact that the considered pore lacks the ability to form hydrogen bonds directly with
+water molecules; this feature contributes to the increase of the number of hydrogen bonds in the
+contact layer and the decrease in the inner layer.
+
+
+@ |, ()
+
+time (ps)
+
+q 50 100
+a a a T
+— inner
+= lf . middle

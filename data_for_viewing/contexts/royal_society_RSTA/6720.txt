@@ -1,0 +1,25 @@
+of polynomials irreducible mod p, and this factorization mod p is unique mod p.
+
+(4.1) Suppose that p is maximal, and that q is a prime G-ideal lying over p. Let @ be any
+element of G[y,, ...5 Yn], Where y;, ---, ¥,, ave indeterminates. Then there exists a polynomial
+&(X53 45 +++) Ym) Over R, monic in x, such that
+
+(i) g(X3Y}, «+. Ym) is irreducible mod p;
+(ii) g(A5 915 --+> 4m) =0 (4)5
+
+(iii) every polynomial h(x; 7), ...,¥,) over R, such that (A; 4, ..., Ym) =0 (q), is divisible
+mod p by £(%5 415 +++) Ym)
+
+In fact, let @ be the image of @ in L[y,,...,¥,], where 2 = S/q,f = R/p. The minimal
+polynomial g(x) of @ over f(y;, ...,¥,,) has its coefficients in f[y,, ...,¥,,], because the latter is
+integrally closed. Take g(x; 4, ...;Yp,) to be a polynomial over monic in x, whose image
+mod p is 2(x3 4), ---s Ym) = Z(*). The proof is completed by applications of Gauss’s Lemma.
+
+The polynomial g(x) of (4.1), whose non-leading coefficients naturally are only unique
+mod p, is known as the minimal polynomial of 0 mod q.
+
+(4.2) The prime G-ideals lying over p correspond 1-1 with the prime G,-ideals lying
+over p&,, the correspondence being that between contracted and extended ideals.
+The assertion follows from the theory of quotient rings (e.g. from Grundy 1942, § 13).
+
+(4.3) Suppose q is a prime G-ideal lying over p. Then the quotient ring of G,, with respect

@@ -1,0 +1,25 @@
+oT 1 pG+DTs
+Pea | P(t)dt fori=1,...,N. (C2)
+Ta Jit,
+Using a Taylor series approximation for the ratio Po /Pr, the variance thereof can be expressed in
+terms of statistical quantities of its numerator and denominator (e.g. [32]) as
+
+var (72) ~ E(Po)? see _ ycov(Po, Pr) + ee (C3)
+
+Pr)  E(Pr)* | E(Po)? ~— E(Pr)E(Po)~—-E(Pr)?
+
+where var, cov and E denote the variance, covariance and expected values respectively.
+Since P= (oN, PIA)/N, the variances in equation (C3) can be written as var(P) = var(P™)/N.
+Furthermore, combining properties of the covariance operator with the fact that mean powers in
+different optimization windows can be assumed to be statistically independent, the covariance in
+equation (C3) can be rewritten as
+
+(ox Po) oe 1? Pei)
+
+cov(Po, Pr) = cov N N (C4)
+m ys x cov(PG', PR’) (C5)
+i= j=1
+1 Ta
+= cov(PG! , PR ) (C6)
+
+i=l

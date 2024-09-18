@@ -1,0 +1,24 @@
+human mathematics (since general mathematical reasoning is undecidable but human students.
+learn with alacrity). Secondly, this system can then be used as a foundation for helping students
+that routinely need to go through these problems—by checking their work, providing hints and
+creating worked examples, among other pedagogical actions.
+
+To start, we need a computational basis for representing problems and solutions. Modern
+theorem-proving languages are a natural option: their logical foundations are powerful enough
+
+
+to express mathematics even at the research frontier, from definitions to propositions and proofs.
+However, when seen as environments for automatically finding solutions, these languages pose
+several challenges. Firstly, given a solution in progress, there is often an infinite number of next
+steps that are valid (we dissect the reasons for this in §4). This fact implies that agents cannot
+learn by choosing actions from a list of valid options—they need to generate their own actions.
+This is typically accomplished by first learning a generative model of likely solution steps from
+human-written proofs [16,19]. However, there are little—if any—data from students writing their
+solutions in existing theorem-proving languages.” Therefore, we wish to proceed without this
+dependency.
+
+To enable learning by selecting actions—rather than generating them—and receiving a
+termination signal once a solution has been found, we first need an environment where the set
+of valid next moves is finite, while maintaining generality as much as possible. To that end, we
+propose Peano, a simple theorem-proving language based on a dependent type system, where the
+space of next proof steps is constructed to be finite. We describe Peano in detail in §4. The Peano

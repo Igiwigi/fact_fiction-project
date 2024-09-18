@@ -1,0 +1,25 @@
+number Re, = u;h/v, where h is an appropriate outer length scale such as the BL thickness, quasi-
+coherent flow structures also arise in the outer region of the BL (i.e. outside the buffer layer),
+where the long-time mean dynamics are inertially dominated. These structures, too, have been
+observed and studied in laboratory experiments and DNS. Moreover, Hwang et al. [11,12] recently
+have employed over-damped large-eddy simulations strategically designed to isolate large-scale :
+structures away from the wall for Re, ~ 100-1000. To date, however, quantitative theories— =
+systematically developed from the governing incompressible Navier-Stokes (NS) equation—that 3
+describe the essential nonlinear dynamics by which self-organized flow features in the inertial :
+layer are maintained have not been developed to the extent that is true for their near-wall nee)
+counterparts. One exception is the large Reynolds number asymptotic theory developed by :
+Deguchi & Hall [13], who demonstrate that coherent vortical structures (nearly) in the free stream a]
+of laminar BL flows that approach their free-stream speeds exponentially with distance from the DN
+wall can be self-sustained independently of near-wall excitation. (In fact, these authors show that aot
+the free-stream structures can drive strong streaky flows adjacent to the wall.) Nevertheless, their [3S
+theory does not specifically account for flow features observed within the inertial layer, the subject .
+
+of interest here.
+
+Such quantitative theories are desirable for at least two reasons. First, they provide a
+framework for understanding the mechanisms controlling the formation and evolution of flow
+structures within the inertial layer, which ultimately may facilitate high-fidelity numerical
+simulations of wall-bounded flows at extreme values of Re, (> 10*) by guiding the development
+of customized, e.g. multi-scale, numerical algorithms. Second, elucidation of the intrinsic
+nonlinear dynamics and structure of the inertial layer is a necessary prerequisite for increased
+understanding of ‘inner—outer’ interactions, understanding that may be leveraged for the design

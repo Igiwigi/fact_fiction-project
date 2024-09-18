@@ -1,0 +1,25 @@
+By enumerating all of the length-8 self-replicators, we were able to show that self-replicators
+are not uniformly distributed across the fitness landscape and that viable genotypes cluster
+together. The size of these clusters varies: there are a few clusters with many genotypes and many
+clusters with a few genotypes, but the cluster size distribution has a gap. The edge distribution
+of the clusters is similar to what has been found in random RNA structures, and the mean degree
+differs between replicator types.
+
+Genotypes with different replication mechanisms were in different clusters with no
+evolutionary trajectory between the two. Empirical studies of RNA-based fitness landscapes,
+
+
+biochemical model systems for the origin of life, also show that these landscapes consist
+of isolated fitness peaks with many non-viable genotypes [19,20]. The fact that both RNA-
+based landscapes [19,20] and these digital landscapes have similar structures suggests that the
+evolutionary patterns we see in these Avida experiments may be similar to those one would
+have seen in the origin of life on Earth. The presence of isolated genotype clusters in both
+digital and RNA fitness landscapes further suggests that the identity of the first self-replicator
+may determine life’s future evolution, as other evolutionary trajectories are not accessible.
+However, if populations can evolve larger genomes, non-accessible evolutionary trajectories may
+later become accessible, as mathematical results on the structure of high-dimensional fitness
+landscapes suggest [44].
+
+To test for the effects of historical contingency in the origin of self-replication in Avida, we
+evolved all of the 914 replicators in an environment where they could increase in genome size
+and evolve novel traits. Previously, we found that the evolvability of spontaneously emergent : =

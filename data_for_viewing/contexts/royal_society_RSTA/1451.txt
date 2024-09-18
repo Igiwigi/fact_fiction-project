@@ -1,0 +1,25 @@
+figure 1. Development starts with the design of the conceptual models to address a scientific
+challenge of interest (Design Step). This includes selecting necessary single-scale models and
+determining which of these need to be coupled directly. Next, the computational models are
+adapted, and coupling mechanisms are implemented to facilitate the transport of data between
+the submodels (Implementation Step). This can, for example, be done using coupling libraries or
+workflow tools. Once the single-scale models and coupling mechanisms have been established,
+the implementation can be applied to the specific scientific problem of interest (Instantiation).
+This includes adding relevant data and parameters, e.g. force field definitions and initial particle
+configurations for a multiscale molecular application.
+
+After Instantiation, the application is made operational at the target platform (e.g. cluster,
+cloud or supercomputer, Deployment Step), upon which it is (initially) run (Execution Step).
+Deployment is complicated due to the fact that various single-scale models and their coupling
+have to be orchestrated, potentially on a heterogeneous platform (CPU/GPU supercomputer)
+or even multiple platforms (combining clusters or working in a cloud). After the initial run,
+the application is usually subject to a cycle of further optimizations (Optimization Step) and
+executions (or repetitions of earlier steps as needed). Optimization in the context of this paper
+refers to bolstering the scientific and technical quality of the application such that it becomes
+suitable for use in production runs. This may involve fixing verification or validation issues
+that arose during execution, rerunning the application multiple times to test the sensitivity of
+key parameters, or to check the propagation of uncertainties in the model. Once the application
+has been sufficiently optimized, researchers proceed with performing the main runs (Production
+
+
+dissemination of dissemination of

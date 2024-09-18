@@ -1,0 +1,25 @@
+o? ifififa o PEED
+
+Figure 2. Iterations of the GoL-like interactive molecular arrangement system on a5 x 5 grid. (Online version in colour.)
+
+with arrangements of 0’s and 1’s is depicted in figure 2, top row. The far left (red) arrangement is
+the seed arrangement of. The local rule ¢g associates 1 with all green points that are surrounded
+by two, or three 1’s in the red seed arrangement. The next arrangement o@ consists of a green
+pattern of 0’s and 1’s after application of ¢¢, while o} is the red arrangement obtained from og
+after applying x which in this case equals ¢g. In the second row, the arrangements op and of
+are shown under a single arrangement of o' for i= 0,1.
+
+Given a finite n x n array size, and the initial oR seed arrangement, for any rules ¢p, 6c, the
+arrangement sequence o°,c1,... is eventually periodic. This follows from the fact that there are
+only a finite number of configurations and the transitions between the iterations are deterministic.
+For the seed o° of figure 2, and the GoL-like system the sequence becomes periodic after the
+first three iterations (figure 3). However, the GoL-like system seems to exhibit quite complicated
+dynamics. Our initial experimentation on a 15 x 15 grid, as well as a 25 x 25 grid shows periodic
+behaviour after hundreds (respectively, thousands) of iterations for some seeds.
+
+
+tfotifo}iy Ne fo footy -N  pt f
+1}ofifoji Thott | SZ
+
+Figure 4. Shapes obtained from cross-linking tiles with value 1 following Gol-like rules with initial configuration o°. (Online
+version in colour.)

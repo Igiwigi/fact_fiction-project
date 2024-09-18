@@ -1,0 +1,25 @@
+65 = Msi,sini) {81  Si4.1}) = {v (55:41) > (0,0) or (1,1)}.
+
+
+0,=0orl 0,=0orl
+
+(7 WSS
+
+dy OF ay b, or by
+
+Figure 3. A schematic of the experiment.
+
+It is easy to see that the ¢;’s agree locally. Indeed, both 0 and 1 are valid assignments for a single
+variable, which is the most two valuations can have in common. On the other hand, the fact that
+the liar cycle gives rise to a paradox means that the valuations do not agree globally. Indeed, a
+global assignment of truth values to each s1,...,S; consistent with formulae (3.3) is impossible,
+as they collectively yield s1 <> -s1.
+
+4. Non-locality and contextuality
+
+We shall now expose a surprising connection between the valuation algebraic theory of
+disagreement with a completely different topic, namely the study of non-locality and
+contextuality in quantum foundations. This will show that all of the examples of local agreement
+versus global disagreement we have just presented are in fact mathematically equivalent to
+contextuality. We will adopt the sheaf-theoretic description of contextuality developed in [3]. We
+will now review the main definition, assuming basic knowledge of sheaf theory and category

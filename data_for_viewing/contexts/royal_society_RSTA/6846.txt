@@ -1,0 +1,25 @@
+general solution of (1-1) with this surface condition differs from (13-2) by a quantity which is
+a solution of (1-1) which is zero over the surface; this represents a starting transient which
+depends on the initial temperature distribution and tends to zero as the time increases (for
+examples, see Williamson & Adams (1919), formulae (15), (16), (17)). Hence (13-2) repre-
+sents the ultimate behaviour of the temperature through the solid. The quantity y(r)/D is
+the lag between the times at which the temperature at the surface and the temperature at
+the point r pass through any given value; this is independent of the rate of rise of surface
+temperature, since the equation and boundary conditions determining y do not involve p.
+For a symmetrically heated slab of thickness 2l, the time lag between surface and centre
+is /?/2D, and for a symmetrically heated solid cylinder of radius a it is a’/4D; these values
+follow directly from formulae (15) and (16) of Williamson & Adams (1919). The numbers 2
+and 4 in the formulae for the time lag in these two cases are very closely related to the
+coefficients 2 and 4 in equations (3-5) and (3-8) respectively. In fact, in both these cases the
+distribution of temperature through the slab or cylinder ultimately become parabolic (see
+formulae (15) and (16) of Williamson & Adams 1919), and then the fundamental approxima-
+tions (3-2) of the present method is exact, so equations (3-5) and (3-8) are exact and can be
+used to go from centre to surface in one interval 6x for the plane, and similarly for the cylinder;
+
+and the time-lag property for constant rate of rise of surface temperature can easily be
+deduced from these equations.
+
+Now for a substance for which the diffusivity varies with the temperature, it has been
+
+shown in § 9 that if the diffusivity does not vary greatly through the material at any one time
+(though it may vary considerably in the course of time), the heat flow can be reduced

@@ -1,0 +1,25 @@
+is that although the Stokes drift should have a bearing on the mixing, the direction of the Stokes
+drift must also be taken into account, because crossing seas and a directionally wide spectrum
+will reduce the Stokes drift [75,87,105]. Van Roekel et al. [143] argued that the Stokes drift should
+be projected into the direction of the Langmuir cells before the turbulent Langmuir number is
+estimated, as misalignment affects the intensity of Langmuir turbulence. McWilliams et al. [144]
+also showed that the presence of swell at large angles to the local wind sea would modify the
+Langmuir production. This raises the question of how Langmuir turbulence can be parametrized,
+since swell is non-local and thus not related to the local wind. This remains an open question,
+but Li ef al. [145] showed that a climatology of the enhancement factor € calculated from a global
+wave model integration has comparable performance to a run incorporating the wave model
+itself, suggesting that the impact of swell is small enough to be ignored, at least to first order.
+Li et al. [146] showed that parametrizing the Stokes drift from the wind alone and estimating a
+layer-averaged broad-band Stokes profile [105,106] did in fact also yield results comparable to
+those from the full wave model.
+
+(ii) Langmuir production in second-moment turbulence closure models
+
+Second-moment closure models in the vein of Mellor & Yamada [147] handle the TKE directly
+by parametrizing the terms in the TKE equation [148,149]. As Kantha & Clayson [150] note, this
+makes physical sense for the TKE equation because it can be derived from first principles, but the
+corresponding equation for the turbulent length scale, or equivalently for the dissipation rate or
+turbulent time scale, cannot. Although the results reported are often in reasonable agreement with
+large-scale properties such as the mixed-layer depth and surface temperature, it is nevertheless
+unsatisfactory to mould the evolution equation for the turbulent length scale on the TKE without
+any guiding physical principle. Nevertheless, several attempts have been made at extending the

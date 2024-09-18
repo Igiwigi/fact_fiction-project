@@ -1,0 +1,24 @@
+F(t) == D(t) + BeE(#) — D(to) — BeE(to).
+Using this notation, (5.2) is equivalent to
+F+p.E=0. (5.3)
+Let t € [f, tz]. Integrating (5.3) with respect to s € (fo, t) gives
+t
+F(t) + p.| E(s) ds =0. (5.4)
+to
+Moreover, by (5.1) and (5.4), one can see that
+F(t) = F(t2) =0. (5.5)
+
+We now proceed by contradiction to show that D(to) = 0. Without loss of generality, assume that
+D(to) > 0. This gives us that E(to) > 0 by definition and F(t) <0 by (5.3). Considering this, (5.5)
+and the fact that x, y € C*(to, f2), we have that there exists t € (fo, f1] such that F(r) = 0 and F(t) <0
+
+
+for all t € (to, t). In particular, this means that, by integrating F with respect to s € (to, t), we have
+
+I; F(s)ds <0 (5.6)
+
+to
+
+and, setting t = t in (5.4), we have
+
+I. E(s)ds =0. (5.7)

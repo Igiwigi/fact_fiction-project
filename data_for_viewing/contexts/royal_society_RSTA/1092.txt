@@ -1,0 +1,25 @@
+0
+
+Figure 6. Experimental and numerical evidence showing low-frequency radiation. (a) Comparison of the wall and far-field
+pressure spectra (from [60]). (b) Pressure spectrum at different transverse positions (from [61]).
+
+4. Relevance to acoustic radiation of coherent structures in turbulent shear
+flows: an outlook
+
+The theoretical efforts have thus far focused on instability modes on laminar flows in order to
+provide definitive and self-consistent descriptions. The mathematical procedures and even results
+are, however, applicable to coherent structures in the corresponding turbulent shear flows insofar
+as the latter can be treated as a wavepacket of instability modes with an amplitude function A.
+However, two important facts must be noted about turbulent flows. The first is that turbulent
+mean flows vary more rapidly in the streamwise direction than their laminar counterparts, and
+thus the resulting stronger non-parallelism must be taken into account. Secondly, the coherent
+structures are influenced by fine-scale turbulence via the phase averaged small-scale Reynolds
+stresses [58]. For turbulent flows with a generalized inflection point, the Reynolds stress tensor
+may be represented by a local gradient type of closure model allowing for a possible phase lag
+between it and the strain rate tensor of the large-scale structures [59]. With these two effects being
+taken into account in the nonlinear critical-layer approach, the kernel function in the amplitude
+equations must be modified [48]. Of course, the amplitude evolution of CS may well be provided
+by DNS or experiments, in which case the information may be supplied to the formulae.
+
+While the results were derived for free shear flows, the circular jet in particular, they may
+be applied to instability waves/CS in laminar/turbulent wall-bounded flows. The analysis

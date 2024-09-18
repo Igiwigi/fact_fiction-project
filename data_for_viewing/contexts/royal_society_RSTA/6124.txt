@@ -1,0 +1,25 @@
+Similarly, the (expected) global EP rate at time f is
+
+Ly (u; tpx(t)
+
+(6() = py LX (v; f)py(£) In wpe) (3.3)
+C LE (v4 Pees oO
+= YL LSerhpr,,, Ol a o 4)
+
+LL (ype
+
+Y Xp uy PW)
+
+7To see this, first use the fact that for every unit w in any unit structure, whether that unit structure is tight or not, w C L(w).
+Then note that if @ C £(w), at least one reservoir in £(w) would violate the requirement that the unit structure be tight.
+
+5To see this, first note that —w C P(—w), since any set is contained in the associated puppet set. In addition, if there were
+coordinates i ¢ P(—w) that lay inside w for some reservoir v, then there would be a coordinate j € —w such that P(v) contains
+both jand j. That in turn would mean that j € P() and therefore j € £(w). However, that violates the assumption that the unit
+structure is tight. Therefore P(—«) C —w. Combining establishes the claim.
+
+°Note that for convenience in the definition of ‘in-ex information’ below, I adopt the convention that (Q(f)) is the expected EF
+rate out of the system into the reservoirs, and so is the negative of the integrand in equation (1.3).
+
+
+Example 3.1. In an MPP, each coordinate i is a ‘subsystem’; R = N; there is a bijection venga

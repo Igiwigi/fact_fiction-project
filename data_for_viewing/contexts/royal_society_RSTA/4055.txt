@@ -1,0 +1,25 @@
+
+alloys [9-11], La(Fe,Si);3 and its hydrides [12,13], MnAs [14], MnFe(P.X) compounds with X = As,
+Ge or Si [15-17] and to a lesser extent manganites [18], combine large AT and large AS values.
+However, as the phase transition in these materials is of first order, hysteresis effects can lead
+to a strong reduction of these values in a cyclic process. This becomes especially relevant if one
+wants to use these materials in a commercial cooling device, as the magnetic field that can be
+generated at reasonable costs is about 1 T [19], rather than the 5-14 T that are nowadays standard
+fields available in commercial magnetometers based on superconducting coils [20].
+
+3. Current metrics 3
+
+Another metric, the refrigerant capacity (RC), also introduced by Wood & Potter [5], is rather 1S
+popular [21], in particular for second-order MCE materials [22]. From the fact that the second [oS
+law of thermodynamics requires that the entropy change at the cold side AS, cannot exceed the [3
+entropy change at the hot side AS), they derive an expression for RC: : S
+
+= Q.AT = ASAT =RC, By) is
+:
+
+Wrev = Qn — Qe
+
+with Wyey the reversible work, Q, and Q, the expelled and received heat at warm temperature
+Th and cold temperature Tc, respectively, AT = Ty — Tc and AS = ASy = AS. In their paper, Th
+and T¢ are rather ill defined, and it has become a general practice to take AT as the width at
+half-maximum of a plot of AS as a function of the temperature [22]. Obviously, this metric is not

@@ -1,0 +1,25 @@
+in relative optical power. For multi-soliton spectra, the characteristic interference is observable giving rise to the patterns in the
+optical spectrum.
+
+figure 7. A key experimental technique that confirmed that operation in the regime where solitons
+can be supported, was the addition of a Pound—Drever-Hall error signal, that was added to the
+pump laser. This enabled, during the laser scan, the effective laser detuning to be determined, i.e.
+the laser detuning from the thermally and Kerr shifted resonance. In these experiments, the low
+noise regime was revealed to occur on the effectively red-detuned side of the cavity resonance.
+Access to the soliton state in steady state was compounded however by thermal effect [76], as
+red-detuned operation is not thermally stable. To nevertheless stably access the DKS state an
+optimized laser tuning scheme [24], and later ‘power kicking’ [18] was developed that allowed
+overcoming the rapid temperature changes, associated with the discontinuous steps, and with
+the fact that the strong pump laser is detuned from the unstable, red-detuned side of the cavity
+resonance. Fortuitously, if this laser ramp is applied the soliton can be stably accessed: indeed, in
+the presence of a DKS the stability can be restored, as the soliton is a solution of the upper branch,
+being effectively blue detuned (and thus thermally stable [76]), while the CW pump laser is in the
+unstable red-detuned region, but far detuned from cavity resonance. Applying this novel laser
+detuning technique allowed to stabilize soliton states and to prove unequivocally the observation
+of combs that are associated with soliton femtosecond pulses [23,24]. This work also accessed all
+the important DKS states.
+
+4. Dissipative Kerr solitons in photonic integrated microresonators
+
+Upon demonstration of DKS in crystalline resonators, an immediate outstanding and open
+question was, to which extent stable DKS could also be accessed in photonic integrated Si3N4

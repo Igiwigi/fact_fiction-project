@@ -1,0 +1,25 @@
+of multiple, quasi-orthonormal tapers reduces the variance in the estimates of both stationary and
+non-stationary spectral estimates, because each taper is sensitive to different noise aspects [44].
+This leads to more robust spectral estimates. ConceFT uses this concept but instead of a prescribed
+averaging scheme of the multi-taper outputs, it generates multiple SST outcomes each with a
+different random multi-taper weighting scheme, which subsequently are averaged. This reduces
+the number of extracted instantaneous frequency components as well as any cross talk, thus
+enhancing readability. Variants have been developed based on either multi-tapers combined with
+the STFT, or the use of orthonormal mother wavelets using the CWT [32].
+
+Figure 7 shows the application of ConceFT to the LIGO signal. The SST on which this ConceFT
+representation is based is calculated using a Battle-Lemarié mother wavelet basis BL3 [30], and
+20 realizations of the SST. A Morlet mother wavelet provides less clear results in this case. This
+could be due to the fact that the ConceFT method is based on averaging semi-independent
+SST outcomes; thus, orthogonality of the Battle-Lemarié mother wavelet helps reducing noise
+
+
+LIGO signal HI fa |
+300 300 \
+ConceFT SsT <- ib
+
+250 250 .
+pas
+= 78
+= 200 i 200 13
+e Ss

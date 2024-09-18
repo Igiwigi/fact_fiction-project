@@ -1,0 +1,25 @@
+be faithfully converted into neural signals by the inner hair cells.
+
+It is the outer hair cells that are mainly damaged by loud sounds or the ageing process, and
+this damage is one of the main causes of hearing loss. In the absence of these outer hair cells, the
+cochlear amplifier no longer functions and the level curve in figure 19c will revert to the dashed,
+linear, line. Not only will the low-level amplification then be lost, which could be compensated
+for with a high-gain hearing aid, but the compression effect of the cochlear amplifier will also
+disappear, making a higher level sound feel uncomfortably loud if such a high-gain hearing aid
+is used.
+
+Nonlinear damping thus plays an important role in the normal functioning of our sense of
+hearing and has been used for some years to explain the dynamic behaviour of the cochlea [5,50,
+51]. In fact, the analysis of cochlear mechanics is more complicated than suggested above, since
+the dynamic response at each point along the cochlea is coupled with all the other points, owing
+to the fluid motion in the cochlea fluid chambers. A full nonlinear analysis has to take account
+of this interaction, for example, by iteratively taking a first approximation to the nonlinear local
+behaviour, linearly coupling each of these via the fluids and then obtaining a better approximation
+to the nonlinear local responses at each individual position along the cochlea. This iterative quasi-
+linear approach was originally developed for tonal excitation and for combinations of tones
+[52,53] but has also been used for broadband random excitation [54,55], using cross-correlation
+methods with a theory that is similar to those discussed in §5, which in this field is called the
+equivalent nonlinear or EQ-NL theorem [56]. Similar iterative methods have been used for other
+distributed nonlinear systems, such as the response of underwater structures and cables that are
+damped to different extents along their lengths due to the local flow velocity, which itself depends
+on the motion [57].

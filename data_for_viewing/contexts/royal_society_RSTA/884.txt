@@ -1,0 +1,25 @@
+wavelet, the Morlet wavelet, is shown in figure 1a and simply comprises a complex sinusoid
+within a Gaussian envelope. We can use this wavelet to represent signal information in the
+wavelet domain via the CWT. As an example, figure 1b contains a test signal with both a frequency
+modulation and a longer-term increasing frequency drift. Inspection of the signal in the time
+domain provides limited information, with perhaps a realization that the dominant frequency
+is generally increasing over time. The corresponding Fourier transform modulus plot (figure 1c)
+also provides limited detailed information apart from a general picture of the range of frequencies
+contained within the signal. However, if we view the corresponding wavelet transform modulus
+(figure 1d), we may observe a very obvious white band snaking across the transform plane. This
+band indicates where most of the energy of the original signal is contained in time and frequency
+and we can see that the characteristics of the signal are now displayed in highly resolved detail:
+the general frequency drift is evident, increasing over time and the frequency modulation is
+obvious from oscillatory nature of the band. In fact, the ridge of the band (shown as a black line
+superimposed on the band maxima) may be used to extract the instantaneous frequency of the
+signal component relatively easily by projecting this ridge vertically (figure le). This new signal
+
+
+32
+Ez
+Bie = 0
+5 10 15 20 25 30 35 40 45 50 () 10
+(b) gz :
+f E :
+“0 500 1000 1500 2000 2500 3000 :
+5 10 15 20 25 30 35 40 45 50

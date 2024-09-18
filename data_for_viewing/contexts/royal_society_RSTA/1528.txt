@@ -1,0 +1,25 @@
+camera connected to a Nvidia Jetson Nano single-board computer for frame-acquisition and :
+hardware control. To reduce read noise, we actively cooled the CMOS camera with a 12 V fan, :=
+which otherwise reaches temperatures up to 65°C and results in an increased readnoise level. I=
+
+(c) openISM: imaging results 2S
+
+For demonstrating the effect of higher lateral and axial resolution of ISM on biological samples, : w
+we use Silicon Rhodamine (SiR) Actin [27] labelled HeLa cells and record an ISM imaging :sS
+data stack. To compare different reconstruction methods to classical widefield fluorescence data :8
+(figure 4e), we use three different reconstruction algorithms: : S
+
+1. Super confocal imaging [28]: Here, the stack is processed by applying maxz(Istack(Z)) +
+minz(Istack(Z)) — 2*meanz(Istack(Z)). It exploits the fact that a sample position in ISM is
+most of the time not illuminated when in focus in this sparse illumination scheme. This
+successfully reduces background contributions and offers a fast and simple way to obtain
+good sectioning (figure 4f).
+
+2. Classical ISM photon reassignment: We base our algorithm on work by McGregor eft al.
+[20]. Here, we first register individual illumination positions (i.e. peaks, figure 4a) in each
+frame, before a grating is fit into this pattern to recover undetected illumination spots at
+the gratings crossings and to allow for distortions (e.g. field curvature) originating from
+the freeform optics or improper alignment (figure 4c). A snippet of 11 x 11 pixels” around
+each detected peak position is cut-out, multiplied with a two-dimensional Gaussian to
+simulate a ‘macro-pinhole’ [20,30] for better axial sectioning, summed and reassigned
+on a two times super sampled canvas (figure 4c). Reassigning the information for all

@@ -1,0 +1,25 @@
+
+singularity spectrum 8
+Weg = hk — hk (2.7) a
+
+where nR and hk are the right and left limits of the spectrum; the right component of Wss
+WSs = hf — HX, (2.8)
+
+with h?** the Hélder’s exponent of the maximum of the singularity spectrum, and the left
+component of Weg
+Weg = HP — hi. (29)
+
+If the singularity spectrum is concave with a continuous first derivative, then its maximum occurs
+at q=0. In fact, substituting the definition of /j in equation (2.5) into equation (2.6), one obtains
+
+qx dME(q)
+D(q) = 12" 2.10
+iq ME@) en)
+and calculating the derivative versus q
+AD(q) _ 4 x d?ME(q) (2.11)
+
+dq dq?
+Thus dD(q)/dq=0 for q=0, which corresponds to the maximum because D(q) is concave. In
+practice, a(q) is estimated over a finite number of moment orders q spaced by Aq increments and
+thus, the evaluated D(q) maximum is influenced by the Aq amplitude and the finite-difference
+method used to calculate the derivative of the mass exponent. If the whole singularity spectrum

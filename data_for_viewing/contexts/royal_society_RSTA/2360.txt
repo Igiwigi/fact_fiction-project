@@ -1,0 +1,25 @@
+observed scatter in the experimental results. Presently, models for predicting dynamic response
+in such mixed-mode scenarios are limited to the combination of ice crushing and buckling [41].
+
+Even though the structure is almost symmetric, there may be differences in the modes
+depending on the direction of excitation. The recordings ranging from 23 to 30 in figure 13b
+display identified frequencies that resemble straight lines. For all these recordings, the interaction
+was governed by flexural failures, the ice-drift direction was from south to south-southwest and
+the air temperature was warmer than —2°C.
+
+Attempts were made to test whether the data were inaccurate at low vibration amplitudes by
+sorting out the recorded events with the highest standard deviations of the acceleration; however,
+no clear indication was found. Similar results were also obtained using the UPC algorithm instead
+of the SSI-cov/ref. It is, however, a fact that this is an imperfect axisymmetric problem with
+asymmetric mass distribution at the waterline caused by the heavy force panels and varying mass
+distribution due to ice rubble. Further, an unknown extent of nonlinearity is involved and the
+system identification is handled with only a few sensors. An attempt was also made to investigate
+whether the first eigenmode had preferred mode shape alignments in the horizontal plane. Only
+vague indications of the preferred directions were found, but the results highly depend on the
+slack values for the automated selection of modes, and such analysis lies beyond the scope of this
+study. Owing to the few sensor locations, the identified mode shapes and their variances were also
+not considered in this study. By using a hierarchy clustering method as described in [42], similar
+results as shown in figure 11b were obtained when low importance was assigned to the weights
+for the MAC-values and clusters with few poles were discarded. It must also be noted that the
+identified eigenfrequencies indicate that the FE model contained modelling errors. Updating the
+model would benefit numerical simulations in the future, but it does not influence the conclusions

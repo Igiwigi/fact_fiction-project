@@ -1,0 +1,25 @@
+approach between solids 5 for punches whose shape functions f are monomial f(r) = Byr4, where
+r is the polar radius, d is the degree of the monom, and Bj is a positive constant whose physical
+dimension depends on d. In particular, Love [2] obtained a solution for d = 1 (a cone), Shtaerman
+[3] presented a solution for d =2n where n is an arbitrary natural number, and Galin [4] solved
+the problem for an arbitrary d > 1. In fact, Galin [4,5] presented a solution for an arbitrary convex
+punch of revolution.
+
+It is important to note that the influence of effects of adhesion between solids increases at
+micro-/nanometre length scales. Assuming that adhesion between points of two rigid spheres
+of radii Ry and R32, respectively, is caused by the London intermolecular forces and that these
+interactions are additive, Bradley [6] calculated the force of adhesion Pg, between the spheres as
+Pagh = 20wR where R is the effective radius of the spheres R1l= Ri! +R51, and w is the work
+of adhesion. In fact, he calculated the force of adhesion between each point of the former sphere
+with all points of the later sphere and then integrated the results obtained for all points of the
+former sphere. The calculations were rather lengthy, while the same result was derived just in a
+couple of lines by Derjaguin [7] using his approximation.
+
+Derjaguin [7] stated that elastic deformations of spheres should be taken into account in
+order to consider their adhesive contact. In his excellent paper, Derjaguin argued that adhesive
+interactions may be reduced to interactions among surface elements of spheres (see a discussion
+about the Derjaguin approximation in [1]). Derjaguin stated also [7] that the virtual work done
+by the external load during adhesive contact is equal to the sum of the virtual change of the
+potential elastic energy and the virtual work that is consumed by the increase of the surface
+attractions. Unfortunately, the paper contains some erroneous assumptions and miscalculations.
+Nevertheless, using Derjaguin’s results, Sperling in his PhD thesis [8] derived the force—

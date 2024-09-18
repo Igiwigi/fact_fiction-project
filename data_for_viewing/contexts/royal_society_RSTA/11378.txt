@@ -1,0 +1,25 @@
+the hope of determining all the derivatives of the highest order that occur in
+terms of derivatives of lower order. If this were possible, substitution in the
+equations of differential elements such as
+
+dl = adx + hdy + gdz
+
+and suecessive integration would ultimately lead to v. It appears in general, how-
+ever, that relations of interdependence among the equations prevents them from
+
+
+DIFFERENTIAL EQUATIONS OF THE SECOND ORDER, 45
+
+being adequate for the purpose at any stage; the relations are, in fact, satisfied
+conditions of compatibility. This method is, therefore, ineffective.
+
+An effective method can, however, be obtained as follows. Restricting ourselves
+for the moment to the equation of the second order with two compatible equations
+also of that order*—the restriction is made only to simplify the explanations—we
+have v as expressible in terms of two arbitrary functions. Hence each of the
+quantities 1, m, n (and therefore any combination of v, 7, m, 7), can be expressed
+in terms of two arbitrary functions. Now in one of the compatible equations we
+have one arbitrary function which is to be identified with one of the arbitrary
+functions in v; hence it is to be expected that a proper combination of 2, J, m, 2,
+is an intermediary integral of that equation involving a new arbitrary function, which
+must be identified with the other of the arbitrary functions in ».

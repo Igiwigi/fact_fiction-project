@@ -1,0 +1,25 @@
+minimum shows several water molecules in the third shell whereas this is absent for the cluster
+from [65].
+
+
+The high coordination of Ca?+ for most of the clusters with n > 8 (exceptions in the studied
+range are only n=9 and 10, with seven water molecules coordinated) is a consequence of the
+strong ion-solvent interaction, which is highly competitive with the formation of the hydrogen
+bond network (especially for n > 15, at which molecules begin to arise in the third solvation shell);
+there is, however, some disparity among different experimental and theoretical estimates for the
+coordination number of these clusters (e.g. [75] and references therein), and this certainly deserves
+further investigation. Even though the cation prefers to stay inside the cluster (in agreement with
+MD simulations [27]), thus working as a structure-breaking species, the formation of clathrates
+with the lowest energy are not observed up to n = 27. In fact, it was shown [65] that the formation
+of a clathrate for Ca2+ -(H2O) 9 is unfavourable, because the water-ion energy contribution rather
+stabilizes the GM.
+
+Concerning the solvation of Cat by methanol, we have studied clusters only for n < 10,
+
+because the global optimization is more computationally demanding due to the large : =
+dimensionality of the system (which complicates the calculation of the potential function), as well : a
+as the great number of local minima in a small energy window. The results show (see electronic 73
+supplementary material, figure S3) that, up to n=6, the GM clusters grow by the addition of aes
+one methanol molecule to the first solvation shell. For 1 =7, the coordination number retains a : _
+value of six (as for n = 6), while one methanol molecule goes to the second solvation shell and : 4
+establishes two hydrogen bonds. The 1 = 8 cluster has seven molecules in the first solvation shell : S

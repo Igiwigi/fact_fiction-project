@@ -1,0 +1,25 @@
+larger cloud fraction for a given in-cloud condensation rate will have a larger grid-box mean
+condensation rate, and hence a stronger condensate source term to support precipitation. We
+also note that inter-model differences in mid-level cloud fraction and precipitation efficiency may
+ultimately be due to a range of model formulation differences, including model representations
+of turbulent mixing and entrainment, which can have effects in the free troposphere as well : =
+
+as the boundary layer, as demonstrated by Tsushima et al. [91]. The depth of the shallow Sy
+circulation discussed by Sherwood et al. [21] could also influence the amount of mid-level cloud 2
+and the bulk precipitation efficiency; for example, a model with a shallow circulation with a aed
+maximum divergence below 700 hPa might form less mid-level cloud than a model with a shallow 22
+circulation and a peak divergence at 500 hPa. [4
+
+If the overall strength of lower-tropospheric mixing is, in fact, regulated by bulk precipitation : ie
+efficiency arguments such as those outlined above, then this raises the intriguing possibility that : =
+the lower-tropospheric mixing and the cloud feedback in a given model might be quite similar :3
+
+in magnitude in the standard and ConvOff configurations, even if much of the mixing is done
+by the convective parametrization in the standard configuration. A large-scale constraint on
+lower-tropospheric mixing could mean that resolved and parametrized turbulent mixing adjust
+to compensate for an absence of parametrized convective mixing in the ConvOff experiments.
+This question could be investigated in future work by directly quantifying the lower-tropospheric
+mixing associated with parametrized convection, turbulent and resolved mixing, for example by
+using temperature and humidity budget terms as in Zhang et al. [10] and Webb & Lock [7].
+
+Our results also indicate that models with more low level clouds in the most stable areas of

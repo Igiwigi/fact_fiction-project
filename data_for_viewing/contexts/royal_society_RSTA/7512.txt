@@ -1,0 +1,24 @@
+Calculations are in progress to find the field produced by specified motions in the core.
+From these it will be possible to compute the forces on a mantle of given conductivity. Until
+these computations are complete we must be content with cruder arguments. Let it be
+supposed that the core is divided into inner and outer parts of radii 6 and a and that each
+rotates like a rigid body. Let their angular velocities be w, and w, and their conductivity x.
+Suppose them surrounded by a mantle of outer radius R and conductivity «, rotating with
+angular velocity @,. This system departs from reality in that the continuous radial variation
+in angular velocity in the core is replaced by a discontinuous one. Further, no radial motion
+is provided, and thus the system cannot act as a self-maintaining dynamo; we therefore
+arbitrarily suppose a field to exist and compute the couple on the mantle. There is some
+latitude in the choice of field. We take a uniform field parallel to the axis and a central
+dipole as representing two extremes in radial variation between which the truth must lie.
+In fact the results do not depend critically on the radial variation of the field so long as it
+has its known value of about 4 gauss in the mantle near the core.
+
+The relative rotation of the two parts of the core produces currents (.S, currents in Elsasser’s
+notation) flowing in meridian planes downwards near the equatorial plane thence towards
+the poles along paths near the axis and back towards the equator near the surface. These
+currents produce a toroidal field (7) which encircles the axis from west to east in the northern
+hemisphere and from east to west in the southern. All this has been thoroughly discussed in
+II and II. If the mantle is a conductor of electricity the 5, currents on their way to the
+equator will flow partly in the mantle and their interaction with the dipole field there will
+produce a couple. We require to know for what angular velocity of the mantle this couple
+will vanish, and how long it will take it to re-establish this angular velocity if it is disturbed.

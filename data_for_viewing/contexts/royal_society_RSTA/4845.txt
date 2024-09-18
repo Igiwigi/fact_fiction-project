@@ -1,0 +1,25 @@
+shows that the reformulation of RH obtained in theorem 5.1 is asymmetric, in a strong sense.
+
+Theorem 5.2. The spectral operator a = a, is not invertible for any c € Gs, 1).
+
+Proof of theorems 5.1 and 5.2.
+
+(i) Let us first prove theorem 5.1. Recall that a is invertible if and only if 0 ¢ o(a). In light
+of theorem 4.4, we know that for any c € R (with c #1) and with a=4a,, as usual, o(a¢)
+coincides with the closure of the range of ¢ = ¢(s) along the vertical line {Re(s) = c}. Now,
+according to a result of GarunkStis & Steuding in [113] concerning the non-universality of
+¢ in the left critical strip {0 < Re(s) < ah we know that, conditionally (i.e. under the RH),
+we have that, for all c € (0, 3),0(a) (that is, the closure of the range of ¢ on {Re(s) =c}) isa
+strict subset of C and, in fact, that 0 ¢ o(a); see [113, lemma 4 and proposition 5] and their
+proofs. Hence, a is invertible.
+
+Conversely, assume that a = a¢ is invertible (i.e. 0 ¢ o(a)) for every c € (0, 3). Then, since
+(by theorem 4.4) o(a) > {¢(s) : Re(s) =c}, it follows that ¢(s) £0 for all s € C with Re(s) =c
+and every c € (0, 3). In light of the functional equation for ¢, we then deduce that ¢(s) 40
+for all s € C with 0 < Re(s) <1, Re(s) a i.e. the RH holds. This concludes the proof of
+theorem 5.1.
+
+(ii) According to the Bohr-Courant theorem [114], which itself is implied by the universality
+of ¢ in the right critical strip G < Re(s) < 1} (see, for example, [115] for an exposition),
+the range of ¢ is dense along every vertical line {Re(s) =c}, with 3 <c< Jie. in light of
+theorem 4.4, o(a) = C and, hence, 0 € o(a). Therefore, the conclusion of theorem 5.2 holds:

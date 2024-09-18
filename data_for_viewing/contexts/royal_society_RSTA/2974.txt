@@ -1,0 +1,25 @@
+distribution.
+
+References [58-60] have some important theoretical results on significance testing for the
+wavelet coherence. The results, however, are for specific ways of smoothing (namely in the time
+domain only) and do not apply directly to our case. To our knowledge, no work has been done
+on significance testing for the partial wavelet coherence. All our significance tests are obtained
+using surrogates. We fit an autoregressive moving-average ARMA(1,1) model to the series and
+construct new samples by drawing errors from a Gaussian distribution with a variance equal
+to that of the estimated error terms. For each time series (or set of time series), we perform the
+exercise 5000 times, and then extract the critical values at 5% and 10% significance.
+
+Related to the phase difference (or partial phase difference), there are no good statistical
+tests. This is because it is very difficult to define the null hypothesis. In fact, Ge, in [58],
+argues that one should not use significance tests for the phase difference. Instead, one should
+complement its analysis by inspecting coherence, and only focus on phase differences whose
+corresponding coherence is statistically significant. The same kind of procedure should be used
+when interpreting the gain (or partial gain).
+
+3. The carbon market in California and our data
+
+The California cap-and-trade system, called California ETS for simplification, took effect in early
+2012 and is linked to Québec’s since January 2014. The first period occurred during 2012-2014,
+
+
+with compliance since 2013; the second compliance period started in 2015, and lasted until 2017,

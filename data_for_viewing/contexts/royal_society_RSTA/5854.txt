@@ -1,0 +1,25 @@
+hyperbolic metric has constant negative sectional curvature (not just negative scalar curvature).
+Nevertheless, the asymptotic solutions still lie in a small neighbourhood of the backgrounds (5.1)
+and (5.2). This in other words implies a Lyapunov stability of the solutions described by (5.1)
+and (5.2). This stability result seems to be unsatisfactory in view of the information provided
+by the monotonic decay of the weak Lyapunov functional where one would expect an asymptotic
+stability of these background solutions. However, we are not able to claim that the monotonically
+decaying Lyapunov functional ever attains its infimum even asymptotically. This is indeed an
+open problem of large data long time existence associated with the Einstein flow and closely
+related to the Cosmic Censorship Conjecture. But if the Lyapunov functional ever did achieve its
+infimum then the infimum would correspond to the background solution that is characterized by
+the hyperbolic manifold as its spatial component. On the other hand, using the currently available
+techniques, we can only establish a Lyapunov stability, which does not prove (or disprove) the
+fact that these background solutions are asymptotically stable. These open issues require careful
+investigation and should be addressed in future studies.
+
+Data accessibility. This article has no additional data.
+
+Authors’ contributions. We each contributed 50% to the whole paper.
+Competing interests. We declare we have no competing interests.
+Funding. No funding has been received for this article.
+
+Appendix A. Negative Yamabe manifolds
+
+In this section, we shall focus attention on the subset of these 3-manifolds of the so-called
+negative Yamabe type. Even although the monotonicity and the asymptotic behaviour of the

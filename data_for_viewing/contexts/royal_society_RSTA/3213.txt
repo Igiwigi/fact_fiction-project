@@ -1,0 +1,25 @@
+
+As Lyf =0, we know that 0 is an eigenvalue of L with eigenfunction gf, provided the state : =
+has suitable decay at -+too. Thus in the scalar case n = 1, Sturm-Liouville theory tells us that the : a
+number of unstable eigenvalues equals the number of zeros of gf. In particular, if y* is a pulse, : 2
+meaning ¢*(x) — 0 as |x| — oo, it must have at least one critical point, and hence be unstable (cf. : XS
+[2, §2.3]). However, when n > 1, the results of Sturm—Liouville theory no longer apply, and it is : _
+not as easy to determine the stability of a pulse solution. : S
+
+The question of pulse stability arose initially from a discussion of Turing patterns, which : s
+are spatially periodic patterns that arise in reaction-diffusion systems when a homogeneous : BS
+background state becomes unstable in the presence of diffusion. In all contexts in which such 1S
+
+patterns are physically observable, the diffusion coefficients are not all equal (and in fact are quite
+different in size). It has been conjectured that this is a necessary condition for the stability, and
+hence observability, of Turing patterns. In many situations, the stability of a spatially periodic
+pattern can be related to the stability of a nearby pulse. Thus, if one could prove that pulse
+solutions are necessarily unstable when the diffusion coefficients are all equal, it would provide
+a route to resolving the Turing pattern conjecture for periodic solutions.
+
+In this paper, we establish the instability of pulse solutions when n > 1, under the assumption
+that the nonlinearity satisfies G= VF for some F. In this case, the linearized operator L is self-
+adjoint. This is not a setting in which Turning patterns arise, as the standard mechanism for their
+creation—a stable, homogeneous state destabilized by the addition of diffusion—does not occur
+in gradient systems [3]. Thus our result does not address the original Turing pattern conjecture,
+but we feel it is interesting in its own right. Our proof exploits the gradient structure of G by

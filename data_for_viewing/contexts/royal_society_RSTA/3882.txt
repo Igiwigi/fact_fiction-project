@@ -1,0 +1,25 @@
+Figure 7. Comparison between the experimental results and simulations in a wide range of impact velocities. Plot of the
+penetration depth of the steel projectile, scaled to its original diameter. EPP and JC (respectively Ygl and Yg2) denote the strength
+models of steel (resp. graphite) discussed in the text (§2b(ii)). (Online version in colour.)
+
+(c) Graphite yield stress
+
+The experimental and computed PPD are compared in figure 7 over a broad range of impact
+velocities. Two models have been used in the simulations for the steel yield strength (EPP and JC),
+and two models for the graphite yield strength (Yg1 and Yg2).
+
+We first focus on the simulations with the graphite model Yg1. The JC and EPP models of steel
+give very similar results, and quantitative agreement with experiments is observed in regime R1.
+This is simply due to the fact that, as discussed in §3b, the projectile remains roughly spherical in
+this regime even with the JC model. The PPD is thus directly related to the graphite yield stress.
+Regime R2 is more complex, because plastic deformation of the projectile becomes important and
+also plays a role in the PPD computation. This regime is thus where the sensitivity to the steel
+model is expected to be the strongest. However, the JC model does not improve the simulation
+results in this regime, and underestimates the experimental PPD. This may be partly due to the
+fact that, as noted in §3b, our JC model predicts too much deformation in regime R2, causing an
+
+
+excessive drag on the projectile. Another reason may come from the graphite yield strength. For
+this reason, a second graphite model Yg2 has also been studied.
+
+The simulations with Yg2 show the sensitivity of the PPD to a slight reduction of the graphite

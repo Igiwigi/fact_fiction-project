@@ -1,0 +1,25 @@
+complexity, derived from the ideas of algorithmic complexity of Kolmogorov &
+Chaitin [70-72]. Given a structure, we might ask: what is the shortest algorithm
+that will describe the observed complexity?
+
+The trouble with making use of the concept of Kolmogorov complexity in
+any application is that it is not a computable quantity; given a set of data, one
+cannot, in general, obtain its Kolmogorov complexity. One cannot compute the
+information content of a given sequence because it is not possible, in general, to
+go backwards from the sequence to the algorithm that produced it. The nature
+of the problem, which is a version of the Berry paradox, and is linked to Gédel’s
+incompleteness theorem [73,74], becomes clear when one reasons that a sequence
+of 100 digits may appear totally random—and so possess maximum Kolmogorov
+complexity—but in fact be 100 consecutive digits taken from, say, 7, and so
+possess considerably less complexity.
+
+Phil. Trans. R. Soc. A (2012)
+
+
+Introduction. Beyond crystals 2817
+
+A further question concerning the algorithmic complexity of a physical
+structure is: at what level of description? The algorithmic complexity is
+expressible for an object encoded as a string of numbers, but that string
+expressing the description of a system and its complexity depends on the level in
+the hierarchy at which we choose to look at it. The level at which crystallographers

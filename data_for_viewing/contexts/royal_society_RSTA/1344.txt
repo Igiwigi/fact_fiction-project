@@ -1,0 +1,24 @@
+given choice of model parameters, which is consistent with that adopted in [28,29]. We compare
+in figure 2 the plant’s tip trajectories as obtained for the four different growth models introduced
+in §3, examples 1-4. We find that the occurrence of the mechanical instability does not depend
+on the particular choice of the growth profile. Indeed, all the numerical simulations exhibit
+the same qualitative behaviour. For subcritical lengths, the straight equilibrium is stable and
+initial perturbations are damped. However, as the rod elongates, the trivial equilibrium suffers
+an instability and initial perturbations lead to oscillatory dynamics that produce pendular or
+circular patterns of increasing amplitude. This behaviour is vividly exemplified by the electronic
+supplementary material, videos S1-S4. In particular, the impact of specific growth models upon
+spontaneous oscillations is explored by setting the same initial length &9 = ¢g and overall linear
+growth rate 1/tg, such that at any time the rods are equally long. We notice that for the linear
+growth profile (example 3), spontaneous oscillations are delayed with respect to the other models
+such that their amplitude is smaller. We argue that this derives from the fact that, for the linear
+profile, the highest growth rate is at the rod’s tip, and hence the growth zone is effectively less
+responsive than in the other cases, see equations (4.5). On the contrary, the other three models
+(examples 1, 2, and 4) give rise to similar results, see figure 2a,b,d and electronic supplementary
+material, videos 1, 2 and 4.
+
+We extend our analysis by comparing the periods of the spontaneous oscillations that we
+observe numerically at different stages of growth. This would correspond to limit cycles of a
+dynamical system in which one freezes growth at the time of observation, in order to obtain a truly
+
+
+107

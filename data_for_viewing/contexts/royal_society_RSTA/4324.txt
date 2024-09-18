@@ -1,0 +1,24 @@
+
+The two-term case is somewhat ambiguous and not easy to see. This additive-multiplicative
+ambiguity is hard to resolve until we consider a case with three or more wave multiplications, for
+example:
+
+x(f) = cos A cos B cos C
+
+(2.4)
+
+~ 4} +cos(A —B+C) +cos(A — B—C)
+
+_l cos(A + B+ C) + cos(A + B— C)
+In fact, it can be shown that n product terms will end with the sum of 2) waves. All the additive
+terms will congregate near the highest frequency component. This shifting of energy density to
+high frequency not only is uninformative, but also makes the spectral energy density inextricably
+mixed with noise and harmonics. To carry this argument a step further mathematically, let us
+consider the case of the sum and product of a sinusoidal modulating the white noise given
+
+above as
+n
+
+x1 (f) = (a+ bcos A) + > cos 6;
+j=l
+(2.5)

@@ -1,0 +1,25 @@
+
+
+Theorem 2.9 (pointwise error estimates). If 7 is weakly acute and u, yy € W2,(@), then there exists
+a constant C* > 0 depending on [ulw2,(a) and IW lw2,(2) such that, with n(h z) as in (2.13), we have
+
+lu — Uz Ilt~(a) < C’n(z). (2.14)
+
+Proof. The proof relies on the construction of discrete super- and subsolutions to (2.7).
+(1) Supersolution. Let uS =Rgu+Cin(hz) with C; > 1 to be determined. We have
+
+UZ =u-nhgz)+ Cina) =(u-W) + W -Iev + (C1 - Dlg) + Lz,
+
+where Iz denotes the Lagrange interpolation operator. The fact that y ¢ W2,(2) implies the
+interpolation estimate ||W —I7W||L~(2) S I>Wlw2(a) which, together with u > yw, yields uS >
+Iz7w for C, sufficiently large depending on Iw lwe, (Q):
+
+For z€ N(.7), set v =u + ¢; EK in (2.1) to deduce
+
+[,Vubves | for veer),
+RQ 2Q
+
+where we used that (VR zu, Voz) = (Vu, Voz) and that VUS = VR zu. To prove that U5 > Uz,
+we argue by contradiction. Let
+
+N*(7)=(ZEN(F): UG <Uz@},

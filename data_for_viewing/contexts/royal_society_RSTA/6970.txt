@@ -1,0 +1,24 @@
+
+It is clear that the success of the iterative procedure suggested in § 2 depends solely on two
+conditions. First, approximate solutions must be close enough to the accurate result to ensure
+
+
+OF ELLIPTIC DIFFERENTIAL EQUATIONS 355
+
+that the iterative process converges; this usually presents no difficulty. Secondly, it must be
+possible to calculate the errors of an approximate solution; this is the crux of the matter.
+Is it possible, given a differential equation like (I.2), with boundary conditions like
+(I.4) or (1.5), to compute accurate values of their left-hand sides, at mesh points and at
+a representative number of boundary points, for a function given numerically at the mesh
+points, including possibly some fictitious external points? With regard to the differential
+equation there is clearly no worry, but the boundary condition presents great technical
+difficulties.
+
+The difficulty can be seen with reference to figure 7, in which it is required to establish
+finite-difference equations at points adjacent to the curved boundary, and to satisfy a boun-
+dary condition involving a normal derivative. The differential equation at the point 0
+involves the fictitious points 1 and 2, and expressions for the values at these points must
+therefore be obtained in terms of internal points and the given boundary conditions. There
+are two obvious possibilities, neither of which is completely satisfactory.
+
+FicureE 7

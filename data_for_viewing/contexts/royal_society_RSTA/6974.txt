@@ -1,0 +1,25 @@
+The problem of obtaining high accuracy with fourth-order equations is therefore difficult,
+and in particular it will usually be essential to work with at least one more figure than is
+finally required. Improvement over previous methods (Fox & Southwell 1941) can, how-
+ever, be secured by the use of a difference-correction for the differential equation, and
+adequate formulae for boundary derivatives. This is discussed with examples in the following
+sections.
+
+6. Biharmonic finite-difference equations for rectangular boundaries
+
+The usual finite-difference equation for the numerical solution of equations of the type
+(I. 7) is that given as equation (B. 1). For all points except those adjacent to the rectangular
+boundary, this equation involves only points on and internal to the boundary, while at points
+adjacent to the boundary one line of external (fictitious) points is involved. The most usual
+and important pair of boundary conditions is given by
+
+dw/dv = g(x,);
+
+and the second of these enables the fictitious points to be obtained in terms of internal and
+boundary points. In previous applications of relaxation methods to the biharmonic equation
+(Fox & Southwell 1941), the simplest possible approximation, involving the neglect of third
+differences, has been used for the derivative condition, and no attempt has been made to
+assess the error of equation (B. 1). The second source of error, starting with the sixth differ-
+ence, is usually small compared with the neglect of third and higher differences at the
+boundary. The latter is likely to be really serious, since the boundary is the place where the
+biharmonic solution is least well behaved in the computational sense.

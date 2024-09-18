@@ -1,0 +1,25 @@
+He goes on to characterize the distinction between the two concepts: ‘Formally, therefore,
+[likelihood] resembles the calculation of the mode of an inverse frequency distribution. This
+resemblance is quite superficial: if the scale of measurement of the hypothetical quantity be
+altered, the mode must change its position, and can be brought to have any value, by an
+appropriate change of scale; but the optimum, as the position of maximum likelihood may be
+called, is entirely unchanged by any such transformation’ [1, p. 327]. This is an elaboration of
+the point he made about scale transformation in Fisher [9]. He stresses that likelihood ‘is not a : =
+differential element, and is incapable of being integrated: it is assigned to a particular point of the 3
+range of variation, not to a particular element of it’ [1, p. 327].
+
+He also points out a further distinction between ‘this method and that of Bayes’, namely that nee)
+(in estimating the proportion p of a population which are ‘successes’) Bayes used a uniform prior.
+After commenting on the fact that this produces ‘a vitally important piece of knowledge, that of [4
+the exact form of the distribution of p, out of an assumption of complete ignorance’ [1, p. 325], DN
+Fisher points out that this implies a non-uniform distribution for transformations of p, which =
+might equally legitimately be chosen to parametrize the problem. iG
+
+The originality and breadth of impact of the 1922 paper are demonstrated by the other concepts ,
+Fisher also described there. They include the notions of the hypothetical infinite population (the
+probability that an object takes a particular value is explicitly defined as the proportion of objects
+within a hypothetical infinite population which possess that value of the attribute), consistency
+(that, when applied to the whole population, the derived statistic should equal the parameter),
+efficiency (‘in large samples, when the distributions of the statistics tend to normality, that statistic
+is to be chosen which has the least probable error’ [1, p. 316]) and sufficiency (an estimator
+is sufficient if it contains the whole of the information about the unknown parameter that is

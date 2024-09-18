@@ -1,0 +1,25 @@
+because of its larger decay exponent. We ought to make sure that the energy input occurs at
+wavenumbers sufficiently far away from the dissipative range; otherwise, a substantial decay
+could occur directly at the energy-containing scale itself. Furthermore, the length scale should
+not grow to be a substantial fraction of the computational box. These are often conflicting
+requirements, and only a few runs of table 1 satisfy these conditions, even if only approximately.
+We shall focus on just those cases here. Particularly relevant is the role of the postulate on the
+permanence of large eddies [50].
+
+A quick examination of table 1 suggests that cases 1.6, 1.7, 1.8, 1.14 and 1.15 have the best
+chance of retaining high enough in Reynolds number for the «4 cases. Likewise, 2.6, 2.7, 2.9, 2.14
+and 2.15 appear to be the most suitable among the x? cases.
+
+The second criterion is based on the fact that the energy-containing scales must be distinct from
+the viscous-dominated scales of turbulence; in other words, xp should be far enough to the left of
+the dissipative region. For box turbulence for which the lowest resolved wavenumber kmin = 1,
+
+
+ata =o
+
+—— kewsser. 221
+—— r.-as.ut=86
+cy k,=26uT =436
+Ri=20 vt =873
+
+3 — k=19 v= 1309

@@ -1,0 +1,25 @@
+This has led to novel kinetic and Fokker—Planck-type equations in domains of opinions [8,9].
+A recent trend is to incorporate the heterogeneity of groups into models, in particular the existence
+of certain opinion leaders that are trusted more than others. Besides the fact that now systems
+have to be considered instead of single kinetic equations, the interactions naturally become
+asymmetric, which complicates the mathematical analysis (e.g. [10]). In this issue, Albi et al. [11]
+deal with such a problem, considering Boltzmann-type interactions with leaders also at the
+
+microscopic level, and explaining how they can control opinion from the arising macroscopic 73
+models. : 2
+3. Spatial pattern formation by consensus and herding 8
+In the last few decades, motion of socially interacting individuals has received a lot of attention. : a
+This ranges from animals (insect swarms, fish schools and bird flocks) to human crowds. Various a
+interesting mathematical models and questions arise from the fact that those animals adapt their [4
+spatial motion due to some consensus reached with other individuals locally around them, e.g. : N
+birds adapt their velocity to follow the flock without explicitly knowing a determined group : S
+velocity. Hence, this is a natural paradigm of self-organized formation of macroscopic patterns [8
+
+from microscopic interactions. The mathematical analysis of flocking has become popular after
+Cucker & Smale [12] introduced a simple model that is accessible to rigorous arguments. In the
+macroscopic setting, flocking means that—at least in some spatial region—the density looks like a
+Dirac delta distribution in velocity space, hence analysis of flocking is naturally linked to blow-up
+phenomena for PDEs (e.g. [13,14]).
+
+In the last few years, a variety of novel techniques have been developed to treat more
+realistic models (e.g. [15,16]) and better understand phase transitions, i.e. critical values of certain

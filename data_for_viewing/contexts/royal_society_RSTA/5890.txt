@@ -1,0 +1,25 @@
+from [14], which enjoys uniform-in-time bounds on the first-order derivatives and decreases the
+
+
+negative norms of a specific advected scalar exponentially in time. By interpolation, the positive
+norms of the scalar increase exponentially in time, and roughly speaking the iterative construction
+entails a rescaling in time that makes the exponential increase an instantaneous blow up, still
+keeping under control the W!? norm of the vector field for every p < oo. By contrast, in the present
+proof, we rely on the velocity field constructed in §2, which increases the H! norm of the advected
+scalar exponentially in time, but in general, it is not mixing. The advantage of this approach is that
+higher regularity norms of the velocity field are controlled uniformly in time, and that the growth
+of the Sobolev norm holds for every (non-trivial) advected scalar with initial data in H!. We will
+therefore be able to keep under control higher W"? norms of the vector field uniformly in time,
+and to show loss of H! regularity for every such initial data. In fact, since the construction is local,
+we need only assume that the initial data is locally in HR’).
+
+The iterative construction becomes however less explicit, since the location and the spatial
+scale of the family of cubes depend on the initial data, as we need to select the cubes in such a
+way that the derivative of the initial data is large enough in all of the cubes.
+
+Proof of theorem 1.1. We divide the proof in three steps. :
+Step 1. Set-up of the geometric construction. We need to determine a sequence of cubes in R4 on :s
+which we replicate rescaled constructions based on proposition 2.2. We denote by Q;, a cube of ae
+side-length 4, (both the location of the cubes and the side-lengths are to be determined), and we 4)
+denote by Q, the cube with the same centre as Qn and side-length 7n. We will make sure that —
+{Qn} is a disjoint family contained in a bounded set and that it clusters to a point. :®

@@ -1,0 +1,25 @@
+AUUlle | ACUThr ) AAUAsn | AGUSer | U AUUlle | ACUThr | AAUAsn | AGUSer | U 2
+AUCIle ACCThr | AACAsn | AGCSer | C AUCIle ACCThr | AACAsn | AGCSer | C S
+A | AUAlle | ACAThr | AAALys | AGAArg | A A | AUAMet | ACAThr | AAALys | AGAStop ) A : >
+AUGMet | ACGThr | AAGLys | AGGArg | G AUGMet | ACGThr | AAGLys | AGGStop | G =
+GUUVal | GCUAla | GAUAsp | GGUGly | U GUUVal | GCUAla | GAUAsp | GGUGly | U a
+GUCVal | GCCAla | GACAsp | GGCGly | C GUCVal | GCCAla | GACAsp | GGCGly | C 3
+G | GUAVal | GCAAla | GAAGIu | GGAGly | A GJ} GUAVal | GCAAla | GAAGIu | GGAGly | A
+GUGVal | GCGAla | GAGGlu | GGGGly | G GUGVal | GCGAla | GAGGu | GGGGly | G
+
+regularities in the genetic code were clear from the very beginning (e.g. [7,8]).2 For example, in
+most cases, codons sharing the first two nucleotides code for the same amino acid. Furthermore,
+some biochemical properties of amino acids are correlated with specific nucleotides in different
+codon positions; in fact, codons with the same nucleotide in the second position are associated to
+similar amino acids; also, there is a correlation between the first base of codons and the precursors
+from which the encoded amino acids should be synthesized [9,10].
+
+The genetic code is a translation table that connects the world of nucleic acids, where biological
+information is stored, to the world of proteins, the chemical bricks of cellular metabolism. The
+genetic information is stored in double helix DNA molecules. Part of this information is converted
+into the single helix messenger RNA (mRNA) through a process called transcription. In this
+process, thymine (T), one of the four bases thymine (T), cytosine (C), adenine (A), and guanine
+(G) that compose DNA, is replaced by uracil (U). Counting from the start signal, every group of
+three contiguous bases in mRNA forms a codon. The genetic code assigns each of the 64 possible
+codons to the 20 amino acids (plus stop signals) so as to form the protein polymeric chain. Such
+process is called translation. Since there are 64 codons and 20 amino acids, the genetic code is

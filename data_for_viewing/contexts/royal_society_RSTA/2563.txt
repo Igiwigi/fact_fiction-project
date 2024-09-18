@@ -1,0 +1,25 @@
+(n + 1)th row, one has to duplicate the nth row and add another square, and so there are n + 1
+squares in the (1 + 1)th row. Thus, ‘an intuitive version of mathematical induction’ allows one
+
+to see that for any n, the number of squares in the nth row will be n. Therefore, calculating :8
+
+"i requires calculating the total number of squares in the diagram, which is n?/2 + n/2, Ss
+by the formula for the area of a triangle plus the number of squares supplied by the shaded : =
+half-squares. 7
+
+Note that Chihara’s suggested induction does not lead directly to the theorem: rather, it leads : a
+to the result that )>/"_, i is the number of squares in the diagram with n rows. Put another way, : =
+Chihara’s induction shows that the diagram (3.1) can be extended to any number of rows 1 : =
+without changing the fact that its area is )~'' , i. It is from this statement that the result is then 1B
+deduced. By contrast, the non-spatial induction leads directly to the result. Thus, it cannot be : =
+the case that greater simplicity of the spatial proof is just because the diagram serves to guide 8
+the reader through the induction in a way that is simpler than the non-spatial proof, for the two : o
+inductions have different conclusions. in
+
+It does not seem relevant whether Chihara’s account of the thought-process is seen as : =
+extracting an induction encoded in the diagram, or as constructing an induction suggested by : S
+it: the point is that if the proof is through an induction triggered by the diagram, it must be oN
+
+simpler than the induction in the non-spatial proof. Of course, the spatial proof does not require
+any notation and is simpler in that respect, but it seems difficult to identify other ways in which
+it is simpler.

@@ -1,0 +1,25 @@
+Because of the parallel nature of many of the most CPU-intensive aspects of the Discovery
+Bus model-building process (the shaded blocks in figure 5), there is the potential to exploit
+the cloud to speed up the model building. Initial work using the existing system running
+in an unmodified form on Amazon EC2 virtual machines did not demonstrate a satisfactory
+performance improvement (the limit of scalability was reached using only 20 workflow execution
+machines). In an attempt to improve this performance, the Discovery Bus workflow was
+re-implemented as a hierarchy of e-SC workflows.
+
+At the top level of the modified system is a single workflow that operates on every
+available dataset. This workflow then initiates a new execution branch for each dataset that runs
+concurrently to calculate descriptors and, ultimately, to construct and validate a set of models (the
+workflow is shown in figure 2). The opportunities for parallelization in this system arise from the
+fact that each set of data can be treated independently. Thus, when the first workflow completes,
+there are several thousand independent workflow requests in the execution queue.
+
+To create this system, a number of additional workflow blocks were developed. These blocks
+used the API provided to add new workflow execution requests to the workflow queue. At its
+peak, during processing 480 datasets, there were over 7000 workflow requests in the queue, each
+of which could potentially have been executed in parallel.
+
+
+180
+> 160
+
+= 140

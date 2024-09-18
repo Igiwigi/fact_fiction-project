@@ -1,0 +1,24 @@
+these strain components, we can construct 3 x 3 strain tensor and obtain principle axes or
+eigenvectors of the tensor for 7") <0 atoms, then evaluate the maximum shear direction as
+unstable deformation mode [16].
+
+In the present study, this mode analysis is applied to mode I crack along the bi-metal
+(001) interface of Fe/W, Fe/Ni, Fe/Co and Ti/Mg. There are enormous MD studies on crack
+propagation in single crystal including our AES analysis on Fe [12], Si [13], Mg [14] and 3C-
+SiC [15]; however, a few studies treat the crack propagation along the bi-metal interface. Liu et al.
+investigate the influence of alloying elements Re, Co and W on the crack propagation along the
+Ni/NigjAl interface [18]. Zhou et al. study the crack propagation along the Al/SiC interfaces [19].
+Zhang et al. discuss the crack propagation along the twist boundary of nano-nickel bi-crystal [20].
+Elzas and Thijsse propose a cohesive law for crack growth along Fe/precipitate interfaces [21]. In
+fact, spontaneous cracking along the bi-metal interface cannot be expected since the rupture occurs
+in either side of lower surface energy and elastic constants, as reported in our previous study on
+adhesion of Ni/Al interface [22]. However, some impurities such as oxide and precipitate could
+initiate cracking along interfaces. Thus we introduce an ideal crack along the bi-metal interface by
+virtual force shield. It is also noted that our main purpose is not to discuss the obtained behaviour
+as real material but to explore the physical meaning of AES in various phenomena with model
+material. We adopt the embedded atom method (EAM) potential by Zhou et al. [23], of which
+basic characteristics are clarified in the previous static analysis [24].
+
+2. Atomic elastic stiffness and simulation procedure
+
+In the framework of the EAM potential, the energy contribution of atom a, E", is defined as,

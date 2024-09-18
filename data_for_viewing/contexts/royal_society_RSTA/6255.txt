@@ -1,0 +1,25 @@
+of invariant distribution 7;; e.g. Metropolis—Hastings. Then we select the corresponding backward
+kernel /;_1 as the reversal of my, i.e.
+
+mee (Zp—1) Me (Zp—1, Zt) = Te(Ze Nya Zt, 24-1), (3.6)
+
+so in particular we have 1;_; =m; if my; is reversible w.r.t. 2. Implicitly, the reversal of m; means
+the kernel associated with the time-reversed process of that with transition dynamics given by m;,
+that begins in stationarity. When (3.6) is satisfied, we can easily check that the evidence estimate
+equation (3.5) simplifies and becomes equal to
+
+V(t)
+This estimate is elegant but it is unfortunately d difficult to obtain a low-variance estimate of the
+gradient of this ELBO. This is due to the fact that the transition kernels m; will typically involve
+accept/reject steps.
+
+Consider for example that 1m; is a Metropolis-Hastings type kernel. We follow here the
+derivation by Thin et al. [16]. If we use a reparameterized proposal then we can write
+
+mi(zea,20)= | m( Cra, n),20)8) du, G8)
+where g(u) is typically a standard multivariate normal and
+
+Ne ((Zp-1, W), Ze) = oe (Zp—1, H)85,(z,4 0) (Zt) + {1 — oe (Zp—-1, Ue) }5z,_, (Zt), (3.9)
+
+where 6,(z’) denotes the Dirac delta function, and S;(z;~1,u) denotes the Metropolis—Hastings
+proposal from point z;_; with noise u (sampled from the distribution g). For example, if

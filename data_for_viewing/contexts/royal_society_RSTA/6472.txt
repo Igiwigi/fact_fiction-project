@@ -1,0 +1,25 @@
+ask a question, 27 x 37, and get an answer, 999. The two expressions have different senses and we
+must do something (make a proof or a calculation [---]) to show that these two senses have the
+same [reference].’ [145, pp. 1-2]. Is it possible to make this kind of abuse of notation rigorous? Is
+it possible to define a notion of equality that explicitly encodes this computational dimension? Is
+it possible to introduce a notion of equality that somehow takes into account Fregean distinction
+between sense and reference?
+
+Now, the notion of mathematical equality (and, a fortiori, the notion of identity) has undergone
+a far-reaching process of reconceptualization that started with the development of category theory,
+continued with the enhancement of the latter to higher category theory, and has recently entered
+into a new phase with the development of homotopy type theory in the early new millennium [26,27]
+(see also [28] and references therein). Category theory made clear that the notion of strict equality
+is indeed too strict. This fact motivated the ‘stretching’ of the notion of strict equality into the
+notion of isomorphism. It soon became clear that a full-fledged development of this weakening of
+the notion of strict equality requires us to extend category theory to higher category theory. In
+turn, we could say that homotopy type theory focuses on the sector of higher category theory
+that encodes this extension of the notion of equality, namely the higher categories known as oo-
+groupoids. Very briefly, the main new ingredient of homotopy type theory is the structure given by
+the so-called propositional equality between terms of a type. Given two terms of a type a,b: X, the
+propositional equality a =x b is itself a type whose terms are the concrete identifications between
+a and b, that is, the proofs that a and b are equal (which means that the proposition is false if the
+type a=  b is empty). Since two proofs p,q :a=x b of a propositional equality are not necessarily
+equal (i.e. the uniqueness of identity proofs principle does not hold), a propositional equality a =x b
+might envelop a complex structure of higher identifications. It follows that a type has the structure
+of an oo-groupoid which—according to the so-called homotopy hypothesis—can be understood as

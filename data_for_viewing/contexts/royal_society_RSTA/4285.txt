@@ -1,0 +1,25 @@
+strong and weak convergence, respectively.
+
+Definition 1.1 (Mutual recovery sequences (MRS)). Given the ERIS (Q, €;, Dx) for k € Noo :=
+NU {oo}, a sequence (ti, qi)ken With t, > t, and qi, — qx in Q, and q € Q, a sequence (9x)xen is called
+an MRS if 4, ~ g and
+
+lim sup (Ex (ter Fk) + Dic(qes Ike) — Ex the Mk) S E volts, 4) + Doo (Gur 9) — Eooltes qx)-
+00
+
+The importance here is that we have to recover mutual information on the energy increment
+E cot, G) — Eoo(te, qu) and the dissipation D.o(q,.,q) with the help of one sequence (4x)x. This is
+clearly distinct from separate relaxation, where there is no interaction between the two quantities.
+In particular, this relates to the obvious fact that, for an evolutionary theory, we need a recovery
+condition that couples properties of the energy storage and the dissipation. Another instance
+of an explicit coupling occurs in EDP-convergence (EDP =energy-dissipation principle) for
+generalized gradient systems (Q,€,,R,) defined in [18].
+
+To highlight the major advantages of MRS, it is sufficient to look at the case €, = € and Dy = D
+for k € Noo, since, even for showing the existence of energetic solutions for one ERIS, the concept
+of MRS is relevant and non-trivial. The simplest case occurs if D is weakly continuous and
+E(t,-) is weakly lower semi-continuous; then we can always choose the constant MRS qj = 4,
+since D(qx, 4) > D(qx,q) and lim infk.. 4 E(t, qx) = E(t, qu). There is a huge literature for non-local
+material models, where the energy is regularized by gradient terms or some non-local terms,
+while the dissipation remains local like D((u,z), (i,2)) = J 9 D(x, 2(x), 2(x)) dx [19-24]. Indeed, if
+Q=U x W*4(Q) for some s >0 and q> 1, then weak continuity of D holds for Caratheodory

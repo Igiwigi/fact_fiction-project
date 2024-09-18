@@ -1,0 +1,25 @@
+Therefore, we can estimate the target density p,(x) by the rational-quadratic spline Ty and the
+prior density pz(z)
+
+Px(x) = pz(To(x)) | detfr, (x) | - (2.6)
+
+For more details, see [56].
+
+(c) Real-value non-volume preserving transformations
+
+After briefly reviewing the general framework of normalizing flows and neural spline flows in
+previous subsections, we introduce the construction of the real-value non-volume preserving
+transformation [49]. In this subsection, for the sake of simplicity, we only focus on two-
+dimensional density estimation. In fact, this method can be extended to any finite dimension.
+For the target probability density px(x), where x = (x1, x2) is a two-dimensional real vector and
+the prior density is denoted by p-(z), z€ R?, we aim to design an invertible and differentiable
+
+
+transformation Tg such that z = Tg(x) and determinant of the Jacobian is easy to compute. To be
+more specific, we propose the following transformation:
+
+ZX
+Ti eu)
+and 2Q= che et) + (xq),
+
+where the notation j and v are two different neural networks. Here, C is a hyperparameter. We

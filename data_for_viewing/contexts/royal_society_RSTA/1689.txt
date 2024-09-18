@@ -1,0 +1,25 @@
+performed a detailed simulation campaign examining different delays between the compression
+and the short pulse responsible for triggering shock formation. In practice, this translates into
+initiating the PIC simulations with different density profiles. Here, we are going to report results
+obtained when a delay of 21 ns was taken into account. At this time, the long compression pulse
+has already heated the corona initiating the rocket effect to compress the core. The main pulse
+thus interacts with a plasma whose density increases exponentially until a peak of np = 146 ne,
+where 1; is the critical density where the laser frequency wp = 27c/A9 equals the electron plasma
+frequency wp = 4 enc/me (see figure 1, which shows the electron density as a function of
+distance in logarithmic and linear scale respectively). Here, c is the speed of light in vacuum,
+e the elementary charge and m, the electron mass. The initial plasma temperature is set to
+0.1 MeV. We note that the selected plasma temperature is slightly higher than that predicted by
+hydrodynamic simulations (see for instance fig. 2 in [12]). However, this choice does not have any
+impact on the results. In fact, as will be clear later, the intense laser pulse heats up the electrons
+to temperatures which are a couple of orders of magnitude higher than our initial choice. It is
+thus this temperature that influences the shock formation and propagation. In order to explore
+the interaction and the subsequent plasma dynamics, a simulation box 925 1m long and 18 1m
+wide was adopted. The system is numerically resolved with two cells per electron Debye length
+Ap = VkpTe/4z e21c, where kg is the Boltzmann constant and T, the electron temperature. The
+temporal step is chosen to satisfy the Courant condition. In order to model the plasma dynamics
+correctly 36 particles per cell and quartic interpolation were employed. A parameter scan has
+been performed to check that the resolution and the number of particles per cell do not affect
+the simulation results. Periodic boundary conditions were imposed for the transverse direction,
+while absorbing boundary conditions were used for particles and fields along the longitudinal
+direction. Our PIC simulations do not include collisional effects. We are modelling the interaction
+of an intense laser with the corona plasma, which is collisionless. The mean free path values for

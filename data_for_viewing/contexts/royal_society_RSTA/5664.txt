@@ -1,0 +1,25 @@
+operate in real time. Hence, this DT can be described as a two-level DT, where a DTI for MPC
+of autonomous landing (AL) is wrapped around an innovative, real-time DTP (RT-DTP) for FSI
+(figure 1). The design of this DT features three innovations that constitute the main contributions
+of this paper: the formulation of the governing coupled FSI equations in an arbitrary Lagrangian—
+Eulerian (ALE) setting and their linearization about a pre-designed glideslope trajectory, rather
+than a mere equilibrium point, albeit using a reasonable simplifying assumption; the construction
+of a linearized, computational fluid dynamics (CFD)-based, fluid projection-based reduced-
+order model (PROM) [17] and its coupling with a linearized six-degrees-of-freedom (6-d.f.)
+representation of the rigid dynamics of the UAV; and the training of the resulting FSI PROM
+for any deflection of any of the UAV’s control surfaces. Hence, in this work, the UAV is assumed
+to be sufficiently stiff to justify its representation by a 6-d.f. rigid body, equipped with deployable
+control surfaces. This assumption is appropriate, as it is satisfied by many UAVs, particularly in
+the context of landing. Linearization is also justified by the fact that the controller can be expected
+
+
+
+to maintain the UAV within small perturbations about a pre-designed glideslope, except if it 4 |
+has to deal with an exogenous event just before touchdown—a scenario that is not considered
+
+in this work. On the other hand, linearization about a steady-state equilibrium point would 3
+not be effective in this case, because the fluid state at such a point is time-dependent. For this oS
+reason, a more suitable linearization is performed instead. As for relying on a low-dimensional, : gS
+physics-based DTP instead of a lookup table or a regression-based surrogate model based on 12
+
+steady-state wind tunnel data for predicting the aerodynamic forces and moments needed by

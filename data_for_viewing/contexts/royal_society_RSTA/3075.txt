@@ -1,0 +1,24 @@
+1kHz in 2016. Comparing figure 7a,b it is visible that over time the overall sensitivity of
+GEO600 was continuously improved, and that additionally the degree of squeezing within the
+interferometer was increased, even though the degree of injected squeezing remained the same.
+This was achieved by painstakingly reducing optical losses in the interferometer (the effect of
+losses on non-classical states of light is explained in §5). While a factor of less than 3 in sensitivity
+does not seem like a large improvement at first glance, it is worthwhile noting that the observable
+volume of the universe scales with the cube of the sensitivity increase. Thus, even small sensitivity
+improvements are pursued tenaciously.
+
+It is obvious from the graphs in figure 7 that phase-quadrature squeezing increases the high-
+frequency sensitivity of the gravitational wave detector. Maybe unexpectedly (after the treatment
+in §2), it is also evident that the low-frequency sensitivity is not decreased—this is due to the
+fact that technical noise still dominates the detector’s sensitivity at low frequencies, masking the
+effect of quantum radiation pressure noise (which is thus not visible). It is therefore beneficial for
+the overall gravitational wave detector sensitivity to inject phase-quadrature-squeezed light, as
+it increases the high-frequency sensitivity, where the interferometer actually is quantum noise-
+limited. This will change once the advanced gravitational wave detectors become quantum
+radiation pressure noise noise-limited at low frequencies, as their design sensitivity (figure 2)
+predicts.
+
+Keep in mind, though, that by employing this technique the standard quantum limit is not
+surpassed: the effect of phase-quadrature squeezing is merely as if one turned up the laser power
+(but without the drawbacks associated with a power increase, e.g. larger thermal noise due to
+

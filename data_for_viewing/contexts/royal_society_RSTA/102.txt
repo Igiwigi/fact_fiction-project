@@ -1,0 +1,24 @@
+choose instead of (7.1) the Lorentz gauge condition, namely
+
+a,A“ =0, (7.2) : 4
+which does not require a choice of reference frame. But, in this case, some gauge freedom remains; : g
+here, if B“ =0, all we can say about ¢p is that it satisfies the wave equation, 0,0" ¢2 =0, which, : 3S
+being a hyperbolic equation, does have non-trivial solutions. In this manifestly Lorentz-invariant : Z
+
+formalism, the Goldstone theorem does apply. There are Nambu-Goldstone bosons, and because
+the field gz satisfies the wave equation they are massless. But they are not physical, they are pure
+gauge modes.
+
+There is one further subtlety. We have spontaneous symmetry breaking in a gauge theory, but : 8
+it is not, in fact, the local gauge transformations that are spontaneously broken. Indeed, in 1975, Dos
+Elitzur [27] showed that spontaneous breaking of a local symmetry is logically impossible. In _
+the Coulomb-gauge formalism, our gauge condition has eliminated the local gauge invariance; : Sy
+it is broken explicitly, not spontaneously. But there remains a global symmetry. We chose ¢ to a
+be real, or equivalently gz =0, but we could have chosen any other fixed phase instead. (This : &
+corresponds to the fact that gz may not vanish but be a non-zero constant.) It is this remaining : a
+global symmetry that is actually spontaneously broken. Moreover, it should be emphasized that, : Ss
+unlike for example the distinct degenerate ground states of a freezing liquid, our distinct vacuum DNS
+states are all physically equivalent. This is because for the phase of ¢, unlike the orientation of : =
+the crystals, there is no fixed external reference standard. In our case, there is no true physical : 8
+
+degeneracy of the vacuum.

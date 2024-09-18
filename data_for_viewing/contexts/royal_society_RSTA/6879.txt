@@ -1,0 +1,24 @@
+— = Y S2,Pon(cos 8),
+n=0
+
+for the two cases of plane and axial symmetry respectively. The coefficients $,, are non-
+dimensional functions of ¢ only.
+
+The normal procedure would be to substitute (8) [or (9)] and (10) in (3) and (4) and
+attempt to manipulate all the trigonometric functions so that the only trigonometric functions
+finally appearing are those of the orthogonal sets which are being used as the bases, namely,
+cos 2nf or P,,(cos@). By collecting together all the terms in each particular cos 2n0 or
+P,,,(cos@), the equations (3) and (4) yield three infinities of equations. These equations
+would, in principle, be solved successively, beginning with the gravest harmonic and
+moving to each higher harmonic in turn. Ifsuch a procedure were in fact possible, we would
+hope to have established a convergent process, and to obtain a reasonable approximation
+to the motion with the first few terms. Unfortunately, however, this procedure is too
+complicated to give satisfactory results. The high powers of R which appear in the
+velocity potentials give rise to very high order equations in the S$ coefficients, when
+the expansions (8) or (9) are used in (3) and (4). An alternative procedure was therefore
+developed.
+
+In numerical work, of course, one can only take a few terms in the expansion. Any /inite
+number of terms in the expansion (10) imposes the result that
+
+[m,. wei @)

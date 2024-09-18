@@ -1,0 +1,25 @@
+strict definition in structural dynamics as the mass distribution (nominally expressed by mass
+matrix M) weighted by the square mode shape ¢: m= g! Mg.
+
+Mode shapes have no units and since mode shape scaling is in principle arbitrary, modal mass
+can take any value. However, it is conventional in earthquake engineering and for some finite-
+element (FE) solvers to set mode shape scales such that the calculated value of mm is one mass unit
+(e.g. 1kg). A more physically meaningful mode shape scaling sets the value of the largest ordinate
+or the ordinate at a particular location on a structure where loading is likely to be applied to unity.
+This means that modal or generalized response parameters have direct physical interpretation,
+such as modal force and acceleration being actual values if a wave load is applied at the top of
+a lighthouse or for shaker testing. Specifically, figure 7 sets ¢ =1 at the Service room (top of the
+masonry tower), while figure 9 sets ¢ = 1 at the helipad. The former is more appropriate for wave
+loading if the breaking wave impact is at Service room level, whereas in fact the effective point
+of application is much further down the tower. The lower modal mass of modes 4 and 5 means
+they will respond most strongly to wave impacts, and some sense of response to known load
+(or some sense of load for known response) can be obtained by scaling mode shape to unity at
+the wave impact point. Since the modal mass goes with square modal ordinate which decreases
+rapidly with height, the effective modal mass for breaking wave impacts will be very much higher
+than 314t.
+
+(e) Response monitoring, winter 2017/2018
+
+A remote logging system was installed at Wolf Rock on 7 September 2017 to acquire acceleration
+data from a single JA-70SA triaxial servo accelerometer installed in the Battery room (L7). While
+the logger still operates, a notable sequence of storms occurred during the period 9 July 2017 to

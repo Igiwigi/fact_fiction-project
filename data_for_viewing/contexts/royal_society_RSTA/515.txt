@@ -1,0 +1,25 @@
+be K-sparse. A K-sparse constraint thus restricts elements to lie on one of several subspaces. The ae
+
+set of all K-sparse vectors is thus a union of subspaces. eae
+For an arbitrary vector x, calculation of the K-sparse approximation Xx with the smallest least- 7
+
+squares error can be done extremely efficiently. All that is required is to sort the entries in x Dy
+
+by decreasing magnitude and set all but the K largest elements of x to zero. We will call the aS
+
+calculation of the best K-sparse approximation of a vector a projection of the vector onto the union 1S
+
+of subspaces. ,
+The power of sparsity constraints comes from the fact that they are not restricted to the
+
+canonical basis, but that we can restrict coefficients in any basis. By carefully choosing the right
+
+basis, we are thus often able to model and constrain different characteristics of x. For example, for
+
+our tomographic X-ray problem, wavelet bases can provide good sparse models. Let @ be a basis
+
+matrix and define s such that x = ®s. We then say that x is sparse in the basis © ifs is sparse. If ® is
+
+orthonormal, then it is again easy to commute the best K-sparse approximation of x in the basis ®.
+
+This is done by calculating s = 7x, which is then again thresholded by keeping only the K largest

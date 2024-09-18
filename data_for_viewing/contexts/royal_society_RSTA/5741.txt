@@ -1,0 +1,25 @@
+“s a
+= 1924 -p——— to to Precoeafescnns b
+1 1985 foo
+19} Pm
+0 1000 2000 3000 4000 5000 0 1000 2000 3000 4000 5000
+time (UUs) time (UUs)
+
+Figure 3. Norm of impulse response computed for (a) pressure, (b) velocity, (c) temperature and (d) species mass fraction.
+
+Balanced ROMs are then constructed with ERA. Eigenvalues of the ROMs are shown in
+figure 4. All eigenvalues are located inside the unit circle (with maximum absolute value of
+|A| = 0.9999976), which demonstrates discrete-time stability of the balanced ROMs, despite the
+fact that the time step of balanced ROMs is 100 times larger than the original time step of
+
+
+Ooo = (c) T T T
+—— velocity 1.00; ¢  FOM
+5 — temperature < NI-BROM (p)
+A NI-BROM (u)
+e-10 | 0.75 | NEBROM (T) ~
+0
+2
+“15 one 0.50 |
+—— =| 0.25 |
+0 100 200 300 400 500

@@ -1,0 +1,25 @@
+are available for predicting their thermomechanical
+
+THE ROYAL SO C IETY © 2016 The Author(s) Published by the Royal Society. All rights reserved.
+
+PUBLISHING
+
+
+behaviour, as described in many comprehensive reviews on the state of the art for SMA 2 |
+constitutive modelling (e.g. [2-5]). Because the complex response of SMAs has several facets
+(pseudoelasticity, martensite reorientation, one- and two-way shape memory effects and 3
+constrained recovery), only a few of the existing models seek to account for all of them at the same : 8
+time [6-8]. In addition, there are some aspects that have yet to receive a sufficiently comprehensive ig
+modelling treatment. One of these is the fact that, in certain situations, the phase transformations 18
+are observed to occur in spatially localized domains [9]. Another of these is the relatively recent :f
+discovery that, in some groups of alloys, phase transformations can be induced in specialized :
+ways by magnetic fields [10].
+
+In this paper, we describe a generalized modelling framework that is capable of consistently
+dealing with both the above aspects, as well as the conventional ones involving thermal and load
+activation. This is based on the idea, first introduced in [11], to model bodies made of SMAs as
+structured continua characterized by a fully fledged set of balance equations for a suitably chosen : =
+set of microstructural descriptors. Specifically, as in [11], these descriptors are taken in the form of 3
+a scalar field and a second-order tensor field. Even though the basic idea of seeking an enriched
+set of kinematic descriptors in continuum mechanics is not new, with antecedents tracing back nee)
+to the Cosserat brothers, and unified general treatments presented in [12,13] among many others, :

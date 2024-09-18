@@ -1,0 +1,25 @@
+This latter approach can easily lead to a violation of fundamental rights because machine
+learning-based AI is trained on real-life examples of previous decisions. This training will embed
+any decision-making which infringes those rights in real life, rather than the ideal behaviour
+which is described in the law ([8], paras 47-49). For example, the practice of motor insurers
+granting insurance policies to women on more favourable terms than to men, which is objectively
+correct because the statistical evidence is clear that women present a lower risk, has been held
+unlawful on the ground of sex discrimination by the Court of Justice of the European Union [9].
+More recently, potential for infringement of the right to a fair trial by using an AI tool to assist
+in sentencing has been recognized in US legal proceedings [10]. The Supreme Court of Wisconsin
+considered the issue at length and issued detailed guidelines for future cases, the most important
+of which is that fundamental rights will inevitably be infringed if decisions are made solely on the
+basis of a machine learning technology which cannot give a satisfactory account of the process by
+which its recommendations were produced ([10], paras 93-97). The fact that the tool’s predictions
+were shown to be accurate enough in aggregate to justify its recommendations was an essential
+prerequisite for using the tool at all ([10], paras 87-92), but did not overcome the obligation
+to give individual consideration to the decision which thus required the tool to explain its
+reasoning.
+
+The obvious regulatory response is to require each AI tool which has the potential to infringe
+fundamental rights to be able to explain the reasoning leading to the tool’s decisions. This might
+be workable for those AI tools where the risk is obvious, such as tools which assist in recruitment
+
+
+decisions [11], but for many, the risk of their making infringing decisions will not be recognized
+until an actual infringement occurs. It would, therefore, make sense to delay regulation if the risk

@@ -1,0 +1,25 @@
+particularly in view of the growing importance of hybrid and purely organic network materials.
+
+2. Network flexibility
+
+The simple Maxwell analysis applied to tetrahedral networks can be evaluated by treating each
+tetrahedron as a rigid object.? Each tetrahedron has 6 d.f. (rotations and translations). Each shared
+vertex has three constraint equations to place the vertices of the two tetrahedra at the same point,
+meaning six constraints per tetrahedron. This exact balance actually can be broken by symmetry,
+leading to F > C. The simple example of connected rods in two dimensions illustrates this point
+well, described in the caption to figure 2.
+
+The role of symmetry in enabling the existence of a non-zero number of RUMs is seen by
+the fact that when a network structure can exist in several phases of different symmetry it has
+always been found that there are more RUMs in the higher-symmetry phases [11]. The reason for
+this is illustrated in the case of the squares. If the RUM generates a phase transition to a 2 x 2
+structure through rotations of the squares, where we denote the rotation angle by 6, the crystal
+will necessarily undergo a strain « x —6?. Given that harmonic phonon vibrations propagate with
+constant strain, it is required that d¢/060 =0. This condition is only met at 6 =0, and thus in the
+distorted structure as defined by 6 40 the phonon motion necessarily involves stretching of the
+squares and thus has higher frequency corresponding to the energy cost of changing the bond
+length. The prediction of the number of RUMs decreasing as symmetry changes has been seen in
+neutron scattering measurements of the enhancement of the low-frequency vibrational spectrum
+
+2The Phillips-Thorpe analysis [2-5] proceeds slightly differently but with the same result. These authors consider the atoms
+to be the objects and the bonds to be the constraints. For a tetrahedral network of SiO» (say), we have 9 d.f. per formula

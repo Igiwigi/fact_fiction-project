@@ -1,0 +1,25 @@
+type-I RRVM with threshold redshift z,. ~ 1 has a most favourable impact on solving the og tension (compare with figure 1).
+(6) The corresponding regions for the type-II RRVM. One can see that the latter is able to significantly curb the Ho tension without
+worsening the og one. Hp is expressed in km/s/Mpc units. (Online version in colour.)
+
+The above x” terms are defined in the standard way from the data including the covariance
+matrices [59]. For the datasets used and the corresponding references, see [78]. In particular,
+the x part may contain or not the local Hp value measured by Riess et al. [77]. The local
+determination of Ho (which is around 40 away from the corresponding Planck 2018 value based
+on the CMB) is the origin of the so-called Ho tension [70-72]. Taking into account that the
+type I and II RRVM’s have one and two more parameters, respectively, when compared with
+the ACDM, a fairer model comparison is achieved by computing the numerical differences
+between the deviance information criterion (DIC) of the ACDM model against the RRVM’s:
+ADIC = DIC cpm — DICRrvn. These differences will be (and in fact are) positive if the RRVM’s
+fit better the overall data than the ACDM. The DIC is defined by DIC = VO)+ 2pp [146]. Here,
+po= x — x°(@) is the effective number of parameters of the model, and x and 6 the mean of the
+overall x? distribution and the parameters, respectively.
+
+The value of DIC can be computed directly from the Markov chains of our analysis [78]. For
+values +5 < ADIC < +10, we would conclude strong support of the RRVM’s when compared
+
+
+with the ACDM, and for ADIC > +10 the support becomes very strong. Such is the case
+when we use a threshold redshift z,~1 in type I RRVM. By contrast, when the threshold is
+removed we find only moderate evidence against it (—3 < ADIC < —2). Apparently, the effect
+of the threshold can be very important and suggests that a mild dynamics of the vacuum is

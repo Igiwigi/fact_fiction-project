@@ -1,0 +1,25 @@
+
+For the subcritical coupling, a system starting at utmost localization conditions reaches a point
+of equal distribution of action in the anti-phase, and then goes back to localization at the same
+particle as in the beginning, completing a 27 phase-difference travel. During this process, marked
+by the thick (red online) curve, the other particle never attains a majority of the overall energy. In
+contrast with that, for a slightly supercritical coupling, the phase never supersedes z, whereas y
+travels through its entire range and energy flows from one particle, which has a majority of the
+energy in the beginning, to the other particle, which attains a majority of it in the end of the period
+(with corresponding active impact dynamics).
+
+One notes the initial part of the orbit, corresponding to y <1, which is flat, much unlike the
+majority of the curve, which is nearly straight with a slope of 3 for about half of its range. This
+illustrates the fact that the asymptotic form of the Hamiltonian, with the vanishing y-? coupling,
+is incorrect for y < 1. One other important point to be made here concerns the limit of vanishing
+impact velocity. Clearly, this is an opposite limit to what was examined previously in this section,
+namely E — 1+ instead of E > 1. One should expect that in this limit, where the nonlinear effects
+are vanishing, there would be no localization regime at all due to equipartition of energy. In other
+words, one should expect delocalization here for a coupling value as small as zero. Therefore,
+looking at the entire range, the critical coupling ker as a function of the total normalized energy E,
+should be a function starting at zero for E = 1 and increasing until reaching a horizontal asymptote
+for E > 1, with the value given in equation (6.12).
+
+The following section generalizes the calculation of the critical coupling for finite values of the
+foundation stiffness. It is subsequently validated that indeed the proposed generalization of the
+definition of the LPT allows good prediction of the critical transition of the unaveraged system.

@@ -1,0 +1,25 @@
+and a temperature of 273.16K, the refractive index differs by 1 of about 17 parts over 10° [77].
+It should be noted the nonlinear dependence on the gas pressure for such a correction to the
+Doppler width, differently from the Dicke-narrowing effect that goes linearly with the pressure,
+at a fixed temperature. Nevertheless, if the pressure range is sufficiently narrow, then a linear
+approximation holds at the first order, so that the following expression is valid:
+
+lp fe pw
+
+n-1= kT (< + scr) : (7.5)
+Consequently, it is not possible to distinguish among the two effects, when individual fits are
+performed. In other words, the refractive index effect acts like a correction to the VC collision
+frequency. This was the case of the water experiment at 1.39 |1m, in which the H;80 pressure
+varied between 150 and 500 Pa. In fact, the relative deviation from linearity of n — 1 versus p
+
+results to be at the ppm level across the pressure range of interest.
+It is worth noting that, in a global fitting approach, the refractive index effect can be properly
+and accurately considered by using equation (7.4), circumstance that represents a further reason
+
+
+
+to adopt the global approach. Because, in most cases, the gas pressure is unknown, the correction |e |
+should we written in terms of integrated absorbance, A, as follows:
+
+A [a we
+A Av? + Ave 1/14 -1], 7.6

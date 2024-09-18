@@ -1,0 +1,25 @@
+hydrodynamic and parametric instabilities are minimized. Along with operating at low
+convergence ratio, this is achieved by selecting upper permissible limits on implosion velocity,
+in-flight aspect ratio and on-target intensity. By considering only the results of simulations which
+satisfy all four of these criteria, the campaign is limited to a regime where the effect of instabilities
+should be small and where the 1D simulation code should provide reasonable estimates of the
+
+
+experimental performance. The purpose of this paper is not to suggest that the specific gains
+that these simulations predict are actually obtainable experimentally. For this to be the case,
+more detailed simulations in higher dimensions would be required. The gains presented are also
+not in themselves particularly remarkable, with much higher gains being regularly reported for
+simulation work. Rather, the notable and novel aspect of this work is in its identification of a
+regime where instability growth is expected to be low, and the fact that 1D simulations suggest
+that reasonable gain is possible in such a regime. The 1D simulations are intended only to provide
+an indication of performance, but it is believed that this initial estimate is sufficiently high to
+warrant further investigation of this regime and approach.
+
+The inability of 1D simulation codes to provide an accurate predictive capability is a
+significant obstacle to achieving ignition, and attempts to mitigate this issue (aside from this
+paper’s approach of operating in a regime where these capabilities are better) are under
+development. A notable example of research efforts to address this problem was presented by
+Gopalaswamy et al. [7], who used a statistical approach to find relationships between simulated
+code outputs and existing experimental data in order to better predict future performance.
+Experiments at the OMEGA facility on the basis of their predictions allowed them to generate
+an impressive neutron yield of 1.6 x 10'*, which would correspond to 500 kJ of fusion energy on

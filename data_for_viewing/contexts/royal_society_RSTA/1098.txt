@@ -1,0 +1,25 @@
+
+
+Hence, without numerical and/or experimental confirmation, it would seem reasonable to
+suggest that R1212(y,71,0,t) does not possess an anti-correlation (negative) region—however
+small—for SP03. The only alternative explanation is that there is no non-uniformity in the
+b—solution at low Ma. This means that g4(y, t |x, f) depends on (t — t) = O(1) and not the slow time
+(To — T) = O(1) when |s| is in the peak noise location. But since the non-parallel flow theory does
+not reduce uniformly to the locally parallel flow solution when Ma <1, the direct parallel flow
+solution to (2.7) would therefore be more appropriate than solving (2.22) for the Green’s function
+of the SP03 jet (see also figure 4 and associated discussion). This is because non-parallelism
+does not diminish fast enough in (2.22) when Ma <1 owing to the residual effect of X; that
+remains at X = O(Ma) in the inner region and which therefore alters the solution, v(Y, U), to
+(2.22). Notwithstanding the fact that the direct solution of ALEEs at Ma = 0.5 of SP03 has not been
+performed showing whether any amplification in the acoustic spectrum exists at low /small (St, @)
+or not when a non-parallel flow Green’s function is used in (2.26) compared with that obtained
+by the locally parallel flow, this latter effect is probably not justified when Ma < 1. It is also worth
+noting that at the outer boundary X1(Y,U) is asymptotically small inasmuch as Xj = o0(LI) as
+U-— 0 no matter what the acoustic Mach number is (meaning, Ma = O(1)); this therefore implies
+that b = Vo(Y) + 0(U), where Vo(Y) is identical to the inner limit of the parallel flow solution to
+(2.22) that is found by letting U — 0 in (7.2) of GSA (see also p. 211 of their paper).
+
+In figure 6, we, therefore, show predictions based on an approximate composite formula for
+(Y, U) in which the non-parallel flow-based Green’s function is used below the peak frequency
+and the sum of the parallel and non-parallel used at higher frequencies after the peak. In other
+words, in (y1,1; @) co-ordinates:

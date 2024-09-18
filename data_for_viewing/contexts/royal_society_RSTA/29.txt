@@ -1,0 +1,25 @@
+we, however, empirically observe a different behaviour when incorporating uncertainty on the
+within cluster variance. In fact, the MAP clustering (figure 4b) contains only a single cluster in
+almost all replicates and is robust to the choice of a. Again, the marginal posterior on k (figure 4a)
+and the Binder clustering (figure 4c) are quite sensitive to the value of a, with the Binder clustering
+extremely overestimating the number of clusters for larger n and w. The VI clustering (figure 4d)
+contains only a single clustering in some replications, and in others contains two to four clusters,
+particularly for larger sample sizes. The former can be explained by the fact that the VI solution is
+obtained by minimizing a function of the posterior similarity matrix, and as each posterior sample
+corresponds to an arbitrary partition of the data points into convex sets, each pair of data points
+may have a relatively high probability of being clustered together.
+
+These examples highlight that the choice of estimator can greatly affect the number of clusters
+and clustering solution. In fact, while most asymptotic theory focuses on the behaviour of the
+marginal posterior on the number of clusters, quite a different behaviour is observed when
+estimating the full clustering solution. As practitioners are interested in the full clustering
+solution, this is an important aspect to consider. There are a number of interesting directions
+to expand this study, including further investigating the performance of the different estimators
+in the misspecified setting, as well as the case when the clusters are not well separated (Rajkowski
+[157] finds that MAP tends to underestimate the number clusters in this setting), and sensitivity
+to hyperparameters. Other estimators can be studied, e.g. Dahl et al. [171] develops generalized
+forms of Binder’s loss and VI with unequal penalties, which provide more control over the
+estimated number of clusters but require specifying an additional parameter of the generalized
+
+
+loss. Moreover, this study can be expanded by empirically comparing different models (MFM,

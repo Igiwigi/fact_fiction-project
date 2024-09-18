@@ -1,0 +1,25 @@
+ancestors ancestors [a
+DN
+Figure 6. Fitness and other characteristics of all = 8 self-replicators before and after evolution. (a) Ancestral fitness of all : 5
+replicators. (b) Log mean relative fitness after 2 x 10* updates of evolution. (c) Final genome size after 2 x 10‘ updates of : &
+
+evolution. (d) Number of evolved traits after2 x 10* updates of evolution. Inall plots, fg-replicators are in red and hc-replicators
+are in blue. Error bars (black) are twice the standard error of the mean. All plots are sorted in increasing order. (Online version
+in colour.)
+
+the he-replicators. In Avida, traits are snippets of code that allow the avidian to gain energy
+from the environment, by performing logic operations on binary numbers that the environment
+provides (see Methods). Replicators with the fg/gb motifs did evolve more novel traits than
+replicators with the hc/rc motifs (figure 6d). In fact, only fg-replicators evolved traits in these
+experiments. Finally, we looked at the effect of historical contingency when all 914 replicators
+were competed against each other in one population. After 50000 updates, we identify the most
+abundant genotype in 200 replicate experiments and reconstruct the line-of-descent to determine
+which of the replicators gave rise to it (we call that replicator the ‘progenitor’).
+
+Most replicators did not emerge as the progenitor of life in these experiments (figure 7). Three
+genotypes, vywfgxgb, vwvfgxgb and wvvfgxgb, outcompete the other genotypes in 37, 49 and
+45 populations out of 200, respectively, or in about 65% of the competitions. The other progenitors
+of life were not distributed randomly among the other self-replicators either; most of them were
+present in the same clusters as the three genotypes from above. Thus, while history is a factor in
+which of the replicators becomes the seed of all life in these experiments, more than half the time
+the progenitor is one of the three highest fitness sequences. Thus, life predominantly originates

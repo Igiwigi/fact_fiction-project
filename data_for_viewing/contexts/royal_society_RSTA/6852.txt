@@ -1,0 +1,25 @@
+respect of all permitted variations of the displacement w. This will be a ‘critical value’,
+and in practice we are concerned to find the lowest critical value which is appropriate
+to the specified distribution of 2, P,, S.
+
+22. The problem can be treated by the methods developed in Part VI of this series,
+but a new difficulty is presented in that usually the smallest critical load will be associated
+with a mode characterized by nodal lines.* In consequence it is by no means easy (as
+it was in Part VI) to guess with even fair approximation the form of this wanted mode:
+the form, for example, of the surface of deflexion corresponding with uniform lateral
+pressure is likely to approximate more nearly to one of the higher modes, and in that
+event can lead to the required result only by ‘regression’ (Duncan & Lindsay 1939,
+
+Regression in fact becomes an advantageous circumstance on which we would like
+to count; but we know that it does not necessarily occur,—an assumption sufficiently
+close to one of the higher modes may ‘tune up’ to that mode as we apply the standard
+relaxation procedure. A like difficulty is to be anticipated in a relaxation treatment of
+elastically supported struts: to meet it a technique is now suggested which dispenses,
+in its early stages, with ‘liquidation’ performed with the aid of an exact relaxation
+pattern, such as was employed in Part VII A of this series.
+
+“Optimal synthesis’
+23. The technique consists in a systematic ‘blending’ of two type solutions, each
+of which satisfies the imposed boundary conditions, so as to make ) as small as possible. One of
+these type solutions is a starting assumption (w,, say), the other (w,) is derived from it
+by a standardized procedure.

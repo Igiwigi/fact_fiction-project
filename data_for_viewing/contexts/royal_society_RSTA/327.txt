@@ -1,0 +1,25 @@
+
+We can often improve the situation dramatically by making use of structure within the model. [=
+Consider a model specified by a directed graph, in which the joint distribution has a factorization i
+specified by (4.4). If the individual factors depend only on small subsets of the variables, then a!
+we can exploit the factorization to obtain a more efficient inference procedure. To illustrate this, [Ss
+consider a toy example involving two binary variables a and b, and a function given simply by :
+the product ab. If we sum this function over all values of a and b, we obtain
+
+YoYo ab =ayby + ayby + ayby + arb. (5.4)
+a ob
+
+We see that evaluation of the right-hand side requires seven operations (four multiplications and
+three additions). However, we can exploit the fact that the function ab factorizes into the product
+of a function of a and a function of b to enable us to rewrite (5.4) in the analytically equivalent form
+
+Yo Vo ab = (ay +a2)(b1 + bp), (5.5)
+a ob
+
+which now only requires three computational steps (two additions and one multiplication). We
+have exploited the factorization structure to exchange summation and multiplication and thereby
+achieve a form that is analytically equivalent but computationally more efficient.
+
+Now consider a more complex example consisting of a chain of nodes, as shown in figure 8.
+Again, suppose the chain has M discrete variables each of cardinality K, and that we wish to
+calculate the marginal distribution of xj. A naive calculation would involve evaluation of the

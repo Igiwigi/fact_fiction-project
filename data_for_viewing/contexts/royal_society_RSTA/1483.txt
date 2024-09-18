@@ -1,0 +1,25 @@
+'=
+hold; it is possible to construct an example problem (or even a parametrized set of problems) Do
+Dw
+with any prescribed spectrum such that GMRES exhibits any prescribed convergence behaviour, ia
+e.g. stagnation, until the final iteration [80-82]. Consequently, any fast convergence behaviour of Dh
+GMRES is possible with the system matrix having eigenvalues widespread in the complex plane aes)
+and any poor convergence behaviour is possible with real eigenvalues tightly clustered around : ZB
+
+one. Therefore, any statement that links convergence of GMRES solely with the distribution of the
+eigenvalues of the system matrix must be justified in relation to these results proved more than
+20 years ago. This is in the literature done very rarely.
+
+The clustering argument is often used in combination with the remarkable fact pointed out
+in [83] that a certain class of preconditioners leads to preconditioned matrices with a low degree
+minimal polynomial. Such preconditioners are very important in practice where they are often
+replaced by some more computationally feasible approximations, which can lead instead of a
+low degree minimal polynomial to a few tight clusters of eigenvalues. This subtle shift requires
+a rigorous analysis. In [83], the authors issue a strong warning that while replacing the low
+degree minimal polynomial argument with the argument that the preconditioned matrix has a
+few distinct eigenvalues one must include a strong assumption that the preconditioned matrix is
+either diagonalizable or the Jordan blocks have small size?
+
+While replacing single eigenvalues by tight clusters one must admit that a rigorous argument is
+involved? and the behaviour in practice can depend, as pointed out above in the symmetric case,
+on the location of the clusters. Our point is that presenting rigorously assumptions under which

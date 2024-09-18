@@ -1,0 +1,25 @@
+and BLoLfn > xo — B(Id — LoL) fo as n > +00. Closedness of BLo then implies LoLfy € D(B) and
+BLoLfo = x0 — Bd — LoL) fo, hence fo €¢ D(B) and Bfy = xo. a
+
+
+Lemma A.3. Let Z be a weak Hille—Yosida operator (see assumption 5.3.(i)) on a Banach space X and
+let P: D(Z) CX — X be relatively Z-compact. Then also G:= Z + P with domain D(G) = D(Z) is a weak
+Hille—Yosida operator.
+
+Proof. Let 4 € p(Z) and assume without loss of generality that Z is invertible. Then for T;, :=
+PR(A, Z) € £(X) we obtain
+4-G=(1—T,)-(A-Z). (A1)
+
+Next, we show that 72 || ~ 0as A > +00. In fact, there exist constants Ag € R and C > 0 such that
+| TZ <|PZ* | - |ZRO,Z)- PZ} | -||ZRO,Z)|| <C-||ZR@,Z)-PZ | for alla > Ao.
+
+Now the operator family (ZR(A,Z)),>1, C £(X) is bounded and converges pointwise to zero.
+Moreover, PZ~! € £(X) is compact, hence by [11, Prop. A.3] we conclude ||ZR(A, Z) - PZ-1\| > 0,
+hence 72 — 0 as 4 > +00. In particular, there exists j19 > 49 such that \T3I < 3 for 4 > po and
+by (A 1) this implies [jz9, +00) C p(G) and
+
++00 +00
+R(A,G)=R(A,Z)- }°T} =R(A,Z)- (Id +T,) - )> 2".
+n=0 n=0
+
+Thus, there exists a constant K > 0 such that

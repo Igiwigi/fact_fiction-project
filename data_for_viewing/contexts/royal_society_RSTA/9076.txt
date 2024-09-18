@@ -1,0 +1,25 @@
+
+(the exponent s meaning the numbers 2m, 2m+1 respectively s times repeated) in the
+development of the function
+2(Q°+Q).
+
+Siilees we obtain the numbers
+%(2m+1)'+$,  $(2m+2)*
+which, respectively, enumerate the ways of partitioning the multipartite numbers
+(2m, 2m...repeated s times), (2m+1, 2m+1... repeated s times)
+
+into two or fewer parts.
+When the enumeration is concerned with exactly two parts we have clearly to
+subtract unity in each case. In fact the generating function is
+
+$ (Q,?+Q,)—Q 3
+D;,,Q, = Dini =Q,
+
+showing that unity must be subtracted.
+The numbers then become
+
+and
+
+4(2m+1)'—-4, 4 (2m+2)'-1.
+
+These numbers also enumerate the ways of exhibiting the composite integers

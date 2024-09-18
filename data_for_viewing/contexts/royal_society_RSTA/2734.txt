@@ -1,0 +1,25 @@
+expressed as [32]
+Ji, td?’
+
+a (6.5)
+
+bw
+A(r,t) = ie |
+where J(1’, t’) is current at time ¢’ and a position r’ flowing along a length dr’. The time ¢’ is called
+retarded time defined by t’ = t — |r — r'|/c, where c is the speed of light in the given medium. For a
+wire of length L oriented along the z-direction, carrying a current I, the magnetic vector potential
+can be expressed as, A(x, y,Z) = az plLe—/* /(4zrr) [32]. An important point which we wish to make
+in the current work, which has not been addressed in the literature on electromagnetism until
+now, is the fact that the factor IL plays a key role in determining the radiation field, which has a
+much higher value in a metallic antenna as the electrons flow along the length L determined by
+the antenna’s spatial dimension. In a dielectric antenna, in the absence of a ground plane, under
+electric excitation, the capacitive current can be made high, which is equivalent to the current in
+a metallic antenna in terms of flow of charge per unit time, however, in such an antenna, due
+to the fact that the charges are bound and the net displacement around the mean position, L,
+has atomic dimensions, which is miniscule in comparison to a metallic antenna of a similar size,
+the charges can move freely along the spatial dimensions of the antenna. The result is that the
+overall value of IL is much lower in a dielectric antenna resulting in low radiation efficiency. This
+point further strengthens the arguments on the role of ground plane in dielectric antennas which
+facilitate radiation by providing a longer path of current flow.
+Our analysis of radiating systems in terms of non-conserved Noether current and broken
+symmetries can help in analysing empirical results on radiating structures with low degrees of

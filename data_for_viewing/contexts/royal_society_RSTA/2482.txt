@@ -1,0 +1,25 @@
+Row
+N
+total exposure time of a frame °
+HE exposure gap shut, time
+Figure 7. Frame capturing process of a rolling shutter camera. (Online version in colour.)
+b) Data rate increase by exploring rolling shutter
+An image sensor’s shutter determines how and when light gets recorded during an exposure. : S
+
+Typically, there are two methods to capture a static picture or each frame of a video signal. One is
+called the rolling shutter and the other called global shutter. Although both technologies record
+ight within a necessary time interval, not every portion of the image starts and stops receiving
+ight at the same time. As used in popular complementary metal oxide semiconductor (CMOS)
+cameras, a rolling shutter is exposed in a progressive step, in fact line by line from top to bottom.
+
+Figure 7 illustrates details of the rolling shutter process in successive image recording. As can
+be seen from this figure, the start and end of exposure on each row or column or individual pixel
+happen sequentially. So all the pixels are not exposed at the same time. It can take time up to
+1/fcam for all of the pixels on the sensor to finish exposure where fcam is the frame rate. The effect
+will be noticed if the object is moving fast, causing a jello effect and damage to the image quality.
+However, one can take advantage of the rolling shutter mechanism in an OCC system to increase
+the sampling rate of the receiver [33,34,37,41,51,76-83].
+
+Figure 8 demonstrates an operation process of an OCC system with sequential data
+transmission by the LED transmitter and signal reception by a rolling shutter-based sensor.
+Figure 8a shows sequential data transmission by a commercial white LED at a rate of kHz. When

@@ -1,0 +1,25 @@
+of the fault propagation paths. On top of the DT network, a performance evaluation network can
+be built, where each node is constantly interacting with the corresponding digital twin to acquire
+real-time performance-related information. Based on such a network, plant-wide performance
+degradation analysis becomes feasible.
+
+The use of DT can also help improve the security of the internal monitoring and control
+network, as each DT will be assigned a unique identification (UID). This makes the information
+source verifiable and traceable before a decision is made based on the automatic monitoring
+results. It reduces the risk of security breaches against unauthorized devices (e.g. external sensors)
+and unknown data sources. In this sense, security-related services are needed in the plant-wide
+monitoring system.
+
+For the DT-powered services, the attractive aspect lies in the fact that the companies do not
+have to bother developing dedicated software and solutions for various online analysis needs.
+They just need to turn to the market of third-party service providers and instruct the digital
+twins to ‘use the apps’. By doing so, more opportunities are available to compare and change
+the solutions based on different approaches (e.g. deep learning-based versus subspace-based
+versus principle model-based fault detection approaches). Among them, deep learning-based
+approaches have been rapidly developed over these years, which are likely to be adopted for
+plant-wide process monitoring using the massive data generated in the DT framework.
+
+
+(b) Remaining useful life prediction
+
+Remaining useful life (RUL) prediction has long been a hotspot problem in the research on the

@@ -1,0 +1,25 @@
+the other European countries under study: ‘stay-at-home’ orders were never applied, and travel
+between different cities and regions remained always allowed [14]. Despite the surge in visits to
+parks and the increase of weekend-like mobility patterns during the first Danish lockdown, the
+containment strategies were effective. This results suggest that the correlations between mobility
+and social behaviour are non-trivial, implying that containment strategies aiming at reducing
+mobility do not necessarily target social behaviour.
+
+Owing to the way it is pre-processed, the data released by Facebook does not account for
+within-city trips. Furthermore, the Facebook data does not allow to distinguish two different
+situations: individuals staying home versus individuals travelling within their home city. For this
+reason, the results obtained using the Facebook data may be partially explained by the fact that,
+during ‘lockdown’ individuals spent more time at home, just as they would do during weekends.
+In France, Italy and Spain the restrictions were in fact more stringent compared to Denmark,
+especially during the first epidemic wave. With ‘stay-at-home’ orders in place, people were only
+allowed to walk in the vicinity of their home location.
+
+Our analysis shed light on how the identified travel components contribute to the structural
+property of the network describing travel flows between pairs of cities. In particular, we studied
+the effective distance [29], a network measure that quantifies the probability of travelling between
+two cities and correlates with the time it takes for a disease to travel between them. In line
+with previous findings [11], we found that, during periods of lockdown, the network describing
+flows of travellers experienced dramatic structural changes. We observed that, during periods
+of lockdown, there was larger heterogeneity in the effective distance between pairs of cities.
+Compared to periods without lockdown, it was much more likely to travel to specific cities, and
+much less likely to others. We found that this structural changes are explained, to a large extent, by

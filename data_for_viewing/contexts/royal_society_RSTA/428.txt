@@ -1,0 +1,25 @@
+pixel per second at 52 ps time resolution. In the insets, a pixel and 4 x 4 microlens array are visible. (Online version in colour.)
+
+Figure 34. The MEGAFRAME chip mounted on a printed circuit board. The microlens array is visible in the centre of the picture.
+A full characterization of an identical microlens array is reported in [75]. (Online version in colour.)
+
+the first two architectures in table 2 do not include integrated TACs/TDCs, we report the timing
+uncertainty as it is evaluated externally, using a commercial TDC, whereas timing resolution and
+differential/integral nonlinearity are reported elsewhere. The overall pixel bandwidth refers to
+the maximum symbol rate that the image sensor can generate per pixel (irrespective of whether
+TOA is computed on- or off-chip). When TOA is computed off-chip, we assumed that processing
+speed is not limited by the TAC/TDC used but by intrinsic I/O speed. This is why the design
+of Niclass et al. [65] is penalized in the table with respect to the two previous designs, as the
+integrated TDCs are the bottleneck. In this design in fact, only one row can be operational at each
+time, whereas each four columns share a TDC. Thus, the overall TDC bandwidth of 10MSs~!
+must be divided by 4 times 128, to reach the reported value.
+
+In the design of Gersbach et al. [46], a bandwidth of 1 MS s-! in TCSPC mode can be achieved,
+whereas a much higher count rate is possible, thanks to an on-pixel six-bit counter. Thus, the
+maximum count rate is limited by the dead time of 100ns. The timing uniformity, wherever
+measured, is expressed in % or LSB depending on the presence of TOA evaluation on-chip.
+
+
+Table 2. Performance of CMOS SPAD imagers for three representative architectures.
+
+Measurement min. typical

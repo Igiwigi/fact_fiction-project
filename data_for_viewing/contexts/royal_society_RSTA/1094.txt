@@ -1,0 +1,25 @@
+
+— The Liepmann model is a reasonable model for the turbulence intensity spectrum.
+However, the roll off is not captured perfectly for either the simulated data or the
+measured data which differ slightly from each other.
+
+The analysis of the simulation data highlights how challenging it is for computations to
+resolve the turbulent flow in a fan gap well. However, the final acoustic results directly from the
+LBM/VLES and from the two-step method highlight how specific gap flow differences (which
+could be from either inaccuracies in the flow simulation or outcomes of the selected analysis
+method) may not impact significantly the prediction of broadband noise from the system. Thus,
+because the broadband noise is the culmination of a physical averaging of many effects, acoustic
+predictions obtained directly from the LBM/VLES method or from the two-step method based
+on the LBM/VLES turbulent flow information may in fact be accurate enough to be useful for
+engine analysis and design even though seemingly important flow quantities in the gap have been
+shown to be inaccurate when compared with experimental data. Finally, if a lower-order two-step
+method is used for the broadband noise prediction, this study indicates that RANS based input is
+just as good as input obtained from a higher fidelity computational method.
+
+Data accessibility. The simulation data that were analysed for this work reside on the supercomputer at Boston
+University. Access to the data can be made available via request of the authors.
+
+Authors’ contributions. S.G. performed the data analysis and wrote the low-order code. I.G.M. performed the
+PowerFLOW simulations and devised the fine grid with no trip method. D.C. performed the initial fan
+simulations with PowerFLOW and wrote the data extraction code that works with the volume data set. All
+authors contributed to the editing of the paper and approved the manuscript.

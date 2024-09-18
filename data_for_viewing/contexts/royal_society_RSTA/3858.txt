@@ -1,0 +1,25 @@
+
+It is usually more convenient to define the Poincaré sphere using the Stokes parameters:
+
+So=l |Exl? + |Eyl” E*.o9-E,
+$1 =Ip: — 1902 =|Exl*—|Eyl? = E*-03-E, eo.)
+2.1
+S2 = las: — ligase = EXEy + ExEy E*-o1-E
+and $3 =IRH — In = —i(E{Ey — ExEy) =E*-02-E.
+
+The first column of equalities indicates how the Stokes parameters can be found by intensity
+measurements, with polarizer at the angle given in the subscript (0°, 90°, 45°, 135° and RH, LH
+circular polarizations). The second column gives the Stokes parameters in terms of components
+of E, which in fact are complex inner products of E with the Pauli spin matrices o9 =(}9),
+o1=(9)), o2= (? me) and o3=() °,); the subscripts on the $; agree with the subscripts on
+a; in the circular basis. They satisfy S} + $3 + $3 =$}, so we can define the normalized Stokes
+vector s = (s1,$,83), where s; = S;/So, i=1,2,3, and all possible choices of s define a unit sphere.
+Multiplying E by a complex phase factor (representing, for instance, the evolution of time) does
+not change s.
+
+The fact that the Pauli matrices appear in this classical setting suggests that the physics of
+polarization may resemble that of quantum spin; if E were a quantum state of spin 1/2—rather
+than a classical state of light—the Stokes vector s would represent the axis of rotation of the
+quantum spin state on the Bloch sphere. However, three-dimensional Stokes space does not
+directly correspond to real space (e.g. Stokes vectors (1,0, 0) and (—1,0,0) are 180° apart in Stokes
+space, but represent orthogonal polarizations (1,0) and (0, 1)).

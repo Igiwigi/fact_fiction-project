@@ -1,0 +1,25 @@
+that for waves of constant vorticity we can alternatively fix Q and choose y to be the continuation
+parameter. This choice can be beneficial for overcoming some limitations of this approach and
+
+computing waves which belong to new parts of the bifurcation curve. :2
+
+Considering the validation of our algorithm, in [15] we have illustrated the performance of : =
+the corrector step to solve (5.2), for which we employ a Newton algorithm. Furthermore, we have :§
+performed the same error tests on examples for which we have a priori knowledge of the analytical ‘>
+expression of the solution. : =
+
+The computed waves in this section demonstrate different characteristics below and above a : S
+critical vorticity, which is ycrit * —2.971, for the choice of parameters given in (4.7). We emphasize : a
+the fact that we obtain, also, some new qualitative results, compared with [17]. : S
+
+The appearance of two turning points in Q and a monotonically increasing wave height along : =
+the solution curve is observed for all constant vorticities that are larger than y,it. The value of y 18
+
+does have a significant influence on the stagnating waves. Indeed, the results presented in figure 6
+display the following characteristics for the wave profile:
+
+— The wave height decreases, as the vorticity y gets larger.
+— The shape of the wave changes with the vorticity; the crest becomes sharper and the
+trough wider and flatter as the vorticity increases.
+
+The above procedure does not compute a maximal wave with a sharp angle at the top for

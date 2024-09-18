@@ -1,0 +1,25 @@
+a a 8
+x % 0.2 J Ss
+-0.3 4 -0.3 4 oS Ss
+0.4 \ 0.4
+\
+—1 \
+\ 4
+oa $218 “oa $21
+0 0.01 0.02 0.03 0.04 0.05 0 0.01 0.02 0.03 0.04 0.05
+XJk XJk
+
+Figure 6. The right parts of the probability distributions of X = In |q,| and insets for the whole distributions for inverse (a =
+0,1/4) and direct (a = 3/4, 1) cascades. The left slope —2 is due to a simple fact that the moments (|a|?) = (exp(qX))
+diverge for g < —2. The distributions collapse to the large-deviation form away from the pumping. (Online version in colour.)
+
+lognormal distribution of stone sizes [34]. Applying this to fluid turbulence [3] leads to
+unphysical results, as was noticed by Frisch [1]. Indeed, a lognormal distribution leads to negative
+¢q for sufficiently large q, which does not make sense. In addition, if the multipliers were
+statistically independent, one would compute In P(X) = —kH(X/k) or ¢q proceeding from P(c)
+by a standard large-deviation formalism: H(y) = min,[zy — Go(z)], where Go(z) = In J do e”? P(o).
+Such derivation would express (|a,|7) via (e7°*), which is impossible since the former moments
+exist for all q, while the latter do not because of the exponential tails of P(a), see also [12,13].
+Therefore, to describe properly the scaling of the amplitudes, one needs to account for the
+correlations between multipliers. Physically, it is quite natural that the rule how the distribution
+changes along the cascade must be encoded in the correlations between the steps of the cascade.

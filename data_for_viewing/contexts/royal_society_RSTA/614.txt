@@ -1,0 +1,24 @@
+side indicates that the spectral out-of-band measurements are as important as the spectral in-band
+measurements when performing primary radiometric thermometry in this spectral region. The
+need for low uncertainty measurements of spectral responsivities can be especially challenging
+with near-infrared detectors which are not as well characterized as their visible counterparts, and
+low uncertainty measurements in the out-of-band region could be difficult using detectors with
+radiometric scales which can have substantially larger uncertainties than in the visible.
+
+3. Design of a near-infrared primary radiometric thermometer
+
+(a) Optical and chassis design
+
+The physical design of a near-infrared radiation thermometer is not different from that of a
+radiation thermometer which operates in the visible wavelength region. This is due to the fact that
+
+
+Table 1. The optical performances quantified by the Strehl ratio as a function of wavelength for a commercial 200 mm focal-
+length achromatic objective lens. Higher Strehl ratios indicate better imaging performance, and the same lens exhibits better
+imaging performance at 1550 nm than at 500 nm. Moving the object distance at 1550 nm to achieve the same image distance
+as at 500 nm further improves the imaging performance.
+
+wavelength (nm) object distance (mm) image distance (mm) Strehl ratio
+500 500 323.91 0.0738
+
+1550 500 334.49 0.218

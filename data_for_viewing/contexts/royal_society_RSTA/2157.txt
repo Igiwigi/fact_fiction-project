@@ -1,0 +1,25 @@
+k-regular bi-partite Ramanujan graphs.
+
+Why are Ramanujan graphs named after Ramanujan? As far as we know, Ramanujan had no
+special interest in graph theory. Let us explain the reason for this name which was coined in [1].
+
+Observe the following power series:
+
+<k —A4(X) < 2h(X) (cf. [3, §4.2]).
+
+A(q) =4 [a - qhyt = Lr(n)q" =q - 24q° + 25243 tees.
+n>1
+The coefficients t() define the so-called Ramanujan tau function. Ramanujan conjectured that
+|t(p) < 2pt/2) for every prime p. The importance of A comes from the fact that if we write
+q=e" then A(z) is a cusp form of weight 12 on the upper half plane H={z=x+iy|x,ye
+R, y > 0} with respect to the modular group ” = SL2(Z) acting on Hi by Mobius transformation
+(25)(z) = (az + b)/(cz +d). Now if Ij(N) = {(04) €I|c=0 mod N} we denote S;(N) (or more
+generally S,(N,w) for a Dirichlet character w of Z/NZ) the space of cusp forms on H w.r.t. I(N)
+(and w). The Hecke operators T, (p prime, (p, N) = 1), act, and commute, on each S;(N,7w), and
+their common eigenfunctions are the Hecke eigenforms. Now, $12(I" = [(1)) is one dimensional
+
+
+and so A(z) above is such a Hecke eigenform. Moreover, t(p) above is equal to the eigenvalue
+of Ty acting on Sj2(I"). A natural and far reaching generalization of the Ramanujan conjecture
+mentioned above on the size of t(p) is the so-called Ramanujan—Peterson (RP) conjecture: for
+every Hecke eigenform f in S,(N,w), the eigenvalues Ap of Ty, (p,N) =1, satisfy |Ap| < 2pk-V2,

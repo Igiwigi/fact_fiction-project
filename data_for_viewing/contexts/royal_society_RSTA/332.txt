@@ -1,0 +1,25 @@
+i=l t=1
+where G; is the logarithm of the probability density function (pdf) of s;, or its estimate w/z. In :3
+practice, quite rough approximations of the log-pdf are used; the choice G(u) = — log cosh(u), 75!
+which is essentially a smoothed version of the negative absolute value function —|u|, works well 8
+in many applications. This function is to be maximized under the constraint of orthogonality of : g
+the w;. The z(t) are here the observed data points that have been whitened. ae
+Interestingly, this objective function depends only on the marginal densities of the estimated 1S
+independent components w/ 2(£). This is quite advantageous because it means we do not 13
+need to estimate any dependencies between the components, which would be computationally : S
+very complicated. :@
+
+Another interesting feature of the objective function in (2.6) is that each term }°, Gi(w} 2(t))
+can be interpreted as a measure of non-Gaussianity of the estimated component w/z. In fact, this
+is an estimate of the negative differential entropy of the components, and differential entropy can
+be shown to be maximized for a Gaussian variable (for fixed variance). Thus, ICA estimation is
+essentially performed by finding uncorrelated components that maximize non-Gaussianity (see
+Hyvarinen & Oja [2] and Hyvarinen et al. [3] for more details).
+
+Such objective functions are then optimized by a suitable optimization method, the most
+popular ones being FastICA [11] and natural gradient methods [12].
+
+3. Causal analysis, or structural equation modelling
+
+We start the review of recent developments by considering a rather unexpected application of
+the theory of ICA found in causal analysis. Consider the following fundamental question: the

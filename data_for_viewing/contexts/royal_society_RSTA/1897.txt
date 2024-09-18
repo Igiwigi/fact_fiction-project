@@ -1,0 +1,25 @@
+
+Case 2 improved upon the spatial and temporal resolution bathymetry and flow data relative
+to Case 1. This was achieved using a validated 2D hydrodynamic model. In Cases 1 and 2,
+array blockage was excluded. This highlighted that Case 1 overestimated the resource in the
+East Race where the greatest spatial variations in bathymetry and flow speeds were observed.
+The improved flow characterization in Case 2 led to a 19% reduction in estimated annual energy
+yield of the array. Case 3 provided further enhancement through the consideration of array-scale
+blockage, modelled within the hydrodynamic model. Blockage caused reductions in flow speeds
+of up to 2.5ms-? at the sub-array locations, reducing the estimated array annual energy yield
+by 61% from Case 2. Case 4 updated the power coefficient of the devices from 0.3 to 0.41, based
+on recent reported data from full-scale operational turbines in industry [32]. This increased the
+estimated annual energy yield obtained in Case 3 by 37%, to 3.18 TWh. Finally, Case 5 reduced the
+array capacity of the array to account for the fact that the devices rated speeds, and hence rated
+power, were too high for the flow speeds incident on the devices. While this has no impact on the
+estimated energy yield of the array, it increases the capacity factor by 63%, from 11% to 18%.
+
+
+Additional array performance improvements have also been identified. The adoption of higher
+resolution bathymetry data illustrates that there is potential for the rotor diameter of most devices
+to be increased, while keeping conservative levels of clearance above and below the rotors. This
+could increase the total swept area of the array by up to 32%. In some cases, the swept area
+of individual devices have the potential to be increased by over 140%. For an isolated device,
+this increase in swept area would result in a similar increase in energy yield. Further work is
+needed to establish how the added drag from swept area increases impacts on the surrounding
+flow field, and the resulting energy yield. The dependency of energy yield on sub-array location

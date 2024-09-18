@@ -1,0 +1,24 @@
+into a nearest-neighbour (2-dressed site) selection rule, which is always Abelian even when the
+gauge-group is non-Abelian.
+
+In conclusion, this strategy allows to ‘hide’ all the non-Abelian content of the gauge
+theory (and the calculus of Clebsh-Gordan coefficients) in the definition of the dressed logical
+basis and the effective Hamiltonian operators over that basis. The TN algorithm handles the
+Abelian nearest-neighbour Link Laws, as well as the Abelian global symmetries (global charge
+conservation), both of which can be easily accounted for with the numerical TN suites available
+nowadays.
+
+(a) Quantum electrodynamics dressed bases and defermionization
+
+An additional advantage of this approach emerges in the QED case. Due to the fact that the
+fusion rules of the gauge group (U(1)), equivalent to Z, contain Z2 as a subgroup, it is possible
+to make rishon modes fermionic. In turn, this will produce an algebra of effective operators,
+overdressed logical bases, which are genuinely local, meaning that they commute at different sites,
+thus defermionizing the theory.
+
+This technique, explored in [55,84], will be briefly reviewed below for a special case. Precisely,
+we consider the scenario where we chose the electric energy cut-off to include three states of gauge
+field at each bond, namely |1,—1), |0,0) and | — 1,1). In this format, we can write the bond-space
+operator algebra as
+
+U=|—1,1)(0,0/ + |0,0)(1,—1| and L=|—1,1)(-1,1] -[1,-1)(1,-1], (4.1)

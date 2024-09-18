@@ -1,0 +1,25 @@
+
+a non-trivial experimental challenge and only a few types of thermometers have been successfully
+used in this range [1,2]. The lower end of the provisional low-temperature scale PLTS 2000 [3]
+is set by the Néel temperature of solid 3He, Tx = 0.902 mK, which means that thermodynamic
+temperatures below this point have to be established individually at each laboratory by the use of
+suitable primary thermometers. Although many properties of solids and quantum liquids depend
+on temperature below 1 mK there is a clear shortage of methods that allow the determination
+of temperature in primary mode. Most widely used is pulsed !*°Pt nuclear magnetic resonance
+(NMR), in which the spin temperature of the platinum nuclei just before the first pulse is
+determined and taken as the thermodynamic temperature assuming that the Pt nuclear spins
+were in thermal equilibrium with the conduction electrons. Over more than three decades, this has
+proved to be a reliable method to determine ultra-low temperatures. However, one disadvantage
+of this technique is the fact that considerable heat is deposited during the pulse sequence. In
+recent years, efforts have been increased to establish a second technique based on thermal noise : =
+for measuring ultra-low temperatures in primary mode or at least in relative primary mode. One 3
+of these techniques is based on the measurement of thermal current noise originating from a
+temperature-independent resistor. nee)
+
+Thermally driven fluctuations of the voltage across a resistor were discovered experimentally :
+by Johnson in 1927 [4,5] and were explained by Nyquist shortly afterwards [6]. Independent of a]
+the resistor material in the classical limit (hf « kgT) the mean square voltage noise is given by DN
+
+(UR) =4ko Ref. ay 3s
+
+Here R denotes the value of the resistance and éf the bandwidth of measurement. The main

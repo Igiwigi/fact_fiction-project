@@ -1,0 +1,25 @@
+5 sodium 2268.0 (882.0) 319.4 (249.6) 494.0 (191.3) _— _—
+water 422.5 (141.4) 119.1 (36.4) 189.0 (72.3) _— _—
+
+Analysing RDFs and CNs allows for probing structural changes and atom redistributions in
+response to the electric field (figure 3 and table 1). In sulfur-sulfur RDFs, the peak diminished
+under the strongest electric field, resulting in visibly lower CNs. This reduction was likely
+mediated by the interplay between three phenomena, namely: (i) enhanced separation of the
+sulfonate groups, due to morphological changes of the membrane; (ii) local depletion of sodium
+counterions, which migrated in the direction of the electric field; and (iii) local depletion of
+water molecules that accompanied the counterions’ migration. Water migration was also visible
+from the sulfur-oxygen in water RDFs and CNs, especially for the strongest electric field. While
+the location of the peak did not vary, the magnitude of the peak decreased due to the electric
+field. This was potentially due to the fact that some of the water molecules migrated along
+with counterions, in contrast to the vast majority that maintained their relative arrangement
+with respect to the sulfonate groups. A similar behaviour was captured by the oxygen-oxygen
+RDFs and CNs for water molecules. With respect to sodium, the sulfur-sodium RDFs were
+characterized by two peaks up to small values of the electric field. Increasing the field to the
+largest value caused the second peak to disappear, likely as a result of the emergence of the
+region depleted of counterions, and promoted the occurrence of a new peak, possibly related
+to counterions’ accumulation at the boundary.
+
+In addition to structural metrics, we also studied the transport of counterion and water. In
+the absence of an electric field and the electrodes walls, we examined the true self-diffusion
+coefficients, computed from the mean-squared displacement (MSD) by following the approach
+in [46]. MSD measures the square of the total distance an atom moves from its original position.

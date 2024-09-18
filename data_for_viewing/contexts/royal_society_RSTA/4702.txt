@@ -1,0 +1,24 @@
+
+where p is the density function of the measure ju. Therefore, minimizers of the energy (4.3)
+on the set of probability measures should be among the most stable configurations. Finally, let
+us comment that both the non-local diffusion equation (3.2) and its rescaled version (3.4) are
+particular instances of the aggregation equation (4.4) for suitably chosen potentials W. We will see
+in the rest of this section a summary of the results concerning the minimizers of the interaction
+energy (4.3), especially in its relation to free boundary problems, particularly to the obstacle
+problem.
+
+(i) Connection to optimal transport
+
+We start by noting that the discrete system (4.2) has the structure of a gradient flow with respect
+to the Euclidean distance. In fact, this structure is shared by the continuum equation (4.4) in
+a suitable sense. We need to be precise about the definition of distance between probability
+measures. We recall that P(RY) is the set of Borel probability measures on RN and we denote
+by B(RY) the family of Borel subsets of RY. The support of a measure 1 € P(R) is the closed set
+defined by
+
+supp() := {x € RN : (B(x, €)) > 0 for all e > 0}.
+
+A family of distances between probability measures has been classically introduced by means of
+optimal transport theory. We will review briefly some of these concepts; we refer to [57] for further
+details. A probability measure z on the product space RN x RY is said to be a transference plan
+between pz € P(RN) and v € P(RY) if

@@ -1,0 +1,25 @@
+constructed for time block along the trajectory. The structure of the largest cluster obtained in each time-window is represented
+in the separate boxes. The secondary structures (B-sheets) are highlighted in yellow.
+
+To demonstrate the capability of our computational tool, we have performed LBMD
+simulations of the A2 domain subject to shear flow using the standard OPEP model, timestep
+1.5 fs and lattice resolution of 3 A. In this preliminary test, the shear rate used in the simulations is
+orders of magnitude higher than the physiological condition (10! versus 10° s~!). This extreme
+value allowed us to monitor unfolding events at the nanosecond timescale.
+
+The A2 domain under the effect of the elongational component of the shear flow starts to
+disassemble, see the pictorial representation in figure 4. The first unfolding step interests the
+peripheral regions of the domains highlighted by the red and black circles. This is caused by
+the disassembling of the protein hydrophobic core formed by six B strands (816263B4B5B6). In fact,
+the first unfolding interests B56, and at the other extreme, the strands B23. The new structure,
+much more elongated, breaks apart when the central part of the hydrophobic core represented by
+the strands 62614 cracks. The unzipping of 626, occurs as the last unfolding step, anticipated by
+6164 separation. Interestingly, only when the central core unfolds, the end-to-end distance of the
+domain significantly increases, and reaches a maximal extension of about 8nm. At the timescale
+considered, the chain is not completely elongated. In AFM pulling experiments, the mechanical
+force required to unfold the A2 domain is the range of 10-20 pN with a loading rate comprises
+in the range 0.1-10nNs~!. When considering, as local reaction coordinate, the hydrogen bonds
+formed between the f-strands structures, the solvent-induced drag component is just a fraction
+of pN. This seems to indicate that for a complex fold as the one of VFW A2, the deformation of the
+protein matrix owing to the elongational term of the shear flow occurs first and then propagates
+down, mechanically, to the elementary molecular bricks that stabilize the fold, i.e. the secondary

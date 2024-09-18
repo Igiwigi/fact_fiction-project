@@ -1,0 +1,25 @@
+
+2 0.02} ‘ |
+
+0 10 20 30 40 50 60 70 80 90 100
+time
+
+Figure 1. (a) Rate of energy dissipation €(t) as a function of t corresponding to equation (2.1) at constant power input.
+(6) Behaviour of the kinetic energy E(t) for the same time window. Looking at E(t), we can easily distinguish two different
+dynamical phases in the system: a laminar phase where E(t) ~ t and an avalanche phase where we observe drops of E(t)
+corresponding to the bursts in the energy dissipation. (Online version in colour.)
+
+solid) obey completely different physics and the variable F is not at all related to any plastic flow.
+In fact, as we shall see, the scaling observed for the avalanche sizes and their interevent time are
+completely different with respect to the one observed in amorphous solid.
+
+In figure 1a, we also report the signal corresponding to the energy dissipation for the same time
+window, which shows, as expected, a strongly intermittent behaviour. Notice the link between the
+strong fluctuations occurring in the upper signal and the kinetic energy loss in the lower signal.
+
+3. Event definition and scale invariance
+
+Having in mind the signal shown in figure 1, we define an avalanche as the event for which
+dE/dt <0. The starting point of an event is identified by a change in the sign of the derivative
+of kinetic energy in time, from positive to negative; meanwhile, the opposite change in sign of
+dE/dt identifies the end of the avalanche or energy drop. In figure 2, we illustrate our definition.

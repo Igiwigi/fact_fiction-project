@@ -1,0 +1,25 @@
+from H” and replace most of the appearances of cg and c; by a tighter bound. The physical
+meaning of the norm ||O|| c(p,14) is as follows: given a state |y) with a bounded expectation value
+of energy (W|H|W) < E, the norm Olea.) is the maximal value of (y|O?|y)/(1 + E2/e?).
+
+The earlier work of Avron & Elgart ([7], §5), while mainly focusing on gapless bounded
+Hamiltonians, discussed the adiabatic theorem for unbounded gapless Hamiltonians. They
+required that both the resolvent R(z=i,s) and H(s)R’(z=i,s) be bounded. Essentially the same
+assumption was made by Abou Salem [37, §2] in the context of non-normal generators.
+
+Recent work [38,39] presents a refinement of the adiabatic theorem for a different case of
+diverging ||H’|| that comes from the thermodynamic limit of the size of a many-body spin system.
+While the authors do not present an explicit form for 6, we believe that their methods provide an
+alternative way of removing the dimension d of the subspace PH, and in fact any dependence on
+the system size, from the bound on local observables.
+
+(b) Adiabatic intertwiner
+
+Following Kato [20], we define an approximate evolution in the full Hilbert space H:
+Ug (6) = —iHaa(s)Una(s), Usa(0)=1, s€ [0,1], (2.9)
+where Ug is called the adiabatic intertwiner and the (dimensionless) adiabatic Hamiltonian is
+Haa(s) = t¢H(s) + i[P’(s), P(s)]- (2.10)
+
+Note that both Haq and Uagq are tr-dependent. Here P(s) is a finite-rank projection on the low-
+energy subspace of H(s) (i.e. the continuous-in-s subspace spanned by the eigenvectors with the
+lowest d(s) eigenvalues®). A property of this approximation is that the low-energy subspace is

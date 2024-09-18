@@ -1,0 +1,25 @@
+possible to re-identify data believed to be de-identified. In many cases, re-identification has 1B
+been accomplished via successful linkage attacks, whereby a de-identified dataset is joined .
+with a publicly available dataset containing identifying information. Any record in the de-
+identified dataset which is uniquely linked with a record in the publicly available dataset (using
+the attributes common to both) is re-identified. For example, Sweeney demonstrated that de-
+identified hospital records could be joined with voter registration records, as both datasets
+contained birth date, sex and ZIP code information for each individual. Sweeney used these
+three attributes to uniquely identify Massachusetts Governor William Weld’s health records and
+observed that the process she used resulted in many other uniquely identified records.!? More
+generally, she showed that a large portion of the US population could be uniquely re-identified
+given just these three pieces of their information [19]. Subsequent attacks on de-identified data
+(e.g. [20,21]) suggest that as few as three or four data points can be sufficient to re-identify an
+individual in a de-identified dataset. In fact, to be effective, de-identification must strip the data
+of most of its informational content, rendering it almost void of value of analytic purposes (see
+discussion in [22,23]). There have been many attempts to define the concept of de-identification
+heuristically (e.g. k-anonymity [24] and its variants /-diversity [25] and t-closeness [26]). However,
+as researchers continually discover new privacy vulnerabilities, new heuristic definitions must
+be developed to address them. In practice, heuristic approaches can be used to protect personal
+information against a small number of specific attacks, but they do not provide comprehensive
+protection against all feasible attacks.
+
+To date, there is no formal mathematical definition for de-identification, or for related
+concepts such as personally identifiable information and linkage. Because these concepts are
+heuristic rather than formal, they must be periodically updated in response to newly discovered
+weaknesses. Privacy standards based on these heuristic concepts become moving targets, creating

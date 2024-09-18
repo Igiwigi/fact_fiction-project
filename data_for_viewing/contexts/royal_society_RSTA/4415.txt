@@ -1,0 +1,25 @@
+providing a total of six polarization and spatial modes. In MDM, the distinguishable spatial
+data pathways are defined either by the particular modes supported by the fibre, or alternatively
+orthogonal combinations of these modes. Since the modes all have significant spatial overlap,
+the data signals are prone to couple randomly between spatial channels during propagation.
+It is generally necessary to correct for the impact of this coupling at the receiver end. In
+MDM, the individual modes accumulate differential mode group delays (DMGDs) during
+propagation and likely also differential modal loss or gain due to mode-dependent performance
+of the various in-line components (i.e. fibres, amplifiers, MUX/DEMUx, etc.). The energy
+of a given data symbol launched into a particular spatial channel consequently spreads
+out into adjacent symbol time slots as a result of mode coupling and modal dispersion,
+rapidly compromising successful reception of the information that it carries. To mitigate these
+linear impairments, DSP-based adaptive equalization using multiple-input multiple-output
+(MIMO) processing is required at the receiver. MIMO signal processing is in fact already
+widely used in current commercial coherent optical transmission systems to enable PDM.
+Correcting for polarization mode-coupling as needed for PDM requires a 2 x 2 matrix MIMO
+realization with four finite impulse response (FIR) filters. For an MDM system with M modes,
+the respective algorithms need to be scaled to 2M x2M MIMO, requiring 4M? adaptive
+FIR filters.
+
+Interest in MDM in FMFs really took off at OFC 2011, as was the case for MCFs. Three papers
+were presented on data transmission in 3MF supporting the LPo; and degenerate LP; modes.
+Per-channel rates of 100 Gb s~! over the two spatial mode groups was achieved over 4.5 km [28]
+and 40km [29], while 56Gb s~! signals in three modes were transmitted over 10 km [30] (the
+quoted bit-rates include polarization multiplexing). The three-mode experiment [30] was the first
+to demonstrate full use of all degrees of freedom afforded by the FMF (six spatial and polarization

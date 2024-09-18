@@ -1,0 +1,25 @@
+the last decade, have probed an isolated line of a molecular species. In this respect, advantages
+and limitations of the main experiments have been highlighted, also making a thoughtful
+comparison among the different molecules. As a result, it seems clear that non-polar molecules,
+possibly having strong absorption features in the NIR, should be preferred for many reasons:
+
+
+collisions are less effective; the refractive index is smaller; molecules’ adsorption and desorption
+from the cell walls are strongly reduced. This latter feature, in particular, makes it possible to
+perform spectral averaging over long times, thus increasing the signal-to-noise ratio without
+the risk of line distortion caused by a pressure variation arising from the interaction with
+the cell.
+
+There exists a line shape problem due to the fact that fully ab initio line shape calculations
+are prohibitively complex for self-colliding molecules. Approximations and simplifications are
+necessary for the construction of those models that have been mentioned in this article. In
+the kinetic theory of spectral profiles, in addition to the standard binary collision and impact
+approximations, there is the assumption that the translation motion can be treated classically
+[82]. Furthermore, the active molecules (interacting with the electromagnetic field, which is
+treated classically) are diluted in a bath of structureless perturbers [82]. Therefore, even though
+a given line shape model is successful in reproducing a high-quality experimental spectrum, the : =
+
+interpretation of some parameters can be problematic, mainly because of statistical correlations Sy
+among multiple fitted parameters. This is the case, for instance, of Dicke narrowing and speed- a
+dependent broadening parameters in SDGP and SDHCP models. Fortunately, this issue can be aed
+significantly reduced by using the global fitting approach for a manifold of spectra, across a 22

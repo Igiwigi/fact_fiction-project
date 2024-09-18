@@ -1,0 +1,25 @@
+
+It is indeed well recognized that even if two signals manage to register a very high correlation
+coefficient C (close to 1), this does not necessarily imply that they are mechanistically related.
+They may be false correlations (FC), as opposed to true correlations (TC), the latter signalling a
+
+
+true causal connection. The matter lends itself to hilarious observations: the rate of drowning by
+falling in a pool appears tightly correlated with Nicolas Cage’s movies: unless one assumes that
+Cage’s movies are so badly received as to induce some to drown themselves, there is little question
+that this is an FC. This case is trivial, but the general problem is not: distinguishing between TC’s
+and FC’s is an art, as the problem is both hard and important.
+
+The embarrassing fact is that FCs grow much more rapidly with size of dataset under
+investigation than the true ones (the nuggets). As recently proven by Calude & Longo [8] the
+TC/FC ratio is a very steeply decreasing function of data size. Meng, on the other hand, has
+shown that to be able to make statistically reliable inferences one needs to have access to a
+very substantial (i.e. greater than 50%) fraction of the data on which to perform one’s machine
+learning [9].
+
+Once again, how big is big enough to make reliable machine learning prediction, remains a
+very open question. To be sure, we are a very far cry from the comfortable inverse square root law
+of Gaussian statistics. What is clearly required in the field of BD and machine learning is many :
+more theorems that reliably specify the domain of validity of the methods and the amounts of a
+data to produce statistically reliable conclusions. One recent paper that sets out the way forward a
+is by Karbalayghareh ef al. [10] 1B

@@ -1,0 +1,25 @@
+Dealing with data in high dimensions represented as tensors is another timely and challenging
+topic. There are few existing results on communication bounds for tensors, e.g. bounds for
+symmetric tensor contractions are derived in [67], or for the volume of communication of
+metricized tensor times Khatri-Rao product in [68]. One interesting question is to understand
+if algorithms such as alternating least squares and density matrix renormalization group are able
+to minimize communication.
+
+4. Exploiting data sparsity
+
+In this section, we address the problem of dealing with large volumes of data by exploiting ‘data
+sparsity’. This problem arises in many applications, ranging from scientific computing where
+complex phenomena are simulated over large domains and long periods of time, to machine
+learning where large volumes of data are processed. Data sparsity refers to the fact that, due to
+redundancy, the data can be efficiently compressed while controlling the loss of information.
+
+
+A classic example in this context is the n-body problem in physics for which some forces
+between all pairs of n particles are computed with O(n) flops by using the fast multipole method
+(FMM) [69], while a direct evaluation of these forces requires O(n?) flops. This method relies
+on treating separately the contributions from near particles, which are computed directly, from
+contributions from distant particles, which are evaluated by using multipole expansions. This
+approach can be used in other applications, as for example in the discretization of boundary
+integral operators. The operator in this case is defined as G(xj, Yj), where G:R¢ x R4>C
+is a kernel operator, with d¢N*, and the interaction domains are X := {x1,...,%m} and Y:=
+{y1,---,Yn}. The associated dense matrices, referred to as BEM matrices, are full rank, but

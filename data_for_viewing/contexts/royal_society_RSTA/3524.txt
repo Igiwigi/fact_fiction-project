@@ -1,0 +1,25 @@
+values of all feasible changes in C* to maximize V. Here V is the integral (from any point in
+the state space) of the expected time-discounted future value of Z. So far Z has been used as an
+indicator for each state point of the actual rate of income earned/paid over dt when the system
+is at that state space point. The Bellman-optimized control policy C* at each state point simply
+maximizes the probability-weighted (diffused) discounted value of Z along all trajectories from
+that state point.
+
+Therefore, we are able to compute the expected and discounted value, under C*(X, Y,Q,f),
+of any event or variable at each state point. To do so it is sufficient: (i) to retain the optimized
+C*(X, Y, Q, t); (ii) to replace the cash flow indicator function Z at each state point with an indicator
+
+
+function for the event of interest (e.g. to record the qualitative fact of a physical over-delivery 8 |
+at any state point, set an indicator function 1c. p; to record the size of a physical over-delivery
+
+set C — D; to record its square, set (C — D)?, and so on); and (iii) to run the model to equilibrium 3
+backwards in time using the new Z and unchanged C*. The resulting value in each X, Y, Q,t cell is : o
+the expected discounted value under C* (over the time horizon being evaluated) of the outcome :<
+indicator in question. From this discounted value and the interest rate r, the undiscounted time : Zs
+average of the required qualitative or quantitative variable over all trajectories can be recovered. 13
+
+(b) Effects on annuity returns AR = rV due to varying the energy storage device design
+
+We return to comparing different ESD designs as in the subsection above, and we use the same
+system balancing penalty as before, namely ¢ = 0.5, but we now examine the effects on V due to

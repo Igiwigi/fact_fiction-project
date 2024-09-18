@@ -1,0 +1,25 @@
+nonlinearity in the reduced-order model. We set min =2\m, and hmax =6\1m. The material
+properties are assumed for Si, that is mass density p=2329kgm™3, and Young’s modulus
+E=170GPa. The vibration modes of the initial design and two optimized designs are shown in
+figures 2, 3 and 4, respectively. Evolution of the objective function and shapes obtained during
+the evolution are shown in figures 5 and 6. In these optimizations, the objective function is
+increased by a factor of 13 and reduced by a factor of 4, respectively. The optimized designs
+are in accordance with the results in [18], obtained using the incremental harmonic balance
+method, where we found the nonlinear strain energy due to mid-plane stretching reaches its
+local maximum around x= }L and x= 3L, which is precisely where the optimized structures
+are altered most significantly relative to their general thickness. Furthermore, the eigenfrequency
+of the first flexural mode decreases during optimization of maximizing the cubic nonlinearity,
+and increases during optimization of minimizing the cubic nonlinearity. This follows from the
+fact that the structure is made generally thinner when maximizing the nonlinearity, so that the
+critical sections can be made relatively thick, and the opposite trend occurs when minimizing the
+
+
+15 final design
+
+iteration = 30
+
+iteration = 20
+
+, iteration = 10
+
+vA initial design

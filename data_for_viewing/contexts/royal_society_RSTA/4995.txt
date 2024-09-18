@@ -1,0 +1,24 @@
+%
+Ls, x)= og" YO xv). (1.11)
+r=0 nm monic
+deg n=r
+
+Artin used quadratic reciprocity to show that
+
+Yo xn) =0, fred, (1.12)
+nmonic
+deg n=r
+so that L(s, xp) is a polynomial in q~* of degree < d — 1, and in fact of degree d — 1 by means of
+the functional equation, also proved by Artin, described below.
+To prove (1.12), one can use the fact that the sum of (n|D) over a complete set of residue classes
+n modulo D is 0. Note that on applying quadratic reciprocity, each xp(n) = +(n|D). For fixed D
+and fixed degn, with n monic, each application of quadratic reciprocity has, by (1.5), the same
++1 factor. And, when r >, 1 runs over q’~“ copies of a complete set of residue classes modulo
+D, which can be seen by writing 1 = g(x)D(x) + h(x), with degh <d or h=0, and degg=r—d,
+g monic.
+
+(b) Functional and ‘approximate’ functional equations
+
+Artin also derived the functional equation for L(s, xp). It plays an important role in Andrade and
+Keating’s heuristics leading to their moment conjecture, and also in allowing us to reduce the
+complexity of determining the zeta function associated to quadratic function fields.

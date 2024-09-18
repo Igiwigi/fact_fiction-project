@@ -1,0 +1,25 @@
+in this calculation are the distances between the source mass stacks. These separations
+were measured daily and the G value calculated using the average distances from the
+measurements immediately before and after each dataset. Interferometer frequency differences
+and calculated G values for each set are listed in table 1, and the G values are plotted
+in figure 5.
+
+Between 15 May 2004 and 3 June 2004 the motor failed and there was a significant (0.1 mm)
+shift in one of the source mass stacks when they hit the stops hard several times during trouble-
+shooting and readjustment. The gravity signal shifted by 3 parts in 10+, but there was no
+significant shift in the calculated value of G after the new positions were taken into account.
+Between the datasets on 3 June 2004 and 4 June 2004, the source mass stacks were all rotated
+180° (around their vertical axis). The scatter in the first group of points also appears lower than
+in the second group. This correlates with the fact that the day-to-day shifts in the measured stack
+positions increased by about 50% after 14 May 2004. Before we started taking data on 12 May,
+the source mass system had been running for some time and was well adjusted. After the motor
+failed, we were never able to get the system quite as well adjusted as before.
+
+4. Interferometer design
+
+Identical Fabry—Perot cavities and laser systems compare the displacement of the pendulum bobs
+with the length of the top support. The mirrors making up the cavities have a dielectric coating,
+which is better than 99.9% reflective at the He-Ne laser wavelength of 633 nm. The mirror surface
+is concave with a radius of curvature of 60cm and the back side is flat with a single frequency
+antireflective coating. The length of each cavity is 34cm corresponding to a free spectral range
+(FSR) of 440 MHz. The actual FSR was measured by repeatedly scanning the pendulum cavity

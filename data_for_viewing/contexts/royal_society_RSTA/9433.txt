@@ -1,0 +1,25 @@
+
+can generally be replaced by the expression
+
+@ 4 = exp | log (w—6)(—dy/z), . ape (i |.)
+
+the integral extending over the whole curve.
+
+Tt is to be noticed that in this expression there may be an infinity in the subject of
+integration at a point corresponding to a real value of w. This infinity, being less
+powerful than an infinity of the type (w—@)-', does not interfere with absolute
+convergence of the integral. Formal proof of this statement is considered unnecessary
+here, being of a character readily suggested by familiar treatments of convergence
+tests. It may be illustrated, in the hydro-dynamical application, by the fact that,
+while a convex angle in the boundary gives rise to an infinite velocity, a convex
+smooth curve does not.
+
+But, while there is no divergence of the integral, the formula (113) is nevertheless
+indefinite in the absence of any specified functional relation between the variables @
+and x. The Schwarz transformation takes account only of the angles of the
+configuration to which it is applied, and leaves the adjustments of all lengths to
+be dealt with after transformation by the assigning of suitable values to the
+various parameters associated with w in the factors. It is therefore not surprising
+that a transformation containing only Schwarzian factors and limits of products
+of such factors should ensure only that the directional and angular aspects of
+the configuration are properly dealt with, leaving all settlement of correct linear

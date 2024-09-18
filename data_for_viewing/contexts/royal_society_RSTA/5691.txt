@@ -1,0 +1,25 @@
+in the internal symmetry spaces such as the flavour or colour spaces.
+
+Our focus is on self-sustained field theoretic states that have enhanced capacity of information-
+storage. This implies that they can exist in a large number 1st of (nearly) degenerate microstates. In
+such a case, a well-defined measure of the information storage capacity is the microstate entropy,
+S=In(nst).
+
+Generically, such a ‘device’ represents a macroscopic object with many elementary
+constituents. We shall denote their number by N. Let the strength of the quantum coupling among
+these constituents be w and the size of the object be R. For definiteness, we shall assume an
+approximate spherical symmetry. Also, we shall ignore unimportant numerical factors.
+
+The fact that the object is self-sustained implies that there is a certain balance among N and @ at
+the scale R. If a characteristic wavelength of the constituents is R, the self-sustainability condition
+reads
+
+No =1. (1.1)
+
+At large N, this is the case for many field theoretic object such as black holes, solitons or baryons.
+In more general cases, there can exist several sorts of constituents with different couplings. The
+bound formulated in terms of the Goldstone phenomenon is largely insensitive to this diversity.
+
+In the limit of large N, the concept of spontaneous breaking is well defined. Correspondingly,
+there exist gapless Goldstone modes. The decay constant of a Goldstone mode shall be denoted
+by f. For a lump formed by N particles of wavelengths R, the decay constant of the Goldstone of

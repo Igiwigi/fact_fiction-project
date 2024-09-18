@@ -1,0 +1,25 @@
+
+dw/dv = g(x,);
+
+and the second of these enables the fictitious points to be obtained in terms of internal and
+boundary points. In previous applications of relaxation methods to the biharmonic equation
+(Fox & Southwell 1941), the simplest possible approximation, involving the neglect of third
+differences, has been used for the derivative condition, and no attempt has been made to
+assess the error of equation (B. 1). The second source of error, starting with the sixth differ-
+ence, is usually small compared with the neglect of third and higher differences at the
+boundary. The latter is likely to be really serious, since the boundary is the place where the
+biharmonic solution is least well behaved in the computational sense.
+
+It is therefore suggested, just as in the case of second-order equations, that the fictitious
+point be obtained in terms of internal and boundary points by the use of more accurate
+
+
+360 L. FOX ON THE NUMERICAL SOLUTION
+
+finite-difference formulae. The same objective can of course be attained, as in example 1,
+by an iterative procedure in which simple, inaccurate formulae are used to obtain a first
+approximation, the errors of which are assessed and inserted as new residuals for the pro-
+duction of a better approximation, and so on. Some iterative process is essential, since the
+error is not calculable until an approximate solution has been obtained. The enhanced
+importance of higher differences in a biharmonic solution, however, suggests that the
+iterative process might converge only very slowly if at every stage the derivative condition

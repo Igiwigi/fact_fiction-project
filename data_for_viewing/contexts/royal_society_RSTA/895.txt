@@ -1,0 +1,25 @@
+The reason for calling |G’) a qubit-minor of |G) is that this question is in fact equivalent
+to the graph theoretical question of whether G’ is a vertex-minor of G, as we show in
+theorem 2.6. In the graph theoretical picture, single-qubit Cliffords operations will be replaced
+by operations called local complementations on the graph and single-qubit Pauli measurements
+by local complementations and vertex-deletions. A vertex-minor of some graph is by definition
+a graph that can be reached by some sequence of local complementations and vertex-deletions.
+Equivalence of graphs under local complementations has been studied by Bouchet in [10], which
+was used by Van den Nest ef al. [11] to find an efficient algorithm to decide whether two graph
+states are equivalent under single-qubit Clifford operations.
+
+The computational complexity of deciding if a graph G’ is a vertex-minor of G, and therefore
+if |G’) is a qubit-minor of |G), was, to the authors’ knowledge, previously unknown. In another
+paper [12], we show that this decision problem is, in fact, NP-Complete. There is, therefore, no
+efficient algorithm that solves this question in general, unless P = NP.
+
+(a) Results
+
+Here, we show that the same problem can be solved in cubic time in the number of qubits of |G)
+on instances where the Schmidt-rank width of |G) and the number of qubits of |G’) are bounded.!
+This is our first main result which we formally state in theorem 1.2 and prove in §5c.
+
+Theorem 1.2. There exists an algorithm that decides if |G’) is a qubit-minor of |G), and therefore if G'
+is a vertex-minor of G, and has running time
+
+O(F(IG'L 7) - IGIP), (1.3)

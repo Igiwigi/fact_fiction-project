@@ -1,0 +1,24 @@
+
+In this section, we show how coils and other related patterns may be used as building blocks
+towards the fabrication of larger structures.
+
+Using the settings provided in §3b, we print a piece by moving the nozzle along a circular
+trajectory with a relatively large radius R = 50 mm > R¢. Upon completion of a circle, the printing
+plate is lowered to account for the filament thickness, and another circle is made. In figure 5a,
+we show a photograph of the experiment, where the circular path followed by the nozzle is
+evident. In figure 5b, we provide a computerized tomography scan of the resulting structure,
+which appears as if the glass threads have been ‘woven’ into a wicker basket. Further, this
+metaphor becomes instrumental, since each layer presents bonds with adjacent layers, resulting
+in overall strong mechanical cohesion. We note that those bonds—as well as their distribution—
+are irregular. This is attributed to the fact that, as a coil forms, it crosses its own path, effectively
+resulting in the formation of a bump. As a result of this effective roughness, only a fraction of
+the thread contacts the neighbouring layers. This result contrasts with conventional prints, where
+a single thread follows the exact path of the nozzle, and where each layer fully bonds with the
+previous and following layers, strongly stiffening the resulting structure [23]. However, the latter
+
+
+is more exposed to catastrophic fracture than the former: in its ‘woven’ configurations, we expect
+that a mechanical load large enough to damage the structure will lead to a series of small cracks
+distributed in the wall, as opposed to a single catastrophic fracture crossing the entire structure.
+
+5. Discussion

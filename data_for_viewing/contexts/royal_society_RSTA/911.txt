@@ -1,0 +1,24 @@
+
+3. A composite state determines states of subsystems (so the local state of S is restored when the
+state of the whole S and € is restored).
+
+These facts help to characterize local states of entangled systems without using reduced density
+matrices. They follow from quantum theory: locality is a property of interactions. The other two
+facts define the role and the relation of the quantum states of individual and composite systems in
+a way that does not invoke density matrices (to which we are not entitled in the absence of Born’s
+Rule). Thus, phase shift ug ® 1e = (| Tt | + | LL |) @ Ie acting on a pure pre-decoherence
+state matters: measurement can reveal g. In accord with facts 1 and 2, ug changes a| t) + A] |) into
+a|t) +e” B| |). However, the same ug acting on S in an entangled state |se) does not matter for
+S alone, as it can be undone by 1s ® (let er| +e” ley Ney), a countershift acting on a faraway,
+decoupled €. As the global |Ws¢) is restored, by fact 3 the local state of S is also restored even if
+S is not acted upon (so that, by fact 1, it remains unchanged). Hence, the local state of decohered
+S that one obtains from |s¢) could not have changed to begin with, and so it cannot depend on
+the phases of a and p.
+
+The only pure states invariant under such phase shifts (unaffected by decoherence) are pointer
+states. Resilience, as we saw, equations (2.1) and (3.1), lets them preserve correlations. For
+instance, the entangled state of the measured system S and the apparatus, |ys_4), equation (3.2),
+decoheres as A interacts with E:
+
+(al t)IAs) + BI LIAy)leo) S45 al t)LAs) le) + BI 1)IAy) ley) = ste) (4.3)
+

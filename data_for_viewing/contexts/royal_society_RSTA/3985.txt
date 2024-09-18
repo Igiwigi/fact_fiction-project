@@ -1,0 +1,25 @@
+Figure 4. Speed-up as a function of the parameter a comparing the computational times required to fulfill the convergence : =
+criteria. The error bars represent one standard deviation for 100 simulation times. Blue symbols denote the speed-up obtained DR
+by the hybrid method with respect to the full DSMC simulation, whereas red symbols denote the speed-up obtained by simply eri
+summing the times required for DSMC to evolve over the w part of the domain and LBM over the entire domain. In the inset, : =
+the found extra gain is also shown. At w = 0.2, a 25% extra speed-up is achieved by the hybrid method. : 8
+:s
+S
+&
+
+sum of the times required for DSMC to run over the @ fraction of the domain and for LBM over the
+whole domain, t,gm+psmc- In particular, for a = 0.2, more than a sixfold reduction with respect
+to a full DSMC simulation is achieved. It has also to be noted that the computational overhead,
+due to the fact that the LBM extends over the whole domain and not just over (1 — @), is very
+limited. For the tested conditions, in fact, a full LBM simulation is about 80 times faster than a
+full DSMC simulation, performed over the whole domain. The measured extra speed-up, defined
+as tLBM+DSMC/thybridy Was found to be 25% for a =0.2 and 16% for w = 0.36. Such computational
+extra gain may qualitatively be explained by considering that the LB information processed in
+the bulk provides a higher quality, less noisy, input to the DSMC in the Knudsen layer than bulk
+DSMC alone. Thus, LB serves as a sort of DSMC accelerator.
+
+Finally, a clarification about the flow domain decomposition technique and its range of
+applicability is due. This type of hybrid approach is a suitable choice to analyse multiscale
+problems if the flow features a bulk region for which a constitutive model is known to be
+accurate, but it may become not an efficient nor an accurate method if such a condition is not
+fulfilled. This would be the case, for example, of the Couette flow at a larger Kn number than

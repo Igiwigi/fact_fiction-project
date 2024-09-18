@@ -1,0 +1,25 @@
+
+OP. (Vabcde)(3f)—L(abc) A Z(abd)  Z(bec) > Z(afc) A Z(def).
+
+
+c c
+ee PR
+a b d a b d
+
+IP OP
+
+Figure 4. The inner and the outer form of the Pasch axiom.
+
+In fact, it was shown in [32, Th. 7, p. 355] that it is enough to require that L(def) holds in the
+conclusion instead of Z(def), to obtain the same theory. There is, however, another form of the
+Pasch axiom, called the inner form, which states that:
+
+IP. (Vabcde)(3f)—-L(abc) A Z(abd) A Z(aec) > Z(bfc) \ Z(dfe).
+
+The outer and inner forms of the Pasch axiom were introduced by Peano [33] as axiom XIII
+and axiom XIV.
+
+Now Veblen [32, Th. 13, p. 358]) has shown that IP can be derived from £ U {Z8, OP}, by using
+OP three times. We can show that, in any proof of IP from £ U {Z8, OP}, the axiom OP must be
+used at least three times. To this end, we Skolemize the axioms Z6, Z7, Z8, OP, and IP. They
+become (here ag, 41,42 are three individual constants, and o, ,¢,1 are operation symbols)

@@ -1,0 +1,24 @@
+
+~ ~ 0. a
+L-[-B(s) sind + Q(s) cos 6], = =Lcos@ and i =Lsin6, (Al)
+Os 1S
+
+where L is the unknown (half-)length of the buckled region, $€ [0,1] is a scaled arclength
+coordinate, and P = P/(Eh*/12) and Q = Q/(Eh*/12) are dimensionless components of the tension.
+We choose a global Cartesian coordinate system with origin at the centre of the circle.
+
+The boundary conditions are that on the symmetry line (s=0) 6 =0 and x=0; whereas at
+the contact point (s = 1) 6 =a and y= ~—r cosa, where r is the radius of the bounding circle. The
+values P and Q are constant from the equilibrium of forces, but their values are unknown, as is
+the length L. To determine the unknown tension components, we use the facts that the curvature
+of the beam must match the curvature at the contact point, 00/08 =L/r at s=1; and that the
+symmetry condition at s = 0 means that the vertical component of the tension must be zero. (Note
+that it is easier to locate the buckled solution branch numerically if the vertical position of the
+beam at s=0 is treated as an additional unknown Y with the associated equation that Q = 0.)
+The unknown length L is found from the constraint that at s=1, x =rsina. Solving this set of
+equations and constraints using quadratic finite elements via oomph-1 ib, we find a post-buckled
+solution for given a if we insist that Y > —r.
+
+To link this constructed solution to the undeformed ring, we treat a as an unknown with
+the constraint that the length change due to axial strain induced by the tension (assuming a
+

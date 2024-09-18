@@ -1,0 +1,25 @@
+and cellular systems are obscured by thermal and other sources of noise. The classical, linear
+
+
+signal processing solution to this problem is simoothing or filtering: by obtaining (weighted)
+averages over a temporal window around each sample in the signal, a statistical estimate of the
+configuration at each point in time can be obtained. However, severe limitations to this strategy
+arise when the signal can change abruptly, rather than smoothly: in fact, this is not a problem for
+which classical linear DSP is suited.
+
+To illustrate why classical linear filtering is problematic in this situation, consider the
+archetypal, step-like signal: the square wave—periodic with instantaneous transitions between two
+different amplitudes—which is obscured by serially uncorrelated (white) noise. A fundamental
+fact about linear, time-invariant (LTI) systems is the existence of a unique spectral description,
+so it is instructive to describe the situation in the Fourier domain. The only Fourier coefficients
+of the square wave that are non-zero are odd, integer multiples of the frequency of the wave,
+and are proportional to 1/n, where n is the index of the Fourier component. Thus, the Fourier :
+series has an infinite number of non-zero terms (infinite bandwidth), and truncating the series 7
+introduces spurious oscillations (Gibbs phenomena) near the edges of the square wave, with the is
+amplitude of these oscillations increasing as the truncation becomes more drastic. At the same a
+time, serially uncorrelated (white) noise has constant spectral density, so the bandwidth of the :s
+noise is also infinite. 3
+
+The LTI smoothing filter averages over a certain duration of time (low frequency), in order i=
+to integrate over statistical fluctuations due to the noise occurring on a smaller time scale (high :g
+frequency). In the Fourier domain, therefore, the filter recovers low-frequency signal by removing : ral

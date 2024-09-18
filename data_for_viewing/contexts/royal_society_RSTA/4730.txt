@@ -1,0 +1,25 @@
+— aharmonic polynomial for Almgren’s monotonicity function;2
+
+— global profiles for a free boundary problem, e.g. through Alt-Caffarelli-Friedman (ACF)-
+monotonicity function, see §3.
+
+It should be pointed out that uniqueness for the tangent cone in minimal surfaces was proved
+by Simon [1], who treated the problem in a way that is reminiscent of convergence for time
+tending to infinity in an evolution equation.?
+
+For a minimal surface, the ratio E(r,S,z) = E(1,S;,0) grows from the plane configuration, Sp ~
+plane, to a higher oscillatory surface S,.
+
+Another simple monotonicity formula is given by the fact that if u is harmonic, |V(w)|/? is
+subharmonic and thus its average in B, increases with r, i.e. the average energy of a subharmonic
+function over B,(z) increases in r. This can also be written as the average of the square of the
+H'/?.norm of the trace.
+
+Ina similar vein, Almgren’s monotonicity formula A(r) (see [2]) the ratio, properly normalized
+on the sphere of radius r, of the square of the H 1/2_norm of the trace over the square of the L2-
+norm of the function, i.e for a harmonic function A(r) is the Rayleigh quotient of the H!/? norm
+and it increases as we diverge from a point.
+
+For the Signorini problem, once we look at convex solutions, there are three candidates:
+the solution, the tangential derivative and the normal derivative. The solution changes sign,
+so it is not a good choice. Between the normal and tangential derivative, we ask which one

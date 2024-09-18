@@ -1,0 +1,24 @@
+
+ini the entropies grow quadratically [31], as expected by simply expanding the
+expressions in equations (2.2) and (2.3). Subsequently, the increase is nearly linear until saturation.
+The linear increase of the entropies reflects the large number of decay channels available for the
+initial state, not necessarily the presence of level repulsion. This was stressed in [18,21,22], where
+clean models were considered, and also in [19] for disordered systems. In [21,22], the Shannon
+entropy was studied for initial states corresponding to mean-field basis vectors. This allowed
+for the derivation of analytical expressions following the steps discussed in [74]. In [18], both
+entropies were considered, but only for two specific site-basis vectors, the Néel state and the
+domain wall state. Here, we average the results over 50 different site-basis vectors and also over
+20 realizations of random border defects, so the curves are smoother.
+
+The fact that both entropies lead to very similar behaviours suggests that any of the two can
+be equivalently used to study non-equilibrium quantum dynamics. In this context, entanglement Dos
+does not appear to be an essential property [67,75]. The advantage of the Shannon entropy is to =
+be computationally less expensive, because it does not require the partial trace of the system. It a)
+would be interesting, however, to identify which features of the dynamics of many-body quantum :
+systems one entropy can detect that the other cannot. nee)
+
+At first sight, the results for the entropies in the main panels of figure 1 seem unable to fo
+differentiate integrable from chaotic models. However, the Shannon entropy explicitly contains D4
+the survival probability, DN
+
+Ssn(t) = —Pini(t) In Pini(t) — Y* Pu(#)In Pu(t), (3.1) S

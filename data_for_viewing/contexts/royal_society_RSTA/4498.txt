@@ -1,0 +1,25 @@
+There are three assets X, Y and Z, and, at each point in time, each trader needs to sell one of the [4
+three assets (chosen with equal probability) against the other two. When Ann and Bob want to : =
+sell the same asset, they do better trading on separate markets, in which case they get pay-offs of : g
+0 (a normalization), rather than on the same market, where they would directly compete against : g
+
+each other and get pay-offs of -M. When Ann and Bob want to sell different assets, they do better
+trading on the same market since each increases the demand for the asset the other wants to sell.
+This yields both a pay-off of +i, as compared with 0 if they trade on separate markets. We assume
+m <M. (This inequality makes sense since, even if they sell different assets, they still compete in
+purchasing the third one.)
+
+If M is sufficiently large compared with m, any good pair of strategies for the traders must
+preclude their selling the same asset on the same market. In fact, the following is optimal for the
+traders. Ann goes to market 2 only when she needs to sell asset Z, while Bob goes to market 1 only
+when he needs to sell Z. (By symmetry, we can replace Z by X or Y, and market 2 with market 1.)
+To calculate the resulting expected pay-off to the traders, note that there are nine equally likely
+cases according to whether Ann wants to sell asset X, Y or Z, and similarly for Bob. In four of
+these cases, the above strategy profile secures a pay-off of +m, and otherwise 0. So, the expected
+pay-off is é x m. This is under the assumption of no signals, but, since the scenario corresponds
+to a Kuhn tree (with imperfect recall), we know from proposition 5.2 that the addition of classical
+signals cannot improve the baseline pay-off.
+
+Now bring in quantum information resources. We give the traders access to an entangled
+quantum system on which they can make certain measurements and thereby condition their
+choices. Specifically, we assume that the system consists of two particles, one per trader. The

@@ -1,0 +1,25 @@
+dataset, which is the first step in the ML life cycle.
+
+
+ML models reflect features of the problem which the system is intended to solve (and of its
+solution). In practice, the ML system developer shapes the set of features represented in the model
+by training it on selected data, assessing its performance (e.g. what proportion of pedestrians it
+correctly recognizes—known as true positives—and those objects, such as life-size pictures of
+people in an advert on the side of a bus, it mistakenly categorizes as pedestrians—known as false
+positives), and iterating to improve performance. Training will seek to balance the performance
+between the different criteria. This balance will be decided by the developer for a particular
+system, e.g. for an AV, a high level of false positives may be acceptable to reduce false negatives,
+for safety reasons. Development of ML models always involves such balances or trade-offs. What
+XAI methods can do is to highlight the consequences of such trade-offs. In fact, a lot of work on
+explainability, e.g. [2], is focused on developers to help them guide ML-model development but,
+in this paper, we will primarily focus on other stakeholders, external to the development.
+
+To avoid confusion with the decisions made by humans in-the-loop, the term ‘predictions’ is
+used in figure 1 but these might include decisions made by an autonomous system, e.g. an AV may
+decide to stop when it detects a traffic light at red. We continue with this terminology throughout
+the rest of paper: all outputs of the ML-based system—whether decisions, recommendations,
+predictions or classifications—will be referred to as ‘predictions’.
+
+(c) Types of explainability method
+
+At the first level of our analysis, we will focus on two dimensions of XAI methods:

@@ -1,0 +1,24 @@
+
+The conclusions (+) and (c) follow immediately from lemmas 2 and 3 respectively.
+
+It will be noted that this theorem merely proves (in certain circumstances) the existence
+of an infinity of solutions of the inequality (16) ; it gives no information about the distribution
+of the solutions throughout the different parts of the body. In particular cases, more in-
+formation can be obtained by direct application of lemmas 1, 2 or 3. We return to this point
+in §4.
+
+3. SOME FULLY REDUCIBLE STAR BODIES
+
+All the star bodies which we mentioned on p. 313 as being bounded ly reducible are in
+fact fully reducible. The method which will be used to prove this is a straightforward modi-
+fication of that of Mahler, and rests on modified forms of theorems K and L, and definition
+D of Mahler (19464). We denote these modified forms by accented letters. As before, we use
+K® to denote, for any t>0, the bounded star body consisting of those points of K whose
+distance from O does not exceed ¢.
+
+THEOREM K’. Suppose the star body K is not fully reducible. Then there exists a critical lattice A
+of K and an infinite sequence of lattices A,, Ay, ... such that
+
+(a) A, ts admissible for K, but not for K;
+
+(5) d(A,) <A(K);

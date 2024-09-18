@@ -1,0 +1,25 @@
+The analysis of the experimental results is somewhat complicated by the fact that in general
+electronic and optomechanical nonlinearities are simultaneously present, so that an internal
+state and a density pattern can be simultaneously present in the atomic ensemble. Internal-state
+nonlinear effects can be accounted for in our theoretical model [16], but we neglect them here by
+assuming low saturation values, because, at low temperatures, a spatial instability is expected
+to occur even at low saturation levels owing to density redistribution effects only [15]. The
+results presented in [16] provide experimental support for this claim in the appropriate parameter
+regimes.
+
+For a theoretical treatment, we consider in the following the case of a cigar-shaped cloud
+elongated along the coordinate x transverse to the propagation direction z, so that transverse
+self-organization will lead to one-dimensional structures. Our theoretical analysis [15] indicates
+in fact that no qualitative differences are expected for the dynamics of one- and two-dimensional
+systems, and restricting to one dimension allows for a connection with temporal synchronization
+phenomena. We neglect propagation inside the cloud and account for diffraction of the
+transmitted field only in the free-space propagation to the mirror and back. For the parameters
+considered here, this simplifying assumption provides good qualitative agreement with more
+detailed models in which diffraction within the medium is also taken into consideration, as
+discussed in [16]. We also assume the pump to be substantially detuned from the atomic
+resonance, so that the atoms act as linear scatterers, and the transmitted field Ft at the exit of
+the cloud is
+
+Fir(x, t) = F exp(ixon(x, t)), (3.1)
+
+where xo = bo A/(1 + 4A?) parametrizes the cloud susceptibility and A = 4/1’. Scaling of the field

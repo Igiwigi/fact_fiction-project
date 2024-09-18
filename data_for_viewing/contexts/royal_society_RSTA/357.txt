@@ -1,0 +1,25 @@
+The expression P(D|m) is variously called the marginal likelihood, model evidence or integrated
+likelihood. The prior over the parameters, P(0|m), plays the role of specifying the range as described
+above (e.g. it could be uniform on [—1, +1]) in the form of a distribution over the allowable values
+of the parameters. Without a prior, our model is not well defined: we cannot generate or forecast
+data until we know how to choose values for @.7 Once the prior and likelihood are defined, and
+only then, is the model m fully specified in the sense that it can generate possible datasets.
+
+People often object to Bayesian methods on the basis that it forces one to define priors on
+the parameters. This, in my opinion, is completely misguided. All models make assumptions;
+without assumptions, it is impossible to make any forecasts or predictions from observed data.
+The first stage of the Bayesian modelling framework is to explicitly state all assumptions using
+the language of probability theory. Specifying both the prior and likelihood is a necessary
+requirement so that the model is well defined. In fact, the distinction between prior and likelihood
+is arbitrary?; both are essential parts of the model.
+
+People also object to the use of priors on the parameters on the grounds that they do not
+think of the parameters as being ‘random’ variables. For example, if one is estimating the mass
+of a planet from astronomical data, the mass of the planet is not ‘random’ in the colloquial
+sense of the word.’ This is a misunderstanding of the semantics of probabilities in Bayesian
+
+2Of course, our model may have a fixed value of 0, e.g. 7.213, which corresponds to a delta function prior.
+
+3Consider, for example, a model that defines the probability of the data (ie. the likelihood) using a student f-distribution.
+For a single data point, this can be equivalently expressed as a model with a Gaussian likelihood and a Gamma prior on the
+precision of that Gaussian.

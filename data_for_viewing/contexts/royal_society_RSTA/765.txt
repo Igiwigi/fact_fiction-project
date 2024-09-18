@@ -1,0 +1,25 @@
+evaluate the matrix elements for all dimers and trimers whose bond lengths lie within the cut- :
+off range of the basis functions, and then to interpolate the results. In contrast with McEniry
+et al. [21], we eschew fitting functions such as exponentials, as the fitting errors led to numerical
+instabilities in some simulations. Since our basis functions themselves are well-defined functions,
+the Hamiltonian matrix elements can be obtained to within numerical precision; therefore, we use
+a fine (approx. 0.05 A) grid of interatomic distances, and use cubic splines to interpolate between
+the tabulated results for the two- and three-centred contributions.
+
+All calculations are performed with periodic supercells, with full structural relaxation,
+including relaxation of the cell shape, unless otherwise stated. To achieve a desired convergence of
+less than 0.1 meV per atom, necessary for the description of the hydrogen diffusion barriers in Fe,
+Monkhorst-Pack k-point grids, with density of approximately 8000 kpts - atoms, are used. Owing
+to the fact that hydrogen is extremely light, the zero-point vibrations of the H atom are taken
+into account in the evaluation of the trapping energies; however, the variation of the zero-point
+vibrational energy along diffusion paths, within the nudged-elastic band scheme, is neglected. In
+some cases, the results are compared with ab initio values; these are obtained with the plane-wave
+VASP package [26], using an equivalent k-point mesh, and an energy cut-off consistent with a
+convergence of less than 0.1 meV per atom.
+
+3. {110}-Terminated twist grain boundaries
+
+Within an atomistic modelling framework, it is not feasible to screen all possible classes of grain
+boundaries, from near-bulk £3-type boundaries to low-angle grain boundaries characterized
+by periodic arrays of edge dislocations, while encompassing the whole range of twist and tilt
+boundaries. It is the view of the authors that a more systematic approach can be achieved by

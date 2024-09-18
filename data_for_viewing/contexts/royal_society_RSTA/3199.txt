@@ -1,0 +1,25 @@
+we showed numerically in §4 that the linear operator Cy has no eigenvalues in the half-plane
+Red > 0 other than a simple eigenvalue zero. In this section, we consider a fast combustion wave
+for which we assume that this is the case, i.e. a fast combustion wave that is spectrally stable in
+the weighted space Xq.
+
+Linearized stability of the travelling wave in %, does not follow from spectral stability using
+standard results. Since the system (2.1)-(2.3) is partly parabolic, the linearized operator has
+vertical lines in its spectrum, so it is not a sectorial operator. Therefore, the linearized system
+generates a Co-semigroup, not an analytic semigroup. This difficulty is typical for systems with
+no diffusion in some equations.
+
+However, linearized stability in % does follow from spectral stability by a recent result of
+Yurov [10], for Xo equal to either L?(R,R3) or H'(R, R°). We postpone a discussion of this fact to
+appendix A.
+
+Unfortunately, nonlinear stability of the travelling wave to perturbations in %y does not follow
+from linearized stability using standard results. The essential difficulty is that the weight function
+Ya(&) decays exponentially at the left, so Yq includes functions that grow exponentially at the left.
+The square of such a function grows twice as fast at the left, so it need not be in Xy. This makes it
+difficult to study nonlinear problems in this space.
+
+Our goal in the rest of this section is to use theorem 3.14 in [9] to obtain a type of nonlinear
+stability for fast combustion waves that are spectrally stable in Xy. Theorem 3.14 in [9] as
+stated does not apply to systems with transport terms (a0,@ in (2.1) and bd,Y in (2.3)), so a
+generalization is needed. The necessary generalization again relies on Yurov’s theorem. We

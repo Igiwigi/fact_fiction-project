@@ -1,0 +1,25 @@
+be assessed whether unstable damage evolution of a structural part would lead to failure of
+the entire blade. The damage tolerance of specific material selections and alternative structural
+designs could then be compared in the design phase.
+
+4. Structural health monitoring
+
+An SHM system’s main purpose is to give information about the presence of damage in an
+
+accurate way, its location with a good resolution for possible repair/maintenance, the type of :2
+damage (that in a complex structure like a wind turbine can be very diverse), the severity of the : =
+damage and finally prognostic information about the remaining operating life [28]. [3
+
+In fact, a great deal of sensor information is already available from offshore wind farms : =
+concerning the wind conditions, power output, temperatures, gearbox /drive-train vibrations and DR
+so on; but little or no sensor data specifically for the blades. As modern wind farms have a data : 3
+handling and transfer framework already in place, an eventual monitoring suite for the blade : 3
+condition can be designed to be a ‘module’ inside the already existing system. Furthermore, many : s
+of these other sources will provide valuable parametric data to the blade sensor outputs. :§
+
+The current maturity level for state-of-the-art blade damage sensing is very broad, with a ~
+
+great deal of research at the material level on integration/embedding of promising sensors
+into the composites. This includes fibre-optic sensors using fibre Bragg gratings [29] or
+continuous optical fibre measurement [30], electrically conducting sensors based on conductive
+polymers and carbon fibres [31], acoustic emission methods using piezoelectric transducer

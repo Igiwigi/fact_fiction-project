@@ -1,0 +1,25 @@
+purely diffusive heat flux of a motionless fluid layer yields the Nusselt number Nu. The central
+question above then reduces to the determination of the asymptotic behaviour of Nu as a function
+of Ra, typically sought under the form Nu ~ Ra” (leaving aside the Prandtl number Pr, defined as
+the ratio of the kinematic viscosity over the thermal diffusivity).
+
+As initially proposed by Priestley & Malkus [1,2], the emergent heat flux in the RB geometry
+is strongly restricted by the boundary layers adjacent to the top and bottom plates. This leads
+to the classical theory, characterized by a scaling exponent y = 1/3. This prediction departs from
+the mixing-length prediction of Spiegel [3]: in the context of astrophysical fluids, where solid
+boundaries are irrelevant, Spiegel assumes that the heat flux is related to the temperature drop in
+a way that does not involve the tiny molecular diffusivities. This ‘diffusivity-free’ argument leads
+to Nu ~ JRa Pr, that is, y =1/2. While the RB studies do not agree on when and whether RB
+convection can achieve a heat transport exponent y greater than 1/3 [4-11], they agree on the fact
+that the effective heat transport exponent is always significantly less than 1/2, with experimental
+values in the range y € [0.28 — 0.38]. This makes it clear that the relationship between the heat
+flux and the temperature difference in experimental RB convection always involves the molecular
+diffusivities, either in a power-law or in a logarithmic fashion.
+
+With the goal of circumventing the limitations of the RB set-up, we recently introduced
+an alternate set-up where convection is driven by internal heat sources and sinks (CISS). A
+combination of volumic sources and sinks deposits and removes heat directly inside the bulk
+turbulent flow, thus bypassing the throttling boundary layers of RB convection. In CISS, the heat
+flux is imposed and the vertical temperature drop is the emergent quantity that one measures
+or extracts from a numerical simulation. In dimensionless terms, the flux-based Rayleigh number
+Rap = Nu x Rais the control parameter, and the goal is to determine the Rayleigh number Ra for a

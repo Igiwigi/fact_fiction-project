@@ -1,0 +1,24 @@
+signal-to-noise ratio (SNR). This capacity is achieved by choosing x(t) to be a Gaussian random
+process with power spectral density P/W over the band [f,f + W], and zero otherwise. The
+expression in (4.2), though sometimes called ‘the Shannon capacity’, applies specifically to the
+channel capacity of the AWGN channel. Other channels may have a larger or smaller capacity,
+depending on their particular characteristics.
+
+The capacity C(P, W) in (4.2) represents the maximum number of bits per second that can be
+reliably be transmitted through the channel (4.1), when x(f) is power- and bandwidth-constrained.
+To increase the capacity, one can increase the bandwidth W, the power P, or both. If the bandwidth
+is fixed and the transmitted power is increased, then the capacity C(P, W) tends to infinity, but
+it grows only logarithmically with power. On the other hand, if the power is fixed and the
+bandwidth increases, the capacity will never exceed C(P) = limw- 0 C(P, W) = P log, e/No bit/s.
+These two cases highlight the fact that when bandwidth is available, it is a good idea to spread
+the power over the whole bandwidth rather than only using a small part of it.
+
+We will now use the band-limited AWGN channel in (4.1) as the noisy channel in figure 1b to
+exemplify two fundamental principles regarding achievable rates of continuous- and discrete-
+time channel models. First, there exist multiple discrete-time channels that correspond to the
+same waveform channel, depending on the choices for the inner transmitter and receiver. These
+discrete-time channels can have different capacities, of which the highest is equal to the capacity
+of the underlying waveform channel. Second, there exist multiple transmission schemes for the
+same discrete-time channel (figure 1c), depending on the choices for the outer transmitter and
+receiver. These schemes can have different mutual information, of which the highest is equal to
+the channel capacity of the discrete-time channel.

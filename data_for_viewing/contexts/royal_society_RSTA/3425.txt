@@ -1,0 +1,24 @@
+Re(0) =< (2.10)
+The temperature 1/8 is chosen low enough such that the paramagnetic (7 = 0) state is metastable.
+For J4>0 large enough the magnet may undergo a first-order phase transition from the
+metastable state with m=0 to either of its stable ferromagnetic states, with magnetization up
+or down, m—> +n. The transition will be triggered during the measurement process. The final
+magnetization +Nmp can be read off, which is the registration of the measurement.
+
+Now, the evolution of Dit) is dictated by the Liouville-von Neumann equation of motion,
+
+dD
+dt
+The relevant degrees of freedom are those of the state of SM, i.e. the measured system and the
+pointer. Hence, one is in fact interested in the evolution of the reduced state of SM,
+
+ih— =[H,P]. (2.11)
+
+Db) = trgP(b), (2.12)
+
+where Dit) is the state of SMB. By tracing out the bath, one can obtain a dissipative equation
+for the evolution of SM by using standard open systems techniques owing to the weak coupling
+between M and B. One then obtains the following master equation for the evolution of SM under
+its Hamiltonian Hp = Hs + Hu [5]:
+
+db

@@ -1,0 +1,25 @@
+scales has yet to be undertaken in a systematic way. The present manuscript has
+highlighted potential sources of uncertainty, and the next step is to assess their relative
+importance quantitatively. This open question will highlight important sources of
+uncertainty, and will motivate efforts to reduce them. A particular example would be
+the way that credibility of a personalized model is informed by better understanding of
+sources in uncertainty in generic tissue models.
+
+— Coupling of uncertainties across scales requires tools to couple uncertainties across
+scales and types of model [92,116]. This coupling may operate not only from cell to whole
+organ, but also in the reverse direction. Co-variances among model parameters, especially
+at different scales, are also an important consideration. A recent study has reviewed
+sensitivity analysis in many different modelling applications, and has highlighted the
+fact that many sensitivity analyses are flawed because model input spaces have not been
+explored thoroughly taking into account co-varying inputs [122].
+
+
+Cardiac electrophysiology models have become a valuable tool not only for basic science, but
+also have been proposed for transition into clinical applications [98,99,117,118]. The credibility of
+model outputs has therefore become an important challenge. Models are necessarily incomplete
+representations of reality, and so uncertainty and sensitivity analysis should focus on quantifying
+the extent to which the model outputs are reliable, and the minimization of uncertainty [122]. For
+safety-critical applications, these are crucial questions.
+
+The main recommendation from the present analysis is therefore that taking into account
+uncertainty and variability should be considered a critical aspect of cardiac electrophysiology

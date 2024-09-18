@@ -1,0 +1,25 @@
+to classical dynamics through the semiclassical construction, one might almost be tempted to
+investigate using quantum dynamics to improve on the unpredictability and irreversibility of =
+classical dynamics. Of course, this is not possible, but contemplation of this paradox is revealing. :
+First, although manifold stability in chaotic dynamics is already well known [28], had one
+resolved this paradox prior to the discovery of manifold stability, quantum dynamics along with nee)
+semiclassical mechanics would have predicted its existence as an inherent classical structural :
+stability forward in time for the unstable manifold and backward in time for the stable manifold. a]
+In any event, the paradox forces us to recognize that the sensitivity of quantum dynamics to DNS
+perturbation is deeply tied to manifold stability [16]. Second, using the quantum fidelity as a area
+measure of quantum reversibility requires an overlap integral, either of two forward propagated aN
+quantum states or one propagated forward and backward in time with the original state. In either .
+case, the nature of the overlap integral is markedly affected by this classical structural stability,
+and generally is not in a regime in which it is amenable to a saddle point method. This fact allows
+for the quantum and classical dynamical reversibility behaviours to differ.
+
+2. Predictability and reversibility
+
+Our attention is focused on d degree-of-freedom systems that are strongly and fully chaotic,
+meaning they possess significant positive Lyapunov exponents [20], there are no hidden
+dynamical symmetries, the phase space is overwhelmingly filled with chaotic trajectories, and
+the system has a finite phase space volume; the possible existence of an extremely small relative
+volume of stable trajectories does no harm to any of the main ideas. The system is assumed to exist
+in both its classical and quantum realms and d is not large enough to be on the thermodynamical
+scale. In this section, we review just how different some of the basic classical, quantum and
+semiclassical dynamical properties are.

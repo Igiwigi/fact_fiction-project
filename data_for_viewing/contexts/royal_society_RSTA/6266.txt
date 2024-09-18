@@ -1,0 +1,25 @@
+tackled a problem in a Bayesian way, but now typically use non-Bayesian approaches for these
+problems.>
+
+5Here, I deliberately use the descriptor ‘non-Bayesiar’ rather than ‘frequentist’ and do not consider them synonymous. For
+example, both maximum-likelihood estimation and penalized approaches like the lasso are non-Bayesian, but, in contrast
+to confidence intervals and p-values, not inherently frequentist. Of course, one may study the frequency properties of these
+procedures, but one may also study the frequency properties of Bayesian methods.
+
+
+(a) Population structure and clustering
+
+The first example is my work on so-called ‘admixture models’ to infer population structure
+from genetic data [32]. In brief, population structure refers to the fact that some individuals
+are more genetically similar than others. Thus, a typical first attempt to investigate population
+structure might involve applying some kind of clustering method to the genetic data. The main
+contribution of [32] was to extend a standard model-based cluster model to allow that each
+individual could have partial membership in each cluster; that is, in the language of population
+genetics, to allow that individuals may be ‘admixed’. In essence, we did this by replacing the
+usual ‘latent variable’ formulation of clustering, in which each individual i is assumed to belong
+to some latent cluster z; € {1,...,K}, with an assumption that each individual has a latent vector
+9i = (Git, ---,9ik), Where qi denotes the proportion of membership of individual i in cluster k.
+In the genetic context, the clusters can be interpreted as ‘ancestral populations’ and qj is the
+proportion of individual i’s genome that was inherited from ancestral population k.
+
+We tackled this problem in a Bayesian way, by specifying prior distributions on the [2

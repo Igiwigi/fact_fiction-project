@@ -1,0 +1,25 @@
+[31]: n=3, B=4.3 x 10-7 MPa~$s~!, and |H| =20MPa; o¢ =6MPa [32]; 4, =0.5, more below),
+and upon assuming ¢ = 0.5, equation (4.4) reduces to
+
+Hs =0.6(1 + 0.014,)'/, (4.5)
+
+for hold time in seconds. The parameter ¢ is the only ‘free’ parameter in the model and is a
+relatively unimportant one, for if reduced to zero (no relaxation) or increased to unity (complete
+relaxation) the computed coefficient differs only by about 10%.
+
+Equation (4.5) is shown as the dashed curve in figure 5, for a sliding velocity of V;=10-5
+ms~!. For hold time ty < 1000s, the model captures the experimental measurements reasonably
+well. It is consistent, also, with the observation that sea water at the interface has either little
+or no detectable effect, for there is no evidence that ice creeps more rapidly when wet. (In fact,
+
+creeping asperities within submerged ice may not be wet at all, for water present at the interface :2
+may have been squeezed out as asperities come in contact.) However, the model overestimates : S
+(underestimates) by about 20-40% the lowest (highest) velocity SHS tests (at 10-6 and 10-4 s~1), : S
+discrepancies that could be attributed to the n-value and to whether a single value applies over the : =
+entire period of holding. Also, the model does not include the trend towards saturation. Missing, 2
+too, is log-time dependence. (That feature, as noted by Brechet & Estrin [33], requires creep to : S
+be described by an exponential function and not by a power-law.) Despite these shortcomings, 1a
+the creep-based model of static friction appears to work sufficiently well to justify further :8
+development along these lines. : s
+
+Sea ice creeps more rapidly than freshwater ice, by about an order of magnitude [34,35]. Why, 1a

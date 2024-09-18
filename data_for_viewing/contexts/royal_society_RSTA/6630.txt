@@ -1,0 +1,25 @@
+
+Many problems in physical applied mathematics lead to models in the form of field
+equations, usually partial differential equations, whose solutions have to contain sin-
+gularities just along a line or collection of lines in space. The aim of this Discussion
+Meeting was to explore the unification that might come about from bringing together
+scientists from various disciplines in which these models commonly occur. The obvi-
+ous candidates were fluids, superfluids and superconductors (all of which can support
+vortices of different kinds), liquid crystals and solid crystals (which can contain dis-
+locations): in some of these areas, such as superconductivity, line singularities are
+generally desirable, but in others, such as liquid crystals, they are not.
+
+Three points immediately arise when considering the relationship between line
+singularity models and practical situations. The first is the fact that the positions
+of mobile line singularities are almost always unknown a priori so that any mathe-
+matical model needs to predict their dynamics. Secondly, clarification is needed of
+the abstraction in which what is in practice a ‘core’ of finite radius (or characteristic
+length scale) is replaced by a line of zero radius. Finally it must be realized that
+interest is often centred on samples containing many, many line singularities.
+
+In order to resolve these issues, mathematical modelling has to be carried out on at
+least four length scales: the core radius, the radius of curvature of the centre-line, the
+distance between neighbouring singularities and the size of the sample. Indeed the
+characterization of line singularity problems in terms of three dimensionless length-
+ratios provides the best framework within which to achieve some unification between
+the theories for the different practical situation. We have summarized the connections

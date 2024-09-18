@@ -1,0 +1,25 @@
+364 L. FOX ON THE NUMERICAL SOLUTION
+
+the mesh lines.* The difficulties mentioned in § 4 are therefore not likely to occur with the
+biharmonic equation. The remaining problems are purely practical ones, arising from the
+relatively complicated nature of the finite-difference form of the biharmonic equation.
+
+Consider the mesh of figure 14, on the curved boundary of which the function w and its
+derivatives dw/dx, dw/dy are specified at every point. If the differential equation were of
+the second order (with only one boundary condition to satisfy), finite-difference equations
+would be set up at all internal points, external (fictitious) points being eliminated. The
+finite-difference form of the biharmonic equation, however, involves more pivotal points,
+and in particular its satisfaction at internal points adjacent to the boundary would involve
+the elimination of many fictitious points, at least one of which is more than one mesh length
+distant from the boundary.
+
+Ficure 14
+
+Fox & Southwell (1941) therefore proposed to satisfy the differential equation only at
+those internal points, marked with a cross in figure 14, which involve only those fictitious
+points, marked with an open circle, less than one mesh length outside the boundary. The
+other internal points, marked with a closed circle, would be obtained by means of the
+boundary conditions; they might then by analogy be called internal fictitious points.
+
+The finite-difference equation at the point Pin figure 14, for example, involves the internal
+fictitious points 7, Q and V, the external fictitious points S and R, and the known boundary

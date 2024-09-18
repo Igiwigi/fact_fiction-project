@@ -1,0 +1,25 @@
+number of practical and canonical problems, and will be the focus of this paper to demonstrate the
+iterative method. The Sommerfeld diffraction problem of scattering by a half-plane presents the
+prototypical scattering model. It is the classical example to introduce the Wiener-Hopf technique
+[1], dealing with both an unbounded domain and the sharp material junction. The diffraction
+of a wave by one finite plate (two junctions) has been extensively studied [34-36], but the case
+of two plates is much harder. Scattering by more than two plates has been explicitly considered
+using Wiener—Hopf but neglecting edge interactions in [37,38], analytically generalizing special
+functions [39] and numerically in [33,40,41]. Another interesting rigorous approach is to reduce
+the n-plate problem to the solution of a simple ordinary differential equation [42], here the
+practical difficulty lies in finding some constant parameters of this ODE. A common theme
+in many approaches is the successive treatment of diffraction events to yield Schwarzschild
+diffraction series; our implementation may be interpreted as recovering a diffraction series
+solution in the spectral domain (Fourier space). The fact that the proposed method is devised
+in the spectral domain rather than in the physical space is key. This allows to take advantage of
+the singularity structures of the kernel in the complex plane and hence perform hundreds rather
+than one or two iterations, see §3c. Significantly, the proposed method applies to some Wiener-
+Hopf problems arising in crack propagation or Lévi processes, which are not related to diffraction
+and where a Schwarzschild diffraction series approach would not be a natural choice.
+
+General numerical boundary-based methods, which avoid the need for Wiener-Hopf
+factorization, can provide effective solutions to scattering problems from convex sets of objects,
+though typically these require a linear growth in degrees of freedom with increasing wavenumber
+[33]. This growth may be reduced to at worst logarithmic type by considering a hybrid numerical-
+asymptotic (HNA) approach where the basis used is supplemented by appropriately chosen
+oscillatory functions, as proposed in [40]; moreover, numerical experiments suggest wavenumber

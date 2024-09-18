@@ -1,0 +1,25 @@
+concept of endogenous coarse-graining—coarse-graining performed by the system (as opposed to [=
+a scientist) as an inference mechanism [8-10]. In §3, I show through an example how coarse- : 35
+graining can produce effective downward causation. In §6 I discuss challenges, focusing in
+particular on how the collective and noisy character of adaptive systems impact coarse-graining mea)
+and downward causation. :
+
+2. Coarse-graining: general properties =
+
+The second law of thermodynamics states that the entropy of the Universe is increasing [15]. 5&8
+In apparent contrast to the second law, matter and radiation appear have started out in .
+thermodynamic equilibrium—a high entropy state [16,17]. In addition, the gravitational field at
+the birth of the Universe was highly structured (low entropy yet also smooth and featureless) but
+is becoming less ordered [18]. These two facts coupled to confusing use of the terms, ‘entropy’,
+‘structure’, ‘order’, ‘uniformity’, etc. have led to a variety of at odds or unclear positions on what
+it means to say that entropy is increasing. As I am by no means an expert on this topic, I, with
+gratitude to Sean Carroll, refer the reader to Wallace [17], who nicely summarizes the conventional
+thinking and space of positions. He offers a restatement in which he emphasizes that the early
+Universe was not at global thermal equilibrium, only local thermal equilibrium, and gives the
+reasons why.
+
+For our purposes here, the important point is that entropy is increasing and, as it does, at least
+some of the detailed information we initially had about the system is lost, making prediction
+about the behaviour of the system difficult. My interest in this is twofold. First, a point which
+i will get to in a moment, is how we can improve our capacity to make predictions under this
+condition. Second, a point which I get to in §3 is how we can reduce entropy locally to increase

@@ -1,0 +1,25 @@
+liquidity approaches a fairly stable level of 185 trades, on average, between 1 and 2h after gate
+opening.
+
+
+The total trading volume peaks at 58 GW shortly after gate opening and steadily declines to
+5.6 GW 12 min after gate opening. 15 min after gate opening, total trading volume rises to 13 GW
+while it amounts to 3.5 GW 30 min after gate opening. Comparing trading volume and the number
+of trades at these points in time shows that the surge in trading activity involves relatively little
+trading volume. Subsequently, the total trading volume keeps a quite constant and low level
+around 1.5GW until 2h after gate opening.
+
+Thus, liquidity of 15-min contracts is high close to gate opening and drops substantially during
+the first 12 trading minutes. This behaviour may be explained by the fact that market participants
+initialize their positions. In the sequel, little volume is traded and thereby only minor adjustments
+are made to the open positions. Generally, liquidity remains poor until the last trading hour prior
+to gate closure as the forecasts of fundamentals are still relatively inaccurate.
+
+3. Methodology
+
+We aim at modelling the asymmetric response of 15-min intraday electricity prices to explanatory
+variables, in particular, to renewable forecast changes depending on the slope of the merit order
+curve. We suggest an extension of the econometric model by [2] to overcome its weaknesses and
+employ a threshold regression model to calibrate our model to market data.
+
+(a) Extended econometric model

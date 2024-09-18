@@ -1,0 +1,25 @@
+corresponding term is used to give more stability to the main curve). The Gaussian term is needed
+to give more weight to the central part of the window, ice. if there are two or more peaks in one
+window, to select the support of one of them. Despite its complexity, the method provides for
+good flexibility and the possibility of accurate tuning. Based on the characteristic variations of
+the fundamental frequencies, the optimal parameters were determined to be A =5,« =0 for ECG
+and 4 = 10,« = 10 for respiration. Figure 1 shows examples of the extracted supports of the SWT
+curves corresponding to the ECG and respiration first harmonics.
+
+The advantage of using SWT for phase and frequency extraction over the more commonly
+used marked events (MEs) method is that one obtains phase and frequency values at the same
+sampling frequency as the signal, whereas the ME method gives values only at particular points
+(e.g. peaks). Thus, the effective sampling frequency of the characteristics extracted by MEs is,
+in fact, the (time-varying) frequency at which the MEs occur, i.e. the reciprocal of the current
+interpeak interval (usually around 1 Hz for ECG and 0.25 Hz for respiration); all other values,
+obtained by interpolation to match the original sampling frequency, are unphysical.
+
+
+Note that heart activity is sometimes modelled through use of the integral pulse frequency
+modulation (IPFM) model [42] which, in effect, assumes that only the R-peak positions in the ECG
+are informative. Within this framework, much effort has been directed towards the reconstruction
+of instantaneous heart frequency (IHF), treated as the input signal. These methods involve the
+analysis of an RR interval series or a pulse-train equivalent of the ECG [43], from which the
+continuous IHF is obtained by low-pass filtering, spline interpolation or other techniques [42,44].
+With such an approach, the interbeat information is necessarily neglected, so that the IHF cannot
+be obtained with a physical sampling frequency higher than that at which the R-peaks occur. In

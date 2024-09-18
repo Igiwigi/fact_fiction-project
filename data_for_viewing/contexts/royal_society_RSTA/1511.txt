@@ -1,0 +1,25 @@
+
+(e) Beyond post-processing and toward decision-making
+
+In addition to the use of AI for post-processing individual weather models, there is an
+opportunity, and perhaps a need, to use Al as an ‘algorithmic interface’ to weather model output.
+As ever more weather models come online, each with increasingly high resolution and with more
+numerous ensemble members, meteorologists are increasingly stretched to reliably and accurately
+summarize the available information into meaningful forecasts for end-users. While this is less
+of an issue in day-to-day forecasting (where, for example, reporting a simple ensemble mean—
+human out of the loop—may be sufficient) it becomes much more significant in the context of
+hazard warnings, where probabilistic forecasts need to be well-calibrated in order to be effective.
+
+In fact, there exists a gap between the information output by NWP models (a set of predictions
+of weather outcomes, each likely to be carrying biases) and the information required to make
+optimal decisions (which, according to decision theory, would be a well-calibrated probability
+distribution over weather outcomes). While the outputs of traditional NWP modelling could be
+viewed as a sparse approximation of the desired probability distribution over outcomes, the use of
+AI to debias and ‘infill’ this probability distribution based on all available information seems an
+
+
+important area for AI post-processing. The development of such systems, which can optimally
+extract and present information from the range of models they oversee, has the potential to
+not only improve on probabilistic forecasting when it matters most but also facilitate individual
+model development by providing overarching consistency in output, so that drastically changing
+an individual model will not break the system (the overall output will be carried by the other

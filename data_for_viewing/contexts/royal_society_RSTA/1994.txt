@@ -1,0 +1,24 @@
+
+where 6 is a tolerance chosen at the beginning of the simulation, equal to 107%, as in [68]. As
+one can easily observe from equation (2.17), the mass excess is positive in the case of a filled cell,
+while it is negative for an emptied cell. Finally, the computed mass excess is distributed to the
+neighbours by taking into account the direction of the interface normal as a weight:
+
+m(x+ ¢At,t+ At) =m (x+cAt,t+ At) +m™* (= ) , (2.18)
+tot
+
+where not is the sum of all the weights nj;, which are defined as the scalar product | n - ¢; |. After
+the mass redistribution process the flag of emptied /filled interface cells has to be updated before
+starting a new time-step. It is worth noting that through the mass redistribution subroutine the
+mass can be conserved over time. In fact, in the case of an emptied cell, characterized by a
+mass value slightly below 0, mass contribution is ‘absorbed’ from neighbour fluid/interface cell,
+according to the weighting procedure described above. Similarly, in the case of a filled cell, with
+a small excess of mass, this is spread to the surrounding cells. The basic principles of free-surface
+algorithm are synthetically depicted in figure 2.
+
+(d) Porous media modelling approach
+
+In this work, the porous medium generation is based on the random packing spheres approach
+proposed by Al-Raoush & Alsaleh [38] and already analysed for thermal simulations in [69].
+The computational domain is initially filled by a metal box; the area hollowed by every circle
+represents the vacuum where air/polymer can pass through. Porosity €« equal to 92% and pores

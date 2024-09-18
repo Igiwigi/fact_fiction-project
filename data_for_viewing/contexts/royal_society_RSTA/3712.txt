@@ -1,0 +1,25 @@
+we find a behaviour similar to the Rayleigh-Taylor instability in fluids: the displacement is
+concentrated at the interface of the two layers, forming a marginally stable undulation.
+
+Let Ah denote here the maximum vertical distance of the points on the interface between the
+two layers and let A/ be the horizontal distance between the points which have initial coordinates
+(4/4, Ha) and (3/44, Hq), so that Al/’ = 0.5 if y > yer. In figure 10, we show the nonlinear evolution
+of such morphological parameters as a function of y. As in the previous case, we measured the
+quantity Ah decreasing the parameter y, and found a continuous increase in the height of the
+undulation, as reported in figure 10a. We highlight that the normalized thickness Al/A strongly
+depends on the parameter aj, as we can see from figure 10b.
+
+
+In fact, for thin soft layers the undulation decreases its width while decreasing y beyond its
+critical value, thus forming a digitation. Conversely, the undulation width increases for thick top
+layers, thus forming a stable wrinkle. In summary, AI/d increases if the top layer is sufficiently
+thin, while it decreases if the top layer is above a critical thickness. In both cases, the resulting
+morphology is perfectly reversible after cyclic variations of the order parameters, highlighting
+the presence of a supercritical pitchfork bifurcation.
+
+5. Discussion and concluding remarks
+
+In this work, we used theoretical and computational tools to investigate the stability of a soft
+elastic bilayer subjected only to the bulk gravity force.
+
+Assuming that both layers are made of incompressible neo-Hookean materials, we first

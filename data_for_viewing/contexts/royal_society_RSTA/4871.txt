@@ -1,0 +1,25 @@
+: : : :
+Oo 1 2 3 4 5 6 7 8 9 10 11 13. 14 15 16 17
+
+time frame
+
+12
+
+Figure 8. An example of temporal discretization of time evolution in a single BZ droplet. The total time of experiments divided
+into a series of frames with length At. The moments of time at which the level of BZ inhibitor grows rapidly correspond to
+chemical excitations in the medium. Time frames in which the droplet was excited are marked with symbol 1, whereas the
+others are labelled with 0. (Online version in colour.)
+
+The fact that one finds a droplet giving the best answer does not solve the problem completely.
+An additional effort needs to be made by the observer to interpret this signal and to find a useful
+classification rule which can be difficult [58]. Note that in the approach presented here, the output
+of the network is limited, for simplicity, to a single droplet. However, for more complicated
+classification problems, one can consider signals combined from multiple droplets.
+
+Ina randomly selected classifier, one can expect random interactions between droplets so that
+no useful computation is expected. In order to implement a certain functionality into the network
+(like the classification ability), one has to adjust the parameters of the network using external
+factors influencing the chemical excitations. Here, we assume that each droplet of the network can
+be individually controlled by inhibiting the reaction inside in a specified time interval [0, finn].
+In this interval, a droplet cannot self-excite or be triggered by its neighbours. Note that here the
+inhibition is applied from the beginning of droplet evolution, however one can consider a more

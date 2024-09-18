@@ -1,0 +1,25 @@
+Figure 2a reveals that the costs of analog power consumption in ATP s~* are significantly less
+than those of digital power consumption even at nearly 10 bits of precision. At this crossover
+precision, the power consumption is a staggering 10 million ATP s~', so high that a yeast cell will
+be using almost its entire power budget to add two numbers at 10-bit precision! It is not surprising
+then that cells do not waste their energy doing highly accurate digital computation as computers
+do. The figure also implies that a synthetic biological circuit that just has 163 simple two-input
+deterministically robust logic gates is not practical. Thus, deterministic digital approaches to
+synthetic computation have barely scaled over a decade [9] and seem unlikely to in the future.
+Digital computation will likely have to be probabilistic and therefore behave more as noisy analog
+computation with a lower value of Naight. A lower value of Ngigt will necessarily make digital
+computation less robust and more probabilistic as we discuss in §3¢. Probabilistic ‘dithering’
+converts digital black-and-white pixels in an image to greyscale pixels. Thus probabilistic digital
+operation will have similarities to noisy analog operation, which is in fact noisy precisely because
+many probabilistic digital Poisson events constitute its value [1,11].
+
+-1
+
+
+(a)
+
+10° 10°
+a. 108 108
+< 107 digital ____— a” 107 digital —
+a al
+& 106 3 gsi

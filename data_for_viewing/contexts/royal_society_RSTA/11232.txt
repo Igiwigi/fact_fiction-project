@@ -1,0 +1,25 @@
+The alternative definition of upper (lower) integration, given in §11, shows that
+when the two component sets consist of parts of 8 obtained by means of segments,
+the sum of the upper (lower) integrals over the two components is the upper (lower)
+integral over the whole fundamental set.
+
+Theorem 16.—More generally, the sum of the upper (lower) integrals over any
+Jinite or countably infinite nwmber of non-overlapping components of 8 obtained by
+means of segments (e, e’), is the same as the upper (lower) integral over the whole
+fundamental set, provided only the content of the components is equal to that of the
+fundamental set. ,
+
+An upper (lower) semi-continuous function stands here again in an exceptional
+position, We have, in fact, the following theorem :—
+
+Theorem 17.—The upper (lower) integral of an upper (lower) semi-continuous
+function over any fundamental set 8 is equal to the sum of its integrals over every
+Jinite or countably infinite number of sets into which 8 may be divided.
+
+
+DR. W. H. YOUNG ON THE GENERAL THEORY OF INTEGRATION. 239
+
+This follows from the definition at the end of §11; for if we divide the funda-
+mental set S into (for instance) two measurable components §, and §,, and then
+subdivide all three by means of segments, the definition shows that, in the case of an
+upper semi-continuous function, the sum of the upper summations over the segments

@@ -1,0 +1,25 @@
+
+(d) The quantum hardware description language workflow
+
+The circuit design workflow relies heavily on symbolic computer algebra
+methods. Using symbolic algebra, rather than working with numerical matrix
+representations of all the operators appearing in the component parameter
+triplets, makes it possible to view the overall circuit (S,L,H) in an analytic
+form. It also allows the designer to defer choosing the values of numerical
+parameters, which could be convenient for optimization scenarios, as well as
+details such as the upper photon-number limits to use for truncated Fock spaces
+in numerical simulations.
+
+In fact, we can define our own algebraic types, operations and simplification
+rules not just for Hilbert space operators and scalar coefficients, but also for
+circuit algebra components. This approach enables us to extend the hierarchical
+
+Phil. Trans. R. Soc. A (2012)
+
+
+Photonic circuit design with QHDL 5277
+
+design principle even to our compiled QHDL component library, as will become
+clear in the following outline of the modelling workflow.
+
+Circuit design. In step 1, we visually compose the circuit using a schematic

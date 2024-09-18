@@ -1,0 +1,25 @@
+connection given by the SAP property.
+
+Taking into account that the rotation number for a fixed point must be an integer, we conclude
+the Rotr(z) =j. The same argument applies for the fixed points in W3,9. a
+
+Remark 2.10. We observe that in terms of number of fixed points, theorem 2.9 gives exactly :
+the same information as the Poincaré-Birkhoff fixed-point theorem. On the other hand, our result [=
+allows to localize the fixed points (which are in the first and in the third quadrant) and, moreover, 3
+we do not require conditions of area-preserving type so that theorem 2.9 can be applied to planar :
+systems which are not necessarily Hamiltonian. areal
+
+A result which is dual to theorem 2.9 can be obtained by assuming (TCO-) instead of (TC0*). : 3
+We stress the fact that theorem 2.9, even if, apparently does not improve the Poincaré—Birkhoff 3
+theorem, with respect to the number of fixed points, nevertheless, it contains some crucial : Ss
+information about the dynamics of the map F. This is explained in the following result. [3
+
+Corollary 2.11. Let YW: Ag > (Ap) C Ay be a continuous map which can be represented as in (2.6)
+and satisfies
+Rot(z) > 1, ¥||z|| =ro and Rot(z) < 3 V ||Zl| = Ro.
+Let ®:R? > R? bea homeomorphism satisfying (2.11) and (I;);=1,..,4 and such that (2.12)-(2.15) hold
+
+with respect to W; := Wj, = Alri, Ri] O Qj. Then the map F? induces chaotic dynamics on two symbols in
+the set W,,9 and the set W3,9.
+
+Proof. We observe that we can associate the following diagram to the map F :

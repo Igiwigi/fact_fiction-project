@@ -1,0 +1,25 @@
+of wealth to obtain a nonlinear kinetic model of Boltzmann type for the joint density of
+wealth and knowledge. This part is presented in §3. Section 4 deals with the derivation of a
+Fokker—Planck-type equation, which models the formation of the joint density of wealth and
+knowledge in the so-called quasi-invariant limit procedure. Finally, §5 is devoted to various
+numerical experiments, which allow one to recover the steady distribution of wealth and
+knowledge in the population for various choices of the relevant parameters.
+
+2. An evolutionary model for knowledge
+
+Even if a well-established definition of knowledge does not exist, and there are numerous
+theories to explain it, one can agree on certain universal aspects about it. Knowledge can be
+described as familiarity with someone or something unknown, which can include information,
+facts, descriptions or skills acquired through experience or education. It is commonly accepted
+that knowledge is in part influenced strongly by ones parents, but it is evident that the main
+factor that can influence knowledge is the environment in which an individual grows up and
+lives [43]. Indeed, the experiences that produce knowledge cannot be fully inherited from ones
+parents, such as the genome, but rather are acquired over a lifetime from several elements of the
+environment. The learning process is very complicated and produces different results for each
+individual in a population. Although all individuals are given the same opportunities, at the end
+of the cognitive process every individual appears to have a different level of knowledge. Also, it
+
+
+is quite evident that personal knowledge is the result of selection, which allows the notions that
+an individual considers important to be retained, and the rest to be discarded. This basic aspect
+of the process of learning has been recently discussed in a convincing way by Eco [44], one of the

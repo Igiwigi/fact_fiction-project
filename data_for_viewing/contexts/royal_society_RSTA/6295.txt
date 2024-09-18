@@ -1,0 +1,25 @@
+element software codes and more than 3600 journal articles citing the original 1972 paper [2]
+and 6000 citing the related textbook [13]. Here we highlight the results of three papers.
+
+The first, by Ogden [15], shows that for incompressible solids, each principal component of
+the distortional part of the stress can be expressed as a function of the corresponding principal
+component of strain only, up to the fourth order in the strain. This result may be used to justify
+the separability hypothesis (1.5), up to a certain order at least.
+
+Twizell & Ogden [16] present a systematic optimization procedure to investigate the
+correlation between theory and experiments. The numerical procedure proposed improves
+upon existing methods that were used to determine the material constants (;, a) as best-
+fit parameters. The authors also found that the correlation between the data and the model
+is casual or in some sense, spurious. This is explained by the fact that the Ogden model is
+purely phenomenological and does not connect the material constants to mesoscopic quantities
+or mechanical features.
+
+As shown later by Ogden et al. [17], the curve-fitting procedure of (1.10) is a nonlinear
+optimization problem and its solution is not unique for n> 2. Hence, several combinations of
+
+
+material parameters exist that provide the same level of optimal fitting, but with the predictions
+of the corresponding models being quantitatively different, sometimes widely. This problem is a
+widely acknowledged limitation of the Ogden model.
+
+2. An interview with Ray Ogden FRS

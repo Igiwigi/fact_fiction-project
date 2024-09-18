@@ -1,0 +1,25 @@
+The incremental response of a periodic grid of preloaded elastic rods can be homogenized to
+obtain an effective, prestressed elastic solid, linearly relating the increments of the first Piola—
+Kirchhoff stress and of the displacement gradient [14-17]. Two types of instability may occur
+in the grid, classified as ‘microscopic’ and ‘macroscopic’. Only the latter is captured by the
+homogenized material response and corresponds to its loss of ellipticity, which, in turn, coincides
+with the condition of strain localization, and, as a special case, shear band formation [18-22].
+
+Recently, two-dimensional grids of prestressed elastic rods, subject to in-plane incremental
+normal and shear forces and bending moment, have been advocated as materials that can be
+designed to exhibit instabilities inside the elastic range as well as to display tunable effective
+properties [23]. However, loss of ellipticity in these materials has been so far shown to be possible
+only when compression is involved, so that the locus of material stability for the homogenized
+material is unbounded in tension. This circumstance is a direct consequence of the fact that usually
+elastic rods only buckle in compression. However, real materials exhibit localization of strain
+for all stress states, including tension [24]. Therefore, it might be superficially (and erroneously)
+concluded that it is impossible to design an artificial material with a bounded stability domain,
+using a grid of elastic rods. In contrast to this erroneous conclusion, it is shown in this article that
+employing slider constraints (permitting only relative transverse sliding between the connected
+ends of two rods) inside the rods forming the periodic lattice may lead to a macroscopic buckling
+in tension, formally corresponding to loss of ellipticity in the homogenized response for tensile
+stress states.
+
+As a consequence, it is rigorously proven that homogenization leads to a bounded domain where
+failure determined by strain localization and shear bands is excluded. This failure occurs as soon as this
+domain is touched, as it happens for every radial stress paths emanating from the unloaded state.

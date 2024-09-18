@@ -1,0 +1,25 @@
+
+resonant frequency tracking loop 17
+
+Figure 2. Schematic diagram of the induction heating power supply system. (Online version in colour.) : g
+
+electromagnetic interaction
+
+Figure 3. Circuit diagram of the full bridge series resonant inverter. (Online version in colour.)
+
+the relationship between them. The circuit diagram of the full bridge series resonant inverter is
+shown in figure 3.
+
+The excitation coil is presented as a series RL circuits. In fact, due to the large excitation
+current during detection, the inductance and resistance values on the connecting wires of the
+circuit cannot be ignored. Here, resistance R; and inductance L; take into account the electrical
+parameters of the excitation coil and the connecting wire. The sample is modelled as an inductor
+L, and an impedance Z, = R, +jXe, which is related to the material properties of the sample.
+According to Kirchhoff’s Voltage Law, the following Equations can be obtained:
+
+. 1 .
+Vo= (R +jwLs + ac) In — jwMIe (2.3)
+and
+(Re + jwLe + jXe) le — jwMly = 0, (2.4)
+
+where V2 and I are the secondary output voltage and current of transformer Tj, respectively.

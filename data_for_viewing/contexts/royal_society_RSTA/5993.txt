@@ -1,0 +1,24 @@
+m=0 yields
+
+3/4
+e(6)=88o 2 (ALO) emo, 6.26)
+
+Thus, a sufficiently large b(1) = B ensures an exponentially small &(1), which shows that we can
+operate the system in the annealing regime, i.e. the regime where H,(s) interpolates smoothly
+from X to Z. Recall that b(0)=1, so &(0) = Wg serves as a definition of @q- Let &(1)/aq =6 be
+the desired precision. Then we can choose the remaining time-dependent control b(s) by solving
+equation (5.26) for b(s) and setting &(s) = (1 — s + 5) (again compare equation (5.24) to equation
+(5.19)). This, together with equation (5.25), fully defines the schedule.
+
+This mathematical model in fact describes a family of qubits, different by wg, pi(1) and 5.
+The family is spanned by varying the ratio Ey/Ec and B, in the region where both are >>1 to
+ensure the applicability of equation (5.26) and the smallness of the precision parameter 5. Note
+that in the Ej/Ec > 1 and B > 1 regime the aforementioned conditions wg < pl and wq < 4E La?
+are automatically satisfied. Among the qubits in the family, a smaller @g/@p(1) will allow a
+(relatively) faster anneal while the qubit approximation is maintained, but exactly how E)/Ec
+and B (or equivalently wq/wpi(1) and 5) enter needs to be investigated via the adiabatic theorem,
+which we will delay until we analyse a simpler CSFQ case below.
+
+We have thus shown how to reduce the circuit Hamiltonian Hcy to an effective qubit
+Hamiltonian Hg, and how the circuit control functions b(s) and f(s) relate to the effective qubit
+annealing schedule functions &(s) and ¢(s).

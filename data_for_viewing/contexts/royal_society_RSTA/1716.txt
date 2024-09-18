@@ -1,0 +1,25 @@
+According to [27, lem. 3.6], the fact y ¢ & implies Cay = Kg (see the proof of proposition 3.4). On
+the other hand, as x € D(A), a the equation (3.11) yields
+
+(A—A)x-—Lg=y and —Bx+(A—Q-1)9— BKg=y. (3.13)
+As B= (4 — Q-1)D,, we have
+(A — Q-1)(—Dyx + (I— Di K)p) = €&.
+Hence —D,x + (I — D, K)y € D(Q), and
+(A — Q)(—Dx + I — Dy Kg) = w-
+Now let 4 € p(Q) MN p(Qx), so that 1 € p(D,K) and 1 € p(KD,), due to lemma 3.3. We have
+—D,x + (I— KD, )¢ = RQ, Q)w.
+By applying (I — D,.K)~1 in both sides of the above equality, we obtain
+~(— Di K)"1D,x + 9 = (1 — Di K)1R(, Qi = RA, Ox)
+Using the fact that (I — D,K)~! =I + D,(I — KD,)K, it follows that
+y = Dy(l — KD;)"1x + RQ, Qk) = Eax + RQ, Qk). G14)
+According to (3.13), we have
+(a —A—LE,)x=y + LR(A, Qk)W.
+Let us now assume that A € p(A + LE;). In this case,
+x=R(A,A+LE,)y + R(A, A + LE,)LR(A, Qk).
+On the other hand, replacing the value of x in (3.14),
+g =E,R(A,A + LE,)y + (ExR(A,A + LE, )L + DRA, Qk).
+Thus A € p(%,,) and (3.10) holds. a
+
+4. Neutral equations with non-autonomous past
+
+In this section, we shall discuss a class of delayed equations called with non-autonomous past.

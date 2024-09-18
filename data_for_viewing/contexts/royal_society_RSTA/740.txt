@@ -1,0 +1,25 @@
+sl 104
+S102 102
+1 1
+102 102
+102 107! 1 102 107! 1
+(Hz) (Hz)
+
+Figure 11. Comparison of the spectra of inboard LE probe w, (grey) and velocity magnitude from inboard TE rake probe (black):
+(a) 10 mm from the suction surface, (b) 31 mm from the suction surface and (c) 52 mm from the suction surface. The solid and
+the dashed white lines represent the slopes of the high-frequency region, for the LE probe wp and velocity magnitude from the
+TE rake probes, respectively.
+
+can be attributed to the fact that the innermost probe, being well inside the boundary layer, is
+strongly modulated by the local angle of attack (for which @ is a surrogate), which is in turn
+driven by the atmospheric horizontal fluctuations quantified by wp, whereas the outermost probe,
+located in the nearly irrotational flow in the outer part or outside the boundary layer, primarily
+responds to the temporal fluctuations in the potential flow velocity magnitude Vp. Interestingly,
+it can be observed that the time series of the gradient of the velocity magnitude (approximately
+equal to the vorticity magnitude) estimated from the two outermost probes (figure 10b) shows
+qualitative similarity with the velocity magnitude from the innermost probe and blade inflow
+a and wp. Conversely, the gradient estimated from the two innermost probes shows relatively
+non-coherent time variation. This is possibly due to the fact that the near-blade vorticity has
+a significant contribution from the blade shear-layer-generated small-scale fluctuations, which
+do not have the apparent longer-time-scale coherence observed in the velocity magnitude
+signal.

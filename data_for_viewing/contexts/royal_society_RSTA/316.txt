@@ -1,0 +1,25 @@
+detailed analysis, and often a fully quantum description. It would seem natural
+
+o try and develop a dedicated control theory for quantum systems that would
+
+ideally be of a universal character. This would of necessity take into account the
+features of the quantum world, of the measurement and estimation of quantum
+systems, the processing of quantum information, and the manipulation and
+actuation of quantum systems by their environment.
+
+The development of quantum control, to date, is strikingly dissimilar to its
+classical counterpart: closed-loop constitutes only a relatively small fraction of
+theoretical work on quantum control, and is even rarer in experiment; also there is
+as yet no analogue of Wiener-Kolmogorov filtering, despite the fact that Kalman
+and nonlinear filtering for quantum Markov models are well developed. In these
+notes, we shall be interested in feedback that affects the dynamics of a given
+system. We should mention that there are other closed-loop strategies, notably
+adaptive feedback [10] in quantum chemistry, which uses learning algorithms but
+where control policies are applied to copies of the given system (molecules).
+
+Phil. Trans. R. Soc. A (2012)
+
+
+5244 J. E. Gough
+
+2. Quantum control

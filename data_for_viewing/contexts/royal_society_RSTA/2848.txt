@@ -1,0 +1,25 @@
+and Sternberg in the early 1980s [1,2], using the so-called Thimm’s method of collective motions
+[3], and which is related to the classical work of Gelfand and Cetlin in representation theory [4].
+A result of Alekseev & Meinrenken [5] states that this system is also equivalent to an integrable
+system found by Flaschka & Ratiu [6], via the so-called Ginzburg—Weinstein transformation.
+Compared with many other integrable systems, especially those arising in classical mechanics
+and physics (see, for example, [7,8]), the Gelfand—Cetlin system has some very special topological
+and geometric properties:
+
+— Its base space (i.e. the space of connected fibres of the momentum map), together with its
+intrinsic affine structure, is a convex polytope, similar to the case of toric systems (whose
+base spaces are the so-called Delzant polytopes [9]), even though the system is not toric.
+
+— In fact, the Gelfand—Cetlin momentum map of the system (which consists of eigenvalue
+functions of a chain of matrices) generates a toric action, but only on a dense open set of
+the symplectic manifold in question. This momentum map is not globally smooth, though
+it can be changed into a smooth momentum map with the same fibres (i.e. preimages)
+by taking the symmetric functions of the eigenvalue functions. However, this smooth
+momentum map does not generate a torus action.
+
+— Unlike the toric case, where the singularities are all elliptic non-degenerate (in the sense of
+Vey-Eliasson; see, for example, [8,10-13] for non-degenerate singularities), the Gelfand—
+Cetlin system admits many degenerate singularities.
+
+— The degenerate singular fibres of the Gelfand-Cetlin system are very peculiar in the
+sense that they are all smooth isotropic submanifolds, as will be shown in this paper

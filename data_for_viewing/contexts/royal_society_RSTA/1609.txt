@@ -1,0 +1,25 @@
+operator. Moreover from (A), being {V(t)}:+0 exponentially bounded, we have
+
+IGCAI s Rilflla
+for every t € [0,]. a
+
+Proposition 3.12. The multioperator I : PC([0,b]; E) —o PC([0, b]; E) has a weakly sequentially closed
+graph.
+
+Proof. Let {qn}n C PC({0, b]; E) and {yn}n C PC({0, b]; E) satisfying y, € F(qn) for all n and qn — q,
+Yn — y in PC([0, b]; E); we will prove that y € I'(q).
+
+The weak convergence of {qn}n to q in PC([0,b];E) implies its boundedness and the weak
+convergence of {qn(t)}n to q(t) for a.a. t € [0, b]. Moreover the fact that yn € I’(qn) means that there
+exists a sequence {fi}, fn € PE(qn) for every n, such that for every t € [0, b],
+
+t
+mn) =VOOx0 + | VE sled ds+ VUE te
+
+O<t<t
+
+Hence, by proposition 3.9 we have the existence of a subsequence, denoted as the sequence, and
+a function f € Pr(q) such that fy — f in L1((0, b]; E).
+By proposition 3.11 we have that G(f;n) + G(f). Thus, we have
+
+t

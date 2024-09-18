@@ -1,0 +1,25 @@
+studying the eigenvalues of the Hessian of the Hamiltonian evaluated at X*. The key point in this
+analysis is the particular block structure of the Hessian that allows at once analytical expressions
+of all eigenvalues, for an arbitrary number N of vortices in the ring, and, at the same time, to
+symplectically diagonalize the corresponding linearized system. We do observe that for all N we
+
+
+do not have linear stability at the equator. For a ring in the Northern Hemisphere, for a given
+colatitude 6,, we need a higher value of the northern polar vortex, I; np for a higher value of
+N, as shown in figure 6. This amounts to saying that for a ring configuration in the Northern
+Hemisphere a sufficiently high northern polar vortex stabilizes a configuration at a given latitude.
+In particular for N > 7, a stable configuration is only possible for a sufficiently high positive Imp.
+Similarly, we have the corresponding situation for the Southern Hemisphere when the southern
+polar vortex is sufficiently high, i.e. for sufficiently negative values of Imp—due to the fact that
+Typ =—N — Ip.
+
+The scenario becomes richer and the analysis more complex when the polar vortices are left
+not fixed at the poles. In this case, the Hessian of the Hamiltonian has off diagonal terms. Our
+theoretical and numerical studies now guarantee a spectral stability region (and a part of it which
+is the Lyapunov stability region) smaller than for the case of fixed polar vortices. In particular,
+as shown in figure 8, now the guaranteed region of stability in the Northern Hemisphere is also
+limited to the right. In [8], we consider a general setting (i.e. sum of the vortex strengths different
+from zero, which can be compensated by a distributed micro-vorticity) and analyse the source
+of the different stable/unstable zones. In some of the cases, this is due to Hamiltonian—Hopf
+bifurcations, created or destroyed when two imaginary eigenvalues of the JG2 matrix coincide. A
+theoretical study of the location of the double zeros of the characteristic polynomial is included.

@@ -1,0 +1,25 @@
+Assuming Vpp > Vpp, the integral can be evaluated analytically to give
+
+Dz = Sem ARB ABET BVgy — Vap)) eA Ve/2 (4.14)
+ht’ eRBKBP
+where Kg is the zeroth modified Bessel function of the second kind. Figure 6a shows how the
+classical rate varies with respect to the bias for the model system and we see that it fails to predict
+the trend of the rate with respect to the product bias. Note also that the expression in equation
+(4.14) spuriously tends to infinity when the crossing point energies Vrp and Vpp are equal.
+
+Using the asymptotic relation Ko(z) ~ //2ze™* as z > 00, we can gain some useful insights
+into the mechanism underlying the classical rate. When the quantity 6(Vpp — Vpp) is large (i.e.
+for low temperatures and strong exothermic bias), the rate tends to an expression with the
+exponential term e~/V88, and we identify Veg as the activation energy. In fact, the expression
+reduces in this limit to the classical second-order rate (equation (2.23)) (for a reaction from R to B)
+with a classical reactant partition function and an effective coupling given by
+
+J8mz|AgpApp|?
+hep Vee — Vep
+
+At the relatively low temperature of our problem, for which 6 ~ 90 eV |, this limit is valid across
+all but the smallest exothermic biases considered. As for the SEC approximation, the classical
+sequential mechanism leads to a rate expression which can be written as the second-order rate
+with an effective coupling. However, in contrast to the SEC approximation, the effective second-
+order rate corresponds to a transfer from R to B instead of R to P and thus has an activation energy
+which is independent of exothermic bias. This explains why the predictions are contrary to the

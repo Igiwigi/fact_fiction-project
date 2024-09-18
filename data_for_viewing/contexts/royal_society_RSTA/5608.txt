@@ -1,0 +1,25 @@
+weak correlations between neighbouring multipliers make all moments of the amplitude finite,
+overcoming divergency due to exponential tails of P(«). While the body and the (trivial) left tail iS
+of H(X/k) can be computed neglecting weak correlations between the multipliers, the positive [S
+moments (|a|1) = [ dX exp[Xq — kH(X/k)] are determined by the far right tail of H, which must be :3
+sensitive to the correlations. _
+
+9. Conclusion a
+
+This note weaves together three threads introduced by Uriel Frisch into turbulence studies:
+criterion for cascade direction, breakdown of self-similarity, and multi-fractal formalism. The away
+universal family of models (2.7) introduced here provides for a unique possibility to use : ae
+perturbative approach in a system with strong interaction. That possibility is based on the aa)
+remarkable fact that thermal equilibrium has exactly Gaussian statistics with independent modes; DN
+varying the parameter of our family, one is able to study turbulence close to thermal equilibrium. 28
+
+For our models or velocities in hydrodynamics, the results shed light on what is crucial for the :&
+breakdown of scale invariance in the statistics of amplitudes. The statistics deviates from Gaussian
+as one goes into the cascade, as long as the interaction time decreases, regardless whether the
+cascade is direct or inverse.
+
+Shell models in general and our family in particular demonstrate that turbulence is
+qualitatively different from ore pulverization [34]. In the latter case, the assumption of the
+statistical independence of multipliers makes sense. In turbulence, not only multipliers are
+correlated but their equations of motion are explicitly not translation invariant, while the
+equations on the amplitudes are. And yet, the amplitudes do not have the translation-

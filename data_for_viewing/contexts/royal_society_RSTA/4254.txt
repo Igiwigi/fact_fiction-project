@@ -1,0 +1,25 @@
+
+In [11-14], Davini, Parry and Silhavy searched for ‘invariant integrals’ in the context of the above
+kinematical model of defective crystals. These are circuit, closed surface or volume integrals (they
+are to mimic atomistic procedures: counting point defects in a given volume; counting edge
+dislocations crossing a given surface, for example) with integrands depending on the lattice vector
+fields and their derivatives of any order (succinctly, ‘differential functions’) which are functionals
+independent of elastic deformation. They are the ‘measures of defectiveness’ referred to in the
+Introduction. Thus if Fg ({Iq(-)}) is any such functional, and fields {In(.)} are defined by (2.2), then
+Fo({h(-)}) =Fe({I(-)}), with 2 =u(2). This search required discussion of the transformation
+properties, induced by (2.2), of the various derivatives of the lattice vector fields, of course—
+for example, det({Ia}) = det(Vu) det({la}) together with the definition n = d) - dz A d3 gives that
+fyndV= Sven) ii AV is an invariant integral (where det(-) denotes the determinant and V C 2).
+In fact,
+
+| n av, | Sn av, | d, - dx are invariant integrals, (3.1)
+Vv 4 c
+
+where C is a circuit, by recalling the definition of the dual fields {d,(-)} and the dislocation density
+S, and by calculating relevant transformation properties. As mentioned above, if v is any elastic
+invariant (ie. scalar differential function), then
+
+{(I, - Vv)(-)} is a set of elastic invariant fields. (3.2)
+
+As stated, if S has a least one non-constant component, then there is in general an infinite
+number of elastic invariants, obtained from that particular component of S by successive

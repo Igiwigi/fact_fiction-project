@@ -1,0 +1,25 @@
+are not of ‘diagonal’ nature while expressed in our choice of CMCSH gauge.” This problem is ZR
+circumvented by constructing a Lyapunov functional using D. Christodolou’s energy current [3
+[15,35]. Using the monotonic decay property of this Lyapunov functional for sufficiently small :8
+data, it is shown that the perturbed solutions are globally well posed to the future and moreover :8
+that they decay to the nearby solutions with constant negative scalar curvature. This result : S
+however required that the adiabatic index should lie in suitable range (yq € (1, (n + 1)/n), i.e. that 7S
+
+the perturbations are restricted to lie within the so-called ‘sound cone’).
+
+In 3+1 dimensions, the fixed points are characterized by the condition that the metric be
+negative Einstein. Following Mostow rigidity, this automatically implies that the manifold be
+hyperbolic. Contrary to the situation in 3+ 1 dimensions, the fixed points are not isolated in
+higher dimensions. This is due to the fact that the Einstein moduli space is finite dimensional
+for n>3 (but collapses to a point for 1 =3). Such cases are handled by invoking a ‘shadow’
+gauge introduced by [26]. Here however, we only state the result for the physically interesting
+3+ 1 dimensional case where such moduli spaces do not appear. The following theorem states
+the stability and asymptotic properties of the small data perturbations of the special solutions
+described by (5.1) and (5.2)
+
+Theorem 5.1. Let (a~?(to)g0,a~! (to) ki”, a5” (to) 00, a(to)vo) € Bs(y,0,Cp,0) C HS x H8-! x HS-! x
+Hs-!, s> 3/242, to €[0,00), A>0 be the cosmological constant, and a(t) be the scale factor. Assume
+that the adiabatic index ya lies in the interval (1,4/3). Let t+ (g(t), K'’(t), p(t), v(t) be the maximal
+development of the Cauchy problem for the Einstein—Euler-A flow in constant mean extrinsic curvature
+spatial harmonic gauge (CMCSH) with initial data (80, kG, Po, U9). Then there exists a yt € ME, such
+that (a~?(tg, a1 (t)K", a3 (t)p, a(t)v) flows toward (y*,0,C’,,0) in the limit of infinite time, that is,

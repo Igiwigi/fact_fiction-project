@@ -1,0 +1,24 @@
+possible states). At any given moment, new copies of component automata may be generated.
+In such a setting, which applies for modelling multicellular growth or protein bio-synthesis
+of the constituents needed for multiple instances in a cell of a given metabolic pathway, etc.,
+the notion of transient behaviour of any given copy of the system fails to capture the global
+recurring instantiation of the full dynamics of the system arising in the behaviour of the ensemble.
+Indeed, the same principle of adding copies of the system applied to a transformation semigroup
+in each of its possible states allows all the possibilities and mappings in the semigroup to
+be realized recurrently, without permanent loss in a transient. For every mapping s of the
+semigroup, any set X stabilized by s (e.g. any natural subsystem where s acts) recurs in the
+ensemble, so even after arbitrary time -s: X > X will realized. Thus, the entire semigroup
+S with its space of dynamical possibilities (Q,5(A)) recurs indefinitely often. If one has a
+good model for understanding its natural subsystems and the transitions between them,°”
+this can be applied repeatedly, in spite of the fact that they may only occur transiently in a
+particular component.
+
+(b) Example 1 continued: cell cycle and multicellular differentiation
+
+Let C be any finite automaton cell model including the cell cycle which results at some point
+in division, for example using the simple cell-cycle model of [101] modelled as a Petri net in
+figure 12.55 Here phosphorylated cdc-2 (cdc2-P) and cyclin oscillate in synchronization with the
+cell cycle; in sufficient concentration cdc2-P sets off a cascade of events that results in the cell
+
+*’This refers not only to scientific or experiential understanding, but also to hierarchical coordinate systems obtained by
+Krohn-Rhodes decompositions, using say the partial order 2/’R of weak control hierarchy (as in theorems 6.1 and 6.2).

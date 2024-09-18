@@ -1,0 +1,25 @@
+Phil. Trans. R. Soc. A (2012)
+
+
+972 N. Geddes
+
+data successfully moved around the world by the Compact Muon Solenoid (CMS)
+experiment alone increased gradually from 0.5 to 50 PetaBytes per day; a factor
+100 improvement in slightly over 2 years. One lesson learned repeatedly through
+the data challenges was that, if a system or procedure had not been tested at
+large scale, it would not work first time at large scale. All dimensions are relevant
+here: number of systems, sites or users, length of time for an operation, numbers
+of files or volume of data. Many of the problems encountered are obvious after
+the fact, but limits and thresholds, particularly in distributed systems, are not
+always obvious until they are encountered.
+
+Through this period, there were a number of experiment-based initiatives to
+improve the performance and reliability of Tier-1 and Tier-2 sites. In CMS,
+specific task forces were launched to help debug and monitor networking
+connections and to set up physics analysis processing at Tier-2 sites. Sites were
+required to pass, and maintain, specific automated quality tests to be considered
+as certified sites. If not certified, sites would not be (and are not) used for CMS
+production work. A Toroidal LHC Apparatus (ATLAS) experiment created the
+‘hammercloud’ test suite. This set of tools moves and processes increasingly large
+amounts of data repeatedly over a specified set of sites until reaching saturation,
+or something breaks. Although not completely reproducing chaotic workflows

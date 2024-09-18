@@ -1,0 +1,25 @@
+the key research challenges for stability analysis of future power systems can be grouped into
+three broad areas:
+
+(i) Efficient use of and reliance on existing and newly acquired data through deployed local
+measurement devices and two-way communications-enabled meters and global wide-
+area monitoring systems (WAMS) for state estimation, static and dynamic equivalents
+and control (including real-time control). This implies efficient data management (signal
+processing, aggregation and transmission), reliability of, and reliance on, ICT networks,
+as they are essential for both static and dynamic observability of the system.
+
+(ii) Modelling for steady-state and dynamic studies of
+
+— Large interconnected networks with generation mix, FACTS devices and short- and
+long-distance bulk power transfers using HVDC lines.
+
+— Clusters of RESs (generation and storage) of the same or different type.
+
+— Parts of, or the whole, LV and MV distribution network with thousands of integrated
+RESs.
+
+— Demand, including new types of energy-efficient and PE-controlled loads, heat
+pumps, customer participation and behavioural patterns, EV, etc.
+
+— Centralized and distributed storage technologies (i.e. virtual storage plant) for
+provision of ancillary services.

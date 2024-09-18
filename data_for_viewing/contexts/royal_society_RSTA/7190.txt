@@ -1,0 +1,25 @@
+C D
+
+Ficure 8. (a and 4 are the quantities defined in (46) —(48).)
+
+2a6,+2b¢,
+
+This ‘plastic pattern’, since it involves local values of 0, 4, y, differs for different points;
+moreover it applies, strictly, only to infinitesimal y-increments. On both accounts the
+
+
+RELAXATION METHODS APPLIED TO ENGINEERING PROBLEMS _ 395
+
+relaxation process may be laborious, but in fact (as in earlier papers) the labour was not
+found prohibitive. A use of inexact ‘patterns’ saves time and does no harm provided that exact
+account is kept of the ‘residuals’ (Southwell 1946, §170).
+
+28. Starting from the elastic solution (§23) a normal procedure will bring to zero all
+F's, as given by (51), which initially are positive; where they are negative the strains are
+still elastic, so (51) must be replaced by (50), figure 8 by figure 6. Both patterns will be
+utilized, because changes made in x within the plastic region will, according to (50), entail
+‘residuals’ at points on the other side of the plastic-elastic interface, and these too must be
+liquidated.
+
+It has been shown that every stress has continuity across an interface, and it can be deduced
+that y, 0y/dx and dx/dy are also continuous; so (in our approximation) the ends of any string

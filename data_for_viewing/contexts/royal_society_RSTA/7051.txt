@@ -1,0 +1,25 @@
+section, on error accumulation. Before going on to discuss this important aspect we shall
+make brief comments on an iterative method, for use with Volterra’s equation, analogous
+to that described in § 6 and employed on Fredholm’s equation.
+
+or
+
+18. A CLASSICAL ITERATIVE METHOD
+
+For the solution of the integral equation (56) Friedlander used an iterative method, given
+by the relations
+
+He evaluated f(x) analytically, and computed f, f® and f by numerical integration,
+taking f(x) as an acceptable solution of the integral equation. In fact, his errors in the
+65-3
+
+
+
+530 L. FOX AND E. T. GOODWIN ON
+
+fourth decimal, at x = 1, 2, 3 and 4, are 4, 5, 13 and 25 units respectively. The labour of
+this method is somewhat excessive, and it is clear that the order of iterate necessary to give
+accurate results is likely to increase with x. This process is therefore less satisfactory than in
+the case of Fredholm’s equation, though again the Aitken extrapolation method and the
+Euler transformation can be used to accelerate convergence. For example, using an interval
+h = 4, we find at x = 1-0 the following values of the first four iterates: 0-11111, 0-05849,

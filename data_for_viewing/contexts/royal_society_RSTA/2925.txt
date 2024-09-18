@@ -1,0 +1,25 @@
+Nissenbaum’s seminal framework—contextual integrity [14]—is an approach that aims to capture 12
+the dual technical-normative nature of privacy. Contextual integrity is a justificatory framework 3
+for privacy. It states that privacy breaches can be tracked to violations of societal norms regarding 1B
+appropriate information flows within a particular context. Where it is possible to encode norms S
+formally and determine whether a particular information flow respects these norms, i.e. when the 78
+norms are unambiguous and furthermore effectively testable, then the framework can be used to iw
+precisely predict or flag violations of the societal norms. As an example, Barth et al. [16] provide :
+a model for encoding norms appearing in legal standards such as HIPAA. 73
+Normative concepts are often not defined explicitly, and, when they are, they are not expressed : &
+in a formal language that enables a precise analysis. As a result, there is uncertainty with respect .
+to which information flows are in agreement with normative concepts. In many cases, it may
+be difficult to determine with reasonable certainty whether an information flow is appropriate,
+whether it creates a risk of a privacy breach or even whether a privacy breach has in fact occurred.
+In order to bridge normative and technical concepts, the framework of contextual integrity
+could in the future be equipped with formal mathematical definitions. If defined formally, its
+fundamental concepts, i.e. context, information flow and norm, could provide an interface for
+integrating formal privacy models into the framework. As an example, the formalization of
+context, information flow and norm would allow researchers and policymakers to reason about
+the appropriateness of using differentially private analyses in various contexts. This reasoning
+would involve making and proving quantifiable statements regarding the extent to which
+differential privacy respects social norms around privacy in different contexts.
+
+(b) Bridging the legal and technical perspectives
+
+Motivated by the lack of translational work to bridge the legal and technical perspectives of

@@ -1,0 +1,25 @@
+triggered by the effects of randomness and characterized by nonlinear energy transfers between
+scales or modes. Finite-time instabilities refer to the case where a finite-time Lyapunov exponent nee)
+of the system becomes positive but only for a finite-time interval [1]. In this sense, extreme :
+events are a special case of rare events and therefore it is important to emphasize their special [4
+properties: DN
+
+1. The fact that there is a dynamical mechanism involved often increases substantially 1a
+the intensity of extreme events compared with rare events caused by a purely random
+process. This is manifested by the heavy tail characteristics of the corresponding
+probability distribution.
+
+2. Extreme events are usually associated with complex tails in the PDF. This complexity
+reflects the fact that there is an underlying dynamical mechanism having the form of
+nonlinear energy transfer, which may not act uniformly for all intensities of the extreme
+event. For example, in an energy conserving system, such as nonlinear waves, although
+instabilities can lead to extreme events, these cannot obtain arbitrarily large magnitudes
+due to finite energy. Therefore, although nonlinearity can induce spatially localized
+extremes, which are reflected as heavy-tailed regimes in the PDE, the latter have bounded
+extent because of bounded energy. See figure 1b for an example.
+
+3. Extreme events are often associated with a specific time scale over which they develop.
+This time scale is imposed by the Lyapunov exponent of the associated instability,
+the time scale related to the nonlinear energy transfer. By identifying the nature of
+the instability, one can track the corresponding Laypunov exponent and use this as a
+precursor for the upcoming extreme event. Therefore, for extreme events one may be

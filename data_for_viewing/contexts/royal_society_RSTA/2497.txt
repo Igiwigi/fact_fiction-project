@@ -1,0 +1,25 @@
+different paths. To make this more clear, suppose we have two different paths and we are allowed
+to drag edges of those paths as long as we do it on coloured cells. If we can drag one path to
+
+
+Figure 2. Possible reductions of f, where no overlapping in different applications of rewriting rules corresponds to colouring
+cells between them. Some cells are left blank because there is overlap in the application of different rewriting rules. (Online
+version in colour.)
+
+the other one following this rule, we have that those paths are, in some sense, the same, and we
+identify those paths with one another. In figure 3, we show what we mean by dragging edges
+within coloured cells (we omit some information from the graphs). If we kept dragging paths, as
+shown in the figure, we would conclude that those two paths were the same. Now, as there are
+two blank cells, we see that we cannot identify all paths. In fact, we conclude that if before we
+had nine different paths, after these identifications we only have two paths.
+
+(c) The analogy between paths and proofs
+
+We now start to relate paths and proofs. Let us consider figure 1. There we had nine different
+paths and these paths came from different applications of the rewriting rules, and these different
+applications of the rewriting rules mean that we have different proofs of the statement f is in I.
+Given that in figure 1 we have nine paths from f to zero, we can say that we have nine different
+proofs. So a path in the graph of figure 1 corresponds to a proof. Hence, we are rephrasing our
+problem on the identification of proofs into a problem on the identification of paths.
+
+We noted that some paths could be identified with each other and with those identifications we

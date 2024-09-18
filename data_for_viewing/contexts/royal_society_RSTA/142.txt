@@ -1,0 +1,24 @@
+previous models that mainly focus on fitting the power-law degree distribution,
+the PFP model accurately captures a large number of other important properties
+as well, e.g. the shortest path length. Moreover, the model achieves this not using
+a static approach based on curve-fitting, but a non-equilibrium approach based
+on evolution dynamics.
+
+The Internet AS graph data used to evaluate the model are not a subset, but a
+full map of the global Internet collected by CAIDA, which combines traceroute
+data probed from tens of monitors located in different countries.
+
+In 2004 a few researchers questioned whether such traceroute measurements
+could be biased, e.g. generating power-law degree distributions in ordinary random
+graphs that in fact have Poisson degree distributions. However, recent measure-
+ments and studies have shown that the traceroute measurements have correctly
+captured the global Internet structure. The more recent DIMES project collects
+data from thousands of observers distributed around the world, which is two orders
+of magnitude larger than the number of observers used in previous measurements.
+The Internet-AS graph obtained by DIMES exhibits a clear power-law degree
+distribution in agreement with previous observations. A study by Dallasta et al.
+
+2006) has shown that if the observed power law was due to sampling bias and the
+arger real graph had a Poisson degree distribution, then the graph’s average degree
+would be more than 100, which obviously is not realistic because it is known that the
+average degree on the Internet-AS graph is merely approximately 6.

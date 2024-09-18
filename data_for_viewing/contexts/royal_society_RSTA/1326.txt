@@ -1,0 +1,25 @@
+deviations as described in the above. We vary the forecast accuracy by choosing different values
+of Y = {0.1,0.2, 0.3} and perform a Monte Carlo simulation with 10 runs for each value of Y. The
+parameter v that controls the exponential decay of correlation among lead times is set to v = 13.
+
+In figure 3, the mean consumption across the population of heat pumps is depicted for each
+forecast accuracy and compared to the perfect forecast case. The larger forecast inaccuracies lead
+to larger deviations from the perfect forecast case. This deviation increases with the lead time,
+which is in line with the covariance structure, and are more pronounced when the inelastic
+demand rate of change is higher, e.g. at 22:00. Even if the Nash equilibrium obtained in each case
+is different it does not have a significant impact on the objective function. The mean objective
+function across the population is €1649.58 in the perfect forecast case, and €1649.86, €1649.21,
+€1648.99 for W = {0.1,0.2, 0.3}, respectively. Those values are very close, and this result should
+be interpreted as the fact that changes in forecast uncertainty are mitigated by population effects
+when it comes to population-average costs. In addition, the distributions have similar shapes and
+quantiles, therefore, we can conclude that the effect of the forecast accuracy is mitigated by the
+population effects in terms of cost, beyond the mean only, but not in terms of consumption. Recall
+that the plot shows the mean consumption across the population, but the aggregated effect of this
+small deviations has a significant impact on the system demand.
+
+(d) Effect of bounded rationality
+
+Finally, we relax the rationality assumption and study the impact of bounded rational agents on
+the system equilibrium. We model bounded rationality following (4.1). In the cases where adding
+the &j,. lead to infeasibility we stick to the rational decision instead. This assumption could fit
+to reality, i.e. the local controller for the heat pump may check whether the human intervention

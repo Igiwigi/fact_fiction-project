@@ -1,0 +1,25 @@
+
+In the case of Pe =50, combining a high index with sufficiently long target time gives the
+best proxy. This is apparent for s=1,2 with T=2, for example, as the initial variance decay
+in these cases is very similar to the variance-optimizing perturbation OA(0, 5,50) but continues
+to decay significantly beyond tf =5, implying a higher quality mixture. Clearly, then, this near
+identical initial behaviour followed by further mixing gives further evidence that the mix-norm
+is an excellent proxy for the variance measure and motivates its use in optimization problems.
+However, one must be cautious with the index and target time choice, as certain combinations
+perform better than others.
+
+The mix-norm also appears to be a good proxy at larger Pe. As shown in figure 2, for flows
+with Pe = 500, we can see that the optimal perturbation OA(0,5,500) has the steepest decay for
+early times, unlike in the Pe = 50 case where all fields had a similar decay. In fact, we observe that
+the variance-optimal field continues to decay up until at least the time t = 64. This is in contrast
+to what was observed at Pe = 50 where the plot approaches a constant value, indicating purely
+diffusive mixing, with no advection-enhanced homogenization. This is due to the persistence of
+small-scale structures in flows at higher Pe which continue mixing after the chosen target time.
+
+For later times t 2 5, there are also choices of s that yield better mixing properties than the
+variance-based optimal perturbations. Mix-norms with any of the choices of index with a large
+enough target time appear to outperform the mixing properties of the flow associated with
+the variance-optimal perturbation OA(0,5,500). Interestingly, in some cases, particularly with
+
+
+T=05 T=1

@@ -1,0 +1,25 @@
+which may be thus obtained may be called the family based on the sufficient system
+of statistics T,, T,,...T,. It is possible that in certain cases similar regions will
+exist which do not enter into such families based on sufficient systems of statistics.
+
+We may now go back to our Example II and see how the problem of confidence
+intervals could be solved.
+
+(f) Example Ia.
+
+Turning back to the probability law of x, and x, as defined in (70), it is easy to
+see that x, is a specific sufficient statistic with regard to 6,. As a specific sufficient
+statistic with regard to one parameter is a particular case of a sufficient system of
+statistics, this fact, together with the Proposition IX, could be used in order to con-
+= Struct regions similar with regard to 02, which we require to serve us as regions of
+=, acceptance.
+
+§ Inorder to see that x, is a specific sufficient statistic with regard to 0, let us calculate
+2 its elementary probability law. Integrating (70) with regard to x, between limits
+@ zero and 0, — x,, we easily obtain
+
+o
+
+b (a1) = p (#1, %a] 91, 2) (8: —%,) for O<%= ‘}
+
+(83)

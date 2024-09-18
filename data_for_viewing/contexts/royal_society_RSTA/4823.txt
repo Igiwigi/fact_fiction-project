@@ -1,0 +1,25 @@
+required gauge symmetry properties. This already indicates that the mathematical intricacies
+associated with such models will be considerably more complex that what we handled so-far,
+while we strongly suspect that that is not all: quite likely the gravitational force, requiring a
+dynamical, curved space-time, will have to be added as well.
+Leaving out gravity as yet, we can envision a general strategy, although other options may also
+work. In general, the most promising classical models are cellular automata. These are systems
+of discrete variables, living on a space-time lattice, which evolve according to some local law.
+One may start with having non-interacting deterministic particles in the automaton. The best
+starting point can be reached if we have these particles move with the speed of light in a multitude
+of possible directions. That will not be exactly Poincaré invariant, but we suspect that, without
+gravity, this may be the best we can do.
+Our second step is then to cast the evolution law of these particles in terms of a Schrodinger
+equation, by writing U)(5t) = e~!1*!, where the index 1 refers to the fact that here we are dealing
+with only one particle. This Hamiltonian will have a spectrum ranging from —z/ét to 75t. Next,
+we subject this to second quantization, as follows.
+Depending on whether our particles are bosons or fermions, the particle occupation number
+at each spot will have to be either an arbitrary, non-negative integer, or just +1. This allows us to
+introduce (bosonic or fermionic) fields for these particles. These fields will not obey the usual Dirac
+or Klein Gordon equations, but something deviating from that due to lack of Poincaré invariance.
+The most important thing for the moment is that they are genuine quantum fields. The essential
+result of this operation is that only the positive part of the energy spectrum is handled as particles,
+but the negative energy part is interpreted as antiparticles, which flips their energies to become
+positive also.
+Let the second-quantized evolution operator (describing infinitely many particles) be written
+as Uso (St) = 4, As the evolution law for one particle was local, we can write A=)°, a(x),

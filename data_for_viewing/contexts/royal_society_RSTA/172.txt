@@ -1,0 +1,25 @@
+Jolliffe 2002). Geometrically, this corresponds to finding the m-dimensional linear
+subspace into which the projections of 2; have the largest variance.
+
+In recent years, attention has been directed at settings in which a nonlinear
+manifold of low dimension might provide a better representation. For example,
+a collection of images of similar objects is nominally very high-dimensional
+
+Phil. Trans. R. Soc. A (2009)
+
+
+Introduction. Statistical challenges 4247
+
+(corresponding to the number of pixels in each image), but in fact potentially
+described by the variation of a much smaller number of parameters. Some
+influential approaches to this problem include ISOMAP (Tenenbaum et al. 2000),
+local linear embedding (Roweis & Saul 2000), Laplacian eigenmaps (Belkin &
+Niyogi 2003) and Hessian eigenmaps (Donoho & Grimes 2003).
+
+These nonlinear representations can also be described as spectral methods for
+dimension reduction, because each involves finding a small number of extreme
+eigenvalue/vector pairs for a suitable matrix derived from the local characteristics
+of the data (a;). These and other methods are reviewed by Belabbas & Wolfe
+(in press) in this volume.
+
+The computational burden of solving an eigenproblem can be significant

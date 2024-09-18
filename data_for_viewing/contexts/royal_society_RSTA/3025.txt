@@ -1,0 +1,25 @@
+also be treated as pure implying S(B, N,R) =0, S(B, N) = S(R), S(B, R) = S(N), S(N, R) = S(B) and
+hence I(B,N : R) = 1(B: R) + I(N: R) which is therefore bounded below by
+
+I(B:R) +1(N:R) > 1(R’:R). (1.2)
+
+
+Complete evaporation 1(a)(ii): After the pure state black hole has completely evaporated away 4 |
+the net radiation, (R,R’), should also be in a pure quantum state to preserve unitarity, so that
+
+S(R’, R) = 0. Thus one might expect that correlations would exist between the early and late epoch “3
+radiation, R and R’, respectively. :
+
+In fact, the study of random unitary operations allows us to say much more: as the Hilbert ig
+space dimensionalities involved are so huge Levy’s lemma guarantees a generic behaviour for : a
+
+entropy in all but a set of measure zero of evaporation mechanisms [3]. (Indeed Levy’s lemma
+can be interpreted as implying that mechanisms with behaviour different from the generic will be
+exponentially unstable to any but a set of measure zero of perturbations.)
+
+The consequences of random unitary evaporation [3,12] may be succinctly summarized: the
+
+entropy of the radiation grows monotonically (at almost exactly the maximal rate of one bit’s : &
+worth of entropy per qubit of radiation emitted) until the Page time (PT), when the black hole’s Dos
+area has halved. From the PT onward, the overall entropy in the radiation decreases at the same : =
+rate, reaching zero when evaporation is complete [3,12]. (Note that the terms ‘bits’ and ‘qubits’ are : a

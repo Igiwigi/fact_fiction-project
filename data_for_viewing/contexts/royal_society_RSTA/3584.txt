@@ -1,0 +1,25 @@
+
+This relation has been used to show that the ideal work of intercrystalline fracture is decreased
+by hydrogen [8,25,26] and phosphorous [27] in iron. It was shown further on that equation (5.1) is
+also valid for other solutes and discontinuities besides hydrogen, surfaces and grain boundaries
+[28-31]. Like in the previous chapter, the corresponding derivation is based on a Maxwell
+equation. Here, a new thermodynamic state function @ is used as introduced by Wagner [32]
+
+@ =F — puny, (5.2)
+
+
+where F is the Helmholtz free energy, nj and jy are the number of moles hydrogen and the
+corresponding chemical potential. For the sake of simplicity, hydrogen is used as the solute,
+despite the fact that equation (5.2) and the following are also valid for other solutes. The
+differential of the state function is
+
+d& =dW — SdT + wydnm — nuda, (5.3)
+
+where dW is a work term like the stress/strain-term in equation (4.1) or in the present context, it
+is the differential work to create a discontinuity
+
+dW = yVdp. (5.4)
+
+The formation energy of the discontinuity is y (for instance, the surface energy) and the
+volumetric density of discontinuities is expressed by p. Then Vdp corresponds to a differential :
+change of the surface area, dislocation length or number of vacancies, etc. Taking second [=

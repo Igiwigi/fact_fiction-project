@@ -1,0 +1,24 @@
+While the RET structure is in principle open to arbitrary materials, most applications concern
+ideal gases, including quantum gases such as phonons and photons [9]. For these, entropy
+maximum closure in kinetic theory has the very same structure, with the Lagrange multipliers
+from maximization and the Liu procedure being identical [31].
+
+We have already discussed the difficulties to perform the entropy maximum closure in kinetic
+theory for more than 10 moments. While the evaluation of the phenomenological RET structure
+proceeds quite differently from the kinetic theory approach—where one has to integrate a
+distribution function—it is also quite challenging, and for classical monatomic gases there is
+no RET system above the 10 moment case that has the full structure as outlined above. Further
+examples, including chemical reactions, radiation and viscoelasticity, can be found in [37].
+
+All RET systems with 13, 14 and more moments discussed, e.g. in [9,38], are, in fact, : =
+approximations and do not have the full RET structure. Rather, these approximations are similar, : =
+if not identical, to Grad-type moment systems, with the same limitations as these, in particular 1B
+only the linearized equations have an entropy, and hyperbolicity is lost for larger deviations from :2
+equilibrium states. 8
+
+The equivalence between RET for the ideal gas and maximum entropy closure was never fully : o
+exploited to discuss feasibility of the macroscopic approach. For instance, a MaxEnt system with 5 99
+13 variables is impossible due to blow up of the distribution function as discussed above. From : §
+this, one would guess that the full RET approach for 13 moments (or any other set with odd :3
+
+[+

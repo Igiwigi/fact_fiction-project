@@ -1,0 +1,25 @@
+
+An alternative means of using the availability of forecasts in the control setting is to apply the : =
+ideas of model predictive control (MPC). MPC has become a standard tool for many industrial : =
+applications and provides a practical way of dealing with forecasts [14-16]. In this approach, one 1B
+uses the forecasts available to solve a sequence of MDP formulations over time. At each decision : =
+epoch, a conventional MDP that incorporates the forecasts available is solved, the optimal first 8
+period action is taken, and this process is repeated at the next decision epoch. In particular, the : 4
+MDPs that are used by MPC at each decision epoch do not explicitly model, within the MDP, De
+the fact that the decision-maker will have available a new set of forecasts at each future decision : 3
+epoch within the decision horizon associated with the MDP. This is also the case in adaptations : 3
+of standard MPC to the setting where the forecasts contain probabilistic information [16]. By 8
+
+contrast, the MDPs introduced by this paper model the fact that the forecasts are continually
+‘refreshed’ over the MDP’s decision horizon, and do so via a formulation that preserves the
+computational tractability of the MDP.
+
+In §7, we introduce a simple energy system control model that controls interior building
+temperatures in an external weather environment for which forecasts are available. In the
+presence of a quadratic cost structure, we are able to use the existing linear-quadratic stochastic
+control theory to compute the optimal value associated with MDPs for the energy system in which
+no forecast information is available and also the optimal value for the dynamic forecasting MDP
+of §5. This allows us to analyse the degree of improvement that can be obtained by incorporating
+dynamic forecast information into the MDP formulation in the context of our simple energy
+system example. Section 8 concludes the paper with a discussion of additional research questions
+that this paper motivates.

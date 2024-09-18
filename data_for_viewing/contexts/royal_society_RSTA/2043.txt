@@ -1,0 +1,25 @@
+at OX ~©PeaXx?
+
+t
++ AC=-0 o | C(X, t)pa(t — t)dt. (3.12)
+0
+
+By analogy with work [13], we will call function g 4(f) a memory function.
+Along with function ¢ ,(f), we will consider also function y,(f), which is defined as
+
+Ww(H=eaha’ -1 (3.13)
+
+The properties of these functions are given in appendix A (d). For example, property 2 says
+that g(t) > A” and w,(t) > 0as t ov. This fact suggests the existence of a steady-state solution
+under condition of the existence of the finite limit of the function C(t) as t > 00.
+
+Using expression (3.13) for evaluating the right-hand side of equation (3.12) gives
+
+a ct t
+2 | C(X, t)ga(t — t)dt = A’ C(t, X) + AY” 2 | C(X, t)Wy (f — t)dr. (3.14)
+at Jo 0
+
+Laplace transform of the function w, (t) can be obtained by using property 1 from appendix A (d),
+
+a rt
+L E I, C(X, t)Wy(t oar] =L{C] (+ + 1)" - 1 ~ yLCl=, ass—> 0, (3.15)

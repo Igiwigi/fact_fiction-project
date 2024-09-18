@@ -1,0 +1,25 @@
+Oo
+
+because it assumes the aerosol particles start at their equilibrium size during the activation
+process, when in fact they need a finite time to grow to these sizes.
+
+The converse is true for the Fountoukis and Nenes scheme, which overpredicts the number
+of activated drops (cf. figures 1a and 3d); however, the Fountoukis and Nenes scheme still
+underestimates the albedo because it does not consider the effect of swollen aerosol on the cloud
+radiative properties (cf. figures 1b and 3e). This finding has been discussed by Simpson ef al.
+[13, §3.3].
+
+In general, though, the albedo changes caused by adding salt particles are significantly
+underestimated by both schemes, which is due to the fact that neither of the parametrization
+methods treats unactivated aerosol in the calculations of albedo. It is evident that both of
+the parametrization schemes were not designed for the range of inputs that are relevant for
+geoengineering applications, in which there can be a large quantity of unactivated aerosol
+particles, and as a result they perform poorly when compared with the parcel model (figure 1a-c).
+For the Abdul-Razzak et al. scheme, the number of activated particles and hence cloud albedo
+reduces as galt is increased (figure 3a,b). This behaviour is qualitatively consistent with the cloud
+albedo from the parcel model (figure 1d); however, the parametrization scheme does not take into
+account the significance of the large quantities of unactivated swollen aerosol particles.
+
+(c) Effect of narrowing the spray distribution
+
+It should be noted that the width parameter, In og, of the injected aerosol also influences the choice

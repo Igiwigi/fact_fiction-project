@@ -1,0 +1,25 @@
+parameters ag, a; and dKy/dT are free parameters that can be varied for the fit of the P-V-T
+data. In our analysis, however, we fixed a1(T) using the ambient pressure thermal expansion
+measurements of ByC reported elsewhere [26] and refined ap since the two parameters are
+observed to be highly correlated. In all cases, we weighted the observed variables P, V, T by their
+statistical variances also reported in the SM.
+
+In conclusion, we present P-V-T data for laser-heated ByC in the pressure 0.1-50 GPa range
+and temperatures between 1000 and 2500 K. The use of MgO as the in situ pressure sensor made
+it possible to estimate thermal pressure and the data obtained could be fit with a Berman P-V-T
+equation of state as well as a Mie-Griineisen—Debye thermal model. In variance with several
+dynamic pressure studies, ByC remains structurally stable in this P-T range, only displaying the
+previously reported relaxation at 10 GPa (and at ambient temperature) which is accompanied by
+a monotonic reduction of the axial ratio. This is best exemplified by the fact that only a single
+
+
+TOT TTT TTT
+
+340 F
+
+0 10 20 30 40 50
+pressure (GPa)
+
+Figure 5. Results of the Berman fit [28] of the P-V-T data using EosFit7c [29]. The thermal expansion parameters and dK/d7
+were varied while the 300 K parameters for Vo, Ky and K,’ were held fixed to the values listed in table 1 and depicted in figure 1.
+The data displayed here are clubbed into different isotherms assuming a spread of +250 K for ease of representation while the

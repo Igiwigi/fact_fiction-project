@@ -1,0 +1,25 @@
+amplitude velocity ¢ depends on the values of relaxation time t. The difference between velocities
+
+
+70
+
+0 0.2 0.4 0.6 0.8 1.0 1.2
+driving force, AB,
+
+Figure 5. Correlation length as a function of the driving force according to equation (5.12).
+
+for different t occurs, however, at moderate and large values of driving forces, namely, at
+ABy > 0.2. At small ABo, the influence of relaxation time t is negligible. Such dependence exists
+due to the fact that the time t influences the relaxation of fast variable—gradient flow, du/dt—
+the variable which plays an essential role far from the equilibrium [11]. A general tendency is
+that a longer relaxation time t makes the velocity increase slower. Indeed, the dynamics by the
+parabolic Allen—Cahn equation (see equation (1.1) with t = 0) is defined by the relaxation of the
+order parameter u only. The dynamics by the hyperbolic Allen—Cahn equation (1.1) is already
+defined by the relaxation of the order parameter u and by the gradient flow du/dt. As a result,
+in comparison with the parabolic dynamics, the additional relaxation in the hyperbolic dynamics
+makes the velocity smaller with the increase in relaxation time t for a given ABg.
+
+Dependence of correlation length 6 on the driving force and relaxation time is shown in
+figure 5. The drastic change in 6 occurs at smaller values of the driving force, namely, at ABg < 0.2.
+Gradual decrease of 6 to its minimal values occurs at moderate and large values of driving forces,
+i.e. at ABy > 0, showing that far from the equilibrium the interface becomes steeper, which directly

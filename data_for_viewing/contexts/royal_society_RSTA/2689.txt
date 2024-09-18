@@ -1,0 +1,25 @@
+random, uncorrelated events. The average error, in the limit n —> 11 628, tends to the value of 0.01 noted in [13] for the entire 22
+Sumatra dataset. (b) The product of the average error, €(n), and the average distance from the centre of each grid point required : S
+to find n events, d(n), is plotted as a function of n, and represents the total uncertainty in each measurement. The variation for : S
+the Sumatra region is more or less constant up ton = 100, and beyond that it increases rapidly, but has a weak minimum around 3
+n= 50. For the California region, the variation is qualitatively similar, while the constant part of the curve is somewhat more : &
+
+extended. (Online version in colour.)
+
+from the California region (32—42° N and 117-125° W) for the same period of time. The first case
+gives a comparable dataset to that studied in [13], which demonstrated regional variations in the
+scaling exponent, b, of the GR Law, or magnitude-frequency distribution, of earthquakes there. It
+is worth mentioning that these data also contain the magnitude 9.1 event on 26 December 2004.
+In fact, the 15 largest earthquakes occurring in the dataset all show a lowering of the b-value, as
+reported in [13]. As earthquake magnitude is reported in terms of energy, we note that b = 2B/3
+(see footnote 1, and [4]). Similar studies have been performed on different scales and across the
+globe, including around the L’Aquila fault in Italy [10], in California [12] and in the northwestern
+Himalayas [11].
+
+Our measurement procedure for the b-value is similar to that used in [13]. For each case, we
+impose a grid of size 0.25° x 0.25° on the whole region. Centring on each of the grid points, a
+growing circular region was considered until a given number of events, 1, was captured within.
+For large n, this circle may be considerably larger than the grid resolution, and its size will also
+vary with event frequency. The exponent value at each grid point was then found by fitting the
+magnitude-frequency distribution of those 1 closest events, using a least-squares fitting method
+(as in §3a, similar results were also obtained for MLE fits). The error on the fit is also recorded as

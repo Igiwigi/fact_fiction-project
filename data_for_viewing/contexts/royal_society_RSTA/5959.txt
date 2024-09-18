@@ -1,0 +1,25 @@
+
+(t= 40% (d) weightage of states
+
+S Sno [2 So Str 20t¢ A0t,
+Si 0.756 0.222 0.022 5 0.763 0.776 0.682
+Sno /2 0.334 0.333 0.333 Shoe /2 0.169 0.181 0.227
+So 1.0 0.0 0.0 So 0.068 0.043 0.091
+
+of small tables for better visibility, each for the lagtime that is indicated at the top. An estimate
+of the statistical weights of different states can be calculated using the normalized eigenvector
+corresponding to the first eigenvalue. The weightages of different states, corresponding to the
+three-macrostate model, are listed in table 3d. We observed the system to rest in an LL-LSC state
+for about 75% of the time of the ensemble runs, a fact also reflected by the PDFs of persistence
+times.
+
+(d) Markov property by eigenvalue spectra
+
+Based on the ensemble run data, we now proceed to test the Markovianity of the macrostate
+evolution. This is done by means of the eigenvalue spectrum of the transition probability matrices
+A; at different lagtimes t as discussed in the last section. To begin with, we calculated the
+ensemble averaged transition probability matrix A; at different lagtimes t >t, where t, = 3t, is
+chosen as a reference time for Markov analysis. The eigenvalues A;(t), i=1,...,6 are always
+ordered according to descending magnitude. The largest eigenvalue is 4; = 1 at all times, since the
+matrices are stochastic. The subsequent eigenvalues may remain unity for times f < t,; afterwards
+the trajectories start to leave the initial macrostates and the eigenvalues decrease thereafter.

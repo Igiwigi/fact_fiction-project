@@ -1,0 +1,25 @@
+phase slip based model [31,49,50]. The observed dissipation, in fact, is induced by phase slip
+mechanism: at short times, for p < pc, the oscillation is only weakly damped; at larger times the
+phase slip rate diverges and the system enters a dynamically unstable regime, characterized by
+a strong damping. The value of p where the experimental data points deviate with respect to
+the theoretical curve can be identified with the critical momentum pz, for the occurrence of the
+dynamical instability [49,50]. By increasing the scattering length, the damping rate at short times
+increases, as the phase slip nucleation rate increases, while pc decreases.
+At the superfluid—MI transition, the critical momentum for dynamical instability is expected to
+vanish. In figure 4 is shown the behaviour of p; as a function of a for two different lattice depths.
+For increasing a, the measured p, initially decreases and then reaches a finite constant value.
+The onset of the plateau can be interpreted as the critical scattering length a- to enter the
+Mott regime for the commensurate regions of the system. Despite the strong inhomogeneity of
+the systems, in fact, at sufficiently strong interactions the experiment observes a suppression
+of the system dynamics: within each tube when a part of the atoms reaches the localization
+condition n=1, transport is suppressed also in the remaining adjacent parts with different
+occupation [50].
+For each set of measurements with a given value of s, ac can be determined by means of a
+second-order polynomial piecewise fit [50], which is justified by the phase slip based model [31,
+33]. In the absence of an exact theoretical model to obtain the critical momentum to enter the
+dynamical instability regime at finite interaction, in fact, it is possible to use a QPS-based model
+to predict the interaction dependence of pc, which well reproduces the experimental behaviour
+of pe with the interaction and shows a quadratic dependence of p¢ on dg [50]. This result justifies
+the choice of the quadratic polynomial fit in figure 4b, where is shown that a, increases when
+s decreases. Comparing experimental results, extracted for different values of the lattice depth,
+with a theoretical analysis based on quantum Monte Carlo simulations an excellent agreement

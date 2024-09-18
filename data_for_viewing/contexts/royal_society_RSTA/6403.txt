@@ -1,0 +1,25 @@
+
+a pressure gradient implies a thermocline slope. Assumption (v) is the most unorthodox; it is
+based on the physical picture that warm water generally moves to the northeast (figure 1), so
+subsurface advection of a certain density can occur only until the outcrop latitude of this isopycnal
+is reached. That the isopycnals should be level equatorward of the outcrop latitude could be
+caused by Kelvin waves, which were later invoked by Johnson & Marshall [33] in what could
+be viewed as indirect justification of the assumption of level isopycnals here. This assumption is,
+however, neither strictly required nor confirmed by the numerical experiments of Marotzke [25].
+Indeed, the three-level structure in zonal flow implied by figure 2 requires some sloping-down
+of isopycnals as they approach their outcrop latitude. Nevertheless, we assume level isopycnals
+equatorward of the outcropping latitude for analytical convenience. Note that level isopycnals at
+the eastern boundary were also assumed in the famous ventilated-thermocline theory of Luyten
+et al. [34], a fact overlooked in Marotzke [25].
+
+Our assumptions result in a picture of the density structure resembling ‘stacked boxes’, a term
+coined by Jeff Scott (figure 3). The stacked boxes allow us to calculate the meridional overturning
+circulation, once the basic stratification parameter—thermocline depth D—is known. The logic
+is as follows. Assume that D is known. This implies that the density is known all along the
+
+
+western boundary. In particular, the depth of any isopycnal at the western boundary is known
+at the equator. It is known for all longitudes at the equator because the isopycnal slope is zero.
+This depth z, is also known along the eastern boundary, all the way northward to the outcrop
+latitude. Hence, density along the eastern wall is known, and we can calculate the east-west
+density difference.

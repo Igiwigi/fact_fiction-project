@@ -1,0 +1,24 @@
+ionization. In this way, information about the temporal profile of the ionizing pulse will be
+encoded in the momentum distribution of the emitted photoelectrons. More specifically, the
+streaked electron momentum distribution contains real-time information on the time-energy
+structure of the outgoing electron wavepacket (EWP), including the subsequent processes which
+affect this EWP on ultrafast timescales [6].
+
+(i) Linear streaking measurements
+
+Initial experiments performed at FEL facilities employed a linearly polarized streaking laser :=
+to produce modulations in the measured photoelectron energy distribution [64-69]. For more :8
+information on the development of ultrafast pulse characterization at X-ray FEL facilities, see :
+the recent review paper by Helm et al. [70]. Optical streaking experiments were not originally a
+developed with XFEL facilities in mind. In fact, many of the techniques now implemented at to
+XFELs were pioneered with high harmonic generation-based, table-top attosecond laser sources. (8
+The delay-dependent photoelectron spectrum (or spectrogram) of the photoionized electron aw
+wavepacket recorded in a two-colour ionization set-up can be used to reconstruct both the :3
+streaking laser temporal profile and the average X-ray pulse temporal profile, with a number :8
+of different algorithms [71]. However, experiments at XFEL facilities suffer many hardships that .
+are not often encountered in table-top attosecond pulse generation. As mentioned earlier, XFEL
+
+pulses typically lack shot-to-shot reproducibility, and the timing synchronization is on the order of
+
+a few hundred femtoseconds. This necessitates a single-shot measurement technique, which can
+determine both the X-ray pulse temporal profile and the relative optical/XFEL pulse arrival time.

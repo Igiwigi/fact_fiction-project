@@ -1,0 +1,25 @@
+Next, on calculating the curl of the conservation of linear momentum (3.28) and substituting
+the streamfunction (3.29) yields
+
+a2? 1 aw awh a2 (1)\ aw
+ow 4 - - +4 =0 ing,
+ay o|(% =) (2)| (3 ay? oTy (z) axdy o in
+
+aw = aw =0 on 022, 6:30)
+ax oy
+v=Vo on dQ,
+
+where the symbol A? stands for the biharmonic operator. The boundary conditions arise naturally
+by virtue of the definition of y and also from the fact that the boundary itself is also a streamline.
+Note that this is a linear PDE for y with the function G given from the previous step of the
+axial flow. In particular, if the exponent n = 0, the function G becomes constant and the equation
+reduces to a biharmonic equation and the solution for y is constant, which we can pick to be zero.
+Without any loss of generality with regard to the boundary conditions, we can rewrite the
+problem as follows:
+
+a | 1 (ay aty a1 ry ay ia 1 aw 0 ing
+ax* |G \ ax? ay? ay2 | G \ ax2 ay? J |"  dxdy | G axay | ,
+
+ov = x =0 on 022,
+w=0 ond.
+(3.31)

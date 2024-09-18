@@ -1,0 +1,25 @@
+(4.9)
+and w=0 onl.
+We then define the comparison function F :[0,7) x 2 — R via
+Flt, x) = € OP (yx) — wa), (4.10)
+with positive constants «1,2 to be specified later. A straightforward calculation shows that
+(8) = a,j; — 0:0) F
+=K,e7 8/2)ty_ lag, 34, — (a; — 8; _ —b-(Vo, — KV 411
+=Ke [-zAg1 — ko + 5 Ako — (aij — 5i)(G1 — Ko) (Vo, — mV). (4.11)
+
+Note that the first and the second terms in the square brackets on the right-hand side of (4.11) are
+negative, while the fourth and the fifth terms are small, being of order e. If x is close to I”, then the
+second term dominates the third term and if x is away from the boundary /”, then one can choose
+«2 > 0 so that the first term dominates the third term. Thereby we use the fact that both g; and y
+vanish at I”, they are both non-negative (by the maximum principle), and both satisfy the Hopf
+lemma (since they are both supersolutions). It follows, then, that there exists a «2 > 0 and some
+constant C; such that
+
+(1 = aijdjj — b;9;)F < —Cyx e 8, (4.12)
+It then follows from (4.12) and (3.2) that
+(At = aij — bi9;)(—4r — F) > —(ragquij +Orbiqi + BANG, w! + Akqa w}) + Cree C2, (4.13)
+
+Note, however, that the term in parentheses on the right-hand side above is a quadratic
+nonlinearity and as such decays at least as fast as e~*!:
+
+| 109, +d:biqi + WAG x w! + Age will <Cociee

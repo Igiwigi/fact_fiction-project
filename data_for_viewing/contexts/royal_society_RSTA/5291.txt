@@ -1,0 +1,25 @@
+envelopes was introduced by Barles & Perthame in [8]. Our definition is in the same spirit. A
+key property of the viscosity sub/supersolutions is their stability:
+
+Proposition 2.2 (Stability of sub/supersolutions). For any ¢ € (0,1), let F. be a non-empty family
+of subsolutions (resp. supersolutions) of (1.2) on R x (0,T). Let
+
+u(x,t)= limsup (op vy, ») , (rep. u(x,t)=  liminf ( inf v9):
+
+(ys.e)>(,0) \veF. (yssie)> tO) \veF,
+If |u| < +00 (resp. |u| < +00), then u is a subsolution (resp. ut is a supersolution) of (1.2) on R x (0,T).
+
+Proof of proposition 2.2. The proof of proposition 2.2 is classical, except for the new term u(x, ft) —
+u(—x,t). In fact, Barles and Imbert give a related definition of viscosity solution and established
+stability results for a general class of non-local operators in [9]. Here, we simply check this
+property, proving that if for all functions v € F,, we have
+
+v(x, f) — v(x, £) — w(x, 6) <0 (2.1)
+
+in the viscosity sense, then u still satisfies (2.1) (the proof being similar for i).
+Indeed, by definition of u, there exists (Ye,Se,e) > (x,t,0) and ve €F, such that u(x,t)=
+lime. ve(Ye, Se) aNd ve(Ye, Se) — Ve(—Ye, Se) — W(Ye, Se) < 0. Because w is continuous,
+
+u(x, #) — (x, #) <lim sup ve(—Ye, Se) < u(x,t)
+
+20

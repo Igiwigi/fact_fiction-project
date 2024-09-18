@@ -1,0 +1,25 @@
+Phil. Trans. R. Soc. A (2010)
+
+
+Review. Physics and complexity 1177
+
+individual pair of students might want to be in the same dormitory or in different
+ones.” If, for any three students, the number of pairing preferences for being apart
+is odd, then not all these preferences can be satisfied simultaneously. This is
+frustration and there is no unique best choice. With a large number of students,
+finding the best compromise is very difficult, indeed in general NP-complete®
+(http://www.claymath.org/millennium/P_vs_NP/).
+
+In fact, the Dean’s problem was first considered in the context of the magnetic
+alloys mentioned earlier, as a minimalist model for a so-called ‘spin glass’
+(Binder & Young 1986). The original spin glasses are substitutional metallic
+alloys such as Auj—z)Fe,, where only the Fe ions carry magnetic moments (or
+‘spins’) and, as a function of their separation, their pairwise interactions are a
+mixture of ferromagnetic, trying to align the two spins, and antiferromagnetic,
+trying to make them point in opposite directions. Experimentally (Mydosh 1995),
+these materials were observed to exhibit a phase transition to an unusual state,
+with frozen moments but no periodic order—hence, the appellation ‘glass’ by
+analogy with amorphous window glass, slow to respond to changes in external
+controls, accompanied by non-ergodicity, behaving differently depending on the
+order in which external perturbations, such as magnetic field or temperature, are
+applied. Nowadays, slow response and non-ergodicity,’ along with memory, ageing

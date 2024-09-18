@@ -1,0 +1,25 @@
+As follows from the proof of theorem 2.2, no explicit form of the fixed-point operator is needed
+for the solvability of (2.1). A key point for the unique solvability of (2.2) in theorem 2.2 is the choice
+of the map G. To this aim, in our opinion, the best cases are the following two, namely
+
+(4) G(t,q,x) = 81,9), (iz) G01, g, x) = 81, 9) ® (Xn41)-
+
+In the case (iz), the equation in (2.2) is a half-linear equation and in this situation a very large
+variety of results is known, see e.g. [2, ch. VIII]. An application in this direction is in [10, Section 4].
+
+In the case (i1), that is when the function G does not depend on x and the equation in (2.2)
+is affine, theorem 2.2 can be particularly useful to solve BVPs associated to difference equations
+with deviating arguments. Indeed, in this case, it can lead to a BVP associated with a second-order
+difference equation without deviating argument. An application of this fact is in the following
+section.
+
+3. Proof of theorem 1.2
+
+For proving theorem 1.2, the following auxiliary result is needed.
+
+Lemma 3.1. Assume (1.1) and (1.4). Let x be an eventually positive decreasing solution of (P) such
+that limy Xp = 0. Then the series
+
+oo i-1
+Ee (; * Enea)
+i=2

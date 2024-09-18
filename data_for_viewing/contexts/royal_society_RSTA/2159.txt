@@ -1,0 +1,25 @@
+arbitrary level, [36,37] use the conjecture for representations of level two and arbitrary weight. To
+
+
+see that the gates of [36,37] are optimally covering (compared with random ones), one needs to
+bound 1 aC) for general ¢; we refer the reader to [20] for a full account, which addresses also the
+P
+
+approximation problem for these gates by the Ross-Selinger algorithm [38].
+
+As Ramanujan graphs appear when studying PU(2), one expects Ramanujan complexes to
+appear when moving to general PU(n). This is indeed so, but the direction taken in §4, of replacing
+Qby F,(#), cannot be used anymore, since the latter does not embed in R. The task also becomes
+more complicated due to the fact that the naive generalization of RP conjecture to PGL, fails, due
+to the appearance of functorial lifts (cf. [39]). For general 1, this is still work in progress, but for
+PU(3) (which corresponds to quantum computation on a single qutrit), a complete solution exists:
+
+Theorem 6.3 ([16]). For p=1 (mod 4), there is an explicit Golden Gate set Sy C PU3(Q), such that
+(Sp) acts simply transitively on the Bruhat—Tits building of PGL3(Qp).
+
+The compiling problem for these gates is solved by studying their action on the two-
+dimensional building of PGL3(Qp). The optimal covering rate is obtained by showing that
+the spectral bound As, is the same as the maximal non-trivial adjacency eigenvalue of a two-
+dimensional Ramanujan complex! Let us mention that the proof of this bound uses Rogawski’s
+work [40], as well as some state-of-the-art results of the Langlands program, in particular, Ng6’s
+proof of the Fundamental Lemma, which enabled Shin to prove the RP conjecture for cuspidal

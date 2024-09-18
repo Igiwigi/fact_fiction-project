@@ -1,0 +1,25 @@
+maximum SR performance.
+
+In [82], authors investigated the SR phenomenon in the noisy FFN model in order to unravel
+the underlying mechanism for transmission of acupuncture signals by attributing this study to
+experimental findings. They systematically studied the influence of noise and network features
+on weak signal transmission in FFN of FHN neurons. It was found that moderate noise strengths
+can ease signal transmission and this can be further enhanced by denser FFN connectivity or by
+slower synaptic dynamics. It was also argued that SR performance can be controlled by various
+other population features, such as spike threshold diversity and feedback links.
+
+There is also growing interest in exploring VR dynamics in FFNs. For example, Qin ef al.
+investigated the VR phenomenon in multi-layer FFN constituted with FHN neurons [83].
+Considering the fact that all neurons in a population cannot receive exactly the same HF input,
+they applied HF driving to the neurons with different amplitudes and phases. It was found
+that heterogeneous HF stimuli may be a more useful driving strategy in weak signal detection
+and transmission through layers. More precisely, distributed amplitudes of HF signal within the
+population result in energetically efficient successful communication between neuronal layers
+due to enabling correlated firing activity of interacting neurons.
+
+In another work, considering the fact that spike transmission between neuronal units is
+actually unreliable due to the stochastic release of neurotransmitters [84], Xue et al. examined
+the effects of unreliable synapses on signal propagation in the network and VR performance [85].
+It was shown that successful spike transmission probability and excitatory coupling strength are
+two critical factors effecting signal transmission, and that fine-tuning of these parameters can
+provide higher VR performance for FFN via a stable signal propagation. It was also demonstrated

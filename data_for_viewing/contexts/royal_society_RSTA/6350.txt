@@ -1,0 +1,25 @@
+Finally, we turn to the low-dimensional composite systems. This category encompasses the :3
+(mono)layer of atoms on the surface of a bulk material, single molecules and clusters on metal : =
+or insulator surfaces, and the formation of structures in monolayers of molecules and atoms on :3
+various substrates. A further class of systems would be the formation of structures by molecules : =
+or atoms that have been intercalated inside a layered material, or inside a zeolite or metal-organic :8
+framework. The major challenge in these systems compared with the pure two-dimensional or aieel
+one-dimensional systems, or the quasi-one-dimensional and quasi-two-dimensional systems, is :3
+the large number of atoms that represent the background structure (substrate, host framework, : S
+etc.), which greatly complicate the energy calculations needed for the structure predictions. :g
+
+The issue here is not only the large number of atoms involved but also a particular challenge, “oO
+
+ie. the fact that frequently the types of interactions inside the molecule, inside the substrate
+and between molecule and substrate would require three different types of empirical potentials
+(that are often difficult to combine!) for a simplified description of the energy during the global
+optimization. Sometimes it is possible to replace some of the interactions by empirical potentials
+or even to keep the substrate atoms in fixed positions. But in general, one will have to use ab
+initio energy calculations for the whole system as much as possible already during the global
+exploration stage, pushing the limits even of high-performance supercomputers.
+
+As a consequence, the global search often needs to be structured as a multi-step procedure,
+with different energy functions and different exploration methods employed at each stage,
+just to obtain some physically and chemically reasonable structure candidates. One common
+approach frequently employed for the structure prediction of single molecules or clusters on
+a substrate consists in performing many local structure optimizations (essentially a multi-

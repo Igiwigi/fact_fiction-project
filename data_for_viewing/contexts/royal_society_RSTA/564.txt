@@ -1,0 +1,25 @@
+presented in §2, together with the use of this framework to compare surface albedo and SW
+cloud feedbacks using the so-called ‘climate sensitivity’ approach for the LGM. Section 3 first
+compares the radiative feedbacks averaged over the NH for the LGM and MH climates and then
+highlights model differences in West Africa. The relationship between the vegetation feedback
+and model physics or biases in the model’s modern climatology is discussed in §5 before a rapid
+discussion (§6).
+
+2. Forcing and feedbacks at the global scale for the LGM
+
+(a) The simplified framework
+
+We use the Taylor et al. [37] simplified approach to quantify the forcing and feedbacks in the SW
+domain. It uses the fact that the variation of the planetary albedo (@) can be decomposed so as to
+reflect the individual contributions from the surface albedo (ag), the bulk atmospheric absorption
+(1) and the atmospheric scattering (y):
+
+da da da
+Aa = —— Aas + ——Ay + >—Apu +e,
+das oy Ou
+
+where e represents the nonlinear contribution of the different parameters and is negligible here,
+and A represents the difference between two climatic periods. The first two terms of the right-
+hand side of this equation are the ones we focus on. Changes in atmospheric absorption are small
+for the MH. They are thus not considered in the comparison below even though we diagnosed it.
+Indeed our objective is to compare model behaviours for the MH and the LGM, which justifies

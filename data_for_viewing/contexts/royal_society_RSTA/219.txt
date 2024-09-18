@@ -1,0 +1,24 @@
+from structured data (Hearst 1999), text mining has the aim of discovering and
+extracting knowledge from unstructured data, i.e. free text. Text mining thus
+involves extra processing steps in order to locate, extract and structure relevant
+information from texts prior to the knowledge discovery (i.e. data-mining) step.
+The advantage of text mining is that it enables researchers to collect, maintain,
+interpret, curate and discover knowledge needed for research or education, in an
+efficient and systematic way (Ananiadou & McNaught 2006).
+Text mining comprises three major activities,
+
+(1) Information retrieval. Gathering of relevant texts.
+
+(2) Information extraction. Looking within the retrieved texts to identify,
+extract and structure a range of specific types of information or facts.
+
+(3) Data mining. Finding associations among the pieces of information
+extracted from many different texts.
+
+Thus, text mining can dramatically reduce the amount of work required by
+the user—instead of being presented with potentially tens of thousands of
+documents to sift through and comb for relevant knowledge, text mining offers
+the possibility of automatically extracting and presenting to the user precise facts
+retrieved from relevant documents. Furthermore, interesting associations may
+be found among disparate extracted facts, leading to the discovery of new or
+unsuspected knowledge.

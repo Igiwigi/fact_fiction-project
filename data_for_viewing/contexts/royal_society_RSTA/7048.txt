@@ -1,0 +1,24 @@
+possible only for a restricted class of functions g(x). For example, we observe, by successive
+differentiation of (1), that if k(x, y) satisfies a linear differential equation of the form
+
+(Frat ale) fost. tpa(a) | Cas y) = 0
+ayn tA F Ps a Pn x,y) = 9%,
+
+then solutions of (1) exist only if g(x) satisfies the same differential equation. Thus for
+kernels of this kind there is no well-behaved solution for arbitrary well-behaved functions
+k(x,y) and g(x), and it is known theoretically that this is true for all regular kernels. Fred-
+holm’s equation of the first kind is then almost always a singular integral equation, in the
+sense of this paper.
+
+The problem is further complicated by the fact that, given the necessary relation between
+
+k and g, there may be an infinity of solutions. For a kernel of the form k(x, y) = Ps a,(x) b,(y),
+1
+
+for example, it is clear that no solution exists unless g(x) has the form
+g(x) a p ¢,a,(%),
+
+VoL. 245. A. 64
+
+
+518 L. FOX AND E. T. GOODWIN ON

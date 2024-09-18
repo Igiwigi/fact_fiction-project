@@ -1,0 +1,25 @@
+such extrapolation factor, indicative values of 1.2 + 1.3 may be derived from land-based HAWTs
+(see [9,10] or Annex F in [2] for the characteristic moment at the blade root). Therefore, multiplying
+the values in tables 5 and 6 by a 1.35 load safety factor and also by a 1.3 extrapolation factor for the
+operational load cases, it can readily be observed that the derived demands would be smaller than
+the earthquake demands obtained for the highest levels of PGA, as reported in figures 7 and 8.
+It is also worth noting that, at the pile head and blade root of the Tripod, earthquake demands
+would be higher also for moderate levels of PGA. In particular, at the blade root, this holds true
+for the flexible FM (figure 7).
+
+Although the considered operational and parked states are certainly not exhaustive, and
+other important loads shall be considered in design analyses, such as fatigue loads, the results
+discussed above substantiate the need for an accurate seismic assessment of offshore HAWTs, also
+in recognition of the fact that no load safety factor has been applied to earthquake demands when
+
+
+Table 4. IEC 61400-3 load cases [3], for comparison with earthquake load cases LCI-LC2-LG.
+
+operational state wind (ms) waves sea currents (m s~') water level (m)
+LC1.3_1 Vou = 10 H, = 5.0m, T, = 9.535 Uy(0) = 0.069 MSL= 50
+LC1.3_2 Viub = 15 H, = 5.5m, T, = 10.0s Uy(0) = 0.105 MSL= 50
+LC1.3_3 Viub = 20 H, = 6.0m, T, = 10.45 Uy(0) = 0.139 MSL= 50
+LC1.3_4 Vou = 25 H, = 6.5m, Ty = 10.95 Uy (0) = 0.174 MSL= 50
+LC1.6a_1 Vou = 10 H, = 8.0m, T, = 12s Uy(0) = 0.069 NWLR = 52
+LC1.6a_2 Vou = 15 H, = 8.0m,71, = 12s Uy(0) = 0.105 NWLR = 52
+LC1.6a_3 Viub = 20 H, = 8.0m, T, = 12s Uy(0) = 0.139 NWLR = 52

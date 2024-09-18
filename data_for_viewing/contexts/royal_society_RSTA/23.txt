@@ -1,0 +1,25 @@
+posterior capture efficiencies) for each cell (x-axis) and gene (y-axis). Cells from different clusters are separated by solid yellow
+lines, and within each cluster, the dashed yellow line separates HOM and HET. Genes above the red horizontal line are identified
+as differentially expressed across the clusters. (b) Visualization of the clustering estimate in the two-dimensional space obtained
+through t-distributed stochastic neighbour embedding (t-SNE [139]) of the high-dimensional data. (c) Uncertainty in clustering
+characterized by the posterior similarity matrix. (Online version in colour.)
+
+properties and developments have led to the huge growth and adoption of BNP mixtures,
+especially DP mixtures, for a variety of applications in statistics and machine learning in the
+twenty-first century.
+
+However, this enthusiasm was dampened by the negative results of Miller & Harrison
+[145,146] that provided a simple example in which the posterior on the number of non-empty
+components in DP mixtures is inconsistent when true number is finite. In fact, the posterior
+is demonstrated to be severely inconsistent, as the posterior probability that the number of
+non-empty components equals the truth asymptotically tends to zero. This is in contrast to
+overfitted mixtures, which asymptotically prune extra components [95,118], and MFM which
+yield consistent estimates for the number of components [147,148]. While overfitted mixtures can
+be viewed as truncated approximations to DP mixtures, this seemingly contradictory result can
+be explained by noting that BNP mixtures are misspecified when the true number of components.
+is finite, and in this case, the true density lies at the boundary of the prior support [147]. Indeed,
+it is well-known that DP mixtures can introduce many small extra clusters. To overcome this,
+Guha et al. [147] develop a post-processing procedure to consistently estimate the true number
+of components by suitably truncating components with small weights and merging similar
+components. Instead, consistency can also be achieved by adapting the concentration parameter
+a of the DP to be sample-size dependent or via a suitable hyperprior, which is in fact standard

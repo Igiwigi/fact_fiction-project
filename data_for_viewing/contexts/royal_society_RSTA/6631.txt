@@ -1,0 +1,25 @@
+of individual instantiations and allowing them to learn, procreate and die in a manner
+approximating those processes in real (biological) systems. The genotype of each new
+individual will depend only on the genotypes of its two parents and random mutation.
+During their life, each individual will then attempt to learn from their environment
+how best to adjust their weights to perform most effectively. Eventually, perhaps
+after producing a number of children, each individual dies. Obviously, in nature, or
+for complete physical robots, the ability of an individual to survive or reproduce
+will depend on a number of factors that are related in a complicated manner to
+that individual’s performance on a range of related and unrelated tasks. For the
+purposes of our simplified model here, however, it is reasonable to assume that all
+other factors are equal across the population, and consider it to be a sufficiently good
+approximation to take a simple linear relation between our single task-fitness function
+and the survival or procreation fitness. In fact, any monotonic relation should result
+in similar evolutionary trends, but it is very easy to lose weak effects in the noise
+of the rather coarse simulations forced upon us by current computational resource
+imitations.
+
+Given that, initially at least, we were aiming to replicate effects that arise in biolog-
+ical evolution, it was appropriate to follow a more natural approach to procreation,
+mutation and survival than has been used in many evolutionary simulations in the
+past (see, for example, Belew & Mitchell 1996). If, as is often done, we were to train
+each member of the whole population for a fixed time and pick the fittest to breed
+and form the next generation, there would be no incentive for individuals to learn as
+quickly as possible, and efficient learners would not evolve. The natural alternative
+o this generational approach is a steady-state strategy in which only a subset of the

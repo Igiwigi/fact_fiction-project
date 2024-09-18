@@ -1,0 +1,25 @@
+plateau viscosity. So to derive the effective viscosity value, the magnitude of the shear rate is
+defined as follows [59,60]:
+
+lvl =V2Dn, (2.12)
+
+with Dy being the double dot product of tensor E:
+Dy =E:E. (2.13)
+
+When referring to LBM many authors use the non-equilibrium distribution function for the
+evaluation of the strain tensor [26,27,32,61]. Nevertheless, in a previous work the macroscopic
+velocity gradients approach has been used for its stability in a wide number of conditions [60].
+In this application, special treatment has to be used at interface where there is no possibility to
+correctly evaluate the velocity gradient. In fact, at every interface node there is at least one gas
+neighbour (not resolved as stated in §2c), thus, in this condition, velocity at neighbour gas node is
+assumed to be equal to the value at donor interface cell—assuming a zero gradient approximation.
+
+
+GAS (light)
+
+F F F F F F F F F
+
+Figure 1. Passage from continuum description to discretized one. Three different fluid states arise: Fluid, InterFace and Gas.
+(Online version in colour.)
+
+(c) The free-surface model

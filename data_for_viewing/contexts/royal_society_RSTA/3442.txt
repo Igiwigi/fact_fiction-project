@@ -1,0 +1,25 @@
+distributions are compatible with some but not all combinations of the maximal couplings for
+the two columns? Shall one then speak of a partial (non)contextuality? Originally, we proposed
+to consider a system non-contextual if it is compatible with at least one of these pairs of maximal
+couplings, but in addition to being arbitrary, this leads to another complication: it may then very
+
+
+well happen that the system R’ is non-contextual but one of its subsystems, e.g. R, is contextual.
+This is contrary to one’s intuition of non-contextuality.
+
+In the most recent publications therefore [1,2], we modified our approach into ‘CbD 2.0’,
+by positing that a coupling for conteNt-sharing measurements should be computed so that it
+maximizes the probability of coincidence for every pair (equivalently, every subset) of them. In our
+case, this means maximization of Pr (Tj = Ti), Pr (T; = Tj] and Pr (Tj = Tj] (it is in fact sufficient
+to maximize only certain pairs rather than all of them, but this is not critical here). Such a coupling
+(Ti, Ty, T}) is called multimaximal. With only binary rvs involved, a multimaximal coupling always
+exists and is unique; and a subsystem of a non-contextual system then is always non-contextual.
+
+Returning to system R, consider now the situation when the measurements involved are
+not dichotomous. For example, let the two successive spin measurements along axes q = 1 and
+q=2 be made on a hypothetical spin-2 particle, with the measurement outcomes denoted by
+{—2, —-1,0,1,2}. In the behavioural application, let the questions asked allow five answers each,
+labelled in the same way. A maximal coupling in this situation exists for each column of R, but not
+uniquely. This takes us back to the problem of what one should do if the row-wise distributions
+are compatible with some but not all pairs of these maximal couplings. Another problem is even
+harder. If the system is deemed non-contextual, one may consider it desirable that it remain non-

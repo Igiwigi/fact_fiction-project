@@ -1,0 +1,24 @@
+steps, providing insights into the molecular flux and selectivities [48].
+
+
+3. Analysis of ionic transport through carbon nanotubes
+
+Figure 4 compares the typical unprocessed current traces and the corresponding pore blocking
+events from the stochastic transport of various cations (Lit, Na+ and K*) in isolated CNT
+nanopores [8]. Herein, the baseline, unattenuated current is generated because of the transport
+of the primary charge carriers (protons) in the electrolyte. Comparison of the traces (i) and (ii)
+indicates the effect of ion concentration on the blocking events. Upon increasing the concentration
+of Kt ions from 1 to 3 M, the frequency of the pore blocking increases as indicated by the
+relative increase in the intensity of the histogram peak corresponding to the blocked state
+(figure 4, trace ii). This relates to the fact that high concentration of potassium ions increases
+their probability to find the nanopore entrance, and subsequently block the pore channel. Traces
+(iii) and (iv) show the transport data for Lit ions at two different driving potentials across the
+nanopore. Consistent with the prediction of equation (2.1), the pore blocking current increases
+from 150 pA to 5 nA, when the driving potential is increased from 0.6 V to 3 V. Traces
+(i)-(iv) exhibit only two states corresponding to the baseline current and the blockage current,
+respectively. The presence of this two-state Coulter effect is the determining signature of single
+nanopore transport. In the case of two parallel nanopores, three distinct states can be observed
+(traces v and vi). In general, for n parallel nanopores with equivalent blocking currents, the
+number of possible states is equal to (n+1). However, for an enormously large number of parallel
+nanopores such as those in aligned CNT membranes [7], it is difficult to observe stochastic
+blocking.

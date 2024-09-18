@@ -1,0 +1,24 @@
+(such as particles or fluid domains) decay very slowly with increasing distance. The classical
+example is the gravitational many-body problem, in which the force decays with the square of the
+inverse distance between two bodies. Non-locality is a problem because it generates an all-to-all
+interaction scenario in which the computational complexity grows quadratically with the number
+of interacting units. The problem is far more acute in the quantum context, where non-locality
+
+
+takes the form of the once-dreaded ‘action at a distance’, or more precisely to entanglement,
+meaning that different parts of a system remain causally connected even when they are arbitrarily
+far apart. This challenges our basic intuition that things interact most when they are in close
+proximity.
+
+Leaving aside abundant metaphysical and science fiction based ramifications, entanglement
+stands as a highly counterintuitive and difficult phenomenon to deal with by the current methods
+of theoretical science. Addressing quantum correlations with machine learning is plainly a major
+challenge [19].
+
+(c) Hyper-dimensions
+
+We are used to living in three spatial dimensions, plus time, and we are clearly often in difficulty
+in going further. In fact, visualizing objects, not to mention dynamic phenomena, in just three
+dimensions seems to be complicated enough, as everyone dealing with visualization software
+
+knows all too well. Yet most problems inhabit a much larger domain, known as phase-space. : =

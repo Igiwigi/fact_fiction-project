@@ -1,0 +1,24 @@
+
+— Derive a map of continents from the disc-integrated signal and identify notable features,
+such as rain forests, deserts and ice caps.
+
+LOUPE shall perform its science goals by recording and demodulating the disc-integrated Stokes : Ss
+vector of sunlight reflected from the Earth. The minimum and goal technical requirements for : =
+LOUPE’s mission are stated in table 1. :8
+
+In order to maximize deployment opportunities, LOUPE will be prototyped with platform : 3
+versatility in mind, so that it may be suitable for multiple use cases (including geostationary, : 3
+Lunar orbiting and landing scenarios). To keep a first proof-of-concept version of LOUPE as : 8
+simple as possible, key trade-offs may be undertaken, such as limiting the instrument not to : s
+measure the circular polarization V, but only F, Q and U. This trade-off is justified by the fact iS
+
+that, although V has the potential to be considered a biosignature of homochiral life [29], V of
+light reflected by an (exo)planet is several orders of magnitude lower than the linearly polarized
+flux [25,35,36] and neglecting it introduces no significant errors in F, Q and U [37]. Some other
+capabilities of LOUPE are functionally optional as well, such as radiometry, though its addition
+could provide data for climate research. The additional capability to resolve the Earth at the
+continent scale would also introduce additional signal processing difficulties, as the ability to
+perform straightforward disc-integration of the signal is integral to LOUPE’s mission. Weighing
+the advantage of a wide field of view with passive pointing against a narrower, baffled field of
+view with better protection from the Solar glare, but a need for active pointing, is another topic
+for contemplation in the design process.

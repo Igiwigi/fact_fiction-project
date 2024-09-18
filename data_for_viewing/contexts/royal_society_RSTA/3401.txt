@@ -1,0 +1,25 @@
+model is known to exhibit a transition from a paramagnetic to a glassy phase at low temperatures
+and a weak transverse field. The classical Ising spin glass model is widely believed to capture
+the complicated combinatorial structure of general NP-hard computational problems, while the
+zero-temperature, weak transverse-field regime describes the final stage of a quantum annealing
+protocol designed to find the ground-state energy of the Ising spin glass. MBL has been argued to
+be an obstacle to efficient quantum annealing due to the presence of exponentially closing gaps
+in the localized phase.
+
+We computed numerically the many-body mobility edge of the system in the forward
+approximation, finding that the energy eigenstates of the system indeed localize for small values
+of the transverse field at finite system sizes. When plotted against the equilibrium phase diagram
+of the model, we discovered that the localized region does not coincide with the glassy phase.
+In particular, evidence points to the fact that the glassy phase is partitioned into a delocalized
+region and a localized one. We conjecture that the glassy, delocalized region will exhibit the same
+clustering of eigenstates observed in [29] for the p-spin model, where the eigenstates were found
+to form clusters inside of which the energies are distributed according to Wigner—Dyson, while
+the global distribution of the energy levels of the model is Poissonian.
+
+Moreover, we expect that classical methods that exploit the fine-tuning of thermal relaxation
+(such as simulated annealing) will perform poorly in the entire glassy phase, while quantum
+
+
+annealers will perform poorly only once localization sets in. Therefore, we conjecture that, in the
+glassy, delocalized region of the phase space, quantum annealing algorithms can outperform any
+classical thermal annealing protocol.

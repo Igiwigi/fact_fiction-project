@@ -1,0 +1,24 @@
+itself. Note that yu 1 KciWeW? needs to take into account also evanescent channels which can be
+neglected for the real part Ker.
+
+The non-Hermiticity of Heg results in a set of complex eigenvalues {€;,} associated with two
+distinct sets of eigenvectors called left {(w|} and right {/W%)} eigenvectors Heg| WB) = En |wR)
+and (Wh lest = (WHEn, where the complex eigenvalue €; = E, — (i/2)Iq, gives the energy E,, and
+the resonance width Ij, > 0 of the nth resonance, respectively. The left and right eigenvectors,
+which describe the resonance states, satisfy the condition of bi-orthogonality, (WE|WR) = 61m, and
+completeness, )~_, |W) (wE| = 1. In the context of microwave cavities, the validity of model (2.1)
+for real x; has been established in previous works [33,34]. More general models of non-Hermitian
+Hamiltonian operators may be used to study open quantum systems (e.g. the topical review [25]).
+This formalism has been successfully applied to wave billiards for which antennas and absorption
+are respectively described by physical and fictitious coupling channels [34-36].
+
+In figure 2, the eigenvalue dynamics measured in microwave cavities are shown for three types
+of perturbation, where the perturbation strength is indicate by 4. In figure 2a, the perturbation is
+introduced by the shift of a wall in a stadium billiard (for details see [18,37]) corresponding to
+a full perturbation matrix V. It is the same kind of perturbation as sketched in figure 1a. As this
+perturbation acts on all levels in the same way for already small parameter variations, thus the
+dynamics seen in figure 2a is quite homogeneous. For this kind of perturbation the distribution of
+level velocities v = dE/da is Gaussian [17,18,37,42]. In figure 2b, a local perturbation is performed
+by moving a scatterer with a radius much smaller than the wavelength (for details see [38,39]).
+This perturbation can be described by a rank 2 perturbation, i.e. V= W), wi, where W), is a2 x N
+

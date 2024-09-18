@@ -1,0 +1,25 @@
+where 7, and @, are polar co-ordinates measured from y = 0, x = &. The integral in (68)
+conyerges for any given value of @, in the range 0<0,<7. Its formal expression at J, = 0
+(or 7), which is (66), may be defined as the limit when /,— 0 (or 7). Alternatively, con-
+vergence at (, = 0, 7 can be obtained by a permissible distortion of the path C. Thus (68)
+
+reduces to —1kZI.(E) dED(k | x—E |) (69)
+
+on the interface y = 0. The corresponding expression for £, at y = 0 due to a current sheet
+occupying y = 0, x>0 is obtained from (69) by integrating over from 0 to. In order to
+satisfy the boundary conditions on the perfectly conducting plate, this value of /, must be
+equated (for x>0) to that of — Ei at y = 0; the result is the integral equation (67). Equation
+(67) is of the type susceptible to the method of Wiener & Hopf (Titchmarsh 1937). The
+Wiener-Hopf procedure would be facilitated by the fact that the kernel (4 |x—&€|) is
+defined as a Fourier integral in (66), but this really emphasizes the irrelevance of bringing
+) into the analysis and indicates that the dual integral equations offer a more direct line
+of attack.
+
+Another slightly different formulation of the problem may be devised. So far we have
+considered the complete field in terms of a ‘correction’ to the field existing in the absence
+of the perfectly conducting sheet. Now let us consider it in terms of a ‘correction’ to the
+field which would exist were the conducting sheet infinite instead of semi-infinite. This
+alternative approach (associated when x= 1 with the exact electromagnetic form of
+Babinet’s principle) indeed yields slightly simpler integral equations than those given above,
+owing to the fact that we are dealing with a vertically polarized field; on the other hand,
+the new ‘correction’ field has no obvious physical interpretation. If, then, the whole plane

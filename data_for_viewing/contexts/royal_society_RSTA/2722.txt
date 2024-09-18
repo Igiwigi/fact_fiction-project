@@ -1,0 +1,24 @@
+regime d= O(1) considered here may, however, apply to dryland ecosystems on flat non-sandy
+soil with high infiltration rate and fast biomass spread due to seed dispersal, a possibility that
+merits investigation in future work.
+
+The results obtained in this study are largely numerical. A detailed understanding of the
+results remains to be elucidated, however, since the techniques of geometric singular perturbation
+theory used so successfully in the regime d > 1 in [13,14] are inapplicable when d = O(1). Instead
+the key to this understanding appears to be provided by the case dm = 2, i.e. the quadruple zero
+singularity described by equation (A 20). This Swift-Hohenberg equation captures the behaviour
+of the system in the vicinity of dm = 2, a codimension-two singularity that serves as an organizing
+centre for the formation of a large variety of complex LSs [53,54]. Moreover, these structures
+are expected to persist as |dm — 2| increases, and so may potentially provide insight for other
+ecologically relevant parameter regimes. In fact, the appearance of a quadruple zero bifurcation
+is by no means unique to the GS model or for that matter to other vegetation models, but is
+a property of reaction-diffusion systems in general. For example, this bifurcation organizes the
+properties of both bright and dark solitons within the Lugiato-Lefever equation used to model
+nonlinear optical systems [42].
+
+Data accessibility. This article has no additional data.
+
+Authors’ contributions. P.G. and Y.Z. performed the numerical computations; P.G. carried out the weakly nonlinear
+analysis; E.K. drafted the manuscript. All authors read and approved the manuscript.
+
+Competing interests. We declare we have no competing interests.

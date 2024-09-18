@@ -1,0 +1,25 @@
+
+T T T T T T T :
+30 40 50 60 70 80 90 Dx
+
+insertion angle 3
+
+Figure 11. The ratio illustrated on the y-axis compares the values of each stress at different angles to the original 90° case, e.g. iS
+the theoretical von Mises stress for the 70° case divided by the theoretical von Mises stress for the 90° case. The stress ratio is Dh
+
+calculated using equation (6.3) while the von Mises ratio is calculated using equation (6.8). This follows the procedure set out :®
+by Halabian et a/. (Online version in colour.) Dy
+
+simulations include the fact that despite employing a viscoelastic rat brain model, implantation
+speed does not noticeably impact the von Mises stress which results from the implantation.
+
+A crucial finding of this work is that the von Mises stress in the tissue is significantly lower
+for the 90° case. The correlation between von Mises stress and strain indicates that strain in the
+brain tissue is decreased by the 90° implantation method, which is encouraging for the long-
+term health of the tissue surrounding the implant. For example, the ‘kill zone’ described by
+Hamzavi et al. is defined as regions with more than 5% strain [29]. Stress at the implantation
+angle 6 is compared numerically to the 90° case as per equations ((6.1)-(6.8)) adapted from
+Halabian et al. [30].
+
+F
+290° = 5, (61)

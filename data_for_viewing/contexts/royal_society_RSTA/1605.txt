@@ -1,0 +1,25 @@
+integral boundary conditions (BCs). For an introduction to non-local BCs, we refer the reader to
+the reviews [5-11] and the articles [12-14].
+The case n = 2 has been investigated in [1], where the authors studied the system
+
+1 2
+uj(t) = I, Ki(t, sfi(s, u1(8), un(s)) ds +S v(Hhyl (er, u2)], i= 1,2,
+
+j=l
+
+where the functionals hj; act on the space C[0, 1] x C[0, 1].
+
+We stress that functionals involving higher-order derivatives play an important role in
+applications. In order to illustrate this fact in a simple situation, consider the boundary value
+problem (BVP)
+
+u(t) =f(,u(b), (0) =h[u], u’”(0) = u(1) =u") = 0. (1.4)
+
+When h[u] = 0 the BVP (1.4) can be used to describe the steady-state case of a simply supported
+beam of length 1. When the functional h is non-trivial the BVP (1.4) can be used to model a beam
+with a feedback control; for example, the case
+
+Alu] = h(u'" (€)) (1.5)
+
+models a beam with the right end simply supported and where the displacement in the left end is
+controlled (possibly in a nonlinear manner) by a sensor that measures the shear force in a point &

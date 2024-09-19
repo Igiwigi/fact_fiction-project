@@ -1,0 +1,10 @@
+No.,Word,Total no. in window corpus,Expected collocate frequency,Observed collocate frequency,In no. of texts,Mutual Information value
+1,stylized,13,0.01,5,3,9.92
+2,despite,345,0.14,18,169,7.03
+3,reflects,136,0.05,5,91,6.53
+4,owing,525,0.21,8,189,5.26
+5,due,667,0.27,5,216,4.23
+6,many,2758,1.10,12,439,3.45
+7,system,5624,2.24,5,316,1.16
+8,change,6330,2.52,5,313,0.99
+9,et,13886,5.53,8,425,0.53

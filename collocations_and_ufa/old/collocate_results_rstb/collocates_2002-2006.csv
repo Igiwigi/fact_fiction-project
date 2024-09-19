@@ -1,9 +1,0 @@
-No.,Word,Total no. in window corpus,Expected collocate frequency,Observed collocate frequency,In no. of texts,Mutual Information value
-1,mountain,3,0.00,2,2,10.26
-2,almost,28,0.02,2,14,7.04
-3,specific,89,0.05,2,36,5.37
-4,may,283,0.15,2,45,3.70
-5,gene,316,0.17,2,26,3.55
-
-Total tokens in window,103279
-Total texts in window,72

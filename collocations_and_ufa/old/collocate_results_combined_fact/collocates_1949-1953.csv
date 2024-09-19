@@ -1,0 +1,11 @@
+No.,Word,Total no. in window corpus,Expected collocate frequency,Observed collocate frequency,In no. of texts,Mutual Information value
+1,spite,117,0.11,17,49,7.27
+2,borne,80,0.08,9,35,6.90
+3,confirmed,121,0.11,7,50,5.94
+4,supported,92,0.09,5,44,5.85
+5,concerning,164,0.15,8,50,5.69
+6,arises,247,0.23,12,64,5.69
+7,owing,317,0.30,11,79,5.20
+8,account,678,0.64,16,99,4.65
+9,view,1093,1.03,25,99,4.60
+10,suggests,236,0.22,5,75,4.49

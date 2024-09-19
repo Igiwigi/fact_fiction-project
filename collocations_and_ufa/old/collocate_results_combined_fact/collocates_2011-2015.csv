@@ -1,0 +1,11 @@
+No.,Word,Total no. in window corpus,Expected collocate frequency,Observed collocate frequency,In no. of texts,Mutual Information value
+1,trier,8,0.00,6,1,10.76
+2,compounded,51,0.02,6,44,8.09
+3,spite,246,0.11,17,153,7.32
+4,despite,2262,0.98,119,1065,6.93
+5,derives,136,0.06,6,107,6.68
+6,reflects,778,0.34,29,504,6.43
+7,virtue,142,0.06,5,96,6.35
+8,complicated,572,0.25,20,356,6.34
+9,attributable,178,0.08,6,130,6.29
+10,justified,159,0.07,5,96,6.19

@@ -1,0 +1,48 @@
+https://example.com/collocation-analysis There are 807014 different words in your collocation database for "fact". (Your query returned 377 matches in 106 different texts)
+__________________
+
+No.	Word	Total no. in whole corpus	Expected collocate frequency	Observed collocate frequency	In no. of texts	Mutual information value
+
+1	spite	70	0.08	10	36	6.88
+2	supported	97	0.12	9	43	6.26
+3	owing	309	0.37	25	71	6.06
+4	matter	249	0.30	16	74	5.73
+5	explain	90	0.11	5	40	5.52
+6	remarkable	159	0.19	8	60	5.38
+7	attention	181	0.22	7	63	5.00
+8	explained	140	0.17	5	53	4.88
+9	important	437	0.53	13	90	4.62
+10	beyond	211	0.26	6	63	4.56
+11	indicated	332	0.40	9	73	4.49
+12	due	1182	1.43	32	95	4.48
+13	actual	450	0.54	12	83	4.46
+14	experimental	445	0.54	9	56	4.06
+15	account	498	0.60	10	89	4.05
+16	view	882	1.07	14	83	3.71
+17	lie	574	0.69	7	68	3.33
+18	known	581	0.70	7	85	3.32
+19	shown	1545	1.87	15	100	3.00
+20	following	884	1.07	8	101	2.90
+21	new	690	0.83	6	82	2.85
+22	individual	617	0.75	5	59	2.74
+23	observed	1165	1.41	7	83	2.31
+24	however	1608	1.94	9	33	2.21
+25	possible	1157	1.40	6	100	2.10
+26	upon	1111	1.34	5	82	1.90
+27	would	2035	2.46	8	104	1.70
+28	line	2927	3.54	11	85	1.64
+29	method	1410	1.71	5	96	1.55
+30	series	3067	3.71	10	89	1.43
+31	point	2428	2.94	7	101	1.25
+32	show	1805	2.18	5	99	1.20
+33	small	2228	2.69	6	103	1.15
+34	found	2369	2.87	6	104	1.07
+35	may	3623	4.38	9	104	1.04
+36	also	2476	2.99	6	105	1.00
+37	number	2164	2.62	5	98	0.93
+38	found	2369	2.87	5	104	0.80
+39	case	3372	4.08	7	103	0.78
+40	point	2428	2.94	5	101	0.77
+41	form	2733	3.31	5	101	0.60
+42	value	4679	5.66	7	85	0.31
+43	fig	4919	5.95	5	11	-0.25

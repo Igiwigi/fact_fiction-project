@@ -1,0 +1,26 @@
+No.,Word,Total no. in window corpus,Expected collocate frequency,Observed collocate frequency,In no. of texts,Mutual Information value
+1,curious,83,0.10,10,42,6.61
+2,proved,164,0.20,9,58,5.48
+3,stated,248,0.30,11,78,5.17
+4,interesting,158,0.19,7,66,5.17
+5,remarkable,363,0.45,14,80,4.97
+6,additional,138,0.17,5,59,4.88
+7,explanation,178,0.22,6,62,4.78
+8,important,276,0.34,8,82,4.56
+9,new,503,0.62,9,89,3.86
+10,known,342,0.42,6,79,3.83
+11,already,526,0.65,8,93,3.63
+12,many,565,0.69,6,101,3.11
+13,described,672,0.83,7,92,3.08
+14,observed,926,1.14,9,109,2.98
+15,following,955,1.17,8,124,2.77
+16,general,751,0.92,6,108,2.70
+17,however,1051,1.29,7,89,2.44
+18,observed,926,1.14,6,109,2.40
+19,similar,805,0.99,5,116,2.34
+20,substance,1124,1.38,5,67,1.86
+21,also,1612,1.98,7,132,1.82
+22,found,1522,1.87,6,127,1.68
+23,first,1823,2.24,6,130,1.42
+24,may,3776,4.64,12,132,1.37
+25,experiment,2178,2.68,5,55,0.90

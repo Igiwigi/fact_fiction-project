@@ -1,0 +1,61 @@
+https://example.com/collocation-analysis
+There are 898960 different words in your collocation database for "fact". (Your query returned 499 matches in 129 different texts)
+__________________
+
+No.	Word	Total no. in whole corpus	Expected collocate frequency	Observed collocate frequency	In no. of texts	Mutual information value
+
+1	curious	43	0.06	5	29	6.47
+2	spite	78	0.10	7	36	6.10
+3	arises	103	0.13	8	44	5.89
+4	matter	412	0.54	26	75	5.59
+5	owing	382	0.50	23	95	5.52
+6	attention	185	0.24	11	79	5.51
+7	supported	123	0.16	7	53	5.44
+8	remarkable	209	0.27	11	67	5.33
+9	accordance	104	0.14	5	45	5.20
+10	explain	107	0.14	5	44	5.16
+11	due	1403	1.84	51	117	4.80
+12	explained	222	0.29	8	75	4.78
+13	depends	167	0.22	5	66	4.52
+14	brought	282	0.37	8	82	4.44
+15	bearing	183	0.24	5	50	4.38
+16	recorded	310	0.41	8	62	4.30
+17	lie	530	0.69	13	67	4.23
+18	view	827	1.08	20	98	4.21
+19	account	666	0.87	15	100	4.11
+20	interesting	237	0.31	5	82	4.01
+21	indicated	363	0.47	7	90	3.88
+22	important	391	0.51	6	94	3.55
+23	already	746	0.98	10	114	3.36
+24	together	450	0.59	5	96	3.09
+25	many	797	1.04	8	112	2.94
+26	follows	526	0.69	5	105	2.86
+27	appears	655	0.86	6	107	2.81
+28	following	1109	1.45	10	120	2.79
+29	latter	906	1.19	7	108	2.56
+30	even	889	1.16	6	111	2.37
+31	certain	796	1.04	5	113	2.26
+32	negative	840	1.10	5	64	2.19
+33	must	1184	1.55	7	120	2.18
+34	possible	872	1.14	5	117	2.13
+35	observed	1235	1.62	7	105	2.12
+36	shown	2040	2.67	11	123	2.04
+37	great	971	1.27	5	115	1.98
+38	however	1598	2.09	8	36	1.94
+39	also	2630	3.44	13	125	1.92
+40	hydrogen	1152	1.51	5	34	1.73
+41	case	3769	4.93	15	124	1.61
+42	shown	2040	2.67	8	123	1.58
+43	first	2448	3.20	9	125	1.49
+44	less	1432	1.87	5	118	1.42
+45	number	2317	3.03	8	123	1.40
+46	may	3505	4.59	12	125	1.39
+47	water	2101	2.75	7	84	1.35
+48	seen	1732	2.27	5	120	1.14
+49	value	3953	5.17	10	87	0.95
+50	point	2211	2.89	5	118	0.79
+51	number	2317	3.03	5	123	0.72
+52	result	2852	3.73	5	105	0.42
+53	cell	3523	4.61	6	38	0.38
+54	temperature	4247	5.56	6	75	0.11
+55	fig	5621	7.35	6	13	-0.29

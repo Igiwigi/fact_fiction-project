@@ -1,0 +1,61 @@
+https://example.com/collocation-analysis
+There are 933074 different words in your collocation database for "fact". (Your query returned 483 matches in 114 different texts)
+__________________
+
+No.	Word	Total no. in whole corpus	Expected collocate frequency	Observed collocate frequency	In no. of texts	Mutual information value
+
+1	spite	80	0.10	14	37	7.16
+2	supported	116	0.14	15	51	6.72
+3	attention	182	0.22	13	58	5.86
+4	matter	286	0.35	20	81	5.83
+5	significant	100	0.12	6	35	5.61
+6	owing	293	0.36	16	72	5.48
+7	regarding	99	0.12	5	33	5.36
+8	due	881	1.08	40	104	5.21
+9	confirmed	113	0.14	5	52	5.17
+10	explanation	252	0.31	9	69	4.86
+11	interesting	338	0.41	12	81	4.85
+12	remarkable	178	0.22	6	48	4.78
+13	view	842	1.03	27	99	4.71
+14	suggest	166	0.20	5	49	4.62
+15	brought	201	0.25	6	55	4.60
+16	explained	174	0.21	5	55	4.55
+17	none	186	0.23	5	58	4.45
+18	indicated	365	0.45	8	79	4.16
+19	lie	878	1.08	17	78	3.98
+20	important	416	0.51	8	84	3.97
+21	seem	263	0.32	5	75	3.95
+22	suggested	289	0.35	5	81	3.82
+23	account	700	0.86	12	100	3.80
+24	observed	830	1.02	14	86	3.78
+25	experimental	363	0.45	5	69	3.49
+26	known	774	0.95	10	104	3.40
+27	following	817	1.00	10	106	3.32
+28	ridge	409	0.50	5	18	3.32
+29	many	552	0.68	6	90	3.15
+30	considerable	460	0.56	5	95	3.15
+31	appears	752	0.92	8	97	3.12
+32	great	511	0.63	5	94	3.00
+33	although	655	0.80	6	90	2.90
+34	known	774	0.95	6	104	2.66
+35	already	690	0.85	5	96	2.56
+36	observed	830	1.02	6	86	2.56
+37	could	717	0.88	5	97	2.51
+38	observation	907	1.11	6	52	2.43
+39	corresponding	802	0.98	5	102	2.34
+40	group	1458	1.79	8	75	2.16
+41	shown	1588	1.95	8	107	2.04
+42	also	2510	3.08	12	113	1.96
+43	must	1290	1.58	6	104	1.92
+44	made	1612	1.98	6	112	1.60
+45	first	2262	2.78	8	111	1.53
+46	described	1454	1.78	5	99	1.49
+47	solution	1754	2.15	6	69	1.48
+48	may	3327	4.08	11	112	1.43
+49	point	2723	3.34	8	107	1.26
+50	development	1911	2.35	5	85	1.09
+51	case	2558	3.14	6	105	0.93
+52	found	2265	2.78	5	108	0.85
+53	found	2265	2.78	5	108	0.85
+54	cell	2976	3.65	6	33	0.72
+55	part	4042	4.96	7	112	0.50

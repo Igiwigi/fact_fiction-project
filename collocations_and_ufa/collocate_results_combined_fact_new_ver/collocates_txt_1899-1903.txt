@@ -1,0 +1,75 @@
+https://example.com/collocation-analysis
+There are 1119384 different words in your collocation database for "fact". (Your query returned 591 matches in 146 different texts)
+__________________
+
+No.	Word	Total no. in whole corpus	Expected collocate frequency	Observed collocate frequency	In no. of texts	Mutual information value
+
+1	curious	85	0.10	9	37	6.54
+2	notwithstanding	50	0.06	5	23	6.45
+3	struck	71	0.08	7	22	6.43
+4	significant	59	0.07	5	27	6.22
+5	matter	524	0.60	44	97	6.20
+6	spite	63	0.07	5	39	6.12
+7	arises	112	0.13	7	49	5.78
+8	attention	238	0.27	11	86	5.34
+9	interesting	310	0.35	14	94	5.31
+10	mere	111	0.13	5	52	5.30
+11	owing	489	0.56	16	99	4.84
+12	explanation	287	0.33	9	80	4.78
+13	remarkable	230	0.26	7	73	4.74
+14	proved	301	0.34	7	88	4.35
+15	due	1493	1.70	34	133	4.32
+16	view	767	0.87	17	99	4.28
+17	lie	543	0.62	12	83	4.28
+18	account	788	0.90	17	123	4.24
+19	important	537	0.61	11	113	4.17
+20	noted	269	0.31	5	69	4.03
+21	mentioned	286	0.33	5	73	3.94
+22	interest	310	0.35	5	90	3.82
+23	importance	336	0.38	5	82	3.71
+24	recorded	336	0.38	5	65	3.71
+25	observed	1098	1.25	13	119	3.38
+26	already	870	0.99	10	127	3.33
+27	actual	478	0.55	5	104	3.20
+28	follows	711	0.81	7	124	3.11
+29	seems	649	0.74	6	107	3.02
+30	observed	1098	1.25	10	119	3.00
+31	lead	624	0.71	5	91	2.81
+32	single	656	0.75	5	103	2.74
+33	almost	705	0.80	5	115	2.64
+34	known	846	0.97	6	121	2.64
+35	many	992	1.13	7	124	2.63
+36	described	1056	1.20	7	116	2.54
+37	shown	1773	2.02	11	139	2.44
+38	another	1019	1.16	6	131	2.37
+39	type	1074	1.23	6	76	2.29
+40	theory	1279	1.46	7	89	2.26
+41	certain	1087	1.24	5	132	2.01
+42	certain	1087	1.24	5	132	2.01
+43	group	1118	1.28	5	65	1.97
+44	however	1719	1.96	7	69	1.84
+45	theory	1279	1.46	5	89	1.78
+46	velocity	1294	1.48	5	46	1.76
+47	point	3772	4.30	14	139	1.70
+48	great	1516	1.73	5	128	1.53
+49	show	2306	2.63	7	134	1.41
+50	constant	1716	1.96	5	115	1.35
+51	also	2855	3.26	8	143	1.30
+52	found	3002	3.42	8	141	1.22
+53	found	3002	3.42	8	141	1.22
+54	taken	1877	2.14	5	137	1.22
+55	first	3136	3.58	8	142	1.16
+56	case	5250	5.99	13	141	1.12
+57	also	2855	3.26	7	143	1.10
+58	experiment	2981	3.40	7	78	1.04
+59	may	5114	5.83	12	142	1.04
+60	would	2599	2.96	6	140	1.02
+61	may	5114	5.83	11	142	0.91
+62	series	2389	2.73	5	130	0.88
+63	form	2913	3.32	6	137	0.85
+64	temperature	4060	4.63	8	87	0.79
+65	point	3772	4.30	6	139	0.48
+66	case	5250	5.99	8	141	0.42
+67	value	5260	6.00	8	116	0.41
+68	temperature	4060	4.63	6	87	0.37
+69	value	5260	6.00	5	116	-0.26

@@ -1,0 +1,38 @@
+https://example.com/collocation-analysis
+There are 29063 different words in your collocation database. (Your query returned 226 matches in 26 different texts)
+__________________
+
+No.	Word	Total no. in whole corpus	Expected collocate frequency	Observed collocate frequency	In no. of texts	Mutual information value
+
+1	established	100	0.12	5	42	5.38
+2	explained	106	0.13	5	45	5.29
+3	remarkable	266	0.32	12	61	5.23
+4	attention	223	0.27	9	69	5.07
+5	interesting	164	0.20	6	60	4.93
+6	interest	152	0.18	5	50	4.77
+7	mentioned	224	0.27	7	59	4.70
+8	partly	171	0.21	5	48	4.60
+9	important	309	0.37	9	70	4.60
+10	account	358	0.43	10	83	4.54
+11	owing	225	0.27	6	62	4.47
+12	due	641	0.77	13	84	4.07
+13	new	490	0.59	6	85	3.35
+14	known	411	0.49	5	76	3.34
+15	another	712	0.86	8	91	3.22
+16	equation	917	1.10	9	31	3.03
+17	observed	736	0.89	7	94	2.98
+18	observed	736	0.89	7	94	2.98
+19	however	1148	1.38	7	35	2.34
+20	described	1012	1.22	6	86	2.30
+21	case	2041	2.46	12	101	2.29
+22	similar	919	1.11	5	96	2.18
+23	point	1940	2.34	10	93	2.10
+24	great	1118	1.35	5	96	1.89
+25	upon	1397	1.68	6	95	1.84
+26	given	1247	1.50	5	108	1.74
+27	value	1266	1.52	5	69	1.71
+28	value	1266	1.52	5	69	1.71
+29	first	1964	2.36	7	111	1.57
+30	may	2833	3.41	8	111	1.23
+31	form	2144	2.58	6	95	1.22
+32	found	1827	2.20	5	107	1.19

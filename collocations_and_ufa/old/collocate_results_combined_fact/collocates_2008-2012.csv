@@ -1,11 +1,11 @@
 No.,Word,Total no. in window corpus,Expected collocate frequency,Observed collocate frequency,In no. of texts,Mutual Information value
-1,stylized,14,0.01,5,4,9.80
-2,compounded,22,0.01,5,20,9.15
-3,despite,618,0.25,29,286,6.87
-4,reflecting,128,0.05,5,90,6.61
-5,explained,276,0.11,6,164,5.76
+1,stylized,14,0.01,5,4,9.79
+2,compounded,22,0.01,5,20,9.14
+3,despite,618,0.25,29,286,6.86
+4,reflecting,128,0.05,5,90,6.60
+5,explained,276,0.11,6,164,5.75
 6,lie,251,0.10,5,78,5.63
-7,reflect,369,0.15,7,191,5.56
+7,reflect,369,0.15,7,191,5.55
 8,sheet,269,0.11,5,38,5.53
-9,owing,899,0.36,12,339,5.06
-10,matter,626,0.25,7,180,4.80
+9,owing,899,0.36,12,339,5.05
+10,matter,626,0.25,7,180,4.79

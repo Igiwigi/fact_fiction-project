@@ -1,0 +1,66 @@
+https://example.com/collocation-analysis
+There are 82604 different words in your collocation database. (Your query returned 526 matches in 42 different texts)
+__________________
+
+No.	Word	Total no. in whole corpus	Expected collocate frequency	Observed collocate frequency	In no. of texts	Mutual information value
+
+1	significant	34	0.05	7	16	7.26
+2	curious	73	0.10	11	33	6.81
+3	matter	451	0.61	27	72	5.47
+4	owing	357	0.48	19	92	5.30
+5	remarkable	181	0.24	9	65	5.21
+6	attention	177	0.24	8	77	5.07
+7	explained	213	0.29	9	67	4.97
+8	recorded	247	0.33	10	56	4.91
+9	due	1305	1.76	46	116	4.71
+10	partly	175	0.24	6	54	4.67
+11	interesting	218	0.29	7	72	4.57
+12	account	698	0.94	19	97	4.34
+13	brought	241	0.32	6	75	4.21
+14	lie	460	0.62	11	67	4.15
+15	agreement	241	0.32	5	62	3.94
+16	indicated	293	0.39	6	78	3.93
+17	together	440	0.59	8	89	3.75
+18	seems	551	0.74	8	93	3.43
+19	view	703	0.95	10	88	3.40
+20	already	710	0.96	9	112	3.23
+21	known	632	0.85	8	101	3.23
+22	regard	555	0.75	7	77	3.23
+23	young	411	0.55	5	31	3.17
+24	new	658	0.89	8	100	3.17
+25	low	471	0.63	5	70	2.98
+26	appears	627	0.84	6	102	2.83
+27	observed	1177	1.59	11	99	2.79
+28	follows	535	0.72	5	103	2.79
+29	observed	1177	1.59	11	99	2.79
+30	considerable	590	0.80	5	102	2.65
+31	shown	1656	2.23	13	118	2.54
+32	many	873	1.18	6	107	2.35
+33	certain	875	1.18	6	108	2.35
+34	latter	754	1.02	5	108	2.30
+35	maximum	787	1.06	5	78	2.24
+36	described	949	1.28	6	99	2.23
+37	great	1147	1.55	6	110	1.96
+38	first	2401	3.24	12	124	1.89
+39	following	1033	1.39	5	119	1.84
+40	even	1106	1.49	5	106	1.75
+41	case	3502	4.72	15	124	1.67
+42	shown	1656	2.23	7	118	1.65
+43	leaf	1395	1.88	5	19	1.41
+44	light	1974	2.66	7	81	1.40
+45	however	1436	1.94	5	42	1.37
+46	point	3103	4.18	10	113	1.26
+47	large	1570	2.12	5	116	1.24
+48	may	4103	5.53	13	124	1.23
+49	condition	1611	2.17	5	83	1.20
+50	also	2626	3.54	8	124	1.18
+51	found	2362	3.18	7	123	1.14
+52	value	4231	5.70	12	86	1.07
+53	cell	1995	2.69	5	33	0.90
+54	temperature	4020	5.42	8	67	0.56
+55	form	2560	3.45	5	115	0.54
+56	point	3103	4.18	6	113	0.52
+57	part	2629	3.54	5	120	0.50
+58	may	4103	5.53	6	124	0.12
+59	case	3502	4.72	5	124	0.08
+60	fig	4941	6.66	6	21	-0.15

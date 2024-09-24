@@ -1,0 +1,62 @@
+https://example.com/collocation-analysis
+There are 75957 different words in your collocation database. (Your query returned 524 matches in 43 different texts)
+__________________
+
+No.	Word	Total no. in whole corpus	Expected collocate frequency	Observed collocate frequency	In no. of texts	Mutual information value
+
+1	despite	23	0.02	5	14	7.72
+2	spite	118	0.12	16	53	7.04
+3	curious	65	0.07	8	27	6.90
+4	supported	141	0.14	14	60	6.59
+5	accounted	81	0.08	5	47	5.91
+6	complicated	130	0.13	8	66	5.90
+7	attention	204	0.21	12	92	5.84
+8	confirmed	148	0.15	8	62	5.72
+9	remarkable	187	0.19	10	60	5.70
+10	matter	360	0.37	15	85	5.34
+11	correlated	128	0.13	5	44	5.25
+12	owing	509	0.52	19	107	5.18
+13	interesting	351	0.36	13	96	5.17
+14	significant	204	0.21	7	54	5.06
+15	explanation	293	0.30	10	82	5.05
+16	due	1384	1.42	47	140	5.05
+17	view	1204	1.24	33	136	4.74
+18	apart	308	0.32	6	83	4.24
+19	lie	956	0.98	18	105	4.20
+20	following	886	0.91	12	138	3.72
+21	account	937	0.96	12	143	3.64
+22	colour	420	0.43	5	41	3.53
+23	already	868	0.89	10	129	3.49
+24	remains	531	0.55	6	111	3.46
+25	together	647	0.66	7	123	3.40
+26	considerable	562	0.58	6	121	3.38
+27	important	503	0.52	5	114	3.27
+28	almost	837	0.86	8	119	3.22
+29	known	1065	1.09	10	138	3.19
+30	experimental	687	0.71	6	103	3.09
+31	many	949	0.98	8	130	3.04
+32	seems	722	0.74	6	109	3.02
+33	ridge	602	0.62	5	20	3.01
+34	observed	1168	1.20	9	121	2.91
+35	evidence	905	0.93	5	110	2.43
+36	must	1654	1.70	9	143	2.40
+37	observation	1047	1.08	5	68	2.22
+38	made	2219	2.28	10	146	2.13
+39	certain	1139	1.17	5	135	2.09
+40	however	1841	1.89	8	42	2.08
+41	observed	1168	1.20	5	121	2.06
+42	shown	2337	2.40	10	145	2.06
+43	general	1441	1.48	6	136	2.02
+44	well	1288	1.32	5	138	1.92
+45	solution	1657	1.70	6	82	1.82
+46	show	2639	2.71	8	138	1.56
+47	may	5009	5.15	15	146	1.54
+48	first	3537	3.63	9	147	1.31
+49	specimen	2311	2.37	5	57	1.07
+50	case	2355	2.42	5	124	1.05
+51	also	3354	3.45	6	146	0.80
+52	surface	2965	3.05	5	113	0.71
+53	point	3082	3.17	5	134	0.66
+54	also	3354	3.45	5	146	0.54
+55	part	4826	4.96	7	146	0.50
+56	fig	7651	7.86	6	8	-0.39

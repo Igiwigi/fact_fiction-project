@@ -1,0 +1,62 @@
+https://example.com/collocation-analysis
+There are 95893 different words in your collocation database. (Your query returned 514 matches in 41 different texts)
+__________________
+
+No.	Word	Total no. in whole corpus	Expected collocate frequency	Observed collocate frequency	In no. of texts	Mutual information value
+
+1	curious	79	0.09	10	33	6.84
+2	spite	68	0.08	6	36	6.32
+3	struck	61	0.07	5	16	6.21
+4	matter	536	0.59	33	85	5.80
+5	remarkable	227	0.25	11	74	5.45
+6	attention	205	0.23	8	85	5.14
+7	owing	461	0.51	15	101	4.88
+8	due	1590	1.76	43	131	4.61
+9	account	851	0.94	23	116	4.61
+10	lie	508	0.56	13	77	4.53
+11	explained	238	0.26	6	76	4.51
+12	recorded	330	0.37	8	66	4.45
+13	interesting	249	0.28	6	84	4.44
+14	depends	217	0.24	5	75	4.38
+15	explanation	242	0.27	5	81	4.22
+16	agreement	309	0.34	5	68	3.87
+17	important	547	0.61	8	107	3.72
+18	view	757	0.84	9	102	3.42
+19	follows	630	0.70	7	117	3.33
+20	already	833	0.92	9	128	3.29
+21	observed	1235	1.37	13	115	3.25
+22	seems	613	0.68	6	108	3.14
+23	observed	1235	1.37	12	115	3.13
+24	together	519	0.58	5	105	3.12
+25	appears	743	0.82	7	120	3.09
+26	new	697	0.77	6	112	2.96
+27	considerable	623	0.69	5	116	2.86
+28	plant	835	0.93	6	23	2.70
+29	known	839	0.93	6	122	2.69
+30	latter	881	0.98	6	127	2.62
+31	shown	1651	1.83	11	136	2.59
+32	described	934	1.04	6	111	2.54
+33	another	887	0.98	5	128	2.35
+34	certain	994	1.10	5	125	2.18
+35	however	1611	1.79	8	58	2.16
+36	leaf	1282	1.42	6	19	2.08
+37	point	3460	3.83	16	133	2.06
+38	well	1208	1.34	5	136	1.90
+39	light	1737	1.92	7	89	1.86
+40	wire	1523	1.69	6	45	1.83
+41	first	2991	3.31	11	143	1.73
+42	case	4425	4.90	14	141	1.51
+43	value	5407	5.99	15	106	1.32
+44	found	2911	3.23	8	141	1.31
+45	also	2914	3.23	7	143	1.12
+46	experiment	3115	3.45	7	75	1.02
+47	may	4693	5.20	10	143	0.94
+48	form	2846	3.15	6	131	0.93
+49	point	3460	3.83	7	133	0.87
+50	may	4693	5.20	9	143	0.79
+51	case	4425	4.90	8	141	0.71
+52	found	2911	3.23	5	141	0.63
+53	temperature	5304	5.88	9	83	0.61
+54	line	3464	3.84	5	109	0.38
+55	temperature	5304	5.88	6	83	0.03
+56	fig	4585	5.08	5	32	-0.02

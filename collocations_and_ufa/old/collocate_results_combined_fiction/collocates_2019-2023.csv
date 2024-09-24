@@ -1,4 +1,4 @@
 No.,Word,Total no. in window corpus,Expected collocate frequency,Observed collocate frequency,In no. of texts,Mutual Information value
 1,familiarity,213,0.00,6,78,12.55
 2,fact,5033,0.02,11,1429,8.86
-3,science,15838,0.07,29,2405,8.61
+3,science,15838,0.07,29,2405,8.60

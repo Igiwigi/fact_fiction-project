@@ -1,0 +1,58 @@
+https://example.com/collocation-analysis
+There are 1250597 different words in your collocation database for "fact". (Your query returned 463 matches in 145 different texts)
+__________________
+
+No.	Word	Total no. in whole corpus	Expected collocate frequency	Observed collocate frequency	In no. of texts	Mutual information value
+
+1	despite	33	0.03	7	16	7.77
+2	spite	99	0.10	12	46	6.97
+3	curious	59	0.06	7	31	6.93
+4	supported	196	0.19	13	60	6.10
+5	complicated	134	0.13	8	65	5.94
+6	remarkable	178	0.17	9	62	5.70
+7	attention	200	0.19	10	90	5.69
+8	owing	454	0.44	21	106	5.58
+9	due	1299	1.26	49	138	5.28
+10	confirmed	156	0.15	5	64	5.05
+11	explanation	276	0.27	8	84	4.90
+12	interesting	352	0.34	9	94	4.72
+13	apart	281	0.27	7	80	4.68
+14	matter	333	0.32	8	80	4.63
+15	striking	210	0.20	5	65	4.62
+16	significant	221	0.21	5	59	4.54
+17	view	1347	1.31	29	132	4.47
+18	established	253	0.25	5	61	4.35
+19	arises	282	0.27	5	67	4.19
+20	account	1017	0.99	14	140	3.83
+21	expected	379	0.37	5	93	3.77
+22	mentioned	385	0.37	5	98	3.74
+23	lie	1290	1.25	15	101	3.58
+24	already	789	0.77	8	124	3.39
+25	experimental	608	0.59	6	88	3.35
+26	following	962	0.93	9	138	3.27
+27	together	685	0.66	6	123	3.17
+28	remains	612	0.59	5	104	3.07
+29	almost	915	0.89	7	120	2.98
+30	many	1212	1.18	9	128	2.94
+31	make	678	0.66	5	122	2.93
+32	far	959	0.93	7	127	2.91
+33	observed	1125	1.09	6	117	2.46
+34	shown	2391	2.32	12	142	2.37
+35	known	1024	0.99	5	134	2.33
+36	evidence	1042	1.01	5	106	2.31
+37	made	1992	1.93	9	144	2.22
+38	certain	1170	1.13	5	136	2.14
+39	however	1966	1.91	7	45	1.88
+40	must	1691	1.64	6	139	1.87
+41	show	2827	2.74	10	138	1.87
+42	would	1941	1.88	6	141	1.67
+43	case	2283	2.21	7	124	1.66
+44	function	1828	1.77	5	87	1.50
+45	may	5525	5.36	15	143	1.48
+46	found	3101	3.01	7	144	1.22
+47	large	2411	2.34	5	143	1.10
+48	sulcus	2943	2.85	6	9	1.07
+49	first	3573	3.47	7	145	1.01
+50	given	2577	2.50	5	142	1.00
+51	value	4891	4.74	6	112	0.34
+52	fig	8604	8.35	6	13	-0.48

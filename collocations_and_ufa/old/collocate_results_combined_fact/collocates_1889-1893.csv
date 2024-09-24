@@ -1,6 +1,6 @@
 No.,Word,Total no. in window corpus,Expected collocate frequency,Observed collocate frequency,In no. of texts,Mutual Information value
 1,arrange,44,0.05,5,29,6.59
-2,notwithstanding,47,0.06,5,22,6.50
+2,notwithstanding,47,0.06,5,22,6.49
 3,spite,55,0.06,5,23,6.27
 4,curious,70,0.08,5,31,5.92
 5,anatomical,98,0.12,6,16,5.70

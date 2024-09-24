@@ -1,11 +1,11 @@
 No.,Word,Total no. in window corpus,Expected collocate frequency,Observed collocate frequency,In no. of texts,Mutual Information value
-1,fiction,55,0.02,14,14,9.34
-2,stylized,41,0.02,5,27,8.28
+1,fiction,55,0.02,14,14,9.33
+2,stylized,41,0.02,5,27,8.27
 3,arithmetical,59,0.02,6,19,8.01
 4,notwithstanding,145,0.06,8,79,7.13
 5,exacerbated,190,0.07,10,155,7.06
-6,spite,351,0.14,18,248,7.03
-7,despite,4300,1.69,205,2068,6.92
-8,reflects,1331,0.52,50,870,6.58
+6,spite,351,0.14,18,248,7.02
+7,despite,4300,1.70,205,2068,6.92
+8,reflects,1331,0.52,50,870,6.57
 9,complicated,1015,0.40,35,611,6.45
-10,virtue,262,0.10,9,159,6.45
+10,virtue,262,0.10,9,159,6.44

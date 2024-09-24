@@ -1,0 +1,8 @@
+https://example.com/collocation-analysis
+There are 382 different words in your collocation database. (Your query returned 12 matches in 2 different texts)
+__________________
+
+No.	Word	Total no. in whole corpus	Expected collocate frequency	Observed collocate frequency	In no. of texts	Mutual information value
+
+1	respecting	107	0.06	6	37	6.56
+2	new	275	0.16	6	57	5.20

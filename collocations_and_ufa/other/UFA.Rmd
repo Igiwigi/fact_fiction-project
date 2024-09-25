@@ -1,0 +1,25 @@
+---
+title: "UFA Analysis"
+author: "Ingrid Backman"
+date: "2024-09-20"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+#(from lancaster)
+
+#Calculate Gwet's AC1; b...input data frame
+i = 1; v <- c(); while(i+1 < ncol(b)) {n=(gwet.ac1.raw(b[,i:(i+2)])[3]);v<- c(v, n); i= i+1; }
+
+#Prepare data frame
+h<-seq(from, to, by = 1); g<-data.frame(h,v)
+
+#Produce graph
+p<-ggplot(g, aes(x = g[,1], y =g[,2])) + xlim(from, to)+ scale_x_continuous(breaks = seq(from, to, by = 10)) + geom_point()  + xlab("Time") + ylab("AC1"); p + stat_smooth(method = "gam", formula = y ~ s(x, bs = "cr", fx=FALSE, k =10), size = 1, fill="#707070", level = 0.95 )+ stat_smooth(method = "gam", formula = y ~ s(x, bs = "cr", fx=FALSE, k =10), size = 1, fill="#FFFF00", level = 0.99)
+```
+
+

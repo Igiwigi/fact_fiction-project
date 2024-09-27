@@ -1,0 +1,67 @@
+https://example.com/collocation-analysis There are 1293259 different words in your collocation database for "fact". (Your query returned 528 matches in 153 different texts)
+__________________
+
+No.	Word	Total no. in whole corpus	Expected collocate frequency	Observed collocate frequency	In no. of texts	Mutual information value
+
+1	emerges	29	0.03	5	17	7.45
+2	despite	38	0.04	6	18	7.33
+3	curious	51	0.05	6	31	6.90
+4	spite	102	0.10	11	51	6.78
+5	supported	231	0.23	18	68	6.31
+6	complicated	143	0.14	9	62	6.00
+7	owing	494	0.49	28	102	5.85
+8	attention	185	0.18	10	81	5.78
+9	regarding	141	0.14	6	48	5.44
+10	striking	216	0.21	8	64	5.23
+11	due	1509	1.48	52	142	5.13
+12	remarkable	176	0.17	6	58	5.12
+13	significant	227	0.22	5	66	4.49
+14	view	1259	1.24	26	135	4.39
+15	account	1001	0.98	18	140	4.19
+16	important	561	0.55	10	118	4.18
+17	apart	351	0.35	6	85	4.12
+18	interesting	363	0.36	6	95	4.07
+19	experimental	521	0.51	6	79	3.55
+20	lie	1346	1.32	13	104	3.30
+21	remains	693	0.68	6	113	3.14
+22	chromosome	647	0.64	5	6	2.97
+23	following	1070	1.05	8	148	2.93
+24	many	1385	1.36	10	131	2.88
+25	far	987	0.97	7	132	2.85
+26	seems	855	0.84	6	114	2.83
+27	upon	714	0.70	5	96	2.83
+28	make	768	0.76	5	124	2.73
+29	already	900	0.89	5	131	2.50
+30	shown	2572	2.53	13	148	2.36
+31	appears	1019	1.00	5	136	2.32
+32	observed	1427	1.40	7	118	2.32
+33	new	1034	1.02	5	130	2.30
+34	made	2139	2.10	10	150	2.25
+35	although	1070	1.05	5	120	2.25
+36	known	1099	1.08	5	140	2.21
+37	whole	1350	1.33	6	135	2.18
+38	probably	1208	1.19	5	121	2.07
+39	certain	1220	1.20	5	139	2.06
+40	evidence	1317	1.30	5	104	1.95
+41	must	1894	1.86	7	145	1.91
+42	however	2218	2.18	8	46	1.87
+43	observed	1427	1.40	5	118	1.83
+44	found	3405	3.35	10	149	1.58
+45	point	2813	2.77	8	138	1.53
+46	would	2324	2.29	6	146	1.39
+47	case	3223	3.17	8	137	1.34
+48	sulcus	2486	2.45	6	5	1.30
+49	structure	2180	2.14	5	99	1.22
+50	may	5724	5.63	13	149	1.21
+51	large	2655	2.61	6	146	1.20
+52	function	2271	2.23	5	91	1.16
+53	first	3672	3.61	8	152	1.15
+54	time	2732	2.69	5	123	0.90
+55	surface	3438	3.38	6	114	0.83
+56	show	2963	2.91	5	143	0.78
+57	result	3006	2.96	5	135	0.76
+58	case	3223	3.17	5	137	0.66
+59	also	3589	3.53	5	151	0.50
+60	value	5837	5.74	7	120	0.29
+61	value	5837	5.74	7	120	0.29
+62	cell	6118	6.02	5	60	-0.27

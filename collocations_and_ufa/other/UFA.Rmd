@@ -1,25 +1,277 @@
 ---
-title: "UFA Analysis"
+title: "UFA Analysis for 'fact' Collocations (1665-2024)"
 author: "Ingrid Backman"
-date: "2024-09-20"
+date: "2024-09-26"
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = TRUE, warning = TRUE, message = TRUE)
 ```
 
+## Load Libraries
+
+```{r load-libraries}
+library(fs)
+library(tidyverse)
+library(irrCAC)
+```
+
+## Data Preparation
+
+```{r data-prep}
+# Read from directory
+data_dir <- "../collocate_results_combined_fact_10_window/"
+collocate_files <- fs::dir_ls(data_dir, regexp = "\\.txt$")
+
+# Function to process each file
+process_file <- function(file_path) {
+  year <- as.numeric(str_extract(basename(file_path), "\\d{4}"))
+  
+  lines <- readLines(file_path)
+  
+  if (length(grep("^\\d+\\s+\\w+", lines)) == 0) {
+    #message("No collocates found for year: ", year)
+    return(data.frame(word = character(), mi_score = numeric(), year = numeric()))
+  }
+  
+  collocates_data <- lines[grep("^\\d+\\s+\\w+", lines)]
+  
+  collocates <- lapply(collocates_data, function(line) {
+    parts <- strsplit(line, "\\s+")[[1]]
+    list(
+      word = parts[2],
+      mi_score = as.numeric(parts[7])
+    )
+  })
+  
+  df <- do.call(rbind, lapply(collocates, as.data.frame))
+  df$year <- year
+  
+  return(df)
+}
+
+all_data <- do.call(rbind, lapply(collocate_files, process_file))
+
+# Remove duplicates by keeping only the first occurrence of each word-year combination
+all_data <- all_data %>%
+  distinct(word, year, .keep_all = TRUE)
+
+spread_data <- all_data %>%
+  filter(mi_score >= 3) %>%  # Filter for MI score >= 3
+  mutate(present = 1) %>%
+  pivot_wider(names_from = year, values_from = present, values_fill = 0)
+
+write.table(spread_data, file = "fact_collocates.csv", sep="\t")
+
+#print(summary(spread_data))
+print(paste("Number of unique collocates:", nrow(spread_data)))
+print(paste("Number of time periods with data:", ncol(spread_data) - 1))
+```
+
+## Calculate Gwet's AC1
+
+```{r gwet-ac1}
+calculate_gwet_ac1 <- function(data) {
+  i <- 3  # Start from the first year column
+  v <- c()
+  years <- c()
+  while(i <= ncol(data) - 1) {
+    if (sum(colSums(data[,i:(i+1)]) > 0) >= 1) {
+      n <- gwet.ac1.raw(data[,i:(i+1)])$est$coeff.val
+      v <- c(v, n)
+      years <- c(years, as.numeric(colnames(data)[i]))
+    } else {
+      message("Skipping AC1 calculation for years ", colnames(data)[i], "-", colnames(data)[i+1], " due to insufficient data")
+    }
+    i <- i + 1
+  }
+  return(data.frame(year = years, ac1 = v))
+}
+
+
+g <- calculate_gwet_ac1(spread_data)
+
+# Check if we have any data to plot
+if(nrow(g) == 0) {
+  stop("No valid data for plotting. Check your input files and MI score threshold.")
+}
+```
+
+## Create Plot
+
+```{r create-plot}
+p <- ggplot(g, aes(x = year, y = ac1)) + 
+  geom_point() + 
+  scale_x_continuous(
+    breaks = sort(unique(c(seq(floor(min(g$year)), ceiling(max(g$year)), by = 20)))),
+    limits = c(1665, ceiling(max(g$year)))  # Set limits to start at 1665
+  ) +
+  xlab("Year") + 
+  ylab("AC1") + 
+  ggtitle("Usage Fluctuation Analysis for 'fact' Collocations (1665-2024) (10 year windows)")
+
+final_plot <- p + 
+  stat_smooth(method = "gam", 
+              formula = y ~ s(x, bs = "cr", fx = FALSE, k = 10), 
+              size = 1, fill = "#707070", level = 0.95) + 
+  stat_smooth(method = "gam", 
+              formula = y ~ s(x, bs = "cr", fx = FALSE, k = 10), 
+              size = 1, fill = "#FFFF00", level = 0.995) +
+  theme_minimal(base_size = 15) + 
+  theme(
+    panel.background = element_rect(fill = "white"),  
+    plot.background = element_rect(fill = "white"),
+    axis.text.x = element_text(angle = 45, hjust = 1),  # Adjust rotation for better readability
+    plot.title = element_text(margin = margin(b = 10)),
+    axis.title.x = element_text(margin = margin(t = 10)),
+    axis.title.y = element_text(margin = margin(r = 10))
+  )
+
+final_plot
+
+# Save the plot
+ggsave(
+  "../collocate_results_combined_fact_10_window/results/fact_collocations_ufa_1665_2024.png",
+  plot = final_plot,
+  width = 12,
+  height = 8,
+  units = "in",
+  dpi = 300
+)
+
+
+ggsave(
+  "fact_collocations_ufa_1665_2024_10_year.png",
+  plot = final_plot,
+  width = 12,
+  height = 8,
+  units = "in",
+  dpi = 300
+)
+
+```
+```{r fiction_years}
+fiction_years <- all_data %>%
+  filter(word == "fiction") %>%
+  pull(year)
+
+p <- ggplot(g, aes(x = year, y = ac1)) + 
+  geom_point() + 
+  scale_x_continuous(
+    breaks = sort(unique(c(seq(floor(min(g$year)), ceiling(max(g$year)), by = 20)))),
+    limits = c(1665, ceiling(max(g$year)))
+  ) +
+  xlab("Year") + 
+  ylab("AC1") + 
+  ggtitle("Usage Fluctuation Analysis for 'fact' Collocations (1665-2024) (10 year windows)")
+
+final_plot <- p + 
+     stat_smooth(method = "gam", 
+              formula = y ~ s(x, bs = "cr", fx = FALSE, k = 10), 
+              size = 1, fill = "#707070", level = 0.95) + 
+  stat_smooth(method = "gam", 
+              formula = y ~ s(x, bs = "cr", fx = FALSE, k = 10), 
+              size = 1, fill = "#FFFF00", level = 0.995) +
+  geom_point(data = g[g$year %in% fiction_years,], aes(x = year, y = ac1, color = "'fiction' as collocate"), size = 3) +
+  scale_color_manual(values = c("'fiction' as collocate" = "#FF6B6B")) +  # A softer red color
+  theme_minimal(base_size = 12) + 
+  theme(
+    panel.background = element_rect(fill = "white", color = "gray90"),
+    plot.background = element_rect(fill = "white"),
+    axis.text.x = element_text(angle = 45, hjust = 1),
+    plot.title = element_text(face = "bold", margin = margin(b = 10)),
+    axis.title.x = element_text(margin = margin(t = 10)),
+    axis.title.y = element_text(margin = margin(r = 10)),
+    legend.position = "bottom",
+    legend.title = element_blank(),
+    legend.background = element_rect(fill = "white", color = "gray90")
+  ) 
+final_plot
+
+# Save the plot
+ggsave(
+  "../collocate_results_combined_fact_10_window/results/fact_collocations_ufa_1665_2024_10_year_with_fiction.png",
+  plot = final_plot,
+  width = 12,
+  height = 8,
+  units = "in",
+  dpi = 300
+)
+
+ggsave(
+  "fact_collocations_ufa_1665_2024_10_year_with_fiction.png",
+  plot = final_plot,
+  width = 12,
+  height = 8,
+  units = "in",
+  dpi = 300
+)
+
+# Print the years where "fiction" appears as a collocate
+print(paste("Years with 'fiction' as a collocate:", paste(fiction_years, collapse = ", ")))
+```
 ```{r}
-#(from lancaster)
+fiction_years <- all_data %>%
+  filter(word == "fiction") %>%
+  pull(year)
 
-#Calculate Gwet's AC1; b...input data frame
-i = 1; v <- c(); while(i+1 < ncol(b)) {n=(gwet.ac1.raw(b[,i:(i+2)])[3]);v<- c(v, n); i= i+1; }
+p <- ggplot(g, aes(x = year, y = ac1)) + 
+    geom_point() + 
+  scale_x_continuous(
+    breaks = sort(unique(c(seq(floor(min(g$year)), ceiling(max(g$year)), by = 20)))),
+    limits = c(1665, ceiling(max(g$year)))
+  ) +
+  xlab("Year") + 
+  ylab("AC1") + 
+  ggtitle("Usage Fluctuation Analysis for 'fact' Collocations (1665-2024) (10 year windows)")
 
-#Prepare data frame
-h<-seq(from, to, by = 1); g<-data.frame(h,v)
+final_plot <- p + 
+    stat_smooth(method = "gam", 
+              formula = y ~ s(x, bs = "cr", fx = FALSE, k = 10), 
+              size = 1, fill = "#707070", level = 0.95) + 
+  stat_smooth(method = "gam", 
+              formula = y ~ s(x, bs = "cr", fx = FALSE, k = 10), 
+              size = 1, fill = "#FFFF00", level = 0.995) +
+  geom_point(data = g[g$year %in% fiction_years,], aes(x = year, y = ac1, color = "'fiction' as collocate"), size = 3) +
+  geom_text(data = g[g$year %in% fiction_years,], aes(x = year, y = ac1, label = year), 
+            hjust = -0.3, vjust = 0.5, size = 3, color = "black") +
+  scale_color_manual(values = c("'fiction' as collocate" = "#FF6B6B")) +
+  theme_minimal(base_size = 12) + 
+  theme(
+    panel.background = element_rect(fill = "white", color = "gray90"),
+    plot.background = element_rect(fill = "white"),
+    axis.text.x = element_text(angle = 45, hjust = 1),
+    plot.title = element_text(face = "bold", margin = margin(b = 10)),
+    axis.title.x = element_text(margin = margin(t = 10)),
+    axis.title.y = element_text(margin = margin(r = 10)),
+    legend.position = "bottom",
+    legend.title = element_blank(),
+    legend.background = element_rect(fill = "white", color = "gray90")
+  ) 
+final_plot
 
-#Produce graph
-p<-ggplot(g, aes(x = g[,1], y =g[,2])) + xlim(from, to)+ scale_x_continuous(breaks = seq(from, to, by = 10)) + geom_point()  + xlab("Time") + ylab("AC1"); p + stat_smooth(method = "gam", formula = y ~ s(x, bs = "cr", fx=FALSE, k =10), size = 1, fill="#707070", level = 0.95 )+ stat_smooth(method = "gam", formula = y ~ s(x, bs = "cr", fx=FALSE, k =10), size = 1, fill="#FFFF00", level = 0.99)
+# Save the plot
+ggsave(
+  "../collocate_results_combined_fact_10_window/results/fact_collocations_ufa_1665_2024_10_year_with_fiction_years.png",
+  plot = final_plot,
+  width = 12,
+  height = 8,
+  units = "in",
+  dpi = 300
+)
+
+ggsave(
+  "fact_collocations_ufa_1665_2024_10_year_with_fiction_years.png",
+  plot = final_plot,
+  width = 12,
+  height = 8,
+  units = "in",
+  dpi = 300
+)
+
+# Print the years where "fiction" appears as a collocate
+print(paste("Years with 'fiction' as a collocate:", paste(fiction_years, collapse = ", ")))
 ```
 
 

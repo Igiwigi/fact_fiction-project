@@ -115,7 +115,7 @@ p <- ggplot(g, aes(x = year, y = ac1)) +
   ) +
   xlab("Year") + 
   ylab("AC1") + 
-  ggtitle("Usage Fluctuation Analysis for 'fact' Collocations (1665-2024) (5 year windows)")
+  ggtitle("UFA for 'fact' Collocations (1665-2024) (5 year windows)")
 
 final_plot <- p + 
   stat_smooth(method = "gam", 

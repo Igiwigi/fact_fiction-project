@@ -20,11 +20,9 @@ library(irrCAC)
 ## Data Preparation
 
 ```{r data-prep}
-# Read from directory
 data_dir <- "../collocate_results_combined_fact_10_window/"
 collocate_files <- fs::dir_ls(data_dir, regexp = "\\.txt$")
 
-# Function to process each file
 process_file <- function(file_path) {
   year <- as.numeric(str_extract(basename(file_path), "\\d{4}"))
   
@@ -53,12 +51,12 @@ process_file <- function(file_path) {
 
 all_data <- do.call(rbind, lapply(collocate_files, process_file))
 
-# Remove duplicates by keeping only the first occurrence of each word-year combination
+#duplicate handling by keeping the first word/year combo (there are duplicates in the file!)
 all_data <- all_data %>%
   distinct(word, year, .keep_all = TRUE)
 
 spread_data <- all_data %>%
-  filter(mi_score >= 3) %>%  # Filter for MI score >= 3
+  filter(mi_score >= 3) %>%  #filter for mi as in the example
   mutate(present = 1) %>%
   pivot_wider(names_from = year, values_from = present, values_fill = 0)
 
@@ -73,7 +71,7 @@ print(paste("Number of time periods with data:", ncol(spread_data) - 1))
 
 ```{r gwet-ac1}
 calculate_gwet_ac1 <- function(data) {
-  i <- 3  # Start from the first year column
+  i <- 3  #start from the first (year) column, i = 3
   v <- c()
   years <- c()
   while(i <= ncol(data) - 1) {
@@ -92,7 +90,7 @@ calculate_gwet_ac1 <- function(data) {
 
 g <- calculate_gwet_ac1(spread_data)
 
-# Check if we have any data to plot
+
 if(nrow(g) == 0) {
   stop("No valid data for plotting. Check your input files and MI score threshold.")
 }
@@ -130,7 +128,6 @@ final_plot <- p +
 
 final_plot
 
-# Save the plot
 ggsave(
   "../collocate_results_combined_fact_10_window/results/fact_collocations_ufa_1665_2024.png",
   plot = final_plot,
@@ -189,7 +186,6 @@ final_plot <- p +
   ) 
 final_plot
 
-# Save the plot
 ggsave(
   "../collocate_results_combined_fact_10_window/results/fact_collocations_ufa_1665_2024_10_year_with_fiction.png",
   plot = final_plot,
@@ -208,7 +204,6 @@ ggsave(
   dpi = 300
 )
 
-# Print the years where "fiction" appears as a collocate
 print(paste("Years with 'fiction' as a collocate:", paste(fiction_years, collapse = ", ")))
 ```
 ```{r}
@@ -251,7 +246,6 @@ final_plot <- p +
   ) 
 final_plot
 
-# Save the plot
 ggsave(
   "../collocate_results_combined_fact_10_window/results/fact_collocations_ufa_1665_2024_10_year_with_fiction_years.png",
   plot = final_plot,
@@ -270,7 +264,6 @@ ggsave(
   dpi = 300
 )
 
-# Print the years where "fiction" appears as a collocate
 print(paste("Years with 'fiction' as a collocate:", paste(fiction_years, collapse = ", ")))
 ```
 

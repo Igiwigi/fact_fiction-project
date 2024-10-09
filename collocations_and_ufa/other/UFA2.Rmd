@@ -59,12 +59,12 @@ process_file <- function(file_path) {
 
 all_data <- do.call(rbind, lapply(collocate_files, process_file))
 
-# Remove duplicates by keeping only the first occurrence of each word-year combination
+#duplicate removal
 all_data <- all_data %>%
   distinct(word, year, .keep_all = TRUE)
 
 spread_data <- all_data %>%
-  filter(mi_score >= 3) %>%  # Filter for MI score >= 3
+  filter(mi_score >= 3) %>%  #mi score filter as in the original
   mutate(present = 1) %>%
   pivot_wider(names_from = year, values_from = present, values_fill = 0)
 

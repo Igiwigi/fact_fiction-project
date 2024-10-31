@@ -253,14 +253,14 @@ create_collocate_highlight_plot <- function(g, all_data, base_filename, highligh
 ```{r}
 #3 word windows, old
 results <- process_collocate_folder(
-  folder_path = "../collocate_results_1665-1958_fact_600-3",
+  folder_path = "../ccollocate_results_1665-1958_fact_500-3_w3",
   mi_score_threshold = 3,
   highlight_word = "fiction",
   output_dir = "collocate_results/3window"
 )
 
 results <- process_collocate_folder(
-  folder_path = "../collocate_results_1665-1958_facts_600-3",
+  folder_path = "../collocate_results_1665-1958_facts_500-5_w3",
   mi_score_threshold = 3,
   highlight_word = "fiction",
   output_dir = "collocate_results/3window"
@@ -268,14 +268,14 @@ results <- process_collocate_folder(
 
 #5 word windows, old
 results <- process_collocate_folder(
-  folder_path = "../collocate_results_1665-1958_fact_600-3_window5",
+  folder_path = "../collocate_results_1665-1958_fact_500-5_w5",
   mi_score_threshold = 3,
   highlight_word = "fiction",
   output_dir = "collocate_results/5window"
 )
 
 results <- process_collocate_folder(
-  folder_path = "../collocate_results_1665-1958_facts_600-3_window5",
+  folder_path = "../collocate_results_1665-1958_facts_500-5_w5",
   mi_score_threshold = 3,
   highlight_word = "fiction",
   output_dir = "collocate_results/5window"

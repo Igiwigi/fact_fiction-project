@@ -1,5 +1,5 @@
 ---
-title: "UFA2(5year)"
+title: "UFA2"
 author: "Ingrid Backman"
 date: "2024-09-26"
 output: html_document
@@ -73,18 +73,40 @@ process_collocate_folder <- function(folder_path,
 
 # Helper function to extract information from folder name
 extract_folder_info <- function(folder_path) {
-  folder_name <- basename(folder_path)
+  # Get the parent folder name instead of just the last directory
+  folder_name <- basename(dirname(folder_path))
   
-  # Extract years
-  years <- str_extract_all(folder_name, "\\d{4}")[[1]]
-  start_year <- years[1]
-  end_year <- years[2]
+  year_range <- str_extract(folder_name, "\\d{4}-\\d{4}")
   
-  #get the window size (for collocate)
-  window <- ifelse(grepl("window5", folder_name), "5", "3")
+  if (!is.na(year_range)) {
+    years <- strsplit(year_range, "-")[[1]]
+    start_year <- years[1]
+    end_year <- years[2]
+  } else {
+    warning("Could not find year range in folder name: ", folder_name)
+    start_year <- "UNKNOWN"
+    end_year <- "UNKNOWN"
+  }
   
-  # Extract other parameters if present (currently useless)
-  word_count <- str_extract(folder_name, "\\d+m-\\d+") # For patterns like "2m-20"
+  # Fixed window pattern to correctly extract the number after 'w'
+  window <- str_extract(folder_name, "w\\d")
+  if (is.na(window)) {
+    warning("Could not find window size in folder name: ", folder_name)
+    window <- "3"  # Default to 3 if not found
+  } else {
+    window <- substr(window, 2, 2)  # Extract just the number
+  }
+  
+  # Update word count extraction to handle both formats
+  word_count <- ifelse(
+    grepl("css", folder_name),
+    "css",
+    str_extract(folder_name, "\\d+[-_]\\d+")
+  )
+  
+  # Add some debugging output
+  message("Extracted from folder: ", folder_name)
+  message("Window size: ", window)
   
   return(list(
     start_year = start_year,
@@ -248,36 +270,52 @@ create_collocate_highlight_plot <- function(g, all_data, base_filename, highligh
   print(paste("Years with", highlight_word, "as a collocate:", paste(highlight_years, collapse = ", ")))
 }
 ```
-#this is kind of clumsy naming, can fix it later
+#this is kind of clumsy naming and calling, can fix it later
 #also some redundant variables etc
-```{r}
-#3 word windows, old
+```{r set_frequency_treshold_files}
+#3 word windows
 results <- process_collocate_folder(
-  folder_path = "../ccollocate_results_1665-1958_fact_500-3_w3",
-  mi_score_threshold = 3,
-  highlight_word = "fiction",
+  folder_path = "../fact_results/collocate_results_1665-1958_fact_500-3_w3/collocation_txt",
+  output_dir = "collocate_results/old/3window"
+)
+
+results <- process_collocate_folder(
+  folder_path = "../facts_results/collocate_results_1665-1958_facts_500-5_w3/collocation_txt",
+  output_dir = "collocate_results/old/3window"
+)
+
+#5 word windows
+results <- process_collocate_folder(
+  folder_path = "../fact_results/collocate_results_1665-1958_fact_500-5_w5/collocation_txt",
+  output_dir = "collocate_results/old/5window"
+)
+
+results <- process_collocate_folder(
+  folder_path = "../facts_results/collocate_results_1665-1958_facts_500-5_w5/collocation_txt",
+  output_dir = "collocate_results/old/5window"
+)
+```
+
+```{r minimum_subcorp_frequency_tresholds}
+#3 word windows
+results <- process_collocate_folder(
+  folder_path = "../fact_results/collocate_results_1665-1958_FACT_css_w3/collocation_txt",
   output_dir = "collocate_results/3window"
 )
 
 results <- process_collocate_folder(
-  folder_path = "../collocate_results_1665-1958_facts_500-5_w3",
-  mi_score_threshold = 3,
-  highlight_word = "fiction",
+  folder_path = "../facts_results/collocate_results_1665-1958_FACTS_css_w3/collocation_txt",
   output_dir = "collocate_results/3window"
 )
 
-#5 word windows, old
+#5 word windows
 results <- process_collocate_folder(
-  folder_path = "../collocate_results_1665-1958_fact_500-5_w5",
-  mi_score_threshold = 3,
-  highlight_word = "fiction",
+  folder_path = "../fact_results/collocate_results_1665-1958_FACT_css_w5/collocation_txt",
   output_dir = "collocate_results/5window"
 )
 
 results <- process_collocate_folder(
-  folder_path = "../collocate_results_1665-1958_facts_500-5_w5",
-  mi_score_threshold = 3,
-  highlight_word = "fiction",
+  folder_path = "../facts_results/collocate_results_1665-1958_FACTS_css_w5/collocation_txt",
   output_dir = "collocate_results/5window"
 )
 ```
@@ -287,20 +325,22 @@ results <- process_collocate_folder(
 #3L3R
 ```{r 3L3R}
 library(knitr)
-folder_to_ignore <- "5window" #only plotting 3 window
+
+folder_to_ignore <- c("5window", "old/5window", "old/3window")
 
 files <- list.files("collocate_results/", 
                     pattern = "_ufa\\.png$", 
                     full.names = TRUE, 
                     recursive = TRUE)
 
-files <- files[!grepl(paste0("/", folder_to_ignore, "/"), files)]
+files <- files[!grepl(paste(folder_to_ignore, collapse = "|"), files) & grepl("3window", files)]
 
 if (length(files) == 0) {
   print("No images found with '_ufa.png' in the filename.")
 } else {
   include_graphics(files)
 }
+
 
 
 
@@ -310,19 +350,25 @@ if (length(files) == 0) {
 ```{r 5L5R}
 library(knitr)
 
-folder_to_ignore <- "3window" #only plotting 5 window
+folder_to_ignore <- c("3window", "old/5window", "old/3window")
+
 files <- list.files("collocate_results/", 
                     pattern = "_ufa\\.png$", 
                     full.names = TRUE, 
                     recursive = TRUE)
 
-files <- files[!grepl(paste0("/", folder_to_ignore, "/"), files)]
+files <- files[!grepl(paste(folder_to_ignore, collapse = "|"), files) & grepl("5window", files)]
 
+# Check if there are files left, then plot or print a message
 if (length(files) == 0) {
   print("No images found with '_ufa.png' in the filename.")
 } else {
   include_graphics(files)
 }
+
+
+```
+```{r}
 
 ```
 

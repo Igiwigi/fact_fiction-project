@@ -1,0 +1,19 @@
+https://example.com/collocation-analysis
+There are 3163728 different words in your collocation database for "facts". (Your query returned 292 matches in 205 different texts)
+__________________
+
+No.	Word	Total no. in whole corpus	Expected collocate frequency	Observed collocate frequency	In no. of texts	Mutual information value
+
+1	concerning	206	0.01	11	61	8.96
+2	following	1500	0.08	11	193	6.09
+3	these	8373	0.45	34	204	5.24
+4	other	4897	0.26	10	203	4.25
+5	are	23494	1.26	18	205	2.83
+6	that	28629	1.54	18	205	2.55
+7	it	20573	1.11	8	205	1.86
+8	the	273098	14.67	86	205	1.55
+9	of	156123	8.39	32	205	0.93
+10	is	52577	2.83	9	205	0.67
+11	in	77422	4.16	10	205	0.27
+12	of	156123	8.39	20	205	0.25
+13	the	273098	14.67	25	205	-0.23

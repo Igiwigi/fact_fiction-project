@@ -6,6 +6,10 @@ output: html_document
 ---
 #add collocate window size to the UFA plot and clean the code so its not total dogwater
 
+#add a way to see all the collocates that made it in (3>=MI) for each year so i can read the contexts
+#maybe make a script that updates the contexts for each year and word (to omit the contexts the words of which didnt make it)(might also be smarter to do the filtering early)
+#maybe in folder "context_updated" or something
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
@@ -28,8 +32,8 @@ process_collocate_folder <- function(folder_path,
   # Create output directory if it doesn't exist
   dir.create(output_dir, showWarnings = FALSE, recursive = TRUE)
   
-  target_word <- ifelse(grepl("facts", folder_path), "facts", 
-                      ifelse(grepl("fact", folder_path), "fact", "unknown")) #could be part of the helper function, but w/e
+  target_word <- ifelse(grepl("FACTS", folder_path), "facts", 
+                      ifelse(grepl("FACT", folder_path), "fact", "unknown")) #could be part of the helper function, but w/e
   
   window = folder_info$window
   
@@ -272,50 +276,26 @@ create_collocate_highlight_plot <- function(g, all_data, base_filename, highligh
 ```
 #this is kind of clumsy naming and calling, can fix it later
 #also some redundant variables etc
-```{r set_frequency_treshold_files}
-#3 word windows
-results <- process_collocate_folder(
-  folder_path = "../fact_results/collocate_results_1665-1958_fact_500-3_w3/collocation_txt",
-  output_dir = "collocate_results/old/3window"
-)
-
-results <- process_collocate_folder(
-  folder_path = "../facts_results/collocate_results_1665-1958_facts_500-5_w3/collocation_txt",
-  output_dir = "collocate_results/old/3window"
-)
-
-#5 word windows
-results <- process_collocate_folder(
-  folder_path = "../fact_results/collocate_results_1665-1958_fact_500-5_w5/collocation_txt",
-  output_dir = "collocate_results/old/5window"
-)
-
-results <- process_collocate_folder(
-  folder_path = "../facts_results/collocate_results_1665-1958_facts_500-5_w5/collocation_txt",
-  output_dir = "collocate_results/old/5window"
-)
-```
-
 ```{r minimum_subcorp_frequency_tresholds}
 #3 word windows
 results <- process_collocate_folder(
-  folder_path = "../fact_results/collocate_results_1665-1958_FACT_css_w3/collocation_txt",
+  folder_path = "../collocation_results/FACT/collocate_results_1665-1958_FACT_css3_w3/collocation_txt",
   output_dir = "collocate_results/3window"
 )
 
 results <- process_collocate_folder(
-  folder_path = "../facts_results/collocate_results_1665-1958_FACTS_css_w3/collocation_txt",
+  folder_path = "../collocation_results/FACTS/collocate_results_1665-1958_FACTS_css1_w3/collocation_txt",
   output_dir = "collocate_results/3window"
 )
 
 #5 word windows
 results <- process_collocate_folder(
-  folder_path = "../fact_results/collocate_results_1665-1958_FACT_css_w5/collocation_txt",
+  folder_path = "../collocation_results/FACT/collocate_results_1665-1958_FACT_css3_w5/collocation_txt",
   output_dir = "collocate_results/5window"
 )
 
 results <- process_collocate_folder(
-  folder_path = "../facts_results/collocate_results_1665-1958_FACTS_css_w5/collocation_txt",
+  folder_path = "../collocation_results/FACTS/collocate_results_1665-1958_FACTS_css1_w5/collocation_txt",
   output_dir = "collocate_results/5window"
 )
 ```
@@ -368,7 +348,9 @@ if (length(files) == 0) {
 
 
 ```
-```{r}
-
+```{r collocate_word_lists}
+#a way to see all the collocates that made it in (3>=MI) for each year so i can read the contexts
+#maybe make a script that updates the contexts for each year and word (to omit the contexts the words of which didnt make it)(might also be smarter to do the filtering early)
+#maybe in folder context updated or something
 ```
 

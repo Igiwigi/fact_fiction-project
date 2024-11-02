@@ -1,0 +1,5 @@
+No.,Word,Total no. in window corpus,Expected collocate frequency,Observed collocate frequency,In no. of texts,Mutual Information value
+1,fimpliciorem,2,0.00,1,2,16.02
+2,cum,291,0.00,1,61,8.84
+3,per,312,0.00,1,87,8.74
+4,ad,521,0.00,1,114,8.00

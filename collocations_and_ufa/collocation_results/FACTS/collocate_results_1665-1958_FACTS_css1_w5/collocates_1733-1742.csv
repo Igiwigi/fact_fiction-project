@@ -1,0 +1,17 @@
+No.,Word,Total no. in window corpus,Expected collocate frequency,Observed collocate frequency,In no. of texts,Mutual Information value
+1,therein,58,0.00,2,27,9.74
+2,contained,78,0.00,2,43,9.32
+3,truth,96,0.00,2,40,9.02
+4,curious,151,0.00,2,72,8.36
+5,does,171,0.00,2,83,8.18
+6,how,258,0.00,2,112,7.59
+7,find,310,0.00,2,137,7.33
+8,many,496,0.00,2,193,6.65
+9,there,1352,0.01,4,293,6.20
+10,will,1634,0.02,2,262,4.93
+11,they,2062,0.02,2,294,4.59
+12,have,2067,0.02,2,327,4.59
+13,i,4790,0.05,2,419,3.38
+14,as,5537,0.06,2,419,3.17
+15,the,49614,0.50,5,476,1.33
+16,of,27390,0.28,2,472,0.86

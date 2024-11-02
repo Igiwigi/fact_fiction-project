@@ -1,0 +1,9 @@
+No.,Word,Total no. in window corpus,Expected collocate frequency,Observed collocate frequency,In no. of texts,Mutual Information value
+1,why,55,0.00,1,38,11.37
+2,proceed,83,0.00,1,47,10.77
+3,reason,217,0.00,1,98,9.39
+4,no,878,0.00,1,210,7.37
+5,one,1555,0.00,1,225,6.55
+6,not,2424,0.00,1,250,5.90
+7,from,3153,0.01,1,264,5.53
+8,the,35780,0.06,1,291,2.02

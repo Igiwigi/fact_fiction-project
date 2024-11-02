@@ -1,0 +1,53 @@
+https://example.com/collocation-analysis
+There are 945436 different words in your collocation database for "facts". (Your query returned 173 matches in 587 different texts)
+__________________
+
+No.	Word	Total no. in whole corpus	Expected collocate frequency	Observed collocate frequency	In no. of texts	Mutual information value
+
+1	undisguised	2	0.00	2	2	12.64
+2	representation	16	0.00	2	15	9.64
+3	communicate	90	0.00	2	62	7.15
+4	hitherto	148	0.01	2	92	6.43
+5	truth	177	0.01	2	62	6.17
+6	themselves	212	0.01	2	84	5.91
+7	know	260	0.01	2	121	5.62
+8	appeared	263	0.01	2	133	5.60
+9	wind	307	0.01	2	74	5.38
+10	among	336	0.01	2	144	5.25
+11	many	962	0.04	3	298	4.32
+12	these	2805	0.11	8	387	4.19
+13	such	1054	0.04	2	294	3.60
+14	s	1356	0.05	2	255	3.24
+15	have	4084	0.16	6	476	3.23
+16	those	1529	0.06	2	315	3.06
+17	my	1727	0.07	2	387	2.89
+18	they	3608	0.14	4	413	2.82
+19	two	2029	0.08	2	417	2.65
+20	are	4067	0.16	4	420	2.65
+21	which	9460	0.37	9	516	2.60
+22	we	2316	0.09	2	342	2.46
+23	been	2379	0.09	2	427	2.43
+24	i	7582	0.30	5	528	2.07
+25	he	3344	0.13	2	413	1.93
+26	was	7182	0.28	4	497	1.83
+27	as	8463	0.33	4	512	1.59
+28	from	6867	0.27	3	541	1.48
+29	but	4689	0.18	2	491	1.45
+30	that	11751	0.46	5	532	1.44
+31	not	4710	0.18	2	481	1.44
+32	this	7117	0.28	3	509	1.43
+33	by	8225	0.32	3	541	1.22
+34	or	5521	0.22	2	471	1.21
+35	the	72548	2.84	22	561	0.95
+36	from	6867	0.27	2	541	0.90
+37	in	20706	0.81	6	564	0.89
+38	be	7470	0.29	2	499	0.77
+39	of	42629	1.67	11	561	0.72
+40	to	20874	0.82	5	549	0.61
+41	and	25065	0.98	6	548	0.61
+42	as	8463	0.33	2	512	0.59
+43	is	9171	0.36	2	491	0.48
+44	it	10708	0.42	2	515	0.25
+45	to	20874	0.82	3	549	-0.12
+46	of	42629	1.67	3	561	-1.15
+47	the	72548	2.84	4	561	-1.51

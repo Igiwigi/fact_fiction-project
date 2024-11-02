@@ -1,0 +1,17 @@
+No.,Word,Total no. in window corpus,Expected collocate frequency,Observed collocate frequency,In no. of texts,Mutual Information value
+1,acquainted,18,0.00,1,13,11.72
+2,relation,42,0.00,1,24,10.49
+3,continued,96,0.00,1,59,9.30
+4,experiments,259,0.00,1,69,7.87
+5,you,386,0.00,1,112,7.29
+6,those,613,0.00,1,164,6.63
+7,upon,910,0.00,1,187,6.06
+8,two,976,0.00,1,207,5.95
+9,other,1058,0.00,1,196,5.84
+10,not,1856,0.01,1,234,5.03
+11,with,2703,0.01,1,255,4.49
+12,which,3963,0.02,1,262,3.93
+13,a,8146,0.03,1,346,2.89
+14,and,10750,0.04,1,297,2.49
+15,of,18383,0.08,1,306,1.72
+16,the,33601,0.14,1,303,0.85

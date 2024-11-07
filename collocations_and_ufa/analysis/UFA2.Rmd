@@ -4,9 +4,7 @@ author: "Ingrid Backman"
 date: "2024-09-26"
 output: html_document
 ---
-#add collocate window size to the UFA plot and clean the code so its not total dogwater
-
-#add a way to see all the collocates that made it in (3>=MI) for each year so i can read the contexts
+#add a way to see all the collocates that made it in (3>=MI) for each year so i can read the contexts (kinda done, there is a table)
 #maybe make a script that updates the contexts for each year and word (to omit the contexts the words of which didnt make it)(might also be smarter to do the filtering early)
 #maybe in folder "context_updated" or something
 
@@ -29,20 +27,16 @@ process_collocate_folder <- function(folder_path,
 
   folder_info <- extract_folder_info(folder_path)
   
-  # Create output directory if it doesn't exist
   dir.create(output_dir, showWarnings = FALSE, recursive = TRUE)
   
   target_word <- ifelse(grepl("FACTS", folder_path), "facts", 
-                      ifelse(grepl("FACT", folder_path), "fact", "unknown")) #could be part of the helper function, but w/e
+                      ifelse(grepl("FACT", folder_path), "fact", "unknown"))
   
   window = folder_info$window
   
-  
-  # Process the data
   all_data <- load_collocate_data(folder_path, mi_score_threshold)
   spread_data <- prepare_spread_data(all_data)
   
-  # Save the processed data
   output_file_base <- paste0(target_word, "_collocates_",
                             folder_info$start_year, "_",
                             folder_info$end_year,
@@ -53,7 +47,6 @@ process_collocate_folder <- function(folder_path,
   # Calculate Gwet's AC1
   g <- calculate_gwet_ac1(spread_data)
   
-  # Create plots
   create_ufa_plot(g, output_file_base, output_dir, target_word, window)
   
   # Create highlight plot if highlight_word is provided AND exists in the data (currently useless)
@@ -66,7 +59,6 @@ process_collocate_folder <- function(folder_path,
     }
   }
   
-  # Return the processed data and AC1 calculations
   return(list(
     all_data = all_data,
     spread_data = spread_data,
@@ -223,7 +215,7 @@ create_ufa_plot <- function(g, base_filename, output_dir = ".", target_word, win
   ggsave(output_file, plot = final_plot, width = 12, height = 8, units = "in", dpi = 300)
 }
 
-#for those that also have fiction as collocate
+#for those that also have fiction as collocate (useless for now)
 create_collocate_highlight_plot <- function(g, all_data, base_filename, highlight_word, output_dir = ".") {
   output_file <- file.path(output_dir, paste0(base_filename, "_with_", highlight_word, ".png"))
   
@@ -278,24 +270,24 @@ create_collocate_highlight_plot <- function(g, all_data, base_filename, highligh
 #also some redundant variables etc
 ```{r minimum_subcorp_frequency_tresholds}
 #3 word windows
-results <- process_collocate_folder(
+results1 <- process_collocate_folder(
   folder_path = "../collocation_results/FACT/collocate_results_1665-1958_FACT_css3_w3/collocation_txt",
   output_dir = "collocate_results/3window"
 )
 
-results <- process_collocate_folder(
-  folder_path = "../collocation_results/FACTS/collocate_results_1665-1958_FACTS_css1_w3/collocation_txt",
+results2 <- process_collocate_folder(
+  folder_path = "../collocation_results/FACTS/collocate_results_1665-1958_FACTS_css_w3/collocation_txt",
   output_dir = "collocate_results/3window"
 )
 
 #5 word windows
-results <- process_collocate_folder(
+results3 <- process_collocate_folder(
   folder_path = "../collocation_results/FACT/collocate_results_1665-1958_FACT_css3_w5/collocation_txt",
   output_dir = "collocate_results/5window"
 )
 
-results <- process_collocate_folder(
-  folder_path = "../collocation_results/FACTS/collocate_results_1665-1958_FACTS_css1_w5/collocation_txt",
+results4 <- process_collocate_folder(
+  folder_path = "../collocation_results/FACTS/collocate_results_1665-1958_FACTS_css_w5/collocation_txt",
   output_dir = "collocate_results/5window"
 )
 ```
@@ -349,8 +341,101 @@ if (length(files) == 0) {
 
 ```
 ```{r collocate_word_lists}
-#a way to see all the collocates that made it in (3>=MI) for each year so i can read the contexts
-#maybe make a script that updates the contexts for each year and word (to omit the contexts the words of which didnt make it)(might also be smarter to do the filtering early)
+#a way to see all the collocates that made it in (3>=MI) for each year so i can read the contexts (list them visually by year)
+#maybe make a script that fetches and then updates the contexts for each year and word (to omit the contexts the words of which didnt make it)(might also be smarter to do the filtering early)
 #maybe in folder context updated or something
+
+#fact_collocates_1665_19583.csv or load in these files and make sense of them
+```
+
+```{r}
+library(dplyr)
+library(tidyr)
+
+create_collocate_table <- function(results) {
+  collocate_table <- results$all_data %>%
+    arrange(year, desc(mi_score)) %>%
+    select(Year = year,
+           Collocate = word,
+           `MI Score` = mi_score) %>%
+    as_tibble()
+  
+  return(collocate_table)
+}
+
+#fact
+r1 = create_collocate_table(results1) #fact 3L3R
+r3= create_collocate_table(results3) #fact 5L5R
+
+#facts
+r2 = create_collocate_table(results2) #facts 3L3R
+r4 = create_collocate_table(results4) #facts 5L5R
+
+
+r1
+r3
+r2
+r4
+```
+
+```{r}
+#from claude, just for funsies (illustrates how few words are used for facts)
+library(dplyr)
+library(tidyr)
+library(ggplot2)
+
+# Function to count unique collocates per year for each dataset
+analyze_unique_collocates <- function(results_list, labels) {
+  # Create a list to store counts for each dataset
+  yearly_counts <- list()
+  
+  for(i in seq_along(results_list)) {
+    counts <- results_list[[i]] %>%
+      group_by(Year) %>%
+      summarize(unique_words = n_distinct(Collocate)) %>%
+      mutate(dataset = labels[i])
+    
+    yearly_counts[[i]] <- counts
+  }
+  
+  # Combine all counts
+  all_counts <- bind_rows(yearly_counts)
+  
+  # Create visualization
+  ggplot(all_counts, aes(x = Year, y = unique_words, color = dataset)) +
+    geom_line(size = 1) +
+    geom_point() +
+    theme_minimal() +
+    labs(title = "Unique Collocates Over Time",
+         subtitle = "Comparison across different window sizes",
+         y = "Number of Unique Collocates",
+         color = "Dataset") +
+    theme(legend.position = "bottom",
+          plot.title = element_text(face = "bold"),
+          axis.title = element_text(face = "bold"))
+}
+
+# Create list of your results
+results_list <- list(
+  create_collocate_table(results1),
+  create_collocate_table(results2),
+  create_collocate_table(results3),
+  create_collocate_table(results4)
+)
+
+# Labels for each dataset
+labels <- c("fact 3L3R", "facts 3L3R", "fact 5L5R", "facts 5L5R")
+
+# Generate the visualization
+analyze_unique_collocates(results_list, labels)
+
+# Print summary statistics
+for(i in seq_along(results_list)) {
+  cat("\nSummary for", labels[i], ":\n")
+  print(summary(results_list[[i]] %>% 
+                group_by(Year) %>% 
+                summarize(unique_words = n_distinct(Collocate)) %>%
+                pull(unique_words)))
+}
 ```
 

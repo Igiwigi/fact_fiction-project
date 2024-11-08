@@ -5,7 +5,7 @@ __________________
 No.	Word	Total no. in whole corpus	Expected collocate frequency	Observed collocate frequency	In no. of texts	Mutual information value
 
 1	matter	1681	0.85	69	179	5.35
-2	that	43146	21.76	1190	276	4.77
+2	that	43139	21.76	1190	276	4.77
 3	they	7189	3.63	55	274	2.92
 4	in	111135	56.06	632	277	2.50
 5	this	27230	13.73	145	276	2.40

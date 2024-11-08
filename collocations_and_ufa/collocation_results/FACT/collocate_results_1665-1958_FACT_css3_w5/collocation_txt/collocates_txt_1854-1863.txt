@@ -4,7 +4,7 @@ __________________
 
 No.	Word	Total no. in whole corpus	Expected collocate frequency	Observed collocate frequency	In no. of texts	Mutual information value
 
-1	that	27105	12.59	350	307	2.80
+1	that	27104	12.59	350	307	2.80
 2	this	15858	7.36	152	307	2.37
 3	in	73397	34.08	696	314	2.35
 4	if	5949	2.76	32	294	1.53
@@ -52,7 +52,7 @@ No.	Word	Total no. in whole corpus	Expected collocate frequency	Observed colloca
 46	be	25436	11.81	40	310	-0.24
 47	at	17118	7.95	26	309	-0.29
 48	as	23265	10.80	35	309	-0.30
-49	that	27105	12.59	39	307	-0.37
+49	that	27104	12.59	39	307	-0.37
 50	with	22221	10.32	28	311	-0.56
 51	with	22221	10.32	25	311	-0.72
 52	from	18844	8.75	21	311	-0.74

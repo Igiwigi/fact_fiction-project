@@ -6,7 +6,7 @@ No.	Word	Total no. in whole corpus	Expected collocate frequency	Observed colloca
 
 1	owing	802	0.37	48	168	5.01
 2	due	2318	1.08	84	235	4.28
-3	that	34985	16.30	1208	250	4.21
+3	that	34984	16.30	1208	250	4.21
 4	view	1882	0.88	46	226	3.71
 5	they	6951	3.24	53	241	2.03
 6	this	24482	11.40	169	250	1.89
@@ -50,6 +50,6 @@ No.	Word	Total no. in whole corpus	Expected collocate frequency	Observed colloca
 44	to	74543	34.72	93	251	-0.58
 45	of	214248	99.80	256	252	-0.64
 46	with	29653	13.81	32	250	-0.79
-47	that	34985	16.30	37	250	-0.82
+47	that	34984	16.30	37	250	-0.82
 48	as	28535	13.29	29	251	-0.87
 49	and	104894	48.86	67	252	-1.54

@@ -1,7 +1,7 @@
 No.,Word,Total no. in window corpus,Expected collocate frequency,Observed collocate frequency,In no. of texts,Mutual Information value
 1,attention,577,0.28,37,155,5.05
 2,matter,1692,0.82,69,168,4.39
-3,that,41711,20.22,1140,270,3.82
+3,that,41704,20.22,1140,270,3.82
 4,due,2924,1.42,76,234,3.74
 5,this,25786,12.50,186,270,1.90
 6,they,6955,3.37,46,267,1.77
@@ -46,5 +46,5 @@ No.,Word,Total no. in window corpus,Expected collocate frequency,Observed colloc
 45,to,86660,42.01,123,271,-0.45
 46,of,242086,117.36,331,272,-0.50
 47,on,32604,15.81,37,272,-0.77
-48,that,41711,20.22,42,270,-0.95
+48,that,41704,20.22,42,270,-0.95
 49,and,103100,49.98,51,272,-1.97

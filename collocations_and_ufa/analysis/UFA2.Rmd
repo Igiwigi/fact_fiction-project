@@ -276,7 +276,7 @@ results1 <- process_collocate_folder(
 )
 
 results2 <- process_collocate_folder(
-  folder_path = "../collocation_results/FACTS/collocate_results_1665-1958_FACTS_css_w3/collocation_txt",
+  folder_path = "../collocation_results/FACTS/collocate_results_1665-1958_FACTS_css3_w3/collocation_txt",
   output_dir = "collocate_results/3window"
 )
 
@@ -287,7 +287,7 @@ results3 <- process_collocate_folder(
 )
 
 results4 <- process_collocate_folder(
-  folder_path = "../collocation_results/FACTS/collocate_results_1665-1958_FACTS_css_w5/collocation_txt",
+  folder_path = "../collocation_results/FACTS/collocate_results_1665-1958_FACTS_css3_w5/collocation_txt",
   output_dir = "collocate_results/5window"
 )
 ```
@@ -340,13 +340,6 @@ if (length(files) == 0) {
 
 
 ```
-```{r collocate_word_lists}
-#a way to see all the collocates that made it in (3>=MI) for each year so i can read the contexts (list them visually by year)
-#maybe make a script that fetches and then updates the contexts for each year and word (to omit the contexts the words of which didnt make it)(might also be smarter to do the filtering early)
-#maybe in folder context updated or something
-
-#fact_collocates_1665_19583.csv or load in these files and make sense of them
-```
 
 ```{r}
 library(dplyr)
@@ -376,8 +369,16 @@ r1
 r3
 r2
 r4
+
+write.csv(r1, "collocate_results/dfs/fact3.csv")
+write.csv(r3, "collocate_results/dfs/fact5.csv")
+
+write.csv(r2, "collocate_results/dfs/facts3.csv")
+write.csv(r4, "collocate_results/dfs/facts5.csv")
 ```
 
+
+#PLOTTING, COULD BE SOMEWHERE ELSE
 ```{r}
 #from claude, just for funsies (illustrates how few words are used for facts)
 library(dplyr)
@@ -439,3 +440,182 @@ for(i in seq_along(results_list)) {
 }
 ```
 
+```{r}
+#from claude, just for funsies (illustrates how few words are used for facts)
+library(dplyr)
+library(tidyr)
+library(ggplot2)
+
+# Function to count unique collocates per year for each dataset
+analyze_unique_collocates <- function(results_list, labels) {
+  # Create a list to store counts for each dataset
+  yearly_counts <- list()
+  
+  for(i in seq_along(results_list)) {
+    counts <- results_list[[i]] %>%
+      group_by(Year) %>%
+      summarize(unique_words = n_distinct(Collocate)) %>%
+      mutate(dataset = labels[i])
+    
+    yearly_counts[[i]] <- counts
+  }
+  
+  # Combine all counts
+  all_counts <- bind_rows(yearly_counts)
+  
+  # Create visualization
+  ggplot(all_counts, aes(x = Year, y = unique_words, color = dataset)) +
+    geom_line(size = 1) +
+    geom_point() +
+    theme_minimal() +
+    labs(title = "Unique Collocates Over Time",
+         subtitle = "Comparison across different window sizes",
+         y = "Number of Unique Collocates",
+         color = "Dataset") +
+    theme(legend.position = "bottom",
+          plot.title = element_text(face = "bold"),
+          axis.title = element_text(face = "bold"))
+}
+
+# Create list of your results
+results_list <- list(
+  create_collocate_table(results1),
+  create_collocate_table(results2)
+)
+
+# Labels for each dataset
+labels <- c("fact 3L3R", "facts 3L3R")
+
+# Generate the visualization
+analyze_unique_collocates(results_list, labels)
+
+# Print summary statistics
+for(i in seq_along(results_list)) {
+  cat("\nSummary for", labels[i], ":\n")
+  print(summary(results_list[[i]] %>% 
+                group_by(Year) %>% 
+                summarize(unique_words = n_distinct(Collocate)) %>%
+                pull(unique_words)))
+}
+```
+
+```{r}
+library(ggplot2)
+library(dplyr)
+
+# Function for detailed visualization with MI scores
+create_detailed_collocate_plot <- function(data, 
+                                         target_word = "fact/facts", 
+                                         window_size = "3L3R",
+                                         save_plot = TRUE,
+                                         output_dir = "collocate_results") {
+  
+  # Create the plot
+  detailed_plot <- data %>%
+    arrange(year, desc(mi_score)) %>%
+    ggplot(aes(x = year, y = reorder(word, mi_score))) +
+    geom_point(aes(size = mi_score, color = mi_score)) +
+    scale_color_viridis_c(option = "plasma") +
+    scale_size_continuous(range = c(2, 6)) +
+    theme_minimal(base_size = 12) +
+    labs(
+      title = paste("Distribution of Collocates for '", target_word, "' Over Time (", window_size, ")", sep=""),
+      x = "Year",
+      y = "Collocate",
+      size = "MI Score",
+      color = "MI Score"
+    ) +
+    theme(
+      plot.title = element_text(size = 14, face = "bold"),
+      axis.text.y = element_text(size = 8),
+      legend.position = "right",
+      panel.grid.major = element_line(color = "gray90"),
+      panel.grid.minor = element_line(color = "gray95")
+    ) +
+    scale_x_continuous(
+      breaks = seq(min(data$year), 
+                  max(data$year), 
+                  by = 20)
+    )
+  
+  # Save the plot if requested
+  if(save_plot) {
+    filename <- file.path(output_dir, 
+                         paste0(target_word, "_collocate_distribution_", 
+                               window_size, ".png"))
+    ggsave(filename, detailed_plot, width = 15, height = 10, dpi = 300)
+  }
+  
+  return(detailed_plot)
+}
+
+# Function for simple timeline visualization
+create_simple_collocate_plot <- function(data, 
+                                       target_word = "fact/facts", 
+                                       window_size = "3L3R",
+                                       save_plot = TRUE,
+                                       output_dir = "collocate_results") {
+  
+  # Create the plot
+  simple_plot <- data %>%
+    ggplot(aes(x = year, y = word)) +
+    geom_point(color = "#2c7fb8", alpha = 0.7) +
+    theme_minimal(base_size = 12) +
+    labs(
+      title = paste("Timeline of Collocates for '", target_word, "' (", window_size, ")", sep=""),
+      x = "Year",
+      y = "Collocate"
+    ) +
+    theme(
+      plot.title = element_text(size = 14, face = "bold", margin = margin(b = 20)),
+      axis.text.y = element_text(size = 9),
+      panel.grid.major = element_line(color = "gray90"),
+      panel.grid.minor = element_line(color = "gray95"),
+      plot.margin = margin(1, 1, 1, 1, "cm")
+    ) +
+    scale_x_continuous(
+      breaks = seq(min(data$year), 
+                  max(data$year), 
+                  by = 20)
+    )
+  
+  # Save the plot if requested
+  if(save_plot) {
+    filename <- file.path(output_dir, 
+                         paste0(target_word, "_collocate_timeline_", 
+                               window_size, ".png"))
+    ggsave(filename, simple_plot, width = 12, height = 8, dpi = 300)
+  }
+  
+  return(simple_plot)
+}
+
+# Example usage for all your datasets:
+# For fact 3L3R
+p1_detailed <- create_detailed_collocate_plot(results1$all_data, "fact", "3L3R")
+p1_simple <- create_simple_collocate_plot(results1$all_data, "fact", "3L3R")
+
+# For facts 3L3R
+p2_detailed <- create_detailed_collocate_plot(results2$all_data, "facts", "3L3R")
+p2_simple <- create_simple_collocate_plot(results2$all_data, "facts", "3L3R")
+
+# For fact 5L5R
+p3_detailed <- create_detailed_collocate_plot(results3$all_data, "fact", "5L5R")
+p3_simple <- create_simple_collocate_plot(results3$all_data, "fact", "5L5R")
+
+# For facts 5L5R
+p4_detailed <- create_detailed_collocate_plot(results4$all_data, "facts", "5L5R")
+p4_simple <- create_simple_collocate_plot(results4$all_data, "facts", "5L5R")
+```
+
+
+```{r}
+# Display plots
+print(p1_detailed)
+print(p2_detailed)
+
+
+print(p3_detailed)
+print(p4_detailed)
+
+```

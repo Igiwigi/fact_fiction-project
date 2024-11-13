@@ -1,12 +1,10 @@
 ---
-title: "UFA2"
+title: "UFA&Visualizations"
 author: "Ingrid Backman"
 date: "2024-09-26"
 output: html_document
 ---
-#add a way to see all the collocates that made it in (3>=MI) for each year so i can read the contexts (kinda done, there is a table)
-#maybe make a script that updates the contexts for each year and word (to omit the contexts the words of which didnt make it)(might also be smarter to do the filtering early)
-#maybe in folder "context_updated" or something
+#UFA and some related collocate visualizations
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
@@ -294,8 +292,8 @@ results4 <- process_collocate_folder(
 
 #plotting the plots for easier visual comparison
 
-#3L3R
-```{r 3L3R}
+```{r}
+#3l3r
 library(knitr)
 
 folder_to_ignore <- c("5window", "old/5window", "old/3window")
@@ -314,14 +312,7 @@ if (length(files) == 0) {
 }
 
 
-
-
-```
-
-#5L5R
-```{r 5L5R}
-library(knitr)
-
+#5l5r
 folder_to_ignore <- c("3window", "old/5window", "old/3window")
 
 files <- list.files("collocate_results/", 
@@ -337,6 +328,7 @@ if (length(files) == 0) {
 } else {
   include_graphics(files)
 }
+
 
 
 ```
@@ -441,65 +433,6 @@ for(i in seq_along(results_list)) {
 ```
 
 ```{r}
-#from claude, just for funsies (illustrates how few words are used for facts)
-library(dplyr)
-library(tidyr)
-library(ggplot2)
-
-# Function to count unique collocates per year for each dataset
-analyze_unique_collocates <- function(results_list, labels) {
-  # Create a list to store counts for each dataset
-  yearly_counts <- list()
-  
-  for(i in seq_along(results_list)) {
-    counts <- results_list[[i]] %>%
-      group_by(Year) %>%
-      summarize(unique_words = n_distinct(Collocate)) %>%
-      mutate(dataset = labels[i])
-    
-    yearly_counts[[i]] <- counts
-  }
-  
-  # Combine all counts
-  all_counts <- bind_rows(yearly_counts)
-  
-  # Create visualization
-  ggplot(all_counts, aes(x = Year, y = unique_words, color = dataset)) +
-    geom_line(size = 1) +
-    geom_point() +
-    theme_minimal() +
-    labs(title = "Unique Collocates Over Time",
-         subtitle = "Comparison across different window sizes",
-         y = "Number of Unique Collocates",
-         color = "Dataset") +
-    theme(legend.position = "bottom",
-          plot.title = element_text(face = "bold"),
-          axis.title = element_text(face = "bold"))
-}
-
-# Create list of your results
-results_list <- list(
-  create_collocate_table(results1),
-  create_collocate_table(results2)
-)
-
-# Labels for each dataset
-labels <- c("fact 3L3R", "facts 3L3R")
-
-# Generate the visualization
-analyze_unique_collocates(results_list, labels)
-
-# Print summary statistics
-for(i in seq_along(results_list)) {
-  cat("\nSummary for", labels[i], ":\n")
-  print(summary(results_list[[i]] %>% 
-                group_by(Year) %>% 
-                summarize(unique_words = n_distinct(Collocate)) %>%
-                pull(unique_words)))
-}
-```
-
-```{r}
 library(ggplot2)
 library(dplyr)
 
@@ -509,6 +442,14 @@ create_detailed_collocate_plot <- function(data,
                                          window_size = "3L3R",
                                          save_plot = TRUE,
                                          output_dir = "collocate_results") {
+  # Define subdirectory based on window size
+  subdirectory <- ifelse(window_size == "3L3R", "3window", "5window")
+  output_path <- file.path(output_dir, subdirectory)
+  
+  # Ensure output directory exists
+  if (!dir.exists(output_path)) {
+    dir.create(output_path, recursive = TRUE)
+  }
   
   # Create the plot
   detailed_plot <- data %>%
@@ -517,7 +458,7 @@ create_detailed_collocate_plot <- function(data,
     geom_point(aes(size = mi_score, color = mi_score)) +
     scale_color_viridis_c(option = "plasma") +
     scale_size_continuous(range = c(2, 6)) +
-    theme_minimal(base_size = 12) +
+    theme_bw(base_size = 12) +  # Changed to theme_bw for white background
     labs(
       title = paste("Distribution of Collocates for '", target_word, "' Over Time (", window_size, ")", sep=""),
       x = "Year",
@@ -530,7 +471,8 @@ create_detailed_collocate_plot <- function(data,
       axis.text.y = element_text(size = 8),
       legend.position = "right",
       panel.grid.major = element_line(color = "gray90"),
-      panel.grid.minor = element_line(color = "gray95")
+      panel.grid.minor = element_line(color = "gray95"),
+      panel.background = element_rect(fill = "white", color = NA)  # Ensures background is white
     ) +
     scale_x_continuous(
       breaks = seq(min(data$year), 
@@ -540,7 +482,7 @@ create_detailed_collocate_plot <- function(data,
   
   # Save the plot if requested
   if(save_plot) {
-    filename <- file.path(output_dir, 
+    filename <- file.path(output_path, 
                          paste0(target_word, "_collocate_distribution_", 
                                window_size, ".png"))
     ggsave(filename, detailed_plot, width = 15, height = 10, dpi = 300)
@@ -553,14 +495,23 @@ create_detailed_collocate_plot <- function(data,
 create_simple_collocate_plot <- function(data, 
                                        target_word = "fact/facts", 
                                        window_size = "3L3R",
-                                       save_plot = TRUE,
+                                       save_plot = FALSE,
                                        output_dir = "collocate_results") {
+  
+  # Define subdirectory based on window size
+  subdirectory <- ifelse(window_size == "3L3R", "3window", "5window")
+  output_path <- file.path(output_dir, subdirectory)
+  
+  # Ensure output directory exists
+  if (!dir.exists(output_path)) {
+    dir.create(output_path, recursive = TRUE)
+  }
   
   # Create the plot
   simple_plot <- data %>%
     ggplot(aes(x = year, y = word)) +
     geom_point(color = "#2c7fb8", alpha = 0.7) +
-    theme_minimal(base_size = 12) +
+    theme_bw(base_size = 12) +  # Changed to theme_bw for white background
     labs(
       title = paste("Timeline of Collocates for '", target_word, "' (", window_size, ")", sep=""),
       x = "Year",
@@ -571,7 +522,8 @@ create_simple_collocate_plot <- function(data,
       axis.text.y = element_text(size = 9),
       panel.grid.major = element_line(color = "gray90"),
       panel.grid.minor = element_line(color = "gray95"),
-      plot.margin = margin(1, 1, 1, 1, "cm")
+      plot.margin = margin(1, 1, 1, 1, "cm"),
+      panel.background = element_rect(fill = "white", color = NA)  # Ensures background is white
     ) +
     scale_x_continuous(
       breaks = seq(min(data$year), 
@@ -581,7 +533,7 @@ create_simple_collocate_plot <- function(data,
   
   # Save the plot if requested
   if(save_plot) {
-    filename <- file.path(output_dir, 
+    filename <- file.path(output_path, 
                          paste0(target_word, "_collocate_timeline_", 
                                window_size, ".png"))
     ggsave(filename, simple_plot, width = 12, height = 8, dpi = 300)
@@ -606,16 +558,16 @@ p3_simple <- create_simple_collocate_plot(results3$all_data, "fact", "5L5R")
 # For facts 5L5R
 p4_detailed <- create_detailed_collocate_plot(results4$all_data, "facts", "5L5R")
 p4_simple <- create_simple_collocate_plot(results4$all_data, "facts", "5L5R")
+
 ```
 
 
 ```{r}
-# Display plots
 print(p1_detailed)
 print(p2_detailed)
-
-
+```
+```{r}
 print(p3_detailed)
 print(p4_detailed)
-
 ```
+

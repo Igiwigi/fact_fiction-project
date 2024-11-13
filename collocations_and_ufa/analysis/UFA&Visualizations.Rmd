@@ -337,9 +337,10 @@ if (length(files) == 0) {
 library(dplyr)
 library(tidyr)
 
-create_collocate_table <- function(results) {
+create_collocate_table <- function(results, target_word = "fact") {
   collocate_table <- results$all_data %>%
-    arrange(year, desc(mi_score)) %>%
+    filter(mi_score >= 3) %>%  # Filter for MI scores >= 3
+    arrange(year) %>%  # Sort by MI score first, then year
     select(Year = year,
            Collocate = word,
            `MI Score` = mi_score) %>%
@@ -451,8 +452,11 @@ create_detailed_collocate_plot <- function(data,
     dir.create(output_path, recursive = TRUE)
   }
   
+  filtered_data <- data %>%
+    filter(mi_score >= 3)
+  
   # Create the plot
-  detailed_plot <- data %>%
+  detailed_plot <- filtered_data %>%
     arrange(year, desc(mi_score)) %>%
     ggplot(aes(x = year, y = reorder(word, mi_score))) +
     geom_point(aes(size = mi_score, color = mi_score)) +
@@ -475,8 +479,8 @@ create_detailed_collocate_plot <- function(data,
       panel.background = element_rect(fill = "white", color = NA)  # Ensures background is white
     ) +
     scale_x_continuous(
-      breaks = seq(min(data$year), 
-                  max(data$year), 
+      breaks = seq(min(filtered_data$year), 
+                  max(filtered_data$year), 
                   by = 20)
     )
   
@@ -507,8 +511,12 @@ create_simple_collocate_plot <- function(data,
     dir.create(output_path, recursive = TRUE)
   }
   
+  filtered_data <- data %>%
+    filter(mi_score >= 3)
+  
+  
   # Create the plot
-  simple_plot <- data %>%
+  simple_plot <- filtered_data %>%
     ggplot(aes(x = year, y = word)) +
     geom_point(color = "#2c7fb8", alpha = 0.7) +
     theme_bw(base_size = 12) +  # Changed to theme_bw for white background
@@ -526,8 +534,8 @@ create_simple_collocate_plot <- function(data,
       panel.background = element_rect(fill = "white", color = NA)  # Ensures background is white
     ) +
     scale_x_continuous(
-      breaks = seq(min(data$year), 
-                  max(data$year), 
+      breaks = seq(min(filtered_data$year), 
+                  max(filtered_data$year), 
                   by = 20)
     )
   
@@ -569,5 +577,14 @@ print(p2_detailed)
 ```{r}
 print(p3_detailed)
 print(p4_detailed)
+```
+```{r}
+#find all unique words in word
+results1$all_data %>%
+  filter(mi_score >= 3) %>%
+  group_by(word) %>%
+  summarize(max_mi_score = max(mi_score)) %>%  # Get the highest MI score for each word
+  arrange(desc(max_mi_score)) %>%  # Sort by MI score in descending order
+  ungroup()
 ```
 

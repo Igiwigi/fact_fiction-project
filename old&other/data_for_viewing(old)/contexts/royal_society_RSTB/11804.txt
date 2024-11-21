@@ -1,0 +1,25 @@
+In the case of our empirical analysis, there is phylogenetic
+uncertainty associated with each of the three branch-length
+metrics. For the cladogram, a primary concern is missing
+taxa—while our phylogeny represents almost every
+described native plant species in California, it includes only
+California species, and many terminals represent multiple
+species. Both aspects will cause underestimation of
+cladogram PD, which could be biased if missing taxa are
+non-randomly distributed in space or on the phylogeny.
+Assuming phylogenetic clustering at broad spatial scales
+due to niche conservatism or dispersal limitation, the largest
+bias from excluding non-California species would be
+expected near the state borders; the fact that most areas
+with high diversification relative to survival time occurred
+near the state border runs counter to this expectation and
+suggests this issue may not be unduly influencing the results.
+Uncertainty in cladogram PD will decline as the extent and
+resolution of phylogenies continue to rapidly improve in
+future studies.
+
+For the phylogram, a relatively small number of lineages
+have notably long branches indicating rapid molecular
+change. While there is inevitable uncertainty in inferred mol-
+ecular branch lengths and their connection to functional
+traits, the qualitative observation that the lineages with the

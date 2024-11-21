@@ -1,0 +1,25 @@
+approach using a number of parametric sweeps to demonstrate the frequency elasticity and areal
+power resilience. Section 4 discusses the strengths and weaknesses of the proposed approach,
+and the ideas of the future improvements. Finally, §5 concludes the paper. [4
+
+2. Method =
+
+This section focuses on the design of the PWM-based perceptron, including the fundamental
+theories, the circuits of its constituent parts, methods of PWM-based arithmetic, leading to the
+construction of NNs. The design methods form the basis of extensive analysis supporting the
+validation of the perceptrons integrated in a NN.
+
+A perceptron capable of voltage and frequency elasticity may be constructed by exploiting
+the fact that relative temporal properties, such as a PWM’s duty cycle, are resilient to voltage
+and frequency variations. As the supply voltage reduces, any oscillatory activity, such as a clock
+signal, may show a reduced amplitude and reduced frequency. However, the ratio between the
+time within a period when the clock signal is high and the time within a period when the clock
+signal is low stays the same as both would increase at the same rate.
+
+Our method, therefore, is dedicated to finding ways of exploiting this fact by transferring
+computation from the digital domain, which is affected by voltage and frequency variations, to
+the relative temporal domain, which is not. This means making use of PWM-based techniques.
+
+(a) Principles of duty cycle to voltage conversion
+
+Figure 2 shows an inverter-based PWM to voltage converter, which produces an output voltage

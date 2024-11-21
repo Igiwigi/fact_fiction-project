@@ -1,0 +1,24 @@
+and
+uox(t) =~ OL, 0) +D), for x ¢ supp(oo)- (6.1b)
+
+Then, ux(x, t) remains bounded for all time for (x, t) ¢ supp(p).
+
+Remark 6.4. Condition (6.12) has two aspects. (i) Slow decay at infinity. Suppose ¢(r) * r~® as
+r— oo. The right-hand side is proportional to ri" Tf decays fast with a > 1, i.e. (H) is violated,
+the right-hand side goes to 0. The condition cannot be achieved unless ug is a constant. A slow
+decay assumption on ¢ is needed to make sure the condition is meaningful. (ii) Behaviour of
+V® near the origin. Take r = 0, the condition reads V~(0) < m@(D)/(All¢llwusx + 2\¢’(D))). This is
+equivalent to the thresholds of Vo in proposition 4.2, assuming V*(0) < Vo.
+
+As for condition (6.1b)—it is satisfied automatically for large |x|. As a matter of fact, when
+|x| > 09, (6.1b) says that u(x) 2 —|x|~*. This is a consequence of ug € L*(R) and the fact that
+a<l.
+
+Proof of lemma 6.3. Consider (x,t) ¢supp(p). It belongs to a characteristic starting from (xo, 0),
+where x9 ¢supp(po), as long as ux is bounded. At this point, we have d! = —d* — pd + Q, with
+p< [¢(L(, t) + D)m, m] and |Q| < V°(0)|¢'(L(@, £))|m.
+
+It is then sufficient to discuss the following majorant equation and use the comparison
+principle to draw the desired conclusion on d,
+
+o! = 0 — o(L(x,t) + D)mw — V(0)|6' (L(x, f)|m.

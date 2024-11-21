@@ -1,0 +1,25 @@
+is an integer.
+
+The total interaction energy W of one particle with all other molecules of the cluster is
+given by
+
+L 4nan ay"
+w=| w(r)n4ar-dr = Wa a3 f - (7) , (3.1)
+
+where d is the diameter of the particles and L is the size of the system. Note that the clustering
+coefficient C=1 is this case because each particle interacts with every other particle. If d/L«1
+and m > 3, large distance contributions to the interaction will disappear [53]. This makes possible
+the existence of intensive thermodynamic properties of condensed phases, which are independent
+of the size of the system L. Such systems are called weakly coupled, due to the fact that most of
+the energy of a particle comes from interactions between nearby neighbours.
+
+However, for d/L <1, m <3, the contributions from more distant particles will dominate over
+those of nearby ones [53]. In such cases (which are called strongly coupled systems), the size of
+the system matters, as occurs for gravitational forces where n = 1 and where distant planets, stars
+and galaxies are still strongly interacting with one another. Note that the boundary value m=3
+arises from the 3D nature of the space. This marginal class of systems whose interaction decays
+with an exponent equal to their dimensionality D (in other words, D = n1) will be discussed below
+in the context of microfluidic droplet clusters.
+
+The size of clusters is often of the same order of the diameters of the particles, namely
+d/L=1, and it follows from equation (3.1) that the size of the system must be taken into

@@ -1,0 +1,25 @@
+
+In many cases, stability results for Co-semigroups or their individual orbits are consequences
+of general Tauberian theorems for Laplace transforms. The latter often serve as an inspiration
+for the former, and in modern treatments both are recognized as being two sides of the same
+coin. Nowadays, the role of Tauberian theory in the theory of Co-semigroups is well understood.
+The relevant theory was developed in a number of papers, arguably starting with the seminal
+paper [64]. Later, in [65], a finer distributional approach was developed, which has recently been
+extended to include quantitative aspects; see [66-69]. A good introduction to modern Tauberian
+theory may be found in [70], while applications to operator semigroups are discussed thoroughly
+in [1].
+
+The following result is usually attributed to Ingham [71] and Karamata [72], although a version
+was in fact first discovered by Riesz [73, Satz II]. It is a classical Tauberian theorem which
+underpins just about all of what follows here; we refer to [53] for a short proof.
+
+Theorem 3.1. Let X be a Banach space and let f : Ry — X be a bounded and uniformly continuous
+function whose Laplace transform f admits a holomorphic extension to each point of iR. Then
+limi oo IIf (Il = 0.
+
+Theorem 3.1 is the starting point for numerous results in the asymptotic theory of Co-
+semigroups, and it has been generalized in various directions. It is natural in analysis, and also in
+Tauberian theory, to equip a convergence result with a rate whenever this is possible. In the case of
+Theorem 3.1, this can be done in a way which has a number of interesting consequences, not least
+for operator semigroups. Observe, however, that Theorem 3.1 is best possible in the sense that
+one cannot expect any rate of decay for f if no further assumptions are imposed on the growth

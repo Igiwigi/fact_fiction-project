@@ -1,0 +1,25 @@
+While the current study relies heavily on sensitivity experiments with a single, relatively
+coarse-resolution earth system model of intermediate complexity, future research will have to
+address and hopefully reduce the large uncertainties that remain about the degree of realism
+in the model description of these individual mechanisms that may have been responsible for
+
+
+observed changes in marine oxygen concentrations. The process that was found to generate
+the largest changes in simulated oxygen trends was variability in the wind forcing, including
+forcing prior to the observational period. Better observational constraints on winds before the
+1960s will help to yield more robust simulations of oxygen changes during the 50 years between
+1960 and 2010. Information contained, for example, in ship logbooks, re-analyses combining
+historical pressure data and dynamical models, and proxy information may all help to improve
+the historical wind products. The fact that current models do not seem to be able to reproduce
+the patterns of thermocline oxygen changes that have been identified by decades of high-quality
+oxygen observations is a scientific challenge that has to be resolved in order to raise confidence
+in our models’ reliability when it comes to simulating the response, and possible feedbacks, of
+biogeochemical cycles to expected future environmental change.
+
+Data accessibility. CMIP5 model data have been obtained from the Earth System Grid Federation (ESGF) CMIP5 as)
+
+repository (e.g. http://cmip-pemdi-lInl.gov /cmip5/data_portal.html) and have been accessed in February =
+2014. All own model output reported in this article is available via http: / /thredds.geomar.de. Sy
+Authors’ contributions. A.O. conceived the study and drafted the manuscript. S.S. analysed the historical oxygen : 2
+data; W.K. analyzed and resampled the CMIP5 modelled oxygen fields; J.G. and A.L. ran UVic model Dy
+simulations; O.D. ran NEMO simulations. All authors contributed to the analysis, discussion and writing : _

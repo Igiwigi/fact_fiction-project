@@ -1,0 +1,25 @@
+OpenFOAM® uses the finite-volume method on unstructured meshes [23,24]. OpenFOAM®
+includes pre-processing and post-processing capabilities such as snappyHexMesh and ParaFoam
+for meshing and visualization, respectively. We also used other open-source software that
+provides pre-processing and post-processing tools for CFD such as Salome and ParaView. Salome
+(v. 7.3.0) was mainly used to build the geometry of the different models, and ParaView (v. 4.1.0)
+to display some of the images.
+
+(b) Flow domain
+
+The real flow domain is a catheter along with the lateral ventricle in which the catheter is
+placed. However, our goal is just to compute the flow rate distribution and shear stress in a
+neighbourhood of the VC walls, so the influence that the geometry and volume of the ventricle
+might have on the results is negligible. In view of this fact, the lateral ventricle was modelled
+as a cylinder (figure 1) to facilitate the task of meshing and thus improving the accuracy and
+computational efficiency. The cylinder is 75mm long and its diameter is 16mm. The inner
+diameter and outer diameter of the catheter are 1.5mm and 2.5mm, respectively, and the part
+of the catheter inside the cylinder has a length of 60mm. The configuration and dimensions of
+the VC holes are the same in all models; they are given in figure 2. In particular, the VC has eight
+drainage segments, numbered 1-8 from the distal to the proximal segment, along a perforated
+area whose length is 14mm. Unless otherwise stated, holes are conical and, furthermore, all the
+holes belonging to the same segment have the same internal and external diameters (figures 1
+and 2). For the purposes of this study, their geometric features were adjusted following the design
+principles established in [14,15], to obtain an approximately uniform flow rate distribution. The
+assumption that both the cylinder and the catheter are rigid and straight is a natural simplification
+that implies no significant differences in the results.

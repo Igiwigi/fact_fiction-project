@@ -1,0 +1,25 @@
+additional ones). Similarly, we underline that the aforementioned fitting procedure only relies on
+the fitting of the dispersion curves at 0° and 45°, since, given the tetragonal symmetry class of
+the constitutive tensors used, these two independent directions are sufficient to determine all the
+parameters and automatically cover all the other directions. These properties (self-given fitting of
+the imaginary part and of the intermediate directions) give further standing to our modelling
+approach, since, to the authors’ knowledge, no model correctly describing metamaterials’
+behaviours for all possible directions and for a wide range of frequencies can be found in the
+literature.
+
+Finally, we remark that figure 2 also explicitly indicates a pressure /shear decomposition of the
+propagating relaxed micromorphic waves. This decomposition is obtained by writing equation
+(2.3) in a reference system aligned with the direction of propagation considered (0° and 45°,
+respectively). In fact, given the correct choice of the reference system, equation (2.3) give rise
+to two sets of uncoupled PDEs that can be interpreted as pressure and shear waves. Given
+the chosen class of symmetry (tetragonal), this uncoupling is only possible for the 0° and 45°
+direction, while waves are coupled when considering intermediate directions. This means that
+an analogous distinction between shear and pressure waves cannot be done for intermediate
+directions.
+
+3. Design of an acoustic shield
+
+We present here a comparison between the finite-element modelling of the response of a structure
+(figure 3) built out from the metamaterial composed from the unit cell in figure 1 and the
+same structure made up of its homogeneous equivalent relaxed micromorphic continuum whose
+parameters are reported in table 1. We consider different values of the frequency and of the

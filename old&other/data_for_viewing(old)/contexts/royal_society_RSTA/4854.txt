@@ -1,0 +1,25 @@
+the page. More formally, if we implement this idea for the momenta (p1,p2 -.. pn), we are led to
+define a polygon in four-space, with vertices at x;, where p; = x; — x;-1. We may consider x, = xo
+as chosen arbitrarily, and then all the other x; are determined. Functions of the p; can be translated
+into functions of the x;, and clearly must have the property of being invariant under x; > x; + ¢,
+where c is any constant four-vector. If the functions of the p; depend only on sums of consecutive
+Pi, we can say more than this. The corresponding function of the x; can depend only on vectors of
+form x; — xj.
+
+
+The property of dual conformal symmetry is that if a colour-stripped amplitude is written in
+this way, it is invariant not only under the translation x; > x; + c, but also under any conformal
+transformation of the x-space. In 2008, this was shown to be valid at least up to one loop in
+N=4 planar gauge theory [20]. It is of course immediate from this fact that twistor variables can
+be used to render these functions manifestly dual-conformally invariant. In 2009, the concept of
+momentum-twistor variables was introduced [21], to perform this function, and they have since
+then been widely adopted for this purpose.
+
+8. Polytopes and the amplituhedron
+
+The introduction of momentum twistor variables immediately indicated a new and useful
+structure governing the tree-level amplitudes for gauge theory. At the simplest level, of MHV
+
+amplitudes, there is nothing new to say. The next simplest level is that of the NMHV amplitudes. : =
+A process in which three negative helicity gluons interact and produce (n — 3) negative gluons is : Sy
+an NMHV process, along with all its crossing-related versions. For such amplitudes, momentum- a

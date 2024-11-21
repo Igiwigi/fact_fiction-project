@@ -1,0 +1,25 @@
+owing to quantum effects, and between descriptions of elastic scattering, momentum transfer
+and viscosity. As mentioned by these authors, this work can be improved including the effects of
+inelastic collisions.
+
+Figure 1 shows the ohmic diffusion, Hall term and ambipolar diffusion where Osterbrock
+[134] was used to calculate the ion-neutral collision frequency. The simulation is 2.5D and
+ranges from the upper convection zone to the lower corona including radiative transfer with
+scattering from the photosphere to the corona [138,139], thermal conduction along the magnetic
+field lines and partial ionization effects using the Bifrost code (see [96] and references therein).
+The initial magnetic field is unipolar with a mean unsigned field strength of 5 G in the corona.
+The convective motions build enough magnetic field stress to self-consistently maintain the hot
+corona [6,7,10,15,140]. Note that the magnetic field is vertical in the corona (figure 1a), and
+despite the fact that our simulations do not include imposed flux emergence, the dynamics in the
+simulation and the convective motions accumulate horizontal magnetic field in the sub-adiabatic
+photosphere. As mentioned above, this horizontal field will in principle be constrained to the
+sub-adiabatic photosphere [85,86]. In addition, magnetic field footpoints will move around. Note
+that these simulations naturally reproduce several of the energy generating drivers discussed in
+§2. Moreover, the energy flux through the atmosphere will be modified by the physical processes
+considered in the model as it propagates upwards towards the corona as mentioned above (see
+[96] and compare with §3).
+
+
+Ix1ot 2x 107 3x 10° 6x 108 1x10"
+6 = =
+fa)

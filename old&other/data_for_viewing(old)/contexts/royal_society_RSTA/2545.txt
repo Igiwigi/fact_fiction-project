@@ -1,0 +1,24 @@
+and expect it to break, we are used to turning off and back on again our personal computers
+if they show unexpected behaviour, and we just shrug at news about the latest ‘software bug’
+that has been exploited by criminals or has caused some major damage. A few decades ago
+such a ‘computer bug’ might have just been a little annoyance, and even today, a crash of a
+word processor or a media player is not a life-threatening problem. But now essentially the
+same devices that run our email-client are built into cars, aeroplanes, hospital equipment, nuclear
+power plants, etc. All of the sudden, our life depends on software that we do not trust. We connect
+computers with faulty software to the Internet and send confidential messages over channels
+where the slightest leak will immediately be exploited. And the situation will only get worse.
+Soon we will connect our heating, our oven and our fridge to the Internet, to be accessed from a
+distance via software on our phone that we do not trust. What could possibly go wrong?
+
+Maybe the most embarrassing fact about computer science is that software companies do not
+have to take legal liability for the software they ship. This is very different from car manufacturers
+who have to take legal liability for the cars they make, or building companies who have to take
+legal liability for the buildings and bridges they build. Is it really so much harder to make correctly
+functioning software than to make correctly functioning cars? Both are engineering problems,
+but in the case of cars, we have a clear understanding of the underlying scientific principles, we
+know the laws of classical mechanics and thermodynamics. But in the case of software, we only
+havea very rudimentary knowledge of the underlying science. A computer program is built from
+algorithms, but we understand what an algorithm is as much as we understand what a proof is.
+We know one when we see one, but we have no idea of what it means for two algorithms to be the
+same. Hilbert’s question can be reformulated in terms of algorithms: What is the simplest algorithm
+for a given problem?

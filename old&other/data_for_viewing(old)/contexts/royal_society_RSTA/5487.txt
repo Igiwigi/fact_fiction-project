@@ -1,0 +1,25 @@
+boundary surfaces of a shell-like domain. The fat triangulation is used to
+reconstruct a smooth fat surface, whose bounding surfaces approximate JT, and
+T,, respectively. Additional intermediate surfaces, interpolating between the two
+boundary surfaces, may also be generated.
+
+Matched pairs of surface triangulations can be obtained via several methods,
+including close isocontours of volume data and point clouds. Even a single
+triangulation T suffices, if endowed with a set of normals, attached to either the
+vertices, the edges or the faces of T. These modelling techniques may contribute
+greatly to the generation of multiscale detailed meshes, driven by structural data
+from high-resolution tomography. Owing to the large size of these data, also
+mesh coarsening through surface and volumetric simplification methods is
+an important capability. In fact, the effectiveness of adaptive computational
+techniques rests on fast and robust low-level mesh primitives, including Boolean
+operators, for both refinement and coarsening.
+
+Bajaj et al. (2008) have recently introduced a simple and robust method to
+trace the intersection curves between triangular or quadrilateral prismatic
+A-patches, while refining the support triangulation where needed. Their
+prototype implementation provides for the computation of Boolean operations
+between proteins (figure 5), offering a simple way of estimating the docking
+quality of very complex shapes. Further work is required to optimize the
+prototype software.
+
+(e) Concurrent and distributed computation

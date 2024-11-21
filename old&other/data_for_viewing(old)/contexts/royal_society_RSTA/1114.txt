@@ -1,0 +1,25 @@
+coefficients p can be obtained as p = DM™1.
+
+We apply the two methods to a single FHN oscillator that receives 400 random impulses
+(stimulus duration: t = 20, stimulus strength: V=0.01,0.02,...,0.12) as external forcing G(t).
+Parameter values of the FHN oscillator and the sampling time interval were set to be the same
+as those in the previous sections. For simplicity, natural frequency w and the external signal
+G(t) were assumed to be known. The number of the Fourier components was set to D= 10. The
+integration time was set to T= 150. For impulse strength of E=0.01 and E = 0.04, the estimated
+phase sensitivity functions are drawn in figure 3b,c, respectively. In both panels (b) and (c),
+estimation results of the multiple shooting method (solid red lines) are consistent with those of
+the adjoint method [65]. The least-square method (dashed blue line), on the other hand, recovered
+the phase sensitivity function faithfully for a small impulse strength in (b). The estimate is,
+however, deviated from the other two curves for a large impulse strength in (c). In fact, as the
+impulse strength is increased, the estimation error increases much more rapidly in the least-
+squares method (dashed blue line) than the multiple shooting method (solid red line) (figure 3d).
+The least-squares method [43,46] assumes that phase of the oscillator evolves linearly in time
+according to the natural frequency. This approximation is effective as far as the external force is
+weak. If stronger perturbations are applied, inducing non-small phase shifts, this approximation
+increases the estimation error. The multiple-shooting method, on the other hand, takes into
+account the phase shift induced by the external perturbations by faithfully integrating the phase
+equation (4.1). The estimation error has been therefore reduced by the multiple-shooting method.
+
+(b) Chaotic phase synchronization
+
+Next we show how the estimated coupling function can be used for modelling chaotic phase

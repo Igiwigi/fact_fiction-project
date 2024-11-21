@@ -1,0 +1,25 @@
+count > 16 ‘count’ is ‘6—-10' or ‘>10'
+
+— ability’ of gaze behaviour, without explicitly referencing visual
+count > 111 count’ is ‘>10 features within the scene, is a nontrivial problem. In particular,
+visible face ‘face visibility’ is ‘small’, ‘away’, ‘direct’ or gaze focus is often strongly attracted to two or three features
+
+within a scene. This multimodality in the spatial distribution of
+
+D ,
+eye contact : cope
+Y gaze focus produces a very large covariance for the overall distri-
+
+prominent face ‘face visibility’ is ‘away’, ‘direct’ or ‘eye bution, despite the fact that gaze focus may be tightly clustered
+contact’ around each mode. In fact, the eigenvalues of the covariance
+
+" 1 yg , matrix are typically larger for this case than for scenes in which
+direct face face visibility’ is ‘direct’ or ‘eye contact there are no strong attractors of gaze, and thus gaze focus is dis-
+eye contact ‘face visibility’ is ‘eye contact’ tributed randomly. Most standard approaches to assessing the
+visible genitals ‘AGA visibility’ is ‘small’, ‘unsexed’, ‘male’, variability of a distribution are directly or indirectly affected by
+
+this issue, and approaches based on directly modelling the multi-
+
+‘female’ or ‘both’ modality of the gaze data (e.g. k-means clustering) proved to
+
+prominent genitals ‘AGA visibility’ is ‘unsexed’, ‘male’, ‘female’ be impractical for this dataset due to long computation times.

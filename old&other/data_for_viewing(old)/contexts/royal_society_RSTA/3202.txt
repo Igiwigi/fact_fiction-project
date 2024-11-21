@@ -1,0 +1,25 @@
+Proof. We multiply (6.12) by the conjugate Z and integrate from —oo to oo. We obtain
+a] IzP=(c—b— 2ea) | 22 - [ine - | baz + [oe + ba — ca —hy)|z|? —«€ | I/F. (6.23)
+Taking the real and imaginary parts of (6.23), we have
+ReQ) | |Z? =—Re | uz — Re | h3zu + |x? + ba — ca — hy) |z|? — | iZ/P (6.24)
+
+and
+
+[Im(a)| | IZ? <(c—b— 2eu) | IZ WZI+ him fu
+
++ lim hav . (6.25)
+
+The inequality (6.21) follows by using Young’s inequality on (6.24). The inequality (6.22)
+follows by adding (6.24) and (6.25) together and using the fact that |Re(xy)| + |Im(xy)| < V2\x\lyL,
+where x and y are complex numbers, and using Young’s inequality to get (c — b — 2ea)|z'||z| <
+(c — b — 2ew)*|z|2/4 + |z?|:
+
+_hbe 2
+(Re() + may) { a? < © 2) fier [oe ba — ca — hp)|z/2
+
++2] hy lzl\ul + V2 | hglullz
+
+< (c — b — 2ew)*
+< Ze
+
+1 1

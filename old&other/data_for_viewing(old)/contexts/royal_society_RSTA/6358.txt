@@ -1,0 +1,24 @@
+
+with the « denoting convolution in time. Here, we recall that t represents the time period between
+the removal of even-numbered vertical links in the medium (see (2.3)). Additionally, G solves (2.6)
+with Q(t) replaced by 8(t)5m,0, where 4(t) is the delta function in time and 5,9 is the Kronecker
+delta
+
+1 ifm=n,
+
+émn = 3.3,
+™" |0 otherwise. 3)
+
+One can then apply the Fourier transform with respect to n, denoted by a superscript F,
+to representations (3.1) and (3.2). Using the fact they involve convolution-type integrals and
+summation operations, they can decomposed into a product of transforms with respect to t and
+m. As such, via appropriate changes of variable one obtains that the transformed functions have
+the forms
+
+UF (k) = QF (K)Geven(k) and VF(k) = Q*(K)Goaa(h)- (3.4)
+
+Here, the transformed functions are defined as
+
+(uF(, VE(k), OF) = | {U(n), Vin), Qn} e"* dn,
+
+and we have

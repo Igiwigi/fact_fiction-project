@@ -1,0 +1,25 @@
+The specific characteristics of impact-induced waves make it rather difficult to use numerical tools
+that are very suitable for earthquake- and even in some regards landslide-generated tsunami
+waves. The wave generation process and the very early wave dynamics is highly nonlinear
+and complex. Not even very high order wave theories are capable of reliably describing the
+early wave evolution. Therefore, the wave generation and early wave evolution must be part
+
+of the model framework that considers hypervelocity impacts and cratering processes. Only a : =
+relatively small number of codes exist that are capable of dealing with hypervelocity impact : Sy
+processes and only a very few of them have been used to study meteorite impact processes. : 2
+For a summary of so-called hydrocode modelling, see, for example, [43] and references therein. : &
+Although hydocodes are able to simulate generation, propagation and inundation of impact- 22
+induced tsunami waves, this approach would be computationally too expensive to cover the ne]
+whole sequence of processes. In fact, only a few examples of hydrocode modelling are published : ie
+where the propagation of waves was tracked as far as 100 times the diameter of the projectile : =
+(e.g. [37-40]). For the most likely scenario of a relatively small object of a few hundred metres in [8
+
+diameter wave propagation can be simulated only to a distance of tens of kilometres with such
+an all-in-one model approach.
+
+The multi-scale nature of impact-induced tsunami waves suggests the usage of different
+models appropriate to deal with the specific processes on different spatio-temporal scales, such as
+generation, propagation including shoaling and run-up, separately. Crawford & Mader [41] were
+the first to employ such a hybrid approach by combining CTH hydrocode modelling of crater
+formation with the ZUNI code for wave propagation simulation. Following this approach, Weiss
+et al. [44] coupled iSALE hydrocode modelling with a Boussinesq-type wave propagation code

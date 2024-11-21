@@ -1,0 +1,25 @@
+the infinity twistor. The Poincaré transformations, as a subgroup of the conformal group, can be nee)
+characterized as those which preserve I*’. And, very importantly, expressions which make no :
+mention of I“? are manifestly invariant under conformal transformations. [4
+
+On translating the standard relations of first quantization, helicity becomes an operator, DN
+which is none other than the Euler homogeneity operator. For a more precise statement, see [5
+Penrose [4], which also discusses a number of further topics in the foundations of twistor :8
+theory. This identification of helicity can be implemented concretely by means of Penrose’s ,
+contour integral formula, which gives the zero-mass field of helicity 1 corresponding to a twistor
+function of homogeneity (—n — 2)—or more properly, an element of a first cohomology group. The
+chirality of twistor space means that fields of opposite helicity are represented by quite different
+homogeneities, and there is no natural way of adding them, as one might wish to do to express
+a real Maxwell field. Another striking fact is that the property of being of positive (or negative)
+frequency can be expressed in terms of the geometry of the two halves of twistor space, without
+any reference to momenta. For such fields, there is an inner product structure, which can be
+realized in twistor space as a (many-dimensional) compact contour integral, without reference
+to space-time coordinates. As such, it is manifestly finite and conformally invariant. Moreover, in
+the particularly important case of spin 1, it is manifestly gauge invariant.
+
+4. Twistor diagrams
+
+This extraordinarily simple inner product structure can be considered as corresponding to zeroth-
+order interactions, i.e. no interaction at all. Penrose proposed [5] that an extension of such
+many-dimensional contour integration should supply a natural representation of the interactions
+of fundamental fields. This proposal was made within standard perturbation theory and was

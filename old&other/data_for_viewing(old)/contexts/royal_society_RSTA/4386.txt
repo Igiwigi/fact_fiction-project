@@ -1,0 +1,25 @@
+cell-cycle network as compared to ER and SF ensembles reported above. In our example, what
+distinguishes biology from other complex physical systems cannot be global topological features
+alone, as the SF networks differ in their patterns of information processing from the fission yeast
+cell cycle, despite sharing common topological features, such as degree distribution. Similarly,
+it cannot be dynamics alone due to the lack of a distinct signature in EI or ¢ for the biological
+network, as both are manifestations of the global dynamics on the attractor landscape.
+
+An important question opened by our analysis is why the biological network exhibits distinct
+features for TE and shows patterns in AI associated with functional regulation, when global
+measures yield no distinction between the biological network and random networks. We suggest
+that the separate analysis of two distinct levels of informational patterns (e.g. node-node or state-
+state) as presented above misses what arguably may be one of the most important features of
+biological organization—that is, that distinct levels interact. This view is supported by the fact
+that the control kernel plays a prominent role in the distinctive local informational patterns of :
+the fission yeast cell-cycle network, but was in fact first identified for its role regulating dynamics :3
+on the global attractor landscape. The control kernel may therefore be interpreted as mediating :s
+the connection between the local and global causal structure of the network. The results of the previous :
+section indicate that these same nodes act as a hub for the transfer of information within the
+network and for information storage. The interaction between distinct levels of organization is
+typically described as ‘top-down’ causation and has previously been proposed as a hallmark
+feature of life [30-32]. We hypothesize that the lower level patterns observed with TE and AI
+arise because of the particular manner in which the biological fission yeast cell-cycle network
+is integrated, regulating dynamics on its global attractor landscape through the small subset of
+control kernel nodes via ‘top-down’ control. Instead of studying individual levels of architecture
+as separate entities, to fully understand the informational architecture of biological networks

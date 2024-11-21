@@ -1,0 +1,25 @@
+conveying outcome likelihoods. Finally, the new actor selec- becomes the actor, and the latter is rejected from the buffer
+tive model requires mixing of selective models, which and disbanded. Or the newly created actor becomes reliable,
+may occur in the premotor cortex through LPC-to-premotor whereas the counterfactual strategies remain unreliable. The
+projections conveying both outcome and cue likelihoods. former is then confirmed and stored in long-term memory
+
+along with others. Exploration periods thus correspond to
+hypothesis testing on strategy creation. Accordingly, counterfac-
+
+4. Counterfactual inferences, hypothesis testing tual strategies are the former actors that have been reliably
+assigned to an external situation that previously occurred.
+and the frontopolar cortex When newly created actors are confirmed, however, the
+In the above-described inferential system, the critical limit- number of strategies monitored in the buffer increases and
+ation is that inferences remain factual: the decision to adjust possibly reaches its capacity limit. In that event, the theory
+versus change the ongoing behavioural strategy, i.e. the assumes that the strategy used the least recently as actor is dis-
+actor, bears upon the actor reliability only. Accordingly, the carded from the buffer. The rationale is that older situations are
+theory assumes that the development of the frontopolar less frequent and less likely to reoccur in the short-run. The
+cortex (IFPC) in humans implements a third inferential step buffer therefore keeps monitoring counterfactual strategies
+overcoming this limitation: namely, inferring when to change which will more likely match the next external situation.
+the current actor strategy from concurrently monitoring the The computations implementing this counterfactual infer-
+reliability of multiple behavioural strategies. The human execu- ential system are essentially the same as those described
+tive system thus develops counterfactual inferences bearing above. Reactive and proactive inferences are simply extended
+upon alternative behavioural strategies that are not guiding to counterfactual strategies. The differences are as follows
+ongoing behaviour. These counterfactual inferences enable the (figure 3, inset): first, absolute reliability is inferred for the
+inference online not only of when to change the actor strategy, actor and counterfactual strategies, so that the default outcome-
+but also which strategy may replace it. Ideally, counterfactual likelihood is now better estimated as the equiprobability of

@@ -1,0 +1,25 @@
+Using the scaling (2.3) in equation (2.2), we get the dimensionless complex CQGLE including
+higher-order nonlinear and dispersive effects (H.O.E):
+
+id. + S02W + WP — vl tty sid +ielW Py + inl lty + ipaey +O,
+H.O.E. = i8302y — isd, (IWPW) + tev ar (IW1), (2.4)
+
+where 43 = §3/6To|62|,S = 1/aoTo, t2 =TR/To, 6 accounts for the linear gain/loss, 6 stands for
+the spectral filtering, « and yz account for the nonlinear gain/absorption, and v corresponds to a
+saturation higher-order term related to the intensity-dependent refractive index. The parameter €
+is a suitable control parameter as it is related to the pumping power. The parameters 53, s and tr
+represent, respectively, the effects of TOD, SST and IRS.
+
+The L.h.s. of equation (2.4) contains conservative terms. In fact, except for the quintic-order term
+we recover the nonlinear Schrédinger equation. While on the r.h.s., the terms related to 6, €, uw and
+B are dissipative, the H.O.E. include only conservative terms. In particular, it is straightforward
+to check that f |w|2 dr does not change its value because of TOD, SST or IRS.
+
+Tian et al. [17] found first that nonlinear gradient terms result in dramatic changes in the soliton
+behaviour leading to fixed-shape solitons. Later, Latas & Ferreira [18-20] found that explosions
+can be controlled if these higher-order effects are properly conjugated two by two. Evolution
+of pulses in the presence of higher-order effects has been studied by Facdo & Carvalho [21,22].
+Recently, Cartes & Descalzi [23] have shown that the transition between explosive and regular
+behaviour can be characterized by a transcritical bifurcation controlled by the SST parameter.
+Much earlier, the effect of nonlinear gradient terms on localized states in a complex CQGLE was
+studied by Deissler & Brand [24], showing that these terms lead to asymmetries and reduction of

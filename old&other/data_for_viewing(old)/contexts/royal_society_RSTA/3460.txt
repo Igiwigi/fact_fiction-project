@@ -1,0 +1,25 @@
+probability [55] it can be proved that
+
+p(n =) => plé =a)p(n = BIE =). (6.5)
+
+It is important to remark that the conditional probability is defined by the Bayes formula: p(y =
+B\& =a) =p(n = 8, =a)/p(E =a), where p(n = B,€ =a) is the joint probability distribution of
+the pair of random variables. As is well known, in general, for quantum observables, the joint
+probability is not well defined. Therefore, the classical Bayes formula for conditional probabilities
+is inapplicable and one can expect that, for quantum conditional probabilities which are defined
+in the Hilbert space formalism, the formula (5.5) can be violated [35].
+
+The classical LTP in our setting can be formulated as follows. We remind that the probabilities
+pi(s; t),s =0,1, depend on the initial state %, i.e. in fact, we could even use the notation p;(s; t|W).
+Among the possible initial mental states of the pairs of players (G1, G2), the states ym,k,m =0,1,
+play a very special role. Here, initially the players were completely sure in their strategies, G, with
+the strategy k and G2 with the strategy m. In (5.5), the probabilities p;(s; t\k, m) = p;(s; tl¢x,m),s = 0, 1,
+can be identified with the conditional probabilities p(n = 6|§ = w) with w = (k,m) and 6 =0,1. The
+probabilities
+
+pilk,m) =|(Y Pen), k,m=0,1, 6.6)
+
+encode uncertainty in the determination of the pairs of strategies (k, m) for the initial mental state
+W. In (5.5), they are identified with the probabilities p(é = a).
+
+The interference-like representation of the DFs (3.8) can be rewritten as a quantum

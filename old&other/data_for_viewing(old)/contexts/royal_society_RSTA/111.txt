@@ -1,0 +1,24 @@
+is still a scaling function of tw but with scaling exponents a which decrease upon increasing €,.
+We argue that the different results shown in figures 6 and 7 can be explained by noticing that
+upon increasing €, we are changing the physical meaning of the event. This is because in the
+e based definition of size, the term $(t¢(k) — t;(k)) is missing. Consider, for instance, a relatively
+large event selected with the level-crossing at some value €,. Upon increasing ¢,. the initial time of
+the event is shifted and the corresponding interevent time increases or event duration decreases.
+This implies that t,, and S may acquire non-negligible correlations for large enough e,. On the
+contrary, the scale invariance shown in figure 6 is based on the same definition of the event
+regardless of the threshold Sy. It is true that the definition of event used in figure 6 is also based
+on a threshold, namely ¢, however, looking at the interevent times for avalanches S > Sy, we
+retain the same definition (i.e. the events for which ¢(t) > #) while neglecting the computation
+of tw avalanches smaller than Sj,. Thus P[t»|S¢,] and Pltwlex] refers to two different statistical
+properties of the system that are not related to one another. This example highlights the fact
+that the scale transformation e, — A€, cannot be considered a coarse-grained transformation in the
+
+
+Plt)
+
+slope = 1.65
+
+Plt, és — 55 a
+
+slope=1.56 -----
+Plty lex <19.56 A

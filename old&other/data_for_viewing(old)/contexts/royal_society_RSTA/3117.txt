@@ -1,0 +1,25 @@
+y= Aly) + €Bly) + €2C(y), (2.9)
+
+
+does not have any reasonable solutions. What then? An alternative way of truncation is to use a
+change of variables (all operators are assumed to be time-independent)
+
+z=y+e7R(y). (2.10)
+Then y ~z — e?R(z) and simple calculations yield
+
+zt = A(z) + €B(z) + €7{C(z) + [R, A](2)} + Oe),
+
+where [R, A] = R'A — A’R (do not confuse this with the standard notation for the commutator of
+two operators when the operators A and R are nonlinear). In fact this notation becomes the usual
+one [A, R] = AR — RA in the case of linear operators A and R, since A’ = A for linear operator A.
+The result can be expressed in the following form:
+
+Proposition 2.1. Any truncated equation
+yp =A(y) + BY) + PCY) + --- (2.11)
+
+is formally equivalent to a family of equations
+2 = A(z) + €B(z) + ?C(Z) +++, (2.12)
+
+where
+
+z=y+e?R(y) y=z—&R)+---, CZ) =C(z) + R'Z)A(Z) — ADR),

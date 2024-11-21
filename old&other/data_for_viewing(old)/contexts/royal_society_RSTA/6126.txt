@@ -1,0 +1,25 @@
+oN > aT’. (4.1)
+
+Below I will sometimes write the rh.s. of this equation as By.
+
+Unfortunately, in general it is impossible to have the local EPs of all units = 0 in an arbitrary
+unit structure, even if one uses a quasi-statically slow process. Indeed, the unit structure itself,
+independent of any other properties of the rate matrix, may mean that it is impossible to have all
+local EPs = 0.1
+
+This might seem to imply that we cannot lower-bound the EP as By. However, recall that in
+general there are many different unit structures that all apply to the same CTMC. We are free to
+choose among those unit structures. And as it turns out, no matter what the CTMC is, we can
+always choose the unit structure in a way that guarantees that equation (4.1) does in fact hold.
+
+I prove this result in several steps. First, in electronic supplementary material, appendices
+F and G, I derive a set of lower bounds on EP that always apply, no matter what the unit
+structure. These lower bounds are summarized in electronic supplementary material, proposition
+F.1, and are my first main result. These bounds are not in the form of equation (4.1) though; while
+important in their own right, they do not yet achieve our goal.
+
+On the other hand, in general we can represent any CTMC with a unit structure of height 2.
+(For example, we can do that by combining all coordinates that are not members of a root node
+of Iyv+, into one, overarching unit.) In electronic supplementary material, appendix F, I derive a
+corollary of electronic supplementary material, proposition F.1, telling us that equation (4.1) holds
+for any such unit structure of height 2. This is my second main result.!2

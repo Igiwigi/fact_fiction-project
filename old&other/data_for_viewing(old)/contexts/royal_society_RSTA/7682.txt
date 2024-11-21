@@ -1,0 +1,25 @@
+accuracy hoped for is 1 part in 100,000, so that even if ) is known to not better
+than 10% or 20°%, the final result will not be greatly affected.
+
+4—ANALYSIS OF THE CIRCUIT
+
+We have seen that departures from the ideal network due to eddy currents,
+displacement currents, and stray inductance are to be dealt with by replacing the
+simple inductances and resistances of the ideal circuit by impedance operators,
+each referring to some portion of the actual network between specified points. The
+zero adjuster already mentioned is essentially a device for adding an eddy-current
+effect of controllable magnitude to mesh (2). Its presence will modify the impedance
+operators of the three meshes, and, provided these impedance operators are measured
+with the adjuster set in its proper position, the fact that it constitutes a fourth mesh
+may be ignored in practice. This procedure is justified by the following analysis
+of the network.
+
+Fig. 3 represents the Campbell circuit including the zero-adjusting circuit,
+indicated as mesh (4), and the various associated capacities.
+
+Let &s, 23, £, be the impedance operators for circuits 2, 3, and 4.
+
+Let »,. be the mutual impedance operator for circuits 1 and 2, and let all y’s
+have similar meanings, except that ».,; does not include the part due to the com-
+ponent S, which is called £.3, and 2,3 does not include the part due to the component
+r, which is called £,;. Ignoring for the present all the capacitances to earth, we may

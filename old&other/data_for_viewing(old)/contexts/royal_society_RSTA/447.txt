@@ -1,0 +1,25 @@
+radial numerical (solid line) incident-wave pressure at a fixed radial distance r. From left to right: r = 0.0895, 0.1590, 0.3593
+and 0.7 m. po is the ambient pressure. (Online version in colour.) nee)
+
+because it is relatively close to the explosion source and, further, is the smallest distance for a
+which tabulated values for pmax and 6 are provided in [14]. This resulted in a cavity with initial a
+radius ro = 0.03 m, density pog = 1630.0 kg mand pressure pog =2 x 10!° Pa. Figure 2 shows the .
+comparison between the incident-wave pressure as predicted by the radial numerical solution
+and by the empirical formula (3.1) at four radial distances from the initial explosion. The results
+reveal a good description of the pressure decay in time. With reference to the maximum pressure,
+as expected, the two predictions are identical at r= 0.0895 m while the present solution tends to
+underestimate more and more the empirical pmax for increasing distances from the charge. This
+does not mean that the numerical solution necessarily provides a less accurate pressure prediction
+moving far from the initial explosion. In fact, the good comparison with the incident-wave
+pressure observed at r= 0.7m, which corresponds to the radial distance of the plate, highlights
+the good performances of the model. In more detail, figure 3 reveals that, once the rising times
+of the two solutions are synchronized (this involving a shift of 0.018 ms), the time history of the
+numerical pressure reproduces very well the experimental one of Hung ef al. [14]. This means that
+the numerical explosion has a small error in terms of propagation speed, i.e. it is slightly faster
+than the physical one, but it can capture better the maximum experimental pressure than the
+empirical formula proposed in [14] and behaves similarly to such a formula in terms of time decay.
+Moreover, despite the simplifications used in modelling the explosion, the numerical prediction
+of 30.5 ms for the first oscillation period of the gas cavity (figure 1b) is not far from the value of
+26.7 ms observed in the model tests.
+
+The interaction between the underwater explosion and the target plate was studied using, for

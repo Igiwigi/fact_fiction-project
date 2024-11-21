@@ -1,0 +1,24 @@
+oO 54
+
+-10 4
+
+1 2 3 4 5 6 7 8 9 10 11 12
+
+Figure 4. Annual mean (a) and seasonal anomaly (b) of the area integrated CH, source for Europe (EU27 + UK) in units of
+Tg y—'. The seasonal anomaly was calculated for each inversion by first subtracting the multi-annual trend from the data and
+second by averaging each month over the period 2005-2018.
+
+with the prior estimate of 33.0Tg y~!, whereas FLEXINVERT and CTE remain on average closer
+to the prior with 36.0 and 32. Tg y~!, respectively. The similarity of FLEXKF and TM5-4DVAR may
+in part be due to the fact that FLEXKF used output from TM5-4DVAR in the description of the
+background, which is discussed below. Another important difference between the inversions is
+that the global inversions (TM5-4DVar and CTE) find a significant negative trend in the emissions
+from 2005 to 2018 of 0.19 and 0.57Tg y~1, respectively, whereas the regional ones do not. The
+range of mean emission estimates for the EU27 + UK across the inversions is considerable, from
+26.8 to 36.0 Tg y~! or equivalently —11 to +17% of the mean value. However, the inversions result
+in considerable reductions in the emission uncertainty for EU27 + UK with respect to the prior,
+ranging from 37% to 85%, for the three inversions that calculate this. The lower end of the emission
+range is close to the mean of 26.8Tgy~! for the seven inversions compared in Bergamaschi
+et al. [39] for 2006-2012 and to the regional inversions compared in Petrescu et al. [40] with a
+mean of 28.8Tg y~! for 2011-2015, although these studies are not entirely independent as they
+include some of the same inversion frameworks as this study.

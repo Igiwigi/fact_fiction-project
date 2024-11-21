@@ -1,0 +1,25 @@
+The gauge-invariant potentials A+ and in particular C+, although less familiar than E and B
+perhaps, nevertheless make natural appearances here and in what follows. Their significance is
+discussed in more detail in [51], for example. Helicity H takes on a value equivalent to +h per
+circularly polarized plane-wave mode photon, in line with the concept of helicity familiar from
+particle physics. The conservation of helicity is associated with a rotational symmetry [52] which
+in infinitesimal form is
+
+E>E+0B and B>B-9E, (2.2)
+
+with @ an infinitesimal Lorentz pseudoscalar angle. This sees the electric and magnetic field
+vectors of each plane-wave mode comprising the electromagnetic field rotated about the
+wavevector k of the mode through @ [47,53], as depicted in figure 2. The existence of this
+symmetry embodies the idea of electric-magnetic democracy [54]: the fact that the electric and
+magnetic fields reside on equal footing in the strict absence of charge [45,46,50,55,56]. Looking at
+
+'The prefix ‘pseudo’ signifies unusual transformation properties under a parity inversion. For example, a pseudoscalar
+changes sign under a parity inversion, whereas a scalar does not; a pseudovector does not change sign under a parity
+inversion, whereas a vector does [2].
+
+
+B
+0
+E>E+6B |
+_ Boner 6E
+E

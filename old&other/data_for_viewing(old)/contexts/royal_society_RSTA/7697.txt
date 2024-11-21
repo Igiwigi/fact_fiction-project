@@ -1,0 +1,25 @@
+n, the bias tends to zero, which justifies the terms “‘ almost unbiassed ” or “ con-
+sistent ’’ estimate attached to (14).
+
+(c) Estimation by Unique Estimate and by Interval
+
+In the preceding pages we have described briefly three of the several important
+principles advanced for the calculation of estimates. All of them represent attempts
+to solve the problem which might be called the problem of a unique estimate of an
+unknown parameter which reduces to determining a function of the observations,
+the value of which presumably does not differ very much from that of the estimated
+parameter.
+
+We shall now call attention to the fact that apart from the problem of a unique
+estimate, the requirements of practical statistical work brought to the front another
+problem which we shall call the problem of estimation by interval.
+
+Denote generally by 6 the parameter to be estimated and by T its estimate, deduced
+from some principle or another. Whatever the principle, it is obviously impossible
+to assume that in any particular case T is exactly equal to 8. Therefore, the
+practical statistician required some measure of the accuracy of the estimate T. The
+generally accepted method of describing this accuracy consists in calculating the
+estimate, say S5, of the variance V; of T and in writing the result of all the calcula-
+tions in the form T + S,.
+
+Behind this method of presenting the results of estimating 0, there is the idea that

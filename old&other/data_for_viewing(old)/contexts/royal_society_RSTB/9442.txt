@@ -1,0 +1,25 @@
+in these applications the assignment of individual IGH for the rhesus macaque Macaca mulatta [15], 63 IGHV-like
+sequences to V(D)J rearrangements is of primary interest [4]. sequences have been identified in the macaque genome using
+To start to fully define a clonotype, regions of immunoglobu- a bioinformatics approach [16].
+lins that originate from V, D and J genes must be identified and Application of these tools to data from mass sequencing
+assigned to their respective germline genes. Methods for V(D)J platforms yields a glut of information that is difficult to
+assignment fall into two classes: alignment-based methods digest. Binning of millions of reads into unique V(D)J rearrange-
+(QOINSOLVER [5], IMGT/V-Quest [6,7], Ab-origin [8] and ments is important both as a sensible approach to data
+IgBLAST [9]), and model-based methods (e.g. iHMMuneAlign reduction (clustering similar reads), and as a means to pull
+[10], SoDA [11], and SoDA2 [12] which are based on Hidden out a subset of the repertoire that is of specific interest, e.g. all
+Markov Models, and others [13,14]). However, none of these those sequences that match a pre-defined rearrangement, for
+approaches take the phylogenetic relationship between germline instance as is now common in HIV-1 vaccine research [17].
+genes into account, which is particularly prominent for V genes Interactive tools that allow the user to explore the composition
+(figure 1); in fact, V gene families form distinct phylogenetic of immunoglobulin repertoires can help to interpret repertoire
+
+clades which recapitulate the original delineation based on sequencing (‘Rep-Seq’) data in a more manageable way. Even
+
+
+7 Our aims are twofold: firstly, we present a phylogenetic | 3 |
+
+2 V3-23*01,J6*02 (49.90%) © 100
+
+5 approach to identifying recombination breakpoints and assign-
+ing germline genes from rearranged immunoglobulin genes. a
+By using a model of substitution, we can generate a quantitative s
+o +602 000 c@ce@e-cc--c0eso0-e: comparison of different vO" assignments, while the use of a =

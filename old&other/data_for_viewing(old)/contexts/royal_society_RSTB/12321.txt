@@ -1,0 +1,25 @@
+and Sanger-sequenced to determine full-length mRNA
+sequences and observe semi-quantitative changes in gene
+expression [5]. The Sanger-sequencing based serial analysis of
+gene expression (SAGE) method improved quantification and
+
+reduced cost by concatenating smaller 15-20 bp fragments of (a) Limitations in transcriptome assembly algorithms
+many cDNA molecules together for sequencing [6]. However, Despite its dominant position in transcriptome analysis,
+because of the short length of analysed fragments SAGE was short-read RNA-seq has so far failed at capturing the true
+inherently less useful for annotation. Hybridization-based complexity of eukaryotic transcriptomes. While RNA-seq can
+microarray approaches completely eschewed annotation but interrogate individual transcript features like splice sites,
+simplified the quantification of already annotated genes [7]. TSSs and polyA sites, it fails at determining how these
+The introduction of massively parallel sequencing in the individual features are combined into transcript isoforms.
+mid-to-late 2000s completely changed transcriptome annotation This is owing to the fact that the read length of short-read
+and quantification. When massively parallel sequencing—best sequencers is too short to capture entire transcripts from end-
+represented by the now dominant Illumina technology— to-end (figure 1). Incomplete fragments of transcripts, there-
+became available to research laboratories it could generate fore, have to be computationally assembled into full-length
+millions of sequencing reads at a length of approximately isoforms. This is done using powerful algorithms performing
+30 nucleotides (nt). Although initially intended for the sequen- de novo (e.g. Trinity, RNASPApes [14,15]) or genome-guided
+cing of genomic DNA, researchers quickly found ways to transcriptome assemblies (e.g. CUFFLINKS, STRINGTiE [16,17]).
+leverage the power of these sequencers for transcriptome All of these assemblers ultimately fail at discerning complex
+analysis in the form of the RNA-seq assay. RNA-seq sequences transcript isoforms expressed by the same gene because of
+short cDNA fragments at extremely high throughput and limitations of the underlying data. First, RNA-seq reads often
+quickly displaced microarray-based transcriptome analysis do not cover the ends of transcripts leaving TSS and polyA
+for a number of reasons including cost considerations as well sites unresolved [18]. Second, alternative transcript features
+as the ability to detect previously unknown transcripts and are too far apart to be resolved by RNA-seq raw data, i.e. if a

@@ -1,0 +1,25 @@
+for a deeper analysis of multiphase flows. There is
+a wide range of invasive measurement techniques,
+such as optical and electrical probes and wire-mesh
+sensors [1], as well as non-invasive techniques, such
+as ultrasonic measurements, electrical tomography,
+
+THE ROYAL SO C IETY © 2015 The Author(s) Published by the Royal Society. All rights reserved.
+
+PUBLISHING
+
+
+gamma-ray tomography [2] and X-ray tomography [3]. The advantage of non-invasive methods
+is—beside the fact that the flow is not influenced—the applicability at high temperatures and high
+pressures as well as for chemically aggressive substances. Further, a high spatial resolution and a
+good material penetration capability are provided in general.
+
+X-ray tomography is based on measuring the attenuation of X-rays with initial intensity No
+along determined paths L. If one assumes monoenergetic radiation, the intensity N of an X-ray
+beam is linearly attenuated according to
+
+N=Noexp (- I, w(hal), (1.1)
+
+where j(/) is the distribution of the linear attenuation coefficient of the material along the beam
+path. The sum of the total attenuation of X-rays is caused by four different physical effects: the :
+photoelectric effect, incoherent scattering (Compton scattering), coherent scattering (Rayleigh =

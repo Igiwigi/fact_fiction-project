@@ -1,0 +1,25 @@
+three hypothetical separate estimates of what energy is required for ignition in MJ, (ii) black is a naive multiplication of the a
+probability distributions and (ii) Blue is the conservative estimate from BACCUS accounting for unknown unknowns. (Online [3
+version in colour.) [8
+
+conservative scientist should believe in the face of multiple independent probes of some physics.
+Their model (‘BACCUS’) essentially assumes that each probe is receiving an unknown systematic
+error sampled from a distribution with unknown parameters. It then uses Bayesian inference
+to simultaneously estimate both the parameters of interest, as well as the ‘nuisance’ parameters
+that describe the possible unknown systematics. Markov chain Monte Carlo is used to first draw
+samples from the resulting posterior, and then marginalize over all the nuisance parameters, to
+get a final conservative posterior for the parameters of interest, that accounts for the fact that there
+are likely unknown systematics. In particular, this approach is able to give realistic long thick tail
+probabilities, to account in a systematic way for the fact that there may be ‘unknown unknowns’.
+
+We show in figure 3 a simple implementation of the methodology, in the context of
+estimating how energetic a laser system must be to achieve ignition. Suppose (i) three different
+independent estimates give E; =5.0+0.5MJ, Ez =5.5+0.2MJ and £3 = 8.0 + 0.2 MJ (arbitrary
+numbers chosen to illustrate methodology) and (ii) one is agnostic as to which method is better.
+What should a sceptical scientist believe is the true value, given that there are likely unknown
+systematics? Figure 3 shows (i) the pdfs of the three estimates, (ii) an overall estimate naively
+multiplying the pdfs together, and (iii) an estimate combining the pdfs using BACCUS. In
+particular, although the energy of maximum likelihood is not dramatically changed, BACCUS
+gives quite thick tails to high laser energies. We propose such a methodology might be useful for
+making very conservative predictions. In particular, if you wished to know the laser energy that
+would have a 99% chance of reaching ignition, conventionally you might either (i) take the 99th

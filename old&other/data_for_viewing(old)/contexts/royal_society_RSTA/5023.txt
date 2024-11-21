@@ -1,0 +1,25 @@
+reconnection rate on the strength of anomalous effects. In the Sweet—Parker case, the anomalous resistivity is not turned on, :3
+since the maximum current density is below the threshold of the anomalous resistivity model we used. See [33] for more detailed :3
+description. :&
+
+In a physically realistic situation, the dynamics that drive the turbulence, whatever they are,
+provide a characteristic frequency and input power. Since the guide field enters only in the
+combination kV, ie. through the eddy turnover rate, this implies that varying the guide field
+will not change the reconnection speed. In the simulations, the periodicity of the box in the
+direction of the guide field complicates the analysis (see more discussion in [122]).
+
+The injection of energy in LV99 is assumed to happen at a given scale and the inverse cascade
+is not considered in the theory. Therefore, it is not unexpected that the measured dependence on
+the turbulence scale differs from the predictions. In fact, it is slightly more shallow compared with
+the LV99 predictions (figure 4b).
+
+Figure 5a shows the dependence of the reconnection rate on explicit uniform viscosity obtained
+from the isothermal simulations of the magnetic reconnection in the presence of turbulence [34].
+The open symbols show the reconnection rate for the laminar case when there was no turbulence
+driving, whereas filled symbols correspond to the mean values of reconnection rate in the
+presence of saturated turbulence. All parameters in those models were kept the same, except
+the uniform viscosity, which varied from 10-4 to 10-2 in the code units. We notice the lack of
+any scaling for the laminar case, which is somewhat in contradiction to the scaling Vrec « yp l/4
+derived in [123]. We should note that the authors introduced the viscosity dependency using the
+energy equation balance, which cannot be applied in the isothermal case. They also stress that the
+proper scaling might be sensitive to the chosen boundaries, which in their numerical tests were

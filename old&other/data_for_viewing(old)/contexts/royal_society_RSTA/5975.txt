@@ -1,0 +1,25 @@
+
+
+is in a non-ergodic stationary state where the mean income is not conserved. This leads to the
+emergence of ‘lucky’ individuals whose income grows over time just because of the randomness
+in the system, whereas the income of the typical individual remains a static observable.
+
+5. Conclusion
+
+In this paper, we investigated the impact of non-ergodicity on the individual income dynamics,
+with the aim to evaluate the role of randomness in the observed rise in income inequality and
+the decline in mobility all over the world. Similar to previous works dealing with inequality and
+mobility, we used the properties of srGBM, an established model for non-ergodic income growth.
+The fact that in srGBM, the extent of non-ergodicity is manifested via different regimes, allowed
+us to perform a theoretical analysis for the behaviour of income inequality and mobility measures.
+This, in turn, aided us in devising an empirical test for investigating the presence of different
+regimes in real-world income dynamics.
+
+We showed that different regimes also appear in the behaviour of inequality measures, but
+not in the dynamics of mobility measures. That is, the dynamics of income inequality may range
+from a strictly non-ergodic state in which this phenomenon empirically is always increasing, up
+to a stable regime where inequality is steady and the system efficiently mimics ergodic behaviour.
+Mobility measures, on the other hand, are always stable over time, just reach a different stationary
+value, suggesting that economies become less mobile in non-ergodic regimes. This is eventually
+translated in the dynamical behaviour of the Great Gatsby curve, i.e. the visual method for
+describing the relationship between inequality and mobility.

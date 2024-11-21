@@ -1,0 +1,25 @@
+agents are favoured. Section 3 includes rational agents in the system that aim to determine their
+optimal risk factor to maximize their expected wealth. We find that the agents become selective
+in their interactions depending on their wealth. In §4, we summarize the results, draw general
+conclusions and point to possible future lines of work.
+
+2. Taxation with target redistribution
+
+Let’s start by studying the effect of a flat tax system on wealth distribution in a system of non-
+rational agents. For that purpose, we use the Yard—Sale model for the exchange among economic
+agents. In a recent contribution of some of us [26], the effect of taxes on the wealth distribution
+was studied with individual risk factors r; chosen at random at each exchange. Here we adopt a
+model where risk factors are uniformly distributed in the interval [0, 1] given as initial conditions
+that remain fixed along time. The fact that individual risk factors are constant is very important,
+as the goal of the present paper is to compare with the role of agent’s decisions concerning the
+risk factors on the individual and globally distributed wealth.
+
+The simulations of this section and §3 were performed with N = 10° agents and averaged over
+10° samples. The total wealth is normalized to 1. We use the Monte Carlo step (MCS) as the unit
+of time, defined as the minimum number of steps for all agents to be possible selected (i.e. N/2).
+The system evolves until a stationary state is attained. The tax collection in the simulation works
+as follows: at each MCS, all agents pay the same fraction 4 of their wealth as taxes.! Then, to
+diminish inequality, the total amount collected is redistributed among the p poorest fraction of
+the population (the targeted population).
+
+'Taxing wealth is equivalent to taxes on property or fortune, much less widespread than the income tax. However, we choose

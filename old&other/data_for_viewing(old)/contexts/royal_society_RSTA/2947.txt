@@ -1,0 +1,25 @@
+and the corresponding solutions are often referred to as ‘generalized’ travelling breathers or
+solitary waves, or ‘nanopterons’ (thereafter we shall use the denomination ‘travelling breather’
+independently of the presence or the absence of a non-decaying oscillatory tail). The tails are close
+to a linear phonon (or a superposition thereof) whose wavenumber q and frequency o satisfy a
+resonance condition reminiscent of (3.5) [13,63]. Typically, the tail amplitude can vary freely in
+some interval, with a lower bound exponentially small compared with the main pulse at small
+amplitude, a limit in which the wave becomes loosely localized (e.g. [13] and references therein).
+In generic models, the tail may exactly vanish only under special choices of the speed of the
+travelling breather (or the system parameters) [64,65]. In connection with the above phenomena,
+travelling breathers excited from localized initial perturbations are often followed by a small
+oscillatory tail, see e.g. [34,37] in the context of granular crystals.
+
+Part of the above phenomenology can be transposed to the present setting despite the fact
+that equation (1.4) is fully nonlinear. Indeed, instead of weakly modulated phonons, the tails can
+involve nonlinear periodic travelling waves of (1.4) taking the form [32]
+
+an(t) = p ell?" We" tk +9) (3.29)
+
+where 92(k) =4 sin? (k/2). These solutions are parametrized by the wavenumber k, amplitude p >
+0 and phase ¢ (expression (3.29) can be obtained by setting A=1 and R= pV@ in (2.10)). These
+periodic waves (or slow modulations thereof) are good candidates to approximate oscillatory tails
+of exact travelling breathers when n — +00, or to describe the small oscillations emitted at the rear
+of (non-stationary) moving breathers generated from localized perturbations.
+
+In order for a ‘resonant’ travelling wave to match (3.1), the wavenumber k and amplitude p

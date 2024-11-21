@@ -1,0 +1,25 @@
+likely under-estimations.
+
+Previous work on human structural variation showed that
+the number of SVs was non-randomly distributed along each
+chromosome with the greatest density occurring within 5 Mb
+of the telomeric chromosomal ends [48]. The pbsv pipeline’s
+conservative approach to annotating SVs located towards the
+ends of chromosomes means that putative terminal SVs
+
+3. Results are not flagged as a PASS and as such were not included
+for further analysis here (see Methods). This results in the
+(a) Hemizygosity and heterozygosity in molluscs appearance that hemizygosity is diminished at the terminal
+Hemizygosity (flagged as deletions by pbsv) of the individual regions of chromosomes and highlights the fact that the num-
+representatives of the eight molluscan species investigated bers of hemizygous regions reported here are conservative
+here ranged from 0.17% of the total genome length in the lower estimates (figure 1d).
+giant African snail Achatina (=Lissachatina, [45,46}]) fulica to Focusing on deletions over 10 kb in length and which
+6.69% in the ark clam Scapharca broughtonii (table 1). If inser- were not flagged as tandem-repeat associated by pbsy, it is
+tions relative to the reference genome are also considered, evident that large hemizygous regions are not confined to
+the hemizygosity of A. fulica and S. broughtonii increase to particular chromosomes or chromosomal regions in any of
+0.37% and 10.81%, respectively (table 1). The A. fulica hemi- the eight species investigated (figure 2). Although there are
+zygosity content was a clear outlier among the eight species a large number of hemizygous regions in all species, there
+with the next lowest belonging to the octopus Octopus sinensis is a clear difference in the number of larger deletions present
+at 1.74% (2.81% inclusive of insertions), while the congeneric in the bivalves versus the gastropods and cephalopods
+Achatina (=Lissachatina) immaculata had 4.22% hemizygous (figures 1b and 2). This seems to also translate into the pro-
+DNA content (8.06% inclusive of insertions). The number portion of the genomes that are hemizygous in each of the

@@ -1,0 +1,24 @@
+iF-E
+
+A=0, ab40 A=0,a=0, bd—c? #0,
+Fic. 6. Fig. 7.
+
+Fic. 7 illustrates the case in which there are two real solutions for 2, 4, 2, in powers of 1 (6 — y).
+
+§ 10. Direct Construction of Periodic Solutions in the Neighbourhood of a Known Periodic
+Solution. Convergence of the Series.
+
+In default of a proof that the formal power series (5.13) giving the general solution of
+the equations (5.1) are convergent, the investigation of §§ 5-9 is of only formal validity.
+In point of fact the series (5.13) are in general divergent, but the arguments by which this
+may be proved are of an indirect nature.* A new line of attack is therefore needed to
+prove the convergence of the series giving the formally periodic solutions. ‘The procedure
+is to give a process for the direct construction of these solutions, and then to prove that
+the series involved are convergent by the method of “ dominant series.” The process
+makes no direct appeal to the Hamiltonian form of the equations, but to show that it is
+successful in constructing periodic solutions we invoke the existence theory of §§ 5-9,
+and to this the Hamiltonian form of the equations is, of course, essential.
+
+* The argument is briefly that any system for which the transformation (5.20) is convergent is “‘ soluble,”
+so that its periodic solutions are in general “ ordinary,” whereas in general a Hamiltonian system possesses
+no ordinary periodic solutions.

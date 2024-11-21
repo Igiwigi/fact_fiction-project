@@ -1,0 +1,25 @@
+amplitudes may differ only for a global phase factor, that is,
+
+(1',2/[2, 1) =e (1',2/|1,2) =e a(1'|1) (2/|2) + el b(1'|2) (2'|1)
+=a(1’|2)(2/|1) + b(1’|1) (2"2). (3.6)
+
+We find that eb =a and ea =b, so |a| = |b| and (e')? := n? = 1, from which 7 = +1. In this way,
+taking a = 1 in the linear combination of equation (3.5), b = n. So, the inner product of two ‘holistic’
+state vectors is
+
+(1,21, 2) y = (11D) (2/12) + (112) (211), (3.7)
+
+where the subscript 7 indicates that it is a symmetrized product. The previous expression
+represents the core of our approach and includes the particle spin-statistics principle. In fact,
+according to the Pauli exclusion principle, the probability amplitude of finding two fermions in
+the same state is zero, so (1',1'|1,2), =(1 + 7)(1|1)(1’|2) requires that n is —1. The choice n = +1
+gives the maximum amplitude of finding two particles in the same state and corresponds to the
+case of bosons.
+
+Generalizing the symmetric and antisymmetric expression (3.7) to an arbitrary number N of
+identical particles, we can write
+
+(1,2/,...,N"1,2,...,N)q = > n?P (1'|P1)(2/|Po) -.. (N'IPN), (3.8)
+P
+
+where, in analogy with the 2-particle case, for bosons 7” (P being the parity of the permutation)

@@ -1,0 +1,25 @@
+One could still argue that there is nothing pathological in a field-dependent cut-off, which
+is certainly correct. It is rather simple to imagine new degrees of freedom that have squared
+masses of the form M? = A? + xh’. If one integrates them out, the low-energy EFT will have
+operators suppressed by a field-dependent cut-off A? + «h?. However, if in such a scenario,
+one needs to calculate the potential at h > A, and then knowledge about the new degrees of
+freedom is mandatory: they start to be relevant for the potential already at the scale A, not at
+(A2 + «iPyl/?,
+
+This low-cut-off problem of Higgs inflation is a serious one that has not been solved. Any
+imaginable solution would require showing that new physics at A (either new perturbative
+degrees of freedom or a strong coupling regime) does not affect the predictions of Higgs inflation
+that are obtained by ignoring the unitarity problem.!° That result seems hardly possible given
+the fact that whatever new physics shows up at (or below) A, it must be coupled to the Higgs
+if it is to fix the unitarity problem. In fact, this way of looking at the problem sheds some light
+on the ultimate reason for the unitarity loss. In the original Higgs inflation proposal the Higgs
+plays two different roles: unitarizing (and Higgsing) the SM, (for which we know that the Higgs
+couplings must be precisely those of the SM Higgs) and inflating. The first task works well in the
+low-energy regime, where the couplings of the Higgs are SM-like, but fails beyond A, when the
+couplings of x are no longer the SM ones. The second task works well in the plateau, precisely
+because the couplings of x are exponentially suppressed there. This deformation of the Higgs
+couplings from their SM values to zero in going from low energy to the plateau is the ultimate
+cause of the unitarity breakdown of the EFT [119,129].
+
+°For this to happen it is sufficient that / has interactions with other sectors of the theory (like fermions or gauge bosons or, in
+the case of the SM Higgs, also the Goldstones that complete the Higgs doublet). Without such couplings, x would be a free

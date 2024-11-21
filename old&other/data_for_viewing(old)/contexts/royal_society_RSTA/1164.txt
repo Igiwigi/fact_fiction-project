@@ -1,0 +1,25 @@
+
+0°
+[, iTomrarscist, xex, 28)
+0
+or, if X is a Hilbert space, that there exist p € [1,00) and C > 0 such that
+oo
+| [(T(E)x, y)|P dt < Cllx|iPllyll?, xy X. (2.9)
+0
+
+Then o(T) < —(pC)“}.
+
+Note that the existence of constants C such that (2.8) and (2.9) hold would already follow from
+the fact that all orbits (or weak orbits) of (T(é));>0 lie in an L?-space, by a simple application of the
+closed graph theorem. Observe also that the estimate w(T) < —(pC)-! is optimal in the sense that
+«(T) equals the infimum of the numbers —(pC)"1, with C > 0 running over all constants for which
+(2.8) holds with respect to an equivalent norm; see [3, p. 82].
+
+For other results of this type and relevant ideas, we refer the reader to [1], [3, Ch. 3], and to
+[47]. There are many more statements along the lines of Theorem 2.5 in the literature (although
+most of them are primarily of theoretical interest).
+
+While there are many perturbation results for the exponential stability, most of them concern
+perturbations which are small in a metric sense; in this case exponential stability of the perturbed
+semigroup comes as no surprise. However, there are some nice exceptions of this rule, as the
+following recent result by Priiss [48] shows.

@@ -1,0 +1,24 @@
+4. A complexity theory for self-assembly: comparing models of self-assembly
+
+What about other models of self-assembly besides the abstract Tile Assembly Model?
+
+(a) Two-hands
+
+It has been shown that the two-handed, or hierarchical, model of self-assembly (where large
+assemblies of tiles may come together in a single step) is not intrinsically universal [27].
+Specifically there is no tile set that, in the two-handed model, can simulate all two-handed systems
+for all temperatures. However, the same paper shows that for each temperature t € {2,3,4,...}
+there is a tile set U, that is intrinsically universal for the class of two-handed systems that work
+at temperature t. Also, there is an infinite hierarchy of classes of such systems with each level
+strictly more powerful (can assemble more complicated shapes) than the one below. In fact there
+are an infinite set of such hierarchies, as described in the caption of figure 2. These results give a
+formalization of the intuition that multiple long range interactions are more powerful than fewer
+long range interactions in the two-handed model.
+
+By combining results from [25,46], we get that there is a tile set for the two-handed model
+that (at temperature 2) simulates any tile assembly system T of the abstract Tile Assembly
+Model. Specifically, T is simulated using the intrinsically universal tile set U from [46] (which
+
+5Moreover, Becker & Meunier [49] show that mismatch-free systems and systems without excess binding strength cannot
+simulate each other.
+

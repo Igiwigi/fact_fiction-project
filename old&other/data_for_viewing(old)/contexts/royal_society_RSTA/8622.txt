@@ -1,0 +1,24 @@
+chosen are those of an infinite population of the specified type having the same moments
+as those calculated from the sample.
+
+The system of curves developed by Pearson has four variable parameters, and may
+be fitted by means of the first four moments. For this purpose it is necessary to confine
+attention to curves of which the first four moments are finite ; further, if the accuracy
+of the fourth moment should increase with the size of the sample, that is, if its probable
+error should not be infinitely great, the first eight moments must be finite. This
+restriction requires that the class of distribution in which this condition is not fulfilled
+should be set aside as “ heterotypic,” and that the fourth moment should become
+practically valueless as this class is approached. It should be made clear, however,
+that there is nothing anomalous about these so-called “ heterotypic ” distributions
+except the fact that the method of moments cannot be applied to them. More-
+over, for that class of distribution to which the method can be applied, it has not
+been shown, except in the case of the normal curve, that the best values will be
+obtained by the method of moments. ‘The method will, in these cases, certainly be
+serviceable in yielding an approximation, but to discover whether this approximation
+is a good or a bad one, and to improve it, if necessary, a more adequate criterion is
+required.
+
+‘A single example will be sufficient to illustrate the practical difficulty alluded to
+above. If a point P lie at known (unit) distance from a straight line AB, and lines be
+drawn at random through P, then the distribution of the points of intersection with
+AB will be distributed so that the frequency in any range dz is

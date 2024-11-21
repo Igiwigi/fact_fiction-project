@@ -1,0 +1,24 @@
+scales, manifestly becoming independent of v, as v + 0 [1-3]. This property, also known as
+dissipative anomaly, is the central tenet of essentially all turbulence theories and models [1].
+However, the fluctuations of dissipation rate (and hence that of strain rate) can be orders of
+magnitude larger than its mean [4,5], a phenomena known as intermittency, which renders
+any mean-field description of turbulence inadequate [1,6]. Understanding the formation of such
+intense fluctuations and characterizing their statistical properties has long remained one of the
+outstanding challenges in turbulence [1,7].
+
+Understanding the intense fluctuations of dissipation is also directly important from a practical
+standpoint. For instance, strong strain rates can greatly enhance dispersion of particles and
+influence mixing of scalars or can adversely affect flame propagation in reacting flows [8-11].
+Intense strain also leads to generation of intense vorticity, via the well-known vortex stretching
+mechanism [12], which in turn influences clustering of inertial particles [13]. In fact, strain and
+vorticity are not independent and their coupling implicitly encodes all the multiscale interactions
+in the flow [14,15]. While much attention has been recently given to understand this interaction in
+the light of vorticity amplification [15-17] and energy cascade across scales [18,19], in the current
+work, we present a complementary investigation focusing on amplification of strain (and hence
+dissipation rate).
+
+The key mechanisms controlling amplification of strain can be readily identified by writing its
+transport equation (as derived from the incompressible Navier-Stokes equations):
+
+DS;
+Dt

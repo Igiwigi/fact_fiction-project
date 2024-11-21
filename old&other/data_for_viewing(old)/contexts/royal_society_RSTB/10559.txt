@@ -1,0 +1,24 @@
+by the end of training, a network with an MSP lesion exhibits
+virtually no sensitivity to regularities.
+
+(iii) Statistical learning with an undeveloped TSP
+
+Infants are good at statistical learning despite having immature
+hippocampi [16,17], and our model suggests that this may be
+because the MSP develops earlier than the TSP [18,40]. To test
+the boundary case of infants only having access to the MSP
+(though they may have some limited use of the TSP), we ran
+additional simulations with the TSP lesioned. We found that
+learning and representations were essentially unchanged (elec-
+tronic supplementary material, figure S2). In fact, pairmate
+retrieval was slightly better without versus with the TSP (at
+the end of training, mean A — B retrieval: 0.98 versus 0.94,
+respectively, toog = 6.66, p < 0.001; mean B — A retrieval: 0.90
+versus 0.87, toog = 2.49, p = 0.01). This stands in contrast to
+the very detrimental effects of an MSP lesion (electronic sup-
+plementary material, figure S1b), revealing that the MSP is
+necessary and sufficient for statistical learning and providing
+a possible explanation for intact rapid statistical learning in
+infants despite protracted hippocampal development.
+
+(b) Higher level learning

@@ -1,0 +1,25 @@
+To improve model-based clustering in the misspecified setting, robust clustering methods
+have been developed. Examples include coarsened posteriors for mixture models [155] as well
+as modal-based clustering [156]. While such approaches may result in more robust clustering
+solutions, optimal statistical properties for density estimation may be lost. In general, both density
+estimation and clustering may be of interest. Thus, we consider Bayesian model-based clustering
+via mixtures, to retain optimal properties for density estimation, and focus on the comparison
+of different estimates for the number of clusters and clustering solution. In fact, we find that the
+number of clusters can change drastically depending on the estimator used.
+
+The literature discussed above estimates the number of clusters via the marginal posterior on
+the number of non-empty components. Alternatively, the full clustering solution can be estimated,
+without conditioning on the number of clusters, thus also implicitly providing an estimate of this
+number. In fact, Rajkowski [157] demonstrates that the MAP clustering has desirable asymptotic
+properties in the simple example of Miller & Harrison [145], in stark contrast to the severe
+inconsistency of the marginal posterior on the number of clusters. To estimate the clustering
+solution, various ad hoc methods have been proposed [158-161]. Instead, we focus on a decision-
+theoretic approach, obtaining the optimal clustering by minimizing the posterior expectation of
+a specified loss function measuring the discrepancy between the true and estimating clustering.
+The MAP clustering is obtained under the 0-1 loss, and various search algorithms have been
+developed to locate the MAP solution [82,162-164]. Alternative loss functions were considered in
+Fritsch & Ickstadt [165]; Lau & Green [166]; Quintana & Iglesias [167] and Wade & Ghahramani
+[140]. Two widely used loss functions, which are considered below, are Binder’s loss? [168] and
+the variation of information (VI) [169]. General algorithms to optimize the posterior expected loss
+can be found in [140,166], with more recent schemes in Dahl & Miiller [170], Dahl et al. [171] and
+Rastelli & Friel [172] that are particularly suited to large sample sizes and parallel computations.

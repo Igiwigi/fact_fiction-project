@@ -1,0 +1,25 @@
+again, 14 must be 1. However, 1 and 14 cannot be both assigned the value 1, which concludes the
+proof.
+
+
+Figure 1. The set in the original proof of KS has 117 vectors and 118 contexts. Each node represents a vector. Connected nodes
+represent mutually orthogonal vectors. The red node 1is orthogonal to all nodes connected by a red edge, and similarly for green
+and yellow. (Online version in colour.)
+
+The KS theorem is usually presented in two equivalent ways, which mirror the presentation
+given above. The first is in terms of joint measurements of compatible dichotomic (yes/no)
+observables, i.e. the projectors {Pj}; above, and the second in terms of single trichotomic
+measurements, i.e. in the basis {|i), |j), |k)}, or, equivalently, a POVM with effects {|i)(i|, |j)(j|, |K)(KI}.
+This is due to the fact that the measurement in the basis {|i), |j), |k)} represents a joint measurement
+of the three projectors P;, Pj, Pr, with Py = |a)a|, « =i,j,k. We may call the above perspectives,
+respectively, the ‘observable perspective’ (OP) and the ‘effect perspective’ (EP). In EP, we
+are interested in the value assignment to effects of a measurements, independently of which
+measurement the same effect appears in, e.g. the assignment of {0,1} to the effect |i)(i|,
+independently of which basis |i) belongs to. In OP, we are interested in the assignment of a value
+to observables, independently of which joint measurement they belong to, e.g. the assignment of
+a value to P;, independently of whether it is measured together with P; or Py.
+
+The equivalence of these two perspectives is due to the fact that the KS theorem is discussed
+in the context of sharp measurements. This is no longer true if the measurements we are
+considering are unsharp. The discussion of unsharp measurement is necessary for the connection
+of KS-type contradictions with experimental tests. In fact, due to practical limitations and

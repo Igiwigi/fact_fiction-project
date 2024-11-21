@@ -1,0 +1,25 @@
+plementary material, §4 for simulation details; analytically predicted in full lines, from electronic supplementary material, equation (S9) with variance—covariance
+matrix G= ol, where I is the identity matrix and 6 = 0.043 was chosen heuristically; N= 8 and m= 0.467 so that r = 0.125; otherwise same parameters as
+figure 1, middle). (6) Individual values of belligerence observed in a simulation (empty circles, each representing an individual, same parameters as (a)), as well as
+the observed trait population average (full line) and variance (dotted line, time on a log scale). Note that polymorphism, indicated by the bimodal distribution of
+empty circles, occurs before the population average has completely converged to its equilibrium in simulations due to mutations being relatively large (to speed up
+computation time). But as predicted, the trait variance starts to increase significantly only once the population average has stabilized. (c—f) Distribution of each trait
+in a simulation (calculated from time 250 000 for 100 000 time steps, same parameters as (a)).
+
+successful when they are rare as they tend to engage their at the belligerence locus (figure 4c, red). We find that this
+group into a raid and to win contests against groups consist- differentiation is no different before and after the polymorph-
+ing mainly of Doves. But as Hawks become common, their ism emerged or to differentiation at the helping locus (which
+groups suffer from attacks by other groups consisting recall never becomes clearly polymorphic, figure 4c, blue). In
+mainly of Hawks, and as a result pay the high cost of two fact, differentiation among groups at the belligerence locus is
+contests rather than one (i.e. pay cy rather than c,, where the same as expected for a neutral locus (figure 4c, black).
+C2 >2c;). Past a critical frequency, Hawks thus become less This shows that negative frequency-dependent selection
+successful than Doves, allowing both types to be maintained does not generate significant departures in morph distri-
+in the population. This frequency-dependence is thus remi- bution among groups compared to neutral expectation. Put
+niscent of that of the Hawk-Dove game [46,47], with differently, how the two different morphs are distributed
+interactions here mediated by group structure rather than among groups is primarily determined by dispersal and
+occurring strictly among individuals. local genetic fluctuations (due to variance in reproductive
+
+success that generates identity-by-descent) and thus reflect
+the pattern of relatedness.
+
+(ii) Polymorphism within and between groups We additionally examined the effects of different levels of

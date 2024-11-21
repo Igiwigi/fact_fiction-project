@@ -1,0 +1,25 @@
+samples. The noise was modelled using the multinormal prior, we predicted a Gaussian density in crossnobis RDM
+model of the sampling distribution of crossnobis RDMs as space, based on the multinormal model of the sampling dis-
+explained in the Methods. tribution of crossnobis RDMs. The predictive probability
+
+Although pRSA correctly recognized convolutional layers density for a given BCM was thus a mixture of Gaussians.
+1 and 3, assigning a posterior probability of nearly 1 to the We marginalized the likelihood to obtain the model evidence
+data-generating model in both cases (figure 7), the analysis and compute the posterior over the BCMs.
+failed to recognize convolutional layers 2, 4 and 5. At the At the single-subject level, there were 60 datasets (each of
+group level, the inference suggested that the data-generating five ground-truth BCMs for each of 12 simulated subjects). Of
+model was convolutional layer 3 and the posterior prob- these 60 datasets, 2 were recognized incorrectly, i.e. the infer-
+ability assigned to layer 3 in each case again approached ence assigned an incorrect candidate model the highest
+1. This unsettling failure of probabilistic inference is posterior probability; 58 were recognized correctly. At the
+explained by the fact that the inference is performed on the group level, all five BCMs were recognized correctly and
+basis of incorrect assumptions. The analysis incorrectly assigned a posterior probability approaching 1.
+assumed that one of the five layers must have generated These results suggest that pRSA with MMs works well
+
+the data and that the RDMs were computed from the original when its assumptions are correct. It also suggests that the
+
+
+subject 1 subject 2 subject 3 subject 4
+
+= 1
+B
+B2
+E3

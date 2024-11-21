@@ -1,0 +1,25 @@
+disappear at a small value, ¢ ~ 0.27. Figure 9b shows that the same area shrinks with the increase
+of y, vanishing at y * 2.56.
+
+In all the cases, the increase of the total power, P, leads to destabilization of the modes, or
+to their eventual disappearance, as in the case displayed in figure 7. This trend is common for
+previously studied nonlinear PT-symmetric systems [2-9].
+
+Furthermore, figure 9c compares the prediction for the stability boundary of the PT-symmetric
+mode, as given by the analytically derived equation (3.17), with the numerically found boundary,
+produced by the computation of the stability as per equation (2.9). For e < 10, the analytical
+result well matches the numerical counterpart. At large values of ¢, the agreement breaks down,
+the numerically identified stability region being much narrower than predicted analytically. The
+discrepancy is explained, as mentioned above in the different context, by the fact that the finite-
+width potential barrier (4.1), multiplied by large ¢, strongly changes the model, in comparison
+with the underlying one which contains the ideal delta-function. The discrepancy decreases if
+smaller € is used in equation (4.1), but, on the other hand, the use of the splitting barrier with
+a finite width corresponds to the physically realistic situation, as the infinitely narrow barrier
+cannot be implemented in the experiment.
+
+Lastly, PT-symmetric systems are characterized by the flux of power across the gain-loss
+interface, defined as
+
+J=i(ucu” — uyu)|e=0- (4.2)
+
+Normally, J is a growing function of the gain—loss coefficient, y, but there are examples of systems

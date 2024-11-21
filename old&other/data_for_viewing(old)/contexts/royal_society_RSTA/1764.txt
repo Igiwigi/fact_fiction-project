@@ -1,0 +1,24 @@
+parameter, and it was again observed that the fraction is much higher at lower convergence
+ratios.
+
+While these works have focused on indirect drive, direct-drive experiments have also observed
+behaviour that is more 1D-like at low CR. Direct-drive experiments on OMEGA looking at
+shots with adiabats greater than 3.5 observed that the hotspot pressure and compressed areal
+density (the focus of the study) measured experimentally showed much closer agreement with
+1D simulations for convergence ratios below 17 [39]. This level of agreement was quite high;
+the hotspot pressure averaged over the measured neutron rate was found to be about 90%
+of that produced by the 1D simulations. A rapid decrease in agreement was observed above
+CR = 17, which agrees with the previously discussed findings presented by Zylstra et al. As well
+as using direct rather than indirect drive, the work at OMEGA also used conventional DT ice
+layers rather than wetted foams. The fact that a similar trend was observed in the OMEGA work
+suggests therefore that the observations made by Olson ef al. and Zylstra et al. are applicable
+more broadly than to just indirectly driven wetted foam capsules, and also likely applies for
+direct-drive ICF.
+
+However, it is also clear from §2a that 1D performance and yield increase with increasing CR.
+There is therefore a compromise to be made between improved idealized 1D performance, and
+increased agreement between simulation and experiment. Based on the results in [5,6], this work
+will use an upper limit of 16 for the convergence ratio (the first criterion which all simulations in
+the simulation campaign are tested against). This sits firmly in the region where the agreement
+is reasonably good, but enables a much greater level of 1D performance than would be possible
+using the lowest CR values in this range.

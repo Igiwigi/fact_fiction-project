@@ -1,0 +1,25 @@
+the network [23]. It is also possible to estimate the stationary distribution from A by taking -R
+
+we iM 78
+
+pi , (3.4) Y
+
+Ve Lp ak 78
+
+where the sum of the edge weights for edges leaving node i is divided by the sum of edge 8
+
+weights over the entire network. This is a very close to but not exactly equivalent to counting the :
+
+occurrences of ordinal symbols in S due to the fact that equation (3.4) counts occurrences based
+
+on the transition from one symbol to the next, and therefore does not count the final symbol in
+the sequence $,—m-41-
+
+(b) Measures of transitional complexity
+
+An inherent property of any measure of the stationary distribution of a Markov chain, including
+permutation entropy, is that for an appropriate choice of partition the result will be the same for
+both periodic dynamics and uniformly distributed noise, and this may be undesirable in certain
+applications. Permutation entropy will only be minimized for fixed points and strictly monotonic
+signals. On the other hand, measures of transitional complexity quantify the local uncertainty of
+each state in the model and can therefore reveal additional information about the dynamics. For

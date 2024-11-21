@@ -1,0 +1,25 @@
+(b) Modelling component distributions
+
+In most of the widely used ICA algorithms, the non-quadratic functions G; are fixed; possibly just
+their signs are adapted, as is implicitly done in FastICA [77]. From the viewpoint of optimizing
+the statistical performance of the algorithm, it should be advantageous to learn (estimate) the
+optimal functions G;. As pointed out already, the optimal G; has been shown to be the log-pdf of
+the corresponding independent components [3,4]; so this is essentially a non-parametric problem
+of estimating the pdfs of the independent components. The problem was analysed ona theoretical
+level by Chen & Bickel [78], who also proposed a practical method for adapting the G;. Further
+non-parametric methods were proposed by Vlassis & Motomura [79], Hastie & Tibshirani [80]
+and Learned-Miller & Fisher [81].
+
+In fact, an ingenious approach to approximating the optimal G; was proposed much earlier
+by Pham & Garrat [7], who approximated the derivative of G; as a linear combination of a set of
+basis functions. It was shown that the weights needed to best approximate the derivative of G;
+can be obtained by a rather simple procedure. It seems that this method has not been widely used
+mainly because the main software packages for ICA do not implement it, but on a theoretical
+level, it looks extremely promising.
+
+
+An alternative approach was proposed by Bach & Jordan [82], in which the fashionable 1s |
+reproducible kernel Hilbert space methods were used to approximate the dependency between
+
+two estimated components. The theory was further developed in Gretton et al. [83], among others. a
+Another approach using a direct estimate of mutual information was developed by Stégbauer : s

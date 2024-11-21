@@ -1,0 +1,25 @@
+The atmospheric pressure Patm is constant along the free surface [35].
+
+In what follows, we will introduce the potential theory formulation of Euler’s equations in
+order to formulate a boundary integral equation useful for studying particle trajectories beneath
+a Stokes wave travelling along the free surface. We consider Stokes waves which are smooth
+solutions to Euler equations. These are nonlinear, periodic travelling wave solutions of spatial
+period 4 and speed c. The speed is taken to be positive and, without loss of generality, we study
+waves propagating to the right. All dependent variables in the above system of equations are
+A-periodic and will be written in terms of the travelling variable (x — ct). The wave profile 7 is
+taken to have only one crest and one trough per period. The wave profile decreases from crest to
+trough. Moreover, n, u and P are symmetric with respect to the crest, while v is antisymmetric. In
+the absence of stagnation points in the flow, the symmetry of the free surface (visible in all figures
+presented in the paper) is guaranteed by the fact that the wave profile is monotonic between crests
+and troughs. For irrotational waves the reader will find details in the book by Okamoto & Shoji
+[36], while for rotational waves, details are in the article by Constantin et al. [37].
+
+We take the undisturbed water level to be at y=0 in such a way that the mean-zero (wave
+elevation) condition
+
+a
+| n(x, t) dx =0
+0
+is satisfied.
+
+We now recast the Euler equations in terms of potential theory. Let ¢(x,y,t) be the velocity

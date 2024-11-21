@@ -1,0 +1,25 @@
+
+Lemma 6.3, together with F being the compositum of Fy,...,F, and with the classical fact that
+Gal (F;/E) = Sn, easily yields proposition 6.1; see [2, §3] for the full details.
+
+We note that lemma 6.3 was proved in [7] also in characteristic 2. In this case, 5x(f) needs to
+be defined in terms of Berlekamp’s discriminant, as the residue class [Berl(f)] in E/g(E), where
+@(y) =y? + y. We shall prove lemma 6.2 in this context, for 1 > 2, in analogy to the proof in [2].
+This is the last required piece in the proof of proposition 6.1 for characteristic 2.
+
+Proof. Consider an arbitrary extension Fy, write t=Up and consider specializations
+(Un...) Un 1) a= (1.01) ER. The specialization of the polynomial F is f =x" +
+Qy1x" 14... +ayx+te Fye[x, t]. E/@(E) is specialized into Fy (t)/s(F,(t)), and we shall work
+in this quotient. Examine the proof of proposition 3.3. In its course we have in fact shown that if
+[Berl(f + @1)] 40 (i.e. a ¢ An UC(1)), and discx(f + a1) is coprime to discx(f + aj) for each j #1 (i.e.
+a¢B, UC,), then [Berl(f + @1)] + --- + [Berl(f + a,)] 40 (i.e. a € G,). We have also demonstrated
+that this must be the case for all but at most AG + 3)n?q°"-?) specializations. The same arguments
+imply that if we further require that [Berl(f + «;)] 40 for eachi=1,...,r, and that disc,(f + aj) is
+coprime to disc,(f + oj) for all j #1, then for any non-empty set of indices Ic {1,...,7}, we have
+Nie/[Berl(f + aj)] 40, which is an equivalent statement to [Berl(f + )],...,[Berl(f + ar)] being
+linearly independent in Fye(t)/@(Fq(t)). Furthermore, this must be the case for all but at most
+
+3r(r +3)n?q°"-) of the q°"-) specializations a € Fer. In particular, for large enough exponent
+e, it is clear that there must exist at least one such specialization. But since a linear dependence in
+E/(E) would survive specialization, it follows that the set of 5,(F;) = [Berl(F + a;)] must indeed
+be linearly independent in E/(E). a

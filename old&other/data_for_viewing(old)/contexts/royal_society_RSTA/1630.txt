@@ -1,0 +1,25 @@
+
+Let €={(4,u) €R x Hy: f(a,u) =Oandu 0} and for icJ, let C; denote the connected
+component of E U {(11;,0)} containing (11;,0). If (A, u) € Cj, |lu Ip =A(H(u),u)4a =A Jo(sin u)u dx, and
+it is easy to deduce from this that
+
+ra
+A> A(A) and ||u\|4 < ——, 4.6
+= A(A) I l4< aH (4.6)
+
+using first the inequality (sin 6)0 < 6? and then |(sin@)6| < |6|.
+
+Theorem 4.7. Suppose that condition (A) is satisfied and that A(A) < }. Then for every i€ J, uj isa
+point of global bifurcation in R x Ha for the equation f(A, u) =0 and, in fact, C; has at least one of the
+following properties.
+
+(a) C; 0 [R x {0}] = {(4i,0)} and sup p(C;) = oe.
+(b) C0 [8 x (0}] AB where Yj =[B\{uj}] UZ, 00).
+
+
+Remark 4.8. By theorems 3.3 and 3.9 of [30], case (b) does not occur for C, and C; = {(A, uy):
+2 > A(A)} where 1 +> u,, is continuous from [A(A), co) into Ha with uy(4) =0 and u,(x) > 0 for
+x €[0,1) for all A > A(A).
+
+Proof. It will suffice to verify that the hypotheses of theorem 3.10 are satisfied with X = Ha, U =
+Q=R x Ha, G(4,u) = uand K(a,u) = —AH(u). Clearly, condition (d1) is satisfied with D,,G(A, u) =

@@ -1,0 +1,25 @@
+are denotations from some well-quasi-ordering principle F, i. an operator mapping each
+well-partial-order P to a well-partial-order consisting of denotations with parameters from P.
+Equivalently this term order for a well-quasi-ordering principle F could be defined as the w-th
+iteration F°() of F. The result of [59] was that the generalized Kruskal theorem is equivalent to
+IT} -CAg.
+
+In this article, Freund and Uftring investigate what base theory is required to prove this
+equivalence. Namely, they proved that RCAg + ADS is sufficient to prove the equivalence between
+I7}-(A and uniform Kruskal theorem (ADS is the principle asserting that any infinite linear order
+either contains an infinite ascending chain or an infinite descending chain). And at the same time,
+they establish that over RCAg the uniform Kruskal theorem does not imply TT} -(Ag.
+
+The proof of the fact that uniform Kruskal theorem implies IT} -CAg is quite involved and
+indirect: it relies on a result of Freund that JT}-CAy is implied by Bachmann-Howard well-ordering
+principle, which in turn had been obtained by a rather advanced proof-theoretic techniques.
+
+Question 3.4. Is there a simple direct proof of m1} -CAp in RCAg + ADS+ uniform Kruskal theorem?
+
+Also it would be interesting to find some other natural well-quasi-ordering principles
+equivalent to stronger theories, such as m1} -CAo.
+
+(j) The spectrum of TT,-soundness [60]
+
+This article studies an invariant-like object associated to a theory T which the authors denote
+O}(T). Rather than focusing on particular ‘natural’ theories, as is commonplace in the field,

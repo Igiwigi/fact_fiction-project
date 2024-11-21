@@ -1,0 +1,25 @@
+8 (inclusion) mapping of the space H(p) onto the subset H(p) of the space H(R) is continuous,
+} the topology of H(p) being finer than that of H/ (R). Hence H(p) is either of the first category
+for identical with H(R), and the latter alternative is false. Finally, H(R) = UHA(R,), where
+
+ER, = R+1/n. i
+
+q It is instructive to consider the statement of topological theorems when interpreted in
+
+3 terms of H(D). If f(z) = Sa,z"e H(p), then the corollary to theorem 1-1 shows that the
+iS n=0
+
+3 Taylor coefficient a, is a continuous linear functional on H(p). The inequality expressing
+A this fact reduces to Cauchy’s inequality. If we denote max | f(z) | by M(r) and the majorant
+zl=r
+
+S |a,|7" by Wir), corollary 2 to theorem 1-2 gives Mir) <AM(R) for any R>r (since we
+n=0
+can vary p) and some constant A (depending on r and R). This inequality can easily be
+
+obtained by an application of Schwarz and Cauchy’s inequalities (strong form), but the
+corresponding inequality for, say, H(C) with Faber polynomials as base, is less obvious.
+
+4, SPACES OF FUNCTIONS REGULAR IN CLOSED CIRCLES
+
+We have seen above that the vector space H(r) can be regarded as the dual of an ¥-space

@@ -1,0 +1,25 @@
+
+2=25, 2.15
+
+L L (215)
+with the solution 2
+
+, (2.16)
+
+L=[Vii+ = (Via-vi)|
+where L; is the initial piston position at t = 0 and Lz the end position at f = t.
+
+Interestingly, also for the adiabatic work, the variational principle yields the same result for
+L(t). This is a direct consequence of that fact that in the adiabatic processes dW(t) = dU(t) and
+v,(t) = /2U()/fNm. The variation of the ensuing work 5Wgas involves terms
+5Weas(t)
+fNmiv-(t)’
+
+Since we require 5Wgas(t) =0 for all f it then also implies that 5vz(t) =0. As a consequence, the
+adiabatic variational principle yields the same solution as the isothermal case, as already stated
+above.
+
+In passing, it should be noted that there exists no smooth (non-singular) solution for the above
+variational principle that satisfies the constraints L(to) = L(t) = 0. This, in turn, implies that it is
+impossible to construct a machine that actually attains minimal irreversible energy losses and is
+still compatible with those boundary conditions.

@@ -1,0 +1,25 @@
+trapped energy current, pretty much analogous to a capacitor!
+
+
+4. Mathematical models for energy-modulated computing
+
+(a) Modelling Wakefield experiment in Petri-nets
+
+In this section, I would like to make a brief excurse to a computational model called Petri nets.
+The name that this model bears is attributed to Prof. Carl Adam Petri, whose work [24] on causal
+models of information processing and communication using a graphical formalism of condition-
+event nets in the 50s and early 60s had led to a significant amount of research and applications
+in computer science and beyond. Petri nets have a very clear distinction between locality and
+nonlocality. In fact, in Petri nets, one can express cause-effect relationship between discrete events
+in a very succinct form, even if one has many events occurring concurrently and independently
+in space. I spent nearly 40 years studying different types of Petri nets and their semantics and
+applying Petri nets to the analysis and design of electronic systems.
+
+What is a Petri net? It is a bipartite directed graph [25] with nodes being either places (denoted
+by circles) or transitions (denoted by bars). Sometimes places are also called conditions and
+transitions are called events. The arcs of the graph, called a flow relation, can only go from
+places to transitions and transitions to places. These arcs define the causality relation between
+transitions, i.e. events, via places. Places, transitions and arcs define the structure of the net.
+A Petri net can produce a dynamic behaviour, which is defined by the initial position of token
+in some places (called initial marking or initial state) and some rules of a ‘token game’, i.e. the
+method according to which the current marking can change into the following marking and thus

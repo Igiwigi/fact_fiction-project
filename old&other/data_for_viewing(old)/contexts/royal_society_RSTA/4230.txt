@@ -1,0 +1,25 @@
+model that can be estimated from time-series data of each subject. It is noted that the inclusion
+of HR as a third input does not alter the PDMs of the other two inputs obtained by use of the
+two-input model. This is additional evidence of the independent influence of HR changes.
+
+An important question that arises from critical contemplation of the proposed approach is
+whether the obtained PDMs (being singular vectors derived from SVD of the kernel matrix,
+and not statistical estimates) reflect actual physiological entities or they are simply by-products
+of the computational method. This valid concern can be addressed through statistical analysis
+of the ANF coefficient estimates that are associated functionally with the PDMs, because these
+coefficient estimates (obtained via least-squares regression) directly define the contribution of
+each PDM to the model prediction. When we performed the traditional analysis of statistical
+significance (p-values) on the obtained ANF coefficient estimates, only a subset of these
+coefficients were shown to be statistically significant (table 2) despite the fact that nonlinear
+models were found to satisfy the BIC as discussed above. This may imply that a larger sample of
+subjects and/or longer data records may be required to demonstrate the statistical significance of
+some of these coefficient estimates (because the statistical hypothesis testing is a sufficient but not
+necessary condition). It may also indicate that the presence of possible system non-stationarities,
+which has been investigated recently [26,27], may affect the results of traditional hypothesis
+testing (p-values).
+
+Examination of the relative contributions of the three inputs (in terms of their average RMS
+values over all subjects) to the prediction of the output reveals that ABP makes the largest
+contribution (RMS mean = 1.78) with the ETCO2 second (RMS mean = 1.37) and the HR third
+(RMS mean = 0.93). The importance and independence of the contribution of HR changes to
+the dynamic changes in CBFV is illustrated in figure 5 for one subject, along with the relative

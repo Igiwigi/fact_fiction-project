@@ -1,0 +1,25 @@
+
+system. The perturbation includes nonlinearity and the deviation from the bifurcation point, both : &
+of which are assumed to be sufficiently small. When we proceed to systems of weakly coupled : s
+oscillators, the coupling force from the other oscillators will simply be regarded as a sort of 13
+perturbation acting on the oscillator in question. {=
+
+In the phase reduction, the unperturbed system is given by a single limit-cycle oscillator : a
+running along or near the closed orbit. There the phase of the oscillatory motion represents a : =
+neutrally stable degree of freedom. Similarly to the oscillator near the Hopf bifurcation, weak : =
+coupling force from the other oscillators and weak external drive, if necessary, are treated as [3
+perturbation. : =
+
+The fact that the unperturbed system contains a neutral mode implies that its solution as 8
+t— oo includes at least one arbitrary parameter. For instance, the solution of the linearized if
+system at the Hopf bifurcation as t > oo is given by a harmonic oscillation z = iwz, where the : s
+complex amplitude z may be multiplied by an arbitrary complex number. For a limit-cycle motion : §
+along the closed orbit, the phase ¢ changes as ¢ = or ¢ = wt + , where the initial phase yp is : S
+
+arbitrary.
+
+The most basic idea of reduction is to reinterpret such an arbitrary constant as a dynamical
+variable, and absorb the effect of perturbation into this variable thereby causing its slow
+evolution. At the same time, the unperturbed form of the solution must inevitably be changed,
+but only a little. This small change modifies the dynamics of the slow variable, which in turn
+produces an even smaller correction of the solution form. Such processes of mutual correction

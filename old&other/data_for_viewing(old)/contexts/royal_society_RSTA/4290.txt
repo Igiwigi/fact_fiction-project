@@ -1,0 +1,25 @@
+with Step 4 provides the energy balance (E) in definition 2.1 for energetic solutions, and the proof
+of theorem 3.1 is finished, except for the construction of the MRS.
+
+The remaining part in the above proof is the difficult Step 3, where the stability of the
+accumulation point q : [0, T] > Q is established. In [8, §5], this step was done under the restrictive
+assumption of convexity of E(t,-). Here, we show that the proof via the construction of
+MRS is more flexible. Of course, we still need a fine tool from weak convergence theory,
+namely H-measure or microlocal defect measures; see [40-42] for the more general microlocal
+compactness forms.
+
+(c) Pseudo-differential operators and H-measures
+
+To understand the set of stable states a little better, we can use the facts that E(t,-) is quadratic,
+that E(t, -,@) is uniformly convex (by Korn’s inequality and J, da > 0), and that D depends on 6
+only. Thus,
+
+q=(u,0) € S(t) => uminimizes E(t,-,0) > U=Uelast + BO,
+
+where the minimizer Uelast(t) of E(t,-,0) satisfies Uelast(-) € gpir + C!([0, T]; U). The linear
+operator satisfies Be Lin(L7(@); U). Defining J(t,0) := E(t, Uelast(t) + BO,0), we arrive at the
+
+
+quadratic functional
+
+I(t, 0) = 5 (LO, 0) + (BE), 0) + a(t) = min { E(t, u,6)| ue UY,

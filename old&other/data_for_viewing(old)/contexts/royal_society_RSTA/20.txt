@@ -1,0 +1,25 @@
+A NN model can comprise L hidden layers, sequentially combined in what is known as a deep
+NN.
+
+When NNs are employed in MLPs, they often rely on a locality assumption, restricting
+energy contributions to a certain distance from each atom [85]. This approximation is suitable
+for materials where short-range interactions dominate. However, in the case of ionic conduc-
+tors, caution is warranted due to the non-negligible influence of long-range Coulomb interac-
+tions. Despite this consideration, NN-based MLPs demonstrate promising results, showing
+good agreement with experimental data and estimated errors comparable with those obtained
+through DFT-based AIMD simulations. For example, in the computation of Li vacancy diffusion
+in amorphous Li3PO4, NN-based MLPs exhibit excellent performance, achieving results
+comparable with DFT-based AIMD simulations with significantly reduced computational times:
+approximately four times faster [86]. In fact, NN potentials have found excellent applicability
+in studying ionic conductivity in solid-state electrolytes, as evidenced in investigations on
+LigGeP 2819 [87], LipLagZr2O1 and Na3Zr7SizPO}p [88].
+
+Moving now to MTPs, this relatively novel class of MLPs relies on an efficient polynomial
+basis of interatomic distances and angles. In MLPs, the total energy of the system (E"™) is
+defined as the sum of individual atomic contributions (V):
+
+
+N
+E™ = )V(s). (4.4)
+
+Here, N denotes the total number of atoms, and s; represents the set of atomic numbers and

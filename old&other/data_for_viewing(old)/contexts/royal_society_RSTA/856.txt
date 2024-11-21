@@ -1,0 +1,25 @@
+
+This subsection is concerned with a selection criterion o* =2djD7/(p?V) that determines a
+combination between the dendrite tip diameter p and its tip velocity V. We obtain this
+combination on the basis of dendritic growth theory developed in a similar paper in the present
+theme issue [20]. The criterion for o* given below generalizes previously known criteria and
+comprises the hyperbolic mass transfer mechanism in a binary melt, growth kinetics and forced
+convection. The main idea of how to derive this criterion consists in developing the laws
+for formal transition between the hyperbolic and parabolic equations that describe the solute
+concentration in the liquid phase.
+
+Let us initially emphasize an important feature of hyperbolic integrals (4.6) and (4.7)
+characterizing the steady-state dendritic growth at high solidification velocities V (at high growth
+Péclet numbers Pry). This feature resides in the fact that the integrals (4.6) and (4.7) (for the
+transport described by the hyperbolic equation) transform into equations (4.4) and (4.5) (which
+are true for the transport described by the parabolic equation) after introducing new spatial
+coordinates (subscript ‘new’) of the form
+
+x1 =V1—Wxinew, X= V1—Wanew =pVin, 2=V1—Winew=F(n—§) (4.9)
+
+(and y1 = V1 — W?y1new, ¥ = V1 — W?ynew in the three-dimensional geometry). Indeed, keeping
+in mind that ¢(x) — ¢(x1) = (x? — x?)/2 (and ¢(x) — ¢(x1) = (x? — x?)/2 + (yj — y°)/2 in the three-
+dimensional case), and ky =k, becomes kg, one can conclude that expressions (4.6) and (4.7)
+become identical to expressions (4.4) and (4.5). Expressions (4.9), in turn, imply that the hyperbolic
+problem transforms into the parabolic one after substitution p//1— W? = p/(1 — Pet.) by pnew
+in coordinates Xnew, Ynew and Znew. It is important to highlight here that the selection parameter

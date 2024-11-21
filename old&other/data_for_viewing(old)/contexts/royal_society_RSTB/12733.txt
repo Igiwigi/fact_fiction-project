@@ -1,0 +1,25 @@
+Zx) may be indicative of a causal process of selection at the done in [7,8,20]). This approach expresses causal relationships
+group level, but it may equally be a side-effect, or by-product, with a directed causal graph and draws on the general relation-
+of individual-level selection. ship between causality and probability [15,21]. In the present
+The general moral here is that we must be wary of reading context, we are interested in the causal relationships among
+causal meaning into bare statistical formulae. This danger is the three variables appearing in the Price equation (2.3),
+particularly acute in a multi-level context, where it is easily namely fitness w, genetic value z and the allelic frequency
+missed. The partition of AZ in equation (3.2) does not dis- among the successful gametes 2’. In the case of ‘selection for’,
+tinguish between two causal models: (i) individual fitness wi, the parent’s genetic value z affects both w (through selection)
+is caused by zj alone; and (ii) w;, is caused by both z% and Z, and z’ (through transmission). Letting €,, €, and €,, summarize
+(figure 1). The value of Cov(W,, Z;) could be identical in both all other causes of w, z and z’ respectively, we obtain figure 2 as
+cases; but in case (i) it is both intuitively inappropriate, and the default causal model [7].
+untrue to the history of the concept, to talk about ‘group selec- The causal model explicates the conditions for counter-
+tion’. This is the fundamental reason why the multi-level factual reasoning. When we resorted to hypothetical
+Price equation (3.2), for all its usefulness as a conceptual tool interventions to separate out the differences made by selection
+for thinking about altruism, does not cleanly yield a ‘formal and transmission bias in §2c, we noted that the reasoning
+separation of levels of selection’, contrary to what Price and depends on causal assumptions. For example, in eliminating
+Hamilton thought. transmission bias by setting 6;=0 for each individual, we
+Of course, if we were to content to understand selection in stipulated that this leaves the other variables (apart from z’)
+the ‘selection of’ sense, this worry would not arise. That is, if unchanged. Given the causal model in figure 2, such an inter-
+we simply take it as true by definition that whenever Cov(W,, vention amounts to setting €, =0 for each individual, and at
+Z,) is non-zero, group selection is occurring, then our objection the same time assuming that there is no arrow from 2’ to z or
+to the causal interpretation of the multi-level Price equation w. Likewise, that the elimination of selection by setting w = ©
+(3.2) could be side-stepped. However, in the context of does not change the other variables is warranted by the absence
+multi-level selection, this is an inadvisable move, for it is tan- of an arrow from w to z or z’. Figure 2 satisfies all these require-
+tamount to rejecting Williams’s distinction between group ments and thus provides an exemplar causal structure in which

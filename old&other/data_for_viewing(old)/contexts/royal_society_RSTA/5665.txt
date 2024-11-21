@@ -1,0 +1,25 @@
+how well it can extrapolate beyond the training data to predict the statistical responses subjected
+to various new time-dependent forcing functions and initial conditions.
+
+
+Numerically, we examine the ML closure on a simple test model, the Lorenz ’96 (L-96) system, 3 |
+that was first introduced by Lorenz [26] as an idealization of atmospheric waves in midlatitude.
+
+While the model is simple, it carries some properties of realistic turbulent complex systems 3
+[27,28] such as the energy preserving advection-like nonlinear term, and a wide spectrum of oS
+
+unstable modes through the nonlinear coupling between states. Beyond the simplicity, which
+allows us to carry the numerical verification with moderate computational costs, our choice to
+investigate this case is largely motivated by the fact that closure models for a coupled system of
+the mean and covariance statistics have been well developed and improved in [4,9,28]. These
+parametric closure models, developed based on clever physical intuition, have demonstrated
+accurate statistical predictions. In such a configuration, we found that the ML-based model can
+produce accurate statistical responses (comparable to the parametric model) on moderate to large
+forcing amplitudes. Despite the effective prediction with parametric closure models in [9,28], the
+cost of calibrating the statistical modes throughout the entire spectrum can become very high
+as the dimensionality of the problem increases [5,10]. In addition to this practical problem, a
+more fundamental issue with parametric modelling is that the design of accurate closure models
+crucially depends on knowing the physics well enough, such as self-similarity or some structure
+of the underlying dynamics. As an example that illustrates this issue, we will compare parametric
+and ML closure models for only the mean statistics (no dynamical models for the variance are
+involved) in the simple L-96 example. In this scenario, we find that the agnostic ML framework

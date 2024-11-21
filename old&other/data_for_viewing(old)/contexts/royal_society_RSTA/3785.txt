@@ -1,0 +1,25 @@
+va: a dk, 0a; 0a;
+condition for instability a>0 —k, > Oand — >0 coi(ko) > 0, — (ko) = — (ko) = 0
+de Ok; ok,
+
+(iv) inject the normal mode decomposition exp(i(kx — wt)) to obtain an eigenvalue problem of the
+form iwB(k)X = A(k)X, which can be solved analytically when the number of degrees of freedom
+included in the unknown disturbance variable X can be reduced rigorously (as in the most cases
+reported in this review) or numerically when X is a discretization of the disturbance variable.
+
+Let us now exemplify these four steps by considering the Rayleigh—Plateau instability in
+the inviscid limit (Oh <1). Denoting by the dynamic viscosity of the fluid and by 9 its
+density, the Ohnesorge number Oh = 1/(,/ py Ro) compares viscous effects and inertial effects. The
+Ohnesorge number is in fact the inverse of a Reynolds number where the velocity scale \/y/(pRo)
+would be capillary driven. Let us start from the depth-averaged equations governing slender jets
+introduced by Eggers & Dupont [17], which express the conservation of mass and momentum in
+the inviscid limit:
+
+(1) Denoting R(x, t) the radius of the thread, U(x, t) the mean axial velocity, we write
+
+dR dR 10U
+
+agR_ PR _ tau 2
+
+dt Uae 2 ax 62)
+and

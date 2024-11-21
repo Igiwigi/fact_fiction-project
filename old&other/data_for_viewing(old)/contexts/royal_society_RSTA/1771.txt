@@ -1,0 +1,25 @@
+
+i
+
+Ti a/Iy
+
+Figure 5. CBET power transfer relating the transmitted power of beam 2 to its incident power as a function of the incident
+beam intensity for the cases of RPPs (black curve) and SSD with 35 = 6 (blue) as well as 18 (red) and with Vmoa = 17 GHz as
+well as Vmoq = 50 GHz (green curve). All solid curves correspond to a single colour cycle N.. = 1. The dashed blue line shows
+the single case with two SSD colour cycles (Ncc = 2), otherwise for the same parameters as the 35 = 6 and Vmoq = 17 GHz
+case. The dashed curve in orange corresponds to the analytic model for power transfer, 7(G) as explained in §2c. (Online version
+in colour.)
+
+with respect to RPPs. This is emphasized by the fact that for lower intensities up to Ip/Ip ~
+0.75, in absence of nonlinear processes, the lower bandwidth SSD case reproduces the RPP
+case values. The same is seen when inspecting density perturbations comparing the RPP and
+the SSD cases, see figure 6: the RPP case shows the strongest nonlinear structures due to the
+presence of speckles, which still are present for the SSD case with 17GHz, 35 =6 SSD. The
+higher bandwidth cases for SSD, 17 GHz with 36 = 18 and 50GHz with 35 = 6, seen in the red
+and green curves of figure 5, respectively, clearly diminish the CBET net transfer with respect
+to RPPs. This holds already for the lower intensity range in which nonlinear effects due to self-
+interaction in the beams do not arise. The latter is a clear signature that the incoherence of the
+average beams 1 and 2 induces, smaller density perturbations at the wavelength Ag/(2 sin 7/2) (i.e.
+approx. 1 1m for the case discussed here) as expected from the coupling via the VUcross term in
+equation (2.5b), ~ a,a2. The amplification of beam 2 via CBET is hence reduced in time average
+due to temporarily incoherent coupling between the beams [34]. The SSD cases at high effective

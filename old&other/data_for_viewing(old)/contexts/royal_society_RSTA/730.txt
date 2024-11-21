@@ -1,0 +1,25 @@
+frequently observed and a modified two-lobed mode can occur as a solution to the model
+equations. However, a finite perturbation is required to achieve it, as shown in the finite-element
+calculations [18] and complementary experiments [19], which included the effects of friction. In
+contrast to the unconstrained ring, the buckled state in the constrained problem does not arise at
+a pitchfork bifurcation from the circular state. Instead, the branch corresponding to the buckled
+state is disconnected from the trivial branch, and it is bounded by a saddle-node bifurcation, i.e.
+
+a stable and unstable pair of branches meet at the saddle-node near the undeformed value of : 8
+the radius. Do
+
+This relatively simple system is a didactic example in which the base state is linearly stable, : =
+but there exists an alternative state that is observed in experiments under finite perturbation. In : S
+fact, Chan & McMinn showed that the buckled state becomes exponentially close to the base state 2
+as the radius of the confining ring decreases. Thus, eventually the imperfections in the system aed
+are enough to force the buckled state. The situation is not the same as the classic imperfection 22
+sensitivity of thin-walled shells under pressure loading [20]. In this case, there are bifurcations : Ss
+from the trivial state, but the bifurcations are subcritical, which means that small imperfections DNS
+can induce buckled states at much lower loads than in the perfect system. Despite these theoretical : 5
+differences, however, the practical consequences will be the same, and it would not be possible to 8
+
+identify the difference between the two solution structures from experiments alone.
+
+In this paper, we consider a series of novel constrained buckling problems in which the
+symmetry of the external confiner is modified from a continuous to a discrete group. We replace
+the circle by a regular n-gon with n > 2. In this case, we find that generically the system undergoes

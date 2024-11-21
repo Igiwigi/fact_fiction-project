@@ -1,0 +1,24 @@
+In [8] (see also [9,10]), the spectrum of a= a, is shown to obey several ‘mathematical phase
+transitions’; one conditionally (i.e. if RH holds), in the midfractal case (in the sense of [13-15])
+when D = i and another one unconditionally (i.e. independently of the truth of RH), at D = 1. The
+first phase transition is intimately connected with the universality of the Riemann zeta function
+[8,11]. A brief exposition of some of the most relevant results of [8-12] is provided in §4.
+
+The spectral reformulation of the RH obtained in [4], revisited and extended in [5-7] in the
+light of the mathematical theory of complex dimensions, and given a rigorous operator theoretic
+version in [8-10], is a symmetric criterion for RH. Indeed, owing to the functional equation
+satisfied by ¢ = ¢(s) (and thus connecting ¢(s) and ¢(1 —s)), it can be equivalently formulated
+for all values of the underlying parameter (D in [3,4] and [5-7] or c in [8—12]). By contrast, the new
+criterion for the RH obtained in this paper is asymmetric, in the sense that it is only stated (and
+valid) for all values of the underlying parameter c in the open interval (0, 3). In fact, its counterpart
+for all values of c in the symmetric interval (4,1) cannot be true, due to the universality of the
+Riemann zeta function ¢ = ¢(s) in the right critical strip 3 < Re(s) < 1. More specifically, the main
+new result of this paper is the following (see §5 and theorem 1.1): the spectral operator a = a-
+is invertible (in the usual sense of the invertibility of an unbounded operator) for all values
+of c in (0, 3) if and only if the RH is true. Again, this new asymmetric spectral reformulation
+of RH does not have any analogue for the interval G, 1) because the spectral operator is not
+invertible for any value of c in (Gs, 1). This raises the question of finding an appropriate physical
+
+
+interpretation for this asymmetry, which amounts to finding ‘the’ physical origin of the phase
+transition (conditionally) occurring in the midfractal case where c = }

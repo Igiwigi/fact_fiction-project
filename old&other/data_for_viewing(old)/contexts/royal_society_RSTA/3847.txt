@@ -1,0 +1,25 @@
+optical elements, by exploiting symmetry conditions in the cavity, and by composite optical
+techniques. Early work by Chen et al. outlined some of the considerations to achieve OAM mode
+control in lasers [24]. However, many of these approaches were unable to produce controlled
+helicity and instead the cavity produced one of the odd/even modes as the fundamental. Such
+superpositions of OAM modes have been observed in cavities with spot-defect mirrors [25,26]
+(figure 2), alignment-insensitive Porro prism resonators [27] (figure 3), and in a cavity where
+a single highly aberrated lens was used to control the mode [28]. In some cases, somewhat
+randomly, such amplitude approaches have been able to select a vortex mode but without
+control over the handedness. This was recently shown in a helium-neon laser with a spot-defect
+mirror [29]. A novel amplitude-based approach that does allow control over the handedness was
+introduced by Lin et al. [30]. In this approach, two nanoscale-thickness aluminium strips were
+inserted into a conventional diode-pumped solid-state laser, strategically placed to introduce
+higher loss for one helicity when compared with the other by virtue of the fact that the standing
+wave pattern is a lobe structure that rotates in opposite directions for the two helicities (figure 4).
+By this method, it was shown that helicities of = +1 could be selected.
+
+An alternative approach to selecting the desired mode is by shaping the pump light to be
+annular [31]. This forces the laser to oscillate in an annular profile by gain shaping [22] rather
+than loss shaping—the complement of the spot-defect approach. A similar mechanism has been
+employed in a double resonator configuration where the gain is controlled to select the desired
+mode [32].
+
+In 2007, Okida et al. [33] made use of an asymmetric ‘bounce oscillator’ to force lasing
+on multiple Hermite-Gaussian modes in a Nd:YVO4 gain medium with cylindrical lenses so
+that the superposition formed a helical OAM mode. In this cavity no special optical elements

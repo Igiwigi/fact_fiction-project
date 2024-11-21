@@ -1,0 +1,25 @@
+k=0,1,...,m—1. aivel
+|
+9
+DN
+Condition (P) guarantees that the semigroup {T(t),t > 0} is positive, ie. T(t)x = 0 for x > 0. From : 3
+both conditions (P) and (I), it follows that there are: a constant r € R and vectors x* > 0 and y* > 0 : &
+such that 7
+
+lim e"T(x =x" (y*,x) for x eX, (7.1)
+
+t00
+
+and the convergence in (7.1) is exponential. The fact that the limit projection has rank 1 is a
+consequence of the irreducibility assumption (I). A semigroup {T(t),t = 0} satisfying condition
+(7.1) is said to have asynchronous exponential growth. It should be mentioned that one can find
+in the literature, e.g. [28], a more general definition of asynchronous exponential growth, where
+it is only assumed that e~"T(#)x converges to a non-zero finite rank operator.
+
+This theorem is a consequence of quite non-trivial properties of the matrix Q. First of all, the
+number r is a dominant eigenvalue of Q, which means that any other eigenvalue 4 satisfies Re A < r.
+Also, the general eigenspace associated with r is one-dimensional, and x* and y* are left and
+right eigenvectors corresponding to 1, i.e. x*Q=rx* and Qy* = ry* (it follows that T()x* = ex’).
+Finally, the functional a defined by a(x) = (y*, x) is positive, i.e. a(x) > 0 for x > 0.
+
+If assumption (I) is dropped, the dominant eigenvalue reéR still exists, but (7.1) needs

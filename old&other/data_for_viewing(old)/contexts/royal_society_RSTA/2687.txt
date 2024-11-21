@@ -1,0 +1,25 @@
+As explained in the previous sections, the Filtered Back Projection (FBP) method [12], in
+principle, can be used for the image reconstruction using muon data. However, this method was
+not widely adopted by researchers. There are several reasons that are responsible for this. The first
+one is that this method needs to have a muon beam in order to be able to calculate the muon beam
+attenuation and to calculate the scattering angle distribution width. This shortcoming can be
+accounted for by using a relatively long measuring time. The second reason is that muon imaging
+techniques are naturally three-dimensional imaging methods, thanks to the random cosmic ray
+muon source. Therefore, specially designed three-dimensional FBP methods are needed for muon
+imaging problems, which require extensive research efforts to develop. However, in some special
+cases, the three-dimensional imaging problem can be reduced to a two-dimensional imaging
+problem.
+
+A good example for this is vertical nuclear spent fuel casks. Owing to the fact that spent fuel
+assemblies are very long, spent fuel casks have the same profile at different positions along the
+vertical direction if we ignore the lid and bottom parts. Therefore, for any muon path, if we shift
+it in the vertical direction to a new position, then the materials encountered along the new path
+will be the same as along the original path, therefore the bin size in the vertical direction can be as
+large as the cask itself. Furthermore, we noticed that for muons with the same azimuthal angle,
+x- and y-coordinates, but different zenith angles and z-coordinates, their expected water
+
+
+Figure 1. The layout of the detector system and a MC-10 spent fuel cask.
+
+equivalent thickness or the scattering angle variance differ only by a factor of 1/cos(@) compared aw
+with those values calculated for a horizontal muon beam. If all the muons with the same x- and :B

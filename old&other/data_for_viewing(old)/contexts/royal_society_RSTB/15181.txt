@@ -1,0 +1,25 @@
+the adaptation successfully spreads to all simulated individ- teacher independently of group membership. Our work,
+uals (i.e. agents) in the model, and not the innovation of a then, complements related studies that used alternative
+novel adaptation per se. This represents the cases where, for model formulations. For example, Lieberman et al. [22]
+example, an adaptation is introduced by a development found that network structure strongly constrained adaptive
+actor such as a local government or international develop- trait fixation and evolutionary game dynamics. On the other
+ment agency [6,9]. It also may represent the case where an hand, Deffner & Kandler [23] found that idealized agents
+adaptation already exists and has been maintained through evolved strategies to balance fast innovation with more sus-
+intergenerational transmission, for example, among Indigen- tainable long-term adaptations in a well-mixed, fitness-
+ous populations [9,14]. Adaptation failure in our model is biased learning model; in that model, simulated learners
+represented by the loss of the adaptive behaviour from the chose a fully random subset of teachers from a large popu-
+population, i.e. all agents adopt the non-adaptive behaviour. lation, then learned from the best-performing teacher. Our
+Note, then, that it is possible for model agents to revert to minority—majority approach takes a middle ground, represent-
+the non-adaptive behaviour through social learning after ing the fact that human social networks constrain who we
+learning the adaptive behaviour (the exact model learning interact with, but we also regularly interact with strangers.
+process is explained in §2 below). When either adaptive suc- Our model most closely represents those climate change
+cess or failure occur we say that either the adaptive or non- adaptations that may spread from one person or household
+adaptive trait has fixated, respectively. We will show that to another. The case of climate change adaptation in South
+adaptation success is significantly more likely when minority Pacific Island nations provides several useful examples
+groups start out knowing the adaptive behaviour, indicating to which our model may be applied, where the spread of
+their role as adaptation incubators. We will show that adap- adaptations has been observed to require dedicated inclusion
+tation success is also significantly more likely when the of minority-group populations often spread out among
+majority group has a relatively high degree of homophily several islands, physically and socially separated from
+in order to protect the adaptive behaviour once it has dif- urban, governmental centres located on separate islands
+fused into the majority group, indicating the majority [24-26]. Torres Strait Islanders in the South Pacific, for
+group’s role as an adaptation reservoir, preserving the adap- example, have historically dealt with non-anthropogenic

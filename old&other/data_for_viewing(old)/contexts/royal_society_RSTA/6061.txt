@@ -1,0 +1,25 @@
+nanoparticles as a function of the increasing concentration of NaCl in the sample measured by
+our instrument is decreasing at a similar rate as the measurements done with the commercial
+instrument. Initially, the absorbance intensities were normalized for both instruments. As the
+concentration increases, the intensity measured remains similar (+1.4%) for both instruments
+until a concentration of 206.4\1M is reached. At that point, the absorbance intensity measured
+by the commercial instrument starts to decrease at a slightly higher rate than what is measured
+by the prototype. The highest variation between both instruments was measured at 309.6 1M
+with a difference of ~ 7.9%. The average difference between the two instruments is © 2.2% with
+a standard deviation of 3.0%. The results are promising for the future experiments as they show
+that the results obtained from the instrument's prototype are similar to the results obtained from
+the commercial instrument.
+
+The factor that could influence the measurement of the peak’s wavelengths is the fact that
+the raw data from the prototype needed to have a smoothing applied to them to filter the
+noise over the curve where the data from the commercial instrument were already smoothed.
+It means that, before smoothing, the signal-to-noise ratio of the prototype is smaller than that of
+the commercial instrument's direct output. However, the number of data points of the prototype
+
+
+was higher than those of the commercial instrument over the bandwidth of interest resulting
+from the higher resolution of the prototype versus the commercial instrument. Another factor
+that could contribute to the variation is the Bayer filter (for the colour rendering of the sensor).
+Since the filter only has tree colour pixels (red, green and blue), each rendered colour is a
+combination of the intensity measured from a number of pixels of different colour. Even though
+the prototype was calibrated using a commercial calibration lamp, it does not give information

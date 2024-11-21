@@ -1,0 +1,25 @@
+population (whose equilibrium value over time, R, is shown On the other hand, when N.u is sufficiently high, succes-
+as a straight line in figure 1b), this allele starts to be selected sive waves of erosion—invasion start to overlap, such that
+against, decreasing in frequency, until being eliminated from multiple PRDM9 alleles now coexist in the population. In this
+the population. Of note, the activity of a dying allele is typi- polymorphic regime, diversity at the PRDM9 locus is roughly
+cally not 0. Instead, it reaches a finite level, whose average proportional to Neu (figure 3) and does not strongly depend on
+value (R,.) will be considered further below. the erosion rate vg nor on the fitness parameter a. Furthermore,
+As a way to capture the key features of the Red Queen the consequence of an increase in N, is not anymore an accel-
+dynamics at stationarity, three summary statistics were eration of the dynamics, as in the succession regime. Instead,
+considered: mean recombination activity, genetic diversity when N. increases, PRDM9 diversity increases, such that
+at the PRDM9 locus and turnover time (i.e. the decorrelation recombination spreads over a larger number of more weakly
+time of genetic composition at the PRDM9 locus). For a given recombining hot spots, thus resulting in an overall decrease
+configuration of parameters of the model (effective popu- in the variance of recombination landscapes at the level of
+lation size N., mutation rate at the PRDM9 locus u, erosion the population. Conversely, the fact that the recombination
+rate at the targets vg, fitness parameter a or B), these three hot spots become weaker exactly compensates for the increase
+statistics were averaged over long simulation trajectories. in the strength of biased-gene conversion caused by the
+Their scaling behaviour as a function of the four main larger effective population size, and thus hot-spot lifetime
+parameters are displayed on figures 2-4. Several points (turnover time) now remains constant as a function of Ne
+are noteworthy. (figure 4).
+
+First, the equilibrium recombination rate is suboptimal:
+R<1 (figure 2). Equivalently, there is a recombination gap
+
+IR caused by the Red Queen. One question of interest, (b) Analytical approximations: a linearized mean-field
+
+which will be further considered below, is to characterize argument

@@ -1,0 +1,25 @@
+(ii) There exists a real-valued map g of class CK! defined in a neighbourhood of 0 in R? such that
+
+f(A, A, 2) = A(IAP, 1),
+
+for any A sufficiently small.
+(iii) The coefficients of the leading-order terms in the Taylor expansion of f,
+
+f(A, A, ») = crn + c30AlAP? + OVAI(uI? + IAI), (3.7)
+are given by
+1 4F? (30a — 41)
+c= Q—ay’ C30 (2a)?
+
+Proof. (i) This property follows from the fact that the map ” provided by the centre manifold
+theorem is of class C*.
+(ii) Recall that the dynamical system (3.2) is equivariant under the action of the operators T and
+Th, a € R. According to [9, §2.3.3], these equivariances are inherited by the reduced equation (3.6),
+so that f satisfies
+
+f(A,A,u)=f(A,A,u) and f(el@A,e~“A, u) =ef(A, A, w),
+
+for any a€R and A sufficiently small. Applying the result in [9, ch. 1, lemma 2.4], the second
+equality above implies that f is of the form (3.7) with g a complex-valued function, and then
+from the first equality above we conclude that g is a real-valued function. This proves the second
+
+property.

@@ -1,0 +1,25 @@
+procedure and shall approximate to this term by writing it in the form w(dv*/dz), where
+v*, defined in (3-42), is the zonal velocity which develops as R becomes sufficiently large.
+It is not actually necessary to perform this substitution, for the method we use could equally
+apply to the term in its original form, but the detailed working is made rather easier by the
+substitution of v* for v and the result to the present approximation is not affected. Since we
+have replaced v by its asymptotic value for large R we can ultimately study the solution of
+the equations only in the large R range. In order to study this term in the small & range we
+should have to replace v by the expression (3-36), but since interest centres principally in
+the range of large R all this section will be devoted to this range. The approximation made
+above is not sufficient to make the equations tractable, and I shall approximate further in
+the equations of motion by taking V?=0?/dz* in the Navier-Stokes terms, that is, the
+differentials with respect to 7 are ignored. ‘This may be justified because of the shallowness
+of the liquid contained in the dishpan and is in fact a similar approximation to that made
+in earlier sections where the velocity components are expanded in powers of a. A similar
+approximation is permissible in dealing with atmospheric flow on the spherical earth.
+The equations governing the flow are taken to be
+
+20.0 = - v3 ; Pa (4-1)
+
+Pow - + 2Op u rae (4-2)
+
+0 4 + gaT, (4:3)
+
+ae 1 uy (77) —-05 (4:4)
+or dz :

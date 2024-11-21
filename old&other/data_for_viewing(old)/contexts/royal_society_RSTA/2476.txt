@@ -1,0 +1,24 @@
+
+parallel to the y direction and holds the cell phone in his right hand. When the user stands in P31,
+the received signal is mainly dominated by the LOS component from luminaire 1. On the other
+hand, there is no LOS signal in P;,3 and the received signal mainly depends on reflected signals.
+
+In figure 22, we illustrate the spatial distribution of channel gain as seen by the individual
+photodetectors Dn, n=1, ... ,7. It is observed that as the user moves within the room, the spatial
+distributions of channel gain seen by photodetectors D1, ... , D6 follow the sinusoidal pattern in
+x and y directions. When the user approaches to a luminaire, the signal strength increases. The
+maximum signal strength (i.e. maximum value of channel gain) occurs when the user is right
+under the luminaire. When the user walks away, the signal strength decreases. On the other hand,
+the spatial distribution of channel gain seen by photodetector D7 is almost flat (i.e. the same
+channel gain for all cells). This is a result of the fact that this detector is oriented towards the floor
+and the detector only captures reflected rays, i.e. there is not LOS component.
+
+Table 9 presents the average channel gains and RMS delay spreads (i.e. averaged over 100 cells
+in the room) for D1, D2, D3, D4, D5, Dé and D7. It is observed from table 9 that the best location of
+photodetector (i.e. minimum path loss) is D5. It can also be noted that D1, D2, D3, D4, D5 and D6
+have similar channel gain values in the range of 6 x 10~°-7.19 x 10~°. In comparison to them, D7
+has about 2.95 x 10~°-4.41 x 10~® less channel gain on average since there is no LOS component.
+
+In figure 23, we present the cumulative distribution function (CDF) of path loss as seen by
+the individual photodetectors Dn, n=1, ... ,7. This defines the probability that path loss will
+

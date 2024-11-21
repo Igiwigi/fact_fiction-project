@@ -1,0 +1,25 @@
+and converting the delays to the fast time gives the sufficient condition for oscillations Tj + Tg >
+max(TE™ + Tk, T™)/e * 27.7. In our simulations, we observed oscillations for Tj + Tg > 5.1. For
+the parameter values of figure 8, we obtained the condition Tj + Tz > (TE + Tk + a + Ty)/e J
+54.7. In our simulations we observed oscillations for Tj + Tg > 37.6. Clearly our estimates are
+conservative. This is not surprising since our analysis is based on the worst-case analysis for
+the various cases of the trajectories.
+
+Note that the periods and activation times are as predicted by table 2 after converting these
+to the fast time. In both figures, Tj, = Tz + 7j, the total delay. In Figure 7 Ty =Te+ T+ Ty >Th
+and the period is longer than 2(7z + Jj), while in figure 8 Ty =Te+ 7 -— Ty < Tj, and the period is
+shorter than 2(7z + Jj). The period of the oscillation increases as the total delay is increased within
+the range where the stable oscillation exists. Although from table 2, it would appear the period
+depends linearly on the total delay, in fact, the times TE, Th, Ty, Ty can depend on the delay, so
+other than case (1,1) the dependence is nonlinear.
+
+In all simulations, the two E-cells (red and green curves) quickly synchronize on the periodic
+orbit. Further, as predicted by corollary 3.5 identical periodic orbits with different phase difference
+between the E- and J-cells occur for different values of 7 and Tg with the same total delay. As
+noted in remark 3.6, the phase difference between the two populations is determined simply by
+the size of the excitatory synaptic delay, Tg. Figure 7d and figure 8d show that an equilibrium
+point corresponding to the quiescent state coexists with the periodic orbit.
+
+
+(a) 0.
+2

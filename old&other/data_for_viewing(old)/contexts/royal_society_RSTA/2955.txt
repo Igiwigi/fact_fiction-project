@@ -1,0 +1,24 @@
+to detect and characterize signal nonlinearities [2]. The generalization of BS based on Fourier
+transform to wavelets can be seen as a generalization of the Fourier analysis [4] by adding time
+resolution (in a more fundamental way than is permitted by the short-time Fourier transform
+(STFT)). Using bispectral analysis to obtain the time-dependent biphase/biamplitude estimate
+based on STFT means using a window of constant length. The optimal window length depends,
+however, on the frequency being studied. The effective length of the window used for each
+frequency can be varied by applying the CWT. With broader frequency content where natural
+frequencies lie, the STFT is not sufficient for good time and phase/ frequency localization and the
+CWT needs to be applied [5]. Using WBS, intermittent phase couplings can be detected, whereas
+Fourier-based BS averages out most of the time relevant information. If there is a brief episode
+of quadratic phase coupling (QPC), the Fourier-based BS method cannot detect it from the signal
+due to the large time window used. On the contrary, the WBS will detect it, down to a certain
+minimum duration; thus the WBS allows intermittent couplings to be detected [4,5]. In fact, WBS
+represents a significant improvement in the time resolution of the BS.
+
+To date there has been some notable uses of WBS, yet not at the level of the BS alone and even
+less when compared to the prolific use of the CWT. However, there are some key areas where
+WBS analysis has made some clear inroads. In particular, WBS has been applied in problems
+of machine monitoring [6,7] and fault diagnosis [8,9], wind and wave analysis [1,10,11], filter
+optimization [12], emitter recognition [13], and health-related areas, such as neuroscience [14],
+mental stress detection [15], wheeze analysis [16,17] and electroencephalogram (EEG)-based tonic
+cold pain characterization [18]. The main thrust of this paper is to exemplify and discuss the
+combinatory potential of WBS in the analysis of non-Gaussian, nonlinear and non-stationary
+

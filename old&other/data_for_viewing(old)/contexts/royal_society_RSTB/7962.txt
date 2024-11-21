@@ -1,0 +1,25 @@
+are such pooling equilibria.
+
+It might also cost the receiver something to listen. Let us
+combine this with a costly message and unequal state
+probabilities. For example, let the probability of state 1
+be 1/3, the cost of signal 1 0.3 and the cost of the
+receiver paying attention to the signals 0.1. The
+background fitness is 1. Then, the foregoing pay-off
+matrix changes to that displayed in table 2. 5. SIGNALLING NETWORKS
+
+The pooling equilibrium, (sender 4, receiver 4), where There is no reason to limit ourselves to signalling
+the sender always sends signal 2 and the receiver between just two actors: one sender and one receiver.
+always does act 2, is now a strict Nash equilibrium of In fact, most signalling systems in nature involve
+the game. Either the sender or receiver who deviates multiple senders, multiple receivers or both. If a
+
+Phil. Trans. R. Soc. B (2009)
+
+
+Signalling: multiple senders and receivers B. Skyrms 775
+
+Table 4. Pay-offs with two senders and one receiver. system can evolve. In each of these settings, a signalling
+system is a strongly stable (attracting) equilibrium in
+act 1 act 2 act 3 act 4 the replicator dynamics.
+
+Each sender’s signal conveys perfect information

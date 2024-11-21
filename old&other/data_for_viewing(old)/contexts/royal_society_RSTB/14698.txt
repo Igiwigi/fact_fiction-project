@@ -1,0 +1,24 @@
+There have been simulations showing that grid-like pattern not the case. Recent findings in reinforcement learning [53]
+of spatial responses can emerge in networks, e.g. using as have shown that it is possible for an agent to generate an
+input the translational and rotational velocity of the agent (pro- image (and hence point to an object) from a novel location
+
+prioceptive signals). Banino et al. [12] showed this and in a novel room if the agent is given only one or two ‘seed’
+
+
+images of the room from a quite different vantage point (as at least at a superficial level. However, as we have explored
+
+was true for the participant in our experiment). This demon- in §2, there are severe problems when it comes to specifying
+stration is important because it shows how tasks that seem as the details of a neural mechanism. The argument is turned on
+if they must require the brain to use a 3D representation, its head when it comes to a policy network which is, in
+in fact do not. Building a latent representation through essence, a long list of reflexes. There is little doubt that this
+many previous experiences, and being able to generalize in is something the brain can store. A disadvantage is that it is
+appropriate ways, allows remarkable performance without much more difficult to imagine how this could be the basis
+involving any 3D geometry. of our perception of a 3D world (or, indeed, smells, sounds,
+
+Clearly, the examples I have considered in this paper are colour, anguish). But, neuroscientists can be prone to Philoso-
+very simple (such as making a saccade from one object to phers’ Syndrome: ‘mistaking a failure of the imagination
+another or moving the head), whereas humans engage in for an insight into necessity’ [55]. The speculations in this
+tasks that have many levels of complexity, including naviga- paper will, I hope, stimulate this process of imagination.
+tional tasks. One possible area of speculation is about how They point out how a whole range of judgements that we
+motivational input (here, g) could contribute to the hierarch- tend to think of as involving scene reconstruction can,
+ical organization of complex tasks, including ‘chunking’ [54], instead, be described in terms of a changing image: the

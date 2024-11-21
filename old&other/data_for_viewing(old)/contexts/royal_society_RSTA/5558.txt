@@ -1,0 +1,24 @@
+in colour.) a
+
+interface isoline of T=3Ty in a way similar to equation (5.2). After the initial transients, the
+absolute propagation speed was found to reach a value of 6.25,, whereas the density weighted
+displacement speed was found to fluctuate about 1.35,. The corresponding values from the DNS
+results [25] are 7S, and 1.5S,, respectively. The difference could be attributed to a number of
+factors including the type of grid, resolution, type of diffusion model, etc. Overall, the results
+agree well with the DNS [24,25].
+
+6. Conclusion
+
+In this paper, we proposed a lattice Boltzmann framework to simulate reactive mixtures. The
+novelty of the model lies in the fact that temperature and energy changes due to chemical reaction
+are handled naturally without the need of additional ad-hoc modelling of the heat of reaction.
+This was possible because of the thermodynamic consistency of the underlying multi-component
+model [11], which was extended to compressible reactive mixtures. The species interaction is
+modelled through the Stefan—Maxwell diffusion mechanism which has been extended in this
+work to accommodate the creation and destruction rates of the species due to chemical reaction.
+Computational efficiency has been achieved through reduced description of energy which makes
+it possible to describe the physical system by only M + 2 kinetic equations instead of 2M kinetic
+equations while retaining necessary physics such as the inter-diffusion energy flux. The model
+has been realized on the standard D3Q27 lattice, which not only reduces the computational costs
+compared to multispeed approaches but also possesses a wide temperature range, which is crucial
+for combustion applications.

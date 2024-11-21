@@ -1,0 +1,25 @@
+
+We therefore have the following lemma.
+
+Lemma 2.4. Let |G) be a graph state, v € V(G) be a vertex and e € E(G) be an edge incident on v.
+Furthermore, assume that |G’) is a qubit-minor of |G), where V(G’) = V(G)\v and that G' has no vertices of
+degree zero. Then |G’) is single-qubit Clifford-equivalent to at least one of the three states in equation (2.20).
+
+Proof. As |G’) is a qubit-minor of |G), we know that there exists a sequence W of single-qubit
+Clifford operations, single-qubit Pauli measurements and CC that takes |G) to |G’), by definition.
+Any single-qubit Pauli measurement on a qubit u gives a product states between qubit u and
+the rest of the qubits, see equations (2.15)-(2.17). The sequence W cannot therefore contain a
+single-qubit Pauli measurement on a qubit u, different from v, since u has non-zero degree in the
+graph G’ by assumption. Without loss of generality, we can in fact assume that W is a sequence
+of single-qubit Clifford operations followed by a measurement of v in the standard basis and
+then by another sequence of single-qubit Clifford operations. The reason why it is sufficient
+to consider a measurement in the standard basis is that any other Pauli measurement can be
+simulated by performing some single-qubit Clifford operation followed by a measurement in the
+standard basis. Assume that the sequence of single-qubit Clifford operations before (after) the
+
+3For the special case when |N,,| =0, a measurement in the X-basis does not change the graph state since this is then |G) =
+|+)» ® |G\v).
+
+
+measurement is described by the sequences of local complementations m (m'), which exists due
+to theorem 2.2. We therefore have that

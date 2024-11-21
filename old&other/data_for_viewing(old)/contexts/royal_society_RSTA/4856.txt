@@ -1,0 +1,25 @@
+
+The polytopes associated with NMHV amplitudes are in fact four-dimensional, living in a
+CP*. An extra dimension is added to twistor space to take care of the range of possible helicity
+allocations. This CP* geometry was sketched by Hodges [21] and further developed by Mason &
+Skinner [22] and Arkani-Hamed et al. [23]. This work also showed that the new momentum-
+twistor picture is entirely consistent with the Grassmannian picture as developed in the original
+twistor space.
+
+Naturally, the emergence of these concepts did not take place in isolation from other major
+developments. The influence of super-string theory, without which the application of twistor
+geometry to amplitudes would not have made progress, has already been noted. Another parallel
+development is the reformulation of twistor Lagrangians, or action principles. Penrose [5] had
+in fact derived the early twistor diagrams from a consideration of twistor Hamiltonians. The
+Witten twistor-string model stimulated a revival of this approach, notably by Lionel Mason
+and collaborators. This work has been able to draw on and extend the vast body of work in
+algebraic geometry built up between 1970 and 2000 to explore the twistor representation. It has
+also brought in another important idea from field theory, influenced by dualities in string theory,
+that of the Wilson loop [24]. This is important as Wilson loops are related to AdS/CFT formalism
+and so make contact with an actual non-perturbative scattering theory. These authors have shown
+momentum-twistor geometry to be particularly useful for Wilson loop evaluation and hence
+another way of generating amplitudes. Meanwhile the emergence of Yangian symmetry as the
+
+
+underlying structure encompassing both conformal invariance and dual conformal invariance | 10 |
+underpinned all the developments after 2008. Yangian symmetry imposes very strong constraints

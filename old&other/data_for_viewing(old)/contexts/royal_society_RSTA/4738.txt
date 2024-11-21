@@ -1,0 +1,24 @@
+
+Let us first remark two interesting facts about positive harmonic functions: :8
+
+Let u>0 in D, and harmonic there, along with vanishing boundary values, locally near a boundary .
+point 0D N B,(z).
+
+(1) If D satisfies the interior ball conditions at z, i.e. By,(y) € D, and z € OBy,(y) 1 aD, then u has
+asymptotically positive (possibly infinity) slope at z.
+
+(2) If D satisfies the exterior ball conditions at z, i.e. By,(y) € D°, and z € 0B,,(y) N AD*, then u has
+bounded Lipschitz norm (possibly zero) at z.
+
+In the light of these properties/facts, one can define ‘forcefully’ a viscosity super- and sub-
+solution as follows.
+
+(a) Super- and sub-solution
+
+Let u be a positive harmonic function in D, with zero boundary values on 9D N By.
+
+(i) We say u is a super-solution at a free boundary point z if whether there is tangential inner
+ball condition at z, then one has lim supp,,.,, |Vu|(x) <1.
+(ii) A sub-solution is defined accordingly by using outer touching ball at z, and with the
+property that lim infps,—.z |Vu|(x) > 1.
+(iii) A viscosity solution is a function that is both super- and sub-solution.

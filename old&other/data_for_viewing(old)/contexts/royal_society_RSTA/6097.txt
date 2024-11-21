@@ -1,0 +1,25 @@
+The quantities (K2)1, (K2)2, ...may now be found as expressions in 0, using (3.4) and its successor
+equations. These present no difficulty to Mathematica, and are the basic ingredients for the further
+series expansions developed in the rest of the paper.
+
+In (3.3), if Kco increases from 0 to 1/ /2, the corresponding value of 0? decreases from 1 to 0.
+Hence in the range —1 < ) <1, equation (3.3) defines a symmetric non-negative function K,9(i)
+which has a maximum value K,9 = 1//2 at ) = 0, and descends to K,y = 0 at ) = +1. These values
+agree with K,9 as determined by (3.5). In the original variables (v, €), the function K,9(+) becomes
+K.o(/12v/e), which is self-similar, so that the series (3.2) has the property of leading-order self-
+similarity. Thus one advantage of the variable ) now becomes apparent: it is the self-similarity
+parameter in situations where the leading-order approximation is good enough. If K- is regarded
+as a function of v rather than j, the maximum is still 1//2, but the relevant range becomes |v| <
+e/V12. The fact that K’,, =0 at 5 =0, or equivalently at v = 0, is used in later series expansions.
+
+For plotting, we use instead of (3.2), the alternative form
+
+K, =K¢(6,€) = Keo(d) + €Ker() + €7Ke2(8) +... (3.6)
+where
+(K2)1 (K2).  {(K2)1}?
+K d K, - pees 3.7
+1 = OK an = 3K BK, (3.7)
+
+Here, K-9 and K,2 are even, and K, is odd. Note that (K2), x KR and (K2)2 x K2,. Figure 3a,d shows
+successive truncations of (3.6) to order 1, € and €? for « =0.25 (a) and € =0.5 (d). Convergence is
+rapid: the series up to orders ¢ and ¢? are almost indistinguishable on the scale of the plots. The

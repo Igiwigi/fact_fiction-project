@@ -1,0 +1,25 @@
+only the most important elements of this method.
+
+The FBM technique, in its classical formulation, applies to an analysis of the behaviour of
+a piece of material suspended between two clamps stretching it until it breaks. The sample is
+represented by a bundle of fibres with given, stochastic strength. When the applied force is
+larger then the fibre strength the fibre breaks and the load it has carried out is spread among
+remaining ones. Assuming a given probability distribution of the fibre strength it is possible to
+analyse properties of studied material and its behaviour under loading using advanced methods
+of statistical physics. Among other things one can evaluate the failure strength, critical properties
+of the dynamics for different types of fibre strength distributions and analyse in detail the fracture
+and failure dynamics.
+
+From our point of view, the most important fact is that the FBM method is also based on the
+discrete representation of the medium by a set (bundle) of fibres. Additionally, when comparing
+the FBM method to the DEM particles interaction model used, one can easily recognize that the
+FBM fibres are almost direct counterparts of the bonds joining the DEM particles. Almost directly,
+because the fibres in FBM and the bonds in DEM have a stochastic distribution of their strength
+and both can be regarded as ‘springs’ with given, constant in time ‘spring constant’ but they
+are differently arranged. In the classical FBM approach, all fibres span between plates but in
+the DEM models the bonds join only neighbourhood particles. However, a chain of connected
+particles joining the upper and the lower plates can be regarded as a single ‘fibre’ of the FBM
+method, as illustrated in figure 14. In the first approximation, we can disregard ‘horizontal’
+interactions between neighbourhood ‘DEM chains’ and consider them as the ‘independent fibres’
+with parameters being determined by the bonds contributing to a given chain. This simplification
+is a price for transforming the full 3D numerical DEM method to a simplified but analytically

@@ -1,0 +1,25 @@
+influence oscillations cannot be trusted due to the limited length of the time series. Since we
+are interested in identifying intrinsic magnetic oscillations, long period CP oscillations appear
+particularly relevant here since no intensity oscillations are found, as we would expect for opacity
+effects. It is worth recalling here that the long duration of our data sequence (more than 3h) is well
+suited to the search of long-period oscillations as highlighted by the cone of influence in the plots.
+
+In order to better investigate the relation between intensity and CP fluctuations, it is useful to
+study the spatial distribution of their power. In figure 3, we show the average wavelet amplitude
+maps in the 3, 5 and 15min bands (each one averaging over a 1 min width). The value at each
+pixel in this figure is constructed by taking the time-average (horizontal direction in figure 2) of
+the period-time wavelet diagram in each of the three-period bands. Here, we note that CP and
+intensity do not share a similar spatial distribution of their oscillatory power. The intensity at all
+bands show, in fact, a peculiar circular pattern of fluctuations with long-period oscillations (i.e. 5
+and 15 min period) dominating the penumbra and 3 min oscillations concentrated in the umbra.
+On the other hand, CP oscillations are mainly localized in a C-shaped region, and this is the case for
+all bands. However, from the wavelet diagrams in figure 2, the highest power of the oscillations
+is mainly concentrated in the 3 min band.
+
+Regarding the lack of intensity oscillations in the central and upper-left regions of the umbra,
+we note that this effect could be due to one or a combination of factors. Firstly, opacity effects, by
+lowering the height of formation of the spectral line, allow the sampling of intrinsically lower
+layers of the Sun’s atmosphere which, due to the atmospheric stratification, display smaller
+oscillation amplitudes. Therefore, in this case, one should expect an increase of the CP signal.
+However, this is observed only in the upper-left part of the umbra, not at it is centre, thus
+opacity effects alone cannot justify the lack of intensity power. It is worth recalling that the

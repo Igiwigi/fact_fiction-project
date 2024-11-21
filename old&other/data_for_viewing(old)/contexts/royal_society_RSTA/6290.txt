@@ -1,0 +1,25 @@
+Let E(x) be the part in square brackets of the previous formula. If wEP held for IZF, then one could
+find a formula C(u) such that IZFr a!uC(u) A Vu [C(u) > u inhabited] and IZFF Vu [C(u) > Vx €
+u E(x)]. But then IZFF A!u[C(u) A E( u)], contradicting the aforementioned theorem from [10].
+
+a
+
+Note that formulae of the form (2.1) are readily deducible in IZF, using Collection and :
+Separation. Thus, in light of Myhill’s result that IZFr has the EP, clearly collection is implicated in : a
+the failure of EP for IZF. It will turn out, however, that separation for formulae with unrestricted : =
+quantifiers is also responsible for this failure. : =
+
+There is another important intuitionistic set theory for which EP fails. Constructive Zermelo— : S
+Fraenkel set theory (CZF) was singled out by Aczel as a theory distinguished by the fact that : =
+it has canonical interpretation in Martin—-L6f type theory (cf. [13]). While Myhill isolated the :3
+Exponentiation Axiom as the ‘correct’ constructive counterpart of the Power Set Axiom, CZF has : 3S
+an axiom scheme called Subset Collection (cf. [13-15]), which is stronger than exponentiation.! :3
+Subset collection implies exponentiation and is a consequence of powerset. In the presence of the : Ss
+other axioms of CZF, subset collection is equivalent to the fullness axiom (cf. [15, 5.1.2]). The latter : S
+stipulates that given any sets A and B, there exists a set C (called full) of multi-valued functions 1S
+
+from A to B such that for every multi-valued function R from A to B, there exists S C R with S eC 2
+Strength-wise, an enormous hiatus separates Exponentiation from Powerset. The fullness axiom
+simply decrees the existence of a full set. As there does not appear to exist a method to define a
+full set of multi-valued functions without invoking Powerset or choice (e.g. from NN to N), the
+current author conjectured that CZF is another example of a set theory lacking the wEP. This was

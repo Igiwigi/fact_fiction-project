@@ -1,0 +1,24 @@
+adjusting both rotor speed and blade pitch angle, in a nonlinear manner.
+
+Differences in fatigue loads for time series with the same second-order properties show that
+phase relationships are important. The simulations with the spectral model, which implements
+randomized phases, clearly demonstrate this. It seems that without a more detailed rotor
+simulation it is quite difficult to model rotor loads of sufficient quality that an accurate fatigue
+assessment can be performed—in marked contrast to the situation for simpler support structures
+such as monopiles, where frequency domain methods can give relatively accurate estimates.
+The only exception might be data-driven or resampling approaches that reuse parts of earlier
+thrust time series. These are not considered here since they do not increase our understanding of
+rotor loads.
+
+In fact, ideally we would like to obtain a model with only a few parameters that can be used to
+generate realistic rotor load signals. The main use of such a model would be as a starting point for
+a probabilistic analysis. One of the main challenges for structural optimization of wind turbine
+support structures is the sheer amount of time-domain simulations needed for a comprehensive
+assessment, which borders on the region of a few thousands [2,5]. It would be highly welcome to
+obtain a more efficient, yet still highly accurate, way of predicting fatigue damage in a support
+structure. Madsen & Frandsen [6] made a pioneering effort in this respect, introducing formulae
+for fatigue damage based on the Rice formula, that actually needs to be re-evaluated for current
+larger turbines and offshore support structures. Combined with the use of simplified models
+for support structure dynamics such as in [27], more efficient structural assessments should
+be possible.
+

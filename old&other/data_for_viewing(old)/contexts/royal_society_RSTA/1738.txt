@@ -1,0 +1,24 @@
+(b) Assume that S is positive. If for each measurable set B C Q the condition 1gV C V implies (B) =
+0 or u(2\B) =0, then S is irreducible.
+
+In the above proposition, we used the notation u* for the pointwise supremum of u and 0 and
+the notation u~ for the function (—u)+ =ut — u.
+
+Inall our applications, 2 will be a (non-empty) open subset of R¢ (with the Lebesgue measure)
+and V will be a subspace of the first Sobolev space
+
+H}(Q):= (ue L?(Q): du €L*(Q) for all j=1,...,d},
+
+where we understand the derivative oyu in the sense of distributions. The space H}(Q) is a
+sublattice of L?(2), which means that u+,u~ € H!(@) whenever u € H'(Q). In fact, we have
+aj(ut) = Lwee:u(w)>0) 9; for each u € H1(Q) [46, Proposition 4.4].
+
+The following lemma, which we quote from [47, Lemma 11.1.1], is the key to apply
+Proposition 5.5(b) to forms defined on subspaces of H1(Q).
+
+Lemma 5.6. Let 2 CR® be non-empty, open and connected, and let BC 2 be Borel measurable.
+Assume that 1gv € H! () for all test functions v on 2. Then 4(B) =0 or d(2\B) =0 (where 4 denotes
+the Lebesgue measure on &2).
+
+Further references. Form methods are an excellent tool for the study of heat equations on
+subsets of R’. For details, we refer to the comprehensive monograph [46].

@@ -1,0 +1,25 @@
+it cannot be thrown into the form equivalent to (4:5).
+
+It is immediately obvious that the algebra is going to be considerably heavier, and that
+difficulties arise because the successful use of the method in general terms requires the
+
+1
+algebraic evaluation of integrals of the type J ey where —1<A<1 and f involves the
+0
+
+dependent variable 4,. The possible forms for fare thus drastically restricted to quadratics
+in 7 or sin $77, and even these lead to integrals which change with the numerical value of
+A, from inverse trigonometric to inverse hyperbolic form and therefore require careful
+interpretation. The fact that, in any particular case, it might be comparatively simple to
+evaluate them numerically is here irrelevant, since we are only concerned at the moment
+with algebraic treatment. Moreover, the restriction to simple forms for f necessarily means
+that fewer boundary conditions will be satisfied and the accuracy of the solution suffers in
+consequence. Since 4 is always less than unity it is permissible to expand the denominator
+of the integrand and integrate term by term, but for high Mach numbers the resulting series
+is only slowly convergent, and in any case this process is equivalent to assuming that f is a
+polynomial in 4,. The discussion of (4-5) shows that this would lead to the analogues of h(A)
+
+and g(A) involving high powers of A,, and the discovery of the relevant roots of the latter,
+
+an essential preliminary to further developments, might be quite difficult. A further point
+to be noticed is that even supposing the integrals have been evaluated, one is still confronted

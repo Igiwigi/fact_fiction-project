@@ -1,0 +1,24 @@
+
+2. Preliminaries
+
+(a) Estimates of the solutions
+
+This subsection is devoted to recalling some technical results concerning the behaviour of the
+periodic solutions of a delay differential equation
+
+=u" (t) =h(t, u(t), u(t — 2), u'(b) (2.1)
+
+which is slightly different from (1.5) in the sense that h is defined in R*. On the other hand,
+h is, as f, L'-Carathéodory and T-periodic with respect to the first variable. The importance
+of the results of this subsection lies in the fact that they help to establish various a priori bounds
+for the solutions of problem (1.5), as will be clear in §3. The next two results are special versions
+of the maximum principle and are essentially proven in [2, Lemma 6.1]. We give the easy proofs
+for the sake of completeness.
+
+Theorem 2.1 (Weak Maximum principle). Let h:R* > R be an L'-Carathéodory map, which is
+T-periodic with respect to the first variable for a given positive T. Assume also that h(t, x,y,z) > 0 if x <0,
+for ae. t € Rand every y,z € R. Then, any T-periodic solution of (2.1) is non-negative.
+
+Proof. Assume the contrary and suppose that u is a T-periodic solution which is negative for
+some f € R. We have two cases. In the first one, we suppose the existence of fg such that u(fo) = 0.
+Define

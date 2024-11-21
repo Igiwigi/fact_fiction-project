@@ -1,0 +1,25 @@
+time and space. Even at 1500 K, when the expected time between random jumps drops to 340 fs,
+the most probable time between jumps drops to much lower than 100 fs.
+
+The most probable distance between jumps are those starting from first nearest-neighbour
+positions (INN) at 2.8 A. There are two possible scenarios that lead to INN jumps: (i) an Li*
+jumps, leaving behind a vacancy, and its INN immediately jumps into the new vacancy location,
+as shown by the black and grey arrows in figure 2b and (ii) two vacancies are close to one
+
+
+another, such that INN Lit then jump into those separate vacancies (leaving the vacancies as
+first nearest neighbours), as shown by the black and red arrows in figure 2. We know that in the
+2 V;, simulation there is a high probability of finding vacancies as nearest neighbours (figure 3),
+so the second scenario is possible, but the first scenario is far more likely. In fact, the electronic
+supplementary material shows that with 1 V_,, there still exists a high probability of finding INN
+subsequent jumps between 100 and 200 fs at 1100K, which can only be justified according to
+the first scenario. We refer to these clusters of jumps in space and time as ‘hot zones’, where the
+balance of enthalpy and entropy at a given temperature transfers to the entropic regime and many
+jump events occur [56]. The s-Frenkel mechanism is also an example of an entropic ‘hot zone’.
+The second evidence of correlated motion lies in the isolated high probabilities of jumps
+occurring at Ar=4.9A (3NN) and At =225fs, and at Ar=6.3A (5NN) and At=200fs in the
+2 Vj, 1100 K simulation. These isolated islands of higher probability are evidence of the hot
+zone, where jumps are clustered in space and time. Note that there is no probability of jumps
+at a distance of 4A until 375 fs, likely due to the low probability of finding Vi; at that distance
+
+and the need to overcome a binding barrier for closely spaced vacancies (figure 2). Interestingly, : =

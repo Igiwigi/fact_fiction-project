@@ -1,0 +1,25 @@
+features in these plots are due to the width of the ribosome, which is indicated by the length of the bar above the line in the
+upper plot. (Online version in colour.)
+
+otherwise, the protein production rate is proportional to ky. For type II mRNAs, the protein
+production rate varies smoothly with [aaa]. A decreased charging level again impairs translation
+of species A codons which leads to an increased occupation density near the 5’ end of the mRNA
+(figure 2d). The transition is smooth as the slow codon is at the initiation site, so there can be no
+sharp onset of queuing.
+
+In summary, for type 1 mRNAs there is a first order phase transition as [aaa] is reduced: we
+move from a regime where protein production is limited by the initiation rate ky to a regime
+where it is limited by the slow codon. For type II mRNAs, the protein production rate is limited
+by both initiation and the slow codon; i.e. due to the fact that the first codon is slow, initiation of
+new ribosomes is hindered.
+
+(b) Amino acid starvation can lead to increased tRNA charging
+
+Figure 2 demonstrates that amino acid starvation impairs the ribosome traffic. In this subsection,
+we describe how this decreased traffic can affect the charging levels of a tRNA species delivering
+an amino acid that is not subject to starvation. In figure 3a, we introduce two further idealized
+mRNAs which contain three codon species and we denote these mRNA X and mRNA Y. We again
+starve for amino acids of species A, but this time these tRNAs are in high abundance. Codons of
+species B require a rare tRNA which carries an amino acid species that is not subject to starvation.
+The third codon species makes up the rest of the mRNA and corresponds to an abundant tRNA
+with constant charging level.

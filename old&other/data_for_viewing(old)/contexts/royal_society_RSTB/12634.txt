@@ -1,0 +1,25 @@
+synthesis Ne
+
+homologous a
+recombination N
+
+error-prone BS
+transition S
+synthesis
+
+rev7 rad57
+
+Figure 4. DCell facilitatates interpretation of how mutations affect phenotypes. When rev7 and rad57 (dark nodes at the bottom) are mutated, colony growth is
+severely reduced, indicated by the dark blue (dark grey in black/white version) colouring for the node labelled ‘cell’ at the top. The fact that the node for DNA repair
+is also coloured dark blue (dark grey in black/white) indicates that it is a mechanism that is severely impaired in the mutant yeast and may explain the reduced cell
+growth. The nodes shown in light blue and light pink (light grey in black/white) indicate nodes with only moderately altered activations. (Online version in colour.)
+
+generate mechanistic insight because the activity of nodes in DCell to epistatic data from yeast. The phenotype the network
+hidden layers of these networks cannot be interpreted. In this was trained to predict was colony growth, which was rep-
+sense, deep learning networks are black boxes. In this section, resented with a single output node. On individual training
+I examine the DCell strategy, introduced by Ma et al. [46], to trials either 0 input nodes (corresponding to the wild-type),
+open the black box and render the nodes in a deep-learning or one or two input nodes (corresponding to single or double
+ANN interpretable in terms of biological mechanisms operative mutations) would be assigned alternative values. The resulting
+within the cell. To do this, the researchers structured the DCell neural network contained 97181 nodes organized into
+network (by restricting which nodes are connected to which 12 layers. Ma et al. showed that DCell made more accurate
+other nodes) in accord with GO. As a result, all the nodes in prediction than other machine learning approaches.

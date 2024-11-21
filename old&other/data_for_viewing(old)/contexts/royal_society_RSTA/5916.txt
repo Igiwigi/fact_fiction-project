@@ -1,0 +1,25 @@
+
+The average ground-state probability shows distinct behaviours for each of the three ground
+states at varying h, visually separated by dotted lines. In the anti-ferromagnetic ground state
+at small h, the probability Peround approximately oscillates between  =0 and h =2, with small
+probabilities observed near integer values of l and larger probabilities near h = 1/2 and h =3/2.
+The M=7/9 ground state with 8/3 <h <4 has a near-constant probability of ~ 0.06. At h=4 the
+ground state becomes ferromagnetic and Peround increases significantly, with monotonic increases
+at larger h.
+
+We rationalize the varying success probabilities in the figure as attributable to structures of
+the ground states at varying h and the interplay with the structure of the QAOA state in (3.3).
+We show in electronic supplementary material, appendix D that QAOA can exactly prepare
+the ferromagnetic ground state when h> J; for arbitrary lattice sizes, based on the fact that
+exp(—iy H) © exp(—iyh ye , Z;) in this limit. This is consistent with the behaviour in the figure,
+where Peround increases monotonically with h for the ferromagnetic ground state at h > 4. We
+further show in electronic supplementary material, appendix E how the anti-ferromagnetic
+ground state probability is maximized at h=0.5, and we devise large y; parameters that can
+further improve these results. (We did not include larger y; parameters in our numerical searches
+as this can lead to poor Peround at parameters that optimize (H) for the frustrated lattices, as
+
+
+(b)
+
+0 12 3 4 5 6 0 1 2 3 4 5 6
+ald, ald;

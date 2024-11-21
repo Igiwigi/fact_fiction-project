@@ -1,0 +1,25 @@
+natural, then, to approach the problem from the standpoint of the equation relating
+U, tO U,_1, Uz», ete. Starting also, as I did, with the conception of periodogram analysis
+and harmonic periodicities in my mind, it was natural to assume an equation of the
+form (6), and an equation of corresponding form for two periodicities. This gave the
+first method tried. :
+
+It only occurred to me later that the method started from an unnecessarily limited
+assumption; that it would be better simply to find the linear regression equation of
+U, ON U,_; U,—», and more terms if necessary, and solve this as a finite difference equation.
+This gave my second method. As the results of the first method were interesting, I give
+both methods below.
+
+On doing the work I was puzzled by the fact that the equation first found suggested a
+period obviously too short. A little consideration suggested that this was probably
+due to the presence of superposed fluctuations: as already noted, the graph of sunspot
+numbers suggests the presence of minor irregularities due to this cause, notwithstanding
+
+2-1)
+
+
+274 G. UDNY YULE: METHOD OF INVESTIGATING PERIODICITIES IN DISTURBED
+
+that a certain amount of smoothing has already been introduced by employing the
+annual average and not the monthly numbers. I therefore desired to repeat the work
+on graduated figures, assuming that graduation would largely eliminate such irregularities,

@@ -1,0 +1,25 @@
+the multiplexer inside each PE (as used in the state-of-the-art fault tolerant systolic array design)
+consumes approximately 6% of the area of a PE. This shows that having a fault tolerant design
+that mitigates permanent faults in the MAC and MUX units of the array can significantly improve
+the yield of the manufacturing process.
+
+Figure 11 presents a comparison of the hardware characteristics of the PEs of different sizes
+and types of systolic arrays as discussed in §3a. The figure shows that the fault-tolerant PEs
+consume slightly more area as compared to a baseline PE depending on the complexity of the
+bypassing /cut-off circuitry used in the design. For example, a PE with dual bypass and cut-off
+circuitry (i.e. DBNC_PE) consumes approximately 25% more area, and a PE with cut-off circuitry
+(ie. C_PE) consumes approximately 1% additional area, when compared to the baseline PE used
+for the same size systolic array. The variation in the area with respect to the array size is due to
+the fact that the bit-width of the partial sums increases with an increase in the number of PEs
+in a single column of the array. Similar to the area characteristics, the critical path delay of a PE
+also depends on the design and the size of the systolic array. However, the variations in the delay
+are relatively small, ie. at the maximum 6.5% for the 8x8 systolic array composed of DBNC_PE
+when compared to the baseline PE for the same array size. The trend in the power characteristics
+is approximately similar to the trend observed in the area characteristics of the PEs. Hence the
+multiple options, that are shown in figure 6, §3a, provide different design trade-offs in terms of
+area, latency, power and resilience.
+
+
+Table 1. Hardware results of the components used in different sizes of the baseline and the state-of-the-art fault tolerant 6 |
+systolic arrays. The bit-widths of the partial sums in 8 x 8,16 x 16,32 x 32and 256 x 256 arrays were set to 19, 20, 21 and
+24, respectively, assuming the bit-width of weights and activations to be 8-bit.

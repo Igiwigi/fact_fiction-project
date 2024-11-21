@@ -1,0 +1,24 @@
+Such arguments are valid, and make clear why we should not consider a randomly initialized
+neural network to be a good model of human language or cognition. However, pretrained
+language models, especially large ones, appear to have significantly improved sample efficiency
+when learning new tasks [1,59,60], even performing some traditionally symbolic tasks well with
+only a few training examples [61]. Our own work has suggested that LLMs’ preference for
+one solution over another is a function of the description length of the candidate solutions
+and, moreover, that pretraining often serves to lower the description length of the ‘right’ (i.e.
+compositional) solutions [62]. This pattern is highly characteristic of more traditional symbolic
+systems, which also prefer solutions with low description length [63] and have been engineered
+specifically to ‘refactor’ their representations during training to decrease description length
+of more general concepts [64]. [65] go even further in arguing that in-context learning—the
+primary mechanism via which LLMs exhibit sample efficiency—can be understood as an implicit
+implementation of more familiar Bayesian inference. Across all these studies, the fact that LLMs
+might obey similar principles during their training to the principles obeyed by probabilistic
+symbolic systems provides evidence that the processes they use under the hood may reflect those
+that traditional theories in cognitive science routinely employ.
+
+As ever, skepticism about the sample efficiency of LLMs is warranted. Models of this size are
+often proprietary, and even when the data is publicly available, determining whether a task or
+concept is ‘unseen’ is not trivial [66]. These claims demand further study. Still, based on what
+we know right now, pretrained LLMs are not obviously incompatible with human-like sample
+efficiency, and in fact may be governed by similar constraints as competitive symbolic models in
+similar settings.
+

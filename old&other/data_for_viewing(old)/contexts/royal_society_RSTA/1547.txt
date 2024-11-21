@@ -1,0 +1,25 @@
+6 1.20
+7 1.59
+
+replicate their simulations (green curve on their paper). Figure 2a of Ellis et al. presents measured
+and simulated reflectances of SiC pillar arrays with a 500-nm gap. All their measurements and
+simulations were performed with 22° off-normal angle of incidence and incoming polarization
+parallel to the elongated side of the pillar.
+
+Using PyGBe, we computed the extinction cross-section of an isolated SiC pillar (AR = 4) with
+no substrate, submerged in air under a constant electric field in the z-direction, and rotated the
+orientation of the pillar to match the angle of incidence used by Ellis et al. (figure 7). In figure 9, we
+present a comparison of our simulations and the experimental results of Ellis et al. A difference
+in the wavelengths of the peaks is noticeable. This may be attributed to the fact that in their
+experiments the separation between pillars is 500nm, which implies there are coupling effects
+that in our simulations are not considered.
+
+First-order correction. Since our simulations do not take into account coupling effects in an array
+of prisms, we cannot strictly match the conditions to validate our solver. However, from figure S4
+
+
+1.0 { H —— PyGBe
+
+—— Ellis experiments 100
+0.8 | _
+80 g

@@ -1,0 +1,25 @@
+
+
+I am not trying to question the uppermost historical significance of Euclid’s book, which
+questioned the standards of proofs accepted before that time, and which set new standards for
+many centuries to come. Quite amazingly, many proofs in the later books, including Euclid’s
+proof of the infinitude of primes, are proofs even for us.
+
+e Actually, even at the university level people rarely seriously contemplate the proofs they
+are telling to their students in the elementary courses. Thus, until very recently most of
+the proofs in undergraduate Analysis courses suffered from systematic delusions related
+to the incorrect use of infinity, that survived from the early twentieth century.
+
+A crucial fact, used to establish the equivalence of continuity in terms of sequences and in terms
+of neighbourhoods, is that any infinite set contains a countable subset. Here is the usual proof,
+to which generations of students were exposed. Let X be an infinite set. Since it is infinite, it is
+non-empty, and thus contains a point x;. Then the set X \ {x1} is still infinite and thus contains
+a point x2 # x1. Proceeding in the same way, we eventually get a countable subset {x1,x2,x3,..-}
+of X.
+
+This ‘proof’ is short and crystal clear. This is why colleagues in Analysis used to overreact
+when challenged by the simple fact that in this form, without additional assumptions, the proof is
+completely wrong—as are most other naive arguments using ’...’ in similar sloppy fashion.
+
+What this argument does indeed prove is that X contains an arbitrarily large finite subset
+{x1,...,Xn}, which is called mathematical induction. Using some form of the axiom of choice, one

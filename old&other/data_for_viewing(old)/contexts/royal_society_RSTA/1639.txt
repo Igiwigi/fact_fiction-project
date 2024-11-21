@@ -1,0 +1,25 @@
+
+(E, || - ||) is a real Banach space, B := {x € E | ||x|| < 1} (resp B) is the unit open (resp. closed) ball
+in E; E* stands for the dual of E; if x € E, p € E*, then (x,p) := p(x); by default E* is normed. E%,
+stands for E* endowed with the weak topology; denotes the weak convergence. B(u,r) (resp.
+Diu, r)) is the open (resp. closed) ball around u € E of radius r > 0. Note that B(u,r) =u + 7B.
+
+(b) Set-valued maps
+
+Terminology in set-valued analysis is as in [11, Sec. 3.1] or [12, Sec. 1.3]: F: X —o E is a set-valued
+map F defined on a metric space X with at least closed values in E; Gr(F):= {(x,y)€X x El ye
+F(x)} is the graph of F. A map F: X —« E is H-usc (H stands for ‘Hausdorff’ and usc abbreviates
+‘upper semicontinuous’) if for any x € X and ¢ > 0 there is 6 > 0 such that F(y) C F(x) + eB = {ze
+E | d(z, F(x)) < ¢} ify € X and d(y, x) < 6. We collect some well-known facts concerning H-usc maps:
+
+(a) A usc map is H-usc and an H-usc map with compact values is usc.
+
+(b) An H-usc map with weakly compact values is weakly usc, i.e. usc with respect to Ez,.
+
+(c) If F is weakly usc, then it is uhe (i.e. upper hemicontinuous, see [11, Sec 3.2]). A uhc map
+with convex weakly compact values is weakly usc.
+
+(d) If F has convex weakly compact values, then it is weakly usc if and only if given a
+sequence x; — x in X and yy € F(x) for all n EN, there is a subsequence yn, — y € F(x).
+In particular, such maps are locally bounded, i.e. for any x € X, there is ¢ > 0 such that
+sup(|lull |» € Fy), d(x, y) <e) < 00.

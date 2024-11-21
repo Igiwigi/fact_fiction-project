@@ -1,0 +1,24 @@
+Nevertheless, when it comes to numerics, it is not sufficient to only focus on the impact of collision
+models on the robustness of LBMs without also considering the impact on their accuracy. The
+latter point is investigated for the most stable collision models (SRT-RR, REG-CHM and REG-
+K) considering a configuration which is close to their stability limit, ie. Ma =0.5 and v= 10-4.
+Corresponding results are plotted in figure 10. The visualization of the normalized vorticity fields
+at f=50f, is very satisfying for all collision models—whose accuracy is almost identical. More
+precisely, using a moderate resolution of the simulation domain (L = 256 points per direction), the
+vortex is properly convected over a long distance, and shows only little dispersion and dissipation
+errors. The dispersion error is identified by looking at the location and the shape of the vortex,
+whereas the dissipation error is quantified focusing on isocontours of the normalized vorticity.
+By increasing the resolution of the simulation domain, e.g. considering L = 512, these errors are
+further reduced but are still observable. The remaining dissipation error can be explained, in part,
+because v # 0. Interestingly, the fact that LBMs introduce more dispersion than dissipation errors,
+as shown by Marié et al. [67], is further confirmed here by the non-circular shape of the vortex for
+the finest resolution.
+
+In the end, taking one step back and looking at the big picture, it seems clear that these collision
+models (SRT-RR, REG-CHM and REG-K) not only lead to stable simulations for non-negligible
+Mach numbers and low-viscosity values but they also allow the resulting LBMs to accurately
+transport information over long distances, even if one must keep in mind dispersion issues. Of
+course, more numerical validations are required to extensively quantify the accuracy of these
+models, for the simulation of finite Mach number flows in the low-viscosity regime. Nevertheless,
+these first results are very promising.
+

@@ -1,0 +1,25 @@
+
+surrounding it deepens and fills with spatial oscillations: for d = 8 and m=0.5 on a domain with
+L=10Ar the oscillations have wavelength 217/3, matching very well the pure imaginary spatial
+eigenvalues at the fold, +i1.492kr. As shown in figure 4b, the development of these oscillations
+is accompanied by the splitting of the central peak into two. Thus, the branch of single peaks
+originating in the UV fold develops continuously into a localized state embedded in a background
+periodic state. The amplitude of the background oscillations grows with further distance from the
+fold (figure 5a) until the defect is fully submerged in the background and the branch terminates
+on the 4 = 27/3 PP branch (cyan) at location F. The latter bifurcates from the UV fold as it must,
+given the wavenumber of the background oscillations at location A. Observe also that this branch
+undergoes several large excursions prior to termination. However, throughout these oscillations
+the number of identical peaks on the half domain remains at 13 (the three peaks near x = 0 are
+taller) despite the fact that the wavelength of this periodic part changes along the branch thereby
+squeezing the taller peaks. The number of these back and forth excursions grows with the domain
+size. By L=20Ar (figure 5b), the branch develops a notable Maxwell point that appears to be
+associated with the formation of a homoclinic connection between the PP state that bifurcates
+from the UV fold (cyan curve) and itself. This sensitivity to the domain size is a consequence of
+the fact that the solution is always in contact with the prescribed domain boundaries.
+
+(b) Turing bifurcation and Turing branch folds
+
+There are two other sources of LSs, the Turing bifurcation on UV* and the folds in the resulting
+Turing branch (figure 3). The Turing bifurcation is present when dm > 2 and theory shows that
+there are two LS branches that appear near a = ay when the Turing branch bifurcates subcritically,
+just as in the Swift-Hohenberg equation [29]. On a large but finite domain the resulting Ls*

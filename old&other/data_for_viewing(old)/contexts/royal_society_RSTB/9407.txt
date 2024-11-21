@@ -1,0 +1,25 @@
+larger animals with more cells, or longer lived animals with some benefit from the presence of others, such as protection — 2:
+more lifetime cell divisions should have higher cancer inci- from predators in herds, known as the Allee effect [9]. 3
+dences. This expectation is supported by observations that Here, we characterize populations in an age-specific manner =
+within human organs, the risk of cancer is directly related to where age is represented by x. For species with age-specific =
+the lifetime number of stem cell divisions [2] as well as the survivorship and age-specific fecundity, the Euler-Lotka ‘2
+tissue type [3]. However, observations seem contrary to this equation [10,11] gives the expected per capita growth rate, r, of ‘©
+expectation. Larger animals do not seem to die from cancer a population that has achieved its stable age-distribution: ~
+more often than smaller organisms. This is Peto’s paradox [4]. =
+It is widely assumed that Peto’s paradox arises from quan- 1= [hmenas, (2.1) 5
+titative and qualitative differences in the cancer-suppression -
+adaptations between animals [5]. Clearly, death from cancer where I, is the probability of a newborn surviving until age x,  _
+can be a potentially strong selection force in multicellular iy is the expected number of newborns produced by an indi- 8
+organisms. In fact, cancer-suppression adaptations and genes vidual of age x, and r is the per capita growth rate of sucha
+appear to have arisen rapidly within the earliest of metazoans. population with these survivorship and fecundity terms. The &
+Some oncogenes were present even in the Early Cambrian [6]. integral is evaluated from age 0 until the age beyond which = &
+However, it is likely Peto’s paradox has a number of no individuals survive. When population growth and fecund- &
+facets beyond body size and longevity. If cancer suppression ity are limited by females, then survivorship refers to females, —
+were cost-free, one would expect all organisms, big or small, and offspring refer to daughters.
+short- or long-lived, to have the same suite of nearly flawless For our evolutionary model and analyses, we shall use
+anti-cancer adaptations. As this does not seem to be the case, the following discrete approximation for the Euler—Lotka
+it is likely that, similarly to most survival enhancing adap- equation [12]:
+tations, cancer suppression must come with a metabolic or _ =x
+efficiency cost, albeit a cost that should be minimized by = dikime . G2)
+natural selection. Thus, we expect there must be trade-offs We assume that the ecology of the organism and its needs to
+between the degree of cancer-suppression adaptations and acquire particular resources and withstand particular hazards

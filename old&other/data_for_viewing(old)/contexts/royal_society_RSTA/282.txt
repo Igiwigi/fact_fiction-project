@@ -1,0 +1,25 @@
+where |W) is a pure state and e%hw/2nkT, n the number of qubits and T
+the equilibrium temperature. The measured NMR signal from such a state is
+proportional to the nuclear magnetization,
+
+M* x Tr{o* ly) WI}, (1.4)
+
+therefore behaving as a pure quantum state. (ii) The second point is that RF
+pulses implement nearly ideal unitary transformation. By exploiting a fine pulse
+control and free evolution with J-coupling, a universal set of quantum logic gates
+can be designed. Particularly important are pulse sequences that implement the
+QST, for both spin 1/2 and quadrupole nuclei [1].
+
+The two earlier-mentioned facts are the very basis of NMR-QIP, and work
+extremely well for two-qubit quantum computers. But as the number of qubits
+increases, things rapidly become complicated. One of the main challenges in
+current research on NMR-QIP concerns the design of special pulse sequences
+and, for that, powerful techniques have been developed: strong modulating pulses
+and gradient ascent pulse engineering (GRAPE). In the next paragraphs, we will
+briefly describe the contents on various aspects of NMR-QIP discussed in this
+Theme Issue.
+
+A general review about recent advances in NMR-QIP, focusing on decoupling,
+pulse engineering and indirect nuclear control techniques, is presented by Criger
+et al. [2]. Souza et al. [3] present a detailed study of a robust dynamical decoupling,
+which is largely immune to pulse imperfections and enables an increase of the

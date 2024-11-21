@@ -1,0 +1,25 @@
+norms
+
+coarse to fine 0.93 4.89 0.59 240 0.54 1.98
+medium to fine 0.64 2.66 0.30 0.82 0.15 0.52
+
+represent a finite approximation to a Young measure concentrated there, and specifically toa PDF
+or CDF. A systematic test of these ideas is given in [17], where convergence norms are applied to
+the PDFs and CDFs. First, the differences (as the mesh is changed) in the PDF /CDF is measured by
+an L; norm of the difference. These norm differences, one for each supercell, are compared (in Ly
+or Lo), to give an overall norm of the difference of PDF/CDF. We find convergence or converging
+trends under mesh refinement, with the order of convergence depending on the supercell size.
+From this fact, we conclude that the primary error is related to the statistical sample size as an
+approximation to the PDF/CDE, rather than being mesh related. These facts are illustrated with a
+table extracted from Kaman et al. [17] (table 1).
+
+5. An application programming interface for front tracking
+
+Having argued that FT/LES/SGS has desirable properties for the study of turbulent mixing, we
+turn to the question of the availability of this technology to others. Here, we address three issues:
+the application programming interface (API), a conservative version of the API and a graceful
+end to the tracking of the interface in overly complex frontal topologies.
+
+Before going into the details, we describe the front or interface software, a product of Jiao
+and students [21-23], and replacing our older interface software. Conceptually the ideas are
+simple. A front is presented as an unstructured triangulation of a smooth surface (folds and

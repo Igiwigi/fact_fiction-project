@@ -1,0 +1,25 @@
+i 7 i) (3.8)
+
+Accordingly, the smaller the actual proportion s(t) of Infectious, the bigger the relative error will
+be. Second, if the number (N’ — I) = (S + E + R) of people without symptoms typically outweighs
+the Infectious by far, one may assume that aq(S + E + R) =aq(N’ — I) > (1 — B)pl and q(N’ — 1) >
+pl. In this case, we get
+
+ea P44). (3.9)
+Is| s
+
+In both cases, we can see that the relative error increases with the inverse of the proportion s
+of Infectious. Accordingly, the relative error € increases with the number of healthy people. This
+relative error might be huge. In fact, it is particularly big in cases of ‘mild’ epidemics characterized
+by s(t) ~ 0. Again, given the finite value of the false positive rate a, mass testing of people who feel
+healthy is not really advised, unless appropriate statistical corrections are done. It might lead to a
+large overestimation of the actual disease rate. That is, the state of the epidemic may be wrongly
+assessed.
+
+However, there is a correction formula for the effect of false positives and negatives, and for
+biased samples with p ¥ q. Similar to the correction for testing errors and biases introduced in [20],
+to estimate the fraction of unhealthy people correctly, we need to find a function S, that transforms
+the estimate $ into s. Considering that the estimate § of s is given by (3.3) and that we have s = 1/N’
+with N’ =(S +E +1+R), under the previously made assumption (1 — £’) =a we find
+
+(1 = B)ps + ag(] ~ s)_

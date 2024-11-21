@@ -1,0 +1,25 @@
+with probability q. When the testing is focused on infectious people with symptoms (I), we will
+have q <p or evenq <p.
+
+In the following, for the sake of illustration, we will focus on the SEIRD model as ground truth.
+Furthermore, let the false-positive rate (FPR) when healthy people are tested be a, and the false-
+negative rate (FNR) be B when Infectious are tested, but 8’ when Exposed are tested. Under these
+circumstances, the expected number of positive tests is
+
+Np(t) = (1 — B)pl(t) + 1 — B GE) + ag{S(t) + RD). (3.1)
+
+Accordingly, the assumption that the number N,(f) of positively tested is proportional to the
+number I(t) of Infectious holds only if 8’ =1 and a =0 (which is unrealistic [26]), or if q =0 (ie.
+if ‘healthy’ people are not being tested). Otherwise, N,(f) can be quite misleading. In fact, the
+term aq(S + R) may dominate the other terms, if a large number of people without symptoms are
+being tested (corresponding to ‘mass testing’, addressed in SE of the electronic supplementary
+material). In such a case, the majority of positive tests would be false positives, and the number
+of positive tests would increase with the overall number
+
+Nr(t) =pl() + IS) + E(t) + RD] (3.2)
+
+of tests made. Testing a large number of people without symptoms might, therefore, produce
+pretty arbitrary and misleading numbers, if appropriate statistical corrections are not done. As a
+consequence, the number of positive tests is not a good basis for policy measures. In particular,
+if the testing rate q is increased with the anticipated number of positive tests Np(t + At) at some
+future point in time t + At, this may lead to a ‘lock-in effect’. Then, for a long time, one may not

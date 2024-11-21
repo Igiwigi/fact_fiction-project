@@ -1,0 +1,25 @@
+c3
+
+If such a graph is constructed for an arbitrary system, and if, as in our example, it is connected,
+then in this system, all random variables are jointly distributed. Systems whose context graphs
+are not connected do not pose difficulties as they can (and should) always be studied as several
+unrelated systems with connected graphs.
+
+It is now obvious that a system that is non-contextual (or contextual) in the counterfactual
+sense is precisely a system for which there exists (respectively, does not exist) an identically
+connected coupling. The two meanings coincide. One can even say that the notion of a coupling
+is nothing but a rigorous mathematical meaning of the ‘counterfactual sense’. Instead of making
+the assumption, some would say distinctly metaphysical in flavour, that a random variable has a
+definite value even if unmeasured, one can state as a fact, with no assumptions involved, that one
+can impose a joint distribution on (construct a coupling of) all random variables in the system.
+And then one can ask whether among all such couplings one can find an identically connected
+
+
+one. Counterfactual statements can be rigorously formalized, but most would agree that their
+logical status is more involved than that of factual statements. ‘The system has a coupling with
+properties X’ is more ‘ordinary’ a statement than ‘Had we measured A in another context its value
+would have been x’. As stated in a Stanford Encyclopedia of Philosophy article [38], ‘Philosophers,
+linguists and psychologists remain fiercely divided on how to best understand counterfactuals’.
+It is hard to be divided over the notion of a coupling.
+
+5. Hidden variables with context-independent mapping

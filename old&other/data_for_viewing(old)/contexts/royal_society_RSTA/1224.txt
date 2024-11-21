@@ -1,0 +1,25 @@
+the other hand, 0 is an eigenvalue of A, for p > 1, the other eigenvalues have negative real parts
+and the semigroup is analytic (and also compact), see §4b. All together, this implies that T(t)
+converges to the projection P exponentially as t > oo in the operator norm.
+
+Let us show how L/ estimates for the associated parabolic problems follow from the above
+properties, by general theorems. We recall that an analytic semigroup S(-) on a Banach space
+X with generator L has maximal regularity of type L1 (1 <q < oe) if for each f € L1([0,T], X) the
+function t+ u(t) = Jo S(t — s)f(s) ds belongs to w!4((0, T], X) 9 L4((0, T], D(L)). This means that the
+mild solution of the evolution equation
+
+u'(t)=Lu(t)+f(), > 0, u(0) =0,
+
+is in fact a strong solution and has the best regularity one can expect. It is known that this property
+does not depend on 1 <q < oo and T > 0.
+
+Let X= Ly, 1<p<o, and denote by || - ||p the operator norm in ub and L=A-—I. Then L
+has maximal regularity of type L‘ if its imaginary powers are bounded operators and satisfy
+I(—L)® lps Me’! for some a € [0,7/2) and all s € R thanks to the Dore-Venni theorem, e.g. [25,
+Theorem II.4.10.7]. If p = 2, since L is maximal dissipative and invertible, then ||(—L)® ||, < Me™§\/?
+by a result due to Kato [26, Theorem 5]. However, we know that e*L is maximal dissipative
+and invertible for some ¢ € (0,7/2], by point (i) above. Kato’s result applied to e®L then yields
+I(—L)® lp < Me"! for a’ = 1/2 - $.
+
+When p #2 we first note that, since L generates a positive contraction semigroup on L’,, for
+every 1<r<ow, then ||(—L)* ||, <Me exp((e + 2/2)|s|) for each ¢ > 0 and s€R because of the

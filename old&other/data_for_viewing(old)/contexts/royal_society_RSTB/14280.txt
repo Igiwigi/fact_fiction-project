@@ -1,0 +1,25 @@
+base pair on an Illumina NovaSeq platform (Get Plage, INRA
+Toulouse). Reads were mapped on the H. melpomene (Hmel2)
+reference genome [57] with NextGenMap [58] with default
+parameters. Mapped reads were processed with GATK and
+SNP and indel detection was performed with the unified genoty-
+per, following the procedure recommended by the authors [59].
+Before filtering for the G*E association, the dataset included 46
+999 947 SNPs. SnpEff (v. 4.3; [60]) was used to annotate genetic
+variants based on H. melpomene reference genome annotation.
+
+Our reference genome Hmel2 turned out to contain an
+assembly error: a 45853 bp contig considered to be on the
+chromosome 7 was in fact on chromosome 15 within the super-
+gene. This explains the peak of association on chromosome 7
+(figure 2). The misplacement of the scaffold on chromosome 7
+was determined by mapping this scaffold with BLAST on the
+NCBI database and by aligning this scaffold on an improved
+
+H. melpomene genome published after the performance of the
+analyses presented here ([61]; electronic supplementary material,
+figure S14). Alignment was performed with mummer v. 4.0 [62]
+with a 1000 bp maximal gap between two adjacent matches and
+visualized with Circos [63].
+
+(b) Population genetic analyses

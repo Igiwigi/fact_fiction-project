@@ -1,0 +1,25 @@
+
+
+These calculations do not take into account the effects to-trial variability of the latency (computed as the standard 5 |
+
+of correlated noise, because they are based on a pseudo- deviation of the latency across all trials to each stimulus, and
+simultaneous response array. To test for the effect of correlated then averaged across stimuli). This revealed a clear dichotomy a
+variability, we generated simulated correlated spike trains that within the population: some neurons achieved very low s
+matched exactly the true population-averaged time-dependent latency variability, while most others attained much higher a
+firing rate of the neurons (sampled with 1-ms bins) and the true levels of variability. For analysis, we partitioned the population = 2
+pairwise cross-correlations of neuronal pairs within the same into two subpopulations using a single criterion: a threshold Ss
+column in each bin [39,40]. When the simulated population applied to the latency variability (figure 3b). The subpopu- Ss
+of 100 cells per column with realistic correlation values was lation of neurons with low latency variability was termed =
+tested, performance of the columnar latency difference decoder ‘stereotyped’ neurons to reflect the fact that they all had similar ‘5
+was unchanged [40], suggesting that the results presented here onset latencies across stimuli. These made up 24% of the ©
+would only be mildly affected by correlated noise. total population. The neurons classified as those with larger
+Here, we presented results on the robustness of the codes latency variability were termed ‘modulated’ neurons. © =
+to ‘backwards’ errors in knowledge of stimulus time that led This grouping revealed further key differences: stereotyped yy
+to including in the analysis periods of prestimulus activity. neurons responded to all tested sounds, whereas modula- 2
+This was because we were interested in the robustness of ted neurons responded only to some sounds, and stereotyped &
+first-spike detection to spontaneous activity. However, it is neurons responded with very short latencies. The mean a
+important to bear in mind that ‘forward’ errors in the stimu- latencies of stereotyped neurons (21.7 + 0.8 ms) were much Ps
+lus time (i.e. when stimulus time is estimated to happen later shorter than those of modulated neurons (72.0 + 4.6 ms; two- |
+than it really does) can also be profoundly detrimental for sample f-test p < 10’). Example responses of one stereotyped = &
+reading out the information. For example, for transient and one modulated neuron are shown in figure 3b. 3
+responses as those of the barrel cortex neurons analysed The stereotyped neurons stand out because of their rapid, Si

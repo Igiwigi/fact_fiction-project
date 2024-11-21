@@ -1,0 +1,25 @@
+horizontal is used to capture five images.
+
+For the reasons of copyright, I cannot copy these images from Catt’s paper. But, they were
+taken in the following points: (A) across the terminator 75-ohm resistor, (B) 25% to the left of the
+reed switch (4.5m), (C) 50% to the left of the reed switch (9m), (D) 75% to the left of the reed
+switch (13.5 m), (E) at the extreme left of the open end of the cable (figure 6).
+
+
+(d) What if the load is a self-timed digital circuit?
+
+When I asked myself a question of what the law of discharging a capacitor via a self-timed
+switching circuit is, I had already suspected that it was not a normal exponential process that
+we see in an RC circuit with a constant R. Clearly the fact that the switching circuit forms a
+voltage-controlled impedance would affect the discharging process. Theoretically, one can try to
+produce a model of resistor R and apply it at every step of the discharging process. But then the
+question arises, what if the dynamics of change of R is not related to the dynamics of the capacitor
+discharge? While it would still be interesting to study the discharging process for a TL in place
+of a lumped C, here we can consider the model of discharging a lumped capacitor via a digital
+switching circuit as the first step in this direction. Here, we will focus on the step-wise process
+associated with the changes in the resistive load due to switching from one destination capacitor
+
+to another capacitor and modelling the dynamics of the delay in such switching. As a self-timed :2
+digital switching circuit, we consider a ring oscillator. The original details of this derivation can : =
+be found in papers with my colleagues Dr Reza Ramezani, Dr Alex Kushnerov and Dr Andrey 13
+Mokhov [14,18]. :=

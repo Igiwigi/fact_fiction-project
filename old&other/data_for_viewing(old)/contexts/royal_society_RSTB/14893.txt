@@ -1,0 +1,25 @@
+(a) Longit dinal data for human immunodeficiency a patient across time points, both for SNP frequencies and SNP
+abundances. This defines the first two entries of table 1: “HIV
+virus and the immune repertoire turnover fr/ab’. Since these measures compute how much new
+Our study is based on the dataset described in [32]. The samples mutations spread in the population from one time point to the
+originate from 10 HIV-infected male participants. For each indi- other, they can be interpreted as the genetic turnover.
+vidual we have 10-20 longitudinal samples, taken before In a similar way, these measures can also be applied to
+administration of antiretroviral therapy. For most of the time the SNPs of Ig repertoire (entries ‘Ig turnover fr/ab’ of table 2).
+points the viral genetic composition and the immune repertoire However, in that case, SNPs have to be computed at the level
+are tracked in parallel, see electronic supplementary material, of lineages, obtaining trajectories for SNP i in lineage I, x;,;(f).
+figure S1 and section S1 for more information. Specifically, on Note that for ‘Ig turnover fr’, the frequency is normalized by
+the viral side, the C2-V3 region of the env gene is deeply the number of sequences in the lineage, so that }>,<; xj )(t) = 1.
+sequenced. This gene is known to be a potential target of the The absolute turnover then sums across all SNPs and lineages.
+antibody repertoire [33,34]. On the immune repertoire side, the To quantify the fact that B-cell lineages themselves are subject
+samples correspond to the deep sequencing of the variable to turnover, and rise and fall in time, we introduce a measure that
+region of the immunoglobulin (Ig) heavy chain locus. We computes the absolute change of lineage sizes. The size of a
+omitted patient 10 because of lack of HIV samples, as shown lineage is the sum of all its sequence abundances or frequencies
+in electronic supplementary material, section S1. (here normalized by their total counts in the sample, so that
+We wrote a pipeline to download the dataset, assemble the x(t) =). Applying the formula for absolute change,
+HIV sequences and the immunoglobulin heavy chain clonotypes. equation (2.1), to these quantities defines the Ig lineage turnover
+The description of our pipeline is in electronic supplementary frjab measures in table 2. We define two additional measures
+material, section S2. The public repository https://github.com/ derived from the Ig lineage turnover abundances: one that
+statbiophys/HIV‘coevo.git contains all the scripts and the includes only the top 10% changes in abundances in the compu-
+instructions necessary for running the pipeline and reproducing tation of the absolute change (Ig lineage large turnover), and one
+our results. The obtained dataset is composed of HIV samples with only the bottom 50% (Ig lineage small turnover). In general
+having an average number of 1000 unique sequences and we expect that smaller absolute changes are more subject to

@@ -1,0 +1,25 @@
+know to tackle the description of unusual or yet unexplored physical circumstances.
+
+— Prescribing point-wise balances of the actions occurring in complex materials in analogy
+with the standard instances is a direct jump to the end of the discussion about balance
+
+
+equations. When we act in this way, beyond the structure of the equations, we presume
+the representation of the microstructural contact actions in terms of microstresses and
+self-actions, without having proven the analogous of Cauchy’s theorem for the standard
+tension. In its original formulation, such a theorem requires the boundedness of the
+bulk actions, the knowledge of the integral balance of forces, and the action—reaction
+principle. If we choose to act in this way, we have to remind that we are not sure about
+the effectiveness of the result: analogy, in fact, is not always a secure path.
+
+The direct assignment of integral balances demands fewer assumptions, in fact, and
+allows to try to prove Cauchy-type theorems. However, since we consider M as a
+nonlinear manifold, which is the general unifying choice, prescribing an independent
+integral balance of micro-actions would be highly questionable formally. We would write,
+in fact, integrals involving integrands taking values on the cotangent bundle of M, which
+is anonlinear space (unless M coincides with a linear space) and is the target space of the
+integrand, so the definition of the integral itself would be questionable. Moreover, if we
+consider M to be coincident with a linear space, we can see that such a balance would be
+essentially superfluous, as shown in a theorem below.
+
+When we adopt the principle of virtual power (as in [38]), we are directly prescribing

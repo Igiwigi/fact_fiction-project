@@ -1,0 +1,25 @@
+In this section, we demonstrate the ability of these perturbed systems to transport energy
+with little leakage by modelling plates with finite clusters of pins that act as waveguides. By
+considering sufficiently large clusters, we can replicate the key properties of the infinite system
+illustrated in figure 6a, and therefore show examples of localized interfacial modes.
+
+We consider the finite system in figure 7a, comprising 43 x 43 hexagonal cells of rigid pins,
+divided into a topological (a/R = 2.85) and a trivial (ay/R = 3.25) region. The topological section
+consists of 24 x 24 hexagonal cells and is positioned in the top left corner. We apply a point
+source on the lateral interface (shown by a double arrow in figure 7a), characterized by a
+frequency f =79.814 Hz (corresponding to 6 = 12.69 m~!), which is inside the mutual stop-
+band of the topological and trivial regions. By plotting the displacement field in figure 7a,
+we observe a wave that is localized at the interface, with little leakage into the surrounding
+medium. The robustness of the system is evidenced by the fact that wave propagation is
+not affected by the presence of geometrical defects, represented in this case by a corner in
+the interface.
+
+In figure 7b, we show the displacement field when the frequency parameter of the point source
+is 8 =12.63m7!, which is in the stop-band for the topological array, but in the pass-band for the
+trivial one. We observe transmission into the latter section of the system, which highlights that
+the operating range for the interfacial modes is restricted to the overlapping band-gap for the
+constituent parts of the system.
+
+In the electronic supplementary material accompanying this paper, we show additional
+examples of interfacial waves, obtained for a couple of different values of the lattice parameters
+characterizing the topological and trivial regions of the array of pins.

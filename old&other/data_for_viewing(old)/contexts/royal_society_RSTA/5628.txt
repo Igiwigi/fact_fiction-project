@@ -1,0 +1,25 @@
+of the present contribution is to extend theorem 1.2 to the (2) case, hence providing a detailed
+proof of a proposition already used in a previous article (cf. Proposition 2 in [3]). The expected
+
+
+result, which will be proven as theorem 3.1 and corollary 3.3 in §3, concerns this extension of
+theorem 1.2 to the case k = 0, under the assumption that dQ € C?. However, the weak boundary
+condition (1.5) involves the quantity 3;p, which might not be well defined on 4 in this case.
+Therefore, we propose an even weaker formulation than (1.5) for the boundary condition, which
+involves the quantity
+
+di(p + (u- Vrd(e,32))), on a2,
+
+instead. This is motivated by the fact that for u is smooth enough (say in C°“(2) with a > 1/2)
+with wu - i =0 on the boundary, 32, one has:
+
+~ 2
+di(u - Vad(e, 32)) =0, onag. (1.7)
+
+Consequently, instead of the weak boundary condition (1.5) for the pressure, we consider in this
+study the following version:
+
+- aa(p + (u- Vyd(x, 3@))’) =(u@u): Vai, ona. (1.8)
+
+This is obviously equivalent to the boundary conditions (1.4) or (1.5) in the case of classical
+solutions; in particular, it is equivalent to (1.5) when u € C°(2) with w > 1/2. However, when

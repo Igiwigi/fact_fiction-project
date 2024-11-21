@@ -1,0 +1,25 @@
+
+4476 N. Nikiforakis
+
+Another important distinction is whether the approach has the ability to refine
+in time as well as in space. This is a critical function if the intended use is to bridge
+massively disparate length scales: the timestep restriction will be prohibitive if
+the algorithm has no facility to sub-cycle over fine mesh patches that may have
+a cell size ratio of orders of magnitude to the base coarse mesh cells.
+
+An increase of the mesh density may be achieved by node (or cell) movement or
+by increasing (and decreasing) the number of cells in time and space. The former is
+fairly restrictive because one has to know a priori the requirements of the flow, so
+it is better suited for steady-state flows. In fact, one of the first attempts for mesh
+adaptation was by mesh stretching (effectively a node movement to produce static
+refinement) to cover the boundary layer of a wing. For most applications, this is
+a very inefficient way to increase resolution, because the stretching generates
+very high aspect ratio cells away from the part of the domain that needs to be
+better resolved.
+
+Research in mesh adaptation has gone a long way since the days of
+mesh stretching and sophisticated approaches exist for both structured and
+unstructured cell shapes; a very good representation of the various approaches
+may, of course, be found in this issue. Good reviews for adaptive meshes can be
+found in the book by Behrens (2006), albeit mainly for unstructured, triangular
+meshes, and in the collection of papers by Plewa et al. (2005). The latter will also

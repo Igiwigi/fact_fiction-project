@@ -1,0 +1,24 @@
+are marked for an example frequency (0.2767c/a) indicated by the solid horizontal line. Maps of
+the electric field intensity |E(r)|? and chirality S3(r) are shown in figure 4b, along with the total
+directionality of the mixture, as calculated from equation (6.1). Here, we can clearly appreciate
+that, although C-points exist in all three modes, the directionality never reaches above 0.72.
+Figure 4b shows a plot of the peak directionality as a function of the frequency, and for our glide
+waveguide the directionality peaks at 0.72 in the multi-mode region. Thus, the multi-mode slow-
+light regime of our glide waveguide design is not suitable for the exploitation of directional effects
+
+n@) = (6.1)
+
+SThis transition is complicated by the presence of an (anti)-crossing between the two guided modes at ka/2 ~ 0.476, before
+they come back together for a degeneracy at ka/2 =0.5. It is also made more complicated by the fact that at the bandedge
+itself any linear combination of modes is itself a mode. The modes found by the eigensolver were not in fact a time-reversal
+pair. However, we found such a pair by taking linear complex combinations of the eignesolver’s solutions.
+
+
+(a)
+
+0.285
+
+0.280
+
+0.4 0.6 0.8
+2 0.275

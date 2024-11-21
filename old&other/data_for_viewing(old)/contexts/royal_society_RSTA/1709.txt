@@ -1,0 +1,25 @@
+[20] used a subclass of well-posed systems, called regular systems, Tauberian theorems and
+the operator C, to give a representation to the input-output operator F. The latter is defined
+as in (2.10) and helps to develop a complete feedback theory of regular linear systems [20]. A
+generalization of the Weiss regular system to the Banach setting is given in Staffans [21]. In
+our discussion above, we only cited the founders of the theory of well-posed systems. Here,
+we also cite Jacob & Partington [22] for the admissibility of observation of Volterra equations,
+Jacob & Zwart [23] for well-posed Hamiltonian systems, Hadd [24] and Schnaubelt [25] for
+regular non-autonomous systems.
+
+
+The purpose of the present work is twofold: firstly, in §2, we give a simple exposition of the
+feedback theory of regular linear systems. To this end, we mainly use operator theory to facilitate
+the task to the semigroup community. In fact, the interaction between semigroups and the theory
+of feedback of regular systems [20] theories lies in perturbation theory [26, Chap. III]. For example,
+the case of Miyadera—Voigt perturbation can be seen as the feedback of a system (A, Ix, C), where
+C is an admissible observation operator for A, while the Desch-Schappacher perturbation as a
+result of the feedback of a system (A,B,C), where C is a bounded operator from X to U and
+B:U-— X_, is an admissible control operator for A. The feedback theory of general regular linear
+systems coincides with the problem of unbounded perturbations of the generator domain. In fact,
+to visualize this connection, define an operator Ay C Am with domain D(A) = {x € D(Am) : Gx =
+Mx}, where G,M:Z Cc X > X, Am: Z— X is an operator such that A= Am with domain D(A) =
+ker G is the generator of a strongly continuous semigroup T on X. We see that M is a perturbation
+of the domain of A. As we will see in the next section, the generation property of Ajy is related to
+the existence of a regular system with admissible feedback. This was proved in [27] and applied to
+the heat equation with an unbounded delay at the boundary. On the other hand, the exponential

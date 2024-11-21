@@ -1,0 +1,24 @@
+since the multipliers q=e'’” are roots of unity (of order N=N(a,b), the denominator of the : 2
+
+rational number abh/27). These quantum algebras at roots of unity and their representation :§8
+theory are very well understood (e.g [7]). We call them rational Weyl algebras. A crucial idea of .
+Zilber [2] is that, in the same way that rational points approximate points of the real line, we
+
+should have that rational Weyl algebras approximate the full Heisenberg—Weyl algebra. We will
+
+make this idea more precise below.
+
+Let us consider the category Agin of all rational Weyl algebras with canonical embeddings as
+morphisms. We have that an algebra A = A(a, b) € Agi is an affine prime algebra over C generated
+over its centre Z(A) as a module. In fact, we have that both A and Z(A) are prime Noetherian
+principal ideal rings. Every maximal ideal of A is of the form &@ = Aa for a in Spec(Z(A)), and an
+isomorphism type of an irreducible module V is fully determined by a such that Ann(V) = @. We
+call this A-module V 4(a). Note that the dimension of V4(@) over C is N for every a € Spec(Z(A)).
+
+The next standard step in the theory of quantum algebras at roots of unity allows one to choose
+a canonical U"-basis u(a), of size N. However, given a, a canonical U*-basis u(a) is determined only
+up to the finite group 14 of symmetries corresponding to the Galois symmetries of roots of unity
+of order N, so we associate with « a finite family of bases u(a). The important point is that a choice
+of a basis u(a) allows us to introduce the unique inner product in V4(@) with respect to which u(@)
+is an orthonormal basis. Change to another canonical basis does not affect the inner product since
+the transformations of M4 are given by unitary matrices.

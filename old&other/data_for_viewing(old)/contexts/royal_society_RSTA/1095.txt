@@ -1,0 +1,25 @@
+analogy). When the base flow is taken as the steady jet mean flow, usually found via a Reynolds-
+averaged Navier-Stokes (RANS) calculation or the steady mean field of a Large-Eddy Simulation,
+the Fourier transform of the propagator is time-independent and is a function of the mean flow
+field and a vector Green’s function of the ALEE. This approach has proven to be successful for
+a number of test cases involving axisymmetric jets at a variety of acoustic Mach numbers and
+observation angles, @ ([11], hereafter referred to as G&L). It has also shed light on what impact
+jet mean flows have on the far-field radiated sound for both heated and unheated conditions
+[12,13]. Any remaining issues then largely involve: (a) development of robust models for Rix and
+(b) determination of an appropriate solution to the adjoint vector Green’s function and, therefore,
+the propagator tensor.
+
+The present contribution focuses on the propagation aspect of the jet noise problem. We
+use the fact that non-parallel flow effects enter the lowest order asymptotic expansion of the
+propagator tensor when use is made of the low-frequency asymptotic theory developed by
+Goldstein, Sescu & Afsar [14] (hereafter referred to as GSA) that appeared to capture the
+qualitative structure of non-parallelism found in the full numerical solution of the ALEE [15].
+That is, inclusion of mean flow spreading effects into the propagator solution can increase the
+low-frequency radiation by almost 10 decibels (dB) at @ =30° on a high subsonic jet compared
+with the equivalent parallel flow solution of the ALEE [8,15]. GSA constructed an asymptotic
+solution to the adjoint vector Green’s function to explain this finding by using a slowly
+diverging jet approximation in which the jet spread rate, €, is asymptotically small, inasmuch
+as ¢€ <O(1) where the propagator is sought at low frequencies of the same order as the jet
+spread rate (i.e. w~e€) and is then matched with the outer wave equation solution at O(1/e)
+radial distances. Using this scaling, the dominant ‘1-2’ propagator component that multiplies
+the ‘1-2’ Reynolds stress in the acoustic spectrum formula (where (1,2) refer to streamwise

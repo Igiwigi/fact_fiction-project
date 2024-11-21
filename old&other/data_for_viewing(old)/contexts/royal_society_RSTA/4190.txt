@@ -1,0 +1,25 @@
+
+We will change the notation later, in §8, to conform with the traditional interpretation of the a
+properties and contexts involved, e.g. in a pair of two entangled particles. For now, one can a
+think of any four properties measured in any four contexts so that (i) each context contains two :
+properties measured together; (ii) each property is measured in two different contexts; (iii) no two Da
+contexts share more than one property; and (iv) each measurement is a binary random variable, tw
+with values +1.
+
+4. Traditional understanding of contextuality in cyclic-4 systems
+
+The traditional understanding of contextuality in the cyclic-4 paradigm can be presented as
+follows. Let us assume the measurements RiRo of any property q in the contexts c,c’ in which it
+is measured to be in fact one and the same random variable, Ri. This assumption can be referred
+to as that of context-irrelevance, and in many traditional treatments it is made implicitly, by the
+virtue of indexing the measurements by the properties being measured but not by the contexts.
+The assumption implies that our matrix (3.3) can be written as
+
+cy 02 C3
+
+m Roe RR
+
+q RE REO. (4.1)
+99° RSS
+
+ga RG ORG

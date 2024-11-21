@@ -1,0 +1,25 @@
+3. Such experiments demonstrate that the technological advances in quantum optics and satellite aes
+technologies are mature enough for a global-scale quantum communication network that exploits 22
+the single-photon polarization degree of freedom as encoding. [4
+
+Additionally, in September 2017, the Chinese group, in collaboration with the University of : >
+Vienna, realized the first intercontinental video-call encrypted via satellite QKD [20]. The Micius : =
+satellite exchanged the cryptographic key with two ground stations, the first in Xinglong (near 18
+
+Beijing, China) and the second one in Graz (near Vienna, Austria), allowing the realization of
+such a call at the intercontinental distance of 7600 km.
+
+The Micius satellite and polarization encoding were also used to study a highly
+counterintuitive aspect of quantum mechanics, that is, entanglement. In fact, the violation of
+Bell’s inequality is of paramount importance for fundamental physics, because it excludes
+the existence of hidden-variable theories that can describe the non-local correlations between
+entangled systems [29]. In 2017, Yin et al. [17] reported on the long-distance distribution of an
+entangled particle to two distinct locations separated by 1203km via two satellite-to-ground
+downlinks. A Bell test was performed on these particles, obtaining a Bell parameter of 2.37 + 0.09,
+violating the local-hidden-variable bound under strict Einstein locality conditions.
+
+(b) Time bin
+
+Another possible encoding for space quantum communications is given by the temporal degree of
+freedom of photons, i.e. the time-bin encoding. In 2016, the study by Vallone et al. [24] reported the
+observation of single-photon interference of coherent pulses that had travelled a path length of up

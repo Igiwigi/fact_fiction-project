@@ -1,0 +1,25 @@
+
+Summarizing what we have discussed above: to do point-vortex dynamics on a Riemannian
+surface M one needs:
+
+— the metric g, to define the Laplace-Beltrami operator Ag which is necessary to find the
+corresponding Green function G(r, r’);
+
+?This can be easily proved by using integration by parts,
+
+iH |VOP do =-]] PAPdo,
+g2 s2
+
+Gauss’s theorem and the fact that the surface has no boundaries.
+
+
+— a Hamiltonian formalism,
+d :
+q _ 9H an dp _oH
+dt ap dt oq
+
+which is naturally defined when using coordinates of the area form do = dr; A dry of the
+given surface M, by setting q = rz, p =11. In the case of the plane and of the unit sphere
+S*, the corresponding area forms can be written as
+
+doge = dx A dy and dog: = d(cos 0) A dg, (2.9)

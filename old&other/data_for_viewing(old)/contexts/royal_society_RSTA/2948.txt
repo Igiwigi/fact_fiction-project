@@ -1,0 +1,25 @@
+with unit energy.
+
+As previously, we use the Gaussian approximation of §3b to initiate the Gauss-Newton
+method and proceed by path following. Numerical computations are performed by fixing R =1
+and varying q (then v =2sinq). Note that v > 0 when q— z, and hence the integration time
+in the shooting method diverges in this limit. For each value of q, a solution with unit energy
+H=|a1 — an|P + vN l@n41 — 4n|P is obtained by multiplying a numerical solution with energy
+Hby R= HWP. The velocity v of this new solution is then given by (3.14).
+
+Figure 12 shows typical travelling breather profiles obtained with the above procedure. They
+correspond to a localized excitation superposed in most cases to an oscillatory tail. Tail size
+exhibits important variations with respect to v (or equivalently q) during numerical continuation.
+This is due to the fact that in the limit of an infinite chain, a continuum of solutions can be expected
+in the neighbourhood of a travelling breather for the same value of (v,@). Indeed, as discussed in
+§3d(ii), we expect that travelling breathers can be superposed on an oscillatory tail with amplitude
+and wavenumber linked by equation (3.30), and the tail amplitude provides an additional free
+parameter.
+
+
+0.55 0.4
+
+o4 | 03
+03 4 02
+Ss 024 =
+zs £01

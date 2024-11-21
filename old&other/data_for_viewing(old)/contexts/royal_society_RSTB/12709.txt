@@ -1,0 +1,25 @@
+separated from the population state; the coefficients b, c and
+d reflect how fitness depends on trait values, and nothing
+else, while the different ‘variances’ and ‘covariances’ only
+reflect relevant properties of population states. In the Price
+equation, on the other hand, 8 will have to depend on every-
+thing; if the real model at hand is model B, C or D, for
+instance, £ cannot be a constant, and will have to vary with
+the population state. That means that there is not really a
+
+(v) The Price equation
+
+The two aspects of the Price equation that are usually
+appreciated the most are its generality, and the fact that it is
+a tautology. We will, therefore, write the change in frequency,
+but this time without assuming anything about how fitness w
+relates to p. This is also what is usually done, including in the
+original papers by Price [1,5].
+
+pw 1e meaningful interpretation that one can give to £, while an
+Ap= yw - lee easy-to-make mistake would be to think of equation (1.6) in
+7 ot the same way as one would of equation (1.1).2
+This can be written as When the Price equation is ‘applied’ to any given model,
+Sm pio; Te Tt one may be able to figure out how exactly the f in the Price
+wAp = ser _ llPig 2) Wj. equation depends on the model parameters and the popu-
+i=1 i=1

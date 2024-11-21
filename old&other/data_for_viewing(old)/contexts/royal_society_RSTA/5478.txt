@@ -1,0 +1,24 @@
+blow through the discovery that weather was chaotic, i.e. weather forecasts are
+sensitive to small errors in their initial conditions (e.g. Lorenz 1993). To some
+
+* Author for correspondence (p.d.williams@reading.ac.uk).
+
+One contribution of 12 to a Theme Issue ‘Stochastic physics and climate modelling’.
+
+2421 This journal is © 2008 The Royal Society
+
+
+2422 T. N. Palmer and P. D. Williams
+
+people, the fact that the weather is chaotic seemed to imply that it is hopeless to
+try to forecast it. However, a fundamental property of any chaotic system is that
+the degree to which it is predictable is itself a function of the initial state;
+forecasts from some initial states can be very predictable, even though the
+system as a whole is chaotic.
+
+To exploit this property of weather as a chaotic dynamical system, methods
+based on ensemble forecasting have been developed to try to predict when the
+weather is predictable and when it is unpredictable. The method is conceptually
+simple: an ensemble is a collection of forecasts made from almost, but not quite,
+identical initial conditions. The spread among members of the ensemble gives an
+estimate of flow-dependent predictability.

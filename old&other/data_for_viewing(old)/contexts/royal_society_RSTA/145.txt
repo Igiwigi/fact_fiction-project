@@ -1,0 +1,25 @@
+times after the onset of the Turing instability, the Turing modes delineate the rough spatial
+structure (shape and size) of the nascent Turing pattern, before nonlinear effects then refine the
+pattern.
+To determine the evolution of the kth Turing mode coefficient vector V;(t), we multiply (3.22)
+by one eigenfunction #;(x) and then integrate over the domain,
+
+a | Oyvdx= pj DV - (d(x)Vv) dx + | J (x) ®xv dx. (3.6)
+at Jo 2 2
+
+Using the representation (3.5) for v and the orthonormal property of the basis, the first term
+reduces to mw Using the representation (3.5) for v, the orthonormal property of the basis, as well
+as the divergence theorem, and noting that all eigenfunctions (x) satisfy (3.4), the second term
+reduces to —pxDVj. Finally, using the representation (3.5) and the fact that generalized Fourier
+series may be integrated term-wise, the third term becomes vole P(x) Py (x)](x)dx)Vn. We
+
+then arrive at the equation of evolution for the coefficient of the kth mode,
+
+dv =
+
+SHE = DV. + Do ([, Pul004n6000ax) Vor F=0,1,2,..0 @7)
+n=0
+
+We write the Jacobian matrix in the basis of eigenfunctions, as J(x) = ) 29 Je®e(x), where Je
+
+are constant real-valued 2 x 2 matrices. In order for this expansion to converge, we assume

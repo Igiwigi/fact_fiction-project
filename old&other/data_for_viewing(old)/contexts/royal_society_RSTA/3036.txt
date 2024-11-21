@@ -1,0 +1,25 @@
+'= aw ees + eiGs8wNN eyo), (2.5)
+
+where Q is the discrete symmetry operator associated with W (ie. either the time reversal or the
+parity inversion operator), and Gx. is the generator of translations along W in the -w directions,
+respectively. The right-hand side of equation (2.4) is called a ‘quantum virtual path’ (QVP) over
+W; it expresses the ket |)(wo,0))w in terms of a mathematical construction that is regarded in
+the theory as being fundamental.
+
+QVPs extend Feynman’s sum-over-paths formalism [16] in two different ways. The first is
+that, whereas each of Feynman’s paths are, in general, possible trajectories in space and time,
+here each path represents a sequence of virtual displacements in either space or time. Virtual
+
+2This makes use of the fact that a physical constraint limits the states that a system may occupy but it does not limit the
+basis states that may be used to give expanded representations of any physically realizable state. In particular, the constraint
+of bounded momentum restricts spatial distributions to having a minimum width, but allows a position eigenstate basis
+expansion.
+
+
+displacements arise in analytical mechanics when discussing constraints on motion [17]. A QVP
+is the superposition of all possible paths of this kind (where the adjective ‘quantum’ is used in
+the same sense as in the label ‘quantum walks’ [18]). The second is that, whereas Feynman used
+sums over paths as a means for calculating the transition amplitude for a process with respect to
+an initial and a final state, here a QVP is associated with the quantum state of a system itself.
+
+The final observation that we need to construct the new theory is that there are expected to

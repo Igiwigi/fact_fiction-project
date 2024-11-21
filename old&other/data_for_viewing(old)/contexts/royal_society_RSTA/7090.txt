@@ -1,0 +1,25 @@
+functions change very rapidly without having a singularity.
+
+So far, only particular cases of the general co-operative problem in lattices have
+been completely solved: those in which ys is capable of two values only, and the lattice
+is two-dimensional. The partition function is completely known only in the case of
+a rectangular lattice with equal or different interactions in the two crystallographic
+directions (Onsager 1944; Onsager & Kaufmann 1946). In this case a single singularity is
+known to exist and its position is also known. Under the assumption that a single transition
+temperature exists for any symmetrical (equal interaction in all directions) two-
+dimensional lattice, its value is known (Wannier 1945), again with the limitation that y is
+two-valued.
+
+For our purpose, only the potential energy U is required. There are, in fact, several
+approximate methods for finding U, the best known of which is that due to Bethe (1935).
+These methods have been applied extensively (Wannier 1945) to the Ising model of a two-
+dimensional ferromagnet. However, the rigorous solution for a rectangular lattice, due to
+Onsager (1944, 1946), is qualitatively different from all the approximate solutions. In the
+approximate methods both the potential energy and the specific heat can be discontinuous
+functions of temperature; the correct treatment shows that both are continuous, but the
+specific heat has a logarithmic infinity at a temperature some 10% below that at which
+Bethe’s method predicted a discontinuity. The reasons for this discrepancy have been
+discussed by Wannier (1945). These results have thrown considerable doubt on the
+predictions of approximate methods, especially when they predict a latent heat, i.e. that the
+potential energy is also discontinuous. Broadly speaking, it is characteristic of these approxi-
+mations that the calculated quantities are evaluated more accurately on the low-temperature

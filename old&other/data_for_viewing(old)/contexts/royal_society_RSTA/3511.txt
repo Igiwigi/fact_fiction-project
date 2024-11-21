@@ -1,0 +1,25 @@
+Proof. For the proof, we first note that the first part of Rosen’s argument, namely that fixed Dos
+points of Y? are fixed points of R?, holds irrespective of the convexity of C. Moreover, it follows [=
+from standard optimization theory [20] that if g1,...,gn, and hence W, are continuous, Yr? hasa 38
+closed graph. Hence, by the Eilenberg-Montgomery fixed-point theorem [28], it follows that 7? :
+admits a fixed point. Thus, the game {P1,..., PN} admits an equilibrium. a mea)
+
+(b) Uniqueness a
+
+Games can often have multiple Nash equilibria, thereby diminishing the predictive value of aon
+the concept. Hence, a sought-after result in the theory of games is the uniqueness of the Nash iS
+equilibrium. Classical games (without shared constraints) have unique equilibria under fairly .
+mild assumptions. However, in the case of shared constraint games, equilibria are generically
+non-unique. In fact, in many cases there is a manifold of equilibria (see examples and a proof
+in [21]).
+
+It turns out that the non-uniqueness is primarily limited to generalized Nash equilibria and is
+not as common with variational equilibria. In particular, one can show the following by applying
+standard results on variational inequalities (e.g. [19]) to VI(C, F).
+
+Theorem 2.7. Suppose the setting of theorem 2.3 holds. Further, assume that the function F is strictly
+monotone. Then, the game {P1,...,PN} admits a unique variational equilibrium. If C is closed and convex
+(not necessarily bounded), then there is a unique variational equilibrium if F is strongly monotone.
+
+We note here that Rosen [12] employed a closely related concept of diagonal strict concavity to
+show his uniqueness result.

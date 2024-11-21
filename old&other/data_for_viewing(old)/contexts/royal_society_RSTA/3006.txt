@@ -1,0 +1,24 @@
+The dynamical response of most lasers used in applications and laboratories can be analysed
+by considering two coupled rate equations for the intensity I of the laser field and the inversion
+of population D. In dimensionless form, they are given by [40]
+
+dl
+ap =i-1+D) (4.1)
+aP _ (A —DU +0) (42)
+
+dt
+
+
+where A = O(1) is the control parameter and y = O(10-) is a ratio of two physical time constants.
+The fact that y is small explains why the laser is weakly stable and exhibits slowly damped
+oscillations [40]. Consider now the following model for two intermediates X and Y and constant
+product B:
+
+1
+B=Y
+-1
+
+X+Y— 52x (4.3)
+
+3
+xX—C

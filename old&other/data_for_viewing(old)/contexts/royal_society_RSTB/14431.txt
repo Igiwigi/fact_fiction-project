@@ -1,0 +1,24 @@
+exploratory behaviour, for example, people’s exploration of sation may be distinguished from correlation—if A causes B,
+online food delivery purchases are driven by a combination then changing A must lead to a change in B. Thus, consider-
+of feature-based generalization of expected value and uncer- ation of counterfactual information contributes to causal
+tainty [45]. Even infants are sensitive to uncertainty and will reasoning, and testing counterfactual hypotheses is often part
+allocate their attention to sequences of stimuli that contain of learning about and testing causal relationships [55]. In this
+moderate levels of uncertainty [46]. Reducing uncertainty way, counterfactual information resolves an important type
+has been posited as the overarching principle guiding percep- of uncertainty and helps us to build better models of the world.
+tion, action and learning because uncertainty reduction is Whether counterfactual information is necessary or
+critical to make good predictions about the world, helping sufficient to determine causation remains a matter of philoso-
+agents to adapt to their environment [47]. phical debate (see [56]), but it is clear that at the very least,
+This principle of uncertainty reduction identified in humans find counterfactual information to be credible sup-
+curiosity research should be applicable to counterfactual port for causal explanations. This function of counterfactual
+information. In fact, even when counterfactual information information has recently been used in the field of machine
+is not directly related to rewards, it still often reduces uncer- learning, where the black-box operations of deep-learning
+tainty. This is because counterfactual thought hinges on the algorithms make important decisions but cannot be easily
+uncertain moments in our existence, those moments where explained. Diverse sectors including healthcare and finance
+alternate events could have transpired. Shani & Zeelenberg are increasingly reliant on machine-learning algorithms for
+[18] used vignettes to describe investment decisions and important decision-making functions, but public trust in
+manipulated the level of uncertainty about the outcomes these decisions can be undermined by a lack of understanding
+of alternative investment choices. They found that people of their operation. Counterfactual simulations are used to
+were more likely to seek information when uncertainty was explain the behaviour of these algorithms in [57] by demon-
+high. By considering the unknown outcomes of counterfac- strating what would have happened if different input
+
+tual alternatives, either through simulation or through values had been entered. The use of these counterfactual

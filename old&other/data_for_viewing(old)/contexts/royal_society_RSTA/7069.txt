@@ -1,0 +1,25 @@
+od =0. (3-1)
+The Navier-Stokes equation or conservation of momentum:
+pd = pF—Vp-+ 40% +4uV4 +2{(Vp) V}9+ (Vx) L-BA(Ve)- (3-2)
+The energy equation or conservation of energy:
+pe + pd =8+V{(KV) T}. : (3:3)
+
+In none of the references cited above is this equation given in its most general terms.
+Careful examination of its derivation shows that (3-3) is restricted neither to a perfect gas
+nor to one whose specific heats are constant, but is applicable to any fluid provided E is
+a function of T only. The dissipation function is given by
+
+& = wl2V{(9V) 93+ 0 —29V4 —§4?], (3-4)
+and is unaffected in form by the fact that viscosity is a variable.
+
+An alternative form of the energy equation can be obtained in terms of the enthalpy; it is
+
+pa —# = 6+. V{(KV) T}, (3:5)
+but since in this form it is now assumed that both EF and Jare functions of T only this equation
+is necessarily restricted to a perfect gas, but no restriction to constant specific heats is as
+yet implied.
+
+There are two main forms of the boundary-layer equations, namely, those for a com-
+pressible and those for an incompressible fluid, But in many applications of the latter it
+has been customary to ignore the energy equation, and to solve the mass and momentum
+equations with only velocity as the dependent variable, and it has been found that this

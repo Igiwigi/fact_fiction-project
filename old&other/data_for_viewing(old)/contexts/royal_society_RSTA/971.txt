@@ -1,0 +1,25 @@
+be derived from the percolation statistics of the vacancy clusters [14]. The Weibull distribution
+arises if the defect size distribution follows a power law. This happens close to the percolation
+threshold [15] up to the correlation length of percolation or if there is a significant long-range
+correlation in defect formation. Gumbell distribution, on the other hand, results if the probability
+of a vacancy cluster of size / falls off exponentially with |. This happens when q — 0. Though
+simulational and experimental results seem to satisfy Gumbell distribution more, for most brittle
+fractures and for simulations at low q-values, it is extremely difficult to differentiate between the
+two behaviours [9]. For large q-values and at the percolation regime, none of these distributions
+work. We discuss the case of high-defect density next.
+
+(b) High-defect density
+
+When the defect density is high, one cannot treat a defect independent of the others. In fact, close
+to the percolation point, where the broken bonds in the network start percolating, one cannot
+pick out any single critical defect. Fracture, in this situation, is a highly cooperative process. The
+critical theory and the scaling ideas of percolation phenomena can be used, at this limit, to predict
+the distribution of the strength of a material. As before, the system is taken to be a lattice and the
+disorder is introduced by removing bonds randomly with a concentration p. In the percolating
+
+
+@) ®) 190
+
+~i— node
+
+12.5 4

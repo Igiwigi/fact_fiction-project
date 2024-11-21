@@ -1,0 +1,25 @@
+In this mixture process, importantly, selective models may situations. Third, actor creation involves model-based RL, | &
+be recalibrated according to current rewarding values of action whenever ongoing actors driven by standard (model-free) 3
+outcomes through a model-based RL process [20]: selective and RL become unreliable. Arbitrating between adjusting the cur-
+predictive models serve as action and outcome predictors, rent actor versus creating a new one thus yields to a decision
+respectively, for implementing covert RL, whereby outcome between model-based and model-free RL, which accounts for
+rewarding values are possibly altered with respect to current behavioural changes observed in rodents (e.g. extinction
+animal needs (e.g. satiety effects). This model-based RL process effects) following outcome devaluation manipulations [20].
+calibrates the new actor selective model according to current As generally agreed, the premotor cortex along with the
+animal needs. dorsal striatum encodes and stores selective models of behav-
+As the new actor is created from the strategies repertoire, ioural strategies [26-28], whereas the dorsal and ventral
+its initial absolute reliability corresponds to the repertoire striatum implement RL adjusting the actor selective model
+absolute reliability, ie. the probability the current external (see above). Our hypothesis is that operating beyond RL, the
+contingencies match those associated with one stored strat- factual and reactive inferential system is implemented in para-
+egy, or equivalently, the probability that the animal faces a limbic prefrontal regions (figure 1, right). The OFC (especially
+previously encountered situation. This absolute reliability is the medial OFC in humans) encodes strategies’ predictive
+inferred using Bayes’ law, which requires evaluating the like- models and updates actor absolute reliability according to
+lihood of the current action outcome in every previously action outcomes. Empirical data in rodents, monkeys and
+encountered situation and separately, in any possible new humans show that, consistently, this region responds to action
+situations (figure 1, inset). In the former case, this likelihood outcomes in relation with outcome predictions [29-33].
+is simply derived from the mixture of stored predictive Moreover, human neuroimaging studies showed that the
+models (corresponding to the new actor predictive model). medial OFC is involved in monitoring the ongoing course of
+In the latter case, the likelihood is estimated as the default action [34] and inferring changes in external contingencies [33].
+outcome-likelihood associated with the presumably new situ- By contrast, the ACC is assumed to detect when the actor
+ation. It is actually equal to 1, because in this situation, only becomes unreliable for triggering the creation of new actors.
+one outcome has been observed. As a result, the new actor Rodent studies show that in the ACC, neuronal activity con-

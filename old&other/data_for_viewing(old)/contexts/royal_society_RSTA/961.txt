@@ -1,0 +1,25 @@
+account that for a point (F, H) from the swallow-tail zone, we have two disjoint Liouville tori. The
+corresponding cycles will be denoted by x and j., where jz, is used for the vanishing cycle on
+the family of ‘narrow’ tori, and the other, i.e. 4, corresponds to a ‘wide’ torus.
+
+Note that the first cycle y is uniquely defined by the S!-action. The cycle 1, is also well defined
+by the topology of the fibration (as a vanishing cycle). The other cycle uz is not. It is easy to see that
+pis defined up to the transformation of the form w+> w+ ky,k € Z. This is caused by ambiguity
+in the choice of the cross-section V which can be chosen in many homotopically different ways
+(this phenomenon is discussed and explained in detail in [7]).
+
+Summarizing, on each stratum of the bifurcation complex, we have a pair of action variables
+Iy,I, and Iy,,I,,, (the latter for the swallow-tail stratum). Each of these functions can be treated as
+a real-analytic function of H and F. In fact, we have already considered the actions I, and I,,, in
+the previous §5, where they were denoted by I(H, F) and I,(H, F). We keep this notation here, i.e.
+we set I, =I, I,,, =1,. The remaining action is denoted by I, so that we have three action variables
+II, and I,,. The first two of them are well defined, but I,, is defined modulo transformation I, >
+I, + KI.
+
+Also note that I(H, F) is real-analytic everywhere (strictly speaking we need to distinguish this
+action for the families of ‘narrow’ and ‘wide’ tori, but, due to real-analyticity, 1(H, F), as a function
+of H and F, is the same for both families). The function I,,(H,F) is defined and is real-analytic
+
+
+everywhere except for the hyperbolic branch Upyp of the bifurcation diagram. When approaching
+Zhyp, the function tends to certain finite limits, but these limits from above and from below are

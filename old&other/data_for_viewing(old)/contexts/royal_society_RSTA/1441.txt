@@ -1,0 +1,25 @@
+sparse spatial distribution. This is probably due to the fact that reduced observations frequencies
+challenge the validity of the linear superposition assumption more than large observational noise
+(see the discussion in Appendix of [40]). We then applied the method to the low-order coupled
+ocean-atmosphere model MAOOAM [35] which contains multiple temporal scales. Forecast
+skill and global statistics were significantly improved by the hybrid model compared with the
+truncated model encouraging further studies in high-dimensional and more realistic scenarios.
+Notably, the hybrid model derived from noisy observations has comparable forecast skill on the
+oceanic variables to that of the hybrid model derived from perfect observations.
+
+In view of operational systems, it should be noted that the proposed algorithm relies on two
+existing DA and NNs training techniques that both scale well to high-dimensions (e.g. [41,42]).
+In principle, the present algorithm can be applied to larger and more realistic problems. In
+particular, the fact that the method does not rely on the adjoint of the truncated model is an
+advantage in terms of code maintenance. However, we foresee some practical challenges: for
+instance, the computational architecture and the data types used for physics-based numerical
+models and for ML algorithms can be very different (e.g. multi-core supercomputers and graphics
+processing units). Training and running hybrid models efficiently imposes heavy requirements
+on both the hardware and software and may come with an overhead even if some tools are very
+promising [43].
+
+The approach presented here can also accommodate the additional representation of the
+remaining model error (i.e. the model error of the hybrid model): it could either be done within
+the numerical model by parameterizing the model error [21], or by training stochastic NNs [44].
+
+Data accessibility. Data used in all the experiments are available at ftp:/ /ftp.nersc.no/reddaml/. The instructions

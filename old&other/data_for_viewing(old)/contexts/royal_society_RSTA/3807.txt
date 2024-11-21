@@ -1,0 +1,25 @@
+corresponding azimuthal mode number, for Rep = 104 000. (b) The non-dimensionalized POD modes for m € [5, 40]. The
+modes are scaled using the wall-normal distance from its peak to where it reaches 5% of its peak value, due to limitations
+of estimating the wall normal location. Taken from Hellstrom et al. [31].
+
+Hellstrém et al. [27] further concluded that the LSM can line up to create the VLSMs. In
+addition, these structures were later shown to be insensitive to Reynolds number, and that they
+had a similar shape and behaviour in the slug section of a transitional pipe flow as in a fully
+turbulent pipe flow [32].
+
+In related work, Hwang [33] showed that the most energetic structures in a channel flow are
+the self-similar structures in the log-layer, and suggested that the size of each of these structures
+is characterized by its spanwise length scale. Similarly, Hellstrém et al. [31] showed that the
+azimuthally decomposed POD modes are in fact self-similar with respect to its azimuthal mode
+number. This was identified by tracking the wall-normal peak location (yp) for the first POD mode
+with respect to its azimuthal wavenumber kg. This relationship is shown in figure 3a, where the
+peak location follows the self-similar behaviour yp/R = 27 C(ko R)~!, shown by the dotted line. By
+using this scaling, it was then shown that the radial profile of the modes could be collapsed on to
+a representative profile, as displayed in figure 3b.
+
+We now build on this previous work to examine the DNS data of Wu et al. [34] at Rep = 24580
+(Re; = 685). In particular, we are interested in the pressure field, something that is extremely
+difficult to obtain in any experimental study, and its relationship to the velocity field.
+
+
+2. Proper orthogonal decomposition

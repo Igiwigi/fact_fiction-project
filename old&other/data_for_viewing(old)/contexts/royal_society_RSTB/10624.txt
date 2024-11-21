@@ -1,0 +1,25 @@
+cation approaches can be complemented with encoding modality? DNN modelling and top-down comparison with =
+models [73]. neural data are well suited to investigate this question. For =
+
+Relatedly, the major drawback of RSA is the direct flipside example, it has recently been shown that task-orthogonal ‘2
+of its major advantage: the relation of representations to object properties—such as object size, position and pose— ©
+specific realizations is not specified, i.e. many different realiz- emerge along the hierarchy of a DNN trained on visual = -5
+ations can have the same similarity structure. On the one object classification, rather than being abstracted away [37]. =
+hand, this enables comparison across disparate spaces; on Strikingly, this was found to mirror the coding of the ventral S
+the other, it leaves an unspecific link between representation visual stream in humans, and thus suggested re-thinking our -
+and realization. To rephrase this in the framework of David understanding about where different types of visual object 2
+Marr's levels of analysis of a cognitive system [74], the information is represented in the human brain. This directly S
+levels of analysis show some independence, evident in the motivates further research into the nature of representation of w
+fact that one algorithm or representation can be implemented scene properties such as spatial layout, the contained objects, — 'Y
+(i.e. realized [75]) in many different ways. However, not all functional role and affordances in both the visual and the audi- =
+realizations may be on par once processing speed and effi- tory domain. Further, while the current fit between human = S
+ciency are assessed, or the performing systems error profile brains and DNNs is stunning, it might be further improved, ©
+is evaluated [74]. Thus, further investigation is needed to e.g. by increasing architectural similarity [80]. In particular,
+fully reveal the neuronal realization of representations in one possibility is to build a fovea—periphery organization as
+the human brain. present in human retina into the DNN and to evaluate its
+
+The major drawback of top-down models is that they are consequences [81]. A specific consequence of this might be
+not explicit about the same aspects as bottom-up models. In the emergence of a correspondence in topography between
+particular, bottom-up models are explicit about the nature of DNNs and brains. In the human brain, it has been observed
+the representations in the model, whereas top-down models that face-selective regions have a foveal bias and scene-selective
+are not. Thus, additional techniques must be applied to those regions have a peripheral bias [82,83]. Introducing a fovea—

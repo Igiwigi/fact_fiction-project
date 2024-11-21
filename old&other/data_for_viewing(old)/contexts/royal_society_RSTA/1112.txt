@@ -1,0 +1,25 @@
+in the SNIC (left, c) and the Hopf (right, d) parameters. Intersection with the axis with negative
+(positive) slopes correspond to stable (unstable) phase relationships between pairs of oscillators.
+At 5ms delay, excitatory (E5, green) synapses lead to a coupling function with a stable phase
+difference, ¢ + +7//5 that is neither synchronous (¢ = 0) nor anti-phase, (¢ = 7). However, once
+the synapses slow down to t = 15 ms, the stable phase-shift is ¢ = (E15, blue). Similarly, with
+inhibition at 5 ms decay (15, red), ¢ =z is the only attractor. However, at slower values of decay
+(t =15, 115, orange), there is bistability between synchrony (¢ =0) and anti-phase (@ =z). For
+the Hopf case, excitatory synapses lead to stable synchrony (or near synchrony) (E5, green), while
+inhibitory synapses lead to anti-phase (15, red). These figures show that both the nature of the
+coupling and the shape of Z play an important role in determining the phase-locking properties
+of symmetrically coupled oscillators.
+
+The fact that a pair of identical oscillators always leads to an odd effective coupling function
+(the even terms do not matter) would lead one to believe that we could assume H is an odd
+function. However, once more than two oscillators are connected, then the even component of the
+
+
+
+(a) 40 w $5
+
+0 é 2n
+
+a 2n 0 oa 2a
+
+o o

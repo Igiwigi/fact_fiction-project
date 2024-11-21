@@ -1,0 +1,25 @@
+V2
+
+At time f = €, now without post-selection, the pointer system is not described by a pure state, but
+by a mixture. A straightforward calculation yields the density matrix describing this mixture
+
+= (P+Q7)/4A? 4g ((Q—2ge)?+(Q'—2ge)?)/4A?
+= e +e . 5.7.
+Pex= oR ( ) 6.7)
+The distance between pex and ®¢, the state of the pointer after coupling to an eigenvalue, is
+———_—__— €
+Dal@e, pex) =arccos ( (Pel pexl®e)) = $+ Ole). (6.8)
+
+This is a significantly larger distance than (5.5). In fact, the distance (5.8) is of the same order as
+(5.2) and cannot be neglected for small e.
+
+While the pointer states (5.4) and (5.7) for a small enough € correspond to similar probability
+distributions, they are fundamentally different. As in the case of an eigenstate (5.1), the final
+pointer state (5.4) corresponds to a shift of the original distribution given by a single number, the
+weak value. When the system is prepared in a superposition of eigenstates, the result is a mixture
+of two independent pointer distributions centred around the values 0 and 2, which cannot be
+described by a single parameter anymore.
+
+Our demonstration of the weak value as a property of a single pre- and post-selected system
+shows that recent classical statistical analogies of weak values [46] which can be formulated only
+given an ensemble are artificial.

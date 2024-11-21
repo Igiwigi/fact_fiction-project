@@ -1,0 +1,24 @@
+glance too difficult to solve. The ISO must decide every day the dispatch for the next day, and
+calculations need to be done reliably in a relatively short time. This is usually addressed following
+two different approaches.
+
+One possibility is to use Lagrangian relaxation as in (3.1) and solve the dual of the UC
+described in §a. This is advocated in [9,10], for example. The main idea is that the dual
+problem has a nice structure, being amenable to be solved using non-smooth convex optimization
+methods. Another major advantage of this approach is that the computational effort scales
+moderately with the problem size [11]. This property may become increasingly important as
+the time step length in the UC problem decreases, to better deal with renewable uncertainty.
+Additionally, as mentioned, the computed dual solution gives a price signal with minimal uplifts.
+
+In fact, Electricité de France has a long tradition of using Lagrangian relaxation, that goes
+back to the seminal work [12]. The approach continues to be used nowadays, adapted to the
+market setting, to compute half-hour dispatch and prices [13]. Due to the constraints on the
+operational process in France, the problem needs to be solved in less than 10 min, with very
+strong requirements both on optimality and feasibility (all schedules must be feasible and a 1%
+gap adds up into several millions of euros per year). In this setting, the separable structure of
+the dual function in (3.1) can be exploited by an iterative procedure based on decomposition,
+that maximizes the dual function. Because the dual function is concave but non-smooth, special
+techniques must be put in place, that guarantee accuracy and robustness. Bundle algorithms for
+non-smooth minimization are the methods of choice in this case, ([14], Part II). We do not enter
+into further details here. For other success stories of decomposition methods applied to energy
+optimization, we refer to [15] and the many references therein.

@@ -1,0 +1,25 @@
+between the two electrons is difficult to capture accurately numerically. Scattering calculations
+for helium, and heavier atoms, therefore often employ some effective one-electron model for the
+atom, or at least neglect correlation. This works reasonably well for single ionization at energies
+above 50 keV [3], but does not work for double ionization.
+
+At lower energies there is an additional problem with the one-active-electron model. The
+attraction between the antiproton and the nucleus will make it possible for the antiproton to
+penetrate also the inner electron core, even in the limit of zero collision energy. When this happens
+all of the electrons in the atom will be strongly perturbed.
+
+In figure 4, I compare the semi-classical one-active-electron calculations of antiproton capture
+and of ionization [21] to FMD calculations of the same processes [22]. As suggested by the
+author, the results in [21] were multiplied by 2 to account for the fact that either of the electrons
+could participate in the collision. For the capture process, there are also results from a quantum
+mechanical calculation, also in the one-active-electron approximation by Tong et al. [23]. While
+methods based on a classical description of the atom, such as FMD, of course do not give a fully
+realistic description of the atomic structure, they have the advantage that they do include all
+particles on the same footing. Thus all correlations are included, albeit only on a classical level.
+
+Below the ionization threshold (24.6eV), the FMD and semi-classical results agree fairly
+well. Unfortunately though, the quantum calculation, which, at least in principle, should be
+more accurate than the semi-classical, gives a significantly smaller cross section. Just above
+the ionization threshold the FMD and semi-classical approaches differ significantly. This is not
+surprising because the final state of the reaction involves a low-energy electron, which should
+not be well described classically. At higher energies, the results of the two methods again seem

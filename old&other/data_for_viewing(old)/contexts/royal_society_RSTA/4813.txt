@@ -1,0 +1,24 @@
+(e.g. the Menger Sponge) and, secondly, by considering restrictions on base-N rather than base-3
+numbers, where N > 3. In this way, for large enough N it is possible to construct multidimensional
+fractals which, while still measure zero in their embedding space, do not ‘appear’ at all gappy (or
+lacunar [12]). These are relevant in the discussion below. It should also be noted that a Cantor set
+is an example of what, mathematically, is referred to as a ‘perfect set’. That is to say, given any
+point of the Cantor set and any neighbourhood of this point in the embedding space contains
+another point of the Cantor set—i.e. the Cantor set has no isolated points. This is relevant in the
+discussion about ‘superdeterminism’ below.
+
+There is an important technique for reconstructing an attracting invariant set using data froma
+(low-dimensional) dynamical system. It is based on the notion that the dynamics in the full-state
+space can be reconstructed from measurements of just a single component of the state space [13]:
+the Takens Embedding theorem. The method is based on time delays. This fact has important
+conceptual implications discussed later.
+
+We apply these concepts to fundamental physics through the Cosmological Invariant Set
+Postulate [11]: states of physical reality lie precisely on a fractal attracting invariant set Ij
+of measure zero in the state space of the universe U, considered as a dynamical system. A
+crucial question to ask is: what fundamental physical process could account for the attraction
+of neighbouring state-space trajectories onto I? Here we appeal to ideas put forward by Roger
+Penrose (e.g. [14]) that the black-hole no-hair theorem (and consequent quantum black-hole
+information loss) should imply the existence of regions of state-space trajectory convergence.
+The idea is illustrated schematically in figure 2, which shows the trajectory of the universe
+

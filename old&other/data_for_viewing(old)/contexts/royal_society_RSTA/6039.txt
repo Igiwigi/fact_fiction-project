@@ -1,0 +1,24 @@
+
+The ensemble-average growth rates of x;(t) under equation (2.1) and y(t) under equation
+(3.9) are identical: 4. From this perspective, there is no incentive to cooperate. Moreover, an
+entity that realizes a large positive resource change during a growth phase, equation (3.3), could
+keep its fortuitous gain by breaking the cooperative pact, without altering its ensemble-average
+growth rate. Thus, analysing the growth of the ensemble average of resources gives no reason
+for cooperation to arise and, if it does arise, a good reason for it to end. From this perspective,
+cooperation looks fragile at best and its frequent observation in nature seems puzzling.
+
+The solution of the puzzle requires a change in perspective. The ensemble-average growth rate
+is uninformative of the growth of a single entity (or, indeed, any finite cooperative) over time.
+From the perspective of an individual, it is the growth rate achieved by averaging over infinitely
+many parallel realizations of its resources—an irrelevant fiction. It is more realistic to assume that
+an individual cares about its time-average growth rate, which better approximates what it will
+actually achieve in one resource trajectory over time.
+
+We know from equation (2.8) that the time-average growth rate for non-cooperating entities is
+8(xj) =" - o*/2. Under cooperative dynamics, equation (3.9), the volatility decreases from a to
+a//N, which when substituted into equation (2.8) yields a higher time-average growth rate,
+
+xy) =p - IN’ (4.1)
+
+So, in the presence of fluctuations, o > 0, cooperators grow faster than non-cooperators in the
+long run. The growth rate premium increases with the number of cooperators as 1 — 1/N,

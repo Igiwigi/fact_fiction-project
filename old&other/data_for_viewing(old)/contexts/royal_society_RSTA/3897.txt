@@ -1,0 +1,25 @@
+The identified Young’s modulus is shown in figure 6a. What can be observed is that even
+with low variance of added white noise the identification procedure exhibits substantial temporal
+oscillations. During the first 20 us, it seems to be impossible to identify the correct value of Young’s
+modulus, whereas during the final 80s, the mean identified Young’s modulus is 77.91 GPa,
+but still exhibiting noteworthy temporal fluctuations. Figure 6b shows the reconstructed stress—
+strain response averaged over the entire region of interest from the beginning to the end of
+
+
+the simulation. Again, certain oscillation can be observed, however less pronounced than in
+the identified Young’s modulus. Additionally, a linear response is observed with the stress-
+strain response, and the value of the Young’s modulus obtained from linear regression of the
+reconstructed stress-strain curve is 77.35 GPa. Finally, it seems that the identification procedure
+exhibits high sensitivity to noisy displacements. However, this was expected due to the fact that
+the noise present in the displacement maps affects both strain and acceleration fields.
+
+(iii) Effect of measurement temporal resolution
+
+Dynamic tensile fracturing of concrete is closely related to the nucleation and propagation
+of cracks associated with unstable crack growth [66]. Additionally, dynamic tensile fracturing
+increases the crack speed under dynamic loadings to about 0.20-0.30 of the Rayleigh wave
+speed [67,68]. This increased crack propagation speed of one or several tensile cracks results
+in a failure process that lasts only a few microseconds and also makes it difficult to obtain a
+sufficient number of measurement points. As in this experimental procedure it is also required to
+reconstruct the acceleration maps from the displacement fields, the images have to be grabbed
+at very low interframe times, of the order of not more than a few microseconds, which are

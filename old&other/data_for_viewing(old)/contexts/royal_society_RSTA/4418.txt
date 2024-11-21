@@ -1,0 +1,25 @@
+dE(,t) Bo 0PE(z,t) a _, Py
+Bo > —B2 az iy ep ZE@ t) = —jy |E@ HI EG, t). (2.7)
+y>-y
+
+DBP aims at reconstructing the transmitted signal and is typically applied at the receiver.
+However, DBP can also be applied at the transmitter or split between the two. In all cases,
+however, complete reconstruction of the signal is not possible because of nonlinear mixing
+between the signal and the ASE noise as well as other stochastic effects such as polarization
+mode dispersion [28-30]. Applying DBP at the transmitter (sometimes termed as nonlinear
+pre-distortion or transmitter-based pre-distortion) or at the receiver gives approximately the
+same gains (determined by the accumulation of noise from the amplifier in the link) with one
+fewer amplifier noise contribution in the transmitter-based DBP case [31,32]. In the case of long
+transmission distances (greater than 10 spans), this difference is insignificant. In fact, it is clear
+that to reduce the contribution of noise, DBP should be split in the ratio of 50% :50% between
+the transmitter and receiver. However, the greatest increase in the effectiveness of DBP can be
+achieved by reverse propagation of multiple channels, enabling the compensation of not only
+SPM but also inter-channel nonlinearities (XPM) [33]. The gains offered by DBP are discussed in
+detail in §§3, 4 and 5.
+
+(b) Optical phase conjugation
+
+It is possible, using nonlinear optical processes, to exactly reverse the phase of a beam of light.
+The reversed beam is called a conjugate beam, and thus the technique is known as optical phase
+conjugation (also called spectral inversion). The role of the optical phase conjugator (OPC),
+typically positioned in the centre of a symmetrically amplified link, is played by a nonlinear

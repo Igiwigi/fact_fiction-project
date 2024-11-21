@@ -1,0 +1,24 @@
+
+Overall, parabolic accurate schemes O(e°) offer the highest accuracy and consistently establish
+the minimum error at A=1/6. This observation is theoretically expected as for this purely
+diffusive problem the optimal diffusion value A = 1/6 [11,56] improves the leading-order bulk
+correction to pu «e+, turning the global error ||L2(j,)|| limited by &; for parabolic schemes
+Epc x €3. Outside this A= 1/6 neighbourhood, the leading-order bulk error becomes Epylk « 2;
+hence, although parabolic schemes still gain in accuracy, particularly for A <3/8, as shown in
+figure 2a, the global error inevitably stays at O(<?). This is the order of accuracy of the linearly
+accurate CLI scheme. Here, regardless any €y)x improvement due to A, the measure ||L2(jx)||
+remains controlled by &,, «€7. The same happens with the BB rule, but in a rather more punitive
+way as &, «€. This error degrades the overall simulation accuracy to first order.
+
+7The structure of these errors in the duct flow modelling results from the fact that in bulk the third-order derivatives vanish
+on the account of a FxCqy Dy lx =O, Dog Cox ayCge Ayyeix = 0, etc. because the implicated odd-order velocity moments amount to
+zero. However, this form of truncation error does not apply to boundary rules, which implies that third-order derivatives are
+typically non-zero. This constrains the boundary error of parabolic schemes to third order.
+
+
+(a) Ik ioll A= 112 (D) iieiol A= V6 (c) Il A=3/16 (d) IG A= V4
+1
+
+10-5]
+N
+5 153070 5 153070 5 15 30-70 5 1530-70

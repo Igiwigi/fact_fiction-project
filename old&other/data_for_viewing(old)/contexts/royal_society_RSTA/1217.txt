@@ -1,0 +1,24 @@
+In this section we collect some classical results for T(t) in spaces of continuous functions and in
+LP spaces, first with respect to the Lebesgue measure and then with respect to a suitable Gaussian
+measure, which is invariant for the semigroup, in the case that all the eigenvalues of B have
+negative real part. All the functions considered here are real valued. Complex valued functions
+are needed only in a part of the next subsection.
+
+(a) The semigroup in G(R")
+
+As usual, C;(R) and all its subspaces are endowed with the sup norm || - ||oo-
+
+Since gr is continuous, by (2.6) we see that T(t) maps L®(RY) into Cy(RY), and therefore it is
+a strong Feller semigroup. However, it is not strongly continuous even in BUC(RN) unless B= 0.
+Indeed, given any f € BUC(RN), using the fact that lim;_.9 Jtyiesy gly) dy =0 for every 6 > 0, it is
+easily seen that
+
+Jim ITF — fle JIloo =0 (3.1)
+
+and therefore we have
+
+jim ITF ~filoo =0
+
+if and only if
+lim f(e!B x) —f(x)|=0 uniformly for x € RN, (3.2)
+10

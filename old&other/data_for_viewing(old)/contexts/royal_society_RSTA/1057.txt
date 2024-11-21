@@ -1,0 +1,24 @@
+the TDDFT level. Moreover, non-adiabatic effects and nuclear motion are included within the
+Ehrenfest formalism. In short, our TDDFT-based Ehrenfest approach consists of the following
+steps. Consistent with the spirit of DFT and TDDFT, all properties of the system are expressed as
+a functional of the (time-dependent) density, which—in the Kohn-Sham (KS) representation—is
+described uniquely by a set on N non-interacting one-particle orbitals. Following the Runge-
+Gross theorem [26], the orbitals are propagated in time using the corresponding time-dependent
+KS equations, giving access to the electronic density at a later time t+ dt. The density is then
+used to compute the Hellmann—Feynman forces acting on the nuclei, which determine the
+corresponding nuclear equations of motion. These two propagation steps (electron and nuclear)
+are computed consistently using a third-order Runge-Kutta algorithm [27,28]. Owing to the
+nature of the process, the ultrafast time scales and the computational costs of the simulation, a
+single Ehrenfest trajectory was computed for each initial condition (nuclear coordinates, velocities
+and pulse shape). In fact, during the time window of the experiments (and corresponding
+simulations), we observe large electronic rearrangements while the nuclear motion, even though
+important because it can couple to the electronic dynamics, is mostly ballistic and therefore well
+approximated by a single trajectory. It is important to note that despite the use of a plane-wave
+basis set, the implementation of the Ehrenfest MD approach does not differ from the ‘traditional’
+one based on a localized basis set. For more technical details, see [28-30]. Further, note that
+due to the complexity of the system under investigation, we had to restrict our simulations to
+classical nuclear trajectories. As a consequence, nuclear wavepacket decoherence effects induced
+
+
+by initial nuclear quantum state zero-point position spread [31] are not considered in this 8 |
+study. The dephasing induced by the nuclear quantum amplitude fluctuations will indeed cause

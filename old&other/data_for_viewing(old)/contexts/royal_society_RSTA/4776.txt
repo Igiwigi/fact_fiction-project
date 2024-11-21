@@ -1,0 +1,25 @@
+Spec(Z(A)) = {1}
+
+Figure 2. Fibre bundle over a point Spec Z(A\). This describes how figure 1 looks in the limit.
+
+_ Note that the object A does not belong to Agin and our first aim is to approximate it by an object > ay
+A which in a naive sense is a limit of objects of Agin- :8
+
+We will start with the family Ag, of all rational Weyl algebras and the Fréchet ultrafilter D [2
+with respect to the partial ordering, i.e. for each A the set {B € Agi : BC A} is in D. Define Ato : a
+be the ultraproduct of the algebras A in Ag, modulo the ultrafilter D. One can identify this Aas [=
+being ‘pseudo-finitely generated’ by a pair of operators U'/# and V'/”, for non-standard integers [3
+py and v. By construction, the integers jz and v have a property of being divisible by all standard :8
+integers. This property is equivalent to the fact that A is an upper bound for Agin, i.e. A C A for any :s
+rational A. Now, we take the corresponding ultraproduct modulo D of Zariski geometries V4 (1) 1G
+and denote it Vj (1).
+
+The full limit structure V (1) is the image of Vj (1) by a homomorphism named lim,
+
+lim: V;(1) > Va(1).
+
+Here homomorphism means that the map preserves basic relations and operations of the
+language. In particular, the images of Zariski-closed subsets of (the Cartesian powers of) Vj (1)
+give rise to a topology on Vq(1) and Zariski-regular maps become well-behaved continuous maps
+on the image. Pseudo-finite summation formulae over Zariski-regular maps in V; (1) translate
+into integrals over the corresponding maps in Va(1).

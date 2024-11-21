@@ -1,0 +1,25 @@
+PO (b.cCPpm) 2 (SES) ~0, (2.11) glide polar, which predicts the aerodynamic sink rate (Us),
+liad we need only subtract Wy from both sides of equation (2.13).
+
+which shows that the wing span (b,.) at which the aerodynamic
+cost of transport is minimized for a given airspeed, is the span
+
+at which the induced drag equals half the profile drag. This (d) Model uncertainty In the g ide polar
+conflicts with the outcome of the airspeed optimization In order to do anything more quantitative with the theory of the
+(equation (2.10)), which shows that the induced drag equals glide polar, it is necessary to know the values of its numerical
+the combined parasite and profile drag if a bird is flying at coefficients. Different workers have made different assump-
+the best glide speed (U = Upg) for its given span. It follows tions, but the parasite drag coefficient (Cp,,,) has proven
+that U # Ub in equation (2.11), which means that when a especially controversial, with entire papers dedicated to its esti-
+bird is flying at the wing span b, that minimizes its cost of mation. In fact, for a given species, the value of Cp,,, has been
+transport for a given airspeed, it is not flying at the airspeed lowered by as much as 75% between successive versions of
+that would minimize the cost of transport for that wing span. the most widely used aerodynamic model [37,39]. Specifically,
+This being so, we should not expect to see any change in under the current version of Pennycuick’s popular Fuicut soft-
+wing span with increasing airspeed until the point at which ware [37], a value of Cp,,, = 0.1 is assumed for all species,
+the induced drag equals half the profile drag, which will compared with values in the range 0.25 < Cp,,, < 0.40 in the
+always be at an airspeed higher than Ug. Beyond this point, earlier version [39]. Science is supposed to be self-correcting,
+wing span is expected to decrease with further increases of course, and it is appropriate that assumed values be revised
+in airspeed, so as to maintain the same ratio of induced and in the light of new experimental data, but this discrepancy
+profile drag. emphasizes the extent of the uncertainty in Cp,,., which is
+Rearranging equation (2.11), we find that the aerodynamic further compounded by the uncertainty in the body frontal
+
+energetic cost of transport is minimized if wing span varies area that it multiplies.

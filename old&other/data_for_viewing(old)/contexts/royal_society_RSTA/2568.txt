@@ -1,0 +1,25 @@
+
+helium (Ip < 1.14 x 10!° Wcm~*). This configuration is different from the simulated case shown
+in §2b, where also the first level of helium was assumed pre-ionized. The hydrogen plasma
+density at the plateau is np =8 x 10!8cm~°. Figure 5a shows a snapshot of the simulation after
+450 um of propagation. At this point, the drive beam has been fully refocused into the blowout
+regime. As a result of this process, an electron bunch composed by electrons ionized from the
+first level of helium has been trapped. The trapping of this electron species happens during the
+transverse focusing of the beam, which induces a rapid elongation of the blowout cavity. Owing
+to this cavity elongation, the trapped electrons span a wider phase range, making possible the
+generation of longer beams. Another consequence of this process is the self-truncation of the
+injection. In this set-up, the length of the dopant section is not constrained as in the example
+shown in §2b. Therefore, it is expected to have continuous injection at the back of the cavity until
+the accelerating fields are fully saturated. In fact, this effect is observed in the simulation for the
+electrons ionized from the second level of helium. However, due to the cavity elongation during
+the focusing, these electrons are being trapped behind the previously injected beam, and, thus,
+they do not overlap time nor influence the quality of the primarily injected beam. Figure 5b shows
+the combined longitudinal phase space of the driver and the injected electrons, after 1.8mm of
+propagation. At this point, the driver is already partially depleted, as a substantial fraction of its
+electrons lost their kinetic energy, while the primary injected bunch reaches an average energy of
+330 MeV (32% higher than the initial energy of the driver), within a quasi-monochromatic peak
+of only 1.6% energy spread. With more details, we show in figure 5c the longitudinal phase space
+of the witness beam, featuring 23 pC, 6 fs duration and an approximately flat-top 4kA current
+profile. The projected normalized emittance of the beam is 0.5 1m, an order of magnitude smaller
+than the initial emittance of the driver beam produced in the LWFA stage. The sliced normalized
+emittance is also shown in figure 5c(ii), exhibiting values of around 100 nm in its frontal part. The

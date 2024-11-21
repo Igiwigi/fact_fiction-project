@@ -1,0 +1,25 @@
+
+The good agreement between experimental and synthetic interferometry images justifies our
+use of these simulated density profiles in the PIC simulations described in §2bii.
+
+(b) Proton radiography
+
+The doses received by a stack of RCF were calculated using the procedure described in §2ai. The
+Monge-Ampére solver of Brown et al. [37] was applied to the resulting doses and the result is
+
+
+shown in figure 9. The doses contain large-scale structure due to the intensity modulations of
+the initial proton beam, which are compensated for using a simple high-pass filtering method. If
+this pre-processing step is not used, large fictitious transverse magnetic fields manifest, which are
+attributable to this large-scale beam structure. These large fields can obscure the desired plasma
+fields, but high-pass filtering used prevents this issue. The more statistically rigorous approach
+presented by Kasim et al. [46] would be worth exploring in future work, for comparison to our
+simple filter.
+
+The results of this analysis applied to proton radiographs obtained from channelling shots—in
+which the short pulse was injected into the plasma—are shown in figure 10. Magnetic fields are
+observed in a narrow region around the laser propagation axis—a key marker of laser channel
+formation as demonstrated in figure 5. These fields persist over long times, as figure 7 indicates
+they are expected to. Panels (c) and (d) of figure 10 show clear evidence of channel formation
+matching the opening angle of the f/3 beam, and corresponding features are present in panel (b),
+though they are quite washed out. This is likely due to the large relative energy range of protons

@@ -1,0 +1,25 @@
+the principal extensions and curvatures of the shell, employing the classical linear stress-
+strain relations to describe the elastic properties of the material. For a highly elastic in-
+compressible material, however, the expressions given by Rivlin (1948 b) for the components
+of stress in terms of the principal extension ratios and the stored-energy function for the
+material have to be employed in order to determine the stress-resultants.
+
+In this paper, the inflation of a uniform circular diaphragm of incompressible highly
+elastic material, isotropic in its undeformed state, and clamped round its circumference,
+by a uniform pressure applied to one of its major surfaces is studied in detail. In this problem,
+as in many others involving the deformation of highly elastic shells, the effects of the stress-
+couples can be neglected in comparison with those of the stress-resultants, since the radii
+of curvature of the deformed shell are large compared with its thickness and the principal
+extension ratios are also large. This, and the fact that cylindrical symmetry is preserved in
+the deformation, produces a considerable simplification in the problem.
+
+It has not been found possible to determine analytically the state of deformation of the
+diaphragm resulting from the application of a specified inflating pressure. However, if
+the state of deformation, defined by the extension ratios and curvatures, is known at a point
+of the diaphragm, then the manner in which these are changing at that point can be found
+analytically, for any form of the stored-energy function. This enables us to calculate the
+state of deformation at all points of the inflated diaphragm, by numerical integration, for
+any specified state of deformation at the pole. From the latter, the corresponding value of
+the inflating pressure is, of course, determined. The numerical integration may be carried
+out for any form of the stored-energy function W, but the labour of computation is greatly
+reduced if the Mooney form is employed. This is given by

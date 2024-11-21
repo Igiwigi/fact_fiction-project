@@ -1,0 +1,25 @@
+observable in question (the observable itself also being defined by the instrument!%). The set of
+probabilities of occurrence of eigenvalues is what characterizes the common state of each quantum
+system at the time of measurement (Born’s rule). While it is impossible to predict the outcome of
+one measurement, the set of probabilities of obtaining the eigenvalues in a given measurement
+procedure is deterministic, depending only on preparation and history of the quantum system.
+This is not all: when a single quantum system is measured and one of the possible eigenvalues
+of the corresponding observable is obtained, the quantum system emerges in a special state such
+that repeated measurements of the same kind thereafter will always yield the same eigenvalue.
+Such a state is therefore called an eigenstate (also ‘basis state’), and one says that the initial state
+of the quantum system has collapsed into, or been reduced to, an eigenstate as the result of the
+first intervention.
+
+These experimental facts allow the development of linear algebra algorithms in which the state
+of a quantum system is represented by a (unit) vector in a (complex) Hilbert space; interactions,
+measurements and transformations are represented by specific operators. The axes represent
+eigenstates or basis states, and the squares of the projections of the state vector onto the axes
+represent the probabilities of occurrence of the corresponding eigenvalues. A general quantum
+state (called a pure or superposed state) is thus represented as a linear superposition of basis
+states; a measurement is represented by the rotation of the state vector onto one of the axes.
+It is important to note that in this mathematical framework the concepts of state, eigenstates
+and outcome probabilities are all defined by specific preparation and measurement processes,
+conceived by a human being. All numbers involved in this quantitative framework represent
+algorithmic information [2] which does not describe one given system as happens in classical
+physics, but which pertain to a mathematical model representing sets of identical systems, and
+only has statistical meaning.

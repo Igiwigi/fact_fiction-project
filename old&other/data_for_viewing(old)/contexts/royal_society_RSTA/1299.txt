@@ -1,0 +1,25 @@
+
+Third, and to the best of our knowledge, this is the first work studying the influence of
+neighbouring 15-min contracts on the price dynamics of a given contract. This is motivated by
+the fact that adjacent contracts are driven by similar market information.
+
+This paper is organized as follows: in §2, we lay out our dataset and perform an empirical
+analysis of intraday transaction data of 15-min contracts. In §3, we present our econometric model
+
+
+as well as the threshold regression. In §4, we calibrate our econometric model to market data and
+discuss the estimation results. We offer our conclusions in §5.
+
+2. Stylized facts
+
+In this section, we lay out our dataset and empirically analyse transaction prices and trading
+volumes of 15-min contracts.
+
+(a) Data
+
+We investigate high-frequency trade and linked fundamental data of all 96 15-min contracts
+traded on the German continuous intraday power market at EPEX SPOT SE. Our observation
+period spans from 1 January to 31 December 2015. The trade data of 15-min contracts involve
+transaction prices and trading volumes from the continuous intraday trading session with a
+1-min time resolution and are provided by [10]. This, however, does not imply that we observe
+one transaction every minute, but it may take a multiple of one minute until the subsequent

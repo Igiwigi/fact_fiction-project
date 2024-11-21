@@ -1,0 +1,25 @@
+Anderson-Gill approach were comparable. Discrepancies between our method
+and the Anderson-Gill approach are likely to be due to the discretization of time.
+While VE estimated by our method is based on the ratio of cumulative hazards
+over the specified time period, VE estimated by the Anderson-Gill method is
+based on the ratio of instantaneous hazards over the time period. Overall, our
+repeated measures model constituted a valid alternative to the Anderson-Gill
+
+Phil. Trans. R. Soc. A (2008)
+
+
+Vaccine efficacy with repeated measures 2355
+
+approach, and in fact would be a more appropriate method to analyse data in
+which information about time to event is known in discrete time intervals
+(interval censoring). Moreover, although our estimator was based on discrete
+time to event, the half-widths of the 95% Wald CI of the estimator proposed here
+and that from the Anderson-Gill method were very similar. The difference was
+negligible in all simulation scenarios and at most 0.001.
+
+4. Reanalysis of a malaria vaccine trial
+
+We reanalyse the Brazilian trial of the SP£66 vaccine (Urdaneta et al. 1998) to
+compare the VE estimated through proportional hazards analysis (of first even’
+only) with the VE estimated through our repeated measures estimator (of firs
+and second events) implemented with a GEE approach. The SPf66 vaccine was

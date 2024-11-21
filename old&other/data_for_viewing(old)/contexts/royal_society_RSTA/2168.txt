@@ -1,0 +1,24 @@
+(Observation 2 but not Observation 1), the computation in the VAC would lead to a low DCsum
+value which might dip below threshold. This will cause the output duty cycle DCout to become
+incorrect. During Observation 1, although V4q dips low, the computation because of the weights,
+etc., produces a high relative value result that manages to keep DCsum above threshold. This is
+not the case during Observation 2. On the other hand, if Vyq itself reduces below threshold, no
+matter what value the VAC produces the voltage to PWM part will produce relatively large errors
+as the perceptron’s glue logic would kick in anyway.
+
+Also of concern is the accumulation of nonlinearity after both parts of the perceptron have
+been put together, and this nonlinearity continues to increase once the perceptron is connected in
+series across multiple stages of an NN of non-trivial depth.
+
+Another issue is the fact that there may be difficulties for the perceptron to implement AFs
+other than flavours of ReLU. Of particular concern is that the perceptron, because of the use of
+
+
+the voltage across a grounded capacitor to represent a crucial value, only works in the positive
+value domain.
+
+Future research topics include the better matching between the constituent parts of the
+perceptron to overcome the threshold and nonlinearity problems and the extension of the
+perceptron to cover a larger set of AFs.
+
+(b) Pulse width modulation-coded neural network

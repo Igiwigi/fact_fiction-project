@@ -1,0 +1,25 @@
+Remark 4.6. Since, as follows easily from theorem 4.1, we have 0 =c + iV, where V := (0 — c)/i
+is an unbounded self-adjoint operator with spectrum o(V) given by o(V)=R (and with no
+eigenvalues), one can equivalently define a by a :=c+iV™, where V := @(V) and
+@ :R—R satisfies ce(@™(R)) =[-T, T]. In addition, when c 41, one requires that 0 is
+continuous, while, when c=1, one assumes that @) admits a meromorphic extension to a
+connected neighbourhood of R in C.
+
+We can now introduce the following key definition. The spectral operator a is said to be quasi-
+invertible if each of its truncations a‘) is invertible (for T > 0), in the usual sense (and, hence, if
+
+
+for every T>0,0¢ o(a™), Using theorem 4.4 and the above expression for o(a), along with the
+fact that an operator is invertible if its spectrum does not contain the origin, it is easy to check
+that if a is invertible, then it is quasi-invertible. The converse, however, need not be true, as we
+shall see in §5. (It turns out that assuming that for all c € (0, 3) the quasi-invertibility of a =a, is
+equivalent to its invertibility, is equivalent to the RH; see theorem 5.4.)
+
+The first result in this context is the exact operator theoretic analogue of theorem 3.3 (from §4c).
+
+Theorem 4.7 (Riemann zeros and quasi-invertibility of a, [8,10]). Fix c¢ R. Then, the spectral
+operator a= ac is quasi-invertible if and only if ¢ =¢(s) does not have any zeros on the vertical line
+{Re(s) = c}.
+
+It follows that, in the midfractal case when c = t 41/2 is not quasi-invertible (since ¢ has a zero
+along the critical line {Re(s) = 3) and that for c > 0 (in order to avoid the trivial zeros of ¢, located

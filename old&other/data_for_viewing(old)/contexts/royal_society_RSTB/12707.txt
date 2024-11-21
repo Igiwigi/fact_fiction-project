@@ -1,0 +1,24 @@
+we calculate the number of individuals with phenotypic
+value ¢* in the next generation as the sum of contributions
+of each individual in the current population to ¢*. Certain
+transforms, including the Laplace transform (used in equation
+(5.1)) and the Fourier transform (used in equation (5.2)),
+greatly facilitate calculation of convolutions. Specifically, the
+Convolution Theorem [23] states that, for these transforms,
+the transform of the convolution of two distributions is
+simply the product of the transforms of the distributions.
+
+As to why we choose the particular transforms used here:
+we can always capture the frequency distribution in a popu-
+lation with equation (5.1) because the fact that populations
+and phenotypes are finite (axioms 1 and 3) insures that all
+moments exist, along with the moment generating function
+(mgf). When we are considering all possible future popu-
+lations, however, it is not clear that the mgf will be defined
+(for example, it is not defined for the log-normal distri-
+bution). This is why we use the characteristic function in
+equation (5.2), since it is defined even when the megf is not.
+
+2 +p=0.25 4 3 +p =0.25
+2 +p=0.25 ep=0.5
+2 1 ep=0.75 ep=05 8

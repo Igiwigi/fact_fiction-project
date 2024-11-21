@@ -1,0 +1,25 @@
+
+-10
+10 05 0.0 OS 10
+
+x (um)
+
+Figure 2. Illumination pattern design for hexSIM. (a) The locations of the three illumination beams (red stars) and the seven
+spatial frequencies from the illumination pattern (blue spots) relative to the illumination pupil (grey circle). (6) Simulated
+illumination pattern for hexSIM. (c) Potential light-sheet-based illumination scheme for hexSIM. (Online version in colour.)
+
+fewer than the nine raw images required by conventional 2D-SIM, making it attractive for high-
+speed imaging. Another attractive feature is that the illumination pattern (or its generating beams)
+does not need to be rotated in order to achieve near isotropic resolution improvement. In fact,
+altering the phase of just two of the beams is enough to move the pattern laterally and arbitrarily
+in the sample plane.
+
+While with an epi-illumination set-up, the lateral resolution improvement of hexSIM is limited
+to only approximately 1.87, this limitation can be overcome by delivering the illumination beams
+as light sheets (figure 1c), where the illumination numerical aperture (NA) is now decoupled from
+the detection NA. We envisage that such a light-sheet illumination set-up may be achieved with
+a photonic-chip-based system similar to that reported in [38], where three mutually coherent and
+overlaying light sheets are generated with on-chip optics, and the hexagonal interference pattern
+can be shifted laterally by shifting the phases of two of the three light sheets. As the light sheet
+illumination is orthogonal to the optic axis of the imaging objective (9 = 90°), so the effective
+illumination NA =nsin@ =n, the refractive index in the sample. So taking the objective used

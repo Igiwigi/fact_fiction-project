@@ -1,0 +1,25 @@
+
+4, Group size effects on predation risk versus
+
+energetic gain
+We now consider how collective behaviour and the result-
+ing patterns of group formation can influence Malthusian
+fitness, through modifications in the per capita gain (f ) and
+cost (g) functions described above. We start with a consider-
+ation of predation risk, long-recognized as a potential benefit
+of grouping [11,36]. If the entire population of prey breaks up
+into tightly knit groups of size G that are no more visible to
+predators than individuals, then the rate of prey encounter =
+aN/G, rather than aN, due to the fact that clumps of prey
+will be encountered far less frequently than the same prey
+population distributed randomly across the landscape
+[19,37]. If the predator can at most attack and eat a single
+prey item, the risk for each individual in a group drops geo-
+metrically with group size (1/G), due to simple dilution of
+risk [36]. The combination of both group-dependent effects
+implies that per capita predation risk would be modified in
+the following manner [19]:
+
+paP(1/G)
+
+8(N,G,P) = 1+ pab(N/G) + acP* (4.1)

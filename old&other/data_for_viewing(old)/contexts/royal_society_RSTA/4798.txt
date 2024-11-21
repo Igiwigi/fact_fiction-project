@@ -1,0 +1,24 @@
+The metric carries the information about the orientation of the dreibein components relative to
+one another and about their length, but not about their absolute orientation in space, which is Lo
+encoded in the angular part d°2, for example, the Euler angles.
+
+(i) Different gauge groups :F
+
+Fora larger gauge group than SU(2), say SU(N), for the sake of concreteness, the definition (2.5) of PD
+the connection coefficients is not unique, as the dreibein E/, does not span the entire colour space. :s
+Therefore, we must extend the basis correspondingly, aS
+
+DM (AYER = Ty |NEK, (2.18) ae
+where the space-time indices (capital letters) count from 1 to N? — 1 as do the group indices (small :8
+letters). In fact, this completed basis decomposes into subgroups of SU(N), :
+
+Et, Ey
+
+a
+wa’ urna)
+
+ta ptna)” (2.19)
+
+where the accolades denote not only complete symmetrization but also complete tracelessness
+of any two indices [14]. These are exactly the N? —1 needed basis vectors. The basis vectors
+belonging to different subgroups correspond to different spins.

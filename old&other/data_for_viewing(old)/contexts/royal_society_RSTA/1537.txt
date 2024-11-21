@@ -1,0 +1,25 @@
+the Lorenz analogue method [17] also shows longer term ENSO skill (with no spring barrier)
+compared to dynamical models [54], a throwback to the early days of forecasting as described
+in §2. These and other successes in purely ‘data-driven’ forecasting (though the ENSO papers
+use model output as training data) have led to speculation in the media that ML might indeed
+
+make physics-based forecasting obsolete (see for example, Could Machine Learning Replace : =
+the Entire Weather Forecast System?4 in HPCWire). ML methods (in this case, recurrent neural : =
+networks) have also shown themselves capable of reproducing a time series from canonical 1B
+chaotic systems with predictability beyond what dynamical systems theory would suggest, e.g. :2
+[55] (which indeed explicitly makes a claim to be ‘model-free’), [56]. Does this mean we have come 8
+full circle on the von Neumann revolution, and return to forecasting from pattern recognition : 4
+rather than physics? The answer of course is contingent on the presumption that the training data De
+in fact is comprehensive and samples all possible states of the system. For the Earth system, this : Ss
+is a dubious proposition, as there is variability on all time scales, including those longer than the : =
+observational record itself. A key issue for all data-driven approaches is that of generalizability 1m
+
+beyond the confines of the training data.
+
+Turning to climate from weather, we look at the aspects of Earth system models that while
+broadly based on theory, are structured around an empirical formulation rather than from first
+principles. These are areas obviously ripe for a more directly data-driven approach. These often
+are based around the parameterized components of the model that deal with ‘sub-gridscale’
+processes operating below the truncation imposed by discretization. A key feature of geophysical
+fluid flow is the three-dimensional turbulence cascade continuous from planetary scale down to
+the Kolmogorov length scale (e.g. [57, fig. 1]), which must be truncated somewhere for a discrete

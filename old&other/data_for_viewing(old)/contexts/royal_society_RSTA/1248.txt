@@ -1,0 +1,25 @@
+The argument used in theorem 3.1 to prove the continuity of the operator T can be applied again
+to establish the continuity of Q. Then, for u,v € C([0, T], Xom) we obtain
+
+]Qu(t) — Qv(E)Ilfomj <MrLr sup |lu(s) — v(s)lltomjB — «,1) O*,
+se[0,T]
+
+and, again by induction,
+
+k-1
+Kult) — Pv(lltony MPL sup lle(s) — v(s)lltom |] BG — «i+ 1 — ieee.
+se[0,T] i-0
+
+Now, using the fact that B(x, y) = (x) "(y)/P'(x + y) and F'(y)/T'(x + y) < cyy*, x > 0, y > 00, [25,
+Inequality 6.1.47], we see, on account of i+ 1 — ik =i(1—«)+1>1 fori>0, that
+
+k-1
+
+[] 80 -«,i+1- ix) < Phd — Wek (2) (ea)
+. ~ ee Tok (k—D! .
+
+i=0
+
+Hence, for some constant Cr,
+
+l-K

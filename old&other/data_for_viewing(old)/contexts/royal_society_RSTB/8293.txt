@@ -1,0 +1,25 @@
+somatic maintenance, it is also of importance to ener- standard DEB model is that individuals only interact
+
+getics. This DEB module on isotope dynamics will via competition for resources. The standard bookkeep-
+allow for the correct interpretation of the increasing ing technique to follow the performance of
+amount of data becoming available on isotope ratios populations as collections of individuals is (hyperbolic)
+contributing to the identification of trophic web struc- partial differential equations (PDEs). Diekmann &
+tures, the reconstruction of individual life histories, Metz (2010) present a wider mathematical framework
+and the tracking of the flow of elements through that removes some of the shortcomings of PDEs in
+ecosystems. this context. The standard DEB model has some fea-
+van Leeuwen et al. (2010) review the DEB-based tures, however, that still cause mathematical
+approaches to ageing and link them to current research problems including the existence of metabolic events
+at the molecular/cellular level. The authors link (birth, puberty) that lead to singularities in the
+alternative ageing DEB-based modelling approaches equations, the fact that eggs are not infinitesimally
+with different cellular senescence processes. This is a small and last but not least, DEB is deterministic
+first step towards a fundamental understanding of (apart from the survival module). Some of these pro-
+the link between mechanisms of cellular senescence blems can be removed. For example, SU-dynamics
+and ageing, at the individual level. (which is used to specify feeding) is stochastic by
+nature and differences between individuals can be
+implemented using different parameter values.
+
+(b) The individual level Other problems, however, are rather fundamental
+The mass, energy and entropy description of all fluxes, and call for individual-based approaches or a fully sto-
+provided by DEB theory, are most useful to study the chastic framework. For example, when feeding on a
+internal concentration of specific compounds such as single resource in homogeneous space, the DEB
+isotopes (Pecquerie et al. 2010), reactive oxygen rules imply that small (young) individuals can rather

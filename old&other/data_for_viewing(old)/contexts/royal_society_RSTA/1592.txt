@@ -1,0 +1,25 @@
+The effects of the linear dissipation on both linear
+and nonlinear oscillators are well known [1-3]. In this
+sense, the amplitude of the oscillations decays and
+eventually goes to zero more or less rapidly depending
+on the magnitude of the damping term. However,
+when the dissipation competes with an external forcing,
+
+THE ROYAL SO C IETY ©2021 The Author(s) Published by the Royal Society. All rights reserved.
+
+PUBLISHING
+
+
+oscillations may survive or decay, depending on the intensities of both terms. In fact, this
+competition gives birth to different effects on the dynamics of an oscillator, as studied in [4],
+where it has been analysed how the dissipation can introduce uncertainty in the topology of the
+phase space of the system and how the forcing can counter it.
+
+Here, we aim to extend the current knowledge on the effects of dissipation for time-delayed
+oscillators. This kind of systems include a term that depends on a time interval [—1,0] of the
+history of the system, where t is the time delay. This term may destroy stabilities [5] and induces
+oscillations on the system depending on its parameters. In physical and biological systems, the
+time delay accounts for the finite propagation time as information is not immediately propagated
+in nature. This means that the future evolution of the system depends not only on its present
+state, but on its previous states. This is why we talk about history functions instead of initial
+conditions. History functions are sets of initial conditions in the continuous time interval [—r,0]

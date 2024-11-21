@@ -1,0 +1,25 @@
+framework
+
+As has been done previously in studies comparing recom-
+bination rates across experimental treatments [133,134], we
+recommend a more robust and comprehensive statistical
+framework be employed when analysing results on recombina-
+tion rate plasticity. In the guidelines we discuss above, the
+experimental designs become quite complex, and independent
+comparisons of day and region do not properly account for
+multiple testing. Additionally, these studies typically include
+many crosses to get large sample sizes, which use multiple
+replicate females. However, most studies do not account for
+this source of variation. In fact, most studies report sample
+size in reference to the number of progeny rather than the
+number of F; parents. Based on the guidelines of experimental
+design we suggest above, the experimental analysis needs to
+be equally adjusted to account for the sources of variation
+appropriately. We do not recommend using simple summary
+statistics, or independent tests (e.g. x’). To appropriately
+account for non-independence of day and region, we suggest
+the use of mixed models. With regards to experimental design,
+we suggest being mindful that increased experimental complex-
+ity necessitates increased sample size for power to detect
+treatment differences (as mentioned in Guideline 2 (section 4b)
+above). While we suggest using mixed models to correctly

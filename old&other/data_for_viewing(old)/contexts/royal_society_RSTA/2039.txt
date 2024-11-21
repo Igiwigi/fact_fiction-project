@@ -1,0 +1,25 @@
+rate-dependent viscoelastic damage model for simulation of solid propellant. Shekhar et al. [16]
+
+
+redefined the elastic modulus and viscous parameter in the Maxwell model as a function of strain
+rate and got a nonlinear viscoelastic model for the quasi-static uniaxial tension of solid propellant.
+Another shortcoming of the traditional viscoelastic model is that the number of parameters is
+usually large, such that more than 10 and even 30 or 40 parameters are necessary in the Prony
+series for the accurate description of relaxation modulus of solid propellants and other viscoelastic
+materials. A more appropriate approach for both accuracy and fewer parameters may be the
+viscoelastic model based on fractional derivatives instead of the traditional viscoelastic model
+with integer-order derivatives.
+
+In fact, the fractional calculus approach to viscoelasticity has evolved as an effective method
+of describing the properties of viscoelastic materials [17]. Nutting [18] earlier observed that the
+stress relaxation phenomenon of a number of materials could be expressed by means of fractional
+powers of time. Later, Gemant [19] found some limitations of traditional viscoelastic models
+and suggested that the stiffness and damping properties of viscoelastic materials appeared to be
+proportional to fractional powers of frequency. Furthermore, in the work of Bagley & Torvik [20],
+
+experimental results suggested that the rheological properties that give rise to viscoelasticity may : =
+have a fundamental behaviour based on fractional rather than integer calculus. The introduction : =
+of fractional calculus into the theory of viscoelasticity has resulted in a powerful tool to model the 1B
+static and dynamic behaviours of polymers and other materials [21-30]. The wide use of fractional : =
+calculus-based constitutive models is motivated by the advantage of fewer parameters required to DR
+describe material viscoelastic behaviours and the convenience of Fourier and Laplace transforms. : o

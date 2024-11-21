@@ -1,0 +1,25 @@
+—2nade in (3.11), na(&) is not constant unless the weight function is just an exponential function
+e“§. The simplest fix is to note that theorem 3.1 in [16], for L? or BUC, could have allowed a
+continuous 4@(€) that approaches end states exponentially with no change in the proof. Then the
+theorem could have been extended to H! provided a(&) as well as the Six(€) are continuously
+differentiable and their derivatives go to 0 exponentially as & > too.
+
+Note that the restriction to a=0 in [9] was not necessary. With the slight generalization of
+theorem 3.1 in [16] just mentioned, one could have allowed @ to be a continuously differentiable
+function whose derivative goes to 0 exponentially as § > +oo.
+
+In order to use theorem 3.14 of [9] in §5 of this paper, it must be generalized to allow systems
+(A 1) in which bis an arbitrary diagonal matrix. (Note that for the system (2.1)-(2.3), b= diag(0, b).)
+In fact, we can generalize theorem 3.14 in [9] to allow a to be a continuously differentiable function
+whose derivative goes to 0 exponentially as € > -too, and b to be an arbitrary diagonal matrix,
+with the other hypotheses unchanged. The key step in the proof of the generalization is to show
+
+
+that, if the travelling wave T*(é) is spectrally stable in 4, then it is linearly stable in Xq. To do
+this one can appeal to Yurov’s recent result, theorem 1.1 in [10], which implies that for a linear
+operator in the form (A 4) on L?, in which d = diag(d1,...,dn,) with all d, positive constants, a(&)
+and the Sj(&) are continuous and approach end states exponentially, and b is a constant diagonal
+matrix, spectral stability implies linear stability. By an argument in §3 of [16], the same result holds
+on H!, provided a(&) and the Sjx(&) are continuously differentiable and their derivatives go to 0
+exponentially as § > +oo. However, Yurov’s result does not imply the same result on BUC. Thus
+the generalization of theorem 3.14 in [9] that is needed in §5 of this paper allows perturbations in

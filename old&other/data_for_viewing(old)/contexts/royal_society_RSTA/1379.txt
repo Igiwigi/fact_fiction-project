@@ -1,0 +1,25 @@
+for such physiological expansion of the bladder or other internal organs, yet. : S
+
+:§
+
+(b) Motion management
+
+Motion can affect PET-MRI imaging in many different ways. It reduces resolution and
+creates artefacts which pose a burden for accurate diagnosis [9,16]. Furthermore, it degrades
+quantification, which is an important issue when used for disease grading and may directly
+impact treatment planning and response assessment. All these limitations can be controlled by
+addressing each type of motion properly and many strategies have been implemented for this
+purpose as shown in figure 1. Moreover, it is worth highlighting a somewhat counterintuitive
+fact: motion can improve the imaging system resolution because it increases spatial sampling. For
+example, a tiny rotation (equal to half the size of the crystal) of PET scanners was commonly
+applied in the past for increasing the spatial sampling and consequently the resolution [17].
+Therefore, proper motion management can help increase the resolution of the imaging system
+due to improved sampling, compared to motion-less acquisitions, an effect also referred to as
+super-resolution [18].
+
+A traditional method to achieve image capture without motion artefacts is asking the subject
+not to move, e.g. hold their breath. This is common practice in X-ray or CT scanning and less
+common in MRI [19]. In PET imaging, currently this is not the case, though it may well become in
+the future if scanner sensitivity increases substantially. For example, it has been shown that PET
+images of reasonable quality can be captured within 30s per bed position with a recent time of
+flight PET/CT scanner [20]. However, in the near future, we do not anticipate this to be the way

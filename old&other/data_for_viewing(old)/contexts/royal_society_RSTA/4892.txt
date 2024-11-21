@@ -1,0 +1,25 @@
+0+ 1 1 r 1 ; r aa)
+
+6.0 6.5 7.0 15 8.0 8.5 9.0 : _
+
+EQE (%) 7
+
+Figure 6. TTA contribution as a function of EQE. The solid line identifies the correlation between the TTA contribution and EQE. : s
+
+Devices are from the set depicted in fig. 11 of [26]. 18
+
+In contrast to the recombination of charge carriers, where coulombic attraction makes subsequent
+separation unlikely, a substantial fraction of triplet encounter pairs can separate, thereby
+regenerating free triplets. In fact, the high endothermicity of quintet state formation prevents
+annihilation of triplet pairs that would otherwise lead to molecular quintets for many organic
+molecules, including anthracene and tetracene derivatives [29,35]. For example, in the case of
+rubrene, the density functional calculations show that formation of the lowest molecular quintet
+state from two triplets is deficient in energy by more than 2 eV [29]. This prevents annihilation of
+such pairs and changes the overall spin statistics as follows:
+
+1 3
+T14+T. = —T.
+1+ 17> 48+ 5
+
+Considering that the annihilation events resulting in triplet formation will generally consume
+only one triplet, it is easy to see that the spin statics yield one singlet state per five annihilated

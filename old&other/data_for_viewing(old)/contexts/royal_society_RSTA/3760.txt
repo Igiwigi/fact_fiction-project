@@ -1,0 +1,25 @@
+source
+°
+
+Figure 2. Geometry of the hybrid analytical-CM—GFPE model for simulating sound propagation from an elevated sound source,
+positioned at a ridge (radius Ra, source height z,), towards a valley (radius Ry, receiver heights z,). Z; and Z, are the ground
+impedances of the ridge and valley parts, respectively. (Online version in colour.)
+
+the source. In the current context with a source at a large height, a major part of the valley would
+be artificially put in an acoustic shadow zone (figure 1b), leading to inaccurate results. Although
+applying a higher-order source approximation could extend the cone with correct predictions [17],
+at the source side of the valley this problem would still remain.
+
+The solution to this problem is found in the fact that the GFPE method is able to commence
+from any vertical array of pressures that can be accurately calculated at sub-wavelength spacing.
+There are actually three possibilities. Most commonly used is a Gaussian starter [17] as the
+first column of pressures, representing a monopole source. Accuracy up to larger propagation
+angles can be achieved by a higher-order approach of the latter [17]. Secondly, another full-wave
+technique can be used to produce a starting field at close distance from the source [21,29]. A third
+
+
+option, as done in this work, uses the analytical solution for coherent line source diffraction
+around an impedance cylinder (with circular cross-section), with the line source parallel to the
+cylinder axis (summarized in appendix A).
+
+As a result, the current hybrid analytical-CM-GFPE model does not suffer from angle

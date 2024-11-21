@@ -1,0 +1,25 @@
+
+data owing to its physical size. Therefore, a virtual gauge was included at 50mm distance from
+the free end with an area of 20 x 1mm that represents characteristic grid size of conventional
+polyester foil gauges used in this type of experiment (PFL-20-11). The linear regression on the
+reconstructed stress-strain curve was performed, and the identified stiffness was within the
+confidence interval with an error of less than 0.1%. Both simulated sequences showed some
+variations in the identification results with almost the same standard deviation, making it difficult
+to confirm which grid pattern is most suitable for the method employed.
+
+Systematic errors in local phase shifting algorithm can arise from framing a grid signal close
+to binary one, black lines on a white background. Even though a high-contrasted grid pattern
+is desirable regarding a reduction of spatial noise, the high-frequency content caused by a close
+to bimodal grid distribution can locally introduce fictive distortion to framed grid images [15].
+A positive effect of blurring was already presented in the case of direct extraction of strain
+
+measurements [72]. Here, the beneficial effect of slight optical blurring of the grid image used : =
+for the identification procedure is demonstrated by simply recreating a deformed sequence of : S
+bimodal grid images and comparing the identification results obtained with a VFM processor 73
+to the same image sequence with applied fast Fourier transform (FFT) blur. The results for the aed
+identification as well as a profile of a bimodal grid before and after applying the filtering are 22
+presented in figure 10. : 4
+
+Indeed, it can be observed that when a binary grid is considered, owing to high harmonics DNS
+present in the images, the phase detection algorithm fails to properly capture the deformation of : S
+the sample. This disruption of phase detection is observed as well in the reconstructed stress field :3

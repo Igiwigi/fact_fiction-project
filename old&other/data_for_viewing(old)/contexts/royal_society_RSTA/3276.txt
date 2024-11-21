@@ -1,0 +1,25 @@
+
+We see, either from figure 12 or directly from the analytical expression in equation (6.5), the
+emergence of a new scale, mp/, parametrically smaller than Ajng, as € >> 1. Below this scale the
+effect of the € coupling is irrelevant and x ~ h, while above mp/é the two fields are different. This
+means that the couplings of x deviate from those of the SM Higgs field. In particular, all couplings
+of x in the plateau region go to zero. The Einstein frame potential in terms of the canonical field
+x is shown, in a log-log plot, in figure 12b. The approximate field dependence of the potential
+in the three different field regimes determined by the two mass scales (h = mp/& and h= Ajp¢p =
+mp/J/€ corresponding to x =mp/& and x = mp) is also indicated. Notice in particular that the
+plateau is exponentially flat. In that field regime, as we have already remarked, all couplings
+of x are exponentially suppressed so that the theory flows to a Higgsless SM. Higher-order
+radiative corrections to this potential have received much attention [113-116,127] and a proper
+calculation must deal with the complication that the theory is in fact non-renormalizable, as we
+discuss next.
+
+Like any other non-renormalizable effective theory, the SM with a non-minimally coupled
+Higgs scalar (in Jordan-frame language) comes equipped with a cut-off scale A beyond which the
+effective theory (EFT) description breaks down. A simple way to find out what is the cut-off A is to
+analyse what is the smallest scale that suppresses the non-renormalizable operators of the theory.
+We can carry out this exercise first in the Jordan frame. We write the metric as gv = Nuv + Yuv/mp,
+where 7.) is the Minkowski metric and y,,, is the graviton field (normalized by mp so that it has a
+canonical kinetic term). If we plug this metric in the Jordan-frame Lagrangian, we obtain a tower
+of operators from the non-minimal coupling term
+
+EER = py yyy bo (6.6)

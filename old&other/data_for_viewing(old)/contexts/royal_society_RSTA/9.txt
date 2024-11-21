@@ -1,0 +1,24 @@
+of them focus on improvements in temporal signal-to-noise ratio (tSNR) or reproducibility of
+FC maps. Yet, no study has explored how and to what extent these confounds affect sparse
+spontaneous events. As proposed in previous studies, the spontaneous BOLD point process
+events in resting-state f{MRI are assumed to be induced by these spontaneous neural events. Then,
+it would be possible to retrieve the corresponding haemodynamic response function (HRF) of the
+spontaneous neural event at rest [15,16]. Apart from the variation of amplitude in BOLD signal,
+additional temporal characteristics of the haemodynamic response, not available from tSNR and
+FC maps such as time to peak, could be revealed by statistical analysis of spontaneous point
+process HRF.
+
+Unlike thermal noise, physiological fluctuations can introduce fluctuations in the fMRI signal
+that are uncoupled from neural activity, and are among the most important confounds in BOLD
+signal change [17]. In fact, cardiac mechanisms include changes in cerebral blood flow/volume
+and arterial pulsatility [18]. Respiration effects include changes in Bo and arterial CO2 partial
+pressure [19]. Although cardiac and respiratory cycles have relatively high frequencies in contrast
+to the typical low-frequency (less than 0.1Hz) BOLD fluctuations, aliasing of physiological
+components to lower frequency range will inevitably occur owing to lower sampling rate in
+BOLD fMRI than cardiac and respiratory cycles [20]. Recent studies have shown that these
+nuisance confounds can significantly alter FC maps of the intrinsic brain networks, such as
+the default mode network [21-23]. Nonetheless, ample evidence has been collected to support
+that resting-state FC does have a neuronal underpinning and cannot purely be the result of
+physiological noise. To date, it is still not clear to what extent the physiological confounds affect
+the haemodynamic response retrieved by PPA, and more information on this would be helpful
+for understanding the physiological foundation of functional coupling among brain regions [24].

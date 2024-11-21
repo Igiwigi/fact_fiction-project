@@ -1,0 +1,25 @@
+have been for many years. Thus, the state of research regarding wall turbulence is sometimes
+described as mature, with the connotation often being that the associated research is incremental
+with diminished opportunity for innovation. Recent advances in experiments and simulation
+have, however, created a situation that defies this characterization, with the rate of important new
+findings now coming with impressive regularity [1,2]. The research described herein adds to and
+
+
+leverages these findings by documenting recent advances in theory and analysis that underpin
+an emergent suite of new models and modelling concepts that seek to overcome the intrinsic
+challenges of predicting high Reynolds number wall-flows.
+
+An imperative to develop the means to predict high Reynolds number wall-flow stems from
+the fact that these flows have pervasive and long-term scientific and technological importance.
+Notably, even small modifications to engineering designs, or advances in predictive capabilities,
+can have lasting impact. For example, a reliable turbulent drag reduction of only a few per cent
+amounts to enormous annual fuel cost savings for both the commercial airline and shipping
+industries. Successful flow manipulations would also reduce pollutant emissions, which for
+commercial aircraft are increasingly likely to be regulated by governmental standards similar
+to those currently established for automobiles. High-fidelity models are required to ensure the
+desired reliability of such predictions, while the intrinsic scale separation phenomenon noted above :
+requires that these models scale favourably with increasing Reynolds number. [=
+
+(b) Importance of Navier-Stokes based models iS
+
+The reduced models of present interest constitute an important innovation because they target 78

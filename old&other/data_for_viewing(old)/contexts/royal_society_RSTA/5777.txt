@@ -1,0 +1,25 @@
+In the presence of helicity, with broken mirror-symmetry, the + degeneracy of the fully
+isotropic case is lifted and the K*, H* fluxes can be distinguished. An inverse energy cascade, for
+a subset of all the possible + interactions, is found; it is associated with backscatter and eddy noise
+although this point needs further investigation. The other two sub-categories of interactions are
+
+
+[+/ — +] and [+/ — —]. Different subsets of these interactions conserve different combinations of
+K+*, H* [27], leading to different sub-dynamics. Kraichnan [43] had already noted the possibility
+that the [+/+ +] and [—/ — —] modal subsets could lead to (partial) inverse energy cascades, but
+he also remarked that the other remaining nonlinear interactions would swamp such effects.
+
+Moreover, it is shown in [27] that these several fluxes are constant separately in the inertial
+range. In fact, the presence of several invariants, beyond global energy and helicity, has also been
+discussed by a number of authors. For example, the case of helical symmetry, as a generalization
+of axial symmetry (the axis being now an helix) is discussed in [23]. Such flows are, again, quasi
+two-dimensional; they have an infinite number of invariants, like for the two-dimensional Euler
+equations, and are proven as well to be integrable [74].
+
+A priori, the same type of argument can be used for magnetic helicity, and one expects as
+well sub-invariants that are separately conserved. It is not clear whether this would explain the
+behaviour observed in DNS of MHD for three different flows having the same global invariants
+(Kr,Hc,Hm) and yet settling to different inertial range scaling [75]. This remains an open
+question. Finally, we note that helicity cascades also occur in rotating turbulence [76]. However,
+in the presence of stratification only, helicity is no more an invariant, and it decays substantially
+more slowly than the energy [77], contrary to the non-stratified case. When both rotation and

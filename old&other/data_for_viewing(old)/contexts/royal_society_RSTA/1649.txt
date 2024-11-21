@@ -1,0 +1,25 @@
+
+The v — z phase diagrams displayed in figure 12 all show striking features, which are common Ss
+to all models (even with the vastly different frequency resolution of the various models due to a
+their different length): first, there is a dramatic difference between the subphotospheric layers 1S
+(the convection zone) and the solar atmosphere above z = 0km (t5999 = 1) layer. Except for the
+qs006023_t007 model (which has a different lower boundary condition), the subphotospheric
+layers are dominated by ‘ridges’ of constant, strongly positive phase values (red features in
+figure 12) on a background of only slightly positive phase values (green areas). We cannot offer
+an explanation for this striking behaviour yet, merely some speculative ideas: assuming that
+the sound waves are created near the upper boundary of the convection zone, one would have
+expected a similar behaviour as in the atmosphere, just with the opposite sign, i.e. downward
+propagating acoustic waves, showing up as positive phase differences, increasing with frequency
+(from green over yellow to red). The fact that we see phase ‘ridges’ suggests an interference
+pattern, possibly caused by the reflection of the downward propagating sound waves at the
+lower boundary. These ‘ridges’ may therefore be related to the pseudo-modes [33] observed in
+the atmosphere (see also figure 11, where the modal structure of the p-modes can be followed
+beyond the acoustic cutoff frequency of about 5.5 mHz). These high-frequency pseudo-modes are
+caused by the interference of waves coming directly from the source and those being reflected
+in the solar interior [33]. While acoustic waves with frequencies below the cutoff frequency are
+completely reflected by the surface layers and thus being trapped in the interior forming a pattern
+of standing waves, waves with frequencies above the cutoff frequency can escape into the solar
+atmosphere. Clearly, this finding requires further study, supported by focused modelling efforts.
+
+In the atmosphere (z > 0 km), we see in large parts the expected behaviour: green and red areas
+at the lowest frequencies in the gravity wave regime, followed by a transition into propagating

@@ -1,0 +1,25 @@
+‘emotional’ has been traditionally assumed to take place in To better understand principles of emotion recognition, itis = =
+supramodal brain regions, downstream to early areas directly therefore of the utmost interest to characterize and isolate the 9 >
+involved in the initial analysis of sensory input [8-10]. For initial computations and discriminations that the SC can __
+example, recognition of smiling and laughter engages the preg- perform on facial expressions, based uniquely on the infor- = =
+enual sectors of the anterior cingulate cortex [11,12]. Detection mation it directly receives from the retinal ganglion cells. Yet 5!
+of danger and fearful expressions involves the amygdala, this evidence remains elusive owing to methodological limit- >
+which also responds to other negative expressions such as sad- ations in animal neurophysiology and human neuroimaging. =
+ness and anger [13-15]. According to this prevalent view, A promising new framework to explore these questions and = 8
+enhanced activity in the visual cortex to affective stimuli has complement neurophysiological investigation is emerging =
+often been interpreted as consequential, rather than integral, from the interaction between artificial intelligence and
+to initial emotional appraisal [16]. Additionally, subcortical neuroscience [43-46]. Deep neural networks (DNNs) are com- s
+structures receiving direct input from the retina, such as the putational models that potentially bridge the gap between =
+superior colliculus (SC), the lateral geniculate nucleus or the cognitive functions and neurobiology. In fact, DNNs approxi- =
+pulvinar (pulv), are traditionally conceptualized as passive mate how complex information-processing functions, such as
+relay centres that transmit visual information, void of emotion- visual recognition and categorization, may be carried out by
+al meaning, to the visual cortex or other ‘emotional’ structures biological neural networks. They consist of many processing
+that conduct a value-based appraisal [17]. units akin to neurons, arranged in interconnected layers
+Recent literature challenges this traditional account and analogous to brain areas, and with connections defined by
+reveals a role for subcortical visual structures in more complex weights that mimic the integration and activation properties
+analyses of retinal input than previously believed [18]. Specifi- of synapses [43,47-49]. DNNs learn through training to per-
+cally, the SC, a laminated structure located astride the dorsal form real-world tasks that essentially consist of mapping
+surface of the midbrain, seems endowed with the necessary input patterns (e.g. raw images) to output classifications (e.g.
+infrastructure and computational capabilities for the innate rec- sorting natural images according to categories like faces,
+ognition and initial categorization of emotionally salient objects and animals).
+features from retinal information [19-22]. First, response selec- Current DNN models of the primary visual system attain

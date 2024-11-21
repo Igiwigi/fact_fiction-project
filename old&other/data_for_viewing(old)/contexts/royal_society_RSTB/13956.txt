@@ -1,0 +1,25 @@
+indicate genes that are preferentially lost; stars indicate sig- and genes associated with lysis are enriched in the cryptic
+nificant differences. Although potentially of interest, we did prophages found in slow-growing hosts. In other words, as
+not compare gene frequencies across host classes due to prophage sequences degrade and become cryptic in these
+strong potential biases in phage gene identification across hosts, proteases and lysis genes are preferentially maintained
+different classes of host and phage. We also note that some while other genes are lost; by contrast, in pathogens or fast-
+large per cent changes (e.g. loss of lysins in pathogens) are growers, these genes are lost at a higher rate than other
+not significant due to the small absolute numbers of phage phage genes.
+genes identified in some classes. This result could reflect sampling or detection biases. As
+Phage protein annotations in PHASTER and PATRIC mentioned previously, we excluded from analysis protein
+showed a high degree of correspondence, as illustrated in classes that accounted for less than 1% of the raw counts
+figures S6 and S7 in the electronic supplementary material. for each host class; proteases and lysis genes accounted for
+Averaged over the fast and slow datasets, PHASTER annota- 2.14 and 1.35% of counts in slow-growing hosts, and were
+tions identified 24.7% more phage proteins than PATRIC in fact the smallest protein classes that were included in the
+annotations (9015 versus 7232), and also identified fewer analysis. The results could also reflect subtle mutational
+protein sequences as hypothetical, with an average of 8.96 biases such as ‘deletion shielding’ (genes that are at the bor-
+hypothetical protein annotations per prophage in PHASTER, ders of prophages or adjacent to selectively beneficial genes
+when compared with 14.0 hypothetical proteins per proph- may be protected from deletion through selection on adjacent
+
+age in PATRIC. Bootstrapping analysis of the PATRIC genes) [35]. Alternatively, protease and/or lysis genes could
+
+
+be co-opted and confer some benefit that is particularly
+advantageous for slow-growing hosts. We suggest that
+further analysis of prophage gene repertoires in well-studied
+phage/host systems will be necessary to offer insight into this

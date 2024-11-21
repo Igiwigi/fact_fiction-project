@@ -1,0 +1,24 @@
+of ‘complex time’. Similarly, t(Q), #(Q) and r(Q) are complex functions which, by construction, are
+locally holomorphic.
+
+One of the advantages of the complexified picture is that all the leaves L,,,-, (both regular
+and singular) are now connected, each of them intersects the section Vj at exactly one point and,
+moreover, every regular point Q (even if it belongs to a singular leaf) can be joint with Nj by a
+continuous path lying on the leaf. Note that the regular part of each leaf Le, 2. can be understood
+as a complex trajectory of the complex flow o! or &!.
+
+The problem coming with ‘complexification’ is that t(Q) and #(Q) are not uniquely defined any
+more. Indeed, the complex leaf £,,,-, = {H = £1,4 = €2} is now a two-dimensional surface with a
+non-trivial topology. In particular, the first homology group of Lz,,.. is non-trivial and this leads
+to the fact that Q can be reached from \j in many different ways, e.g. o!! (Qo) =0'2(Qo) = Q. So
+we need to make sure that the choice of t; does not affect the final result of (the complex version
+of) (5.1) and (5.2).
+
+Let us discuss this issue in more detail. Consider one particular leaf C,,,.. (not necessarily
+regular). It intersects the section Nj at exactly one point Qo. For Q € Le,,¢., consider a path y(s)
+connecting this point with Qo so that y(0)=Qp and y(1)=Q. Each point of this path can be
+written as y(s) = o!)(Qg) = 5!) (Qo) with f(s), f(s) : [0,1] > C being continuous and t(0) = #(0) =0.
+In this way, we set t(Q) = ¢(1) and #(Q) =#(1). It is easy to see that deforming y(s) continuously
+does not change ¢(Q) and 1(Q). Thus, t(Q) and #(Q) (and consequently r(Q) = t(Q) — 1(Q)) are
+uniquely defined if we fix the homotopy type of a curve connecting Qo and Q. If we choose
+two homotopically different curves y; and y2, then, in general, ty(Q) # t2(Q) and 4(Q) Fbo(Q).

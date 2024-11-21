@@ -1,0 +1,25 @@
+effectively self-induced through ‘sticking’ of the dynamics.
+
+Having already noted that the Dean’s problem is NP-complete, one might
+reasonably ask how one knows much about the properties of these systems. One
+answer is through computer simulation and another is through rather subtle
+mathematics and physical interpretation. Also, an important point in these
+developments is that, in physics, one is normally interested in typical systems and
+their statistical properties, rather than the ‘worst case’, and the NP-hard label
+strictly applies to the worst-case problem. One expects the properties of a ‘good’
+large many-body system to depend on the statistical distribution from which
+its elements are drawn, rather than the specific instances that result. This does
+not, however, mean that the typical case problem is trivial—indeed, the situation
+is very much the contrary, both technically and conceptually—and, in fact, the
+insight gained from typical case study has been very influential in explaining
+several intriguing empirical features found in several optimization problems and
+in predicting others, as well as in stimulating the development of new powerful
+techniques applicable even for specific (non-averaged) instances of hard problems.
+Typical behaviour study enables a powerful (and novel) set of tools to be applied
+and often allows the determination of the value of the best achievable average
+cost without the need of an actual algorithm to achieve it in specific cases.
+
+The detailed theoretical methodologies devised to study spin glasses are beyond
+the scope of this article; the reader is referred instead to books such as Mézard
+et al. (1987), Young (1997) and de Dominicis & Giardina (2006). It is, however,
+appropriate to mention that they have involved the introduction of unusual (and,

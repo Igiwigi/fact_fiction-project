@@ -1,0 +1,25 @@
+not be sufficient’ and that typical power supply limits (of about 20 MW) will not be met [1]. 1S
+
+The increasing costs of power are beginning to force hardware developers to rethink some of : >
+the principles of computing. One candidate is to trade high precision or even the reproducibility as)
+of computations for reduced energy demand and/or higher performance. Over the past decade, :8
+a variety of approaches have been proposed to take advantage of the error-resiliency in : 3
+several current and emerging classes of applications, in particular media/signal processing 1a
+
+and recognition, mining and synthesis. These approaches advocate trading the accuracy of the
+underlying hardware fabric in return for significant savings in the hardware resources used
+such as energy, delay, area and/or yield and, therefore, lead to a reduced cost for computing.
+Dubbed inexact [2] or approximate computing, this work has now led to a subfield of active
+research spanning methodologies that exploit the fact that, quite often, applications do not need
+to have precise outputs. Taking advantage of various inexactness-inducing ‘knobs’ to vary the
+hardware quality at different levels of hardware design abstraction, our own work has shown
+that these inexact methodologies could result in significant resource savings in exchange for
+entirely tolerable accuracy trade-offs. The feasibility of these resource—accuracy trade-offs has
+been successfully demonstrated in several key resource-intensive arithmetics and digital signal
+processing primitives [3,4].”
+
+Several techniques at different levels of hardware design abstraction have been proposed to
+realize inexact hardware. Physical/circuit-layer techniques such as voltage overscaling and its
+variants have been the popular choice in the beginning to induce inexactness [5-7]. Later, owing
+to the ease of hardware realization, inexact techniques moved towards higher levels of abstraction
+such as the logic/architecture layers [4,8]. In this paper, we focus on one of these inexact design

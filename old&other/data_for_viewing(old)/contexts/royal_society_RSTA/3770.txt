@@ -1,0 +1,25 @@
+For the long-wavelength region where the Drude expression for the dielectric constant (1.1) is
+valid, once again one can use the expression for the real ef, ~ —o /w? and imaginary e/, © oy /o
+parts of the dielectric constant of the metal to obtain another expression for the FOM,
+
+o. 1 13/2
+FOM= 22 ~ eal (4.12)
+
+7
+
+Y em
+It is easy to see (table 1) that the noble metals have higher values of FOM than most if not all ‘new’
+plasmonic materials all the way to the far IR range, just as numerical simulations in [15] have shown.
+To illustrate this fact, we perform full modelling of the dispersion and propagation length in
+gap SPPs for gold and InGaAs waveguides with an SiO2 core. The results are shown in figure 5.
+The propagation constant (effective) index 8 of the gap SPP shown in figure 5a,c remains equal to
+
+
+ka for as long as a > Ap/2z and then gradually increases as the field starts penetrating the metal
+(semiconductor). The propagation length indeed increases proportionally to the gap thickness.
+For the metal (figure 5b) it is almost independent of the wavelength, in full agreement with (4.11),
+while for InGaAs (figure 5d) the propagation length does depend on the wavelength. This can
+be explained by the fact that, when the wavelength approaches the plasma wavelength, the field
+penetrates deep inside the semiconductor. At any rate, comparing figure 5b,d one can see that the
+propagation length in metal always exceeds that in semiconductor despite higher material loss in
+the metal.

@@ -1,0 +1,25 @@
+linear stability analysis [11,12]. Kreilos & Schneider [13] expanded on this result and computed
+the force equilibrium solutions of a thin cylindrical shell, finding localized unstable modes at the
+boundary of the basin of attraction of the undeformed state. Moreover, they showed that these
+localized modes are edge-states of the system; the basin of attraction of the system is defined
+as the set of all points that return to the rest state of the system and edge-states of the system
+are attractors of the dynamics along the boundary of the basin. Virot et al. [9,14] used lateral
+poking to study the stability of thin cylindrical shells under finite amplitude perturbations. By
+poking the cylinder at different axial loads they were able to identify a ‘stability landscape’
+which captures the stability of a system, with the transition from a positive force on the poker
+to a negative force at buckling. It was then shown by Abramian ef al. [15] that by performing
+a ‘ridge tracking’ procedure on these landscapes, one can estimate the buckling load of a
+cylindrical shell with an introduced defect to within 5% error. Hutchinson & Thompson [16]
+suggested that the work done by the poker is in fact the energy barrier to buckling through
+lateral deformation; a zero ridge height coincides with a zero energy barrier to buckling, thus,
+the ridge tracking method estimates the axial load where spontaneous buckling is initiated. The
+stability landscape has recently been used by Royer & Pellegrino [17] to look at optimal design
+for space-deployable structures and study the early transition into the post-buckled regime. A
+similar approach was also recently explored by Marthelot et al. [18] and Abbasi ef al. [19] to
+accurately predict the buckling of hemispherical shells. It was reported that proper selection
+of the point of probing on the shell is paramount for an accurate prediction. It is thus the
+current understanding that ridge tracking measures the stability of the system to finite amplitude
+perturbations at a specific location, however, knowing the right location to poke is extremely
+challenging, as highlighted by Ankalhope & Jose [20]. This would suggest that an approach that
+looks at more than just the local response could be beneficial for the study of the stability of thin
+shells.

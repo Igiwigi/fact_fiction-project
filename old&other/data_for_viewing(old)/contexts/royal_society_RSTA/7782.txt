@@ -1,0 +1,25 @@
+receiver is on the ground and the transmitter is elevated. By combining both cases the
+effect of having both the transmitter and receiver elevated can be calculated. If hy
+and h, are the heights of the transmitter and receiver respectively above the ground,
+then the signal strength at the receiver is obtained by adding to the value worked out
+with both assumed on the ground, the gain reckoned from the ground up to hp, plus the
+gain reckoned from the ground up to /;. We thus get the benefit of the large initial
+gain close to the ground twice over, and the net gain is considerably greater than would
+be obtained by raising either the transmitter or the receiver alone to a height hyp+hp.
+For a given value of hy +h, the optimum arrangement, if practical, is to make hy, = hp.
+
+It is here that the importance of the fictitious radius |r, | comes in. With both the
+transmitter and receiver elevated it is necessary for the line joining them to clear the
+fictitious sphere of radius | r, |, if the signals are to be unobstructed by the intervening
+earth. This means, for instance, that on 10 m. the line joining them must clear the
+surface of the earth by about 225 m., as will be seen from (5-15).
+
+The absolute values of signal strength at the surface of the earth are dealt with
+in the next section, but assuming for the moment the results there obtained, the height-
+gain analysis can be used to prepare a set of graphs for various wave-lengths, giving
+the signal strength for 1 kW. radiated, against distance from the transmitter for various
+heights of the receiver above the ground. Fig. 10 shows a typical set of curves drawn
+for A= 10 m., ¢ = 5 and ¢ = 10-' e.m.u. Above the tangent plane and for distances
+within about 100 km., where the first term of the diffraction formula no longer pre-
+dominates, the curves have been calculated by the simple theory of a direct ray and
+a reflected ray, using the reciprocal theorem, and taking into account the imperfect

@@ -1,0 +1,25 @@
+x(t) =f(x(t),p), xe", peR™, fe x RM — HR" (3.1)
+P P
+
+subject to initial conditions, boundary conditions and integral constraints. Here x is the state
+vector and p denotes one or more parameters. 1 and m are the numbers of states and parameters, :
+respectively. Equation (3.1) is written in the generic (nonlinear) state-space form, where the :=
+
+state-derivatives are functions of the states and some parameters. Sy
+
+The main type of steady solution which describes the rotor blade behaviour in the conventional a
+forward flight operating envelope is a periodic orbit (limit cycle solutions). Conventionally, aed
+helicopter rotor models have a constant rotor speed and are written in the non-autonomous 22
+form, in that the independent variable t appears explicitly in the equations. In fact, the blade : Ss
+azimuth angle w is a non-dimensional form of the time variable t. Unlike in helicopters, the rotor : s
+in forward autorotation has a variable rotational speed. Hence the rotor is not forced to rotate at : s
+a fixed frequency and the blade azimuthal angle y would then need to be modelled as a state 23
+
+variable. The rotor in forward autorotation is therefore a self-excited dynamical system.
+
+4. Description of experiment
+
+he experiments were performed in the University of Bristol low-speed open jet wind tunnel
+(figure 2a). The wind tunnel is a closed return system with a 1.68m long open working section.
+he diameter of the jet is 3 ft 6in (1.1m) and the maximum attainable velocity is about 33 ms.
+[he experimental rig (figure 2b) comprises a two bladed teeter rotor of 1m in diameter. The blades

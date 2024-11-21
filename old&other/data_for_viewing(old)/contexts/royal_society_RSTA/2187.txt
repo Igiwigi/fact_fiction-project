@@ -1,0 +1,24 @@
+according to his definition.
+
+Armed with the start of a theory of harmonic Maass forms, as well as Zwegers’ important work,
+Ono, Rhoades and the author revisited Ramanujan’s asymptotic claim about the mock theta
+function f and the modular form b (described in §1). We sought to better understand the implied
+O(1) constants, and wondered if there could be any connection between what Ramanujan was
+
+studying in 1920, and quantum modular forms, defined 90 years later in 2010 by Zagier. Quantum : =
+modular forms, which we more precisely define below, transform like modular forms but with : Ed
+some notable differences: they are defined on Q as opposed to H, and they transform only up to : 2
+additive error terms, which are required to extend to suitably analytic or continuous functions in : >
+R. It may be unclear from this terse description why we imagined quantum modular forms may : 8
+be at play in Ramanujan’s asymptotic claim. In fact, we saw potential hints in the transformation Los
+exhibited by f(q) on H (see Watson’s theorem in §1), and also in Ramanujan’s asymptotic claim: if : <
+we rewrite q =e!" where t € H, then q > ¢ (a root of unity) radially is equivalent to t > x €Q, : >
+a rational number, vertically. ia
+More precisely, we have the following definition of a quantum modular form, which we Dy
+attribute to Zagier [19], noting that his original definition was slightly more restrictive. : 8
+&
+
+&
+
+Definition 2.2. A quantum modular form of weight k € 32 is a function g : Q\S > C, for some
+discrete subset S, such that for all y = (4 +) € I’, an appropriate subgroup of SL2(Z), the functions

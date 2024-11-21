@@ -1,0 +1,25 @@
+using the standard defun and deft hm commands. In addition, some macros introduce multiple definitions and theorems.
+Finally, while no book was scanned twice, there are some duplications of defuns and de ft hms between different books.
+
+
+which it was being used.> Within a few years, ACL2 was being used in-house at CLI and
+Matt Kaufmann (a co-author of this paper) had joined the development team. In 1994, before
+ACL2 was released outside of CLI, Kaufmann and Moore wrote ‘Design Goals for ACL2’ [5],
+the abstract for which best describes the situation.
+
+ACL2 is a theorem proving system under development at Computational Logic, Inc., by the
+authors of the Boyer-Moore system Nqthm, and its interactive enhancement, Pc-Nqthm,
+based on our perceptions of some of the inadequacies of Nqthm when used in large-
+scale verification projects. Foremost among those inadequacies is the fact that Nqthm’s
+logic is an inefficient programming language. We now recognize that the efficiency of
+the logic as a programming language is of great importance because the models of
+microprocessors, operating systems and languages typically constructed in verification
+
+projects must be executed to corroborate them against the realities they model. Simulation : 2
+of such large-scale systems stresses the logic in ways not imagined when Nqthm was =
+designed. In addition, Nqthm does not adequately support certain proof techniques, Sy
+nor does it encourage the reuse of previously developed libraries or the collaboration 2
+of semi-autonomous workers on different parts of a verification project. Finally, Nqthm aed
+is implemented in an informally specified programming language (Common Lisp) and 22
+hence is not subject to mechanical verification. ACL2 is our response to these perceived [4
+inadequacies. While the logic of Nqthm is based on pure Lisp, the logic of ACL2 is based : 2

@@ -1,0 +1,25 @@
+'=
+Pm, Z) will also typically depend on ii(z), but we do not write When the population is away from a singular strategy (z#z*), 5
+such dependency for ease of presentation). From the theory of s(z) is sufficient to determine whether a nearby mutant goes -
+branching processes [51,52], it follows that the mutant goes extinct with certainty or whether it has a chance to invade (as _U,
+extinct with probability 1 if, and only if, p(@m,Z) < 1, i.e. if on aver- we can ignore terms of order (Zm— ay and above in equation g
+age the mutant at most replaces itself. Otherwise, there is a non- (2.2) when Zm—Z is small). If such a mutant invades, then the 3
+zero probability that the mutant persists indefinitely. The defi- mutant eventually fixes and thus replaces the resident. This ‘inva-
+nition of uninvadability can be derived from this [21]: a sion implies substitution’ result, which has been proven to hold Ss
+population monomorphic for z,, is said to be uninvadable when under a wide range of situations [29,57-62], means that there S
+pl2m,2u) <1 forall 2m € Z, (2.1) exists a regime of rare mutation with weak effects such that &
+evolution proceeds by a trait substitution sequence whereby the
+such that it is protected against invasion from all possible population can be thought of as transiting from one mono-
+mutants. Using the fact that a neutral mutant has invasion fitness morphic state to another [3]. A singular strategy z* is then
+equal to 1 (i.e. that p(, z) = 1), uninvadability equation (2.1) of a approached gradually via such a sequence when
+population monomorphic for z, can also be expressed as
+Zu © arg max,,.¢z p(Zm, Zu), Le. Zy Maximizes invasion fitness s(z*) = ds(z) =h(z")+ ® p(Zins z) <0 (2.5)
+when the resident is at the uninvadable state [21]. dz |... OZmOZ |,,-2-2"
+
+[63-66]. A singular strategy z* satisfying equation (2.5) is thus an
+attractor of selection and said to be convergence stable.
+
+Once the population has evolved to express a singular
+strategy z*, selection is determined by h(z*) (see equation
+(2.2) with s(z*)=0). In particular, all nearby mutants are
+counter-selected when

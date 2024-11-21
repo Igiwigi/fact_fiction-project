@@ -1,0 +1,25 @@
+with considerable detail. Thus, the information gained from design lead to inefficiency and a sub-optimal coordination
+the data is mostly restricted to observing what is there. It is between experiment and theory. As an example of how theoreti-
+hard to conceive that the dataset would allow answering cal knowledge supports experimental biology, and moreover
+of fundamental scientific questions, such as those regarding enables new insights into biological processes, we mention the
+the underlying mechanisms guiding microbial ecosystem studies by Marsland et al. and Goldford et al. [132,133,160]. Brid-
+dynamics. It is plausible to assume that for such an endeavour ging theory and experiment, in their studies the authors
+a more targeted approach is required. For example, to collect monitored the assembly of hundreds of soil- and plant-derived
+barcoding, metagenome and metatranscriptome data with a microbiomes in well-controlled minimal synthetic media. The
+high temporal and spatial resolution may be a constructive resulting communities were sequenced using 165 ribosomal
+way forward towards testing specific hypotheses regarding RNA, and the outcomes were modelled mathematically. Their
+the mechanisms by which key microbial species interact. mathematical models could reproduce large-scale ecological
+Such experiments can be designed following some successful patterns observed across multiple experimental settings [133].
+research guidelines from this field [149-151]. In fact, we are convinced that the involvement of theory
+
+This example demonstrates that the amount of data does cannot begin too early. Bioinformaticians and modellers
+not necessarily correlate with the gain of basic understanding. should be involved during experimental design, because
+In other examples, such as the dynamics of the phycosphere of these researchers are typically those that formulate clear
+P. tricornutum [137] in controlled environments, we clearly working hypotheses and have a model structure in mind,
+have too little data to test the numerous existing hypotheses even before a detailed mathematical model has been con-
+about the mechanistic interactions between species. By discuss- structed. Only in close interdisciplinary discussion can the
+ing the information content within biological sequences and different goals and aims of experimentalists and theorists
+the information flow between various levels of biological be harmonized, and experiments be planned so that the
+organization (e.g. amino acid sequence and corresponding sec- resulting data are optimally suited to build mechanistic
+ondary structure), we have shown that extracting knowledge models and test scientific hypotheses.
+from different information layers can be more effective and

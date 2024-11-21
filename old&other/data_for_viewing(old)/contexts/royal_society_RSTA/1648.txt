@@ -1,0 +1,25 @@
+Figure 11. k — w phase difference spectrum between Doppler velocity oscillations measured with the Narrow-band Filter
+Imager (NFl) of Hinode’s Solar Optical Telescope (SOT) in Mg by and MDI in its high-resolution mode (Ni! 6768 A), overlaid by a
+diagnostic diagram (thick black lines) and the location of the f-mode (thin black line). (Online version in colour.)
+
+of the signal, i.e. regions of grey (mostly at high wavenumbers) have low coherence. A one-
+dimensional (frequency) phase difference spectrum is the result of collapsing (averaging) the
+complex crosspower in kj,. As can be seen from figure 11, acoustic waves are practically unaffected
+by this averaging over wavenumber, because the dispersion relation for waves above the cutoff
+frequency has very little dependence on the wavenumber (only at very high kj,), whereas in the
+lower frequency region (v < 5 mHz) the dispersion relation is strongly dependent on kj.
+
+The second and in this context more important reason why the one-dimensional phase
+difference spectra have limited diagnostic value is the fact that by looking at only selected heights,
+we cannot know what is happening in between these layers and where exactly some particular
+effect (like a wave node) might occur. To gain further insight, we therefore calculated two-
+dimensional k — w phase difference spectra between successive levels, from bottom to top, for
+all simulations. The first step was to calculate three-dimensional Fourier transforms j(kx, ky,v)
+for all layers v(x,y,z;,t),i=1,...,M, with M being the number of vertical layers in the models.
+From these, we calculated crosspower spectra between successive layers z; and z;,; for all M—1
+layer pairs, and from those the phase difference after azimuthal integration in the k,— y plane
+(assuming horizontal isotropy). As a final step, we normalized the measured phase difference
+between the successive layers to a height difference of 100km, so that they are comparable
+in the various models. In the following, we will show cuts at fixed horizontal wavenumbers
+ky, =2Mm! and ky, =4Mm7! (cf. figure 11 for a location of these cuts in the diagnostic diagram)
+through the three-dimensional stacks of k — w phase diagrams ¢(v, ky, 2), which we will call v — z

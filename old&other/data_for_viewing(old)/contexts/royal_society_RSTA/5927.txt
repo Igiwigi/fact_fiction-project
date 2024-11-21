@@ -1,0 +1,25 @@
+
+Lemma 1.3. A weak solution of the incompressible Euler equations is of class L?(0,T; Bi? (qy) —
+with él! € (0, 2] ifand only if the longitudinal structure function defined by (3.7) satisfies : 4
+
+T :
+[ (sh) dt<S|ei@, Vel>0. (iz) 3S
+0 ang I
+
+Remark 1.4 (Weak solutions as zero-viscosity limits). Lemma 1.3 has some implications
+for the weak inviscid limit. In particular, uniform boundedness of the family {u"},.9 in
+
+Il
+L-(0,T; Be (2° dy) is equivalent to a bound of the form (1.12) independent of viscosity. In fact, as
+
+in lemma 1 of [46], for Leray solutions u” € L*(0,T; L2(T*)) n L2(0, T; H1(T*)) the condition (1.12)
+is equivalent to
+
+T
+f (skew) dt Sie, n(v) <1ei<L, (1.13)
+0 ang,
+
+where n(v) = v!/ 20s). Thus, a uniform scaling with any positive exponent of the longitudinal
+structure function in the ‘inertial range’ suffices to obtain weak Euler solutions in the inviscid limit
+(see Thm 1 of [46]). We emphasize that the bound (1.13) is not naively a compactness statement,
+although for equations structurally similar to Navier-Stokes, lemma 1.12 transforms it into one.

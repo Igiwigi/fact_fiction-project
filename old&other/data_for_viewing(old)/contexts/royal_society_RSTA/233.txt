@@ -1,0 +1,25 @@
+cellular automata, which cannot be reached from within the system. However, if a
+structure physically exists in our world, its constructibility is given, and moreover
+we immediately have in our hands a solution to this problem of computing the
+complexity, if one may consider the construction; the crystal growth; the assembly
+process that formed it. In other words, the same algorithm that builds a structure
+provides us with its complexity.
+
+K4=|d(a)|
+
+where a is the assembly algorithm and d(a) its description.
+
+We propose to call this measure the assembly complexity, and we should note
+that it is not necessarily coincident with the Kolmogorov complexity; in fact the
+two will only be the same if the assembly algorithm is the shortest possible,
+and since Kolmogorov complexity is not computable, this coincidence cannot,
+in general, be checked. In the case of a crystal, the shortest algorithm would
+simply be to repeat the unit cell, but assembly complexity would instead consider
+the crystal growth mechanism, such as the Burton-Cabrera-Frank mechanism
+we discussed above. We may add the corollary that if the possible structure
+corresponds to a point in an energy landscape, then the complexity of a particular
+structure comprises the route through the energy landscape.
+
+On what level of system description should we consider the assembly
+complexity? The level for a biological structure should clearly be that on which
+biological information is stored: the genomic one; let us term it the genomic

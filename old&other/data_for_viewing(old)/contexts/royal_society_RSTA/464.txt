@@ -1,0 +1,25 @@
+the time-varying nature of the signals analysed. The simplest time-frequency method is the short-
+time Fourier transform (STFT). Comparing the signal being analysed with elementary functions
+that are localized in the time and frequency domains is the basic idea behind the method. The
+
+
+wavelet transform (WT) is another well-known time-scale method, having the same concept as
+the STFT. The major difference between the two methods is in the different basis /elementary
+functions chosen during the process that lead to different signal representations. Because
+of that, wavelets give better localization properties at high frequencies and are useful for
+detecting local events in the signals. Wavelet analysis is probably the most popular technique;
+a review of condition monitoring applications is found in reference [18]. In terms of an online
+implementation, the application of time-scale methods is less costly than a fast Fourier transform
+(FFT). In fact, the discrete wavelet transform can be carried out in O(N) operations compared with
+O(N logN) for the FFT. Some examples of WT applications in condition monitoring are given
+in [19-23].
+
+Other common time-frequency methods are Cohen class time-frequency distributions such as
+the Wigner-Ville (WVD) and the Choi—Williams (CWD) distributions. The energy distribution
+
+in the joint time-frequency domain, such as the WVD, is very complicated as the underlying : =
+transforms are nonlinear. Condition monitoring applications of the WVD can be found in : yy
+references [24-27]. : 2
+
+Relatively recently, the empirical mode decomposition (EMD) method has also been proposed aes
+[28] as a filter bank method that can be applied for time-frequency analysis in combination with 22

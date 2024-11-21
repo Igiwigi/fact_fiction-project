@@ -1,0 +1,25 @@
+pase [| [gle =F dn] = =F + inten. (6.15)
+
+2Strictly speaking, a pressure tensor should be defined in terms of the velocity fluctuations w;1;, but this would unduly
+complicate the notation. Thus, we stick to the above definition of Tj. while still using the term ‘pressure’ for this quantity.
+
+
+
+As is always the case for hydrodynamic models, some further hypotheses are needed to close Ee
+the above set of equations (5.6)-(5.10). A particularly interesting strategy, based on the maximum
+entropy method (MEP), was used in a previous work [31] to close the set of hydrodynamic 3
+equations in the presence of the sole Zeeman interaction. Unfortunately, when one adds the spin— 1B
+orbit interaction, the MEP does not provide any conclusive analytical results (the difficulty arises
+from the fact that the spin-orbit interaction couples all the components of the velocity). However,
+an intuitive closure can be found by inspecting the evolution equation (5.10) for the pressure
+tensor. There, most spin-dependent terms cancel if we set
+
+RR=ujSy and 13 = ude. (5.16)
+
+ij
+
+The physical interpretation of the above equations is that the spin of a particle is simply
+
+=]
+transported along the mean fluid velocity. This is of course an approximation that amounts [=
+to neglecting some spin-velocity correlations [27]. With this assumption, equation (5.9) and : =

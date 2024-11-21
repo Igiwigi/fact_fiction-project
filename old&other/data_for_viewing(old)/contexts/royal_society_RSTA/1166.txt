@@ -1,0 +1,25 @@
+(tr Mg CHIFOII) € LPR). 3.3)
+
+This Tauberian theorem is the result of developments over a period of almost 10 years. In the
+
+special case p = oo and K =M, it was first obtained by Batty & Duyckaerts [76]. In that case, the
+function Mx(s) = M(s)(log(1 + M(s)) + log(1 + s)) is often denoted by Miog. It is the achievement
+of Batty, Borichev & Tomilov [66] to extend the basic result from [76] and the classical Ingham—
+
+Karamata-Riesz theorem to general p and to allow functions K of the form (1 + s)“M(s)8 (for some
+a, B > 0) instead of just K = M. In this case, Mx and Miog do not differ essentially. There is also an
+
+
+extensive discussion in [66, Section 4] of the fact that more general functions K are possible, too. In
+fact, there are sometimes non-trivial relations between the functions M and K, and the interplay
+between the shape of 2y and the growth of f in 2y can be analysed by means of more or less
+standard techniques of complex analysis, such as the theory of harmonic measure. For instance,
+if M(s) = C(1 + s)* and iff grows polynomially in 2y, then, as was noted in [77, Lemma 3.4], one
+necessarily has FI <Ce(1 + |z|%**) for all z € cy for an appropriate constant c > 1. Theorem 3.2
+in its full generality was finally proved in an unpublished manuscript by Stahn [78, Theorem 1.1];
+see also [79].
+
+Regardless of p, Theorem 3.2 is optimal in the sense that one cannot obtain any better weights
+in (3.3) than Mg. Optimality for p= oo and polynomial M = K was proved in [77, Theorem 3.8]
+by an explicit and fairly involved construction. By developing further the ideas from [77], this
+approach was then extended to all p and to some other functions M (and also to individual orbits

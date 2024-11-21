@@ -1,0 +1,25 @@
+the global model. In which case, this would explain why the global inversions (using TM5) find a
+larger summer maximum and seasonal amplitude, since larger summer emissions are needed to
+match the observed atmospheric seasonal cycle.
+
+The background calculation in the regional inversions (FLEXINVERT and FLEXKF) is another
+source of uncertainty and may at least partly explain why the results of these inversions differ in
+their estimates for the EU27 + UK region. Comparisons of the background and observed CH4
+mole fractions for observation times when the contribution from fluxes within the European
+domain is close to zero (defined as when the absolute difference between the prior modelled
+and background mole fraction is less than 5 ppb) suggest that the background in FLEXINVERT
+is underestimated by an average of —18 ppb (standard deviation of 15 ppb) compared to —7 ppb
+(standard deviation of 15 ppb) in FLEXKF, which could mean FLEXINVERT has a positive bias
+for the flux estimate over Europe (electronic supplementary material, figure S7). The fact that
+FLEXKF used TM5-4DVAR output to determine the background means that both FLEXKF and
+TM5-4DVAR have the same budget of CHy entering into the European domain via atmospheric
+transport.
+
+(b) Anomalies in 2018
+
+The annual and seasonal CHy flux anomalies in 2018 with respect to the mean for 2005-2017 are
+shown in figure 5. A positive anomaly in the annual mean is seen in three of the inversions (but
+not in CTE) over the Netherlands and northwest Germany, but is only significant (i.e. outside
+two standard deviations of the mean) in FLEXINVERT. A positive annual anomaly is also seen
+over Serbia. The anomalies are stronger when considering only the spring (March—May). Since
+the Netherlands and Serbia are the only regions to have consistent anomalies across at least three

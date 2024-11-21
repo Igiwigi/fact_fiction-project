@@ -1,0 +1,25 @@
+that if the hypothesis had not been supported by the d-separ- plant richness (second term). Using our data,
+ations, then a new causal graph would have to have been ACE = 30, P(e = 1|c = 1, d4)P(d) — 0, P(e = 1|c = 0, d)P(d)
+drawn and tested. = —0.53. As mentioned before, the effect of plant richness on
+While our causal graph has only two testable implications pollinator richness (i.e. P(e | do(d))) can be estimated only at a
+(the more the better), we found that plant-pollinator ratio in likely level. Because the modified graph is the same as the
+our DAG is a genuine cause of pollinator richness. That is, original graph (i.e. there are no incoming links to plant rich-
+plant-pollinator ratio and pollinator richness are uncondi- ness), the interventional distribution is exactly the same as the
+tionally statistically dependent (G?-+test: p-value = 0.001, observational distribution. Using our data, ACE = P(e=1!d=
+power = 0.99), plant—pollinator ratio and pollinator richness 1) — Pe =11d=0) =0.62, as can be expected.
+are statistically dependent conditional on all other variables The result above implies that by increasing the plant-pol-
+(G?-test: p-value = 0.001, power = 0.99), humidity potentially linator ratio in the community, we would decrease by 53% the
+has an effect on the plant—pollinator ratio under the context chance that pollinator richness increases on a given day. This
+defined by the null set, humidity and pollinator richness suggests that there can be, in fact, limits to the positive
+are unconditionally statistically dependent (G*-test: p-value = relationship between plant and pollinator richness. This
+0.012, power = 0.99), but humidity and pollinator richness relationship may be attributed either to a set of plants that
+are statistically independent conditional on plant—pollinator do not directly affect pollinator richness or to how this ratio
+ratio (G?-test: p-value = 0.68, power = 0.99)—fulfilling the cri- modulates species interactions, and consequently, the com-
+teria of genuine cause (see previous section). Note that, in munity dynamics [34]. It is worth recalling that this case
+principle, we can also estimate the effect of plant richness study is not intended to demonstrate a general effect, but to
+on pollinator richness. However, in our DAG, this effect serve only for illustration purposes and as a potential guide-
+cannot be defined as either potential or genuine, it can only line for future studies. For example, we try to explain a fairly
+remain at a likely level (see §3). simple community metric and many more variables can be
+After corroborating our DAG, we focused on finding the explicitly taken into account, such as abundance of patho-
+ACE (i.e. average causal effect) of plant—pollinator ratio and gens, herbivores, chemical compounds, temperature, etc.
+pollinator richness. That is, we calculated the probability of But we hope future work can build on these methodologies

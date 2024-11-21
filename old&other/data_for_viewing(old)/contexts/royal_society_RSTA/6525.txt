@@ -1,0 +1,25 @@
+complex arrangements of resonators, for example, when they are tiled periodically to form finite
+
+
+(a) (d)
+
+Figure 1. (a) Three-dimensional segment and (b) two-dimensional cross-section of our infinitely long Helmholtz resonator in
+dimensionless coordinates, where we define the outer radius b, the total aperture width 2e, the total aperture length 2m and
+the inner radius a= 6 — 2m.
+
+clusters, gratings, or lattices [13,14]. The scatterer considered here is a canonical geometry for ard
+two-dimensional metamaterials, and following an established nomenclature in the literature (i.e. :8
+Melnikov et al. [15]) our resonator is considered to be a ‘meta-atom’. This terminology arises from [3
+the fact that a two-dimensional periodic lattice of such resonators can give rise to a metamaterial, a)
+a type of composite material that exhibits unusual and unexpected properties that are not readily :8
+observed in conventional media [7,8]. : S
+
+In addition to our multipole-matched asymptotic solution, we also compute cross-sections 1&8
+for a single cylindrical Helmholtz resonator. These are measures of strength for different wave
+processes, for example, describing how much incident power is scattered or absorbed by the
+resonator. We also evaluate extinction cross-sections, which refer to the power loss in the
+downstream direction to the incident field (where a detector or observer would be located), due
+to the presence of the object [1]. Formally, extinction is defined as the sum of both absorption
+and scattering processes, and in particular frequency regimes, or for certain geometries, either
+scattering or absorption may dominate [1, ch. 11]. In this work, we consider cross-sections that
+are non-dimensionalized by the diameter of a closed cylinder and we term the resulting quantities

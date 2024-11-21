@@ -1,0 +1,25 @@
+demonstrate the case when only one mass transfer mechanism (volume diffusion) takes place
+with allowance for the initial ‘tail’ of the distribution function. For comparison, the classical
+Lifshitz-Slyozov asymptotic solutions are shown by the dotted lines (their solutions were
+obtained without taking into account the initial conditions at the stage of Ostwald ripening).
+
+As is easily seen, the simultaneous operation of various mass transfer mechanisms changes the
+system behaviour drastically. In the first instance, the growth rate decreases and the distribution
+function moves to the left when decreasing the blocking point up. As this takes place, the
+maximum points of v,(u) and P(u) decrease and are shifted to smaller particle radii u. Thus,
+the presence of various mass transfer mechanisms, which operate synchronously, shifts the bell-
+shaped distribution function, as a whole, in the direction of smaller particle radii. Moreover, the
+smaller the blocking point, the greater the shift. Taking the initial tail of the distribution function
+into account leads to the fact that the right branch rises and falls to the right of the blocking
+point of the Lifshitz-Slyozov theory (at u > uy > ug). It is also significant that the exponent n of
+the initial ‘tail’ of the distribution function has a crucial role in the behaviour of vy(u) and P(u)
+(compare the corresponding panels in figures 1 and 2). Indeed, these functions undergo larger
+shifts when increasing the exponent n (when the initial ‘tail’ is steeper).
+
+The present analytical solution (3.18) for the distribution function is compared with
+experimental data in figure 3. Taking into account the synchronous operation of several mass
+transfer mechanisms makes it possible to compare the left branch of the distribution function with
+
+P(u)
+
+3

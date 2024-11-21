@@ -1,0 +1,25 @@
+either toward oneself or toward an external object, event or person (adapted from [25}).
+
+of the scale was to be used when participants were thinking about simultaneously, with either a Micromed (two patients, sampling
+themselves, about their feelings, body or mood, as in ‘I’m hungry’, rate: 1024 Hz; online band-pass filter: 0.15—463.3 Hz; reference:
+‘I should be more concerned’ or ‘I’m bored’. The ‘External’ Cz electrode) or Neuralynx monitoring system (three patients;
+extreme was to be used when participants were thinking about sampling rate: 4000 Hz; online low-pass filter: 1000 Hz; reference:
+something that was external to them, as for instance ‘It’s raining’ electrode contact in the skull).
+or ‘What was the title of the book that Peter recommended?’. The Data were downsampled to 1000 Hz and band-pass filtered
+‘Time’ scale was used to report whether the thought referred to off-line between 0.5 and 25 Hz, using a fourth-order Butterworth
+past, present or future events, while the ‘Valence’ scale was filter. All iEEG signals were re-referenced to their nearest neigh-
+used to determine whether the thought was pleasant or unplea- bour on the same electrode shaft (bipolar montage) to limit
+sant. Participants could skip the ratings if they did not have any volume-conducted influences, including the cardiac-related arte-
+clear thought when the stimulus appeared or if they did not fact. In the following, we will refer to these bipolar montages as
+know how to rate the thought. If a trial was skipped a new one ‘recording sites’.
+was added to the block, unbeknownst to the participant. Electrode contacts were automatically identified on the
+Before performing the actual experiment, patients were given computed tomography (CT)-scan obtained after electrode
+written and oral instructions and were trained on the scales by implantation, using a watershed transform-based algorithm. The
+rating five examples of thoughts. Their ratings were discussed CT-scan and magnetic resonance imaging (MRI) obtained after
+with the experimenter to ensure task comprehension. Patients implantation were registered to the pre-implantation MRI using
+then performed a practice block of the thought-sampling task, Baladin [26], and all images were normalized to Montreal
+with two trials. Neurological Institute (MNI) space using SPM12. The automatic
+electrode localization was verified visually and corrected if
+j j necessary using an interactive tool (EpiLoc toolbox developed b
+(0 Intracranial electroe cephalographic data the STM (Gtereotaxy: Techniques, Images, Models) engineering
+acquisition, preprocessing and electrode localization platform (http: //icm-institute.org/en /cenir-stim-stereotaxy-core-

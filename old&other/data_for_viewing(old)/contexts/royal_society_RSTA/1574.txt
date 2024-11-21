@@ -1,0 +1,24 @@
+not only Gaussian white noise as in the previous studies but also Ornstein—Uhlenbeck coloured
+noise could maximize periodic signal detection performance at the output of the FFL network
+of FitzHugh-Nagumo (FHN) neurons. In another work, Liu and Li considered more realistic
+conditions such as utilization of Hodgkin-Huxley (HH) neurons interacting with glial cells [68].
+It was observed that the SR performance of the FFL motifs can be significantly enhanced by
+astrocytes, suggesting that this type of glial cells may act as a noise regulating mechanism for
+SR with their stochastic calcium channel dynamics.
+
+As for the VR studies, FFL motifs and similar ones have been preferred for simple clarification
+of population behaviour in signal transmission. For example, Deng ef al. investigated the VR
+phenomenon with bidirectionally coupled networks of three neurons [69]. The authors employed
+networks of FHN neurons coupled with electrical gap junctions as well as with excitatory
+chemical synapses. Considering the fact that the type of synaptic connection between neurons
+significantly affects the network behaviour and the transmission of information, they analysed
+weak signal detection performance by measuring the response of three coupled FHN neurons
+to a subthreshold LF input, and compared effects of both coupling types on VR behaviour
+
+
+
+in the presence of additive noise and noise-free cases under HF driving. It was demonstrated 8 |
+that chemical synapses are more efficient in regards to VR performance than electrical ones, in
+
+particular, if the coupled neurons have a high excitability level, and this is independent from the 3
+local or global application of weak signal to the network. Lastly, it was reported that VR behaviour 1S

@@ -1,0 +1,25 @@
+the values of the amplitudes H and H2 under which resonance occurs in the system, we get the
+following relation
+
+3v3
+
+2 4
+He + ye + A)Hoer = 5 (: - a) (w? +4). (4.12)
+
+As is seen, the effect of the low-frequency component of the noise, governed by Hp sin(2;t + 4),
+is similar to the effect of the high-frequency component, H; cos ot, i.e. increasing the values of H;
+and H) leads to reducing the value of A at which resonance occurs in the system. We note that for
+large values of H; and Hp the value of A governed by (4.12) becomes 0 or negative. A similar effect
+was noticed in [9] and attributed to the fact that for large Hj, the effective potential of the system
+becomes single-well, instead of double-well. The above analysis indicates that, in contrast to the
+system considered in §3, for the conventional bi-stable system (1.3), replacing noise with high-
+frequency deterministic excitation allows us to qualitatively describe the system behaviour even
+for large noise intensities. This is because the effects of the low-frequency and high-frequency
+components of the noise appear to be similar. However, for general stochastic systems, when
+using the deterministic approach, both low- and high-frequency components of the noise need to
+be taken into account explicitly.
+
+
+5. Stochastic systems with nonlinear damping
+
+In this section, we consider a stochastic system with nonlinear damping and assess the

@@ -1,0 +1,25 @@
+tion of grooming. We focused only on interactions between connectedness for these females were extracted from the networks
+adult females (aged 6 years and older) and did not include including all adult females aged 6 years and older; see above). We
+interactions with infants (less than 1 year old), juveniles (2-3 had 563 macaque years of data over 204 unique females, with an
+years old) or sub-adult females (4-5 years old). We also did average of 2.8 years of data per individual (range: 1-8 years; elec-
+not include interactions with males as we wanted to avoid tronic supplementary material, figure S1). Because there was
+capturing changes in socio-sexual behaviour with age. We estab- variation in the age-ranges over which individuals were sampled,
+lished dominance ranks for all females in a given year using we used a within-individual centring approach to capture
+observed win-loss interactions (as per [64,65]). Rank was changes in indirect connectedness across individuals’ lifespans
+
+assigned as ‘high’ (80% or more of other females dominated), [76]. Briefly, following the methodology of van de Pol & Wright
+
+
+[76], we split our age term into a between-individual effect (calcu- transitivity to account for the fact that density can drive variation | 5 |
+
+lated as the mean age of an individual across all observations; in other global network metrics. We included year as a random
+hereafter called average age) and a within-individual effect (calcu- effect to account for yearly variation that might affect network s
+lated as the deviation of an individual's age from their mean age; structure. For the diameter model, we log-transformed the =
+hereafter called within-individual age). This within-individual response variable to improve model fit. We fitted all models with 5.
+age term was our primary variable of interest and reflects how a Gaussian error distribution. To account for a potential nonlinear Ss
+an individual’s deviation from its age affects its indirect connect- relationship between age distribution and network structure, we =
+edness in the network (see [6] for a more detailed description of fitted all models with a quadratic term for proportion of old individ- a
+these methods). uals and compared that to the model with only linear terms using S
+We fitted four models with our four response variables of leave-one-out cross-validation in the brms package (v.2.17.0; [70]). 3
+interest: eigenvector centrality, betweenness, closeness and clus- The quadratic terms never improved model fit and so were not con- >
+tering coefficient. All statistical models included average age sidered further. 5

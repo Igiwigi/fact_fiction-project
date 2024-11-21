@@ -1,0 +1,25 @@
+We are now ready to prove theorem 3.1.
+
+Proof of theorem 3.1. Assertion (i) was already observed in (2.5). Assertion (ii) follows from (i)
+and lemma 2.11. Assertion (iii) follows from lemma 3.3 and proposition 2.8. Assertion (iv) follows
+from lemma 3.4 and the definition of a conjugate point. Finally, (v) follows from (ii)-(iv). a
+
+We conclude this section with the observation that theorem 3.1 can be used to establish
+monotonicity of the eigenvalues of H;.
+
+Remark 3.5. Let A,(L) <A2(L) <---<4m(L) <0 denote the non-positive eigenvalues of the
+operator H_. As the essential spectrum of Hy, is strictly positive, the eigenvalues behave as the
+eigenvalues of a continuous family of finite-dimensional operators parametrized by L (e.g. [29,
+§II.5]). A complete proof of this fact is given in [31].
+
+We claim that each A;(L) is a strictly decreasing function of L. Applying theorem 3.1(iii) to the
+operator Hy — A;(L), we see that |A3,1| > j. As |A3,,| = Az, is a non-decreasing function of L, we
+have |A3,.+45| => j for any 5 > 0, which implies that the first j eigenvalues of H,.5 are less than or
+equal to A;(L). In particular, 4;(L + 6) < 4;(L), which shows that 4; is non-increasing. We complete
+the proof of the claim by noting that 4; cannot be locally constant, because the conjugate points
+are regular, and hence isolated, by lemma 3.4. For an alternative proof, we refer the reader to [31]
+where the derivatives dij;/dL are computed in terms of the crossing form.
+
+4. Counting eigenvalues for H via the Maslov index
+
+We now show that theorem 3.1 can be extended to count eigenvalues for problems on the whole

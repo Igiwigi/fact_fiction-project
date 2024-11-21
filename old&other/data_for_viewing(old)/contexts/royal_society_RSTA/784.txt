@@ -1,0 +1,25 @@
+representative contexts. Each execution is masked to exclude memory interactions that occur
+entirely within the block or entirely within the context, leaving only the interactions between
+the two. These masked executions are called histories, and together they form the denotation.
+
+For our example blocks P; and Pz above, the context C generates a set of executions whose
+histories are included in the denotation. The execution of block P; with outcome 1/1 is shown
+in figure 1 together with the corresponding history. Each is a trace of memory accesses, with call
+and ret bounding the part that arises from the block, and tracking the values of local variables,
+e.g. v1. The execution includes rf edges, indicating which store a given load reads from, and hb
+edges, where internal load-acquire accesses pair with the store-release in the context to create a
+happens-before ordering. This ordering is captured in the history as a happens-before edge from
+the context store to the block return (this edge is missing from the corresponding history of P3).
+In the history, all of the internal structure of the block is erased, including the fact that there are
+two loads in P}.
+
+A pair of denotations, [P;] and [2], can be compared with an abstraction relation, written as
+[Po] © [Pi]. The abstraction relation ensures that the histories of [P2]] are a subset of those in [P)],
+so Pj can interact with its context in at least as many ways as P3, as is the case for our example
+above. It has been proved that abstraction implies observational refinement [31], so to validate the
+
+
+optimization P; ~+ Pz, one only need show that [P2] © [P1], and this can be checked automatically 8 |
+with a tool.
+
+The notions of denotation and abstraction will turn out to be central in our vision of a “3

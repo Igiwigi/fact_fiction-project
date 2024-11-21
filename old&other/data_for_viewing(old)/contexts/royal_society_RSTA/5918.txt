@@ -1,0 +1,25 @@
+
+We would also like to add that here we get a biased walk where the bias can be positive and
+negative with equal probability on an average. Hence, if one considers the entire distribution,
+one will get (X) =0 for all p. This will give (X?) — (X)? «#? for p<p, and «xt for p> pc. Note
+that in ordinary biased random walk, (X*) — (X)? « ¢ in contrast. Using either the region X > 0 or
+X <0, we obtained (X2) — (X)? «¢ as in the biased random walk. We argue it is better to regard
+the distribution to the left and right of the origin separately, consistent with the snapshots which
+clearly reveal the biased nature of the walks below p-. We also find that the bias a goes to zero
+above p; and is therefore analogous to an order parameter. Indeed, the critical exponent associated
+with a is very close to 0.5, the known value for O, the order parameter in the opinion dynamics
+model (or Ising model) in the mean-field case.
+
+We also observed a discontinuity in the value of o at p = pc. In fact, the behaviour of o is quite
+similar to that of the specific heat of the mean-field Ising model with the critical exponent equal to
+zero and a jump discontinuity [32]. Note that both o and specific heat are measures of fluctuation.
+So we claim that from these walks, not only the transition point can be detected, one can also
+obtain an estimate of the static critical points.
+
+As far as the present two schemes are concerned, one gets nearly identical exponents for the
+time scales which diverge and the bias that vanishes close to the critical point. A brief analysis
+helps us to understand why this is so. However, the motion of the walkers is more zig-zag
+in Scheme II, that leads to a reduced bias and the width of the distribution shows different
+results quantitatively in the two schemes as a result. In principle, the walks can be conceived in
+many other ways, so although three exponents show comparable values, one cannot immediately
+conclude that a universal behaviour exists for all virtual walks. Still, it is interesting that the

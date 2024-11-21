@@ -1,0 +1,24 @@
+
+Figure 1. FE model set-up and example result. (a) FE model set-up for simulating plane longitudinal waves in polycrystals in
+three dimensions. (6) Example result for plane longitudinal wave propagation in a single realization of Inconel with statistically
+equiaxed grains, simulated with model N115200 using a centre frequency of 1 MHz for the transmitted toneburst. (/) The
+wavefield at a given time on an arbitrary cross-section (see the electronic supplementary material for the respective animation).
+(ii) The time-domain signals, highlighting the signals acquired at individual nodes and the coherent signals averaged over all
+nodes on the respective surfaces. Taking the main pulses from the coherent signals before the vertical marks in panel (i/) and
+transforming them into the frequency domain leads to the amplitude and phase spectra in (ii). (iv) The normalized attenuation
+and phase velocity results calculated using the spectra in the highlighted frequency range in (ii/). The normalization factor a is
+the mean line intercept representing the average grain size. The results are compared with the curves predicted by the classical
+SOA theory, with its Rayleigh, stochastic and geometric asymptotes given. (Online version in colour.)
+
+unaddressed so far. Still, the fact of high order scattering diagrams depending on multi-
+point correlation functions [19,20] means that approximation exists due to the sole
+consideration of the 1 = 2 statistic.
+
+It is not yet known how these approximations affect the obtained solution, even for the scalar
+case, due to the lack of exact solutions. Therefore, numerical simulations are the only alternative
+at this point to evaluate the quality of the obtained solutions.
+
+3. FEmethod
+
+The three-dimensional FE method has been established recently to be powerful and accurate for
+the simulation of wave propagation in polycrystals [27,28,34,35]. Here, we summarize our use of

@@ -1,0 +1,24 @@
+run in the pipeline [78]. Where the Bayesian inference is itself carried out within the data pipeline,
+the provenance information will itself chain back to incorporate both the stochastic model and the
+primary datasets.
+
+7. Discussion
+
+During the COVID-19 pandemic, media outlets have channelled highly charged and politically
+polarized arguments about the trustworthiness of scientific advice for government policy and also
+of the advisors themselves, as well as debating the extent to which governments are, in any event,
+following such advice. While some such controversies are inevitable, as a scientific community
+endeavouring to provide the best advice we can to policymakers, we are at a disadvantage if the
+detail of our results is hidden and if the evidence chain that connects our advice to the data and
+models that underpin it is not just unavailable to the public, but in fact largely non-existent. This
+situation has arisen although standards have been available for many years, promoting openness
+and reuse of data and metadata, in particular through the FAIR principles for scientific data
+management [12].
+
+The FAIR Data Pipeline was SCRC’s response to this aspect of pandemic response. Querying
+epidemiologists involved in both human and animal disease modelling, we could identify no
+tools being used that satisfied either FAIR principles or which publicly presented the provenance
+
+
+x. =rR 1 +e seroprevalence
+survey

@@ -1,0 +1,25 @@
+:S
+boundary conditions descriptions :§
+ground sensing electrode is specified as ground along with holder and : =
+substrate, with the electric potential of 0 V while the driving : 8
+electrode has an applied potential of 1 V at 4.9 MHz : ra
+zero charge boundary to simulate a perfectly insulating surface and is assigned to the outer : ra
+domain boundary : S
+floating potential boundary condition to simulate a perfectly conducting surface where both electrode : S
+
+surfaces are assigned to this boundary condition
+
+computation domain the size of the computation domain truncates the modelling space. In
+fact, the fringing electric field extends to infinity, but drops off in
+proportion to the inverse cube of the distance. They rapidly become
+small enough to be considered numerically insignificant. Here, it is
+verified that the computation domain is large enough to capture
+
+the fringing fields
+(b) (c) (a)
+10 —————— —
+09 —
+08
+07
+(0.6
+os

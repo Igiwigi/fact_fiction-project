@@ -1,0 +1,25 @@
+Lik Zk Z w <—— ¢ ——> 7
+Figure 1. Causal dependence of individual fitness on individual genetic value Figure 2. A simple causal graph over the three variables appearing in the
+alone (i); and on both individual and group genetic value (ii). Price equation, adopted with modification from Frank [7].
+
+group’s genetic value Z;. In such a situation, it seems clear that sufficient for group selection, then we must conclude that = &
+
+z evolves by individual-level selection alone, i.e. because some equation (3.2) does not, in fact, isolate the component of 2
+
+>
+individuals are fitter than others. But unless all groups happen evolutionary change due to group selection. ~
+to have exactly the same gene frequency, the term Cov(Wj, Z,) =
+will be non-zero. Simply put, group fitness W; correlates with ="
+genetic value Z;, but this is simply a side-effect of the fact 4. Causal models a
+that some groups contain a higher proportion of the fitter Our discussion thus far has revealed the difficulty of taking the =
+individuals than others. components of the Price equation to correspond to distinct &
+Another way to see this point is in terms of G. C. Williams’s causal processes in evolution. The difficulty arises for both =
+distinction between genuine group adaptation and ‘fortuitous the single- and multi-level versions of the Price equation, and = >!
+group benefit’ [19]. The former refers to a trait that evolved whether selection is understood as ‘selection for’ (where z N
+because it is group-advantageous, the latter to a trait that, causally influences w) or ‘selection of’ (where z and w are stat- s
+although group-advantageous, did not evolve for that istically associated, irrespective of whether z is a cause of w). &
+reason but rather because it benefits individuals who In each case, we saw that the ‘Cov’ and ‘Exp’ terms of the
+happen to live in groups. Thus, for example, if faster deer Price equation admit of a causal interpretation only under
+have a selective advantage over slower deer, then a conse- specific conditions.
+quence of this is that a herd of fast deer will do better than a In this section, we change gear and explore the opposite
+herd of slow deer, but this is a fortuitous group benefit, not approach. Instead of starting with the Price equation and

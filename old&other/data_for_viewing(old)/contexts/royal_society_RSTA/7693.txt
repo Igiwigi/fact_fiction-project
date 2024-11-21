@@ -1,0 +1,24 @@
+numbers a < b, the definition of (A) will allow the calculation of the probability,
+say P {a = x < 5} of x having a value such that a Ss x < b.
+
+We notice also that as x is not constant in (A), it is possible to find at least one
+pair of elements, A, and A,, of (A) such that the corresponding values of x, say
+x, < %,, are different. Ifwe denote by B the property distinguishing both A, and A,
+from all other elements of (A) and if a < b are two numbers such that a < x, <b
+<x, then P{a = x < 6|B} =}. It follows that if x is a random variable in the
+sense of the above definition, then there must exist such properties B and such
+numbers a < ) that 0 < P {a = x < b|B} <1.
+
+It is obvious that the above two properties are equivalent to the definition of a
+random variable. In fact, if x has the properties (a) that whatever a <b the
+definition of the fundamental probability set (A) allows the calculation of the
+probability P {a = x < 5}, and (6) that there are such properties B and such numbers
+a <b that 0 < P {a = x < 4|B} < 1, then x is a random variable in the sense of the
+above definition.
+
+The probability P {a = x < }} considered as a function of a and 4 will be called
+the integral probability law of x.
+
+A random variable is here contrasted with a constant, say 0, which will be defined
+as a magnitude, the numerical values of which corresponding to all elements of the
+

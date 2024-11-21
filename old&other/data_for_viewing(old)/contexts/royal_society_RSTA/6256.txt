@@ -1,0 +1,24 @@
+w°8 (pr) = Pb i
+0@0r) (20:7, Po:T P1:T)
+
+iat yee @r41)N (p41; 0, MI (Ze, pra), (Pret, 2t, Po)
+
+peg VtE)N (P70, Mit sa (Zt, pt), (Bev, 2t+1, Pt+1))
+
+po(x,zr)N(pr:0,M) F7 _N(pr;0,M)
+qo(Zo | x)N(po;0,M) #6 N(@pi41;0,M)’
+
+1
+
+where we have used the fact that as LF; is a symplectic integrator, it is volume preserving and thus
+Ue, (2, p)| =1, and that N(py;0, MN (P41; hpe, (1 — H2)M) = N(pr4.1i0, MN (prs hip, (1 — H2)M). As
+for ULA, it is possible to easily reparameterize the proposal in terms of standard Gaussian random
+variables. This leads to low-variance estimates of the gradients of the ELBO. Doucet et al. [38]
+
+
+provides an empirical comparison of UHA-type and ULA-type proposals in a limited Monte
+Carlo experiment. The performance is slightly better for UHA than for ULA, but the difference
+is rather small. This finding is somewhat consistent with the results of Bou-Rabee & Eberle [37],
+which show that the mixing time of UHA is better than that of ULA. However, we are far from
+having a clear theoretical guarantee of the relative advantage of using UHA compared with ULA
+in the context of AIS, which is very complex.

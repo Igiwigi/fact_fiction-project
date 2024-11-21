@@ -1,0 +1,25 @@
+convergence for all A > w.
+
+The second remark is that in fact each semigroup {T,(t),t > 0} may be defined in a different
+Banach space, say X;; the theorem remains in force provided that X, in a sense converge,
+as r— 1, to the space X where {T(t),t > 0} is defined, with technical changes related to the
+way (2.2) and (2.3) are then understood. This modification is important from the viewpoint
+of stochastic processes, and has been devised so that approximation theorems may cover the
+case of diffusion approximations (H.F. Trotter’s paper [5] was based on his PhD dissertation,
+and his PhD advisor was William Feller). For reasons that will become clearer in the following
+sections, we will, however, restrict ourselves to the case where all semigroups act in a
+single space.
+
+The third and final remark is that convergence in (2.2) is in fact, by nature, uniform for
+t in bounded subintervals of Rt: you may prove it for all t>0 separately or, as is usually
+easier, prove (2.3) for just one A >, and the convergence in (2.2) will turn out to be uniform
+anyway. This result initially seems to be a bonus, and to some extent it is, but later this will
+be shown to be the biggest shortcoming of the discussed theory: the Trottter-Neveu—Kato
+Theorem cannot describe a convergence that is not uniform for f in bounded subintervals
+of Rt!
+
+
+(b) The convergence theorem
+
+The proposition discussed in the preceding section has a version applicable to the case where
+the limit semigroup is not known, and even its existence cannot be a priori granted. The Trotter—

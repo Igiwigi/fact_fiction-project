@@ -1,0 +1,25 @@
+responsible for generation of extreme events of energy dissipation (and hence strain rate),
+identified by © =25;Sij, where Sj is the strain-rate tensor. We have investigated the three
+nonlinear processes involved in the transport equation for X (see equation (3.2)), viz., the strain
+self-amplification, vortex stretching and strain-pressure Hessian correlation, by analysing their
+statistics conditioned on Y. We find that the overall amplification of strain comes from the strain-
+self amplification term only, whereas the other two terms act to deplete intense strain events.
+Remarkably, the dependence of various conditional averages on ¥ follows a simple dimensional
+consideration.
+
+The three mechanisms are further analysed in the eigenbasis of strain tensor, defined by its
+eigenvalues 4; and eigenvectors e; (for i=1,2,3), revealing a more complex picture. Since 41
+is always positive and Az is positive on average, it follows that the self-amplification term in
+fact leads to depletion for these eigenvalues, whereas the vortex stretching and pressure Hessian
+terms lead to amplification. Surprisingly, the self-amplification and vortex stretching terms cancel
+each other and the net amplification is solely provided by the pressure Hessian term. By contrast,
+the behaviour of all these terms for the third eigenvalue (which is always negative) is similar to
+that of total strain, revealing that extreme events of strain result from strong self-compressive
+action. Our results are consistent with the notion that regions of intense strain are arranged
+in sheet-like structures, in the vicinity of, but never colocated with regions of tube-like intense
+vorticity [5,20,21,23]. In this context, analysing the non-local relation between strain and vorticity
+would be crucial in understanding their amplification [14,15,17] and could also shed light on the
+long-standing mystery of why vorticity is more intermittent than strain.
+
+Finally, we note that the conditional statistics investigated in this work have very simple
+power-law dependencies on Y (in the region ©/(X) > 1), as deducible from an elementary

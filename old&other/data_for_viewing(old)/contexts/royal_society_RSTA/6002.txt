@@ -1,0 +1,25 @@
+so that the solution remains static in time. The ODE system (1.1) becomes autonomous. The
+vorticity @ is thus time-independent, and from equation (3.2) and the definition of Lie derivative
+we get Lyw =0, for all x € 2. On the other hand, since u itself is time-independent and Cyu=0,
+we deduce that u is an infinitesimal symmetry for the ODE system (1.1). In conclusion, steady
+Euler flows possess two commuting symmetries, given by the static vector fields 7; =u and
+nz =@. Theorem 2.12 gives:
+
+Corollary 3.3. Let u be a steady three-dimensional Euler flow, with vorticity field # =V x u. Then
+there exists a constant of motion a satisfying u x @ = Va.
+
+Proof. This is a direct application of theorem 2.12 on the symmetries 9; = u and 97 =. a
+
+Remark 3.4. The statement in this corollary is well known. In fact, a is the Bernoulli function,
+equal to a=p+ zu -u, where p is the pressure field. Moreover, when V x u=ku for some
+keR this corollary does not apply, in the sense that a becomes a numerical constant. In this
+case, the velocity field is known as a Beltrami field [28,29]. As a result, Beltrami fields can be
+non-integrable [9].
+
+As an example, consider a velocity field defined in Cartesian coordinates by u(x,y,z)=
+(cos z,asinz,0), where a € R is a constant, and where either 2 = T? or 2 =R? x T. The vorticity is
+@ = —(acosz,sinz,0) and we find u x # = Va, where a = + —a*) cos 2z is a constant of motion
+(non-trivial when |a| 4 1). Of course, when |a| = 1 the flow is Beltrami, and a particular case of an
+ABC flow [28,29]. The pathlines of the velocity field satisfy the equations
+
+X=cosZ, Y=asinZ and Z=0, (3.3)

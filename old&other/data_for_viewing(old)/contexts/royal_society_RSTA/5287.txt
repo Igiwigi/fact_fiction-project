@@ -1,0 +1,25 @@
+v! — Zw(t) = —q[v — Z(H]. The value 1— Ce is the measure of dissipation (inelasticity); the
+previous purely elastic case corresponds to q=1. In this case, there are also stable periodic
+regimes, and now they are asymptotically stable (stable attractors, small initial deviations decay
+with time) (figure 3a,b). For large initial deviations, chaotic dynamics takes place, as in the
+previous case (figure 3c).
+
+The results presented in this section indicate that classical particles in the dynamical billiard
+with elastic collisions have dynamics intermediate between conservative and dissipative ones.
+The neutral, in contrast to asymptotic, stability of fixed points is a feature of conservative systems.
+On the other hand, the increase of average energy for evolution with small initial energy is
+characteristic for dissipative systems. The dynamics of the particle resembles the dynamics of
+conservative systems [22], though the particle energy is not conserved after collisions. This could
+be explained by the fact that this energy can both increase and decrease due to collisions, and the
+energy is conserved at the average over the period of wall position modulation. For non-elastic
+collisions, we have asymptotic stability of periodic regimes, but chaotic dynamics takes place
+again for large deviations of the initial values from the steady-state values.
+
+3. Asingle quantum particle in a dynamical trap
+
+For quantum particles in a trap, essential are their wave nature and their energy spectrum
+discreteness. If a classical particle can be motionless with an arbitrary position between oscillating
+walls, a quantum particle cannot be at rest, and its wave function should oscillate because of
+the walls’ oscillations. Additionally, owing to the wave features and corresponding ‘dispersion’
+and ‘diffraction’, the wave packet of an initially localized quantum particle diffuses with time.
+This diffusion can be compensated if we consider, not a single particle, but a large number of

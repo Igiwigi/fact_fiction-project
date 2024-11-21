@@ -1,0 +1,25 @@
+emission and therefore generates a longer harmonic pulse. In HHG, phase-matching is relatively
+insensitive to the wavelength of the unconverted light, while the temporal gating is strong. With
+the demonstrated generation of coherent bandwidths approaching 1keV using mid-IR laser-
+driven HHG as discussed below, we now have a feasible path for generating pulses of just a
+few attoseconds duration [93].
+
+HHG phase-matching is most straightforwardly observed in a weakly ionized gas [92]. Before
+interacting with the laser pulse, the gas medium is neutral, with an index of refraction for
+the driving laser that is incrementally higher than 1; i.e. nj =1+6(w). However, the index of
+
+
+refraction for the high-harmonic light generated (at harmonic number q) is incrementally less
+than 1; ie. Ngw =1—dgo. This is the result of the fact that all the atomic resonance lines that
+contribute to the index of refraction are at frequencies higher than the driving laser, and lower
+than the generated harmonics. However, when the strong laser field starts to ionize the gas,
+previously bound electrons become free, and provide a negative contribution to the index of
+refraction of the driving laser. At a critical ionization fraction, the indices of refraction of the driving
+laser and the harmonic light match [92,94]. For phase-matching in a plane-wave approximation
+(when most of the coherent emission is observed), the intrinsic intensity-dependent phase of
+HHG is not changing, and is thus not a factor. This critical ionization fraction is independent
+of gas pressure. Furthermore, if a pulse is not short enough, the gas may be ionized past the
+critical ionization fraction before any high harmonics in the desired wavelength range are emitted.
+Thus, the HHG process is extremely sensitive to the rise-time of the driving laser pulse, but in
+a way that does not scale simply—conversion efficiency to a particular wavelength increases
+rapidly with shorter pulse duration, up to the point where this target wavelength is generated

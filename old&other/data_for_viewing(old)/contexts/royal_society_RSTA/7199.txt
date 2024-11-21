@@ -1,0 +1,25 @@
+3:2. Solution of integral equation
+
+Equation (25) forms the basic integral equation of our problem and is analogous to the
+simpler equation considered by Magnus (1941) and Copson (1946a) for the half-plane
+subjected to a sinusoidal train of waves.
+
+To commence the solution of equation (25) we note that the second integral in it corre-
+sponds to the contribution from CD for a point on AB and if we omit this contribution we
+
+
+SOUND PULSES BY AN INFINITELY LONG STRIP 77
+
+have in fact the integral equation for the half-plane case. Thus, if we denote by y, the solution
+for the half-plane case, then x, will satisfy the integral equation
+
+AP “xoldora) Kult | yo 1} dy = % (26)
+
+and in the known results for the half-plane case as given by Friedlander (1946) we have
+merely to substitute our assumed form (10) for the incident wave and apply the Laplace
+formation to obtain in
+eas xol¥o2) = 142 [“e-avee? tan? Od, (27)
+70
+
+where we may note that x, is a function only of the product Ay.
+We now seek a solution of the equation (25) for the strip case by the method of successive

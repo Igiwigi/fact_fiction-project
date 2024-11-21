@@ -1,0 +1,25 @@
+For this map, transient chaos can be observed in the interval z;, € [27.3, 30.7], so we have chosen DS
+this interval as the set Qo. We have taken & = 0.080. If the control bound up is chosen too small, : =
+
+there will be no safe set, and it will be impossible to prevent escapes. In this case, we have taken
+as the control bound up = 0.055 (ug < 9), which is approximately the minimum value for which
+a safe set exists. Then, we have obtained the safe set by using the recursive sculpting algorithm.
+In figure 6, we can see how the algorithm sculpts the initial region Qo until it finds Q4 where it
+converges, SO Q4 = Qou is the safe set. For this computation, we have used a grid of 4000 points in
+the interval z,, € [26.8, 30.8], so the grid resolution is 0.001.
+
+The safe set computed ensures for any starting point qn in the safe set and any allowable én,
+there is a wu, that puts f(qn) + &n + Un back in the safe set. This is true for the map; however, the
+control is applied in the phase space so we must take into account of the fact that as each local
+maximum of z is described by three coordinates (Xin, Ym,Zm), the total distance to the safe set
+
+isd= J (Xm = Xmsafe)? + (Ym — Ymnsate)* + (Zm — Zmsafe)*, Where (Xmsafer Ymsafer Zmsafe) iS the closest
+point belonging to the safe set. In figure 7, we show a controlled time series of the z variable in
+contrast with an uncontrolled trajectory. We can see that chaos is sustained by applying small
+perturbations in the maxima of the variable z.
+
+The main advantage of this 1D approach is that the computation of the safe set is easy and fast.
+This kind of map is useful when the disturbed trajectories mainly spread out along the expanding
+direction of the chaotic saddle, as occurs in the case of stochastic noise or uncertainties in the
+application of the controls. See, for example, in [11], where an ecological model of three species
+was studied. In that case, it was possible to construct a map of the form (xj, y;,2;), where y and z

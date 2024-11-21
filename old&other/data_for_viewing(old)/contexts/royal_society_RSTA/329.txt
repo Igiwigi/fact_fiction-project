@@ -1,0 +1,25 @@
+An example of a probabilistic programming language is Infer.NET [29]. This supports a wide
+range of distributions involving both discrete and continuous variables, and has a modular
+framework that is readily extended to new distributions. Typically, we expect general-purpose
+software to have a computational efficiency that is poor compared with model-specific software.
+However, Infer.NET is able to achieve efficiency that is often close to hand-tuned code, by adopting
+a compiler technology as illustrated in figure 13. Note that in this diagram, the NET program
+that specifies the ‘model’ includes a description of which variables are observed (but without
+the values of those observations). This allows the compiler to generate inference code that is
+optimized for the particular partition of observed and hidden variables. In some applications, it
+might not be known which variables will be observed until run time, and in such cases, the model
+can be extended with additional variables that allow for observing the partition at run time. For
+example, a model could be extended to include binary variables specifying, for each potentially
+observable variable, whether or not that variable is in fact observed. The Infer.NET compiler
+encapsulates numerous optimizations regarding the choice of message-passing schedule in order
+to generate efficient inference code. Currently, Infer.NET supports two deterministic inference
+algorithms (expectation propagation and variational message passing), as well as a Monte Carlo
+method (Gibbs sampling).
+
+Another probabilistic programming language, with some similarities to Infer.NET, is Bayesian
+inference using Gibbs sampling (BUGS) [30]. BUGS uses Monte Carlo methods, which give it
+great flexibility in the range of models that it can accommodate, but owing to the computational
+
+
+model
+(small .NET program)

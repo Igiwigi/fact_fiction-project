@@ -1,0 +1,24 @@
+of subjects [29]. In that context, k is the index of the subject.
+
+There are basically two approaches to the group ICA problem. One is the approach already
+described in §4: We do ICA separately on each data matrix and then combine the results, which
+further gives us the opportunity to test the significance of the components. The second approach,
+which we consider in this section, is to estimate some ‘average’ decomposition. For example, if
+we assume that the mixing matrices are approximately the same, then we can try to estimate the
+average mixing matrix.
+
+The first, fundamental question in analysis of such three-way data is whether the three-way
+structure can be simply transformed into an ordinary two-way structure without losing too much
+information. In other words, can we just ‘collapse’ the data into an ordinary matrix and analyse
+it with ICA, or do we need special methods? In fact, in many cases where ICA is applied, it does
+not seem to be necessary to construct special methods for analysis of three-way data: it seems to
+be enough to transform the data into a single matrix for a useful application of ICA.
+
+
+Denote by X; the data matrix obtained from the kth condition (or subject). Its rows are the
+different variables i, and the columns different observations t. Thus, each X, is a matrix that we
+could input to an ICA algorithm, which would model it as X; = AxSx.
+
+Fundamentally, we can construct two different ‘total’ data matrices that contain all the X;, i.e.
+all the three-way data. We can concatenate the X; either column-wise or row-wise, obtaining,
+respectively, the matrices 1 and 2,

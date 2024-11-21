@@ -1,0 +1,25 @@
+Inversion algorithms are a useful tool in observational solar physics. By providing a means to infer
+various atmospheric parameters from Stokes profiles, one can begin to understand the evolution
+of physical properties in the solar atmosphere over time and/or with height depending on the
+observables.
+
+There are numerous inversion algorithms with various advantages and disadvantages
+associated with each based on the rationale for the actual code design. For example, Milne—
+Eddington inversions are fairly common ([1-6]; to name a few) and employ the Milne-Eddington
+assumption that the physical properties that govern line formation are constant with depth to
+solve the radiative transfer equation in the presence of a magnetic field [7-9]. Milne-Eddington
+inversions tend to be quick to obtain a result, computationally speaking, and often give a good
+approximation of field strengths at a given height [4,10] though they do have difficulties dealing
+with asymmetric Stokes profiles due to the assumptions made by the code and the fact that real
+data may have gradients in the velocity and magnetic field components.
+
+More complex codes have been developed as well to fill the gap of specific needs for the
+community, such as depth varying Local Thermodynamic Equilibrium (LTE) based inversions
+using response functions of the observed signals [11,12], codes that treat non-LTE conditions
+where the rate equations are not dominated by collisional terms [13,14], codes that account
+for both the Hanle and Zeeman effects [15,16], codes that use archive synthetic spectra
+[17], non-LTE codes with analytical response functions [18] and non-LTE codes that include
+partial redistribution effects [19]. Each of these codes have different pro et contra, with each
+offering a valuable and vital resource to the community for various use cases. More recently
+[20,21], convolutional neural networks have been used with Stokes inversions to speed up the
+computational time taken to invert Stokes spectra. The results of this particular study would

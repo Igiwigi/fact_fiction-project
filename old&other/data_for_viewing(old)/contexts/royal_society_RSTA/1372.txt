@@ -1,0 +1,25 @@
+z = D.range.allocate (0.0)
+
+btilde = BlockDataContainer(b, z)
+
+If instead, we want the discrete gradient as D we simply replace the second line by:
+
+Set up GradientOperator for use in regularization
+
+GradientOperator (ig)
+
+GradientOperator automatically works out from the ImageGeometry ig which dimensions
+are available and sets up finite differencing in all dimensions. If two or more dimensions are
+present, D will in fact be a BlockOperator with a finite-differencing block for each dimension.
+CIL supports nesting of a BlockOperator inside another, so that Tikhonov regularization with
+a Gradient operator can be conveniently expressed.
+
+In figure 5a,b Tikhonov regularization with the GradientOperator is demonstrated on
+the steel-wire sample. Here, a governs the solution smoothness similar to how the number of
+iterations affects CGLS solutions, with large a values producing smooth solutions. Here, a = 1 is
+used as a suitable trade-off between noise reduction and smoothing.
+
+The block structure provides the machinery to experiment with different amounts or types of
+regularization in individual dimensions in a Tikhonov setting. We consider the problem
+
+u* =arg min { Au — b[3 + 02 |Dyu|[3 + 02 |Dyul)3 + 02 D-u\3} , (3.5)

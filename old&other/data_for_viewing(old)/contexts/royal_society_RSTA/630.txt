@@ -1,0 +1,25 @@
+
+
+3(C —]) with right Cauchy-Green tensor C = F'F, a measure of pure transformation strain could
+be taken, for example, as 3(M'™M —I).
+
+Microstructural descriptors can be subject to various types of physically motivated constraints,
+the most obvious one being the restriction 0 < § <1 arising from the fact that € has to represent
+a phase fraction. Also, in many SMAs, the austenite to martensite phase transformation can be
+regarded as volume preserving and this motivates the constraint
+
+detM=1. (2.2)
+
+Moreover, other important constraints arise from the fact that macroscopic transformation strain
+is physically limited by the overall variant structure. This can be stated in various ways, for
+example in the form
+
+(M'M -1)-(M'M~I) <kme, (2.3) a
+where kmt is a constitutive quantity characteristic of the maximum transformation strain : =
+achievable by a fully oriented martensite. Even if in most models km, is considered as a given [3
+material constant, it can also be specified as a suitable function of the state variables (e.g. phase : =
+fraction or even stress, as suggested in [7] and [8]). Other constraints can also be considered; for D8
+example, if the overall deformation is volume preserving then this causes J = det F to be equal to : 3
+one. : =
+
+In summary, the configuration of the body is described in terms of four fields {x, #,&,M)} that : S

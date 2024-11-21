@@ -1,0 +1,25 @@
+ab = RD
+Taking y to be a ray—which is simply connected, with topology R (by M’s global
+hyperbolicity)—we use local twistor transport to propagate (@, ) uniquely all along y, thereby
+providing us with our canonical twistor space T;, assigned to y. Correspondingly, we shall have
+spaces PT), N, and PN), just as in §1.
+
+We ask what the relation between each PN, and the global space PN of rays in M might be.
+Within each T,,, the ray y, when z-scaled to I’, can itself be unambiguously represented by (0, 74’) a
+all along y, this being unchanged by local twistor transport along y (since (44 « #424’ and [=
+a4 x4 =0). When M is confomally flat (and simply connected), the integrability of local twistor :8
+transport allows us to achieve this globally for the whole of PN, where a x-scaled ray 7 in M that :
+meets y in a point q would be represented at q by the local twistor (0, 7’), in both Ty and T,, ae
+where aaa provides the direction and m-scaling for 7. In fact the spaces N,, — {0} are all canonically eae
+isomorphic with each other, and (locally) with WV itself. [4
+
+On the other hand, in the general case, the non-integrability of local twistor transport prevents ae
+such a global twistorial representation of V in this way. Instead, the idea of palatial twistor :s
+theory is that the holomorphic twistor Heisenberg algebras associated with each T,,, though not 1B
+necessarily canonically identified with one another locally, would constitute a kind of A-bundle B .
+over WN that is holomorphic in an appropriate sense. Such holomorphicity would not arise simply
+from the normal geometrical structures in M, in the presence of conformal curvature, because the
+complex structure of PT is interpreted, in M, in terms of the vanishing of shear in ray congruences
+[2], whereas the Weyl tensor provides the measure of change of shear along rays. Accordingly,
+when ™M is conformally curved, we do not get a natural complex structure for \V (or, rather,
+natural CR-structure, like the one that N inherits from T). In palatial twistor theory, we obtain

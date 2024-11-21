@@ -1,0 +1,25 @@
+Figure 2b illustrates that the trap trajectory oscillates from the initial position and then returns to
+the desired position at xp = d. The corresponding time-evolution |Wsra (x, t)|? is shownin figure 2c.
+To check the performance of the STA trajectories, we define the fidelity at the final time ty as
+
+F=|(Wsraltp)|®)/?, (3.11)
+
+where wsra(tp) is obtained from the direct numerical simulation (split-operator method) of
+equation (2.1) using the STA trajectory of xo(t). The desired ground state @ is obtained by the
+imaginary time-evolution technique. ®g ¢ denotes the initial and final ground states, respectively.
+Noting that we take the ground state p as an initial state when we do the time-evolution to get
+the final state sra (ty). The fidelity of the example in figure 2c at the final time is F > 0.999. The
+high performance of fidelity in short time with both attractive and repulsive interactions is plotted
+in figure 3. The oscillations are due to the fact that the Gaussian ansatz (2.3) is not the solution of
+BECs with atomic interactions. It is reported that fidelity is improved by using a soliton ansatz in
+the attractive nonlinear system [17]. Thus in this case, the strong attractive interaction will lead
+to the period oscillations (see dotted-green line g = —2) due to the Gaussian ansatz we applied in
+variational approach. For the case of repulsive interaction, the period is greater than the attractive
+one.
+
+(b) Quartic anharmonicity
+
+In this section, we shall concentrate on the fast transport of BEC in quartic anharmonicity.
+The potential reads
+
+1 1

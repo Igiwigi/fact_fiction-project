@@ -1,0 +1,25 @@
+of achievement, namely, the sextant observations, which show how he is getting on. In like
+manner the chemical distiller often proceeds, not knowing quite what will happen, but
+guided by the temperature of the vapour, which is one of his many tests of achievement.
+Similarly the lens polisher knows that his machine tends usually to make surfaces nearly
+spherical, but he is guided by interference fringes, which show him how nearly sphericity
+has been attained. Instead of an initial proof that one will arrive (proof of convergence)
+there is in these, and in many other practical affairs, a final proof that one has arrived (test
+of achievement). Why should not similarly skilful operations be considered respectable in
+arithmetic ?
+
+H. Iterative computations are not quite limiting operations in the strictest sense; for,
+although the computer can always attain greater accuracy by doing more arithmetic, yet
+in fact he is usually content with less than twenty significant digits; so that theorems about
+infinite accuracy are not required. Here is another resemblance to lens-polishing; for if a
+lens is correct to within a tenth of the wave-length of light, that is near enough.
+
+8. A GAUTION RELATING TO ALMOST PROPORTIONALITY
+
+The division test gives n estimates of a latent root. In many examples the true value has
+been found to lie between the greatest and the least of the estimates. The comfortable feeling
+of security induced by such experiences received a rude shock in the example of §5, where
+
+KX5+ Xo = (5-71, 5°82, 5°75, 5-84},
+but the true value of the latent root was outside the range of these estimates at A, = 5-236.
+The computer abandoned the division test because the column X° was out of proportion

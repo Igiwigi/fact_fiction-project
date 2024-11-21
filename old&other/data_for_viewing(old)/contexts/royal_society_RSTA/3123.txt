@@ -1,0 +1,25 @@
+'= —2i(a? — p*) = —2i,
+
+SO (Po, 4a) is indeed a canonical pair as claimed. Finally, because the means are zero
+
+E[Po qo] = @7E[PFockIFock] + B?E[Prock4Fock] = (@* — B?)E[Prock4Fock] = —i
+
+and similarly E[qo po] =i.
+
+What does it mean to say that the sequence of canonical pairs (4.2) converges in distribution
+to (Po, 4a)? The simplest notion of convergence is that of distribution operators in the Hilbert—
+Schmidt norm. This would correspond to convergence in the L? sense of the densities of joint
+
+1n fact their Wigner densities are everywhere non-negative for even n, as may be seen using multiplicative properties of the
+corresponding quasi-characteristic functions.
+
+
+distributions to the corresponding Gaussian density, in contrast with the ‘weak convergence’ in
+the probabilistic sense [10] of the two-dimensional classical central limit theorem. But it can be
+shown that [11] in the quantum case convergence is in the stronger sense, for an arbitrary bounded
+operator S on L2,(R),
+
+EC) Yiypr+prt-+pn)AL/ VMGrtq2+ +4) yoo TP lPo te) S-
+
+As bounded operators are non-commutative ‘bounded measurable functions’, our quantum
+central limit theorem, in which convergence is in the sense of expectations of such ‘functions’, is

@@ -1,0 +1,25 @@
+way to realize a given solution as the critical point of a Lyapunov functional [25,26]. Hamiltonian : =
+formalism can also be used when only linear stability can be proved or disproved. This is because : =
+the spectrum of the Lyapunov functional can be related to the spectrum of the operator arising : =
+
+when linearizing the governing PDE [27,28]. In this issue, two contributions [29,30] deal with the
+topic using the Hamiltonian structure to study spectral stability.
+
+Xu et al. [29] consider travelling wave solutions to lattice Hamiltonian systems and study a
+condition for a pair of eigenvalues associated with the PDE system to cross zero and emerge on
+the real axis, thus leading to spectral instability. The authors perform their study following two
+different approaches: one based on Floquet multipliers, and one that is Hamiltonian-based. The
+article [29] and a previous one from the same authors [31] distinguish themselves from other
+works on lattice equations by the fact that no tools from integrability are used for the stability
+analysis. Two examples of lattice dynamical system problems that have solitary wave solutions
+that change stability are considered. One of the examples involves the a-FPU (Fermi—Pasta—Ulam)
+lattice with exponentially decaying long-range Kac-Baker interactions, while the other example
+concerns a smooth regularization of the FPU problem. The analytical results for the two examples
+are complemented by numerical computations.
+
+Feng & Stanislavova [30] study the existence and the stability of vortex solutions of the
+nonlinear Schrédinger (NLS) equation. Vortex solutions of the NLS are of interest in nonlinear
+optics and in the theory of Bose-Einstein condensates [32-35]. In their article, Feng & Stanislavova
+establish the existence of vortex NLS solutions in arbitrary dimensions using a variational
+approach. Those results constitute a generalization of Mizumachi’s work [36,37], who considered
+the two-dimensional case only. The argument used by Feng & Stanislavova for the spectral

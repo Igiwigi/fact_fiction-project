@@ -1,0 +1,25 @@
+apply the same rotation to both magnets B; and Bz. Expressing this invariance with respect
+to rotations of the coordinate system (Euclidean space and Cartesian coordinates are used
+throughout this paper) in terms of i-probs yields P(x, y| a1,a2,Z) = P(x, y| a1, Zaz, Z), where @
+denotes an arbitrary rotation in three-dimensional space which is applied to both magnets By,
+and By, implying that P(x,y|a;,a2,Z) is a function of the inner product aj - az only. Therefore,
+we must have P(x, y|a1,a2,Z) = P(x,y| a1 - a2,Z) = P(x,y|0,Z), where 6 = arccos(aq - az) denotes
+the angle between the unit vectors aj and az. Note that for any integer value of K, 6 + 27K
+represents the same physical arrangement of the magnets M; and Mp. From the algebra of
+LI, it follows that the i-prob to observe x, irrespective of the observed value of y, is given
+by P(x|a1,a2,Z) = Ly=#1 P(x,y|a1,a2,Z). In the context of the EPRB experiment, it is assumed
+that observing x= +1 is as likely as observing x= —1, independent of the observed value of
+y. This implies that we must have P(x = +1|a1,a2,Z) = P(x =—1|a1,a2,Z) which, in view of
+the fact that P(x = +1|ay,a2,Z) + P(x =—1|a),a2,Z) =1 implies that P(x =+1|a,,a2,Z) =P(x=
+—1|ay,a,Z)= 3 Applying the same reasoning to the assumption that, independent of the
+observed values of x, observing y= +1 is as likely as observing y=~—1 yields P(y|aj,a2,Z) =
+P(x =+1,y | a1, a2,Z) + P(x =—1,y|a1,a2,Z) = 1. Note that we did not assign any prior i-prob
+
+
+nor did we make any reference to concepts such as the singlet state. Although the symmetry
+properties which have been assumed are reminiscent of those of the singlet state, this is deceptive:
+without altering the assumptions, the LI approach also yields the correlations for the triplet
+states [22].
+
+Adopting the same reasoning as in §2b, it follows directly from assumptions (a)-(d) that the
+i-prob to observe a pair {x,y} takes the form [22] P(x,y|6,Z) =[1 + xyE12(0)]/4, where E2(0) =

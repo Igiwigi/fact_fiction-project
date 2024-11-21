@@ -1,0 +1,25 @@
+rated incorrectly as having a high risk of being re-arrested upon release nearly twice as often as : =
+white arrestees. This causes black arrestees to be required to post bail when no bail is deserved at a : S
+higher rate than whites. In turn, black arrestees find themselves systematically less able to mount 2
+a defence to the case against them, reinforcing historical and structural discrimination. This gives aed
+rather clinical decisions in the design of the risk-rating system a strong ethical dimension. Similar 22
+audits have turned up issues of bias reinforcement in systems that guide police to portions of a [4
+city to patrol [36], and in e-commerce platforms [35]. The theoretical potential for discrimination : =
+in automated systems is well established [15,41,42]. : S
+
+Measuring the performance of a system in the wild is also useful during the development and : S
+
+fielding of a system to uncover bugs, biases and incorrect assumptions. Even carefully designed
+systems can miss important facts about the world, and it is important to verify that systems are
+operating as intended and satisfying their articulated requirements. This is the classical problem
+of measurement: do data reflect the world and the object of study sufficiently accurately? A related
+concern is that of construct validity, the degree to which a model or test accurately measures what
+it purports to measure, a multi-pronged concept that connects both actual fidelity to the world,
+theoretical groundedness, the risks of performing the measurement, interrelatedness of the factors
+being considered, and generalizability of the results [14,43].
+
+Regular measurement helps to manage the twin phenomena of concept drift—changes in
+the world that can invalidate assumptions baked into collected data or data collection and
+normalization methodology—and modelling error—choices which cause the assumptions of a
+computer system to diverge from the reality of the world. Only measuring and validating a
+system against the world can manage and control these risks. Such measurements are undertaken

@@ -1,0 +1,25 @@
+) dt. (8.2)
+
+Note that the term in the integrand which is independent of f cancels with a term from the zero-
+swap diagonal piece above.
+
+
+9. Explicit formula: two swaps
+For the term with two swaps, we have
+00 1 IT \ B= -8-2s xs
+| WO |e (=) Z(-y,-8, a — s, ~B — 8)— ds dt.
+
+If T? > 7X, then the answer will be 0 as can be seen by moving the path of integration to the
+right. If T? < 47?X, then we use the fact that
+
+¢-a-y—~s)é—p-y —s)el—a —6 ~s)¢(1— B —8 —s)
+¢(2-a—B-y—65—2s)
+
+has poles ats=a+y,a+6,6+y and f + 4; so together with the residue from the pole at s = 0,
+
+we will get a total of five terms for this integral:
+
+Z(-y, -8, —a — s,—B —s)
+
+ay o(l-a— ye — B — ye —a — 8)g(1 — B — 3)
+on tQ—-a-B-y—S)

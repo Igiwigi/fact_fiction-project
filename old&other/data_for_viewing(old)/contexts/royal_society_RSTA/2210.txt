@@ -1,0 +1,25 @@
+even means. More concretely, it is clear from (1.1) that for plumbed manifolds one has t +> —t
+M+ —M, which flips the sign of the adjacency matrix and hence flips the signature of the lattice
+for which the theta function 0° M should be defined, and as a result does not render a function
+on H when one tries to literally apply definition 1.1.
+
+This is when the question starts to become interesting from the perspective of mock modular
+forms. To be concrete, we let M3 be a weakly negative three-star plumbed three-manifold. As
+mentioned before, for such cases Za (M3; T) are basically false theta functions, which are known to
+furnish (rather simple) examples of the so-called quantum modular forms, as will be explained
+in §2. The quantum modular properties of the quantum invariants Z, are essentially what
+makes their relation (1.4) to Zcs possible. At the same time, it can be shown that a mock theta
+function and the corresponding false theta function lead to a pair of quantum modular forms
+that are in fact basically equivalent (cf. lemma 2.6), in a way that precisely leads to the radial
+limit relation (1.6). This leads to the natural guess that the quantum invariants Z.(—M3; t) for
+the orientation-reversed three-star plumbed manifold are given by mock theta functions. This
+conjecture, proposed in [10], will be discussed in conjecture 2.7.
+
+In §3, we will review some recent results supporting the conjecture. The first involves building
+the relevant orientation-reversed three-manifold via Dehn surgeries on knot complements [12],
+and the second involves employing the indefinite theta series to extend the definition of Z,(M3)
+to general plumbed manifolds [11]. To illustrate the various ideas discussed in this proceeding,
+we will discuss in details the specific example of the Brieskorn sphere M3 = X(2,3,7).
+
+
+2. False, mock and three-manifolds

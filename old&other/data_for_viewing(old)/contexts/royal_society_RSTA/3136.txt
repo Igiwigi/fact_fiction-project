@@ -1,0 +1,25 @@
+Then the local invariance defect of Grad’s approximation vanishes,
+Alge — 0. (5.12)
+
+Indeed, with the conditions (5.10) and (5.11), the relaxation terms in Grad’s approximation
+become Rey =)" dag and Rig = —141qq. Using these in (5.9), we prove (5.12).
+
+Non-vanishing of the local invariance defect for Grad’s distribution function is the first
+apparent difference from the Maxwellian case. In Grad’s case, the relaxation has to be aligned with
+the direction dictated by the eigenfunction of the linearized collision integral in order to annihilate
+the local invariance defect. This is more demanding than the local Maxwellian, which annuls the
+local terms in the invariance defect independently of the collision model used. Vanishing of the
+local invariance defect unifies the relaxation time approximation (and any similar kinetic model)
+with Maxwell’s molecules and is a consequence of the simple fact that all these have the same
+eigenfunctions of the form (5.10) and (5.11). Vanishing of the local invariance defect has no relation
+to the values of transport coefficients, and is non-vanishing for any other model, such as hard
+spheres. We shall return to the discussion of the local invariance defect and the corresponding
+correction in §9; for now, we proceed with the analysis of the non-local part of the invariance
+defect which is independent of the choice of the collision model.
+
+6. Non-local invariance defect of Grad’s approximation
+
+(a) Natural partition of the non-local invariance defect
+
+The non-local part of the invariance defect shall be written as the sum of three pieces, where we
+distinguish the NSE, the linear and the nonlinear contributions,

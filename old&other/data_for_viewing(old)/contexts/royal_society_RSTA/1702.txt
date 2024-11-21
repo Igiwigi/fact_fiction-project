@@ -1,0 +1,25 @@
+
+(b) The Dirichlet problem (aDP,) admits a unique solution and the Cauchy problem (aCPn,) is
+wellposed.
+
+(c) The Dirichlet operator L;, exists and the Dirichlet-to-Neumann operator N;, = BL) generates a
+Co-semigroup on aX.
+
+Proof. The equivalence of (b) and (c) follows immediately from lemma 3.1 and [8, Thm. 3.1.12].
+To show (a) <=> (b), we note that by lemmas 4.2 and 3.1, respectively, both assumptions (a)
+and (b) imply that L, exists. Now, if u = u(-,x9) is a solution of (aP1,), then x := Lu is a solution
+of (aCPy, ). Conversely, if x = x(-,x9) is a solution of (aCPy, ), then u := L,x is a solution of (aP1,).
+Hence, the problem (aP1,,) admits a unique mild solution if and only if (aCPy, ) does. As pointed
+out in §3b, the latter is equivalent to the fact that N, generates a Co-semigroup on 0X. This
+completes the proof. |
+
+(b) The inhomogeneous case
+Having characterized the well-posedness of the homogeneous problem with dynamic boundary
+conditions we now study the inhomogeneous case
+
+Au(t)=Amu(t)+f(), #20,
+
+(Lu)(t) =Bu(t)+g(), #20, (iaP1,)
+
+Lu(0) = x0
+for f : Ry — X and g: Ry > dX. We call u: Ry > X a classical solution of (iaP1,) if Lu: Ry > 0X is

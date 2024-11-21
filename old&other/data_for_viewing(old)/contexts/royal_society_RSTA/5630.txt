@@ -1,0 +1,24 @@
+the support of P} is near the boundary of 2, and the support of P? is a compact subset in
+the interior of 2.
+
+(iii) Representing P” in V3 9, in terms of the global geodesic coordinates near the boundary,
+we then establish a ‘trace’ theorem in which we prove the ‘uniform continuity’ with
+respect to s€ [0,6], ie. up to the boundary, of the function d;P"(s,-) with values in
+H-?(R/(LZ)). Consequently, we accomplish the estimate
+
+IP" Ico) < MPH lcoa(ay + IP! Neve ay < CMU? @ 07)|Icoa¢q) + DIIP"IIL~(2), (3-7)
+
+with positive constants C and D that are independent of n and which depend only on 2
+and a.
+(iv) Taking advantage of the fact that the constants C and D in (3.7) are independent of n, we
+can show that
+IIP"||L(@)
+Iu? ® u)||coa¢ay
+
+remains bounded for small values of 7. This allows us to replace the constant D in (3.7)
+by zero on the expense of a larger constant C. Eventually, insisting on the fact that the
+constant C in (3.7) depends only on a and @ and that D=0, one can let n > 0, which
+allows us to complete the proof.
+
+(a) Adequate regularization of the velocity field
+The regularization process is based on the following (classical):

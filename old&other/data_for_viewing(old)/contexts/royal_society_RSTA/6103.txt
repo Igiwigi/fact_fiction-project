@@ -1,0 +1,25 @@
+undiscovered features, can be obtained by considering the full pairwise concurrence network.
+In appendix A, we recall the definition of pairwise concurrence and its analytical expression,
+explaining how this quantity is used to construct concurrence networks as those of figure 1.
+
+4. Bulk, edge and symmetry near the quantum phase transition
+
+We start our analysis of the weighted structure of the state by making use of two local measures:
+strength and disparity, which we depict for each spin in the chain in figure 3a,b. It can be
+appreciated that, close to the critical point B=1 (k=0), the local (single-spin) distribution of
+concurrences is very homogeneous and, moreover, the disparity is essentially constant along
+the chain. At the same time, the strength curve reveals that pairwise entanglement is much
+stronger for central spins than for those at the ends of the chain. This behaviour can be
+related to the fact that, for finite systems, factorization starts from the edges, as shown in [59],
+resulting hence in zero strength at the boundaries progressively increasing when moving into
+the bulk. This means, together with the fact that the graph is fully connected (all degrees are
+equal to N — 1), that concurrences are actually heterogeneously distributed across the system.
+Yet, these weights are allocated in such a way that all relative fluctuations at the local level,
+quantified by the disparity, are equal. This indicates a high level of symmetry in the state right
+before the quantum phase transition, namely, that the single-spin distributions of concurrence
+may be very similar for all spins in the chain when appropriately rescaled; this is indeed
+confirmed in figure 3d. From the network point of view, this suggests that the weights can
+be written as w= cj; for some local variables {a;}: in such a case, the weights of the links
+intersecting node i rescaled by their mean value, s;/dj, are oi (Cigi @1/di) =(N — 1)aj/ Digi ay
+(N — 1)oy/ >) a7, hence approximately independent of i. In fact, in the k = 1 concurrence network,
+aj = 2 sin(iz/(N + 1))/V/N +1.

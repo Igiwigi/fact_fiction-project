@@ -1,0 +1,24 @@
+. us
+=u-—— t—t)—
+elu +o (u(t —t) —u) (5.1)
+
+and b=u+a.
+
+Again, we fix ¢ =0.05, a=0.5. Also we choose o = 0.4 as in figure 3. If we start with t =0 and
+then increase t, at some point the neuron (u(t), v(t)) starts to follow the virtual delayed neuron
+(u(t — t), v(t — T)) on the limit cycle, whereas the limit cycle itself becomes smaller. This effect is
+shown in figure 5a. Note that in [101] a similar model is studied, but it is operated in the excitable
+regime (a > 1), and the analysis is performed for small delay t = O(¢).
+
+The fact that the delayed neuron is slightly ahead of the real neuron means that the difference
+h=T —t between period T and delay t is small. When the system is on a stable limit cycle,
+u(t) =u(t+T). This means that u(t — t)=u(t+T — t) =u(t+h). Considering small h, we can
+approximate u(t + h) ~ u(t) + hu(t). Then the dynamic equations become
+
+3
+
+. u
+(e—oh)t=u- > -v 652)
+
+and v=u+a.
+

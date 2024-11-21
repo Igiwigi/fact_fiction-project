@@ -1,0 +1,25 @@
+do not match.
+
+
+5. Correlation
+
+We have seen that the steps of the walker have three possible values. Therefore, we need to
+analyse the time series for such a walk. Let the step taken at a time t be written as s(t) =0, +1.
+The corresponding time correlation function can be written as: C(f) = (s(to)s(to + #)) — 33 where
+33 = (s(to)) (s(to + t)). This can be written as we know that here (s(fp)) is independent of ¢ and
+therefore (s(to)) = (s(to + #)) = so. Just as in the CCM walk, here (so) 4 0 unless near A for both the
+Models A and B. The correlations for Models A and B are shown in figure 10. It is seen that there
+is a strong correlation near t= 1 which gradually decreases with increasing 4x. The short time
+correlations in both Models A and B are negative. This is consistent with the fact that direction
+reversal probability is greater than 1/ 2. However, for one particular 4; the correlation ultimately
+saturates to a value Csat when tf > oo.
+
+This kind of feature was earlier noted in [46]. The saturation value C.at is estimated by
+averaging near the end over a few hundred values of t. Csat as a function of 4, is shown for
+my = 0.1 for both Models A and B in figure 11a. It is seen that Csat reaches a minimum close to AK
+which is 0.471 for Model A and 0.443 for Model B. The minimum value of Csat as observed for
+AR Ag is ~ (10-5). Also as we observe the strongest correlation C(1) is changing with A,, we
+plot the same in figure 11b. It is observed that as we increase threshold line m,, the correlation
+over one step C(1) becomes weaker and weaker for lower Ax values. However, for high Ax for
+all my values, C(1) is almost a constant. This feature is similar in Models A and B but for higher
+values of m, the strength of maximum correlation, i.e. C(1) is weaker for a particular m;, in Model

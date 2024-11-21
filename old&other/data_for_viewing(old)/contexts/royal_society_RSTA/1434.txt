@@ -1,0 +1,25 @@
+The calculations were performed in the Poznan Supercomputing and Networking Center.
+
+Appendix A. Improvements since first VECMAtk release
+
+In table 2, we present the fundamental improvements and changes in the development of each
+VECMAtk component since the first major release.
+
+Appendix B. Demonstration of a single example VVUQ analysis: COVID-19
+application
+
+To demonstrate the added value offered by VECMAtk more concretely, we showcase one specific
+VVUQ procedure example, using the Flu And Coronavirus Simulator. We perform sensitivity
+analysis across six different input parameters of FACS! to identify their sensitivity relative to
+our quantity of interest (Qol). In table 3, we provide the default value for each parameter along
+
+See https: / /facs.readthedocs.io.
+
+
+Table 2. The list of modifications and enhancements in the development of each VECMAtk component since the first annual
+release in June 2019.
+
+IVECMAtk Component list of improvements and changes in development
+FabSim3 — added support for multi-threaded job management
+— added automated installation and configuration of FabSim3 on different 0S
+— fixed synchronizing/copying for a large number of files and folders

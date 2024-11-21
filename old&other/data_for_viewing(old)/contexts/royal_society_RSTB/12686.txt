@@ -1,0 +1,25 @@
+for three out of the four alternative splice event types; for intron observation that a few cancer-associated genes have extre-
+retention, the non-TE-derived isoforms are more common. mely high counts of TE-derived alternative splicing events.
+Finally, it is interesting to note that there is no particular enrich- The kallikrein-related peptidase 2 encoding gene KLK2
+ment for the contributions of any given TE class to any of the shows more than twice as many TE-derived alternative
+four kinds of alternative splice site events. The observed num- splice sites compared to the second rank gene on this list
+bers of TEs from each class that contribute to these events are (figure 4a). There are a total of 297 TE-derived isoforms ident-
+very similar to the expected numbers based on their back- ified for this gene compared to 354 non-TE-derived isoforms.
+ground frequencies within cancer-associated genes (figure 2c). The KLK2 protein is primarily expressed in the prostate and
+
+has been shown to promote prostate cancer cell growth [50].
+The connection between TE-derived alternative splicing and
+
+(b) Differential expression of transposable element cancer is supported by the fact that all of the TE-derived
+
+derived splice sites isoforms observed here were identified in prostate adenocar-
+We analysed differences in the expression levels of alternative cinoma samples. Examples of TE-derived isoforms for KLK2
+splice sites between matched normal-tumour sample pairs in are shown in figure 4b,c; these alternative splice events are
+an effort to evaluate the effects of individual TE-derived predicted to induce frameshifts that would lead to truncated
+splice sites on cancer. The expression levels of individual altera- protein sequences. Alternative splicing of KLK2 results in
+tive splice sites, and their corresponding isoforms, were fusions with the ETV1 and ETV4 genes in prostate cancer,
+quantified via normalized counts of mapped RNA-seq reads and all of the known fusion transcripts for these genes are
+as detailed in the Methods section. For any given TE-derived missing exon 3 of KLK2 [51,52]. Interestingly, exon skipping
+splice site, there are four possible expression counts for an indi- events are by far the most abundant TE-derived splice iso-
+vidual patient: (i) non-TE isoform normal, (ii) TE isoform forms seen for this gene (figure 4). The large number of
+normal, (iii) non-TE isoform tumour and (iv) TE isoform putative TE-derived alternative splicing events in KLK2,

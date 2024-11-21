@@ -1,0 +1,25 @@
+Following this motivation, Ozer et al. examined the SR phenomenon in the Newman—Watts SWN : 8
+and showed that at a certain degree of small-worldness provided by an optimal amount of new if
+link addition, an adequate noise level can induce emergence of SR across the whole network. : S
+This implies that local periodic driving, i.e. subthreshold signal applied to a single neuron in the : Ss
+network, can be transmitted through the whole network in a maximal correlation with overall : Ss
+electrical activity [60]. Furthermore, they determined the randomness parameter of SWN, the 1a
+
+coupling strength and the driving frequency of the pacemaker as the main actors of signal
+transmission, and found by measuring Q values of entire network activity that there is also an
+optimal level for each parameter to obtain the best SR performance.
+
+On the other hand, SR behaviour can sometimes rely on transmission dynamics, which may
+be associated with some necessary biological facts. Yu et al. analysed population behaviour
+with transmission delays, which are inevitable in communication between actual neurons, as
+well as different control parameters such as noise intensity and rewiring probability [70]. They
+investigated SR in Watts-Strogatz type SWN of electrically coupled Rulkov model neurons. It was
+shown that, depending on its value, time delay in the transmission process can either increase or
+decrease the SR performance by promoting or disrupting synchronization of neuron population,
+respectively. They even demonstrated that properly adjusted time delays can induce multiple SR
+peaks (figure 2). Later, authors extended this study to an SWN population coupled with hybrid
+synapses where connections between neurons include both electrical and chemical synapses [71].
+It was shown that hybrid coupling scheme and synaptic delays in network communication may
+improve efficiency and performance of SR. More specifically, in the hybrid SWN population,
+electrical synapses expand the optimal noise range for SR and increase the detectability of the
+weak input signal while chemical synapses improve the performance of signal transmission as

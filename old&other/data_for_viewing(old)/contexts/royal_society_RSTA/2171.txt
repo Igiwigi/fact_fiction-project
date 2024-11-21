@@ -1,0 +1,25 @@
+
+of 7 reduction in training time required between a 384 x 384 and a 128 x 128 set of image data;
+with further reduction in time required to learn a robust model for even smaller image sizes.
+
+(b) Feature maps and model performance
+
+Figure 5 shows a set of feature maps derived from input images. The input images are generated
+by oversampling an original image in order to make a unique independent image to process
+using a model. Example feature maps obtained from three convolution layers are shown. As
+the convolution layer number increases, the level of detail in a feature map decreases as the
+number of convolution and pool layers increases, i.e. successive feature maps are blurred by
+their predecessor convolution and pooling steps. The feature maps reveal aspects of the images
+of interest, including the hole, and edge features. The fact that edge features have been learned
+by the feature maps in this example raises a concern as to what the corresponding convolution
+filters are learning. While the assumption is that labelled example images are presented to the
+CNN in order for the model to learn the difference between signal and noise, there is a potential
+disconnect as to what in the images is being used to learn that difference. It is important to check
+that the model has learned to address the intended problem.
+
+While inspection of the feature maps of a CNN can provide information about what the model
+is learning, especially when there are complicated inputs, that is not sufficient to ensure that
+one can verify the model is addressing the particular question being posed through the training
+process. Much like the phrasing of the null and alternate hypothesis for a hypothesis test, it is all
+too easy to think you know what question is being addressed by a ML model when training or
+applying it to data. A closer analogy can be found in the problem of parameter estimation using

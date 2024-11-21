@@ -1,0 +1,25 @@
+We now show that (i) the minimum is attained at a point &) such that LMP;(&)) = ai, so that : g
+& € Lh ecconn. comp. of Lt awe), and (ii) &)€ awe). Assume by contradiction that LMP;(& 9) > : S
+ai, and consider the line segment joining mg and &, &; =(1— t)ug + t&o, t [0,1]. Define, for : =
+t¢[0,1], the continuous function gi(t) := LMP;(é;) = LMP;((1 — f)“g + £9), which is such that + 60
+
+&i(0) = LMP(¢g) < a and gj(1) = LMP(&,) > @;*. Thanks to the intermediate value theorem, there
+exists a 0 <t, <1 such that g;(t.) = LMP;(&;_) = a7", and
+
+1(E1,) < (1 — te )U(Mg) + tel (E 9) = belo) < 1&0),
+
+which is a contradiction, since & is the minimum. Therefore, § € |_|peconn. comp. of Lt awe), The
+. . of L;
+same argument, based on the convexity of the rate function and the fact that I(¢¢) = 0, shows that
+8 y §
+ge awit +) . Lastly, equation (5.4) can be derived in the same way. a
+
+Proposition 5.1 shows that in order to solve the problem in equation (5.1) we only need to
+look at the boundaries we it) aw i) . Determining such boundaries is a non-trivial problem, for
+which dedicated algorithms exist. However, such algorithms are beyond the scope of this paper
+and we refer the interested reader to the contour tracing literature and, in particular, to [35].
+
+6. Numerics
+
+In this section, we illustrate the potential of our large deviations approach using the standard
+IEEE 14-bus test case from MATPOWER [36]. This network consists of 14 nodes housing loads, 6

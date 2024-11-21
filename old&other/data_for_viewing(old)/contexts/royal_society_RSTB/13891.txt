@@ -1,0 +1,24 @@
+(Nim) = FE — tr aa Fay) AEE) UNE) FECA
+x ! _ Cov(dx, dxy) + Cov(dy, dxy) — (1/2)(Var(dx) + Var(dy)) — Cov(dx, dy)
+(E(dx) + E(dy))(Eldxy) — (1/2)(E@x) — Ely) (715)
+4 Yar(dxy) + (1/4)(Var(dx) + Var(dy) + 2Cov(dx, dy)) — Cov(dx, dxy) — Cov(dy, dxy) =
+(E(dxy) — (1/2)(E(dx) — E(dy))) Ss
+=
+x
+We can use this expression to study the difference between equation (7.2), we find i
+using the estimator, FS, and the (unknown) true value, Fsz, FG d w
+in the expression for (Nim)p. Figure 11 shows the difference sr —2 XY _ 4 bn
+between using Fer and FG, in (Nim), under different mutation 1-Fg dx +dy Ss
+rates, population sizes and species divergence times. From Taking the expectation of this quantity S
+the figure, we see that the expectations are, in fact, overesti- a
+mates. In this figure, 10 individuals are sampled from each E FS, _ oF ( dxy ) 1 (7.19)
+population. When the divergence time Dxy is low, the bias 1-F&, dx + dy . .
+
+relative to the true value is substantial, resulting in an esti-
+mate twice as large as that which would have been
+obtained using an accurate estimate of Fsy. For high mutation
+
+By deriving a similar second-order Taylor approximation for
+the expectation on the right-hand side, as we did earlier with
+
+rates, this bias decreases rapidly as Dxy increases. For a low E((dx + dy)/dxy), we get

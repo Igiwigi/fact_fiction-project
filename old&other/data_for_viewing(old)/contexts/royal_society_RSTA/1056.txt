@@ -1,0 +1,25 @@
+from the ground state |g), through an intermediate state |), to the final state | f) as [5] .
+
+(FID In) (nD g)
+gt OK — En + in
+
+2
+1(Q,0,¢,€)«|)> 7 8(Ex — Ey + @). (2.1)
+n
+
+In this process, incident photons with wavevector k, polarization € and energy w x are scattered
+to states k’, e’ and wy creating excitations with wavevector Q=k’ — k and energy w = ay — ox.
+Eg, Ey and E; are the energies of |g), |) and | f) and I, is the inverse core hole lifetime. Several
+important facts follow from a detailed consideration of equation (2.1). Since the X-ray wavelength
+(1~10 A) is significantly larger than the extent of an atomic orbital (~0.1 A), D and D* can
+often be considered under the dipole approximation. As the dipole transitions depend on €
+and ¢’, the X-ray polarization can be exploited to help select the desired excitation [6]. The fact
+that two dipole operators are present means that, unlike in infra-red or Raman spectroscopies,
+electronic transitions within the same orbital manifold, often called dd-transitions, are allowed. At
+an L-edge, |n) contains a strongly spin-orbit coupled 2p core hole, which means that the orbital
+angular momentum of the photon can be exchanged with the spin angular momentum in the
+valence band in order to create spin-flip excitations, such as magnons [7,8]. This is illustrated
+schematically in figure 2 and will be discussed in more detail in §4. One should note that RIXS
+is a coherent quantum mechanical process, and since |1) is not observed, the process involves a
+superposition of all possible intermediate states distributed throughout the lattice, which is why
+the collective, Q-dependent excitations of the material are accessible. This is distinct from X-ray

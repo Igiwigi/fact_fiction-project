@@ -1,0 +1,24 @@
+organism's developmental environment and (b) the mismatch environments do not cross. This suggests a relaxed visual- = >
+between its developmental and adult environments on adult ization test which finds evidence for PAR if @) Boi #0 5
+outcomes. We chose a third-order polynomial because it is and (ii) the visualization shows that the fit line depicting >
+the lowest-order polynomial that allows both the interaction the relationship between adult environment and adult = =
+and quadratic regression models to generate erroneous test outcomes for organisms from low-quality developmen- — __
+results and compare error rates. tal environments has a lower slope than the same = =.
+However, a third-order polynomial can have infinitely line for organisms from high-quality developmental S
+different coefficient values and thus describe infinitely differ- environments. a
+ent realities. To reduce these possibilities, we pared those 3. PAR test 3: Theoretically motivated test (equation (2.7) applied =
+possible realities down to five evenly spaced values of to the interaction regression (equation (4.1)). This test finds 8
+9 €[0, 1] and of Aee[-1, 1], and excluded realities where evidence for PAR if the derivative of the interaction =
+at any allowed value of ep or Ae generated an outcome outside regression with respect to |Ael is negative (i.e. equation 3
+the range of [0, 1]. This left 130 201 ‘pruned’ realities where (6.2)). We implement this test notwithstanding the fact ~
+each reality is defined by a third-order polynomial and a that the mismatch prediction of the PAR hypothesis
+10x 1 vector of parameters for that polynomial. cannot be true if the interaction regression is a correct S
+Step 2: Determine whether PAR or DC is true in each reality. specification of reality.
+Each of the 130201 realities was evaluated for PAR and DC 4. PAR test 4: Theoretically motivated test (equation (2.7)) applied
+by applying the tests in equations (2.7) and (2.1), respectively. to the quadratic regression (equation (5.3). This test finds evi-
+Of all the pruned realities, 2697 (2.07%) were truly positive dence for PAR if the derivative of the quadratic regression
+for PAR, 2697 (2.07%) were truly positive for DC and 58 with respect to |Ael is negative (equation (5.5)).
+
+(0.04%) were truly positive for both. These feasible and true
+
+positive realities are the benchmark against which tests

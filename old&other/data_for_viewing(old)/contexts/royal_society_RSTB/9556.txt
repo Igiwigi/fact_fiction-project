@@ -1,0 +1,25 @@
+called XIRAF [21]. As the amount of data is expanding expo-
+nentially each year, a scalable solution for processing the data
+is needed [22]. This XIRAF approach has been shown to
+reduce the case backlog by helping the end-user understand
+the digital material in a timely fashion. Forensic procedures in
+use today place the burden of providing relevant digital evi-
+dence in the domain of the digital investigator, as well as
+maintaining the digital analysis and storage equipment and
+finally providing in-depth knowledge on the origin of the
+digital traces found. The implementation of an automated
+analysis framework shifts the task of finding relevant digita’
+traces from the digital investigator to the tactical investigator,
+who has more knowledge of the facts and circumstances sur-
+rounding the case. In this way, the digital investigator can put
+all his knowledge and education into supporting the tactica’
+investigator with interpretation of the digital traces found, as
+is illustrated in figure 1. Evidence from various law enforce-
+ment agencies have shown that investigations in any urban
+population of roughly 15 million people generate between 4
+and 20 PB of data to be analysed annually, with on average
+4 TB of data per case. XIRAF presents all the data from a
+case in one overall view of the digital devices pertaining to
+the case. The investigator then applies queries to the data in
+order to reduce the set of traces. However, the XIRAF
+approach reached its limits at 1 PB of raw data, and a more

@@ -1,0 +1,25 @@
+written as 2(E,)=f() for some known function f (see examples in [8]), there remain open =
+questions as to how to treat rigorously cases where no such closed-form representation is 3
+known.? 12
+
+5. Conclusion 3
+
+Gibbsian thermodynamics [3,6,7] works consistently for finite and infinite systems, because 28
+the underlying mathematical and statistical foundations, most importantly Liouville’s theorem, [Ss
+merely rely on generic conservation laws that arise from the Hamiltonian structure of the IS
+microscopic dynamics. Working with infinite systems is generally easier as this limit often (but
+not always) forgives a certain laxness in defining entropy and thermostatistical observables,
+because various different definitions may show the same asymptotic behaviour when the particle
+number N is allowed to go to oo. As mentioned before, this is quite analogous to the fact that
+the Newtonian limit c— oo is generally easier to handle than a full relativistic treatment at
+finite speed of light c, which of course does not mean that Newtonian dynamics is more correct
+than relativity. Just as relativity compels us to think more carefully about how to formulate
+fundamental physical laws, the thermostatistical analysis of finite systems forces us to pay more
+rigorous attention to mathematical and physical consistency criteria [8] in thermodynamics.
+This profound insight can be attributed to Gibbs, who wrote on page 179 of his fundamental
+treatise [3]: ‘It would seem that in general averages are the most important, and that they lend
+themselves better to analytical transformations. This consideration would give preference to the
+system of variables in which log V [= Sg in our notation] is the analogue of entropy. Moreover, if
+we make ¢ [= Sg in our notation] the analogue of entropy, we are embarrassed by the necessity
+of making numerous exceptions for systems of one or two degrees of freedoms.’ Gibbs was,
+of course, well aware that statistical fluctuations become important in finite systems and that,

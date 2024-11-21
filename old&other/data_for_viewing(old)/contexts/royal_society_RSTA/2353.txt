@@ -1,0 +1,24 @@
+The first term in the integral of equation (4.3) represents the probability of obtaining the
+natural period T given the period T, the elastic modulus E and the effective height h (i.e. the
+measurement uncertainties), while the second one represents the probability of obtaining T given
+the elastic modulus E and the effective height h (i.e. the modelling uncertainties). To represent
+these uncertainties, two zero-mean Gaussian distributions were selected. These distributions are
+centred on the experimental measurement and the model output, respectively.
+
+By using the experimental measurement of the first natural period, the updated results are
+illustrated in figures 7 and 8. A reduction is observed in the range of variability of the two
+random variables (figure 8), together with a significant modification of the shape of the posterior
+distribution. This change highlights the exclusion of several combinations of the elastic modulus
+and the effective height. This aspect is particularly evident in figure 7. Indeed, despite the
+fact that the elastic modulus and the effective height can be considered as independent, these
+two parameters jointly contributed to the definition of the natural period of the tower. This
+consideration explains the shape of the posterior joint-PDF, highlighted in figure 7.
+
+
+“ts 2400 er
+S10 2 ioe
+Bos = e00|
+$500 2000 bs 26 28 io
+E(pa) 2 — 22 anne) 21 22 23 24 25 26 27 28
+
+h(m)

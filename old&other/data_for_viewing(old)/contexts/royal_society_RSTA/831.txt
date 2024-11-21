@@ -1,0 +1,25 @@
+relative speed before a collision’
+
+Values assigned to CR have been taken from experimental measurements [34,40], some of which
+were the subject of these simulations [34]. Although the particle trajectories were dissipative, for
+a number of reasons the computations described here differ significantly from the electrostatic
+DPD studies [18-28] discussed in the Introduction and from DPD studies, in general [41,42]. First,
+the number of particles involved in each simulation was sufficiently small that no attempt was
+made to consider the system as constituting a canonical (NVT) ensemble through the assignment
+of a temperature. Therefore, the pair-wise CR or frictional force was not balanced by any random
+
+
+temperature-dependent force acting as a heat source or sink [42]. This omission was helped by the ls |
+fact that in all close encounters between charged particles U >> kgT, where kg is the Boltzmann
+
+constant and T is a temperature. In addition, both experiments were undertaken in the presence of a
+an external force, which was either mechanical [29-33] or gravitational [34]. Furthermore, a many- :8
+body electrostatic theory has been used to describe charged particle-neutral particle and charged
+particle-charged particle interactions, whereas DPD studies have used pair potentials within a
+‘smeared charge’ formalism to avoid problems with point charges [20,23,24,27,28]. Finally, the
+experiments being reproduced have been undertaken in either vacuum or air, hence there was no
+electrolyte present, and therefore no charge screening.
+
+3. Results and discussion
+
+a

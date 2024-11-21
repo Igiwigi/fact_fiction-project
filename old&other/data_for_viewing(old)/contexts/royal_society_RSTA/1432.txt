@@ -1,0 +1,24 @@
+discussed in §4c, which allows performing more advanced semi-intrusive algorithms. In
+particular, we plan to train a metamodel on the fly and combine that with a cross-validation test
+of the effect of the approximation error on the results of the micro model.
+
+(g) Coronavirus modelling
+
+Since 2019, the world has been severely affected by the spread of the SARS-CoV-2 coronavirus,
+and the COVID-19 disease it causes. Although many models are able to approximate the viral
+
+
+spread on the national level, few solutions are available to forecast the spread on a local level,
+e.g. in towns or city boroughs. Within the HiDALGO project!* we are working on the Flu And
+Coronavirus Simulator (FACS)! to help address this challenge.
+
+We use VECMAtk primarily to systematically validate the code, analyse parameter
+sensitivities, execute ensemble simulations to account for aleatory uncertainty in the code, and
+to easily produce ensemble forecasts which involve a wide range of scenarios, applied to a range
+of boroughs in London.
+
+To achieve this, we primarily rely on FabCovid19, which is a FabSim3 plugin, as well as
+QCG-PJ. Both tools combined allow us to automate these tasks, and seamlessly create, run and
+post-process ensemble simulations. We also use EasyVVUQ to analyse parameter sensitivities. To
+demonstrate in what way the VECMA toolkit adds value to our application in a concrete way, we
+present an small example sensitivity analysis study in appendix B.

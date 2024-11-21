@@ -1,0 +1,25 @@
+nearly recessive (main plot) and additive alleles (inset). All
+results are from allele frequency simulations (assuming LE
+and zero inbreeding). Dashed vertical lines indicate the
+
+threshold 2LU above which metastable populations (with
+N.=1—E[R,|N-]>0) cannot exist (even for large roK).
+
+We find that extinction times increase with increasing K for
+all parameters. However, for parameter combinations that cor-
+respond to extinction in the large rpK limit (i.e. to the right of the
+dashed lines), this increase is approximately linear in K, while
+for parameters leading to metastability in the large roK limit
+(left of dashed lines), this increase is faster than linear. In fact,
+in the metastable regime, even with a carrying capacity K of a
+few thousand individuals, demographic stochasticity will be
+sufficiently weak and extinction times large enough that isolated
+populations can persist over geological timescales: for these
+parameter regimes, it is environmental fluctuations (which our
+model ignores), rather than mutation load or demographic
+stochasticity, that will primarily influence extinction risk.
+
+We also compute the average (scaled) population size N =
+n/K in the metastable state (figure 1c). This declines with
+increasing 2LU, i.e. as we approach the threshold for loss of
+metastability, and is close to the semi-deterministic prediction

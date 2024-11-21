@@ -1,0 +1,25 @@
+practice). From the perspective of the computer scientist, the frameworks allow us to inspect if
+the network relies on the ECG segments expected for the classification according to the clinical
+
+standard practice. Otherwise, the user can try to address the issue by understanding the reasons : =
+behind it, and thus guiding the architecture towards the domain knowledge. From the perspective : =
+of the physician, the frameworks allow us to understand whether the decision taken relied on a 13
+known domain knowledge by highlighting the corresponding ECG wave, thus the trust in the : =
+deep learning model can be increased. :8
+
+Under a supervised classification framework, an ML algorithm takes a decision that is : 4
+represented by the classification output itself. As a consequence, ML decision-makers can be : e
+trusted relying only on their predictive performance evaluated on the dataset available. Our effort aS]
+in the direction of developing an interpretability methodology relies on the fact that we believe :s
+it necessary that future advancement in automatic processing of ECG progresses together with 7B
+
+our capability to understand the decisions taken by an ML model. In this way, the large accuracy
+which ML algorithms might obtain in the future will also contribute to our understanding of the
+underlying physiology.
+
+Similar considerations were already present in the thinking of the ancient Greeks to obtain
+what Aristotle defined as téxvn [téchne]: a real productive science [34]. He noted that the
+technological advancement can be obtained by different means, that could be achieved by either
+scientists or empirics. However, Aristotle set apart scientists from the empirics: people with a
+high degree of expertise in a specific domain, but who lack any theory to justify their results.
+The empirics can even often achieve outstanding results, but what clearly divides science from

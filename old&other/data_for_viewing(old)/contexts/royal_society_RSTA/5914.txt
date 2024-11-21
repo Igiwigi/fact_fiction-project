@@ -1,0 +1,25 @@
+Tq = dt Ntotal/Naecay: Finally, from Ndecay simulations that terminate at hg,, we have P(hg,) =
+Neecay/Ntotal, since there are Ngecay out of Niotal sample points with F; <hg,. In practice, we
+construct P(hg,) from AMS simulations via (4.2) with a sampling time ét = 1.
+
+The remainder of (4.3) consists of multiplying and dividing by P(io) and then applying the
+previous observations about figure 9c to decompose (4.3) into a factor [Ty, that depends only
+weakly on Re, and 1/P(h), that depends strongly on Re. Furthermore, we approximate P(g) by
+the Fisher-Tippett distribution evaluated at hg. The Re-dependence of fy ~ 1/P(hg) is contained in
+the Re-dependence of the parameters jz, 0 and &. We return to this after discussing the splitting
+case.
+
+In almost all respects the splitting analysis is the same as that of the decay case. The only
+important differences comes from the fact that the score function ¢ for splitting (3.2) is not the
+turbulence fraction F;. However, ¢ and F; are closely related, both in terms of expression (3.2)
+and in terms of the values they take during band splitting in figure 6b. A split is deemed to have
+occurred when ¢(u(f)) reaches hg, from below. Hence, analogously with (4.3), the time scale for
+
+
+splits is related to the survival function of ¢ evaluated at hg,:
+
+_ bt _ 5t ; (44)
+P@>hp,)  Sphs,)
+where S¢ is the survival function for ¢. While one could analyse distributions of the score function
+¢, the turbulence fraction is ubiquitous in this field and the distributions in figures 8 and 9b
+are of general interest. Hence it is preferable to work with these distributions, even though it

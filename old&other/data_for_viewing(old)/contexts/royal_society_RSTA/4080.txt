@@ -1,0 +1,25 @@
+principle, it would also allow industry to scan the entire peptide sequence space for a particular
+functionality and so ensure that they could reliably protect any invention or discovery made
+based on this type of technology.
+
+Such a rosy picture of the future of the field is predicated on current rates of development
+in computing continuing unabated for some time to come (more than 20 years). However, it is
+interesting to contemplate how likely it is that such a future will come to pass, and whether
+or not there may be fundamental barriers to the future development of computing that might
+place limits on this scenario. One such limit has been known since the time of Turing, although
+it was formally stated by Landauer [13]. Landauer’s principle states that certain classes of logical
+operation require a minimum amount energy which is equivalent to kT.In(2). This type of logical
+operation is termed irreversible, and is the basis of all computers in current existence. This
+principle has long been accepted as fact, but was only recently demonstrated experimentally [14].
+
+Much literature has been devoted to how computing devices might be constructed that do not
+generate heat to the same degree as current machines; however, it is not clear that such devices
+can be realized in practice.
+
+Thus, it is interesting to consider what this limit means in terms of current architectures. This
+question was addressed by DeBenedictis [15], who estimated that a supercomputer consuming
+approximately 2 MW of power would at best have a performance of 25 exaflops (equivalent to
+approx. 10'3 flops W~!); currently the most efficient computer on the Green500 list can achieve
+approximately 10!” flops W~1. If we take into account that currently published simulation results
+were probably produced on somewhat older hardware, then it seems reasonable to assume that
+simulations can only increase in scale by a factor of the order of 10*. Such constraints mean that

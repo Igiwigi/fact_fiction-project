@@ -1,0 +1,25 @@
+The goal of quantum communications is to outperform its classical counterpart in a number of iB
+communication primitives such as privacy, secrecy and authentication. Quantum key distribution : =
+(QKD) [3], for example, allows two parties to distill a common key with provable unconditional 8
+security [4], a level of secrecy that is simply not achievable by classical communication, which : o
+must accept computational hardness assumptions, many of which might no longer be valid as : >
+quantum computers become more mature [5]. Furthermore, quantum communications is the : =
+backbone for the quantum Internet [6], a network of new devices that will revolutionize the way : =e
+
+we communicate and perform computational tasks.
+
+Despite the many advances of fibre-optics quantum communications, a real global-scale
+quantum communication network cannot be deployed using only fibre-optics connections. In
+fact, the signal attenuation and the polarization-preservation issues render fibre-optic links quite
+problematic and limit their lengths to a few hundred kilometres [7]. A possible work-around can
+be given by quantum repeaters [8], but the most promising solution to this problem is the use of
+space technologies to develop satellite links [9]. Such channels could potentially lead to a global
+quantum communication network as they could connect any two points on the Earth’s surface
+with reduced propagation losses as compared with terrestrial channels, even in the presence
+of noise [10]. The importance of such satellite quantum links is attested in several continental
+information and communication technology road-maps [11-15].
+
+Recently, several experimental efforts have been realized, demonstrating not only the
+feasibility but also the implementation of satellite-to-ground links for quantum communications
+[16]. The Chinese Academy of Science satellite Micius, named in honour of the Chinese
+philosopher, has implemented fundamental tests in space [17], quantum communication

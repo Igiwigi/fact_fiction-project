@@ -1,0 +1,25 @@
+equation gives
+
+a(x)
+sc(X,s)"
+
+&(X, s)(G2(s) — G1(s)) = 2) or (G2(s) — ¢1(s)) = (A 38)
+
+The right-hand side of the equality (A38) represents the Laplace image of some function,
+where ¢(X,s) is a Laplace transform of any arbitrary function c(X, r). Let us assume that c(X, t) =
+2w(x)./t/z. This function is equal to zero at t=0 and Laplace transform of this function exists.
+Substituting its Laplace transform ¢(X,s) = (1/s,/s)~w(x), into equation (A 38), leads to (g2(s) —
+G1(s)) = Js, but /3 cannot by a Laplace transform of any function (hence, the necessary condition
+is not satisfied). This fact proves that the equality (A 38) is valid only if w(x) =0. Hence, (¢2(s) —
+G1(s)) =0 > G2(s) = G1(s) > ¢1(t) = ¢2(). It means that equation (A 37) has a unique solution.
+
+Application of Laplace transform to equation (A37) leads to the following equation in
+transforms: s¢(X, s)@a(s) = [s®c(X,s — A) — (s — AP e(X, 0)]Is=s+a- Accounting for the condition
+c(X, 0) = 0, we obtain equation sc(X,s)¢,(s) = (s + A)®e(X,s), from where the transform of function
+g a(t) can be readily found, so that @,(s) = (s + A)P /s. Applying it to the inverse Laplace transform
+yields
+
+r(1—B, At) e-4taty8
+
+— ab _ an
+9a= A" 1~ ray ray

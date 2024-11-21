@@ -1,0 +1,25 @@
+
+There are two main forms of the boundary-layer equations, namely, those for a com-
+pressible and those for an incompressible fluid, But in many applications of the latter it
+has been customary to ignore the energy equation, and to solve the mass and momentum
+equations with only velocity as the dependent variable, and it has been found that this
+procedure is adequate for the purpose in view. These applications are the subject of F.D.
+Chapters m and tv. But sometimes, for instance if heat sources are present, a knowledge of
+the temperature is needed, and the existence of a ‘temperature (boundary) layer’ as well
+as a ‘velocity (boundary) layer’ must be recognized and the energy equation used. These
+applications, which are the subject of F.D, Chapter xrv, require an apparently illogical
+system of equations in which the energy equation has been added to the incompressible
+forms of the mass and momentum equations, and in which, (i) the velocity of sound is in-
+finite in spite of the fact that (small) variations of pressure density and temperature are
+permitted and (ii) the physical properties of the fluid (such as viscosity) are constant. The
+underlying rationale of this system and its justification is discussed with the aid of the
+equations in reduced non-dimensional form in § 7.
+
+
+Cope and Hartree Phil. Trans., A, volume 241, plate 1
+
+(Cc)
+
+Ficure 1. Photographs of 0:303 in. bullets in flight showing boundary layer separation.
+Nominal velocity 1700 ft. per sec. Mach number about 1}. Arrows point to approximate
+position of separation. (a) Mark VIIIz. Yaw small. (6) Mark VII. Yaw 10°.

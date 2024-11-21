@@ -1,0 +1,25 @@
+climate. Increased likelihood of a noise-induced transition can come with
+increased fluctuations, consistent with the hypothesis that the BA was basically
+noise-induced [13]. In contrast, the decline in variance during the Younger Dryas
+in the Cariaco basin data could reflect declining fluctuations in freshwater forcing
+of the Atlantic as Northern Hemisphere ice sheets re-stabilized during this cold
+interval. The fact that an abrupt transition still occurred at the end of the
+Younger Dryas, despite declining noise level, may strengthen the case for an
+underlying bifurcation. However, the effect of noise on the likelihood of transitions
+depends on whether noise is multiplied by, or added to, the state variable of a
+system [37].
+
+Overall, the DFA method appears to give the least ambiguous results (table 1).
+However, this may simply reflect the fact that only the sliding window length
+is varied in the DFA method, whereas for the ACF method and the variance
+calculation, filtering bandwidth is also varied, and this tends to cause greater
+variation in the sign of the Kendall trend statistic.
+
+5. Conclusion
+
+From our results, we can offer some general guidelines for analyses aimed at
+detecting the signal of critical slowing down as an early warning of approaching
+bifurcation.
+
+Prior to trying to extract early warning indicators, it is important to consider
+aggregating data where it may be of sufficiently high temporal resolution to be

@@ -1,0 +1,24 @@
+previous calculation. a
+
+Theorem 5.5. Suppose that the inequalities (1.2) for the Frank constants hold. For each pair of constants
+e*,* as in (5.2), there exist a minimizing pair (@,p) of the energy (5.7) in the admissible set (5.16).
+Furthermore, p € Ca(o*, 1/2). The same conclusions hold for the analogous problem in A‘.
+
+
+Proof. Let {px, 9} be a minimizing sequence in A, for the functional (5.11). By the coercivity of
+the functional and the fact that A, is non-empty, together with the Poincaré inequality, it follows
+that this sequence has bounded H! norm. So, it has a subsequence that converges weakly to
+a limit (¢,p) ¢ H'(¢*, 5) x H1(Q) and, so, strongly in L?. Since Weap (5-11) is polyconvex, the
+corresponding energy is weakly lower semicontinuous. Hence Ecap(, €) = infy,y)cA, Ecap(p, 9).
+The absolute continuity of p() is an immediate consequence of the fact that peH ¢*,% Es
+Reversing the change of variables (5.9) the result applies to the energy in the form (5.7). The
+conclusions can be immediately applied to the problem in Af. Indeed, by the properties of the
+minimizing sequences, formulated in vector form, for convenience, we have that V - nV: nf
+and nj- V x nj > f- V x ni, asj > ov, hold. a
+
+Let us now turn to the energy minimization problem under the constraints (2.3).
+
+Corollary 5.6. Suppose that the assumptions of theorem (5.5) hold. Let (pj, Gj) € Ae) be a sequence
+of minimizers for Ecqy in (5.7) with Frank constants (Ki, Ky, K;)} } satisfying (1.2) and such that
+dm)->20 K= oo. Then there is a subsequence Pi 9) € Ac such that Pj =p and Gi =o as
+j — oo where (p®,p™) satisfy V - n° =cos gy oR + sin g® cot ¢ =0. The analogous result holds as

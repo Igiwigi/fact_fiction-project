@@ -1,0 +1,25 @@
+
+
+first group on the right-hand side includes the lag(s) of waterbird abundance used to capture
+historical dynamics. The second group represents current and historical localized streamflow. The
+third group is the streamflow in the entire MDB, to capture possible inter-regional bird migration
+impacts. In equation (3.5), By, F, and Fo are the lag lengths of the ADL specification, noting that
+we investigated several combinations of the lag lengths in our statistical analyses.
+
+B, F, Fo
+E(Bird,,t) = Bro + > yrjBird,s-; + }° or jFlowr+j +) yrjFlowot-j- (3.5)
+jel j=0 j=0
+
+Given the relatively small sample size and the fact that the degrees of freedom decline in the
+lag lengths, we limited the combinations of the model specifications to B;, F;, Fo <2. We chose
+the (set of) appropriate lag lengths using the Bayesian information criterion (BIC) as selection
+criterion. As the waterbird counts can be zero in some years, i.e. the wetland was dry at the
+survey time, a logarithm specification for analysis in abundance trends was not applied because :
+of zero observations. Instead, we used level-level and Poisson regressions to retain all possible :23
+observations in our estimated models (see appendix B). Dx
+
+(d) Ecosystem resilience 1S
+
+Step three of the four-step analyses evaluated the riparian ecosystem of the two rivers, as proxied [3
+by waterbird abundance, using the resilience criteria of resistance and recovery time, both of which :sS
+are well developed and defined in the literature [30]. Resistance measures the proportional :8

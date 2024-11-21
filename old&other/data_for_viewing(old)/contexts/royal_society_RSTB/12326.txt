@@ -1,0 +1,25 @@
+“¢ . number of cells processed in a single experiment); (iv) doublet
+the-art and specific chal lenges for unicellular rates (i.e. fraction of two or more cells encapsulated together),
+euka ryotes and (v) the possibility to obtain phenotypic information to
+further identify and select/filter cells (figure 1c,d). Single-
+cell pipetting with microcapillary tubes, manually or using
+automated devices, is the simplest yet probably the most
+widely used approach to isolating single eukaryotic cells for
+diversity and ecological studies [14-16,36]. Albeit slow and
+tedious, accurate observation of cells under the microscope
+is sometimes essential to find the target cells in complex com-
+munities where only morphological information is available
+for cell identification. For high-throughput separation of
+single cells, fluorescence-activated cell sorting (FACS) systems
+have been the most widely used instruments, both in model
+systems and for studies concerning microbial ecology and
+diversity in the environment [37]. In scRNA-seq applications,
+FACS is used to select specific populations of interest and col-
+lect single-cells in 96- or 384-well plates [38]. FACS can
+simultaneously record multiple parameters for each sorted
+cell and these metadata can be used together with single-
+cell gene expression. FACS-enabled scRNA-seq offers
+
+The last few years have seen tremendous development of
+single-cell RNA sequencing (scRNA-seq) technologies and a
+rapid increase in the number of studies using this method.

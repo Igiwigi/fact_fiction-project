@@ -1,0 +1,25 @@
+
+T . T
+-[ [ ((6e" - 0) eu") drat cep [ [ ([5eu"'*) dxdt. (1.11)
+0 JT? ang o JT ang,
+
+The first hypotheses assert the validity of the Kolmogorov laws for weak solutions. Although
+anticipated to be true (the 4/5-ths law is sometimes referred to as the only ‘exact’ law in
+turbulence), to this day it has not been unconditionally established (see [44,45] for conditional
+validations and figure 2 for empircal evidence). The second hypotheses concern some effective
+alignment properties of the velocity increments with their separation vectors. A detailed
+discussion is deferred to the subsequent section. As stated above, they are slightly stronger
+than hypothesis 2.3 required in the proof, but may be more convenient to verify numerically or in
+experiment. In fact, there has already been direct evidence of the behaviour (1.10) with a ~ 0.03
+
+
+from experiment [38-40] (see extended discussion in remark 2.5). In practice, (1.10) and (1.11)
+need only be checked over the finite range of scales in the inertial range ¢, < ¢ « L. We prove
+
+Theorem 1.2. Let 1 be a weak solution of the Euler equations of class 13(0,T; L3(T*)). Then
+
+(a) if hypotheses 2.1(a) and 2.3(a) hold, then u € L?(0,T; Bo- 9/3. (pay),
+(b) if hypotheses 2.1(b) and 2.3(b) hold, then u € L3(0, T; BS °(T4)),
+
+Theorem 1.2(b) is not very surprising since hypothesis 2.3(b) (nearly) assumes control on [8
+the absolute structure function by the longitudinal. We include it because there is experimental : —

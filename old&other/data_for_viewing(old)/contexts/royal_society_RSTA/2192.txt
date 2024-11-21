@@ -1,0 +1,25 @@
+
+Definition 4.2. A configuration is 4-balanced in R* if there is a 4 x 4 antisymmetric matrix A
+such that, for all j=1...n,
+V;U(q) = —mjA? qj.
+
+Specifically, a configuration is 4-balanced if and only if is the base point of a relative
+equilibrium solution with group velocity given by A in the above definition, i.e. @ = A.
+Another definition introduced in [11] and reproduced in [14] is:
+
+Definition 4.3. A central configuration is an arrangement of the n-point masses whose
+configuration vector satisfies VU(q) + AMq = 0 for some real constant A.
+
+This is clearly a special case of the relative equilibrium condition (4.11), with @* = Aly. In fact,
+as we note below, for @ = (@1,@2) € SO(2)xy x SO(2)zw, we have = diag(—ot, -o, -0, —w%).
+Thus, qo is a central configuration if and only if qo is a relative equilibrium with group velocity
+@ = (,) with —w? =A.
+
+(c) Collinear relative equilibria
+An n-point collinear configuration, for some n > 1, is one satisfying
+qj =Aj40, (4.12)
+
+for some Aj #0 for every j =1,2,...,n, all distinct, and qo € R}, qo £0.
+Recall the relative equilibrium condition (4.11):
+
+Vvj;U(q) = = mje qj for allj=1...n.

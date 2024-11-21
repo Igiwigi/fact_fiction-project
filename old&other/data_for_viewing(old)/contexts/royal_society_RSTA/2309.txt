@@ -1,0 +1,25 @@
+
+To apply the Wiener—-Hopf technique, we proceed in the standard manner by first Fourier
+transforming in the x variable:
+
+‘co .
+G(an=| oye de. (26)
+—00
+Imposing decay as |y| — 00, we find that the x-Fourier transform ®(a,y) of a solution ¢(x,y)
+satisfying the governing equation (2.2) along (—0o, 00) may be written
+
+H(a,y) =sgn(y) O(a, 0+)e 7, (2.7)
+
+where y(a@) = Va? — k’, having used the fact that the scattered field ¢ is anti-symmetric in y. The
+branch cuts are taken to be the rays {a = +k + is: 0 <s < ov} parallel to the imaginary axis. We
+note from the form of this solution (2.7) that
+
+'(a,0+) + y(a)&(a, 0+) =0, (2.8)
+
+where 0! = a This equation relates integral transforms of boundary values, as may be
+
+generically found for separable equations by constructing the global relation [41]. To formulate
+a Wiener-Hopf problem, we view this equation as describing jump problem between analytic
+functions, as described in the next section.
+
+To recover the physical scattered field ¢(x, y) from (a, y), we invert the x-Fourier transform

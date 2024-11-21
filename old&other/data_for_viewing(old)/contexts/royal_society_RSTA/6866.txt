@@ -1,0 +1,25 @@
+The tensor A,,, is thus separated into two subtensors which remain separate so long as the
+group is restricted to pure rotations. An orthogonal transformation of negative determinant,
+however, by changing the sign of the alternating tensor, will interchange these two parts.
+This procedure will have the same effect whatever set of v suffixes is taken from A,,,
+provided that A,,, is alternating in this set. This will be seen if one operates simultaneously
+on two sets of v suffixes. This will involve the square of the alternating tensor. But the
+square of the alternating tensor is a concomitant of the quadratic g’, and can be expressed
+
+
+ON INVARIANT THEORY UNDER RESTRICTED GROUPS 395
+
+in terms of g/, Hence the whole operation can be expressed in terms of A,,, and the tensors
+g! and g,;. In fact the suffixes are first raised by g! and then lowered by gj. The tensor A,,) is
+unaltered.
+
+The case of the symplectic group is similar but rather simpler. The invariant linear complex
+is taken as h,;x7, where x‘ is the Clebsch variable tensor of type {1?}. If this is to be a non-
+singular form there must be an even number of variables. Put n = 2v. The alternating tensor
+is a concomitant of h,;, so that every transformation has determinant +1.
+
+As with the orthogonal group, any suffix of a tensor can be raised or lowered by con-
+tracting with one of the suffixes of 4; or its reciprocal hk. As with the orthogonal group also,
+if A, is alternating in a set of r>v suffixes, these may be contracted with the alternating
+tensor, and the remaining —r suffixes lowered using /,;. Thus every tensor can be expressed
+in terms of tensors of types corresponding to partitions into <p parts.

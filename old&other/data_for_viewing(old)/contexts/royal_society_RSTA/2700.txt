@@ -1,0 +1,25 @@
++I
+
+Equations (3.7) and (3.8) remain coupled at the linear level through the spatial first derivative
+cross terms, corresponding to a dispersion relation given by (3.6). Even with linear stability,
+(3.6) does not allow for a simple decoupling of (3.7) and (3.8) into two linear equations for
+arbitrary qj and q,. We now make further simplifying approximation and set By; =0=B,,
+which implies that the spatial variations of uj along x, direction does not affect the local
+distortion of u, and vice versa. This approximation decouples equations (3.7) and (3.8). The
+individual wave-like terms in (3.7) and (3.8) can be absorbed separately by going to the
+respective comoving frames, which make both (3.7) and (3.8) take the standard form of the
+linear Edward-Wilkinson (EW) equation with quenched disorder [16], that is studied extensively
+in the literature, shows roughening phenomena that is controlled by the quenched disorder.
+Given the fact that linear equations (3.7) and (3.8) are essentially coupled generalizations of
+the standard quenched EW equation, the former equations should also display roughening
+phenomena. In the special limit By =0, uy follows the standard quenched EW equation (after
+removing the B)-term by comoving). The statistical properties of uy are known in this limit [16].
+In this limit, the dynamics of u, as given by (3.8) clearly has uj in it through B,-term.
+The latter contribution may be interpreted as an additional additive noise with a statistics
+determined by the quenched EW equation. This is going to alter the statistics of roughening
+of u, from its EW limit (B, =0). Consider now the general case, in the where none of By
+and B, vanish. In the comoving frame of u,, the B\-term in (3.8) disappears, and the m)-
+fluctuations in this frame are primarily wave-like, leading to make them subdominant to the
+corresponding u, fluctuations. This is expected to make the B,-term in (3.8) irrelevant in a
+scaling sense [17]. This should then restore the standard quenched EW scaling for u, [16]. Similar
+arguments yield the same quenched EW scaling for u)-fluctuations. Overall thus, our discussions

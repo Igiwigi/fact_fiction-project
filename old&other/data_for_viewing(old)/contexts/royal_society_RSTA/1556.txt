@@ -1,0 +1,25 @@
+enhanced property. In the context of image denoising and edge preserving, we can cite the famous
+Perona & Malik process, based on the so-called diffusion equation which rules the heat transfer
+in its anisotropic form [42,43]. Histace & Rousseau have shown that including an optimal noise
+intensity inside the function which provides anisotropy allows one to restore images with better
+visual interest than those obtained with the classical Perona—Malik method [13,44]. Therefore, it
+is not surprising that noise enhanced image processing goes on to be widely investigated.
+
+(b) Image perception
+
+Image perception is another interesting field which has attracted a considerable attention since
+the early days of SR [6,45,46]. In their pioneering work, Simonotto et al. have reported that adding
+an appropriate amount of noise to a subthreshold image can enhance its perception through a
+simple threshold detector [6]. In fact, they have established that the perceptive contrast threshold
+of different subjects can be significantly reduced for an optimal noise level and that shorter
+noise correlation times provided the best enhancement. In their psychophysics experiments, noise
+
+
+was spatially added to the subthreshold image and was not static but rather with temporal
+variations. By including such spatio-temporal random contributions, a basic model of a retina,
+which takes into account the random sampling by photoreceptors and the involuntary eye tremor
+[47], was next introduced and characterized by Zozor et al. [48]. They suggested that before
+encoding information in neurons, fluctuations may interfere in the first layer of the retina to
+acquire information on the whole image scene while tremors could perform an ensemble average.
+However, their study was restricted to the information acquisition by sensors and did not include
+the contribution of fluctuations in the neural process to account for the role of saccades in the

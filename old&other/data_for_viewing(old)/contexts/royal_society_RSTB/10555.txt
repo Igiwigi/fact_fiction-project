@@ -1,0 +1,25 @@
+probabilities between adjacent items are uninformative about
+these groupings, and instead higher level sensitivity to associ-
+ations shared across items is required to learn the groupings.
+This paradigm allows us to explore how higher level learning
+might occur in the model, and in the hippocampus.
+
+Finally, there is a class of learning paradigms, includ-
+ing transitive inference, acquired equivalence, and associative
+inference, that also probe memory for indirect associations
+
+
+(ie. associations not based on directly observed item pairings, but
+rather on the fact that certain pairs share associates). Although
+these paradigms are not considered conventional statistical learn-
+ing paradigms, in that there is no need for segmentation from
+otherwise undifferentiated input, they share the requirement
+for rapid integration across experiences over time and thus may
+tap into the same learning mechanisms as the pair and commu-
+nity structure paradigms above [20]. To explore this possibility,
+we include a simulation of associative inference.
+
+When confronting the hippocampal model with these
+different kinds of structured input, we found that—in addition
+to its role translating between the TSP and EC—the MSP took
+on anew role: it learned and represented the regularities. Both

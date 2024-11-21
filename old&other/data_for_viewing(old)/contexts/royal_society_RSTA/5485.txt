@@ -1,0 +1,25 @@
+asic mechanisms that underlie life on a hierarchy of scales, from proteins to cells to
+issues, organs and systems (see Zhang et al. 2005a; Cheng et al. 2007). Here,
+geometry plays a primary role in determining the behaviour of living components
+and their interactions within living assemblies, at all scales. Moreover, their
+geometric configuration cannot be considered as given a priori; in general, it has to
+ye computed concurrently, taking into account chemical, electrical and mechanical
+interactions. These novel application domains are characterized by a huge size of
+computer models. In particular, novel bioengineering approaches to the challenging
+VPH project require a strict integration of terascale geometric data, multiphysics
+simulation, concurrency-based adaptive behaviour and multiscale functional
+specialization. The massive data size is due to several factors. First of all,
+simulations require cellular decompositions, instead of more compact boundary
+representations. This fact alone accounts for one order of magnitude increase in
+model size. Also, the common factoring of repeated substructures, exploited to a
+great extent by large-scale hierarchical models in computer graphics, cannot be
+benefited from when dealing with large deformations, thus producing an increase of
+several orders of magnitude in the model size. Finally, consider the sheer number
+and complexity of components: there are thousands of atoms in a protein, several
+thousand proteins in a cell, and so on.
+
+Consequently, computational modelling of human biosystems has to face great
+challenges. Our vision is that description languages are not sufficient, and that
+totally new progressive and adaptive methods for terascale geometric modelling are
+needed, combined with novel adaptive methods for multiphysics and multiscale
+simulation, working on parallel and distributed supercomputers. Both symbolic and

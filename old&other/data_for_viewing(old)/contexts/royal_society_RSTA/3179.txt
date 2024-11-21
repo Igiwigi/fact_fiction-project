@@ -1,0 +1,25 @@
+(The generalized Markov problem): Given a natural integer n =1,2,..., (or +00), a commutative
+associative real «-algebra xo with identity, a set T and a family {P(x, y) : x,y € T} of xo-valued n x n
+transition probability matrices, determine under which conditions there exist:
+
+(i) a commutative associative +-algebra « containing (an isomorphic copy of) ko and a a
+Schwinger algebra A with centre «; |
+(ii) for each x € T, a maximal abelian partition of the identity {Ag(x):=1,...,n} in A, such Dp
+that, for each x,y¢T, the bi-stochastic matrix canonically associated with the pair : S
+A(x), A(y) according to theorem 3.10 is P(x, y). =
+
+Remark. The distinction between «9 and « in the above problem may seem a mathematical :8
+
+pedantry. But in fact it has a deep probabilistic and physical meaning. This follows from the :&
+paper [21] where the following very special case was considered: the set T contains only three :S
+elements (observables A, B, C), n = 2 (the observables take only two values), and xo = R (the P(x, y)
+(x,y € {A,B,C} are usual 2 x 2 bi-stochastic matrices). In the language of this paper, the result
+of [21] is that only in very special cases (described in the paper) does the generalized Markov
+problem for the family of bi-stochastic matrices {P(x,y) : x,y € {A, B, C}} have a solution with « =
+R: the generic case requires « = C. In other words, the emergence of complex numbers in quantum
+theory is a necessity, coded into the experimentally measurable transition probabilities and not an
+arbitrary choice. In general, given a family of transition probability matrices P(x, y) with entries
+in xo, if the generalized Markov problem for it has a positive solution, the centre of the associated
+Schwinger algebra will be an abelian extension of ko. The fact that two families of transition
+probability matrices with entries in «9 admit Schwinger algebra models with isomorphic centre
+is an equivalence relation among such families and the common centre « can be considered as a

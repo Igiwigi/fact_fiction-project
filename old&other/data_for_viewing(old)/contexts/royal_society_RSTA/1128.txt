@@ -1,0 +1,25 @@
+guaranteeing the existence of unique solutions to these equations. There are a number of possible
+answers, some of which I hope are more convincing to those naturally sceptical about such things
+than the vague reply that it is unsatisfying not to have a rigorous proof.
+
+— Lack of uniqueness would mean a lack of predictive power, so uniqueness of solutions
+is crucial for a ‘good model’. However, it is also of interest to have a way to check that
+a particular solution is unique, even in the absence of a general uniqueness result, and
+there are ways to do this (see §§5b and 6).
+
+— Without an existence result, what do numerical calculations approximate? Put more
+abstractly, how can one prove the convergence of a numerical scheme without being able
+to guarantee the existence of an underlying solution towards which to converge? (This
+is, in fact, possible under the assumption that a sufficiently smooth solution does exist, see
+Chernyshenko et al. [8].)
+
+— One could hope that a better mathematical understanding of the equations will lead to
+an enhanced physical understanding of the phenomena they model. (It is probably more
+reasonable to expect that a better mathematical understanding will require an enhanced
+physical understanding.)
+
+— Some very natural quantitative bounds on solutions are lacking, e.g. how to estimate the
+maximum value of the velocity in the future given the initial velocity profile. (In fact,
+bounds of this sort would be sufficient to solve the regularity problem, see §6.)
+
+— Theoretical methods to treat this problem should also apply to other PDE models. This

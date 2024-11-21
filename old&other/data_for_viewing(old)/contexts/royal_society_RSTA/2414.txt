@@ -1,0 +1,24 @@
+which can capture delay dynamics operating on hugely different time scales and lead to delay-
+induced switched states. The mathematical studies of these slow—fast systems have relevance for
+optoelectronic experiments.
+
+The remaining seven articles are related to applications where time delay systems are highly
+relevant.
+
+Hart et al. [12] review several interesting experiments and applications, which can be realized
+via optoelectronic oscillators with time-delayed feedback. Examples are reservoir computing
+and the experimental realization of chimera states. The authors show how the spatio-temporal
+representation of time-delay systems can be used for an experimental realization of complex delay
+systems via a single oscillator with delayed feedback and time-multiplexing. The advantage of
+this approach lies in the fact that the complexity of the experimental set-up is manageable and the
+virtual nodes of the network representing independent coupled oscillators are truly identical.
+
+Whereas in optoelectronic oscillators the feedback is realized by a delayed electrical signal that
+is injected into an electro-optic intensity modulator, the work by Lingnau et al. [13] is about the
+
+
+dynamics of a laser subjected to optical feedback. In such systems, an external mirror is used to
+generate an optical feedback with a significant time delay leading to the so-called external cavity
+modes. The authors have analysed the stability and bifurcations of the external cavity modes in
+a class-C laser, compared their results to known results for class-B lasers, and provide optimal
+parameter settings for stabilizing the output.

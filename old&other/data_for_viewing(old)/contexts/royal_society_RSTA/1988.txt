@@ -1,0 +1,25 @@
+where &* and u* are the dimensionless particle and fluid velocities, p the local density, 0* the non- : 2
+dimensional temperature and D the physical space dimension, it can be expanded using a class : zB
+of orthonormal functions, the Hermite polynomials in this case, as [42,43] : a
+Ae) So 1 ea) :=
+e e [=
+2 (&*,0,u*,6*) = w(6") = ay” (p,u*,0*) Hn (8*), 22) 25
+n=0°" :8
+a
+where ‘:’ is the Frobenius inner product, H,(&*) is the Hermite polynomial tensor of order : =
+1s
+n and ae? is the equilibrium coefficient tensor of the corresponding order. This specific : =
+choice of orthonormal functions is motivated by the upcoming Gauss—Hermite quadrature : BS
+(for phase-space discretization) [46] and the fact that the Hermite coefficients are tied to DNS
+physically meaningful moments of the distribution function [42]. The variables &*, u* and 6* : S
+are non-dimensionalized using a reference sound speed (based on a reference temperature and : 3
+
+molecular mass) ,/kgT/imo. While not necessary for the expansion (and then later on truncation
+and quadrature) process, the non-dimensionalization is essential in deriving a stable solver,
+as it controls errors coming from higher-order components (not correctly recovered by the
+approximation due to truncation and limited degrees of freedom in the quadrature).
+
+The Hermite polynomials are defined as [47-49]
+
+Hn (&*) =(-1)" -w (é*), (2.3)
+where the weight function , w(é*), is defined as

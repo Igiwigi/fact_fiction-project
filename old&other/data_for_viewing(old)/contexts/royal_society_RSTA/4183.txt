@@ -1,0 +1,24 @@
+of the edge states such behaviour of an invariant is explicitly forbidden (see, for instance, Ryu &
+Hatsugai [30]). Furthermore, figure 5b shows that the Uhlmann phase behaves in a very non-
+trivial fashion for a range of temperatures also when m > 1, in which case the chemical potential
+is in the non-topological range. We therefore agree with Viyuela et al. [3] when they state that
+the Uhlmann phase ‘does not determine the fate of the edge modes at finite temperature’.
+The UhImann phase was simply designed for a different purpose.
+
+In the spirit of Budich & Diehl [7], we have also looked at a different geometric phase for
+mixed states, one that is sensitive to changes of the multiplicities in the spectra of the states. For
+the interferometric geometric phase, the phase factor is —1 for odd numbers of revolutions in the
+Brillouin zone and +1 for even numbers, no matter what the temperature is. This means that the
+interferometric phase does not detect any phase transition in temperature, but it detects the same
+phase transition as the Berry phase for pure states, i.e. at 1 = 1. In fact, it extends the Berry phase
+to finite temperature in a way that captures the periodicity of the state of the Kitaev chain. For
+p(k) given by equation (3.4), modelling pure states if T=0 and mixed states if T > 0 induces a
+homomorphism between the fundamental groups of the Brillouin zone with endpoints identified
+and the equatorial plane punctured at the maximally mixed state. Both of these groups equal
+the group of integers, Z, and the homomorphism is n — dn where d is the degree of the Bloch
+vector. (Thus, d = 1 if m <1 and d=0 if m > 1.) We can extend this with a second homomorphism
+Z— Zp sending n to ei”. Here Zy denotes the multiplicative group of the two elements +1. The
+composite homomorphism n— e'“”" is the topological invariant given by the Berry phase for
+T =0 and the interferometric phase for T > 0. Observe that the non-periodicity, due to the memory
+effect mentioned above, excludes the possibility of extracting a similar invariant from Uhlmann’s
+geometric phase.

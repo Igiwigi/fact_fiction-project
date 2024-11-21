@@ -1,0 +1,25 @@
+170, 1) and u(1) = 0} where wu’ now denotes a generalized derivative of u, so (4.2) is satisfied by all
+
+
+elements of D(S;). Setting L? = L?(0,1) and
+
+1
+1 2 1
+
+Welle = {| u(x? as} Mulla = Azul lire and |lulle = |Seull2,
+0
+
+(L?, I - llzz), (Ha, Il - lla) and (D(S;), || - ll;) are Hilbert spaces where the embeddings D(S;) C Ha C
+L? are continuous but not compact. In fact, ||u||A is equivalent to ||xu'||,2 on Ha and |jul|, is
+equivalent to the graph norm of S; on D(S;).
+
+By lemmas 3.1 and 3.4 of [5] the assumptions (G) and (N) ensure that the mapping F:R x
+D(S,) > L? defined by F(A, u) = S,;u + N(u) + g(u) — Au is continuous and a solution of problems
+(4.1) and (4.2) is understood to be a pair (A, u) € R x D(S;) such that F(a, u) =0.
+
+The spectrum of S; is particularly simple when rt € [2/(2 + 5),2/(2+2)). By proposition
+4.10 of [6], this implies that o(S;) = {ur} U [},00) where 1; € (0, 4) is the only eigenvalue of
+Sz. It is simple and has an eigenfunction g; with gr(x) > 0 for 0<x <1 and limy_,9 g7(x) = 00.
+The eigenvalue 1; is a strictly increasing function of t and pu; >} as t—>2/(2+2). (For
+t €[2/(2+ 2),1), S; has no eigenvalues and for t € (0,2/(2 + 5zr)), S; has at least two eigenvalues
+in (0, 4), but o¢(S,) = [ 4, 00) for all r € (0, 1).)

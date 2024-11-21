@@ -1,0 +1,24 @@
+the EnhancerFinder enhancer prediction pipeline to the 2649 ncHARs; 773 were cer activity at E11.5 for 24 of 29 (83%) predicted ncHAR
+predicted to be developmental enhancers. Among this set, EnhancerFinder pre- enhancers (see electronic supplementary material, table S4
+dicted 251 brain enhancers, 194 limb enhancers and 39 heart enhancers. (b) We and figure S1). For 17 of these 24, the expression patterns
+compared the predicted fraction of enhancers and tissue-specific enhancers within the major domains of activity (e.g. forebrain, limb),
+between the ncHARs, the genome-wide non-coding background, and a filtered were highly consistent and reproducible. Additionally, 16
+set of non-coding conserved regions (mammalian phastCons elements). The of the 24 tested ncHARs with EnhancerFinder predictions
+NcHARs are dramatically enriched for predicted enhancer, brain enhancer, and of tissue specificity showed enhancer activity in at least one
+limb enhancer activity compared with the genomic background; however, they of the predicted tissues. The negative control showed no con-
+are not significantly different from the non-coding conserved regions. Supporting sistent activity in any tissue. We also note that some
+these predictions, validated ncHAR developmental enhancers (table 2 and elec- enhancer activity was observed for several of the negatives
+tronic supplementary material, table $4) show a strong enrichment for brain (see electronic supplementary material, figure S1), so it is
+activity, though this may reflect biases in how they were selected for experimental possible that consistent patterns would emerge for these
+analysis. The relative lack of heart enhancers may reflect the fact that this tissue sequences if more transgenic embryos were generated at
+follows an earlier developmental trajectory than brain and limb. (Online version E11.5 or other developmental stages. In addition to the elec-
+in colour.) tronic supplementary material, a searchable database of
+images of all transgenic mouse embryos generated in this
+significant for an average of 2.17 TFs between human and study is freely available online at http://lighthouse.ucsf.
+chimpanzee, and 57% of the ncHARs show significant diver- edu/enhancerbrowser/.
+gence for at least one TF (p<0.1). To further characterize
+and prioritize the ncHARs with TFBS divergence between .
+human and chimpanzee, we also manually analysed the (f) Several non-coding human accelerated
+annotations and expression patterns of nearby genes. regions exhibit enhancer activity suggestive of
+human —chimpanzee differences
+(e) Many non-coding human accelerated We tested each candidate ncHAR enhancer using both the

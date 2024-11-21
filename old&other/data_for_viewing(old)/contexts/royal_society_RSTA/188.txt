@@ -1,0 +1,25 @@
+Jf is useful when small loops in the graph stucture are not important.
+
+Phil. Trans. R. Soc. A (2010)
+
+
+1182 D. Sherrington
+
+also believed to characterize the behaviour self-induced disorder in structural
+glasses.
+
+4. Neural networks and proteins
+
+Multi-valley landscapes are not always a nuisance—in fact, they can be very
+valuable. A good example is found in Hopfield’s (1982) simple model for biological
+neural networks where the valleys provide storage for memories and where
+dynamics within the valleys represents memory retrieval. In this model, one
+imagines the ‘brain’ as made up of a very large number of neurons, firing to
+different degrees, connected by a large number of ‘synapses’, both excitatory
+and inhibitory, the former such that a firing efferent neuron tends to make the
+afferent neuron fire, and the latter such that a firing efferent neuron tends to
+reduce the firing of the afferent neuron. If the synapses are symmetric, the
+collective dynamics of the neurons can be envisaged as dominantly downward
+motion on a high-dimensional landscape whose structure is determined by
+the collection of synapses. Many valleys allow for many memories, a clear
+requisite for a useful brain, and many valleys require frustration. That these

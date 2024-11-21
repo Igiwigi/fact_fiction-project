@@ -1,0 +1,25 @@
+constraints, such as top of atmosphere radiative balance [28]. The issue of the stability of ANNs
+when integrated into a coupled system is also under active study at the moment (e.g. [69]).
+The question of whether tightly coupled subsystems should be jointly or separately learned still
+remains an open question.
+
+5. Climbing down the ladder: prospects for ML-based Earth system models
+
+We have highlighted in this article a historical progression in Earth system modelling, which we
+describe here as the addition of detail to our models, in the form of resolution and complexity.
+While this has resulted in tremendous leaps in understanding, there have been some aspects
+where we have failed to advance for decades. In most accounts, this can be traced to failures in
+representation of the form of sub-gridscale phenomena such as clouds. The solution may come
+when we in fact no longer need to seek representations, as we shall be resolving such phenomena
+directly. We have noted possible setbacks to this approach given physical limits on computing
+technology.
+
+We have gazed into the computational abyss before us, and seen how ML may offer ways to
+adapt to what today’s machines do best, which is statistical ML. It is a transition in our approach
+to predicting the Earth system that is potentially as far-reaching as that of von Neumann and
+Charney, algorithms that learn rather than do what they are told. How this will unfold is yet to
+be seen.
+
+
+At first glance, it may appear as though we are turning our backs on the von Neumann
+revolution, going back from physics to simply seeking and following patterns in data. While such

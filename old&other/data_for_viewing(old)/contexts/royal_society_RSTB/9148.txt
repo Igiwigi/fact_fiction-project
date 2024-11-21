@@ -1,0 +1,24 @@
+but are unable to address the spatial and phylogenetic covariance
+(see the electronic supplementary material, figures S2 and S3, and
+below). The main problem in generating an output from the model
+is that a fitted/predicted value is a point estimate and does not
+account for the statistical uncertainty in our estimates. To incorpor-
+ate uncertainty, after the analysis, we converted our predictions of
+IUCN status into probabilities of threat. Previous analyses have
+taken a similar approach in the analysis of threat status, but instead
+converting the threat to a binary variable before the regression
+analysis [17]. This has the disadvantage that information on the
+ordinal nature of the IUCN scale is ignored. Our analysis, however,
+retained the continuous information in the model fitting: for
+example, we account for the fact that a species classified as cat-
+egory 5 (Critically Endangered) is more at risk than a species in
+category 3 (Vulnerable).
+
+To produce these threat probabilities, we calculated the prob-
+ability that each species was threatened or not from the
+predictions of IUCN status. This was simply done by calculating
+
+pred 95
+pinteatened _ z(# : ) (2.1)
+
+oj

@@ -1,0 +1,25 @@
+automatically gives an objective structure [38] with the correspondence being that given by the
+action of G on 92’. (That is, suitably oriented observers stationed at x and g(x) see the same atomic
+environment, assuming of course that the helix is extended to infinity so there are no ends.) By
+construction, the deformed configuration is also an objective structure: replace G by H and Q’ by
+y(2’).
+
+The analogy can be pushed one step further, as described in [39,40]. If one sets up a molecular
+dynamics simulation (with very general classes of atomic forces) for the atoms in y(Q’) but
+determines the image atoms using the group H, just as above, so only the atoms in y(’) are
+actually simulated, but forces on these from all the other atoms are accounted for, then it follows
+
+that all the atoms satisfy exactly the equations of molecular dynamics. This is a special case of : &
+the method of objective molecular dynamics (OMD [39,40]). In fact, a certain time dependence Dos
+of the group parameter cj, can be introduced [39], which leads to exact molecular dynamics for : =
+every atom, but which also includes a macroscopic motion. For the case shown in figure 6, this : yy
+method could be used to study stress-induced transformation due to pulling the helix vertically 2
+at a constant (assignable) axial strain rate. We note that this analogue between continuum-level : S
+free-energy minimizers and exact solutions of the equations of molecular dynamics is sufficiently 22
+flexible to allow for phenomena such as surface relaxation in either the continuum or atomistic a]
+theory. Using atomic forces appropriate to a transforming material, it would be interesting to set : =
+up some computations of this type at small scales. A direct comparison between the results of : g
+atomic and continuum theory could then be made. 8s
+
+The analogy between atomic and continuum level is nearly perfect for these solutions, except
+for one curiosity. That is, the atomic-level solutions of OMD allow all possible discrete groups

@@ -1,0 +1,25 @@
+device.
+
+The toroidal current makes the magnetic field wind round the plasma, because of Stokes’
+theorem. Namely, the current density J is curl B (in units where the magnetic permeability 19 = 1),
+so the current I(D) through a poloidal disc satisfies
+
+10)=| J-ds= -dl. (2.1)
+
+‘Poloidal’ means in a plane perpendicular to the direction of axisymmetry. Thus if there is a net
+toroidal current then the magnetic field has a net poloidal component.
+
+By axisymmetry and volume preservation, the magnetic field lines lie on axisymmetric
+surfaces called flux surfaces, and because of the toroidal current these surfaces are closed, in fact
+tori. Furthermore, the magnetic field line flow on them is conjugate to a rotation. For flux surfaces
+with irrational winding, the time-averaged first-order drift of a circulating charged particle across
+flux surfaces is zero.
+
+Next, to drive a steady toroidal current against plasma resistivity requires! a steady toroidal
+electric field E. Yet Faraday’s equation is
+
+,
+
+0B
+1E=-—. 2.2
+cur IE (2.2)

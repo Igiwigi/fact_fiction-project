@@ -1,0 +1,25 @@
+The two-dimensional harmonic oscillator is separable in Cartesian coordinates, as the quantum
+Hamiltonian H = 1eP+A) ) commutes with the Hamiltonian in x, Ay = 3(P2 + @). Therefore,
+there are eigenfunctions of H which factorize into functions of x and y (each one-dimensional
+harmonic oscillator eigenfunctions), and of course these are the HG modes, for which (with our :
+choice of dimensionless constants) AyHGin = (m+ )HGnin, AyHGin =(n+ 3)HGnn. Thus, [=
+
+AG = (Ay + Ay)HG pm = (1 +11 + 1G = (N + HG, 3
+
+so the mode order N corresponds to the quantum harmonic oscillator’s principal quantum ae
+number, and the quantum energy eigenvalue N +1 is related to the total Gouy phase on fo
+propagation [8]. :4
+
+In fact, we can consider the operator analogue of the classical quantity M, Dy
+
+M=Ay - Ay=}@2+% - 7, -%)- By is
+
+The commutator [M, A] =0 (as we could have anticipated from the Poisson brackets of the
+classical observables), and so there is a mode set of simultaneous eigenfunctions of Mand H—
+this is the HG modes. In fact, MHGmnn = (im — n)HGnn: the spectrum of yM consists of integers
+—N,-—-N + 2,...,N; this ladder spectrum resembles that of an angular momentum operator (with
+an extra factor of 2), originating from isomorphism of the underlying su(2) Poisson algebras. Here
+Mis the difference of two Hamiltonians, distinguishing a set of Cartesian axes (up to a rotation
+by 180°), but no sense of linear or angular momentum associated with it.
+
+The LG modes are of course eigenfunctions of angular momentum, with L= AxPy — dyPx = id9,

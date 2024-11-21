@@ -1,0 +1,25 @@
+
+The results in figure 6 assume a uniform rainfall across both rural and urban catchments.
+Given the flashiness of the urban response, this assumption has a large bearing on the extent
+of subsequent surcharging of the drainage network. Differing storm tracks will alter the relative
+timing of the two responses, potentially creating wider (or reduced) surface flooding. Evaluation
+over a wider range of storm scenarios would provide a more detailed understanding of the
+mitigating effects of the selected NFM interventions.
+
+All of these findings must be tempered by significant sources of error in the modelling.
+Uncertainty in distributed hydrological modelling generally has been extensively discussed in
+the literature [57-60]. In addition, although the calibration procedure produced a reasonable fit
+with observed flows and has academic precedent, it is a highly idealized approach. Another
+significant source of uncertainty comes from the fact the evidence behind the impact of physical
+NFM remains inconclusive. Any numerical replication of intervention impact is therefore subject
+to significant error (in terms of both magnitude and parameterization). Although representation
+of the interventions used in this study has been informed by the literature (table 1), extrapolation
+of their impact within the Asker catchment introduces further uncertainty.
+
+Further study would benefit from sensitivity analyses of these numerical permutations
+to improve confidence in their downstream impact. Another source of error is the loose-
+coupling mechanisms between the three constituent models: dynamic TOPMODEL, HEC-RAS
+and Infoworks ICM, which prevents any feedback between systems. Inputs into the river channel
+model from the hydrological model are independent of the level in the receiving watercourse.
+The 2D HEC-RAS model itself has been based on a 5m DEM (in the absence of sufficient river
+section data) and while this has enabled representation of woody debris across the catchment,

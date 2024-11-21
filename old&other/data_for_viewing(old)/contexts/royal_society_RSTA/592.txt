@@ -1,0 +1,25 @@
+calibrating the nonlinear terms of the model.
+
+The procedure adopted for the calibration of the model, and in particular obtaining the
+supply and demand functions, is based on the assumption that all the information about
+the behaviour of the commodities is contained in the observed market prices. This is quite unlike
+the procedure adopted in [3], where a large collection of macroeconomic data such as interest
+rates, unemployment, inflation and so on was required to estimate the supply and demand
+function. The approach adopted is also quite distinct from the auto-regression moving average
+(ARMA) [8].
+
+In the statistical microeconomics approach [1], an action functional (as well as the Lagrangian)—
+consisting of the sum of a kinetic and a potential term—is postulated to exist in the market.
+The most important result of [2] is that an action functional does in fact exist in the market; the
+existence of the action functional for multiple commodities has been empirically verified in [4].
+Hence, for both single and multiple commodities, the formulation of statistical microeconomics
+finds clear support from market prices. The microeconomic Lagrangian provides a self-contained
+and comprehensive framework for the study of microeconomics. In particular, one can now
+investigate what are the underlying theoretical principles of microeconomics that would give
+rise to an action functional formulation of statistical microeconomics.
+
+Competing interests. The author declares that he has no competing interests.
+
+Funding. We received no funding for this study.
+
+Acknowledgements. I thank Xin Du and Yu Miao for our collaboration and for many useful discussions. I also

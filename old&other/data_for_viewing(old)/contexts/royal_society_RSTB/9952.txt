@@ -1,0 +1,25 @@
+Figure 8. Inferred phylogenetic affinities of fossils. Despite the plasticity in the morphological data and/or the imperfection of our models of morphological evol-
+ution, the placements of fossils suggested by total-evidence analyses largely agree with the views expressed by palaeontologists (see text for more detailed
+discussion). Results are shown for the model assuming rapid diversification, but fossil placements were similar for other informative priors on the diversification
+and fossil sampling processes.
+
+uncorrelated relaxed clock model even though there is much independently, and failure to account for this is likely to
+to suggest that a significant component of rate variation lead to errors in phylogenetic inference akin to the effect of
+across lineages is constrained by long-term autocorrelation, long-branch attraction. The symptoms may include erroneous
+and failure to accommodate for this is likely to bias inferred or overconfident topological inference, as well as excessively
+divergence times. Separately, we explore more sophisticated precise and biased branch length estimates, both of which
+models of rate variation that account for both long-term may be problematic in TED. The grouping of ecologically
+and short-term rate variation and their effects on dating the similar but unrelated forms in the phenomic tree
+placental radiation [33]. Analyses under such models suggest (figure 1c), and the fact that some fossil placements seem to
+that the naive uncorrelated model used in this paper does not put undue weight on highly correlated dental features
+fully recognize the rapid evolutionary rate of rodents, pre- (figure 8), could both be explained as artefacts in our analyses
+sumably owing to their small body size and therefore short caused by an inappropriate assumption of evolutionary
+generation time, which is strongly phylogenetically con- independence among morphological characters.
+strained. The effect is that the current analysis probably Accounting for interdependence among morphological
+overestimates the age of crown rodents, so that the conclusion characters is challenging, but such work will definitely be
+that they predate the K-Pg event may be erroneous [34]. worthwhile given the importance of realistic models of mor-
+Another significant source of error in current stochastic phological evolution for accurate dating of phylogenies with
+models of morphological evolution is the assumption that fossils. Denser taxon sampling, especially of fossils, might
+characters evolve independently of each other. In reality, help to some extent but to really solve the problem we need
+morphological evolution is likely to be strongly constrained to get at the correlation structure itself, either by inferring it
+by various types of character dependencies. When single or by modelling it in the prior. Methods for learning the corre-

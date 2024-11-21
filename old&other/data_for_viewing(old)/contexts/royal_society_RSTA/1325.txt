@@ -1,0 +1,25 @@
+Accepted: 12 December 2020 sources into existing power systems induces
+challenges in supply-demand balancing. Demand-
+side flexibility is seen as an option to accommodate
+variability and limited predictability from renewable
+energy generation. Heat pumps at residential
+level, if well coordinated, can be one of those
+
+One contribution of 11 to a theme issue ‘The
+mathematics of energy systems.
+
+Subject Areas: flexibility sources. The complexity involved is high
+power and energy systems, game theory though, since their coordinated operation combines
+control, population effects and the fact agents may
+Keywords: actually not behave as rational decision-makers. We
+model predictive control, aggregative games, describe here a coordinated control framework that
+bounded rationality, distributed energy accounts for those aspects altogether. Decentralized
+model predictive control for large populations of
+resources .
+heterogeneous agents is employed. As the cost to be
+minimized is affected by the population behaviour as
+Author for correspondence: a whole through the electricity price, the decentralized
+Pierre Pinson control is re-thought as a mean-field game. Existence
+e-mail: ppin@dtu.dk and uniqueness of a Nash equilibrium are discussed
+
+while the Picard—Banach algorithm is used as a

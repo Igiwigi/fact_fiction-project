@@ -1,0 +1,25 @@
+First, if there is an input error E with wt(E)=1 and no faults during the EC rounds, then all
+three rounds will report the syndrome s(E) and the error will be corrected. Now suppose there
+are no input errors but a single fault occurs during the EC. If the fault occurs during the first
+round, then rounds two and three will produce the same syndrome and the resulting error will
+be corrected. If the fault occurs during the third round, then the first two rounds will yield a
+trivial syndrome and no correction will be applied. However, the output error must then be a
+correctable error. Thus ideally decoding the output would result in the input state. Now if the
+fault occurs during the second round, then all three syndromes could be different (depending
+at which time step the error occurred). There is also the possibility that sz =s3. In both cases, a
+correction corresponding to s3 would be applied removing all errors on the data. Hence, the first
+criterion will be satisfied.
+
+Lastly, we need to show that the second criterion is satisfied. In fact, we modify the second
+criterion and demand that the output state differs from a valid codeword by an error which is
+correctable by our ideal decoder (the ideal decoder is our Look-Up Table Decoder assuming no
+further errors). As discussed, this could be an error of weight-2. This modification does not alter
+the use of this condition in deriving fault tolerance [27].
+
+In what follows, we will consider the case where the input error E has arbitrary weight. If
+there are no faults during the EC, then all three syndromes will be equal to s(E). Hence applying
+a correction E’ based on this syndrome will always project the code back to the code space
+(ie. EE’ € N(S)). Now suppose there is a single fault during the first round of the EC. Then
+the syndromes sj) =s3 will be the syndromes for the combined error E and the resulting
+errors from the single fault during the first round. Thus correcting using s2 will always project
+the code back to the code space. If the fault occurs during the second round, then, as in the

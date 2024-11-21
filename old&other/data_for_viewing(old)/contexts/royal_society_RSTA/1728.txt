@@ -1,0 +1,25 @@
+
+Theorem 2.6. Let n> 2, 1 <p <oo and assume that 2 C R" is a standard domain of class C3. Then
+the Stokes operator defined by
+
+Apt:=PAu, D(Ap):= W??(2) 0 Wa? (2) NLE (2), (2.6)
+
+generates a bounded analytic Cy-semigroup Tp on LE (@) and
+
+(a) o(Ap) = (—00, 0] if 2 is R", RY or an exterior domain,
+(b) o(Ap) C (—00, —«] for some k =K(@2) > 0 provided 2 is bounded,
+
+The above Theorem 2.6 goes back to several authors, who proved various assertions of the
+above theorem by different methods. In fact, maximal L?-regularity estimates for the Stokes
+equation (1.1) due to Solonnikov, see [33,36], imply, in particular, the existence and analyticity
+of the Stokes semigroup Tp on L5.(@). A very different proof for the case of bounded domains
+with smooth boundaries was given by Giga [37]. His approach is based on Seeley’s theory on
+pseudo-differential operators rather than on localization methods. For other approaches, we refer
+to the work of Grubb & Solonnikov [38], Farwig & Sohr [39], Maremonti & Solonnikov [40] and
+Geissert et al. [41]. Borchers & Sohr [42] and Borchers & Varnhorn [43] were the first to prove
+that the Stokes semigroup on exterior domains is uniformly bounded. The fact that the Stokes
+semigroup on exterior domains is a bounded analytic semigroup is due to Giga & Sohr [44]. The
+case n = 2 goes back to Abels [45], who was in particular able to treat the case of small resolvent
+parameters. For the case of domains with non compact boundaries, we refer to §2e.
+
+There are very many more results in the literature concerning the Stokes operator related, e.g.

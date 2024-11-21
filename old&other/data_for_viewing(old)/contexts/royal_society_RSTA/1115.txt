@@ -1,0 +1,25 @@
+in the coupling functions may require further extension of the present approach. : =
+Finally, we conclude the paper with a brief discussion of how our method’s performance 8
+compares to the performance of other methods that reconstruct coupling functions in oscillatory : o
+systems. Unfortunately, such comparison is not simple to make, since various available methods in
+depart from very different hypotheses and knowledge about the system. Stronger hypotheses : §
+lead to better inferences, but the information on whether the hypotheses are met is not always : Ss
+iG
+
+available. This renders any independent comparison of reconstruction methods difficult. One
+could argue that methods aimed at only network topology are more useful and precise, but such
+methods neglect the entire dynamical nature of many real networks. On the other hand, certain
+methods give excellent results, but are limited to dynamical systems with specific properties. In
+fact, our method belongs to this category, since it assumes the limit cycle nature of the individual
+units. Furthermore, methods can be divided into invasive ones (that interfere with system’s
+ongoing dynamics) and non-invasive ones (that do not). Again, their real merits are hard to
+compare, since invasive methods, although often non practical, will almost always give better
+results. Therefore, we here conclude that our reconstruction concept, although limited by the
+assumption of limit cycles, is a promising—and above all practical—approach implementable in
+real experiments.
+
+Data accessibility. Experimental data generated from electric circuit are available in Dryad dataset
+(https: / /doi.org/10.5061 /dryad.z34tmpg80).
+
+Authors’ contributions. LT.T. designed the study and performed the numerical simulations and the data analysis.
+KL carried out the circuit experiments. LT.T. and Z.L. wrote the manuscript. All authors read and approved

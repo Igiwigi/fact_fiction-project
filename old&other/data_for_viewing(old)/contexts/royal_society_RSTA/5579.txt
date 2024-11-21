@@ -1,0 +1,24 @@
+a) Limitations of the study
+
+The frameworks presented some limitations. First, rhythm-based cardiac abnormalities were
+not properly handled by our methodology. Given the fact that an altered rhythm may or may
+not affect the regularity of the occurrence of any waves, it was not possible to define the one-
+to-one match between the cardiac abnormality and a specific ECG wave. For example, Brady
+
+bradycardia), one of the class detected correctly by the network (recall of 0.53), refers to a
+
+
+very low heart rate. Typically, heart-rate alterations are quantified looking at the time intervals
+between consecutive R peaks because of their ease of detection. However, the frameworks found
+the P-wave very important for this class (figure 2a). Given the fact that the P-wave does not
+change during bradycardia, the assessment of the low heart rate might have been performed
+by the network ‘looking’ at the rate of both P-wave and QRS complex. Similarly, the frameworks
+found the T-wave relevant for the detection of AF (atrial fibrillation), which is characterized by the
+absence of the P-wave, an oscillatory pattern on the ECG baseline and irregular heart rate. In this
+case, the frameworks hint that the network may use samples between consecutive beats where the
+T-wave, the isoelectric line, and part of the P-wave are located to detect AF. The same observation
+is shared by the work of Mousavi et al. [19], where an attention mechanism was used to show that
+the network relied on samples between consecutive beats to detect AF. Thirdly, PVC (premature
+ventricular contraction) have a morphology which is largely different from a normal sinus beat.
+Therefore, considering the portion of the ECG where the P, QRS and T-waves are usually located
+was not relevant (the different ECG waves had a similar low RV value).

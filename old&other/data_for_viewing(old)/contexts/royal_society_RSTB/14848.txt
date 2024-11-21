@@ -1,0 +1,25 @@
+the subset of front-facing images, for a total of 420 instances
+(140 images per each category: happiness, neutral and sadness).
+
+expressions from the KDEF dataset (see the electronic supplementary
+material for details). Z-scores of blood oxygen level-dependent beta in
+the SC for the experimental conditions were compared with robust
+Bayesian parameter estimation (RBPE) to yield the complete distri-
+bution of parameter values and estimate the posterior probability
+
+(iii) Spontaneous emergence of spatial frequency tuning and that these activities are credibly different [98].
+
+orientation sensitivity
+Here, we exploited the fact that the M, P and K pathways engage (v) Other sources of image perturbation
+the SC differentially compared to V1 and ventral stream cortices. It is commonly held that biological vision exhibits robustness and
+Consequently, SC’s responses are tuned to different ranges of generalizability that is lacking in artificial neural networks. For
+spatial frequencies and orientation discriminations that preferen- example, image perturbation with the addition of uniform noise or
+tially reflect the M pathway properties. In comparison, the salt-and-pepper (S&P) noise affects object recognition in an artificial
+geniculo-striate system has a more balanced contribution from neural network far more than in human observers [99,100]. However,
+M and P pathways and can, therefore, process more efficiently there is no evidence on how these types of image perturbations inter-
+visual features analysed by either channel. If the retino-SC net- fere with the encoding properties of a network designed to reproduce
+work is analogous to the real brain, then it should exhibit the the architecture of the retino-collicular system.
+same tuning properties, while differing from those displayed To explore these dimensions, the pattern of response in the
+by DNNs that mimic the geniculo-striate system [90-92]. DNN model was also tested with controlled image noise. The
+
+First, we analysed whether selective tuning to LSF and reduced KDEF dataset was processed using a varied set of additive

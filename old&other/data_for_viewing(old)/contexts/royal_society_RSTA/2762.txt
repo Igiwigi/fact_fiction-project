@@ -1,0 +1,25 @@
+with it. This is illustrated by the capacitor discharge via digital switching logic. Here our typical
+speeds are sub-Gigahertz. These two forms are orthogonal but can work together, for example in
+a nested way, like the second and minute hands of the clock. We could combine the TL discharge
+(step-wise discretization of an exponential—inner loop) with a logic circuit switching (step-wise
+discretization of hyperbolic discharge—outer loop).
+
+This is a conjecture with which I conclude this paper. It is based on the stepwise process of
+TL models of capacitors by Ivor Catt and his associates and our stepwise processes with a ring
+oscillator discharging a capacitor, even a lumped one. These are two orthogonal discretization
+operators. The study of their superposition is a subject of our future work. This will open up
+some new dimensions for energy-modulated computing!
+
+Besides, a potentially useful result of this paper in terms of modelling is the fact that Petri
+net unfolding can be interpreted as a waveform of signals whose states are associated with some
+places in the net.
+
+Data accessibility. This article has no additional data.
+Competing interests. I declare I have no competing interests.
+Funding. I received no funding for this study.
+
+
+Acknowledgements. I am grateful to Dr Christopher Donaghy-Spargo of Durham University for numerous
+stimulating interactions on the life and work of Oliver Heaviside and our regular chats about
+electromagnetism. I would also like to thank Mr Ivor Catt and Dr David Walton for opening the world of
+electromagnetics to me in 2013 through the prism of Catt Theory. I am also indebted to my research group at

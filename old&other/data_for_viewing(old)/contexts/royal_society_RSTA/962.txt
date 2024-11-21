@@ -1,0 +1,25 @@
+Lagrangian (real-analytic) sections of the Lagrangian fibrations x : T? x B—> Band z :T? x B= B,
+respectively. As the sections N and N can be naturally identified with the bases B and B, the
+map ¢:B— B induces a natural map between N and N which we denote by the same letter
+@:NON. For any point yeT x B, we can find (not uniquely!) (t;(y), to(y)) € R? such that
+x=olhW2)(y) € N. Consider the map ® : T? x B > T? x B defined by
+
+Hy) = G4) bh) (x), where x = ohVLWy) EN.
+
+Corollary 6.5. The map ©® is well defined and is a fibrewise real-analytic diffeomorphism satisfying
+&*(2)=2
+
+
+Proof. The fact that ® is well defined (i.e. does not depend on the choice of (t,t2) € R? with El
+the property o""2)(y) € N) follows from lemma 6.4. To show that @ is a symplectomorphism, i.e.
+*(2) = 2, we note that the position of each point y € T? x B is defined by the values of H, F “3
+(which can be understood as coordinates on B) and fy, t2 (which can be understood as coordinates :
+on the torus T? with the ‘origin’ (0,0) located on N). These four functions define a canonical
+coordinate system, i.e.
+
+2Q=dH A dt +dF A dt.
+
+A similar canonical coordinate system AF, t,, fy can be defined on T? xB by using the action &
+and the Lagrangian section N. It remains to note that our map @ in these coordinate systems, by
+
+construction, takes the form H =H, F =F, t} =t, bb =to. a

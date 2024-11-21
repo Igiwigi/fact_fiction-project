@@ -1,0 +1,25 @@
+exchanging the coupling forces through a thin shell surrounding the structures. The use of
+a shell is advantageous (i) to resolve or parametrize the physical phenomena taking place at
+the fluid-structure interfaces and (ii) to reduce the computational cost particularly when large
+structures (or a large number of small structures) are investigated. Importantly, the IS method
+works with both structured and unstructured meshes, non-coinciding fluid and solid meshes, and
+different discretization schemes for the fluid- and structural-dynamics equations. This versatility
+is attractive for many engineering disciplines, including offshore wind energy. For example,
+the study of wave-structure interactions requires high-order representations of the velocity and
+pressure fields, in order to accurately model wave propagation over several wavelengths. This
+study shows that the method provides accurate results on a series of benchmarked test cases.
+The present analysis is limited to relatively low Reynolds numbers because of the absence of
+a turbulence model and the high computational cost associated with the present simulations.
+The simulation cost is due to the fact that none of the structural-dynamics models and the
+coupling algorithm are currently parallelized. However, the use of a thin shell surrounding the
+structure is very attractive to tackle high Reynolds numbers flows, for which boundary-layer
+resolution is critical. Future research will focus on improving the representation of physical
+phenomena in the IS to tackle the aero- and hydrodynamics of offshore wind turbines. In this
+context, several challenges are foreseen. As this study showed, the shell has to be sufficiently
+thin to get accurate numerical results. For slender structures, such as wind turbine blades, or
+complex geometries in general, having a very thin shell around the structure can be numerically
+challenging. Additionally, the implementation of a wall-layer model to reproduce the dynamics
+of high Reynolds number flows near the fluid-structure interface is non-trivial. The case of
+
+
+wind turbines is particularly challenging, owing to their high rotational speeds, and the complex

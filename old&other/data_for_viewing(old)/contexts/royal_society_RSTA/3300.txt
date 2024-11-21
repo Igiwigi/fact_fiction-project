@@ -1,0 +1,24 @@
+
+i.e. the process becomes non-Markovian as the transition probabilities at t do not depend only on
+t but also on t — fo. This will imply that the transition rate W(C,,, Cy,, t) will become dependent also a
+on the time interval fo, ie. W(Cy,Cy,, t, fo). If one considers not only a single time interval to but [=
+a number of time intervals, f/ = nto, one should write the transition rate in more general terms. : 8
+Formally, equation (2.6) should then be replaced by : —
+
+PCB) _ 3 { W(Cni, Cnt — t')P(Cn,, t’) at! — yf W(Cn, Cn; t — ')P(Cn, t’) at! (3.3) oS
+a) Jo nie ny nis 0 ny Onis ny : . 4
+i i :
+In equations (3.3), we have taken the integration limits from 0 to t, because we assume that the :3
+process begins at t = 0. An alternative extreme possibility which is also often adopted would have :$
+been to assume that the process began at t = —oo. Since, in fact, the relaxation times are relatively :
+short compared to macroscopic observation times, these different expressions are essentially
+equivalent.
+The corresponding transition kernels W(C),,Cy,t — t’) and W(Cy, Cy, t — t’) may have different
+forms, depending on the various pathways for relaxation to local thermodynamic equilibrium [16,
+20]. The simplest exponential form in t — t’,
+
+t-t
+W(Cni, Cn, t = #) = ty | Wo(Cnir Cn) EXP [-' ‘|,
+n
+
+leads from the master equation (3.3) to the second-order non-Markovian master equation

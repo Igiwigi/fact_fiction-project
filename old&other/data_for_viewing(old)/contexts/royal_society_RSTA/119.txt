@@ -1,0 +1,24 @@
+of mass of the particles. Here, it can be observed that long chains of high interaction force are : =
+formed for the rigid particles. When the particles become softer, the interaction force between [3
+particles is more homogeneously spread, and the long force chains become patches where the :2
+increase of the particle interaction force occurs more gradually. 8
+Figure 6 shows both the mean particle-particle interaction force, and the standard deviation if
+
+of this force. In the beginning of the simulation, the average interaction force is largest for : S
+stiffer particles, causing a faster relaxation towards an ordered packing. In agreement with the : Ss
+observations made so far, the standard deviation of the interaction force indeed increases when : S
+the particles become stiffer, where the perfectly rigid particles have the largest standard deviation. 1S
+
+At the end of our simulations, the ratio of the standard deviation and the mean of the
+interaction force is lower for softer particles. This fact confirms the picture that in the rigid particle
+system narrow chains with a relatively high interaction force span the whole system, while the
+particles in between these chains have a relatively low interaction force. Adding softness to the
+particles allows them to dissipate more efficiently such strong forces, as suggested by their smaller
+standard deviation.
+
+When comparing figures 5 and 3, it becomes apparent that these force chains are located
+mainly in between the regions with hexagonally packed particles. This agrees with the expectation
+that our system relaxes towards a homogeneous, ordered system, where the presence of defects
+increases its energy.
+
+4, Evaporation rate of soft particle suspensions

@@ -1,0 +1,25 @@
+have shown previously [34]. Furthermore, the density matrix is written for a two-level system,
+such that population inversion is not possible and Rabi cycling would occur, if increasingly
+higher orders are included from the cumulant expansion. In practice, the magnitude of Franc!
+Condon motion relative to optical bandwidths results in an effective four-level system for most
+systems under study, such that laser rate equations can be used to calculate the pumped system
+populations. Nevertheless, the results show that with appropriate high field correction, such
+calculations still provide a useful and intuitive estimate of the ground state coherence. The
+ground state coherence is impulsive and in the direction of the nuclear binding force, which
+determines the phase for a given carrier frequency and natural frequency. By contrast, the excited
+state coherence is considered to be non-impulse and is purely displacement driven. A typical
+situation considers the on-resonance excitation with a femtosecond pulse and laser spectrum that
+is narrower than the absorption line width. In this case, the total coherence, comprising of position
+and impulse, could, in fact, be minimized. With off-resonance excitation, the resulting ground
+state coherence could be multiple times the minimized value. This demonstrates that position,
+impulse and phase can be controlled by the carrier frequency, laser pulse power and electronic
+lifetime and dephasing properties [34].
+
+An experiment could be proposed to manipulate the ground state nuclear coherence on
+ultrafast time scale in a controlled manner, based on the analysis and calculation using line-shape
+theory. Firstly, a pulse intensity, duration and laser spectrum is selected that is appropriate to
+generate low-frequency vibrational coherence within the dephasing time as well as a significant
+hole-burning amplitude. Using the high-intensity approximation equations [34], calculation of
+the spectral hole that is generated with pulses that are either below or above resonance conditions
+(figure 1) illustrate the result of using carrier frequency as a control parameter. The linear response
+theory predicts that while the resulting ground state total complex coherence amplitude |A1,| =

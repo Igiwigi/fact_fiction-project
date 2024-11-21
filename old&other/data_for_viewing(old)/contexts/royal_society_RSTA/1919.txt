@@ -1,0 +1,25 @@
+é
+
+(b) Lattice Boltzmann method for the Poison equation
+
+To simulate the electrokinetic of a flow, the potential and charge distribution should be
+determined. The Poisson equation is the partial differential equation. From which, the electrical
+field can be derived [18,19,22,23,27]
+
+vw =f (2.7)
+€
+
+where W is the electric potential, pz is the volumetric charge density and ¢ is the dielectric constant
+of the material. To solve the Poison equation with the LBM, a fictive time-dependent term is added
+and the equation becomes
+
+ow
+
+ave 4 2, (2.8)
+ot €
+
+Introducing a parameter x, which depends on the dielectric constant of the material, different
+dielectric material can be simulated. The evolution equation for equation (2.8) in a D2Q9 LBM
+can be written as
+
+1

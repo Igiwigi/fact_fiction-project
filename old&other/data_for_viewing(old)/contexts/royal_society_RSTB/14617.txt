@@ -1,0 +1,25 @@
+inverting the process, use these predictions to select the needed by our model and adding a specific set of motor pri-
+actions that will cause the predicted sensory effects mitives, for instance, would provide additional constraints to
+[30,36,73]. Here, adopting an ontogenetic perspective, we the generation of the internal sensorimotor manifold while
+may instead suggest that it might be useful (at least develop- still being consistent with our hypothesis. Indeed, starting
+mentally) to explore the other way: the acquisition of offline from motor primitives and learning an internal manifold in
+(goal-directed) action control in simpler and less noisy the policy space are two complementary ways for a motor
+environmental conditions that do not require predictive con- system to take advantage from its abundance of degrees of
+trol strategies may create the representational means to freedom, thereby bypassing the issue of redundancy [92].
+generate the sensory predictions endogenously in the A further limitation of the current implementation is that,
+format that online action control will be able to exploit in despite the topological alignment of the different modalities
+more dynamic environments. This strategy may reduce the in the internal space, their multisensory or multimodal inte-
+computational costs of learning to predict directly in the gration play only a minimal role. For instance, while the
+raw space of sensations, which is in fact a daunting task [78]. policy of an episode is selected starting from the visual
+While a detailed comparison with alternative models of modality (by picking the overlapping point in the common
+concept learning is beyond the scope of this contribution space), to simplify learning, this interaction is defined in an
+(e.g. [79,80]), it is important to note that most of the leading ad hoc manner at the start of each learning episode. However,
+computational approaches are focused on adult human per- direct interaction among the different sensory modalities and
+formance, avoid the question of how sensory and motor their mutual influence during online interaction is an impor-
+information is encoded, and assume that a meaningful sen- tant extension, which would adapt the model to study, for
+sorimotor system is already available (for a review see [81]). instance, fully ‘embodied’ choices in which the processes of
+Here, we have taken a step to overcome these limitations. action selection and action specification proceed in parallel
+In addition to this psychological plausibility, the main fea- [72,93,94].
+tures of our architecture are consistent with key principles of Lastly, another relevant limitation is owing to the determi-
+brain organization. First of all, topological organization is nistic selection of the internal representation from which the
+ubiquitously implemented in the brains of vertebrates. Func- policy of a given learning episode is generated. Unfortu-

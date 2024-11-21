@@ -1,0 +1,24 @@
+
+(22r), (233), (234), (235).
+
+We name these Mébius triangles because it was Mobius (1849, pp. 360, 661; see also Coxeter
+1948, p. 66) who observed that the planes of symmetry of {/,¢} decompose the sphere into
+such a network of triangles (2 p q). Since the network contains four triangles for each edge
+of {p, q}, the total number of triangles (i.e. the order of the group) is
+& =4N, = 8pq/{4—(p—2) (q—2)}.
+
+Another way to find this number is to divide 47 by the area of (2 / q).
+
+The whole network is derived from any one of the triangles (the fundamental region)
+by the various operations of the group. Mobius illustrated this fact by means of his poly-
+hedral kaleidoscope, consisting of three mirrors forming a trihedron whose dihedral angles
+
+
+406 H. S. M. COXETER AND OTHERS ON
+
+are 1/2, 7/p, 7/q. It is most convenient in practice to use mirrors cut into the shape of circular
+sectors of appropriate angles ¢, y, y (Coxeter 1948, pp. 24, 293). A small object, repre-
+senting a point, placed within the trihedron, yields g ‘images’ (strictly, the object itself
+and g—1 images). When the object is placed on one of the mirrors, the images coincide
+in pairs, leaving only }g points. The number is further reduced when the object is on an
+edge where two mirrors meet. In fact, as we shall soon see, the images are then the vertices of

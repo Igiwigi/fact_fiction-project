@@ -1,0 +1,24 @@
+
+Conceptually, gaze consistency is a property associated with a behaviour, as follows:
+video frame, and periods of high gaze consistency indicate video
+sequences that present features or events which are potent attrac- In($y,.) = In(@y 7: 5p) + > BiXkent—r (2.4)
+
+tors of gaze, even without necessarily knowing the nature of those
+features or events. By contrast, gaze typicality is a property associ-
+
+ated with an individual gaze trace and indicates the extent to Here, dp is a baseline firing rate for the cell, 7 is a characteristic
+which the animal’s gaze during a particular video presentation timecourse of activity for the cell during video playback,
+was attracted to the regions which, on average, tend to attract calculated from the conventional peri-stimulus time histogram
+gaze. Gaze consistency and typicality are useful metrics for the across all video presentations for the unit, 5, is a per-trial ‘drift’
+interpretation of gaze behaviour in a large, diverse stimulus set accounting for the fact that some units changed their baseline
+such as the one we employed for this task, offering the advantages activity substantially over several hours of recording, B, is a
+of being invariant to the position (i.e. it does not matter where in ‘gain’ factor describing the effect of each independent variable
+the visual field a feature that attracts gaze may be) and simple to on the firing rate of the unit (found by fitting the model to our
+calculate. However, it is important to interpret these values care- observations via GLM) and x;.,,;—, is the value of the k’th indepen-
+fully, as they are highly sensitive to the relative size of features dent variable in the n’th trial at a time t - 7. The value ¢ is an
+in the visual field (or in other words, they are not scale-invariant). estimate of the latency for processed visual information to arrive
+In particular, a scene containing a feature such as a face, which is a in the prefrontal cortex and was set as 100 ms on the basis of
+potent attractor of gaze but spans a large region of the visual field, the typical delay between the onset of video playback and the
+will tend to yield lower gaze consistency than a scene which change in activity that was observed in most of our units (figure 4).
+contains a similar feature which spans a smaller region of the Because some behaviours in the ethogram occurred relatively
+visual field. infrequently, it was possible for our observations of neural firing

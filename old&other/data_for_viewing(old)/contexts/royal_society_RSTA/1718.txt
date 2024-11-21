@@ -1,0 +1,25 @@
+0
+
+In addition, the operator B satisfies
+
+R(A, Q_1)Bx =e* U(,0)x, AE p(Q), xEX. (4.5)
+
+
+Proof. Let t>0 and ze LP(Rt,X). The fact that ||U(z,0)|| <Mel¢! for any t <0, and some
+constants M>1 and w€R, imply that ;:E,— X is linear bounded for any t> 0. Let us now
+prove that for any t,o > 0 we have
+
+Pr402(-) = S() oz + $iz(- +0). (4.6)
+In fact, using the same calculus as in [48], for t,o > 0, and t < 0 we have
+
+~ U(t,0)z(t +t+o0), t+t<0,tT+t+oa0 20
+(siz) (r= FEF)
+0, t+t+o<0.
+
+On the other hand,
+
+U(r, 0)z(t+t+o), t+t+o>7+t>0,
+
+Get += {f t+7<0.
+
+Thus (4.6) follows. Now, according to the Weiss’s representation theorem [40, ch. 3], there exists

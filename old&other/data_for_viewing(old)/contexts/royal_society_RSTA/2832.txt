@@ -1,0 +1,25 @@
+BC be its complexification. The imaginary part of B© defines a non-degenerate pairing between t : 3
+and a © n which identifies * =a © n and endows €* with the Lie algebra structure of a @ n. The :=
+pair (t, €*) is a Lie bialgebra, which defines a Poisson—Lie group structure on K such that the dual 8
+Poisson-Lie group K* is identified with AN. eri
+
+Second, any Lie group has a trivial Poisson-Lie group structure when equipped with the : S
+zero Poisson bivector. The dual Poisson—Lie group of (K,0) is t* equipped with the Lie—Poisson : 3
+structure defined in the previous subsection. [8
+
+The linearization of the Poisson bivector of K* at the group unit equals the Poisson bivector 7
+
+of t*. Therefore, K* and €* are isomorphic as Poisson manifolds in a neighbourhood of their group
+units by local normal forms for Poisson manifolds [21]. In fact, this isomorphism extends globally.
+
+Theorem 2.1 (Ginzburg—Weinstein Theorem [20]). The Poisson manifolds (t*, m+) and (K*, 1K*)
+are Poisson isomorphic.
+
+Such Poisson isomorphisms are called Ginzburg—Weinstein isomorphisms/diffeomorphisms. Note
+that &* is abelian, whereas K* is not, so Ginzburg—Weinstein diffeomorphisms cannot be group
+homomorphisms, and t* and K* cannot be isomorphic as Poisson—Lie groups.
+
+There are several proofs of the Ginzburg—Weinstein theorem in the literature: the original
+proof [20] is an existence proof using a cohomology calculation, the proof in [1] gives Ginzburg—
+Weinstein diffeomorphisms as flows of certain Moser vector fields, the proof in [22] is by
+integration of a nonlinear PDE of a classical dynamical r-matrix, and the proof in [23] uses the

@@ -1,0 +1,25 @@
+range is indeed a reasonable one.
+
+The range to the left of what is shown in figure 5 is problematic, because close enough to the
+limit of vanishing impact velocity, the saddle point of the averaged Hamiltonian becomes very
+flat, on the verge of turning into a local maximum. This renders the corresponding generalized
+LPT extremely flat and the corresponding energy exchange extremely slow. Consequently,
+one has to wait extremely long times for delocalization to occur, and therefore only for
+higher coupling values one immediately observes the delocalization. Therefore, if judging by
+reasonable computational time length results, it may appear as if the averaging-based approach
+underestimates the critical coupling values. The range to the right of what is shown in figure 5
+is problematic for another reason. For high-enough energy it is suggested by numerical analysis
+that the full system undergoes delocalization for lower coupling values than predicted by the
+averaging-based approach. The reason for this may be attributed to the fact that for high energies
+the system is highly nonlinear and higher resonances than the 1:1 resonance assumed to occur
+may come into play. Moreover, there may be resonance overlap. Clearly, if this happens for higher
+coupling than predicted by averaging, it is irrelevant to the onset of delocalization. If, however, it
+occurs for lower coupling values than predicted by assuming 1:1 resonance, then delocalization
+in the full system would occur for lower coupling values than predicted.
+
+In the case analysed in [49], this latter phenomenon did not occur. The reason is that when
+the system is rigorously foundation-free, the energy can be renormalized, such that the value of
+the energy has no influence on the dynamics and there is no high-energy regime with its possible
+complex resonance overlap.
+
+A detailed analysis of the critical transition both for the averaged and for the full system, for a

@@ -1,0 +1,24 @@
+We now turn to REF, NO_3EQTN and NO_MUSHY (results for DBL_ALPHA_H,
+DBL_ALPHA_H / NO_3EQTN and DBL_ALPHA_H / NO_MUSHY are qualitatively similar) to
+quantify the impact of the sea ice salinity dynamics, flushing and three equation boundary
+condition on the sea ice and ML. Because of the larger incoming solar radiation associated
+with the default halodynamic model of Bitz & Lipscomb [36] and the default CICE flushing
+parametrization, sea ice concentration is reduced in NO_MUSHY with respect to REF by more
+than 10%, sea ice thickness is reduced by more than 1m, Tmix is higher by more than 0.4°C,
+and Sypix is lower by 0.5-1 PSU over most of the Arctic Ocean. Note that FALSE_BOTTOM, the
+simulation that uses the same Bitz & Lipscomb [36] parametrization has a similar low sea ice
+state bias. Comparing REF and NO_3EQTN, we see that the differences are smaller (AA ~ —5%,
+AH ~ —20.cm, ATmix ~ +0.3°C and ASmix ~ 0 PSU), the impact is localized over the marginal ice
+zone and happens almost exclusively in the summer season (June and July not shown). This is
+consistent with the larger melt rate in this region in NO_3EQTN and reflects the fact the three-
+equation boundary condition is most effective where there is a source of fresh melted water at
+the IO interface, hence lowering the interfacial salinity, S9, and reducing the bottom heat flux (see
+equations (2.4)-(2.6) in §2b).
+
+The impact of switching off the form drag parametrization of Tsamados et al. [40] in
+NO_FORM_DRAG is spatially bi-modal; increasing the summer concentration (marginally), ice
+thickness (AH ~ +1m) and ML salinity (ASmix ~ 1 PSU) in the heavily ridged regions north of
+Greenland and the Canadian Archipelago, and decreasing the ice concentration (AA ~ —10%)
+and ice thickness (AH ~ —25cm) while increasing the ML temperature (ATmix ~ +0.3°C) over
+the Russian continental shelves. As discussed in §3a, these differences can be largely explained
+by increased (reduced) interfacial heat fluxes due to the higher (lower) than average atmospheric

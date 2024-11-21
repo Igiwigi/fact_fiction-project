@@ -1,0 +1,25 @@
+
+3. Numerical results
+
+The system can achieve each dynamics by taking various values of the system parameters Fo,
+y, B, t, Ag and . In order to understand the dynamical processes, we take Nj = 10° in all the
+simulation. We perform our numerical studies with the fourth-order Runge-Kutta algorithm
+for stochastic processes developed by Kasdin [45]. Equation (2.1) is integrated over a time long
+enough as N + 1 periods. The time step is h = 0.027 /w, and the initial velocity is x(0) = 0 because
+the particle is at rest at the bottom of the deformable potential.
+
+(a) Input energy and input energy distribution of the system
+
+Input energy is in fact equivalent to work done by the field. In a noise-driven underdamped
+nonlinear oscillator, it mainly depends on the different initial positions taken by the particle
+on an entire space period of the RP potential substrate. In figure 2, we show the variation of
+the input energy averaged over a trajectory for a feedback strength 6 = 0.08, time delay t = 1.5,
+for the temperatures T = 0.001 and T = 0.04, and for the values of r indicated in figure. As one
+can see the input energy can exhibit one, two or three narrow band when the initial position
+of the particle varies at low temperature T = 0.001. For r= —0.3, the work done by the particle
+is generally confined around only one band Ej, ~ 0.0016. When r= 0, Ein displays three narrow
+bands around 0.07, 0.12 and 1.16. This shows that the particle is clearly in three energy states, but
+the particle remains less in the second state. However, for r= 0.3, Ein is around the values 0.143
+and 0.554. With increasing temperature, the input energy changes and the response at certain
+shape parameters can become strongly enhanced by noise. At lower temperature, input energy in
+the sinusoidal profile is larger than in the non-sinusoidal profile. In figure 2, plotted for T = 0.04,

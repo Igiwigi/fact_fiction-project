@@ -1,0 +1,25 @@
+
+Finally, note that the specific VO given in equation (4.3) implies a reversible nature of the
+interaction. In other terms, the annihilation of the bond between two particles, when it occurs,
+is not permanent. The particles can bond again once the distance between them is less than
+do units. At first glance, this might appear surprising because time-fractional operators imply
+memory effects. Although this is certainly true, in our model, the fractional differential operator
+is applied to a constant function. This approach allows using the VO fractional operator as a
+nonlinear switch-like term that determines if existing bonds are broken or new ones are created.
+While this fractional operator could, potentially, be designed to account for memory effects (as an
+
+
+example, to track the evolution of the rate of stretch in a bond), in this study we did not account
+for it. In fact, we used a steep exponential function to achieve a rapid change of the bond state
+(i.e. to achieve either formation or annihilation). We merely note that the VO can also be crafted
+to account for an irreversible (permanent) bond annihilation. Such a case was explored in [42] in
+the context of classical mechanics, where irreversibility due to plastic deformation was captured
+by using direction-dependent terms in the order variation. Note that, considering the present
+case of particle dynamics, the lattice configuration (identified via the instantaneous position of
+the individual particles) experiences a non-reversible deformation that results from the sliding
+motion of the dislocation. In this case, following the removal of the applied external forces, the
+particles do not get back to their original positions. At the same time, for certain configurations
+(namely, those where the dislocation plane does not get locked upon sliding, such as the locking
+occurring in figure 2), the application of a system of forces having same magnitude but opposite
+direction to the one generating the initial sliding motion, can effectively reverse the motion of
+the dislocation. In the latter situation, the dislocation could potentially get back to its original

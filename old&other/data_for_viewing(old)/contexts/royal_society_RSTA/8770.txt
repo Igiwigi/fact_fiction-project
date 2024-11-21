@@ -1,0 +1,25 @@
+
+The sequence of intensities of 15876, which we may take as the first example, is
+
+from Table I.
+14°8, 42°8, 49°38, 44°0, 24°1, 15'b. 97-7, 267,
+
+and it is at once evident that the seat of maximum emission is at about 2 mm, from
+the cathode.
+Attempts to fit these numbers to an interpolation formula of the type
+
+l=a+ ba + ca? +...
+
+where I is the intensity and « the cathode distance, are not successful. It is in fact
+evident from the later members of the sequence that the law is partly exponential.
+The sequence of logarithms of intensity is found to be, to base 10,
+
+1°17, 1:68, 1°69, b64,. 88> Beso aneacs
+
+and these also, especially when the dark space is included, do not fit well into an
+interpolation formula of the above type. It is probable that any law, in order to be
+valid over this wide region, must be somewhat cumbrous. The dark space must, in
+fact, be left out of consideration in obtaining such a formula, and an example of a
+three-constant one is
+
+log, l= a + ba + ca*, a = 1°452, b = 0°235, ce = 0°0575,

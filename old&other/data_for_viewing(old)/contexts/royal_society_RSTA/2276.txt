@@ -1,0 +1,25 @@
+
+pj = (VIMY), (3.3)
+
+to each measurement outcome. When used in this manner I refer to |W) as a pre-probability, i.e.
+something used to generate a probability distribution, as in (3.3), to be carefully distinguished
+from the projector [W] = |W)(| that represents a hard-to-interpret quantum property, the weird
+‘cat state’.
+
+The CH interpretation treats quantum mechanics, following Born, as a stochastic theory in
+which time development must be understood using probabilities. But, as in classical physics,
+probabilities require a sample space of mutually exclusive possibilities, one and only one of which
+is thought to take place in a particular run of the experiment. In quantum theory, a sample space
+is always a PDL. The orthogonality of the projectors ensures that only one, and the fact that they
+sum to the identity means at least one, of these possibilities will occur in any particular situation.
+In classical physics, the choice of a sample space is usually quite straightforward, and if two or
+more spaces are of interest in some situation it causes no difficulty, as one can always combine
+them. But in quantum mechanics one needs to make different choices depending on what aspect
+of a situation one is interested in. Thus let {P;} and {Q;} be two PDIs for the same system. If and
+only if they are compatible,
+
+P)Qk =QkP; for all j and k, (3.4)
+
+can there be a common refinement, a PDI consisting of all the non-zero P;Q;; otherwise they are
+incompatible and cannot be combined. The CH approach resolves (or evades or tames) the standard
+quantum paradoxes by means of the single framework rule, which prohibits as meaningless those

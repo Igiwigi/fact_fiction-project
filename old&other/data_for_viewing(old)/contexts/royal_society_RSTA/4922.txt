@@ -1,0 +1,25 @@
+[65,66]. When synthesizing imaging observations as obtained, for example, by AIA, one can take
+an even simpler route and use the temperature response function for the various filters sampling
+different temperatures. These have been made available through SolarSoft and are documented,
+for example, for AIA [67].
+
+These synthetic observations can be compared directly with solar observations. One can
+compare the structures found in the model. Examples are the intensity distribution along and
+across loops, the expansion of coronal structures, or the spatial structures and average value of
+the Doppler shifts (most of which will be discussed briefly below). If the synthetic and observed
+properties match, one can say at least that the forward model provides one possible explanation
+for the observed feature. Of course, other explanations might exist. However, when comparing
+complex models to complex observations, there is a fair chance that, if the synthetic and real
+observations match, the model is in fact a good description of the real Sun. In this context,
+‘complex’ means that not just one single aspect is matching, but that many observables (in the best
+case any one can think of) do match. To illustrate such synthesized observations, figure 2 shows
+an emerging active region model covering 150 x 75 x 75 Mm’ after two sunspots appeared. Many
+loops have formed and evolve quickly on a time scale of 10-30 min.
+
+If a match is found, the real challenge is to isolate the process(es) that are responsible for
+creating the respective features in the model. These processes might then be the ones that are
+responsible for creating the features on the real Sun, too.
+
+
+Figure 2. Visualization of a high-resolution three-dimensional MHD model of an active region. The image shows the
+synthesized coronal emission as AIA would see it in its 193 A band, showing mainly Fe xii forming at about 1.5 MK. At the bottom,

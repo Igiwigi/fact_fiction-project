@@ -1,0 +1,25 @@
+approximations, equation (2.6) can be converted into a form which highlights very clearly the
+significance of IFAR. As explained by Atzeni and Meyer-Ter-Vehn [25], by making some simple
+approximations for the different variables (including assuming constant acceleration over some
+fraction of the capsule radius), the equation
+
+1 1/2
+G) =exp E (<Ee-) —a3-1-(IFAR)!], (2.8)
+
+can be derived. / is the spherical harmonic mode number, and the three w values are numerical
+constants. This expression describes RT instability growth at the capsule outer surface during
+the acceleration of the shell inwards, but equivalent expressions can be derived describing feed
+through of this growth to the inner surface of the shell, and to describe the growth at this
+inner surface during deceleration; both of these also depend on IFAR [25]. The fact that these
+assumptions lead to formulae for the instability growth that depend only on IFAR for a given
+mode number demonstrates the importance of this parameter for controlling instabilities. An
+upper limit of 30 has been selected for IFAR in this work; this value is typical of the acceptable
+IFAR when using this equation, as capsules with higher IFAR’s have been observed to break
+up over the course of the implosion [19]. However, recent research has found that reducing the
+IFAR further still may be necessary to prevent instability growth [42,43], suggesting that further
+investigation of this regime may find reducing this limit to be beneficial.
+
+
+Adiabat is also known to have an effect on instability growth, as lower fuel adiabats lead to
+lower ablation velocities and lower density scale lengths, which results in larger instability growth
+[44]. This is again a compromise, as reducing fuel adiabat results in increased 1D gain. Varying

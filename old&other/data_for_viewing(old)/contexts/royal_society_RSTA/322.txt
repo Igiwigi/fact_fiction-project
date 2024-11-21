@@ -1,0 +1,25 @@
+matrix’ Q= (y,)/4_,, we can define a K-channel (So,Lo, Ho) model with states
+corresponding directly to the Markov process states {|1),|2),...,|M)} via
+
+So=1k, (3.6)
+Lo = (V Van tls «<6 Vigan lk) (il) (3.7)
+and Ay =0, (3.8)
+
+where the components of Lp drive transitions {i — j,,k=1,2,...,K} and K is
+given by the number of positive transition rates y,; > 0. By construction, as one
+may verify by writing down the master equation, this system always collapses into
+a purely classical mixture of the coarse-grained states. Equivalently, in a quantum
+jump trajectory simulation, after the first quantum jump, the state is always given
+oy a single such state. In fact, in such a trajectory simulation, this system behaves
+exactly like the original Markov jump process. Neglecting for now that our original
+model has three different input conditions € ¢ {HOLD,SET,RESET} and thus
+
+ia
+
+hree different conditional transition matrices p? we first discuss how to move
+from the discrete time Markov chain model to a continuous time Markov jump
+process. Rephrasing this question, we can ask the following: is there a Markov
+jump process with conditional transition probability matrix P(t) that ‘looks like’
+our Markov chain when stroboscopically probed at fixed time intervals 6t? If our
+Markov chain has transition matrix P, then we need to determine a generator
+matrix Q such that

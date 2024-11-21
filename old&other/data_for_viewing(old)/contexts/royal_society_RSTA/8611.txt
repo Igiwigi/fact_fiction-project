@@ -1,0 +1,25 @@
+Bra Sn ane Ea)
+esp~li + 7) 7
+i as = ae — C)
+o A
+GO uy te q B
+
+
+CONTAINED BETWEEN TWO ROTATING CYLINDERS. 815
+Determination of Roots of A; = 0.
+
+To determine the roots of the equation A, = 0 it is necessary to assume a value
+for 6 and a value for P, and to calculate the values of the determinant formed by
+taking the first 1, 2, 3, 4,..., rows and columns of A;. Owing to the fact that
+all the diagonal terms after the first two are equal to 1 the actual numerical value of
+the determinant converges to a definite limit. Taking a value of 4 and a series of
+suitable values of P, the value of P for which A; changes sign is found by interpolation.
+This is the root of A; = 0 which corresponds with the particular value of 4 chosen.
+By taking a series of suitable values of 6 the maximum root of A; = 0 is found, and
+also the corresponding value of 0.
+
+Tn evaluating A, for any value of P and 6 the method adopted was first to find the
+numerical values of the terms, then to eliminate successively the third, fourth, fifth, etc.,
+rows and columns. The effect of this procedure was to alter the values of the first
+four terms in the top left-hand corner of A;. It was found, however, that after this
+operation had been repeated a few times no further alteration occurred, the effect of

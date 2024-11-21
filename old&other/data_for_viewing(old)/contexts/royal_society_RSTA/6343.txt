@@ -1,0 +1,25 @@
+were sufficient to cloak a clamped inclusion in a Kirchhoff plate. A different approach, based on
+[8-10], using multipole devices was devised by Futhazar et al. [14] to create a finite ‘still’ region
+and to ensure that only the incident field was present in the far field. O’Neill et al. later extended
+their investigation to the cloaking of coated inclusions in thin plates for frequency ranges in which
+scattering resonances occur [15] and to the cloaking of finite clusters of pins in thin plates [16].
+
+Here, we present the idea of using active evanescent multipole devices to cloak and ‘shield’
+an inclusion in a thin plate. In particular, we make use of the fact that the solution to the time-
+harmonic biharmonic equation consists of not only Hankel functions of the first kind, HY, but
+also Macdonald functions K, (see [17]). By shielding, we convey a finite region of ‘stillness’ in
+the vicinity of the inclusion. The reason we use the quotation marks is to emphasize, here and in
+what follows, the approximate nature of the stillness (or silence for acoustics) of these regions.
+It should be noted that, although the Green’s function for the biharmonic equation is in fact
+bounded, we use solely the Macdonald functions to construct our elastic cloak and therefore
+consent to infinite fields at the device centres, since Kg(z) ~ log(z) and K,(z) ~ 1/z” as z > 0. Unlike
+the Hankel functions, however (used as a basis to formulate the acoustic exterior cloak in [8—-10]),
+the fields emanating from the evanescent devices decay at infinity and thus require less attention
+than their acoustic analogue. It is known that clamped inclusions in thin plates possess the most
+scattering signature, as illustrated in figure 1a. We preview our results with the use of three active
+evanescent devices in figure 1b.
+
+The structure of the article is as follows. In §2, we formulate the problem for an inclusion in
+an infinite Kirchhoff plate and present the general solution. Section 3 introduces the evanescent
+multipole devices of which three are initially used to create a region of ‘stillness’ in our first
+simulation. Next, we employ a second simulation to compare our previous results with the

@@ -1,0 +1,25 @@
+us consider a discrete-time evolution, as schematically shown in figure 1, and an initial system
+state which is mathematically represented by
+
+x(t + 1) = f[x()]
+and x(t = 0) = xo,
+
+(4.1)
+
+where xo defines initial conditions (IC). The microscopic evolution of the system is defined as a
+low-level evolution process (LLEP) and, after some time, it will lead to a stable or metastable
+emergent pattern, i.e. a high-level phenomenon (HLP). Note that we did not specify if f[-]
+is deterministic or stochastic, and if the system is open or closed, since any combination of
+them is plausible, in principle. In fact, if the system is open and the dynamical rules are
+deterministic, the contingencies of the flux of parts and states through S provide additional
+external conditions, whereas if the system is closed there is only one external condition, i.e.
+the initial one. If the dynamics is stochastic, then accidental effects provide additional external
+conditions. It is clear as a full knowledge of S, f[-], x9 and eventual external conditions
+might allow, through computational analysis, to evolve microstates and observe unexpected
+macrostates. Summarizing:
+
+— Non-emergent phenomena: knowledge of LLMR and IC allows us to deduce expected
+HLP;
+
+— Weakly emergent phenomena: knowledge of LLMR and IC allows us to deduce
+unexpected HLP through computation (e.g. simulations);

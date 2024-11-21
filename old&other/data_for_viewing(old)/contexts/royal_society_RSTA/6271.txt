@@ -1,0 +1,25 @@
+
+the 95% confidence interval, which is not unexpected given we are working with a posterior | 16 |
+predictive distribution. Typically, a model which accounts for ignorable missingness will have less
+uncertainty associated with its estimates than a model that does not account for this missingness.
+However, we would not expect the point estimates to change much. In other words, for a fixed
+dataset, we expect the 95% credible intervals for Pg associated with Model 4.2 to be narrower than
+the one associated with Model 4.1. As can be seen in table 3, that trend is observed here.
+
+It is really only for the non-ignorable model that we see significant differences in inference
+based on whether we treat inconclusives as observed or missing. For both models, the estimated
+proportion of errors in a study is much higher than for either the naive or ignorable model. This
+
+is not particularly surprising given the fact that the MLEs for the hyper-parameters resulted in ‘3
+priors that indicated examiners would be unlikely to respond in the event of an error (i.e. a prior : s
+that assumed 79;’s were centred close to 0) for both datasets. The predicted error rate increased : S
+substantially when inconclusives were treated as missing. This is likely due to the combination {=
+of the difference in MLEs (i.e. the MLE for jz» was higher when inconclusives were treated as 8
+missing than when they were treated as observed) and the incredibly high non-response rates. : =
+The non-response rate when inconclusives are treated as observed is 48.5% (note we are dropping : =
+the distinction between unit and item non-response for the moment). This rate increases to 64% 13
+when inconclusives are treated as missing, meaning that the majority of comparison decisions are : =
+now being imputed. Overall, these findings suggest that the inferences in this black-box study are DR
+heavily dependent on the missingness mechanism. If missingness is truly non-ignorable, naively aieel
+ignoring the missingness could result in gross underestimates of error rates for a study. : =
+Until now, we have focused on study-level inferential goals. Eldridge et al. [5] and other :8

@@ -1,0 +1,25 @@
+These are the functions that participate in the standard thermal and linear momentum balance
+equation (3.1).
+
+The constitutive relations for the microstructural fields (4.5) then take the form
+
+aw ay $
+M=—5. 0a", spre tpvar, (5.3)
+and - 7
+a 1 a pM
+m™ =_F (a + oat") +1, SMa pFs (<a + 9a ) +sM, (5.4)
+
+where aM and sM are given by (4.6). In (5.3) and (5.4), the fields T1§ and 1™ characterize the
+net driving force associated with internal rearrangements of the microstructure. In fact —dw/d&
+and —d~/dH™ yield the free energy release in the bulk that is associated with changes in &
+and M, respectively. Conversely, #AS and oA yield the internal resistance (i.e. the driving
+force consumption) encountered during transformation and reorientation. The microstresses s°
+and SM, which characterize actions on surface elements, contain terms describing a similar
+partitioning into energy release and energy consumption.
+
+
+The results (5.1)-(5.4) are expressed in terms of objective constitutive functions. This allows
+one to rewrite the base expression appearing in (3.5) as
+
+SE’ 45M 23 (eM) _ pM
+j

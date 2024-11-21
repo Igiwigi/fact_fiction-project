@@ -1,0 +1,25 @@
+of 1.5 wp, differing slightly from the LDA bulk value of 2.2 4g due to the epitaxial constraint on
+the in-plane lattice parameters of our slab.
+
+A symmetry analysis reveals that in the slab geometry we are considering—a tetragonal
+structure with purely out-of-plane magnetization—only the magnetoelectric monopole and the
+qz component of the magnetoelectric quadrupole are non-zero. The calculated magnetoelectric
+monopoles are shown in figure 1b as a function of their layer number in the slab. (Since the qz
+quadrupole component is proportional to the magnetoelectric monopole in our calculation, we
+do not list it explicitly.) The monopoles are zero towards the centre of the slab, where the local
+atomic environment is close to the bulk structure and the influence of the inversion-symmetry
+breaking at the surface becomes negligible, but are non-zero at the surfaces, with opposite signs
+at opposite surfaces. The opposite signs can be understood either in terms of the opposite position
+of the vacuum relative to the magnetization orientation at the two surfaces, or by the fact that the
+surfaces are related to each other by a glide plane, which reverses the monopole sign.
+
+Next, we repeat our calculations for a heterostructure of the same 16 layers of Fe, this time
+adjacent to nine layers of (001)-oriented MgO with vacuum on each side. In our DFT calculations,
+the most stable configuration has Fe atoms situated on top of O atoms, as found previously by
+Butler et al. [34], with a Fe-O distance of 2.12 A. (Note that, while our set-up is similar to that of
+
+
+3.0
+i) —e Fe
+
+= 2.5 - —=— Fe/MgO

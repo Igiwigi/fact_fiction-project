@@ -1,0 +1,25 @@
+of 2%, and OSEM+G, with a difference of 18%. The accuracy also shows a similar trend, the : =
+HKEM and KEM provide respectively a 16% and 14% higher probability of classifying a patient : =
+with the correct label relative to OSEM+G. It can be seen that the value of the AUC is similar 1B
+among the algorithms and is always close to 1. Delong’s test, used to compare whether each : =
+pair of AUC are different, provided a p-value higher than 0.06, meaning that although the 8
+algorithms behave differently for each threshold, their performances are in agreement globally : 4
+(at the 95% CL). 1
+
+The final test was the study of the correlation between the diameter of the aneurysm and the : Ss
+increase of uptake between the aneurysm and the normal aorta. Previous studies have reported : Ss
+non-significant correlation at the 95% CL [4,6] using OSEM+G, and this work is in agreement with 13
+
+these findings as reported in figure 7. In fact, the correlation is not significant for OSEM+G and
+KEM at the 95% CL. For HKEM, in contrast, the two variables are significantly correlated with a
+p-value of 0.045. The correlation is nevertheless moderate with a coefficient of 0.28. In addition,
+it is worth noting that the OSEM+G p-value is just at the limit and the correlation would be
+significant at the 90% CL. These results show the existence of a weak relationship between
+aneurysm size and uptake increase, but it is not enough to use the measurement of the aneurysm
+size as the only biomarker because small aneurysm may still have micro-calcification which is
+detectable using PET. The reader can notice that there are outliers in figure 6, although these
+CT and PET images did not show particular differences to those of other patients, to check
+robustness, the analysis was repeated excluding the outliers and the results were unchanged.
+Figure 8 and table 4 are useful to cross-validate the study. It can be seen that the ROI value
+is a significant parameter for each algorithm, with p-value <0.04, and that the HKEM achieves
+the highest accuracy and the smallest residual deviance. Based on the estimated probability as a

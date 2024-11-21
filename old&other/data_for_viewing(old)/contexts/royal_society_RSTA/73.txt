@@ -1,0 +1,25 @@
+Theorem 2.3 (continuous dependence). Let k; be a weak solution of (2.8) with fj € Fadm for i=1,2,
+such that kj(x) € 1 a.e. in 2 x [0,T]. We then have
+
+Iki — kellracexjo,rp < Cli — fall = CII — fall (2.9)
+
+for some constant C depending only on f' max:
+
+Proof. See theorem 3.7 in [9]. a
+
+A more detailed analysis of this model can be found in [8]. It is shown how different
+parameters of the model, such as the depreciation rate and the technology terms, affect the
+capital distribution over time. Furthermore, the simulation results show that a concave-convex
+production function is in fact capable of recreating the effect of poverty traps.
+
+3. Identification of production functions
+
+As mentioned above, the choice of the production function is crucial for an economic model,
+as its shape will greatly influence the capital distribution. However, there are many different
+possibilities to make this choice and often it is not clear which production function will fit the
+situation best. A reasonable question would be: Is it possible to identify the underlying (real)
+production function from data about the capital distribution of some spatial economy?
+
+In general, data about the economic situation, such as the gross domestic product (GDP),
+of different regions and different countries are readily available. For example, the spatial
+interdependence among economies is examined on the basis of 204 European regions over a time

@@ -1,0 +1,25 @@
+
+In case 2, a scalar function G is modelled by a standard neural network unless it is known a
+priori. It then suffices to construct a matrix-valued neural network ANN from Gyn that satisfies
+both the symmetry and the degeneracy conditions. Unlike case 1, we do not need to control the
+gradient of Gy to be in ker A. Rather, we design Ayn to satisfy VGNN € ker Ann. It turns out
+that one can easily adopt this property into neural network architectures by exploiting skew-
+symmetric matrices.
+
+Lemma 3.6. For j=1,...,K, let S; be a skew-symmetric matrix of size d x d. For a differentiable scalar
+function g(-):R4 > R, let Qo(-): R4 > RK*4 be a matrix-valued function whose jth row is defined to be
+(5jVg(.))'. Then, Qe(x)Vg(x) =0 for all x € R?,
+
+Proof. The proof readily follows from the fact that for any ye R4, y' Siy= 0 since S; is skew-
+symmetric. a
+
+
+input: z VGyn(2)_ skew-symmetric matrices output: Ayy(z)
+
+fully connected °
+wutomatic . .
+: > PQOseem >| Sani) |+($3)-=| : :
+eR! ERLE . € Rdxd € Rid
+OC fully connected
+
+e | a Bay (@)

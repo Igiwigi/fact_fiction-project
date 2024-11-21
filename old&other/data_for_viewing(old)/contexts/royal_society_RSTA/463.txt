@@ -1,0 +1,25 @@
+be applied for the SHM and CM of wind turbine systems.
+
+2. Condition monitoring and structural health monitoring approaches
+for wind turbines
+
+In the Introduction, a major problem when trying to perform online SHM and CM for data-based
+methods was mentioned: the influence of the varying conditions under which the wind turbines
+
+
+operate. This means simply that one should account for the non-stationarity that is not related
+to damage of the signals analysed, but this is definitely not a simple task. Vibration data coming
+from wind turbine blades and gearboxes while in operation should be influenced by the varying
+load and environmental conditions. Despite the fact that there has been significant research of
+damage detection methods for such components, most of the studies are mainly performed in the
+laboratory environment [3]. Basic signal processing techniques in this case might prove sufficient
+to solve the damage detection problem, although, in general, this would not be true in real-world
+damage detection scenarios.
+
+Some of the most simple time-domain methods that have been used for condition monitoring are
+time-invariant analysis methods, based on the estimation of statistical parameters. This is a group
+of methods that uses univariate features. The principle of these methods is often to simply use
+the overall vibration level to describe the general condition of the machine. Estimates used in this :
+case are peak amplitude, peak-to-peak value, root mean square value of the signal, crest factor :=
+
+and statistical moments such as variance, skewness and kurtosis [4,5]. More advanced techniques Sy

@@ -1,0 +1,25 @@
+
+for connecting the mathematical model with the chemical and biological features of the genetic
+code. The third aspect concerns the coding strategies used in the different domains of life. Each
+strategy has an observed minimal number of adaptors needed to implement it. We show that
+such numbers can be obtained exactly by means of our non-power modelling. In §4, we present
+the conclusion and further perspectives.
+
+2. Background and history
+
+Since the discovery of the double helix structure of DNA by Watson and Crick in 1953, many
+mathematical hypotheses regarding how proteins are coded have been proposed [2]. Among the
+most remarkable are those of George Gamow (crystal model [3]) and Francis Crick (comma-free
+codes [4]). Despite the fact that both hypotheses were experimentally proved incorrect [5], Crick’s
+proposal indicated clearly that coding theory is ‘the’ framework for interpreting the mechanisms
+of protein synthesis. We quote here the words of Gamow ina letter to Watson and Crick [6, p. 10]:
+
+[I] think that this brings biology over into the group of ‘exact’ sciences [...]. If your point
+of view is correct, and I am sure it is at least in its essentials, each organism will be
+characterized by a long number written in quadrucal! system [.. .]
+
+Gamow trusted that this digital representation of genetic information would have opened a new
+era in the understanding of life.
+
+Somehow, in the following years, the interest in a mathematical description of the genetic code
+faded away, and subsequent studies were more targeted to explain features of the code mainly

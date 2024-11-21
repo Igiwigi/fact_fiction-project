@@ -1,0 +1,25 @@
+basin, while in the second one (figure 9c,d) the parameters correspond to the yellow basin. It can
+be seen that in figure 9b the oscillation frequency matches the forcing frequency, while in figure 9d,
+when the delay-induced resonance is triggered, the oscillations frequency is different. Actually,
+the frequency of the sustained interwell oscillations is w = 1.35, which is in agreement with the
+frequency of the delay-induced oscillations of Region IV (F = 4 = 0), as we can check in figure 2h
+and its legend.
+
+We depict, in figure 10, Region IV oscillation frequencies, @max calculated with the FFT, for
+different orbits changing the values of the parameters yw and F. In particular, in figure 10a we
+show the frequencies of the delay-induced oscillations setting F = 1 = 0. Then, in figure 10b-d, we
+show the oscillation frequencies for yp = 0.04 and F = 0.01, F=0.1 and F =0.14, respectively. We
+can appreciate that as the forcing amplitude grows, the oscillation frequencies are restored to the
+no-damping case. In fact, in figure 10b, the frequencies are nothing similar to the non-damping
+case. On the other hand, in figure 10c, the frequencies curve is almost restored, except for some
+boundary t values that are related to the zones of the region on the parameter space in which
+there still remains some fractalization. Finally, figure 10d shows that the oscillation frequencies
+return close to the values of no-damping case. To corroborate it, we have plotted the curve fits in
+
+
+@) x 103 () 6X 108
+
+5
+4
+F=0.01 : |
+Ymax= 0.99 * g M

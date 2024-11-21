@@ -1,0 +1,25 @@
+ninth item, so that one epoch now corresponds to the presen- equation (2.2) (shown as a dashed blue line) corresponds
+tation of all nine items. The results of this simulation are very closely to the observed learning time for this dimension
+shown in the bottom row of panels of figure 9, and detailed (plotted as a solid line coinciding with and therefore largely
+visualizations of the changed and new dimensions are pro- hidden by the dashed line).
+vided in figure 8. For several of the dimensions, nothing These observations have important implications for our
+has changed, and their initial values already correspond to general understanding of new learning of items in familiar
+the full values of s;. Therefore, no further adjustments occur domains. In one sense, the sparrowhawk is highly schema con-
+to these dimensions. For dimensions 1 and 3, the projections sistent, to use the terminology of Tse ef al. That is, it shares all of
+are quite strong, and so the starting point is already quite far the properties of animals in general and all of the shared prop-
+along the eventual learning curve. Learning thus proceeds erties of birds, and even has two properties that have already
+immediately for these dimensions, as it did in the case of occurred in other birds. It is not, however, fully predictable
+focused training with the sparrowhawk. This corresponds to from knowing that it is a bird. It has one unique property,
+the fact that aspects of the new item that are consistent with and it combines variable properties found within birds differ-
+what is already known can be rapidly assimilated. As before, ently than they have previously been combined. In general, this
+within a fraction of a normalized time unit, the aspects of the situation must apply to nearly every new thing we learn about.
+sparrowhawk that map onto dimensions 1 and 3 are learned. Something new will generally share some properties with pre-
+Over the rest of the first half of the first time unit, the network viously known items, but some of its properties are likely to be
+finds weights that represent a compromise of the first and third unpredictable. Thus, in general, new items will have properties
+
+dimensions so that the other aspects of the sparrowhawk are that are consistent with prior knowledge and others that are
+
+
+sparrowhawk error other bird error fish error plant error singular values total summed error | 15 |
+
+i) i) = —° 10

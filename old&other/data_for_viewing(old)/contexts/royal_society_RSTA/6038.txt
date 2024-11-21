@@ -1,0 +1,25 @@
+which follows a normal distribution,
+o o2
+ip 1)~ - ==}. 24
+gti T) v(u = (24)
+
+Imagine starting many cell cultures in separate Petri dishes and watching their biomasses evolve
+according to equation (2.1) for time T. Assume the dishes are large enough and T is short enough
+that growth does not slow for want of agar. Equation (2.4) says that the observed growth rates
+would be normally distributed around jz — 07/2, with time-decaying variance o?/T.
+
+The negative term —o?/2 may be surprising, given that the multiplicative changes in equation
+(2.1) are distributed symmetrically about jdt. It is, however, a well-known property, usually
+derived using It6 calculus as in [22]. In simple terms, it reflects the fact that the product of the
+symmetric perturbations of a number is less than its square, e.g. (1 + €)(1 — €) =1— <1.
+
+The ensemble average (or expectation value) of resources is defined as
+
+a LS
+(xO) = lim 5 Do xi). (2.5)
+i=l
+
+Its evolution is computed by applying this operation to equation (2.1) to get
+d(x(#)) =u (x(t) dé, (2.6)
+
+since (dW;(t)) =0. With initial condition x;(0)=1 for all i, this describes exponential growth,

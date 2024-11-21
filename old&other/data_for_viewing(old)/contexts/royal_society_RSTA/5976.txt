@@ -1,0 +1,25 @@
+2 — , X> Xo,
+ro xo
+
+P# (x19) = ——-- (2.7)
+2 _ a+2(u—(0?/2))-1
+ao +(u 5) (=) , x <X0,
+xO
+where
+_ — (= 07/2) + Vu = 0/2 $210? (28)
+
+oe
+is the shape parameter. The power law property is an important stylized fact that is prevalent
+in real-world income distributions [30,31]. Other stylized facts that are recovered by the model
+are larger yz (larger average population growth), larger o (more randomness in the dynamics)
+and/ or smaller r (less retiring or layoffs), result in a smaller shape parameter and a heavier-tailed
+distribution. This leads to higher inequality and lower mobility in the economy. Thus, srGBM is a
+minimal model that is able to adequately represent a range of real word situations. As such it has
+been implemented to date in various empirical studies (e.g. [5]).
+
+Financial markets and economies usually display highly nonlinear dynamics. In srGBM, this
+phenomenon is solely highlighted via the resetting rate. More complex generalizations of the
+model that include nonlinearities in different manner are also potential avenues for income
+dynamics. For instance, the Heston model is an ubiquitously implemented method for capturing
+nonlinearities in the volatility [32-35] (see also the formulations and extensions considered in
+[36,37]), whereas jump diffusion models have been applied to describe potential nonlinearities in

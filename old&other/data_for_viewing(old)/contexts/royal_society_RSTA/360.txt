@@ -1,0 +1,25 @@
+is uninformative. This dataset may be a collection of documents, images or any other sort of
+object collected in a manner such that either the ordering is irrelevant or completely unknown.°
+De Finetti’s theorem states that a sequence is exchangeable if and only if there exists some 6
+such that the elements x; are independently and identically distributed (iid) from some unknown
+distribution indexed by 6 [19]. Importantly, @ may need to be infinite dimensional as it needs to
+index the space of probability measures (non-negative functions that normalize to one).
+
+The consequence of de Finetti’s theorem is that if we want to model exchangeable data in full
+generality, we need to consider putting distributions on unknown probability measures.
+
+Distributions on measures, functions and other infinite-dimensional objects are thus central
+to Bayesian non-parametric modelling. Many of these distributions are infinite-dimensional
+versions of their finite-dimensional counterparts, and in fact a good strategy for deriving Bayesian
+non-parametric models is to start from a parametric model and ‘take the infinite limit’ [20].
+Distributions on infinite-dimensional objects are the main subject of study in stochastic process
+theory, and therefore much of the terminology used in Bayesian non-parametrics is borrowed
+from this field.”
+
+Two of the classical building blocks for Bayesian non-parametric models are the Gaussian
+process (GP) and the Dirichlet process (DP). I will give an overview of these models in §§4 and
+5, with an emphasis on their applications to general problems in machine learning and statistics,
+including regression, classification, clustering and density estimation (these problems will also
+be described in those sections). I will also cover newer building blocks that can represent non-
+parametric distributions over time series, sparse matrices, hierarchies, and covariances (§§6-9).
+In order to give a broad overview, I will necessarily have to avoid going in much depth into

@@ -1,0 +1,25 @@
+2 0.15+
+= 0.10;
+& 0.05 +
+
+0 2 4 6 8 0 2 14 0 2 4 6 8 0 12 14
+
+age (x) age (x)
+Figure 1. The effect of survivorship curves (plots of age x versus In(/,)) on the likelihood that a death during age x is caused by cancer rather than some other
+mortality source, c,. Figure 1@ shows the three survivorship curves for the beaver model, where the Type Il survivorship curve (relatively constant death rate with
+age) is our baseline model. The Type | (increasing death rate with age) and Type Ill curves (declining death rate with age) are modifications to the baseline where
+the values of /, have been adjusted to keep life expectancy and net reproductive rates relatively constant. The Type Ill curve results in the highest optimal level of
+cancer suppression, u* = 0.111, and the lowest lifetime likelihood of dying of cancer, C= 0.0184; while the Type | is opposite (u* = 0.100, C = 0.0239). As
+shown in figure 16, this is despite the fact that the age-specific cause of death from cancer rises most steeply for the Type Ill curve and least for the Type I. This is
+because with a Type Ill curve, the death rate from other causes declines with age, whereas the likelihood of dying from cancer always increases with age in our
+model regardless of survivorship curve. The gyrations in figure 1b for Type II survivorship are because we have used actual published data for beaver survivorship that
+has presumably stochastic variation in age-specific mortality from other causes with age—hence for age classes with unusually low death rates, a high proportion of
+those deaths shall be from cancer.
+
+0.35 age classes while holding Ro constant. For early reproduction,
+we doubled the value of m, at age x < 3 and halved later m,
+
+0.30 (x > 2). This results in a lower generation time and a lower
+5 early reproduction optimal level of cancer suppression. For later reproduction, we
+5 0.25 halved values of m, for x < 4 and doubled m, for x > 3. This
+2 doubled m, results in a longer generation time and higher evolutionary

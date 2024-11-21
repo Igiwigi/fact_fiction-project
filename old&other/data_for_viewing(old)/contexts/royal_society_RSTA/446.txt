@@ -1,0 +1,25 @@
+and w, in particular on its time derivatives. This equation is solved with a modal approach by
+using separation of variables and expressing the deformation w as bi-linear combinations of
+the eigenfunctions of vibrating beams satisfying the plate boundary conditions in both x and
+y directions. Each of these combinations represents a plate mode and it is associated with an
+unknown amplitude depending on time. The number of eigenfunctions in x and y is taken to
+be finite, say Ny and Ny, leading to N=Ny, ~Ny plate modes, then the modal expression of w
+is introduced in equation (2.5) and the resulting equation is projected along each of the N plate
+modes. This leads to a linear ordinary differential (in time) equation system for the N unknown
+amplitudes of the modes.
+
+For simplicity purposes, we have here used a ‘thin-plate’ theory (e.g. Kirchhoff—-Love plate
+theory). However, nothing prevents the use of a more complicated model valid for thick plates
+(e.g. Mindlin-Reissner plate theory). In fact, the DD strategy is independent of the chosen plate
+
+
+theory. Hence, the mentioned strategy can be applied also in combination with higher order
+plate theories, as long as the plate model gives both the displacement and the displacement
+velocity back to the fluid solver and receives as input from it the fluid pressure on the plate.
+When the DD strategy is used, and the three-dimensional solver is used in the fluid region
+containing the structure, p is obtained by solving the fluid-structure coupled problem, i.e. it is
+affected by the plate elastic behaviour. In more detail, the structure represents a solid deformable
+interface immersed in the fluid domain. This interface is identified at any instant by a level-set
+function, similarly to what is done for the gas—water interface. Inside the body, ‘guard’ cells
+[9] are introduced which can be considered as a sort of ‘ghost cells’. In those cells, the velocity
+component vy (P) normal to the body surface at point P is made equal to —uN(Pmirror) + 2UN wall,

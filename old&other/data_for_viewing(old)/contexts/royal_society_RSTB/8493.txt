@@ -1,0 +1,25 @@
+THEORY OF COMPUTATION of a general framework called ‘regular expressions’,
+We have an intuitive sense that some cognitive compu- Which provide a very powerful basis for computer-
+
+tations are more difficult than others. For most people, based search that underlies searching, replacing and
+it is harder to play chess or solve equations thanto buy Other functions in many computer programs. This
+groceries or drive a car. For most of us, it is more dif- ability to use regular expressions to match patterns
+ficult to parse sentences in a non-native language was first instantiated in the grep function in UNIX/
+
+(regardless of our level of proficiency) than in our Linux, and has proved so useful that the term ‘grep’
+
+native language. However, a central finding of compu- has entered hacker lingo as a verb meaning ‘to search
+ter science is that our intuitions about complexity do by computer’. ; . .
+not necessarily apply to computer programs. In fact, Regular expressions are composed using a few simple
+
+it has proved relatively easy to create machines that | but powerful rules and operators, familiar to many
+can play chess at a high level, but so far impossible to computer users. The operator *, as used earlier,
+create adequate car-driving systems. Because of this, | ™eans ‘any string of any length’ and by appending it
+an important component of modern computer science  t© Our search string (e.g. ‘string’), we can find our
+is a framework for quantifying the ‘difficulty’ or ‘com- _—‘ target pattern even if preceded by anything (*string),
+plexity’ of a computational problem or algorithm in followed by anything (string*) or buried in anything
+terms that are explicit and unambiguous. Starting with — (“string*).. More specific operators also allow us to
+the work of the brilliant mathematician Alan Turing,  SPecify a single, unspecified character (?), a character
+and combined with further insights owing to Gédel, from a particular set (e.g. numbers {0-9} versus letters
+Church, Post, Kleene, Chomsky and many others, {a—z}), or even a specific number of characters from a
+FLT has grown today into one key pillar of the theory certain set. Any time you have some pattern or a set of

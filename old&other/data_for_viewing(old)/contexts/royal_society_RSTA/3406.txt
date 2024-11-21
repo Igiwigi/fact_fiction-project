@@ -1,0 +1,25 @@
+particle case, the IPR could be energy dependent (or even yy dependent) and we always choose y
+in the middle of the spectrum.
+
+In the scenario a > ./1/2 discussed above, we expect that IPRo(w) increases by a factor of 2 for
+each spin that is coupled to the Griffiths region (at least if O itself is in the Griffiths region). This
+is indeed confirmed almost perfectly by the numerics (figure 7) for the case a = } > JT/2.
+
+5. Critiques
+
+Finally, let us comment on weaknesses of the above arguments. Regardless of the form in which
+the ‘bootstrap’ argument is phrased, it inevitably relies on the fact that thermalized regions exhibit
+some chaotic behaviour towards the distant LIOMs that are coupled to it. In the present §4, this
+was apparent in the fact that matrix elements were computed by a random matrix ansatz. One
+can certainly imagine scenarios in which the coupling of the first LIOMs would ‘kill’ the bath,
+so that it would become unable to thermalize more LIOMs. Such scenarios go under the name
+‘proximity effects’ (see [32,33], also explored in [34]). The easiest way for this to happen is if
+the system localizes in the basis of the bath-LIOM coupling Hes-loc- However, this requires that
+Hef-1oc dominates the term Hcg. For a realistic model of a Griffiths region, this is not the case, but
+it can definitely happen in toy models. For example, this will occur if the parameter a introduced
+above is taken too close to 1 without reducing Jo, because ||HGf-loc|| « Jo/(1 — «) (by summing a
+geometric series).
+
+
+Another, perhaps not entirely unrelated, concern is the following: if a random matrix
+assumption is made at each point of the ‘bootstrap’ argument, does that not ignore the

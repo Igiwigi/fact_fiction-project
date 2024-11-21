@@ -1,0 +1,25 @@
+global symmetries for the local degrees of freedom that characterize several condensed matter :8
+models [24,25]. In fact, a general, robust and numerically efficient formulation of any such : =
+symmetries in the TN framework is known; it is commonly used in simulation to achieve 7G
+
+an enhancement of the algorithm performance, as well as precise targeting of irreducible
+representation sectors [26-28].
+
+Lattice gauge symmetries differ from global ones, since they have quasi-local supports and are
+typically homogeneous, yielding a combined Lie algebra of generators which grows extensively
+with the system size [29,30]. Nevertheless, several physical contexts have been found where TN
+are an exact description of the ground states of gauge-invariant Hamiltonians (e.g. 2D toric code
+that is an Ising gauge theory) [31]. More recently, this framework has been successfully applied
+to LGT-related problems. In fact, TN represent microscopically the local Hilbert spaces and at
+the same time are tailored on a real-space wave function representation, so they can be used to
+describe real-space locality and local symmetries altogether [32-35].
+
+As previously mentioned, TN is naturally free from the sign problem [36]. In fact, for one-
+dimensional systems a number of successful studies have demonstrated the power of TN for
+HEP problems [37-39] and lattice gauge theory calculations [40-46]. In particular, it has been
+shown that TN provide accurate determinations of mass spectra and that they can map out
+a broad temperature region. They can also treat chemical potentials and topological terms
+and they have been used to study realtime dynamics [43,47,48]. TN also allows the study of
+entanglement properties and the entropy (leading in turn to the determination of central charges)
+in gauge theories, which brings new aspects of gauge theories into focus [49,50]. By quantitatively
+validating quantum simulators in out-of-equilibrium situations, even if only in lower dimensions,

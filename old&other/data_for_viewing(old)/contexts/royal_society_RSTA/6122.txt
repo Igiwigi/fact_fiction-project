@@ -1,0 +1,25 @@
+process, in particular during prototyping and initial experimental stages of chip thinning.
+
+On the other hand, there is wet etching, which has been described in [64] as a technique that
+requires both pre- and post-processing, unlike the two other techniques already described. The
+methodology would be as follows: first deposit a mask layer on the back side of the wafer, process
+the front side and then etch the back side. The advantages of using such a technique would
+be that, firstly, it is a well-established technique, with studies being done on neural probes as
+early as 1997 [70], meaning that there is substantial literature to compare to when performing
+experiments. Moreover, as reported in the literature, low thicknesses of approximately 15 ym have
+been achieved by Dahiya et al. [71] in flexible substrates using tetramethylammonium hydroxide
+(TMAH) as the etchant, demonstrating its potential for translation to neural probe scenarios,
+where low thicknesses are desirable. However, one should note that this technique also poses
+some challenges such as the fact the wafer could be too sensitive to the etchant concentration [72].
+
+Furthermore, in more recent years, more research studies have been published on other
+methods of chip thinning such as layer transfer methods and epitaxial-based wafers, which will
+be briefly introduced. The former set includes methods such as proton-induced exfoliation which
+uses a beam of hydrogen ions to, as its name suggests, exfoliate a layer of the wafer when they are
+heated. This method, however, has been deemed unsuitable currently because it causes too much
+damage to the electronic components [64,73]. The latter method of epitaxial-based wafers includes
+techniques such as the one created by ChipFilm Technology [74] which entails the use of two
+porous layers, each of a different porosity, between the silicon epitaxial layer and the substrate.
+By lifting off the epitaxial layer, thinning is achieved. With this method, thicknesses of down to
+15m have been obtained, as shown in [75]. However, warpage has been reported [76] and there
+are no studies found by the authors done on neural probes currently, so more research should be

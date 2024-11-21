@@ -1,0 +1,25 @@
+bands depend on the number of parallel ducts, the cross-section area of each duct and its
+Helmholtz number, ie. the product He=@L/c, where is the angular natural frequency, L
+the duct length and c the speed of sound [4,7]. Increasing the number of parallel branches to
+form an N-duct HQ tube allows for enhanced attenuation characteristics if appropriate tuning
+of branch length and cross-section is achieved. Fundamentally, tuning can be achieved either
+thought changing the branch lengths and cross-sections or the branch celerity. However, there
+are certain cases where specific constraints render practical solutions impossible. Among several
+restrictive factors are the lack of space for very elongated branches when several modern exhaust
+pipe or hydraulic circuit applications are considered (e.g. automotive and aerospace industry
+applications). Reviewing the definition of the Helmholtz number, it is evident that instead of
+increasing the branch length reducing sufficiently the celerity could produce the same effect.
+However, considering the Kortweg-Moens approximation [13,14], the material would have to
+be very compliant and then structural integrity issues have to be taken into account. This fact
+limits the available options regarding tube materials when for example high pressure hydraulics
+are considered or extensive hosing effects might manifest.
+
+A different approach could be to enhance reflection characteristics of the HQ tube by
+introducing modulated branches. A very recent study [15] introduces the concept of the Virtual
+HQ tube. In the Virtual HQ tube, a periodic array of identical resonators is embedded in
+one of the branches. This approach has been found in [15] to exploit periodicity and generate
+broadband attenuation, hence leading to very efficient silencers. The basic idea in [15], i.e. to
+use the properties of periodicity, is adopted in the present study as well. Only in this case
+is the pipe stiffness or thickness properties vary periodically. Of course, modulations of pipe
+stiffness or thickness can produce enhanced transmission loss even when a single pipe is used
+[16,17]. A key hypothesis of the present study is that synergies between pipe modulation

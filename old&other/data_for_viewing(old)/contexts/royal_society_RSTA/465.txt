@@ -1,0 +1,24 @@
+the varying operating conditions observed in wind turbines and discussed earlier, a damage
+detection scheme is rather challenging. Another major issue is the appropriate choice of sensing
+technologies of the blades that could be applied in order to achieve a reliable online SHM system.
+
+Some of the related research studies use either passive or active sensing technologies in the
+context of wind turbine blade SHM [35]. The difference between the two sensing approaches
+is that in passive sensing techniques there is no external/artificial excitation as is the case in
+active sensing techniques. In [36,37], an overview of sensor diagnostics for active sensing SHM
+systems by using piezoelectric transducers is given. In addition, an investigation of the optimal
+demarcation date that is essential for the proper normalization of active sensing data during their
+collection is presented.
+
+Despite the fact that many SHM techniques and sensing technologies have been discussed
+in the literature for damage detection in blades, there has not been much progress on robust,
+online applications of these techniques in the SHM of in-service wind turbine systems. Some of
+the methods that have been applied in references [35,38-44] include vibration monitoring-based
+methods (accelerometers, piezo or microelectromechanical systems (MEMSs), strain (strain gauge
+or fibre optic cables), ultrasonic waves which are popular with composite structures (piezoelectric
+transducer), smart paint (piezoelectric or fluorescent particles), acoustic emissions (usually
+barrel sensors), impedance techniques (piezoelectric transducer), laser vibrometry (scanning laser
+Doppler), impedance tomography (carbon nanotube), thermography (infrared cameras), laser
+ultrasound (laser devices), nanosensors (electronic nanoparticles) and buckling health monitoring
+(piezoelectric transducer). In addition, wireless systems seem to be a good solution in the case that
+structures are remotely placed such as wind turbines. The main disadvantage of wireless sensors

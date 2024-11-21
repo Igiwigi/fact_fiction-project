@@ -1,0 +1,25 @@
+demonstrated by the results shown for the simulation and real data examples. Moreover, we
+introduce a procedure to speed up the optimization of parameters w.r.t. the original proposal
+in [12].
+
+We applied the proposed formalism to two datasets of cardiovascular and respiratory time
+series and compared the values obtained by the new total measure of causality with those
+
+
+from the standard GC. In cardiovascular variability analysis, instantaneous interactions typically
+occur as within-beat effects between the observed time series (e.g. the heart period, arterial
+pressure and respiration) which likely result from common driving factors such as the neuro-
+autonomic regulation. Therefore, it is important to account for instantaneous effects in the
+analysis of GC between cardiovascular time series, also in view of the fact that GC quantifies
+the causal effect that the underlying mechanism (in this case, autonomic control) has on the
+measured variables, rather than quantifying the mechanism itself [28]. In other words, data-
+driven methods to infer statistical dependencies always come with this ambiguity of confusing
+map and territory, and methods used to compute them with target properties of the system
+under exam [29]. Our results show that the spectral iGC, differently from the standard GC,
+peaked more clearly at the physiologically relevant frequencies when instantaneous effects were
+significant. For the first dataset, investigating the effects of postural stress on cardiovascular
+and cardiorespiratory interactions, we observed that the inclusion of instantaneous causality
+allowed us to correctly identify expected effects on the baroreflex control of the heart rate and on
+cardiorespiratory interactions. In particular, we observed that, when considering instantaneous
+causality, the influence of SAP on the RR intervals increases at low frequencies and that the non-
+baroreflex influence of the respiration on RR decreases in the high-frequency range. Moreover,

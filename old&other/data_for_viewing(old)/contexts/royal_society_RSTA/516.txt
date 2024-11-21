@@ -1,0 +1,24 @@
+
+very strong. Also, none of the methods is able to allow us to distinguish between the aluminium
+and silicon.
+
+The reconstructions with the nonlinear model are shown in figure 5. We here use
+our conjugate gradient method with a range of constraints, positivity, low rank, wavelet
+row-sparsity, wavelet-tree sparsity, a combination of wavelet row-sparsity and low rank, a
+combination of wavelet row-sparsity and non-negative matrix factorization and non-negative
+matrix factorization on its own. While some of the results have reduced beam-hardening artefacts,
+the artefacts are still visible here. However, the use of the matrix models has led to better SNR
+figures, especially for the model that combines wavelet row-sparsity with a non-negative matrix
+factorization. For the same constraint, the nonlinear model leads here to worse SNR results
+compared with the linear model. This is due to the fact that the nonlinear model has significantly
+more parameters. But once we start to use some of the constraints that are only available for
+matrix models, such as the non-negative matrix decomposition constraint, we see improvements
+over the linear model.
+
+The results for the Shepp—Logan phantom are summarized in figures 6 and 7, where we show
+box plots of the SNR values achieved with the different methods for 10 different random instances
+of the two problem settings.
+
+Again, while the non-convexly constrained linear approaches do in general work as well as if
+not better than the approaches based on the nonlinear cost using the same constraints, using more
+advanced constraints such as the non-negative matrix factorization can preform much better.

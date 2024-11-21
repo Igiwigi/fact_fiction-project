@@ -1,0 +1,25 @@
+larger-scale mechanisms. In §2, I show how levels and hierar- notion of level was introduced by Marr [22], who characterized
+chy figure centrally in the mechanistic perspective. The flat different levels of inquiry. The appeal to levels in discussions of
+nature of network representations is, however, misleading as mechanism is limited to a compositional sense in which com-
+the analysis of networks often involves identifying hierarchical ponents, whether characterized structurally or functionally,
+organization implicit in networks. A first step in recognizing are constituents of mechanisms. Not any compositional
+this is to recognize that clusters can be identified at multiple account, however, gives rise to mechanistic levels—a further
+scales, with smaller-scale clusters serving as constituents of condition is that the components work together to generate a
+larger-scale clusters. In §3, I will start there but move on to phenomenon. Starting with the mechanism as a whole, ident-
+consider how explicitly hierarchical representations of biologi- ified in terms of the phenomenon for which it is responsible,
+cal knowledge, such as found in bio-ontologies, are used to the collection of entities that constitute the responsible
+interpret networks. In §4, I turn to one recent effort that uses mechanism are at the same level [23,24].
+hierarchical representations from bio-ontologies to structure This two-level perspective is expanded into a full hierarchy
+artificial neural networks (ANNs) trained to predict pheno- as a result of the fact that the components of a mechanism can
+types from genotypes. The resulting network representations be decomposed into their own parts and operations. Thus,
+reveal a hierarchy of levels and serve to expand mechanistic there will be multiple levels at which mechanisms themselves
+understanding of cell functioning. work together to generate a phenomenon and so constitute
+Throughout this paper, I will focus on examples of research higher-level mechanisms. These higher-level mechanisms can
+on intracellular networks in the model organism Saccharomyces then interact with other mechanisms to produce yet other
+cerevisiae (brewer's yeast), a single-cell eukaryotic organism phenomena. There is, however, an important qualification to
+that has been extensively studied. The nodes in these networks this hierarchical account—the notion of level is only defined
+represent either genes or proteins and various modes of inter- between a particular mechanism and its constituents. There is
+action between them (e.g. epistatic interactions between genes no reason to assume that the constituents of two different parts
+or binding between proteins). The lessons, however, are not of a mechanism are themselves at the same level and so there
+limited to yeast but apply to network research more broadly. is no basis for identifying levels across the natural world. What
+is central to the characterization of mechanisms is that locally

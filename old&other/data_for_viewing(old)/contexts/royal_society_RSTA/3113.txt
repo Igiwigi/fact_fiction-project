@@ -1,0 +1,25 @@
+make a moment truncation followed by a Hilbert expansion to compute higher order flux terms.
+
+Computation of all the terms in the Hilbert expansion would be a challenging task to say the
+least. A formula for fo is easily obtained by solving the equation Q(fo, fo) = 0. This yields
+
+ca) Ig = ue, HP
+fo) = rag, ype OP (- 20x, ) (3.4)
+
+for some density p > 0, absolute temperature @ > 0 and velocity u in R°.
+
+Substitution of fo into the five balance laws given by the first five moments of the Boltzmann
+equation yields the classical Euler equations displayed in the previous section where viscous
+and thermal diffusion coefficient are set to zero. In fact, both Maxwell and Hilbert were able
+to compute f;, and then substitution of the truncated expansion fo + €f; into the five balance
+laws yields the Navier-Stokes—Fourier system. But as noted earlier, Maxwell realized that the
+Navier-Stokes—Fourier system was unable to predict the motion of the Crookes radiometer.
+Hence, Maxwell did the obvious next step and attempted to compute the next higher order
+correction f7. When the Hilbert expansion is written in terms of the macroscopic quantities
+of density, temperature, velocity and the spatial derivatives thereof it becomes the Chapman—
+Enskog expansion. The term f: was computed in complete generality by Burnett [33-35] and
+hence when the truncated sum fo + €f; + €?f2 is substituted into the five balance equations the
+
+
+resulting system is called the Burnett equations. Some of the relevant terms that Maxwell was able
+to evaluate are indeed identical to the terms Burnett computed some 50 years after Maxwell. As

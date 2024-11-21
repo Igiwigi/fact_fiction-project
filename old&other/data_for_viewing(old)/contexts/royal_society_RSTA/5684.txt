@@ -1,0 +1,25 @@
+influential and non-key indexes. Table 4 shows details of the results.
+
+
+After the subsequent addition of Model II for optimal resource allocation for all indexes, the
+economic benefit has increased by around 45%. Besides, in Model II, we ensure Constraints
+(3.7) and (3.8), which could release the workload of healthcare service providers (e.g. a gay-
+led community organization in our program). That includes follow-up on participants after
+secondary distribution and self-testing for feedback on the testing experience, participants’ health
+management, and so on. However, in a conventional self-application pattern, the follow-up
+workload of healthcare service providers is heavier.
+
+Additionally, note that the general greedy algorithm for Model Il is not as effective as for Model
+I, but our sub-grouping greedy algorithm plays a part. That might be owing to the fact that the
+fine-tuning process of general greedy algorithm is restricted by Constraints (3.7) and (3.8). The
+point is that in the general greedy algorithm, the fine-tuning function considers [n/2] pairs of x
+and over 25% pairs fail in being eligible for Constraints (3.7) and (3.8) based on our real data. In
+sub-grouping greedy algorithm, the fine-tuning function considers [c/2] + [p/2] + [0/2] pairs of x
+(where c + p +0 =n). All pairs of x in the fine-tuning process of sub-grouping greedy algorithm
+were automatically eligible for Constraints (3.7) and (3.8). Hence, we only need to check other
+constraints and whether S’ > S. The result of the sub-grouping greedy algorithm for Model II has
+demonstrated this point.
+
+6. Conclusion
+
+Secondary HIVST kits distribution has proven to be an effective strategy in HIV prevention

@@ -1,0 +1,25 @@
+expressed GAL4 drives expression of the reporter with
+the same cellular specificity, allowing one to visualize the
+expression (figure 2).
+
+Rather than relying on random transposon insertion, one
+can logically select promoter regions from genes that are
+known to be expressed in the cell type of interest, to drive
+GAL4 with a similar cell-specificity. For example, the TH
+gene encodes tyrosine hydroxylase, an enzyme that is required
+for the synthesis of dopamine [35]. Consequently, a fragment
+from the TH-promoter [36] directs gene expression in some
+dopaminergic neurons (although this not always infallible; in
+fact, the heavily employed TH-GAL4 does not label rewarding
+dopaminergic neurons [37,38]). Similarly, a fragment from the
+acetylcholine transporter drives gene expression in many
+cholinergic neurons [39]. These two examples, however, pro-
+vide expression control confined to most of the cells that use
+dopamine or acetylcholine but not to defined subsets of this
+cell type in a particular region of the brain. This is important
+because it is clear that anatomically discrete neurons that use
+the same transmitter have unique functions. This is exemplified
+by fly dopaminergic neurons; those in the central complex
+regulate arousal [40-42], whereas others innervating discrete
+zones in the mushroom body lobes convey positive or nega-
+tive reinforcement [21,37,38,43,44], or provide motivational/

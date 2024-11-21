@@ -1,0 +1,25 @@
+correlated. In particular, the correlations C for So,1,2 approach 1, whereas those for $3 approach —1.
+This is the signature that one mode is the time reverse of the other (cf. equation (4.1)). At the
+bandedge itself, the lower and upper modes have the same frequency and are each other’s time-
+reversals. In particular, note that having degenerate modes lifts the condition that $3 =0 and
+allows the existence of chirality, even in the standing wave with vg = 0. Observing the chirality of
+these two modes is instructive; in the regions where one is left handed the other is right handed
+and vice versa (figure 3d).3
+
+Importantly though, using the C-points present in the glide waveguide at vg = 0 will not result
+in unidirectional emission dependent on spin. Nature conspires against the use of the C-points
+present at the bandedge: whereas in the W1 waveguide the left- and right-handed C-points
+approached each other in position and annihilated at the bandedge, in the glide waveguide :
+they approach in frequency and annihilate at the bandedge. This unfortunate fact is caused [=
+by the multi-mode nature of the waveguide at the bandedge. The two degenerate modes have 23
+oppositely handed C-points at identical locations and frequencies. For example, at the location
+of a right-handed C-point in the lower mode, there will be a left-handed C-point in the upper mea)
+mode with the same frequency and group velocity. Thus a right-handed circular dipole (such as a :
+spin-down electron transitioning to the ground state in a quantum dot) placed at this location will a]
+only emit light into the forwards direction of the upper mode. However, it will also emit an equal DNS
+power into the backwards direction of the lower mode, resulting in no overall directionality. iG
+
+Before proceeding further, it will be useful to introduce the directionality, —1 < n < +1, whichis D&
+defined as the difference between how much power is emitted by a right-handed circular-dipole- .
+like emitter into the forwards and backwards waveguide modes, normalized by the total power
+emitted into the waveguide. Values of n = +1 indicate full emission into one direction or the other

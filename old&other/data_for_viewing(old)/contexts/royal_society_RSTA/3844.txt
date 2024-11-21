@@ -1,0 +1,25 @@
+
+restricted classes of control laws, e.g. linear control [72,73], sample-data control [73], simple
+adaptive control [74], sliding mode control [75,76], etc. A lot of attention was devoted to controlled
+synchronization of fractional-order systems [75,77,78].
+
+6. Cybernetics and thermodynamics
+
+Thermodynamics is a field of physics where methods of cybernetics (information theory and
+
+control theory) have been actively applied for several decades. Even its classical results can be : =
+interpreted in the ‘cybernetic spirit’ using the maximum entropy (MaxEnt) principle: a system : S
+evolves to a state with maximum value of entropy compatible with all constraints imposed 73
+by other physical laws [79,80]. In fact, connection between Second Law of Thermodynamics, : &
+information and control was hidden still in the ‘Maxwell’s Demon’ introduced by Maxwell as 22
+early as in 1867. Unveiling this connection, this Demon's puzzle is still continuing even in a century : 4
+and a half after the Demon’s birth. The modern understanding of this connection starts with the : iS
+seminal result of Rolf Landauer, who proposed in 1961 a fundamental link between information : Ss
+and energy (Landauer’s principle) [81] (see [86, p. 190601-1]): [8
+
+Erasing information in a macroscopic or mesoscopic system is an irreversible process that
+should require a minimum amount of work, kT In 2 per bit erased, where T is the system
+temperature and k is Boltzmann’s constant.
+
+Apparently, Landauer’s principle looks like one more law of cybernetical physics. Later
+Bennett [82] and, independently Penrose [83] related Landauer’s principle to the paradox

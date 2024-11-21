@@ -1,0 +1,25 @@
+exhibit the phenomenon of transient-induced global response
+synchronization (TIGoRS) [33]. This involves the appearance
+of a stable correspondence between random samplings of cer-
+tain spatio-temporal transients input into the automaton and
+the subsequent responses of the automaton. This synchroni-
+zation occurs at the global level between the automaton
+and the transients, and not between the cells of the auto-
+maton. When TIGoRS is present, there is a nonlinear
+relationship between the input sampling rate and the
+Hamming distance between the transient stimulus and the
+transient response of the automaton. This synchronization
+
+occurs in spite of the fact that the underlying rule space of
+the automaton is constantly changing. The presence of
+TIGoRS demonstrates that finite duration spatio-temporal
+transients are the proper dynamical states to be studied. In
+the presence of TIGORS, the dynamical action on these tran-
+sients causes the dispositional cellular automaton to act as a
+primitive stimulus-response system [33].
+
+In addition, the nervous system is riddled with intrinsic
+randomness. The release of neurotransmitter by a neuron is
+random [34]. The response of a neuron to repeated presenta-
+tions of the same stimulus appears to be stochastic [35].
+The response of a population of neurons to a stimulus also

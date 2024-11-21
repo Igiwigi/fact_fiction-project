@@ -1,0 +1,25 @@
+In [27], we make two convenient variations. First of all, we are not going to require zero
+curvature because the effect of curvature is visible only at order 47, so we do not really need
+this in the order 4 theory. If there is curvature, then it will not be possible to have an associative
+differential calculus of classical dimension on A, but this is actually a situation that one frequently
+encounters in non-commutative geometry. We can either absorb this in a higher-dimensional
+associative differential structure or we can live with non-associative differentials at order 7.
+Strictly speaking, the same applies to the Poisson bracket obeying the Jacobi identity not being
+strictly needed at order 22, in which case we would have A itself being non-associative. Secondly,
+for simplicity, we are going to make the assumption that V, is indeed the restriction of an actual
+connection V. This will allow us to speak more freely of geometric concepts such as the contorsion
+
+
+tensor. In fact this assumption is not critical; if the Poisson tensor in these coordinates is w”, then | 10 |
+we are in most formulae making use only of the combination V“ := w“V,, rather than the full
+
+covariant derivatives V,, themselves. It means that our data have redundant ‘auxiliary modes’ “a
+that do not affect the quantum differential structure at order 4, a situation not unfamiliar from [a
+other situations such as gauge theory. There is also the matter of extending from 2! to forms of is
+
+all degrees but this turns out [27] to impose no further conditions.
+The third layer is the construction of a quantum metric and the natural data for this will be
+a classical metric g on M. As one might guess, the metric compatibility of V is just that Vg=0.
+To avoid confusion, we will write V for the classical Levi-Civita connection of g and we let S be
+the cotorsion tensor of V whereby V=V+5S. Itis well known, in general relativity, that a metric- 75
+compatible connection is determined by its torsion tensor T or equivalently a cotorsion tensor ie

@@ -1,0 +1,24 @@
+
+instantaneous charge distribution, we have
+div (egrad ¢) = —4mp, (2; 7)
+which, on substituting in (2, 6), shows that cA will be non-divergent. We can therefore
+take, without loss of generality,
+diveA = 0. 2, 8)
+It is also convenient in the present case to define a new vector A, by the relations
+A, = A-+grady, y =¢, so that E As. (2, 9)
+It is then readily found that A, satisfies the equation
+curl curl A, — grad log vzacurl A, + AnxuA, +peA, = 0. (2, 10)
+
+If the field varies sufficiently slowly, the displacement current D/4m will be small
+and ¢ will be approximately non-divergent. In fact D may be neglected in equation
+(2, 2) if it is small enough compared with either ¢ or curlH. When the field is oscil-
+latory with a period of order T, D is of order ¢E/T and ¢ of order «E, so that
+
+Dec if T>e/k. (2,11)
+If this condition is satisfied the medium will behave like an ordinary conductor. In
+electromagnetic units ¢ is of order ¢~*, where ¢ = 3°10" cm.sec.', so that even if'« is as
+small as 10>2° e.m.u., 7 has only to be greater than a few seconds.
+
+Ina dielectric, D may still be ignored if it is small compared with curl H. The latter
+is of order H/L, where L is a length representing the scale of the field; also H is of order
+E/uL, so that curl H is of order ET/uL?. Hence

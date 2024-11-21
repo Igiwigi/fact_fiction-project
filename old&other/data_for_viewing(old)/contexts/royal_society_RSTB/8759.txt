@@ -1,0 +1,25 @@
+triangular grid as the rat forages in a square arena (path shown in black,
+spikes superimposed), adapted from [2]. (b) The grid scales (spacing between
+neighbouring firing peaks) of the grid cells in each of five rats are clustered
+around discrete values, adapted from [2]. (c) The orientations of the grid-like
+firing patterns in each module were also significantly clustered, in all five rats.
+Grid orientations are shown for rat 217 for the small (black), medium (light
+grey) and large (dark grey) grids, adapted from [2]. (d) Differences in the
+orientations of grids are greater between modules than within modules,
+but are still significantly clustered between modules (compared with the uni-
+form distribution between 0° and 30° expected for independent modules),
+adapted from [3] with permission. (Online version in colour.)
+
+scale increases by a fixed factor, producing a geometric series could be detected (and potentially corrected) by the fact
+of scales, with scale factors reported in the range between 1.3 that they would correspond to sudden large changes in the
+and 1.7 [2,3]. However, given the high variability of grid corresponding place cell representation of location.
+scales within each animal and the difficulty in concurrently Recent experiments have shown that the spatial scale of
+observing neighbouring grid modules [3], it is not clear grid cell firing patterns increases whenever the rat is put
+whether this geometric arrangement is precise or just a into a novel environment [13]. Note that this phenomenon
+rough approximation. contrasts with the view that grid cells provide a fixed
+The firing of grid cells within a single module represents metric for space (e.g. [1]). It also appears to reflect a different
+the location of the animal within each repeating cell of the mechanism than the parametric response of grid firing pat-
+grid firing pattern, but does not distinguish between the cor- terns to spatial deformation of the environment [2]. When a
+responding locations in different cells of the firing pattern. familiar environment is changed in shape and size, the
+The precision of this representation depends on the level of grids show a partial change in spatial scale, most probably
+noise in neural firing, the shape of the spatial distribution reflecting associations to environmental sensory information,

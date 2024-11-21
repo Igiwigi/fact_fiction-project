@@ -1,0 +1,25 @@
+ECHAM6-FESOM turns out to be very different. The mean sea ice volume in the Arctic and
+Antarctic remains largely unchanged with the stochastic scheme switched on. In the Arctic, this
+can be explained by the fact that in an integrated sense the increase of sea ice thickness north of
+Greenland and the Canadian Arctic Archipelago is accompanied by a loss of sea ice in the central
+and eastern Arctic. This reflects the increased transport of sea ice from the eastern to the western
+Arctic which is also reflected in increased sea ice velocities. The same argument holds for the
+
+
+Antarctic. However, in the Southern Hemisphere, sea ice shows evidence of being increasingly
+transported eastward and changes in thicknesses are smaller than in the north.
+
+The fact that the coupled system responds differently to a stochastic sea ice parametrization
+compared with an uncoupled model highlights the fact that care has to be taken when results from
+uncoupled experiments are extrapolated to the coupled climate system. The results suggest that
+by incorporating the atmosphere a negative feedback is introduced that prevents the stochastic
+effect in the coupled model from accumulating. Given the slowness of the accumulation process
+in the uncoupled model (figure 1), it is likely that even a relatively weak negative atmospheric
+feedback would be sufficient to prevent the stochastic sea ice parametrization from influencing
+the mean climate of the coupled system. Given the strong variability of sea ice on a wide range of
+timescales, therefore, pinning down the exact negative mechanisms is challenging.
+
+However, one reason for the discrepancies between the coupled and the uncoupled simulation
+might have to do with the atmospheric response (or lack thereof) to an increased amount of : =
+open water during the freezing season owing to the stochastic sea ice parametrization. In the 3
+uncoupled stochastic simulation, the fluxes are fixed, and therefore the atmosphere is prevented

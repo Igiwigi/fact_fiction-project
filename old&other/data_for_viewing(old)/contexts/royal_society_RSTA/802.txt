@@ -1,0 +1,25 @@
+density matrix and we will consider this later).
+
+For a fixed state vector A, there are Hamiltonians which generate the same dynamical
+evolution of Proba(t). It is useful to briefly illustrate this, because it motivates the discussion
+of the more general case. Let us consider the situation when |) =A = (4). Then, Prob,(t) =
+\(W(B)|A)|2, where |y(t)) =e7#"? |A), and n-o isa general Hamiltonian. Since |y(t)) = ew imo |),
+then Prob,(t) = |(Ale~? |A) |?. Now consider an alternative Hamiltonian, produced by rotating
+n by an angle a about the z-axis; the new Hamiltonian would be given by n'-o. The
+corresponding unitary operator is given by n'-o =e~#:/2n. gel"?:/?, Noting that Ce®C-l=
+CBC (this identity is independent of whether B and C commute and can be easily verified
+with a Taylor expansion), we have |w/(t)) =e7!!""*|A) =e tet Pmae1 4) So, Prob’ 4(t) =
+[W(BIA) I? = | (Alei#0=/2e-tttr9 eta: /2|A) |? = |(Ale~i#/2ei @it/2|A) |? The last equality employs
+the fact that oz|A)=|A)=(}), and then the three operators e!“/?, e~i"@ and e~!*/? commute.
+So we conclude Prob’ 4(t) = |(Ale~#"* |A)|?, exactly as before. In the Bloch representation, it
+corresponds to the same behaviour of projection of the evolved state vector on the z-axis (cf.
+figure 2c with e and figure 2d with f). Note that this analysis relies on the particular relation
+between the state and the form of considered Hamiltonians. In general, the Hamiltonian will
+have impact on the dynamics of Proba(t). This is best illustrated with the Bloch sphere, in terms
+of the effect of each of oy, oy and o, on the rotation of the state vector.
+
+We always consider Prob, (t), A = (4). Consider a comparison between |y(t1)) =e!" |yW(to))
+and |y(tz)) =e" |y(to)), where ty > t;. As time increases, we can think of # as tracing the
+circumference of a disc whose centre is n. So, if |y(t1)) is set as in figure 2a, then an increase in t
+will translate at first into an increased Proba(t), followed by a decrease; eventually, it will return
+to the initial value. If all we are interested in is changes in Prob,(t) with time (or some other

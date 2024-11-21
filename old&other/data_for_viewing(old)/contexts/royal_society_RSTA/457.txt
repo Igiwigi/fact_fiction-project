@@ -1,0 +1,25 @@
+example, taking monthly mean observations of only temperature and salinity in the top 2000m
+of the ocean (similar to the Argo array sampling frequency and depth range) was found to
+be sufficient to produce skilful forecasts of the AMOC (figure 15b). Initial conditions in the
+atmosphere were found to be less important on the decadal forecast time scale, at least in that
+model (figure 15c).
+
+The experiments examined so far do not tell us what the key locations are for observations
+in order to give us the predictability in the AMOC and hence associated climate impacts. This
+question was the subject of further idealized model experiments in [42] where the impact of
+removing data in each of the following three regions was assessed in turn: (i) the North Atlantic
+subpolar gyre (SPG), (ii) the tropical Atlantic, and (iii) the tropical Pacific (figure 16). In these
+experiments, the AMOC was assessed at a latitude of 26 N (the latitude of the RAPID array—
+discussed later), which is significantly south of the North Atlantic SPG region and in fact on
+the edge of the tropical Atlantic region. Figure 16b shows that sustaining AMOC forecast skill
+is dependent on initializing the North Atlantic SPG region. This is a nice illustration of the
+widely held conceptual model of the AMOC (e.g. [43]) as being driven by density changes in
+
+
+18
+7 full depth RMSE = 0.37
+
+aN
+
+18
+A 2000 m NoAt RMSE =0.40

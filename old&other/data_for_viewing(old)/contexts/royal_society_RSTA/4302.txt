@@ -1,0 +1,25 @@
+classifier when equipped with such a pre-processing method. We show some examples of the
+proposed methods when applied to real-life problems.
+
+]. Introduction
+
+Chemical plumes resulting from natural or anthropogenic emissions in the atmosphere can be
+unexpected and toxic. The detection and classification of such plumes in an efficient way would
+reduce the risk of harmful exposures [1,2].
+
+Recent advances in technology have provided hardware capability to easily measure the
+reflection energy from a large region and to generate hyperspectral images that can be used
+
+to spot and classify chemical plumes. A hyperspectral image is, in fact, a picture taken over a 3
+large number of frequencies by means of special sensors. The data produced are a hypercube : 5
+whose layers are two-dimensional images each corresponding to a different frequency. Hence : 5
+each pixel of the hypercube contains a spectral signature of the corresponding physical region 1p
+[3]. Given a hyperspectral image of an area where a chemical plume might be present, the plume : <
+detection problem can be divided into three subproblems. Namely, observing the presence of a : 3
+plume, recognizing the chemical or chemicals contained in it and classifying the pixels of the :B
+hyperspectral image. 78
+
+Solving entirely and accurately the whole plume detection problem is not an easy task. For : s
+this reason, at the end of 2012, Dimitris Manolaski and his research group at the Massachusetts 1A
+
+Institute of Technology Lincoln Laboratory, Cambridge, MA, USA, launched the Chemical-

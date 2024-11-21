@@ -1,0 +1,24 @@
+
+is to rely on a discretization of the velocity space, which leads to the discrete velocity Boltzmann
+equation (DVBE) based on the BGK operator [37]
+
+Vie{1,...,V), difi + dalfia) = ~ 26 — 3). (2.9)
+
+If the above velocity discretization is done in such a way that the matching conditions between
+discrete and continuous moments
+
+> fe Tev Eg EL = Mae (2.10)
+
+are satisfied up to the order p+q+r=n, then the macroscopic behaviour of interest is
+automatically satisfied up to the same order n [2,14]. In fact, there are several ways to enforce
+them. The most popular ones rely on the maximum entropy principle (MEP), the moment-
+matching approach or the (Gauss-Hermite) quadrature-based methodology. For the latter two
+approaches, strict conditions must be satisfied by the velocity discretization in order to obtain an
+analytical formulation of the discrete equilibrium. f. ‘4 [3-5]. Interestingly, in the context of the MEP,
+it is possible to obtain a general formulation of the discrete equilibrium that does not necessarily
+depend on the velocity discretization considered. This particular form of the equilibrium is obtained
+considering the following H-function [55]
+
+H= ei [is ()| , (2.11)
+
+alongside the set of constraints

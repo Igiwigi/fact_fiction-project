@@ -1,0 +1,25 @@
+(t). In the timespan At between collisions the piston gets accelerated by an external force F,(t) =
+Ma(t), where M is the piston mass and a(t) is the acceleration of the piston in the microscopic time
+interval [t,t + At], ie.
+
+T(t + At) =u(t) + a(t)At. (2.1)
+
+We assume that a(f) is approximately constant between two successive collisions and for
+simplicity’s sake we also assume that At is so short that only single-particle collisions take place
+within this time window. We also define the macro-variable L as
+
+Lij= lu) +u(t+ At). (2.2)
+
+In fact, the piston is a thermodynamic system of its own, but for our purposes we will consider
+it to be one rigid block with constant internal energy playing no role in any of our following
+considerations, thereby reducing it to one degree of freedom (according to our convention in the
+z-direction) that can be controlled externally. The latter further implies that the x and y particle
+velocity components do not explicitly play any role as the piston can recoil in collision events only
+in the z-direction. The inherent jitter of the piston position and its velocity around their respective
+macroscopic values, reflecting the piston temperature will be neglected in the following. This
+simplification will allow us to demonstrate the mathematical reasons of mechanical irreversibility
+without considering details that would unnecessarily complicate our discussion. For the same
+reason, we assume that the piston glides without friction within the cylinder and that heat transfer
+between possible heat-baths and the working medium (ideal gas) in the piston happens quasi-
+instantaneously, i.e. the gas temperature can still be set to the heat bath temperature. This would
+not be true if finite heat transfer coefficients would cause a lag between the working medium and

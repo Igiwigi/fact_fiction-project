@@ -1,0 +1,25 @@
+
+Traditionally speaking, the flow response (before gelation) is usually simulated separately from
+the solid response [39], and stress development is only considered in the solid state. In the solid
+state, the responses of the fibre and matrix are combined through a suitable micromechanical
+model such as Hashin’s CCA model [40,41]. To do so, either PVE or viscoelastic properties of
+
+
+the resin, along with fibre properties, are used to calculate lamina-level properties; K and G (i.e.
+bulk and shear moduli). Upon calculating the residual stresses at the lamina level, a reverse
+micromechanics approach [19] can be employed to calculate average phase level stresses.
+
+However, there are issues with the above-mentioned traditional approach. One main
+drawback is that stress development, in fact, initiates pre-gelation [42-44]. Early in the cure cycle
+when the resin is essentially a viscous fluid, interaction of tool and wavy fibre bed may result in
+appreciable stress development [42]. This effect is intensified by the mismatch of thermal strains
+(ie. CTE difference), debulking pressure, geometrical features and tool surface condition. Post-
+gelation, when the resin becomes viscoelastic, this residual stress will be shared between resin
+and fibre.
+
+From a numerical standpoint, there are perhaps two approaches to capture residual stress
+development in the material starting from the pre-gelation state.
+
+— Relying on traditional process simulation approaches to separate the flow and solid : 3
+responses [39], but incorporating the fibre-bed response into the solid micromechanics 12
+in the pre-gelation regime [45]: in order to consider the stress development pre-gelation, ae

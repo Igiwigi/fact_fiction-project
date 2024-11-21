@@ -1,0 +1,25 @@
+a partition of unity (gen , subordinate to (Uj yy: In other words, (Uj, Oia is an atlas for the
+C?-manifold 82. Multiplying (2.3) with gj leads to a localized perturbed version in Uj. Since the
+Stokes equations are invariant under rotations and translations, by choosing Uj sufficiently small,
+we may assume that the localized version is either an equation on R" or on a bent half-space
+
+Hy = {x ER": xn > hy(x’)}, (2.4)
+with a certain bending function hj : R” 1 _, R. We further transform the localized system on H, [j as
+V(X Xn) = (Wo MY, Xn) = UL Xn +HG(X’)), Xn) ERY. (2.5)
+
+The resulting system for v then is an equation on R?.. Summarizing, by this procedure the Stokes
+resolvent problem on a domain is reduced to finitely many equations on R'} or R".
+
+A fundamental problem arising here is the fact that div u = 0 is not preserved, neither under
+multiplication with a cut-off function nor by transformation (2.5). This might be the reason why
+proofs of the analyticity of the Stokes semigroup on domains rely on different methods and
+different assumptions are being imposed, depending on the approaches being used.
+
+In order to start the above localization procedure various representation formulas for the
+solution of the Stokes equation on the half space R'| have been developed by Solonnikov [33],
+McCracken [34], Ukai [35] and Desch, Hieber & Priiss [15]. All these formulae imply, in particular,
+that the associated Stokes operator generates an analytic semigroup on L5 (R3) for 1 <p < oo. The
+main result concerning domains with smooth boundaries reads then as follows.
+
+Theorem 2.6. Let n> 2, 1 <p <oo and assume that 2 C R" is a standard domain of class C3. Then
+the Stokes operator defined by

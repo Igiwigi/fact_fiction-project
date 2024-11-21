@@ -1,0 +1,25 @@
+~
+
+1
+= af (H —z)-'P'(H —z)"! dz, (4.23)
+2ni Jr
+and hence taking the derivative results in
+wy 1
+P= x fut —2))[-H'(H —2z)7!P’ +P” — P'(H —z) 1 H'\(H —z) 1 dz. (4.24)
+TT
+
+To bound this expression, we need to prove one more fact.
+
+(f) Fact about a triple resolvent
+
+We will need to analyse expressions of the form
+F(A, B) = 4 fut —z)1A(H — z)~1B(H — z)~! dz, (4.25)
+i
+
+which we will use with A, B = H’ for the norm of P” and A, B = H’, P’ for the bound on P’~’ above.
+That is,
+P’~' = —F(H’, P’) + P’"~ -F(P',H’). (4.26)
+
+JRS proved a bound on F(A, B). Since F(A, B) has both diagonal and off-diagonal blocks, they
+found the bound for each block. We review their proof below, starting from a useful expression
+for the triple resolvent.

@@ -1,0 +1,25 @@
+However, they are less sensitive to the contrast property (see
+the electronic supplementary material, figure S4 for an
+example). Secondly, contrast-based methods assume that
+periodicity in the signal is driven by transient features (such
+as high-amplitude bursts) that differ within narrow time win-
+dows centred on- versus off- pulse positions [74,79,80].
+However, these measures might be less sensitive to fine tem-
+poral regularity (see the electronic supplementary material,
+figure S4). Finally, a third family of measures include autocor-
+relation (based on high self-similarity of a periodic signal when
+shifted by time equivalent to the pulse period) ([72]; see the
+electronic supplementary material, figures S4 and S5) and fre-
+quency-tagging (based on the fact that periodic recurrence in a
+signal can be identified in the frequency domain as narrow-
+band peaks of energy centred at the frequencies corresponding
+to the pulse period and its harmonics) [29,81].
+
+These different methods and their respective assumptions,
+advantages and pitfalls are illustrated and further discussed
+in the electronic supplementary material, figure S4. In order
+to make valid conclusions about pulse prominence, it is
+crucial to consider these strengths and weaknesses, as well
+as the nature of the analysed signals. In many cases, the differ-
+ent measures might be used in a complementary way to
+provide better insight into pulse representation within a

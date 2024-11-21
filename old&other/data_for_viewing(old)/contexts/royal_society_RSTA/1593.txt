@@ -1,0 +1,25 @@
+two fixed points x‘L, the FFT calculation of the frequency shows no peaks, i.e. no periodicity. For
+the rest of the regions, it is important to notice that the amplitude does not correspond to the peak-
+to-peak amplitude A as before. On the contrary, this amplitude M is calculated as xy — x*, where
+xm is the maximum amplitude value and x* is the stable fixed point. To better show the difference
+between the amplitudes A and M we have depicted figure 3. In the legend of the panels, we show
+the values of the maximum amplitude, Mmax, of the peak and the corresponding frequency, @max,
+which is the frequency of the delay-induced oscillations.
+
+Now, we want to go further and explore the effect of the time delay on the dynamics when
+the damping yu # 0. In figure 1b,c, we can observe the amplitude variation with t for the damping
+parameter values 4. = 0.02 and py = 0.04. As in the case 4 =0 described above, a similar pattern
+of regions for the amplitude versus t is observed, though for higher values of « the dynamics
+changes. As a matter of fact, we can see how the high-amplitude oscillations, corresponding to
+Region IV, either disappear and the system remains at rest at a low energy as in the case 4 = 0.04
+or it happens for a few t values as in the case jz = 0.02. To stress out this damping effect, we show
+in figure 1d a zoom of Region IV for the 4 = 0.02 case.
+
+In order to provide analytical support for the numerical results presented above, we perform a
+linear stability analysis [17,18] for the fixed points x* = x, = +3.606. Even though the analysis
+
+
+(4) 99 ) 99
+Regions
+
+15 a P Vv 15

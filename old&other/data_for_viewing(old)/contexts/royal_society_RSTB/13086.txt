@@ -1,0 +1,24 @@
+. works that capture the qualitative aspects of the learning dynamics of the
+Subject Areas: more complex nonlinear networks used in previous work. The time course of
+behaviour, cognition, neuroscience learning in these networks can be linked to the hierarchical structure in the train-
+ing data, captured mathematically as a set of dimensions that correspond to the
+branches in the hierarchy. In this context, a new item to be learned can be charac-
+terized as having aspects that project onto previously known dimensions, and
+others that require adding a new branch/dimension. The projection onto the
+known dimensions can be learned rapidly without interleaving, but learning
+the new dimension requires gradual interleaved learning. When a new item
+Authors for correspondence: only overlaps with items within one branch of a hierarchy, interleaving can
+James L. McClelland focus on the previously known items within this branch, resulting in faster inte-
+gration with less interleaving overall. The discussion considers how the brain
+might exploit these facts to make learning more efficient and highlights predic-
+tions about what aspects of new information might be hard or easy to learn.
+e-mail: brucemcn@uci.edu This article is part of the Theo Murphy meeting issue ‘Memory
+Andrew K. Lampinen reactivation: replaying events past, present and future’.
+e-mail: lampinen@stanford.edu
+
+Keywords:
+memory, learning, complementary learning
+systems, neural networks
+
+e-mail: jlmcc@stanford.edu
+Bruce L. McNaughton

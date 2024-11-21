@@ -1,0 +1,24 @@
+of models as well. In both KH and RM variable density flows the evolution equations for the
+antisymmetric components of the Reynolds stress tensor would be required to capture vorticity
+and turnover, depending on the fidelity required of the model. While these are a straightforward
+extension (e.g. [65,77]), the validation studies against benchmark data have yet to be performed.
+We expect that near future studies will use numerical and experimental data now available [83]
+to perform the required validation comparisons.
+
+(c) Numerical implementation
+
+The spectral model calculations of LWN presented in this paper were performed with a code
+using a second-order MacCormack scheme [84] for time integration. The code uses an exponential
+grid for the wavenumber k =k; exp{z/zs;}, where k; and z; are scale factors and assumed to
+be equal to unity [1]. The variables computed are, in fact kRyn, kRij, ka; and kb. This choice
+of variables results in the cascade terms retaining a conservation form when expressed in
+terms of z rather than k. Likewise, the values of the integrals of the spectral quantities are
+easily determined, e.g. Run(t) = a” Rank, t) dk = sre Rnn(z, t)(ks/Zs) exp{z/Zs}dz. Setting k; and
+Zs equal to 1 gives Run(t) =ste exp(z)Run(z, t) dz, where exp(z)Rnn(z, £) = kRnn(k, t) The explicit
+MacCormack methodology is nominally second-order accurate in time and space, and uses two
+steps. Each of the two steps uses single-sided differences for the first-order derivatives, and the
+sides at which the differences are evaluated are different for the two steps, i.e. left side for the
+first step and right side for the second. The boundary conditions at k= 1 and k =kmax are set to
+Neumann (zero flux).
+
+3. Homogeneous isotropic decaying turbulence

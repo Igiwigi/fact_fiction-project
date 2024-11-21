@@ -1,0 +1,25 @@
+In order for the operators at and a to be adjoint to each other, the condition (k |a* |n) = (1 |a|k)
+which taking into account equations (2.5) and (2.6) takes the form f(1)di,n41 = 9(K))nk—-1-
+
+It can be seen that this condition is satisfied only when f(1) = y(n + 1). This takes place, for
+example, in the case of second quantization (2.21), (2.22), while in the general case (including
+the Doi-Peliti formalism (2.19), (2.20)), the operators at and a are not adjoint to each other. Thus,
+setting the functions f(n) and y(n) allows defining a wider class of raising and lowering operators
+than that of using an adjoint condition.
+
+3. Arbitrary operators in Fock space
+
+Any operator W acting on basis |”) can be expanded with respect to the basis |1).
+In fact, the result of the action of the operator W on the basis |1) can be expanded with respect
+to the basis |)
+
+Win) = >> walk), (3.1)
+k
+
+where w,, are the decomposition coefficients.
+Then, taking into account (2.1), the operator W can be formally represented as
+
+Wd) wank) (al. (3.2)
+n ek
+
+In particular, there is a linear operator A which acts on the basis |n), such that

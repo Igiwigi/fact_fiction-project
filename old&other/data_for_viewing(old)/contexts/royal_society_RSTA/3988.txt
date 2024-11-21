@@ -1,0 +1,24 @@
+computational burden outside the domain of interest (e.g. a protein [12-14], a DNA strand [15],
+the active centre of a protein [5], the bulk of a polymer melt [16], etc.). However, the first papers
+on the subject already realized that the AMR involves a drop in ‘resolution’ free energy across the
+hybrid layer. This feature has been more recently considered with interest as a way to measure free
+energy differences between models. The idea has been explored in references [17-20] and adapted
+to measurement of chemical potential of several types of molecules in water [17]. There have been
+several works trying to unveil the statistical physics of adaptive resolution [21] and focusing on
+different theoretical aspects. The group of Delle Site [22] has explored aspects of the statistical
+mechanics of AdResS, whereas some of us derived an energy-conserving adaptive resolution
+
+H-AdResS [18-20]. A perspective that is however lacking is a simple and clear thermodynamic : =
+description of adaptive resolution. This work is an attempt in this direction. Thermodynamics : a
+is one of the basic theories in physics, and also one of the most slippery ones. In fact, it was : 2
+only after our recent work on statistical mechanics of H-AdResS that we have been able to aes
+provide a glance of such a thermodynamic view. The strength of thermodynamics resides in its 22
+(apparent) simplicity and its enormous ability of provide useful relations between variables [23]. : S
+In this paper, we share this view and suggest several of the research lines it opens. We show DN
+that thermodynamic arguments are simple and sufficient to recover the equilibrium side of the : =
+statistical mechanics theory developed in [20], which starts from the Liouville equation associated [3
+
+with the H-AdResS Hamiltonian and climbs up to the (fluid) equations of motion for the density
+of conserved variables. The thermodynamic formalism is probably more agile for deriving new
+relations such as those stemming from the Maxwell relations. Here, we provide no numerical tests
+but rather intend to encourage the community to further research on this line.

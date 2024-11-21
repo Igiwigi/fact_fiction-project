@@ -1,0 +1,25 @@
+@ © 0.52), v © 1.39 (q © 1.63, 8 © 0.57). Computations are performed for p = 5/2.
+
+We have performed an extensive numerical exploration of the profiles of travelling breathers
+when q varies in the interval (7/2,7). We have observed a local drop in the tail size close to
+v = 1.05, where tail size over breather amplitude is close to 1.6 x 10-3. At this local minimum, the
+energy density |a,,+1(0) — ay(0)|? in the tail is extremely small (of the order of 10-16, i.e. machine
+precision). This value of v corresponds to 6 close to 0, i.e. the solution is close to a solitary wave
+(03.4 x 1074 and q ~ 2.33). This result suggest that strictly localized solitary waves exist in the
+
+
+DpS equation (1.4) with p=2.5. Another local drop in tail size occurs close to v = 0.3, but the
+phenomenon is less clear. Indeed, in this region where breather velocity v is relatively small, tail
+size tends to be small for all values of v. This is consistent with the fact that static breathers (case
+v =0) are strictly localized [46].
+
+5. Discussion
+
+We have derived several amplitude equations to approximate slowly modulated periodic waves
+in the DpS equation with nonlinearity exponent close to unity. These models provide analytical
+approximations of travelling breather solutions with superexponential spatial decay (either
+Gaussian or with compact support). From a numerical point of view, we have computed exact
+travelling breather solutions for p €(2,4] and compared them to the approximate solutions,
+observing convergence when p —> 2. Travelling breathers computed numerically are generally =
+superposed on a small non-vanishing oscillatory tail, except in special cases when they are close 3
+to strictly localized solitary waves. In the vibro-impact limit when p becomes large, we have 1B

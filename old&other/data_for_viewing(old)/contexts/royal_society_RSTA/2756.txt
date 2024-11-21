@@ -1,0 +1,25 @@
+application of Love’s equivalence principle has been proposed in [42], where the concept arises
+of a Huygens box embracing a radiative emission source for EMC tests. Only tangential magnetic
+fields on the box surface are needed to find the radiated emissions from the source by defining
+
+
+the equivalent surface current density J, =n x H, with n the outward normal to the surface of the
+Huygens box. Then curl equations with the forcing term J, are used to calculate the tangential
+components of the electric field. Alternatively to measuring magnetic fields, experimental set-
+ups may also measure electric fields. Notable examples are the sleeve dipole used at UMIST [42]
+and the atomic field probe recently conceived at NIST [43]. Therefore, defining the coherence
+tensor in terms of either electric or magnetic fields allows one to create a model of the source
+based on laboratory measurements. Combining electric and magnetic fields, it is also possible,
+in principle, to form hybrid magneto-electric CFs. In fact, any combination for which there is an
+explicit relation between the resulting coherence tensor and the Poynting vector, which describes
+the local direction of the energy flow [44], allows propagation of emissions from the source. We
+illustrate this explicitly later in this section, by showing how the coherence tensor can be used
+to devise a wave-dynamical phase-space representation from which both the energy flow vector :
+and the local energy density can be extracted self-consistently. [=
+
+In the frequency domain, this field—field CT is represented by the Fourier transform 23
+
+co Do
+Tz (Xa, Xp; @) =| e717 Cz (Xq,Xp;T) dt. (2.3) ey
+oo 5
+The averaging in (2.1) produces a function that is independent of the time reference in the case of 24

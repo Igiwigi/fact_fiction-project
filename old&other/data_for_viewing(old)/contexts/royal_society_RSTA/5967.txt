@@ -1,0 +1,25 @@
+While Problem 4.2 is quite challenging from the computational point of view, optimal solutions
+To;e),7 were found in [13] for a range of values of & and T with v=10~. They belong to
+two distinct branches, referred to as ‘symmetric’ and ‘asymmetric’, with the extreme flows
+corresponding to the initial data tig.e, on the symmetric branch exhibiting equipartition of
+enstrophy among the three Cartesian coordinate dimensions. For large values of the initial
+enstrophy &, the asymmetric branch dominates in the sense that the corresponding Navier—
+Stokes flows achieve higher values of Er(to,¢,,r) than the flows with initial data on the symmetric
+branch for the same values of £9 and T. The time evolution of the enstrophy €(u(t)) in the extreme
+flows with the asymmetric initial conditions tig,¢,,7 obtained for a fixed €) =200 and different
+time windows T is shown in figure 3a, where we see that in these flows a much larger growth
+of enstrophy is achieved than in the flow with the instantaneously optimal initial condition Ug,
+obtained by solving Problem 4.1 for the same value of €. Interestingly, we note that for some
+values of T the enstrophy €(u(t)) is in fact decreasing at early times before it starts to grow.
+A typical asymmetric initial condition to,¢,7 is shown in figure 4 where it is evident that it
+has the form of three perpendicular pairs of antiparallel vortex tubes. The evolution of the flow
+corresponding to this initial condition is visualized in the electronic supplementary material,
+movie S2. Interestingly, all extreme flows with initial conditions found by solving Problem 4.2
+have zero helicity H(u(f)) := te u(t) -(V x u(t))dx=0,f>0.
+
+
+(a) (b)
+
+10° 107
+10°
+10°

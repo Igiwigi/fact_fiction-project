@@ -1,0 +1,25 @@
+activated in the output layer given A as input than A was
+given B (figure 2f). This results from the higher activity of
+B compared to A when AB is presented in training, causing
+more strengthening of the weights connecting to B’s output
+unit than to A’s. This is consistent with findings that the hip-
+pocampus is involved in prediction rather than retrodiction
+[6,7,37-39].
+
+(ii) Representational change over time
+
+Though the TSP does not represent regularities in the initial
+response at the end of training, there is an earlier period
+where it does represent them weakly, and in fact the effect
+in this period is stronger in DG than CA1 (electronic sup-
+plementary material, figure S1a). This occurs because the TSP
+rapidly learns whatever it is exposed to, and the true pairs AB
+
+do occur more frequently. However, as the network gains
+more exposure to all transitions (BC, DA, etc.), weights max
+out and the similarity for across-pair transitions fully catches
+up. As B pulls away from AB and towards BC, the relatively
+greater similarity for pairmates weakens. CA1’s similarity struc-
+ture does not weaken over time in this way, even with extensive
+training (electronic supplementary material, figure S1c,d). To
+assess the impact of these TSP dynamics on the model’s behav-

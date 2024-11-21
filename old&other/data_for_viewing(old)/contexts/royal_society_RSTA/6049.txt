@@ -1,0 +1,25 @@
+(a) The prestress state is far from the PD and SE boundaries, p ~ {3.32955, 0}. (b) The prestress state belongs to both the PD
+and SE boundaries (coinciding for uniaxial stress), p,, * {6.65910, 0}; in this case, the reported incremental deformation is a
+zero-energy mode for the effective material. (Online version in colour.)
+
+that under uniaxial tension, loss of PD for the homogenized incremental constitutive operator
+coincides with loss of strong ellipticity SE.
+
+Similarly to figure 1, figures 7 and 8 report both the incrementally deformed grid and the
+corresponding incrementally deformed effective material (shown in orange). From both figures,
+the following conclusions can be drawn:
+
+(i) The bending moments applied at the ends of the rods correspond to a null mean stress
+and therefore do not provide any effect on the boundary of the effective material. In fact,
+this effect is a higher-order contribution within the homogenization scheme adopted here,
+so that it could be highlighted only in a higher-order description employing Cosserat or
+Mindlin continua for the effective material.
+
+(ii) At loss of PD, the effective material admits incremental deformations corresponding to
+zero second-order energy. For these deformations (addressed in the figures), an element
+of the effective material is subject to an incremental strain with null surface tractions.
+
+
+(b)
+
+8 loss of PD

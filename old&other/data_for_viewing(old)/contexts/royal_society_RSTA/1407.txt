@@ -1,0 +1,25 @@
+low-resolution counterparts. The similarity in sub-daily precipitation errors across resolution
+suggests that large-scale circulation errors are not affected much by resolution. It also suggests
+that the locations and frequency of winter and summer extreme storms resulting from the
+simulated large-scale circulation are also not greatly affected by resolution although that aspect of
+the HighResMIP simulations has not yet been evaluated. While the magnitude of extreme storms
+is substantially larger and hence more realistic at high resolution, the ‘native grid’ method of
+defining an extreme precipitation standard accounts for this and little resolution dependence
+can be robustly identified in per cent error magnitude when models are evaluated against that
+standard. Further evidence that resolution has little effect on extreme precipitation beyond what
+is expected by figures 1 and 2 is provided by the normalized error metrics of the Taylor diagrams
+(figure 5). The distance between points representing models of different resolution from the same
+modelling groups is small and both normalized RMSE and Taylor’s modified skill (table 1) exhibit
+only minor improvements at high resolution. In fact, skill values of extreme 3h precipitation
+accumulations over the CONUS region for the HighResMIP models are quite similar to global
+land skill values for extreme daily precipitation accumulations for the CMIP5 and CMIP6 models
+[23]. Indeed, as extreme daily precipitation errors are highly correlated to mean precipitation
+errors [23], it is not surprising that sub-daily errors would be closely related to daily errors.
+
+There is no systematic error pattern across all modelling groups, for all but one pair of models
+with an ancestral relationship. The CNRM-CM6-1 models and EC-Earth3P models both descend
+from versions of the ECMWF IFS atmospheric model and have very similar winter error patterns
+although differ in the summer. The other models, except CAM5.1, are largely biased high in the
+winter but mixed in the sign of summer errors. Averaged over the CONUS region, all models,
+both low and high resolution are biased high in the winter (electronic supplementary material,
+table S1).

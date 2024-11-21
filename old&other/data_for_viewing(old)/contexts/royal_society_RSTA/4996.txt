@@ -1,0 +1,24 @@
+one can directly evaluate the moments in those cases quite easily using theorems 5.1 and 6.1. Our
+data will be made available on Imfdb. org [20].
+
+We display a selection of data, in tables 2~20 for the pairs q,d: 10009, 3; 729,3; 491,4; 343, 4;
+81,5; 73,5; 49, 6; 23,7; 17, 8; 9,9; 9, 10; 5, 11; 5, 12; 5, 13; 3, 14; 3, 15; 3, 16; 3, 17; 3, 18.
+
+For k <10, and the above pairs of q,d, we list the difference and ratio between the actual
+moments M;(q,d), and the Andrade-Keating value Q;(q,d). The conjectured value Q;(q,d) nicely
+fits the actual data M;(q,d), spectacularly well in some cases.
+
+The sheer number, q/ — q*—!, of polynomials D € ya makes it prohibitive to compute the
+moments M,(q,d) for d large, at least if we do so one D at a time. One can slightly reduce
+the amount of computation for the moments by taking advantage of the fact that many D
+have the same zeta functions, see §4. The largest value of d for which we determined moments.
+was d= 18 and q=3.
+
+Our data support Andrade and Keating’s conjecture in the sense that, for given q (size of field),
+and k, the ratio between the actual moment M,(q,d) and their prediction Q;(q,d) does appear to
+tend to 1 as d grows.
+
+It seems quite difficult to determine, theoretically, the rate at which it approaches 1 as d > oo.
+However, while Andrade and Keating made their prediction for given k and q, and d > oo, we
+have had some success in determining the size of the remainder term for given k and d, letting q
+grow. We describe our findings below.

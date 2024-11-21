@@ -1,0 +1,25 @@
+removed by linearly regressing the annual mean time series at each grid point onto a smoothed
+time series of global-mean (60° S-60° N) SST, which we smooth with a 10-year running mean.
+Hence, this method removes a temporally nonlinear estimate of global SST signals. The resulting
+SSTs are then averaged over the North Atlantic basin (e.g. 0-65° N and 0-75° W). All AMV
+indices are subsequently smoothed by a 10-year rolling mean. Note that due to the use of 10-year
+smoothed global-mean temperatures to remove long-term globally forced changes from the AMV-
+Glob, this restricts the available years to 1860-2009 in CMIP6 historical runs, and comparison with
+the observations is done over this period for both AMV indices.
+
+In CMIP6 historical simulations, we assume that we can decompose the total AMV into
+internal and external components, which we will call iAMV and fAMV. In particular, we
+assume that, for each model separately, the total AMV is the sum of the iAMV and fAMV (ie.
+AMV =iAMV + fAMV). By exploiting the fact that making an ensemble mean should remove
+
+
+the internal variability to reveal the common forced response, we first compute [AMV for each
+model individually by using the ensemble mean SST. To compute the iAMV, we compute the
+relevant AMV index from each member separately, and then make this index relative to the fAMV
+index for that model; in other words, the iAMV for each individual member is defined as the
+residual variability (e.g. AMV} = AMV; — fAMV"™, where n is the ensemble member and m1 is
+the model). This method of separating externally forced and internal (or residual) variability has
+been used previously [92,96] and is often referred to as ‘de-meaning’ the ensemble. Note that,
+when characterizing the iAMV relationships for each model, we compute the desired metric for
+each member separately and then take the ensemble mean of the metric. When computing the
+AMV-Glob index for each ensemble member, we always use the model’s ensemble mean global-

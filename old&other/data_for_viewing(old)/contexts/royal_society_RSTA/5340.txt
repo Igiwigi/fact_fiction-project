@@ -1,0 +1,25 @@
+Hence, as an interim measure, the original ideas of inexactness have been adapted to be relevant
+to existing computing deterministic technologies. In this second approach, errors are induced by
+eliminating parts of the computing hardware that are not deemed to be especially important to
+the accuracy of the information being computed. Examples of the application of this ‘probabilistic
+pruning’ approach to the Lorenz 96 model are described later in this Theme Issue [55].
+
+To conclude this section, some remarks are made on the notion of seamless prediction. The key
+motivation for seamless prediction studies is that by developing weather and climate simulators
+that are as similar to one another as possible, insights and constraints from weather time scales
+(where verification data are relatively plentiful) can be brought to bear on the climate time scale
+(where verification data are less plentiful). However, in practice, ‘seams’ are inevitably apparent in
+moving from weather and climate simulators, even though these simulators may share common
+dynamical cores and parametrizations. Not least is the seam arising from the fact that weather and
+climate simulators typically have different resolutions. A way to lessen this ‘resolution seam’ may
+be possible using the ideas presented in this paper. That is to say, instead of changing from high
+to low resolution as one moves from weather to climate prediction, it may be possible instead to
+scale-selectively degrade precision with a single fixed resolution. It is planned to test this concept
+on the two-tier ECMWF ensemble prediction system, where resolution is currently degraded
+after day 10.
+
+5. Conclusion
+
+Since their inception, the PDEs for weather and climate have been solved numerically
+by projecting the equations onto a computational grid and representing unresolved processes by
+deterministic formulae. This has been referred to as the canonical numerical ansatz.

@@ -1,0 +1,25 @@
+q°Zo(M3;t) = 06), 1, p(t) + P(e), (2.7)
+j=l
+
+where p(t) is a polynomial which one can work out explicitly using (2.3). Often times, one has
+—m < bj <m for all j € {0,1,2,3} and p(t) =0. In other words, up to an overall rational power of
+q and possibly the addition of a polynomial, the quantum invariant Zo is given by a false theta
+function.
+
+Example. In this section, we will illustrate the computation of the quantum invariant and in
+particular proposition 2.2, with the example of the Brieskorn sphere M3 = ¥(2,3,7), which can be
+described as the intersection between the algebraic surface {x? + y> + z” = 0} and the five sphere
+{Ix + ly? + |z|? = 1}. It can be obtained as a plumbed manifold with the plumbing graph shown
+in figure 3. Note that M is indeed unimodular, consistent with the fact that Brieskorn sphere is a
+integral homology sphere with trivial Hj(M3;Z) = Z4/MZ and there is hence just one quantum
+invariant Zo(M3 37).
+
+
+Plugging the adjacency matrix in (2.5) one obtains
+
+m=42, (bj, 4c) = (1,1), (-13, 5), (—29, 21), (41,41) for j= 0,1, 2,3. (2.8)
+Using definition 1.1 (or (2.6)), one obtains that
+~ k y2
+. 2) — 7(83/168) (2/168)
+Zo(E(2,3,7);2) =4 > (3)4
+R=! (42)

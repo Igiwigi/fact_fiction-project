@@ -1,0 +1,25 @@
+
+Then, o (u,v) is obtained by integrating the right-hand side of (3.39):
+~ ba
+(du) =o" |" (By, ¥) ~ Bosd)) ay. (3.42)
+It is clear that, starting with the lowest-order B obtained by dropping the O(e) terms in (3.40), we
+can achieve successive approximations for o and I’.
+
+This completes the second step of reduction, but only for the simple phase equation (3.36).
+There are at least four conditions to be relaxed by which the formulation of the second step of
+reduction can be generalized. First, higher-order terms may be included in (3.36) with which we
+start. As a result, many-body coupling will necessarily be included. Second, larger assembly of
+oscillators than an oscillator pair can be treated. Third, the coupling may be asymmetric. Fourth,
+the oscillators may be slightly non-identical. The phase equation including all these facts will take
+the form
+
+ba = Wala) +€ > Gap. (bar bp) + (= CO, aba bp) + YG, alas bp, by ) +++ (3.43)
+B B By
+
+To integrate all such complex situations into the theory would not be a difficult matter if we do
+
+not mind lengthy calculations. Omitting all calculational details, we arrive at the final form of
+
+phase reduction
+
+da = 04 +€ D> M(ba — 6) + 2 (= PP) ba — 68) + CP ba — O16 — 7) te. GAs)

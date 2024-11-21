@@ -1,0 +1,25 @@
+was originally proposed by de Sitter. It was later realized that it may also be described as a model
+for an expanding universe in both time directions, because of the negligible effect of gravitational
+attraction. In fact, it is constantly accelerating with time due to Einstein’s cosmological constant
+term introduced earlier the same year that de Sitter spacetime first appeared.
+
+The de Sitter universe has no beginning or end. This universe plays the role of an ‘undisturbed’
+state for the modified Einstein equations with a cosmological term, in a similar way as does
+Minkowski space for the original field equations (i.e. with 4 = 0). However, de Sitter space is really
+different to Minkowski space in certain quantum aspects, see below. It also plays a fundamental
+role as possible asymptotic states of more general homogeneous cosmologies (see later sections
+below).
+
+In fact, there are two ‘de Sitter’ spaces, one for A positive—the de Sitter space (dS)—and the
+case of negative 4, the so-called anti-de Sitter space (AdS) (see [10] for an excellent discussion of
+these spaces, and [11] for a more specialized description of their infinity properties).
+
+Perhaps the simplest way to distinguish dS from AdS universes is that dS, like Schwarszchild
+spacetime but unlike AdS, has a horizon separating its static regions from its evolutionary ones.
+This was not clear initially, but it later became understood with the work of Eddington and
+Lemaitre. However, unlike dS space, the AdS spacetime contains closed timelike curves and is
+globally static. Normally, when we talk about AdS we simply mean its universal cover, a space
+without closed timelike curves. dS and AdS spaces are very important in current primordial
+cosmology, especially in braneworlds and holographic models of the early universe (see section
+on branes in Part B of this survey). dS space also has an instability, classically forbidden, associated
+with the possibility of defining a non-thermal temperature using the event horizon [12]. In this

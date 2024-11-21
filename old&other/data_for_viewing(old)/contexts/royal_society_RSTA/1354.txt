@@ -1,0 +1,25 @@
+environments, or (c) there are a finite number of local environments and every atom sees one
+of them, but this number is not fixed, ie. we can have bigger local environments if we allow more
+of them. (The latter is a property of a Penrose tiling with atoms at the nodes.) Given that all real
+structures are anyway bounded, these local properties seem to us to be quite promising as a basis
+for the discovery of unusual materials.
+
+We begin with the simplest example. Consider commutative generators 91,22 having the
+form (2.5) introduced in §2 but not satisfying the conditions (2.10) of discreteness. The structure
+(gighexa) : p,q € Z}, with x; not on the axis, generates points on a cylinder C of radius |z| with axis
+e (figure 1a). If the discreteness conditions (2.10) fail, then there are accumulation points on C,
+ie. G= {gigh : p,q € Z} is not discrete. However, as shown in figure 5a, by simply cutting off the
+powers p,q, large regions of the cylinder become locally objective structures with various size
+molecules. In fact, by carefully choosing the powers p,q one can arrange that there is a seam
+on the cylinder parallel to the axis e, and each atom away from this seam sees the same local
+environment, figure 5b. And, curiously, the atoms right next to the seam (on one side) also all see
+the same environment. One can arrange also that the seam is helical, figure 6b.
+
+A close examination of figure 5a reveals locally objective molecular structures with molecules
+of different size. By selecting the powers p,q suitably, one can also make a uniform molecule.
+Figure 6 shows a case with a diatomic molecule. Again, necessarily, there is a seam, which is
+chosen to be helical in figure 6b.
+
+The non-discrete groups here offer a lot of additional freedom on the structure of the molecule
+and its placement with regard to its neighbours, at the expense of a seam. For example, a much
+enlarged set of lattice parameters becomes possible that would not be possible with a helical

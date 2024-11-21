@@ -1,0 +1,25 @@
+the so-called central autonomic network (CAN). In summary, we show that, provided proper
+conditioning is employed to eliminate spurious causalities, ultra-high-field functional imaging
+coupled with physiological signal acquisition and GC analysis is able to quantify directed
+brain-brain and brain-heart interactions reflecting central modulation of ANS outflow.
+
+]. Introduction and state of the art
+
+(a) Imaging the autonomic nervous system
+
+The autonomic nervous system (ANS) owes its name to John Newport Langley [1], a British
+physiologist widely regarded as the father of autonomic neurophysiology. As later communicated
+by Langley himself, ‘it was a local autonomy that [he] had in mind. The word “Autonomic” does
+suggest a much greater degree of independence from the central nervous system that in fact exists’
+[2]. Hence, since its discovery and despite its nomenclature, the ANS has never been considered
+or treated as completely independent from the central nervous system (CNS). More than a century
+after its discovery and initial description, there is still substantial debate about the nature as well
+as functioning of the control pathways through which the CNS interacts with the ANS.
+
+While functional magnetic resonance imaging (fMRI) based on the blood-oxygen-level
+dependent (BOLD) effect [3] allows access to non-invasive, spatially and temporally resolved
+functional information about brain activity at rest as well as during task execution, direct non-
+invasive in vivo recordings of ANS activity are not accessible. In this context, the analysis of heart
+rate variability (HRV) has emerged as a valid signal-processing approach to the estimation of ANS
+outflow, which also allows us to partially disentangle sympathetic and parasympathetic activity.
+In particular, band-specific spectral powers in the RR interval time series (i.e. the series of intervals

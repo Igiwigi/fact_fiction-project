@@ -1,0 +1,25 @@
+activated cell sorting (FACS).
+
+The length of the transcriptome, T, in base pairs, is calculated as follows:
+
+(i) The amount (nanograms) of added spike-in standard was converted into molecules
+spike-in in nt using the molecular weight and nucleotide length of the spike-in and the
+Avogadro number.
+
+(ii) The total amount of mRNA to which the spike-in was added was converted into nt using
+the molecules of spike-in (nt) and the sequencing reads mapped to the transcriptome and
+spike-in standard.
+
+(iii) The total mRNA length (nt) was divided by the cell number quantified by FACS to
+calculate the total length (T) of the trasncriptome per cell. 1.81 x 10° + 2.4 x 107, 7.84 x
+108 + 1.21 x 107, 1.52 x 10° + 2 x 107 and 4.72 x 108 + 7.3 x 107 was the total number of
+cells in LB, MM, under heat or osmotic stress, respectively.
+
+(iv) Finally, to calculate the copy number of each gene, we multiply the rpkMd values of each
+gene C;/CL by T (equation (2.1)).
+
+(g) Differential gene expression and GO analyses
+
+The number of raw reads unambiguously aligned to ORFs in both RNA-Seq and RPF datasets,
+for each condition, were normalized by the median of the total number of reads aligned to all
+ORFs, which gives more stable normalization [20] and is more suitable for differential expression

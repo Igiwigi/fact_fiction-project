@@ -1,0 +1,25 @@
+
+The first question that we address is how long it will take to unambiguously identify a patch of
+weaker or stronger material, embedded in a larger system, by analysing the statistics of avalanche
+events. We consider a lattice of 200 x 200 elements, containing a block of size d = 20 on which
+s =s,, and where s = s2 elsewhere. The strength of the local inhomogeneity is thus As = sz — s1,
+such that As < 0 represents a strong patch, and vice versa. For simplicity, and to avoid introducing
+multiple independent length scales into the analysis, we also mask the resulting activity with a
+window of size ¢ = 20. The whole system is then divided up into 100 different grid cells, each
+containing 20 x 20 elements, and the scaling coefficient B is calculated for the activity on each
+different grid cell, by a least-squares fit to the rank size distribution. Similar results are also found
+if the maximum-likelihood estimator (MLE) method [31] is used.
+
+The limitations in the resolution (both spatial and temporal) come from the facts that (i) the
+locations of individual avalanches are imprecisely known, as the exact locations are convolved
+with a mask of size ¢, and (ii) the system is divided into several (in this case 100) observation
+boxes. It is important to note that the observation of a ‘subsample’ within the whole sample is not
+
+
+(b)
+
+2.1 $
+$
+19 $
+$
+Bia é

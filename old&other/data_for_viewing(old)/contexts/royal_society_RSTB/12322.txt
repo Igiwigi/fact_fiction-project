@@ -1,0 +1,25 @@
+While ONT and PacBio sequencers make it possible to template switching as featured in the Smart-seq2 protocol [18]. 5!
+sequence entire transcripts end-to-end, this only matters if This RT step generates CDNA with known 3’ and 5’ ends that = =
+the vast majority of sequenced transcript molecules are fully can be polymerase chain reaction (PCR) amplified. PCR amplifi- =
+intact. The integrity of RNA going into long-read sequencing cation is required to generate enough cDNA for sequencing = &
+experiments is therefore of the highest importance. However, library preparation—several micrograms for either technology. =
+it is not yet clear what represents the best extraction and However, if CDNA is PCR amplified, short transcripts are more = >!
+processing method for RNA. likely to be successfully amplified, thereby generating a pool of s
+
+Single-cell studies circumvent this issue by performing cDNA skewed towards full-length short transcripts (less than S
+reverse transcription (RT) directly on cell lysates resulting in 2 kb) and shorter amplification artefacts of long transcripts. S
+high-quality results [30,32], but this is not possible for bulk While ONT sequencers can now sequence RNA directly,
+samples comprising tissues or many cells because highly con- recent studies have shown that this does not overcome RNA
+centrated cell lysates inhibit RT reactions. Current efforts to degradation or length-bias issues. In fact, incomplete transcript
+dissociate, lyse and extract RNA from bulk samples mostly sequences represent the majority of the produced data and this
+rely on physical disruption and trizol or tri-reagent based pro- issue increases with increased transcript length making direct
+tocols. These protocols are either followed by precipitations RNA sequencing currently challenging for transcripts over
+often resulting in phenol and guanidium contamination 2 kb in length (figure 2) [28].
+which can compromise RNA integrity, or require a column- In addition to length biases of sample preparation, both
+based clean-up potentially fragmenting long RNA transcripts PacBio and ONT sequencers themselves have a bias towards
+in a way similar to high molecular weight genomic DNA. shorter molecules.
+
+Going forward we will need systematic studies comparing To systematically test the bias of different RNA extraction,
+extraction methods for the integrity for very long transcripts sample preparation and sequencing methods, new approaches
+(greater than 10 kb) which cannot be measured by the frequently will be needed. Unfortunately, current synthetic RNA spike-in
+used RNA Integrity Number value which is calculated by mixtures like External RNA Controls Consortium and spike-

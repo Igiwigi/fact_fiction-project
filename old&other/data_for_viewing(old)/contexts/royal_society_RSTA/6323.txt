@@ -1,0 +1,24 @@
+maximum H, (orange) and the 90th percentile of H, (blue), both with an H, threshold of 1.5 m. The upper and lower bounds
+of the orange shaded areas are the same as for (a). Dotted lines correspond to the same quantities but when only the high-
+confidence wave-affected area (WAF > 0.25) is considered in Sq). (d) Same as (c) but this time for Si, the percentage of the
+modelled wMIZ surface area that matches the observed wMIZ area from IS-2. The upper and lower bounds of the darker orange
+shaded area are reversed compared to (b). The lighter orange shaded area still represents the sensitivity using a maximum
+value of H, as low as 0.5 m, and Sig is computed using Avo: The thin solid line with crosses represents the evolution of 54), with
+Ano computed using cells with more than 10 000, instead of 30 000, segments. (Online version in colour.)
+
+
+belongs to the observed wMIZ but not to the modelled one, and Aj; as the area where the model
+and observation agree that a given location belongs to the wMIZ. A classical way of assessing
+the ability of a model to capture an extent is to use Ay; and the errors Aig and Ag to assign a
+model score [45]. In our case, we are challenged by the fact that an absence of detected waves is
+not necessarily indicative of a region without waves, particularly if an area has few wave events
+in each month. Thus, the IS-2 dataset can provide a large number of false negatives, and a low
+WAF value (i.e. no waves detected) is less predictive of wave state than a high WAF value. This
+is visible in figures 1a and 2, where areas with a high density of detected waves (WAF > 0.1) are
+interspersed with missing values and locations with WAF =0.
+
+A consequence is that the Aig mismatch area can be significantly larger than the matching area
+Ai, as the modelled wMIZ extent necessarily encompasses a large number of missing values
+or locations with no detected waves (figure 1a). This is illustrated in figure 3b, which shows the
+dependence of Aj1, Aig and Agi, along with the wMIZ extent, on the threshold value applied to
+H, to define the wMIZ. We can see that Aj9 follows similar behaviour to the wMIZ extent, being

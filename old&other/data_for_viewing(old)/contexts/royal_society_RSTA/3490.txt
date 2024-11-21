@@ -1,0 +1,25 @@
+Extensive documentation is available online.” In this paper, we sometimes refer to it by writing
+‘see :DOC x,’ which means: go to the ACL2 home page [2], click on The User’s Manuals link, then
+click on the ACL2+Books Manual link and type x into the Jump to box.
+
+We also refer to the ACL2 Community Books. An ACL2 book is a file of prover commands created
+by the user, including definitions and theorems. These are verified by ACL2 when the book is
+‘certified’. Books may include other books and are thus incremental and hierarchical. The ACL2
+Community Books reside on GitHub? and are contributed, documented and maintained by the
+ACL2 user community. As of February 2016, there were 5780 books in the repository, containing
+approximately 62 242 user-supplied definitions and 123 804 user-supplied theorems.*
+
+This paper is about how the ACL2 system came to be used in industry. As such, the paper is
+more of a historical narrative than a technical article. The story is complicated by the fact that
+ACL2’s adoption owes much to the close-knit community of users of ACL2 and its predecessor,
+Nqathm (described further below), whose members share a common vision of making mechanized
+proof a routine industrial practice when appropriate. That community, in turn, owes much of its
+coherence and vision to the place where the ACL2 project began, Computational Logic, Inc. (CLI).
+We start, in §2, by describing the origin of the ACL2 project in 1989 at CLI. In §3, we describe
+the early industrial demonstration projects. In §4, we briefly mention the closing of CLI, the
+dispersion of most of the community into industry, and continued industrial demonstrations.
+Section 5 describes how ACL2 was integrated into the design workflow at one particular
+company, Centaur Technology, Inc. (abbreviated ‘Centaur’ below). Section 6 describes how ACL2
+is used today at that company. Section 7 briefly lists some other ongoing industrial uses of ACL2.
+Then in §8, we discuss some strengths and weaknesses relevant to the industrial use of ACL2.
+In §9, we discuss a ‘softer’ feature: the attitude of the developers towards ‘maintenance’ and the

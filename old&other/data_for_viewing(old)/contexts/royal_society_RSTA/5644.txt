@@ -1,0 +1,25 @@
+In addition, however, a spatial cascade is required which transfers momentum via ideal
+nonlinear interactions through an ‘inertial sublayer’ in order to maintain the necessary supply
+from the flow interior, in close analogy with the cascade of kinetic energy through the ‘inertial
+subrange’ in fluid turbulence away from walls [17]. The aim of the present short paper is to
+discuss this momentum cascade in wall-bounded turbulence using the same methods which
+have been previously applied to analyse anomalous dissipation of kinetic energy in such wall-
+bounded flows [1-4]. To be concrete, we shall consider the specific example of pressure-driven
+flows through pipes and channels. In this brief summary, we shall focus mainly on the essential
+ideas and on the physical motivation of the mathematical approach, with full details and rigorous
+analysis provided in a longer paper [18]. The conclusion of the analysis is that certain specific
+types of discontinuity of the velocity at the wall are required for a strict momentum anomaly, in
+agreement with the early insight of Taylor [15] and with similar conclusions for kinetic energy
+anomaly [1-4]. In fact, we shall see that even a ‘weak anomaly’ in momentum conservation
+requires a less than smooth approach of the streamwise velocity to zero as the distance to the
+wall is decreased through the inertial sublayer, in analogy also to energy dissipation [19,20]. We
+obtain in this manner a version of Prandtl’s relation between the Blasius drag law f(Re) ~ Re~!/4
+and a (1/7)th power-law approach of the streamwise velocity to zero ([21,22], and see also [23], pp.
+599-600), but now rigorously valid for individual flow realizations without ensemble averaging.
+At asymptotically large Reynolds numbers, we can similarly show that the von Karman—Prandtl
+drag law requires a logarithmically slow approach of the streamwise velocity to zero at the
+wall [18].
+
+The theoretical analysis of Onsager [5-7] is best understood physically as an application
+of the ‘principle of renormalization group invariance’ [24], as we have previously explained
+for turbulence away from walls [25]. This same interpretation holds also for wall-bounded

@@ -1,0 +1,25 @@
+
+Proof. (Outline) From the proof of the holonomy theorem in [9, ch. 3] and so also for the
+emulating ensemble in theorem 6.1, it is clear that, in lifting a state for the emulation, only certain
+components are used (i.e. have non-trivial values). Let these components be present with the
+topology given as a suborder of <j but expanding some nodes by parallel copies as in the
+proof of theorem 6.1. Then using the interaction machine notion, when a lifted input symbol a
+corresponding to a € A acts on the machine, all present components are updated according to the
+usual cascade formulation, but those constituents where a value should fall that have not been
+set before come into existence at that moment with the appropriate state value. This continues as
+each input symbol acts, resulting in a growing cascade. a
+
+Remarks on recurrence. Transience of the natural subsystems (X,(X)per) of A is a natural
+consequence of the fact that semigroups allow for irreversible change. However, with the notion
+of an interaction machine as formulated here and an ensemble approach in which new instances of
+A may continually arise, this transience itself becomes a recurring phenomenon, as do instances
+of the natural subsystems given by its permutation groups (X,(X)per). Semigroups such as the
+natural numbers N or real numbers R are taken in physics as models of time. But more generally
+(see footnote 33), we can consider A*, the free semigroup over an alphabet A of basic events
+a¢€A, or the semigroup S(A) of a discrete dynamical system A, as its appropriate model of time.
+In an interaction machine 2, for different times t ¢ A*, a new copy of A may repeatedly arise
+as a component of 2. The semigroup S(A) and the natural subsystems (X,(X)per) of A may
+be repeatedly encountered. Recurrence of full possibilities of the full state space of A (due to
+
+
+growing and changing dynamics of 2 allowing the reproduction of more copies of the system)

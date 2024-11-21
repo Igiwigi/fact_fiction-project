@@ -1,0 +1,25 @@
+in comparison with [19-21], the dynamical behaviour of the decision functions (DFs; see below)
+changes drastically. In particular, a sort of overall noise appears because of the presence of some
+interference effects in the system.
+
+2. Why quantum(-like)?
+
+The original general idea of Bagarello [18] was to formally use creation and annihilation operators,
+the basic building blocks of QFT, in macroscopic systems so one can possibly consider dynamical
+systems. These operators can be used to represent very complex dynamical processes composed
+of elementary acts of creation and annihilation of new states of systems. These states can be of
+any nature: physical, mental, biological. This is the minimal interpretation of the QFT-inspired
+approach. From this formal viewpoint, the application of the mathematical formalism of quantum
+theory is just a matter of convenience, and in fact it proved to be useful in several applications in
+different contexts [18-21].
+
+In our concrete model, the states under consideration are possible strategies of players G1
+and G2. The creation and annihilation operators are explored to model the process of how players reflect
+upon their strategies. These reflections are composed of elementary acts of transition of the player’s
+mental state from one strategy to another (‘annihilation’ of the previously chosen strategy and
+‘creation’ of the opposite strategy). We remark that this model, as well as the quantum physical
+model in general, is epistemic, i.e. it does not represent the internal (and extremely complex)
+processes in the neural system leading to such transitions. It provides only the formal operator
+representation of these transitions. However, this formal model is rather rich mathematically; see
+
+7It is important to stress that in quantum theory ‘interactions’ cannot be imagined as actions of forces, as we know them

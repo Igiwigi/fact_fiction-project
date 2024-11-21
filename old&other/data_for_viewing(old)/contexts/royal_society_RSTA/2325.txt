@@ -1,0 +1,25 @@
+(i) Detecting disagreement is an inference problem
+
+The most important aspect of adjoint valuation algebras is that, given a globally agreeing
+knowledgebase, if a truth valuation exists, then it can be obtained by simply combining all
+the available information. This is the content of the following proposition, which generalizes
+proposition 2.3 in [4].
+
+Proposition 5.2 (see appendix A for the proof). Let ® be an adjoint valuation algebra on a set
+of variables V. Let K = {$1,...,¢n} G® be a knowledgebase. Let y = @/'_, $j. Then $1,...,¢n agree
+globally if and only if y 4) = ;. In this case, y is the most informative of all the possible truth valuations.
+
+Thanks to this proposition, the quest for a global truth valuation becomes a much easier task.
+This, in turn, makes the problem of detecting disagreement significantly simpler. In fact, we can
+reformulate it as an inference problem. Given a knowledgebase {¢1,...,@n}, it is sufficient to solve
+the problem
+
+(61 ® ... ® oy) (6.2)
+
+for all 1<i<n. Then, the knowledgebase agrees globally if and only if the solution to each
+problem is ¢;.
+
+(c) Complete disagreement
+
+Let $1, ¢2 € ® be two valuations of an adjoint information algebra ®, and let d(¢) = S, d(¢2) =T,
+with SN T 4. By proposition 5.2, to say that ¢; and ¢2 disagree amounts to say that not all the

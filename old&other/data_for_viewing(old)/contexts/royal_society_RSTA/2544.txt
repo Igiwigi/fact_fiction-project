@@ -1,0 +1,25 @@
+Fast forward 118 years: proof theory? is now a well-established mathematical discipline.
+However, Hilbert’s original problem, as formulated in his notebook, is still a mystery. We have
+no criteria for ‘simplicity’ of a proof. We have no methods to compare proofs, in fact, we do not
+even know when two proofs are the same.? In that respect, proof theory is very different from most
+other mathematical fields which usually can identify the objects of their interest. For example, in
+group theory, two groups are the same if they are isomorphic, and in topology, two spaces are the
+same if they are homeomorphic.
+
+This is clearly embarrassing for proof theory as a mathematical field; and only a satisfactory
+notion of proof identity can eventually lead to a satisfactory answer to Hilbert’s 24th problem.
+Furthermore, the lack of understanding of what actually constitutes a mathematical proof has
+consequences for many other areas in which proof theory is applied, in particular, the foundations
+of computer science. In fact, the problem of proof identity is no longer some abstract ‘ivory tower
+problem’, but it has serious implications for our daily life, as I will argue below.
+
+(b) The relevance for computer science
+
+Many aspects of our modern life depend on computer systems, and the correct functioning of
+the software running on them should be of utmost importance. Yet we do not trust software
+and expect it to break, we are used to turning off and back on again our personal computers
+if they show unexpected behaviour, and we just shrug at news about the latest ‘software bug’
+that has been exploited by criminals or has caused some major damage. A few decades ago
+such a ‘computer bug’ might have just been a little annoyance, and even today, a crash of a
+word processor or a media player is not a life-threatening problem. But now essentially the
+same devices that run our email-client are built into cars, aeroplanes, hospital equipment, nuclear

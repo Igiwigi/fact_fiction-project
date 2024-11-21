@@ -1,0 +1,25 @@
+planar MEAs [8] with one or no vertical protrusions. An alternative solution aims to improve
+sealing by reverting the protrusions into a hollow in the microelectrode [39].
+
+In all these cases, the optimal protrusion/hollow morphology is still unknown and the ability
+to predict the electrode impedance ahead of fabrication would support performance optimization.
+Furthermore, the integration of protrusions with an amplification unit per sense/stimulation
+site results in extracellular sensing platforms with unprecedented recording quality, as both the
+coupling and the sealing are maximized. A notable example is the active three-dimensional-
+shaped CMOS nanoelectrode array (CNEA) platform in [39,42] (#6 in table 1).
+
+Extracellular sensors are nevertheless inherently limited by a low signal, introduce distortions
+of the recorded AP waveform and do not carry the whole spectrum of information as their
+intracellular counterparts (figure 1c). In fact, the extracellular recorded signal also depends on
+the neuron-electrode adherence and on the aggregation of ion channels at the interface [17,18]. To
+overcome these limitations, significant work has been devoted to intracellular sensors, also based
+on semiconductor device fabrication processes, as discussed in the following section.
+
+(b) Overview of intracellular recording devices
+
+The sensor size and geometry are crucial to attain stable access to the intracellular medium;
+both should be optimized for the purpose. Sharp protruding vertical nanowires/nanoneedles
+with diameter of <100nm can promote spontaneous cell penetration as the result of cell-
+sensor adhesion-mediated forces and active cellular processes such as endocytosis [43], see for
+instance the high aspect-ratio vertical nanoneedles’ array in [44] (#4 in table 1). However, such a
+miniaturized sensor suffers from small coupling capacitance essentially because of the reduced

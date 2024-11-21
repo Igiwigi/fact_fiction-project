@@ -1,0 +1,25 @@
+Figure 8. Numerical integration of original system equations (2.1). (a—c) Time evolution of the modal kinetic energy for the
+initial conditions which correspond to the modal amplitudes (4.15) for the mode with wavenumber n = 6.k and t are the mode
+number and time, respectively. The frequency and the amplitude of the external force are $2 = 0.2, f = 0.001. The blue
+background corresponds to the non-excited modes, while the bright domains show the excited modes. (Online version in colour.)
+
+figure 7b is more symmetric and its boundaries are closely correlated with those of the resonant
+domain of the free oscillations, which is determined by relation (4.6) (figure 5). It is natural
+enough, but one can see that the instability domain is more narrow due to the effect of the external
+force.
+
+Figure 7d-f shows the stability maps at the frequency that is higher than previous one. It
+exceeds 2p by 50% and is shown in figure 6 by the blue dashed line. One can see that the
+instability domains in figure 7a,b have been changed weakly, while they in fact disappear in
+figure 7c. It can be understood from this viewpoint that the oscillations corresponding to branch
+(4.15) (iii) cannot excite another mode since their amplitudes are small themselves (figure 6).
+
+In order to illustrate intermodal interactions, we performed numerical integration of the
+original system (2.1) for chains with 20 massive elements. The amplitude f, the wavenumber n
+and the frequency @ of the external force have been fixed and the initial displacements have been
+chosen according to the mode with wavenumber n. Such a numerical simulation correlates with
+the numerical experiments that have been performed with the full system and discussed in the
+recent paper [12].
+
+Figure 8(i)-(iii) shows the result of numerical integration of the original system equations
+(2.1). Each of the panels represents the distribution of the modal kinetic energy. The differences

@@ -1,0 +1,24 @@
+of the fit. A simple approach to regularizing with respect to the number of states combines the
+negative log likelihood (NLL) of the HMM given estimated values of the parameters with the
+Akaike information criterion [39]:
+
+AIC=NLL+K. (4.6)
+
+The number of states K leading to a minimum in equation (4.6) is taken as the correct number
+of states.
+
+
+HMMs are special kinds of Bayes networks [38], which include classical signal processing
+methods, such as the Kalman filter, but also clustering methods, such as the Gaussian mixure
+model (GMM). In fact, the Gaussian HMM popular in biophysical contexts can also be understood
+as a time-dependent version of the GMM. This also connects with the clustering described
+above, in that K-means clustering can be seen as a special case of the GMM where the most
+probable assignment of time samples to clusters is used rather than the probability of each sample
+belonging to a cluster as in the GMM [16].
+
+The EM algorithm is very general. For example, the noise in many biophysical experiments
+is often highly autocorrelated (see §2d). The maximization step in EM can often be performed
+using closed-form calculations. In particular, if it is assumed that the observations are generated
+by an autoregressive linear system, then the parameters of the linear system can be estimated
+in closed form using matrix algebra. This gives a simple approach to estimating states hidden
+behind autocorrelated experimental noise [33]. —

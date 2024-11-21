@@ -1,0 +1,24 @@
+
+
+We assume that M is a compact (closed) oriented Riemannian manifold of dimension n = 2. We
+may think of M as a Riemann surface provided with a Riemannian metric which is compatible
+with the conformal structure, namely on the form
+
+ds? = A(z)?(dx* + dy?) = A(z)" |dzI?.
+
+Here z = x + iy is any local holomorphic coordinate on M, and 4 > 0 is assumed to be a smooth.
+
+The Laplacian operator acting on a form @ of any degree p =0,1,2 is Aw = +d *dw+dx*d*a,
+where the star is the Hodge star operator. When acting on 1-forms the Hodge star does not depend
+on the metric (only on the conformal structure), in fact «dx = dy, «dy = —dx. On 0-forms it does
+depend on the metric, for example +1 = (2)? dxdy = vol’, the volume form on M (invariant area).
+Similarly for 2-forms: *vol” = 1.
+
+A p-form is harmonic if Aw = 0. The only 0-forms (functions) which are harmonic on all of M
+are the constant functions, and the only global harmonic 2-forms are the constant multiples of the
+volume form. The space of harmonic 1-forms on M has dimension 2g, where g is the genus of M,
+and by the Hodge-deRham theory this space is dual in a natural way to the first homology group
+of M. Similarly for harmonic 0- and 2-forms. Having Aw =0 on all of M is equivalent to that the
+two equations dw = 0, d * # =0 hold.
+
+The natural inner product on the space of p-forms is

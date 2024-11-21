@@ -1,0 +1,25 @@
+ficially misaligned data to test the robustness of the data. This practice reduces the need to correct for gradient
+
+classification accuracy [52]. A one-voxel shift of the test nonlinearities [65]. The MP2RAGE sequence results in
+
+
+(a) (b)
+T,*-weighted T,-weighted © CMRO, CBF VASO (CBY)
+
+Figure 2. Vascular structure and functional MRI contrast mechanisms. (a) While T,*-weighted approaches (e.g. GE EPI) have strong contributions from macrovas-
+culature, other functional MRI technologies are biased toward the microvascular signal, which is regulated at a scale appropriate for capturing the mesoscopic
+Neuronal structure. Blue lines represent veins; red lines represent arteries. Acquisition techniques weighted toward the microvascular signal often have relatively
+low CNR and therefore require long acquisition times or high field strength to be successful. VASO, vascular space occupancy. (b) Many studies that use high-CNR
+T,*w fMRI rely on the fact that voxels can be separated into low-resolution voxels that sample large veins (pink cube) and high-resolution voxels that are dominated
+by microvascular signal (black cube). (Online version in colour.)
+
+segmentable T,-weighted anatomical images with reduced T,*-weighted GE signal is predominantly generated from
+sensitivity to inhomogeneities in radio frequency transmit venous microvasculature and macrovasculature [68,69].
+profiles (ie. B; inhomogeneities [55]). That said, cortical Ascending veins carry deoxygenated blood towards the pial
+reconstruction efforts of anatomical data acquired at UHF surface and pial veins. Thus, the anatomical distribution of
+may be less reliable for those studies using a surface coil ascending and pial veins coupled with how laminar profiles
+with a limited field of view. Defining surfaces and GM are ‘read’ (i.e. per cent signal change differences at relative
+boundaries from anatomical images acquired during a separ- depths between WM boundary and pial surface) result in a
+ate scanning session may be the most practical approach, GE signal biased towards more superficial layers. In essence,
+though distortion in the functional images remains a a signal that we expect to find in middle layers has the poten-
+problem. tial to be expressed as activation in middle and superficial

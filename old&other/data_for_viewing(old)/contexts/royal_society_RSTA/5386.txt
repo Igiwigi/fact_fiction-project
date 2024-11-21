@@ -1,0 +1,25 @@
+The factors affecting RF from water flooding (and gas flooding) can be understood by
+considering the following approximate relationship [23]:
+
+RF = Eps x Es x Ep x Ec, (2.1)
+
+where (i) RF is the recovery factor which is defined as the volume of oil recovered over the volume
+of oil initially in place (OIP), both measured at surface conditions. (ii) Eps is the microscopic
+displacement efficiency. This describes the fraction of oil displaced from the pores by the injected
+water, in those pores which are contacted by the water. (iii) Es is the macroscopic sweep
+efficiency—the proportion of the connected reservoir volume that is swept by the injected fluid(s).
+This is principally affected by heterogeneity in rock permeability and by gravitational segregation
+of the fluids. (iv) Ep is the connected volume factor—the proportion of the total reservoir volume
+connected to wells. This represents the fact that sealing faults or other low-permeability barriers
+may result in compartments of oil that are not in pressure communication with the rest of the
+reservoir. (v) Ec is the economic efficiency factor, representing the physical and commercial
+constraints on field life such as facilities life, capacity to deal with produced gas and water,
+reservoir energy (the reservoir pressure may become so low that fluids cannot be produced).
+
+
+It can even be seen that if each of the efficiency factors is a very respectable 80% then the
+overall RF is only 41%. Increasing RF therefore requires each of these factors to be increased to
+close to 100%.
+
+EOR methods are targeted at increasing Eps and Es while IOR methods also aim to increase Ep
+and to some extent Es. Improving Ec is mainly the role of the production and facilities engineers

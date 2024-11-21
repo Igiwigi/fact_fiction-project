@@ -1,0 +1,25 @@
+appropriate interpretation will require a multiplicity correction (e.g. Bonferroni or false discovery
+rate analysis). We believe that the value of our results, however, lies not in finding a few very
+significant ones, but in having available results that are poised to answer specific questions with
+as little bias as currently possible in observational research.
+
+(d) Improving our study
+
+While our choice of methods to address confounding (data-driven propensity score matching)
+and residual bias (CI calibration) can be considered the current best practice, future studies could
+replace these with improved methods. One possible direction could be the use of self-controlled
+designs such as the self-controlled case series [41]. Other possible future additions include
+estimation of absolute risk (instead of relative risk) to better facilitate benefit-risk assessment,
+as well as evaluating effect heterogeneity across subpopulations. In fact, we sincerely hope that
+observational researchers will move their focus from performing one-off studies to refining the
+high-throughput approach as described in this paper. Rather than each researcher working in
+isolation, we hope the scientific community will come together to build the process that generates
+evidence. To facilitate this, we have made all software necessary to execute this study available as
+open source (https: / /github.com/OHDSI/StudyProtocols/tree/master /LargeScalePopEst).
+
+5. Conclusion
+
+We propose a paradigm shift in how researchers generate and disseminate evidence from
+observational data. The current paradigm centres on generating one estimate at a time using a
+unique study design with unknown operating characteristics and publishing estimates one at a
+time through a dissemination process with clear limitations. The new paradigm advocates for

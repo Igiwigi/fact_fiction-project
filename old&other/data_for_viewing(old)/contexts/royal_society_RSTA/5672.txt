@@ -1,0 +1,24 @@
+such that uz — it weakly in L? as k > ov. D8
+
+The significance of the failure of compactness in this theorem can be explained as follows. a
+Since now (3.5) is replaced by (3.2), the only additional control on oscillatory behaviour must .
+come from the equation itself, in particular integrability of the dissipative term. In other words,
+combining the inertial, Reynolds and dissipative terms in (3.6) as one stress term of the form (u ®
+it +R + Du + Du’), the issue is to decide whether Du + Du™ dominates it ® ii; thus, the failure of
+the embedding W1! <> L? in three dimensions lies at the core of theorem 3.2.
+
+To emphasize this point, we mention that in [34] the statement of theorem 3.2 was extended
+to weak solutions of the hyperviscous Navier-Stokes equations, where the dissipative term Au is
+replaced by —(—Au)® with @ <5/4, under the kinetic energy bound (3.2). This result is related to
+the fact that the embedding W??-!! <> L? is compact if and only if @ > 5/4. Another variation on
+this theme concerns power-law fluids, where Au is replaced by Apu, the p-Laplacian. In this case,
+the energy bound including cumulative dissipation takes the form
+
+t
+sup (ae Hlifs + I, [[Dug(-, 7)|Ifp dr) <M. (3.7)
+t
+
+Thus, the issue of weak stability is decided by whether the embedding W1? <> L? is compact,
+and indeed, the analogue of Leray’s theorem (existence of weak solutions satisfying the energy
+inequality via compactness) has been proved in [35] for p> 6/5, whereas the analogue of
+theorem 3.2 has been proved in [36] for p < 6/5.

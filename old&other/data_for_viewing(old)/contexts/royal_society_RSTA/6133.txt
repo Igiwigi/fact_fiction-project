@@ -1,0 +1,25 @@
+E(1 +++ 81) =) E(s;) — D> Blsj:5)) + D> Blgj:sj 15x) — +--+ (- 1) TEG:8):-+-51). (4.6)
+i=1
+
+i<j i<j<k
+
+Here, we defined joint and shared energy scores as
+
+E(s;) = log a (4.7)
+E(sjs;) = log Potsi) (4.8)
+Pij
+and E(s;: 5;) = E(s;) + E(s;) — E(s;s;). (4.9)
+
+5 This is in fact Schneider's information matrix introduced in [27], but with a uniform prior 1/D and without finite sample size
+correction, which we will take care of using pseudocounts instead.
+
+
+Analogous relations hold for information scores for monomers, dimers and so on. Note that
+expression (4.6) exactly mirrors the entropy decomposition (2.6), but it holds for every sequence,
+not just for the average over sequences.
+
+We now construct approximations to the exact energy score (4.6). The first-order
+approximation was already given in (3.11), but we rewrite it here:
+
+L
+E\(s1 +++ 81) = > E(si), (4.10)

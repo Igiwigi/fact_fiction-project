@@ -1,0 +1,25 @@
+of brain networks have been widely replicated in species ran- work should then be a designation reserved for networks
+ging from C. elegans to Homo sapiens, at micro and macro defined by mapping the observed ability to carry out a
+scales, and on the basis of a wide variety of experimental given task or neurophysiological function onto observed
+data. It seems likely that they amount to robust new knowl- topological properties of anatomical or dynamical networks.
+edge about brain network organization; certainly, there has In other words, genuine functional networks can be thought
+been an impressive growth in the number of neuroscientific of as macrostates of either anatomical or dynamical ones. On
+studies using graph theoretical techniques in the past 10 or the other hand, once nodes are endowed with their own
+so years; and, naturally, a number of important questions dynamics, it is possible to distinguish between dynamics in
+and issues have been raised by this ‘first wave’ of topological the network, i.e. node dynamics, and topological dynamics
+studies of the connectome. on a network. The interdependence of these two dynamics
+How does the topology of a brain network relate to its anatom- is a defining feature of adaptive networks such as the brain [22].
+ical organization? In particular, how can the complex topology The phenomenology of possible interactions between the
+of nervous systems be reconciled to the obvious fact that they various levels is extremely rich, particularly as one considers
+are embedded in physical space and there is abundant prior the relative time scales over which anatomical, resting state
+evidence to suggest that the wiring and metabolic costs and task-activated dynamical and functional networks can
+of brain networks are controlled if not strictly minimized evolve. The relationship between resting state and task-acti-
+[16-18]? Minimization of wiring cost is compatible with the vated dynamical networks can be seen as the consequence
+spatial co-location of nodes in the same module and with of the fluctuation—dissipation theorem [23], a fundamental
+the observation that topologically clustered nodes are often result of basic physics which establishes a general relation-
+also close neighbours anatomically. But more integrative ship between the response of the system to small external
+aspects of brain network topology such as the existence of perturbations, and the internal autocorrelation of fluctuations
+connector hubs mediating long-distance inter-modular con- of the system in the absence of perturbation [24]. On the other
+nections, or a rich club of densely interconnected but hand, the relationship between dynamical networks, both at
+anatomically separated hub nodes, are less readily explained rest and during the execution of cognitive tasks, and anatom-
+by minimization of wiring cost and associated metabolic ical networks seems of an altogether different nature. The

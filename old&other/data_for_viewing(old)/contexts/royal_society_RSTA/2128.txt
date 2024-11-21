@@ -1,0 +1,25 @@
+3. Phase reduction
+
+We now proceed to another representative theory of reduction called phase reduction, whose
+broad applicability to large populations and networks of coupled oscillators is well-recognized
+today [6-9].
+
+In contrast to the centre-manifold reduction, phase reduction is applicable to general large-
+amplitude oscillations far from the bifurcation point. Consider a well-developed limit-cycle
+
+
+oscillator described by a general n-dimensional dynamical system X = F(X). Its periodic motion
+along the closed orbit itself is regarded as an unperturbed motion to start with. Admittedly, no
+analytical solution of such a general oscillation is available. Historically, this fact might have
+worked as an obstacle to hitting on the idea that this intractable mathematical object can still
+be chosen as the starting point of a perturbation theory of reduction. This may partly explain the
+reason why the appearance of the phase reduction theory is relatively new compared, e.g. with
+the asymptotic theory of weakly nonlinear oscillations.
+
+(a) Definition of phase
+
+Let the time-periodic solution of X = F(X) with frequency w be given by a 27-periodic function
+x(¢), where the phase ¢ varies as ¢ = wt + . The initial phase w is an arbitrary constant. As
+noted in the introductory section, when the system’s continuous symmetry has been broken, an
+arbitrary parameter must appear in the mathematical expression of the symmetry-broken state.
+This fact is true of the present case, because the limit-cycle oscillation breaks the translational

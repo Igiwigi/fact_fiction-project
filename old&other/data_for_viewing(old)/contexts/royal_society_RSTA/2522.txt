@@ -1,0 +1,24 @@
+of weight 49 which showed up in the last two proofs will be generated but deleted before it has
+a chance to be selected as given. If all goes well, PROVER9 will find a proof that bypasses that
+clause. Here is the result.
+
+2
+
+% Length of proof is 192.
+
+% Level of proof is 33.
+
+% Maximum clause weight is 41.
+
+Note that we had a very significant drop in the proof length, and in fact, the maximum clause
+weight dropped well below our cut-off of 48. PROVER9 was forced to search among clauses of
+smaller weight and it paid off.
+
+Let us try again, reducing the maximum clause weight to 40. As before, we keep using each
+proof as a sketch for the next proof.
+
+2
+
+% Length of proof is 216.
+
+% Level of proof is 35.

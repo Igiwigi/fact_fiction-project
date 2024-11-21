@@ -1,0 +1,24 @@
+
+fSpology in which F, is represented by the base {z,} (the existence of which was proved in
+
+t&eorem 2-2). By hypothesis, we can find o such that for each z there exist M,j such that
+
+@(x) <M|x| for all xe F, and a fortiori for all xe F,. Since | B,(x) | <q?(x), the
+eee follows from Bourbaki (1949, chap. x, §3, prop. 4) by taking ‘E” to be F, with
+t8pology JZ, and ‘F’ to be F, with its topology 7; the set of linear combinations of the
+
+} is, of course, everywhere dense.
+
+In the foregoing argument there is a slight complication owing to the fact that {z,} is
+t necessarily a base for F, (with its usual topology Z). It is this fact that prevents a
+mplete reduction from F,-spaces and topologies to Aspaces and topologies (cf. § 2).
+
+From the proof, however, we can state:
+
+Corollary. Let E be an F-space with a base {z,} and 7 an F-topology on E, coarser than the
+topology 7, of E. Then for the basic set {p,} to be effective for E in. 7™ it is necessary and sufficient
+that g(x) be defined on E. for all o and that r be coarser than J,; or, equivalently, that for each o
+there exist M, s such that f(x) <M |x|, for all xe E.
+
+For a space with an absolute base, the condition simplifies.
+TueoreM 7:3. If {z,} is an absolute base for F, then for {p,} to be effective for F in 7, it ts suffi-

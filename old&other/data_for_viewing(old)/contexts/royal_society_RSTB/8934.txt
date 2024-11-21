@@ -1,0 +1,25 @@
+So far we have detailed how associations between stimuli, PFC neurons represent the current context, as well as the ‘rules’ ee
+responses and outcomes can be learned in coordination that govern behaviour in that context [54,55]. Recent work |
+between PFC and the BG. We then outlined how these comp- suggests that such contexts are not only represented in single |S
+lementary systems may explain different aspects of behaviour. neurons, but in dynamic ‘ensembles’ of neurons that are defined 3
+Furthermore, we have proposed that recurrent interactions by synchrony [56]. Such activity-dependent coupling would © =
+between these systems may provide unique computational be highly dynamic, facilitating rapid association between
+advantages, including producing increasingly complex and neurons representing stimuli and responses. The speed of
+rich behaviours. However, it is important to note that these rep- these associations, coupled with the ease to re-form new associ-
+resentations are learned in service of behaviour: to allow an ations, makes synchrony an ideal candidate mechanism of
+organism to reliably acquire its goals. Using internalized infor- cognitive flexibility.
+mation such as this to guide behaviour is often referred to as As detailed above, neurons in PFC and BG are also able to
+‘top-down’ control. Here, we detail the anatomical and physio- acquire such task-relevant information quickly [55,57—59].
+logical characteristics of PFC and BG that allow them to provide This may reflect the fact that PFC neurons are selective for
+such top-down control. highly complex representations. A recent computational
+First, both regions are anatomically well-positioned to model argued that PFC neurons have ‘mixed’ selectivity
+influence neural activity throughout the brain. For example, that ‘randomly’ combine external and internal informations
+PFC is closely integrated with a diverse set of brain regions, [60]. This results in high-dimensional, sparse, representations
+sending and receiving projections from most of the cerebral throughout PFC. The computational advantage of such a
+cortex. In addition to interacting with other cortical regions, representation is it provides the ability to learn a large
+PFC receives and sends projections to several subcortical number of new associations (perhaps nearly unlimited),
+regions, including the hippocampus, amygdala, cerebellum, including those that were not predicted by the previous
+and most importantly for our model, the BG [35-40]. Different structure of the world. Indeed, such mixed selectivity is often
+PFC subdivisions have distinct patterns of interconnections observed in PFC (e.g. [51]). Furthermore, coupling such high-
+with other brain systems (e.g. lateral—sensory and motor dimensionality of representations in PFC [61] with the
+cortex; orbital—limbic), however, all of these sub-regions are sustained response of PFC neurons results in an ‘evolution’

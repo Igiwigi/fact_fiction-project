@@ -1,0 +1,24 @@
+
+In general, one major concern for an FSO system is its link reliability and robustness stemming
+from harsh time-varying channel conditions, such as fog, rain and atmospheric turbulence [27,28].
+In addition to power loss, these channel conditions may distort the transmitted beam, resulting in
+significant system performance degradations and even link outage. Moreover, these effects may
+fluctuate over time with wide dynamic ranges in magnitude [29].
+
+Among these conditions, atmospheric turbulence is generally considered a major factor that
+limits the system performance [29,30]. It is known that inhomogeneity in the temperature
+and pressure of the atmosphere lead to random variations in the refractive index along the
+transmission path, and can easily distort the phase front of a light beam [28]. For FSO links
+using phase-front-sensitive OAM beams, the effects of atmospheric turbulence become more
+challenging due to the fact that the proper demultiplexing of the received OAM beams depends
+on their helical phase-front structures [31,32]. Atmospheric turbulence may lead to fluctuations in
+the power of received OAM channels and inter-modal crosstalk between channels with different
+OAM values [33]. Under a dynamic turbulent atmosphere, these degradations are slowly time-
+varying processes with a time scale of the order of milliseconds (generally much longer than the
+signalling period) [28,34].
+
+(b) Orbital angular momentum-multiplexed radio-frequency communications
+
+LOS RF communications with fixed transmitter and receiver locations is of increasing importance
+due to its potential in many applications [35,36]. Conventional LOS RF links can use the
+well-established multiple-input multiple-output technique with multiple spatially separated

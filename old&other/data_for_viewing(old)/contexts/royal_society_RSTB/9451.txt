@@ -1,0 +1,25 @@
+
+0.10  indv B p election butions, calculated from the models we infer. Entropy gives a
+
+~ indv B pre-selection measure of the number of different sequences we can expect to
+
+& 0.08 find at different stages of B-cell development (figure 8). The
+2 0.06 generation entropy can be broken down into contributions
+s from the different events that make up the recombination scen-
+s 0.04 ario. Most of the diversity comes from insertions. Note that the
+entropy of rearranged sequences is smaller than the entropy of
+
+0.02 recombination events. This is due to convergent recombin-
+ation—the fact that a given sequence can be produced by
+
+0 5 10 15 20 25 30 35 40 different recombination scenarios. Individual B has larger gen-
+length of CDR3 (amino acids) eration entropy than individual A, primarily because it has
+
+more insertions. The entropy of productive sequences is
+further reduced (by two bits) by keeping only the in-frame
+sequences. Subsequent action of selection reduces the diversity
+of the repertoire by about 10 bits. This reduction is true for
+both individuals, regardless of their different generation
+entropy, and follows from the correlation between Ppre and
+Q (figure 7b), which concentrates the distribution towards
+the most probable rearrangements, thus reducing diversity in

@@ -1,0 +1,25 @@
+did include different images in such sessions, minimizing the repetition effects on emotional
+processing. Note that our previous endeavours demonstrate that no significant changes occur
+in ANS dynamics among neutral IAPS elicitation sessions [72,91]. Moreover, self-assessment
+scores of elicited IAPS images after the experiment were not taken into account in this study.
+We relied on the standardization of the IAPS images, which had been performed on a large
+number of healthy subjects [67], ensuring highly consistent results in terms of valence and
+arousal ratings. However, we cannot exclude that individual differences in valence and arousal :
+perceptions, with respect to the elicited ones, occurred. Furthermore, we are aware that brain— :=
+heart dynamics might be further mediated by psychological factors like mood, anxiety or
+personality traits that we did not take into account in this study. Future works should account
+for all these aspects in order to achieve a more detailed and precise brain-heart model, also nee)
+accounting for the evaluation of brain-heart coupling directionality, as well as for the brain— :
+brain, and ANS-ANS interactions [65]. MIC, in fact, is unable to assess how much the past a]
+samples in one series affect its future values or the future of the other time series (like in DNS
+Granger causality measures). However, is important to point out that these issues has a limited area
+impact on our results. We were interested in assessing the coupling between EEG oscillations and [5
+heartbeat dynamics, tracking their changes despite external elicitation. In other words, despite .
+the individual emotional processing of each subject, we were able to identify significant changes
+between 6 oscillations and HRV metrics. The effect of slight difference between the window
+duration for the estimation of EEG (4s) and HRV parameters (about 7s due to the point-process
+model order p=7) on experimental results should also be investigated. Finally, although in
+this study we performed a high-resolution EEG recording with 128 channels, our conclusion
+involving the prefrontal cortex activity have limited physiological interpretation due to limits
+in the spatial resolution. In future studies, precise electrode localization, paired with individual
+morphological magnetic resonance imaging, would be acquired in order to have a reliable

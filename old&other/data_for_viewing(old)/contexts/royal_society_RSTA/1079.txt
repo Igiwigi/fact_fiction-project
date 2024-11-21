@@ -1,0 +1,25 @@
+extends the ‘probe-before-destroy’ concept from structure to electronic-structure determination
+
+and establishes the concept of ‘probe-before-destroy’ spectroscopy at XFELs.
+
+XAS is a widely used tool to determine metal oxidation states and the case of PS Il is exemplary
+in that it can be used to define the state-of-the-art of how to probe metal oxidation states in dilute,
+radiation-sensitive high-valent metalloproteins with XAS as shown in the review by Yano &
+Yachandra [9]. Using metal-specific XAS to probe oxidation states is tempting: One could think
+that the higher the oxidation state, the lower the local charge at the metal. Because with a lower
+charge at the metal the core-excited state would be less well screened, the energy required to
+perform the core to valence excitation in XAS would be higher. Accordingly, the absorption energy
+would be higher for higher oxidation states. This is an interpretation that in principle could apply
+and has in fact been applied to both K-edge and L-edge XAS of 3d transition-metal systems.
+Indeed, it is well established that the K-edge XAS energies [9,47,88] and the L-edge XAS energies
+[88,89] increase with increasing metal oxidation state (there are many more equivalently suited
+examples for this than in the references given here).
+
+Owing to the difficulties in disentangling geometric and electronic structure effects in K-edge
+XAS, it is favourable to use L-edge XAS to directly probe the metal oxidation state with direct
+probing of the 3d-derived molecular orbitals via the strong dipole-allowed 2p — 3d transitions.
+Figure 15 summarizes the seminal study by Cramer, de Groot, Chen, Sette and Fuggle et al. on how
+Mn L-edge XAS energies vary with varying oxidation state [89]. This series of spectra establishes
+a shift of 1.5-2eV to higher energies per unit increase in oxidation state and this shift is now
+commonly accepted. Besides the shift with oxidation state the spectra exhibit changes in their rich
+multiplet structures which can be used in addition to characterize the metal-ligand bonds [89-94].

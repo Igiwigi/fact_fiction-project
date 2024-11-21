@@ -1,0 +1,25 @@
+model (b). The red trace (lighter, in greyscale) is given by (ata) and the blue trace presents (bt b).
+The SET and RESET input conditions, marked by the short intervals between dashed vertical
+lines, induce transitions to their respective target latch states: ‘on’ corresponds to the a-mode
+being in a high photon number state, while ‘off’ corresponds to a high photon number in mode 6.
+
+Owing to the symmetry of the underlying circuit model, the model parameters are
+invariant under exchange of the two pseudo-NAND gates, which corresponds to
+simultaneously exchanging S @ R, (a, al) = (0, b'), (L1, Lo, Ls) > (La, Ls, Lg) and
+S, < So. This symmetry suggests that the most likely candidates for the internal
+logical states ‘on’ and ‘off’ correspond to the case where one internal cavity mode
+is in a high power state and the other one in a low power state and the opposite
+case, obtained by exchanging the cavity states. This is indeed the case, and in
+fact it follows from the basic way in which we have designed our pseudo-NAND
+gate; ‘on’ = {NAND1 cavity power is low, NAND2 cavity power is high} and
+‘off? < (NAND1 cavity power is high, NAND2 cavity power is low).
+
+To understand our model’s dynamic behaviour, we turn to numerical methods.
+The simulation of this model is carried out by representing the operators as
+numerical matrices in a truncated product basis of Fock states of total dimension
+N? =75? = 5625.° We carried out a large number of quantum jump trajectory
+simulations [23,26] with the following sequence of alternating input conditions:
+0.5 time units of SET, 5 units of HOLD, 0.5 units of RESET, 5 units of
+HOLD (repeated twice). Figure 5a presents a typical simulated trace where
+the system is subjected to this sequence of input conditions. We generally
+find that the SET and RESET input conditions successfully drive the system

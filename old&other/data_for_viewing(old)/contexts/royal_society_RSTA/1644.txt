@@ -1,0 +1,25 @@
+of height and frequency, for att run. The power is shown in logyy SI units. (b) Maps of the power ratio, F(z, v) for the aml and
+BATT, AMBIHALL and BATT, and AMBIHALL and AMBI runs. Contours mark the locations where the power ratio is unity. (c,d) Same for the
+magnetic field strength, B. (Online version in colour.)
+
+multiple reasons, such as the existence of cut-off frequencies for low-frequency perturbations, a
+particular structure of the magnetic field with horizontal structures dominating over the vertical
+ones at some height, the non-adiabaticity of perturbations due to radiation, etc. The power map
+ratios shown at the right reveal considerable differences in the behaviour of vorticity between
+the three simulations. Ambipolar diffusion creates a deficit of vorticity above 200 km. The lower
+‘absorption’ band between 200 and 500km has a maximum toward high frequencies. Since the
+action of the non-ideal effects, such as ambipolar diffusion, is supposed to increase toward small
+scales, the observed behaviour must be related to the dissipation of small-scale vorticity motions.
+Unlike that, the absorption bands at heights above 500 km peak at lower frequencies. This fact is
+indicative of the overall reorganization of the magnetic structure being responsible for the lack of
+the vorticity in the AMBI simulations.
+
+The simulations with the Hall effect show an excess of vorticity above 500 km both relative to
+the BATT and AMBI simulations up to a factor 2. The dependence of this excess on frequency
+
+
+shows a weak maximum at low frequencies, and therefore is indicative of global magnetic
+structure changes. Comparing figure 3 with fig. 3 from Paper II, it becomes evident that Q., is
+affected by the ambipolar and Hall effects in a similar way as the incompressible field-aligned
+perturbation, fai¢ =) - V x v. Therefore, the ambipolar effect provides a mechanism to dissipate
+vortices, i.e. to extract energy from the vortices and convert it into thermal energy of the plasma

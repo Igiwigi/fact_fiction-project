@@ -1,0 +1,25 @@
+
+The first term on the right-hand side corresponds to relaxation to a density-
+dependent optimal velocity given by the decreasing function V(p) with a
+relaxation time T. The limit T— 0 suggests a connection with equation (3.3).
+Note that this idea also appears in microscopic models as explained further below.
+The second term is such that MN’ =0 for constant density and velocity, in which
+case equation (3.3) still holds. This term may be constructed using fluid dynamical
+analogies and usually contains a ‘pressure term’ that is proportional to —0,p/p
+and represents anticipation of drivers to events ahead, and a ‘diffusion term’ that
+is proportional to v,, and represents the averaged effects of noise (Payne 1979;
+Kerner & Konhauser 1994).
+
+Despite the fact that pressure and diffusion are abstractions that are difficult to
+interpret in traffic, these models are able to reproduce uniform flow as well as stop-
+and-go waves (without discontinuities). However, they have been criticized for
+predicting non-physical flow motions (negative flux and negative velocities) under
+certain conditions (Daganzo 1995). In response to this criticism N = pP’(p)d,v
+has been proposed by Aw & Rascle (2000), where the function P(p) represents
+anticipation. Moving N to the left-hand side and using equation (3.1), model
+(3.5) can be rewritten as
+
+di(v + P(p)) + v94(v-+ Plp)) = a (P(0) ~ 2). (3.6)
+Here v+ P(p) represents a Lagrangian quantity and the model is claimed to
+properly describe the anisotropy of traffic flow: particles respond to stimuli from
+the front but not from the back. Notice that model (3.1), (3.6) is a hyperbolic

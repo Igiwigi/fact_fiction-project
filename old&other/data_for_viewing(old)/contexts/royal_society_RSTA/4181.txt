@@ -1,0 +1,25 @@
+The node at x= 3 repeats after two more revolutions since
+1
+X10 = X31 = X52 == 5. (4.10)
+
+For open curves no special simplifications are visible.
+Going beyond the flat band case is a more involved story. We first ask for what value of T we
+have a node occurring after exactly one turn. This means that we have to solve the equation
+
+Qn
+
+cos(A(T))=0, A(T)=3 I, dk g(1 — x(k, T)). (4.11)
+This is a straightforward Mathematica calculation, and the result is reported in figure 5a. The
+resulting curve is in fact a cross-section of any one out of the three two-dimensional figures given
+by Viyuela et al. [3] (their fig. 2, which is considerably more beautiful than ours). They interpret
+the resulting values of T—less than half of the band gap at m=0—as an m-dependent critical
+temperature at which something dramatic happens to the Kitaev chain. We can, however, easily
+complicate matters by asking for the value of T for which we have a node occurring after exactly
+two turns, or three turns and so on. Following this logic, we conclude that there is some change in
+the Kitaev chain at finite temperature also for values of i which exceed 1 (figure 5b). It is therefore
+necessary to reexamine the physical logic behind the Uhlmann phase, and we do so in §6.
+
+5. The interferometric geometric phase
+
+In [12,13], a different geometric phase for mixed quantum states was introduced in the context
+of interferometry. Its general definition is fairly involved, but for mixed states having non-

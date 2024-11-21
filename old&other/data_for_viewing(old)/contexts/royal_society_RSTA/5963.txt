@@ -1,0 +1,25 @@
+an asymptotic representation for large € of the solution to (2.1) given in terms of the Cole-
+Hopf formula. These results provide a rigorous and quantitative justification for the behaviour
+of Burgers flows with initial data ig,¢,,7 obtained as local maximizers of Problem 2.2.
+
+Since Problem 2.2 is non-convex and the numerical approach employed to solve it relies on
+local optimality conditions, cf. appendix A, we of course cannot guarantee that the solutions
+found for any & and T, cf. figure 1a,b, are global maximizers. However, the results reported in
+[8] were obtained following a thorough search involving the use of many different, mutually
+orthogonal (in the function space H}(Q)), and random initial guesses u, The optimal initial
+conditions shown in figure la are in fact non-unique maximizers as their rescaled copies
+(1/m)tio,¢,,7(mx), x € [0, 1], m= 2,3,..., were also found to be local maximizers, but characterized
+by smaller values of €r. Further support for the conjecture that at least up to a certain value of &
+the maximizers presented in figure 1a are in fact global maximizers was provided in [66], where
+upper bounds on max;>9 €(t) revealing behaviour consistent with (2.7) were obtained based on
+a Galerkin truncation of the Burgers system (2.1). We will discuss this important point in more
+detail in §5.
+
+An intriguing question, originally raised by Flandoli [67], is how extreme or singular
+behaviour possible in solutions of hydrodynamic models may be affected by stochastic forcing.
+More specifically, the question is whether via some interaction with the nonlinearity and
+dissipation present in the system such stochastic forcing may enhance or weaken the growth
+of certain solution norms as compared with the deterministic case. In particular, in the case
+of systems exhibiting finite-time blow-up in the deterministic setting, it is interesting to know
+whether noise may accelerate or delay the formation of a singularity, or perhaps even prevent it
+entirely [67]. The question how coloured additive noise in the one-dimensional Burgers equation

@@ -1,0 +1,24 @@
+
+It is of interest to check to what extent the simplest mesoscopic quasi-continuum model, providing
+only a long wavelength approximation of the microscopic discrete solution, and capturing only
+some of its dispersive properties, is compatible with the obtained lattice-scale solution.
+
+If we use the first nontrivial term in the Fourier space polynomial expansion of the linear
+operator involved in the formulation of the discrete theory [21,23], we obtain a continuum model
+with the elastic energy ‘corrected’ by the strain gradient term. The kinetic energy remains the
+same as in the conventional continuum theory and the total energy can be written in the form:
+
+00 2 2 7 yo\2
+u in E +(e) — “ (=) Je (4.1)
+where the factor a?/12 reflects the fact that the discrete model contained nearest neighbour
+interactions only [26]. Note that the strain gradient term appears with the negative sign, which
+makes the model (4.1) unstable with respect to perturbations with sufficiently small wave lengths.
+However, such unstable wave lengths will be absent in the solutions obtained below which
+
+suggest that the predictions of this model can be still trusted.
+The quasi-continuum analogue of the equation (1.1) takes the following form:
+
+u(x,t) do(e) , Ea” d*u(x,t)
+:
+
+ar ax 12 ax4

@@ -1,0 +1,25 @@
+kernels exist whose Fourier transform has negative values. This is the case for all stretched
+exponentials G(x) « exp(—|x|P) with p > 2 [20]. Kernels satisfying this are more platykurtic than
+the Gaussian function. Work is in progress on this possible route to obtaining pattern-forming
+kernels.
+
+4. Conclusion
+
+In this paper, we have reviewed different non-local competitive models of vegetation in water-
+limited regions where, despite the absence of facilitative interactions, patterns may still appear.
+The obtained sequence of patterns consists of a striped structure and spots of vegetation
+interspersed on the bare soil forming a hexagonal lattice. We have not been able to find patterns
+consisting of spots of bare soil, which are also typical in models with both competition and
+facilitation among plants. In fact, previous studies [12] in which the range of facilitation was
+taken to its infinitesimally shortest value (i.e. local) showed these gapped distributions but only
+in a very narrow parameter region close to the transition to patterns line. This is different from
+standard models with non-local facilitation in which the whole sequence of patterns (gaps, stripes
+
+
+and spots) appears in a wider parameter interval. This may suggest that facilitative interactions,
+although not indispensable for the formation of patterns, could be important in order to promote
+some of the structures that have been reported in field observations. We note in this context that
+a careful study of the bifurcation sequences in local vegetation models reveals that the standard
+sequence is not fully robust and depends on nonlinear details of particular models [21].
+
+From a mathematical point of view, non-locality enters through an influence function that

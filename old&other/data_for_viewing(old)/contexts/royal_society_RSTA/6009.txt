@@ -1,0 +1,24 @@
+Te (classical fluctuations) is of order exp(—N/T-) and the annealing time cannot be bounded by
+any polynomial in N.
+
+Following the initial study [5] of phase transition of transverse (quantum) Ising spin glasses,
+the idea proposed by Ray et al. [6] was that quantum fluctuations in the transverse SK model can
+perhaps lead to some escape routes to ergodicity or quantum fluctuation-induced delocalization
+(at least in the low-temperature region of the spin-glass phase) by allowing tunnelling through
+such macroscopically tall but thin barriers which are difficult to scale using classical fluctuations.
+This is based on the observation that the escape probability due to quantum tunnelling, from a
+valley with single barrier of height N and width w, scales as exp(—/Nw/Iy), where Jj, represents
+the quantum fluctuation strength (or tunnelling probability) [7]. This extra handle through the
+barrier width w (absent in thermal escape probability) can help in its vanishing limit. This has
+led to some important clues (see e.g. the discussions in this regard in [8]). In fact, the recent
+rigorous study [9] on the transverse SK spin glass provides some support for this aspect in the
+low-temperature limit, implying the possibility of quantum annealing (see also [10]). In parallel
+the adiabatic quantum computation in the same context of such NP-hard computational problems
+was developed [11].
+
+The quantum annealing technique was finally launched through the paper by Kadowaki &
+Nishimori [12] and its experimental demonstration by Brooke et al. [13]. Soon, a superconducting-
+circuit quantum Ising glass annealing machine was developed [14] (and later marketed) by the
+D-wave systems. Since then, a revolution has taken place through a surge of outstanding papers
+both in theory and experiment and these intense and massive studies in the last two decades led
+finally to the birth of this new age of quantum information and technologies.

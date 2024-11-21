@@ -1,0 +1,24 @@
+
+Remarkably, the period of this cyclic behaviour depends on the magnetic field in a way that
+seems to be closely related to the emergent entanglement structures explored in the previous
+section. In particular, we conjecture that, if the mean community size, 5, =N/k, is a rational
+number 8, =p/q, with p and q coprime integers, the period is given by p. These periods are
+indicated with vertical lines in figure 6b-d. While they perfectly match the period of the mean
+local clustering in these examples, it should be noted that the periodicity of the structure is not
+
+
+always so clear (e.g. when p is very large). However, understanding whether this is a consequence
+of considering too small sizes requires further research and will be studied elsewhere.
+
+Our conjecture is greatly motivated by figure 5b; more specifically, by the fact that the
+distribution of community sizes s; for large k appears to have support mainly over at most two
+values, |s-| and [s,| + 1 (where |x] represents the integer part of x) with different weights 1 — f
+and f, respectively, such that
+
+Se = [SeJ(1 —f) + (L8e] + Vf. (7.1)
+
+This suggests that the network is organized in groups of S spins such that each group contains
+an integer number of communities of size [s,| and |s;| +1 in the same proportions as the rest
+of the network. Hence, one would expect that the addition of precisely S spins would enable the
+system to organize with a similar network structure. The smallest number of spins S with integer
+amounts of communities of both sizes in those proportions corresponds to p.

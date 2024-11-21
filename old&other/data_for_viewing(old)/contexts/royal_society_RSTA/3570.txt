@@ -1,0 +1,25 @@
+Pom = PE, Vg eG°,¥meMS,VkE Sm, (3.5)
+Hin = Ee VleL, Vm €MS,Vk Ee Sn,
+PY =0, vgeGS,
+(3.6)
+
+and Mh =0, VleL.
+
+(ii) System operation
+
+The effect of the transmission network is characterized by a linearized power flow model.
+Equation (3.7) models the first Kirchhoff’s law for nodal injections and withdrawals, whereby the
+sum of power inputs is equal to the sum of power outputs in a node. Power flows through a line
+can be decomposed into a transfer contribution from the line itself and another from its FACTS
+device (if installed) as shown in equation (3.8) (this is known as the power injection model of a
+FACTS device [73]), and the total transfer is limited by the capacity of the line (see equation (3.9)).
+Equation (3.10) shows that FACTS devices (in this case a quad-booster phase-shifting transformer
+[73]) also have limited capability to shift power. In addition, equation (3.11) represents the second
+Kirchhoff’s law, where a disjunctive, big-M-based model [74] is used for new lines, ¥ being
+a sufficiently large positive constant. For existing network infrastructure, we can assume that
+Hin = Mery =1 in all equations. Similarly, for those lines where there are no candidate FACTS
+
+
+devices (i.e.1 ¢ £2), we assume ue 0 and, therefore, fe 0:
+
+Lm Lm,t

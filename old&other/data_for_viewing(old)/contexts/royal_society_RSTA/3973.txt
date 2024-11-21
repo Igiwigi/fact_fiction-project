@@ -1,0 +1,25 @@
+normalized concentration fields of the product B particles (cg /co) plotted in the xz plane. Although
+there is overall qualitative agreement between the continuum and simulated concentration fields,
+the continuum model systematically underestimates the simulated values. This discrepancy could
+be due to the fact that the simulations are carried out at small but finite Péclet number, whereas
+the Péclet number in continuum model is assumed to be zero; however, simulations of a reactive
+Janus particle without propulsion (R4 = Rg) also show a similar discrepancy. Thus, the results
+point to a breakdown of the continuum model on small length scales near the surface of the
+particle where the catalytic reaction occurs. The continuum model accounts for reactions through
+a boundary condition on the outer edge of the boundary layer and further assumes the fluid
+flow field satisfies stick boundary conditions on the surface of the particle. Neither of these
+conditions is fully valid when one examines the particle dynamics within the boundary layer
+in the microscopic simulations of our small motors. This breakdown of the continuum model is
+also reflected in the fact that the continuum and simulation values of the motor velocity differ.
+The microscopic model accounts for both of these effects through the direct hard intermolecular
+interactions between the fluid particles and the Janus motor. Figure 2b presents quantitative
+comparisons of B particle concentrations and concentration gradients near the boundary layer
+(rR) as a function of 6. Although the concentration fields obtained from the continuum model
+and simulations present small differences as noted above, the concentration gradients responsible
+for the motor propulsion are in very good agreement.
+
+The motor moving with velocity V induces a flow field in the solvent. The characteristic
+patterns predicted from the Stokes equations can be seen in figure 3a. Note that the fluid flow
+field near the Janus motor does not have a dipolar form. Instead, it exhibits structure involving
+more complicated fluid circulation. Fluid is pushed from the front of the motor and returns in the
+lateral directions producing fluid circulation. Fluid entering from the side moves to the rear parts

@@ -1,0 +1,25 @@
+Trorem (Schreier 1927). Every element pe P is represented by one and only one normal word
+we. (2:4)
+
+Proof. We have already seen that every fe P is represented by at least one normal word;
+it only remains to show that / cannot be represented by more than one normal word. Ifnow
+« — pd, then p is represented by w = woo, where again w) = 1€QB. Let w'eWW be another
+normal word which represents the same element /, and let w’ = wya’—such a o’ exists
+because of the transitivity of ; finally, let p’ be the original of o’ under ¢, so that a’ = p'¢;
+then w’ represents p’, and thus p’ = p, 7’ = ¢ and w’ = w. This proves the theorem.
+
+The uniquely determined normal word representing / we call the normal form of p.
+Because of the theorem we may identify the elements of / with their normal forms. Then
+¥ becomes a group of permutations of the elements of P; in fact, the elements of © are just
+the right multiplications of P; with fixed ¢ = q¢ and for all pe P one has
+
+po = pq.
+Y is called the regular permutation representation of P. It is well known that right multi-
+
+plications and the regular permutation representation can be defined in the same way for
+arbitrary groups, not only for free products with an amalgamated subgroup.
+
+3. Computation of the normal form; uniqueness of the length
+
+The normal form of an element /¢ P can be computed without difficulty. Let the element
+be given in the form

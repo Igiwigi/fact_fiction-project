@@ -1,0 +1,25 @@
+q=0
+with q(t) € R° the value of a smooth map t+—> q(t) such that Q(t) = exp(—eq(t)), e Ricci’s symbol.
+Otherwise, we get
+
+Aw) dv,
+v= 1
+dq
+
+q=0
+
+For example, when M coincides with R°, we find A= vx. The choice of the relation (5.2) points
+out that the microstructural descriptor is insensitive to rigid translations in space of the whole
+body. In fact, v at a point describes what is inside the material element placed there: it brings
+information about the inner structure, which translates with the point and changes independently
+of the translation itself.
+
+Isometric-type changes in observers pertain also to the space where we select the reference
+configuration. Let w the value at x and t of a vector field over the reference space. An observer in
+this space is once again a coordinate frame. We indicate by w’ the values of the considered vector
+field after rotating and translating the coordinate frame. The pull-back of w’ to the first observer
+gives a transformation rule analogous to (5.1), a rule defining w*, namely
+
+w* := C(t) + q(t) x (x — x0) +, (5.3)
+
+where Xo is another arbitrary fixed point, ¢ a translation and q a rotation vector.

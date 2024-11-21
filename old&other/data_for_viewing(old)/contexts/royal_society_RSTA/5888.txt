@@ -1,0 +1,25 @@
+0,0 +u-VO=0, (2.4)
+in R¢ with initial data 0, satisfies
+IOC, M)l2(0) = "VO l2¢029)7
+
+for all non-negative integer times n € N. Here 2g is the cube (0,1)4 in R4.
+(ii) For all times t > 0, the above solution 0 satisfies
+
+IVA, Hlla¢gq) 2 PIV Ih2(@9)- (2.5)
+
+Here, B is a constant that depends on a and d, but not on 6.
+
+Remark 2.3. With minor modifications to the proof one can ensure that the velocity field u in
+proposition 2.2 is in fact smooth, and satisfies ||1(-, t)||cx < C(a,d,k) for all t > 0.
+
+The proof of proposition 2.2 consists of two steps. The first step involves pulling back the shear
+flow on the torus from lemma 2.1 to a compactly supported flow in R’. We do this in lemma 2.4,
+below. Once this is established, we simply iterate this procedure to obtain exponential growth at
+integer times. Since the norm of u is controlled uniformly in time, the H! norm at non-integer
+times can be estimated by giving up a small factor.
+
+Lemma 2.4. Let 6 € HER), d>2,and fix T > 0, a’ > 1. There exists a divergence-free vector field u
+on R4 x [0, 00) (depending on @, a’ and T) such that the following hold:
+
+(i) The vector field u is piecewise constant in time, is supported on the cube 29 = (—3,4)4, and
+satisfies

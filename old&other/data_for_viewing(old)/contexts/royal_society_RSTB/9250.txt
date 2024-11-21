@@ -1,0 +1,25 @@
+
+(1) the inadequacy of (plain) n-gram models (but not necess- provides a general overview of the locations of main results of
+arily of finite-state automata) for modelling music or structure building in language, music and animal song we
+animal songs; discussed in the framework of the extended CH.
+
+(2) the presence of long-distance dependencies (and the abil- However, even when considering its extensions and
+ity of animal or human subjects to detect them); and despite its frequent use in recent cognitive debates, the CH
+
+(3) the ability of subjects to process context-free languages. may not be suited for providing a good class of cognitive or
+
+structural models that capture frequent structures in language,
+
+Why issue (1) differs from (2) and (3) can be understood music and animal songs. One aspect stems from the fact
+
+by considering the extended CH that introduces several that the CH is by its definition fundamentally tied to rewrite
+different levels. Below the level of regular languages, ongoing rules and the structures that different types of rewrite rules con-
+research established the so-called subregular hierarchy that strained by different restrictions may express. One well-known
+includes, among others, the class of strictly locally testable issue—and an aspect that the notion of mild context-sensitivity
+
+languages (SLTL) [104]. SLTLs constitute the non-probabilis- addresses—concerns the fact that repetition, repetition under a
+
+tic counterpart of n-gram models. SLTLs/n-grams do not modification (such as musical transposition) and cross-serial
+
+assume underlying unobservable (hidden) structure and dependencies constitute types of structures that require quite
+model the string language based on surface fragments complex rewrite rules (see also the example of context-sensitive

@@ -1,0 +1,25 @@
+of the Wakefield experiment. : =
+
+Those lectures triggered my deep interest in studying Oliver Heaviside’s work and, even more, : S
+his whole life. And this very interest drew me to (then PhD student but now Dr) Christopher : 2
+Donaghy-Spargo, with whom we founded NEMIG—northeast Electromagnetics Interest Group, : &
+which since 2013 has enjoyed a formidable series of seminars given by scientists, engineers, : _
+historians and entrepreneurs, driven by the ideas and lives of Maxwell, Heaviside and generally ane]
+by the exciting field of electromagnetism. : 2
+
+Coming back to the main object of this paper, which is the relationship between energy current : 3
+and computing, I must admit that I had drawn most of inspiration from my familiarization with :s
+
+Heaviside’s work, his legacy in the work of others, and to a great extent by the fact that both Ivor
+Catt and David Walton came to studying electromagnetic theory from the point of view of energy
+current through their experiences in dealing with high-speed digital electronics. This electronics
+does not deal with sine waves. It deals with digital pulses, which are physical enough to be dealt
+with in a ‘more physical way’ rather than expressing them as an algebraic sum of sine wave
+harmonics stretching in the time domain from —oo to +00. Such pulses have a clear starting point
+in time and endpoint in time. They naturally lend themselves to causality between actions, such
+as a rising edge of one pulse causes a falling edge of another pulse, for example, as the signal
+passes through a logic NOT element (inverter). As I spent most of my own 40 working years
+exploring asynchronous self-timed digital circuits, and such circuits could work directly when
+the power is applied to their vdd lines, I was firmly attracted by the natural beauty of the ideas
+of the electromagnetic theory approach relying basically only on energy current, Poynting vector
+(S=E x H, vector product of the electrical field vector and magnetic field vector, representing the

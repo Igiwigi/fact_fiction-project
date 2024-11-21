@@ -1,0 +1,25 @@
+(Fokker—Planck) equation estimates the rate of change of the energy distribution n(W, t) of the
+accelerated particles. In order to simplify the diffusion equation, spatial diffusion was dropped,
+since it was assumed that it is not important inside the acceleration region,
+
+an a a(Dn n
++: Fn — (Dn) -7—+Q (4.1)
+
+at =aW aw bese
+where fesc is the escape time from an acceleration volume with characteristic length L, Q is : 3
+the injection rate, F and D are the transport coefficients. The escape time is also kept as a free : z
+parameter in most applications of stochastic acceleration. 1a
+The main disadvantage of the stochastic acceleration of particles through low-amplitude :23
+MHD linear waves is the fact that nobody so far has proved that there is a link with the well- : S
+known energy release processes during explosive solar events (e.g. magnetic reconnection in the : S
+spontaneously formed current sheets). Petrosian [4] and others used the cartoon of the ‘standard’ 1p
+flare model (figure 1) to link the reconnecting current sheet with the weak turbulence needed to [2
+accelerate the particles. As we will see below, fully developed turbulence will naturally provide a [3
+link between energy release processes and particle acceleration during impulsive events. |
+=|
+:S
+(b) Strong turbulence :§
+:&
+
+The highly twisted magnetic topologies born out from the current simulations mentioned in the
+previous section, lead to a different regime of turbulence with remarkably more complex mixing

@@ -1,0 +1,25 @@
+one needs in order to work with reliable statistics [32].
+
+Regarding the selection of the parameters, Bandt and Pompe suggested working with 4 <
+D <6 and specifically considered an embedding delay t =1 in their cornerstone paper [31].
+Nevertheless, it is clear that other values of t could provide additional information. It has been
+recently shown that this parameter is strongly related, if it is relevant, to the intrinsic TS of the
+system under analysis [37-39].
+
+Additional advantages of the method reside in (i) its simplicity (we need few parameters:
+the pattern length/embedding dimension D and the embedding delay r) and (ii) the extremely
+fast nature of the pertinent calculation process [40]. The Bandt and Pompe methodology can be
+applied not only to TS representative of low dimensional dynamical systems, but also to any
+type of TS (regular, chaotic, noisy or reality based). In fact, the existence of an attractor in the
+D-dimensional phase space is not assumed. The only condition for the applicability of the Bandt
+and Pompe method is a very weak stationary assumption: for k < D, the probability for x¢ < x;4
+should not depend on t. For a review of Bandt and Pompe’s methodology and its applications
+to physics, biomedical and econophysics signals, see Zanin et al. [41]. Rosso et al. [32] show that
+the above-mentioned quantifiers produce better descriptions of the process associated dynamics
+when the PDF is computed using the Bandt and Pompe rather than using the usual histogram
+methodology.
+
+The Bandt and Pompe proposal for associating probability distributions to TS (of an
+underlying symbolic nature) constitutes a significant advance in the study of nonlinear dynamical
+systems [31]. The method provides univocal prescription for ordinary, global entropic quantifiers
+of the Shannon kind. However, as was shown by Rosso and co-workers [22,23], ambiguities arise

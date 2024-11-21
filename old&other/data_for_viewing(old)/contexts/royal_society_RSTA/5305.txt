@@ -1,0 +1,25 @@
+is a translational neutral mode of the operator L, Ly =0, while yt = wi , wh , wt )T is the
+corresponding solution of the homogeneous adjoint problem L'y* = 0. The scalar product (-) is
+defined as ( vy}, Ve) = sre v} Wx dx dy. To estimate the coefficients a and b, we have calculated the
+function yt numerically using the relaxation method in two transverse dimensions, (x,y). The
+results of these calculations are shown in figure 3 together with the axially symmetric profile Eg
+of the stationary LS. It can be seen from this figure that similar to the neutral mode y defined by
+(4.6) the neutral mode y* of the adjoint operator L* is an even function of the coordinate y and an
+odd function of the coordinate x, which is parallel to the LS direction of motion.
+
+The dependence of the critical feedback rate n corresponding to the drift instability threshold
+defined by equation (4.4) on the feedback phase ¢ and carrier relaxation rate y is illustrated by
+figure 4. In this figure, the curves labelled by different numbers correspond to different values
+of y. Considering the fact that the feedback in equation (3.1) is introduced with the minus sign,
+we see that the drift instability takes place only for those feedback phases when the interference
+between the cavity field and the feedback field is destructive, i.e. when the cos function in the
+denominator of the right-hand side of equation (4.4) is positive. On the contrary, when this
+interference is constructive the feedback has a stabilizing effect on the LS. Furthermore, the
+slower the carrier relaxation rate, the higher the drift instability threshold. Since the stationary LS
+solution does not depend on the carrier relaxation rate y, the coefficients a and b in the threshold
+condition (4.4) are also independent of y. Therefore, (4.4) gives an explicit dependence of the
+threshold feedback rate on the carrier relaxation rate. In particular, in the limit of very fast carrier
+response, y > 1, and zero feedback phase, gy = 0, we recover from (4.4) the threshold condition
+nt =1 which was obtained earlier for the LS drift instability induced by a delayed feedback in
+the real Swift-Hohenberg equation [33]. Note that at y > oo, a 40, and g = — arctana the critical
+feedback rate appears to be smaller than that obtained for the real Swift-Hohenberg equation,

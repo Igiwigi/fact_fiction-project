@@ -1,0 +1,25 @@
+
+where the map ny : dBR(0) > S? is given in the polar coordinates by
+
+k k
+n,(R cos g, Rsing) = (cos (5+) sin (5+) 0) ,y €[0,2z), (3.3)
+
+with k € Z. Here, s+ =(b+ Vb? + 24ac)/4c is such that Q) is minimizing the bulk potential fg.
+
+It should be noted that Q, remains invariant if we replace n, by —ny at each point in its
+definition. Thus Q; depends in fact on the pair {—n), np} not on np alone. It can be observed that
+the set of matrices having the representation of Q) (for some np € Ss?) give a way of embedding
+the space of lines, namely the real projective plane RP”, into the space of Q-tensors Sp. We can thus
+think of Q; taking values into RP? (in fact into RP! given the specific form of np as ny - e3 = 0).
+
+Moreover, one notes that the number k/2 for k even represents the number of times mp ‘winds’
+around the circle dB, the topological degree of this map (see for instance [71]). Furthermore, one
+can observe that if k is odd then mp(R cos y, R sing) = — lim,_,9 np(R cos((27 — €) + ¢), R(sin(2x —
+€) + )) that is after a rotation of 27 around the circle dBr(0) there will be a discontinuity for
+np. However, Q,(R cos 9, Rsin g) = lime_,9 Q,(Rcos((27 — €) + y), R(sin(2x — €) + ¢)) so a similar
+phenomenon will not happen for Q). Thus Q; provides an example of non-orientable boundary
+condition, namely a continuous RP!-valued map which cannot be simplified into a continuous
+S!-valued map (see [72] for formal definitions). Nevertheless if we consider Q, as an RP!-valued
+map on R?\{0}, then it has degree k/2 about the origin. (For a definition of the degree for RP!-
+valued maps, see for instance [66], pp. 685-686). An introduction into these topological aspects is
+provided in [72,73].

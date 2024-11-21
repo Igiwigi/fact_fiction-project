@@ -1,0 +1,25 @@
+
+a(z,t) =F '[G;f)|, where U(z;f) =H; f)F luew, 1 (2.3)
+
+The spectral estimate consists of a single multiplication of the complex-valued kernel and the
+Fourier-space representation of the unconditional input. Hence, during estimation, all coherent
+large scales are weighted properly via the gain (figure 3a), while the scale-dependent phase
+(figure 3b) efficiently accounts for the correct stochastic shift in time. A snapshot of a flow field
+estimate, ii(z,f), for a random segment of the input signal, (zw, t), is shown in figure 4. Time
+histories at each wall-normal position are shown in inner-normalized form, with high- and low-
+speed zones marked with black and blue lines, respectively. The unfiltered input signal, u(Zw, t), is
+shown at its near-wall position of z}, ~ 4.3, alongside a long-wavelength pass-filtered equivalent
+with 4; > 7000. Per the kernel gain |H|, only the larger scales of the unfiltered input are included
+in the stochastic estimate. In fact, the linear transfer kernel is an inherent scale filter since only
+the scales that are coherent between the input (zw) and output (z) are included in the estimate,
+while the incoherent scales cannot be estimated (|H| ~ 0 for these scales). For one outer-region
+location, za ~ 464, we have shown a comparison of the estimated and measured fluctuations
+(top of figure 4). Visual inspection reveals that the estimate captures the large-scale content of
+the direct measurement reasonably well. Notably, when high- and low-speed zones in the input
+occur with a longer duration (gleaned from the filtered input signal shown for reference at the
+bottom of figure 4), they penetrate further into the estimated field (to higher z locations); this is
+an instantaneous visual of the wall scaling in figure 3a.
+
+3. Arrangement and modulation of small scales
+
+(a) Representation of small scales and a conditional view

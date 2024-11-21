@@ -1,0 +1,24 @@
+
+3. Convergence to equilibrium
+
+In this section, we discuss a few sufficient criteria for a positive and irreducible semigroup
+to converge as time tends to infinity. We have to distinguish between uniform convergence—i.e.
+
+
+convergence in operator norm—and strong convergence. As before, E denotes a Banach lattice.
+Several examples will be discussed in §4 and §6.
+
+(a) The limit operator
+
+We first recall a few general facts about the limit operator of a convergent semigroup. By the fixed
+space of a semigroup S on E we mean the set of all vectors f € E such that S(t)f =f for all times tf.
+The dual semigroup of a semigroup S on E is the mapping S’: (0,00) 3 th S(t)’ € L(E’).
+
+Proposition 3.1. Let S be a semigroup on E and assume that, for each f € E, S(t)f converges to a vector
+Pf as t > oo. Then:
+
+(a) The semigroup S is bounded; the limit operator P is a continuous linear operator on E and a
+projection (i.e. P? = P) that commutes with every operator S(t).
+
+(b) The range of P is the fixed space of S and the range of the dual operator P’ is the fixed space of the
+dual semigroup S! on E’.

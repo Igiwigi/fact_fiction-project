@@ -1,0 +1,24 @@
+w(L(u)) > 0 if and only if infoe(L(u)) > 0. Thus there are situations where the hypotheses of
+
+(3.19)
+
+
+
+theorem 3.10 are satisfied without any restriction on the partial Lipschitz moduli of p and R at
+(u,0). On the other hand, with X = Y a Hilbert space and L(j1) self-adjoint, theorem 3.8 can cover
+cases where inf o¢(L()) < 0 < sup o¢(L(2)), whereas (3.18) is not satisfied in such situations.
+
+Proof. The proof is the same as for theorem 3.8 except that lemma 3.6 is used instead of lemma
+3.2. To see that the hypotheses of lemma 3.6(ii) are satisfied at all points € in (u — 6, u + 5)\{u} for
+some 6 > 0 it is sufficient to note the following facts, recalling that case (b) can be reduced to case
+(a). First of all,
+
+coy(L(a)) > w)(L(y2)) and tim int Ow) OD) tim ing 2M jo)
+\Iuj>0 Ile] [lui>0 [ell
+as A> wu since L € C(J(2), B(X, X)) and lim,_,9 A,(p, 4) =0. Hence there exists 5 > 0 such that for
+0<|A— p| <4, L(A): X > X is an isomorphism, w)(L(4)) > 0 and, by (3.19),
+
+coy(L@)) + lim int (RQ, 1), ju)
+
+3 > 0 as required.
+uO lull

@@ -1,0 +1,25 @@
+The history of numerical weather prediction and climate simulation is almost exactly coincident
+with the history of digital computing itself [1]. The story of these early days has been told many
+times (e.g. [2]), including by the pioneers themselves, who worked alongside John von Neumann
+starting in the late 1940s. We shall revisit this history below, as some of those early debates are
+being reprised today, the subject of this survey. In the seven decades since those pioneering days,
+numerical methods have become central to meteorology and oceanography. In meteorology and
+numerical weather prediction, a ‘quiet revolution’ [3] has given us decades of steady increase in
+the predictive skill of weather forecasting based on models that directly integrate the equations
+of motion to predict the future evolution of the atmosphere, taking into account thermodynamic
+and radiative effects and time-evolving boundary conditions, such as the ocean and land surface.
+This has been made possible by systematic advances in algorithms and numerical techniques, but
+most of all by an extraordinary, steady, decades-long exponential expansion of computing power.
+Figure 1 shows the expansion of computing power at one of the laboratories that in fact traces its
+history back to the von Neumann era. The very first numerical weather forecast was in fact issued
+in 1956 from the IBM 701 [4], which is the first computer shown in figure 1.
+
+Numerical meteorology, based on a representation of real numbers in a finite number of bits,
+also serendipitously led to one of the most profound discoveries of the latter half of the twentieth
+century, namely that even completely deterministic systems have limits to the predictability of the
+future evolution of the system [5].! Simply knowing the underlying physics does not translate to
+an ability to predict beyond a point.
+
+Using the same dynamical systems run for very long periods of time (what von Neumann
+called the ‘infinite forecast’ [6]), the field of climate simulation developed over the same decades.
+While simple radiative arguments for CO2-induced warming were advanced in the nineteenth

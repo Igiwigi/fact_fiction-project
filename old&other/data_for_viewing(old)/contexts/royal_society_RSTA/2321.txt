@@ -1,0 +1,25 @@
+
+tan(khp-) + =0. (A6)
+
+Numerical illustrations of the dispersion relation (A 6), showing the scaled frequency 2+
+versus the dimensionless wavenumber K, see (3.3), are presented in figure 6 for several values
+of the relative stiffness 1 = 0.1, 1 = 0.3 and yp =0.5, with the material parameters (3.1). Here, the
+blue solid lines represent exact dispersion curves, yellow and green dashed lines corresponding
+to the shear wave speeds of the substrate c = c}_ and the coating c = cy, respectively.
+
+Predictably, it is observed from figure 6 that as the contrast becomes less noticeable (y is
+getting closer to unity), the angle between the dashed lines depicting shear wavefronts of the
+layer and the half-space becomes narrower, with the solution of the dispersion relation (A 6) lying
+within this angle. This confirms a well-known fact that the Love waves exist provided that the
+shear wave speed of the half-space exceeds that of the layer, i.e. cy <c} or « < p, with the same
+phenomena noted in the associated plane problem, see (3.2). Similar to Rayleigh waves, in case of
+a homogeneous half-space (4 = 1), dispersion relation (A 6) does not allow a localized solution.
+
+
+The initial points of the dispersion modes (the cut-off frequencies) are located on the line c = c},
+or 2+ =K (denoted with red dots) (figure 6). Therefore, as B+ — 0, it follows from (A 6) that
+tan(khB~ ) —> 00, hence, the expressions for the cut-off frequencies are given explicitly by
+
+_ _a(2n—1)
+
+2V(e/m) - 1"

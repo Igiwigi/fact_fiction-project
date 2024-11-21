@@ -1,0 +1,25 @@
+0
+
+P. et) = i} “ep, (1,t3 7) Bde, (184)
+0
+
+Methods of dealing with the Z, G and P functions analytically are deferred to a later
+paragraph.
+
+4. NUMERICAL INTEGRATION OF THE Z, FUNCTIONS
+
+Notwithstanding that these Z integrals can be reduced to standard mathematical functions,
+we have found that the alternative of numerical integration in (9) is often more convenient
+in practice. This arises from the fact that the geometrical dependence of the integrand upon
+the variable of integration is of the smoothly varying form shown in figure 2. Consequently,
+any of the standard integration rules (Bickley 1939) may be employed. It turns out that for
+large values of ¢ (frequently as low as ¢>3r), the integrand is effectively zero.
+
+
+226 M. P. BARNETT AND C. A. COULSON ON THE
+
+t —
+
+Ficure 2
+
+The procedure is then as follows. First the y,, functions are listed, using tables of Bessel

@@ -1,0 +1,25 @@
+Raman scattering. The phonon modes from individual CNTs were obtained under the resonance
+condition (when the laser excitation energy matches the energy separation between the Van Hove
+singularities in the CNT valence and conduction bands). Precise information on the tube chirality
+and the diameter can be obtained by studying the radial breathing mode and transverse (G) mode
+of the CNT. We emphasize that the detailed knowledge of CNT length, diameter and metallicity
+(metallic/semiconducting) makes the corresponding transport data highly falsifiable, and easy
+to reproduce in other laboratories. Our study of ionic transport in the precisely characterized
+CNTs with a diameter range of 0.94-2.01 nm revealed that the pore blocking current changes
+non-monotonically with the CNT diameter (figure 5a). The pore blocking current was highest
+for the 1.6 nm CNT, and decreased for the smaller and the larger diameter tubes, consistent with
+MD simulations and the experimental predictions on the discontinuous scaling of water transport
+with CNT diameter [18-25]. This strong non-monotonic diameter dependence is essentially due to
+a step change in confinement effects for CNTs smaller than 2 nm in diameter [18]. In fact, recently
+Pascal et al. [53] demonstrated that water molecules inside 0.8-2.0 nm diameter CNTs have
+lower free energies than the bulk water, with a non-monotonic trend in entropic and enthalpic
+contributions to the free energy with respect to the diameter. We did not find any significant
+diameter trend for the dwell time of the ions. Moreover, the pore blocking current did not exhibit
+any significant correlation with the metallicity of the CNTs.
+
+The stochastic transport of monovalent (K+ and Cs*) and divalent (Ca*+) cations from our
+study confirms the linear correlation (equation (2.1)) of Alplocking with V (figure 5b(i), c(i) [28].
+At larger voltages, the linear regime breaks down (figure 5b(i)), possibly due to significant
+accumulation of the cations near the negatively charged CNT pore mouth, thereby depleting the
+concentration of the current carrying ions (protons). The trend in tgwel) matches the correlation
+in equation (2.2) for monovalent as well as divalent cations (i.e. Taye proportional to 1/V;

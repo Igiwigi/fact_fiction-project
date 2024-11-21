@@ -1,0 +1,25 @@
+double planar rotation group, conjugacy leaves every subgroup invariant, i.e. gGxg~! = Gx, so
+each orbit type contains only one subgroup.
+
+Proposition 2.3. The orbit types for the standard action of G := SO(2)xy x SO(2)zw on R4 are
+
+(i) q=(0,0,0,0) has Tg =T;
+(ii) q= (x,y, 0,0) with x,y 40 has Gg =SO(2)zw (rotations of the Ozw plane);
+(iii) q = (0,0, 2, w) with z,w #0 then Gg =SO(2)xy = rotations of the Oxy plane;
+(iv) if q= (x,y,z, w) with (x,y) 4 (0,0) and (z,w) 4 (0,0) then Gg = {I4} (where ly is the identity
+matrix).
+
+Remark 2.2, In SO(4), the two isotropy subgroups SO(2)x, and SO(2)z are conjugate by the
+matrix t in (2.2) that exchanges blocks, so these are in the same SO(4) orbit type. In fact, by
+remark 2.1, all compact abelian subgroups of SO(4) of a given dimension are conjugate to each
+other, ie. all copies of SO(2) are conjugate to each other, and all copies of SO(2) x SO(2) are
+conjugate to each other. In SO(4), there are also non-abelian isotropy subgroups isomorphic
+to SO(3).
+
+Associated with the cotangent-lifted action of SO(2)xy x SO(2)zw on T*R? is a momentum map
+J: T*R* — so(2)* x so(2)* defined by (J(q, p), €) =(p,é - q). A straightforward calculation shows
+
+0 —(Py4x — Px4y) 0 0
+_ | Pye ~ Pty) 0 0 0
+ed ee 0 0 ~(Pwse ~ pq)
+0 0 (Pw4z — P24w) 0

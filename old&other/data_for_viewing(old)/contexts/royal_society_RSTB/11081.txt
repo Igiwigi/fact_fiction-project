@@ -1,0 +1,25 @@
+estimated to be of the order of 107°. Assuming a 10:1 ratio in the weak erosion regime, using a first-order approximation s
+for NCO versus CO events, this gives an estimate for g of the as a function of €. This approximation is less accurate inmore =
+order of 10”, thus slightly higher than our estimate. However, intense regimes, although, even then, it correctly describes the
+this is an upper bound, granting systematic conversion of qualitative behaviour of the process.
+the target site of PRDM9 upon each DSB initiation and assum- First, the mean level of erosion R, strength of selection on
+ing complete inactivation of the target site by single point new PRDM9 alleles sy and turnover time T do not depend on
+mutations. In practice, there is indirect evidence that conver- effective population size N, (figures 2 and 4). Intuitively, the
+sion of the target site is not systematic in the mouse, in equilbrium recombination activity is determined by the rela-
+particular in the case of NCOs [32]. In addition, mutations tive magnitude of the two forces of the Red Queen, erosion
+are only partially inactivating PRDM9 binding, as indicated and invasion, both of which are proportional to Ne. The effec-
+by the presence of multiple substitutions at many of the now tive population size cancels out from their ratio, and thus the
+extinct hot spots. Combined together, these two lines of empiri- equilibrium set point does not depend on N,.
+cal observations suggest that ¢ might in fact be substantially Second, both 1 — R and sp increase with the erosion rate vg
+lower than 107. and decrease with the mutation rate u at the PRDM9 locus.
+Thus, altogether, the strength of dBGC and the functional Similar observations concerning the role of mutation rates at
+mutation rate at the PRDM9 locus are both predicted by our the targets and at the PRDM9 locus were previously reported
+model to be close to their highest possible value compatible based on simulation analyses [21]. Here, we give a more quan-
+with current empirical observations. titative estimate of this scaling, in terms of €. Specifically, in the
+weak erosion regime, 1 — R and sp scale as \/€, whereas T scales
+as 1/,/e.
+6. Discussion Third, in the polymorphic regime, mean recombination
+
+activity and PRDM9 diversity are essentially uncoupled—in
+the weak erosion limit, the first depends only on € and the
+second only on N,u. Intuitively, the mean recombination

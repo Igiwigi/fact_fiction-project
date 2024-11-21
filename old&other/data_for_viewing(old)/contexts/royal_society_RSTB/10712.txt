@@ -1,0 +1,25 @@
+overshoot the target. That error will generate a backward cor- vermis (blue wavy line). The speed of the spread is proportional
+rective saccade, leading to a sequence of macrosaccadic to the feedback velocity, making the vermis a spatial integrator
+oscillations (with each saccade followed by an approximately representing the progress of the movement.
+normal inter-saccadic interval) [57]. If the overshoot is less The inhibitory wave spreads until it reaches the right side of
+than 100%, the sequence of oscillations decreases in amplitude the vermis (red diamond). The pause in the vermis on the right
+and stops. If the overshoot is greater than 100%, the sequence side then releases the right fastigial nucleus from inhibition,
+increases in amplitude for several saccades. After a few of which then sends a drive signal to the left EBN and IBN (red
+these growing saccades, the amplitude begins to decrease lines) and the OPN. We assume that although the right IBN
+(for reasons unknown, but possibly central fatigue), creating holds off the left EBN and IBN, the right fastigial nucleus is
+a spindle-shaped set of oscillations. strong enough to turn on the left IBN. The left IBN then inhibits
+If both fastigial nuclei are lesioned in a monkey, saccades the right EBN and IBN (red line), which chokes off the drive to
+become hypermetric in both directions [14,22], like in many the motor nuclei, stopping the saccade. The OPN can be turned
+human cerebellar patients. The fact that saccades in these sub- back on by the rSC and the fastigial nucleus.
+
+jects are hypermetric is consistent with our hypothesis that it is
+the ipsiversive fastigial nucleus that stops the saccade on target.
+However, although saccades overshoot the target, they do
+
+eventually stop. 5. Distributed motor error
+
+What mechanism might then sto pa hypermetric saccade? The evidence that movements require the coordination of parallel
+One possibility is that the cSC activity runs down, stopping pathways challenges the model of a feedback loop with a single
+the saccade because there is no longer a drive signal to the pre- motor error controller (figure 1). We have shown above (§3) that
+motor burst neurons. Also, when the cSC runs down, the rSC the saccadic system involves at least two parallel pathways [23],
+would be disinhibited, and it could reactivate, exciting the with the saccadic drive to the premotor burst neurons coming

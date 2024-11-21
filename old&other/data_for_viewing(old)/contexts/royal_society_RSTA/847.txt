@@ -1,0 +1,25 @@
+L, : Ex — V", thus yielding the bijection g, = L; o A we sought.
+
+Similarly, we construct a bijection between E\B and V°. Let L2(B) denote the collection of
+nodes in G’ induced by edges B. There is a natural bijection Lz : E\B > V(G’)\L2(B). Then as
+we eliminate exactly the set L7(B) of nodes in the line-graph to form G* there is trivially a
+bijection E : V(G’)\L2(B) > V° (E for ‘elimination’) and thus we find a bijection g2 = E o Ly. Hence
+~=g20 0: is a bijection V* > V°.
+
+Now we show that this bijection is indeed an isomorphism. Let u,v € V". We will show that
+(u,v) € E” if and only if either (i) ou) is an edge entering X and 9 (x) is an edge leaving X
+or (ii) the edges gy MW) and gy 1(v) in G lie end to end with the destination node of gy la) being
+the origin of gy, lv), We shall also prove the analogous statement but taking instead u,v € V° and
+replacing ¢; with ¢ in the above. These two facts together imply g is an isomorphism.
+
+
+Suppose (u,v) € E", then certainly the edges Ly lu) and Ly1(v) in Ex lie end to end with the
+destination s of Ly 1(u) equalling the origin of Ly! (v). We consider two cases. First, suppose that s 4
+X (remember, when we aggregate a collection of nodes X in G we denote by X also the supernode
+in Gx). Then, upon undoing the aggregation, the nodes ou) =Ato Ly 1(u) and ov) =A-lo
+Ly(v) still lie end to end. In the case s = X then clearly gu) =A-lo Ly(u) is an edge entering
+X and g7!(v) =A7!o L{1(v) is an edge leaving X since this is the only way that the destination
+of Ly lu) and origin of Ly1(v) are both X.
+
+Conversely suppose u,v are such that either (i) or (ii) holds. If we are in case (i) then the
+destination of Ly lu) =Ao ou) and the origin of Ly) =Ao (uv) are both X. As this means

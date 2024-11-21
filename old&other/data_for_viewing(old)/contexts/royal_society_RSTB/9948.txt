@@ -1,0 +1,25 @@
+For the tip-dating analyses, a birth—death process with uniform
+serial sampling [31] and diversified sampling of extant taxa
+was used as the prior on divergence times. This birth-death
+process assumes constant rates of speciation A, extinction w and
+fossil sampling , between the time of origin of the process To
+and a cut-off time f, = 25 Myr. Neither cladogenesis nor any
+fossil sampling is allowed between f, and the present. The ances-
+tral lineages (i.e. surviving up to the present time) arriving at the
+cut-off time of 25 Myr are assumed to give rise to the total diver-
+sity of extant placental mammals, which was here considered to
+be equal to 5000 species. The probability density of a phylogeny
+under this process has been derived previously [55], except for
+the fact that, here, fossil sampling is always coupled with extinc-
+tion (as in [31]), and thus, all sampled fossils are tips of the
+phylogeny. By contrast, the fossilized birth-death process [32],
+combined with diversified sampling [55], allows for some of
+the sampled fossils to be ancestral to other fossils or to extant
+taxa. However, in the present case, fossil sampling is very
+sparse compared with the total diversity of the clade, and as a
+result, the probability of sampling a fossil that will be ancestral
+to other represented lineages in the tree is very low (of the
+order of 0.001). In this regime, the tip-only approximation used
+here is expected to be accurate.
+
+(c) Mixed clock models

@@ -1,0 +1,25 @@
+and model uncertainties [6,7]. SA tackles the question of which uncertainties contribute most to
+the overall model output uncertainty, in the common situation of multiple uncertain sources [8,9].
+The implementation of SA is similar to the forward propagation problem but with a more clever
+way to plan and generate samples. In this paper, we will mainly discuss the forward uncertainty
+propagation which is applicable to both UQ analysis and corresponding SA.
+
+The UQ analysis of a multiscale simulation is usually implemented using a non-intrusive
+method such as a Monte Carlo method [10], polynomial chaos expansion (PCE) [11], or surrogate
+modelling techniques [12,13]. By exploiting the computational structure of multiscale simulation,
+the cost of a multiscale UQ can be reduced by relying on a family of recently proposed semi-
+intrusive UQ methods [14]. In this manuscript, we extend the notion of exploiting generic
+computational structure of multiscale simulations to further improve the computational efficiency
+by identifying generic UQPs, and then implementing the UQ analysis with these UQPs. In fact,
+we propose a series of uncertainty quantification patterns (UQPs) according to the degree of
+intrusion and architecture of multiscale simulation. These UQPs provide basic building blocks
+for creating tailored UQ for multiscale models. The UQPs are implemented as generic templates,
+which can then be customized and aggregated to create a dedicated UQ procedure for multiscale
+applications.
+
+The paper is arranged as follows. Multiscale model and simulation framework (MMSF),
+uncertainty propagation and semi-intrusive UQ are introduced in §2 as they provide the basis
+upon which the UQPs are built. Section 3 characterizes the UQPs and their corresponding
+optimization patterns. Section 4 describes the implementation of the UQPs with the MMSF-based
+coupling toolkit MUSCLE 3 [15]. Applications scenarios from the field of plasma fusion physics
+and reaction—diffusion models are presented in §6.

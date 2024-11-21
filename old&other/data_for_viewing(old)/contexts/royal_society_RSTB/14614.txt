@@ -1,0 +1,25 @@
+their first three components. Thus each prototype was reduced group of points in the internal space which have similar pro-
+to a three-dimensional array which can be represented with a totypes to each other in all modalities. We suggest that these
+red-green-blue (RGB) colour. Each subfigure shows at the top clusters can be viewed as smooth categories of motor-sensory
+the representation of the corresponding topological map at contingencies.
+
+the first epochs of training. At the bottom of each subfigure,
+the Euclidean distance between the same map at various
+
+time intervals is shown. As it can be seen, this measure of (c) Concept formation as offline multimodal simulations
+change stably reaches values near zero at the end of the time Starting from the cross-modal categorization system, the off-
+series for all the modalities. The touch modality, where this line control system has the resources to endogenously re-enact
+measure is less stable, seems to be an exception. This effect the sensorimotor states related to an internal representation,
+can be ascribed to the fact that events in which the agent actu- in a way that is consistent with the grounded approach to con-
+ally touches the object are only a subset of all events in which a cepts [9,11]. A representation in the topologically aligned
+high value of the intrinsic learning signal is found. Thus the internal space can be used endogenously to generate a predic-
+dataset of touch patterns that is used to learn the topological tion of the multimodal sensory inputs to be experienced as a
+map is smaller than those of the other two sensory modalities. consequence of taking a particular action (forward model).
+
+When the same representation in the internal space is used to
+
+(b) Development of a cross-modal and action-oriented “’enact @ motor programme in the policy space (inverse
+model), an action as a meaningful goal-directed movement
+
+categorization system is realized. This sensorimotor re-enactment is shown in
+Once the topological maps are steadily formed, the proto- figure 3d, using the visual modality as an example of what it

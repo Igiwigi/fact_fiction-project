@@ -1,0 +1,25 @@
+bound touches the curve [22-24], in which migrants have the same probability
+
+. (K -1)M m/(K —1) of coming from any other specific subpopulation.
+q(M) = T-™M (3.2) We used an infinitely-many-alleles model; mutations occur
+
+. . —— . at rate uw, and the scaled mutation rate is 4Nw.
+This curve is represented in figure 1 as a dashed line. We examined three values of K (2, 6, 40), three values of
+
+Note that for K = 2, the special case considered by Jakobs- 4Nu (0.1, 1, 10) and three values of 4Nm (0.1, 1, 10). Note
+son ef al. [12], equation (3.2) reduces to q*(M) = M/(1 — M) =
+
+0; /(2 — 0), which matches equation 21 from Jakobsson et al.
+[12]. In fact, setting K=2, equation (3.1) for M in (0, 1/K)
+reduces to the K=2 upper bound on Fr in eqn 9 of [12].
+
+that in MS, time is scaled in units of 4N generations, and
+there is no need to specify subpopulation sizes N. MS simu-
+lates an infinitely-many-sites model, where each mutation
+occurs at a new site; each haplotype is a new allele, so that
+each mutation creates a new allele. For our analysis, we are
+
+(iv) Behaviour of the upper bound for M in (1/K, 1) concerned only with the allelic categories and not with the
+Because the upper bound is a smooth function on each inter- simulated sequences; thus, although the simulation follows
+val of its domain, and because it possesses maxima at interval the infinitely-many-sites model, the analysis treats simulated
+boundaries M = 1/K, 2/K, ..., (K —1)/K, it must possess local datasets as having been generated under an infinitely-many-

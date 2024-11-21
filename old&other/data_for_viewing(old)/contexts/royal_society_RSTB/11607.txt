@@ -1,0 +1,25 @@
+
+Our neural implementation of an analogue of Peano’s succes-
+sor function, a fundamental requisite of arithmetic, should
+not be confused with the successor function familiar to devel-
+opmental psychologists, i.e. the laborious acquisition, during
+childhood, of a system of exact number symbols 1, 2, 3...
+linked through counting. While our model accounts for
+how human and non-human primates, as well as other
+species, can be innately endowed with approximate number
+vectors, much remains to be understood about how these vec-
+tors are linked, on the perceptual side, to sets of objects, and
+on the abstract side, to symbols such as Arabic numerals or
+verbal number words. In fact, because the number states in
+our theory have exponentially vanishing distances, it is
+doubtful that exactly the same mechanism could be recycled
+for exact numbers, where the distance between consecutive
+numbers would presumably need to remain constant.
+
+(c) Levels of description
+
+Although our theory for the origins of number vectors includes
+realistic properties such as Dale’s principle, sparsity of neural
+activity patterns and sparse and distance-dependent connec-
+tivity, it describes brain activity at an abstract mathematical
+level similar in spirit to the classical Hopfield model for

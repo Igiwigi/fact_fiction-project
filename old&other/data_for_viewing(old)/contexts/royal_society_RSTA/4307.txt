@@ -1,0 +1,25 @@
+convergence is not known. Whereas we recall that, even if the convergence of the MIF method
+is still an open problem as well, its one-dimensional version, the iterative filtering technique, has
+been proved to be convergent under mild conditions [4]. Furthermore, the MEEMD has been
+found to be much slower than the proposed method. On an average personal computer, it takes
+around 4s to produce the cleaned classification plotted in figure 2b, while the MEEMD runs for
+more than 190s on the same computer to produce the result shown in figure 4b.
+
+We observe that, with this dataset, the MF classifier gives results similar to ACE, so we avoid
+presenting them and move directly to the COS classifier.
+
+The pixel classification produced by COS applied to the raw hypercube is shown in figure 5a,
+where we reversed the pixel classification values. We needed to do so in order to have meaningful
+results. In fact the corresponding ROC curve, plotted in dashed black in figure 62, would be
+below the random guess curve without the reversion. If we apply the PostP method to the
+reversed COS classification, we can improve the classification performance. This is verified by
+the increase in the area under the ROC curve (plotted in solid black in figure 6a). However,
+even with post-processing, the COS classification of the raw hyperspectral image still needs to
+be reversed. To solve this issue, we devised and applied the pre-processing method PreP based
+on the MIF algorithm and described in the previous section. The COS classification of the pre-
+processed hypercube is shown in figure 5b. Its ROC curve, plotted in dashed blue in figure 6a,
+is now directly above the random guess curve without any need to reverse the classification.
+Nevertheless, its performances are worse than those produced by the reversed COS classification
+of the raw dataset—the dashed black curve is clearly above the solid blue one. However, if
+we apply the PostP method to the COS classification of the pre-processed hypercube, we get a
+better performance than any other COS classification with or without post-processing. In fact, the

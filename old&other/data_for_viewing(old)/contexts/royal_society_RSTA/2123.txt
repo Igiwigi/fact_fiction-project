@@ -1,0 +1,25 @@
+N=e%; (4.2)
+
+most of these are expected to be in a range of masses (M,M — AM) with AM ~ 1/R. The state of
+the environment is described by we. Moreover, by Postulate III, Correspondence, this state should
+have a good approximate description by a state of LOFT.
+
+Postulate I, Quantum Mechanics, implies, in particular, that evolution of states (4.1) is unitary.
+Its infinitesimal generator takes the form
+
+H=Hpn + Heny + Hr, (4.3)
+
+where Hyp, and Heny act on the BH and environment subsystems, respectively, and H] acts on both,
+and can transfer information between them. In fact, LQFT evolution, on a time slicing, can be put
+in this form [34]. However, LQFT evolution will not be unitary once the shrinkage of the BH is
+taken into account, as we have argued above. In LOFT, H only increases entanglement between
+BH and the environment, either by creating Hawking pairs or by transferring entanglement from
+the environment to the BH, resulting in the unacceptable situation described in §2. So, in order to
+obey Postulate I, equation (4.3) must have another term that transfers entanglement from the BH
+to the environment: BH quantum states must be able to influence their surroundings. Moreover,
+
+
+the LOFT version of Hph is not expected to give the correct dynamics, although we will be largely
+agnostic about its exact form. Finally, in LQFT, the state on a slice in principle allows a description
+of a much larger number of BH states than given by (4.2); in assuming that the states are described
+as in (4.1) and (4.2), we are also assuming an important structural departure from the LQFT

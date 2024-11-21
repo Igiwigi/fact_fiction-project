@@ -1,0 +1,25 @@
+physical basis, as argued by Klewicki and co-workers [52,53]: this position, in fact, should locate
+the start of the region where the mean dynamics lose a leading-order viscous effect. This thus
+ensures a correspondence between the aforementioned empirical observation and the classical
+notion that the logarithmic layer is an ‘inertial sublayer’ in physical space.
+
+Considering the streamwise variance profiles in inner scaling (figure 5a), the profiles
+from the X-wire measurements in both the streamwise/spanwise and streamwise /wall-normal
+configurations agree exceptionally well with each other and are in agreement with the single-
+wire measurements, except for the lowest Reynolds number. This discrepancy might be related to
+difficulties in the calibration at low velocities, say mean velocities below 5m s~!, in which case the
+calibration needs to be accurate down to nearly 1 ms-! [55], which could not be ensured for the
+in situ calibration of the boundary-layer probes. Although the streamwise variance profile exhibits
+a mild second peak, the fact that the wire length in inner units L* increases up to 40 and 80 viscous
+units for the boundary-layer and Dantec probes, respectively, excludes the possibility of drawing
+any firm conclusions regarding this. By utilizing the spatial resolution correction outlined in [28],
+it was found that the entire range covered by the X-wire measurements is virtually free of spatial
+resolution effects. The near-wall data from the single wires, on the other hand, are affected and
+the results from the correction scheme are shown in figure 5a as grey symbols. These corrected
+results will not be considered quantitatively, but will qualitatively serve several purposes: first,
+the question of whether the amplitude of the near-wall peak, located at yt ~ 15, increases with
+Re in pipe flows (as it does for turbulent channel and boundary-layer flows) can be addressed.
+The data show an increase in the amplitude with Re. This is further illustrated through the
+dashed lines which indicate the prediction based on a compilation of canonical wall-bounded
+flow data given through (w?)+ =3.63 + 0.65InR* [54] (alternatively, see [23], which is solely
+based on channel-flow simulations and yields nearly identical values). Ignoring the lowest Re

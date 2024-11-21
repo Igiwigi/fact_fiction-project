@@ -1,0 +1,25 @@
+In §3b above, we have briefly described the work of [4] in which a spectral reformulation of the RH
+was obtained; see, specifically, theorem 3.4. We will provide here an operator theoretic analogue
+of this reformulation, based on the work of [8-10].
+
+Given T > 0, let a := ¢(9) denote the T-truncated spectral operator, where a := pM (a) is
+the T-truncated infinitesimal shift, defined (thanks to theorem 4.1 above) via the functional calculus
+for unbounded normal operators. In practice, one simply refers to a and a as the truncated
+spectral operator and the truncated infinitesimal shift, respectively. The precise definition of the
+cut-off function p\) is unimportant, provided p‘) is chosen so that the following computation
+of the spectrum of a is justified (since (0) =c + iR, by theorem 4.1): 08) = ce(p (6(8))) =
+[c —iT,c + iT]. Since a = p((9), the first equality follows from the spectral mapping theorem
+(SMT) (applied to the unbounded normal operator d and the function pl; see [8, appendix E]),
+while the second equality follows from the construction of p‘), In fact, when c #1, the only
+requirement about pp) is that it be a C-valued, continuous function on c + iR = {Re(s) =c} whose
+(closure of the) range is exactly equal to the vertical segment [c — iT,c + iT]. When c=1 (which
+corresponds to the pole of ¢(s) at s=1), instead of requiring that p™) is continuous, we assume
+that p) has a meromorphic continuous to a connected neighbourhood of {Re(s) =c}. Indeed,
+when c #1 (resp., c= 1), we can then apply the continuous (resp., meromorphic) version of the
+SMT given in [8, appendix E].
+
+Again, in light of the functional calculus form of the spectral theorem and of SMT, given in
+[8, appendix E] (applied to the operator d and to the function ¢ = ¢(s), which is continuous along
+a(d) = {Re(s) =c} if c #1 and meromorphic in a connected open neighborhood of o(@) if c = 1, the
+pole of ¢), we have (as a! :=¢(a)) that o (a) = ce(¢(o(A))) = ce(¢ ([c — iT, c + iT])). Hence,
+we conclude (see [8] for the proof) that the spectrum of a is given by o(a™) = {¢(s) : Re(s) =

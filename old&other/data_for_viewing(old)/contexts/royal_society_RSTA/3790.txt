@@ -1,0 +1,25 @@
+contributions to the measured spectra, such as pulse duration and power variations, along with
+spectral features of the set-up itself, as well as the dispersion of x ©) for bulk silicon. Our nonlinear
+spectroscopy set-up has an option for measuring the linear transmittance spectra by focusing
+white light to a 201m wide spot on the sample plane and consecutively measuring its spectrum
+using an IR spectrometer.
+
+All measurements are carried out under normal incidence and with all the beams polarized
+along the side of the sample periodicity cell. The numerical aperture for the pump beam was
+equal to 0.15.
+
+(c) Estimation of third-harmonic output via local fields integration
+
+The fact of the higher TH yield upon pumping the MD resonances if compared with the ED
+resonance is supported by estimating the overall nonlinear polarization within the nanodiscs.
+This has been done by integrating the local fields over the volume of the nanodisc.
+
+
+To simulate the nanodisc response to external radiation, we implement a model using 4 |
+FDTD SOLUTIONS software by Lumerical Solutions, Inc. This model includes a plane wave
+
+pulse with a wide spectral range (0.8-1.4;1m) as an external radiation source located inside 3
+the silica substrate. For a Si nanodisc, dimensions are set equal to those of the experiment, : a
+namely the height is 260nm, and the diameter is 360nm. After calculating the electromagnetic :g
+
+field components outside and inside the disc, we integrate the Cartesian components of the

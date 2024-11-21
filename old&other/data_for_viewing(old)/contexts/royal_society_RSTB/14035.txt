@@ -1,0 +1,25 @@
+3 92 1 ; different loci modulates indirect selection on local allele fre-
+= Pii(X, t= soi (x, t) +=(@ — wy)py +- 7D. quencies [6,23,25], which can lead to shifts in cline position
+at ox 8 8 in spatially heterogeneous models [25] and affect the shape
+At first order, the fitness difference between the haplotype ij of spatially coinciding clines [6]. In our spatially homogeneous
+and the mean fitness is proportional to s, so that the second model, linkage disequilibrium creates a fitness advantage for
+term of the right-hand side is independent of s. For r=0, both the a and B alleles in the central region (see electronic
+the equation is thus dimensionless, and for r > 0 we can intro- supplementary material, figure S3 for a detailed explanation
+duce another re-scaled parameter, r/s (the inverse of the in terms of haplotype frequencies), inducing movement of
+coupling coefficient introduced by Barton [24]), that measures the A cline to the right and the B cline to the left. When
+the strength of recombination relative to selection. recombination is sufficiently strong, linkage disequilibrium
+Figure 3 shows an example for numerical solutions of this is mitigated (electronic supplementary material, figure S4),
+system of partial differential equations. The spatial width of a and the fitness advantage of the alleles between the clines is
+cline is proportional to x9 = Jas, in agreement with the fact reduced, leading to slower movement of the clines.
+that dispersal tends to homogenize allele frequencies across Figure 4 investigates the time it takes until two clines
+the cline whereas selection tends to remove unfit heterozy- spatially align as a function of their initial distance, the selec-
+gotes from the population and steepen the cline [6]. We find tion intensity, the diffusion parameter, and the recombination
+
+that two clines at different loci will tend to spatially align rate. We find that clines will always couple, but over longer
+
+
+time spans when recombination is higher or the initial dis- frequencies established during surfing events. We derived | 6 |
+
+tance between clines is greater. The time it takes for clines the probability that underdominant mutations successfully
+to spatially align increases exponentially with increasing re- establish at the expansion front in a serial founder event
+scaled initial distance (for a given r and a given s). Further- model (figure 1). Unlike deleterious mutations that can lead

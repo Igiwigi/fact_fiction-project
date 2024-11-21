@@ -1,0 +1,25 @@
+approach to solving this issue involves using general purpose
+programming languages such as Python [9-11]. This
+approach enables the rapid development of toolchains to
+solve a specific visualization and integration problem,
+gluing together multiple libraries and tools [12]. The problem
+with this approach is that these toolchains are usually devel-
+oped for a specific use case, e.g. processing data from a
+specific source. Over time, as the application is modified to
+solve different problems (e.g. deal with a new model or
+with a new type of visualization), the specificity becomes
+an obstacle and the codebase becomes a series of ad hoc
+extensions that are difficult to maintain [13]. An even greater
+problem comes from the fact that these tools, and even more
+so their combination, are rather inaccessible to many
+researchers. Such technological barriers have had a remark-
+able effect in the neuroscience field as a whole, resulting in
+modellers and experimentalists working as two different
+communities separated by a technological divide. This has
+resulted in computational models that are poorly validated
+and has left model-generated hypotheses unexplored.
+
+Data and models come in many different types, which are
+subject to change as the field evolves. Handling such hetero-
+geneities constitutes a significant challenge for neuroscience
+applications, given that not all of the formats that will be

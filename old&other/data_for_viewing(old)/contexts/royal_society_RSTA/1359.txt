@@ -1,0 +1,25 @@
+corresponding polar coordinates, and {e1, 2, e3} is the standard orthonormal basis for R°.
+
+As shown in [32], this basic design can be used as a building block for a large class of
+non-isometric origami: Two circular patterns with bisecting straight-line interface can form two
+equal-height cones with parallel axes after actuation, as depicted in figure 4b. Furthermore,
+symmetrically patterned circular patterns with bisecting interfaces can form objective non-isometric
+origami in figure 4c—e. We construct three examples by applying the two-dimensional translation
+group on the ‘unit cell’. The unit cell 2 of the reference domain is a square, a rhombus, or a
+
+
+Figure 4. (a) A circular director pattern and its corresponding actuated cone. The circumference 2zrr contracts by a factor A
+upon actuation. The in-material radius r extends by A~”, since it is perpendicular to the director. The cone angle ¢ is then
+given by y = arcsin A’. These facts are encoded in the cone deformation y, (r) in the text. (b) Two circular director patterns
+separated by a bisecting straight-line interface (red line). The actuated state is two cones meeting together with the same
+height. (c—e) 2D symmetric pattern and their actuated configurations. The centres of cones (black dots) form square, triangular
+and hexagonal lattices. (Online version in colour.)
+
+hexagon; see figure 4, last of (c), (d) and (e) respectively. The translation group, T = (th 6 2 (p,q) €
+Z?} with t = (I|t)) and fp = (I|tz), generates the 2D tiling
+
+TQ =(H(Q): p.qeZ (3.20)
+
+with translation symmetry. The translation group T = we :(p,q) € Z’} for the deformed domain
+is also two dimensional, but with linearly rescaled translations calculated from (3.19). Specifically,
+the group generator #; = (I|t,) for the deformed domain has ¢; = At;, for i= 1,2. We list the unit cells

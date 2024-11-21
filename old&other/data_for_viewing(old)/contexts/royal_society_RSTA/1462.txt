@@ -1,0 +1,25 @@
+in three dimensions but typically, in fact, arising in much higher dimensions which cannot be drawn. (a) A relatively smooth
+(i.e. continuous) landscape over which machine-learning algorithms might be expected to perform well; (b) a fractal landscape
+which is not differentiable and contains structure on all length scales; (c) another discontinuous landscape with no gradients.
+Neither (b,c) would be expected to perform reliably in the context of machine-learning algorithms. Reproduced from Coveney
+etal. [7].
+
+of data, but fails grossly as soon as the dataset is enlarged, if only slightly. Although well known
+to the machine-learning community, these problems are typically swept under the carpet by the
+most ardent BD aficionados.
+
+5. The two distant sisters: correlation and causation
+
+The fact that correlation does not imply causation is such a well-known topic that we only
+mention it for completeness.
+
+It is indeed well recognized that even if two signals manage to register a very high correlation
+coefficient C (close to 1), this does not necessarily imply that they are mechanistically related.
+They may be false correlations (FC), as opposed to true correlations (TC), the latter signalling a
+
+
+true causal connection. The matter lends itself to hilarious observations: the rate of drowning by
+falling in a pool appears tightly correlated with Nicolas Cage’s movies: unless one assumes that
+Cage’s movies are so badly received as to induce some to drown themselves, there is little question
+that this is an FC. This case is trivial, but the general problem is not: distinguishing between TC’s
+and FC’s is an art, as the problem is both hard and important.

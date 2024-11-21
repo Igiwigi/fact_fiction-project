@@ -1,0 +1,25 @@
+0. Then S(1)" + 0 as n > ov, which shows that the spectral radius of S(1) is strictly less than 1.
+This, together with the local boundedness of S at the time 0, implies the assertion. a
+
+(b) Uniform convergence
+
+In the following, we discuss a sufficient criterion for an irreducible positive semigroup to
+converge uniformly as t — oo. This criterion is a based on an asymptotic compactness (or quasi-
+compactness) assumption that is defined as follows.
+Let K(E) C £(E) denote the space of all compact linear operators on E. For every R € L(E), we
+call
+[IRlless == inf{||R — K||: K € K(E)},
+
+the essential norm of R. In fact, ||- lle; is a Semi-norm on L(E) (and technically speaking, the
+essential norm of an operator R € L(E) coincides with the quotient norm of the equivalence class
+of R in the Calkin algebra L(E)/K(E)).
+
+
+Proposition and Definition 3.3 (Asymptotically compact semigroups). A semigroup S on E
+is called asymptotically compact (often also quasi-compact) if it satisfies the following equivalent
+assertions:
+
+(1) limp co IIS(lless = 0-
+(ii) There exists a times t € (0,00) such that ||S(t)lless < 1.
+
+Proof of the equivalence. If (ii) holds, then the submultiplicativity of || - |les; together with the local

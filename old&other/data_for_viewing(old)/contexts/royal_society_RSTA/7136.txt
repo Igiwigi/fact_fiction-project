@@ -1,0 +1,25 @@
+G = 3x 108Lb./in2
+
+The compressibility of the web, assuming the stress to vary linearly to zero at the neutral
+axis, is 4:5 x 107° in./Lb./in.; the rivets are 3% in. snap head at 4 in. pitch, giving a coefficient
+of slip of 3 x 107° in./Lb./in. (Parkes 1947), whence k = 133000 Lb./in.? and K = 0:96.
+
+Substituting in equation (145) we get
+
+M,, = 13800 Lb.in. (148)
+By modifying the analysis of part II of the present paper to take account of rivet slip we find
+that for flange loading M,, = 18300 Lb.in. (149)
+
+The discrepancy between equations (148) and (149) is almost entirely due to the fact
+that Winny’s analysis leads to a distribution of load between flanges and web which is
+dependent on the geometry of the section. The proportion of load carried by the web in-
+creases with increase of the coefficient of rivet slip and, as may be seen from equation (145),
+M,, decreases. For the case when load is applied entirely to the flanges, we do not find this
+to be so; according to our analysis M,, increases with increase of rivet slip.
+
+
+STRESS DISTRIBUTION IN A FLANGED BEAM 467
+
+REFERENCES
+
+Biot, M. A. 1937 Bending of an infinite beam on an elastic foundation. J. Appl. Mech. 4, 1.

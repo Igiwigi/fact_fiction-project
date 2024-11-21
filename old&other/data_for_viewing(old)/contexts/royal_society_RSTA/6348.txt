@@ -1,0 +1,25 @@
+to exert a weak but sufficiently large attractive force on these atoms such that they remain within a
+flat two-dimensional plane, and the deposited monolayer can be treated as a good representation
+of the pure two-dimensional system. But in reality, even a perfectly smooth crystalline substrate
+consists of a periodic arrangement of atoms, which interact individually with the atoms of the
+monolayer. As a consequence, the arrangement of the atoms belonging to the surface of the
+slab can induce a preference for a particular structure candidate of the two-dimensional system
+(possibly with some slight distortion), which does not need to correspond to the global minimum
+of the pure two-dimensional system. Even more dramatically, the slab’s surface can induce a
+structure for the monolayer, which does not even correspond to any local minimum structure
+of the substrate-free pure two-dimensional monolayer. Such effects are taken advantage of in
+atom beam epitaxial growth of thin films of specific crystalline structures [47,48], or during
+heterogeneous nucleation of particular phases [49,50], and analogous phenomena are involved
+in stabilizing metastable layered compounds [51,52]. Closely related is the fact that the atom level
+granularity of the substrate surface will move the atoms of the monolayer slightly out of the
+perfect two-dimensional plane, i.e. we would need to describe the atom positions in this layer via
+both the x- and y-coordinates parallel to the substrate surface and the orthogonal z-coordinate.
+Thus, the monolayer deposit is not perfectly two-dimensional, but exhibits a slight (spatially
+varying) deformation into the third dimension, with non-trivial consequences for the modelling
+of the system and the implementation of the global search for structure candidates, which can no
+longer be restricted to purely two-dimensional atom configurations.
+
+A second major difference to the structure prediction in three dimensions concerns the
+moveclass of the search algorithm. In general, there are moves during our search on the energy
+landscape, which imitate the movement of atoms in reality or during molecular dynamics
+simulations; typically, these moves correspond to small shifts of individual atoms or groups

@@ -1,0 +1,24 @@
+
+which is specially well suited for the characterization with TN. Then, we will present the ground
+state search with loop-free TN for LGT simulation and we will show how can be used to study
+the confinement properties of a three-dimensional compact quantum electrodynamics (QED). We
+will close the review with conclusions and perspectives.
+
+2. Tensor network methods: a flexible tool for classical computations
+
+From an information theory standpoint, TN are complex, scalable data structures, whose
+information is stored within a collection of tensors: multi-indexed arrays Tj, j,,,;, of real or
+complex floating-point numbers (in single-or more often double-precision). TN represent a
+convenient way to store huge amount of data in a compressed, manageable, and approximate
+format. In fact, while the rank r of a single tensor does not scale with the size of the problem,
+tensors connect to each other via the contraction operation, generalizing the matrix-matrix row by
+column multiplication operation, as
+
+MW _ u .
+Th injec = Do Ti, ip ky sky Dh kyyht fo? (2.1)
+kioky
+
+represented in the network as a link connecting two tensors T and T’, which sit at the nodes of
+the network graph. Then, the size of the network itself scales with the size of the problem, and
+quickly the TN conveniently describes data structures which could not otherwise be stored in
+their exact, ‘fully contracted’ form.

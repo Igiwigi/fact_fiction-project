@@ -1,0 +1,25 @@
+0.985
+5 0.980
+0 02 04 06 08 10 0 02 04 06 O08 10
+time (s) time (s)
+
+Figure 6. Unbalanced load perturbation. (a) Current sharing of inverters in phase ‘a, (6) current sharing of inverters in
+phase ‘b; (c) average current estimation and (d) average voltage estimation. (Online version in colour.)
+
+The DCA-based controller acts according to the differences in the voltages and compensates
+the voltage unbalance.
+
+It is observed that any increase in the heavy load in one phase led to a drop in the power
+supply in the other two phases. This is due to the fact that no controller is acting to maintain
+the voltages, rather the controllers act to nullify the difference in the voltage magnitude. Thus,
+heavy load change in one phase will lead to reduction in the voltage in the other phases, leading
+to a balance operating point. This type of condition will be favourable if any three-phase P — V
+droop-based controllers are present in the system.
+
+Further, the load sharing in the steady state is maintained even after load changes as shown
+in figure 6a,b, although during transients the sharing becomes disturbed.
+
+(c) Case 3: different loading conditions
+
+In this case, the performance of the proposed scheme is studied under various loading conditions
+as given below.

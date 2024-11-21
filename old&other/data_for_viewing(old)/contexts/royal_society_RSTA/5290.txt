@@ -1,0 +1,25 @@
+assumptions on the the behaviour of investors, the condition p > A is always satisfied. Note that
+the expression of a(t) in (1.9) shows that for c < 1, the free boundary a(t) cannot be non-increasing
+in time when p <4. Therefore, the argument proving that a(t) is non-increasing in time when
+p = Ais optimal. Similarly, it is possible to see from (1.9) that the monotonicity results in (1.8) does
+not hold for p <a andc <1.
+
+(b) Comments on an alternative approach
+
+As we have seen, the non-local problem we study here, (1.2), is closely related to a somewhat
+classical local obstacle problem (1.6). This problem is not straightforward either. Indeed, it is set on
+the whole real line, and it is seen that the free boundary starts from infinity at t= 0. Nevertheless,
+it is tempting to approach the non-local u-problem by first solving the local w-problem (1.6). As a
+matter of fact, to derive further qualitative properties, we study this w-problem in §7. However,
+the w-problem does not yield the solution of the u-problem that is of interest in a straightforward
+fashion. By solving the w-problem, we, indeed, obtain the free boundary, but we then need to
+show that it is of the form {x = a(t)} = d{w > y}. We further need to recover u from w, and this does
+not follow immediately from the local obstacle problem. Indeed, we have to solve the equation
+for u in the domain {x < a(t)} with a(t) > 0, and this equation reads
+
+Lu=0 on {(x,t) € R x (0,+00), x < a(t},
+u(a(t), t) = u(—a(t), t) + w(a(t),t) for t € (0, +00) (1.10)
+and u(x,0)=0 forxeR
+
+Equation (1.10) is also non-local because of the boundary condition. One way to solve the u-
+problem then is to rewrite problem (1.10) with the coordinates y =x — a(t). For this, we need to

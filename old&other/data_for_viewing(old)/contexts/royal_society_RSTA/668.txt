@@ -1,0 +1,25 @@
+photonic crystal waveguides when pairs of left- and right-handed C-points collide and annihilate
+at the bandedge. C-points exist away from the bandedge, but as they approach each other, their
+proximity means that the electric field strength is small. We find that the fall-off in the LDOS due
+to this decreasing electric field strength is faster than the increase due to the decreasing group
+velocity, meaning that the LDOS (and, therefore, the coupling strength to dipole-like emitters)
+has a maximum value at vg ~c/10.
+
+We also investigated a photonic crystal waveguide with glide symmetry and degenerate
+modes at the bandedge. This degeneracy allows the two modes to be the time-reverse partners
+of each other, allowing the existence of chirality and C-points even in standing waves at
+the bandedge. However, their time symmetry requires the two degenerate modes to possess
+oppositely handed C-points at the same location and same frequency, meaning that neither one
+can be exploited in isolation for applications. In fact, as the waveguide is multi-moded in the
+slow-light regime, we see that the left- and right-handed C-points approach and annihilate in
+frequency rather than in space. We note that the lowest group velocity for useful C-points is
+Ug © c/6, corresponding to when the waveguide supports a single mode.
+
+Our analysis of C-points in the slow-light regime highlights some of the difficulties to be
+overcome to exploit chirality in quantum information applications. Both photonic crystal designs
+considered here can provide useful functionality only down to very modest slowdown factors
+
+
+of vg *c/10. The mechanisms that cause the annihilation of the C-points in the waveguides
+considered here are likely to be generally applicable to other photonic crystal and slow-light
+designs. However, we believe that alternative designs can be found to extend this useful range

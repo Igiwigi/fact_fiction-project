@@ -1,0 +1,25 @@
+
+min((L" 102)(x,£), u2(x, 2) — u2(—x,t) — Ww" (x, 8) <0
+
+which shows that u? is a subsolution for the equation satisfied by u!. Therefore, u? <u! which
+implies the expected monotonicity in r of the solution. The proof of monotonicity with respect to
+the parameter A is similar.
+Equation satisfied by w
+
+Set
+
+w(x, t) = u(x,t) — u(—x,t) for (x,t) € [0, +00) x [0, +00)
+
+The fact that w solves (6.2) in the viscosity sense follows from lemma A.3 in the electronic
+supplementary material, appendix.
+
+
+7. The obstacle problem satisfied by w
+
+Recall that
+w(x, f) = u(x, t) — u(—x, t)
+
+solves the problem:
+
+min(Lw,w—w)=0 — for (x,t) € (0, +00) x (0, +00),
+w(0, t) =0 for t € (0, +00) (7.1)

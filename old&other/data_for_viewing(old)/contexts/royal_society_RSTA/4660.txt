@@ -1,0 +1,25 @@
+can be investigated when it attempts a turn at a given steering angle.
+
+Figure 7 shows a one-parameter bifurcation diagram in 6 and corresponding aircraft ground
+tracks that illustrate the overall complexity of possible ground dynamics of a single-aisle aircraft;
+this diagram is far from the normal operating envelope of the aircraft, but does provide interesting
+insights into the possible observed behaviours and transitions between them due to a high
+thrust setting. In the one-parameter bifurcation diagram, there are four separate stable parts of
+equilibrium branches, as well as a branch of oscillations that is bounded by two points of Hopf
+bifurcation (indicated by circles in the figure).
+
+The stable section (a) of the equilibrium branch represents circular trajectories of the aircraft,
+where the radius of the circle decreases as the steering angle is increased. The saddle-node
+bifurcation at 5 * 28° marks the loss of stability of the turn. In fact, as indicated by (b), for
+a steering angle 6 past this point, the aircraft loses control without warning. Analysis of the
+state variables reveals that the tyres of the inner main gear saturate and the load is shifted
+to the outer main gear. The tyres of the outer main gear then saturate with an accompanying
+load redistribution to the nose and inner gears. The trajectory of the steering angle versus the
+forward velocity, past the saddle-node bifurcation point, also determines the final behaviour.
+For sufficiently large forward velocity, the aircraft may settle into a forward equilibrium (after
+a momentary LOC), but otherwise it may actually end up performing more complex motion, as
+depicted in figure 7b.
+
+The stable branch (c) also represents circular trajectories of the aircraft but, compared with
+solutions on branch (a), the radius is much smaller. In other words, for the same steering angle
+and thrust settings, there are two different simultaneously stable turns with a hysteresis loop

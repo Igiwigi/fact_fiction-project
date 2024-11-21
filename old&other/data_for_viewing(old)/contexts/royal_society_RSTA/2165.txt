@@ -1,0 +1,25 @@
+This section focuses on the design of the PWM-based perceptron, including the fundamental
+theories, the circuits of its constituent parts, methods of PWM-based arithmetic, leading to the
+construction of NNs. The design methods form the basis of extensive analysis supporting the
+validation of the perceptrons integrated in a NN.
+
+A perceptron capable of voltage and frequency elasticity may be constructed by exploiting
+the fact that relative temporal properties, such as a PWM’s duty cycle, are resilient to voltage
+and frequency variations. As the supply voltage reduces, any oscillatory activity, such as a clock
+signal, may show a reduced amplitude and reduced frequency. However, the ratio between the
+time within a period when the clock signal is high and the time within a period when the clock
+signal is low stays the same as both would increase at the same rate.
+
+Our method, therefore, is dedicated to finding ways of exploiting this fact by transferring
+computation from the digital domain, which is affected by voltage and frequency variations, to
+the relative temporal domain, which is not. This means making use of PWM-based techniques.
+
+(a) Principles of duty cycle to voltage conversion
+
+Figure 2 shows an inverter-based PWM to voltage converter, which produces an output voltage
+whose value represents the value carried by the input PWM signal, i.e. its duty cycle. Here we
+exploit the principle that if the input of an inverter is a periodic signal, such as a clock, the average
+voltage on its output is inversely proportional to the duty cycle of the input signal. In other words,
+the analogue average value of the inverter’s output voltage encodes the value of the duty cycle
+of the input signal. Since an inverter is a digital component, whose output equals to logic ‘0’ or
+‘1’ at any moment in time, it needs to be ‘analogized’ (i.e. transcoded) in order to convert the

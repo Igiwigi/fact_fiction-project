@@ -1,0 +1,25 @@
+acquisition of hepatocyte GRNs in HLCs caused, in part, by mentary material, table S1). The analysis of single-cell
+upregulation of HNF4, and it is also consistent with the find- transcriptomes might reveal small fractions of HLCs achieving
+ings of TFBS enrichment analysis. In addition, IPA identifies a state of differentiation close to that of mature PP or PC
+regulators not revealed by GSEA, including further hepato- hepatocytes, which would not be detectable in bulk
+cyte-specific regulators with low activity such as PPARG, RNA-Seq data.
+
+CEBPA and miRNA species (e.g. miR122 and let-7), and over- Recently, a pioneer study on scRNA-Seq analysis of
+active factors such as Myc, TGFb1 and ERBB2 (figure 7a,b). iPSC-derived HLCs [47] from self-generating organoids
+These factors can be added to those identified by GSEA and [48] reported a rather uniform composition of HLCs [47].
+TEBS enrichment analysis, to generate a more robust assessment Furthermore, the transcriptional profile of HLCs was
+of the networks controlling the state of differentiation in HLCs. closer to that of immature hepatocytes (i.e. hepatoblasts)
+Furthermore, the relative relevance of each factor can be ranked than to mature hepatocytes [47]. This is consistent
+by the corresponding z-score. However, a weakness of this with the fact that liver zonation is achieved only after
+algorithm is that it is biased towards best-studied transcriptional birth [49,50]. However, the HLCs in this study represent
+regulatory networks. a unique differentiation procedure during _ self-
+
+assembly into liver bud organoids and transplantation
+into mouse liver [47,48]. Furthermore, RNA-Seq analysis
+was conducted in only a few hundred cells. Further
+studies are required to confidently identify subpopu-
+lations of HLCs at different maturation stages, using
+different methods for HLC differentiation, and higher
+throughput analysis of thousands of cells.
+
+(b) Single-cell gene expression analysis

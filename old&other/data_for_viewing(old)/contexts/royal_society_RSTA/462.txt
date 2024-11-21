@@ -1,0 +1,24 @@
+monitoring (SHM) and condition monitoring (CM) strategy is particularly necessary and why
+current research is focusing on this aim.
+
+In order to perform a health monitoring strategy, one of the initial steps is to acquire the
+appropriate data for the purpose of damage detection. For an online approach, which is probably
+more appropriate when dealing with remote structures, vibration-based monitoring has been Lo
+proven to be a suitable choice. It can be effective with possibly small computational costs :
+when using suitable methods. There have been several successful SHM and CM vibration- =
+based analysis applications in the past. Generally, one could adopt data-based approaches or 3
+physics-based approaches, both having certain advantages and drawbacks [1]. Concerning the {8
+data-based methods that will be discussed here, the major issue seems to be that for some :
+SHM and CM scenarios only advanced signal processing techniques would be able to deliver fA
+the desirable results. This is because of the fact that in the real world most of the times the Dw
+features obtained from the monitored signals are, in general, also sensitive to changes caused by :
+environmental and operational conditions [2]. In the case of offshore wind turbines, turbulence— a
+a term that describes the stochastic scale-invariant changes in the flow properties of the air—and, 1
+most importantly, the effects of the operational wind turbine control system could influence the :
+vibration signals obtained. So any technique adopted, in order for it to be effective, should be
+able to take into account these challenging characteristics of the signals and separate them from
+any available damage sensitive feature. Such techniques are discussed in §2 of this paper where
+some application examples are also demonstrated. These applications are focused mainly on wind
+turbine gearbox and blade damage detection, because it has been observed that these components
+have the most frequent failures and can cause the highest downtime in a wind turbine. Still, there
+is no limitation in the application of the methods to different components.

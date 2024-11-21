@@ -1,0 +1,25 @@
+
+Figure 2. PDFs for the two classes of signaller we consider in this article: rewarding flowers (black icon, blue lighter curve) and rewardless flowers (white icon,
+purple darker curve). The x-axis represents the flower's ‘signal level’, a composite measure of all components of its display (in any modality, e.g. colour, odour). The
+y-axis represents the probability that a flower with a given signal level will be from each class of signaller. For example, a flower with a low signal level has zero
+probability of being rewarding but some probability of being rewardless (and some probability of being not a flower at all). By contrast, a flower with a high signal
+level has some probability of being rewarding and zero probability of being rewardless. Of particular interest is the region where the PDFs overlap, where a given
+signal level could indicate either a rewardless or a rewarding flower. A forager sets an acceptance threshold (red dashed line) above which it will visit flowers
+(because they are more likely to be rewarding) and below which it will reject them (because they are more likely to be rewardless). When PDFs overlap,
+there will be two regions of error: accepting a flower that is rewardless (‘false alarm’ or type | error, indicated by purple darker hatching) and rejecting a
+flower that is rewarding (‘missed detection’ or type Il error, indicated by blue lighter hatching). The forager’s challenge is to set an optimal acceptance threshold
+to minimize both errors. (Online version in colour.)
+
+parameter, which can be conceptualized as a composite signal likely that in nature, they do in fact adjust their acceptance
+whose level indicates whether the flower is rewarding or thresholds. For example, bumblebees increase their preference
+rewardless. PDFs can vary in both mean and variance across for a rewardless flower when a new rewarding flower becomes
+plant communities, resulting in a wide variety of curve available and the colour of this new flower resembles the
+shapes, heights and degrees of overlap among PDFs. Each rewardless one but differs from a previously blooming
+curve may represent several plant species; the common feature rewarding flower (carry-over effects: [48]). Peak shift, a prefer-
+is whether they are rewarding versus rewardless. ence for more easily distinguishable signals [49], might drive
+
+An animal’s expected response to a given signal will foragers to prefer flowers less similar to rewardless ones and
+depend on its acceptance threshold, the signal level at which therefore to shift acceptance thresholds towards the upper
+it switches from accepting to rejecting flowers [8]. Any signals range of rewarding flowers’ PDF. Generalization, the tendency
+above the acceptance threshold are expected to elicit visitation to respond to a signal distinguishable from but similar to one
+to the flower, whereas a forager will avoid any flowers with a that is known to be rewarding [50,51], on the other hand, could

@@ -1,0 +1,25 @@
+
+3. Quantum field theory-inspired model of decision-making in two players
+game and its dynamics
+
+In this section, we will discuss the details of our (QFT-inspired) model, constructing first the
+vectors of the players, the Hamiltonian of the system and deducing out of it, the differential
+equations of motion and their solution, and we will be particularly interested in its asymptotic
+(in time ft) behaviour.
+
+In our game, we have two players, G and G2. Each player could operate, at t = 0, two possible
+choices, 0 and 1. Hence, we have four different possibilities, to which, following Bagarello [19],
+we associate four different and mutually orthogonal vectors in a four-dimensional Hilbert space
+Hg. These vectors are 9,0, 1,0, 90,1 and ¢,1. The first vector, go,9, describes the fact that, at t =0,
+the two players have both chosen 0 (0102). Of course, such a choice can change during the time
+evolution of the system. Analogously, gp,1 describes the fact that, at t=0, the first player has
+chosen 0, while the second has chosen 1 (0:12). And so on. We see that Fy = {gx k,/=0,1} is
+an orthonormal basis for Hg. The general mental state vector of the system Sg (i.e. of the two
+players), for t = 0, is a linear combination
+
+1
+Y= > ax sg, (3.1)
+kI=0
+
+where it is natural to assume that yh 10 lor 17 =1 in order to normalize the total probability.
+Indeed, for instance, we interpret lao,ol7 as the probability that Sg is, at t=0, in a state go, ie.

@@ -1,0 +1,25 @@
+algebra A. Following tradition in physics, these Abelian C*-subalgebras are also called contexts.
+We consider only contexts C c A such that 1¢ = 1,4 holds. The arrows in the category C(A) are the
+inclusions of smaller contexts into larger ones, ic,c, : Cz > C1. Hence, the context category C(A)
+is simply the partially ordered set of contexts.
+
+The spectral presheaf X then arises as a contravariant functor from the context category C(A) to
+Set, the category of sets and functions:
+
+(a) On objects C € C(A), we define X¢ := X(C), the Gelfand spectrum of C.
+(b) On arrows ic,c, : C2 Ci, we define X(ic,c,) = 1c! Ze, > Zo hP Ale.
+
+Contravariant, Set-valued functors are traditionally called presheaves, hence the name. As we
+saw above, each Gelfand spectrum Y- = X(C) is, in fact, a compact Hausdorff space, and each
+restriction map X(ic,c,)="c,c, is a continuous map, so the spectral presheaf takes values in
+KHaus, the category of compact Hausdorff spaces and continuous maps.
+
+There is an obvious W*-analogue to all these constructions, which gives the spectral presheaf
+of a non-Abelian W*-algebra (or von Neumann algebra, if we implicitly use a representation on
+a Hilbert space, as we usually do). For clarity, we use the notation VV for a W*- or von Neumann
+algebra from now on, and V(N) for the context category, i.e. the poset of Abelian W*- or von
+Neumann subalgebras of V. A generic element of V(V) will be denoted as V.
+
+
+The spectral presheaf was first defined in similar form by Isham & Butterfield [5] and for the
+algebra B(H) by Isham et al. [6]. Physically, the spectral presheaf Y associated with a quantum

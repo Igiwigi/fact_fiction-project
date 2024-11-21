@@ -1,0 +1,25 @@
+Figure 1 shows how inequality changes with time as a function of circumscription on inequality. To vary connectivity, we =
+of different costs of migration. First, it shows that when there is first consider that polities are organized on a square grid = &
+no cost of migration c,,=0, inequality initially reduces to its with a distance of 1 between two adjacent squares. Connec- =
+minimum possible level. This is the expected result because tions exist between two polities if the distance is less thana 3
+the dominant of a polity next to a polity with lower inequality maximum travelling distance dmax. We then move to hetero- s
+has to reduce its inequality to avoid departure of its own sub- geneous networks to capture more realistic scenarios. In the S
+ordinates. Once all groups are at the lowest value of inequality, following results the cost of migration (¢,,), and the &
+they are all equally attractive to subordinates and inequality parameters relating to instability (u,, €) are kept constant.
+remains stable. However, figure 1 shows that when there is a Figure 3 shows that decreasing the number of polities and
+cost of migration, all polities eventually end up with a very decreasing the connectivity between polities both lead to
+high level of inequality. This is the case even under a very increases in inequality. In other words, smaller and less
+low cost of migration c,, = 2.5%. While this may appear sur- connected areas exhibit more inequality. These effects are a
+prising, it can be explained by the fact that when a result of the generation of variation, or fluctuations, in
+dominant updates its inequality, the share that the leader inequality within polities and the subsequent dynamics of
+needs to concede is the share that the leader of the most changes that these fluctuations induce in connected polities.
+equal polity provides to their followers, discounted by the In the absence of any random variations (€ = 0), increasing
+cost of migration, 1—c,,. Note that for any non-null cost of or decreasing connectivity or the number of polities do not
+migration, (1—c,,)<1 and thus, the new inequality will affect inequality either in the short or long term (electronic
+always be slightly higher than the inequality of the other supplementary material, figure S1). However, if we allow
+patch. As each polity repeats this process, inequality increases for random variations to occur (€ >0) then increasing the
+to the maximum value possible, z~1. Figure 1b shows that number of polities increases the probability that in a given
+what the cost of migration does affect is the rate of increase time step, a leader of a polity will randomly reduce its
+in inequality. This is important because our results show inequality (electronic supplementary material, figure S3).
+that the process of increase of inequality can be slow, for Such reductions in inequality will then cause connected poli-
+instance it takes almost 1000 updates for each dominant to ties to reduce their inequality to avoid a loss of subordinates,

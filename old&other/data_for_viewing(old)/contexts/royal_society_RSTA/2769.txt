@@ -1,0 +1,25 @@
+example, in a credit context, it is quite likely that a machine learning model could likely learn
+that a borrower’s quality of clothing correlates with their income and hence creditworthiness.
+However, wearing nice clothes does not create creditworthiness. While such a correlation might
+be strong, for a model to function well and avoid manipulation, it should be robust to its
+specified purpose. Thus, a credit model based on the borrower’s clothing (or irrelevant features
+such as race or religion) should be rejected during a process of critical evaluation, investigation
+and validation.
+
+Interventions may not always provide a path to understanding either. Sometimes, it is
+necessary to consider a system’s context dynamically and to account for how the system changes
+and is changed by its context. For example, a credit-scoring or credit-granting system which
+under-rates a certain minority group relative to their actual credit risk could be said to be
+biased, but simply giving higher ratings to this group may or may not in fact improve credit
+or economic opportunities for its members. That is, increasing the credit scores of the group’s
+members may cause some real-world effect which counteracts the benefit of the higher scores.
+This could be the case if qualified members of the minority group did not resemble qualified
+members of the majority, meaning that the boosted scores likely create credit opportunities for
+unqualified members of the minority group. In turn, this could lead to higher default rates in
+the minority group, and increased burdens to that community. Rather, we must demand that
+the agency rating the creditworthiness of this community consider the context and impacts of
+their credit system and in particular to consider what outcomes are desired, how they might
+
+2In a sense, this is what happened in the USA during the 2008 financial crisis: a systematic programme of marketing risky
+home loans to minorities led to a correlated failure of risk models and a crisis of foreclosures borne primarily by already
+poorer minority communities.

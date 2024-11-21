@@ -1,0 +1,25 @@
+pressures would be ona language that only needs to be learned expressive ones. 3
+by subsequent generations of individuals. The simulation in x
+[59] models learning as a process of Bayesian inference in To test this, in the next section, we modify the model of [59]. s
+which hypotheses that are simpler have a higher prior prob- Whereas in that model meanings were complex (in that they Ss
+ability. Specifically, languages that can be encoded with had distinct parts) but signals were relatively simple, here we 3
+shorter descriptions are more learnable. The simplest possible consider the case where meanings are atomic but signals have
+language is one in which utterance is identical (you can ima- greater potential complexity. This allows us to explore a space
+gine a language in which there is just one ‘word’ for every of languages that vary in their degree of combinatoriality of
+possible meaning). Obviously, this language is very easy to signals. Specifically, there will be languages in this space
+learn. Indeed, in simulations of iterated learning, in which with and without minimal pairs. We will use this model to
+the language of each generation of individuals is acquired by understand the precise conditions under which duality of
+simply observing utterances produced by the previous gener- patterning evolves.
+ation, this degenerate language is exactly what emerges. This However, the fact that ABSL does not display combinatori-
+is also true in the experiment laboratory. Degenerate languages ality leads us to wonder what determines whether a language
+where multiple meanings are expressed using a single signal displays this feature. One of the most exciting features of signed
+quickly emerge in transmission chain experiments with languages from the perspective of research in language evol-
+miniature artificial languages [8]. ution is that they are all relatively young. Some are younger
+Obviously, while they are learnable, degenerate languages than others—so much so that we actually in some cases have
+are dysfunctional as they cannot be used to communicate dis- clear evidence of the process of emergence—and it is reasonable
+tinctions between meanings. To address this, Kirby et al. [59] to suggest that some design features have yet to appear in
+introduce a model of communication [60] in which the these. Emerging sign languages therefore act as real-world
+simulated agents prefer to produce signals that would dis- equivalents of the processes that we are trying to recreate in
+criminate between distinct meanings (on the assumption laboratory experiments, but with the advantage that the
+that their interlocutor has the same language as themselves). languages are fully-blown natural systems rather than minia-
+In a model (and laboratory experiment) in which two such ture laboratory equivalents. In addition, a common criticism

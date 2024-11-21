@@ -1,0 +1,24 @@
+time-scale distribution reveals three well-defined maxima at
+10ps, 10ns and 10 ps, with the first and last being at the
+boundaries of the distribution. It should be mentioned that
+the 10 ps process probably contains significant contributions
+from heating of the protein induced by the photoswitching,
+
+experiment
+
+which is reflected in the IR spectra but does not necessarily Figure 3. Averaged dynamical content D(7;) as a function of time constant
+
+affect the structure of the protein on that timescale [55,56]. 7;, pertaining to (a) all available transient IR time traces from the experimen-
+
+The fact that D(z;) still rises at the maximum timescale con- tal data [31] and (b) the time evolution of all Co-distances from the MD
+
+sidered indicates that the process is not quite completed data [32]. (Online version in colour.)
+
+within 10 ys. On the other hand, the similarity of the transi-
+
+ent difference spectrum at 10 js with the FTIR difference non-equilibrium MD simulations of the allosteric transition
+
+spectrum seems to suggest that the process is in fact almost in the PDZ2 domain. By mimicking the initial cis — trans
+
+completed [31]. photoisomerization of the azobenzene photoswitch via a
+To facilitate a direct simulation of the above-described potential-energy surface switching method [57], 100 non-

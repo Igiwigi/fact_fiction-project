@@ -1,0 +1,25 @@
+L L
+Po(sij)
+—logZ=) 1 i)- )_ log} ——— |+---. 3.15
+og » og po(si) ps 8 poe)PoS) (3.15)
+= J
+Inserting this into (3.6) we can now identify
+(hi) = H(@) + log po(si) (3.16)
+and
+a Po(si)
+;) = —H(i:j) — log |} ————__], 3.17)
+Wij) (i:j) — log Popo) (3.17)
+
+that is, the averages of the Lagrange parameters are in fact given by averages that can be extracted
+from the MSA directly. Equations (3.16) and (3.17) imply that there is a relationship between the
+energy contribution to a site (h;) and the entropy H(i) of that site, and it is precisely the relationship
+that is summarized by the thermodynamical Helmholtz free-energy relation
+
+Q=E-TS, (3.18)
+
+where 2 = — log Z is the free energy, E is the average energy and S is the Gibbs entropy (T, of
+course, is the temperature). We will see below that not only are the averages related in this manner,
+but the parameters of the Potts model are given entirely by quantities that can be extracted directly
+from the MSA, without the need of any optimization, namely:
+
+i(sq) = Mo? (3.19)

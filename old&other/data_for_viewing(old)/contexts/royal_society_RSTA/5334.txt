@@ -1,0 +1,25 @@
+in estimates of the trend as well as the fact that global maps of trends need to be viewed with : =
+these spatially varying uncertainties in mind. :3
+While the variability in the time series places certain limits on our ability to make statements
+about the long-term trends, systematic factors also contribute to our uncertainty in the estimates eal
+of sea-level change. These systematic factors particularly highlight the need for simultaneous :
+observations by other systems, as well as the need for a stable realization of the reference system [4
+for the measurements. aw
+One important aspect of the altimetry is the need to correct for a variety of factors, including aes)
+sea-state bias and wet tropospheric delay. These corrections vary between each satellite mission, aes)
+must be independently evaluated and led to the requirement that the altimetry missions must ,
+overlap [68]. An important final check that errors in the corrections do not introduce errors into
+the altimetric long-term trend is to compare the altimeter time series with those from a selection of
+tide gauges distributed throughout the world [69]. In fact, the frequently reported uncertainty of
+0.4mm per year on the global trend is primarily associated with this check on altimeter drift [70].
+This check is not perfect, in that not all of the tide gauges have GNSS measurements of vertical
+land (crustal) motion. This motion could introduce a systematic error into the analysis, though a
+recent study suggested that this globally averaged error should be less than 0.6 mm per year [71],
+which is also an independently estimated altimetric trend error [72]. However, the tide gauge
+comparison (which remains independent of altimeter processing streams) remains a crucial check
+that significantly larger erroneous trends are not present in the altimeter data. These figures are
+for global mean sea-level trend, which benefits from the fact that many regional sources of error,
+including orbit error, tend to cancel significantly in the global ocean average. Regional trend errors
+may be significantly larger at several millimetres per year [73].
+The reference system is also vital to understanding sea-level change. One can think of a
+measurement of relative sea-level change, as measured at the coast by tide gauges, as the change

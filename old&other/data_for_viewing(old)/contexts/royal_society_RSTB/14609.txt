@@ -1,0 +1,25 @@
+ging sensory and policy topologies within the common tence [52].
+
+lower-dimensional representation space. Thanks to this pro-
+cess, representations of those features that are relevant to
+
+the representation of the current policy are positioned in (ii) The intrinsic signal bootstraps the learning of topologies
+
+the same region within each manifold. For this learning At the beginning of the agent’s learning, topologies are not
+mechanism to be implemented two requirements must be yet developed. Thus activations in the internal space are
+fulfilled. First, the lower-dimensional projections of each only randomly related to the sensory inputs occurring to
+modality must share an intrinsic internal metrics so that the agent. In the same way, the representations in the internal
+regions in the space of one modality can be related to regions space from which the policies are generated are randomly
+in the space of another modality. Second, a function must be related to the policies that are in fact executed by the agent.
+found to relate patterns in different modalities with each The agent thus starts with internal representations that are
+other so that sensory inputs that are associated with a specific meaningless at first. Importantly, however, as long as sub-
+motor programme are represented in the same region of the sequent sensory states are detected, despite the agent’s
+internal space. The two requirements can be merged by initial random behaviour (which here amounts to selecting
+assuming that the projections of all modalities lie in the a policy among those currently available) the internal rep-
+same lower-dimensional inner space and, consequently, by resentations of the different sensory modalities will move
+observing that the relationship between motor programmes within the inner space. Over time, given the common
+and sensory inputs can be detected through a measure of metric of the internal space, these sensory representations
+the distance between their projections in this inner space. In happen to get closer to the internal representation which gen-
+particular, we propose that learning should be dependent erated the current policy. These are the sensory inputs and
+on the amount of decrease in the distance or convergence motor programmes that will be assigned a higher amount
+between representations in the common space (figure 1). of learning signal. The sensory inputs that are selected by

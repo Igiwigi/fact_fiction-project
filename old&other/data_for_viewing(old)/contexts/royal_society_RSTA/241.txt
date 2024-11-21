@@ -1,0 +1,24 @@
+'= 6.8
+ee a or (68)
+
+(gq
+
+which is a good approximation except close to the fold points. Notice that the
+wave speed (6.5) gives the gradients of the equilibrium curve q* = Q(p*) at the
+Hopf points (p"", q#"), i= 1,2, while the wave speed (6.6) gives the gradient of the
+line connecting points (pt, q*) and (p~,q~). Clearly, this line does not coincide
+with g°“8 (in contrast to the suggestion in figure le). In the FD in figure 4c, the
+bistable regimes are located at p+ < p* < p#? and p#! < p* < p~. Notice that h~ <
+Kstop  P” > Pstop, that is, during oscillations, higher densities can be observed
+than suggested by the equilibrium FD. This corresponds to the fact that drivers
+intend to stop at the distance hgto), but can only achieve this at the distance h~
+owing to their inertia and reaction time.
+
+As mentioned above, if the reaction times were omitted, the Hopf bifurcations
+are usually supercritical (or weakly subcritical), which would result in (p4?, q#?) ~
+(pt, qt) and (p™, g#!) = (p-,q-) and would also yield cll’, ~ 8; see (6.5),
+(6.6). In this case, the extended bistable regions would disappear, oscillation
+would appear only for p#? < p* <p"! and the corresponding FD would be similar
+
+o figure 3d. That is, no overlapping region between equilibria and oscillations
+could be observed, which contradicts the empirical findings in figure La.

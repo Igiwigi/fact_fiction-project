@@ -1,0 +1,25 @@
+Mr H. L. Cox, of the Engineering Division, National Physical Laboratory, has investi-
+gated by analytical methods the rather similar problem of finding the tensile stress in plates
+containing long thin holes (figure 176), and found that there is a maximum principal stress
+at a point P on the curved part of the boundary of the hole, greater than the stress at the
+central point O by about 30 %. This analysis is not applicable to the problem of figure 17a,
+and Cox suggested that Mathematics Division might obtain a solution to this problem by
+relaxation methods.
+
+
+368 L. FOX ON THE NUMERICAL SOLUTION
+
+Photoelastic tests have also been carried out, but it is somewhat difficult to obtain con-
+ditions of uniform loading, and experiment in fact prefers conditions of uniform displace-
+ment. It is shown in §11 that the latter conditions are not ideal for relaxation, and it was
+decided to replace the uniform displacement condition by one of uniform tensile loading
+at the ends of the specimen.*
+
+The relaxation problem involves the solution of the equation
+
+Way i—.0)s (B. 18)
+Be oe a ee
+where Xeiye ¥, = 932? Sais wbaey (B. 19)
+
+The boundary conditions give specified values of
+X, = X, cos (x, v) + X,sin (x, v), )

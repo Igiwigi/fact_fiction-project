@@ -1,0 +1,25 @@
+for the conditions used in this work, particularly the low zeta potential of the CNTs, justifies using
+the Debye-Hiickel approximation. Therefore, the difference between the nonlinear and the linear
+solutions to the P-B equation is negligible. This is confirmed in figure 5, where the experimental
+data for the ratio between EO and pressure-driven permeabilities for the borate buffer solution is
+reproduced with the corresponding values for the two solutions. As discussed earlier, this might
+not be the case for other materials more commonly used in EO, such as silica. The ratio between
+EO and pressure-driven permeabilities is here normalized by the pressure Ap, to eliminate this
+dependence and only show the one from the nanotube diameter.
+
+As can be observed, the model overestimates the experimental data in most of the CNT
+diameter range investigated. This could be attributed either to a larger error in the estimation
+of the effective voltage, as discussed earlier, or in the measurement of the experimental data (flow
+rate and or nanotube diameter). Another possibility can be the fact that the no-slip boundary
+condition has been used to solve the Navier-Stokes equation with the electro-osmotic term. There
+is ample evidence in the literature, including for the same nanotubes used in this work, that
+a significant amount of wall slip is present for water flowing through CNTs under a pressure
+gradient. Considering slip could alter the permeability values resulting from applying the model
+to the present case, at least in the pressure-driven flow case, though whether slip is possible in the
+case of an electrolyte solution near a charged surface is a yet unsolved problem [1], beyond the
+scope of this work.
+
+4. Conclusion
+
+In summary, experimental evidence of the presence of EOF in CNMs close or in the region of
+EDL overlap is presented for two different electrolytes for the first time. These results show that

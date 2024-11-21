@@ -1,0 +1,25 @@
+structure. These can either cross the a-c interfaces (see [32] for this terminology and an analysis)
+or end there. In both cases, these are low-energy interfaces. Evidently, the field is strong enough to
+bias every other variant completely, while the alternate triangles retain some of these modulation
+twins. Nevertheless, there is good quantitative agreement between the measured angles of the
+
+
+Imm
+
+Figure 3. Experimental realization of a two-variant microstructure in NiMnGa. (a) The permanent magnet array. Sliding the
+oriented NiMnGa rod past this array produced the structure seen in (6). The magnetization in (6) is added by hand. (Online
+version in colour.)
+
+triangles and the theoretical calculation summarized by figure 1. Evidently, this is due to the fact
+that the monoclinicity is small.
+
+The bent configuration is quite stable when the field is removed. This can be understood from
+the fact that, due to the + invariance, fine arrays of 180° magnetic domains can be introduced into
+each triangle, with 1/2 volume fraction + and 1/2 — so as to reduce the magnetostatic energy to
+a low level when no applied field is present.
+
+3. Austenite/martensite circle
+
+As we now explain, the elementary construction given above is a special case of a much more
+general method of constructing curved zero-energy microstructures. From formula (2.12), one
+can realize that it is produced by a particular action of two discrete groups of isometries, the

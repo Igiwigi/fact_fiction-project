@@ -1,0 +1,25 @@
+to produce SIM montages (3 x 3 images containing raw sample images captured under different illumination pattern phases
+and orientations). The LiveFFT window (e) can be accessed from the live preview window (d) (with (g) being the inspection
+window), the bright spots in the live FFT window correspond to the frequency and orientation of the real space sinusoidal
+illumination pattern. (c) The main Micro-Manager panel for controlling the system with (f) being the XYZ stage controller.
+(Online version in colour.)
+
+path after the dichroic reflector. The microscope used a lower magnification silicone immersion
+objective lens (30x /1.05 UPLSAPO30XS, Olympus), to provide a larger FoV at the expense of
+a small reduction in spatial resolution. Images were recorded with a CCD camera (ORCA R2,
+Hamamatsu). Advance of bitplanes in the SLM running order was again initiated by TTL signals
+from the camera, but in this case repeated through a microcontroller (Arduino Mega 2560) to
+improve the fast-switching TTL signal at high frame rates. One limitation of this system stems
+from the reduced triggering functionality of the camera and the fact that the camera controller
+continually emitted a heartbeat of HIGH to LOW TTL signals independently of image acquisition.
+This meant it was not possible to reset the running order of SLM bitplanes at the start of each
+image acquisition resulting in a variable ordering of raw images in each SIM image sequence. To
+accommodate this, each image sequence was reordered post-capture as a first step in the image
+reconstruction process.
+
+6. Calibration, image reconstruction and testing
+
+Both SIM microscopes are calibrated by imaging a pre-prepared slide of fluorescent microspheres
+(PS-Speck, Thermo Fisher Scientific) deposited onto a (#1.5H) coverslip. After air drying, a
+drop of hard curing mountant (ProLong Gold, Thermo Fisher Scientific) was added and a glass
+microscope slide was placed on top. The monolayers of closely packed microspheres which form

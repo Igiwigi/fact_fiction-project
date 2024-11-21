@@ -1,0 +1,25 @@
+While single dissimilarity approaches have already been used to detect communities [31], it may : =
+seem insufficient to capture the intrinsic features of a complex network. A single quantifier does : 5
+not capture the structural complexity. In such a context, in this work we propose a novel strategy : 3s
+that complements a quantifier’s weaknesses with the strengths of another. As figure 2 illustrates, : =
+a particular measure D,(d1,d2) may perform better, depending on how well their constituent rR
+quantifiers, d; and d2, adapt to the network’s specificity. Thus, choosing an optimal measure may : 3
+depend on the topological and statistical heterogeneity of the network under analysis. Adaptively [3
+coupling two different quantifiers may improve community detection while considering more :8
+than one relevant network’s feature, e.g. local or global properties. The resulting network maximal : s
+modularity can be evaluated as a function of the parameter ¢, thus tuning the weights in D, (41, d2) 1 oe
+
+to the best structural result. Such a tuning is not an artefact, as the resulting classification shows.
+In fact, it is possible to observe a good classification of the different communities of ZKCN.
+Remarkably, for the case of C. elegans, the method precisely separates all the metabolic pathways
+and intrapathway functions. Consequently, such a detailed function identification represents an
+improvement with respect to the GO classification available at KEGG.
+
+In our paper, we explored two archetypal systems used widely in the literature to test
+methods for community detection in complex networks. In particular, we found that our method
+is useful to detect communities in sparse networks such as the metabolic network discussed
+above. In fact we found that weighting dissimilarities perform better than several of the methods
+recently published [8-18]. An analysis of larger networks would offer further insights into the
+dissimilarity’s performance; however, such an analysis is outside the scope of this work and is left
+for a future publication. However, we analysed a number of different networks. We observed that
+when a network with more diverse characteristics is analysed the method adapts better and the

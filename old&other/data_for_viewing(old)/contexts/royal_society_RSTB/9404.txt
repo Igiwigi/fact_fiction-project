@@ -1,0 +1,25 @@
+the growth of new leaf buds (primordia). In 2003 it was communities. These might account for the patchiness of zoo-
+shown that phyllotaxis is regulated by proteins that ferry plankton in the sea and the phytoplankton on which they
+auxin through the outer ‘skin’ of the stem up towards its graze [43]. And there is rather compelling evidence that a
+apex [41]. Existing leaf buds soak up auxin and thus act as Turing-type mechanism accounts for structures formed by a
+sinks, inhibiting the formation of any new buds nearby. species of ant [44]. Mediterranean Messor sancta ants collect
+Phyllotaxis is one of the oldest and most compelling prob- the bodies of expired colony members and arrange them in
+lems of biological pattern formation, not least because it has a piles. The ants constantly pick up and redistribute the corpses,
+mathematical character that seems at first deeply mysterious. producing a kind of ‘diffusion’ of bodies. Nonetheless, after a
+The leaves or florets are typically arranged around the stem certain time the locations of the piles stay fixed. Because ants
+ina spiral pattern, and when this is projected onto a horizontal are more likely to drop a body on a pile as the pile gets
+plane—as it is in the plant itself for the arrangement of florets in larger, there is a positive feedback (activation) controlling
+the head of a sunflower or daisy (figure 8)—one finds that there their growth, analogous to that by which sand ripples form.
+are in fact two groups of counter-rotating spirals. In each of the There is also long-range inhibition, because the region sur-
+two groups, the numbers of spirals are always successive num- rounding a big pile gets swept clear of bodies, making it less
+bers in the Fibonacci series, generated from the pair {0,1} by likely for a new one to be started in the vicinity. The result is a
+adding together the two preceding numbers: 0, 1, 1, 2, 3, 5, 8, series of stationary clusters of corpses, and if the ants are con-
+13, 21, 34... fined in a Petri dish then these clusters are created around the
+Why should the spirals obey this rule? A common view is perimeter, with precisely the ring geometry that Turing first
+that the Fibonacci arrangement enables the most efficient pack- explored in 1952 (figure 2). Mechanisms like this might underlie
+ing of the florets. This may well be true, but it does not explain many other aspects of habitat formation and grouping, such as
+the mechanics of how the growing plant ‘finds’ this solution, nest construction, in higher organisms.
+any more than explaining the leopard’s spots in terms of Even human communities, orchestrated by social feed-
+camouflage accounts for how the pigmented spots actually backs on behaviour and movement, might organize
+form on the leopard foetus. It seems conceivable, at least, themselves into Turing patterns. A reaction—diffusion model
+that Turing’s scheme might provide the biochemical mechan- has been proposed to explain the phenomenon of crime hot-

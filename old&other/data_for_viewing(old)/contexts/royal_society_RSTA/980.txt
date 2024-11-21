@@ -1,0 +1,25 @@
+able to obtain [P;, Pr] = O(f°°). In many classical examples, an exact quantization is known; see,
+for instance [187,188]. Symmetry considerations should help greatly. This is a typical local-to-
+global obstruction problem, and one expects a corresponding cohomology complex. In the case
+of polynomial symbols in C", the complex was constructed in [189].
+
+Problem 7.2 (S. Vi Ngoc). Given a set of semiclassical operators that verify conditions 1 and 2
+above, can one detect the independence axiom 3 in a purely spectral way? More precisely, can
+one tell from asymptotics of joint eigenvalues or eigenfunctions of (P},..., Py) that the principal
+symbols are almost everywhere independent?
+
+A great achievement of microlocal analysis of pseudo-differential operators is the formulation
+of complete Bohr-Sommerfeld rules to any order. Given a quantum integrable system, these rules
+are, in fact, some kind of integrality conditions (or cohomological conditions), depending on a
+parameter E € R", that are satisfied if and only if E is a joint eigenvalue of the system, modulo an
+arbitrarily small error of size O(h™).
+
+Historically (both in physics and mathematics), these rules have been written for regular
+Lagrangian tori, ie. E should stay in a small ball of regular values of the classical moment map.
+Mote recently, non-trivial extensions to some singular situations have been found; see [190-192].
+
+To treat even more physical examples, and to appeal to the geometry community, it is
+important to extend these rules to Berezin-Toeplitz quantization on compact Kahler manifolds.
+This was done recently for regular tori [193], and for one degree of freedom systems with Morse
+singularities; see [194,195]. It should be possible to treat also the focus—focus case, along the lines
+of [196].

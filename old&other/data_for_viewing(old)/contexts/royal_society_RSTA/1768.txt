@@ -1,0 +1,25 @@
+while the gain itself is not high for 1D simulations, there is good reason to expect closer agreement
+
+
+between experiment and 1D simulations than is typical. It is therefore hoped that gains of similar
+magnitude to those presented here could be achieved experimentally, which is not true of typical
+high gain 1D simulations.
+
+In addition, it is important to note that the use of 1D simulations means that high accuracy
+with these results is not claimed. It is expected that behaviour in this regime would be close to 1D-
+like, but more detailed simulations would be required to make exact claims about performance.
+Instead, these results are intended as indicators of the level of performance that may be possible
+in such a regime, to assess its viability. The potential of stable implosions in this regime, coupled
+with the fact that these estimates of gain are indeed high enough to be of interest, suggests that
+this regime does therefore warrant further investigation.
+
+6. Outlook
+
+The results demonstrated in this paper suggest some clear directions for future work. The
+
+most obvious next step is to increase the dimensionality, performing 2D simulations to : =
+investigate hydrodynamic instability growth and provide further confidence that performance : >
+is approximately one-dimensional in this regime. Such simulations would also provide a more [3
+accurate estimate of the performance that could be expected from such capsules (particularly :2
+as the agreement observed with experiment in [6] was found using 2D simulations). An 8
+investigation of this regime placing limits on the adiabat would also be an interesting extension if

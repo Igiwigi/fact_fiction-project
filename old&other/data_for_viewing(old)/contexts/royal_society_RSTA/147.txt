@@ -1,0 +1,25 @@
+boundary. These larger spots have a slightly asymmetric appearance, looking almost sheared in
+the outward direction. This asymmetry is likely due to the strong gradient in reaction rates over
+this section of the space domain: the interior part of the spot sits in a region of higher reaction rate
+than does the outer part of the spot. Unlike in other panels, there are no spots at the boundary in
+(c), due to the zero reaction rates. In (d), we consider a case where there is spatial variation in the
+reaction rate for only one species, here the inhibitor u7. Unlike the other cases which resulted in
+different sized spots over the domain, here there is a fundamental change in the pattern due to
+the asymmetry in reaction rates. In the region of smaller reaction rates (rz — 4), spots form, while
+in the region of larger reaction rates (rz > 10), stripes form. These stripes are far more shallow
+compared with the larger amplitude spots. This compound pattern emerges as for 11 = 1, r2 = 10,
+stripes rather than spots will be the dominant Turing pattern. These two-dimensional simulations
+
+highlight the fact that structures of different sizes can result from spatial heterogeneity, and in : =
+some situations even distinct patterns can share the same space domain. While the simulations : =
+in (a-c) show steady states, the simulation in (d) still evolves, with spots occasionally created on :3
+the left boundary, slowly splitting as they migrate toward the centre, and then destroyed and : =
+converted into mass for stripes. This behaviour persists even on the much longer timescale of :R
+the simulation shown in (d), and is akin to how spatial heterogeneity resulted in spatio-temporal are
+(rather than purely spatial) dynamics in [53,54]. :3
+
+We have seen how spatially heterogeneous reaction and diffusion terms can result in a change 8
+of pattern size or even structure. We will now consider how one might change the region on which : s
+
+patterns occur, restricting patterns to a subset of the space domain. To demonstrate this, consider
+the system

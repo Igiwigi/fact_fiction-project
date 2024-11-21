@@ -1,0 +1,25 @@
+
+that either the signal or the noise or both signal and noise are Gaussian processes. Further, lst
+even when non-Gaussianity is considered, the process is often assumed to be a linear process is
+[5
+
+or a simple martingale (a sequence of random variables for which, at a particular time, the
+expectation of the next value in the sequence is equal to the present observed value, given the
+knowledge of all prior observed values) derived from a Gaussian process, i.e. via simple stochastic
+differential equations [1]. Nevertheless, many real-life processes (e.g. sonar, radar, biomedical and
+
+economic) do not fall into the Gaussian and/or linear assumption. Moreover, the existence of [=
+non-stationarity alters the statistical characteristics of the process with time, posing an additional : S
+factor to be considered in signal analysis. In fact, in most natural systems, the properties of 1s
+interacting oscillatory systems are not constant, as there is an evolution or fluctuation in time, : =
+altering the mutual interaction among subsystems, their frequencies and amplitudes. In addition, 3
+the temporary occurrence of frequency and phase coupling, with varying strengths, exposes iB
+time-dependent nonlinear interactions between a pair of individual oscillators. : =
+It is apparent, therefore, that, in a time-series setting, nonlinearity, non-Gaussianity and : R
+non-stationarity cannot be attained solely via the examination of the spectrum. Identification : o
+of nonlinearities in the process, however, could provide an alternative feature space that : >
+enhances further their value in the examined problem. This involves the use of higher-order : =
+statistics /spectra (HOS) [2], which, unlike the power (second-order) spectrum, preserve the : g
+a)
+
+phase information of the signal and could be used to detect the nonlinearity and deviation from

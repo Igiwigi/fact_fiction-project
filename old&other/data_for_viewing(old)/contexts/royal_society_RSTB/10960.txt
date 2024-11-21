@@ -1,0 +1,25 @@
+conformation of chromosomes in the nucleus [31,32]. With
+this protocol, formaldehyde cross-linking and proximity liga-
+tion is followed by restriction endonuclease digestion to
+produce a 3C library of protein-mediated DNA-DNA inter-
+actions within an ensemble of cells. The presence of hybrid
+sequences representing interactions can then be assayed
+
+
+using polymerase chain reaction (PCR) with primers for Results based on Hi-C data published by Dixon ef al. [39] con-
+
+sequences representing loci of putative interaction. The currently with the aforementioned paper by Nora et al. [30]
+advent of massively parallel or high-throughput DNA showed that TADs were not specific to the region around
+sequencing (HTS), in conjunction with the availability of Xist/ XIST, but were, in fact, a conserved hallmark of chroma-
+genomic assemblies for many organisms, has revolutionized tin structure and observed to occur along all chromosomes,
+the ability of researchers to interrogate biological structure both in mouse and human. It should also be noted that the
+and function, allowing for this to be done on a genome- size of TADs is similar to that of interconnected chromosomal
+wide scale, with many protocols having been developed to regions previously described as chromatin domain clusters
+leverage this paradigm-shifting technology [33]. 4C-seq (Cir- (CDCs) based on observations made using microscopy
+cular 3C coupled to HTS) adds a round of digestion and studies, although no formal correspondence has been
+ligation to the 3C protocol, which results in the generation shown to exist between TADs and CDCs [40,41].
+of a library of circular ligation products that theoretically rep- Hi-C libraries were originally prepared using genomic = -5
+resent DNA-DNA contacts with a particular locus of interest material liberated from nuclei, but more recently the protocol =
+(the bait or viewpoint) within the population of cells [34]. The has been applied to intact nuclei (in situ Hi-C) with the =
+DNA fragments representing the regions that interact with assumption that this would capture the chromosomal inter- -
+the viewpoint can be amplified from the hybrid DNA library actions more faithfully. By sequencing in situ Hi-C libraries 2

@@ -1,0 +1,25 @@
+apply h4. split :§
+a apply hab. exact ha. 1B
+Zo™ closed destruct hac as [hnalhc]. elim hna. exact ha : a
+exact he at
+
+closed closed Qed.
+
+Figure 2. A tableau proof, a natural deduction proof, and a Coq proof of the formula in (2.2). a
+
+To make the situation worse, consider figure 2, which shows a proof of our formula (2.2) as an Do
+analytic tableau [48] on the left, a natural deduction proof [17,35] on the top right, and as a proof 2S
+script in the Coq system [11] on the bottom right. A priori, there is no obvious relation between all ty
+these proofs, except for the fact that they prove the same formula. However, the natural deduction : &
+proof and the Coq proof script are just two different notations of the same object. But they are not 18
+comparable to the tableau proof on the left or the two sequent proofs in figure 1 above.®
+
+Nonetheless, even though syntactically all these proofs look very different from each other,
+in principle they all do the same thing: they use A twice to justify B (via the subformula A > B)
+and C (via the subformula —A v C), which in turn are then used to justify D (via the subformula
+CAB+D).
+
+So, why not extend the equivalence between the natural deduction proof and the Coq proof
+script (being just two different notations of the same object) to all proofs in figures 1 and 2? Why
+not consider them all simply as different syntactic representations of the same proof? The problem
+here is that the syntactic peculiarities of the chosen formal proof system or proof language hide

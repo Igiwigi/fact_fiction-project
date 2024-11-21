@@ -1,0 +1,25 @@
+The Gaussian distribution exhibits many important properties, but here we shall focus on the
+following one: Outliers stand very poor chances of manifesting themselves and, precisely because they
+are the carriers of uncertainty, uncertainty is heavily suppressed. Then the numbers indeed speak for
+themselves: the probability of finding an event one-sigma away from the mean is about 30%, a
+number which goes down to just 4.5% at two-sigma. The demise of uncertainty is dramatic: at
+five-sigma we find just about one in half a million and at six-sigma less than two in a billion! This
+adumbrates a very comfortable world, where uncertainty has no chances because outliers are
+heavily suppressed; fluctuations recede and are absorbed within the mean, an overly powerful
+attractor. A comfortable, if somewhat grey, world of stable and reassuring conformity.
+
+The Gaussian distribution plays an undeniable role across all walks of science and society, to
+the point of still being regarded by many as a universal descriptor of uncertainty. The truth is that,
+for all its monumental importance, the Gaussian distribution is far from being universal. In fact,
+it fails to describe most phenomena where complexity holds sway.
+
+Why? Because complex systems, almost by definition, are correlated! When a turbulent whiff
+is ejected from the wind-shield of our car, it affects the surrounding air flow, so that the next whiff
+will meet with an environment which is not the same it would have met in the absence of the
+previous whiff. The system affects its environment, the two are correlated, the statistics of whiffs
+(turbulence) is not Gaussian. A similar story goes for most complex states of flowing matter [4]
+and complex systems in general.
+
+This is a far cry from the ‘fair coin’, in which head or tail now has no effect on head or tail at the
+next toss. In complex systems, the coin is hardly fair. As a result, the statistics of correlated events
+is much more tolerant towards outliers, with the consequence of a much higher, sometimes even

@@ -1,0 +1,25 @@
+2 4 6 8 2 4 6 8
+Re x104 Re x104
+
+Figure 1. Channel-flow DNS data of Moser et al. [56], Del Alamo et al. [57], Hoyas & Jiménez [58] and the JHTDB database [59].
+(a) Mean streamwise velocity profile, in wall units; (6) friction factor f(Re) versus Re; (c) Mean streamwise velocity and (d) mean
+Reynolds stress at h*| = 12 versus Re. The red dashed lines in (b—d) are power-law fits. (Online version in colour.)
+
+To illustrate that our hypothesized bounds (4.6) and (4.7) are realistic, even as near equalities,
+we show data taken from a compilation of several numerical channel flow simulations [56-59],
+to cover a range of Reynolds numbers Re = 2HU/v = 13755-86902 (Rer = 395—2000). See figure 1.
+These mean data all correspond to the limit T — oo in our analysis. We see in figure 1a that the
+1/7 power law is a good fit to the mean streamwise velocity profile over most of the channel
+width, except in the viscous sublayer where u, ~ y+. Best fits reveal, in fact, that the power
+m is slowly decreasing with Re. Figure 1b shows that the drag law is Blasius-like, but with an
+exponent somewhat smaller than 1/4. The plots in figure 1c,d show that our hypotheses (4.6) and
+(4.7) are reasonable if one takes h = 12v/u,, with both mean streamwise velocity and Reynolds
+stress exhibiting near power laws. From the best-fit exponents, we find that (m+ n)/(1+1n)=
+0.211 which may be compared with p=0.2347. The agreement is very reasonable given that
+the simulations considered use different codes and numerical resolutions and have somewhat
+different aspect ratios. It would obviously be better to have data from several runs of a single
+numerical scheme over a span of Reynolds numbers.
+
+Because our results are closely related to those of Prandtl [21-23], we must briefly compare
+both our methods and our conclusions. In what is now standard practice [33], Prandtl very simply
+obtained the drag law by averaging the mean streamwise velocity profile in the form

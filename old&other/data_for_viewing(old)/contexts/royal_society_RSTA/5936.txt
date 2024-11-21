@@ -1,0 +1,25 @@
+fields obtained by DNS, and applied the low-pressure method [18,24,25] to the scale-decomposed
+fields so that we can objectively identify the skeletal structures of coherent tubular vortices at each
+scale. The identified hierarchy (figure 1) of vortex axes is self-similar. To evaluate the dimension of
+the hierarchy, we have estimated the total length L(k,) of the vortex axes in the wavenumber band
+[k-/2,kc). As shown in figure 2, L(kc) obeys the power law (3.1), even without time averaging, in
+a significantly wide range of k,. More precisely, this power law holds in the wavenumber range
+(3.2); namely, not only the T range (within the inertial range) but also a lower part of the B range
+(within the dissipation range), where the energy spectrum is accompanied by a bump. See figure 3
+for the definitions of the T and B ranges. This result implies that there exists the energy cascade
+process due to vortex stretching even in the dissipation range, though the vorticity is attenuated
+
+
+by the viscosity in the range. In fact, this result is also consistent with the observation (fig. 1c of
+[22]) of the energy transfer in the B range. In other words, the number of child vortices in the
+cascading process is constant irrespective of the scale in the range (3.2). We have also shown
+that L is robust and independent of Reynolds number and forcing (figure 2), which implies
+the universality of turbulence. It is particularly important for the mathematical formulation of
+the energy cascade that L is time independent (figure 4) even when the kinetic energy and its
+dissipation rate significantly fluctuate. This result supports the assumption in [22]; see §4a. The
+results in figure 2 also show that the intermittency of the energy dissipation rate is not due to the
+increase of volume fraction of smaller scale vortices but due to the accumulation of the energy flux
+in smaller scales; see §4b. In other words, we need to take into account not only the total length
+of tubular vortices but also the vortex intensity in order to evaluate the effect of the intermittency.
+Therefore, we may further improve our mathematical formulation of the energy cascade [22], by
+taking into account the multifractal nature (§4c), to describe the deviation of the energy spectrum

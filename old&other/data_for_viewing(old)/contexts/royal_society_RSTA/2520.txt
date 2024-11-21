@@ -1,0 +1,25 @@
+selected as given clauses earlier than they were before. Here are the statistics from the second
+proof.
+
+% Length of proof is 265.
+
+% Level of proof is 42.
+
+% Maximum clause weight is 49.
+% Given clauses 169.
+
+Note that every parameter dropped considerably. This new proof is not only simpler by the
+basic measure of length but also by the other measures as well. We can see that the hint matchers
+dominated the search by the fact that the proof was found after only 169 given clauses were
+generated. To focus on what I think is important here, I will no longer report the given clause
+number; it continues to drop, but does not change significantly after a few iterations of this
+procedure.
+
+
+We repeat the process, extracting the 265 clauses from this proof. In this demonstration, we
+will discard the previous set of hints, but keeping it can also sometimes lead to interesting results.
+Here are the statistics from the third proof.
+
+2
+
+% Length of proof is 236.

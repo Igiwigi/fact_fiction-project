@@ -1,0 +1,25 @@
+
+STATISTICAL ESTIMATION 335
+
+dice, etc. Theoretically, however, the situation is clear: when we speak of a
+random sample we mean that it is drawn so that (1) the probability of each
+individual of the population being included in the sample is the same, and (2) separate
+drawings are mutually independent, except in the case of dependence resulting from
+the population being finite, when the individual drawn is not returned to the
+population before the next drawing.
+
+Leaving apart on one side the practical difficulty of achieving randomness and the
+meaning of this word when applied to actual experiments, I want to call attention
+to the fact that the conditions of the problem in (ia) may be mathematically described
+
+as follows.
+S Denote X, Y, ..., Z, the characters of the individuals of the population =, in
+iy which we are interested and by x, y,.. . . z, respectively the values of these characters
+
+"gcorresponding to some particular individual. For example, if the population =
+consists of certain plants, X may mean the weight of the roots, Y the colour of the
+a”flowers, Z the weight of the seeds, etc. The method of random sampling adopted,
+“together with the properties of the population x, some of which may be known and
+Sothers doubtful, determine the probability,* say P {E}, of the occurrence of any
+‘'epossible system, E, of values of X, Y, ... ., Zin the individuals which may be drawn
+sto form the sample. Denote by 6, the numerical character of the population =

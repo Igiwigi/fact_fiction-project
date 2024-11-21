@@ -1,0 +1,25 @@
+‘transfer’) when applied to patients drawn from other popu- noted, whatever stratification approach is adopted will fail
+lation backgrounds, many PRS are less predictive when used many patients whose genetic identities do not otherwise
+for non-European ancestry populations [62]. Why this is the correspond to the chosen categories.
+case remains an open question, with commentators noting Along with the lack of an objective way to identify popu-
+the role of population genetic differences in underlying allelic lations of interest, there is the equally significant problem of
+architecture and patterns of linkage disequilibrium, as well as the disconnect between human population genetic structure
+the likely contribution of non-genetic risk factors and popu- and non-genetic population arrangements such as, for
+lation-specific gene-environment interactions [54,61-66] (see example, socially ascribed racial and/or ethnic identity [75].
+box 2). Irrespective of the exact explanation(s) for this, now Often, what is medically relevant about populations (and
+well-recognized ‘transferability problem’, there are tangible hence what influences the predictive value of a PRS) is a func-
+implications of the difficulty for the deployment of PRS in tion of the social and/or environmental risk factors shared by
+clinical practice in ways that are useful and will not exacer- that population, and not the allele frequencies of the popu-
+bate health inequities. And while many, creative, solutions lation in question. This fact all but ensures that ‘all-purpose’
+to the problem are currently being actively explored PRS will capture spurious associations and risk that is not
+
+[63,69,70], it is not clear that even the best designed approach causally associated with the alleles in question (per box 1).
+
+
+Box 1. Sib-pair controls and population structure.
+
+The sib-pair method is one way to test for the problem of traits covarying with populations, and genetic differences between
+the populations therefore being statistically associated with the trait in question, despite not being causally involved in the
+development of the trait (in other words, to test for the effects of residual or cryptic population stratification). To adapt an
+example from Coop [54], imagine running a genome-wide association study (GWAS) on a diverse population that included
+both people native to, say, Liverpool, England, and people native to, say, Paris, France, and looking at the trait ‘pounds of

@@ -1,0 +1,25 @@
+solid matrix. The mass balance on the molecules of X in the volume V; will therefore read
+
+dic) do) _ _ dg
+dod (Vads — Vdes) oa
+
+(2.2)
+
+where ¢ is a specific surface area, i.e. the area of solid matrix divided by the total volume Vt.
+Notice that when we expanded the derivative on the RHS of the previous equation, we had to
+account for the fact that the specific surface area ¢ can change in time because of the swelling of the
+
+matrix. In a similar way, we cannot consider the porosity ¢ as constant in time when calculating Ss
+the time derivative of the LHS of equation (2.2), due to the fact that we assumed that V, varies : s
+with o while V¢ remains constant. This will therefore produce a term proportional to d¢/dt for : =
+which, together with the term d¢/dt, we should in principle provide additional evolution laws. : =
+This task can be properly performed only if we know how the mechanical properties of the 13
+solid matrix relax in time in response to a change in composition, but such a detailed analysis : =
+is beyond the scope of this paper. Our aim here is to investigate the possibility of identifying Da
+a mechanochemical coupling that can lead to sustained oscillations with minimal ingredients; : o
+therefore, we wish to keep our model as simple as possible. For this reason, we assume that we : a
+can take all structural properties of the solid matrix to be functions of the coverage, whose precise : 3
+form is, of course, system dependent, but which nevertheless allows us to invoke the chain rules : &
+d@/dt = (8/00)(do /dt) and d¢/dt = (8¢/d0)(do /dt). One way to realize this is, for example, if -
+
+the relaxation of the solid matrix to a new configuration due to composition changes occurs on a

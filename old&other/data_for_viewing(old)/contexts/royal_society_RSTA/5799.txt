@@ -1,0 +1,25 @@
+When only the homochiral terms are kept in the NSEs the system reduces to
+dru’ = PS[(us x w')] + vV2u8 + £. (2.9)
+
+In this case, the two helical fields u* evolve independently, with the nonlinearity conserving their
+energy and helicity
+
+1a. 1 -
+Bas DT lite? and Hess) thi? (2.10)
+k k
+
+However, unlike the NSE, in the homochiral version the two helicities are sign definite quantities
+with H+ >0 and H~ <0. The sign definiteness of the helicity has a profound impact on the
+cascade. As shown in [43,44], it leads to an inverse cascade. In fact, when H* are sign definite
+one can show that a simultaneous forward cascade of €° and H® is incompatible (using similar
+arguments to Fjortoft [45] for the dual cascade of energy and enstrophy in two dimensions,
+see [36] §3.5). On the contrary, for the original Navier-Stokes case (4 = 1), and in the presence
+of a large-scale helical forcing, the energy and helicity cascades are observed to be forward as
+originally proposed in [46] and later verified numerically [42,47].
+
+(c) The A-Navier—Stokes model
+
+The different roles played by the homochiral and heterochiral interactions led Sahoo et al. [37] to
+propose a model that transitions from the forward cascading Navier-Stokes (2.6) to the inverse
+cascading homochiral Navier-Stokes (2.9) varying continuously a parameter 4. In detail, the
+model reads

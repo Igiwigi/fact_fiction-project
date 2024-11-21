@@ -1,0 +1,25 @@
+
+Adrian Sutton I completely agree with you in bec metals. The problem I see with
+that as a general explanation is that, in fcc metals, we also see
+plasticity at liquid helium temperatures [10]. That’s not compatible
+with a kink mechanism. The Peierls barrier to dislocation motion in
+fcc metals (for instance, aluminium) is not so high that you need a
+kink mechanism. And yet you can still see hydrogen embrittlement in
+aluminium and aluminum alloys [22]. So I think there’s something more
+generic.
+
+Reiner Kirchheim But it’s also known that in bcc metals, softening (which is an aspect of
+this kink pair formation) is more pronounced than in fcc [23]. This is due
+to the fact that in bcc metals the dislocations have screw character, and
+if you form a kink it has edge character. Therefore due to the strain field
+it’s prone to segregation—more prone than in fcc.
+
+Adrian Sutton No dispute with that in bec.
+
+Dave Rugg Just a very short response to your question of: Do we care? As you know,
+I’m very interested in safety-critical structures, both aerospace and
+nuclear, and the answer is yes. The reason for that is very simple: What
+
+
+Ineed is predictive capability. If we don’t understand the mechanisms,
+I’d put forward the view that all you can predict is what I already know,

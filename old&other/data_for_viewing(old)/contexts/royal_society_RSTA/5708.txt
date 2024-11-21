@@ -1,0 +1,24 @@
+
+do =H ® f(x) ® D(z). (1.2)
+
+In practice, QCD factorization formulas like equations (1.1) and (1.2) do not involve simple
+products, but rather convolution integrals over shared momentum fractions, and this is
+represented by the ‘®’ symbol.
+
+As might be expected, such simplistic pictures as these come with many caveats, and they
+are only approximate when they hold at all. But they provide a useful starting point for more
+detailed studies and are ubiquitous in investigations of partonic structure by way of scattering
+experiments.
+
+The practical usefulness of factorization formulas like these lies in the fact that QCD is
+asymptotically free over short time and distance scales, so that it is possible to calculate H
+(which describes the actual collision with the quark) using ordinary small coupling perturbation
+theory techniques. The other pieces of the formula, f(x) and D(z), are to be viewed as intrinsic to
+the incoming proton and hadronizing parton, respectively. These non-perturbative functions are
+independent of the particular physical process and can be constrained by experimental data.
+
+The semi-classical nature of the factorization formulas above suggests that their derivations in
+real QCD are ultimately arguments about decoherence between processes happening over widely
+separate time and distance scales. Departures from the simplest factorized pictures typically
+involve some form of failure of decoherence. Since the original fully inclusive DIS process in
+

@@ -1,0 +1,25 @@
+cancers in the dataset are suppressed by the same number of and small intestine adenocarcinomas define the three cancers
+‘hits’. Given the mix of sarcomas and carcinomas, it is very with M = 7 (points 29-31). (ii) The comparison of FAP-induced
+unlikely that M is constant [23]. As a result, it is not possible familial and non-familial cases of colorectal and duodenal cancer
+to get a statistical fit of the data to the model defined by show the expected result that M is reduced by one (from 7 to 6
+equation (3.1) unless there is an a priori reason to group particu- and 6 to 5, respectively). FAP (familial adenomatous polyposis)
+lar cancers by value of M; however, there are no reliable data is typically dominant, resulting from the effects of a single
+that would allow us to do that grouping (note that a more jus- defective copy of the APC gene, so it represents a single inher-
+tifiable tissue-based grouping was adopted by Noble ef al. ited mutational hit. (iii) The lungs appear to be protected by
+[32]). Instead, we estimated a value of M for each cancer type only three mutational steps, an estimate driven by the very
+using equation (3.1), an approach that uses all of the available slow rate of stem-cell division and it is consistent for smokers
+data. In addition, to fit the equation we needed to assume that and non-smokers, even though smokers presumably experience
+the same somatic mutation rate underpins each mutational hit a higher somatic mutation rate that was not taken into account
+and assign it some value. In fact, a range of values was assigned (see below). A similar effect is apparent in comparing Lynch
+by establishing the values of u that maintained 7 >M >3 syndrome colorectal cancer with the non-familial form (M = 7
+across all of the cancers. The lower limit on M was based on for both), even though Lynch syndrome causes a higher somatic
+Nunney’s [9,20] proposal that M > 3 (except for retinoblastoma mutation rate. (iv) The rate of somatic mutation (1) consistent
+which has M = 2), noting that M = 3 was likely to be adequate with 7 > M >3 is quite high at approximately 8 x 10° per
+for small tissues with minimal post-growth division, while daughter cell. For example, it is substantially higher than the
+the results of Armitage & Doll [8] suggested an upper limit estimate of 4 x 10°” that accurately predicts the frequency of
+of M = 7. This is broadly consistent with the recently proposed retinoblastoma [33], and that value is consistent with estimates
+range of 8 > M > 2 [2] given the probable restriction of M = 2 of human somatic mutation rates of just under 10~° per base per
+to one or very few paediatric cancers. The range of u satisfying cell division [34].
+
+these criteria (with values of M rounded to the nearest integer) There are at least three factors that are likely to contribute
+was surprisingly narrow: 7.5 x 107° to 8.9 x 10° oncogenic to an elevated estimate of the somatic mutation rate that

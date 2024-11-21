@@ -1,0 +1,25 @@
+minimized through the selection of the largest wavelength possible while the foundation prefers :
+the smallest wavelength possible. The wavelength that is observed emerges from a compromise =
+between these two [15]; in particular, 38
+
+B\\/4 :
+A=2n (2) : (1.1) nea)
+
+In uniaxial compression, the result (1.1) applies both at the onset of instability and far ne]
+beyond it. However, in other scenarios, the behaviour of the system changes qualitatively beyond DN
+onset. For example, attempts to determine the location of wrinkles based on determining where [a
+compression would occur ordinarily under-predict the wrinkle extent dramatically [14,16,17]. It 1&8
+is now well known that to correctly predict the location of wrinkles it is necessary to account .
+for the fact that wrinkling relaxes the compressive stress that caused instability in the first place
+[18,19]—what is usually referred to as tension-field theory [20] or the relaxed energy approach
+[21]. However, an understanding of how this stress relaxation affects the wrinkle wavelength has
+only come more recently [15,22,23]. In particular, Cerda & Mahadevan [15] showed that tension
+along the direction of the wrinkles gives rise to an effective ‘tensional’ stiffness, Ktens, that may be
+substituted into (1.1) in place of K. Generalizing this work, Paulsen et al. [23] recently showed that
+curvature along the wrinkle direction can also give rise to a ‘curvature-induced’ stiffness, Keury.
+
+In this paper, we give a new perspective on wrinkling ‘Far from threshold’ (FT) for the
+indentation-induced wrinkling of a pressurized elastic shell [17,18]. We use both asymptotic
+analysis of the shallow shell equations, together with ABAQUS simulations. In particular, we
+perform the FT expansion [22] by exploiting the large number of wrinkles, m>>1, that are
+frequently observed in such scenarios, and determine results for the wrinkle number mi as the

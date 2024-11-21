@@ -1,0 +1,25 @@
+The same integral is finite when taken along any parallel to the imaginary axis in
+the finite part of the plane, which does not pass through finite singularities of the
+subject of integration.
+
+* With this theorem the reader may compare the method used by the author to obtain the asymptotic
+expansion of the multiple gamma function, ‘Cambridge Philosophical ‘Transactions,’ vol, 19, §§ 55-57,
+
+
+INTEGRAL FUNCTIONS DEFINED BY TAYLOR'S SERIES. 259
+The second part of the theorem is true, since when s = ~+w and |v| is very large,
+|r (—s)| behaves like exp{-3 |v] } ;
+
+The first part follows from this fact in combination with the asymptotic expansion
+of I (—s) for complex values of s.
+§ 10. If L, be a contour parallel to the imaginary axis and cutting the real axis
+
+between s = 0 and s = —1, the contour, if necessary, having a loop to ensure that
+—@ is to its left as in the figure, then
+
+G,(-2;6)=- 1 ( 29 a,
+
+2are Ju,
+
+For by the lemma we may bend the contour round until it becomes the contour
+3 L, of the figure.

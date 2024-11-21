@@ -1,0 +1,25 @@
+upper left: in vitro collective sheet migration of human intestinal carcinoma evolve either in discrete, regular time steps or in continuous
+cells in a single direction (arrow indicates direction of movement) [7], in vitro time. On the one hand, a class of spatially discrete models,
+cancer cells moving together in small groups (red, clusters indicated by an the interacting particle systems (IPSs) [18,19], evolve in con-
+arrow) invading an extracellular matrix containing fibroblasts (green) (scale tinuous time through exponentially distributed time steps.
+bar 100 um) [8], nematic networks of Myxococcus xanthus bacteria on an The resulting asynchronous update of each individual’s
+agar surface [9], swarms of Paenibacillus dendritiformis forming nematic position makes it particularly easy to implement migration
+streets [10]. tules that obey the principle of volume exclusion. The latter
+
+means that, if a particle wants to move into a lattice site
+where another particle is already present, movement is
+
+alignment of cells’ velocities. Thus, bacteria and eukaryotic aborted. Naturally, other kinds of interactions can be
+cells (such as cancer cells) are textbook examples of cells inter- implemented with IPSs as well. In fact, IPSs have been
+acting through velocity-alignment mechanisms, where every used to investigate the effect of volume exclusion during
+individual’s velocity is determined by its neighbours’ vel- CM [20,21].
+ocities [11-14]. Various microscopic and macroscopic Another class of spatially discrete models, cellular auto-
+mathematical models have been constructed to quantitatively mata, are agent-based models similar to IPSs, which evolve
+and qualitatively study the emergence of macroscopic (tissue with discrete time steps of constant length, with either syn-
+or colony) behaviour from polar and nematic velocity chronous or asynchronous update [22]. A specific type of
+alignment interactions among individuals. cellular automata, termed lattice-gas cellular automata
+Macroscopic models, such as_ partial differential (LGCA) [23], explicitly models not only the position of
+equations, model the spatio-temporal behaviour of entire individuals, but also their velocity. CM cellular automata
+cell populations, and are based on physical laws of continu- models are typically, but not exclusively (e.g. active-spin
+ous media, being expressed in differential form. The model [24]), of the lattice-gas type, owing to the advantage
+mathematical tools for the analysis of such models are well of explicit velocity consideration [25,26]. Space and (depend-

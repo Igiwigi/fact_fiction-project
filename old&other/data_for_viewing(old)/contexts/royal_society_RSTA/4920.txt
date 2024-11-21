@@ -1,0 +1,25 @@
+
+It is illuminating to inspect some of the reconstructed images in figure 13, which correspond to
+the plots in figure 12. The second and third reconstructions for the structure phantom straddle
+the sharp transition in the corresponding image RMSE curve, and it can be seen clearly in the
+difference image that the result for Ny =60 is not recovered, while that for Ny =68 is much
+closer to the test phantom. We point out, however, that the difference images are displayed in
+a narrow 4% grey scale window and visually the Ny = 60 image appears the same as the structure
+phantom. That the discrepancies between reconstruction and phantom are so small emphasizes
+the challenge for the large-scale optimization algorithms; for actual application where images are
+presented for visual inspection, such accurate solution to equation (1.1) would not be necessary.
+The results for the texture phantom are also quite interesting in that we see the reconstructed
+image is visually accurate for as few views as Ny = 80. That there is no sharp recovery transition
+for the texture phantom is probably due to the fact that the object variations occur on two scales:
+the jumps of the structure borders, and the splotches of the walnut meat texture. It also cannot be
+ruled out that a sharper recovery transition will occur if the accuracy of the computed solutions
+is improved even further.
+
+(e) Conclusion on Study C
+
+In this study, we have taken first steps towards phase-diagram analysis for prediction of critical
+sampling levels for realistic CT systems. Both test phantom design and accurate large-scale
+optimization are more difficult than for small-scale studies, and we have demonstrated how
+phantom appearance as well as parameters and convergence of the algorithm can affect recovery
+studies. For the simplest, and piecewise constant, structure walnut phantom, we found the critical
+sampling level to be predicted very well by phase-diagram analysis. The situation for the texture

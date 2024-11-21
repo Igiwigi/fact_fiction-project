@@ -1,0 +1,25 @@
+It is, indeed, reasonable to suppose that, in the particular circumstances now assumed, this
+model will furnish a good approximation to the solution of the mixed-path problem in the
+appropriate region above y = 0; for it gives a continuous field which is closely that per-
+taining to a homogeneous earth of medium | for points on the same side of the diffracting
+edge as the transmitter, and which satisfies the boundary condition on the perfectly con-
+ducting sheet. An extension to this point of view is mentioned in §18.
+
+9-2. Height-gain considerations
+It is natural to suppose that the use of a height-gain function is valid under certain con-
+ditions in the mixed-path problem. A numerical example now to be given shows that this is
+indeed the case, the procedure being to link the ground-to-ground field with that of ray
+theory. An overall check on the analysis is thus obtained which is particularly reassuring in
+view of the fact that no simple mathematical relation between (147) and (160), (161)
+appears on the surface.
+
+
+RADIO PROPAGATION ACROSS A BOUNDARY Bit
+
+To make the calculation feasible we must maintain the condition 7 }-4) — 7; this is no
+real restriction, for it simply means that height variations must apply to both the transmitter
+and the receiver, which is in any case necessary in order to introduce the height-gain
+function in a form explicitly related to the two media in question. Our object is most
+conveniently achieved by taking x — xy, ¥ = Yo — A
+
+Let us first apply the idea to a homogeneous earth. As in the example of §8-3, we consider

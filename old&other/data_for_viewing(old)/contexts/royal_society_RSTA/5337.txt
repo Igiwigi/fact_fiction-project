@@ -1,0 +1,24 @@
+expression of GPIba receptors and platelet-platelet interaction impacting the strength of platelet-
+substrate binding have not been systematically investigated. Our model provides a unique means
+for quantitatively understanding these effects, which are critical for improving our knowledge
+about the initial stage of the blood clot formation.
+
+3. Methodological innovation of the three-dimensional modelling approach
+
+The novelty of the three-dimensional model lies in developing a novel membrane submodel as
+well as in new approaches of coupling submodels of biological processes at three spatial scales
+(figure 1) which are crucial to early blood clot formation. At the subcellular scale (nanoscale), a
+kinetics-based stochastic dynamic adhesion submodel (DAM) is used to simulate VWF-GPIba
+binding and GPIba—vWF-GPlba binding, in which individual vWF and GPIba molecules are
+represented as elastic springs (table 1). This is justified by the fact that these receptor—ligand
+bindings are probabilistic in nature [1]. Moreover, individual filaments in the cytoskeleton
+network of the platelet membrane are treated as coarse-grained harmonic springs. At the cellular
+scale, a novel continuum description of the lipid bilayer of the cell membrane is used. We
+
+
+simulation
+initialization
+
+stochastic
+adhesion boundary
+model method

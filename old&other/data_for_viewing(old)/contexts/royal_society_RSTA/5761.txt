@@ -1,0 +1,25 @@
+understanding of the structure of the endpoint distribution is rather limited. The KPZ picture
+suggests that the endpoint distribution is localized in some random locations. If we denote by
+Xm(t) the point of maximum probability for y(0) then x(t) ~ 7/3. We argue that after shift by
+Xm(t) the probability distribution for the endpoint has limiting statistics in a limit t > oo. It is
+important that limiting statistics exist without rescaling. This is how localization manifests itself in
+
+the behaviour of the endpoint distribution. What was more surprising for us is that the variance of :3
+the endpoint grows with t despite the localization property. It is important to point out that we are : s
+discussing the quenched variance, that is variance for typical realization of the random potential. :3
+The linear in ¢ growth of the variance after averaging with respect to the disorder was understood :F
+for a long time [11,12]. Such growth is due to a contribution of the non-typical random potentials ia
+which have small probability, but whose contribution to the averaged (annealed) variance is large. : =
+Surprisingly, our numerical results suggest that in fact the variance grows as t > oo even for : =
+typical realization of the random potential. 13
+
+The numerical results are presented in the next two sections. In fact, we study the problem : =
+in a discrete setting. While the exact meaning of the hydrodynamics equations in this case is DR
+not obvious, the discrete case provides the most natural model for studying the localization aieel
+phenomenon for directed polymers. Also, in the discrete setting one can naturally define partition :8
+functions which can be viewed as solutions to the discrete SHE. This allows us to present results : Ss
+in support of the one force—one solution principle in the case d = 2. :s
+
+The last section of the paper is dedicated to concluding remarks. : 3
+
+2. Endpoint distribution of polymer measures in one dimension

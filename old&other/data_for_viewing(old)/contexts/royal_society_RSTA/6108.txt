@@ -1,0 +1,25 @@
+using the edge weight). The update schedule in the semi-synchronous algorithm is based on a
+graph colouring such that no neighbouring nodes have the same colour. All the labels of the
+vertices belonging to the same colour are updated at once, for all the colours in the network. Ties
+can occur if there is more than one label with the same highest frequency between the neighbours
+(this can happen, in particular, when considering unweighted networks). In the case of a tie, the
+latter is resolved deterministically using a so-called Prec-Max method [62]: if the current label of
+the node is among the labels with highest frequency, then do not change it; otherwise, choose the
+label with the highest preassigned priority (for example, if each label is an integer number, give
+priority to the largest number).
+
+An example of the communities detected with LPA is shown in figure 1, where nodes with
+the same colour belong to the same community. Notice that the algorithm is not provided with
+any knowledge of the spatial relation among the nodes. In fact, it is completely model-agnostic,
+in the sense that it is designed to work on arbitrary weighted graphs that may represent any sort
+
+
+054 100
+044 so 8
+g
+z 034 60 E
+024 40 2
+—— unweighted S
+0.15 — weighted on &
+0, s---) KIN [=
+0 O01 02 03 04 05 5 10 15 20 25 1S

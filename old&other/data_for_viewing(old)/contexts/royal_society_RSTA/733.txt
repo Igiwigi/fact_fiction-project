@@ -1,0 +1,25 @@
+0.5
+
+C30 C3t5 C3t30 C210 C2t5 C2t30 12345 67 8 9 101112
+
+row
+
+Figure 8. Energy extraction of optimally controlled wind farms £o normalized by greedy reference case Ep. (a) Total energy
+extraction. Error bars indicate confidence intervals of +2 standard deviations. (b) Energy extraction per row, normalized by first
+row of reference case. From top: G3t0, red line; C3t5, yellow line; C3t30, light-blue line; C2t0, red dashed line; (2t5, yellow dashed
+line; (2130, light-blue dashed line; R, black line. (Online version in colour.)
+
+the comparable case of Goit et al. [4], for which an increase in energy extraction of approximately
+6% was reported. This fact can be attributed to a better convergence of the current results
+due to a judicious choice of optimization parameters as elaborated below and the update to a
+quasi-Newton optimizer discussed previously. In figure 8b, it is shown that energy extraction
+is increased in every downstream row by slightly downrating the first row for all cases except
+C3t30. Moreover, the first row aside, the last row extracts the most energy for all cases, since
+it does not have to take into account any downstream neighbours. We further performed for
+the overinductive case with t =0s a case in which only the first row turbines were optimally
+controlled (details not further shown here). We found energy gains of only 5% instead of 21%,
+indicating that all turbines contribute significantly to the energy gains.
+
+Figure 9 shows time-averaged axial velocities throughout the wind farm. Figure 9a illustrates
+the axial velocity for the reference case. It can be seen that downstream turbines are subjected
+to the wakes of their upstream neighbours, and that wake behaviour, i.e. spanwise wake extent

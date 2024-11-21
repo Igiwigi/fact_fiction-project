@@ -1,0 +1,25 @@
+Here we have used Parseval’s identity for Fourier transforms which implies
+
+(we w)(k,«) = I, ti(k, A)i'(A, K) dd = (fb « ’)(k, «)
+
+for any two functions w, w’ € L?(R?;C). Hence we see that for f* =f*(c), we have
+
+ft =i) * otmc™ o ft =i) * att.
+
+m=0 m=0
+
+Further we note that if q(x, y; t) = 5(x — y) + q'(x,y;#), then q(k, x; t) = 5(k — «) + q’(k,«; £). The Dirac
+delta function 6 here also represents the identity with respect to the ‘*’ product so that for any
+w €L?(R?;C) we have w* 5 =5 x w =w. With all this in hand, we can in fact explicitly solve for
+p=plk,«;t) and q = 4q(k, x; t) as follows.
+
+Lemma 3.5. Let p = p(k,«;t) and q = q(k,x;t) denote the two-dimensional Fourier transforms of the
+solutions to the linear base and auxiliary equations just above. Assume that q(x,y;0)=6(x — y) and
+p(x, y; 0) = po(x,y). Then for all t > 0 the functions p and @ are explicitly given by
+
+p(k, x; t) = exp(—ith(27ik))po(k, x)
+and qk, «; t) = exp(—ith(—2zik)) - exp*(t(F*(fo * pd) + ih-5))(k,«;#),
+where naturally exp*(c) =6 +c + 3c + ters fee
+
+Proof. The explicit form for p = p(k,«; t) follows directly from the Fourier transformed version
+of the base equation. We now focus on the auxiliary equation. Consider a typical term say ¢*” in

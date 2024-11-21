@@ -1,0 +1,24 @@
+The aforementioned will suffice to show that irreversibility of a mechanical work has intimate
+connections with processes happening at finite speed. The surprising result of this paper is that
+the amount of mechanical work we loose irreversibly per single degree of freedom, i.e. AWjrrev,
+within the time period t satisfies the following time-energy uncertainty relation
+
+AWirreyT 2 Mprocess- (1.1)
+
+The total work lost irreversibly would then be AWirrey = Nf AWirrey, where N is the number of
+particles and f the number of particle degrees of freedom, and Mprocess > 0 is a process-dependent
+constant that has the dimension of an action. The value of the constant Itprocess depends on the
+physical scale of the process. As will be shown, Nprocess is essentially bounded from below by
+Planck’s constant, which makes a surprising parallel to the Heisenberg time-energy uncertainty
+relation, despite the fact that both uncertainty relations have very different conceptual origins. It
+should perhaps be noted that in our reasoning we do not use any quantum mechanical but purely
+classical mechanical considerations.
+
+Aforementioned uncertainty relation allows one to regain an intuition that seems to have
+vanished from classical equilibrium thermodynamics. Loosely speaking equation (1.1) can be
+interpreted as follows: to run a process faster we inevitably loose more energy irreversibly,
+meaning that we cannot recover this energy by running the process in reversed direction.
+Consequently, faster-turning heat engines become less efficient. So, to perform work faster makes
+it inevitably less efficient. One particularly important implication for heat engines that follows
+from equation (1.1) is the existence of an upper bound for its rate of change, the so-called idle
+speed, which is reached when the process runs so fast that its efficiency becomes zero.

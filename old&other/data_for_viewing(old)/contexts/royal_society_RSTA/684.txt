@@ -1,0 +1,24 @@
+decreases to approach the value predicted by (3.11) over a duration of about 100 days. This early
+time behaviour corresponds to the duration before a well-defined reaction front forms and is
+further described by Arshadi & Rajaram [18].
+
+5. Concluding remarks
+
+We have proposed a similarity solution for reaction front propagation in fracture—matrix systems.
+Although we developed our solution by considering a bimolecular reaction between a reacting
+species and a mineral, the exact form of the reaction kinetics does not influence the behaviour,
+and the analytical solutions ((3.1a,b), with (3.4); or (3.8a-c)) are expected to be valid for a broad
+
+
+class of transport problems involving fracture—matrix interactions. In fact, our similarity approach
+reproduces the simplified forms of the Laplace-transform solutions [1-3,19] for non-reactive
+solute transport or heat transport, when diffusion/dispersion in the fracture are neglected.
+This may be readily verified by setting zs—> oo in (3.4) or (3.8b,c). Our similarity solution
+also reproduces the behaviour of the reaction front observed in numerical simulations of a
+multi-component reactive transport problem with mineral interactions [4]. In particular, the
+quantity q/(¢De) is a type of Peclet number that serves as a scaling factor relating reaction front
+propagation along the fracture to that in the matrix (equation (3.7)). As noted in [4], the overall
+nature of reaction front propagation in the fracture is thus diffusive in character. Our composite
+similarity variable and similarity solution naturally capture this scaling. We believe that the
+similarity variable employed here is a general tool that can facilitate solutions to multi-component
+transport and coupled alteration processes in fracture-matrix systems. The main limitation of

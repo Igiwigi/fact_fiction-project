@@ -1,0 +1,25 @@
+(ii) We have that A,(M) = 0, where for t = x + iy,
+Ags —y"((0°/9x7) + (07/ay?)) + iky((8/Ax) + i(8/Ay)).
+(iii) There exists a polynomial Py(t) € C[e~?7!"] such that
+M(t) — Pu(t)=O(e"),
+
+where t = x + iy, as y > 00 for some € > 0. Analogous conditions hold at all cusps.
+
+The group J(N) in the above definition is the set of all 2 x 2 matrices with integer entries and
+determinant 1, with lower left entry congruent to 0 (mod N). The operator A, in condition (ii)
+above is called the weight-k Laplacian operator. The complex numbers ¢q appearing in condition (i)
+are defined to be 1 or i depending on whether d is 1 or —1 (mod 4).
+
+It is a fact that harmonic Maass forms M decompose as M = M* + M~,asum of a holomorphic
+part M+ and a non-holomorphic part M~, where M+ and M~ have prescribed shapes (see [3,
+Definition 4.4] for specific details). We refer to such holomorphic parts as mock modular forms
+[7], aptly named, since Ramanujan’s mock theta functions are among the first explicit examples
+(up to possible multiplication by rational powers of q and/or the addition of constants, see [3,
+Theorem 9.4]). The theory of harmonic Maass forms has developed in many analogous ways
+to the theories of ordinary modular and Maass forms, though it has also led to numerous new
+applications (see, for example [3] and the many references therein).
+
+(b) Quantum modular forms
+
+Understanding Ramanujan’s mock theta functions within the context of harmonic Maass forms
+has opened many doors in recent years. However, questions remained, as B.C. Berndt (author

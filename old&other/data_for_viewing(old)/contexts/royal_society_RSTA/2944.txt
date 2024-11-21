@@ -1,0 +1,25 @@
+
+iin + Un =V' (Unga — Un) — V'(un = Un—1)- (1.3)
+
+Both static and travelling breather solutions have been found numerically in system (1.3) [32-34].
+It is, therefore, not surprising that for finite values of w, the model (1.2) admits a rich variety
+of localized solutions, namely solitary waves [35], weakly non-local solitary waves or nanoptera
+[26,35-37], long-lived static breathers [38] and travelling breathers (figure 1b).
+
+The analytical study of static and travelling breathers in systems (1.2) and (1.3) is quite delicate.
+Owing to the lack of smoothness (for p= 5/2) and strongly nonlinear character of the Hertzian
+interaction potential, classical approaches based on spatial centre manifold reduction [39] or NLS
+reduction [17,18] do not apply. In addition, it has been proved it [38] that exact time-periodic
+breathers do not exist in system (1.2) (i.e. without precompression of the chain), despite the fact
+that similar excitations can persist over long (but finite) times.
+
+An interesting insight into the dynamics of systems (1.2) and (1.3) can be obtained through
+the analysis of a spatially discrete modulation equation, namely the discrete p-Schrédinger (DpS)
+equation introduced in [32]. This model reads
+
+id
+gpa = (Apa)n, neZ, (1.4)
+
+where a(t) = (an(t))nez denotes a time-dependent complex sequence and
+
+(Apa)n = Qn41 — 4n)lQn4za — anlP? = (Qn = an—1)@n = Ona?

@@ -1,0 +1,25 @@
+studies of layer 2 stellate neurons, which show almost no
+mutual excitatory connections and which are coupled by
+
+(e) Propagation of activity during spatial navigation strong disynaptic inhibition [28,30]. Morphological studies
+The propagation of activity through a grid patch is what [31] have demonstrated that both stellate and pyramidal
+leads to grid cell firing, but several aspects of this process cells have axon collaterals terminating in layer 2. Uncaging
+are not yet understood. Figure 2c illustrates how head direc- studies [32,33] have revealed evidence for massive excitatory
+tion information drives the propagation of activity through inputs from layer 2 onto both layer 2 pyramidal and stellate
+the patch. We assume that the grid cell activity rests statically neurons, which may originate from layer 2 pyramidal cells
+at a low level that is exactly self-sustaining in the absence of since stellate neurons do not seem to form such connections,
+head direction input. While it seems fairly clear that head at least according to the evidence cited above [28,30].
+
+direction inputs control the direction of propagation activity, The fact that even same-sized grids can have deviations,
+how this exactly occurs is not predicted by the theory. To give such as slightly different tilts in their main axes [5], poses
+the reader a better idea how this may occur, we specify one challenges for the connectivity scheme proposed here. In
+possible implementation of head direction input to grid such cases, the proposed isoposition connectivity will not
+patches in figure 2c,d, but we emphasize that this scheme is be optimal. We suggest that in such cases a slightly modified
+not essential to our theory. As shown in figure 2c, directionally connectivity (such as mapping the horizontal axis of one
+
+delayed inhibition activated by head direction inputs can be patch to an oblique axis of another patch) will be better
+
+
+1. reciprocal excitatory connections 4. converging dorsal to 5. diverging ventral to
+ventral connections dorsal connections
++ +

@@ -1,0 +1,25 @@
+each representing different types of resources, which are pressure in the primary domains. Figure 2 illustrates this
+sequentially consumed as efficiency increases with each effi- phenomenon in domain 1, and particularly in domain 2,
+ciency leap. Initially, agents consume from resource domain 1, where mean consumption initially rises and then declines,
+but as their efficiency improves, they shift consumption to while the sustainability index decreases and then increases.
+resource domain 2. Similarly, upon reaching the next efficiency However, under the assumption of equivalent resource
+threshold, they transition to resource domain 3. Consequently, replenishment levels, this merely displaces the unsustainable
+for strategies with e > 0, average consumption in each resource exploitation pattern to subsequent domains. Simulation results
+domain increases until reaching tipping points, beyond which reveal that optimal efficiency strategies ultimately lead to
+consumption starts to decline. The timing of these tipping resource exhaustion in domain 3, where the manifestation of
+points depends on the level of efficiency attained, with higher transferred backfire effects becomes evident. This resource
+efficiency levels reaching them earlier. This is attributed to the exhaustion is visually represented by vertical marks inter-
+
+fact that as efficiency improves, agents divert their consumption secting with the mean consumption lines, indicating that
+
+
+(a) rebound 0.25 (b) rebound 0.5
+
+efficiency existing resources (PE) efficiency existing resources (PE)
+1.0 1.0
+10400 . oo 3 10400
+5, 08 cy efficiency gains offset 5, 08 é
+4 % 10200 the rebound effect 2 $ 10200
+2 06 2 2 0.6 2
+€ 2 10000} + & 2 10000
+04 8 2 o4 2

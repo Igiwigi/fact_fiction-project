@@ -1,0 +1,25 @@
+generates circularly polarized radiation under acceleration. As force F on a charged particle with
+a charge q in an electric field E is given by gE, we can multiply both sides of equation (3.2) by q to
+get the following expression:
+
+Vx F=- ogB (4.1)
+
+at
+
+The left-hand side of the equation (4.1) can be transformed into a line integral using Stoke’s
+theorem { F -dr=—qd [ B-dS/dt=U, where U is the electric potential energy. Its derivative
+along the dimension r leads to, F = 0U/dr or 0V/dr, where V is the electric potential. The force
+exerted by the electric field E on another charge q generates a momentum p which can be
+expressed as F = qE= dP/dt. The expression defined by equation (4.1) expresses the fact that a
+charged particle in an electromagnetic field shows rotational motion and the radiation generated
+by it is not linearly but circularly polarized.
+
+The equations discussed earlier can also be expressed using the electromagnetic field tensor
+[32], Fuv = 9A,/dx, — 0A,,/dx, where A is magnetic vector potential, x is a dimension in space, ju
+and v are subscripts denoting spatial components. The symmetry breaking of the electromagnetic
+field tensor can be expressed as 0F,»/0x =J,, , where J,, is the four current vector. The finite
+value of spatial variation of dF,,, indicates its symmetry breaking along the spatial dimension
+which results in corresponding breaking in symmetry along the temporal domain as expressed
+by the finite value of four current vector J,,.
+
+The explicit symmetry breaking of the electric and magnetic field during electromagnetic

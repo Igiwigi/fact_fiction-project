@@ -1,0 +1,25 @@
+Exponential and semi-uniform stability with polynomial rates can also be approached by
+means of Fourier multiplier techniques. We are unable to discuss this approach in our short
+survey, and we instead refer to the interesting recent paper [96] (and the references therein) for
+details. In particular, the paper contains versions of Theorem 3.5 for unbounded semigroups; see
+e.g. [96, Section 4].
+
+4. Applications to second-order Cauchy problems
+
+Since this survey emphasizes abstract aspects we found it instructive, in passing to descriptions
+of illustrative applications of our techniques, to begin with a discussion of an abstract model and
+then to illustrate briefly, in the concluding remarks, how it relates to damped wave equations.
+This subsection is based on the presentation in a very nice paper by Anantharaman & Léautaud
+[97, Part II], which in fact considers a slightly more general set-up than ours. Note that similar
+arguments can be found in a number of papers and books dealing with asymptotic behaviour of
+hyperbolic equations and operator matrices, but we refrain from mentioning all of them here.
+For the remainder of this section, let A and B be self-adjoint positive semi-definite operators on
+a Hilbert space X. Assume that A has compact resolvent, and that B is bounded. Assume further
+that
+||Bx\| > 0 for every (non-zero) eigenvector x of A. (4.1)
+
+The general approach given below in fact works under much milder assumptions on A and B, but
+in view of our applications to damped wave equations, it is reasonable to restrict our attention to
+this particular setting. Consider then the following second-order Cauchy problem in X:
+
+it+Biu+Au=0, u(0)=u0, i(0)=1, (4.2)

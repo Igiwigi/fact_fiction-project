@@ -1,0 +1,25 @@
+A hyperbolic n-chain is a system of n+1 points 19,...,1n €H? CR® with n holonomic
+constraints
+Ij) =1;, fori=1,...,n. (6.4)
+
+Let x, y € R°. We define map C: R° x R° > R° requiring that z = C(x, y) is a vector satisfying
+det[x, y,v] =J(z,v), for arbitrary v € R. (6.5)
+
+As it is easy to show
+z=C(x,y) =J(x x y). (6.6)
+
+This is why one can interpret it as a vector product in pseudo-Euclidean space R°. More
+importantly, one can easily check that R° with bracket [x, y] := C(x,y) is a Lie algebra.
+Later we will need the following facts.
+
+Lemma 6.1. Let x,y € R° and z=C(x, y) £0. Then
+
+(i) If J(x,x) =1 and J(y, y) =1, then J(z,z) <0.
+(ii) If J(x, x) =1, J(y,y) = -1, and J(x, y) =0, then J(z,z) = —1.
+
+
+Proof of this lemma is left to the reader.
+At first, we consider a hyperbolic dumbbell consisting of two points ro, 11 € H? with masses mig
+and m, respectively. The kinetic energy of this system is given by
+
+T = }moJ(o,%0) + SmmJ(i1,71)- (6.7)

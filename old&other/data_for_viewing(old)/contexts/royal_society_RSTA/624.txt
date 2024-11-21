@@ -1,0 +1,25 @@
+In the other extreme situation—Case S—where the scale of the heterogeneity is small
+compared with the scale of the phase boundary (equivalently, wide interface), we find through
+homogenization, that the limiting model is very different. The interface averages over a number
+
+
+of heterogeneities and thus may not be pinned in a significant manner. Thus, the resulting
+macroscopic behaviour may not display any stick-slip behaviour and can have extremely small
+hysteresis.
+
+In the intermediate case—Case G—where the two length scales are comparable, there is close
+interaction between the phase boundary and the heterogeneity resulting in a range of behaviours.
+We show through numerical simulation that the amount of hysteresis can vary widely, and
+relation between the relative heterogeneity size and the critical depinning stress can in fact be
+non-monotone.
+
+An insight that comes from this analysis is that a potential route to making materials with
+low hysteresis is to introduce heterogeneities at a length scale that is small compared with the
+width of the phase boundary. This is seemingly counterintuitive because pinning and increased
+hysteresis is well documented in the widely studied sharp interface (large heterogeneity) case.
+Our result shows that this is not universal and engineering the appropriate combination of length =
+scales provides an important opportunity. :
+
+While a direct comparison with experimental observations is beyond the scope of this idealized
+model, the results are consistent with various experimental observations. The role of pinning nee)
+in the large heterogeneity case is well documented [10]. Recently, Lisfi ef al. [20] observed

@@ -1,0 +1,24 @@
+resolution microscopy techniques, so far. The prolonged reactivation of Alexa Fluor 594 is
+particularly helpful to re-use the same sample for multiple measurements and to perform imaging
+on different set-ups. The prolonged blinking of a fluorophore can be further used for single
+particle tracking experiments [46-48]. The reactivation with UV illumination is similar to that of
+Alexa Fluor 647 in a redox buffer but using light instead of chemicals [14,49]. It might be possible
+that lasers bleach the fluorochrome permanently and faster. However, this might not be the reason
+in the case of an incoherent light source. A proper calibration for different fluorophores with both
+lamps and lasers is suggested.
+
+We were also able to perform STED and LFSM on the same biological sample with comparable
+resolution, confirming the high-resolution setting of the setup. The prolongated blinking
+with deep blue illumination (350-380nm) was the key to achieve a high signal density and
+subsequently the high resolution. This comes from the fact that the final resolution of an image
+depends not only on the precision of localization but also on the total number of independently
+localized signals [29,35].
+
+At this point, we wish to re-emphasize that the blinking phenomenon can be observed in
+ProLong Diamond as the imaging medium. This simplifies the need to prepare special buffers
+consisting of the classical redox cocktail required for dSTORM [14] and other related super-
+resolution techniques [16]. As the composition of Prolong Diamond is not known, at this stage
+of the study, it was difficult to narrow down the minimal requirements for blinking to occur.
+However, these results hint at a conformational explanation (more likely in a viscous/liquid
+medium) of the blinking events [50,51], in addition to cycles of H* binding and release, as
+previously hypothesized [52,53].

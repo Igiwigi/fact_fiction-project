@@ -1,0 +1,25 @@
+
+with appropriate constants A’, B’ that depend upon A, B in (4.6) and (4.7) and functions G, n and
+d. For full details, see [18]. Care must be taken to optimize these constants to obtain the tightest
+bound, since the scaling assumptions are valid over only a finite range of Re. Further optimizing
+with respect to the length scales h and ¢ yields optimal values ¢, =h, and
+
+hy = CH Re“V04), (4.9)
+for some constant cx, yielding our final upper bound
+gf <C’ Rew (rtn)/A+n), (4.10)
+
+If f( ~CRe-? over the range 10° < Re < 10° and if the constant C’ is not much greater than
+C, then we can rigorously infer from (4.10) that (m+ 1)/(1 +1) <p. In particular, if m=n, then
+n<p/(2—p), which gives n <1/7 for p=1/4. If, in fact, m=n and p=2n/(1+n), then since
+f «(ur/U), it follows that Re; :=u;H/v = C Re!/(+) and thus (4.9) is equivalent to
+cy
+
+he= i! (4.11)
+for some constant c’,, or hf =c’, in standard ‘wall units’ (denoted by + superscript) where all
+quantities are non-dimensionalized with v and u,;. This should not be surprising, since our
+mathematical optimization corresponds to balancing the contributions from the Reynolds stress
+and the viscous stress in the inertial drag force (4.4) and this is the standard definition of the
+‘buffer layer’, which occurs conventionally around h* ~ 12 [17].
+
+
+(a) (b)

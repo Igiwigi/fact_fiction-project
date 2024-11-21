@@ -1,0 +1,25 @@
+
+Finally, we use estimate (3.11) together with the fact that 0, 2 1 andr ~ 1 inside [2ry + 19)/3, (tw +
+2ro)/3], and the estimate on the difference vj, — vg, and cover at least half of [2rw + 10)/3, (tw +
+2ro)/3] with disjoint intervals like the interval J considered above to get the desired lower bound
+eZh. a
+
+4. Proof of proposition 3.1
+
+We begin by showing that F), achieves its minimum. Indeed, replacing the membrane term in (2.6)
+by its positive part—that is, replacing the first term under the integral by (vu! + 3(r/R -w Py
+makes the problem convex. This modified problem achieves its minimum by the direct method
+of the calculus of variations. We claim that its minimizer (v,,7;,) also minimizes the original
+functional F;,. This follows from the fact that for (vj, @;,) the expression v;, + (r/R - w),)? must
+be non-negative almost everywhere (as otherwise one can easily modify (v,,i@,) to obtain a
+competitor with strictly smaller energy). Heuristically this is clear, because the relation ij, +
+3(r/R — @,)? > 0 says simply that the sheet is in tension in the radial direction. This argument
+also shows that the minimizer (v;,, @,) is unique, because the modified functional is everywhere
+convex, and strictly convex whenever 0! + 3(r/R -wyP>0.
+
+At risk of redundancy, we sketch another proof that the minimizer exists, by applying
+the direct method of the calculus of variations directly to F;. Indeed, as h is strictly positive
+the functional F;, controls the second derivative of #. Therefore, for a minimizing sequence i’
+would converge strongly, and this can be used to pass to the limit in the first term.
+
+To obtain information about the form of (v;,7@;), we first set w=0 and minimize F;,(v,0),

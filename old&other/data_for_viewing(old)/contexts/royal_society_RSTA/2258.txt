@@ -1,0 +1,24 @@
+Assuming the answer to Q1 is positive, one can ask the next, critical question:
+
+(Q2: counterfactual identity) is it possible that in this assignment of values to all random
+variables in the system any two content-sharing random variables Rj and Re be always
+assigned the same value?
+
+If this question, too, is answered in the affirmative, i.e. if there is an assignment of values that
+only depends on the variables’ contents, rather than also on their contexts, the system is deemed
+non-contextual in the ‘counterfactual sense’.
+
+
+Note: in our understanding of Q2, the variables Ri and Re measure the same content in two
+distinct contexts, one of which may be, but need not be factual. One might object to this and argue
+that one should only be interested in this question if one of the contexts c,c’ is the factual context.
+A comparison of two counterfactual assignments, one might insist, is of no interest. I can see no
+convincing justification for imposing this restriction. Using our example (2.4), if one meaningfully
+contemplates a counterfactual value of RS when the measurements are factually made in context
+c =2, one should also be able to consider counterfactual value of R}: after all, R} and R} are jointly
+distributed, it may even be the case that one of them is uniquely determined by the other, e.g.
+R} = —R}. But then, if one can speak of the value that R} would have had if one measured q = 1 in
+context c = 1 instead of measuring q = 2 in context c = 2, then one can also speak of what the value
+of RE would have been if the same q = 1 were measured in context c = 3. And the requirement that
+the assignment of values should only depend on content would then dictate that R? be assigned
+the same value as R}.

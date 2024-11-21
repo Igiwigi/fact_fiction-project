@@ -1,0 +1,25 @@
+estimation algorithms that aim to process recordings and accu- around 600 ms or the tempo range described above) to avoid
+rately pinpoint the rate and phase of pulses (e.g. [127,128]). ‘tweaking’ parameters to fit a given dataset. In Large [76], this a
+Because such models are designed to deal with real recorded model was tested using ragtime piano excerpts, and the results s
+music files, successful MIR systems have higher ecological compared to experimental data produced by humans tapping a
+validity than rule-based systems designed to deal only with to these same excerpts [131]. A good fit was found between = 2-
+notated scores or MIDI files. Furthermore, because their goal human performance and the model’s behaviour. 3
+is practical and performance driven, and backed by consider- Nonlinear oscillator networks of this sort exhibit a number
+able research money, engineering expertise and competitive of desirable properties important for any algorithm-level model = 2
+evaluation (such as MIREX), we can expect this range of of human beat and metre perception. First and foremost, the “
+models to provide a ‘menu’ of systems able to do in practice notion of self-sustained oscillation allows the network, once ‘©
+what any normal human listener easily accomplishes. While stimulated with rhythmic input, to persist in its oscillation in = -5
+we cannot necessarily expect such systems to show any prin- the face of noise, syncopation or silence. This is a crucial feature =
+cipled connection to the computations humans in fact use to for any cognitive model of beat perception that is both robust =
+find and track a musical beat, such models should eventually and predictive. Second, the networks explored by Large and -
+provide insight into which computational approaches and colleagues can exhibit hysteresis (meaning that the current be- 2
+algorithms do and don’t succeed, and about which challenges haviour of the system depends not only on the current input S
+are successfully addressed by which techniques. Some of these but on the system’s past behaviour). Thus, once a given oscil- w
+findings should be relevant to cognitive and neural researchers. lator or group of oscillators is active, they tend to stay that 2
+Unfortunately, and perhaps surprisingly, no MIR system cur- way unless outcompeted by other oscillators, again providing ©
+rently available can fully reproduce the rhythmic processing resistance to premature resetting of tempo or phase inference &
+capabilities of a normal human listener [128]. At present, this due on syncopation or short-term deviations. Beyond these
+class of models supports the contention that, despite its intui- beat-based factors, these models also provide for metre percep-
+tive simplicity, human rhythmic processing is by no means tion, in that multiple related oscillators can be, and typically are,
+trivial computationally. active simultaneously. Thus, the system as a whole represents
+The third class of models—dynamical-systems-based not just the tactus (typically tapping rate) but also harmonics

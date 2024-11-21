@@ -1,0 +1,25 @@
+blue is for a=0.01. In the language of the theory of singularities, the effect of ea £0 is to unfold
+the pitchfork bifurcation. A local analysis near the bifurcation point at t=e7! similar to the
+one in [45] indicates that the upper and lower branches are stable while the middle branch is
+unstable for t > 1/e. From (3.13), we note that the speed c approaches constant values as t + 00
+given by
+Coo =—3e(a+n)>0 and Coo =—3e(a— 7) <0. (3.14)
+
+There are two important results that are worth stressing. First, since we take n = —1 here, the two
+upper branches (c > 0) are coming closer together as a > 1 (figure 6c). Furthermore, their left limit
+point moves to large t in the same limit a 1. Consequently, if a > 1, the lower branch (c < 0) is
+the only branch of solutions. We conclude that a front that is too asymmetric may only be observed
+to be propagating in one direction (i.e. one specific sign of c). The delayed feedback then speeds
+up the front in that same direction. Second, the fact that the speed approaches constant values as
+tT — oo implies that we may replace u(z + ct) in equation (3.12) by its asymptotic limit for z large,
+ie. u=1. The reduced problem then becomes an ordinary differential equation which is easier to
+solve. Using (3.12) with u(z + cr) = 1 we found analytically the correct speed limits.
+
+The final example we discuss is again motivated by simple bistable models in neurobiology.
+The following equation exhibits a delayed threshold nonlinearity:
+
+up = —u + H(u(t — t) — a) + Uxx, (3.15)
+
+and has been investigated in [46]. Here, H(i) denotes the Heaviside function, and the function
+H(u — a) — u can be seen as a piecewise linear version of a cubic polynomial with zeros at 0 and
+1 (figure 7a). The advantage of using piecewise linear functions is that this approach allows one

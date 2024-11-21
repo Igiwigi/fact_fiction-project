@@ -1,0 +1,24 @@
+atoms removed to create vacancies. The final relaxed structures for each defect configuration are
+shown in figure 1. Interestingly, we find that 7”’Pa and !'Pr defects form qualitatively identical
+structures for all defect models considered. As such, the following descriptions and images for
+each defect configuration apply to both.
+
+For the substitutional defect with no vacancies, the defect ion did not move, but the nearest
+neighbour carbon atoms were displaced outwards. For the single vacancy, the ion moved into
+the split vacancy configuration, while for the higher-order vacancy complexes, it moved into
+a position that filled the void created by the removed carbons. It is worth noting that while
+the split vacancy is inversion symmetric, the higher-order vacancy complexes are not, resulting
+in a permanent EDM and thus static internal electric field. While this is usually avoided for
+quantum information processing applications as it makes defects susceptible to environmental
+field fluctuations, it is in fact desirable for EDM experiments, as it increases the sensitivity of
+EDM measurements [6].
+
+The calculated formation and cohesive energies shed light on which configuration is most
+energetically favourable to form (figure 2). Our analysis reveals that, for both 7°Pa and '4!Pr,
+the substitutional model is less favourable than those containing vacancies, as it generally has
+a higher formation energy despite having a marginally higher cohesive energy in certain cases.
+This is in agreement with other first principles studies of defects in diamond that feature large
+ions, which can introduce significant strain [20,22,36,47]. The introduction of vacancies helps to
+offset this by creating additional room for the dopant atom. Among the defects with vacancies,
+the double and triple vacancies are the most energetically favourable in terms of formation energy
+and have comparable or larger cohesive energy values compared with the single and quadruple

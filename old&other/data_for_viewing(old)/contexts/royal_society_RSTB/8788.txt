@@ -1,0 +1,25 @@
+for the structure factor (2.1) defined by a particle’s atomic
+positions. This opens up the possibility for refining such a
+model against a CXS dataset using (2.3) [8—10], especially in
+cases where prior information (such as protein primary
+sequence) can be included. Other routes to analysing structure
+given CXS data include iterative phasing [11], intentional align-
+ment of particles [12] or direct analysis of local internal
+symmetries of the system [13,14].
+
+Theoretical results suggest the CXS signal to noise scales
+as the square-root of the number of recorded shots, but is
+om independent of the number of illuminated particles N, for
+Ds(q1,q2, A) -| (ns(qu, ) — 146(q1)) (115(q2, 6 + A) — g(42)) de, large N [1,3,15]. These facts were employed to optimize our
+
+0 experimental design, which emphasized collecting a large
+(2.5) number of independent snapshots.
+
+C(4y, 92) = CQ, 92, W)-
+
+Experimentally, we statistically estimate this function by
+taking angular correlations in the detector plane; let ¢ be
+the azimuthal coordinate of q projected into the plane per-
+pendicular to an incident beam (corresponding to the
+azimuthal coordinate of a pixel measuring q on a far-field
+planar detector). Let A=|¢,— ¢,| be the angle between

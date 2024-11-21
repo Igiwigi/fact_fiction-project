@@ -1,0 +1,25 @@
+in a manner that maintains their structure and their indepen- (ii) fuzzy penguin. Hummel and colleagues [3,10] have
+dence (e.g., [3,10]). Several mechanisms for instantiating shown mathematically that TPs violate role—filler indepen-
+binding in a neural system have been proposed. One of the dence. In short, because TPs rely on a multiplicative
+most popular involves using tensor products (TPs) to bind operation, the binding of two items is an interactive rather
+elements ([23-26]; but see [3,27]). than independence-maintaining, or additive, operation. We
+In the following, we present simulations and data from provide details of simulations demonstrating this point in
+two behavioural experiments that suggest that conjunctive electronic supplementary material, appendix A, but in
+and multiplicative operators, such as the TP, lead to system short, once the roles and fillers are bound into a TP, the
+behaviour that is at odds with human behaviour. We show similarity of a word or concept to itself (e.g., fuzzy( penguin)
+that TPs, and other conjunctive coding schemes, violate the versus fuzzy(cactus)) changes as a function of the similarity
+independence of a variable and its value for binding rep- of the other words or concepts it is bound to. So, a fuzzy
+resentations together [3,28], an operation that is crucial for penguin and a fuzzy cactus will not be similar unless pen-
+meaning composition and cognition more broadly [1,2,5,29- guins and cactus are also similar. In fact, in the limit, the
+32]. We demonstrate how this violation occurs, and discuss similarity between fuzzy(x) and fuzzy(y) approaches zero as
+why variable-value independence is important for theories the similarities of x and y approach zero.
+and models of human cognition, including for natural Essentially by composing fuzzy with penguin or cactus
+language [3,27], and for any system to have compositionality. using TPs, information about being in the set of fuzzy
+
+We describe an existing compositional solution implemented things is being shared across fuzzy cactus and fuzzy penguin.
+
+
+dynamic binding
+
+fuzzy prickly
+penguin cactus

@@ -1,0 +1,25 @@
+motion of edge dislocations through a lattice of particles. The study addressed both conceptual
+and practical aspects of the application of VO operators to particle dynamics. Of particular,
+relevance is the use of the VO Riemann-Liouville operator to capture the behaviour of highly
+nonlinear systems with possible discontinuities. More specifically, we showed that an apparently
+unsettling property of the RL operator, that is the non-vanishing derivative of a constant
+when using a finite lower terminal of integration, can have very useful implications to model
+system discontinuities and nonlinearities. A notable characteristic of the governing equations
+based on VO operators is the resulting evolutionary nature. In other terms, VO operators
+offer the possibility to update their order as a function of either dependent or independent
+variables, resulting in governing equations that can evolve in real time from linear to nonlinear
+without requiring modifications to the fundamental governing equations. Probably even more
+remarkable, and certainly in stark contrast with a more traditional approach to the analysis of
+nonlinear dynamical systems, is the fact that VO governing equations do not require a priori
+assumptions on the physical location of elements undergoing the nonlinear behaviour. In other
+terms, the nonlinear behaviour naturally emerges, propagates, and annihilates based on the
+instantaneous response of the system and of the individual particles. In conclusion, the results
+presented in this study illustrated some unique features of VO-FC for the modelling of nonlinear
+dynamical systems with evolving discontinuities and suggested that this mathematical tool could
+play a critical role in the development of advanced simulation techniques for complex nonlinear
+dynamical systems.
+
+Data accessibility. All the necessary data and information required to reproduce the results are available in the
+paper.
+
+Authors’ contributions. All authors have contributed equally to this study.

@@ -1,0 +1,25 @@
+
+Sig) <3 2a?
+
+$(Q)= D1 9g) = + OQlog Q) ~30?/x”. (.10)
+
+q=l
+The closed form expression on the right is well known [3]. Thus there are O(Q?) terms in (3.4)
+when compared with the DFT representation which has N terms.
+
+(b) Relation to Ramanujan sums
+
+Recall that the Ramanujan sum is defined as in (1.1). Clearly, the Ramanujan sum cq(n) belongs to the
+Ramanujan space S,. In fact, cg(n) can be used to generate a real, integer, basis for the Ramanujan
+
+2The elements of 8, can either be regarded as length-q vectors or as infinite length vectors with elements repeating with
+period q, depending on what is more convenient in a particular context.
+
+
+space S;. Thus, it can be shown [12] that the $(q) successively shifted signals
+
+Cq(1), Cq(n — 1),...,¢q( — (9) + 1) (3.11)
+
+are linearly independent and form a basis for Sj. Since cq(n) has period q, the sequence c,(n — k)
+is a circularly right-shifted version of cq(n), the amount of shift being k samples. For example, if
+q = 10 then ¢(q) = 4 and the four sequences which form the basis for Sig are

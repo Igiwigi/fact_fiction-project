@@ -1,0 +1,24 @@
+the same dynamical content as the dynamics observed in a non- the same in both states of the protein; just various distances are
+equilibrium experiment (such as pump-probe spectroscopy). weighted differently. The overlapping distributions of Ca-
+This equivalence is a consequence of Onsager’s regression distances therefore seem to directly support the classic view
+hypothesis [71] which, however, holds only in the case of of a population shift model [2].
+small non-equilibrium perturbations that explore regions on The principal component analysis, on the the other hand,
+the free-energy surface that are not outside the energy land- maximizes the separation between the two states by including
+scape explored in the equilibrium case. In the case of the all correlations between structural measures that go into the
+photoswitchable PDZ2 domain studied here, the linear analysis. From the one-dimensional projection in figure 5,
+response assumption may become questionable. First, it is the overlap of both distributions is only 6%, which reduces
+clear from the discussion of figure 2 that the mechanical further to 0.6% when the overlap is calculated using the first
+response of the protein (including overshootings, etc.) is inelas- seven principal components which show structured distri-
+tic, because, for example, contacts are broken and formed. These butions and slowly decaying autocorrelation functions [32].
+findings cannot be described by a harmonic force field (used, As in fact the effective dimensionality of the dynamical
+e.g. in the popular elastic network models [72,73]), in which system may be larger than seven [75-78], we expect the true
+all forces are linear. MD simulations using common biomo- overlap to be even smaller. That is, by employing a reaction
+lecular force fields as well as NMR experiments, on the other coordinate that is able to account for the global conformational
+hand, certainly may account for these effects. rearrangement of the allosteric transition, we find that free-
+It is less clear, though, if the basic assumption of Onsager’s energy surfaces of the cis and trans equilibrium states hardly
+regression hypothesis is appropriate; i.e. if the non-equilibrium overlap. Given the limited sampling of equilibrium MD trajec-
+perturbations explore the same free-energy surface than the tories, however, some asymptotically small overlap of the
+equilibrium states. This hypothesis is also presumed by the equilibrium energy landscapes with the full range of the
+‘population shift’ model, which explains allostery in terms of non-equilibrium energy surface can never be ruled out. In
+a shift of the population probability of various equilibrium that sense, the possible equivalence of visited equilibrium
+states [2]. Employing a principle component analysis, we and non-equilibrium phase spaces becomes a somewhat

@@ -1,0 +1,25 @@
+vertical circular cylinder frozen in the ice cover of infinite extent by the vertical mode method
+and by the method based on the Weber integral transform in the radial coordinate, see [3], are
+identical. In this study, we generalize the method of vertical modes to any shapes of vertical
+walls. However, the numerical results are still shown only for circular cylinders. The vertical
+modes of ice sheet of constant thickness floating on water of finite depth were introduced in
+[10,11] and were successfully applied to two-dimensional problems of hydroelasticity without
+vertical boundaries in several papers.
+
+This study is motivated by the need for some offshore structures, such as oil production
+platforms and wind farms, to be built far north in ice-covered waters [4]. The aim of the paper is
+to explain the application of the vertical mode method to three-dimensional problems of flexural-
+gravity waves interacting with vertical cylinders. If the wave-structure interaction problem has a
+unique solution, then the vertical mode method provides this solution, despite the fact that the
+vertical modes are linearly dependent and not necessary form a complete set of functions, see §5.
+
+2. Formulation of the problem
+
+The fluid flow and ice deflection are caused by an incident hydroelastic wave,
+Wine(X, t) = A cos (kx — wf), (2.1)
+
+propagating in the positive x-direction (figure 1), where A is the amplitude of the incident wave,
+k is the wavenumber and is the wave frequency. A tilde stands for dimensional variables. Here
+real and positive w and k are related by the dispersion equation of flexural-gravity waves. The
+linear problem of the incident uni-directional flexural-gravity wave interacting with a vertical
+bottom-mounted cylinder is formulated in non-dimensional variables (without tilde). The water

@@ -1,0 +1,25 @@
+(3 per 100 m/); therefore we controlled for the availability of 3
+stone tools. (e) Comparison of tool selection: hammer accumulation =
+
+We systematically placed line transects throughout the . . s
+home range area of South Group and the potential former and direct observation YX
+home range of the immigrants, the SoS territory. Transects To determine potential differences in tool selection between local ee
+were of 500 m in a North to South direction, equally distributed residents of South Group and immigrants, we used a two-step
+and separated from one another by 500m (figure 1). Total approach. We fitted two generalized linear mixed models
+transect length in the South Group territory was 22 km, and (GLMMs) [58] with binominal error structure for both datasets
+in the potential former territory of the immigrants total transect (accumulation of tools at nut-cracking sites and direct obser-
+length was 48km. In the Tai forest, three different stone vation of tool selection). We set tool material (stone or wood)
+materials (laterite, granite and quartz) are used by the chim- as the response variable for the first model, addressing the arte-
+panzees. Even though laterite is less sturdy than granite and facts we found In the territory, and we included the location of
+quartz, chimpanzees still preferred it over wooden tools the tool (anvil at which the tool was found) as a random effect
+[15,4142]. Stones found on the transects were only counted into the model. To analyse the direct observations in the
+as potential tools when they ranged within the average selected second model, we included group affiliation (immigrant or resi-
+hammer size (assessed from previous observations [42]); the dent of South Group), the day in the nut season (z-transformed to
+minimum tool mass was determined to be 80g, which trans- a mean of zero and a standard deviation of unity) and as random
+lated on average into a minimum of 3 cm length on one side effects date and individual. As the identity of the tool user was
+of the stone. The maximum tool mass was determined to be known through direct observation, we additionally included
+10000 g (which was only observed to be selected four times random slopes of date within individual into the model [59].
+in three nut seasons). For our survey, stones with a minimum We then bootstrapped the estimates of the full model 1000
+length of 3cm were reliably visible and recorded as potential times and compared the confidence intervals at the level of
+tools when found within a maximum distance of 1m to 95%. We plotted the results to inspect visually the overlap the
+the left and right of the transect. In order to compare the confidence intervals.

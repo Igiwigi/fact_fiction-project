@@ -1,0 +1,24 @@
+model is then extended in [38] by including an additional according to a hierarchy of behavioural preferences (i.e. it is
+escape rule with the same mathematical structure as the not allowed to maximize/minimize the response to all move-
+other three classical contributions. Further, Delgado-Mata ment inputs); and (v) the simplicity of our method allows us
+and coworkers multiply each velocity component by a to provide not only numerical but also analytical insights.
+factor that accounts for the emotional state of the animals Structure of the work. The rest of the paper is then orga-
+(e.g. fear). Also in this case, the velocity vector of each nized as it follows. In §2, we will present the mathematical
+agent establishes its speed. framework. Section 3 will show the model ability to repro-
+
+In the work by Couzin and colleagues [21,39], the velocity duce and classify collective movement and patterning of an
+of each individual is instead defined by a constant speed and an animal population emerging from different individual behav-
+orientation unit vector, exactly as in our approach. However, ioural preferences. Section 4 will then focus on a coupled
+the direction of movement is determined in a slightly different analytical/numerical study of the equilibrium configurations
+way. In fact, a generic agent, characterized by an anisotropic of our animal system when subjected only to attractive and
+visual cone, is set to be subjected only to repulsion if it detects repulsive interactions. A possible model extension accounting
+another mate within its avoidance region. Otherwise, it is set for the presence of a predator which impacts on group
+to be subjected to both attraction and alignment towards the dynamics will be proposed and investigated in §5. Finally,
+groupmates falling within the corresponding interaction some hints for further applications and future developments
+areas: in this case the resultant orientation vector is given by of our approach will be given in the conclusive §6.
+
+the mean of the two contributions. Perturbations are employed
+by modifying the direction of movement at a randomly chosen
+extent: however, an agent is not allowed to undergo a complete
+
+2. Mathematical model

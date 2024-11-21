@@ -1,0 +1,25 @@
+syntactically guaranteed.
+
+A Proto-PLasm script is written using only the following three programming
+constructs: (i) the application of a function to its input parameters, providing the
+output value, (ii) the composition of two or more functions, producing the
+pipelined execution of their reversed sequence, and (iii) the construction of a
+vector function, allowing for the parallel execution of its component functions.
+A Proto-PLAsM script contains a set of definitions and one or more expressions.
+A caching of values to be computed is associated to the expression graph, where
+already evaluated subexpressions are connected via symbol and value sharing.
+The traversal of the reachable subgraph of the functional environment. is
+activated whenever a new value is being evaluated or an existing symbol is
+redefined. The value generating process is made easier by the fact that the
+language is purely functional—no state nor side effects.
+
+Proto-PiasM will support progressive computations, where each operation
+works by reading a stream of incremental refinements of its operands and
+produces from the very beginning a coarse approximation of the final result.
+The function-level programming style couples very well with the dataflow
+diagrams and visual languages, where a computation is visualized as a directed
+graph of data flowing between boxes representing either single operations or
+whole programs. As far as parallelization is concerned, we aim at (i) decom-
+posing the computation into a set of maximally independent tasks, each of
+which is to be executed on a single processor, while balancing the load between
+the available processors, (ii) mapping different language constructs into the

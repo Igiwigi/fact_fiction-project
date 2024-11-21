@@ -1,0 +1,24 @@
+
+Fdzda= 4 — 2cp(a) dzda + O(z — a)
+(z — a)? Za
+= a BO Edt _ 9: a didi + OG —2),
+( —a)* zZ-a
+
+the new coefficient bz transforms as an ordinary differential:
+b2(@) da = bo(a) da,
+
+while c2(a) continues to transform as an projective connection (up to a constant). The proof is
+again straightforward.
+
+We may adapt the above to the Green function G(z,a) = G*(z), despite the fact that it is not
+harmonic in z (because of the compensating background flow). First we write
+
+G(z,a)= = (-los |z—a| + H(¢,a)) (5.1)
+
+and then expand the regular part as
+H(Z,a) = ho(a) + sllnlane —a)+h@@ 4)
++ Hlla(aye ~ a)? +In@)@ —a)*) + ni (a)(@ —a)@—A) + O(lz—-al*). 2)
+
+The coefficient ho(a) is one example of a Robin function, more precisely a coordinate Robin
+function. The distance |z —a| to the singularity is here measured using a coordinate chart, this
+

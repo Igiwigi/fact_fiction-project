@@ -1,0 +1,25 @@
+after which the torque balance in the rotor can no longer be achieved. This type of bifurcation :3
+
+diagram is usually called an isola. The above results represent a new qualitative interpretation of
+autorotating rotor stability. The multi-attractor nature of nonlinear dynamical systems suggests
+that the instabilities identified above could lead to new attractors that will constitute a more global
+view of the system behaviour than has previously been available.
+
+6. Description of rotor model
+
+It is apparent that the rotor behaviour is very nonlinear and that analysing such a system
+numerically necessitates the use of nonlinear analysis methods with a numerical model that
+can capture the fold bifurcation seen in the wind tunnel tests. What makes this type of
+investigation even more difficult is the fact that the number of parameters involved together
+with the different flight manoeuvres and rotor types that need to be considered is large. From an
+engineering perspective, it is important to be able to perform numerous quick analyses in order
+to minimize the problem dimension to a manageable level. For this reason, it was necessary in
+this investigation to create a low-order nonlinear rotor model that nevertheless retains acceptable
+fidelity in the aerodynamic and dynamic representations. Since the focus here is on flap—rotation
+instability (coupled flapping motion with blade rotation about the main rotor shaft)—as opposed
+to, say, blade divergence and flutter or blade/pitch-link coupling dynamics—it is adequate to
+assume rigid blades and to consider degrees of freedom both in the plane of rotation and normal
+to it. The omission of blade elastic characteristics reduces complexity and allows easier insight
+into the blade dynamics.
+
+The model developed for this study represents the dynamics of a two-bladed rigid teetering

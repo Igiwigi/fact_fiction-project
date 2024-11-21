@@ -1,0 +1,25 @@
+expensive to fix during development, even more expensive during verification, and so on, the
+worst scenario being the need to fix the defect after the system is delivered to the client and in
+operation. The same is true for defects introduced during the architecture or development phases.
+Table 1, adapted from [1], illustrates the relative costs to fix defects introduced in the requirements
+phase. Similar tables can be produced for defects introduced in later phases.
+
+Every time a defect is found in industrial software, the decision to fix is based on the business
+case of impact versus cost-to-fix. The later the defect is found, and consequently the more it costs
+to fix, the less likely the business case will be justified, and the more likely the defect is allowed to
+remain—thereby undermining quality. For truly critical software, however, the defect impact can
+be so large as to make a fix effectively mandatory, regardless of cost.
+
+These facts lead us to the guiding principles of our approach:
+
+— do everything practical to prevent the introduction of defects; but
+
+— accept defects will be introduced, so do everything practical to identify and remove
+defects as close as possible to their point of introduction. This leads to a natural preference
+for static analysis of design artefacts over dynamic testing, because static techniques can be
+introduced far earlier in the life cycle.
+
+These guiding principles underpin our strategy:
+
+Take small steps, not large leaps. We try to limit the ‘semantic gap’ between notations.
+We do not try to jump from natural-language requirements straight to ‘code’. Rather, we

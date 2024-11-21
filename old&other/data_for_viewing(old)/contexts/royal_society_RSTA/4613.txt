@@ -1,0 +1,25 @@
+temperature response to different forcing magnitudes and timescales cannot be fully described
+with the assumption of a constant feedback parameter 4 even in models that ignore long-term
+Earth system feedbacks (ice sheets, dynamic vegetation, permafrost), non-CO) forcings, chemistry
+and land-use change. In our models, the feedback parameter varies by about 50% or more
+between different forcing magnitudes and over time as the system approaches equilibrium. The
+concept of a universal constant climate sensitivity as a fundamental climate system property
+is very likely wrong, even when ignoring many feedbacks and forcings. This could be an
+explanation—next to model biases in feedback strength—for the questions outlined in §1
+(figure 2). The inconsistency of ECS estimates based on the observed warming and those based
+on GCMs with freely evolving SST evolution could be partly caused by the assumption of a
+constant 4. The estimates based on the observed warming, which use an effective radiative forcing
+estimated from GCMs together with the assumption of a constant 4, would be biased low, if 4
+would, in fact, not be constant but time or temperature dependent, as shown in figure 4b. In the
+same way, a state and temperature dependency of 4 makes the mapping of GCM, palaeo-proxy
+and short-term observational estimated sensitivities a lot more difficult.
+
+Does this imply the zero-order linear energy balance model is useless? A model is always
+wrong with regard to reality in a strict sense, but the constant feedback parameter model may
+still be an adequate approximation for some purposes. As an example, in our case, running the
+CESM model for 200 years and ignoring the first 150 years for the regression of N against AT,
+would allow us to predict the further evolution of the model. We argue that the quote ‘modelling
+for insight, not numbers’ makes an essential point here [102]. We have to conclude that the global
+linear forcing feedback model may be of limited value to estimate quantities like the ECS of the
+real world, or at least we have to be more careful in understanding and quantifying in which range
+of forcings, timescales and climate states a simple model with a constant feedback parameter can

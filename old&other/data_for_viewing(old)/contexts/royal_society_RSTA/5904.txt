@@ -1,0 +1,24 @@
+are evaluated.
+
+Both observables naturally define a distinguished axis, around which the problem is
+rotationally symmetric. In particular, not only are the NSE rotationally symmetric but also their
+corresponding action including the conditioning on the observable is invariant under rotation around
+this axis. It is therefore intuitive to search for a rotationally symmetric minimizer, and this is
+indeed also the nature of the structures that immediately come to mind for vorticity and strain:
+strong vorticity will be observed at the core of a particularly strong vortex filament, while large
+strain occurs at points such as the centre of the collision of two vortex rings. Of course, it is not
+necessarily true that a rotationally symmetric optimization problem has a rotationally symmetric
+minimizer.
+
+Because of this fact, we set out to search for multiple, possibly distinct minimizers of the
+action: one for which we artificially enforce rotational symmetry, and potentially others for which
+no symmetry is enforced. The former case reduces the problem to (2 + 1) dimensions in (r,z, t)
+for cylindrical coordinates (r,@,z) in space. In this coordinate system, and using the vorticity-
+streamfunction formulation for axisymmetric flows [27], the axisymmetric instanton equations
+are
+
+Drug + urttg — Lug = [x * ple,
+1,2
+Diop — 7p itree _ 5 bela) — Log =[(V x x) * plo,
+Dipo + + (2uepr —urpe) + Lpp =0 (2.14)
+and Diop — 5 dz(uope) + 029 dpe — drug dzpe

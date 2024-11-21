@@ -1,0 +1,25 @@
+which is based on generalization of finite differences defined on an equidistant grid, and [Be
+which gives the simplest and very efficient approximation for numerical evaluation of Ss
+fractional derivatives. This Griinwald—Letnikov-based approach to discretization of fractional :
+derivatives had very strong impact on the way of thinking in fractional calculus, that even
+fractional integrals were routinely discretized on equidistant grids, too. However, it is clear
+that for fractional integrals it was not a necessity at all. On the other hand, it was unclear
+
+what one could do with approximation of fractional integrals on non-equidistant grids, if : =
+one wants to have a uniform approach to discretization of both fractional derivatives and : 3
+fractional integrals. : ca
+
+Second, solution of fractional differential equations in large time intervals is a computational 1
+problem due to the fact that the number of points taken into account in computations grows with : >
+the growing value of the time variable. This is caused by the non-local character of fractional- :3
+order differentiation. So far, the only aid in this respect was the ‘short memory principle’ 18
+[1]. Methods known from classical numerical solutions of integer-order differential equations, : s
+especially variable-step-length techniques, were not available for fractional differential equations. ied
+
+The systematic and continuous development of the ‘matrix approach’ [2] allowed us to
+find some answers to both challenges, and in this paper, we present them as two mutually
+related methods for solving problems of discrete fractional calculus on non-uniformly spaced
+discretization grids. Moreover, we extend this approach to distributed-order operators and
+distributed-order differential equations.
+
+We start with demonstrating how the matrix approach can be extended to numerical

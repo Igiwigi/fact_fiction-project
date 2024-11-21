@@ -1,0 +1,25 @@
+independent. The equations (269-2) and (270-4) cannot, however, be algebraically solved.
+Recourse is had to a graphical numerical procedure for solving these equations on the
+following lines. In (270-6) dropping &, a sufficient number of values of w are taken and the
+corresponding ,’s calculated by formula (270-6) ; this material is arranged in the form of a
+table or a large-scale (w,)-graph is drawn. From the graph or from the (w, «)-table (by
+interpolation if necessary), w can be read off or calculated for any given value of x, there
+being only one real positive value of w for any given value of z. For any value of A there are,
+from (270-6), five values of “4, depending on five values of b, for the different zones. For each
+
+cau |
+
+* The auxiliary parameters A and y introduced in equations (270-3) and (270-6) respectively are of
+course different from the parameters A and y of Part II. In fact, A here is the reciprocal of the A used in
+Part II.
+
+
+P. C. MAHALANOBIS ON LARGE-SCALE SAMPLE SURVEYS 425
+
+of these values of 4, there is a real positive value of w, from which is obtained the corre-
+sponding value (real and positive) of a, by (270-5). Substituting these values of a, and w,,
+(five pairs altogether obtained from five values of 5, for five different zones) in the cost
+equation (269-2), a value of T is thereby obtained. Starting from any value of A and pro-
+ceeding along a particular chain a certain value for the total cost T is reached. (Also, by
+substitution of these a,, w, the variance V is obtained from (269-1), which is, of course, the
+minimum variance at the corresponding cost level; but this is not of immediate interest.)

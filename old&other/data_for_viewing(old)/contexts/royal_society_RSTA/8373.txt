@@ -1,0 +1,25 @@
+
+The formuls for the displacements have now served our purpose, and will not be
+further dealt with. A simple calculation, or indeed the known facts, will show that
+in any practical case, the displacements are very small.
+
+(3.6)
+
+(4) Normal pressure varying as cos 0 over the internal circular boundary of an otherwise
+infinite plate.
+
+As a first example, before embarking upon the general solution, we solve the problem
+for a normal pressure varying as cos 0 applied to the boundary. This is of more practical
+importance than the fact that the traction is of opposite sign upon the two halves of
+the boundary would, at first sight, indicate. In conjunction with the known and
+very simple distribution of stress due to a uniform pressure on the boundary, it will
+give the stress distribution round a hole into which a rivet has been driven, when the
+rivet is pulled sideways (7.e., by a force in the plane of the plate). Moreover, these
+terms will be the important ones at a distance from the hole, in any case. Finally, this
+is the simplest example of the exceptional cases mentioned in § (2), for the resultant
+of the tractions is evidently a force directed along the initial line, and the region occupied
+by the plate is doubly connected.
+
+Denoting the radius of the hole by a, the stress function must be given by
+
+% = Ao {rO sin 6 — $(1—c) r log r cos 0} + Ca? cos O/r, . . . . (4.1)

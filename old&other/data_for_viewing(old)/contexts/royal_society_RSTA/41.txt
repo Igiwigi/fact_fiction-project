@@ -1,0 +1,25 @@
+stochastic optimal control problem for the quantity of interest, where, however, the cost as well 72
+as the coefficients in the stochastic differential equation may depend on a mean-field variable [4
+(averaging all individual quantities). Since the mean-field variable can be rewritten in dependence : N
+of the overall density function it becomes possible to derive a system of PDEs for the evolution : S
+of the overall density as well as a distributed adjoint variable. As usual in optimal control, the :s
+
+adjoint variable is supplemented by a terminal instead of an initial condition, which implies that
+the mean-field game becomes a boundary value problem for a coupled system in space-time
+instead of a system of evolution equations forward in time. The latter observation is crucial for
+understanding the analytical and computational challenges. Standard techniques for evolution
+equations are not applicable in the analysis of mean-field games, e.g. the question of local-in-time
+existence cannot even be posed reasonably. On the other hand, variational approaches suffer from
+missing coercivity, convexity and the fact that as usual in differential games a fixed-point operator
+needs to be formulated on top of the optimization problem. Novel developments coupling
+variational principles and viscosity solution techniques for the adjoint problem can be found
+in recent literature [42-45] as well as solutions with advanced probabilistic arguments [46,47].
+With respect to the numerical solution, there is no simple forward integration, but the huge
+coupled systems in space-time need to be solved. Moreover, the coupling of the equation for the
+density (usually a Fokker—Planck or transport equation) with the adjoint equation (a Hamilton—
+Jacobi equation) needs particular care with respect to discretization. The adjoint structure of the
+equations has also led to novel insights beyond mean-field games, embraced under the term
+adjoint methods for Hamilton-Jacobi equations [48-50].
+
+In this Theme Issue, two papers deal explicitly with mean-field games. Achdou ef al. [51]
+provide an overview of various novel PDE models in macroeconomics, which are mainly

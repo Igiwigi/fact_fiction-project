@@ -1,0 +1,25 @@
+bution of likelihood scores for the random trees and for the
+PROK-minus supertree were plotted in R to reveal whether the
+likelihood of PROK-minus was significantly better than that of
+the random trees. To test alternative hypotheses about the tree
+of life, a supertree-based version [68] of the approximately
+unbiased (AU) [69] test was used to compare the PROK-minus
+supertree against the generally accepted topology for the tree of
+life. The latter was obtained by modifying the tree of Ciccarelli
+et al. [52], which has arguably become the most widely used refer-
+ence topology for the tree of life in both textbooks and the scientific
+literature, to include all and only the species considered in our
+study. Given that eukaryotes are not included in our dataset, the
+fact that the Ciccarelli et al. [52] tree is outdated (in that it does
+not display the eocyte topology) is not a problem for our analyses.
+The supertree-based AU test was calculated using L.USt. [68] to
+obtain input-treewise likelihood values for all gene trees under
+both compared supertrees. These values were then used as input
+for CONSEL [70] that was used to perform the AU test.
+
+(g) Identification of directional Eubacteria to
+Archaebacteria gene imports
+
+All gene trees in PROK-minus that included at least one archae-
+bacterium (2887 trees) were visually inspected, and the same
+strategy as used by Pisani et al. [5] to identify prokaryotic out-

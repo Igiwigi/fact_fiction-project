@@ -1,0 +1,25 @@
+is shown dividing the clustered from ordered regions. A number of interesting features are
+apparent. Firstly, note that the t =0 values for the four simulations increasingly depart from the
+expected ideal RSDL as the solid volume per cent increases. This is a consequence of the fact
+that our initialization of the domain, which is based on a thinned continuous pseudorandom
+algorithm, leads to an apparent ordering; that is an artefact. This arises as the domain is
+progressively initialized with finite area particles; the remaining space induces a filtering such
+that a truly random choice is moderated by the available locations that can accommodate a
+particle. Secondly, it is interesting to note that for any individual simulation, there is not a large
+change in the solid per cent of the mobile region as the simulation proceeds. This is due to the
+fact that the loss of particles to the settled bed, which should decrease solid per cent, is almost
+balanced by the reduction in the mobile volume that contains crystals. For example, in figures 1
+and 2, the mobile volume is between the horizontal yellow line and the settled bed, and the
+solid volume per cent stays nearly constant in that region. The fact that the solid per cent does
+not change markedly as the simulations proceed suggests that there is a local self-similarity or
+qualitative stationary state in the average mass per cent.
+
+The R value provides a global metric of the clustering in the system but does not provide
+information on cluster size when clustering is present. To obtain more information about the
+particle distributions we will use what are called Ripley’s K(r), L(r) and g(r) functions [80,81]; the
+reader is directed to [66] for a more complete presentation. The K(r) function is defined as:
+
+Ka", (3)
+
+a
+where E is the number of particle centres in a given radial distance, r, from a randomly chosen

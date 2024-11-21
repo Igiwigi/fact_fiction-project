@@ -1,0 +1,25 @@
+ject. Given that the automated identification system does not duration)), and transect identity was specified as a random effect =
+distinguish bat passes (as conventionally defined as a continuous to allow for non-independence of sections within transects. The = “S_
+run of pulses not separated by a time gap of more than 1 s [87]), amount of activity was investigated similarly but used a Poisson 3
+we here consider a file to be the equivalent of a pass. Our previous error structure and a log-link, and the standard errors were cor- 3
+work indicates that multiple passes of the same species in relatively rected to account for over-dispersion by adding a random =
+low activity areas (away from roosts and swarming areas) occurs in variable with a distinct level for each observation in the dataset [89]. x
+approximately 4% of files and that the nightly estimates of bat Prior to fitting the models, we explored the correlations between S
+activity obtained from ‘files’ and ‘bat passes’ are not significantly potential predictor variables. The variables ‘urban’ and ‘habitat’ e
+different. The main constraint of using automated identification were highly correlated—both included a measure of built environ-  “°
+is that where two bats of different species are present in the same ment (Spearman’s rank correlation coefficient p= —0.831). =
+file, only a single classification is given. Some under-recording of ‘Urban’ was therefore selected for inclusion in subsequent models =
+species diversity is therefore possible. However, given the exten- as this variable had the greatest influence on the Akaike information =
+sive sampling frame used in the project, together with the fact criterion (AIC) value. In addition, because of the relatively high a
+that the finding of multiple species within a file was rare among number of potential predictors with multiple levels in relation to =
+the pipistrelle data checked manually, it is unlikely that such the numbers of degrees of freedom, we conducted an initial screen- 3
+under-recording will have materially altered the results. All files ing and included only those variables that showed some association cs)
+containing Nyctalus spp., E. serotinus and P. nathusii calls, together with the outcomes (using a relaxed inclusion criterion of p < 0.1). x
+with all those that were not allocated a species identification, were Road type was therefore excluded. Model selection then used a SS
+manually checked following the procedures previously described backwards manual process until the minimum adequate model =
+for the other acoustic analyses. was obtained (the random effects were retained in all models as Ss
+
+they were part of the study design). First-order interactions between &
+lighting and other fixed effects were considered, but other inter-
+actions were not used due to sample size constraints. Model
+comparisons were based on inspection of AIC values, and tests of

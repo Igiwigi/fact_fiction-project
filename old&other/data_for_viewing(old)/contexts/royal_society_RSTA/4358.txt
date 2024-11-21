@@ -1,0 +1,25 @@
+characteristic lengths associated to these distributions are also consistently similar (200 < A < 300),
+thus suggesting that the common biological mechanisms involved in CG methylation are reflected
+in the similar DNA structure at the scale of dinucleotide inter-distance.
+
+The remaining organisms (figure 3) span a larger range of organismal complexity, thus the
+overall picture appears more heterogeneous from a biological point of view, and this is reflected in
+our analysis. For example, E. coli, a bacterium that does not possess similar epigenetic mechanisms
+and probably does not exploit DNA methylation processes for the same purposes as pluricellular
+organisms, does not present significant differences between dinucleotide distributions. The same
+is true for Adenovirus. This different behaviour might be justified by a different role of DNA
+
+
+methylation in bacteria, or by the fact that only a small portion of bacterial DNA is affected
+by this process [45]. Thus, our statistical approach might not be sensitive enough to highlight
+possible differences. The case of fruit fly looks similar, since the difference between dinucleotide
+distributions is not as marked, as shown in the double-logarithmic plot of figure 5. This is
+consistent with what is known about the very low levels of DNA methylation in fruit fly, and
+the absence of DNMT family hortologues [39].
+
+This approach has been exploited to classify organisms in phylogenetic trees [19], but our
+analysis shows that it might also help infer the presence of DNA epigenetic mechanisms in poorly
+characterized organisms, even if a clear association of these observations with specific biological
+mechanisms is yet to come.
+
+The exponential function used to fit the CG inter-distance distribution at a whole-genome level

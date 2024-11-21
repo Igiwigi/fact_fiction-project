@@ -1,0 +1,25 @@
+of data points that could be obtained experimentally employing a grid method, considering a
+perfect grid of 1mm pitch that is usually employed in the experimental procedure. In order
+to obtain corresponding numerically simulated fields, the time increment was reduced to 1 ns,
+whereas the displacements were stored every 500 ns (200 steps over 100 us) to simulate a 2 Mfps
+acquisition rate that allowed having 500 iterations between every two output step frames that
+ensured the stability of displacement fields. Furthermore, the obtained fields were considered to
+be independent of the FE mesh, i.e. the chosen elements were sufficiently small, so that any further
+refinement would not result in notably different displacements. The loading boundary condition
+was considered as a distributed pressure pulse with the temporal distribution obtained from an
+actual experiment [16]. Rather than simulating the whole experimental set-up, the spalling sample
+was modelled by directly applying the loading pulse on the bar—specimen interface based on the
+fact it has been numerically shown that two approaches are fairly similar [58]. This is mainly due
+to the fact that the dispersion effects of the smoothed wave travelling through small diameter
+
+
+spalling test configuration: grid method
+
+— boundary conditions
+— sample geometry
+
+experiential parameters: .
+i displacement
+: field
+— material model =-—>}
+— material stiffness

@@ -1,0 +1,25 @@
+10-6
+
+0 5 10 15 20 25
+time (ms)
+
+Figure 4. Long-time comparison of Stehfest and pole extraction methods to NILT for (a) Carbon and (b) Stainless Steel. Only
+the first pole is used for each q; eigenvalue.
+
+Hence, the thickness and location of the wall loss can be derived from the combination of
+amplitude in the short-time domain and decay rate (curve inclination) in the long-time domain.
+
+From the depicted results, it is easily derived that the pole extraction can be used for calibration
+of instruments that use PEC for thickness measurements. The fact that the presented model
+describes the exact cylindrical configuration improves the method accuracy since no planar
+geometry simplification is used.
+
+
+(@ 104
+
+—NILT
+© 50 poles
+
+102 * 5 poles
+
+---1 pole

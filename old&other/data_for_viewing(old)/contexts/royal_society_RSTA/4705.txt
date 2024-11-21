@@ -1,0 +1,25 @@
+W(x) =c
+
+Aw=AWx*p=p+N,
+
+and thus Ay >N in RN and Ay =N outside the support of p. In conclusion, the potential y : S
+associated with the local minimizer satisfies a classical obstacle problem in RN with operator “
+L=A, g=N, and f =2E[p] due to (4.7). Let us also remark that the obstacle problem (3.6) : =
+associated with the scaled version of the fractional diffusion equation (3.4) can also be recast : 3
+in the form (4.9). We will do this next but in more generality. :3
+
+The basic idea for the Laplacian can be generalized and used to get properties on the potentials : =
+associated with local minimizers of a larger family of interaction potentials W without resorting DR
+to the local minimizers themselves. Let us review quickly the main strategy in [78]. The key fact : re
+is that if the repulsive strength at zero of the potential is given by |x|°/b, b=2s —Nwith0<s<1, : s
+then one can show that the potential yy = W « w associated with any d-local minimizer ju is a : 3
+continuous function [78]. This allows us to deduce that for any point xp € supp(2) : SI
+
+W(x) = wW(xo) forall x € Be(xo) (4.10)
+
+holds. Here, ¢ is the size of the ball in dz distance where ju is a local minimizer. Moreover, for the
+points in the support, we also get
+
+W(x) =W(x0) in Be(xo) N supp(). (4.11)
+
+Since lal? /b in this range is the fundamental solution, up to constants, of the fractional diffusion

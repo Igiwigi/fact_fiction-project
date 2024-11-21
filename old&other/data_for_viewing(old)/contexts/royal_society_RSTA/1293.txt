@@ -1,0 +1,25 @@
+technologies, occurs when evaporating liquid droplets enter a heated gaseous environment.
+Here, such systems as evaporative cooling and spray drying may be mentioned as examples
+of technologically important processes [23,24]. It is important to note that the dynamics of these
+processes is determined by the features of heat and mass transfer at the phase transition interfaces
+of liquid drops, which characterize their evaporation rates. In this article, we analyse the kinetics
+of evaporation of a polydisperse ensemble of liquid drops into a vapour-gas medium, as well as
+their cooling by analogy with the previously developed analytical theory of bulk crystallization
+of polydisperse crystals in a supercooled liquid [25-33]. Following these studies, we suggest that
+liquid droplets do not interact with each other and retain their spherical shape at all stages of
+evaporation. We also consider the intermediate stage of evaporation (far from the final stages,
+when the disintegration and agglomeration of particles play an important role) and suggest
+that the saturated vapour pressure is independent of the radius of the decreasing droplets. A
+significantly simplifying assumption is the fact that the droplet temperature can be considered a
+constant value due to the rapid relaxation of the thermal field. Let us especially emphasize that
+these model assumptions can describe many evaporation processes met in reality.
+
+2. Governing equations
+
+Let us consider the model of evaporation process that takes into account the fluctuations in
+particle evaporation rates by means of the additional term in the Fokker-Planck equation
+for the population density distribution function (the term containing the second spatial
+derivative) [1]
+
+a + 2 (wf(r, 1) 2 (0%) ,r>0,t>0, (2.1)
+where r is the radial coordinate of evaporating drops, t is the evaporation time, w = dr/dt < is the

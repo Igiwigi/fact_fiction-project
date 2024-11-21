@@ -1,0 +1,25 @@
+pt + div(pu) =0 (2.5a)
+
+and
+wy fu- Vu =| lic = yDuly, 1) 6x, Doty, dy, xeR?, £20, (2.50)
+R
+
+where the critical threshold is captured in terms of Vo and its initial divergence do :=
+infxesupp(oo) div u(x). The main difficulty here is to control the remaining terms in Vu, beyond
+just div u itself. We measure the size of those additional terms, setting
+
+Bo:= sup max{2|dx,Uo2|,2|4x,Uo1|, |x, 401 — Ax, M02\},
+xesupp(o)
+and we prove that if Bg is sufficiently small then, in fact, all terms of Vu, except for div u, remain
+equally small.
+
+Theorem 2.10 (two-dimensional critical thresholds in a non-vacuum region). Consider the two-
+dimensional CS system (2.5). There exist upper threshold functions o,¢ such that, if dy > o4(Vo) and
+Bo < ¢(Vo) at t= 0, then Vxu(x, t) remains bounded for all (x, t) € supp(p).
+
+On the other hand, there exists a lower threshold function o— such that, if dy <o—(Vo), |dx,Uo2\
+and \dx,Ug1| are large enough at t=O, then there exists a finite-time blow-up at T,>0, where
+infyesupp(p(.)) div u(x, t) > —co as t > T.—.
+
+Remark 2.11. The smallness assumption on Bo guarantees that the terms in V ug remain small
+relative to div u(-,t). Put differently, theorem 2.10 states that if the vorticity, a) and the spectral

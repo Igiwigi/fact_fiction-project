@@ -1,0 +1,25 @@
+Figure 2. Simulated grid cell firing patterns in differently shaped environments. Typical examples of simulated grid cell firing patterns in (a) circular, (b,c) square
+and (d) trapezoidal enclosures. Firing-rate maps (top row), spatial autocorrelograms (second row) with a gridness score specified on the top left corner, and two-
+dimensional Fourier spectrograms (bottom row). Two distinct grid cell populations are generated in a square environment: one aligned to a horizontal wall (b) and
+another aligned to a vertical wall (c). The overall distribution of simulated gridness scores in a circle (e), square (f) and trapezoid (g). All grid firing patterns were
+generated using the same field—boundary interaction parameters. (Online version in colour.)
+
+regular and over time converge to hexagonally symmetrical grid cells with scales much larger than the boundary size
+patterns as the animal gains experience in this environment. should not be affected very much. The strongest effect
+
+(3) In novel environments of identical geometry, grid cells should be observed on grid cells with scales close to the
+should have different offsets. This follows from the size of the boundary.
+
+fact that the offset depends on the initial condition
+and these will differ in novel environment but not in
+
+familiar environments, 6. A possible physiological implementation
+
+(4) Because of the inhibitory ‘force’ coming from the bound- A possible physiological mechanism underlying the field—
+ary, we predict some inhibitory neurons firing only at the boundary interaction model is outlined in figure 4. Here,
+border (inhibitory border cells) and projecting to CA1 the field-like inputs are received from competing place cell net-
+place cells. These projections could come either from works which are all connected to each other via inhibitory
+mEC [23] or from subiculum [24]. interneurons. Afferent place cells with adjacent fields compete
+
+(5) Grid cells with different scales should respond differently with each other till only the ones firing at distance approxi-
+to the geometry of the environment. This is owing to the mately rscale remain active. Additionally, boundary cells from

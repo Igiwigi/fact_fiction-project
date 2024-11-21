@@ -1,0 +1,25 @@
+0.3 wm, with all other mass and dimensional measurements perfectly accurate.
+
+4. Formal analysis framework
+
+(a) The pendulum’s equation of motion
+
+Define @ and 6 to be, respectively, the angular position and velocity of the pendulum relative to its
+equilibrium position. Torques that act on our pendulum as it rotates, in addition to that produced
+by our source mass, have several origins.
+
+1. Nonlinear elastic torques associated with the fibre, which we may approximate with a
+Taylor series expansion: t = —(k10 + kz? + k305). Symmetry suggests that ky should be
+zero, but in fact we have found significant non-zero values for this term in our tests.
+Fortunately, ky proves to have negligible effect on our results. k3 however does have a
+marginally significant effect.
+
+2. Dissipative fibre torques. As discussed in §1, these clearly seem to have two distinct
+contributions, one from the linear model discussed by Kuroda [1] and Quinn et al. [2],
+which has a very significant effect on the G measurement, and also a contribution from
+a stick-slip mechanism of unknown origin which produces a torque term —kss[(A? —
+62)6 — 2A0].
+
+3. Dissipative torques owing to magnetically induced eddy currents and residual gas
+damping. These are negligible compared with internal fibre dissipative torque, as the
+pendulum is non-conductive fused silica while the cryogenic environment together with

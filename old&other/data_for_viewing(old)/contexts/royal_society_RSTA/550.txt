@@ -1,0 +1,25 @@
+—200 —100 0 100 200 x
+u
+
+Figure 6. (a) Effective permittivity distribution obtained from quasi-conformal mapping techniques. (b) Corresponding
+graphene imaginary conductivity using equation (7.5). (c) Required graphene substrate permittivity to achieve desired gradient-
+index distribution. (d) Normalized electric field distribution of a quad-beam collimator device. (Online version in colour.)
+
+of the permittivity, nspp > /€eq. The transformation distorts the four arcs of the circle into
+straight edges of a square. The resulting effective permittivity distribution is shown in figure 6a.
+The background permittivity when extracting the material tensors is appropriately selected to
+provide a desired range of graphene conductivity values. From the effective permittivity (or
+impedance), the corresponding imaginary conductivity values can be calculated, as shown in
+figure 6b, using the fact that ngpp = €eq. The chemical potential is then computed assuming that
+Ir =0.43 meV, T = 300K and f =30THz. Then, from the chemical potential, designers have the
+choice of numerically solving for the required substrate permittivity, thickness or bias voltage
+using equations (7.6) and (7.7) to achieve the desired GRIN profile. In this case, we solve for
+the required substrate permittivity distribution, shown in figure 6c, assuming d=50nm and
+V;, = 25 V. This range of values can be effectively reduced by clipping the extreme regions at the
+corners without significant performance degradation. Here, the graphene layer can be designed
+to be supported on SiO} (€; = 3.9).
+
+
+Table 1. Comparison among different methods of coordinate transformation.
+
+material properties bandwidth realization advantages disadvantages

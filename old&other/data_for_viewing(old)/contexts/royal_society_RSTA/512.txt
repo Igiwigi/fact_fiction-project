@@ -1,0 +1,25 @@
+(i.e. is spread out over a larger height range) in the GOL-OS simulation than in the other .
+two simulations.
+
+Cold chromospheric bubbles are formed by expanding shock fronts that pass through
+
+the chromosphere. These bubbles contain the lowest temperatures in the atmospheric model
+[143]. Statistically, the simulations with partial ionization effects have hotter and denser cold
+chromospheric expanding bubbles than the NGOL simulation. This is shown in the joint
+probability distribution functions of the density and temperature integrated over 30 min in
+figure 3 for simulations NGOL, GOL-OS and GOL-F. Everything below 4000K (log T < 3.6)
+corresponds to the cold chromospheric bubbles. The minimum temperature achieved is lower
+in the NGOL simulation than in the GOL simulations (enhanced with white circle E in figure 3b).
+In fact, the coolest temperatures for the NGOL simulation are controlled by an ad hoc heating term
+in the Bifrost code which is introduced to avoid reaching temperatures lower than approximately
+1600K since below this threshold the tabulated equation of state is no longer accurate [139].
+While this ad hoc heating is crucial for the NGOL simulation, it is rarely necessary in both
+simulations with ion—neutral interaction effects since the cold chromospheric bubbles are not
+cold enough to reach the temperature at which the ad hoc heating starts. The cold chromospheric
+bubbles in the simulations with partial ionization effects are a few hundred degrees hotter
+than in the NGOL simulation. Leenaarts et al. [143] found no mechanism to prevent extremely
+low temperatures from occurring in expanding bubbles within the standard, single-fluid MHD
+formulation. The Joule heating contribution coming from ambipolar diffusion provides such a
+mechanism. Observations can help determine the amount and temperature of such cold plasma
+in the solar chromosphere [144,145]. The details of the physical processes in the chromospheric
+cold bubbles will be described in a follow-up paper.

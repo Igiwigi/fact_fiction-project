@@ -1,0 +1,25 @@
+problems of the modern world. But also—and equally important—it has already enriched
+mathematics as such by presenting new and challenging PDE models to the analytical and
+numerical mathematics communities. We are convinced that the new research area of PDE models
+in the socio-economic sciences is one of the best recent success stories of cross-fertilization of
+totally diverse scientific fields. Consequently, we will also structure this introductory article by
+mathematical questions rather than specific applications. The latter will obviously appear on the
+way since they are driving the mathematical questions.
+
+2. Kinetic models with non-physical interactions
+
+Recently, ideas from statistical physics have started to permeate the socio-economic sciences,
+leading to mean-field and kinetic PDEs as the main tools for qualitative and quantitative research.
+Their applicability relies on the fact that socio-economic processes are often governed—similar
+to statistical physics—by the interaction of large ‘particle’ systems, where the particles are
+human beings (inter)acting in socio-economic scenarios. The natural step is to go from those
+particle models to kinetic and further macroscopic PDE models. In those, several novel issues
+appear due to the obvious differences compared to classical models in physics. In particular, the
+interactions in socio-economics can have missing conservation properties or be of unusual long-
+range nature, which leads to novel mathematical challenges, e.g. non-standard collision invariants
+to be determined.
+
+A problem that has attracted much attention is the evolution of wealth distributions and the
+aim to explain experimentally observed Pareto tails in large-time limit. The models are usually
+based on exchange of goods and money in binary interactions, with several different approaches
+to the details of the modelling, all leading to different macroscopic models and stationary

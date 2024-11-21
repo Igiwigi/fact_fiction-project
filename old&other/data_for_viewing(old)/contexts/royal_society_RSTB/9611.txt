@@ -1,0 +1,25 @@
+
+7. An idea popularized compared with the more familiar creatures of today. As
+While Whittington’s contradiction of Walcott’s (and others) long as Whittington’s team dwelt on the peculiarities of Bur-
+views on Opabinia were being published his graduate student gess Shale animals like Opabinia, the affinities of these extinct
+Simon Conway Morris FRS was describing a selection of Bur- forms were likely to be obscured. Whittington was not con-
+gess Shale animals that Walcott had overlooked: Nectocaris, vinced of the value of numerical methods, much less
+Odontogriphus, Dinomischus and Hallucigenia. These too were cladistics, relying instead on experience and a deep knowl-
+difficult to ally with any living group. Opabinia was the edge of morphology to identify species and genera and
+first, but these other taxa also raised the possibility that determine their systematic position. In this, he was not unu-
+taxa of high rank had evolved during the explosion of diver- sual among trilobite specialists or other palaeontologists of
+sity that characterized the Cambrian, only to go extinct. the time. The validity of genera relied on their establishment
+Opabinia’s iconic status rests not only on its remarkable mor- by an expert on the group, and taxonomy was based, for the
+phology, but the fact that it was the first newly described most part, on authority. The first attempt to use statistical
+Burgess Shale animal that apparently could not be assigned methods to analyse the relationships of Burgess Shale organ-
+to a living phylum. This concept of ‘taxa of uncertain affinity’ isms was a collaboration between Whittington and me, as
+was seized upon by Gould [6] in his best selling Wonderful life, one of his former graduate students [18,27]. We prepared a
+where he characterized them as ‘weird wonders’. The giant matrix of morphological data on 21 Cambrian arthropods
+predator Anomalocaris (figure 4b), which Whittington and and, with the help of John Temple, professor at Birkbeck Col-
+Briggs described in 1985 [24], was also included in this lege, University of London, an expert on the application of
+category. Gould saw Whittington’s Opabinia paper as repre- numerical taxonomy to trilobites, we used punched Fortran
+senting a conceptual leap in our understanding of the cards to carry out a principal components analysis which
+Cambrian explosion—tangible evidence that Burgess Shale identified nearest neighbours based on all the morphological
+taxa might represent a riot of experimental morphologies characters we coded. We used the same data to create a cla-
+that are not represented today [6]. Gould [6, p. 136] believed dogram, but the result was not based on a computer
+that ‘Whittington’s reconstruction of Opabinia ... will stand as algorithm but on our own assessment of the sequence in

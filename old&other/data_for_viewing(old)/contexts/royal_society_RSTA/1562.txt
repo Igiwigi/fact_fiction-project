@@ -1,0 +1,25 @@
+e, chaotic current intensity
+
+(b) 7 r r 1
+
+0 0.2 0.4 0.6 0.8 1.0 1.2 1.4 1.6
+
+e, chaotic current intensity
+
+Figure 10. Effects of electrical, excitatory and inhibitory autapse on the propagation of pacemaker activity in SW networks.
+(a) p = 01; (b) p = 0.2 (g = 0.1, @ = 0.3 ms“). (Online version in colour.)
+
+excitatory, the firing behaviour of the neurons much resembles that emerging in the presence of
+electrical autapse. Due to this fact, the obtained Q value is so close to the one obtained in the
+presence of electrical autapse.
+
+In figure 12, we present the dependence of the propagation of pacemaker rhythm on the
+probability of adding a link at three different chaotic current intensities for all the types of
+autapses. As shown in figure 12, for each autapse type, the Q exhibits similar trends depending on
+p at each of the chaotic current intensity. Namely, the Q exhibits a resonance-like dependence on
+p, implying the presence of an optimal network topology for each chaotic current intensity. While
+for a small chaotic current intensity (« = 0.3), the Q exhibits a small resonance peak at around
+p = 0.025 in the case of both electrical and excitatory autapse, the resonance disappears in the case
+of inhibitory autapse. For all types of autapses, the Q achieves its peak values at p=0.1 and at
+p =0.2, for moderate (¢ = 0.75) and for strong (¢ = 1.05) chaotic current intensities, respectively.
+When compared to the case without autapse (dashed lines), it is seen that the presence of an

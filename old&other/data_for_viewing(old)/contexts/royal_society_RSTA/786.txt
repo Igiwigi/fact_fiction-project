@@ -1,0 +1,25 @@
+
+Firstly, we need to make some observations. Note that the Born rule is invariant under
+any unitary action acting simultaneously on the measurement by conjugation and on the state.
+Therefore, if we have a quantum-realizable empirical model specified by a state |y) and a set of
+measurements X, then, given any unitary U, the empirical model specified by the state U|y) and
+the set of measurements UXUt = {UAUTt | A € X} is equivalent to the original one, in the sense
+that it assigns the same probabilities, which of course implies that it has the same contextuality
+properties.
+
+In the particular case when |y) is a stabilizer state for the subgroup S <P, and U is an LC
+operation, then the state U|) is a stabilizer state for the subgroup usut ={UPUt | PeS}.
+
+An important fact we shall need is that AvN triples are sent to AvN triples by such
+LC operations. The reason is that LC operations are composed of local unitaries that act as
+permutations on the set (+X, +Y,+Z}, and therefore preserve all the conditions of definition 4.1.
+
+We now show that AvN triples fully characterize AVN arguments for stabilizer states and that
+a tripartite GHZ state is always responsible for the existence of such an AvN proof of strong
+contextuality.
+
+Theorem 4.5 (AvN triple theorem). A maximal stabilizer subgroup S of Py is AUN if and only if it
+contains an AvN triple. The AvN argument can be reduced to one concerning only three qubits. The state
+induced by the subgraph for these three qubits is LC-equivalent to a tripartite GHZ state.
+
+Proof. Sufficiency follows from proposition 4.2. So, suppose that the maximal stabilizer

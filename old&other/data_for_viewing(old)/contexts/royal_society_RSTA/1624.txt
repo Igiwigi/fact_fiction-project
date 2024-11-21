@@ -1,0 +1,25 @@
+
+Theorem 2.1 (Weak Maximum principle). Let h:R* > R be an L'-Carathéodory map, which is
+T-periodic with respect to the first variable for a given positive T. Assume also that h(t, x,y,z) > 0 if x <0,
+for ae. t € Rand every y,z € R. Then, any T-periodic solution of (2.1) is non-negative.
+
+Proof. Assume the contrary and suppose that u is a T-periodic solution which is negative for
+some f € R. We have two cases. In the first one, we suppose the existence of fg such that u(fo) = 0.
+Define
+
+a=inf{s: u is negative in (s,f]}, b=sup{s: wu is negative in [E,s)}.
+
+It is clear that a,b are finite because u is T-periodic. One has that (a) = u(b) =0, u(t) < 0 in (a,b),
+and, due to the sign assumption on h, u is concave in [a,b]. These facts lead to a contradiction.
+In the second case, we suppose that u is negative on R. As it is not constant since h(t, u(),
+u(t —),u'(t))>0 for almost every t, we deduce that u is strictly concave contradicting its
+periodicity. a
+
+Theorem 2.2 (Strong maximum principle). Let : R* > R be an L'-Carathéodory map, which is
+T-periodic with respect to the first variable for a fixed T >0. Assume that, for any compact subset J of
+[0, +00), there exist a positive 5 and an L! map q such that
+
+Ih xy, Zl S q(x + |zI) (2.2)
+
+for a.e. t €[0,T], any x € R, |z| € [0,6] and any y in J. Then, any non-trivial and non-negative T-periodic
+solution u is such that u(t) > 0 for allt eR.

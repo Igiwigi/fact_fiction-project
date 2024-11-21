@@ -1,0 +1,25 @@
+whole partial. In addition, the Delaunay-based method confirms its ability to detect and render
+transients. Indeed, note the vertical structure centred around the attack time (0.05 s, figure 8c).
+
+Finally, an experiment was performed to reconstruct the harmonic and attack structure of
+the cello sound by applying the reconstruction technique, i.e. equation (3.3), with masking
+domains identified via the Delaunay technique. One can see the temporal representation of the
+reconstructed signal in figure 7b, which looks very similar to the original excerpt (cf. figure 7a).
+An auditory comparison confirms how close the two signals are to each other (cf. electronic
+supplementary material).
+
+
+In terms of post-processing, for both the RV and Delaunay-based methods, note that when the
+modes are harmonically related, one can benefit from the fact that the instantaneous frequencies
+of harmonic components are multiples of the fundamental frequency to gather together basins
+of attraction/mode domains associated with a given mode. Note also that this pertains to the
+problem of reconstructing trajectories of partials in the context of additive synthesis [30]. This is
+a topic that we will seek to address in the near future. A fruitful application for this harmonic
+identification/extraction is the separation of the noisy part from the pseudo-periodic part of any
+given sound. This is a key step in preserving the perceptual naturalness and in achieving high-
+quality results in advanced audio processing techniques such as time-scaling, transposition or
+sound morphing [31]. Indeed, one has to process differently the pseudo-deterministic part from
+the noisy part (e.g. for time-scaling and transposing sounds, the noisy attack part has to remain
+unchanged).
+
+5. Conclusion a

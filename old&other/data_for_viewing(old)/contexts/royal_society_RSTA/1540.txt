@@ -1,0 +1,25 @@
+SIM is that it can be applied to samples prepared for standard fluorescence microscopy without
+the need for additional sample preparation. It has no special requirements for the fluorophores
+used for sample labelling.
+
+SIM illuminates the sample with a periodic interference pattern with a periodicity close to the
+optical diffraction limit of the optical imaging system.
+
+A very important feature of SIM is the extremely efficient use of available photons, which,
+combined with high imaging speed and new evaluation algorithms, also makes SIM one of the
+most suitable techniques for live cell imaging.
+
+
+SIM bypasses the Abbe/Rayleigh limit by exploiting the fact that fluororphores (as opposed
+to scattering particles) react to excitation intensity by a proportional emission of incoherent
+fluorescence. Super-resolution is achieved in SIM by the illumination of the object with a periodic
+sinusoidal pattern. This multiplication in the spatial domain correlates to a convolution in the
+frequency domain. By this, spatial frequencies of details originally too small to be resolved by
+homogeneous wide-field illumination are shifted to lower frequencies that can be transmitted
+through the microscope optics. This creates several overlapping copies of the original Fourier
+transformed object. To separate these, several (usually three or five depending on the interference
+pattern creation method) phase-shifted images are acquired. To obtain close to isotropic resolution
+enhancement, the process is repeated several times for rotated gratings. For a two-dimensional
+image, typically 9-15 single wide-field images are used. For more details, please see [4,5,11].
+
+2.. Method

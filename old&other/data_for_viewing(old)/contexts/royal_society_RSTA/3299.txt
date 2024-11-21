@@ -1,0 +1,25 @@
+providing transition from the nano-length periodic pattern (described by the regular PFC :
+equation of the sixth order in space) to a monotonically smoothing mesoscale pattern (described
+by the AEq which already has the second order in space). This procedure is based on the
+renormalization group theory and was developed analytically by Goldenfeld et al. [5,6]. As a
+result of this procedure, one can formulate a physical meaning of the classical phase field as a non-
+conserved order parameter: the phase field is a smooth envelope of the atomic density maxima of
+a given crystalline symmetry. In this sense, properties of the phase field can be measured (in the
+form of its mobility, gradient factor and relaxation time) in natural or computational experiments.
+
+Shiwa [40] established a discussion about the correctness of the Goldenfeld et al. analysis [5,6]
+applied to the PFC equation for obtaining the respective AEq. First, Shiwa has found a small
+analytical mistake in the AGD analysis, which does not influence the final result for AEq [41].
+Second, Shiwa stressed the fact that the ADG analysis fails in the description of mode coupling.
+Mote specifically, because the PFC equation describes conserved dynamics, the amplitude of slow
+neutral modes at zero wavenumber should be coupled with the modes at the critical wavenumber
+behind which a homogeneous state becomes unstable. This second issue of zeroth mode for
+conserved dynamics has also been successfully resolved [42] in obtaining the AEq of the PFC
+equation.
+
+For practical use of AEgs, it is important to know what they are missing compared with the
+regular PFC equation. In addition to losing mode coupling [40,42], the other problem is the lack
+of barriers between boundaries [43]. AEqs are also missing instantaneous mechanical equilibrium
+(as is the full PFC equation) [44]. To avoid these inconsistences arising in the transition from the
+regular PFC equation to its AEqs, a more complete approach up to all orders of multiple scale
+expansion can be used (see Sect. III of Huang et al. [45]).

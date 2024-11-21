@@ -1,0 +1,25 @@
+Appendix B
+
+In this section, we show how to ensure a diagonal &’ matrix for the disconnected model when
+evaluating conditional GCs in a multivariate system. We denote the target variable index as t.
+First, we observe that each component of the matrix can written as
+
+P P P P
+(S)j=(%-Lan') -L yp m-Vain | @ode-DO Vo [i - VeAa] Apia.
+1=0 gj oA 1=0 ia axj k=1 1=0 ia
+(B1)
+The Yule—-Walker-like terms can be set to zero using (2.9) if they correspond to an unconstrained
+coupling coefficient and, at the same time, we can use the instantaneous matrix Ao’ to cancel the
+last two terms in the equation. We note that, given the fact that X’ is a symmetric matrix, we need
+only to force half of the elements to zero. In particular, we set Xj; =0 for j>i, i#t and at the
+same time Z;, =0 for i> t. This choice ensures that all the off-diagonal elements are vanishing
+and, at the same time, that the row index i is never equal to the target index r. This allows us to
+simplify the last term in (B 1) using (2.9), knowing that for i#7 the coupling coefficients (Ax’)ia
+
+
+are unconstrained. The two equations for the components of Y’ can now be written as
+
+Pp P
+viet Vi>i, (Z)j=(M-YAN]) -YLolm-Y an) Adda,
+1=0 Pn oT 1=0 i
+i ia B2)

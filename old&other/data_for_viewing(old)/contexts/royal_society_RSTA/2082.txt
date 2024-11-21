@@ -1,0 +1,25 @@
+visit a sufficiently wide region of the phase space, and the temporal average of the microscopic 1B
+variables will not coincide in general with the usual ensemble averages [35]. Another reason for : =
+not being ergodic in relation to classical equilibrium ensembles, or in the case of steady states, is :8
+that if the system is submitted to strong fluxes the region accessible to the evolution of the system : o
+in the phase space will be more restricted than that accessible in equilibrium, so that the temporal 8
+average will not coincide with the equilibrium ensemble average, and other kinds of ensembles : §
+will be necessary [9,11,12], leading to the need for a different kind of thermodynamics. : =
+N
+
+Generalized transport equations are needed for the description of heat, mass, momentum
+and electric transport in systems comparable to or smaller than the mean-free path of the
+corresponding microscopic carriers. Furthermore, one would like such equations to be compatible
+with the second law of thermodynamics. These apparently simple statements constitute, in fact,
+a complicated and debated program [1-12]. Three main questions underlying it are:
+
+(1) Is it truly worth the effort of obtaining mesoscopic transport equations, or would it
+be better to go directly to the microscopic level and work on the basis of computer
+simulations of the systems?
+
+(2) In which circumstances is the existence of mesoscopic transport equations conceptually
+consistent, meaningful and practically useful?
+
+(3) What is the form of the second law of thermodynamics at mesoscopic levels?
+
+Let us discuss briefly discuss these three questions.

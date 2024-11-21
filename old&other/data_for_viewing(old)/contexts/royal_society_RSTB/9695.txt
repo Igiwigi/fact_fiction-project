@@ -1,0 +1,25 @@
+publicly available network-biology platform (http: //cellnet.
+hms.harvard.edu/) written by Patrick Cahan with input
+from Hu Li and Edroaldo Lummertz de Rocha that has
+been tested extensively against both published datasets [23]
+and used within our own laboratory to enhance the in vitro
+production of several cell types [24]. At its core, CellNet is
+founded on the notion that cell- and tissue-specific gene
+
+
+regulatory networks (GRNs) are major molecular determi- enforced expression of KIf4/5 dampened liver marker | 4 |
+
+nants of cell identity that govern both the steady-state expression and fortified intestinal identity. Taken together,
+transcriptional programme as well as cellular responses to these data suggested that the iHeps might in fact be poised a
+the environment and to various contextual perturbations as bi-potential progenitors of endoderm fates (‘semi-colon’). s
+like disease and ageing. We reasoned that defining the Remarkably, these ‘semi-colon’ cells could be coaxed ever a
+status of GRNs within cells engineered in vitro would provide closer to intestinal fates by engraftment in a murine colitis 2
+a robust metric of cell identity as well as a means of determin- model. When the colon-engrafted cells were recovered and S
+ing which TFs were most dysregulated, thereby providing a analysed by CellNet, they showed a high degree of colonic epi- =
+plausible set of candidates to be further manipulated in thelial identity. Our laboratory is further applying CellNet to =
+future experiments. Using publicly available microarray optimize our efforts to convert pluripotent stem cells along ‘=
+expression data and a modified version of the Context Like- various blood lineages. s
+lihood of Relatedness algorithm [25], Cahan produced a CellNet (v. 1.0) has notable limitations. CellNet was =
+global GRN that defines regulatory relationships among all trained on microarray data, which are plentiful enough to pro- =
+annotated transcriptional regulators and target genes across vide adequate power to discover GRNs for many but by no S
+most cell types, and then refined these relationships into means all tissues. The current version of CellNet is powered -

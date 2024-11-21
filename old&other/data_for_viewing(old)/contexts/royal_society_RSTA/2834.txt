@@ -1,0 +1,25 @@
+map
+fe: Ve(t) > C
+pr (p(x))11 — (o(@))22 + ¥-1((o())a1 + (0(2))12)
+
+(where the subscript ij denotes the (i, /)th matrix entry). If sy = 0, then
+
+a be
+p(x)=|—b a d] €SO(3).
+efs
+
+But since p(x) € SO(3), we also have |c| = |d| and cd = 0, thus c=d=0. Similarly e=f =0, and
+so a2 +b? =1 and g=1; that is, p(x) € T. Suppose p(x) =0 for all x € {a1,...,dg,b1,..., bg}. Then
+p(a1),-- +, P(g), p(b1),.--, p(bg) € T. But then p(c) = Th, [e(aj), e(b;)] = 1 At, so in fact there are no
+such p in V(t). Hence the section (sy,,.. “1Sags Sbyr ees Sb.) of L®8 is nowhere zero, so C2g(L®8) =
+(ca(L)°8 =0. 7
+
+When n> 1, the combinatorics of the vanishing loci of the relevant sections becomes more
+complicated. The key idea in the proof of theorem 1.2 is similar to that in our earlier paper [14],
+but the combinatorics required in this case is more intricate.
+
+The outline of the rest of this paper is as follows.
+
+In §2, we prove the theorem for the case G = SO(5). As in [14], the proof begins by identifying
+specific products of Chern classes which must vanish because there are sections (constructed
+explicitly) of the relevant line bundles with no common zeros. The proof is completed by showing

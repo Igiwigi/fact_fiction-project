@@ -1,0 +1,25 @@
+3 and 4 (unlike in scenarios 1 and 2) in order to transfer power from remote areas to the load
+centre. In the first epoch when the investment cost of solar power generation remains relatively
+high, wind power plants are built in all scenarios.
+
+Table 4 presents the results per epoch and scenario determined by the risk-neutral stochastic
+model. In contrast to the above deterministic case, this table demonstrates that in no scenario is
+there any conventional network investment needed to cope with the uncertainty levels faced by
+the planner in the first epoch. Indeed, the model determines that epoch 1 is too early to decide
+whether to invest in a long power line (commissioned at the beginning of epoch 2) that may
+end up stranded under the realization of scenarios 1 and 2 where solar power emerges right at
+the location of consumption. Rather, the stochastic approach chooses to ‘wait and see’ and thus
+potential network congestions (under scenarios 3 and 4) are managed in the operational time scale
+through smart technologies such as FACTS/QB devices that can be chosen and quickly installed
+right in epoch 2. This solution is complemented later on with a battery storage plant to face larger
+amounts of wind power that materialize towards the end of the analysed planning horizon, also
+considering the drop in cost of batteries in the meantime.
+
+It is important to point out that table 3 shows the costs associated with the best expansion plan
+for each scenario considered by the planner to characterize the uncertain future. In contrast, the
+solution summarized in table 4 corresponds to the investment plan performing best on average
+for the scenario set under consideration. In other words, the costs reported in table 3 will only
+be incurred if the corresponding scenario actually materializes. Otherwise, the costs associated
+with such expansion plans may significantly differ should other scenarios occur. Moreover, the
+expected total costs for the deterministic solutions summarized in table 3 are greater than or equal
+to that of the optimal stochastic solution. Table 5 presents the total costs per scenario and the

@@ -1,0 +1,25 @@
+which minimizes the inequality, so an interesting non-trivial relation exists between 4 and p in
+this case. In figure 2b, we represent the Gini index as a function of 4. We start with p = 1, which
+represents the case of a universal assignment, where everybody receives the same share of the
+collected amount of taxes. The bottom line corresponds to an optimal value of p, that we call
+p =p" (A) (optimal targeted case, that is a function of 4). In this case, there is a minimum of the Gini
+index for 4 ~ 0.28 when the regulatory mechanism of helping just a fraction of the population is
+more efficient to reduce inequality. Remarkably, from lambda around 0.1 (10% of tax rate) and
+below, the Gini index increases abruptly, independently of the targeted population. The results
+shown in figure 2 are similar to those obtained in [26] (with random values of the risk factors),
+although numerically different.
+
+Keeping the constraint of wealth conservation, economic mobility is only possible through
+exchanges. Owing to this fact, a good indicator of social mobility is the averaged wealth
+
+
+(b)
+1.00 100
+0.75 0.75
+0.50G G 0.50
+0.25 0.25
+| Ho OL Par
+102 107! 1 0 025 0.50 075 1.00
+a »
+
+Figure 2. (a) Equilibrium Gini index as a function of the tax rate 2 and the fraction of poorest agents p. (b) Equilibrium Gini

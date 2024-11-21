@@ -1,0 +1,24 @@
+
+(533 — (pjps/p?))(513 — (pips/p*))
+[or + plo? + apt]
+
+CO, (p,@) (h(p, @)h(—p, -@)) . (3.11)
+It is now necessary to make the transition from lowest order perturbation theory to dressed
+perturbation theory by the standard techniques. This involves the following steps:
+
+(a) The self-energy, Green function and the correlation function in equation (3.10) are
+changed to their dressed counterparts X(k, w), G(k, w) and Ci(k, @).
+
+(b) It is assumed that the self-energy dominates the relaxation process (i.e. 2(k) >> (A, v)k?)—
+a fact that will be justified a posteriori for the inertial range. The relevant self-energy
+for relaxations is the zero frequency self-energy, i.e. we will be considering line shapes
+(fluctuation spectrum) to be Lorentzian.
+
+(c) There is only one time scale in the problem—i.e. the heat mode and the velocity mode
+decay with the same power law in the inertial range. This actually is ensured by the
+velocity nonlinearity, which in principle should have been present in equation (2.102)
+and will be discussed in §4. We write the full (dressed) relaxation rate of the thermal
+fluctuation as ";k” and that for the velocity as 2k’. The exponent z is expected to come
+out smaller than 2, which will justify dropping the * term in comparison to the k” in the
+inertial range, which corresponds to much smaller wavenumbers than the dissipation
+range.

@@ -1,0 +1,24 @@
+
+
+to be team optimal. The second setting is where they are non-cooperative, that is, that players are
+unable to communicate with each other. In this case, the right solution concept to apply is the
+Nash equilibrium, which would now be a profile x* such that
+
+G(x*) = G(xi,x*;),  Vxjp Xi.
+
+In the parlance of team theory, such a profile is known as being person-by-person optimal [18].
+Clearly, a team optimal profile is also person-by-person optimal.
+
+Though seemingly disparate, it is remarkable that team optimal and person-by-person optimal
+profiles can in fact coincide under fairly general assumptions. It is known [7,18] that if g is concave
+and continuously differentiable, and for each i € N, X; is closed and convex, then any person-by-
+person optimal profile is also team optimal. There are counterexamples showing that this relation
+is not true for problems lacking either concavity or differentiability of g; see [18].
+
+We now consider a team with shared constraints, that is, game {P},..., Pn} with gj = g=o for : =
+all i,j ¢ N. To the best of the author’s knowledge, this setting has not been studied before. Define 23
+RY? and Kj,i¢N as before. As was the case in games with shared constraints, defining the
+person-by-person optimum will become a subtle matter. mea)
+
+Definition 4.1. A generalized person-by-person optimum of the team {P1,...,Py} is a profile aS
+x* €C such that x* € R?(x*). Thus, it is a profile x* € C such that, for all players ie NV, [a

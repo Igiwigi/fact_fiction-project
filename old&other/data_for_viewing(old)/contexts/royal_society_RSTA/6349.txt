@@ -1,0 +1,24 @@
+Cand with two Si and four C atoms.
+
+squares over hexagons to octagons where the latter ones only appeared in combination with
+other rings due to topological constraints as octagons alone cannot form a complete periodic
+covering of the two-dimensional plane or a cylinder surface. Many of these structures, such
+as the combination of 8- and 4-rings and of 8- plus 6- plus 4-rings, have also been observed
+in the structure prediction of periodic pure two-dimensional-planar arrangements of Si and C
+atoms (figure 3); similarly, some structures are reminiscent of the projection of the B-BeO crystal
+structure into two dimensions, which also reveals 4-rings and 8-rings.
+
+In the mixed-system BepMg12_ O12 (n= 1,...,11) shown in figures 4 and 5, we again observed
+combinations of a multitude of ring sizes. Here, we remark that, in contrast to the planar
+Si/C system (figure 3), we did not observe 5- or 7-rings. This is presumably due to the fact
+that (a) the number of atoms inside the simulation cell was not large enough, and, more
+likely, (b) the positively charged Be and Mg ions prefer to establish isotropic surroundings by
+negatively charged oxygen ions in their nearest neighbourhood. In turn, these anions try to form
+a dense packing on the surface of the cylinder, which does not favour odd-numbered rings.
+Furthermore, a cylinder surface has zero mean curvature, and thus—in contrast to a sphere
+(c.f. the 12 pentagons in the C9 molecule)—we do not need to introduce 5-rings into a perfect
+hexagon-network, to fulfil Euler’s rule.
+
+Another related example that falls into the purview of structure prediction is the search
+for the optimal distribution of (identical) charged particles that are located on the surface of a
+

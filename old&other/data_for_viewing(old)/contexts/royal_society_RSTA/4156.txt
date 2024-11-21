@@ -1,0 +1,25 @@
+orders from an initial density operator i (i.e. after the excitation pulse), one may approximate the
+evolution operator with the Hamiltonian of equation (2.4) with a Trotter dynamics for a short time
+step, say 5f < 1/3d,d being the dipolar strength. Thus every process that involves the spin labelled
+as ‘0’, such as that described by If it or Ip qT, has an appreciably probability to occur in this time.
+Some important features of the evolution can already be appreciated. First of all, an interaction
+between two spins j and k requires a finite propagation time of the order 1/djx to become
+significant. Second, the evolution in successive time steps develops a nested hierarchy of quantum
+transitions. Thus, operators that reflect multiple quantum transitions arise simultaneously with
+the growth in the number of spins in the coupled cluster. The product of K-spin operators describe
+the modes in which K spins are interconnected, being able to generate numerous combinations of
+MQGCs, depicted in the Liouville space (n, K) [17,35]. Further details depend on the Hamiltonian
+
+and the selection rules. The key assumption behind the theoretical prediction resides in the fact Dos
+that the probability of achieving a given combination of spin operators rendering a final state : =
+depends only on the number of pathways leading to such state [17]. This can be assimilated to Sy
+a form of a multidimensional Galton board [44]. This is justified in a system with an appreciable 2
+number of interacting neighbours which remains more or less constant, where their interaction : &
+strength fixes a definite time scale. Thus, one expects that specific interferences become irrelevant 22
+and a probabilistic description is appropriate. Under this approach, the strength of each coherence : 8
+in the spectrum is directly related to the number of elements of the density matrix with a certain : S
+coherence order, given by a binomial distribution. According to this model, the spectral intensity : fea)
+of a n-quantum mode S,, is given by a combinatorial formula which has a Gaussian shape for : Fea
+
+large number of interacting spins K,
+S(n,K) ce" /K, (3.6)

@@ -1,0 +1,25 @@
+e (2.9)
+
+4
+) arccos (5 at =) .
+
+It is worth noting that the generating function can also be written as an integral,
+
+1/4 1 x
+F(q,n)= Al dx,/n+=-—,, (2.10)
+D Jay 2 4b
+
+
+where qo = 2b,/n + 3 In fact, this is the same generating function as the one for the canonical
+transformation from position and momentum to action angle variables, showing that the
+quadrature states |q) are formally equivalent to the position and |p) to the momentum of a particle
+in a harmonic potential.
+
+As a generating function of a canonical transformation, the derivatives of F(q,1) satisfy
+
+dFq,n) 1 A 1 \pl
+
+aq bY" 1 2 ae @114)
+and
+dF (q,n) ( q )
+- =~0. 2.11b

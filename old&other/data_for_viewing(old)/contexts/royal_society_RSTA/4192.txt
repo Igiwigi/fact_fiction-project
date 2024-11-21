@@ -1,0 +1,25 @@
+the traditional analysis of contextuality for the cyclic-4 systems. :B
+
+Theorem 6.5. A consistently connected cyclic-4 system (3.3) is non-contextual (by definition 6.4) if : s
+and only if (5.2) is satisfied. D4
+
+This is a special case of theorem 7.2 below, which in turn is a special case of a theorem proved : a
+in [5] (see also [1,2,4,21]) that applies to a broad class of cyclic systems, of which cyclic-4 ones are :&
+a special case. .
+
+7. A general definition and criterion of contextuality in the contextuality-by-
+default framework
+
+The fact that we relate definition 6.4 to the notion of maximal couplings for connections reflects
+the intuition we are guided by and suggests a natural way of generalizing contextuality beyond
+consistently connected systems.
+
+The intuition in question can be explicated as follows. For an inconsistently connected system,
+we interpret the non-coincidence of the distributions of Ri and RE as evidence that changes
+in context, c—> c’, ‘directly’ influence the measurement of q. For instance, in the Alice-Bob
+entanglement paradigm, if the two measurements are time-like separated, Alice’s choice of the
+spin axis can influence Bob’s measurement along a given axis. This is referred to as ‘signalling’. It
+is also possible that a Charlie who receives information from both Alice and Bob and records both
+their settings and their measurement results makes systematic errors in recording Bob’s results
+depending on Alice’s settings. This is referred to as ‘context-dependent biases’. Whatever the
+cause, when we model these ‘direct’ influences by a coupling {Ti To} of {RRO}, we translate

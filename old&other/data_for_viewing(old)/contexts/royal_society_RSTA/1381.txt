@@ -1,0 +1,25 @@
+'= > > ( [(Dytt)? + (Ds?) = (3.3)
+k=1 ij uj
+
+For both greyscale and coloured images, we can set up the regularizers (3.2) and (3.3) using the
+TotalVariation function in CIL. The optimization problem that we solve for the colour denoising
+is similar to (3.1) but using the VTV regularizer, i.e.
+
+1
+u* =argmin 5llb- uli} +aVTV(u), (3.4)
+wu
+
+
+where b is shown in figure 1b. One can observe that (3.4) is in fact the proximal operator (2.2) with
+t =1.0 evaluated at b. We solve (3.4), using the fast gradient projection (FGP) algorithm that is
+contained in the proximal method of the TotalVariation function.
+
+Proximal TV Denoising
+
+VIV = 0.15*TotalVariation (max_iteration=500)
+proximalVTV = VIV.proximal (noisy_data, tau=1.0)
+
+It is clear from figure 1 that noise is reduced, while preserving the edges of the image. However,
+TV is known for promoting piecewise constant reconstructions leading to images with blocky
+structures. This is called the staircasing effect and becomes apparent in smooth regions, see for
+instance the area around the rainbow in figure 1c.

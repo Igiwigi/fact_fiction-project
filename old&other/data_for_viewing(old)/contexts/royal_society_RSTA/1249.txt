@@ -1,0 +1,24 @@
+for the moments of order greater than one become decoupled from Mp. In both cases Mj (t) <
+My, tmax 0. [0, Tmax) and, by choosing € so that (@/yo) €%/° K; (Mi tray +1) <4;, we see that there are
+positive constants Do ;,D1,;, D2,;, D3; such that (3.38) can be written as
+
+d = =
+apMill) <Doj + DiiMi(f) + DoMia(f) +D3MeP", Fe [0,7 max): (3.39)
+
+i
+In particular, we immediately see that t+» M2(t) is bounded on [0, tmax). Then we can use (3.39)
+to proceed inductively to establish the boundedness of t +> M,(t) for any integer i (for the chosen
+initial condition) and, for non-integer i > 1 we use the estimate || fli < Illy] + Wf lltuij+ay-
+It remains to prove that ft» Mo(t) is bounded on [0, tmax) (in case (b)). Let us fix an integer
+i> max{1,/}. Using the fact that So Hf (x, t) dx < 0 and, by (2.24),
+
+x
+
+|, Sf (x, t) dx < 2b if aly)f(y, thw;i(y) dy <a ic t) dy + 2boR(t), (3.40)
+
+on [0, tmax), where @ = 2bpess SUP yc{0,x0] a(y)w;(y), for the zeroth moment we have
+
+d
+qo) <aMo(t) + 2boR(t),
+
+where we denoted R(t) = J a(x)f (x, t)w;(x) dx. Hence

@@ -1,0 +1,25 @@
+involves electromagnetic torques between the plasma and vessel wall that influences the flow
+evolution.
+
+The closer one positions the plasma to the operating limits, the more likely a disruption will be.
+Disruption avoidance strategies are being explored, but avoiding them altogether is a challenge
+wherever one chooses the operating point. The consequences are serious and constitute the main
+threat to the structural integrity of the tokamak—terminal failure of the device is a very real
+possibility if appropriate safeguards are not taken. First, the loss of control of the plasma during
+a disruption results in a high interaction with the wall, with extreme thermal loads that can cause
+melting. Second, a large fraction of the plasma current, several MA in the largest tokamaks, will
+flow through the vessel components as so-called halo currents. Given the Tesla-level fields that
+exist in the tokamak, this imparts huge forces on the vessel components and structure which
+the tokamak has to be designed to withstand. The problem is exacerbated by the fact that these
+currents do not flow uniformly, and their distribution may be related to the details of the nonlinear
+plasma structures associated with the MHD instability that led to the disruption. This makes it
+difficult to quantify the magnitude of the forces, but also the directions in which they will act.
+
+
+The third challenge is that very high electric fields can form in the plasma during a disruption | 10 |
+which will accelerate electrons to very high energy—so-called runaway electrons that can rapidly
+
+multiply via an avalanching effect. These can cause very serious damage to the tokamak structure 3
+if not mitigated. oS
+
+The most robust mitigation strategies revolve around sensing when a disruption is imminent : gS

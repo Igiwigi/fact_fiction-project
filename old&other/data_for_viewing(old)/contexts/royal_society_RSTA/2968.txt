@@ -1,0 +1,25 @@
+k 9 ~ 0.3757
+06 Tat ge OSS
+
+(6.12)
+
+(one recalls the definition kA k/k,). In [49], a similar problem was solved while explicitly
+removing the foundation from the formulation. The result obtained therein was ker kao 3(m v3 /d?)
+(keeping the notation and dimensions used in the present paper). One notes that the prefactor
+3 = 0.375 is very close to the value of 0.3757 obtained herein. Had we used ginf instead of &gm for
+the initialization of the LPT, we would have obtained exactly that result of a prefactor of 3. This
+means that, in [49], in essence the infimum for the Hamiltonian was used for initialization of ICs,
+instead of the RM Hamiltonian. It was possible there not to remain on the RM for the derivation
+of the critical coupling due to the fact that the critical coupling prefactor there did not depend on
+N. Thus, there is no jump at the limit of vanishing foundation, but rather a different choice of
+the initial point dictated by the dependence on N. However, had we not used a generalization
+of the underlying conditions of an LPT, and simply taken fi, =0, by analogy with what was
+done in [49], the numeric prefactor for the critical coupling would have been 3 = 0.4286, which
+is relatively quite far both from the value of 3 of the case of no foundation per se and the result
+given in equation (6.12).
+
+
+(a) (d) (c)
+
+3.0 3.0 3.0
+2.5 2.5 2.5

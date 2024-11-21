@@ -1,0 +1,25 @@
+This is the usual quenched KPZ equation [16,18,19]. It was expected that the scaling of the
+roughening transition equation (3.9) should be in the same universality class as the quenched EW
+equation, since the KPZ nonlinearity that is formally absent in the quenched EW equation should
+be automatically generated in the latter due to the highly non-trivial dependence of the quenched
+disorder on h [18,19]. However, several detailed studies indicated that the universal properties
+of the roughening transition in the quenched KPZ equation are different from those in the
+quenched EW equation [16,18,19]. Dimensional arguments as reported in [18,19] yield exponents
+at = (4 — d)/4, By = (4 — d)/(4 + d) in d-dimensions. In this limit, the dynamics of u, as given by
+
+
+equation (2.5) is driven by u that appears as a multiplicative noise, whose statistics is determined
+by the quenched KPZ equation. Note that, regardless of the nature of the solutions, the structure
+of equation (2.5) ensures that (du /dt) =0. This follows from the fact that (a) equation (2.5) is
+linear in u, implying invariance under u, — —u_. Thus, (u,) should be bounded, unlike (u)),
+which continuously grows, reflecting the average motion of the crackfront in the longitudinal
+direction. We are interested in the scaling of u_. As in (3.7) and (3.8), notice that with B) 4 B.,
+wave terms in both (2.4) and (2.5) cannot be removed. Equivalently, there is no frame where both
+the waves vanish.
+
+Notice the formal similarity (in the mathematical structure) of equation (2.4) the Navier-Stokes
+equation for fluid flows and the Burgers equation for pressureless fluids (related to the KPZ
+equation). Then, in analogy with the studies on fluid turbulence and depinning of contact lines,
+for sufficiently large applied force F| above the threshold of depinning, u)(x, f) is turbulent, i.e.
+the equal-time correlator ([uj(x, t) — u(x’, t)) scale qualitatively similarly with the same for the : =
+velocity in fluid turbulence. Thus, 11) (x, f) should be a long-range field. Now in the limit, when 1) 3

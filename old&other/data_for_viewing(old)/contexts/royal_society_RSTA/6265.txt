@@ -1,0 +1,25 @@
+These remarks might suggest asking a different question: ‘Under what prior is the lasso
+estimate the posterior mean’? I believe the answer to this is that no such prior exists. Because
+of this I tend to think of the lasso as not really corresponding to a Bayesian procedure, at least
+not one that I would defend. This does not imply that lasso is not useful in practice, but it does
+make it harder to use Bayesian arguments to deduce under what situations it might be expected to
+perform well. Of course, there is extensive frequentist theory to help guide us here; [31] provides
+a brief review and some numerical studies.
+
+3. Bayesian blinkers
+
+Historically, debates over the relative merits of Bayesian versus non-Bayesian methods have often
+been heated. While I like to think that we have gotten over the worst of this, there remain,
+undoubtedly, some statisticians with entrenched positions. Furthermore, the fact of the matter
+is that we all come to a problem with our own set of tools that we feel comfortable with. Thus,
+in some cases Bayesian methods may be used either because of philosophical intransigence, or
+simply lack of knowledge or due consideration of possible alternatives. (And, of course, the same
+applies to non-Bayesian methods.)
+
+I myself have made extensive use of Bayesian methods, and most of my work has a Bayesian
+component. However, I have learned from experience that not all problems need to be tackled in
+a Bayesian way. In particular, it is sometimes worth compromising between statistical principle
+and computational practice. In this section, I discuss two examples where, perhaps, my ‘Bayesian
+blinkers’ lead me to ignore other possible approaches. Certainly, they are examples where I
+tackled a problem in a Bayesian way, but now typically use non-Bayesian approaches for these
+problems.>

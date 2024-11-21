@@ -1,0 +1,25 @@
+pipeline including four components: face detection, face
+registration, appearance-based face representation and classi-
+fication. This method was tested on three children with
+ASD, and achieved good emotion recognition performance
+especially for happiness and sadness.
+
+Robust facial expression recognition is technically challen-
+ging, especially if there is no control over illumination
+conditions and the age range of the intended participants is
+large; the latter is particularly problematic if young children
+are considered to be included, as facial expression datasets
+generally contain only adult participants. The technical chal-
+lenges are compounded by the fact that expression
+recognition needs to be carried with real-time processing
+speed on a standard computer. With TeachMeEQ, we
+intended to do multiple live demonstrations in different
+locations and include children as well as adult participants.
+This required us to build a robust facial expression recog-
+nition pipeline. Three technical improvements have been
+critical to achieve this and to reach high accuracy: (i) using
+(neutral) features based on an initial calibration stage, (ii)
+using illumination-normalized spatio-temporal Gabor fea-
+tures and (iii) combining appearance and shape features.
+Those improvements and our facial expression recognition
+pipeline are discussed in more detail in §3bi.

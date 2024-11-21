@@ -1,0 +1,25 @@
+frequency rather than in space. We note that the lowest group velocity for useful C-points is
+Ug © c/6, corresponding to when the waveguide supports a single mode.
+
+Our analysis of C-points in the slow-light regime highlights some of the difficulties to be
+overcome to exploit chirality in quantum information applications. Both photonic crystal designs
+considered here can provide useful functionality only down to very modest slowdown factors
+
+
+of vg *c/10. The mechanisms that cause the annihilation of the C-points in the waveguides
+considered here are likely to be generally applicable to other photonic crystal and slow-light
+designs. However, we believe that alternative designs can be found to extend this useful range
+down to smaller group velocities, thus enhancing the light—matter interaction with the local
+chirality. In fact, it would be interesting to examine how to quantify the trade-off between the
+increase in LDOS due to smaller group velocities and the directionality given by the local chirality
+in the waveguide.
+
+Authors’ contributions. B.L. conceived of the main arguments, performed the simulations and contributed to
+drafting the manuscript. D.M.B. supervised the project, developed the main arguments, aided with the
+simulations and led the writing of the manuscript. R.O. coordinated the study and proof-read the manuscript.
+All authors gave approval for publication.
+
+Competing interests. We declare we have no competing interests.
+
+Funding. This work has been funded by the project SPANGL4Q, under FET-Open grant no. FP7-284743. R.O.
+was sponsored by the EPSRC under grant no. EP/G004366/1. D.M.B. acknowledges support from a Marie

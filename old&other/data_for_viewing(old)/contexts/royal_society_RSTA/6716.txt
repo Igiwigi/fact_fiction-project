@@ -1,0 +1,25 @@
+element a¢ © primitive for S/q* over R/p, which may be chosen so that «40 mod q. Any
+element congruent to « mod q’ shares these properties. It can therefore be arranged that
+a«=0mod bh, and further that « be a primitive element for L over K. Hence S = R[a] +8
+and aq’ <pG, so that eS oR[a] +p. By a trivial induction «"S ¢ R[a] +p" for all r>1
+Taking ¢(a) on R = p‘a (where >0,acR,a¢p), it follows that
+
+alg, SoR[a]+ap'SeR[a]+c(a) So R[x].
+Thus a!+!q <¢(«), whence ¢(a) €q.
+
+THEOREM 3. Assume that S is integrally closed, R a v-Z.P.I. ring, and that the quotient field of
+GS/q is separable over that of R/(qo KR), for every minimal prime ideal q of S. Then e = S:d.
+For any minimal prime ideal p of R, R, is a Z.P.I. ring, and the same is therefore true of
+G,. (In fact, both are principal ideal rings.) By the theory of quotient rings (Grell (19274);
+also in §13 of Grundy (1942)), every non-null prime ideal of S, has the form qG,, where q
+is a minimal prime ideal of G such that qn R = p. It is also a standard result, formulated
+more exactly in (4.4), that the structure of the quotient fields of R/p and G/q is the same as _
+that of the fields R,/pR, and S,/qS,. Thus R, and G, satisfy the conditions of Lemma 1.
+Since always de < G, it is only necessary to prove that G:D<e; consider any fe S:D.
+For every minimal prime ideal p of R, #.0S, <G,. By (1.7) and Lemma 1, f belongs to the’ ,
+t AZ.P.I. ring is an integrally closed domain in which the (maximal and) weak minimal conditions hold—
+cf. Krull (19395).
+A v-ideal of an integral domain p is an p-ideal a such that 9:(0:a) =a. On v-ideals and v-Z.P.1. rings,
+see Krull (1939, 1935), and chapter xiv of van der Waerden (1931). Any v-Z.P.I. ring is totally closed, and
+is the intersection of its quotient rings with respect to its minimal prime ideals; and every such quotient ring
+isa Z.P.I. ring. If R is a v-Z.P.1. ring, and S integrally closed, then © is a v-Z.P.1. ring (Krull 19394, n. 17).

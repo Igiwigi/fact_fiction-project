@@ -1,0 +1,24 @@
+available data. After a model is retrieved, additional data are collected and each trace, i.e. each
+sequence of related activities in data, is replayed on the model. If differences are detected when
+replaying the event log on the model, then a fitness parameter is determined in order to compare
+it with a specified threshold. When a single trace in the event log has too many differences when
+replayed on the model and thus a low fitness parameter is extracted, then the system is classified
+as misbehaving.
+
+In addition to formal models needed to recognize threats, anomaly detection also requires
+specific architectures to collect and vehiculate relevant data. In the field of IoT, a layered approach
+can be used to decompose functional aspects. In particular, a layer known as middleware can be
+used as an application enablement platform, i.e. to integrate external applications and ensure
+requirements such as interoperability, persistence and analytics, context awareness, resource and
+event handling, etc. In fact, loT devices are normally unable to perform resource-intensive tasks.
+To that end, some researchers have introduced the concept of the cloud of things, extending
+the IoT with cloud computing services [30]. As already mentioned in the previous section and
+highlighted in reference [30], using cloud services to enhance CPS resilience via DT requires
+taking into account issues related to bandwidth, connection unavailability, latency, data validity,
+security, etc. The authors of [30] propose a set of requirements that a service-oriented middleware
+must satisfy to provide self-management mechanisms such as self-configuration, self-healing and
+self-optimization of service providers, which also support IoT anomaly detection. Additional
+edge-fog-cloud computing architectural paradigms for anomaly detection can be found in [31,32],
+where a detailed explanation of specific functionalities of each platform and a description of the
+specifications that each device should have to be employed in a certain layer are explored and
+properly motivated.

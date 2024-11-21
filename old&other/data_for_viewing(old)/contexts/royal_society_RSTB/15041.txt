@@ -1,0 +1,24 @@
+promising approach to solve sequential problems under Endnotes
+
+uncertainty, while sidestepping the need to define a set of ‘Some authors distinguish between model uncertainty that is ‘struc-
+candidate models or effectively refine our belief in those tural’ in nature, e.g. if recruitment follows a Ricker-shaped curve or a
+
+saa: . Beverton-Holt-shaped curve, versus uncertainty that is only of a
+models. Here we highlight recent advances in RL methods ‘parametric’ nature—e.g. the value of initial growth rate r in a
+
+that overcome several limitations—such as high-dimensional Ricker model. In practice, the lines are blurry as it is often possible
+spaces, imperfect models and lack of accurate simulators— for a structurally flexible enough model to represent both families
+that have prevented adaptive management from moving of curves in terms of the choice of some additional parameters. In
+
+fact, the deep neural networks underlying most of modern machine
+learning including RL-based methods owe their success to being pre-
+cisely such highly flexible function approximators. The key
+
+beyond theory in complex situations. Simultaneously we
+underline key priorities for RL—such as robustness, safety
+
+and multi-objective rewards—to enable its effective and observation of model-free RL is that the functions we seek to approxi-
+
+responsible deployment for ecological decision-making. mate are not the process itself—the probability from any possible
+
+current state to any possible future state under any possible

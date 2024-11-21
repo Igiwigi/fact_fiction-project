@@ -1,0 +1,24 @@
+is most easily obtained from an examination of the elements of the reciprocal matrix A“,
+
+the solution of (B. 2) being given by
+ian. (B. 3)
+
+Now consider, as comparative examples, the solution of the sets of finite-difference equa-
+tions typified by (A.6) and (B.1), representing respectively the plane-harmonic and
+biharmonic equations, for the particular square boundary and mesh points shown in figure 9,
+with symmetry about the axes and diagonals of the square.
+
+It is assumed in each case that w is zero on the boundary, and that for the biharmonic
+equation the normal derivative also vanishes there. Application of (B.1) at points adjacent
+to the boundary introduces one fictitious external point, which, using the derivative condition,
+is approximately equal to the corresponding internal point. For both problems then a set of
+
+Ficure 9
+
+simultaneous equations is obtained, one for each of the points numbered 1 to 10 in figure 9.
+In equation (B. 2) the matrix A is composed of the coefficients of these equations, the vector
+w has components w,,...,W 9, and the vector b is composed of the quantities 42f(x, y) or
+h'f(x,y), that is, the initial residuals evaluated at the corresponding points.
+
+Table 2 gives the computed elements of the matrix A~! for the biharmonic case. The
+inverse matrix for the harmonic equation is given in table 3.

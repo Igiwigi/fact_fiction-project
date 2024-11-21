@@ -1,0 +1,25 @@
+
+In QBism, quantum states are represented by density operators p in a Hilbert space assumed
+to be finite dimensional. A measurement (an action taken by the agent) is described by a POVM
+H= (Hj), where j labels the potential outcomes experienced by the agent. The agent’s personal
+probability q(H;) of experiencing outcome j is given by the Born rule
+
+(Hj) = Tr pH}. (3.1)
+
+The main achievement of QBism is the demonstration that this operational rule (which was
+postulated by Born and which origin remains one the main mysteries of QM) can be treated as
+a generalization of classical PU.°
+
+In fact, this is generalization of Jeffrey conditioning [59,60], see §2, the transformation (2.5). But it seems that QBists have
+never paid attention to coupling of QBism with Jeffrey’s conditioning.
+
+
+One of the basic points of QBism is that the agent’s reference measurement is an arbitrary
+informationally complete POVM, E = (Ej), such that each E£; is of rank 1, i.e. is proportional to a
+one-dimensional projector 7.” Because the reference measurement is informationally complete,
+any state p corresponds to a unique vector of probabilities q(E;) = Tr pE;, and any POVM F = (F))
+corresponds to a unique matrix of conditional probabilities p(H;|E;) = Tr Hj/7;. QBists formulated
+the following statement of a high intrepretational value: the Born rule can be interpreted as one
+special form of transformation of probabilities:
+
+(Ay) =f (q(Ei), p(HlEi))- (3.2)

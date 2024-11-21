@@ -1,0 +1,25 @@
+we do not attempt to get the optimal «, it is enough to do this only for some discrete set of h,
+which has 0 as its limit point and has the property that neighbouring h differ at most by a factor
+of 2. In practice, we will eventually restrict our attention to values of such that h°-1/? is an
+integer, where the value of 6 is close to 0. To simplify the notation, we drop the subscript / from
+the deformation to be constructed, writing (u, w) rather than (uj, wp).
+
+Our construction is guided by the proof of the lower bound. The basic idea is to modify the
+minimizer (vj, @),) of Fy, by wrinkling where necessary, and estimate the increase in the energy
+due to wrinkling. Using (3.14), the amount of arclength we need to waste at each circle (together
+with the optimal length scale of wrinkling) can be read off from (vj, wp). Nevertheless, learning
+from the proof of the lower bound we anticipate that we should not really use wrinkling with the
+optimal period, as it will be costly to change this period too often—B(r) would then be too large
+(in fact of order O(1)). Anyway, as we explained in §2, it is not necessary for the wavenumber k
+to take the ‘optimal’ value att yyh at radius r. Rather, what matters is that |hk/r — a! ¢/kh| be at
+most of order h/?. We shall achieve this by making the wrinkling modes appear /disappear over
+length scales of order h!/. It takes some time to motivate the construction. We shall explain the
+key ideas in two passes.
+
+First pass. Our first pass is unsuccessful, but still informative. As noted above, we propose to
+use just choices of k that are integer multiples of h~1/?, changing from one k to the next on a
+length scale of order ’/?. As the amplitudes of the modes change over scale h/?, one finds
+after some calculation that B(r) is of order h (which is acceptable). But what does it mean to
+‘change from one k to the next’? The obvious (though ultimately unsuccessful) idea is to use
+‘building blocks’, as done for example in [13,20,21]. The building block between two radii (say,
+r, and rz) would have single-mode wrinkling at the two extremes (r=r, and r=r2) and a

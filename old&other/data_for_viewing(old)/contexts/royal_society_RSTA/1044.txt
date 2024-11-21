@@ -1,0 +1,25 @@
+Conversely, we now consider a strain energy of the form
+
+WF )=f(4© — 3) + gi — tr), (6.3)
+
+where J; = tr(SQ), and the functions f and g must be such that the energy density (6.3) satisfies the
+ISCC (4.7) and g is non-constant. If the material is initially unstressed (i.e. $ = 0), the strain energy
+density (6.3) defines a general isotropic nonlinear elastic response and the material symmetry
+group is given by
+
+Go = 07 (R%).
+
+However, if we consider an initial stress 5 = aM @ M, where M is a unit vector, we observe a
+change in the nature of the material symmetry group. In fact, considering that
+
+tr(50'CQ) = tr(SQ), VFeD —> OM=M,
+the material symmetry group Qs is given by
+Gs= {ac o*(R*)|aM =m},
+
+so that the material is no longer isotropic but transversely isotropic.
+
+Thus, if the material does not satisfy the ISRI, the material symmetry group Gs is not conjugated
+with Go and it is not possible to obtain the material symmetry group Go by an elastic distortion of
+the material. In other words, if the ISRI condition is not fulfilled, the body may change its material
+symmetry group depending on the imposed initial stress field, leading to a modification of the
+material response.

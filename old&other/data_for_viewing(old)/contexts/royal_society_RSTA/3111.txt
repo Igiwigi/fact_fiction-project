@@ -1,0 +1,25 @@
+In §2, I will briefly review the theory that leads to a five-moment description of
+hydrodynamics. These are standard results that cover the definition of the macroscopic variables,
+the derivation of the balance laws and the form of the probability distribution function (PDF) at
+each spatial point. In §3, I will address the following question:
+
+If every point of a finite volume has a (local) equilibrium PDF for velocity with spatially
+varying parameters of density, bulk velocity and internal energy, what is the form of the
+PDF for the entire volume?
+
+I will show that the volume-averaged PDF explicitly depends upon the spatial gradients even
+though those gradients are absent from single-point distributions. In §4, I will perform the
+spatial averaging of the balance laws over finite volumes. That averaging is complicated by the
+nonlinearity of the equations and by the fact that the velocity field is not necessarily smooth on
+length scales of the mean free path.
+
+The remarkable result of all these calculations is that the macroscopic equations are precisely
+those derived in [4] by finite-scale coarse-graining of the NSE. In §5, I will describe their relation to
+the regularized Euler equations that form the basis of most numerical simulations of fluid flows.
+I will also describe an important property of those equations, enslavement, which indicates that
+some large-scale features of a flow may control the smaller-scale mechanisms of dissipation. I will
+conclude the paper in §6 with a short summary.
+
+2. Balance equations
+
+A derivation of hydrodynamic equations from the viewpoint of statistical physics begins with

@@ -1,0 +1,25 @@
+delocalized in the original and its adjacent chain. The two-step mechanism, however, involves
+an intermediate charge-transfer state, which subsequently transforms into a TT pair similar as in
+polycrystalline pentacene [36]. In the DOO-PPV polymer, the fast thermalization process of the
+hot singlet exciton substantially reduces the SF yield. As we can see from figure 3a, the additional
+triplets generated with excitation at 3.5 eV are only approximately 40% more than those generated
+through ISC which is known to be rather small in any case.
+
+As shown in figure 3b, the EXPA() spectrum of the non-luminescent polymer PDA shows a
+flat response with onset E = Eg = 2.25 eV, which is similar to DOO-PPV solution. It is tempting
+therefore to assume that the triplet excitons in PDA are generated only by ISC, same as in DOO-
+PPV solution. But previous time-resolved and steady-state measurements [16,23] showed that the
+triplet excitons in PDA are generated within approximately 0.5 ps, which is too fast for an ISC
+process. We thus believe that in fact SF dominates the triplet exciton photogeneration process in
+PDA polymer chains. So how can we understand the EXPA(w) flat response here? The answer to
+this puzzle is the low triplet energy in PDA. The triplet energy Ey in PDA was measured to be
+Ey ~ 1.1 eV [16,23,24]. As the optical gap is Eg ~ 2.25 eV > 2Er, the intrachain SF process in PDA
+is exothermic; and this explains the EXPA(@) flat response starting at E > Eg. Our conclusion is
+also supported by the following MPA studies.
+
+To try evaluating the fraction of triplet excitons generated from ISC and HE-SF processes in
+DOO-PPV film, we studied the triplet MPA(B) response with pump energy E < 2Ey and E > 2Er,
+as shown in figure 4a. For the MPA measurements, we adjusted the excitation intensities so that
+the absorbed fluxes of pump photons at the two used wavelengths, namely 2.54 eV and 3.06 eV,
+are equal to each other. For this purpose, we took into account the different photon energies
+and film optical absorption at these two pump wavelengths. This manoeuvre was done in order

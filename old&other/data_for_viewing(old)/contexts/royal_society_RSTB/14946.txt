@@ -1,0 +1,25 @@
+
+Figure 4. (a) Generalized Robinson—Foulds (RF) distances of NJ (orange), UPGMA (dark blue), parsimony-based (light blue) and molecular-based (green) trees from
+the reference molecular phylogeny, compared with the density distribution of distances of a randomly generated sample of 10 000 random trees (purple curve). (6)
+Generalized RF distances of trees based on discrete data (red), compared with the above trees reduced to the same sample. ‘pruned’, discrete-based parsimony trees
+derived from a larger sample and pruned to the dataset matching the GMM data; ‘subset’, discrete-based parsimony trees derived from a dataset matching the
+species in the GMM dataset. (Online version in colour.)
+
+worse in our discrete character-based tree comparisons, relatively conservative [84] basicranium of marsupials and
+although these performed better than most GMM-based other metatherians.
+trees overall. The intricate topology of the basicranium also highlights
+It is possible that evolutionary conservatism of the basicra- the different properties of GMM versus discrete data acqui-
+nium—the very feature that makes it a popular choice for sitions, as outlined in the Introduction. Discretization of
+discrete character scoring—in fact reduces the phylogenetic morphological characters draws unambiguous distinctions
+information reflected in this region. Ina GMM context, a con- between one morphology and another, and is easier when
+served or constrained morphology would result in less variability is relatively straightforward to encode (e.g. pres-
+available shape variation (as seen in the lower disparity of ence/absence, or single dimension). This is certainly the
+the Basicranium compared with the Rest of Cranium partition) case for the basicranium: for example, in terms of discrete
+and less freedom for landmarks to vary relative to each other. basicranial characters, diprotodontians are different from per-
+The lower phylogenetic signal in the basicranium is also con- amelemorphians, and dasyurids are highly distinct compared
+sistent with the expectation that it has highly integrated with didelphids [5]. By contrast, peroryctid peramelemor-
+constituent parts that are not free to vary relative to each phians, most didelphids, and Thylacinus share a somewhat
+other through evolutionary time. High integration has been similar auditory region in terms of the relative shapes and
+shown to substantially reduce phylogenetic signal in simu- sizes of the tympanic processes of the alisphenoid and petrosal
+
+lations [19], and this effect might be particularly strong in the [5] and might therefore be expected to cluster together. Thus,

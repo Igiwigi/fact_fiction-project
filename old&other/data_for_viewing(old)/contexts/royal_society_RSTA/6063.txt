@@ -1,0 +1,25 @@
+response to stimuli, some researchers proposed the inclusion of higher order gradients in the
+basic postulates of elasticity [16-18]. First, when referring to these new postulates the materials
+were called non-simple, but now the theories including the second gradient of the displacement
+(or the second gradient of the volume fraction field, or both of them) in the set of independent
+constitutive variables are called strain gradient theories.
+
+On the other hand, a lot of attention has been paid recently to the Moore-Gibson-Thompson
+(MGT) equation, which arises in acoustics and accounts for the second sound effects and the
+associated thermal relaxation in viscous fluids [19-21]. Some authors track the MGT equation
+until the work of Stokes [22]. Regardless of its first appearance, the use of the MGT equation in
+the viscoelasticity theory seems to produce a model which is considered to be more faithful to
+reality than the usual Kelvin-Voigt (KV) model for the linear deformations of a viscoelastic solid
+[23-25]. In fact, the linear KV viscoelasticity allows the instantaneous propagation of the
+mechanical waves (see [26], p. 39), which contradicts the causality principle. However, the waves
+in the MGT equation propagate with finite velocity [27].
+
+In this work, we study a linear porous-elastic problem including three possible MGT
+dissipation mechanisms: two of them assumed to be on the displacement (leading to the
+viscoelasticity and hyperviscoelasticity cases), and the third one on the porosity (leading to the
+weak viscoporosity case). Existence and uniqueness are proved for the three cases by using
+the theory of linear semigroups. Generically, the energy decay is shown to be polynomial.
+Nevertheless, there is a particular choice of the constitutive parameters in the hyperviscoelasticity
+case that produces the exponential decay.
+
+The structure of this paper is as follows. In the next section, we recall the evolution and

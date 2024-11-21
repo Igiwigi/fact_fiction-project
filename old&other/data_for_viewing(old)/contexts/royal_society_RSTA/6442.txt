@@ -1,0 +1,25 @@
+of its neighbours [35]. This approach was left aside for circumstantial reasons until 1958 when : =
+Ericksen & Truesdell [36] raised attention over it as a fruitful view for building up direct models :3
+for shells, rods, and their like [37-41] (see also related works [42,43]. Starting from 1960, Ericksen : =
+himself adopted that ‘philosophy’ of considering every material element as a system rather ZR
+than a point to represent the dynamics of liquid crystals, above all those showing nematic [3
+order [4447]. Essentially, the idea was to couple strain with phase-fields adopted in condensed :3
+matter physics (see the extended critical review [48]) to describe microstructures. The approach : S
+generated a rich crop of proposals for the description of various physical circumstances in which :&
+microstructural events have gross-scale effects (porous bodies, liquids with bubbles, ferroelectrics, ma
+
+magnetostrictive materials, etc.). It was thus evident that a view considering the construction
+of a mechanical model to be reduced only to a selection of special constitutive relations is at
+least restrictive. The construction of a mechanical model starts, in fact, from the way we decide
+to describe the morphology of a body and its changes, which influences the representation of
+actions, and thus affects the choice of constitutive structures. A foundational problem concerning
+the wide taxonomy of specific models was thus to find whether they could be considered as
+offspring of a common ground. A proposal in this sense by Germain dates back to 1973 [49]: he
+considered descriptors of the material morphology in a linear space and the principle of virtual
+work as a guiding rule. In so doing, he assumed a priori the weak form of balance equations,
+which presumes the representation of microstructural interactions; then, he did not use per se such
+weak form (namely for determining existence of weak solutions to boundary value problems or to
+develop pertinent numerical schemes), accepting the regularity implying local balance equations.
+
+In a 1989 book [50], Capriz summarized and pushed forward aspects of his previous work
+on this matter (e.g. [50-53]) and proposed a concrete unifying framework in which descriptors

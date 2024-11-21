@@ -1,0 +1,25 @@
+the OpenGL Utility Toolkit (GLUT) that provides a portability layer shielding
+programmers from operating system and window system dependencies, in
+the traditional OpenGL software stack. It is necessary, therefore, to rewrite the
+application, although the work involved in doing so is fairly minimal. Window
+creation, viewport/camera management and input handling are all different from
+GLUT. The benefit is that one can write an application that works on a desktop
+or a display wall, with no need for modification to the code. A configuration file is
+supplied at run-time that describes the system in use, and input and shared
+variables are distributed among the cluster nodes. Our experience with
+VR JuGceLer has been very promising. The effort required to convert a program
+is minimal, and the process is well-documented. Since the geometry and resulting
+rasters are generated separately on each node, VR JUGGLER has the advantage of
+greatly reducing network traffic, compared with Curomium. In fact, the minimum
+traffic required with VR JUGGLER is of the order of hundreds of bytes per frame,
+which is unproblematic.
+
+4. Application: histology image viewer
+
+An OpenGL image viewer was created, which can load an image and render it on
+the wall using VR Juccier. Application of compressed textures was also explored
+as a way of reducing memory usage of the graphics cards, although this either
+places a burden on the graphics cards at run-time (causing stuttering) or requires
+a pre-processing step. The largest image tested thus far was an example with
+170 000 X 100 000 pixels (or 17 Gpixels), although there are no architectural
+limits other than those imposed by the use of the TIFF format. Images are first

@@ -1,0 +1,25 @@
+detachment : recruitment ‘ nucleotide exchange
+
+Figure 4. Mutual recruitment of Cdc42 and Bem1—GEF complexes is the core mechanism of Cdc42 polarization. (a) The interaction network of Cdc42, Bem1 and
+GEF (Cdc24) can conceptually be simplified to two key processes: Bem1—GEF complexes on the membrane recruit Cdc42-GDP from the cytosol, which is followed by
+immediate nucleotide exchange (conversion to Cdc42-GTP). Reversely, Cdc42-GTP recruits Bem1 to the membrane, where Bem1 immediately recruits Cdc24 to form
+Bem1—GEF complexes. (b) A local accumulation of Cdc42-GTP thereby acts as recruitment template for Bem1—GEF complexes (1), creating an attachment zone for
+Bem1—GEF, while detachment of Bem1—GEF dominates in zones of low Cdc42-GTP density (2). Bem1—GEF complexes then accumulate in their attachment zone.
+This accumulation acts as a recruitment template for Cdc42 (2), creating co-polarized attachment zones of Cdc42 and Bem1—GEF (1’) and (2’). (c) Taken together,
+the mutual recruitment processes establish and maintain Cdc42 polarization.
+
+accumulation of MinD and MinE on the membrane through figure 5). Rebinding of MinE to the MinD-—MinE attachment
+recruitment. The recruitment of MinD shifts the attach- zone at the tip of the polar zone is favoured owing to the
+ment—detachment balance towards further attachment. By faster recruitment of MinE and the fact that MinD is tempor-
+contrast, the recruitment of MinE shifts this balance towards arily inactive after detachment. This leads to the progressive
+detachment. The structure of a polar zone is such that MinE is conversion of attachment zones into detachment zones
+accumulated in the form of MinDE complexes at its rim owing to the shifting balance in favour of MinDE complexes
+(sometimes called the ‘E-ring’), whereas MinD accumulates (detachment) (figure 5).
+at its tip (see figure 5 panels (2) and (4)). Below we will discuss that the inactivation of MinD upon
+A theoretical analysis of Min protein dynamics revealed MinE-stimulated hydrolysis is essential for the establishment
+that self-organized Min protein pattern formation is based of intrinsic length scales and for the dependence of the
+on two requirements [30]: the total copy number of MinD pattern-forming process on cell geometry.
+must exceed that of MinE, and the recruitment rate of MinE Biochemically the Min system of E. coli and the Cdc42
+must be larger than that of MinD. The first condition ensures system of S. cerevisiae, are closely related: both MinD and
+that all of the MinE can be bound as MinDE complexes on Cdc42 are NTPases regulated by enzymatic proteins such as
+the membrane (MinE-MinD detachment zone, panels (2) NTPase-activating proteins (NAPs), even though the regu-

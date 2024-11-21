@@ -1,0 +1,25 @@
+
+While the term aftershock might imply ascertained causality between earthquake event
+pairs, the seismologic literature is ambiguous and unsettled as to its definition. Attempts at
+classifying aftershocks in earthquake catalogues have relied on simple space-time windowing
+approaches [4,5]; single-link graphs based on a distance metric [6]; a context-dependent game-
+theoretic combination of above methods [7]; evolving random graphs based on windowing
+[8,9]; and a pair-wise nearest-neighbour rescaled space-time-magnitude metric derived from
+phenomenological laws [10]. The latter was refined [11] to include a threshold separating
+strongly correlated and background events, which emerged from the bimodal distribution of
+the nearest-neighbour metric and has since been applied in numerous studies [12-16] with some
+variations.
+
+It is to be noted that all the above-mentioned tools are in fact statistical, which simply try to
+assign a correlation between the events, with causality itself being assumed to be valid above
+some prescribed threshold in the correlation. This inability to firmly establish causality is, of
+course, understandable, given that seismologists do not have access to a real-time dynamical
+state of stress or accurate microscopic knowledge of earthquake nucleation sites inside the Earth.
+However, a proxy earthquake analogue [17] based on numerical simulations of soft glasses, with
+access to the relevant dynamic variables at all scales, in theory, does not suffer such limitations.
+We propose here to develop an objective causality criterion for such a system, which, for instance,
+could serve to benchmark statistical tools in seismology based on correlations.
+
+We, therefore, turn our attention to this recently introduced model, based on a mesoscopic
+lattice Boltzmann (LB) description for a mixture of non-ideal binary fluids, stabilized from
+coarsening via frustration effects at the interface [18]. A very brief summary of the model follows;

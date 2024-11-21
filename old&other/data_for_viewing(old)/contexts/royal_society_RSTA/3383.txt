@@ -1,0 +1,25 @@
+regularities in M or E—failure may just take longer if the time scale separation is very large. In
+the monkey case study, both the signalling network and power structure have a much slower time
+scale than the fight dynamics.
+
+A second possible mechanism for minimizing inherent subjectivity is to make estimates of
+regularities in E and M a collective process. This information aggregation can be as simple
+as pooling many different estimates of E and/or M and taking the average, or it can involve
+more complicated collective computations as in the monkey power case (discussed in [26], see
+also [43] for importance of network structure to the computation). Either way the idea is that
+each component contributing to the computation of the estimate will have independent or semi-
+independent estimates based on having been exposed to different subsets of data or states of the
+environment and possibly having a different computational capacity. This is a variant of a wisdom
+of crowds type argument. The fact, however, that integrating over many estimates can yield a
+better overall estimate is a somewhat trivial insight and not, in my mind, where the interesting
+issues lie.
+
+Interesting questions concern the details of the aggregation portion of the collective
+computation itself (see also [43]). In other words, what are properties of the collective
+computation allow it to produce ‘good’ estimates [11,26,27,44]? Is the computation additive
+or is it non-decomposable into the individual estimates? Are contributions redundant or is
+there heterogeneity in component contributions? How sensitive is it to perturbations, bias and
+gaming, and individual and group? This issue of information aggregation-how estimates (and
+
+
+also strategies and decision rules) combine to produce aggregate properties has been tackled a bit

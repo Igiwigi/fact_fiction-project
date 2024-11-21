@@ -1,0 +1,25 @@
+von Neumann equation possesses time-reversal invariance (for autonomous isolated systems),
+more general master equations may violate such symmetry. For example, the Lindblad equation
+repeatedly mentioned above describes dissipative dynamics. Then, the auxiliary field formalism
+comes to play a prominent role: the action can be constructed for dissipative kinetics through
+the extension of the space of variables. It is also mentioned that this formalism offers a powerful
+tool for obtaining approximate solutions in analytic forms if combined with the Rayleigh-Ritz
+method [27,28].
+
+
+Recently, the auxiliary field formalism has been applied to classical fractional kinetic equations
+[28,29] as well as a general quantum master equation [30]. It has been found that the auxiliary field
+introduced in the action may actually be a weak invariant of the corresponding master equation.
+This fact indicates the existence of a certain deeper structure that must be related to the symmetry
+principle behind kinetic theory. Understanding such a principle may, in turn, cast fresh light on
+non-equilibrium thermodynamics even at the classical level.
+
+In this paper, the action principle and weak invariants are studied in the context of classical
+kinetic theory. Although a specific form of a kinetic equation is not needed as long as it is
+linear, the Fokker—Planck equation [31,32] is employed as an important example for the sake of
+clarity. The Fokker-Planck equation is derived from the Langevin equation that describes the
+irreversible relaxation processes [33], and therefore it is of direct relevance to non-equilibrium
+thermodynamics. In addition, the weak invariant of the Fokker—Planck equation has already been
+discussed in [34]. Now, the primary purpose of the present work is to show how the auxiliary field
+as the weak invariant in the action principle plays a role of the Noether charge and accordingly
+the action I satisfies

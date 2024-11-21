@@ -1,0 +1,25 @@
+cious individuals potentially undermine this mechanism of one gamete type, then sporophytes can produce spores of | =
+self-incompatibility. This is certainly a subtle issue, but several either or both sexes. Moreover, size dimorphism may evolve = 5'
+points are worth noting. First, inbreeding depression is only in both gametes and spores. Heterospory is well known from >
+likely to be a problem for diplontic and, perhaps to a lesser land plants, in which micro- and macrospores become male =
+extent, haplodiplontic organisms. In haplontic organisms, on and female gametophytes, respectively. The relationship  &
+the other hand, inbreeding depression is predicted to be low between such variation and anisogamy is only just beginning
+or absent in general [49]. Second, although self-incompatibility to be unravelled theoretically [84]. Future studies could accom- S
+is probably important for the evolution of mating types in modate a broader swathe of these diverse life histories in which
+many systems, there are also other possible explanations [2]. anisogamy has evolved (for recent examples, see [24,58]). S
+For instance, binary ‘lock-and-key’ mechanisms may help Our model was inspired by existing analytic models [19,21], 3
+ensure efficient gamete fusion during syngamy [74], although but it identifies evolutionarily stable states using individual-
+it is unclear whether such efficiency gains would outweigh the based simulations. Computer simulations have a long history
+loss of potential mating partners. The fact that mating types in evolutionary game theory, extending back to the first
+exist even in many haplontic organisms suggests that self- formal treatment of evolutionarily stable strategies by Maynard
+incompatibility to avoid inbreeding depression cannot be the Smith & Price [85]. The first non-group-selectionist models of
+only explanation. Third, even when inbreeding depression is the evolution of anisogamy also relied on simulations [17]
+strong, there are many other ways to avoid self-fertilization, and were game-theoretic in spirit, despite slightly predating
+including the temporal separation of male and female gamete the formal mathematical framework. Simulations are most
+production or release (e.g. ‘dichogamy’ and ‘heterostyly’ valuable when the processes shaping selection and evolution
+in plants) [66,75]. Nonetheless, it would be interesting to are complex and not easily captured in an analytically tractable
+remove the assumption of binary mating types in future model. For example, when the average size of spawning groups
+models and investigate whether this impedes the evolution is small in our model, the size and composition of individual
+of monoecious anisogamy from isogamous ancestors. groups is highly variable. Given an average group size of five
+It should also not be forgotten that selfing is often adaptive, or fewer, there is an appreciable probability that an individual
+even in the presence of strong inbreeding depression. Each will spawn alone or, in dioecious population, in a single-sex

@@ -1,0 +1,24 @@
+and
+dR - eye
+Gp Lo (WR + RLY (H) + 8, (2.3b)
+with
+(Lv) =[(L + D)ej + B(u, ef) + Blej, W)] - e; (2.4a)
+and
+()ig = Y>(ZmZnZ;) B@m, €n) +e + (ZmZnZ;) Bem, en) - @j- (2.40)
+mn
+Here, the energy flux 6 expresses nonlinear energy exchanges between different fluctuation : =
+modes due to the nonlinearity of the dynamics modelled through third-order moments. In :F
+general, such a representation gives rise to a non-closed system (possibly infinite-dimensional : a
+ODEs) as each moment equation is coupled to higher-order moments. : =
+Despite the fact that the exact equations for the statistical mean (2.3a) and the covariance : R
+fluctuations (2.3b) are not a closed system, the total energy in the mean plus the total variance : 3
+defined as E = sai “ut 3tr(R) satisfies the following scalar dynamical equation [9] 12
+Dw
+aE ss Dia + tr(DR)+a-F, (2.5) 3
+dt ’ ° :s
+
+where u and R are the exact solutions from the statistical equations. While the mean and
+covariance dynamics in (2.3a) and (2.3b) are not explicitly written in terms of E, we found that
+by allowing the unresolved components in (2.3b) to depend on E, one can achieve an effective
+non-Markovian closure model, especially for reduced-order model building upon the coupled
+system (2.3a), (2.3b), (2.5) in leading modes [28].

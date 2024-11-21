@@ -1,0 +1,24 @@
+
+prob. = 0.0005
+phenotype
+
+Figure 6. The challenge: construct the probability distribution of future populations (represented by frequency distributions), given the current population distri-
+bution and patterns of fitness and transmission. (Online version in colour.)
+
+Here, n is the number of individuals and f is a transform vari- yield a set of terms, each of which corresponds to a different
+able. The bar indicates frequency mean. Thus, for a group of possible distribution of phenotypes, multiplied by the
+three individuals, one with phenotype ¢=1.5 and two probability of that particular distribution arising (figure 8).
+with phenotype ¢=4, equation (5.1) would be: (3-((1/ The reason for adding all of these layers is that we now
+3)e!F 4 (2/3)e")). have a compact way to write the distribution of distributions
+The fact that all populations are finite, and the stipulation that we can follow from one generation to the next. We will
+that the phenotype, ¢, is finite, ensure that all moments exist; see below that this is easier than one might expect.
+meaning that the moment generating function in equation (Equation (5.2) is analogous to a Fourier transform of a
+(5.1) is a compact way to capture the population distribution. Laplace transform. Note that the transform variables f and
+The next step is to capture the probability distribution of p do not correspond to any biological process. They serve
+possible populations. This is accomplished by defining a to keep the different distributions and phenotypes distinct.
+characteristic function of the moment generating function, We will see below that they also allow us to derive special
+which I will refer to as the population transform. cases, including the Price equation, from our main result.)
+. —— Equation (5.2) can uniquely describe any probability dis-
+The population transform : &4, =e?" 6.2) tribution of frequency distributions—whether for an entire
+Here, p is the probability transform variable, and i = V—1. population or for any subset of individuals. For example,
+The hat denotes the expected value over all possible pheno- the possible fitness values for an individual j (w;) and the

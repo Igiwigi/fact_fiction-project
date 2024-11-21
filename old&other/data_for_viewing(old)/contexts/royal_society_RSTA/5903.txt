@@ -1,0 +1,25 @@
+Here, Fj is a Lagrange multiplier to enforce the final time constraint.
+
+Note that we started our considerations by expressing the probability of an event via a path
+integral. The final object we obtain though, namely the instanton, is interesting in its own right
+in that it is exactly the most likely realization of the outcome we set out to observe, regardless
+of whether it indeed represents the typical realization of that outcome. The crucial subtlety here
+
+is that for a common event there are usually a multitude of possible histories for its creation,
+while an extreme outlier event is usually driven by a very specific and reproducible chain of
+
+
+events. The average field configuration realizing a moderate vorticity, say, will in general be very
+different from its most likely configuration, and in fact is rather meaningless, as it averages over
+many different and unrelated physical mechanisms. For extreme events, on the other hand, the
+two notions coincide, and the most likely conditioned configuration precisely corresponds to the
+conditioned field average.
+
+The connection to Freidlin-Wentzell theory [7] and large deviation theory rare events
+algorithms [8] allows us to make this notion rather precise: the large deviation limit in the set-
+up that was outlined above is correct in the small noise limit. Through a suitable rescaling of (2.1),
+this limit is, in the first instance, equivalent to the low Reynolds number limit for the NSE: non-
+dimensionalizing all variables via x = x/xo, f=t/to, it =uto/xo, P PH /x3 and 7 = nty?/ xq.” and
+choosing to = x3/v yields
+
+du + (u-V)u=—VP + Au+ Ven,

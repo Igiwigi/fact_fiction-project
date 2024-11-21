@@ -1,0 +1,25 @@
+of the few examples of multidimensional linear parabolic equations for which a resolvent kernel
+is explicitly known. In spite of these features, as we are going to show they have generated
+challenging problems. An interesting discussion of the physical models and the main applications
+ina historical perspective can be found in [1].
+
+We point out that we do not deal with degenerate Ornstein—-Uhlenbeck operators, that can
+be hypoelliptic and in this case share many properties with the non-degenerate ones, and that
+there are several further issues connected with Ornstein—Uhlenbeck operators and semigroups,
+which we do not discuss, such as e.g. functional calculus, properties of maximal operators, Riesz
+transforms, and other issues of harmonic analysis. Our presentation is limited to the topics closer
+to the interests of the semigroup community.
+
+Many of the estimates that we are going to show are dimension free, and in fact a rich extension
+of the theory to infinite dimensional settings (separable Hilbert and even Banach spaces) is
+available. We refer to the paper Ornstein—Uhlenbeck semigroups in infinite dimension in this
+volume for a survey.
+
+2. The integral formula for the semigroup
+
+In this section we sketch the derivation of the explicit representation of the semigroup generated
+by A in the form (1.1), which is due to Kolmogorov in a special case and to Hérmander
+in the general case. Formula (2.4) below can be derived also using the Fourier transform as
+sketched in [2].
+
+Let us consider the following parabolic initial value problem

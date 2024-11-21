@@ -1,0 +1,25 @@
+being ‘that text extracted from published judgments bears a sufficient number of similarities
+with, and can, therefore, stand as a (crude) proxy for, applications lodged with the Court, as
+
+“This paragraph is taken from [24], p. 417.
+
+
+well as for briefs submitted by parties in pending cases’ ([25]: 2/19). This is an example of
+opting for ‘low hanging fruit’ (easy to obtain training data), which raises some issues, as it
+implies that the system draws its conclusions based on the Court’s articulation of the facts
+of the case. As the authors note, the Court probably formulates the facts in a way that is
+conducive to fit the conclusion ([25]: 5/19). This entails that no conclusions can be drawn about
+correlations between the facts of the case and the outcome, and although the authors seem to
+be aware of this, they nevertheless do conclude that the facts of the case have high predictive
+value. If the cases that were deemed inadmissible or struck out beforehand had been taken
+into account, this may have made a difference to the assessment. This potential difference now
+remains invisible. The conclusion that the facts of the case, rather than the applicable law,
+determine the outcome is also problematic because whenever the Court itself decides that a case
+is inadmissible, the judgment has no section on law, which means that the results are skewed.°
+The system was restricted to violations of articles 3, 6 and 8 of the ECHR, as this provided
+more balanced data (equal amount of violation/non-violation cases). This restriction, however,
+makes invisible how a case is framed, as many cases are framed as violations of more than
+one human right (for instance, combining articles 3, 6 and 8 with articles 5, 7, 9, 10 and 14 of
+the ECHR). Furthermore, the algorithm was trained only on existing case law, using 90% for
+training and 10% for validation—no out-of-sample testing was reported. This means that the
+system actually did not engage in prediction but remained in the realm of describing a historical

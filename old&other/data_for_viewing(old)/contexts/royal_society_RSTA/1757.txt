@@ -1,0 +1,25 @@
+
+If carbon enters the hot-spot, the ion charge state gradient will be reduced by inter-species ion
+diffusion. This can be estimated using the model of Molvig et al. [11], in which an initially sharp
+interface between a light and heavy ion species will develop through diffusion. The diffusion
+coefficient can be estimated as D = 2T;t /Z?/mjMe ~ 0.03 m? s~1, similar to the thermal diffusion
+and resistive magnetic diffusion rates. Over the stagnation time t = 100 ps, this leads to a diffusive
+scale-length of VID =1.6 jum. This gives a lower bound on the expected scale-lengths 17, 1, and
+Ip.
+
+The collisional source term is maximal when Z = 1, giving 6j(1) ~ 0.3, meaning it is similar
+in magnitude to the Biermann term. For Z ~ 1, as in the hydrogen hot-spot, this leads to field
+growth rate 0.3fT,/(elzlr) ~ 20 Tps}. The collisional source term can be of a similar magnitude to
+the Biermann term. In fact, it may exceed it. This is because hydrodynamic motion acts to smooth
+the pressure gradients and reduce the Biermann growth. The collisional term has no such natural
+stabilization, since it acts on composition gradients which can even exist in pressure equilibrium,
+such as in an ideal isobaric hot-spot.
+
+Carbon jets will also have increased Biermann fields relative to hydrogen jets. This is due to the
+increased radiative cooling providing a steeper temperature gradient in the carbon mix case. We
+also note that the two source terms are likely to be in opposite directions. This is because Vite and
+VZ are both towards the centre of the mix region. However, Bj is positive and the two terms have
+opposite signs (equation (3.2)), so will be in opposite directions. This may mean the magnetized
+hydrodynamics of hydrogen jets are quite different to that of carbon mix jets, since the alterations
+to heat flow could be in the opposite direction. For hydrogen jets, the magnetized Righi-Leduc
+heat-flow is towards the base of the jet [2]. For carbon jets where the collisional thermoelectric

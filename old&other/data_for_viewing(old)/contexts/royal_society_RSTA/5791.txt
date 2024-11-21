@@ -1,0 +1,25 @@
+
+(ii) The vector field w : =
+
+The construction of vector field w requires some care. First, in order to have that )0,<4,, Wr(x — to
+z)dW7 is an admissible noise for our investigation, we need that each uz(x) :=w;(x — z) is aa
+divergence free, smooth enough and zero at dD. Therefore, we need div w = 0, w smooth enough; Do
+and we look for a vector field with compact support, say in the closed ball B(0,1), so that for :®
+ré (0,5) and z €Ay CDs the rescaled and shifted vector field w,(x — z) is zero on 0D. Moreover, Dw
+we need other two properties. :3
+One is that w(x) is close to (1/27)(x+/|x|?) near x=0; this is central to the proof that the [S
+function q(x) is large. The other is that the vector fields w,(x—z) are (up to the constant
+f |w(x)|? dx, which is not zero since w is close to (1/27)(x+/|x|?) near x = 0) ‘almost’ orthonormal
+in L”, which is guaranteed by the fact that the supports are ‘almost’ disjoint. To be precise, if we
+take truly disjoint supports, then the action of w;(x — z) does not cover the full set D2: there are
+intermediate zones between the supports, where w,(x — z) does not move space points and this is
+in contrast with the requirement that q(x) should be large everywhere in D5. This is why we have
+introduced M and the sets AMMKo lo) above: inside each one of these classes the supports will be
+disjoint and this is sufficient for our estimates; in order to have the supports disjoint for elements
+of AME Io) we ask r < (M/2N).
+Therefore, summarizing, we look for a vector field w, defined on R?, smooth, with compact
+support in B(0, 1), div w = 0, close to (1/27)(x+/|x|?) near x = 0. We construct it as
+
+w=V'y,
+
+so that it is divergence free. Thus we look for a smooth function y on R2, compactly supported in

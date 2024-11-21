@@ -1,0 +1,25 @@
+the sex of juveniles, but even in this case, the nature of collec- the value of r proves to have remarkably little effect on the
+tive decision-making requires that the group as a whole, results; note that many situations of inbreeding avoidance
+consisting of both males and females, needs to on average imply that one of the parents will be picked among non-
+benefit from the decision. This represents an alternative justi- relatives or distant relatives of the focal individual and
+fication for our approach—though this argument ceases to be another among closer relatives).
+valid if individuals of one sex have more impact on collective Consider the ‘no kidnapping’ case first. The focal off-
+decision-making than others; in the absence of any evidence spring is assumed to have only one of its two parents with
+to support such a power asymmetry, we do not include it in relatedness to the focal individual, reflecting our assumption
+the model. We assume that sex ratio is 1:1 among the kid- of inbreeding avoidance. This is therefore also the only
+nappers and abductees alike. Therefore, the focal existing parentage that matters for the fitness calculations (the other
+group member and the abductee are of the same sex with parent’s fitness does not matter for our proxy for fitness).
+probability % and of a different sex with probability %. The probability that this parent is the focal individual itself
+Further, we assume that a focal group member is related to is 1/(N/2), where the factor 2 relates to the fact that there
+current group members with relatedness r, while the related- are two sexes: a total of N/2 individuals compete locally to
+ness to the juvenile that represents an opportunity to kidnap be ancestors of the current individual among that sex.
+is zero. If the focal individual is not the ancestor (probability 1-
+If kidnapping does not occur, there will be future descen- 1/(N/2)), then we consider r as the fitness gain (which may
+dants of the group with probability 1-p(N); we compute the arise either via males or females as explained above), and
+
+fitness gain via a given descendant long in the future for a
+
+. 1 1
+randomly chosen current group member. If there is no kid- we have a proxy for fitness (1 — p(N)) (sa + (1 oN 3) ).
+
+napping, we simply assume that any one individual in the If the kidnapping does occur, the extinction probability

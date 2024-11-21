@@ -1,0 +1,25 @@
+variants) will subsample relatively fewer variants and, as a
+result, analyses shortly after the bottleneck could overestimate
+
+(a) Influence of demographic events the consequences of genetic hitchhiking. More notable is
+Selection can distort estimates of demographic events. BGS, the different speed of approach to equilibrium shown by the
+for instance, generates a consistent excess of low-frequency different regions [111,112]. Because the time to reach equili-
+variants at neutral sites resulting in negative Tajima’s D brium after a severe bottleneck mainly depends on the final
+[64,92-99]. The predicted magnitude of the skew in the fre- N,, regions with stronger local BGS and, therefore, smaller
+quency of variants is particularly evident when incorporating local Ne will reach equilibrium much faster than those with
+DFEs with weakly selected mutations and when recombina- weaker local BGS and greater N,. For long periods (in the hun-
+tion is reduced or absent, but it is also expected for a wide dreds of thousands of years for Drosophila owing to its large
+range of recombination rates as long as the number of sites population size), regions with weak BGS will likely exhibit
+under selection is high. In fact, an excess of rare mutations more extreme non-equilibrium patterns than those with mod-
+due to BGS is expected across most of the genome for species erate or strong BGS. Figure 3a shows that regions with high
+with a range of recombination rates like D. melanogaster recombination (moderate BGS, blue lines) are much slower in
+[79,100]. These patterns of polymorphism predicted by BGS recovering expected levels of neutral diversity than those
+models and confirmed by simulations could be easily under- with low and very low recombination (green and red lines,
+stood as evidence of population expansion and BGS is also respectively). Figure 3b shows these dynamics for neutral
+likely to bias inferences about most other demographic mutations in terms of frequency spectra. For long periods of
+events [100,101]. At the same time, demography can influence time, genomic regions with moderate levels of BGS (e.g. blue
+
+estimates of parameters associated with selection at linked lines) will show a more negative Tajima’s D than those with
+
+
+(a) N generations stronger BGS (e.g. green lines). Moreover, neutral mutations in 6 |

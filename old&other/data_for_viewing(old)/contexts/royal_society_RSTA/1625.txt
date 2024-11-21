@@ -1,0 +1,25 @@
+lim | qyitonttde=0,
+Vin
+it follows, for n sufficiently large, that
+
+o> en| an Hon (0) dt,
+
+n
+
+which is a contradiction. This concludes the proof. a
+
+(b) The topological approach: an equivalent functional version of equation (1.5)
+
+For the reader’s convenience, we shall briefly summarize here the main facts about Mawhin’s
+coincidence degree. For details see [3-5].
+
+Let E and F be real Banach spaces and let 2 be an open bounded subset of E. Let L: Dom(L) €
+E- F bea linear Fredholm mapping of index zero, that is, dim(ker(L)) = codim(Im(L)) < oo and
+Im(L) is closed in F. Then there exist continuous projectors P:E— E and Q:F > F such that
+Im(P) = ker(L) and ker(Q) = Im(L). Moreover, there exists an isomorphism J : Im(Q) —> ker(L). It
+is readily seen that L|pom(L)nker(p) : Dom(L) N ker(P) > Im(L) is bijective, so it has an algebraic
+inverse Kp. A continuous map N :E => F is called L-compact on Q if the set QN(Q) is bounded
+and the map Kp(I— Q)N: 2 — E is compact. Since JQN: 2 — ker(L) is continuous, we may
+identify ker(L) with R” and thus define deg(JQN, 2 M ker(L),0) as the Brouwer degree of JQN
+restricted to kerL, provided that QN does not vanish on 02M ker(L). A standard homotopy
+argument connects this degree with the so-called coincidence degree, denoted by D,(L — N, 2),

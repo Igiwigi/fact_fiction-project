@@ -1,0 +1,24 @@
+multiple-choice responses offers new possibilities.
+
+In some cases, however, the use of all possible dichotomizations is not justifiable. Notably,
+if the values of an rv are linearly ordered, x1 <x2 <--- ,xy, it may be natural to only allow
+dichotomizations f with f@ containing several successive values, {xj,X)41,---,XL}, for some
+1,Leé{1,...,N}. An even stronger restriction would be to only allow ‘cuts’, with fOM=
+{Xp X1p1/-++/XN} OF {X1,X2,.--, X11}.
+
+
+AB Cc D x
+
+Stronger restrictions on possible dichotomizations translate into stronger restrictions on the pairs : 3
+Ry Re whose canonical representation is contextual. This fact is especially important if one 12
+considers expanding CbD beyond categorical rvs. Thus, it is easy to see that if one considers mea)
+all possible dichotomizations of two conteNt-sharing rvs with continuous densities on the set of :
+real numbers, then the system will be contextual whenever the two distributions are not identical. a]
+Let the densities of these rvs be f(x) and g(x) shown in the graphic above. If the set of all splits DNS
+of these rvs forms a non-contextual system, then any discretization of these rvs should satisfy aon
+corollary 4.5 to theorem 4.4. That is, for any k > 2 and any partition Hj,...,H, of the set of reals [8
+into intervals, we should have either .
+
+Sig, f(x) dx < Su, g(x) dx for no more than one of i=1,...,k
+or (5.1)
+Si, Fe) dx > Su, g(x) dx for no more than one of i=1,...,k.

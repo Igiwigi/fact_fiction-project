@@ -1,0 +1,25 @@
+g(q2) =—S i 1—4@?)"*F nel O(n!) (4:40)
+87) “ i Pd +y,+p,2) ( q°) ud Z) ( ’ }
+which is the desired asymptotic formula.
+
+If f<2 the first term on the right is absent, and g,(q?) = O(n-!). If f>2 the dominant
+terms are the pair for which Ap, is largest, and since 4, +0, g, is an oscillatory function
+of n, whose order lies between n~! and n'*~!, since (from § 4-1), Ay, <4
+
+Essentially because of (4-39), an improved estimate of g,,(q?) is to be sought by displacing
+the ‘finite parts’ of the paths of integration in (4-29) as far as possible to the right. For the
+first integral the path gets caught on the branch points v = -+-ic, and it is from these that the
+principal part of the integral is contributed. Hence the remainder term in (4:40) can be
+shown to be in fact O{n~! (log n)~3}.
+
+4:7. Calculation of g,(q?). The best method is to use the differential equation (2-8).
+Substituting the expression on the right of (4:20) we obtain
+
+L,[G] = —fr(2—fr) (1—2)"!-/(1 +a) (r= @2),
+
+and then putting G = y > &"g,(7) and equating coefficients of powers of € we get the general
+iG
+recurrence relation
+(1+) (1—7) gn +{(n+- 1+ 2na+ a) (1—1) —2a(1+a)?7}7g/ +-na{n—(1-+a) (1+2a) 7} 2g,
+UL + (1+ 2a) 7}{(1—7) (gpa +p.) —2(1 +a) (2rg,_1+ (n—1) g,-1)}+-2a(n—1)?g,_,
+(1-+-a) (1—1) 7g,_2—{(n—1 +a) (1—1) —2a(1+a)?7} 9, .—a(n—2) (n—3—a) g

@@ -1,0 +1,25 @@
+Remark 1.3. The same result holds if the no-penetration boundary conditions u- i =0 are : =
+replaced by the more restrictive no-slip conditions u=0 at dD. This is because we use no-slip a=
+—_—)
+
+velocities for the upper bound. That the lower bound goes through to the no-slip case is clear.
+
+Let us briefly discuss the strategy of our proof. On the one hand, we must explain why
+no enstrophy-constrained velocity having (|Vu|?) = Pe? can lower (|VT|?) significantly beyond
+Pe~*/3. At the same time, we must construct a sequence of admissible velocities to cool within
+a logarithm of this bound. The challenge is to find a way of computing heat transfer that at the
+same time shows how it can be optimized. We follow the approach of our previous articles on
+maximizing transport across an externally heated fluid layer [43-45], the key difference being
+the presence of the internal source f(x, f). We show it is possible to bound (|VT|), and in fact to
+compute it exactly in the steady case, by a pair of variational problems. These problems recall
+Dirichlet’s principle for Poisson’s equation, but are non-local due to the mixed character of the
+operator u - V — A. That there exists a non-local Dirichlet-like principle for the effective diffusivity
+of a periodic or random fluid flow is well-known in homogenization [46,47]. Our idea is that
+(\VT/?) should behave like an effective diffusivity upon optimization. This is very much in the
+spirit of the general connection between homogenization and optimal design (see, e.g. [48-50)]).
+
+The bulk of our work goes into constructing the ‘branching flows’ behind the upper bound in
+theorem 1.1. In general, we envision an unsteady, tree-like, multi-scale flow whose features refine
+from the bulk to the boundary as in the bottom of figure 1. To achieve it, we piece together a family
+of convection roll-like flows, with the number of rolls in the azimuthal direction 6 depending
+on the radial coordinate r. A similar, albeit steady, branching flow was used in [43,45] to prove

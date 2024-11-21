@@ -1,0 +1,25 @@
+with the real function C(s) = tr¢[U¢(s)* V¢Ug(s) Vio]. Going back to the Schrédinger picture, we
+obtain
+
+i 7
+ihdpQe(t) = Hy ee(t) — @e(t)Ho — F(Velicel®) — Veoelt)Io — Traelt)Ve + eelt)IoVe}, (2.17)
+
+where
+
+r= |" dscayun evict. (2:18)
+0
+
+In the simplest case, C(s) may be approximated by a delta function, such that 5, = Cp Vi/2, where
+Co is the area under the function C(s), and the factor 1/2 comes from the fact that the integral goes
+only over the positive half-axis. In this case, the master equation (2.17) is of Lindblad form with the
+Hermitian Lindblad operator /CoV;. Note, however, that there are many interesting cases where
+C(s) has a different functional behaviour, which then yields a rather unusual dissipation term.
+
+(ii) Random matrix theory model
+
+We use here the approach of constructing the average density matrix proposed in [14] rather
+than calculating properties for each member of the ensemble and averaging these properties
+afterwards. For details, see [15,16]. Let us assume that the master equation derived above is
+of Lindblad form with a single Lindblad operator Vi. Then, we may choose Cy =1 without
+restriction. Let us further assume that V{ is a fixed member of the Gaussian orthogonal ensemble
+(GOE) or the Gaussian unitary ensemble (GUE). This may be justified for an environment

@@ -1,0 +1,24 @@
+trast with DIS and GAP that involve no contact. Furthermore, a with potential circularity in the analysis by introducing a random-
+CHA interaction can last several seconds, while a PEC lasts for ized data splitting approach. Splitting the observational data into
+only a fraction of a second. Additionally, during CHA inter- two parts allows us to independently estimate rank differences
+actions, the actor accelerates and runs at high speed, sometimes and interaction rates for pairs of individuals (step 1 in figure 1).
+covering a substantial distance, which thus represents a consider- By repeating the random splitting in a bootstrapping-like process
+able energetic investment relative to ‘lower-cost’ interactions (step 6 in figure 1)—where observations are randomly re-allocated
+involving little to no movement. While the distinction between to each variable in every run—this procedure also provides an esti-
+these interaction categories is very clear in vulturine guineafowl, mation of the uncertainty of the relationship. Second, we include a
+other studies may opt for a more quantitative approach for null model—here a permutation test [41]—to quantify how the
+grouping interaction types [34], although we note that doing so observed interaction frequency compares to the expected inter-
+could potentially require careful consideration of circularity if action frequency given opportunity to interact alone (steps 3-5 in
+interaction networks that map differently onto individuals may, figure 1). We refer to this interaction frequency corrected for
+in fact, be the outcome of different strategies. We omit opportunity as the ‘tendency to interact’.
+‘fights’—as defined previously for vulturine guineafowl [30]— The first step of our approach randomly splits the directed
+because these are infrequent, have no clear directionality and interactions dataset into two subsets. Given our large observa-
+typically occur between social groups. tional datasets, and evidence that robust dominance hierarchies
+Submissive interactions typically function to signal existing can be generated using relatively few observations [42], we use
+dominance relationships—e.g. ‘pant-grunt’ vocalizations in a 30% subset of the data for calculating individuals’ hierarchy
+chimpanzees (Pan troglodytes) [35,36]—and probably allow indi- positions (and subsequent pairwise positional differences), and
+viduals to avoid conflict or receive aggression. Accordingly, the the remaining 70% non-overlapping portion of the dataset to
+submissive interactions, SUB and SUV, were both deemed to infer pairwise interaction rates. Accordingly, the dataset is ran-
+be of low (or no) cost to the actor and thus grouped into the domly split to independently estimate the two axes of interest:
+
+least-cost ‘submissive’ category. differences in hierarchy position and directed interaction rates.

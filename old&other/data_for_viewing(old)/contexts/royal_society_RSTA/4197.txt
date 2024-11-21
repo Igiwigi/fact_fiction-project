@@ -1,0 +1,25 @@
+(i.e. one with a finite dataset), only then would this data appear to be produced by a uniform : =
+
+distribution [9]. Moreover, it has been argued that the notion of randomness as an objective notion Sy
+of probability of a uniform nature fails to capture entirely the absence of patterns in data. Such 2
+patterns might, alternatively, be captured by the so-called algorithmic randomness. This sense of aed
+randomness provides a probabilistic guarantee of such an absence of patterns, since almost all 22
+sequences are (computationally, Martin-L6f) random, yet is unable to guarantee absolutely the : 8
+non-presence of computable patterns. DNS
+
+Specifically, algorithmic randomness has been considered to be characterized by an absence of : z
+patterns and defined (in algorithmic information theory) via the property of the incompressibility : &
+
+of finite strings of symbols, and the latter suffers first from the fact that the complexity of any
+string is only fixed up to a constant which depends on the universal Turing machine considered.
+In order to develop a more rigorous notion of algorithmic randomness, it would thus appear
+necessary to consider the limit case of infinite sequences of bits. One then finds that there are no
+maximally random sequences (cf. [10]). Thus, it would appear that the non-existence of maximally
+random sequences demonstrates that quantum (or any other form of) randomness cannot serve
+as an ‘absolute’ or ‘true’ sort of randomness [11]. The best one can achieve in this way, given its
+failure to identify an absolute sense of randomness, is to consider a series of increasingly strong
+senses of randomness. Moreover, classical systems may involve intrinsic unpredictability (even
+if necessarily essentially epistemic) due to sensitivity of behaviour on initial conditions. In the
+current context, particular care should be taken in regard to this point because measurement
+involves more than a single atomic system—at a minimum, measurement involves two systems,
+one of which might and often is considered describable by classical mechanics. However,

@@ -1,0 +1,24 @@
+of AP spectrum of figure 8; their expressions are reported in table 3 as well. The order adopted in
+the table reflects increasing frequency for chosen parameter values, i.e. F,,; < f,,;41 and F pi< Spitt-
+
+In the following, we provide a short description of the transfer function for each case.
+
+(a) Intracellular-passive sensor: the TF has two zeros, one in the origin (k= 1) and one in
+the MHz regime (equation (4.3) in table 3, thus not visible in figure 8), and four poles. The low
+frequency fyi and fp2 shape the bandwidth as depicted in figure 8. The remaining poles fall above
+the upper frequency limit of the figure (equations (4.6) and (4.7) in table 3). The in-band gain is
+set by capacitive and resistive dividers according to equation (4.2) in table 3. To maximize the
+gain and reduce distortion (i.e. to widen the flat portion of the TFs by making f,1 small and f,2
+high), Ramp, Ryjseal and Cnano should be large, and Cstray and Camp small according to equations
+(4.4) and (4.5). In fact, a low fy (e.g. for large values of the sealing resistance) filters out the high-
+frequency signal components, thus slowing the Vout transients and making it appear spread out
+
+(4.1)
+
+lH(f)| = Gin-band (
+
+
+Table 3. Approximate expressions of the in-band gain, poles and useful bandwidth of the system transfer functions, 71(F),
+Tepresented in figure 8. Com and Gm are much lower than Cstray -+ Camp for our case study.
+
+passive intracellular

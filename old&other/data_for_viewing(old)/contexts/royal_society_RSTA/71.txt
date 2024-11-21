@@ -1,0 +1,25 @@
+(b) Variational approach
+In [11], we observe that whenever V takes the form (5.2) with a symmetric kernel ¢ then it is the
+first variation of the energy
+
+Jv) =| Fs w(x))malds) + 5 | $(x,yv(axyv(dy)
+x 2 Sxxx
+
+x
+v
+
+with F(x, v):= | f(x,s) ds.
+0
+We can thus prove that the condition defining equilibria is in fact the Euler-Lagrange equation
+for the variational problem
+
+inf (We(u,v) + J(v)}. (5.5)
+veP(X)
+
+Mote precisely, if v solves (5.5) and y € I7p(u,v), then y actually is a Cournot—Nash equilibrium.
+Not only this approach gives new existence results, but also, and more surprisingly, uniqueness
+in some cases, because the functional above may have hidden convexity properties. It is worth
+noting that in the quadratic cost case variational problems of the form (5.5) play a key role in
+the theory of gradient flows in the Wasserstein space of probability measures, see [14] for a
+detailed exposition of this powerful theory, in which it appears as one step of the celebrated
+Jordan-Kinderleherer—Otto [15] scheme. This theory has been extremely fruitful in recent years

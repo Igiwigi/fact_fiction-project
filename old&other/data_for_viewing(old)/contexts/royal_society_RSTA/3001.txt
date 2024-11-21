@@ -1,0 +1,25 @@
+method described in §3a. One can see that the agreement between the results obtained with two
+different numerical approaches is almost perfect. Similarly, the stability domains of an LB solution
+calculated with the help of the functional mapping method and shown in figure 9 are in a good
+agreement with those presented in figure 6. Small discrepancies in the two-parameter stability
+diagrams can be explained by differences in the numerical continuation procedure. In particular,
+the continuation of the LB solution can be performed only with a good initial guess, which we
+accomplished as described in the previous subsection. On the other hand, numerical simulations
+of the mapping procedure (3.5) are very fast, and it is more efficient to perform two-parameter
+scans by finding a stable LB solution for each value of the linewidth enhancement factor and
+then continuing it in go. It is seen from figure 9 that the latter approach fails to find a stable LB
+around ag * 2 (figure 9a) and aq ~ 0.2 (figure 9b), whereas a slower continuation approach based
+on direct numerical integration of equations (2.5)-(2.7) indicates that stable LBs exist in these
+parameter domains (cf. figure 6). This discrepancy is related to the fact that at large differences
+ag — aq it is hardly possible to excite stable LBs from an arbitrary initial condition not only by
+using the functional mapping method, but also by solving numerically the NDDE system on the
+full round trip time interval.
+
+
+0.8 0.9 1.0 0.75 0.80 0.85 0.90 0.95
+8p (arb. units) 8p (arb. units)
+
+Figure 9. Domains of existence of stable two-dimensional LBs obtained with the help of the functional mapping (3.5). Panel a
+(b) is obtained by varying the parameters go and avg (cx,) with fixed a, = 0.5 (a¢g = 1.5). Other parameters are as in figure 5.
+Colour code represents the energy of the pulse, SS |A(t, x)|? dx dt. White lines represent stability domain borders of the LBs
+calculated using the Haus model [9], which are shifted to higher current with an offset 5g = 0.06. (Online version in colour.)

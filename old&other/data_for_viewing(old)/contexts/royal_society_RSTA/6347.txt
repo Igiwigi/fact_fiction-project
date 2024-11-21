@@ -1,0 +1,25 @@
+
+8 0.2 8 0.2
+
+0.1 0.1
+
+0. = 0
+
+20 22 24 26 28 30 10 20 30 40
+frequency (kHz) frequency (kHz)
+Figure 2. (a) A mixed spring-mass-plate model consisting of 4 x 4 units. Each sub-unit is resonant at different frequency {=
+and together they generate the desired broadband absorption feature. (b) Absorption peaks from 16 independent randomly 8
+distributed mass terms and their overall absorption spectrum after combination. (c) Absorption spectra with different deviation : =
+strength Am. The bandwidth expands despite the fact that the absorbing response is lower. (Online version in colour.) : =
+13
+12
+figure la show randomness in the size and position of the scales. To replicate the biological a)
+randomness, we now introduce randomness into the spring-mass model noting that the pressure 7
+in the entire space is obtained when the displacements W3!© and Wwycele are both known. In 8
+figure 2a, we consider a multi-component composite made of N spring-mass resonators that are : =
+then periodically extended to cover the wing. To introduce randomness, the magnitude of each : SI
+aad
+mass load is assumed to be a perturbation around a fixed mass my : Ss
+mi = my + AmypyR(i), (3.1)
+
+where R(i)(i=1,2,...,N) are random numbers generated from uniform probability density

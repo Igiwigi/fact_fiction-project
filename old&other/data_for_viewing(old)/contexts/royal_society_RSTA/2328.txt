@@ -1,0 +1,25 @@
+
+— Suppose K disagrees globally. By proposition 5.2, there exists a context Co €.M such
+
+that 74 4 S(C9). Since the algebra of relational databases is adjoint, by proposition 5.2,
+this implies y+ © S(Cy), which means that there exists a local section x € S(Cy) such
+that x ¢ 74. We will now show that S is logically contextual at x. Suppose —LC(S, x)
+by contradiction. Then there exists a global section g € S(X) such that g)c, =x. Because
+g € S(X), we have gic € S(C) for all Ce M, which implies g ¢ I". Then, x= gc, € P',
+which is a contradiction.
+Now, Suppose S is logically contextual at a section x € S(Co). If xe Co, then there
+exists a g € I” such that g)c, =x. Since g € I’, we have gic € S(C) for all C € M. Thus, by
+condition (iii) of the definition of a possibilistic empirical model, g € S(X), which means
+that g is a global section extending x. This contradicts the fact that S is logically contextual
+at x. We conclude that x ¢ 7!“ Thus (Cy) 4 S(Co), hence K disagrees globally.
+
+— We will now prove that K disagrees completely if and only if S is strongly contextual.
+Recall that the null element of the algebra is the emptyset zx = J. We have
+
+ASC(S) < Ag € S(X) Ag € E(X): gic € S(C) WCE M
+dg eS(X):gelolr £0.
+
+References
+
+1. Howard M, Wallman J, Veitch V, Emerson J. 2014 Contextuality supplies the ‘magic’ for
+quantum computation. Nature 510, 351-355. (doi:10.1038 /nature13460)

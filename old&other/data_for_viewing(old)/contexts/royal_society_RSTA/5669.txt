@@ -1,0 +1,25 @@
+a condition of the type f = fo on dU for some given fo.
+
+
+Early results treated the case when either the domain or the range is one-dimensional [15-17].
+Here the key concept is convexity; a typical result is that for linear boundary maps fo(x) =a-x
+the differential inclusion (2.4) is solvable provided a € int K°°, denoting the topological interior
+of the convex hull. Conversely, it is not difficult to see by integrating that a ¢ K°° is a necessary
+condition for solvability. In fact more is true: one can show using the Baire category theorem that
+typical solutions of the relaxed differential inclusion
+
+Df(y)€int K°, ae. yeU, (2.5)
+
+are in fact solutions of the original problem (2.4).
+In the vectorial case, when d,m > 1, such a general statement cannot be expected, as simple
+examples demonstrate:
+
+(i) If K = O(d), the boundary value problem has a solution for any linear boundary map :3
+fo(x) = Ax with A € int O(d)° = {A:Id — ATA > 0}, and, more generally, for any strictly Pe
+short boundary map fo—here strictly short means that fo maps any curve to a strictly :8
+shorter curve. In analytic terms this is equivalent to the requirement Dfo(x) € int O(d)°° [3
+for a.e. x. a)
+
+(ii) If K = SO(d), the only solutions of (2.4) are affine maps f(x) =b + Ax with A € SO(d). :8
+
+Thus, in general the geometry of the set K strongly interacts with the differential constraint

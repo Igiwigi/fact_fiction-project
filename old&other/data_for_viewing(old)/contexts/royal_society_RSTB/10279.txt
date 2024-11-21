@@ -1,0 +1,25 @@
+
+measuring total blood volume changes, whereas 6 was estimated
+with Monte Carlo simulations for a mix of vessel sizes. However,
+
+the assumptions in the original derivation of the model left out (d Overview of the entire procedure
+two effects that contribute to the BOLD signal: intravascular The simulation of BOLD fMRI from real vascular stacks using
+signal changes, and volume exchange effects as vascular volume Monte Carlo simulations was thoroughly described in our pre-
+expands and displaces extravascular volume, with intrinsically vious paper [17]. Some details of the experimental acquisition
+different signals in the two compartments. To take into account are repeated in the following sections for completeness. However,
+the missing components of the model as well as the new micro- important differences arise between our previous work and the
+scopic data, Griffeth et al. [28] developed a more detailed model present one. First, we simulated a steady-state activation rather
+that included these other effects. They found that when data than a 2s short stimulus. This was required in order to account
+were simulated with their detailed model and analysed with the for the fact that the Davis model is a steady-state model that
+Davis model, the estimated CMRO, changes were reasonably does not account for the transient haemodynamics occurring
+accurate, but could be improved if the parameters a and £ of the during evoked functional activation with a short stimulus.
+original Davis model are treated as free parameters that can be Second, we simulated different levels of arterial dilation as well
+optimized to reflect multiple physiological and biophysical effects. as different levels of CMRO) increases rather than assuming a con-
+However, in doing that, only a loose correspondence persists stant flow—metabolism coupling ratio. Third, both the intra- and
+between the optimized parameters and their original physiological extravascular BOLD signals were simulated rather than extra-
+meaning. It is also possible that the optimized values simply rep- vascular-only. Fourth, only the gradient-echo (GRE) signal was
+resent the best way to negate other faulty assumptions in the simulated because spin echo is generally not used in calibrated
+Davis model. Nevertheless, this optimization approach has been fMRI experiments owing to a lower signal-to-noise ratio.
+shown to improve the accuracy of calibrated fMRI to recover A schematic overview of the entire procedure is presented in
+changes in CMRO, [28]. figure 1. For each of the six vascular stacks, the BOLD response
+To examine this in more detail from first principles, we took was simulated for 10%, 20% and 30% arterial dilation. For each

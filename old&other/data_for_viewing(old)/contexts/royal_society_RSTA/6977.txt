@@ -1,0 +1,25 @@
+
+By symmetry it is only necessary to consider one-eighth of the square; it is also convenient
+to take the constant in (B. 6) to be 25,600. The finite-difference equation corresponding to
+(B. 5) is then given by
+
+20w) — 85, + 25, +S5—25,600h4 +A = 0,)
+
+A= —$(80,2+80,y) +--+ J vaio
+
+
+OF ELLIPTIC DIFFERENTIAL EQUATIONS 361
+
+and fictitious points will be eliminated by the use of the formula for r = 6 in table 1. With
+an interval h = } the configuration is identical with that of figure 9, and corresponds also
+to figure 18 of Fox & Southwell (1941) (in which all the values of w should be multiplied by
+the factor 0-4096 to reproduce the exact conditions of the present example).
+
+The main concern at present is to show how accuracy is improved, on a relatively coarse
+_ mesh, by the use of more complicated but more accurate finite-difference equations, and it
+is therefore undesirable to introduce errors, of the type discussed in §5, due to inadequate
+relaxation of the simultaneous equations. For this reason the latter have been solved, in this
+example, by means of a reciprocal matrix, similar to that of table 2, but incorporating the
+more accurate derivative formulae at the boundary.
+
+The first approximation w® obtained in this way is shown, at internal and fictitious

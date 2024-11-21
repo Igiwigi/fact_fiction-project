@@ -1,0 +1,25 @@
+Despite the obvious shortcomings of the bound (3.4), condition number-based contraction is
+frequently identified with the CG ‘convergence rate’ in general in the literature. This has been
+extended to describing the complexity of CG in terms of the condition number (e.g. [17,18,34-36]).
+The justification for this is frequently misattributed to classical papers, which interpret the result
+differently. For example, in [17, pp. 8-9] (see also [37]) it is stated that
+
+Soon after the introduction of «(A) for error analysis, Hestenes and Stiefel [2] showed that
+this quantity also played a role in complexity analysis. More precisely, they showed that the
+number of iterations of the conjugate gradient method (assuming infinite precision) needed
+to ensure that the current approximation to the solution of a linear system attained a given
+accuracy is proportional to //«(A).
+
+This follows from (3.4), which is not presented by Hestenes and Stiefel; in fact, it was clear
+through the connections they make to orthogonal polynomials, Gauss quadrature and continued
+fractions (see §2 and [2, Sections 14—18]) that the nonlinearity of CG was well understood. In the
+context of solving large-scale linear systems, Chebyshev polynomials were considered in the early
+works of Young, Lanczos, Rutishauser and others; see [4, Section 5.5.3] for a detailed description.
+However, these authors never had in mind that the upper bound for CG that can be derived using
+Chebyshev polynomials should be equated with a linear ‘rate of convergence’ of CG; the concept
+of a linear ‘rate of convergence’ is applicable to stationary iterative methods but makes little sense
+in the context of Krylov subspace methods. Daniel, who first published the explicit form of the
+bound (3.4) [38, Theorem 1.2.2], was careful to explain that
+
+. assuming only that [the spectrum of the matrix A lies inside the interval [A1,4y]], we
+can do no better than [the bound (3.4)]. Under more specialized assumptions, it is possible

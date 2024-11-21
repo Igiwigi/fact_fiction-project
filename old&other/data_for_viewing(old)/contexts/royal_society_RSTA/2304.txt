@@ -1,0 +1,24 @@
+
+It is then clear from the above construction that the maximal number of states perfectly
+distinguishable with a single measurement is d = |S].
+
+(b) Quantum finite-state machines
+
+In quantum mechanics, correlators are simply obtained by sequences of generalized
+measurements on a single system of fixed dimension d= dimH, where #H is the corresponding
+Hilbert space. Each single operation associated with an input x is represented by a quantum
+instruments {Zp|x}a, namely a collection of completely positive maps, from the space of linear
+operators into itself, that sum up to unital map for all x, ie. 7, Zajx(1) = 1. Notice that instruments
+are defined in the Heisenberg picture, i.e. they transform the observables rather than the states.
+In fact, for a POVM {Ep}, we have the transformation Ey +> Zq\x(Ep), which must be still a POVM.
+in a,b, ie. Yq Zajx(doy Ev) = oq Za\x(1) = 1. Here, the dimension plays the same role of the finite
+number of perfectly distinguishable states in the classical model.
+
+
+Correlators are then computed as
+
+play .. An |Xy .. Xn) = trl Za, jx, © Day |x, 0 --- © Zan lx, ()] (5.9)
+or more compactly
+p(alx) = tr[p Lajx(1)], (5.10)
+where
+aj = Lay|xy ©» - © Layly: (5.11)

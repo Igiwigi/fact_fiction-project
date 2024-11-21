@@ -1,0 +1,25 @@
+
+u(0) =o, u'(0) = to on {0} x Qe. (3.1f)
+
+Let us derive a weak formulation to this problem assuming that u is smooth enough in [0,T] x
+(2 \ I). To this end we introduce the following function spaces and convex cone:
+
+H:=L(Q), V:={veH'(Q):v=00nlp}, K:={veEV: [vv] =0ae. on Ie}.
+Multiplying (3.1a) by v — (yu + w’) with an arbitrary v € K and integrating over Qc, we obtain
+p(u"(t),v — (yult) + u(t) + (o u(t), Vo — (yu(t) + u'(O)))
++ (ov (1), Dov = (rv) + ON) p, + (oe (0), Loe = (vee () + (OY)
+= p(f(t), v — (yu(t) + w'())) + (F(), v — (yu(t) + u(t), VEE (0,7),
+
+where we have used [[o, ]] = 0, [0] =0 on I, and the fact that the outer unit normal w.r.t. 24 on
+I is $v. By (2.1) we see that
+
+(o(u), Vv) = (o(u), E(v)) = A(div u, div v) + 2u(E(u), E(v)) =: a(u,v) Vue V.
+It follows from (3.1d) and (3.1e) that
+(ov (u(t), Tov — Yuv(f) + u,()) p, <0 (3.2)
+
+and
+
+(o- (u(t), [ve — (viee(t) + wD) , < (9, or = yee OM = I, (O11) ,.- (3.3)
+
+
+Consequently,

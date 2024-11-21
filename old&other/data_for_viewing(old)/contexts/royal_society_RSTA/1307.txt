@@ -1,0 +1,25 @@
+interactions may be reduced to interactions among surface elements of spheres (see a discussion
+about the Derjaguin approximation in [1]). Derjaguin stated also [7] that the virtual work done
+by the external load during adhesive contact is equal to the sum of the virtual change of the
+potential elastic energy and the virtual work that is consumed by the increase of the surface
+attractions. Unfortunately, the paper contains some erroneous assumptions and miscalculations.
+Nevertheless, using Derjaguin’s results, Sperling in his PhD thesis [8] derived the force—
+displacement diagram for a sticky sphere and analysed the critical points of the curve. Sperling
+was not aware of Johnson’s [9] suggestion to use the stress superposition to estimate the influence
+of adhesive forces. Like Derjaguin’s paper, Johnson's paper was brilliant but contained a wrong
+statement that the adhesive interactions should be neglected. Independently of Sperling, Johnson
+et al. [10] presented the JKR (Johnson, Kendall and Roberts) theory that united the Derjauguin
+energy approach and Johnson’s idea of stress fields superposition (see a discussion by Kendall
+[11]). In fact, it was shown that a solution to the adhesive contact problem may be derived using
+superposition of two non-adhesive frictionless contact problems: the Hertz solution for contact
+between elastic spheres and the Boussinesq solution for a flat-ended cylindrical punch. This
+approach to adhesive contact problems will be referred to further as the JKR formalism. Owing
+to its simplicity and elegance, the JKR approach is very popular, and it has been referenced in the
+literature thousands of times [12].
+
+The JKR formalism was employed to solve problems of adhesive contact between power-law
+shaped solids independently by Galanov [13] (see also [14]) for an arbitrary d > 1 and Carpick
+et al. [15] for d = 2n (see a discussion by Borodich [5]). Later Borodich and his co-workers extended
+the JKR formalism to arbitrary blunt axisymmetric indenters and to materials having rotational
+symmetry like transversely isotropic or homogeneously prestressed materials [1,16,17]. It was
+shown by Borodich [1] that using the JKR formalism along with the Griffith idea of equating

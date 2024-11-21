@@ -1,0 +1,25 @@
+its changes owing to the stochastic scheme. While in STOCH_UNCPL, sea ice velocities are
+slightly decreased in the central Arctic (anticlockwise arrows), they are increased in STOCH_CPL
+(clockwise arrows). The differences between the simulations can be explained as follows: during
+the transient phase of the integration, STOCH_UNCPL experiences a slight increase in sea ice
+velocities (not shown). The increased sea ice thickness distribution is still accumulating and
+increased sea ice thicknesses do not yet balance the influence from the effective weakening of
+the sea ice strength owing to the stochastic perturbations. After this transient phase, though, sea
+ice drift tends to be reduced, because thicker sea ice is capable of balancing the direct impact of
+the P* perturbations.
+
+The velocity changes in STOCH_CPL are quite different. Most of the drift in the central
+Arctic is increased or slightly redirected towards the north coasts of Canada, the Canadian Arctic
+Archipelago and Greenland. Due to the fact that there is no accumulation in Arctic sea ice, the
+
+
+(b)
+
+(i) STOCH_UNCPL-REF (i) | STOCH_CPL-REF
+
+(c)
+
+5
+
+Figure 2. (a) Annual mean (i) sea ice thickness (m) and (ii) sea ice concentration (%) for REF, years 1-201. (b) Difference in annual
+mean (i) sea ice thickness (m) and (ii) sea ice concentration (%) between STOCH_UNCPL and REF, years 1-102. (c) Same as (b),

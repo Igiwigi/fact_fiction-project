@@ -1,0 +1,25 @@
+
+ji ji
+
+and it is therefore possible to use many of the results for the generous tuple F to derive
+corresponding statements that apply to the original one. For an example of applying this
+principle, see the discussion of the Bombieri-Bourgain sums in §5.
+
+In applications of this strategy, especially in the SL, case, the following lemma will be useful.
+
+Lemma 3.1. Let F be an ¢-adic sheaf modulo p. Then Auti(F) is either empty or is of the form & Autg(F)
+for some € € N(Auto(F)) such that £7 € Auto(F).
+
+For Auto(F) = 1, we recover the fact that Aut(F) is either empty or contains only an involution;
+if Auto(F) is equal to its normalizer, e.g. if it is a maximal and non-normal subgroup, then it shows
+that Auti(s ) is either empty or equal to Auto(F), which means that 1 € Auti(s, ), or in other words
+that
+
+TX~DF)@L
+for some rank 1 sheaf £. This means that, in some sense, F is ‘almost’ self-dual.
+
+Proof. More generally, consider a subgroup H of a group G, and a coset T C G of the form T = &H
+that satisfies red €G for all g €T (as is the case of T= Auti(F) CcG= PGL)(Fp) for the subgroup
+H= Auto(S)).
+
+We claim first that this situation occurs if and only if T=€H for some é € G such that 6Hé = H.

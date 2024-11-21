@@ -1,0 +1,25 @@
+is a Markov Random Field, its probability function may be written as a Gibbs distribution, and
+vice-versa.”
+
+This led to the development of Markov Chain Monte Carlo techniques for estimating posterior
+probabilities, and the explosion of applied Bayesian methods (some of this story is told in
+an unpublished MA thesis by Tiani Li [MAPSS, University of Chicago, 2022]); however, these
+techniques were generally used in the social sciences to better estimate existing classes of models
+whose theoretical bases were independent of the underlying physical model involved. The one
+possible case in which there might be theoretical cross-fertilization would seem to be the field of
+social network analysis. This is because the same mathematics that underlay the processes used
+to fit the model also underlay the model itself.
+
+7The Metropolis algorithm got its wonderful name by the fact that Nicholas Metropolis controlled the computer at Los
+Alamos, but more central in the development of the method was the last author, Edward Teller, father of the H-bomb and
+inspiration for the insane physicist in the movie Dr. Strangelove. The computer they worked on was named MANIAC. As Fred
+Kwan said, ‘It’s the simple things in life you treasure.’
+
+
+Frank & Strauss [43] realized that the Hammersley—Clifford theorem also had implications
+for the attempt to construct probability distributions for social network data, a project that
+had engaged many of the most creative minds in social statistics (here, see, e.g. [44]), but had
+run into problems identical to those bedevilling Metropolis et al., namely the determination of
+the Z constant allowing for the estimate of absolute probability. Making assumptions as to the
+homogeneity of indistinguishable structural states led to what was first called the p* model, a
+family of probability models for social networks marked by the Markov assumption (e.g. [45]).

@@ -1,0 +1,25 @@
+function. This method also makes it possible to construct a solution of a more complicated
+problem that takes into account the removal of crystals from the crystallizer, and also the heat
+sink or mass source [5]. This approach can be extended to investigate polymerization phenomena
+that differ from pure crystallization by the physical mechanism of the process. From the point
+of view of the mathematical model, the closest process to bulk crystallization is the emulsion
+polymerization phenomenon, which is studied at the modelling level of the dynamics of polymer
+particles. This allows us to use previously developed methods for solving the integro-differential
+bulk crystallization model for describing the emulsion polymerization. Note that the kinetics of
+polymerization of emulsions was previously investigated by a number of authors (see, among
+others, [6-8]). So, for example, the process of emulsion polymerization of vinyl chloride was
+investigated by Heiskanen [8] on the basis of evolutionary momentum equations.
+
+An important circumstance is the fact that within a certain temperature range the process of
+nucleation and growth of crystallites from a metastable polymer liquid occurs simultaneously
+with the polymerization process [9-12]. Note that in many cases the latent heat of crystallization
+is comparable with the heat of polymerization [9]. In such processes, the effect of polymerization
+can become decisive. This is enhanced by the development of instabilities and the formation of
+new wave regimes associated with the polymerization phenomenon [13-16].
+
+In this paper, we consider the dynamic phenomenon of anionic polymerization, which
+occurs synchronously with the process of bulk crystallization. An important point is that the
+theory under consideration is valid for arbitrary kinetic mechanisms of crystallization and
+polymerization. The method of solving the nonlinear problem of combined crystallization and
+polymerization developed below is based on the construction of a general functional solution
+of the kinetic equation for the crystal size distribution function. The balance equations then

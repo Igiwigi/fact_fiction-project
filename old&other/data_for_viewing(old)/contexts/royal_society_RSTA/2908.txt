@@ -1,0 +1,24 @@
+The notion of agonism derives from Chantal Mouffe’s democratic theory [30,31], which
+complements and enhances both representative and deliberative versions of the democratic
+theory [32]. The idea is that robust, sustainable decision-making requires agonistic, adversarial
+debates between experts, policy makers and those who suffer the direct and indirect effects of
+decisions [32]. Ignoring dissent results in weak and unreliable decision-making; inviting dissent
+will broaden the hypotheses space in the metaphorical sense, and will better ground what
+machine learning experts call ‘the ground truth’.” Inviting dissent will also demonstrate ‘equal
+concern and respect’ [23], which I dare say is the core of both democracy and the rule of law.
+Agonism should not be confused, however, with antagonism (saying ‘b’ whenever the other says
+‘a’); agonism means to turn enemies into adversaries, vouching for a decision-making process
+that takes into account the concerns of those who will be affected. The same idea has emerged in
+constructive technology assessment [34], which aims to involve ‘users’ in the early design stages
+of technological innovation. Constructive technology assessment builds on the fact that resilient
+and sustainable systems, that hold up in real-world environments, require constructive resistance
+and contestation throughout their design.
+
+5As the authors admit ({25]: 11/19). See also [26].
+
+This is a crucial point, which marks the difference between the original, historical dataset on which an algorithm is trained
+(training data plus validation data) and the out-of-sample data used to test the algorithm after it has been trained. Though
+some may argue that validation and test data are one and the same thing, this is incorrect: validation data are historical data,
+whereas test data are future data from the perspective of the original dataset.
+
+7Ground truth’ refers to the output data with which the input data must be correlated, see [33].

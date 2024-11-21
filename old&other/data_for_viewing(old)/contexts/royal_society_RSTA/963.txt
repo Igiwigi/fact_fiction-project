@@ -1,0 +1,25 @@
+4. Conclusion, lessons learnt and outlook
+
+A first prototype for a new type of telescope for muography applications, based on mini-gRPC
+detectors, has been developed following the requirements of small cost and portability, where
+the latter is intended to be not only in terms of dimension and weight but also by ensuring gas
+tightness and ease of transportation of the full set-up, including electronics.
+
+This first experience has been encouraging, as we were able to design, build from scratch,
+
+and operate our muon telescope in a very short time, verifying the robustness and portability : =
+of the set-up and achieving reasonable performances. In the process, we learned several lessons. : =
+We need to invest in a reliable gas mixing system, and we need to measure the efficiency of our 3
+detectors as a function of time over long time scales; in fact, the quality of the gas can degrade : =
+over time, even in the absence of significant leakages, due to the out-gassing of the detector : R
+components (S. Procureur 2018, private communication). : S
+After addressing the aforementioned issues, we plan to build a new prototype to move further : s
+from proof of principle towards real applications. The following developments are considered. : S
+The intrinsic spatial resolution of RPCs can easily be better than O(1 mm); therefore, thinner : 3
+
+1 oO
+
+strips would allow us to perform high-resolution muography. These resolution scales have been
+reached, for similar applications, by other gas detectors (e.g. [9,19,20]) while being out of reach
+for scintillator-based telescopes (e.g. [10,11]). The natural drawback of an increase in the density
+of channels is a corresponding increase in the complexity and cost of the electronics. In order to

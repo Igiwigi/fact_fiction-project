@@ -1,0 +1,25 @@
+Figure 1. Inhibition-based attractor network model for grid cells. (a) A hexagonal grid pattern forms spontaneously (here over a period of 500 ms) on a two-
+dimensional neuronal lattice consisting of stellate cells that have all-or-none inhibitory connections with each other. Neurons are arranged on the lattice according to
+their spatial phases. Activity is colour-coded, as indicated by the scale bar at the bottom. Connection radii R of two example neurons are shown as white and green
+circles (diameter 2R). Note lower activity where the circles overlap (at 500 ms). (b) Simulated single neuron activity (red dots) over 10 min of foraging in a 1.8 m
+diameter circular arena. Wo is the strength of the inhibitory connectivity of the network; R is the radius. Note that Wo and R control the size of the grid fields and
+their spacing. (c) Effect of excitatory drive from the hippocampus. Spike distribution plots (as in 6) and directional tuning curves (firing rate as a function of
+direction) for two example cells in the presence of strong hippocampal output (top) and weak hippocampal output (bottom). (d) Grid scores (sixfold rotational
+symmetry) and mean vector length (directional tuning) as a function of the strength of external input (means ++ s.e.m.). With large hippocampal inputs, high grid
+scores are obtained, as in the top image in (c). When the external input is decreased below a critical amount, as in the bottom image of (c), the activity on the
+neuronal sheet gets easily distorted and hexagonal structure is not detectable over time. At the same time, the head-directional input becomes the dominant source
+of input and the neurons show high directional tuning. (a,b) Adapted from [32]; (c,d) from [33].
+
+The fact that a purely inhibitory network can generate grid these sets of studies suggest that connections do not have
+cells has already been noted by Burak & Fiete [30]; however, to be Mexican-hat type and that all-or-none inhibitory
+the connectivity of their model still follows a Mexican-hat connectivity is sufficient for grid formation.
+shape in the sense that cells with similar phases inhibit each A potential problem is that a purely inhibitory network
+other less and inhibition then increases as phase differences depends on tonic external excitatory drive for keeping cells
+increase, after which the inhibition again decays to zero. The sufficiently near firing threshold to fire. Such excitatory input
+all-or-none connectivity in Couey et al. [32] could be seen as a can come from a variety of sources, one of which could be
+special case of the Burak-and-Fiete weight matrix in which the hippocampus, which, via the deep MEC layers, has
+the amplitude of the positive Gaussian is zero (a = 0 in their strong projections back to the superficial layers of the MEC
+eqn 3) and the negative Gaussian has steep flanks. In [35,36]. Recent work has shown that entorhinal grids disappear
+any case, the hexagonal pattern emerges as an optimally after inactivation of the hippocampus [33]. The loss of grid pat-
+packed arrangement of inhibition circles surrounding activity terns is contingent on a drop in the firing rate of the grid cells
+bumps. Although no fundamental differences exist between and coincides with the appearance of directional tuning in grid

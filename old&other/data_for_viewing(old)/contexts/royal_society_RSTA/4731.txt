@@ -1,0 +1,24 @@
+be embedded in lower-dimensional smooth manifolds. In this note, we shall also prove partially
+
+new results for the free boundary close to singular points.
+
+(b) Reformulation of the problem
+
+The departing point of the theory was to look at free boundary points where there is a non-
+degeneracy. More exactly, one considers only points z, where Ag(z) <0, and that g is smooth
+enough around the point z. The smoothness required is a Dini continuity for Ag. This is actually
+a slightly larger class than assuming Dini continuity of the second derivatives. In this regard, one
+can mention the paper of Blank [9] where he proves existence of solutions to the obstacle problem
+with a free boundary that spirals around a point. The construction of I. Blank depends heavily on
+the fact that the Ag is non-Dini.
+
+As mentioned earlier, having settled the optimal C!!-regularity of the solution, one can
+consider the equation
+
+Au=(A@)x{u=y) in By,
+
+which can be written as
+Av=(—Ag)xv>0) in Bi,
+with v=u— 9g.
+
+(c) Non-degeneracy

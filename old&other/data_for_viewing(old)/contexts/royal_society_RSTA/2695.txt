@@ -1,0 +1,24 @@
+state propagates avoiding the rupture zone of the past event in the lower-stress state.
+
+More precisely, we extend in the present 2D model the definition of the type-I event as a large
+event whose magnitude jy (to be defined in equation (3.1)) is greater than 4, =4, and whose
+epicentre is located just one block outside the rim of the rupture zone of some past event, with
+only a modest overlap between the rupture zone of the target event and that of the past event
+from which the target event derived, less than 3 of the former overlapping with the latter.
+
+Indeed, in our 2D model, most of the large events, say, more than 99% of large events, are such
+type-I events. In 1D, there also exist type-II events where the epicentre is located in the interior of
+the rupture zone of that event with its rupture zone possessing a considerable overlap with that
+of the past event. In the present 2D model, by contrast, we find that such type-II events rarely
+occur, less than 1% in number. In fact, this has been anticipated in [40] from the geometry of the
+2D model and from the stabilization mechanism of the type-II events observed in the 1D model.
+Our present calculation of the 2D model has confirmed the conjecture of [40].
+
+Next, we investigate the event-size distribution. The magnitude of an event, 1, is defined
+here by
+
+weain| Au; |], (3.1)
+
+where the sum is taken over all blocks involved in the event. In figure 3, we show the magnitude
+distribution of events in the strong frictional instability regime.
+

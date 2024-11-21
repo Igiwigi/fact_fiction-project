@@ -1,0 +1,25 @@
+Reynolds numbers Re = U(2H)/v >> 1 depends very crucially on the wall roughness. It is only
+for rough walls that there is a strict ‘dissipative anomaly’, with f(Re,k/H) tending to a constant
+value f,(k/H) as Re— oo, as indicated both by experiments [27-29] and simulations [30]. By
+contrast, smooth-wall pipe flow may be idealized by taking k = 0 and it is observed that f(Re) > 0
+as Re — oo [31-36]. Roughly, the laminar value f ~ 32/Re is observed for Re < 10%, followed by
+the Blasius law f ~cRe~/* for 10° < Re $ 10°, and then the von Karman-Prandtl Law [37,38]
+given implicitly by 1/,/f =alog(Re,/f) + b for Re = 10°, with suitable constants a, b, c. In fact,
+the above summary only roughly states the most common interpretation of the observations
+and there are many refinements and alternative proposals. In particular, there is an old idea of
+Prandtl and others that the drag may be power-law f(Re) ~ Re~? with an exponent p(Re) that tends
+slowly to 0 as Re — oo; for example, see [23], Ch XXa for the classical literature and [39,40] for a
+modern reincarnation. Despite intense ongoing discussion of the details, the observations support
+unequivocally the fact that f(Re) decays much slower than the laminar rate 1/Re as Re — oo.
+Following the terminology introduced for kinetic energy dissipation [19,20], we may refer to this
+sublaminar decay as a ‘weak dissipative anomaly’, in contrast to the strong dissipative anomaly
+with a non-vanishing limit that is observed for rough walls. We discuss here further the case of a
+finite (but large) range of Re in the Blasius range.
+
+The dynamical consequences of these anomalies can be most easily understood by an
+examination of the global momentum balance. We consider as the simplest situation a channel
+flow in domain 2 which is periodic both in the streamwise direction x €[—L,L] and in the
+spanwise direction z ¢[—W,W] and with the vertical coordinate y constrained to lie between
+two surfaces y= H_(x,z) and y= H(x,z), where H.(x,z) are smooth functions that satisfy the
+conditions |H(x,z) = H|<k to model hydraulically rough walls. The governing equation is
+incompressible Navier-Stokes

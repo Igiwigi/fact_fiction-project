@@ -1,0 +1,25 @@
+properties as a function of optical depth (and atmospheric height if radiative transfer processes
+are well constrained) by taking measurements at specific percentage line depths [2].
+
+The challenge of the solar chromosphere is that non-local thermodynamic equilibrium (non-
+LTE) plays an important role in the propagation of photons through the relatively dense and
+tenuous atmosphere [3]. Furthermore, due to spatial resolution limitations of even the largest-
+aperture ground-based solar telescopes, and the intrinsic fine-scale structuring of the solar
+atmosphere (scales smaller than 100-150 km), often the observed spectrum within the resolution
+element is the superposition of several components owing to different plasma states (e.g.
+both quiescent and magnetized atmospheric components). The effects of a multi-component
+atmosphere are generally taken into account in state-of-the-art spectropolarimetric inversion
+codes (e.g. NICOLE; [3]). However, these techniques are extremely demanding computationally.
+In addition to the effects of spatial resolution, multi-components can arise from the fact that
+chromospheric spectral lines sample a wide range of heights; from the mid-photosphere (wings of
+the line), through to the upper chromosphere (core of the line), thus mixing very different physical
+regimes [4].
+
+Additional spectroscopic components that are superimposed on top of the quiescent
+background spectral profile can arise from a wealth of solar phenomena, including dynamic
+events such as magnetic reconnection, propagating waveforms, and shock development, all of
+which have the ability to form across a range of atmospheric heights. This adds a secondary
+component to an otherwise quiescent atmosphere [5], which is often highly Doppler-shifted
+relative to the approximately stationary line core, creating a significantly broadened resultant
+spectral profile. Being able to segregate the multi-component atmospheric contributions from
+a spectral line would allow the simultaneous examination of both ‘dynamic’ and ‘quiescent’

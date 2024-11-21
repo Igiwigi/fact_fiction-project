@@ -1,0 +1,24 @@
+viewpoint. Capping of quantum dots has been extensively studied experimentally (e.g. [61]; see
+also [62] for capping of GaAs dots by Ga,_,In,As), but there is very little known that theoretically
+validates these experimental results. As capping proceeds with substrate material, dot material is
+driven from the quantum dots onto the wetting layer by capillary-like forces, and as a result
+the size of the dots is reduced. In the end, a few dots remain and these are surrounded by
+a ring-shaped capping material; these dots are elastically compressed by the capping material
+that surrounds them and often it is energetically favourable to release this energy by ejecting
+dot material from the centre of the dot and forming ring-like structures (see [63]). As shown
+in [46], it is energetically favourable to keep a wetting layer of dot material between islands
+since it has lower surface energy density. At lower temperature (below 725 K), the morphology of
+dots remains unchanged during capping, and at a much higher temperature almost all dots are
+completely eroded. The mathematical explanation and reconciliation of this phenomenon with
+the fact that, by contrast, during the formation of the dots increasing the temperature enhances
+their onset, remain open.
+
+4. Selected design problems in soft matter
+
+Soft matter encompasses a range of materials from bio and active matter to elastomers, foams,
+fluids, polymers and colloids, that furthermore are subjected to and controlled by diverse material
+equilibrium and dynamic mechanisms [64-73]. Here, we give only very selected examples
+where material design is seen to be highly relevant, and moreover more formal, mathematical,
+approaches could possibly lead to exciting progress.
+
+(a) Self-assembly

@@ -1,0 +1,25 @@
+The starting point of our investigation of ground handling was an MSC.ADAMS model
+that was developed by the Landing Gear Group of Airbus for ground-handling studies [38].
+MSC.ADAMS is a software program that can analyse kinematic, quasi-static and dynamic
+mechanical systems. The first modelling step is to describe the rigid parts and the joints
+connecting the parts [39], where a part is described by its mass, inertia and orientation. The nose :
+gear is constrained by a cylindrical joint, driven by an angular motion, and the main gears are =
+
+constrained by translational joints. The next step is the addition of internal force elements, known Sy
+as line of sight forces, to represent the shock absorbers and tyre forces. The tyres are modelled 2
+with impact functions that switch on as soon as the distance between the wheel centre and the tyre aed
+becomes less than the wheel radius, where the lateral force on a tyre is dependent on the slip angle 22
+and the vertical force on the tyre. External forces such as thrust and aerodynamic forces, known as : Ss
+action-only forces, are then added. The value of such a software tool for a company lies in the fact : s
+that the equations of motion are constructed automatically, allowing the engineer to focus on the : s
+engineering aspects of the system, and not the derivation of complex equations. As MSC.ADAMS : &
+
+cannot be coupled to the DST, a process was developed to translate the MSC.ADAMS model to
+SimMechanics, which can be coupled to the DST. While there are important differences between
+the two modelling packages, the development of the SimMechanics model followed that of the
+ADAMS model.
+
+After the successful coupling of the industrial ground-handling model to the DST, the first step
+in the analysis is to find an equilibrium condition for the aircraft. In our case, a velocity controller
+is used to accelerate the aircraft to a desired steady-state velocity over a few seconds. The thrust is
+then held constant until the steady-state response is reached. The corresponding values are then

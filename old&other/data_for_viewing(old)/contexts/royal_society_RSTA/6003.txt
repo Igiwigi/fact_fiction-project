@@ -1,0 +1,25 @@
+Is it possible to find a new infinitesimal symmetry with a non-zero z-component? The answer
+depends on the topology of the spatial domain 2:
+
+() If Q=T® then Qz=T?. Note that the values of Z for which the pair (cos Z,asin Z)
+
+is incommensurate, cover densely the region Z € [0,2z). In these cases, the pathlines
+are infinitely long and cover densely the 2-torus 2z parametrized by (x,y). Let us call
+the sub-manifolds Qz ‘ergodic’ in such cases. On the other hand, embedded in the
+region Z €[0,2z) are an infinite number of points for which the pair (cos Z,asinZ) is
+commensurate, with closed pathlines on the 2-torus 2z. We call the sub-manifolds 27
+regular in these cases. Let 27, be an arbitrary regular sub-manifold, where Zo € (0,27).
+Then, the open region Be = Uze(z)~,Z)+<) @z contains, for arbitrary small enough e > 0,
+ergodic sub-manifolds 27. This is due to the fact that irrational numbers are uniformly
+distributed on the real line (equidistribution theorem).
+We claim that it is impossible to find an infinitesimal symmetry continuous on B,, and
+defined globally there, with a non-zero component along the z-direction. To see this,
+suppose that such a symmetry exists, call it 9(x,y,z,t), and assume without loss of
+generality that its z-component is equal to 1 at f=0,x =0,y =0,z = Zo: 1§(0,0, Zo, 0) =
+1. Let 5 be such that 0<6 <e and such that 27,45 € Be be ergodic. Recall that 5 is
+arbitrarily small. Thus, the symmetry vector field 5y9(x,y,z,f) connects the point P:=
+(0,0,Z9) € 2z, with the point P:= (5n9(0, 0, Zo, 0), 504 (0, 0, Zo,0), Zo + 8) € 27,45. Using
+equation (3.3), let us denote the pathline passing through P by (X(r), Y(r),Zo) € 2z, We
+[0,1], with (X(0), Y)) = (X(1), Y(1)) = (0,0) since 2z, is regular. Now, let us denote the
+pathline passing through P by (X(s), Y(s), Zo + 8) € 27,45, 8 €(—0o, 00), which is not
+closed because 27,45 is ergodic. But by definition the symmetry 9 maps the closed

@@ -1,0 +1,25 @@
+
+When these heritage structures were designed and built, far less was understood about the nature
+of environmental loading and structural response. Civil Engineering standards were generally
+not developed until the end of the nineteenth century; for wave loading in particular, the seminal
+research on interactions with walls did not take place until well into the twentieth century when
+wave loading on walls was investigated by Hiroi in 1919 [16] and waves on cylinders by a team
+led by Morison in 1950 [17]. Domede & Fady [7] provide a historical review of wind loading that
+was used in the design of the Ile Vierge lighthouse, developed by the British lighthouse engineer
+John Smeaton, making a comparison to modern Eurocodes. They discover that the lighthouse was
+over-designed, with a safety factor of approximately 10. Carter et al. [12] considered the unusual
+steel transporter bridges located in Newport, Wales, and Middleborough, northeast England,
+built more than 100 years ago. They reveal that the survival of the steel transporter bridges is due
+in part to the fact that wind loading on each structural element was applied with no consideration
+of the sheltering of neighbouring elements.
+
+
+Considering a statistical description of loads, extreme environmental design conditions
+have been historically defined by means of classical stationary extreme values analysis theory.
+Unfortunately, we are facing a period of accelerating climate change which might result in most
+previously identified design parameters being obsolete. Hence, the development of advanced
+techniques for non-stationary extreme analysis investigation is a priority in order to properly
+consider climate change effects within design parameters. Moreover, as field measurements are
+usually rare, the scarcity of data arises as an additional difficulty, implying a great amount of
+uncertainty on the estimation of the design parameters. In this light, Bayesian inference can be
+successfully used to deal with this unavoidable uncertainty of the results, incorporating different

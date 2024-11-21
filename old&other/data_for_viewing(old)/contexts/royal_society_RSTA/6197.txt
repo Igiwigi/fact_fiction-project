@@ -1,0 +1,25 @@
+states derive, emergence has been proposed to be measured by employing a ratio between excess
+entropy and statistical complexity [8,10]. In the context of multivariate stochastic processes, causal
+emergence and downward causation have been proposed to be measured by employing variants
+of the unique information, which are based on the partial information decomposition [11] and
+integrated information decomposition [12].
+
+However, in the context of deterministic processes, statistics faces insuperable obstacles when
+trying to quantify irreducible information content [13]. Being one of the well-known results
+in algorithmic information theory (AIT) [1], any resource-bounded computational procedure
+that tries to quantify the amount of irreducible information content in a single encoded object
+returns distorted values in general. Although the entropy of its contiguous blocks of length
+m is maximal, this distortion is, for example, seen in Borel-normal sequences of length n that
+are in fact computable (and therefore logarithmically compressible) [14], where m <n. In the
+context of networks and graphs, there are also highly compressible graphs in which the degree-
+sequence entropy is maximal [15]. Thus, if one is interested in measuring irreducible information
+content (or measuring the emergence of new irreducible information) in deterministic systems,
+which are free of stochasticity, employing any fixed and computable measure based only on
+finding and exploiting statistical patterns (in order to approximate the most compressed form that
+computes the system’s behaviour) will exhibit limitations and face these obstacles in general. The
+main limitation stems from the fact that most computable patterns are not periodic, the kind of
+regularity that a statistical approach would be able to characterize. Computable but non-periodic
+patterns will tend to have high statistical complexity (e.g. Shannon entropy with no access to the
+underlying probability distribution) but low algorithmic complexity, meaning that a statistical
+approach would assign them a random nature that, for all mechanistic and cause-and-effect
+purposes, should not.

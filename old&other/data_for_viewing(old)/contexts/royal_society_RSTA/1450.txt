@@ -1,0 +1,25 @@
+
+serving as a basis for more generic MCS software, have been introduced [8]. MCP are categories of
+multiscale models that exhibit common scale-separation maps and coupling topologies between
+model components. Example MCP include the Extreme Scaling (ES) pattern where a single
+at-scale model dominates computational cost within a multiscale model, the Heterogeneous
+Multiscale Computing (HMC) pattern based on the heterogeneous multiscale method (HMM) [4]
+where many microscale models are coupled to a macroscale model and launched on-demand,
+and the Replica Computing (RC) pattern where a large number of individual model ensembles
+are evaluated under a range of initial conditions.
+
+By their nature, multiscale models are composed of individual at-scale (or single scale) model
+components. Each at-scale component is frequently a complex parallel software developed over
+many years. This fact has motivated a shift away from monolithic approaches to multiscale
+model development and towards more heterogeneous component-based approaches, capable of
+incorporating existing at-scale models with minimal software modifications. One such approach,
+the cooperative parallelism programming model, is a task-based multiple-program multiple-
+
+data approach to parallel programming [9]. In cooperative parallelism, single unit computation : =
+tasks named symponents (a portmanteau of simulation and component) are executed by a : =
+runtime system. Symponents are able to interact dynamically with the runtime system to launch, 1B
+communicate with, and destroy additional symponent calculations. The Co-op MCS implements :2
+the cooperative parallelism programming model and leverages the Babel software [10] to 8
+integrate symponents together that are written in different programming languages [11,12]. : o
+The cooperative parallelism programming model is well-suited for development of multiscale in
+models [13] and the Co-op MCS has been successfully employed for multiscale modelling of : =

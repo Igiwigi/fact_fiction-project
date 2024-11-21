@@ -1,0 +1,24 @@
+is depleted by reaction front propagation
+
+x¢(t)
+R(t) = < (2 4 Z4(x, nt) : (3.10)
+
+Evaluating the time derivative in (3.10) using the Leibniz rule and (3.7) for x;(t), itis readily shown
+that
+
+RQ)= “Co. (3.11)
+
+The spatially integrated reaction rate R(t) is time invariant because in a semi-infinite system (in
+both x and z), the entire influx of reactive species mass is consumed within the domain at all times
+(after a short initial time as discussed below in the next section). In fact, the constant value of R()
+is simply equal to the reactive power of the inflow solution, where the factor n/m denotes the
+number of moles of W required to react with one mole of C. For a fracture with finite length (L),
+it is readily shown that R(t) is given by (3.11) before the reaction front reaches the end of the
+fracture, i.e. t < t,, where ty, is the time taken by the reaction front to reach the end of the fracture,
+
+given by
+ope" ie
+tL= —. (3.12)
+- ( q Dip
+
+For t > t,, R(t) decreases as the inverse square root of time, according to

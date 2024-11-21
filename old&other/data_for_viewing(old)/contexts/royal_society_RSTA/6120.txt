@@ -1,0 +1,24 @@
+more relevant methods for neural probe fabrication, all based on silicon wafers, were identified
+and are presented as follows.
+
+The first method and perhaps the most well-established one would be that of back grinding.
+This technique consists of a coarse-grinding step, followed by a fine-grinding one, done on the
+non-active back of the chip by a grinding wheel. The chip is stuck in place by an adhesive tape,
+which as mentioned in [64] has an effect on the total thickness variation. This technique has the
+advantage of being cost-effective, very rapid and has been shown to achieve very fine thicknesses
+of down to 3m [65], although it can cause some damage to the chip in the form of warping and
+breakage during manipulation of the chip. Some could also argue that given that neural probes
+are very delicate structures, such a technique should not be considered. However, if one were
+to perform chip thinning before the integration step of the soft substrate with the more rigid
+electronics, the risk of damage to the neural probe could be attenuated. In fact, a study performed
+by Sacher ef al. [66] demonstrated that back grinding could be a suitable chip thinning method for
+photonic neural probes with a thickness ranging from 50-92 um. In addition to this, there have
+been techniques explored to reduce mechanical damage to the chips caused by back grinding,
+such as the one explored by Morcom eft al. [67], known as taiko, where grinding is not performed
+on the periphery of the back, non-active side of the wafer, leaving a ring structure that enhances
+the structural integrity of the wafer.
+
+The second method has been gaining more interest within the literature in recent years. It is
+the process of chip thinning through etching, which can be done in two ways: dry etching or
+wet etching. In terms of dry etching, there are different types, mainly RIE, deep reactive ion
+etching (DRIE) and physical ion etching (PIE). The first two types use plasma to chemically

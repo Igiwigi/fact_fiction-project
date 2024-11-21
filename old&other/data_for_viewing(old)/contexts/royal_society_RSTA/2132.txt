@@ -1,0 +1,24 @@
+means that ¢y =0 implies ¢g = 0. As in the first step of reduction, working with ¢, and y and not
+with ¢ and bp is crucial.
+The reduction form (3.37) and (3.38) must satisfy (3.36). The result of substituting (3.37) and
+(3.38) into (3.36) may be summarized as
+
+=o" '(-P(W) + Ba, W) (3.39)
+and
+Blbar VW) = Gla bu — W) + O(€) terms. (3.40)
+
+The quantity B consists primarily of the coupling term in the lowest-order approximation but
+also contains some other terms depending on the unknown quantities. The situation is similar to
+the first step, that is, if o and I(w) are determined simultaneously from (3.39) with B supposed
+known, then they must be found to any desired precision by iteration. This is in fact possible.
+Note that o is a 27-periodic function of ¢2, which means that it vanishes by integration over one
+period. This condition determines I" as
+
+2
+rW)= 5. |, BU. Wdy= Bul). (41)
+
+Then, o (u,v) is obtained by integrating the right-hand side of (3.39):
+~ ba
+(du) =o" |" (By, ¥) ~ Bosd)) ay. (3.42)
+It is clear that, starting with the lowest-order B obtained by dropping the O(e) terms in (3.40), we
+can achieve successive approximations for o and I’.

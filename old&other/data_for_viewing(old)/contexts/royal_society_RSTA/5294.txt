@@ -1,0 +1,25 @@
+o2hq(q+1)\
+and BS (an . (4.4)
+
+Then, for o = 0, the function it is a supersolution of (1.2).
+
+Proof of lemma 4.3. We first note that @ € Lip(R) and ¢ is c! except for |y| =B, and CC except for
+ly| =B,A. We also check that condition (4.2) implies that ¢ is non-decreasing, which also implies
+that @ = 0, because @(—oo) = 0.
+
+On the one hand, we have with y = x — d(t)
+u(x, t) — u(—x, t) = a(t)(b(x — d(t)) — o(—x — d(t)))
+=a(t\(ply) — o(-y — 2d(#))) = a(t\(Y) — o(—Y) = e(Hy = WO, t)
+where we have used in the second line the fact that ¢ is non-decreasing. On the other hand, we
+want to check that
+ip + Mu > 0. (4.5)
+
+Note that this inequality is automatically satisfied in the viscosity sense at points corresponding
+to |y| = B (because there is no test functions from below at those points). Outside that set, we have
+
+iy = —d'(Ha(t)o'(y) + @'(Hely) = 0
+
+because ¢ > 0, 6’ > 0 and
+
+,
+ca'(t) +0.

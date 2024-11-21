@@ -1,0 +1,25 @@
+of software. For instance, a company developing a word pro- lizing these models. Recent developments with the Geppetto
+cessor might have a test that verifies whenever the mouse platform (http://geppetto.org) [20] for multi-scale biological
+clicks a specific region in the upper left hand of the screen, the simulation, which was the underlying platform for WormSim,
+‘File’ menu opens and not the ‘Edit’ menu. Likewise, other have enabled users to visualize the C. elegans connectome
+tests might verify that files can be appropriately written to disk within the body of the worm itself, and visualize and explore
+or that connectivity with printers and other network devices is changing dynamics in the connectome to see the effect on swim-
+working. From its inception, OpenWorm has incorporated best ming and crawling. This version of the visualization is currently
+practices from the software industry, including unit testing, being incorporated into the OpenWorm simulation stack above
+across all of the diverse sub-projects, especially PyYOpenWorm in order to allow users to examine intermediate levels of the
+[47]. Examples of unit tests used by OpenWorm include verify- simulation (see [20], this issue, for visual examples.)
+
+ing that entries can be added to and removed from the
+PyOpenWorm database, that every biological fact such as ion
+channel parameters have associated PubMed identifiers and
+that functions implement error handling correctly.
+
+As a scientific research project that incorporates dynamic
+models, another class of tests crucial to our effort are model vali-
+dation tests. In contrast to simple unit tests, which verify that a
+discrete piece of code has the correct behaviour, model validation
+tests verify that the output of an entire dynamic model corre-
+sponds to known behaviour from the academic literature. For
+instance, alongside the ion channel curation and parameter
+extraction tasks in ChannelWorm, a parallel effort is aimed at
+implementing validation tests for each of these models using

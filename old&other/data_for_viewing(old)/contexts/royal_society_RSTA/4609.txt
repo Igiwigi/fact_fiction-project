@@ -1,0 +1,25 @@
+(e.g. [37-40]). For the most likely scenario of a relatively small object of a few hundred metres in [8
+
+diameter wave propagation can be simulated only to a distance of tens of kilometres with such
+an all-in-one model approach.
+
+The multi-scale nature of impact-induced tsunami waves suggests the usage of different
+models appropriate to deal with the specific processes on different spatio-temporal scales, such as
+generation, propagation including shoaling and run-up, separately. Crawford & Mader [41] were
+the first to employ such a hybrid approach by combining CTH hydrocode modelling of crater
+formation with the ZUNI code for wave propagation simulation. Following this approach, Weiss
+et al. [44] coupled iSALE hydrocode modelling with a Boussinesq-type wave propagation code
+and the MOST model, allowing quantitative predictions of inundation and run-up heights. Both
+studies suffer from the fact that wave propagation did not take a realistic bathymetry into account.
+
+A critical and difficult part is always the coupling between different models and thorough
+testing is crucial to make sure that no numerical artefacts result from the change from a high-
+resolution computational domain (either full three or two dimensions with cylindrical geometry)
+where the compressible Navier-Stokes equations are solved (region of crater formation) to
+the computational domain where material flow is calculated by shallow-water or Boussinesq
+approximation on a two-dimensional grid (longitude and latitude). In commonly used tsunami
+propagation models, the wave height and water depth are functions of longitude and latitude,
+and the actual thickness of the water column and flow velocities as a function of depth are not
+resolved. Such models are only applicable to waves longer than 10-20 times the water depth.
+Shorter waves (typical for impacts) with a wavelength-to-depth ratio of 2 or greater can be
+modelled with pCOULWAVE [45]. The code considers the varying orbital velocity v as a function

@@ -1,0 +1,25 @@
+gastropod Biomphalaria glabrata mitogenome (NC_005439) [131-133] and MITOS [136]. The latter software performs de
+was unusually long, fully overlapping with trnT, in contrast novo annotation of protein-encoding genes by sequence simi- Ss
+with the reported genes in the gastropods Cepaea nemoralis larity and secondary structure predictions of both rRNA and a
+(NC_001816) and Albinaria caerulea (NC_001761). Indepen- tRNA. MITOS reports annotation results in the standardized
+dently determined EST data (AA547758) showed the format that supports the accepted, consistent nomenclature of
+cDNA for the C-terminus of nad4 to end before the down- mitochondrial genes. Updates (MITOS2 is available at
+stream trnT gene, more consistent with those of the other http: //mitos2.bioinf.uni-leipzig.de/index.py) have improved
+gastropods, and to terminate on a single T nucleotide that the prediction accuracy but the results still require manual
+was extended by polyadenylation to form a TAA stop curation.
+codon [14]. Alternative start codons, the potential for incomplete stop
+
+Based on genome sequence alone, inferring the exact codons and molluscan-specific tRNA structures continue to
+boundaries of rRNA genes is especially difficult. In fact, in challenge automated annotation. Some possible challenges
+most cases, there is simply the presumption that the rRNA for annotation are shown in figure 2, using atp8 from gastropod
+gene extends to the boundary of the flanking genes, with mitogenomes as an example. atp8 is the shortest protein-coding
+this moderated by the extent of similarity matching to hom- gene in mitogenomes and relatively variable among gastropod
+ologous genes of other organisms. species, often not detected by BLAST and thus also not recog-
+
+The genes for tRNAs diverge in sequence rapidly and are nized by MITOS. Additionally, atp8 of several gastropod
+most commonly found by identifying potential secondary species employs an alternative start codon, like ATT that nor-
+structures with a set of typical features [128-130]. Some lineages mally encodes for an I (isoleucine), serving as start codon
+are known to have aberrant structures with some of the arms (specifying formyl-methionine) only at the initiation of protein
+diminished or even missing, complicating this inference. translation. Automated gene finding and inexperienced anno-
+
+The rise of next-generation sequencing (NGS) has been a tators may fail to recognize ATT as a true start, choosing an

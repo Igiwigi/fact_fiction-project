@@ -1,0 +1,25 @@
+the site storage limit will also need to be two orders of magnitude larger than in ITER. This can be
+done safely from the purely technical standpoint, but will certainly be a difficult discussion point
+with any licensing authority.
+
+In the following, there will be a short description of what has to change in comparison with
+ITER for the inner fuel cycle of a reactor. It is clear from the above discussion that we need to
+directly recycle the majority of the DT gas (figure 8) and not have all the exhaust going through
+the T-plant [14]. A method developed at KIT is to use super permeation foils which allow only
+atomic hydrogen isotopes to path through [15]. This requires large surfaces near the divertor and
+an atomizer. A small test stand with such a set-up is installed at KIT. The foils can also build
+
+
+pressure on the other side and thus contribute to pumping due to the fact that the recombined
+molecules of hydrogen cannot penetrate them. The downside of this method is that hydrogen
+which is outgassing from metals will contaminate the DT fuel and thus this has to be controlled.
+Also, the D and T isotopes have to be rebalanced and therefore a small part of the exhaust
+stream has to go through isotope separation. Another unknown is how impurities which may
+be deposited on the foils will impact the permeation capabilities; first results suggest that it may
+not be a large problem but further research is needed.
+
+Instead of the ITER cryo pumps (high vacuum pumps raising the pressure to roughing pump
+pressures) and roughing pumps (pumps which can pump roughing pressure and elevate it to
+atmospheric pressure), a new type of Mercury diffusion and Mercury ring pump will replace the
+two types of pumps described above and be used for continuous pumping [16]. This avoids the
+difficulties with the cryo pumps regarding inventory and regeneration, in particular regeneration

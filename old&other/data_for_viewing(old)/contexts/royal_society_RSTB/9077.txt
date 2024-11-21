@@ -1,0 +1,25 @@
+more variables tends to increase the accuracy of the models.
+The question then becomes ‘How many is too many?’
+In statistical models, new variables should only be added if
+they increase the fit of the models, best measured using infor-
+mation theoretic criteria [42]. In biological or process-based
+models, simply choosing the ‘obvious’ variables such as
+temperature and rainfall runs the danger of omitting less
+obvious variables which may be equally important in deter-
+mining species’ distributions; for such models the obvious
+question might be ‘How few is too few?’.
+
+Parsimony, which is intrinsically good for the reasons out-
+lined in the NRC quote, is in fact forced upon the present work
+using statistical models because of the rather limited number
+of climate variables available from GCMs. The variables avail-
+able, however, may not be the right ones for the disease in
+question. In addition, as the present analysis has shown,
+some of the available GCM variables are very highly correl-
+ated with each other, reducing the number of useful
+variables still further. Statistical modellers predicting the
+future of diseases might therefore re-phrase St Augustine’s
+plea to the Almighty (about remaining chaste) in the following
+terms: ‘Make us parsimonious, but not yet’.
+
+Another problem with GCMs is their intrinsically poor

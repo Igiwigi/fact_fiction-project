@@ -1,0 +1,25 @@
+as the code size can be adaptively changed without disrupting existing connections.
+
+(i) System performance for an ideal channel
+
+It is informative to examine the ideal channel case to understand the system limitations when the
+transmission bandwidth is larger than needed for the symbol rate used. The decoded vector in
+this case can be rewritten as
+
+rp ~ e
+v= witht Naip, (2.7)
+where r represents the clipping coefficient that describes the power loss due to clipping. Using the
+
+fact that x can be modelled as approximately Gaussian, the clipping coefficient, r, can be calculated
+from the Bussgang theorem [21] using
+
+00 2
+aE [ xg(x) wo (- @= Oe (= He) )ax
+
+—p +2, 2P,
+B+2Pmax) ogo B+ 2P max) | (2.8)
+
+68203)/N V0e6?e3y/N
+
+where erfe(x) = (2/,/7) [°° exp (—u?) du.
+The effective noise vectors after the IFWHT operation are denoted as n= (n/N)(H}, - Ay)

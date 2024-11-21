@@ -1,0 +1,25 @@
+SSP differs from that conceived here for their inertial-layer counterparts. For the SSP operative in
+the near-wall region, the rolls are maintained by nonlinear interactions among x-varying Rayleigh
+instabilities arising from spanwise inflections of the streaky streamwise flow [5,7]. In contrast, in
+the model contemplated here, the rolls within the UMZs are triggered by instabilities within the
+VFs, i.e. outside the UMZs, because the fissures are the sites of strong wall-normal inflections and
+thus are prone to Rayleigh instabilities with disturbances predominantly varying in x/y planes.
+Although linear stability considerations indicate that the fastest-growing disturbances have
+streamwise wavelengths comparable to the (dimensional) VF thickness A;, these modes cannot
+directly couple with motions in the UMZs because their wall-normal extent similarly scales with
+A;, implying that such disturbances are confined to the fissure. In contrast, disturbances with
+streamwise wavelengths long compared with the fissure thickness induce pressure fluctuations
+that penetrate well outside the VF. Moreover, the near-marginal instabilities most relevant to
+an SSP are, in fact, long-wavelength modes. As shown in §3, the x-varying streamwise velocity
+component associated with these long-wavelength near-marginal modes is amplified within the
+VE, enabling the fluctuation dynamics to nonlinearly couple with the streamwise-averaged flow
+inside the fissure.
+
+3. Large Reynolds number analysis
+
+In this section, we perform a large Reynolds number asymptotic analysis of the NS equation
+to derive simplified equations governing the flow configuration shown in figure 2b. In the
+idealization considered here, the domain is imagined to have been excised from a large-Re, flow
+sufficiently far from the wall that the x-averaged streamwise velocity component varies by only
+O(uz) across an outer wall-normal distance ly < comparable to the wall-normal spacing between
+adjacent VFs, except near the fissures, where the x-averaged streamwise velocity also varies by

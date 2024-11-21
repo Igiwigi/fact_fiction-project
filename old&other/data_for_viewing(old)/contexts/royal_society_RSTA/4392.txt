@@ -1,0 +1,25 @@
+
+4See http:/ /en. wikipedia.org /wiki/Betweenness_centrality for an overview. For the best algorithm with which to compute
+it, see [3].
+
+
+destinations. Collecting these broadcasts and extracting the AS—AS links between them is one 4 |
+way of monitoring the current state of the AS graph, but it tends to present only the (paid)
+
+transit links. To observe peering links, several groups (e.g. CAIDA,> RIPE® and DIMES’ [4]) have “3
+used tools such as Traceroute [5], which sends a stream of packets to a single destination from a : a
+single observation point, with each successive packet reporting the address it has reached after ig
+an increasing number of hops. As long as the packets all follow the same path, this traces the : s
+actual links along which the message has been routed, and peering links are in fact observed. :&
+The effectiveness of Traceroute observations is difficult to quantify (how to count the links not 2
+
+seen?), but it clearly depends both on the completeness of the set of destinations to which traces
+are sent and on the richness and coverage achieved by the observation points from which they are
+sent. Solutions to the first problem have been worked out by groups from CAIDA, DIMES and
+RIPE in the past, but establishing and maintaining enough points from which to see deep into the
+
+Internet remains the bigger problem, which we will discuss below. A curious difference between : =
+Traceroute-based discovery of the links in the Internet and identifying links by collecting the : yy
+routes advertised by BGP routers is that the two methods appear to discover different sets of links. (3
+In the DIMES studies, Traceroute from several thousand downloaded software clients discovered : S
+fewer ASes and fewer links overall than the BGP data collected by the RouteViews project.® It 22

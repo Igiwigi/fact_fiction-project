@@ -1,0 +1,24 @@
+for executing applications on computational grids. The author relies on application run time
+predictions in order to perform a simulation of the scheduler (in their case, it is a simple ‘first
+come, first served’ scheduler). This is not suitable for our needs. Getting an accurate estimate
+of program execution times would be really difficult across different systems with many users.
+Furthermore, the schedulers are different and implement different scheduling strategies. Some of
+them are quite complex (or impossible) to accurately simulate (e.g. fair-share scheduling). Li et al.
+[11] explore queue wait time prediction in a similar context as in our paper. They take a similar
+approach to [10] and simulate a specific scheduler using job run time predictions. However, as
+they assume the Maui scheduler [12] which is not widely used anymore, and as they base their
+work on simulations of the scheduler, their work cannot be applied in our case.
+
+Gao et al. [13] use a genetic algorithm to optimize job scheduling, however their approach does
+not apply to us due to the fact that we need to estimate job queue wait time probabilities. Chen
+et al. [14] use Naive Bayes, but in a different context, namely optimizing MapReduce partitioner.
+
+In this paper, we propose a novel method based on the well-known technique of Naive Bayes
+classification. The time is discretized to a certain granularity that is chosen when deploying the
+system. We divide time in pairs of intervals and solve the problem of assigning jobs to two
+classes—whether the job will start before time t; or whether it will start after. We use the Naive
+Bayes formula (Bayes theorem with the assumption that attributes are independent of each other)
+and probability calibration techniques to arrive at a probability for each of the two events. The
+output of the method is a list of tuples of the form (t;,p;) where t; is time in seconds and p; is the
+probability that the job will start before time t;. The user then has a set of probabilities to manually
+examine or they can let the brokering algorithm choose the resources for them.

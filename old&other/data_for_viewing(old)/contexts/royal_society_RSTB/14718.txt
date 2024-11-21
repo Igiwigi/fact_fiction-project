@@ -1,0 +1,25 @@
+
+that the prey is already roughly directly ahead of the Although, as noted above, the two models presented here
+animal. For triggering strikes, greater accuracy is required, are certainly a simplication of mantis stereopsis, it, therefore,
+since mantids rarely strike at monocular stimuli or at prey seems that praying mantids may not possess a crude, low-
+which is out of their catch range [6,28,105,106]. Here, we resolution version of vertebrate stereopsis—a version of
+found that we did need a disparity sensor which achieves figure 6a with fewer, larger disparity sensors, operating on
+weak correspondence: our model fitted a strong expansive temporally filtered inputs rather than image contrast.
+output nonlinearity (raising to the power of 5). As well as Rather, current evidence is consistent with something even
+greatly enhancing the response to optimal stimuli, this also more basic, as sketched in figure 6b,c. Table 1 makes an
+boosts the average response to matching stimuli, relative to attempt to compare and contrast the two stereoscopic systems
+non-matching stimuli with the same average monocular found in primates and insects. This should be regarded as a
+value. This is formally very similar to the binocular simple set of ‘current best guesses’ intended to stimulate future
+cell, the building-block of current models of primate stereop- work and discussion, rather than as a list of established facts.
+sis. However, monocular processing before binocular One claim sometimes made is that the forms of stereopsis
+combination renders the mantis disparity sensor insensitive proposed here are ‘not really stereopsis’. Clearly, this is a
+to properties of the stimulus which are fundamental to pri- matter of definition. Some researchers have emphasized the
+mate stereopsis, such as the direction of local motion or the qualia associated with human stereopsis (e.g. ‘a compelling
+sign of contrast (bright versus dark) [34,35]. This again perception of solidity or three-dimensionality, a clear sense
+seems very poor design from the point of view of primate of space between objects and a phenomenal sense of realism’,
+stereopsis and conventional machine stereo. [116]), but it is unclear how to test for this in non-human
+That said, the proposed stereo-guided strike system does species or in machines. I prefer to define stereopsis as ‘the
+implement at least a weak form of stereo correspondence. It ability to gain information about the 3D structure of visual
+also seems fair to argue that it achieves a form of binocular scenes by comparing information collected separately and
+single vision for isolated objects, if we assume that activation simultaneously from different lines of sight to the same
+of a disparity sensor triggers a percept of a single object at the region of space’ [30]. This definition in terms of information

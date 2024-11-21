@@ -1,0 +1,25 @@
+
+Figure 6. Illustration of (a) m-CAP transmitter and (b) magnitude of the frequency response of the pulse shaping filters py1,0), : =
+(0),j= (1, ... N} (6 = 0.2) for different number of bands NV. An example of a channel response |H(f)| is also shown. (Online is
+version in colour.) 2
+
+[61] making it comparable to O-OFDM [30]. Nevertheless, the digital implementation of the 1g
+pulse shaping filters of each subband is simplified as the filters cover a smaller frequency range :
+enabling the use of lower oversampling factors w which are closer to the Nyquist sampling
+frequency [78], while the optimization of the filter length can provide important performance
+improvements in aggregate data rate and bandwidth efficiency [58]. It should also be noted that
+multi-band CAP produces a modulating signal which has a larger PAPR than that of the single-
+carrier CAP and therefore is more susceptible to nonlinear transmission impairments [89]. This
+is due to the fact that the modulation of multiple sub-carriers by independent symbol streams
+results in a higher probability of particular harmonics to interfere constructively and generate
+larger signal amplitudes. A larger number of subbands increases this probability, thus leading
+to larger PAPR ratios [61]. Finally, it has been shown that the increase in spectral efficiency
+tends to saturate with the use of larger number of subbands [29,31,86], which indicates that their
+number needs to be optimized for a particular link. Increasing the number of subcarriers beyond
+a certain number offers no additional performance improvements yet requires additional system
+components.
+
+(b) Improved equalization
+
+Significant research has been dedicated to the equalization of CAP-based systems as it is a
+fundamental requirement in enabling high data rates in VLC links. Different equalizer types

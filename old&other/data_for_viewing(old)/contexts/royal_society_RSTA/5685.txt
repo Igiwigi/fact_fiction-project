@@ -1,0 +1,25 @@
+
+To demonstrate the significance of our proposed approach, we compare with three categories of
+baseline models, including compartment models, statistical models and neural network-based
+methods.
+
+
+— Compartment models
+
+1. RobertWalraven-ESG [65] approximates the SEIR model with a mathematical
+model that initialized from a particular skewed Gaussian distribution.
+
+2. UCLA-SuEIR [18] further considers Untested/Unreported compartment than the
+SEIR model based on the fact that exposure to the virus can also infect the
+susceptible group in a certain period.
+
+3. JHU_IDD-CovidSP [66] is a variant of the SEIR model which aims to generate more
+realistic infectious periods by employing an Erlang distribution to model the time
+in the Infected compartment.
+
+— Statistical models
+
+1. ARIMA [67] is an autoregressive moving average model and leverages the past
+values to explain the given time series.
+
+2. PROPHET [68] pays more attention to the nonlinear trends of seasonality and holiday :

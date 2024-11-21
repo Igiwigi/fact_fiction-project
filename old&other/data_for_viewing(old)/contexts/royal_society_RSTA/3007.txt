@@ -1,0 +1,25 @@
+and D of system 2, so that:
+
+If A then it is always true that C is true.
+If C then always B is true.
+If B then always D is true.
+
+Or
+A-C>B=+D, (1.9)
+
+where the arrows denote implication. For any realistic system this would seem to imply that:
+If A then always D: A D.
+
+However, for the quantum system, this last will turn out to be false; in fact the closer the
+state is to a product state, a completely un-entangled state, the lower is the probability that if A
+then D.
+
+To simplify the argument, I will choose the state such that we can choose properties A, B, C, D
+such that
+sin(9)|1 1) + sin(@)|—1 1)
+
+V2
+
+where |ij) represents the state with the eigenvalue i for A and eigenvalue j for operator C. One
+can always do this as long as the reduced density matrix of one of the particles has a smallest
+eigenvalue that is less than (2 — /2)/4 (if the smallest eigenvalue were 3 the state would be a

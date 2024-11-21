@@ -1,0 +1,25 @@
+|tr F| <2. (1.7)
+
+It is remarkable that this algebraic condition (1.7) admits (under the asymptotic
+assumptions stated at the outset) a physical interpretation of the centrifugal force
+exceeding the gravitational force in the sense of (1.3). This is a symptom of a previously
+hidden role of geometry in averaging theory. Some recent progress in exploring this
+connection will be outlined in this brief survey.
+
+Example. High frequency and small amplitude do not automatically guarantee stability:
+stabilization must be strong enough to overcome the destabilization, in the sense of (1.3). As an
+example, with! =1, g=1 anda=wsinaot (high acceleration, high frequency, small amplitude) the
+condition (1.3) fails, and with it does stability, no matter how large w is: the centrifugal force of
+the fictitious constraint in figure 1 is too weak to overcome gravity. Intuitively, the mean square
+velocity v? is not high enough.
+
+Let us, therefore, increase the acceleration (and thus the velocity), keeping the same
+frequency—take, for instance, a = @°!? sin wt. The choice of power guarantees that the amplitude
+is still small, namely w '/? (but not as small (w~!) as in the preceding example of instability; this
+increase is unavoidable since we kept the frequency and increased the acceleration). The stability
+criterion (1.3) now becomes
+
+58 or w > 2gl.
+
+Our heuristic discussion relied on the asymptotic assumption of high frequency and high
+acceleration, and so an earlier remark applies here: this condition alone does not guarantee

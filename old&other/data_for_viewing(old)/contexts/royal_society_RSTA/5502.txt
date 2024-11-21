@@ -1,0 +1,25 @@
+return to the workshop. Also, information about the successful adoption of response actions at
+the edge level should be propagated through the cloud in order to be used in similar devices
+in analogous situations. In such a view, DT hierarchy is associated with model abstraction and
+modularity rather than pure redundancy and enables federated multi-simulation among DT for
+predictive analytics [25].
+
+Another aspect worth mentioning is that although the main scope of the concept is to support
+self-healing, which could be interpreted as an extremization of fault-tolerance in complex CPS, the
+approach also allows for fault-avoidance [16], due to the autonomic controller implementing the
+MAPE-K look in the DT possibly being able to predict the future evolution of CPS behaviour and
+
+
+react accordingly in order to prevent threats. In fact, in this application the autonomic controller
+can be thought of as a resilience controller over the managed system also ensuring safe autonomy
+whenever appropriate and feasible.
+
+4. Challenges in anomaly detection with digital twins
+
+The framework presented in the previous section is based on the capability of DT to detect
+anomalies by analysing CPS events and diagnostic data generated at the edge level. Anomaly
+detection is a broad topic which can be defined in several ways. According to the definition given
+in one pioneering work on the subject [26]:
+
+(a) Anomaly detection refers to the problems of finding patterns in data that
+do not conform to expected behaviour

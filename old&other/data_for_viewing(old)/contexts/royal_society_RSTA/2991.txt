@@ -1,0 +1,25 @@
+of saturation parameter 5; see equation (2.1). (a,), (a), (a3) and (a4) Depict the largest real part of 5 for the fundamental, dipole,
+tripole and quadrupole soliton, respectively, in the case of the focusing saturable nonlinearity. (b;), (b2), (b3) and (b4) Show the
+same for the defocusing nonlinearity. Parameters are the same as in figure 1. (Online version in colour.)
+
+Figure 4 presents the dependence of the largest instability growth rate, Max(dp), on the
+solitons’ integral power, P, as produced by numerical solution of the eigenvalue problem for
+the fundamental, dipole, tripole and quadrupole solitons at different values of S and both signs
+of the nonlinearity, focusing and defocusing (the top and bottom rows in figure 4, respectively).
+The numerical results displayed in 4(a) and 4(a2) show that, under the action of the self-focusing
+nonlinearity, Max(5p) is negligibly small for the fundamental and dipole solitons, which indicates
+that they are linearly stable, irrespective of the value of S. On the other hand, the tripoles and
+quadrupoles are stable when the solitons’ power is sufficiently small, as seen in 4(a3) and 4(a4) (in
+fact, the quadrupoles are almost completely unstable). Further, under the action of self-defocusing
+nonlinearity, fundamental solitons are linearly stable, irrespective of S, as shown in figure 4(b1),
+while 4(b2), 4(b3) and 4(b4) show that the dipoles, tripoles and quadrupoles are stable, in this case,
+only in tiny intervals of very small powers. A general trend, suggested by these results, is that the
+instability is attenuated with the increase of the saturation strength S.
+
+The results of the linear-stability analysis are confirmed, separately in figures 5 and 6 for
+the focusing and defocusing nonlinearities, by direct numerical simulations of the perturbed
+evolution of solitons, performed in the framework of equation (2.1). In these figures, the results of
+the simulations are displayed along with (in)stability spectra of the underlying stationary states.
+The eigenvalue spectra of equation (4.2) for fundamental, dipole, tripole and quadrupole solitons
+are shown on the top row in figure 5. In particular, figure 5(b1) and 5(b2) confirms the stable
+propagation of the fundamental and dipole solitons in the case of self-focusing nonlinearity, under

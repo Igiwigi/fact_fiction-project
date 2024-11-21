@@ -1,0 +1,24 @@
+differences between the results in the functional and MNI spaces. Specifically, in figure 5a,c, it
+can be seen that the time-varying DMN degree follows the time-varying HR and PETCO2 power,
+respectively. On the other hand, in figure 5b,d, the same relation is not as clear, which is reflected
+on the obtained correlation coefficients (table 1).
+
+In figure 5, we also present results obtained when using the wavelet transform, for the
+frequency sub-bands within which the correlation between time-varying network degree and
+band-limited signal power was found to be highest. In both functional and MNI spaces, the A4
+level (0-0.25 Hz) yielded the highest correlations for the HR signal, whereas for the PETCO2
+signal, the A2 level (0-0.08 Hz) yielded the highest correlations in the functional space, owing
+to that resting PETCO) fluctuations exhibit most of their power below 0.05 Hz [32]. In the MNI
+space, level A4 (0-0.02 Hz) yielded the stronger correlations for the PETCO) signal, possibly due
+to the fact that registration of the BOLD time series to the MNI space essentially results in low pass
+filtering. Overall, the correlations between time-varying degree and signal power were found to
+be stronger for the time-varying band-limited power compared with total signal power (see also
+tables 1 and 2).
+
+The correlation coefficient values between time-varying DMN degree and the total/band-
+limited power of the PETCO? and HR signals are given in table 1 for all subjects (mean + s.d.).
+
+
+functional space x105 functional space: wavelet level A4.__ 108
+
+(a) 6.5 6 (b) 6.0 10

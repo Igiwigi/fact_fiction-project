@@ -1,0 +1,25 @@
+1,...,n, whereas in the non-coherent receiver, the phase information is lost, and the output is
+only the magnitude |r(iT;)|. It can be shown that the coherent receiver in combination with the
+inner transmitter (4.3) and the AWGN waveform channel (4.1) generates the complex discrete-time
+AWGN channel
+
+want ey, (5)
+
+where w; are complex independent Gaussian random variables with zero mean and variance
+of =E[|w;|*] =No/Ts = NoW. The variance of the transmitted symbol x; is o2 =P for alli.
+
+The capacities of these two discrete-time channels are shown in figure 4a, where the shaded
+region indicates that the capacity of the non-coherent channel is known by means of upper
+and lower bounds (see appendix) but not exactly. Despite the fact that they both communicate
+over the same waveform channel, their capacities are quite different. Interestingly, the capacity
+of the complex discrete-time AWGN channel is log,(1 + 02/02) bit/symbol, which corresponds
+to (1/Ts) log,(1 + 02/02) bit/s. This is exactly the same expression as (4.2), which shows that
+this combination of transmitter and receiver is, indeed, optimal for the continuous-time AWGN
+channel. This optimality can be understood by means of Nyquist’s sampling theorem, which
+states that any complex waveform band-limited to [f,f + W] can be completely described by
+its samples taken at rate W. Hence, if the waveform is time-limited to a large time interval T,
+then 1 = WT complex numbers are enough to completely describe the waveform. In other words,
+there is a one-to-one correspondence between x(t), 0 <t<T=nT, in figure 1b and x1,...,X, in
+figure 1c, and analogously for y(t), which means that the continuous- and discrete-time AWGN
+channels are equivalent and have the same capacity. For general channels, however, there exists
+no such equivalence between continuous- and discrete-time models.

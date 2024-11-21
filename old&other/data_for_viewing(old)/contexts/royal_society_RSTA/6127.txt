@@ -1,0 +1,25 @@
+it is related to the global rate matrix via LDB.
+
+Let N* be some unit structure with height less than three representing the original system,
+without the feedback apparatus. Using equation (4.1), the EP without the feedback apparatus is
+lower-bounded by
+
+oN > By = TN (ph (X)) — DN" (p70). 6.3)
+
+By coupling that original system to the feedback apparatus we construct a new system, M, which
+comprises the original system together with an extra subsystem (the feedback apparatus) and
+new dependencies of the original coordinates of the system on the state of that new subsystem.
+There are many possible unit structures, M*, over this new joint system-feedback-apparatus. For
+simplicity, exploit the fact that C evolves independently of the other coordinates in the system
+(by not evolving at all) to construct M* directly from \V*, by replacing each unit » €.V* with
+a new unit, w'(w):=@ UC. So M* and N* contain the same number of units, with each unit in
+M* containing the subsystem C, and X,.(4) =C x Xw. (It does not matter if we add an additional
+unit to M*, containing just C itself.) This gives a new lower bound on the EP, B,y-. In electronic
+supplementary material, appendix J, it is shown that the difference between the lower bound
+on EP in the new, feedback scenario and the lower bound on EP in the original, no-feedback
+
+
+scenario, is _
+Bu — Byxw= A [eyelet | — AI(Xy;C). (5.4)
+
+By conservation of energy, the work done on the system during [f;,t] is the change in its

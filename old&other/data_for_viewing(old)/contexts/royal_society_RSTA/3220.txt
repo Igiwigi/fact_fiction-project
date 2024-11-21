@@ -1,0 +1,25 @@
+
+Lemma 3.4. For any fixed 4 €[—Aco, 0], the path s+» ®s(Y,) is positive. In particular, Az, > 0 and
+
+A2L= )) dim(.(Yo) 1D).
+s<L
+
+Proof. Let s, €(—oo,L] be a crossing, so that @5,(Y),) ND # {0}. Let W be a subspace in R"
+transversal to ®; (Y,). Then W is transversal to @,(Y,) for all s €[s, — ¢,s, +] for ¢ > 0 small
+enough. Thus, there exists a smooth family of matrices, ¢(s), for s € [s, — ¢,s, +], viewed as
+operators $(s): ®s,(Y,) > W, such that ,(Y,) is the graph of $(s). Fix any non-zero v € ®,(Y,)
+D and consider the curve v(s) =v + ¢(s)v € ®s(Y;) for s € [sx — €,S + €] with v(sx) =v. By the
+definition of Y,, there is a family of solutions p(x;s) of (1.6) such that v(s) = ®,(p(x;s)). The
+notation p(x;s) denotes the fact that p(x;s) € Y, depends on s as a parameter and is a function of
+x; then (p(x; s)) = p(s;s) is the solution p(x;s) evaluated at x = s. Denoting by dot the derivative
+with respect to the variable s so that
+
+i(s) = (p'(x;s) + p(%s))lx=s,
+we claim that
+w(u(sx), d(Sx)) > 0, (3.3)
+Assuming the claim, we finish the proof as follows: as for each non-zero v € ®.,(Y,) ND the
+crossing form Q_y satisfies
+Quivv=£)  ovo@y=2|  ow,v +06»)
+=— ov, Vv) = — ov, Vv
+mes ds S=S, ‘ ds S=S,
+= o(U(Sx), 0(Sx)) > 0,

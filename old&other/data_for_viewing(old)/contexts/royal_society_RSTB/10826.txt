@@ -1,0 +1,25 @@
+are recoded along M<WN new axes that are oriented ran-
+domly—as long as M > O(log P)! [53]. This means that for
+sufficiently large P, the minimally required M is proportional
+to log(P). Distances are approximately preserved when randomly
+weighted averages are taken (equivalent to projections onto
+randomly oriented axes) or dimensions are selected at random.
+Importantly, the number M> O(log P) of random samples
+required is independent of the dimensionality N of the original
+
+rapidly along the cortex (features 4—6), but will approximately preserve
+selectivities that vary slowly along the cortex (features 1-3).
+
+retinotopic maps in early visual cortical areas. The fact that the
+model defines not only a computational process, but also the
+spatial arrangement of the computational units, enables us to pre-
+dict how the model's internal representations would be reflected in
+locally averaging fMRI voxels.
+
+A voxel sampling a little patch of V1 will average signals from
+neurons with very similar spatial receptive fields and selectivities
+for different orientations. We therefore expect that orientation-
+specific signals will be attenuated in the voxel patterns, whereas
+information about the overall spatial distribution of contrast
+across the image will be better preserved (figures 2 and 3). It is unli-
+kely that a voxel samples all orientations (and similarly the entire

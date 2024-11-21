@@ -1,0 +1,24 @@
+observed data for the number of detected cases of an infectious disease has been used in the past;
+see for instance [19].
+Using (1.4) as the interpretation of the available data leads to the observational model
+
+~ (ft ,1 P
+
+i=i(}-0g) - ark (15)
+a second-order nonlinear differential equation equipped with non-local boundary conditions
+(1.4), see §3 for the detailed derivation. A significant part of this work is devoted to studying the
+boundary value problem (1.4) and (1.5). In contrast to initial value problems that typically arise
+when studying mathematical epidemiology, boundary value problems are much more difficult
+to deal with. For instance, it is well known that a small change in the boundary conditions may
+lead to significant changes in the behaviour of the solutions [20]. In fact, there is no general theory
+to the existence and uniqueness of a solution for boundary value problems. In most instances,
+we have to study the boundary value problem on a case-by-case basis, especially when the
+problem at hand is nonlinear, and/or the boundary conditions are atypical, which is the case
+with our problem as the boundary condition (1.4) is given in a non-local integral form. Non-
+local boundary conditions have been studied in the past in various forms, recently appearing
+in the study and application of fractional differential equations [21]. In our case, the non-local
+boundary conditions correspond to fixing the values of certain integrals of the solution over given
+time intervals, which is similar to how the average value is imposed on certain boundary value
+problems with Neumann boundary conditions to ensure uniqueness of the solution. Although
+this form is convenient for the analysis, we note that we can convert the integral conditions to
+

@@ -1,0 +1,25 @@
+applications.
+
+Turorem. Let Q be a group and let K, be certain subgroups of Q, where « ranges over an index set A.
+Let every group K, be embeddable in a group G,, (in other words, there is an isomorphism of K, on to
+a subgroup of G,). Then Q and the G,, can be simultaneously embedded in a group P in such a way that
+(for all we A) ee a
+and ( for all a, fe A, a=) Go G, = Ko Ky. (15-4)
+
+t An amalgam is called ‘proper’ if it is not already a group, or if it contains two elements with no
+
+product in it.
+
++ In fact continuously many different such groups.
+
+
+FREE PRODUCTS OF GROUPS WITH AMALGAMATIONS 533
+
+Proof. We first form to every « the free product G% of G, and Q, amalgamating K, qua
+subgroup of G, with K, qua subgroup of Q. Then we form the free product P of all G*,
+amalgamating Q. The existence of the G* and of P follows from theorem (14-2). Evidently
+P contains all G, and Q as subgroups, namely, as subgroups of its factors GF. In GZ, and
+hence also in P, the intersection of G, and Q is
+
+GoQ— Kk.
+Ifa-f, then Gn G,C GE an GF = Q,

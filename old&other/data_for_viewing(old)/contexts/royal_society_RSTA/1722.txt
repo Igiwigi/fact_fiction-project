@@ -1,0 +1,25 @@
+
+where A: D(A) C X > X generates a strongly continuous semigroup on X, f+ 2; in the history
+function defined in definition 4.3, the operator K is given by (4.7), and L: W!?(R-,X) > X is the
+operator defined by
+
+0
+Ly=| dulce,
+
+where 1: R~ —> £(X) is a function of bounded variation such that the total variation |n|(R~) <
++oo. On the other hand, we set
+L=Lp@- (4.14)
+
+Equation (4.13) can be reformulated as the DBVP. In fact, it suffices to take Ep = &, 2 =D(Qm),
+and G=4p. Thus the neutral equation is equivalent to a Cauchy problem of the form (3.2).
+On the other hand, proposition 4.2 shows that hypothesis of theorem 3.2 are satisfied. Hence,
+equation (4.13) is well-posed and solved by strongly continuous semigroup (T_,k(f))>0 on the
+product space
+
+X=Xx Ep.
+
+We summarize all the above results in the following.
+
+Theorem 4.6. The neutral equation (4.13) is well-posed and it is equivalent to the Cauchy problem (3.2)
+governed by the operator cf,,x on X defined by (3.3) which generates a strongly continuous semigroup on
+X. Moreover, if 1 € p(Ke* U(.,0)) then

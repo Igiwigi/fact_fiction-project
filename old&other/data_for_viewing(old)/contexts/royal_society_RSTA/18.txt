@@ -1,0 +1,25 @@
+in robust variants of PCA and has led to one of the most vigorous lines of research in PCA-
+related methods. A discussion of this issue can be found in [42]. Wright et al. [43] defined RPCA
+as a decomposition of an 1 x p data matrix X into a sum of two n x p components: a low-rank
+component L and a sparse component S. More precisely, a convex optimization problem was
+defined as identifying the matrix components of X = L + S that minimize a linear combination of
+two different norms of the components:
+
+in ||L A\|S|l1, 3.5
+min Ll]. + AlSllr (3.5)
+where ||L\|, = 5°,0;(L), the sum of the singular values of L, is the nuclear norm of L, and
+
+AWSlh =>; yj |si| is the €;-norm of matrix S. The motivation for such a decomposition is the
+fact that, in many applications, low-rank matrices are associated with a general pattern (e.g.
+
+
+the ‘correct’ data in a corrupted dataset, a face in facial recognition, or a background image in
+video surveillance data), whereas a sparse matrix is associated with disturbances (e.g. corrupted
+data values, effects of light or shading in facial recognition, a moving object or person in the
+foreground of data surveillance images). Sparse components are also called ‘noise’, in what can
+be confusing terminology since in some applications it is precisely the ‘noise’ component that is of
+interest. Problem 3.5 has obvious points of contact with some of the discussion in §3b. Candés et al.
+[44] return to this problem, also called principal component pursuit, and give theoretical results
+proving that, under not very stringent conditions, it is possible to exactly recover the low-rank
+and sparse components with high probability and that the choice of 4 = 1/,/max(n, 1m) works well
+in a general setting, avoiding the need to choose a tuning parameter. Results are extended to the

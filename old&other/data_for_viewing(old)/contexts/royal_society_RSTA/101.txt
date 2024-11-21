@@ -1,0 +1,24 @@
+relativistic invariance of the theory under Lorentz transformations. The physical results are of
+course still independent of the choice of reference frame, but if we go to a relatively moving frame
+we also have to make a gauge transformation to impose the Coulomb-gauge condition in the
+new frame.
+
+Now, one of the assumptions made in proving the Goldstone theorem [20] was that the theory
+is explicitly Lorentz invariant. This is the assumption that fails in the case of Coulomb-gauge
+electrodynamics. The time independence of the ‘charge’ operator Q of (5.6) only follows from the
+continuity equation (5.5) if one can drop a surface integral term at infinity. This is legitimate in
+a manifestly Lorentz-invariant theory, because what we are really interested in are commutators,
+and in such a theory the commutators always vanish outside the light cone. However, it is not
+legitimate in Coulomb-gauge electrodynamics, where commutators fall off quite slowly at large
+distances. In fact, as was shown explicitly in our paper [26], the operator Q, in this case, not only
+fails to be time-independent, but actually does not exist at all as a well-defined operator. This is
+now recognized as a characteristic feature of spontaneous symmetry breaking.
+
+
+There is an alternative approach that does preserve relativistic Lorentz invariance. That is, to Lo |
+choose instead of (7.1) the Lorentz gauge condition, namely
+
+a,A“ =0, (7.2) : 4
+which does not require a choice of reference frame. But, in this case, some gauge freedom remains; : g
+here, if B“ =0, all we can say about ¢p is that it satisfies the wave equation, 0,0" ¢2 =0, which, : 3S
+being a hyperbolic equation, does have non-trivial solutions. In this manifestly Lorentz-invariant : Z

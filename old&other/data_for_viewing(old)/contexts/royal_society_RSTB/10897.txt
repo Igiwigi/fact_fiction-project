@@ -1,0 +1,25 @@
+will exist. If we exclude the extreme values, we obtain qualitat-
+ively similar results (median (absolute) r = 0.09, 28 out of 110
+correlations statistically significant at p = 0.05).
+
+The top five correlations in terms of (absolute) strength
+were: CO, production in 2010, Oil use in 2011, Chocolate con-
+sumption in 2004, Military spending (% GDP) in 2013, and
+Population aged between 15 and 64 in 2013. However, exclu-
+sion of extreme values (3*IQR rule) gives a rather different
+top 5: Chocolate consumption in 2004, Contraception preva-
+lence in 2010, Research & development expenditure in 2010,
+the % of malnutrition in 2010, and the % of teenage mothers
+in 2012. The fact that this top five looks quite different,
+points to the importance of outliers in ASR and exemplifies
+how volatile these statistical relationships are. For example,
+Military spending, ranked fourth without exclusion of
+extreme values, is now ranked 98th in terms of strength
+when excluding extreme values.
+
+We repeated this exercise at US state level (see figure 4). The
+median (absolute) correlation with sex ratio was 0.22. Seven-
+teen out of 50 correlations with sex ratio were statistically
+significant (34%). The top five correlations in terms of (absol-
+ute) strength were: Date of statehood, the Gini Coefficient
+(2010), mean travel time to work (2009-2013), the maximum

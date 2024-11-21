@@ -1,0 +1,25 @@
+that ellipticity loss induces stress channelling, folding and faulting. In this article, the acoustic
+tensor is derived, and wave propagation conditions are explored for anisotropic constrained
+Cosserat solids, with full account of microinertia. For these materials, a new infinite-body, time-
+harmonic Green’s function is obtained under antiplane deformation and used to explore the
+dynamical behaviour of an extremely orthotropic material prone to folding. Results show that
+folding localizes at the steadily pulsating force applied as a perturbation to a constrained Cosserat
+material with extreme orthotropy and waves emanate from the source that degenerate into plane
+disturbances parallel to the direction of ellipticity loss. Moreover, maps of displacements reveal
+the emergence of complex patterns of deformation, typical of the material instability of a Cosserat
+continuum. Special attention is devoted to the presence of rotational microinertia. This feature is
+explored as connected to pattern formation. It is shown that its magnitude can change the sign
+of the lower-order derivatives in the differential equations of motion, so that its effect on the
+emergence of deformation patterns is very complex and sometimes counterintuitive. In fact, as
+related to the presence of microinertia, the formation of a folding wave propagating along the
+discontinuity lines is shown to become possible.
+
+2. Dynamics of couple-stress elasticity
+
+In this section, the basic elastodynamic equations are introduced for linear anisotropic couple-
+stress solids. A detailed presentation of the couple-stress theory (called also ‘constrained Cosserat
+theory’) can be found in [7] (see also [4,8]).
+
+The kinetic nergy density, evaluated with respect to an inertial frame of reference, differs from
+the classical form due to the presence of the microinertia of the continuum which measures,
+through the symmetric structural tensor Opa the effect of the spin @p. It can be written as [9, p.

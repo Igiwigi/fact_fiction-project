@@ -1,0 +1,25 @@
+vertically even in the case of oblique incidence.
+
+In order to evaluate the attenuation suffered by a wave in the ionosphere, it is often
+convenient to divide the ionosphere into a deviating region and a non-deviating region,
+the latter being situated below the former. The non-deviating region is one in which
+propagation can be considered rectilinear but in which absorption may not be negligible.
+In this region there is no appreciable variation with height in the angle between the
+direction of propagation of the wave and the direction of the earth’s magnetic field, and
+consequently the main difficulty which the technique of the present paper was developed
+to overcome is non-existent. The attenuation suffered by a magneto-ionic component
+in the non-deviating region of the ionosphere may be calculated by integrating
+the imaginary part of Appleton’s complex refractive index along the oblique rectilinear
+path of the component in the non-deviating region, and this is true in spite of the fact
+that the planes of constant amplitude do not coincide with the planes of constant
+phase.
+
+In the deviating region of the ionosphere the following method is available for
+calculating the integrand of (25). Reflexion from the ionosphere is only appreciable
+provided the effect of damping in the deviating region is sufficiently small (see p. 429).
+In these circumstances Newton’s method of correcting approximate roots of equations
+may be used to deduce the roots of the quartic equation (7) from the roots which are
+obtained when damping is entirely neglected and which are represented by the curves
+IA, RA, IB, RB in fig. 7. Let g now denote, not as in (23) a root of (7) for the case when
+damping is taken into account, but a root of (7) for the case when damping is entirely
+neglected. Let ¢ be the small complex correction to this root necessitated by the intro-

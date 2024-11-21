@@ -1,0 +1,25 @@
+computational costs of an SCTST in addition to a standard TST. In the computationally cheapest es
+form of SCTST, the one-dimensional (1D) SCTST, one simply assumes the coupling between the a
+reaction vibrational mode and all the other vibrational modes are zero. Note that there are two 8
+levels of assumption here. In the first level, one can assume that the anharmonic constant matrix :
+has only one non-zero element that corresponds to only the reaction mode. The value of this single DA
+element is still calculated in the same way as in a full-dimensional (FD) calculation. However, Dw
+studies [1,6] suggest that the rate constants calculated in this way are not in satisfactory agreement 1m
+to an FD SCTST result. In the second level, which is actually a stronger approximation, one can :g
+assume that the third- and fourth-order derivatives with respect to all vibrational modes other 1
+than the reaction mode and the coupling terms in the third- and fourth-order derivatives between :
+all the modes are zero. This automatically reduces the anharmonic constant matrix to a single
+element. In addition, this single anharmonic constant has a different value compared to the one
+used in FD SCTST. Interestingly, the resulting rate constants in fact show a better agreement to the
+corresponding FD results [1,9]. Furthermore, to improve the performance of SCTST, in particular,
+in a low-temperature region, the application of the deep-tunnelling correction proposed by
+Wagner et al. [14] has been applied to both FD and 1D SCTST [1,8,9,13].
+
+In the current study, we use 1D SCTST of the second assumption level described above with
+the deep-tunnelling correction to investigate the reaction rate constants for the following two
+reactions in both the forward and reverse directions:
+
+R1: CH30H +H =CH30 + Hy
+
+and
+R2: CH30H +H=CH)OH + Hp.

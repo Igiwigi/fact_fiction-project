@@ -1,0 +1,25 @@
+to work with reliable statistics [39].
+
+Regarding the selection of the parameters, Bandt & Pompe suggested working with 4<
+D <6 and specifically considered an embedding delay t =1 in their cornerstone paper [15].
+Nevertheless, it is clear that other values of t could provide additional information. It has been
+shown recently that this parameter is strongly related, if it is relevant, to the intrinsic time scales
+of the system under analysis [43-45].
+
+The local sensitivity of Fisher information measure for discrete PDFs is reflected in the fact
+that the specific ‘i ordering’ of the discrete values p; must be seriously taken into account in
+evaluating the sum in equation (3.5) [18,19]. The pertinent numerator can be regarded as a kind
+of ‘distance’ between two contiguous probabilities. Thus, a different ordering of the pertinent
+summands would lead to a different Fisher information value. In fact, if we have a discrete PDF
+given by P = {p;,i=1,...,N} we will have N! possibilities for the i ordering.
+
+
+
+The question is, which is the arrangement that one could regard as the ‘proper’ ordering?
+The answer is straightforward in some cases, a histogram-based PDF constituting a conspicuous
+example. For such a procedure, one first divides the interval [a,b] (with a and b the minimum
+and maximum amplitude values in the time series, respectively) into a finite number of non-
+overlapping sub-intervals (bins). Thus, the division procedure of the interval [a,b] provides
+the natural order sequence for the evaluation of the PDF gradient involved in the Fisher
+information measure. In our current paper, we chose for the BP PDF the lexicographic ordering
+given by the algorithm of Lehmer (http: // www.keithschwarz.com interesting /code/factoradic-

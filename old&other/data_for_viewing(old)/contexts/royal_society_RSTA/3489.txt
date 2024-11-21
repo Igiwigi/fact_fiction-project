@@ -1,0 +1,24 @@
+correctness of effectful transactions, and perhaps quality-of-service aspects. ae
+6. Conclusion
+
+As a final point of comparison, the reader may consider The Definition of Standard ML almost
+three decades ago [87]. This specification was rich—it comprises static and dynamic (operational)
+semantics—but only semi-formal: the specification employs judgments in natural-deduction style
+and other inductive relations, but only parts of the language were (later) mechanized in a proof
+assistant [88-90]; it was complemented by an extensive commentary that includes pencil-and-
+paper proofs motivating key language aspects [91]. The specification was not live: the recent
+CakeML can be considered a machine-checked implementation [12] but no prior ML compiler
+adheres to the specification strictly—certainly not provably so. It was also buggy [92]: subtle
+errors were later eliminated in a revised version [93]. Illustrating the importance of two-sided
+evaluation, many mistakes were in fact only uncovered when the specification was subjected
+to an unanticipated use case, namely the development of Extended ML [94]. Nevertheless,
+SML/’89 represented a remarkable achievement: it demonstrated to a wider audience that
+formal language specification that goes beyond syntactic issues is possible and provided
+a point of reference for numerous compilers of the greater ML family, including SML/NJ
+and OCaml.
+
+As illustrated by this comparison, core objectives of deep specifications were identified several
+decades ago. With the advent of mature proof assistants, we can now realize the potential of these
+ideas to address challenges of systems in the twenty-first century, exploiting the proof assistants’
+unique combination of machine-checked proof, mathematical expressiveness and automation
+support to achieve foundational verification of complex behaviour at scale.

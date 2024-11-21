@@ -1,0 +1,25 @@
+As is well known, the width and the shape of spectral lines, from an absorbing medium
+in the gas phase at thermodynamic equilibrium, provide a variety of quantitative information
+on the gas itself, from both the microscopic and macroscopic points of view. In fact, from the
+accurate analysis of an absorption profile, it is possible to retrieve the strength of a given line,
+
+from which the transition dipole moment between two quantum states can be inferred, and the : =
+line centre frequency, providing direct information on the involved energy levels. Nowadays, : yy
+similar data for diatomic and triatomic molecules are of the utmost importance to test the accuracy 2
+of new methods and strategies for ab initio calculations [1,2]. Furthermore, if the shape of a : S
+given line is accurately recorded as a function of the gas pressure, then line broadening and 22
+shifting coefficients can be determined. When dealing with molecules of considerable importance : 8
+for atmospheric and climate physics, accurate values of these parameters are necessary for gas DN
+monitoring applications [3]. In fact, if the spectroscopic parameters of a particular line of a given : g
+species are known (as a function of the gas temperature), then the absorber gas density can if
+
+be accurately determined by using laser absorption spectroscopy [4]. This is a possible way to
+determine the vertical profiles of water, carbon dioxide and other trace constituents of the Earth
+atmosphere in air- or balloon-borne experiments through punctual (in sifu) measurements at
+different altitudes [4].
+
+In the Doppler regime, namely at low gas pressures, the main source of line broadening is the
+Doppler effect. This latter leads to the Doppler width of a spectral line, which links the thermal
+energy to an optical frequency, according to the following equation:
+
+vo [oy ker

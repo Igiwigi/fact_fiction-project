@@ -1,0 +1,25 @@
+
+Figure 13
+
+Fox & Southwell carried out further computations on a finer mesh, but even here the
+error at the central point was as much as 13 units. At least one finer mesh, involving no less
+than 136 points, would certainly be required if the difference-corrections for differential
+equations and particularly for boundary condition are to be ignored. The dangers of ill-
+conditioning already mentioned are correspondingly magnified.
+
+8. Curved boundaries
+
+The theory of the treatment of curved boundaries in the biharmonic equation is not more
+difficult than in the corresponding harmonic case; in one important particular, in fact, the
+problem is easier. This arises from the form of the boundary conditions, which usually
+specify both the function and its normal derivative. This is equivalent to specifying the
+function and its boundary derivative in all directions, in particular in the direction of
+
+47-2
+
+
+364 L. FOX ON THE NUMERICAL SOLUTION
+
+the mesh lines.* The difficulties mentioned in § 4 are therefore not likely to occur with the
+biharmonic equation. The remaining problems are purely practical ones, arising from the
+relatively complicated nature of the finite-difference form of the biharmonic equation.

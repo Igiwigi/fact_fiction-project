@@ -1,0 +1,24 @@
+usually have algebraic decay. For this reason as well as those mentioned above, £ with domain
+D1({0, 1]) is considered in the present work. Similar issues ina slightly different but related setting
+(a continuum KdV system near a point of soliton stability change) have been brought up in [44].
+
+We now consider the properties of the linear operator £. Observe that £ is a densely defined
+unbounded operator on the Hilbert space D°({0,1]) with its domain being D'({0,1]). Thus, the
+adjoint of £ can be defined, and indeed we find that
+
+L=-J'L], (3.6)
+
+so that £J and JL are self-adjoint (note that J-! =-J). Observe also that the spectrum of L is
+2ni-periodic, because e** Ztw(t) =e +2)" (Ze (z) e2"*7) and Ztw(t) e~2""* is also a travelling
+wave with velocity 1. This symmetry is due to the fact that the shift operators $, commute with
+the multiplier eT for ne Z. Owing to the time-translation invariance of the solution Xtw, an
+important property of L is that its kernel contains
+
+C0 = 07 Xtw, (3.7)
+
+as can be directly verified by differentiating (3.1) in t and evaluating the result at X = Xtw.
+Here we assume the generic situation when ker(L) =span{eo}. Similarly, we have ker(L*) =
+span{J~teo}. Next, we observe that (eo,J~teo) =0, where (-,-) denotes the inner product in
+D°({0, 1]). This implies that e9 € (ker(£*))+ = im (L), and thus there exists e; € D'({0,1]) such that
+eo = Lei, so that the algebraic multiplicity of the eigenvalue 4 =0 for L is at least two. In fact,
+differentiating (3.2) in c, we obtain cL(d-Xtw) = 7 Xtw, SO

@@ -1,0 +1,25 @@
+The validation of the incompressible MHD analytical solution for the nonlinear evolution of
+Alfvén wave collisions with a kinetic numerical simulation has two important implications. First,
+the properties of the incompressible MHD solution persist even under the weakly collisional
+plasma conditions relevant to realistic space and astrophysical plasmas. Second, the dynamical
+behaviour of the turbulent cascade in the MHD regime, k, pj <1, in particular the nonlinear
+energy transfer, is adequately described by the simplified framework of incompressible MHD.
+This second point highlights that, even in a kinetic plasma, the nonlinear energy transfer is
+essentially fluid in nature, and can be modelled as a nonlinear wave—wave interaction. On the
+other hand, the physical mechanisms responsible for damping of the turbulent fluctuations under
+weakly collisional plasma conditions, as will be argued below, must be essentially kinetic in
+nature, dominated by wave-particle interactions.
+
+Talso note that the physics of Alfvén wave collisions highlights the fact that plasma turbulence
+is inherently three dimensional [9,17,61]. The linear term in (2.1) governs the propagation of
+the Alfvén waves along the equilibrium magnetic field and is non-zero only when the parallel
+wavenumber ky 40, requiring the inclusion of the field-parallel dimension. And the vector
+
+
+(b)
+
+oO T T
+ee
+03 4
+5 o* ava {\ FAV AVAVATAVAVATAVATAVATATS:
+r q 1 i

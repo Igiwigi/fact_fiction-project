@@ -1,0 +1,25 @@
+——-,
+
+It) Ap) + LY) Ay) > 1 4)1At) +1 NAY). (4.52)
+
+NUE”
+After the swap | |) is as probable as |A;) was (and still is), and | t) as |A,). Probabilities in A are
+unchanged (as A is untouched) so p; and p, must have been swapped. To prove equiprobability,
+
+we now swap records in A:
+a
+14) IAp) +14) Ay) —> I IAyI +1 1144). (4.5b)
+
+Swap in A restores pre-swap | tay + |J)|A,) without touching S, so (by fact 3) the local
+state of S is also restored (even though, by fact 1, it could not have been affected by the swap
+of equation (4.5b)). Hence (by fact 2), all predictions about S, including probabilities, must be the
+same! The probabilities of | +) and | |) (as well as of |Ay) and |A,)) are exchanged yet unchanged.
+Therefore, they must be equal. Thus, in our two-state case, p; =p, = } For N envariantly
+equivalent alternatives, py; =1/N for all k.
+
+Getting rid of phases beforehand was crucial: swaps in an isolated pure state will, in general,
+change the phases, and hence will change the state. For instance, |@) + i]9), after a swap
+|@)(Q| + |) (@], becomes i]@) + |), ie. is orthogonal to the pre-swap state.
+
+
+The crux of the proof of equal probabilities was that the swap does not change anything locally.

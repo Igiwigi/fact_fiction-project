@@ -1,0 +1,25 @@
+time (s)
+
+Figure 3. The data and the separation of waves and turbulence components: the cleansed data (light green) and the wave
+Motions (blue) reconstituted by components 6, 7 and the final trend to give it the right level; the residue (red) defined as
+the difference between the data and the wave motions; and, finally, the high-frequency turbulence and noise given in the
+lower panel.
+
+wind shear, mean and tidal currents, and even some large-scale turbulence and waves other than
+those associated with the spectral peak. From this residue, the components with frequency higher
+than the waves are extracted, and shown in a separate panel of figure 3. These components are
+the primary candidates for our investigation of the wave-turbulence interactions directly. This
+wave-turbulence separation is based only on EMD without explicit dynamical considerations.
+As EMD can separate components with physical significance, we believe the dynamics are in fact
+the determining factor implicitly. The results of this separation are also shown in the spectral
+from in figure 2a. Granted that the wave-turbulence interactions are nonlinear in nature, this
+additive extraction should not be expected to be complete. This is why the removal of the wave
+components shows a slight overestimation that causes a dip in energy of the residue spectral
+line. As the wave motion is many orders of magnitude higher than the turbulence, a very good
+approximation is to use the additive method near the peak. This separation seems to be effective
+and quite clean.
+
+We then conducted a probability test on the separated components, and found some curious
+results, as given in figure 2d. The sum of the higher-frequency components (IMF no. 1-5),
+presumably the turbulence components, shows a highly non-Gaussian characteristics with
+skewness at —0.07 and kurtosis at 3.87. On the other hand, the full residue consisting of all

@@ -1,0 +1,25 @@
+herringbone mixer of Stroock et al. (2002) has no independent control parameter.
+The mixers by Tabeling et al. (2004) and Bottausci et al. (2004) have two control
+parameters: an amplitude and a frequency of pressure gradients producing cross-flows
+(the system of Bottausci et al. in fact has three pairs). Examples of other control
+parameters include speed of moving parts (impellers and so on), frequency of time-
+dependent electric fields. All these devices allow for optimization without changing
+the device itself.
+
+Wiggins & Ottino (2004) review elements of the necessary theory and definition of
+terminology in a mathematically rigorous way. They present a basic representation
+of mixing applicable to two-dimensional blinking flows, and with proper caveats, to
+duct flows. This does not mean that all necessary theory has already been developed,
+and it is clear that further mathematical developments are needed; in fact we outline
+a few steps that should be taken to complete the description. It is fair to say, however,
+that the field would benefit by closer convergence of applications and theory.
+
+Ordering papers is always somewhat artificial. Stroock et al. (2004) analyse the
+mixing in the three-dimensional staggered herringbone mixer, which they have intro-
+duced in an earlier publication. The cross-section is modelled in terms of a Stokes
+flow, with the flow mimicked in terms of a lid-driven cavity flow. The model repro-
+duces well the advection patterns in previous experimental work (Stroock et al. 2002).
+Poincaré maps, simulation of the mixing between two initially segregated streams and
+resident time distributions and a range of optimal geometries are identified.
+
+Tabeling et al. (2004) consider mixing in a cross-channel intersection—a mean

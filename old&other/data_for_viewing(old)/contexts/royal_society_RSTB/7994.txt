@@ -1,0 +1,25 @@
+
+Phil. Trans. R. Soc. B (2009)
+
+
+Prediction and self-awareness R.R. Llinas & S. Roy 1305
+
+visual perception. Recently, the genetic component has a form of information processing where a black box
+been thought to play a significant role in the development endowed with prior information (morphofunctional
+of human depth perception ( Yonas 2003). And so, how is properties) receives input information and sends
+prior information encoded in the CNS? outputs in the form of parameter estimates and
+A central question concerning present-day neuro- predictive distributions. Bayes’ theorem has been widely
+science is that of understanding the rules for the studied as a model to transform a priori information
+embedding of ‘universals’ into intrinsic functional into future inference. In fact, the Helmholtz idea
+space. Some suggestions have been offered concerning of perception (1867) as ‘unconscious inference’ is
+the nature of this CNS internal space that we think considered as the origin of Bayes’ framework. Bayes’
+addresses this point (Roy & Llinas 2008). The arguments theorem is used to calculate the inference distri-
+go as follows: if functional space is endowed with bution in the following manner: given a prior
+stochastic metric tensor properties, then there will be a distribution say a Gaussian distribution p(x) and noisy
+dynamic correspondence between the events in the observation o (data), which leads to a Gaussian
+external world and their specification in the internal likelihood p(o|x), then the p inference distribution p(x|o)
+space. We shall call this dynamic geometry because is given by
+the minimal perceptual time resolution of the brain p(x | 0) = p(o| x)p(x)/p(o).
+(10-15 ms), associated with 40 Hz oscillations of
+neurons and their network dynamics, is considered to
+be responsible for recognizing external events and

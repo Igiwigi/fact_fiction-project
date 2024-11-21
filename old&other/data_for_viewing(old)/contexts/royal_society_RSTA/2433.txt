@@ -1,0 +1,25 @@
+(c) Combined effects of the two types of state dependence
+
+We now study the combined effects of both types of state dependence, that is, we consider ne > 0
+and nc > 0. Figure 7 demonstrates that state dependence due to upwelling has a large effect on
+the overall bifurcation set when the ocean-adjustment state dependence is also present. This is
+surprising since state dependence due to upwelling on its own does not appear to change the
+bifurcation set.
+
+Figure 7a considers the effect of the maximal nominal value n- = 0.08 of upwelling on the case
+of asmaller ocean adjustment of nc = 0.11 shown in figure 4a. The comparison shows that figure 7a
+features a dramatic change in the way the different types of solutions are distributed across the
+(c,T)-plane. In particular, the torus bifurcation curve appears to have split into two segments
+around 7, =1.2. In fact, as we checked but do not show here, even for c > 40, the two curves
+remain disconnected. This change of the bifurcation set is the result of a transition similar to the
+interacting torus bifurcation curves in figure 5. Note in figure 7a how some resonance tongues
+have become significantly wider and overlap to a greater extent, resulting in larger regions of
+chaotic behaviour. We observe again the emergence of the period-doubling cluster near t, = 1,
+as well as the cusp bifurcations of the forcing dominated solutions near (c, t) = (6,1) and near
+(¢, tm) = (6,2).
+
+
+3
+
+2 2
+Ss

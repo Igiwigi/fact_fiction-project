@@ -1,0 +1,25 @@
+of their requirements. Such testing may need to engage multiple stakeholders, including
+stakeholders beyond the controller of the system such as affected groups of users, representatives
+of groups of non-users, or civil society at large. Evaluation of various sorts of software systems
+is also an active research area, and the discipline of algorithmic auditing is emerging to provide
+the tools for reviewing data-driven software systems, however many important questions remain
+open—for example, the question of how to build effective white-box testing regimes for machine
+learning systems is far from settled.
+
+Finally, many research questions exist around reviewing responsibly designed systems. For
+example, even well-designed systems following the pattern above may in some cases err or
+cause negative outcomes for their subjects. For these cases, it is important to develop a theory
+of software malpractice to match malpractice regimes in other fields such as medicine, law
+and professional engineering. Importantly, the mere fact of a mistake is insufficient to define
+malpractice; rather, malpractice involves situations where bad outcomes could have been avoided
+by more responsible behaviour on the part of a system's controllers. As yet, the question of what,
+concretely, constitutes sufficiently responsible behaviour is almost entirely unexplored.
+
+
+Importantly, when dealing with data-driven software systems such as those that make use
+of data analytics, data science and machine learning, it is imperative to maintain the ‘science’
+in data science. That is, data must only be interpreted and acted on as far as they can be
+meaningfully analysed. Data collected under a particular set of assumptions must not be re-
+used in a context where those assumptions are violated. When products of data analysis
+are presented, they must disclose the assumptions made during collection and analysis and
+must also disclose the limitations of those processes. Finally, attention must be paid to the

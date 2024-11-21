@@ -1,0 +1,25 @@
+atmosphere ; the greater the optical thickness the greater the quantity of radiation
+returned. The exact relationship we will determine later, but for the moment we will
+consider a well-known formula of ScHusTER’s involving this same optical thickness.
+Denote this optical thickness measured for a certain wave-length by o,, and let R,
+be the total radiation incident from the interior on the inner boundary of the scattering
+layer, 8, the total emergent radiation. The formula in question* states that
+approximately
+
+Care must be taken to avoid making an incorrect use of this formula. In the first
+place, it is incorrect to suppose that the obliquely emergent radiation will be given by
+replacing o, by o, sec 9. In the second place, the formula must not be held to imply
+that the initially incident beam is cut down in the ratio 1/(1-+-¢,) during transit
+through the layer. The simple formula (22) somewhat obscures the fact that the
+emergent radiation is the sum of two parts, the depleted incident beam and the light
+
+* In Scnuster’s form the denominator is written 2 + oy, but this is due to calculating +, from the
+mean coefficient of scattering of a thin plane layer for all directions.
+
+
+MR. E. A. MILNE ON RADIATIVE EQUILIBRIUM, 229
+
+(originally derived from the incident beam) scattered into the beam ; and the formula
+is better written in the form corresponding to its derivation,
+
+eae

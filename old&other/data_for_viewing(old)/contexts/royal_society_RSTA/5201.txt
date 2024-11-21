@@ -1,0 +1,24 @@
+linear theory, results should be independent to the wave amplitude when it is normalized by A. :&
+Thus, any difference in these cases is due to the nonlinear effect. Figure 11a shows that the drift
+motion in surge is large, while the drift motions in heave and pitch in figure 11b,c are very small.
+This is because the restoring force in surge is small, while large in heave and pitch. Table 2 shows
+that the surge natural frequency is much lower than that in pitch. When the wave frequency is
+near the pitch natural frequency, no resonance is expected to be excited by w in surge and it is even
+far less likely by 2w or 3w. Figure 11a shows that the oscillatory motion of surge is dominated by
+the component of w, while motions at 2w and 3w are small. The figure also shows that the drift
+motion of surge ¢1/A is very much affected by A, as ¢) is dominated by the term proportional A’,
+in this case based on the perturbation theory. The amplitude of the oscillatory motion of ¢)/A at w
+is not very much affected by A, as it is dominated by the linear term. Figure 11b,c shows that heave
+and pitch motions are not dominated by a single frequency, even at a smaller wave amplitude. In
+fact, as the triple wave frequency is set at the natural frequency of pitch, which is also close to that
+of heave (table 2), the nonlinear components in the motions will be relatively more significant.
+Because of this, as A increases, the heave and pitch motions at 2m and 3w become more and more
+pronounced. However, compared with the surge motion, the overall motion amplitudes of heave
+or pitch are still much smaller. Thus, the motion of the platform has a component with lower
+frequency and larger amplitude, as well as larger drift, and a component with higher frequency
+and smaller amplitude.
+
+To analyse the tensions in tendons caused by the platform motions, equation (3.2) can be
+written as
+
+(P? + Q?)x + 2Q

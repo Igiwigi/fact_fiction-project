@@ -284,10 +284,20 @@ results3 <- process_collocate_folder(
   output_dir = "collocate_results/5window"
 )
 
+#this is old, css=3
 results4 <- process_collocate_folder(
   folder_path = "../collocation_results/FACTS/collocate_results_1665-1958_FACTS_css3_w5/collocation_txt",
   output_dir = "collocate_results/5window"
 )
+```
+
+
+```{r minimum_subcorp_frequency_tresholds}
+#5 word window latest (2 scaling for facts); too many? its certainly a choice not to use this one but they dont differ in the UFA plot all that much anyway
+ # results4 <- process_collocate_folder(
+ #   folder_path = "../collocation_results/FACTS/collocate_results_1665-1958_FACTS_css2_w5/collocation_txt",
+ #   output_dir = "collocate_results/5window"
+ # )
 ```
 
 #plotting the plots for easier visual comparison
@@ -553,77 +563,18 @@ create_detailed_collocate_plot <- function(data,
   return(detailed_plot)
 }
 
-# Function for simple timeline visualization
-create_simple_collocate_plot <- function(data, 
-                                       target_word = "fact/facts", 
-                                       window_size = "3L3R",
-                                       save_plot = FALSE,
-                                       output_dir = "collocate_results") {
-  
-  # Define subdirectory based on window size
-  subdirectory <- ifelse(window_size == "3L3R", "3window", "5window")
-  output_path <- file.path(output_dir, subdirectory)
-  
-  # Ensure output directory exists
-  if (!dir.exists(output_path)) {
-    dir.create(output_path, recursive = TRUE)
-  }
-  
-  filtered_data <- data %>%
-    filter(mi_score >= 3)
-  
-  
-  # Create the plot
-  simple_plot <- filtered_data %>%
-    ggplot(aes(x = year, y = word)) +
-    geom_point(color = "#2c7fb8", alpha = 0.7) +
-    theme_bw(base_size = 12) +  # Changed to theme_bw for white background
-    labs(
-      title = paste("Timeline of Collocates for '", target_word, "' (", window_size, ")", sep=""),
-      x = "Year",
-      y = "Collocate"
-    ) +
-    theme(
-      plot.title = element_text(size = 14, face = "bold", margin = margin(b = 20)),
-      axis.text.y = element_text(size = 9),
-      panel.grid.major = element_line(color = "gray90"),
-      panel.grid.minor = element_line(color = "gray95"),
-      plot.margin = margin(1, 1, 1, 1, "cm"),
-      panel.background = element_rect(fill = "white", color = NA)  # Ensures background is white
-    ) +
-    scale_x_continuous(
-      breaks = seq(min(filtered_data$year), 
-                  max(filtered_data$year), 
-                  by = 20)
-    )
-  
-  # Save the plot if requested
-  if(save_plot) {
-    filename <- file.path(output_path, 
-                         paste0(target_word, "_collocate_timeline_", 
-                               window_size, ".png"))
-    ggsave(filename, simple_plot, width = 12, height = 8, dpi = 300)
-  }
-  
-  return(simple_plot)
-}
-
 # Example usage for all your datasets:
 # For fact 3L3R
 p1_detailed <- create_detailed_collocate_plot(results1$all_data, "fact", "3L3R")
-p1_simple <- create_simple_collocate_plot(results1$all_data, "fact", "3L3R")
 
 # For facts 3L3R
 p2_detailed <- create_detailed_collocate_plot(results2$all_data, "facts", "3L3R")
-p2_simple <- create_simple_collocate_plot(results2$all_data, "facts", "3L3R")
 
 # For fact 5L5R
 p3_detailed <- create_detailed_collocate_plot(results3$all_data, "fact", "5L5R")
-p3_simple <- create_simple_collocate_plot(results3$all_data, "fact", "5L5R")
 
 # For facts 5L5R
 p4_detailed <- create_detailed_collocate_plot(results4$all_data, "facts", "5L5R")
-p4_simple <- create_simple_collocate_plot(results4$all_data, "facts", "5L5R")
 
 ```
 
@@ -638,7 +589,16 @@ print(p4_detailed)
 ```
 ```{r}
 #find all unique words in word
-results1$all_data %>%
+results3$all_data %>%
+  filter(mi_score >= 3) %>%
+  group_by(word) %>%
+  summarize(max_mi_score = max(mi_score)) %>%  # Get the highest MI score for each word
+  arrange(desc(max_mi_score)) %>%  # Sort by MI score in descending order
+  ungroup()
+```
+
+```{r}
+results4$all_data %>%
   filter(mi_score >= 3) %>%
   group_by(word) %>%
   summarize(max_mi_score = max(mi_score)) %>%  # Get the highest MI score for each word

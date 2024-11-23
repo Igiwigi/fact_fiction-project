@@ -1,0 +1,432 @@
+---
+title: "test"
+author: "Ingrid Backman"
+date: "2024-11-23"
+output: html_document
+---
+
+#because of poor implementation, adding frequencies makes the ufa plot slightly different (changes the y axis a smidge)
+#this is likely caused by coerced NA's introduced in quickly slapping on the frequency and trying to hastily fix it (likely the first year)
+#with more time i would fix this, but it doesnt matter too much for the plots that are there merely to indicate the frequency (at least, it doesnt appear to make a difference!)
+```{r}
+library(fs)
+library(tidyverse)
+library(irrCAC)
+library(pacman)
+
+# Main function to process a single folder of collocate data
+process_collocate_folder <- function(folder_path, 
+                                   mi_score_threshold = 3,
+                                   highlight_word = NULL,
+                                   output_dir = ".") {
+
+  folder_info <- extract_folder_info(folder_path)
+  
+  #dir.create(output_dir, showWarnings = FALSE, recursive = TRUE)
+  
+  target_word <- ifelse(grepl("FACTS", folder_path), "facts", 
+                      ifelse(grepl("FACT", folder_path), "fact", "unknown"))
+  
+  window = folder_info$window
+  
+  all_data <- load_collocate_data(folder_path, mi_score_threshold)
+  spread_data <- prepare_spread_data(all_data)
+  
+  output_file_base <- paste0(target_word, "_collocates_",
+                            folder_info$start_year, "_",
+                            folder_info$end_year,
+                            folder_info$window, "")
+  
+  #save_spread_data(spread_data, output_file_base, output_dir)
+  
+  # Calculate Gwet's AC1
+  g <- calculate_gwet_ac1(spread_data)
+  
+  return(list(
+    all_data = all_data,
+    spread_data = spread_data,
+    gwet_ac1 = g,
+    folder_info = folder_info
+  ))
+}
+
+# Helper function to extract information from folder name
+extract_folder_info <- function(folder_path) {
+  # Get the parent folder name instead of just the last directory
+  folder_name <- basename(dirname(folder_path))
+  
+  year_range <- str_extract(folder_name, "\\d{4}-\\d{4}")
+  
+  if (!is.na(year_range)) {
+    years <- strsplit(year_range, "-")[[1]]
+    start_year <- years[1]
+    end_year <- years[2]
+  } else {
+    warning("Could not find year range in folder name: ", folder_name)
+    start_year <- "UNKNOWN"
+    end_year <- "UNKNOWN"
+  }
+  
+  # Fixed window pattern to correctly extract the number after 'w'
+  window <- str_extract(folder_name, "w\\d")
+  if (is.na(window)) {
+    warning("Could not find window size in folder name: ", folder_name)
+    window <- "3"  # Default to 3 if not found
+  } else {
+    window <- substr(window, 2, 2)  # Extract just the number
+  }
+  
+  # Update word count extraction to handle both formats
+  word_count <- ifelse(
+    grepl("css", folder_name),
+    "css",
+    str_extract(folder_name, "\\d+[-_]\\d+") #extracting whether 5 or 3 gap
+  )
+  
+  # Add some debugging output
+  message("Extracted from folder: ", folder_name)
+  message("Window size: ", window)
+  
+  return(list(
+    start_year = start_year,
+    end_year = end_year,
+    window = window,
+    word_count = word_count
+  ))
+}
+
+# Function to process individual collocate files
+process_file <- function(file_path) {
+  tryCatch({
+    year <- as.numeric(str_extract(basename(file_path), "\\d{4}"))
+    lines <- readLines(file_path)
+    
+    if (length(grep("^\\d+\\s+\\w+", lines)) == 0) {
+      return(data.frame(word = character(), 
+                       mi_score = numeric(), 
+                       frequency = numeric(), #added frequencies
+                       year = numeric()))
+    }
+    
+    collocates_data <- lines[grep("^\\d+\\s+\\w+", lines)]
+    
+    collocates <- lapply(collocates_data, function(line) {
+      parts <- strsplit(trimws(line), "\\s+")[[1]]
+      # Add error checking for parts length
+      if (length(parts) < 7) {
+        warning(sprintf("Skipping malformed line in %s: %s", basename(file_path), line))
+        return(NULL)
+      }
+      
+      # Convert values with error checking
+      freq <- as.numeric(parts[5]) #frequency added
+      mi <- as.numeric(parts[7])
+      
+      if (is.na(freq) || is.na(mi)) {
+        warning(sprintf("Invalid numeric values in %s: %s", basename(file_path), line))
+        return(NULL)
+      }
+      
+      list(
+        word = parts[2],
+        mi_score = mi,
+        frequency = freq
+      )
+    })
+    
+    # Remove NULL entries from failed conversions
+    collocates <- Filter(Nonnull, collocates)
+    
+    if (length(collocates) == 0) {
+      warning(sprintf("No valid data found in %s", basename(file_path)))
+      return(data.frame(word = character(), 
+                       mi_score = numeric(), 
+                       frequency = numeric(), 
+                       year = numeric()))
+    }
+    
+    df <- do.call(rbind, lapply(collocates, as.data.frame))
+    df$year <- year
+    
+    return(df)
+  }, error = function(e) {
+    warning(sprintf("Error processing file %s: %s", basename(file_path), e$message))
+    return(data.frame(word = character(), 
+                     mi_score = numeric(), 
+                     frequency = numeric(), 
+                     year = numeric()))
+  })
+}
+
+# Helper function to check if value is NULL
+Nonnull <- function(x) !is.null(x) #probably fucks things up
+
+# Load and filter collocate data with additional error checking
+load_collocate_data <- function(data_dir, mi_score_threshold = 3) {
+  collocate_files <- fs::dir_ls(data_dir, regexp = "\\.txt$")
+  
+  all_data <- do.call(rbind, lapply(collocate_files, process_file))
+  
+  # Add validation check
+  if (nrow(all_data) == 0) {
+    stop("No valid data was loaded from any of the files")
+  }
+  
+  all_data <- all_data %>%
+    filter(!is.na(word) & !is.na(mi_score) & !is.na(frequency) & !is.na(year)) %>%
+    distinct(word, year, .keep_all = TRUE) %>%
+    filter(mi_score >= mi_score_threshold) %>%
+    mutate(present = 1)
+  
+  return(all_data)
+}
+
+# Remaining helper functions
+prepare_spread_data <- function(all_data) {
+  spread_data <- all_data %>%
+    pivot_wider(names_from = year, values_from = present, values_fill = 0)
+  
+  return(spread_data)
+}
+
+save_spread_data <- function(spread_data, base_filename, output_dir = ".") {
+  #output_file <- file.path(output_dir, paste0(base_filename, ".csv"))
+  #write.table(spread_data, file = output_file, sep = "\t")
+}
+
+calculate_gwet_ac1 <- function(data) {
+  i <- 3
+  v <- c()
+  years <- c()
+  
+  while (i <= ncol(data) - 1) {
+    if (sum(colSums(data[, i:(i+1)]) > 0) >= 1) {
+      n <- gwet.ac1.raw(data[, i:(i+1)])$est$coeff.val
+      v <- c(v, n)
+      years <- c(years, as.numeric(colnames(data)[i]))
+    } else {
+      message("Skipping AC1 calculation for years ", colnames(data)[i], "-", colnames(data)[i+1], " due to insufficient data")
+    }
+    i <- i + 1
+  }
+  
+  return(data.frame(year = years, ac1 = v))
+}
+
+```
+
+```{r}
+#3 word windows
+results1 <- process_collocate_folder(
+  folder_path = "../collocation_results/FACT/collocate_results_1665-1958_FACT_css3_w3/collocation_txt",
+  output_dir = "collocate_results/3window" #doesnt save anywhere
+)
+
+results2 <- process_collocate_folder(
+  folder_path = "../collocation_results/FACTS/collocate_results_1665-1958_FACTS_css3_w3/collocation_txt",
+  output_dir = "collocate_results/3window"
+)
+
+#5 word windows
+results3 <- process_collocate_folder(
+  folder_path = "../collocation_results/FACT/collocate_results_1665-1958_FACT_css3_w5/collocation_txt",
+  output_dir = "collocate_results/5window"
+)
+
+#this is old, css=3
+results4 <- process_collocate_folder(
+  folder_path = "../collocation_results/FACTS/collocate_results_1665-1958_FACTS_css3_w5/collocation_txt",
+  output_dir = "collocate_results/5window"
+)
+
+#na introduced by coercion, appears to be in the first year... maybe theyre shifted?
+```
+#plotting the plots for easier visual comparison
+```{r}
+library(dplyr)
+library(tidyr)
+
+create_collocate_table <- function(results, target_word = "fact") {
+  collocate_table <- results$all_data %>%
+    filter(mi_score >= 3) %>%  # Filter for MI scores >= 3
+    arrange(year) %>%  # Sort by MI score first, then year
+    select(Year = year,
+           Collocate = word,
+           `MI Score` = mi_score,
+           Frequency = frequency) %>%
+    as_tibble()
+  
+  return(collocate_table)
+}
+
+#fact
+r1 = create_collocate_table(results1) #fact 3L3R
+r3= create_collocate_table(results3) #fact 5L5R
+
+#facts
+r2 = create_collocate_table(results2) #facts 3L3R
+r4 = create_collocate_table(results4) #facts 5L5R
+
+
+r1
+r3
+r2
+r4
+```
+
+#added frequency to this and moved it here
+```{r}
+library(ggplot2)
+library(dplyr)
+
+# Function for detailed visualization with MI scores
+create_detailed_collocate_plot <- function(data, 
+                                         target_word = "fact/facts", 
+                                         window_size = "3L3R",
+                                         save_plot = TRUE,
+                                         output_dir = "collocate_results") {
+  # Define subdirectory based on window size
+  subdirectory <- ifelse(window_size == "3L3R", "3window", "5window")
+  output_path <- file.path(output_dir, subdirectory)
+  
+  # Ensure output directory exists
+  if (!dir.exists(output_path)) {
+    dir.create(output_path, recursive = TRUE)
+  }
+  
+  filtered_data <- data %>%
+    filter(mi_score >= 3)
+  
+  # Create the plot
+  detailed_plot <- filtered_data %>%
+    arrange(year, desc(mi_score)) %>%
+    ggplot(aes(x = year, y = reorder(word, mi_score))) +
+    geom_point(aes(size = frequency, color = mi_score)) +
+    scale_color_viridis_c(option = "plasma") +
+    scale_size_continuous(range = c(2, 6)) +
+    theme_bw(base_size = 12) +  # Changed to theme_bw for white background
+    labs(
+      title = paste("Distribution of Collocates for '", target_word, "' Over Time (", window_size, ")", sep=""),
+      x = "Year",
+      y = "Collocate",
+      size = "Frequency",
+      color = "MI Score"
+    ) +
+    theme(
+      plot.title = element_text(size = 14, face = "bold"),
+      axis.text.y = element_text(size = 8),
+      legend.position = "right",
+      panel.grid.major = element_line(color = "gray90"),
+      panel.grid.minor = element_line(color = "gray95"),
+      panel.background = element_rect(fill = "white", color = NA)  # Ensures background is white
+    ) +
+    scale_x_continuous(
+      breaks = seq(min(filtered_data$year), 
+                  max(filtered_data$year), 
+                  by = 20)
+    )
+  
+  # Save the plot if requested
+  if(save_plot) {
+    filename <- file.path(output_path, 
+                         paste0(target_word, "_collocate_distribution_", 
+                               window_size, ".png"))
+    ggsave(filename, detailed_plot, width = 15, height = 10, dpi = 300)
+  }
+  
+  return(detailed_plot)
+}
+
+# Example usage for all your datasets:
+# For fact 3L3R
+p1_detailed <- create_detailed_collocate_plot(results1$all_data, "fact", "3L3R") #this plot is used in the paper
+
+# For facts 3L3R
+p2_detailed <- create_detailed_collocate_plot(results2$all_data, "facts", "3L3R")
+
+# For fact 5L5R
+p3_detailed <- create_detailed_collocate_plot(results3$all_data, "fact", "5L5R")
+
+# For facts 5L5R
+p4_detailed <- create_detailed_collocate_plot(results4$all_data, "facts", "5L5R")
+
+```
+
+
+```{r}
+print(p1_detailed)
+print(p2_detailed)
+```
+```{r}
+print(p3_detailed)
+print(p4_detailed)
+```
+```{r fact}
+#find all unique words in word
+results3$all_data %>%
+  filter(mi_score >= 3) %>%
+  group_by(word) %>%
+  summarize(max_mi_score = max(mi_score), frequency = sum(frequency)) %>%  #but is the frequency to be summed or? sliding window
+  arrange(desc(max_mi_score)) %>%  # Sort by MI score in descending order
+  ungroup()
+
+library(dplyr)
+library(knitr)
+
+table3 <- results3$all_data %>%
+  filter(mi_score >= 3) %>%
+  group_by(word) %>%
+  summarize(
+    mean_mi_score = round(mean(mi_score), 1), # Get the mean MI score for each word
+    frequency = sum(frequency)         # Frequency summed up
+  ) %>%
+  arrange(desc(mean_mi_score)) %>%       # Sort by MI score in descending order
+  mutate(rank = row_number()) %>%       # Add a ranking column
+  ungroup() %>%
+  select(rank, word, mean_mi_score, frequency) %>% # Rearrange columns for ranking
+  kable(
+    caption = "Top Collocates for 'fact' (1665-1958)",
+    col.names = c("Rank", "Word", "Mean MI Score", "Frequency"),
+    format = "html",  # Use "html" or "latex" depending on output type
+    align = c("c", "l", "r", "r") # Center-align Rank, left-align Word, right-align scores
+  ) %>%
+  footnote(
+    general = "Frequencies are summed up. Due to the overlap between sliding windows, this is merely indicative of how frequent they were."
+  )
+
+table3
+
+```
+
+```{r}
+#find all unique words in word
+results4$all_data %>%
+  filter(mi_score >= 3) %>%
+  group_by(word) %>%
+  summarize(max_mi_score = max(mi_score), frequency = sum(frequency)) %>%  #but is the frequency to be summed or? sliding window
+  arrange(desc(max_mi_score)) %>%  # Sort by MI score in descending order
+  ungroup()
+
+# Create the table
+results4$all_data %>%
+  filter(mi_score >= 3) %>%
+  group_by(word) %>%
+  summarize(
+    mean_mi_score = round(mean(mi_score), 1),       # Get the mean MI score for each word
+    frequency = sum(frequency)         # Frequency summed up
+  ) %>%
+  arrange(desc(mean_mi_score)) %>%       # Sort by MI score in descending order
+  mutate(rank = row_number()) %>%       # Add a ranking column
+  ungroup() %>%
+  select(rank, word, mean_mi_score, frequency) %>% # Rearrange columns for ranking
+  kable(
+    caption = "Top Collocates for 'facts' (1665-1958)",
+    col.names = c("Rank", "Word", "Mean MI Score", "Frequency"),
+    format = "html",  # Use "html" or "latex" depending on output type
+    align = c("c", "l", "r", "r") # Center-align Rank, left-align Word, right-align scores
+  ) %>%
+  footnote(
+    general = "Frequencies are summed up. Due to the overlap between sliding windows, this is merely indicative of how frequent they were."
+  )
+
+```

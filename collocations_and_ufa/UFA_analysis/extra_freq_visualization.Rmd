@@ -195,22 +195,22 @@ save_spread_data <- function(spread_data, base_filename, output_dir = ".") {
 }
 
 calculate_gwet_ac1 <- function(data) {
-  i <- 3
+  i <- 3 # Skipping the first two columns (collocate and mi score)
   v <- c()
   years <- c()
   
-  while (i <= ncol(data) - 1) {
-    if (sum(colSums(data[, i:(i+1)]) > 0) >= 1) {
-      n <- gwet.ac1.raw(data[, i:(i+1)])$est$coeff.val
+  while (i + 1 < ncol(data)) { 
+    if (sum(colSums(data[, i:(i+2)]) > 0) >= 1) {  
+      n <- gwet.ac1.raw(data[, i:(i+2)])$est$coeff.val 
       v <- c(v, n)
       years <- c(years, as.numeric(colnames(data)[i]))
     } else {
-      message("Skipping AC1 calculation for years ", colnames(data)[i], "-", colnames(data)[i+1], " due to insufficient data")
+      message("Skipping AC1 calculation for years ", colnames(data)[i], "-", colnames(data)[i+2], " due to insufficient data")
     }
     i <- i + 1
   }
   
-  return(data.frame(year = years, ac1 = v))
+  return(data.frame(year = years, ac1 = v))  # Return a data frame with the years and ac1 values
 }
 
 ```
@@ -320,11 +320,22 @@ create_detailed_collocate_plot <- function(data,
       panel.grid.minor = element_line(color = "gray95"),
       panel.background = element_rect(fill = "white", color = NA)  # Ensures background is white
     ) +
+    #scale_x_continuous(breaks = seq(min(filtered_data$year), max(filtered_data$year), by = 20)) +
     scale_x_continuous(
-      breaks = seq(min(filtered_data$year), 
-                  max(filtered_data$year), 
-                  by = 20)
-    )
+      breaks = c(seq(
+        min(filtered_data$year), max(filtered_data$year), by = 20
+      ), 1947),
+      # Add 1947 explicitly to the breaks
+      limits = c(min(filtered_data$year), max(filtered_data$year)),
+      # Ensure the full range is displayed
+    ) +
+    theme(axis.text.x = element_text(
+      angle = 45,
+      hjust = 1,
+      vjust = 1
+    ))  # Rotate x-axis labels to avoid overlap)
+
+    
   
   # Save the plot if requested
   if(save_plot) {
@@ -337,9 +348,8 @@ create_detailed_collocate_plot <- function(data,
   return(detailed_plot)
 }
 
-# Example usage for all your datasets:
 # For fact 3L3R
-p1_detailed <- create_detailed_collocate_plot(results1$all_data, "fact", "3L3R") #this plot is used in the paper
+p1_detailed <- create_detailed_collocate_plot(results1$all_data, "fact", "3L3R")
 
 # For facts 3L3R
 p2_detailed <- create_detailed_collocate_plot(results2$all_data, "facts", "3L3R")
@@ -354,8 +364,8 @@ p4_detailed <- create_detailed_collocate_plot(results4$all_data, "facts", "5L5R"
 
 
 ```{r}
-print(p1_detailed)
-print(p2_detailed)
+# print(p1_detailed)
+# print(p2_detailed)
 ```
 ```{r}
 print(p3_detailed)
@@ -372,6 +382,7 @@ results3$all_data %>%
 
 library(dplyr)
 library(knitr)
+library(kableExtra)
 
 table3 <- results3$all_data %>%
   filter(mi_score >= 3) %>%

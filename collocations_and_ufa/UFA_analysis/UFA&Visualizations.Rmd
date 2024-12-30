@@ -300,15 +300,15 @@ create_ufa_plot <- function(g, base_filename, output_dir = ".", target_word, win
 #also some redundant variables etc
 ```{r}
 #3 word windows
-results1 <- process_collocate_folder(
-  folder_path = "../collocation_results/FACT/collocate_results_1665-1958_FACT_css3_w3/collocation_txt",
-  output_dir = "collocate_results/3window"
-)
-
-results2 <- process_collocate_folder(
-  folder_path = "../collocation_results/FACTS/collocate_results_1665-1958_FACTS_css3_w3/collocation_txt",
-  output_dir = "collocate_results/3window"
-)
+# results1 <- process_collocate_folder(
+#   folder_path = "../collocation_results/FACT/collocate_results_1665-1958_FACT_css3_w3/collocation_txt",
+#   output_dir = "collocate_results/3window"
+# )
+# 
+# results2 <- process_collocate_folder(
+#   folder_path = "../collocation_results/FACTS/collocate_results_1665-1958_FACTS_css3_w3/collocation_txt",
+#   output_dir = "collocate_results/3window"
+# )
 
 #5 word windows
 results3 <- process_collocate_folder(
@@ -392,23 +392,23 @@ create_collocate_table <- function(results, target_word = "fact") {
 }
 
 #fact
-r1 = create_collocate_table(results1) #fact 3L3R
+#r1 = create_collocate_table(results1) #fact 3L3R
 r3= create_collocate_table(results3) #fact 5L5R
 
 #facts
-r2 = create_collocate_table(results2) #facts 3L3R
+#r2 = create_collocate_table(results2) #facts 3L3R
 r4 = create_collocate_table(results4) #facts 5L5R
 
 
-r1
+#r1
 r3
-r2
+#r2
 r4
 
-write.csv(r1, "collocate_results/dfs/fact3.csv")
+#write.csv(r1, "collocate_results/dfs/fact3.csv")
 write.csv(r3, "collocate_results/dfs/fact5.csv")
 
-write.csv(r2, "collocate_results/dfs/facts3.csv")
+#write.csv(r2, "collocate_results/dfs/facts3.csv")
 write.csv(r4, "collocate_results/dfs/facts5.csv")
 ```
 
@@ -453,8 +453,8 @@ analyze_unique_collocates <- function(results_list, labels) {
 
 # Create list of your results
 results_list <- list(
-  create_collocate_table(results1),
-  create_collocate_table(results2),
+  #create_collocate_table(results1),
+  #create_collocate_table(results2),
   create_collocate_table(results3),
   create_collocate_table(results4)
 )
@@ -598,10 +598,10 @@ create_detailed_collocate_plot <- function(data,
 
 # Example usage for all your datasets:
 # For fact 3L3R
-p1_detailed <- create_detailed_collocate_plot(results1$all_data, "fact", "3L3R", save_plot = F) #the one from frequency is used
+#p1_detailed <- create_detailed_collocate_plot(results1$all_data, "fact", "3L3R", save_plot = F) #the one from frequency is used
 
 # For facts 3L3R
-p2_detailed <- create_detailed_collocate_plot(results2$all_data, "facts", "3L3R", save_plot = F)
+#p2_detailed <- create_detailed_collocate_plot(results2$all_data, "facts", "3L3R", save_plot = F)
 
 # For fact 5L5R
 p3_detailed <- create_detailed_collocate_plot(results3$all_data, "fact", "5L5R", save_plot = F)

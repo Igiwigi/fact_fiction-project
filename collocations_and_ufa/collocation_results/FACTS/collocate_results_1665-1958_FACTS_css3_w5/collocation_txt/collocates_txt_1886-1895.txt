@@ -1,25 +1,28 @@
 https://example.com/collocation-analysis
-There are 4144116 different words in your collocation database for "facts". (Your query returned 1600 matches in 267 different texts)
+There are 4144116 different words in your collocation database for "facts". (Your query returned 1860 matches in 267 different texts)
 __________________
 
 No.	Word	Total no. in whole corpus	Expected collocate frequency	Observed collocate frequency	In no. of texts	Mutual information value
 
-1	these	10943	1.50	90	261	3.91
-2	have	14630	2.00	38	264	2.25
-3	are	26025	3.56	52	263	1.87
-4	which	31353	4.29	58	264	1.76
-5	that	40040	5.48	56	264	1.35
-6	with	29784	4.08	41	264	1.33
-7	to	83176	11.38	102	266	1.16
-8	it	31163	4.26	34	264	1.00
-9	be	33255	4.55	32	264	0.81
-10	the	410877	56.22	387	266	0.78
-11	as	35759	4.89	30	264	0.62
-12	in	99584	13.63	75	266	0.46
-13	to	83176	11.38	59	266	0.37
-14	of	228248	31.23	153	267	0.29
-15	and	98953	13.54	50	267	-0.12
-16	of	228248	31.23	104	267	-0.26
-17	the	410877	56.22	173	266	-0.38
-18	and	98953	13.54	36	267	-0.59
-19	in	99584	13.63	30	266	-0.86
+1	these	10943	1.73	94	267	3.76
+2	two	9757	1.54	33	267	2.42
+3	have	14630	2.31	39	267	2.08
+4	are	26025	4.11	67	267	2.03
+5	which	31353	4.96	67	267	1.76
+6	with	29784	4.71	44	267	1.22
+7	that	40040	6.33	57	267	1.17
+8	to	83176	13.15	105	267	1.00
+9	it	31163	4.93	36	267	0.87
+10	the	410877	64.94	423	267	0.70
+11	with	29784	4.71	30	267	0.67
+12	be	33255	5.26	33	267	0.65
+13	in	99584	15.74	89	267	0.50
+14	as	35759	5.65	31	267	0.46
+15	by	35297	5.58	30	267	0.43
+16	of	228248	36.08	179	267	0.31
+17	to	83176	13.15	61	267	0.21
+18	and	98953	15.64	59	267	-0.08
+19	of	228248	36.08	119	267	-0.28
+20	the	410877	64.94	193	267	-0.43
+21	and	98953	15.64	40	267	-0.65
+22	in	99584	15.74	31	267	-1.02

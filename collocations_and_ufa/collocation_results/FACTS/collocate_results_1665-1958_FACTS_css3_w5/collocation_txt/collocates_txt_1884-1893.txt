@@ -1,25 +1,24 @@
 https://example.com/collocation-analysis
-There are 3313382 different words in your collocation database for "facts". (Your query returned 1313 matches in 223 different texts)
+There are 3313382 different words in your collocation database for "facts". (Your query returned 1206 matches in 223 different texts)
 __________________
 
 No.	Word	Total no. in whole corpus	Expected collocate frequency	Observed collocate frequency	In no. of texts	Mutual information value
 
-1	these	8887	1.30	77	223	3.88
-2	all	5738	0.84	25	223	2.89
-3	two	7725	1.13	30	223	2.73
-4	have	11464	1.68	30	223	2.16
-5	are	19949	2.93	42	223	1.84
-6	which	24053	3.53	45	223	1.67
-7	that	31420	4.61	47	223	1.35
-8	with	24227	3.55	32	223	1.17
-9	to	67046	9.83	78	223	0.99
-10	as	28307	4.15	29	223	0.80
-11	it	25333	3.72	25	223	0.75
-12	the	333462	48.91	319	223	0.71
-13	in	79960	11.73	66	223	0.49
-14	of	182658	26.79	130	223	0.28
-15	to	67046	9.83	45	223	0.19
-16	and	82270	12.07	41	223	-0.24
-17	of	182658	26.79	83	223	-0.37
-18	the	333462	48.91	138	223	-0.50
-19	and	82270	12.07	31	223	-0.64
+1	these	8887	1.18	74	223	3.97
+2	all	5738	0.76	25	223	3.04
+3	have	11464	1.52	30	223	2.30
+4	are	19949	2.65	38	223	1.84
+5	which	24053	3.19	41	223	1.68
+6	that	31420	4.17	46	223	1.46
+7	with	24227	3.22	32	223	1.31
+8	to	67046	8.90	77	223	1.11
+9	as	28307	3.76	28	223	0.90
+10	it	25333	3.36	24	223	0.83
+11	the	333462	44.28	300	223	0.76
+12	in	79960	10.62	62	223	0.55
+13	to	67046	8.90	44	223	0.31
+14	of	182658	24.26	114	223	0.23
+15	and	82270	10.93	35	223	-0.32
+16	of	182658	24.26	75	223	-0.37
+17	the	333462	44.28	131	223	-0.44
+18	and	82270	10.93	30	223	-0.54

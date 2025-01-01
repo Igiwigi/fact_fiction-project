@@ -1,29 +1,24 @@
 https://example.com/collocation-analysis
-There are 4617472 different words in your collocation database for "facts". (Your query returned 2074 matches in 278 different texts)
+There are 4617472 different words in your collocation database for "facts". (Your query returned 1699 matches in 278 different texts)
 __________________
 
 No.	Word	Total no. in whole corpus	Expected collocate frequency	Observed collocate frequency	In no. of texts	Mutual information value
 
-1	secretory	127	0.02	42	278	9.06
-2	these	12056	1.87	100	278	3.74
-3	two	10708	1.66	37	278	2.48
-4	have	15599	2.42	39	278	2.01
-5	are	28528	4.42	64	278	1.86
-6	which	32806	5.08	67	278	1.72
-7	that	43139	6.68	70	278	1.39
-8	from	27483	4.26	38	278	1.16
-9	with	33045	5.12	45	278	1.14
-10	it	33275	5.15	44	278	1.09
-11	to	91726	14.20	116	278	1.03
-12	with	33045	5.12	39	278	0.93
-13	the	451173	69.86	458	278	0.71
-14	as	38839	6.01	38	278	0.66
-15	be	37214	5.76	36	278	0.64
-16	in	111135	17.21	91	278	0.40
-17	to	91726	14.20	74	278	0.38
-18	of	255698	39.59	193	278	0.29
-19	and	108394	16.78	63	278	-0.09
-20	the	451173	69.86	227	278	-0.30
-21	of	255698	39.59	119	278	-0.41
-22	and	108394	16.78	39	278	-0.78
-23	in	111135	17.21	35	278	-0.98
+1	these	12056	1.62	99	278	3.93
+2	have	15599	2.09	38	278	2.18
+3	which	32806	4.40	57	278	1.69
+4	are	28528	3.83	48	278	1.65
+5	that	43139	5.79	69	278	1.57
+6	from	27483	3.69	38	278	1.36
+7	it	33275	4.47	42	278	1.23
+8	to	91726	12.32	113	278	1.20
+9	with	33045	4.44	38	278	1.10
+10	as	38839	5.22	38	278	0.87
+11	be	37214	5.00	35	278	0.81
+12	the	451173	60.58	421	278	0.80
+13	to	91726	12.32	72	278	0.55
+14	in	111135	14.92	78	278	0.39
+15	of	255698	34.33	166	278	0.27
+16	and	108394	14.55	53	278	-0.14
+17	the	451173	60.58	193	278	-0.33
+18	of	255698	34.33	101	278	-0.44

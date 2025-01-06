@@ -403,7 +403,11 @@ analyze_unique_collocates <- function(results_list, labels) {
          color = "Dataset") +
     theme(legend.position = "bottom",
           plot.title = element_text(face = "bold"),
-          axis.title = element_text(face = "bold"))
+          axis.title = element_text(face = "bold"),
+          axis.text.x = element_text(angle = 45, hjust = 1))+
+        scale_x_continuous(
+      breaks = seq(1665, max(all_counts$Year), by = 10),
+      limits = c(1665, max(all_counts$Year)))
 }
 
 # Create list of your results
@@ -427,6 +431,68 @@ for(i in seq_along(results_list)) {
                 pull(unique_words)))
 }
 ```
+```{r}
+#from claude, just for funsies (illustrates how few words are used for facts)
+library(dplyr)
+library(tidyr)
+library(ggplot2)
+
+# Function to count unique collocates per year for each dataset
+analyze_unique_collocates <- function(results_list, labels) {
+  # Create a list to store counts for each dataset
+  yearly_counts <- list()
+  
+  for(i in seq_along(results_list)) {
+    counts <- results_list[[i]] %>%
+      group_by(Year) %>%
+      summarize(unique_words = n_distinct(Collocate)) %>%
+      mutate(dataset = labels[i])
+    
+    yearly_counts[[i]] <- counts
+  }
+  
+  # Combine all counts
+  all_counts <- bind_rows(yearly_counts)
+  
+  # Create visualization
+  ggplot(all_counts, aes(x = Year, y = unique_words, color = dataset)) +
+    geom_line(size = 1) +
+    geom_point() +
+    theme_minimal() +
+    labs(title = "Unique Collocates Over Time",
+         subtitle = "Between 'fact' and 'facts', PMI >=3",
+         y = "Number of Unique Collocates",
+         color = "Dataset") +
+    theme(legend.position = "bottom",
+          plot.title = element_text(face = "bold"),
+          axis.title = element_text(face = "bold"))+
+        scale_x_continuous(
+      breaks = seq(1665, max(all_counts$Year), by = 25),
+      limits = c(1665, max(all_counts$Year)))
+}
+
+# Create list of your results
+results_list <- list(
+  create_collocate_table(results3),
+  create_collocate_table(results4)
+)
+
+# Labels for each dataset
+labels <- c( "fact 5L5R", "facts 5L5R")
+
+# Generate the visualization
+analyze_unique_collocates(results_list, labels)
+
+# Print summary statistics
+for(i in seq_along(results_list)) {
+  cat("\nSummary for", labels[i], ":\n")
+  print(summary(results_list[[i]] %>% 
+                group_by(Year) %>% 
+                summarize(unique_words = n_distinct(Collocate)) %>%
+                pull(unique_words)))
+}
+```
+
 
 #this plot is kept just for comparison, the version used in the paper is in extra_freq_vis
 ```{r}

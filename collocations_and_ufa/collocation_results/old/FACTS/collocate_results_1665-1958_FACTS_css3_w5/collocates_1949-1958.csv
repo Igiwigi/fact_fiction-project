@@ -1,8 +1,0 @@
-No.,Word,Total no. in window corpus,Expected collocate frequency,Observed collocate frequency,In no. of texts,Mutual Information value
-1,these,5740,0.30,23,150,4.25
-2,that,20762,1.10,18,150,2.04
-3,the,193115,10.19,73,150,0.84
-4,in,55036,2.90,18,150,0.63
-5,of,109712,5.79,30,150,0.37
-6,of,109712,5.79,29,150,0.32
-7,the,193115,10.19,38,150,-0.10

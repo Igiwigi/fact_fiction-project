@@ -1,0 +1,53 @@
+The Poisson WSG is given by
+
+oo 4
+
+PWS (5x) = D> e~* — P*(5x), (3.6)
+
+c!
+c=0
+
+where the P‘(5x) probability distribution function also factorizes for higher dimensions
+equivalently to the single Gaussian distribution function as given in equation (3.2). The one-
+dimensional Poisson weighted sum of Gaussians probability distribution function P%,(5x) is then
+given by
+
+(3.7)
+
+d/2 _
+PS (5x) | +1) x [-2 wat)
+
+2n(c + 1)((5xa)*) 2(c + 1)((6xa)*)
+where 6X is the displacement in one dimension, ((5xq)*) is the second-order moment, Ug is the
+mean velocity, c is the number of occurrences and A is the average number of collisions. The fact
+
+that the new displacement distribution function is just a sum of Gaussians makes the calculation
+of the new MDLG equilibrium functions surprisingly simple. Thus, we obtain
+
+ae
+eq a0 pceq
+fis » he. (3.8)
+
+The A, similar to equation (3.3), is given by
+
+fed d
+
+a =TLA" (3.9)
+a=1
+
+where p“4 is the mass density and fi. a“ in one dimension is given by
+
+foe = | — (e-a FIND) — perttaIND) 4 (lta t1F/N2))
+(ia — I) (ia — 1) Ui (ia +1) (Wig +1) Ui
++ f —erf( = - f “ —erf{ — ,
+2 [™\_N ai 7 se Se aie UN
+(3.10)
+with
+
+_ /2a?(c +1)
+Ne -| — (3.11)
+
+
+where a? and uj, are defined in equation (3.5). The one-dimensional equilibrium distribution
+function given in equation (3.10) is similar to the single Gaussian equilibrium distribution
+function in equation (3.4), however, their weighting factors are not the same.

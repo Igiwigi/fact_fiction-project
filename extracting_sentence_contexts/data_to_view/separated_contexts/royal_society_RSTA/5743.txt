@@ -1,0 +1,29 @@
+Hence, we conclude that the two u-values uA, u® have been reset
+at the end of sync.
+
+(c) Resetting effect and inversions
+
+To better understand the resetting effect in the uv“, w® values and the meaning of the phrase ‘at the
+end of sync’ studied previously, we note the following circumstance with respect to out-of-sync :
+inversions of the BKL maps associated with the two spatial points. —
+
+As we showed above, a state having |/7 — 2| ~ 0, so also |&2| ~ 0, is reached exponentially fast {3
+during synchronization. From equations (6.3) and (6.6), it follows that when the evolution reaches ih
+that state, we will also have that, DG
+
+pd — p8| ~o. 67 3h
+
+Because of the continuity of the rational functions p = p(u) given by equation (6.4), we must also
+have, [8
+
+\uA - uP | ~0, (6.8) : S
+
+otherwise equation (6.7), which holds because of the definition of limit (6.3), would be violated. This implies that the sync between A, B (that is, that the receiver point B syncs with A) is in
+fact effected well before the state 2 =0 is reached. To see this, we note that during an era, starting
+from some initial value uR , we obtain the sequence,
+
+uP u® —1,u8 —2,...,u8 —n, (6.9)
+
+which proceeds until when uP —n=x5 has its integer part equal to zero (similarly for the spatial
+point A). All such ‘end-of-an-era’ u-values for the A,B points are randomly distributed in the
+interval (0,1).

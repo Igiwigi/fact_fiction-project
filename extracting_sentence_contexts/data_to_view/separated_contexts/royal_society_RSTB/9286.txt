@@ -1,0 +1,21 @@
+The identities of the nucleotides inserted during the gen-
+eration process are well described by a dinucleotide Markov
+model (electronic supplementary material, figures S9-S11). As was observed for T-cell receptors [5], the profile for the
+VD insertions on the sense strand correlates very well with
+the JD insertions on the antisense strand. Although the deletion profiles are in fact gene dependent,
+and we infer a separate deletion profile for each gene (elec-
+tronic supplementary material, figure S8), for convenience
+we present here only the weighted mean over all genes of
+the V and J gene deletion distributions (figure 3c,d). These
+distributions seem little affected by selection, as evidenced
+by the similarity between the pre- and post-selection (naive)
+distributions.
+
+(b) Selection
+
+Armed with the raw recombination model Ppre, we can esti-
+mate the effect of selection in the naive repertoire by
+comparing the statistics of the naive, productive sequences,
+with those predicted by the generation model. The effect of
+selection is already evident from the CDR3 length distri-
+bution [16], as illustrated in figure 4.

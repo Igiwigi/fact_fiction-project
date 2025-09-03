@@ -1,0 +1,8 @@
+This allows us to define
+a generalization of the Gelfand spectrum to non-Abelian C*- and W*-algebras, which is just the
+technical tool we need. We emphasize physical interpretation rather than mathematical details,
+for which we provide sufficient references. No knowledge of topos theory is required, and, in fact,
+topos theory plays no major role in this paper. There are various other sophisticated and highly developed approaches to non-commutative
+geometry, see, for example, Connes and Marcolli from a differential geometric perspective [25,26];
+Manin and Majid from deformation and quantum groups [27,28]; Kontsevich and Rosenberg
+from algebraic geometry [29,30]; also Hrushovski & Zilber from geometric model theory [31]. Our approach differs from all these in various respects.

@@ -1,0 +1,28 @@
+For these parameters, Q = 1 corresponds to perfect nematic 1S
+
+order while Q = 0 is when mesogens are randomly oriented, and if b = 0, then the system reduces
+to the uniaxial case. Setting the nematic director in the reference and current configuration as ng = [0, 1,0]? and
+n=[cos6,sin0,0]', respectively, where @ € [0, 2/2], the deformation gradient takes the form
+
+F =diag(A1,A2,43), (3.1)
+
+where 41A2A3 = 1. In fact, for the uniaxial deformation under consideration, all tensors involved
+share the same principal directions, and thus, are all diagonal. In the reference configuration, the LCE is uniaxial, and the order parameter tensor is equal to
+[28, p. 14]:
+F Qo Qo
+Qo = diag | ->-,Q0,- J, (3.2)
+2 2
+where Qo is the scalar order parameter. In the deformed configuration, when biaxiality emerges [28, p. 15]:
+
+— If 6 =7/2, then the order parameter tensor takes the form
+
+Qub oc), (3.3)
+
+Q=diag(-2>*, 9-2"
+— If@=0, then
+
+Qe oe), (3.4)
+
+Q=diag (q—-S5*, 2"
+
+where Q and b are the uniaxial and biaxial scalar order parameters, respectively.

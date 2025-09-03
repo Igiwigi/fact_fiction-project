@@ -1,0 +1,14 @@
+Tv
+Zeros of C(), ¢9 correspond to phase-locked solutions to the coupled system and if C’(¢o) < 0
+(respectively, > 0), the locked solution is stable (unstable). If the oscillators are identical, i.e. H) =
+H2 =H, then C(¢) is proportional to the odd part of H(@) and so there are always the roots, ¢ = 0,
+synchrony, and ¢ = T/2, anti-phase (There can, of course, be other roots as well, but they will
+always occur symmetrically in pairs due to the fact that C(#) is an odd function).
+
+(b) Example
+
+As an example of what determines the shape of the coupling functions, we consider the behaviour
+of the Morris—Lecar model in two different scenarios. We choose parameters (as in table 3.1 in [11])
+to be near the saddle-node infinite cycle (SNIC) bifurcation with applied current Iapp = 45 or near
+the sub-critical Hopf bifurcation with Tapp = 92. The currents are chosen so that the oscillators
+in each case have a frequency of about 10 Hz.

@@ -1,0 +1,12 @@
+The only way to check a proof
+is to reproduce it, ie., to completely repeat the underlying computation. Checking the
+correctness of an existing proof is a creative process, whose complexity is comparable
+to the complexity of the search for the proof. Actually, in many serious cases, it might be
+far easier for an expert (familiar with the basic ideas and techniques used) to find a new
+independent proof of the same fact than to verify the details of an existing proof.
+
+e Very few serious mathematical theorems have completely formalized proofs or, for that matter,
+even such proofs that could be predictably completely formalized within the time,
+computational power and other resources accessible to the human race today. Correctness of a proof does not belong to logic, it is in the realm of Psychology and Sociology
+[2,3]. On the individual level, a proof is considered to be correct provided it convinces
+us of the validity of a result to the extent that we are prepared to persuade others.

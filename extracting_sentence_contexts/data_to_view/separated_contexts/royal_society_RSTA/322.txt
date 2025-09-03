@@ -1,0 +1,15 @@
+The terabytes of disk deployed at each of the GridPP Tier-2 sites, as of the beginning of 2012, can be seen in this plot. The site ordering is based on CPU available at the site (see figure 1) and if compared with figure 1 shows that the ratio of disk
+to CPU at sites is not constant. This reflects the fact that different sites support (and therefore pledge resources to) different
+combinations of the LHC experiments, and the LHC experiments have different computing models that require differing ratios
+of resources. LHCb, for example, requires very little disk at Tier-2 sites, while ATLAS requires a ratio of close to 2 for TB of disk
+vs HEPSPEC06 of CPU. (Online version in colour.)
+
+data and tuning the buffer sizes used within the storage systems (the approach varied with the
+storage type deployed, of which there are four main versions in use in GridPP: the Disk Pool
+Manager, dCache, BestMan and CASTOR) to make the most of available bandwidth. Large data
+transfers of the experiments (i.e. tens of terabytes) are scheduled and managed through a central
+File Transfer Service (FTS) based for the UK at RAL and this has taken time to optimize the
+number of files transferred per stream, and the number of streams that are open have had to
+be manually managed, as performance has depended on the number and capabilities of the end-
+point servers, the space available on the server disks, the sizes of the files being transferred and
+the network bandwidth available.

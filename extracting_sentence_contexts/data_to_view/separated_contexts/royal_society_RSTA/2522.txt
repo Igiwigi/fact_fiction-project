@@ -1,0 +1,5 @@
+The first attempt in
+that direction was through Andrews’ matings [61], which kept only the axiom links of a proof. Figure 3 shows the matings for the two sequent proofs in figure 1—both sequent proofs have
+identical matings. In fact, Andrews considered these matings to be the ‘essence’ of a proof, and
+thus provided a proposal for a nontrivial notion of proof identity. The more recent work in [62]
+provided a notion of proof composition for matings. However, checking the correctness of matings takes exponential time’.

@@ -1,0 +1,40 @@
+The scattered solution ¢ is also required to satisfy the Sommerfeld
+radiation condition for outgoing waves at infinity,
+
+- ap
+1/2 _ —/x2 442
+r ( Or it) +0, where r= x +y*, (2.4)
+
+and edge conditions in order to achieve the least singular solution
+9(x,0) > Cm as X > Xm (2.52)
+
+and
+1600) a2
+oy
+where cm and d,, are constants [1]. Finally, the nature of this problem means the scattered field is
+required by symmetry to be an odd function of y, which allows us to restrict attention to y > 0.
+
+asx —> Xm, (2.5b)
+
+
+(ii) General solution
+
+To apply the Wiener—-Hopf technique, we proceed in the standard manner by first Fourier
+transforming in the x variable:
+
+‘co . G(an=| oye de. (26)
+—00
+Imposing decay as |y| — 00, we find that the x-Fourier transform ®(a,y) of a solution ¢(x,y)
+satisfying the governing equation (2.2) along (—0o, 00) may be written
+
+H(a,y) =sgn(y) O(a, 0+)e 7, (2.7)
+
+where y(a@) = Va? — k’, having used the fact that the scattered field ¢ is anti-symmetric in y. The
+branch cuts are taken to be the rays {a = +k + is: 0 <s < ov} parallel to the imaginary axis. We
+note from the form of this solution (2.7) that
+
+'(a,0+) + y(a)&(a, 0+) =0, (2.8)
+
+where 0! = a This equation relates integral transforms of boundary values, as may be
+
+generically found for separable equations by constructing the global relation [41].

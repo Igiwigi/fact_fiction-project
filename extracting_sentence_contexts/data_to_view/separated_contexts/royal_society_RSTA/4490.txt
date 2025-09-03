@@ -1,0 +1,24 @@
+Improved uncertainty assessment
+
+If the pitfalls identified above are to be avoided, what should be done instead? How can agents
+come closer to meeting the requirements of faithfulness and completeness and, more generally,
+to engaging in good practice in uncertainty assessment? This section outlines some steps and
+strategies for improved uncertainty assessment in support of decision-making.
+
+13]n fact, Morgan [9, p. 7178] notes that a standard measure of overconfidence is the so-called ‘surprise index’, which is a
+measure of how often the true value for a quantity lies outside an assessor’s 98% Cl. (The test focuses on quantities whose
+true values are known.)
+
+™In other situations, we might be able to argue that the risk of genuine surprise is negligible. Suppose I am prone to mild
+headaches, which taking an aspirin has tended to help relieve in the past. If Inow have a mild headache in the same spot as
+usual (but am otherwise feeling well), and I take an aspirin, it seems reasonable to think that the risk of a genuine surprise
+when it comes to the outcome (ie. the risk of something dramatically different occurring due to a factor that I did not
+recognize as even potentially relevant) is negligible.
+
+
+(a) Levels of precision, justification and consistency 9 |
+
+The problem with adopting a one-size-fits-all approach to representing uncertainty is that it
+can easily lead to reports that fail to approximately satisfy the faithfulness requirement, that is, 3
+to reports that are significantly misleading about what an agent believes the extent of current :s
+uncertainty to be.

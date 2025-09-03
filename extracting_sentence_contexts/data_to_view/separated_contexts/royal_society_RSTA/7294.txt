@@ -1,0 +1,17 @@
+In considering the accuracy of systematic sampling we shall require some expression for
+the variance of the actual samples. The true errors of sampling will be given by the deviations
+of h, from the mean of all the terms of the sequence. It appears best, however, to adopt the
+convention that
+
+err =
+Vike) = 7 uD)
+
+remembering that, with this convention, a factor (d—1)/d must be introduced into the final
+estimate of error of a sequence to allow for the fact that we are sampling from a finite popula-
+tion. The corresponding variance of the sums H, will be denoted by V[H,]. If / is not a
+multiple of d, V[h,] will not be exactly equal to the variance of h,, since the mean of h, will
+not be exactly equal to the mean of all the terms of the sequence, but for long sequences the
+difference will be trivial.
+
+
+350 : F.

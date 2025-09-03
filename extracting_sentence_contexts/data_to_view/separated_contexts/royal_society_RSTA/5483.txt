@@ -1,0 +1,15 @@
+The application developed by training a cutting-edge deep learning model can be efficiently
+used to compute the trajectories of droplets in dense emulsion systems simulated by the lattice
+Boltzmann method or any other computational method capable of capturing the relevant physics. It is worth noting that in both cases explored, and especially in the case of the Tapered channel,
+
+
+the data used to train the network depart noticeably from those acquired via simulations. The fact that the network is nevertheless able to identify the droplets and efficiently track
+them over sequential frames bodes well for its generalization to more complex applications,
+particularly for tracking deformable biological bodies in complex fluid flows. This will make the
+subject of future work.
+
+4. Conclusion
+
+In this work, we demonstrated an automated procedure to adapt a cutting edge deep learning-
+based application, called YOLO and DeepSORT, to infer trajectories of droplets in dense
+emulsions in microchannels.

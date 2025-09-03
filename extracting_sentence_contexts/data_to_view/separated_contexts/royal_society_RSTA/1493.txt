@@ -1,0 +1,8 @@
+A few results exist,
+though, for matrices with specific sparsity structures. Tight lower bounds on communication for
+the sparse Cholesky factorization of a model problem are derived in [58], and the multiplication
+of Erdés-Rényi matrices is discussed in [59]. Reducing communication in iterative methods is a
+challenging topic, with an additional difficulty being the fact that the convergence of iterative
+methods depends on the spectral properties of the matrices involved. Approaches such as s-step
+methods (e.g. [60,61] and the references therein) or enlarged Krylov methods [62,63] are actively
+investigated. Many open questions remain to be addressed beyond linear algebra.

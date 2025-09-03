@@ -1,0 +1,24 @@
+Thanks to this convergence
+result, each point in the representation space becomes a process, representations of final sensory states and represen- ©
+multimodal representation of a sensorimotor event. Rep- tations of policies eventually overlap and a representation =
+resentations can then be activated by selecting a point in of the motor-sensory contingency or action-effect is obtained. Si
+the internal space such that points which are closer in this Importantly, an agent who is able to learn on the basis of
+
+space represent sensorimotor events that are more similar to an internally derived signal selecting the sensory experiences
+
+each other. influenced by its actions, also acquires the skill to generate
+
+those experiences by acting, and is in fact an agent who is
+intrinsically motivated to ‘interact effectively with its
+
+(i) An intrinsic signal to detect motor-sensory contingencies environment’, i.e. an agent whose learning is guided by an
+A learning process is needed for the alignment of the emer- intrinsic motivation to acquire and increase its own compe-
+ging sensory and policy topologies within the common tence [52].
+
+lower-dimensional representation space. Thanks to this pro-
+cess, representations of those features that are relevant to
+
+the representation of the current policy are positioned in (ii) The intrinsic signal bootstraps the learning of topologies
+
+the same region within each manifold. For this learning At the beginning of the agent’s learning, topologies are not
+mechanism to be implemented two requirements must be yet developed.

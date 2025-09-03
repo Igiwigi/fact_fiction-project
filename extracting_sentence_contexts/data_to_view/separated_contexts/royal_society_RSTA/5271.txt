@@ -1,0 +1,27 @@
+All rights reserved.
+
+
+of integrated circuit technologies by Jack Kilby of Texas Instruments in 1959 and complementary 2 |
+metal-oxide semiconductor (CMOS) logic by Frank Wanlass of Fairchild Semiconductor in 1963. Since those early circuits of just a handful of transistors, CMOS technology has seen exponential 3
+growth, doubling the number of devices that can be integrated onto a silicon wafer according to : a
+Moore’s 1965 law [2], and has led to the large-scale integrated semiconductor microchips which ig
+shape our modern world. Yet, the ISFET has had limited commercial success beyond its use as a : s
+glass-free stand-alone pH meter for industrial and environmental applications, partly owing to : 3
+its widely reported sensor drift and sensitivity to temperature, meaning that regular calibration [2
+
+is required, and partly owing to the fact that the ISFET system spans two phases, both solid
+state and liquid, which makes experimental and theoretical work very demanding and requires a
+convergence of knowledge and techniques in electrochemistry, materials, semiconductor device
+physics and electronics. The work of Toumazou & Purushothaman [3] introduced the perfect application to overcome
+the ISFET’s first challenge of sensor drift and temperature sensitivity, and that was to apply
+the device to the measurement of discrete changes of signal which arise from the result of a
+
+specific chemical reaction. The work described the detection of nucleotide incorporations using Dk
+ISFETs, applied both to DNA sequencing, where the time and magnitude of the pH change can 22
+be used to identify sequential DNA insertions, and to single nucleotide polymorphism (SNP) [4
+detection. : x
+
+CMOS-based technology has clear advantages for implementing systems required for : S
+portable, low-cost, high-density systems, which will have a huge impact on healthcare in is
+
+the years to come [4].

@@ -1,0 +1,33 @@
+So it remains to show that
+
+> x2,8,(x" +ax +b) =0.
+(a,b)eA2(F,)|A(a,b)=0,xeF,
+
+The condition A(a, b) = 0 is the condition
+
+(n —1)""1a" + nb"! =0,
+
+This means precisely that (—a/n, b/(n — 1)) is of the form ("1 t”) fora unique f € Fy. So our sum is
+
+which we rewrite as
+
+> X2,8, x" — nt"1x + (n — 1").
+teF, ,xeF,
+
+For t=0, the inner sum becomes Dxer, X28, (X"), which vanishes because n is odd. For t 40,
+
+we use the fact that x” — nt"~!x + (n — 1)t” is homogeneous in x,t of degree n, so we write it as
+8 8
+
+
+t"(X" —nX +n —1) with X := x/t. The sum over t 4 0 becomes
+
+YS x28, (¢'(X" —nX +01),
+
+teFy .XeF,
+which is the product
+YY x22, (t") (= X28, (X" —nX +n — »} ,
+teFy XeFy
+in which the first factor vanishes (again because n is odd). a
+
+In fact, we have the following explanation of this vanishing. Lemma 7.2.

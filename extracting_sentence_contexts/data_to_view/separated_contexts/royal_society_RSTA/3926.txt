@@ -1,0 +1,15 @@
+While the rarefaction effects for the tested :3
+conditions can be treated within the bulk of the flow by implementing appropriate boundary [8
+conditions for the coarse level solver, non-continuum effects produced by the flow gradients :
+in proximity of the walls cannot be captured by the classical D3Q19 model, so a microscopic
+description is needed. The flow considered here, therefore, appears appropriate to validate the
+proposed hybrid model, as a separation of scales is naturally present. In the bulk of the flow, in
+fact, the hydrodynamic variables vary substantially over the macroscopic scale, in turn dictated
+by the domain geometry; close to the walls, especially within the Knudsen layer, those changes
+take place at a length scale much closer to the molecular one. In the literature, several analytical
+solutions for such uniform shear stress flow have been proposed both for the case of Maxwell
+molecules, based on the moment-hierarchy method [39,40], and for the BGK collision term
+formulation [41,42]. In particular, for the latter case, which is of interest here, it was found that,
+within the bulk of the flow, for distances greater than at least a mean free path from either wall,
+a normal solution, i.e. a solution constructed by the Chapman-Enskog method, exists, at Navier—
+Stokes order, for a Kn based on channel height smaller than about 0.2.

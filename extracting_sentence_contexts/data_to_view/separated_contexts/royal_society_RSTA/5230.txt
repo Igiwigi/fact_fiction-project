@@ -1,0 +1,12 @@
+Equation (5.3) has been derived under the assumptions A > 0 and a,b = O(c").
+(The latter defines so-called class C lasers.) The detuning condition follows from analysing the
+diffusion coefficient, given by Re(iD) = 20 A/[(1 +0)? + (1 —0)*A?], which becomes negative
+(and then equation (5.3) loses its validity) when A <0 [55,56]. On physical grounds, for A <0,
+lasing involves off axis emission (tilted waves, having a spatial dependence), which equation (5.3)
+cannot account for, and a different treatment is necessary. In fact, for small A (either positive or
+negative), a complex Swift-Hohenberg equation, not a CGL equation, governs the dynamics of
+the free-running laser (and of other nonlinear optical cavities) [41,56,58,59,61-63]. Nevertheless,
+the specific description (CGL or Swift-Hohenberg) is not essential regarding the effects of rocking,
+as discussed in [41]. Concerning the size of the normalized decay rates o and b, equation (5.3) is
+valid for any value of o; in particular, in the usual case o <1 (so-called class A laser), D> 1
+simply.

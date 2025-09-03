@@ -1,0 +1,15 @@
+In the past, the SI practitioner would generally implement the classical algorithms (i.e. least-
+squares minimization) as an exercise in linear algebra and would usually treat the resulting
+set of crisp parameter estimates as determining ‘the model’. Even if a covariance matrix were
+extracted, the user would usually use this only to provide confidence intervals or ‘error bars’
+on the parameters; predictions would still be made using the crisp parameters produced by the
+algorithm. Such approaches do not fully accommodate the fact that a given set of measured
+data, subject to the sources of uncertainty discussed above, may be consistent with a number
+of different parametric models. It is now becoming clear—largely as a result of the pioneering
+work of James Beck and colleagues and more recently from guidance from the machine learning
+community—that a more robust approach to parameter estimation, and also model selection,
+can be formulated on the basis of Bayesian principles for probability and statistics. Among the
+potential advantages offered by a Bayesian formulation are the estimation procedure will return
+parameter distributions rather than parameters; predictions can be made by integrating over all
+parameters consistent with the data, weighted by their probabilities; evidence for a given model
+structure can be computed, leading to a principled means of model selection.

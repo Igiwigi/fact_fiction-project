@@ -1,0 +1,23 @@
+Each agent is in fact subjected either to repulsion approach under the assumption of overdamped force-velocity
+or to the balance between three traits: it can align, ignore response (a consistent hypothesis for living entities, see
+and be attracted by the groupmates. In this respect, the resul- [2,42,43] for comments). Equation (2.1) can be derived from a
+tant direction of motion of a virtual prey, in the absence of more general first-order model (see appendix A) and effectively
+repulsion, is given by a weighted sum of the three contri- decouples the magnitude of the velocity of the ith animal, given
+
+butions, where the weights, as in our case, sum up to one. by the scalar 0;(t) € R, (possibly, v;(t) € [0, 0max] to account for
+
+
+physiological limitations), from its direction, given by the unit In equation (2.6), M(e;(t)/ lol) ic denotes in fact the | 4 |
+
+NATE)
+
+vector ait) € BY CR (where BY denotes the d-dimensional mean of the actual velocity directions evaluated over the set _
+|a,(t)| of particles Re}
+
+ball, centred at the origin, with unitary radius). As a relevant align ; a z
+feature of the proposed model, these two quantities are NPD ALPHY Hf # i drep < [XD — xi(D| < datign}- S
+assumed to be independent, because they have distinct physical 27) 3S
+meanings. For instance, the individual speed 7;(t) can be deter- A long-range attraction finally enters the picture if the ith =
+mined by the intrinsic status of the agent (e.g. calm orina hurry) animal falls too far apart from the rest of the group and =
+as well as by the purpose of its movement and by physiologi- tries to reach again its mates: in mathematical terms, we 3
+cal/physical limitations.

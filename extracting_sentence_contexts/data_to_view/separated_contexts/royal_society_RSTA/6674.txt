@@ -1,0 +1,81 @@
+Hence v,(C,+C,) = o(C+C,) = v,(C,+C,). (5-4)
+
+IfC = C,+y, v = v, + V, so that y is the change in the capacity of the bar condenser and Vis _
+the change in the p.d. across C,, i.e. the p.d. applied to the input terminals of the amplifier, _
+then from equations (5-2) and (5-4)
+
+VC. y
+Lech peoota) Mitesh eal
+( tre) take) ,
+yee
+C(C.+€)°
+In many cases, C is sufficiently small in comparison with C, to allow (C,+C) to be replaced
+by C,; in these circumstances,
+
+which gives V=— (5°5)
+
+V =—E,|C,. (5:5a)
+
+
+STUDY OF THE HOPKINSON PRESSURE BAR 389
+
+Equations (5-5) and (5-5a) give the relation between the p.d. V applied to the input
+terminals of the amplifier, the change in capacity y of the bar condenser and the electrical
+constants of the circuit. It is now necessary to find the relationship between y and the dis-
+placement of the measuring end of the bar, and finally the equation connecting € with V
+and the circuit constants.
+
+(a) The parallel-plate condenser unit
+
+Let D be the initial separation of the earthed and insulated plates of the bar condenser.
+~q Then the initial capacity C, of the bar condenser is
+Q
+= C, = A(1+¢)/4nD, (5-6)
+I
+9 Where A = cross-sectional area of the gap, and ¢ = correction term for the non-uniform
+& distribution of the field between the plates due to the fact that the plates are not infinitely
+@ close together.
+™ At time ¢, the separation of the plates is (D —£), and the capacity C is therefore
+
+A(1+¢)
+
+=| _ fi
+5 is Fret naa (67)
+6 assuming that the displacement is sufficiently small in comparison with D to leave the
+.g correction term ¢ unchanged. From equations (5-6) and (5-7),
+
+3 y = §C/D = €C,/(D—£), (5:8)
+
+E ana substituting in equation (5-5), after some reduction, it is found that
+
+Oo
+
+3 © LVDCIG RG) :
+3 §=—-CCE,—CV)’ k59)
+iS) 7 .
+
+© or, if 6 — C,/C,E,, Pate (5:10)
+FE Ay 1—AV
+
+z which gives & expressed in terms of V and the circuit constants.
+
+5 If C, <C,, as is often the case, then equation (5-10) becomes
+
+: £ =—AVD|(1—AY). (5-104)
+
+S __It will be noticed that the sensitivity of this type of unit, i.e. the ratio of V to &, is not con-
+stant unless AV is small in comparison with unity; this is often the case in practice, e.g. if
+5 C,/C, = 100, E, = 600 V, V = 0-03 V, then AV = 0-005.
+
+(b) The cylindrical condenser unit
+
+] It will be assumed that the insulated cylinder of the condenser unit is adjusted initially
+so as to ensure that there is no change in the end-effect during the displacement of the end
+_ of the bar; this condition will be amply fulfilled if the measuring end of the bar projects into
+the insulated cylinder to a distance which is five to ten times the difference in radius between
+the bar and the cylinder. Under these conditions, the increase in the capacity of the bar
+condenser will be proportional to the displacement &, so that if & is the capacity per unit
+
+
+.
+390 R.

@@ -1,0 +1,8 @@
+This modified problem achieves its minimum by the direct method
+of the calculus of variations. We claim that its minimizer (v,,7;,) also minimizes the original
+functional F;,. This follows from the fact that for (vj, @;,) the expression v;, + (r/R - w),)? must
+be non-negative almost everywhere (as otherwise one can easily modify (v,,i@,) to obtain a
+competitor with strictly smaller energy). Heuristically this is clear, because the relation ij, +
+3(r/R — @,)? > 0 says simply that the sheet is in tension in the radial direction. This argument
+also shows that the minimizer (v;,, @,) is unique, because the modified functional is everywhere
+convex, and strictly convex whenever 0! + 3(r/R -wyP>0.

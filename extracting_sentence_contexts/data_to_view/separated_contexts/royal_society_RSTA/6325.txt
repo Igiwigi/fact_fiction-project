@@ -1,0 +1,12 @@
+We hope that this review paper on FFST will remind readers of what is now in our toolbox,
+help in the development of the platform, and entertain those interested in non-trivial scaling
+properties in the dynamics of physical systems.
+
+2. Basic concept
+
+An important procedure in FFST is to look for a viable state of the system during the speed
+control, taking into account physical constraints. This resembles the fact that our running form
+changes with speed. As you may notice, our body is not simply moving faster when we run
+faster (figure 1b). It is because that we are in the air for a certain period of time after kicking off
+the ground, and fall at a constant acceleration due to the gravity no matter what speed we are
+moving horizontally.

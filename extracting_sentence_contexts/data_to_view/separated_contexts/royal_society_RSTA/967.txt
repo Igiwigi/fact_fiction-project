@@ -1,0 +1,5 @@
+Compute the Taylor series invariant of semitoric systems directly
+from the spectrum ‘at’ the focus-focus critical value. One should probably use the corresponding singular Bohr-Sommerfeld rule; see problem 7.3. In fact, the following intermediate question is very natural:
+
+Problem 7.7 (S. Vii Ngoc). Is the singular Bohr-Sommerfeld formal power series inf a spectral
+invariant?

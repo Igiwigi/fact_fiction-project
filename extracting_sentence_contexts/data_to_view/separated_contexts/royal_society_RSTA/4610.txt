@@ -1,0 +1,30 @@
+Note that FALSE_BOTTOM, the
+simulation that uses the same Bitz & Lipscomb [36] parametrization has a similar low sea ice
+state bias. Comparing REF and NO_3EQTN, we see that the differences are smaller (AA ~ —5%,
+AH ~ —20.cm, ATmix ~ +0.3°C and ASmix ~ 0 PSU), the impact is localized over the marginal ice
+zone and happens almost exclusively in the summer season (June and July not shown). This is
+consistent with the larger melt rate in this region in NO_3EQTN and reflects the fact the three-
+equation boundary condition is most effective where there is a source of fresh melted water at
+the IO interface, hence lowering the interfacial salinity, S9, and reducing the bottom heat flux (see
+equations (2.4)-(2.6) in §2b). The impact of switching off the form drag parametrization of Tsamados et al. [40] in
+NO_FORM_DRAG is spatially bi-modal; increasing the summer concentration (marginally), ice
+thickness (AH ~ +1m) and ML salinity (ASmix ~ 1 PSU) in the heavily ridged regions north of
+Greenland and the Canadian Archipelago, and decreasing the ice concentration (AA ~ —10%)
+and ice thickness (AH ~ —25cm) while increasing the ML temperature (ATmix ~ +0.3°C) over
+the Russian continental shelves. As discussed in §3a, these differences can be largely explained
+by increased (reduced) interfacial heat fluxes due to the higher (lower) than average atmospheric
+
+
+REF MLD_CST MLD_MIN_2M
+
+NO_FORM_DRAG NO_3EQTN NO_MUSHY
+
+DBL_ALPHA_H DBL_ALPHA_H/NO_3EQTN DBL_ALPHA_H/NO_MUSHY
+
+NO_POND LAT_MELT FALSE_BOTTOM
+
+IS 30 50 75 80 85 90 95 100
+
+10.0 75 5.0 2.5 0 25 5.0 7S 10.0
+
+Figure 8.

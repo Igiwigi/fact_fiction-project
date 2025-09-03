@@ -1,0 +1,6 @@
+Envariance is needed precisely because relabelling is not enough. For instance, states can
+have intrinsic properties that they ‘carry’ with them even when they get relabelled. Thus, a
+superposition of ground and excited states |g) + |e) is invariant under relabelling, but this does not
+change the fact that the energy of the ground state |g) is less than the energy of the excited state |e). So there may be intrinsic properties of quantum states (such as energy) that ‘trump’ relabelling,
+and it is a priori possible that probability is like energy in this respect. This is where envariance
+saves the day.

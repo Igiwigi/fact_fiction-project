@@ -1,0 +1,49 @@
+In particular,
+cumulative culture evolution enables the emergence of complex
+
+5. Conclusion social behaviours (e.g. division of labour or cooperation) by
+This paper discussed the deployment of social learning algor- gradually accumulating useful behavioural skills.
+ithms in robot swarms. This is a rather particular instance of The main motivation behind investigating social learning
+
+machine learning methods that is applied to distributed in swarm robotics stems from the fact that many real-world
+
+
+(a) swarm performance w.xr.t. foraging (tsf = 0.8, mut = 0) (>) swarm performance w.r.t. foraging (tsf = 0.8, mut = 10°)
+
+4.0 4.0
+3547 median median
+. interquartile range 35 interquartile range
+3.0 3.0
+z z
+g 25 g 25
+2 2
+o 20 1 eo 2.0
+ob ob
+e e
+3 15 3 15
+ES ES
+1.0 1.0
+0.5 0.5
+0 0 a
+0 7000 14000 0 7000 14000 >
+time step time step S
+(c) swarm performance w.r.t. foraging (tsf = 1, mut = 0) () swarm performance w.r.t. foraging (tsf = 1, mut = 10°) Sy
+4.0 4.0 an
+3s) Median as median =
+~ interquartile range ° interquartile range <
+3.0 3.0 io]
+zg z ned
+g 25 3 2.5 x
+a 2 NC
+2 2.0 2, 2.0 Ss
+g & Ss
+g 15 3 15 S
+& a 3S
+1.0 1.0 °
+0.5 0.5
+0 0
+0 7000 14 000 0 7000 14.000
+time step time step
+
+Figure 4. Comparison between setups with different transfer and mutation settings. Transfer accounts for the proportion of control parameter values that are exchanged
+between robots. tsf = 0.8 and tsf = 1.0 respectively signify that 80% and 100% of the parameter values are sent during an encounter between robots.

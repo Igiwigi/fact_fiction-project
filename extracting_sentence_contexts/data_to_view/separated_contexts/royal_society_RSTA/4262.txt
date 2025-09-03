@@ -1,0 +1,8 @@
+For the noise-free signal, the EMD method could also capture the
+intra-wave frequency modulation, as shown in figure 6c. The instantaneous frequency obtained
+from the shape function is not the same as that obtained by the EMD method. The difference
+between the instantaneous frequencies obtained by the two methods is due to the fact that the
+inter-wave modulation is not included in the shape function; see appendix A for a detailed
+explanation. When the signal is polluted by noise, the EMD/EEMD methods seem to have difficulty
+in capturing the intra-wave frequency modulation. In figure 7, the IMFs obtained by the
+EMD/EEMD for the noise-free signal and the noisy signal are shown.

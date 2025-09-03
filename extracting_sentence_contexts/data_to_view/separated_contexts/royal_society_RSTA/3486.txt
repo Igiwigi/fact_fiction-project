@@ -1,0 +1,13 @@
+This partitioning allows for the
+projection of (4.5) onto an n + 1-dimensional Dirichlet distribution. Making use of (3.9), we can
+specify F? directly as a random p-box
+
+n+1 n+1
+Fe= [= WiHxy, >, Wy. (5.12)
+i=1 i=1
+
+with (Win41} ~ Dir[1,...,1] and {x(1),n)} being the ordered dataset {xj.,,}, augmented by x(q) = x,
+and x(n41) = XR. The fact that the robust posterior distribution F? can be expressed in this simple manner has
+significant implications. Equation (5.12) provides an intuitive understanding of the method that
+has been developed. The interval | is partitioned into n +1 closed intervals with boundaries
+at the observed points {x;}'!_,.

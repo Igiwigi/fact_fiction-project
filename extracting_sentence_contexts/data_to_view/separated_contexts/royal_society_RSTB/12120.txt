@@ -1,0 +1,60 @@
+The earliest available commercial platform designed
+Although most single-cell studies are performed on fresh specifically for single-cell analyses was the Fluidigm Cl
+cells, several chemicals have been employed to try to preserve system [40]. Although it is not possible to select cells, the C1
+native cell states in animal samples, including methanol [31], system allows imaging of each capture site for the presence
+dimethylsulfoxide [32], crosslinkers that require later reverse of single cells and their viability [41]. Fluidigm C1 has been
+cross-linking such as paraformaldehyde [33] and dithio-bis- successfully used to isolate single cells of unicellular algae
+
+(succinimidyl propionate) [34], and proprietary reagents for RNA sequencing or quantitative polymerase chain reaction
+
+
+from biological samples to single cells | 3 |
+
+(a) sample collection (b) sample preservation (c) cell identification _
+Ss
+
+* laboratory culture * fresh material Ss
+
+* microscopy ) * flow cytometry S
+
+{ @
+* environmental * paraformaldehyde oe)
+
+aul (HES) (d) cell isolation
+freshwater GEE
+seawater methanol + single-cell pipetting Se + microfluidics without
+° . i —- droplets
+sediment * dimethylsulfoxide
+(DMSO) /*\
+‘shost jiated vee a + FACS Z
+ost-associate * dithio-bis(succinimidyl Z en
+. ) wa * droplet microfluidics
+tissue propionate (DSP)
+i 5 Ei ispens joe limiting =
+body fluid * RNA-Best nanolitre dispenser ae cine a
+faeces a
+rhizosphere * cryopreservation * agarose microarray [ersnensnenenienerel ] * cells as compartments ~
+from single cells to sequencing
+(e) cell lysis (f) library preparation (g) sequencing
+* detergent target RNA for RT transcript coverage library amplification * Tlumina
++ polyA+ RNA + partial or full length + PCR +IVT
++ hypotonic buffter eR ——— Alga =
+—— . pac Soe 3) / = oo
++ alkaline buffer — * full Iength = = S
+* total RNA iii ee — * Pacific Biosciences >
+* enzyme a mee adapter ligation s
+~—e, * ligation — =
+* freeze-thaw =e fragmentation ~~" Ss
+a 8 * tagmentation S
+«heat + end fragments transposase eo
+transcript tagging FT BA
++ ultrasonication SUM ptt val es ~ barcoding
+wa ~ + cell barcode * Oxford Nanopore
+eotrers *no + full-length unfragmented opment")
+ST a + sequencing index ee
+
+Figure 1. Overview of the main steps and alternative strategies in single-cell RNA sequencing methods. (a,b) Biological samples taken from the laboratory or the
+field are either processed immediately or preserved for later use. (c,d) A variety of single-cell isolation platforms provide different throughput and possibilities to
+characterize individual cells. (e,f) Each single cell is usually lysed in its own compartment, and the targeted RNA is converted to cDNA, tagged with a specific cell
+barcode to identify the cellular origin of each RNA molecule. Various library preparation protocols offer different options for transcript quantification, coverage, and
+fragmentation, signal amplification, adapter ligation, and barcoding strategies, which depend on the sequencing technology (g) as well as the study design.

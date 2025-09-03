@@ -1,0 +1,34 @@
+The Ig correlation analysis.
+
+
+(a) frequency and abundance of SNPs Table 1. List of HIV evolutionary measures. ab, abundances; fr, frequencies; El
+sequences at time 1 —, sequences at time 2 — non-syn, non-synonymous; syn, synonymous.
+
+2 3 4 5. counts 2 3 4 5 counts s
+CTATG 3 TAAG 3 2
+ATATG 2 TAAG 2 HIV turnover fr absolute change of SNP frequencies Ss
+
+TGTG 2 HIV turnover ab absolute change of SNP abundances =
+
+SNP: 1A 4,T SNP: 1A 3,G 4,T HIV dN/dS fr ratio of the non-syn and syn absolute S
+
+freq: 1/3 2/3 freq: 3/4 1/4 1/4 changes for SNP frequencies =
+
+abund: 2 5 abund: 7 2 2 HIV dN/dS ab ratio of the non-syn and syn absolute 5
+
+changes for SNP abundances =
+(b) trajectories (c) absolute variation =
+SNP abundance i RS)
+
+H significant correlation, with p=0.004 (which comes very =~
+H close to the significance threshold of 0.05 after the Bonferroni
+1 correction). Nevertheless, this kind of analysis is not catching
+H the fact that all these weak correlations point towards the =U
+! same direction. Below we propose a statistical measure  ‘~
+time I time 2 ' which shows that the correlation between these pairs of Ww
+
+Figure 1. (a) Definition of SNP frequency and SNP abundance in a toy measures deviates significantly from a null model where no 9°
+correlations exist. pad
+
+example. (b) Trajectories of SNP abundances. The values correspond to the Nv
+example in (a). (c) Absolute-change computation of the trajectories.

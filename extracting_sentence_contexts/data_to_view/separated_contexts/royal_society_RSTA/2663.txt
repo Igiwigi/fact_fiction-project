@@ -1,0 +1,6 @@
+Periodic boundary conditions are assumed in both directions. Concerning the initial conditions, all blocks are assumed to be at rest, i.e. vj; =0 (1 <i,j <L)att=
+0, and the state variable is set to 4; =10!2. This large number comes from the fact that the interval
+time of large events of the model tends to be extremely long reflecting the very slow loading
+velocity of v =10-®. The displacement of each block is taken to be random uniformly distributed
+between [—500, 500] from block to block. Events at earlier times are transient and are affected in
+a non-stationary manner by the initial conditions.

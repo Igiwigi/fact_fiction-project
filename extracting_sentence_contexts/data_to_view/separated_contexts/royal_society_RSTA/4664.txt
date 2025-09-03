@@ -1,0 +1,13 @@
+To explain this
+geometrically, we consider a point z = (3/4)e, right above the origin. Then the half-space IT, :=
+{x - Vu(z) > 0} contains the cone of monotonicity K(9, en). All directional derivatives in directions
+v, that go into the half space are of course positive at z, in fact as they go strictly into the half space,
+
+‘This is a consequence of the boundary Harnack inequality.
+
+
+away from the edge of 7; they become strictly positive at z, proportionally to ¢(|Vu(z)|, where t
+is the distance of v to the edge of J7,. On the other hand, if the direction happens to be also in the
+cone of monotonicity, it is non-negative everywhere in our domain, say in a cylinder centred at
+the origin. Therefore, from Harnack inequality, the directional derivatives that are inside the cone
+are not only positive but comparable to ¢|Vu(z)| in, say, half the original cylinder.

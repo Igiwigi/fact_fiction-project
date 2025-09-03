@@ -1,0 +1,11 @@
+Figure 2c illustrates how head direc- studies [32,33] have revealed evidence for massive excitatory
+tion information drives the propagation of activity through inputs from layer 2 onto both layer 2 pyramidal and stellate
+the patch. We assume that the grid cell activity rests statically neurons, which may originate from layer 2 pyramidal cells
+at a low level that is exactly self-sustaining in the absence of since stellate neurons do not seem to form such connections,
+head direction input. While it seems fairly clear that head at least according to the evidence cited above [28,30].
+
+direction inputs control the direction of propagation activity, The fact that even same-sized grids can have deviations,
+how this exactly occurs is not predicted by the theory. To give such as slightly different tilts in their main axes [5], poses
+the reader a better idea how this may occur, we specify one challenges for the connectivity scheme proposed here. In
+possible implementation of head direction input to grid such cases, the proposed isoposition connectivity will not
+patches in figure 2c,d, but we emphasize that this scheme is be optimal.

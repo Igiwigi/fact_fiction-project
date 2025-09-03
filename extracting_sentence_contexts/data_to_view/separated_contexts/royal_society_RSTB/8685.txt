@@ -1,0 +1,28 @@
+The impact that
+items of every type in P have on the frequency of Y is rep-
+resented by the Y column. As such, the frequency of Ys at
+t+ 1 is determined by the impact that all the different types
+have on the frequency of Ys, and on the frequency of each of
+those different types at t. (In this sense, there is a simple
+form of frequency-dependence built into this model.) When
+all of these values are known, the relative frequency of Ys at
+t+ 1, Fy(t + 1), can be straightforwardly computed:
+
+attractor as any type whose relative frequency tends to :
+increase over time. These equations make it clear that: | =
+(i) whether or not a given type is an attractor depends on = 3
+its relative success at benefitting not only from the impact
+and frequency at the previous time step of items of the © 4
+same time, but in fact of the impact and frequency at the pre-
+vious time step of all the members of the population, © w
+whatever their type; and (ii) the frequency of one type =
+depends on the impacts of other types on others, and not = S
+just of others on the focal type. (These facts will of course © $
+lead to further frequency-dependence effects, which we do = ©
+not explore here.) Consequently, the same type may be an
+attractor within one population, but not in another. We now provide a number of simple, miscellaneous
+illustrative examples of ECMs, and the modelling possibilities
+they afford. To the extent that we are only interested in the
+evolution of the relative frequency of the types, we could use
+arbitrary absolute numbers for these Ixy coefficients as long
+as their values relative to one another are appropriate.

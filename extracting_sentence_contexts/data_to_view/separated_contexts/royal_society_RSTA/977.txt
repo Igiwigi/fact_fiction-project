@@ -1,0 +1,14 @@
+As the box size increases, the differences for these weakly bound states will be smaller. =
+The number of solutions will formally be equal to the number of basis functions used; however, :8
+we will only need to consider solutions with energies close to the scattering energy (often just : =
+above the dissociation energy of the reactant channel). 1S
+The Bloch terms and finite region introduce substantial requirements for the basis set, which Do
+must now ideally consist of basis functions with finite domain in three non-orthogonal scattering 7
+coordinates rg, rB and rs, with tractable resulting integrals. Furthermore, for each scattering : N
+boundary, at least one basis function must have a non-zero value but zero derivatives. The [8
+zero-derivative boundary condition introduced by necessity by the Bloch operator is a non- :3
+trivial and not often understood condition that has become obvious in our considerations of
+wave functions for RmatReact but has been obscured in electron—molecule collision problems
+due to their far inferior basis sets: this fact is demonstrated in a simple system in appendix A. These multiple boundary conditions are unusual and non-trivial constraints on the design of the
+basis set that are not yet fully understood, and will be the most challenging part of using the
+RmatReact methodology for reactive collisions. We will thus defer its consideration to §3.

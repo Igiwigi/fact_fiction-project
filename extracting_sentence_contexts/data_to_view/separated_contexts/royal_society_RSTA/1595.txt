@@ -1,0 +1,9 @@
+In the case (i1), that is when the function G does not depend on x and the equation in (2.2)
+is affine, theorem 2.2 can be particularly useful to solve BVPs associated to difference equations
+with deviating arguments. Indeed, in this case, it can lead to a BVP associated with a second-order
+difference equation without deviating argument. An application of this fact is in the following
+section.
+
+3. Proof of theorem 1.2
+
+For proving theorem 1.2, the following auxiliary result is needed. Lemma 3.1.

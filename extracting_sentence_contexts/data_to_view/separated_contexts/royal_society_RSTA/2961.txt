@@ -1,0 +1,13 @@
+One can then solve equation (3.2) for the field profile over
+a whole round trip that we denote Ayn. Several methods are possible, but the most convenient
+choice is to use the Fourier transform, since transverse diffraction can also be evaluated that way. In particular, the fact that the pulse train is asymptotic to zero makes it possible to apply the
+Fourier transform along the propagation axis (i.e. in the time domain) with periodic boundary
+conditions. Solving equation (3.2) in Fourier space and transforming back to the time domain
+yields a simple expression of the mapping operator
+
+An =F UL(o) FHAn—)D, (3.3)
+
+where F; denotes the Fourier transform in time and L(w)=(1+iw/y)! is the Lorentzian
+function. The fact that equations of the same type as equation (3.2) could be solved by a Fourier
+method as a functional mapping in the long delay limit was already pointed out in [36] for the case
+of a single variable.

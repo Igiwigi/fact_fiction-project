@@ -1,0 +1,12 @@
+It
+is worth stressing that identifying precisely k communities for large k is especially remarkable
+considering our description of the network topology in the previous section. Indeed, for low B,
+the graphs are essentially m-nearest-neighbours lattices for a wide range of k, so the difference
+in the community structure is far less obvious than the top-left networks in figure 1. In fact,
+when fed the unweighted networks (that is, with all the weights transformed as wij > O(«jj)),
+the inferred community structure changes considerably, as can be seen from the blue curves in
+figure 5a. The curves of number of detected communities 1, versus k show plateaus where n;, is
+roughly constant, interrupted by dips that appear at the same values of k/N for which the average
+degree changes abruptly (cf. figure 4a,b). Hence, we conclude that, in this regime, the community
+structure is encoded in the dependence of the concurrence with respect to the position along the
+chain.

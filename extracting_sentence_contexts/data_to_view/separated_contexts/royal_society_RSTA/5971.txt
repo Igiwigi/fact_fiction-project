@@ -1,0 +1,10 @@
+In this scenario of low variance, extreme value distributions of buckling loads can be
+approximated by a normal distribution. As a result, in preliminary work we have determined that
+Monte Carlo simulations of optimized high reliability designs are generally well approximated by
+a normal distribution. The second simplification, the use of a static set of imperfections, negates
+the fact that different layups have different imperfection signatures due to the curing and layup
+processes. However, without manufacturing simulations of each layup, it is impossible to account
+for the characteristic imperfection signatures that are present in each cylinder. Furthermore, a
+comparison between the Fourier coefficients of the mean imperfection used within the present
+FOSM analysis [35] and previously manufactured RTS and SF cylinders [18] indicates that the
+Fourier coefficients used are representative of real, manufactured structures.

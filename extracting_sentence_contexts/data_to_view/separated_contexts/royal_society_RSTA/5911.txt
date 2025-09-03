@@ -1,0 +1,16 @@
+Ramax is then a good proxy for the Rayleigh number based on the temperature drop between the
+
+
+bottom boundary and the bulk of the fluid (the latter definition for the Rayleigh number being the
+one used in previous experimental and numerical studies of this system, see [12,14,15]). Another
+desirable feature of Ramax and Numax is that, up to factors of two, they reduce to the standard
+definitions of the Rayleigh and Nusselt numbers when applied to the canonical fixed-temperature
+Rayleigh-Bénard set-up. In the following, we derive upper bounds on Nu in terms of Ra, but we stress the fact that all
+these bounds carry over to Numax and Ramax. Indeed, from the definition (6?) = So 62dz, we obtain
+(6?) < maxz<[0,1}{02}, hence
+
+Ra<Ramax and Numax < Nu. (2.12)
+
+The upper bounds derived in the following are typically of the form Nu <c x Ra’, with y a
+positive exponent and c a prefactor. From the inequalities (2.12), one immediately obtains that
+these bounds carry over in terms of Ramax and Numax, ie.

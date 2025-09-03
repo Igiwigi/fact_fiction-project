@@ -1,0 +1,8 @@
+There are so many versions of the generalized Boussinesq equations that
+there is no point trying to write them down in this short review. There are also the fully nonlinear
+
+
+shallow-water generalized Serre equations [37]. They have been rediscovered several times and
+are in fact used in FUNWAVE [38,39]. Implementations of these dispersive wave models are
+in-house models or available as standard codes, open-source or commercial. The majority of codes
+use finite-difference schemes.

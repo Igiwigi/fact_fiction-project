@@ -1,0 +1,30 @@
+In each of these intervals the maximum of the function J is less
+than fite
+
+Let us do likewise for each set E,, choosing the small quantities so that
+Qtegt... =eytegt+... =e
+
+Applying the Heine-Borel theorem to all these intervals, which enclose every point
+of E,, Ey, ..., that is of (A, B), we can determine a finite number of these intervals
+enclosing every point of (A, B), and we can insure that the content of these intervals
+differs from their sum by less than e.* To each of these intervals we can attach the
+index of the first of the sets E,, E,, from which it was constructed; the content
+of those which have the index 7 will then be less than E;+e’; and the maximum in
+each will be less than f;+e; Hence the upper summation over the non-overlapping
+intervals, consisting partly of the simple parts of these intervals and partly of the
+overlapping parts, is less than
+
+(Ex+e%) (fit+er)+(Ea+e’s) (fates) +... +Me,
+
+where M is a positive quantity greater than the numerically greatest values of f. That is, this upper summation is less than X+e+2Me+Se+e, which, since e is at our
+disposal, proves the theorem. A similar proof can be given for the case of the lower integral of a lower semi-
+continuous function, or we may deduce the corresponding theorem in this case from
+the fact that a lower semi-continuous function becomes an upper semi-continuous
+function when its sign is changed, and at the same time the lower integral becomes
+the upper integral. Bearing in mind now that the upper integral of a function is equal to that of
+
+* Cp. “ An extension of the Heine-Borel Theorem,” ‘ Messenger of Mathematics,’ New Series, No, 393,
+January, 1904,
+
+
+230 DR. W.

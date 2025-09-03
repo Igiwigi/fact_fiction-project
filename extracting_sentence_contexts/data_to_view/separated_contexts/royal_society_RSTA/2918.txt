@@ -1,0 +1,7 @@
+If there is a brief episode
+of quadratic phase coupling (QPC), the Fourier-based BS method cannot detect it from the signal
+due to the large time window used. On the contrary, the WBS will detect it, down to a certain
+minimum duration; thus the WBS allows intermittent couplings to be detected [4,5]. In fact, WBS
+represents a significant improvement in the time resolution of the BS. To date there has been some notable uses of WBS, yet not at the level of the BS alone and even
+less when compared to the prolific use of the CWT. However, there are some key areas where
+WBS analysis has made some clear inroads.

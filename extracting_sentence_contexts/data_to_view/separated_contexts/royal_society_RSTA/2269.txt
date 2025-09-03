@@ -1,0 +1,9 @@
+In EP, we
+are interested in the value assignment to effects of a measurements, independently of which
+measurement the same effect appears in, e.g. the assignment of {0,1} to the effect |i)(i|,
+independently of which basis |i) belongs to. In OP, we are interested in the assignment of a value
+to observables, independently of which joint measurement they belong to, e.g. the assignment of
+a value to P;, independently of whether it is measured together with P; or Py. The equivalence of these two perspectives is due to the fact that the KS theorem is discussed
+in the context of sharp measurements. This is no longer true if the measurements we are
+considering are unsharp. The discussion of unsharp measurement is necessary for the connection
+of KS-type contradictions with experimental tests.

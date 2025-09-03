@@ -1,0 +1,14 @@
+This makes unsupervised methods of particular of genomic data modalities as input, improve its performance
+interest when exploring data [15]. A further challenge on large datasets and add a range of output visualizations.
+arises from the size of the data we wish to process. On Our method allows users to rapidly gain insights into struc-
+top of the fact that we wish to process a large number of ture present in very large genome datasets, which we
+individual genomes, genomic datasets typically have a show corresponds well with model-based genetic clustering
+very large number of features; for example when using algorithms. We implemented our method as a piece of
+SNPs or k-mers to represent sequence variation, each open-source software called mandrake (https://github.
+sample may typically have 10°-10° such markers. These com/johnlees/mandrake) and as a static web application
+markers are frequently used to calculate genetic distances (https: //gtonkinhill.github.io/mandrake-web).
+
+between samples, the number of which grows as the
+number of samples squared, such that one million samples
+
+will have of the order of 10'! distances between them. 2.

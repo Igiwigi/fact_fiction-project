@@ -1,0 +1,11 @@
+The first stage of the Bayesian modelling framework is to explicitly state all assumptions using
+the language of probability theory. Specifying both the prior and likelihood is a necessary
+requirement so that the model is well defined. In fact, the distinction between prior and likelihood
+is arbitrary?; both are essential parts of the model. People also object to the use of priors on the parameters on the grounds that they do not
+think of the parameters as being ‘random’ variables. For example, if one is estimating the mass
+of a planet from astronomical data, the mass of the planet is not ‘random’ in the colloquial
+sense of the word.’ This is a misunderstanding of the semantics of probabilities in Bayesian
+
+2Of course, our model may have a fixed value of 0, e.g. 7.213, which corresponds to a delta function prior.
+
+3Consider, for example, a model that defines the probability of the data (ie. the likelihood) using a student f-distribution.

@@ -1,0 +1,14 @@
+The distributions of these quantifiers in the network, or the relations between them, often
+provide a tangible and understandable, albeit limited, description of even very large systems. In
+this paper, we will also consider the community structure—a so-called mesoscopic property—of
+the entanglement networks. This refers to a property commonly observed in complex networks,
+namely, the fact that nodes can be grouped into communities such that the density of links among
+the members of each community is considerably higher than the overall density in the network.
+
+3. The XX model
+
+In the literature of quantum spin Hamiltonians, and generally when studying quantum phase
+transitions, one often works in the thermodynamic limit or considers closed boundary conditions
+wherein translational invariance is generally guaranteed. This implies that most two-spin
+correlation functions, including concurrence, which is built upon them, depend only on the
+distance between the spins [36,50,51].

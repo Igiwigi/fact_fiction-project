@@ -1,0 +1,17 @@
+This is because the left-hand side of (1.8) involves the
+sum of two terms, which we will show makes sense at the boundary, while each term might
+not necessarily be regular enough to make sense at the boundary on its own. It is this boundary
+condition that we will be adopting in this contribution. In spite of the fact that we strongly believe that the same type of result will hold in the three-
+dimensional case, which is a subject of future work, we consider only the two-dimensional case
+for the following reasons.
+
+(i) Although the result seems to be very natural, the proof turned out to be more elaborate
+than expected. Therefore, we choose to consider a situation where we can provide the full
+details, while keeping the presentation user friendly.
+
+(ii) We use a global localization near the boundary, which may not be absolutely compulsory
+in the present case, but as stated in §4, this idea may be extremely useful for companion
+problems where the analyticity properties have to be preserved. This study is organized as follows:
+
+(i) As mentioned earlier, we focus on the two-dimensional case and provide a global
+representation of the neighbourhood of the boundary.

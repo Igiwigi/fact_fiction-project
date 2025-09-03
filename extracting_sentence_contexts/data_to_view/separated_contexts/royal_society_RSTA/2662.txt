@@ -1,0 +1,7 @@
+The crossover
+velocity v* is hard to estimate, though it should be much smaller than unity, and we take it as
+a parameter. In our simulations, for the sake of computational feasibility, we concentrate on the strong
+frictional instability regime where the b parameter is greater than a critical value b,. In fact, b,
+is determined solely by the elastic parameter ¢ [40-42]. In 1D, it is given by b, = 2¢? + 1, while in
+2D it is given by bp = 4¢? + 1. In the following, we put ¢ =3 corresponding to b, = 37, and vary b
+in the range of b > bc, ie. 40 < b < 80.

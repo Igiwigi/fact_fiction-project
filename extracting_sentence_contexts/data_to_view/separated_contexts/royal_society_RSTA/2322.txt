@@ -1,0 +1,46 @@
+The first thing to note is that, if £ in (5.1) is a non-local operator, then it is not unique
+because, if o* and p* satisfy
+
+divo*—sp*=0, xEQ (5.2)
+and n-o*=0 on 0, then
+
+| loge + ppv) dx=0 (6.3)
+2
+
+for all (e, v) derived from a displacement field u and hence
+
+L Hl =(L+L") Hl , (5.4)
+
+where the non-local operator £* has kernel
+
+o*(x)
+p(x)
+
+If £* is not even required to be symmetric, then different row and column vectors could be used in
+its definition. One way to define £ uniquely is to require that it would apply even in the presence
+of a possibly incompatible ‘transformation strain’ 7 so that, in the presence of such transformation
+strain, stress and total strain are related by
+
+r=e("") (5.6)
+Uv
+
+It is possible to include such a transformation strain in the Hashin-Shtrikman formulation,
+taking 7 to be sure. The estimate for £° survives, showing that it does in fact comply with this
+uniqueness restriction. Willis [33] developed a more flexible definition for effective properties than that employed
+so far, by introducing a weighting function w(x,a), normalized so that (w) =1, and defined a
+
+LY(x,2!) = [o*(@’) p*@’))- (6.5)
+
+
+weighted mean displacement
+(u) w = (wu) (5.7)
+
+and associated weighted mean velocity (v)w=s(u)w or (0/dt)(u)w and strain (e)w with ij
+component ((e)w)ij = 31(u)w)i, + ((u)w);,i)- The new proposed effective relation was
+
+(0) | _ pete | (bw
+] =f lee 68)
+
+No new average was introduced for o or p because it is important that the equation of motion
+should still hold exactly. However, the body-force f in any realization was changed to w(x, @)f(x) =
+w(x, a)(f)(x).

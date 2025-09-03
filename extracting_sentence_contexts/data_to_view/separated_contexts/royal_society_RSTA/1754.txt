@@ -1,0 +1,10 @@
+It then uses Bayesian inference
+to simultaneously estimate both the parameters of interest, as well as the ‘nuisance’ parameters
+that describe the possible unknown systematics. Markov chain Monte Carlo is used to first draw
+samples from the resulting posterior, and then marginalize over all the nuisance parameters, to
+get a final conservative posterior for the parameters of interest, that accounts for the fact that there
+are likely unknown systematics. In particular, this approach is able to give realistic long thick tail
+probabilities, to account in a systematic way for the fact that there may be ‘unknown unknowns’. We show in figure 3 a simple implementation of the methodology, in the context of
+estimating how energetic a laser system must be to achieve ignition. Suppose (i) three different
+independent estimates give E; =5.0+0.5MJ, Ez =5.5+0.2MJ and £3 = 8.0 + 0.2 MJ (arbitrary
+numbers chosen to illustrate methodology) and (ii) one is agnostic as to which method is better.

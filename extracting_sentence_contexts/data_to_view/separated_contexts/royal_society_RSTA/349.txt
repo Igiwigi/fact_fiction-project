@@ -1,0 +1,11 @@
+Conclusion
+
+It is probably fair to say that in the last 10 years, ICA has become a standard tool in machine
+learning and signal processing. The generality and potential usefulness of the model were never
+in question, but in the early days of ICA, there was some doubt about the adequacy of the
+assumptions of non-Gaussianity and independence. It has been realized that non-Gaussianity
+is in fact quite widespread in any applications dealing with scientific measurement devices (as
+opposed to, for example, data in the social and human sciences). On the other hand, independence
+is now being seen as a useful approximation that is hardly ever strictly true. Fortunately, it does
+not need to be strictly true because most ICA methods are relatively robust regarding some
+dependence of the components.

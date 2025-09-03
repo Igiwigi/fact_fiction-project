@@ -1,0 +1,12 @@
+Introduction
+
+When the first superhuman computer program in the game of Go—AlphaGo—beat the world
+champion Lee Sedol in 2016, its gameplay was considered surprising and unconventional,
+apparently violating longstanding Go traditions. In particular, for move 37, AlphaGo calculated
+the chance of a human player making the same move as 1 in 10000 [1]. Its unconventional play
+likely originated from the fact that AlphaGo, and more so its successor AlphaGo Zero [2,3],
+learned through self-play with little or no reliance on human historic gameplay. The performance
+of AlphaGo raises the question of how such novel gameplay would influence human strategies
+[1]. Replaying historic human matches of the last 300 years showed that an algorithm similar to
+AlphaGo Zero increasingly often chooses the same move as humans [4], indicating convergence
+towards a common gameplay.

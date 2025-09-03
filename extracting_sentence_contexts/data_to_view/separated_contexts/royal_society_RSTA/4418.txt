@@ -1,0 +1,8 @@
+Conjunction means that for any A,B € R, there exists A B € R satisfying the properties:
+(ANB)NC=AN(BNC) (associativity) and
+ANA=A _(idempotency). But, generally, conjunction is not commutative and not distributive:
+ANB#ZBNA (no commutativity) and
+AN(BUC)4(ANB)UANC (no distributivity). The fact that distributivity is absent in quantum logic was emphasized by Birkhoff & von
+Neumann [15], who illustrated this by the following example. Suppose there are two events By
+and Bz that, when combined, form unity, B, U Bz =1. Moreover, B, and B2 are such that each :
+of them is orthogonal to a non-trivial event A 40, hence AN Bj =ANM By =0.

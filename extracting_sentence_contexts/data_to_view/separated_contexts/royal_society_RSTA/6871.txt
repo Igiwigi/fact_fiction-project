@@ -1,0 +1,10 @@
+The differential equation at the point 0
+involves the fictitious points 1 and 2, and expressions for the values at these points must
+therefore be obtained in terms of internal points and the given boundary conditions. There
+are two obvious possibilities, neither of which is completely satisfactory. FicureE 7
+
+First, normals can be drawn from the fictitious points (Fox 1944) and the boundary con-
+dition satisfied at the points where these normals cut the boundary. In figure 7, for example,
+the normal from 1 cuts the boundary at B, and internal mesh lines at points marked with
+a cross. Formulae can therefore be established for the value at 1 in terms of the normal
+derivative at B (and the functional value at B if required), and values at the crossed points.

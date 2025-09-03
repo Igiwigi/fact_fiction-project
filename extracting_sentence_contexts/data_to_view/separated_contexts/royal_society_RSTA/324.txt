@@ -1,0 +1,7 @@
+For graphs with loops, the situation is more complex. Exact inference can still be performed
+using techniques such as the junction tree algorithm [16], but the computational cost can become
+prohibitive, depending on the structure of the graph. An alternative approach, known as loopy
+belief propagation [17], uses the same message-passing technique as discussed earlier for tree-
+structured graphs, but simply iterates the messages to allow for the fact that, with loops present,
+a standard two-pass schedule does not lead to exact marginals. Although this process may seem
+ad hoc, it has been found to yield good results in many applications. So far, we have assumed that the local messages at each node can be computed exactly.

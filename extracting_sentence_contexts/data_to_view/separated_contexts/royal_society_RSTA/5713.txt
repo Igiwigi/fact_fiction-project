@@ -1,0 +1,48 @@
+This is a well-known fact, see for instance [19]; indeed
+~ 1 a B 1 4 B
+LoT=5 ~ DE waa apT + 5 EY wu apr.
+je] «B= je] ap=1
+
+The second sum is equal to 3 Wa pet Qup (x, x)dadgT. The first one, due to the property div uj =0,
+is equal to
+
+d d
+1 1
+) > da (ufu)dgT = > du Qup(x,x)dT,
+
+je] wP=1 ow, p=1
+
+where we have also used the assumptions of uniform convergence of the series of the derivatives. Recall that T(t, x) = (e'40T )(x), see (1.4); from the previous facts we have
+
+d(T — Tg) = («A + Lo)(T — Tg) dt +) uj VT awl.
+id
+
+The mild formulation of this identity, furthermore applied in a weak sense to a smooth test
+function ¢ with compact support in D, is
+
+(@, TW) — To(t)) = >> i, (eeg, 4: vT()) awl,
+id
+
+where (.,-) is the inner product in L?(D) and we have also used the fact that the semigroup e('-5)4o
+
+is self-adjoint. By the isometry formula for Ité integrals,
+t 2
+E[ (6,7 - Tol) ]=>> I, E [let ee, uj VT()) | ds.
+is
+
+We have (we write T;(x) for T(s, x) and ¢;,5(x) for (e-9)404)(x) to shorten notations)
+
+d
+(94g uw. VT.) = s(x)ts(y)Qa wT s(X)OpTs(y) dx dy.
+r(: Poy WE) = Yo [on/p sta (2Qunl ye Toa Tay) dx dy
+
+p=1
+
+The semigroup e!Ae satisfies the maximum principle, namely le!424||o0 < |IPlloo- Hence, recalling
+the definition of Q and €g,
+
+2
+> (e429, uj: vt) <€Q I, |$1s(X)VTs(0)|" dx
+id
+
+<lldlZ«€0 I, IVT(s,x)2 dx.

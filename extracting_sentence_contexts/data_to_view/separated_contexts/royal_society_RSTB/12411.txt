@@ -1,0 +1,10 @@
+In §3, I will start there but move on to phenomenon. Starting with the mechanism as a whole, ident-
+consider how explicitly hierarchical representations of biologi- ified in terms of the phenomenon for which it is responsible,
+cal knowledge, such as found in bio-ontologies, are used to the collection of entities that constitute the responsible
+interpret networks. In §4, I turn to one recent effort that uses mechanism are at the same level [23,24].
+hierarchical representations from bio-ontologies to structure This two-level perspective is expanded into a full hierarchy
+artificial neural networks (ANNs) trained to predict pheno- as a result of the fact that the components of a mechanism can
+types from genotypes. The resulting network representations be decomposed into their own parts and operations. Thus,
+reveal a hierarchy of levels and serve to expand mechanistic there will be multiple levels at which mechanisms themselves
+understanding of cell functioning. work together to generate a phenomenon and so constitute
+Throughout this paper, I will focus on examples of research higher-level mechanisms.

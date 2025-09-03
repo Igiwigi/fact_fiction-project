@@ -1,0 +1,16 @@
+One challenge that has not been dealt with particularly well
+methodologically is that such a dyadic perspective will fail to
+be realistic if there are significant non-dyadic influence relation-
+ships. For example, if individual C only follows when both
+A and B initiate, but not when either initiates alone, this triadic
+relationship would be difficult to capture using standard
+network tools. Such non-dyadic interactions may in fact be
+key to the decision-making process, for example, through the
+well-documented use of quorum rules in animal group
+decisions [82-85]. One approach that could prove useful here
+is maximum entropy modelling. This is an information-theoretic
+approach (distinct from the approaches described above)
+which can quantify how much of the information contained
+in a joint distribution (e.g. of group states) is accounted for
+by pairwise relationships alone, as opposed to higher-order
+interactions.

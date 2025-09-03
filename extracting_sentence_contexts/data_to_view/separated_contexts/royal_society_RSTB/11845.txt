@@ -1,0 +1,11 @@
+One way to decrease FDR is
+[9]), our method identifies primarily positive interactions to consider genes with an even higher degree of parallelism.
+between pairs of selectively accessible mutations. In theory, Of course, this would come at a cost of potentially missing
+our approach could also capture negative interactions, but interesting genetic interactions among less frequently
+this would require observing an absence of certain muta- mutated genes.
+tional combinations more often than expected by chance. Second, high FDR may in fact reflect a real biological
+Such mutational incompatibilities have been observed in phenomenon. Gene-deletion studies have shown that strong
+evolution experiments [36,47]; for example, mutations in an pairwise epistasis is relatively rare, around 4% if both positive
+HXT6/7 hexose transporter and its negative regulator, and negative interactions are counted [6]. Thus, strong pair-
+MTHI, in glucose-limited yeast chemostat populations are wise genetic interactions among beneficial mutations might
+incompatible [47].

@@ -1,0 +1,6 @@
+Recently, a silicon photonic chip-based two-dimensional MEMS switch was demonstrated
+that can support microsecond switching times [44]. These MEMS switches operate at low power
+levels. In fact, the two-dimensional switch can be latched so that almost no power is used
+while the switch is in position. Microsecond speed control is low speed from a processing
+perspective and therefore very energy efficient. The challenge is in identifying the elephants
+and efficiently scheduling the optical circuits through these switches.

@@ -1,0 +1,9 @@
+Interfacial energies form the basis of the theory of capillary surfaces and come with
+a well-developed set of tools [26]. The handling of the deformation energy is more problematic
+and has been the focus of numerous recent studies (e.g. [27-31]). The difficulty lies in the fact
+that the energy is composed of two parts: a non-convex in-plane stretching term penalizing
+deviations from a flat metric and a convex out-of-plane bending term involving both the mean
+and Gaussian curvatures. When the thickness of the sheet limits to zero, the resulting equilibrium
+shape involves only bending from the initial configuration [32], and the plate can thus be locally
+described as a developable surface. Imposing the isometric constraint becomes difficult due to
+its degenerate and point-wise nature.

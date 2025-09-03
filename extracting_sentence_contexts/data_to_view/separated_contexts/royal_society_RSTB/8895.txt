@@ -1,0 +1,13 @@
+The fact that the intensities are a
+function of only three parameters means that the p-dimensional
+vector tips all lie on a three-dimensional hypersurface
+(‘manifold’) in the p-dimensional space of intensities
+(figure 1). This manifold is an expression of the correlated
+way in which the pixel intensities change with the particle
+orientation. In fact, each point on the manifold represents a
+snapshot from a specific object orientation. Discovering the manifold in a noisy dataset constitutes the
+first step in the analysis. Starting with the Euclidean distance
+between vectors representing snapshots in the p-dimensional
+data space, a number of powerful graph-theoretic techniques
+can be used to discover low-dimensional manifolds underlying
+the high-dimensional data [19,23—26,32-34].

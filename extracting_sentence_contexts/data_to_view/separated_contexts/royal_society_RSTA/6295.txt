@@ -1,0 +1,12 @@
+And, in fact, seriously investigating the potential of LLMs to shed light on the former
+may incidentally generate insights about the latter.
+
+4. Conclusion
+
+It is an open question whether the success of LLMs can offer insight on the study of language
+understanding in humans. Two common arguments against LLMs as models of humans are (i)
+the fact that LLMs lack the capacity to represent abstract symbolic structure and (ii) the fact that
+LLMs are trained only on text and thus lack grounding. Support for both claims is typically based
+on either in-principle arguments, or else on evidence of LLMs performing poorly on tasks that
+require symbols or grounding, respectively. In this article, I argued that neither criticism of LLMs can be accepted a priori, and rather, both
+claims must be tested empirically.

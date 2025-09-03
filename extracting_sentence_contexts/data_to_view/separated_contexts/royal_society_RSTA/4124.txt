@@ -1,0 +1,13 @@
+We first ask for what value of T we
+have a node occurring after exactly one turn. This means that we have to solve the equation
+
+Qn
+
+cos(A(T))=0, A(T)=3 I, dk g(1 — x(k, T)). (4.11)
+This is a straightforward Mathematica calculation, and the result is reported in figure 5a. The
+resulting curve is in fact a cross-section of any one out of the three two-dimensional figures given
+by Viyuela et al. [3] (their fig. 2, which is considerably more beautiful than ours). They interpret
+the resulting values of T—less than half of the band gap at m=0—as an m-dependent critical
+temperature at which something dramatic happens to the Kitaev chain. We can, however, easily
+complicate matters by asking for the value of T for which we have a node occurring after exactly
+two turns, or three turns and so on.

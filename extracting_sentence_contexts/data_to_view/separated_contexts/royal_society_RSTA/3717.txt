@@ -1,0 +1,11 @@
+The propagation length indeed increases proportionally to the gap thickness. For the metal (figure 5b) it is almost independent of the wavelength, in full agreement with (4.11),
+while for InGaAs (figure 5d) the propagation length does depend on the wavelength. This can
+be explained by the fact that, when the wavelength approaches the plasma wavelength, the field
+penetrates deep inside the semiconductor. At any rate, comparing figure 5b,d one can see that the
+propagation length in metal always exceeds that in semiconductor despite higher material loss in
+the metal.
+
+5. Conclusion
+
+We have compared the performance of alternative plasmonic materials in the IR region with
+that of metals using a simple fully analytical model.

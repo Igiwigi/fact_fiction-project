@@ -1,0 +1,6 @@
+However, recall that in
+general there are many different unit structures that all apply to the same CTMC. We are free to
+choose among those unit structures. And as it turns out, no matter what the CTMC is, we can
+always choose the unit structure in a way that guarantees that equation (4.1) does in fact hold. I prove this result in several steps. First, in electronic supplementary material, appendices
+F and G, I derive a set of lower bounds on EP that always apply, no matter what the unit
+structure.

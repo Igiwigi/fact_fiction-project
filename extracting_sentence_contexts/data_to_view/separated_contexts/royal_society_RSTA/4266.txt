@@ -1,0 +1,11 @@
+A full informational, complete frequency-domain representation:
+Holo-Hilbert spectral analysis
+
+For any data, after the necessary first additive decomposition, we have the expansion given in
+equation (1.3). The carrier FM part has been covered in the HSA [7], in which the variation of the
+amplitude is implicitly expressed as the temporal modulations of the spectral intensity without
+further expansion or conversion into the frequency domain. Thus, this time-frequency analysis is
+in fact an incomplete spectral analysis. Here, we are going to concentrate on the variation of the amplitude function, a;(t). In the above
+example of multiplicative interaction between the sinusoidal wave and the white noise, the IMFs
+of the data (in figure 2b) are given in figure 4a and the corresponding Hilbert spectrum is given
+in figure 4b.

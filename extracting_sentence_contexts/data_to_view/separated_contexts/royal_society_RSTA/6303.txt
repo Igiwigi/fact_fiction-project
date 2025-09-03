@@ -1,0 +1,12 @@
+For instance, the
+parameter to +_ comm, the commutativity of addition, is a number of the form (+ a b) forsome
+a and b. When applied to an argument of the necessary form, the output type of +_comm will be
+the equality type ( = ( + a b) ( + b a) ) .Note that we can equally formalize this (and
+all other) axioms without pattern matching on syntactic forms, but rather by taking any numbers
+aand b and returning an equality ( = ( + a b) ( + b a) ) .While this latter form would
+more faithfully represent the property of commutativity of addition, it would also generate more
+actions during proof search, since it applies to any real numbers regardless of whether we are
+already considering their sum. Thus, the form we write these axioms reflects both the properties
+we need and the fact that we tend to apply these properties once we already have an object that
+suggests they will be useful. In practice, this narrows down the action space without ruling out
+natural solutions. Table 1.

@@ -1,0 +1,9 @@
+Since the stable
+eigenvalues of UV* are in fact complex (figure 1), we expect an oscillatory approach to UVt
+(responsible for the overshoot at the top right corner of the branch in figure 13) but monotonic
+growth away from BS. So the presence of large amplitude oscillations away from and then back
+to BS is unexpected. In fact, these pulses form by a natural mechanism. From the point of view
+of trajectories in four-dimensional phase space a pulse forms when a trajectory departs from
+BS, viewed as a saddle point in phase space, follows its unstable manifold towards UV* and
+then the unstable manifold of UV* back towards BS. This process may repeat any number of
+times.

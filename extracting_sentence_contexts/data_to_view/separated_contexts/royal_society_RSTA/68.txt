@@ -1,0 +1,9 @@
+Each agent has to choose a strategy so as to minimize a cost
+that not only depends on her type, but also on the probability distribution of strategies resulting
+from the behaviour of the rest of the population. A Cournot—Nash equilibrium then is a joint
+probability distribution of types and strategies with first marginal (given) and second marginal
+v (unknown) that is concentrated on cost-minimizing strategies. The difficulty of the problem lies
+in the fact that the cost depends on v. For relevant applications, this dependence can be quite
+complex, because there may be both attractive (mimetism) and repulsive (congestion) effects in
+the cost. Another situation where one looks for joint probabilities (or couplings) is the optimal
+transport problem of Monge-Kantorovich.

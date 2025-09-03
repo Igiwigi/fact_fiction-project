@@ -1,0 +1,44 @@
+The formulae at the end of appendix B, with the right
+replacements for the variables, would then apply here too. The model there, however, does not allow for group-level
+noise. If we want to estimate the difference b—c, and allow
+_ Cov(w, p) —b- Var(p) for noise at the group-level as well as individual noise, then
+Cov(p, q) we can use the fact that, for both versions of the model, b —
+c is also the effect that one additional cooperator has on the
+total group payoff. That makes the average group payoff a
+linear function of its share of cooperators, and with the
+Cov(w, q) - Cov(p, q) = b - [Cov(p, or + (Cov, p) —b noise in the group average equal to the average noise in indi-
+- Var(p)) Var(q), vidual fitnesses in the group plus the group-level noise, this
+
+gives us m observations of group averages
+
+Cov(w, p) = b - Var(p) + c - Cov(p, q)
+
+Cov(w, q) = b - Cov(p, q) +c - Var(q). Rewriting the first of those gives
+
+Substituting in the second of those, and multiplying left and
+right by Cov(p, q) gives
+
+hich mak
+which makes Hi =(b- OF, +4.
+
+pe Cov(w, q) - Cov(p, q) — Cov(w, p) - Var(q)
+
+[Cov(p, pF — Var(p) - Var(q) Therefore, similar to appendix A, but now with group
+
+averages for individual values, the estimator of the difference
+Filling this in in either of the two, or using symmetry, gives b—c would be
+
+ae Cov(w, p) - Cov(p, q) — Cov, q) - Var(p) $-t= Sap :
+[Cov(p, q)? — Var(p) - Var(q) so
+
+
+
+This could also be written as
+
+~ ~ Cov, PB)
+
+7 Vari
+
+with, as before, this covariance and variance defined on the
+random variable that draws one of the observations, with
+all observations being equally likely to be drawn.

@@ -1,0 +1,20 @@
+The effective operator pf isa spatial
+convolution operator, which Fourier transformation reduces to a second-order isotropic tensor-
+valued function of the wavenumber vector &. If the inverse time parameter s is taken real and
+po = min(p1, 2), the variational structure provides a lower bound for the quadratic form defined
+by pt, and hence lower bounds for the eigenvalues of the transform of pet for each &, and
+corresponding upper bounds if pp = max(p1, 2). The Fourier transform of ptt isa transversely
+isotropic tensor and so has two distinct eigenvalues which are isotropic functions of § and
+hence functions of |£|, which would coincide if p* were in fact a scalar operator. Willis [27]
+demonstrated explicitly that the lower bound of one of the eigenvalues was greater than the upper
+bound of the other, at certain values of s and |é|, thereby confirming the tensorial nature of pet,
+
+The coupling displayed in the dynamical effective relations, between stress and velocity as well
+as strain, and between momentum density and strain as well as velocity, essentially lay dormant
+for many years, receiving no attention at all except for being highlighted in a course of lectures on
+the dynamics of composites at the International Centre for Mechanical Sciences [28]. The coupling
+was demonstrated in those lectures by showing that it appeared unavoidably in a perturbation
+expansion for effective (i.e. ensemble averaged) stress and momentum density versus strain and
+velocity, in a medium with small-amplitude heterogeneity.
+
+5.

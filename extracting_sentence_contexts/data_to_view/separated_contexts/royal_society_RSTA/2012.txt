@@ -1,0 +1,15 @@
+Analogously to
+equation (4.6), the value of strain obtained with equation (4.9) is consistent with the previous
+strain history ¢,,_; and with the parameters 6, and Eg, within the time interval t,_1 + tn. Finally, it is worth emphasizing that the quasi-linear viscoelastic model of equation (3.3) is
+a special case of the proposed approach in the form of equation (4.9). As a matter of fact, the
+discretization of equation (3.3) and some simple manipulations (as those defined in §2) lead to
+
+&n = — (@n(Bn)er + @n—1 Bndea + +++ + @2(Bu)en—1) + Ep AM" lonl*sgn(on), (4.10)
+
+that is exactly the same result that one obtains if the proposed approach is applied directly to the
+quasi-linear viscoelastic model of equation (3.3). In conclusion, the proposed approach is developed to appropriately compute the stress/strain
+response to a generic strain/stress history of a nonlinear fractional viscoelastic material with
+time-dependent parameters. In practice, for instance, the material parameters 6 and Eg could be
+obtained experimentally as functions of strain to calculate the stress response to a given strain
+history or, conversely, as functions of stress to calculate the strain response to a given stress
+history.

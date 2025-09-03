@@ -1,0 +1,45 @@
+To make the
+data comparable the observations with the normal law are supposed rounded to the
+nearest odd number:
+
+-4 —3 -1 +1 +3 >+4
+Binomial 0 1 3 0
+Normal 0-084 0-908, 3-008. 3-008. O84
+
+For four components and sixteen observations the expectations in ranges about the
+even numbers are as follows:
+
+5 —4 0 +4 >+5
+Binomial 0 1 6 1 0
+Normal O10 ODT S86 O13 0-97 10
+
+
+TION OF OBSERVATIONS
+
+D COMBI
+
+LAW OF ERROR /
+
+In neither case do the probabilities of one observation falling in a particular range
+differ by more than 0-012. To see what this means with regard to testing the normal
+law, let us suppose that n observations are made and that we are given only the totals
+by ranges to compare by the y? test with the postulate that they are derived from the
+normal law; and that in fact they are derived from a binomial law with three com-
+ponents, According to the usual rule for applying the test when some of the expectations
+are small, the terminal groups cannot be taken separately until the expectations in
+them, according to the hypothesis to be tested, reach 5. Until this happens they will
+be combined with the adjacent groups before y* is evaluated, Thus they will not appear
+separately in the test until x reaches 8 x 5/0-084 = about 480. Until then the expecta-
+tions, for given , will be
+
+<- -1 +1
+Binomial O-125n O-37in O-375n
+Normal O-124n 0:376n O-376n
+
+Now if the actual frequencies agreed exactly with the binomial expectations we should
+compute y* from the usual formula for frequencies
+
+s(t, —n,)*
+n,
+
+where m, is the observed number and », the expectation in each group.

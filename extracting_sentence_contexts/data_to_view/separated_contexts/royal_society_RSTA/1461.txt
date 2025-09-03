@@ -1,0 +1,13 @@
+A single
+grating with a spatial frequency, just below the limit as stated in eqn. 1.2, will at best cause a
+homogeneous image. Contradicting equation (1.2), this grating is, by itself, clearly not resolved
+and merely its presence is being detected, albeit being even significantly coarser than Abbe’s
+limit. Ultimately this contradiction to the resolution prediction stems from the fact that we have
+no access to the phase of the light in the detector plane. If the phase of this wave on the detector
+plane (and the illumination wave) is resolved, the orientation and pitch of the grating can be
+calculated. Interestingly, more complex samples or more complicated coherent illumination or
+detection schemes such as ptychography, structured illumination or using holographic/phase-
+sensitive detection/wavefront sensors [4], provide multiple mutually interfering waves to the
+detector plane, which can enable us to ultimately obtain the wanted phase information with
+other waves serving as reference waves and therefore equation (1.2) can also be regarded as
+the resolution limit for NAjjy > NAget.

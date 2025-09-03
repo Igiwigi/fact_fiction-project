@@ -1,0 +1,13 @@
+To overcome this, a degenerate elliptic cut-off function near the pseudo-sonic circle
+is introduced, which is more precise in comparison with [26]. The reason why the more precise
+degenerate cut-off function needs to be introduced is that the uniform estimates of w are required
+to obtain a convergent sequence near P,, which is crucial for the equivalence between the deduced
+system and the potential flow equation (2.5) with degenerate elliptic cut-off. Third, because of
+the new feature that sin@ may be 0 along the pseudo-sonic circle, and the fact that there is no
+C?-regularity at P; where the shock and pseudo-sonic circle meet, from the optimal regularity
+argument by Bae et al. [27], more effort is needed to remove the degenerate elliptic cut-off case
+by case carefully, near and away from Pj, respectively. The final main difficulty is to show the
+equivalence of the original potential flow equation (2.5) and the deduced second-order equation
+for w with irrotationality and Bernoulli’s law, which requires gradient estimates for w near the
+pseudo-sonic circle, but the estimates by scaling only provide a bound divided by the distance to
+this circle. This is overcome, thanks to the estimates involving e.

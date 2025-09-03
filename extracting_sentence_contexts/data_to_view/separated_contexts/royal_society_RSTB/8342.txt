@@ -1,0 +1,8 @@
+This pattern
+(a) Regular expressions is notated A”B” in FLT. It is easily proved that this set
+We start our survey with a simple, well-defined cannot be specified by a regular expression (see the text-
+computational system, termed a finite-state machine, books listed earlier for mathematical proofs). We
+which is equivalent to another simple construct conclude from this fact that there are patterns that we
+called a ‘regular expression’. Search functions, such can conceive of, and that we could easily (if laboriously)
+as the dir command in DOS, or the /s function in recognize ourselves, but that cannot be captured by a
+UNIX, provide everyday examples. Such functions regular expression.

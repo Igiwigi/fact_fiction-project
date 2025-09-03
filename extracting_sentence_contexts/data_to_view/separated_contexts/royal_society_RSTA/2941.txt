@@ -1,0 +1,22 @@
+By contrast, any pattern that does not have the selected 2p
+should have different phases in the phase-corrected wavelet and thus should average to zero in
+(Wg) in the limit of large N. The signal to noise for the selected waves should therefore be much
+better in the average phase-corrected wavelet than it is in wavelets from individual profiles. In
+fact, we find that the average phase-corrected wavelet can yield a clearer detection of weak waves
+than even the averaged wavelet powers. :
+
+In order to illustrate the utility of the average phase-corrected wavelet, it is useful to consider :2
+two distinct wavelet powers. First, we define the average wavelet power aay
+
+N
+=~ 1 :
+E(r,k) = (Wel) = 5 Do Weil? 66 ff
+i=1 . This is independent of the individual wavelet phases and so is equivalent to the average value of a]
+wavelet powers from the individual profiles E;: DN
+
+N
+- 1 I
+Eek) = (Wi?) = 5 iP (67) :&
+i=1
+
+and is, therefore, similar to the statistics used in [21,22].

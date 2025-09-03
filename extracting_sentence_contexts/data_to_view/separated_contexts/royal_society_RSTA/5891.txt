@@ -1,0 +1,20 @@
+By contrast, when mobility is low,
+individuals are unlikely to change their rank in the distribution over time, or the changes may
+happen slowly. As a means to study the drivers of economic mobility in srGBM, we consider two
+standard measures: Spearman’s rank correlation and the earnings elasticity (EE). In fact, both the
+rank correlation and the EE are measures of immobility, and to consider them as measures of
+mobility one has to consider their complement or their inverse.
+
+(i) Spearman’s rank correlation
+
+Spearman’s rank correlation p;,is defined on a joint distribution of income at two points in time,
+t and t + A. Mathematically, it reads
+
+_ 6Lilrgxi(t)) — rgai(t + AYP
+N(N2 — 1) ,
+
+pra=i (3.5)
+
+where rg(x) is the rank transformation of x. This measure is bounded between —1 and 1. pz,4 =1
+suggests perfect immobility, a state in which there is no change in income ranks between the two
+points in time.

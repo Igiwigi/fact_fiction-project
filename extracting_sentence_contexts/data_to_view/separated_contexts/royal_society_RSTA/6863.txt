@@ -1,0 +1,20 @@
+The relaxation solution is given in figure 18. The chosen mesh has almost the largest
+possible interval, not here because differences diverge at a larger interval, but because at
+least two-sixth differences must be obtainable before decisions can be made regarding
+the negligibility or otherwise of the difference correction. It was, in fact, negligible. For the
+derivative equations at the boundary differences up to the fourth were retained, and the
+subsequent correction for higher differences was very small. The remaining problem is the computation at boundary points of the non-zero principal
+
+stress, given by ae [(X,+-Y,) + /{(X,—¥,)?+4X3}]. (B. 21)
+
+By means of equations (B. 20), Z can be expressed in terms of any one of X,, ¥, or X,, and the
+chosen one will be that stress most easily and accurately obtainable from the relaxation
+
+* Cox gave the opinion that the concentration factor would be about the same in the two cases, but that
+the point of maximum stress would be nearer to the central section in the case of uniform displacement than
+in that of uniform pull. 4
+
+
+OF ELLIPTIC DIFFERENTIAL EQUATIONS 369
+
+solution.

@@ -1,0 +1,30 @@
+Accordingly, we give the scaling some prominence. The Poisson scaling approach is new in the theory of elastic waves, and we believe it offers
+scope for new forms of shell theory in which it is adopted at the outset in the energy functional
+chosen, thus extending to thicker shells the theory in such classical works as [9]. Although we
+concentrate on the frequencies and wavenumbers for which backward propagation occurs, the
+method of Poisson scaling is in fact general; it may be used at any frequency and wavenumber,
+and also in nonlinear elastic problems [10,11]. Potential applications of the work are to modern
+materials such as homogenized media and composites with tunable parameters, including
+nanotubes [12,13] and metamaterials [14-16]. One recent application is to the design of a pressure
+pulsation dampener made of a material with zero or negative Poisson’s ratio [17].
+
+
+(a) (b) (c)
+
+[
+1 1 1
+K ‘a
+0 0 0
+
+1.0015 1.005 ‘1.0015 1.005 ‘1.0015 1.005
+@) (e) (f)
+
+1 1 1
+K
+
+|
+0 0 0
+1.005 1.025 1.005 1.025 1.005 1.025
+Q Q Q
+
+Figure 2.

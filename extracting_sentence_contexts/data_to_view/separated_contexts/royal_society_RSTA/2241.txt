@@ -1,0 +1,30 @@
+Thus, because in each content c all random
+variables Ry (q € Qc) are jointly distributed in the operational sense (measured ‘together’), one
+can define a random variable H; and functions fq (q € Qc) such that (2.2) holds. This is a context-
+specific hidden-variable construction, and it is obviously nonrestrictive, applicable to any system. :
+The third meaning of (non)contextuality we are discussing now is about the possibility of a single [=
+hidden variable for all contexts, and context-independent functions that map it into the random a
+variables comprising the system. In other words, one asks whether there is a random variable H 8
+and a set of functions fy (q € Q) such that for any c € C and q € Qc,
+
+Ro =f,(H). 61) os
+
+If (and only if) such a construction is possible, the system is non-contextual in the ‘hidden :
+variable’ sense. :3
+Applied to our example, the question is about the possibility of replacing (2.4) with [ze
+
+f(A) | f(A) c=1
+f(A) | fa(H) || ¢=2
+
+f(A) f(A) |] c=3 *
+
+g=1|q=2)q=3
+
+(5.2)
+
+At every measurement, the variable H has some value, and all six random variables, irrespective
+of what context c is being factually measured, are determined by this value. At that, the values of
+any two random variables measuring the same content are always equal (because the functions
+are labelled by their contents only). It is easy to see that this is precisely the same as the existence,
+for any factual measurement, of the assignment of values to all random variables in the system,
+such that Ri = RE for any q € Qc N Qe.

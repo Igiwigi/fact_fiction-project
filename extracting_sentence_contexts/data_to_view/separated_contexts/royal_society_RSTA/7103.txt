@@ -1,0 +1,12 @@
+PLANE H(t) PULSE AT NORMAL INCIDENCE
+
+5-1. Scope of calculations
+
+Calculations of the pressure on the strip have been carried out for representative points
+up to time f = 3-1. By symmetry we need only calculate the pressures on half the strip, but
+since any one diffraction wave G, is not symmetrical we must in fact calculate it over the
+whole strip and points Y = 0-1, 0-3, 0-5, 0-7 and 0-9 were chosen for evaluation. The function Gy was tabulated from equation (85) and thence G, and G, were successively
+evaluated from equation (86) using numerical integration. The values of these functions
+are given in tables 1a, 1b, 2 and 3 where it may be noted that for Y>1 the values were
+required for the numerical integration and thus had to be tabulated fully with the intervals
+of 0-1 in Y and 0-2 in 7 adopted for this integration.

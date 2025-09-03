@@ -1,0 +1,13 @@
+For positive
+strain in particular, we demonstrated that the symmetry-broken minimizer clearly dominates the
+symmetric one and can in fact be confirmed to yield the correct scaling of DNS PDFs at suitable
+Re, in contrast to the axisymmetric one. The possibility to access the most extreme events in Navier-Stokes turbulence without
+sampling is attractive. Despite the fact that the optimization problem (2.9) to be solved is massive,
+with fields of size 512 x 128°, and a single iteration of the minimization algorithm corresponding
+to a forward integration of the NSE, and an equally sized backward propagation, we show that
+this effort pays off for extreme outlier events: obtaining these same configurations traditionally
+necessitates either millions of samples of the stochastic NSE (for lower Re), or the regime is
+completely inaccessible as the events are entirely too rare and extreme to be observed (for higher
+Re). While one could try to formulate reduced problems in effective coordinates, for example as
+in [44], our approach yields the most likely configuration without any a priori assumptions about
+its form or physical mechanisms. In this paper, we only considered the exponential contribution of the minimizer for the PDF.

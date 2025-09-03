@@ -1,0 +1,8 @@
+In the single-particle limit of q >> qr, the RPA becomes exact again, and no systematic
+deviations are visible for q = 4.39qp and q = 6.27qp (figure 5e,f). Interestingly, the main source of
+error in the RPA at intermediate wavenumbers seems to be a constant shift in F(q, t) that does not
+depend on the imaginary time. In fact, it is easy to see that the first derivative of F(q,t) around
+the origin is exactly reproduced by the RPA, since it fulfils the f-sum rule; cf. equations (2.17)
+and (2.18). From equation (2.22), it is then clear that the bulk of the RPA error should already
+be present in the SSF S(q), which is shown in figure 6. The green squares show our exact PIMC
+results for r; = 4, and the green dashed line represents the corresponding RPA.

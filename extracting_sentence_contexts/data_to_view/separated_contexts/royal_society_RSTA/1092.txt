@@ -1,0 +1,45 @@
+For HHG with infrared
+drivers, this chirp increases, so that the total duration of the single emitted burst is longer, but, in
+principle, can be recompressed to very short duration using dispersive optics.
+
+(e) Control of spectrum and polarization
+
+Another recent topic of considerable interest is in control over the polarization characteristics
+of high-harmonic light. For example, generation of HHG light with circular polarization was
+considered impossible for quite some time—when a circularly polarized driving laser is used to
+drive the HHG process, the ionized electron spirals away from its parent ion and no re-collision
+occur. However, by applying two fields with two colours of opposite polarization, re-collision
+trajectories in the two-dimensional plane can result in spectra with complex polarization states
+[127]. (The same configuration was explored in fact 20 years earlier [128], but the experimental
+work emphasized the generation, rather than the polarization state, of the emission.) More
+recently, a number of different methods for generating APTs, as well as isolated attosecond pulses,
+of circular polarization have been demonstrated [129-132]. Using tomographic reconstruction
+in polarization-dependent surface photoemission, the polarization state of these APTs can be
+reconstructed and compared with theory (figure 9). T T T
+. @, +
+€9 An AN AN AN AN AN AN He 970 Torr , + @, |
+
+n 1 1 1 n 1
+100 110 120 130 140 150 160
+
+photon energy (eV)
+
+(b)
+1.0
+2 0s
+S
+i=}
+Ss 0
+Ss
+wy 05
+-1.0
+2 3
+
+Figure 9. (a) Circularly polarized HHG spectrum, from [129]. (b) Three-dimensional field plot of the experimentally
+reconstructed pulse train of circular HHG, compared with a numerical simulation, from [133].
+
+(f) High-order harmonic generation applications: new science with a new light source
+
+Current-generation table-top EUV light sources generate a coherent flux in the near-EUV
+comparable to a synchrotron source—but with much higher peak brightness and intrinsic
+synchronization to a laser.

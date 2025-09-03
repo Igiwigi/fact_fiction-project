@@ -1,0 +1,11 @@
+A second intermediate form of automaton is seems to provide the best theoretical starting point, and
+called a linear-bounded automaton and _ includes indeed has no obvious competition.
+
+both the FSA and PDA within it. Figure 2 provides One might object that some models of neural
+an illustration of this nested hierarchy. computation, especially connectionist networks, offer
+The Chomsky hierarchy provides a broad framework just such an alternative framework. This is not true.
+
+for discussing the computational power of automata, In fact, neural networks are automata, like any
+universally accepted in this role in theoretical computer other well-defined computational system. Indeed,
+
+Phil. Trans.

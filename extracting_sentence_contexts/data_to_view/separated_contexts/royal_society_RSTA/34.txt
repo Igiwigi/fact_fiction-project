@@ -1,0 +1,8 @@
+One can see the temporal representation of the
+reconstructed signal in figure 7b, which looks very similar to the original excerpt (cf. figure 7a). An auditory comparison confirms how close the two signals are to each other (cf. electronic
+supplementary material). In terms of post-processing, for both the RV and Delaunay-based methods, note that when the
+modes are harmonically related, one can benefit from the fact that the instantaneous frequencies
+of harmonic components are multiples of the fundamental frequency to gather together basins
+of attraction/mode domains associated with a given mode. Note also that this pertains to the
+problem of reconstructing trajectories of partials in the context of additive synthesis [30]. This is
+a topic that we will seek to address in the near future.

@@ -1,0 +1,18 @@
+Definition 1.1 (qubit-minor). Assume |G) and |G’) are graph states on the sets of qubits V and
+U, respectively. |G’) is called a qubit-minor of |G) if there exists a sequence of single-qubit Clifford
+operations (LC), single-qubit Pauli measurements (LPM) and classical communication (CC) that
+takes |G) to |G’), ie. LC
+
+ots
+|G) Trace |G’) ® |junk) yu. (1.1)
+
+If |G’) is a qubit-minor of |G), we denote this as
+|G’) < |G). (1.2)
+oO
+
+The reason for calling |G’) a qubit-minor of |G) is that this question is in fact equivalent
+to the graph theoretical question of whether G’ is a vertex-minor of G, as we show in
+theorem 2.6. In the graph theoretical picture, single-qubit Cliffords operations will be replaced
+by operations called local complementations on the graph and single-qubit Pauli measurements
+by local complementations and vertex-deletions. A vertex-minor of some graph is by definition
+a graph that can be reached by some sequence of local complementations and vertex-deletions.

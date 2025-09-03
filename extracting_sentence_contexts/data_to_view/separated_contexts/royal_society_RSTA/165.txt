@@ -1,0 +1,9 @@
+Each cell is assigned
+healthy /infected or dead flag depending on the interactions with its neighbours
+
+for more details see Sloot et al. 2002). Different drug therapies can be modelled by differences in a response
+distribution function over time. The function is chosen to model the fact that
+he drug therapy will not immediately influence all of the infected cells, but
+rather it will affect part of them at each time step. At the same time, the function
+accounts for the concept of drug-resistant virus strains emerging. The simulation result for treatment naive individual dynamics is shown in
+figure 5.

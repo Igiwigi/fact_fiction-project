@@ -1,0 +1,19 @@
+In general, this task is still much too difficult; however, we will
+see in §5 that it is solvable for the two-phase model (i.e. N = 2) with C; = Cp. The main achievement in [7,8] was the observation of the general fact that all possible limits of
+the above approximate incremental minimization problem lead to so-called energetic solutions for
+rate-independent systems. Definition 2.1 (Energetic solutions). A function q: [0,T]— Q is called an energetic solution of
+the ERIS (9, €,D) if tr d;€(t, q(t) lies in L1((0, T]) and if for all t € [0, T] the stability (S) and the
+energy balance (E) hold:
+
+(S) E(t,q(t)) < E(t, 9) + D(q,q) for all ge Q,
+t (2.4)
+
+and (E) E(t,q(t)) + Diss (q, [0, #]) = E(0, q(0)) + I, d;E(s, q(s)) ds,
+
+0
+
+where the dissipation Diss-p (q, [0, t]) is defined as the supremum over all partitions 0 < to < ty <
++++ <tn-1 <tn <tand all N €N of the sums ye, D(q(ti-1), q(ti))-
+
+We will see in §3b how under natural conditions the stability and energy balance arise
+naturally from the incremental minimization problem.

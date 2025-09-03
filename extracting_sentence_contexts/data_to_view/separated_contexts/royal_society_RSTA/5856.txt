@@ -1,0 +1,7 @@
+In a recent contribution of some of us [26], the effect of taxes on the wealth distribution
+was studied with individual risk factors r; chosen at random at each exchange. Here we adopt a
+model where risk factors are uniformly distributed in the interval [0, 1] given as initial conditions
+that remain fixed along time. The fact that individual risk factors are constant is very important,
+as the goal of the present paper is to compare with the role of agent’s decisions concerning the
+risk factors on the individual and globally distributed wealth. The simulations of this section and §3 were performed with N = 10° agents and averaged over
+10° samples. The total wealth is normalized to 1.

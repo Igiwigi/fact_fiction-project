@@ -1,0 +1,18 @@
+Similarly, System of Record notices, required by the Privacy Act in the USA, disclose only the existence
+and scope of a system, not its detailed mechanisms.
+
+5However, this openness only breeds understanding insofar as there are enough people to examine the available code.
+
+$While it may seem as though computers, being entirely deterministic machines, would give rise easily to reproducible
+systems, this is often not the case for many of the same reasons that give rise to practical inscrutability [3].
+
+
+4. Explanation, understanding, validation and policy interventions
+
+Another approach to defeating inscrutability which many scholars have proposed is the use of
+explainable systems, which provide an explanation of their outputs [4,5,30,49,50]. While these
+technologies promise much in the way of making systems more trustworthy, good explanations
+require careful consideration of who receives the explanation and what facts those people must
+extract from the explanations. Explanations need not relate mechanistically to the operation of the
+system they are explaining, though they often do. Any system is a model of the world, and too
+often the called-for explanation is only a description of that model.

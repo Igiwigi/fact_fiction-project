@@ -1,0 +1,11 @@
+One of the issues associated with the use of passive
+devices for wind turbine structural control is that they may become ineffective as a result
+of environmental /operational changes or in the presence of parametric variations. The use of
+traditional passive tuned mass dampers (TMDs) in wind turbines also needs careful design. In
+fact, if the primary structure is very large (e.g. a wind turbine blade), the TMD will inevitably
+have a small mass ratio. As a consequence, accurate tuning of the natural frequency of the damper
+to the natural frequency of the primary structure may become difficult, and small deviations
+from the optimal tuning may result in poor control performance. Further, tuning of the damper to
+the rotational frequency of the turbine (which is generally associated with harmonic components
+that mainly dominate the blade response) is not feasible, as it will lead to instabilities in the
+TMD-blade coupled system [14].

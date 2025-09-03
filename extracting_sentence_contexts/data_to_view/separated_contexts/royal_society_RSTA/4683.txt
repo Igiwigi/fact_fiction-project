@@ -1,0 +1,23 @@
+Combining (5.5) with (5.4),
+one can find the local IDC in the real space as
+
+2
+toate =i |14 (28) |: (5.6)
+where
+a= M7. Mt) t= M “Mt
+(5.7)
+and w= Ry") +9 jg"? + 69 +5807" “yt
+
+
+The practical implementation of boundary conditions which satisfy equation (5.7) at a particular
+frequency is based on the identification of (5.5) with the IDC at the same frequency of an
+anisotropic MTS. In fact, equation (5.5) represents ellipses with axes aligned with the eigenvectors
+of w. By denoting these eigenvectors as é;=é;() (i=1,2), one can write the diagonal form
+representation as w = @1€)01 + @7€207, where oj; are the eigenvalues of a. This allows one to
+rewrite equation (5.6) in the form ~
+
+(kp 81)? + (kp - €2)on = (ky? (8)
+
+As shown in the previous sections, printing patches on a grounded slab realizes equivalent
+anisotropic boundary conditions which support SWs with IDCs which can be approximated by
+ellipses with axes oriented along the symmetry axes of the elements (equation (4.10)).

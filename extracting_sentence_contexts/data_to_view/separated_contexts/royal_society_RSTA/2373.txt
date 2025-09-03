@@ -1,0 +1,12 @@
+Thus, we limit our discussion to delayed PD
+types of feedback, namely, the feedback takes the form
+
+F(t) =—kp0(t — t) — ka(t — 0), (2.2)
+
+where kp and kg are the proportional and the derivative control gains and r is the reaction time
+delay. Figure 1 shows a ‘pinned’ inverted pendulum controlled by time-delayed PD feedback. The
+term ‘pinned’ refers to the fact that the position of the pivot point A of the inverted pendulum
+is fixed and hence the only possible motions are those confined to the anterior-posterior plane
+about the pivot. The fixed point of (2.1) with f(t) = 0 is a saddle. In order to analyse linear stability
+when f(t) 40, it is useful to note that the period of the small-amplitude oscillations that occur
+when the pendulum is hung downwards is Tp = 22/@n [38].

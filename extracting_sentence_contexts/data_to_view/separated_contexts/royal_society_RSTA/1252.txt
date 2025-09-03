@@ -1,0 +1,33 @@
+Thus a fixed point of No is a solution of the local BVP (3.1). Using some ideas from Webb & Infante [1], the BVP (1.1) and (1.2) has a solution if and only if
+there exists a solution in C![0, 1] for the following integral equation:
+
+u(t) = yo(t)Bolu] + 71 ()Bi[u] + Nou(t). (3.7)
+Thus solutions of the BVP (1.1) and (1.2) can be obtained from fixed points of the operator N
+defined by
+Nu(t) = yo(t)Bolu] + 1 (t)Ailu] + Nou(t). (3.8)
+As shown in [1], solutions of the BVP (1.1) and (1.2) are also given by fixed points of the operator
+N:C! + C! defined by
+
+Nut) = fa — prtabotNoul + Bolles Nou]
++ 1 4: to1BotNoul + (1 — Bolyol)6i [Nou] + Now(t) (3.9)
+
+where
+1—folvol —Aolvi]
+
+Ds at| -hilyvol = 1- Alvi]
+
+=(1— folvo))A — Alm) — Boli14ilv0l
+
+
+and we impose the requirements that
+Polvo] < 1, Pilvi] < 1 and D> 0. (3.10)
+
+These requirements ensure that the matrix
+
+pa| Polvo] oli]
+Pilvo] Bilt]
+
+has spectral radius r(B) < 1 so that I — B is invertible. The condition r(B) < 1 is in fact necessary in
+order that positive solutions can exist, see [14] for details. This gives an explicit form of N. This form is not always the one first found by a direct approach
+which often has a sum of terms of opposite signs, e.g. [15,16], but it is particularly convenient for
+investigating positive solutions.

@@ -1,0 +1,20 @@
+While these tests use 5
+ness relative to the ancestral state. In this section, we review the independent evidence of allele frequencies across popu- =
+how single locus and quantitative trait tests, and haplotypic lations to test for deviations away from a null model, they do =
+or linked variation data, can be used to test the conditions not generally test explicitly for adaptive convergence. This is 5
+of convergence. because they are not usually used to take the extra step of deter- = =
+mining whether similar patterns of non-neutral allele change in S
+distinct subsets of the species range are, in fact, independent ©
+(a) Single locus and quantitative trait tests or can be explained by selection-driven allele frequency =
+In evolutionary studies of characters across species, compara- change in one region followed by gene flow and drift spreading = 5
+tive methods [2,46] make use of the phylogeny to judge the change to other regions. However, researchers do already = =
+whether the sharing of a character among taxa is expected informally test for convergence of allele frequency change ©
+under some null model (e.g. independent evolution down a across species ranges, for instance in studying parallel selective _
+phylogeny) and whether characters are correlated with some clines on multiple continents or at smaller geographical scales. =:
+ecological variable beyond null expectations (see [22], for a (See, for example, the work on Drosophila genomic clines of — 5!
+recent review). For example, in phylogenetic mixed models, [59-61].) One possibility to formalize a test of convergence is = 5
+the phenotypes of a set of species is regressed on some environ- to condition on the observed allele frequency change in one =
+mental variable as a fixed effect and divergence along the subset of the species range, using the relatedness matrix, &
+phylogeny is incorporated as a random effect, with the covari- while testing for non-neutral allele frequency change elsewhere. iat
+ance structure of the random effect being specified by the Additionally, frameworks that use admixture graphs, parame- =
+matrix of shared branch lengths [47,48].

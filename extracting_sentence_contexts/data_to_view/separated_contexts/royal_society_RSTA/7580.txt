@@ -1,0 +1,50 @@
+We shall use sometimes this way of speaking,
+‘but it is necessary to remember that behind such words, as e.g., “ picking up at
+random a direction, all of them being equally probable’’, there is a definition of the
+measure appropriate to the fundamental probability set and its subsets. I want to
+emphasize that in this paper the sentence like the one taken in inverted commas is
+no more than a way of describing the fundamental probability set and the appropriate
+measure. The conception of “ equally probable ” is not in any way involved in the
+
+
+STATISTICAL ESTIMATION 339
+
+definition of probability adopted here, and it is a pure convention that the state-
+ment
+
+“ For the purpose of calculating the
+
+probabilities concerning chords
+
+in a circle, the measure of any set
+“ In picking up at random a chord, (A,) of chords is defined as that of
+we first select a direction of radius, | means no | the set (A’,) of points with co-
+all of them being equally probable | more and | ordinates x and y such that for
+and then we choose a distance be- { no __ less | any chord A, in (A,), x is the
+
+tween the centre of the circle and than _| direction of the radius perpendicu-
+S the chord, all values of the distance lar to A, and » the distance of A,
+4 between zero and r being equally from the centre of the circle.
+"g probable.” (A,) is measurable only if (A’,) is
+2 so.”
+a
+
+o However free we are in mathematical work in using wordings we find convenient,
+g as long as they are clearly defined, our choice must be justified in one way or another.
+= The justification of the way of speaking about the definition of the measure within
+2 the fundamental probability set in terms of imaginary random experiments lies in
+£ the empirical fact, which BorrKmewicz insisted on calling the law of big numbers.
+‘4 This is that, given a purely mathematical definition of a probability set including
+"3 the appropriate measure, we are able to construct a real experiment, possible to
+@carry out in any laboratory, with a certain range of possible results and such that if
+‘git is repeated many times, the relative frequencies of these results and their different
+4 combinations in small series approach closely the values of probabilities as calculated
+éfrom the definition of the fundamental probability set. Examples of such real
+random experiments are provided by the experience of roulette (BorTKIEwICz,
+£1917), by the experiment with throwing a needle* so as to obtain an analogy to the
+"= problem of Buffon, and by various sampling experiments based on Tippert’s Tables
+£ of random numbers (1927).
+3 These examples show that the random experiments corresponding in the sense
+‘described to mathematically defined probability sets are possible. However,
+‘efrequently they are technically difficult, e.g., if we take any coin and toss it many
+& times, it is very probable that the frequency of heads will not approach 3.

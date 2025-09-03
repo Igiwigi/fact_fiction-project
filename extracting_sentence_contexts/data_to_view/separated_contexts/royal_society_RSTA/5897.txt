@@ -1,0 +1,8 @@
+However, their locations are generally not known in on-the-fly
+simulations of real molecular systems. Thus, it is not always possible to cancel the GP of the
+adiabatic states [37]. Another drawback comes from the fact that the diagonal elements of the
+non-adiabatic coupling matrix, also known as diagonal Born—Oppenheimer corrections (DBOCs),
+are not often calculated in electronic structure packages and are furthermore non-integrable
+unless special basis functions are utilized [38,39]. Thus, DBOCs are also often overlooked. Despite
+these difficulties, time-dependent Gaussian functions are very often employed in non-adiabatic
+dynamics for the advantages they provide in on-the-fly quantum dynamics.

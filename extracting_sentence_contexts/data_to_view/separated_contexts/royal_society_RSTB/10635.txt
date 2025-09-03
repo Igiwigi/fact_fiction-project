@@ -1,0 +1,12 @@
+Therefore, to represent and
+tion [50,54,121], but could similarly be used to model slow process information in neural populations efficiently, differ-
+forms of homeostatic plasticity [17]. ent neurons in the population have to develop selectivity to
+Finally, the stability properties of the learning rule in different features.
+equation (7.1) are not limited to simple feed-forward circuits, Multistable plasticity at the neuronal level as described
+but generalize to more realistic scenarios. Specifically, the above does not prevent neurons from responding weakly to
+combination of heterosynaptic and Hebbian plasticity enables all stimuli (see, for example, Neuron 2 in figure 5f). This is
+stable online learning and recall of cell assemblies in large a direct consequence of the fact that the model presented
+spiking neural networks (figure 7a,b; [103]). Stationary here does not have a sliding threshold like the BCM model.
+firing rates in the model depend on the connectivity pattern Moreover, with more similar initial conditions and in the
+and the spiking statistics of active inputs. In a recurrent net- absence of lateral inhibition both Neurons 1 and 2 could
+work, however, output spike trains pose as inputs to other have developed selectivity to the same input.

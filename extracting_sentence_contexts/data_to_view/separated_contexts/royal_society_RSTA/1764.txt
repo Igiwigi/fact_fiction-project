@@ -1,0 +1,51 @@
+Dielectric property of materials assigned in simulation.
+
+material permittivity
+
+M1 2.43
+M2 247
+defect (air void) 1
+mechanical interlocking: layer between adhesion and M1 2.43
+mechanical interlocking: layer between adhesion and M2 2.47
+adhesion 6.2
+contamination 1
+Table 2. Boundary conditions defined in COMSOL-based simulation model and corresponding explanation. [2
+:S
+boundary conditions descriptions :§
+ground sensing electrode is specified as ground along with holder and : =
+substrate, with the electric potential of 0 V while the driving : 8
+electrode has an applied potential of 1 V at 4.9 MHz : ra
+zero charge boundary to simulate a perfectly insulating surface and is assigned to the outer : ra
+domain boundary : S
+floating potential boundary condition to simulate a perfectly conducting surface where both electrode : S
+
+surfaces are assigned to this boundary condition
+
+computation domain the size of the computation domain truncates the modelling space. In
+fact, the fringing electric field extends to infinity, but drops off in
+proportion to the inverse cube of the distance. They rapidly become
+small enough to be considered numerically insignificant. Here, it is
+verified that the computation domain is large enough to capture
+
+the fringing fields
+(b) (c) (a)
+10 —————— —
+09 —
+08
+07
+(0.6
+os
+04
+
+03
+$s
+
+Eee
+Ol —__ eee $a
+
+.— =} —s a
+
+Figure 3. (a) Electric field lines distribution overview, (b) air void of size 10% of adhesion thickness, (c) air void of size 50% of
+adhesion thickness and (d) air void of 90% of adhesion thickness. (Online version in colour.)
+
+gives us ideas about the intensity of the electric field at each point.

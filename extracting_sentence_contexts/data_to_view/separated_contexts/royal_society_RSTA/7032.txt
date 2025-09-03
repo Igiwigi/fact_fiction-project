@@ -1,0 +1,34 @@
+Winny obtains the bending moment in a flange at the loading section due to a load 2W as
+
+W I K \(2(1+v)Z,\"
+My => JGaa)F ht, : es
+where K = /(kEI,)/2t,,hG, (146)
+
+and k is the sum of the compressibility of the web and rivet slip in Lb./in.2. As would be
+expected, when k is very large, this solution reduces to the same form as Taylor’s for a = 0,
+Ap = 00%
+
+Winny quotes a numerical example in which
+
+2W = 14000 Lb.
+
+i— Oaks:
+I, = 3-5in.*
+
+E = 10-5 x 10° Lb. /in.2
+G = 3x 108Lb./in2
+
+The compressibility of the web, assuming the stress to vary linearly to zero at the neutral
+axis, is 4:5 x 107° in./Lb./in.; the rivets are 3% in. snap head at 4 in. pitch, giving a coefficient
+of slip of 3 x 107° in./Lb./in. (Parkes 1947), whence k = 133000 Lb./in.? and K = 0:96. Substituting in equation (145) we get
+
+M,, = 13800 Lb.in. (148)
+By modifying the analysis of part II of the present paper to take account of rivet slip we find
+that for flange loading M,, = 18300 Lb.in. (149)
+
+The discrepancy between equations (148) and (149) is almost entirely due to the fact
+that Winny’s analysis leads to a distribution of load between flanges and web which is
+dependent on the geometry of the section. The proportion of load carried by the web in-
+creases with increase of the coefficient of rivet slip and, as may be seen from equation (145),
+M,, decreases. For the case when load is applied entirely to the flanges, we do not find this
+to be so; according to our analysis M,, increases with increase of rivet slip.

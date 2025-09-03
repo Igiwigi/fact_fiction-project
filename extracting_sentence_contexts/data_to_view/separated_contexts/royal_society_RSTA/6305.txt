@@ -1,0 +1,15 @@
+RL provides a means to learn from past searches and make progress, but
+even then, longer solutions are unreachable. But combining RL with abstraction learning—in the
+form of tactic induction, where we learn useful reusable components from solutions found so
+far—allows an agent to make progress, learning to solve all problems across our five sections of
+
+algebra. :
+
+In addition to enabling an agent to solve problems more effectively, we have found : =
+abstraction learning to match our intuition about which higher-level skills students need to : =
+master when learning basic algebra. This was reflected in the fact that reordering problems using 1B
+the dependencies between abstractions in their solutions largely recovers the Khan Academy : =
+curriculum ordering. Note that human curricula are designed with more than problem ordering 8
+
+in mind: they also aim to facilitate instruction, where conceptual cohesion is important. These
+aspects are irrelevant for our agents, since they only learned from attempting problems.

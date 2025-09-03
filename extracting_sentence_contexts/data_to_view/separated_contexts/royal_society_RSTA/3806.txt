@@ -1,0 +1,11 @@
+The elliptic polarizations are all periodic orbits which are topologically circles: the 3-
+sphere is cut up (technically fibred) by these loops. The space that parametrizes these loops is
+of course the Poincaré sphere, where each point on the sphere s = (s1,s2,53) corresponds to a
+polarization state, that is, a loop in the 3-sphere. In fact, this is the celebrated Hopf fibration [24],
+by which the 3-sphere is fibred by 1-spheres (circles) with base space the 2-sphere; the Stokes
+parameters (2.4) define a standard form for the Hopf map [25]. In this 3-sphere, a contour of
+constant S (or Sp or $3) defines a 2-torus: fixing the value of all three (respecting $4 = S} + $3 +
+$3) defines a single orbit along which three tori intersect. The rich structure of this Hamiltonian
+system comes from the fact that it is superintegrable [26], with more independent constants of the
+motion (three) than there are classical degrees of freedom (two, the dimension of configuration
+space); there are even more symmetries in the three-dimensional harmonic oscillator [22,27].

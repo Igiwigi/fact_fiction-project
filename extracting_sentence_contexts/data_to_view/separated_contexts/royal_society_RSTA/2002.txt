@@ -1,0 +1,36 @@
+This
+approach allows a Boolean system to be translated into a continuous time system with parameters
+that are representative of biochemical reactions [2]. Logical operators are used to represent
+signalling interactions with ‘NOT’ representing inhibition, ‘OR’ a reaction in which the node can
+be activated by multiple inputs, and ‘AND’ representing where the activation requires the activity
+of more than one upstream node. The system of differential equations is formulated for each node y; in the network, i=1...64
+
+dy 1
+ar = we [oyfiy* — vil , (2.1)
+
+with a general reaction weight w and Hill function fj, where j can be an activation (act) or inhibition
+(inhib) reaction
+
+By"
+= i
+fact(yi) = Krayh
+and
+By!
+finniv Yi) = 1 — +y ,
+
+where B is a function of the half-maximal activation ECs9 and the Hill coefficient n, which is a
+measure of nonlinear cooperative activation [2].
+
+_ EChy—1
+~ 2ECH) -1
+
+and
+K=(B-1)"". In the case where y; is an input, fj = 1 and the input reaction weight is denoted w. To represent ‘OR’ logic interactions, equation (2.1) is modified to represent the sum of the
+reactions with respective weights for each node and subtracting the intersection of fj(y;) and fi(y1)
+
+max
+
+dy;
+So Lomhi(od + onh(od ~ om(onows ony — i]
+
+where y; and y) are upstream nodes that activate or inhibit y;.

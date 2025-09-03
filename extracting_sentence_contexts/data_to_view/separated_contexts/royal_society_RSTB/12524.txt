@@ -1,0 +1,21 @@
+Care must be taken s
+
+preted as selection on a lower level [5]. In other words, in that for the last two forms, the covariance is computed over 5
+
+selection within groups distorts the outcome from what it all individuals, whereas in the first form (which appears in the
+
+would be if selection only took place between groups, caus- ‘classic’ equation—equation (3.1)), the covariance is computed
+
+ing a kind of transmission bias when viewed at the group over all groups and must be weighted by group size if they are
+
+level. On the other hand, an advantage of the upwards unequal in size [5]—no such group size weighting is needed
+
+derivation is that it makes transparent the fact that both for the last two alternatives.
+
+components of the multilevel Price equation can be written For the second term, we already have two equivalent
+
+as covariances over all individuals in the population forms, E[cov;(w,g)| = cov(Aw,g). Two further alternatives
+
+(as emphasized by Heisler & Damuth [47]), despite the are cov(w,Ag) = cov(Aw,Ag). The last form is from Queller
+
+between-groups component looking like a covariance taken ([34], see also [31,32]).

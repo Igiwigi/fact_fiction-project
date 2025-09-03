@@ -1,0 +1,13 @@
+Spin-polarized electron energy loss spectroscopy can also access magnetic dispersions Do
+[9], but it has not yet been successfully implemented in an ultrafast experiment as space charge : S$
+effects present significant challenges. 78
+
+Regardless of how it is measured, the full magnetic excitation spectrum can be formalized in fa
+the magnetic dynamic structure factor S*(Q,), which characterizes the magnetic correlations : s
+
+in a magnetic material. This quantity is the space and time Fourier transform of the spin-spin
+correlation function (s%s*(r,t)) between a reference spin component s* and another spin P(r, t)
+at distance r and time t > 0. This fact makes it clear that similar information can, in principle
+at least, be obtained by either frequency domain or the time domain. An excellent discussion
+of such correlation functions is provided in books such as [10]. It is further known that these
+correlations encode the interactions present in the magnetic Hamiltonian [11].

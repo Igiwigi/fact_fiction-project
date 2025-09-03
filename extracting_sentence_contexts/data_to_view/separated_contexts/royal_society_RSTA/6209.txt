@@ -1,0 +1,35 @@
+By a theorem of Iemhoff ({10], Theorem 3.9), this means
+that A Hpc B, where Hpc denotes the derivability relation of IPC extended with all of Visser's
+rules. In other words, there is a proof tree, potentially using A as a premise, all steps in which
+are instances of the rules of IPC and V, and whose conclusion is B. Given that Visser’s rules are
+admissible in T, and using the fact that T is based on intuitionistic logic, it is straightforward
+
+
+Vay (a =y @V2(z e272 €y)) (Extensionality)
+
+VaWylzw(w ezew=yVw=z) (Pair)
+VadyVz(z € y @ Sw €2(z €w)) (Union)
+SavVy(y ¢ 2) (Empty Set)
+Sa(beaAVy(yeu>yU {y} ex)) (Infinity)
+VaByVe(z €y > (z€xAv(z))) (Separation)
+Va(Vy € 2azy(y, z) > JwVy € wdz € wey, z)) (Collection)
+Va(Vy € xAlzy(y, z) > SwVy € dz € we(y, 2) (Replacement)
+Va(Vy € 23zep(y, z) > Sw(Vy € x32 € wey, z) AVz € way E p(y, z)) (Strong Collection)
+VasyVw(w eyow Cx) (Power Set)
+
+VaVydzVw(Va € 2b € yp(a, b, w) > de € z(Va € #b € cy(a, b, w) A Vb € cha € xp(a,b,w))) (Subset Collection)
+VaVydz(‘z is full in x and y’) (Fullness)
+
+(Vx(Vy € ap(y)) + v(2)) > (Way(x)) (€-induction)
+VaVyizVw(w © z + ’w isa function « > y’) (Exponentiation) [3
+Sa[(OeaAVy(yexoyU {ys Ex) AWzMEZzAVY(yezyU {y} €z)) >2Cz)] (Strong Infinity) : =
+
+Val(Vy(y € 2 > 32(z €y))) 9 AF sa > Ua f(x) Ea] (Axiom of Choice) Dm
+
+Figure 1. Axioms of set theory. : fa)
+
+to see that every rule application in the proof tree is admissible in T. Hence, B is an admissible 2S
+consequence of A, A l~r B. r :3
+
+The two theorems give two routes to proving that the propositional admissible rules of a theory
+T are exactly those of IPC.

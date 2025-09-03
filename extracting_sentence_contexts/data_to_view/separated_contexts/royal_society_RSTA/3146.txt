@@ -1,0 +1,24 @@
+Regions of in/stability and existence for stripes in a system with homogeneous parameter and for half-stripes with a
+jump-type inhomogeneity; leading-order asymptotics (dashed) and directly computed data (solid). See text for details. (Online
+version in colour.)
+
+— half-stripes exist with inhomogeneity and are zigzag unstable, full stripes exist with
+previous stability
+(Inhom. ex., ZZ unst.)
+— half-stripes exist and are stable, full stripes exist and are stable
+(Inhom. ex., ZZ stab.)
+— no half-stripes exist, full stripes exist and are stable
+(Inhom. non-ex., Hom. ex., Eck. stab.)
+— stripes exist and are Eckhaus unstable, no half-stripes exist
+(Hom. ex., Eck. unst.)
+— no stripes exist (Non-ex.). Note that half-stripes selected by the jump-type inhomogeneity have wavenumbers that are
+bounded away from the Eckhaus instability, but overlap significantly with the zigzag-unstable
+region.
+
+
+(c) Growing domains and zigzag selection
+
+The fact that the minimum selected wavenumber kmin is zigzag unstable has dramatic
+consequences for pattern selection. However, the effects are not immediately visible in
+simulations because the system does not select a unique wavenumber. In particular, we would
+need to impose a phase condition 6 ~ 1/2 to select kmin.

@@ -1,0 +1,11 @@
+Sphere uses the same basic idea, but extends this paradigm to wide-area
+distributed computing. Many of the GPGPU algorithms and applications can be
+adapted and run in a distributed fashion using Sphere. In fact, it is this analogue to
+GPGPU which inspired our work on Sphere. There are some important differences though: Sphere uses heterogeneous
+distributed computers connected by high-speed, wide-area networks instead of the
+identical ALUs integrated in a GPU; Sphere supports more flexible movement of
+data, but also requires load balancing and fault tolerance; finally, the bandwidth
+setween Sphere’s SPEs, although it may be up to 10 Gbs* |, is not even close to
+
+he bandwidth within a GPU. Owing to these differences, Sphere runs a complete
+orocessing function or program on each SPE, rather than one instruction.

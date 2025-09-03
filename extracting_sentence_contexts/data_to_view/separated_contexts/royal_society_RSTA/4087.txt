@@ -1,0 +1,69 @@
+As tr[S3()] =
+tr[$(0)] =0, then
+
+Mya)=2> ser ld; OE LOS OO EtS} O14)
+
+1 a ary
+= 20) ar (BI OSU OB, (2.13)
+icA
+which is indeed an explicit way to rewrite equation (2.3) in the form of an ensemble average. Remarkably, as Si is a local (one-body) operator, its evaluation in equation (2.13) can be replaced
+by the expectation value in a single superposition state [45],
+
+My 1(t) =2(Wneql Ute (55 CLE!) |Yneq), (2.14)
+where
+1 .
+|Wneq) = > ant el? |B). (2.15)
+
+icA
+
+
+Here, gj is a random phase uniformly distributed in [0,27). In fact, the state defined in
+equation (2.15) is a random superposition that can successfully mimic the dynamics of ensemble
+calculations and provides a quadratic speed-up of computational efforts [45-47].
+
+3. The Loschmidt echo dynamics
+
+(a) Short-time expansions and beyond
+
+In order to analyse the N dependence of the LE and its time scales, we compute here the short-time
+expansion of the magnitudes Mj,1(t), Myp(t) and Mx(t). Up to second order in time,
+
+1 nN Ag
+Myi(t=2te) = 2.97) sq (Bil OS; Ue (16i)
+icA
+t\? 1 «0 wae 2 t\?
+-1-(;) De pact (B27 16) ~ 2081254 2183) + O (;) - (1)
+
+icA
+Similarly, the leading contributions to Myp(t) and Mx(t) are
+
+1 A,
+Myin() = 97 sxar (Bile (916i)?
+ice A
+
+t 2 1 a9, = 2 t °
+=1= (5) Do ser oS7169 — dian) +0((7) ”
+icA
+
+and
+
+1 a“ ~
+Mx()= 0 sxc ( 2 6/IULe()16i) 7 — >> thom)
+
+ieA cA (Fi) jeB
+
+t\? 1 ate & P t\?
+= (5) D grr ewid§; S69 - widinn +0 ((F) ) G3)
+
+icA
+
+Let us consider a generic secular (i.e. polarization-conserving) perturbation ¥ given by a
+Hamiltonian with an arbitrary anisotropy a,
+
+N
+Sa Lx) l20575; - (S75" + sys]. (3.4)
+uy
+
+This is still quite general, as even a double quantum perturbation (SiS* + S- Ss, which does not
+conserve polarization) can be reduced to a secular one by the truncating effects of radiofrequency
+fields [29].

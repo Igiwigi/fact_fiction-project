@@ -1,0 +1,12 @@
+Cliff’s 5 estimates the probability that a randomly
+selected value in one sample is higher than a randomly selected
+value in the second sample minus the reverse probability. Invert-
+ing the two samples changes the sign of the statistic. As in a f-
+test, the null hypothesis is an absence of difference of the studied
+variable between the two time steps and the alternative hypoth-
+esis the fact that the difference is significant. This test is not
+associated with a probability of rejection of the null hypothesis,
+but it uses threshold values for 161 to indicate the magnitude
+of difference [35]: negligible for less than 0.147, small for less
+than 0.33, medium for less than 0.474 and otherwise large. We
+calculated Cliffs 5 using the effsize library in R.

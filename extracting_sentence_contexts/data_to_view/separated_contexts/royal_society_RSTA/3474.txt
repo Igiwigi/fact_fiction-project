@@ -1,0 +1,89 @@
+The
+data are typically multidimensional, multiscale, spatially distributed in the form of either
+time series (with sampling rates ranging from milliseconds to hours) or event-triggered,
+often incomplete or noisy due to sensing and/or communication problems.
+
+(vi) Tendency towards, and requirement for, increased efficient energy supply resulting in
+increased consideration of different energy carriers (multi-energy networks).
+
+(vii) Requirement for increased information security (cyber security) due to a wide range :
+of integrated diverse ‘intelligent’ PE devices and information and communication [=
+technologies (ICTs). 23
+
+(b) Increased uncertainties in power systems :8
+
+One of the main attributes of the above systems is the increase in uncertainties associated : 4
+with system operation and modelling. There are generally two forms of uncertainty associated iS
+with any system modelling and analysis: (i) aleatory uncertainty (irreducible uncertainty [eB
+and variability), which represents the inherent random behaviour of a system commonly :B
+modelled by probabilistic distribution functions and propagated by probability-based approaches .
+(sampling, analytical methods, probabilistic chaos expansion); (ii) epistemic uncertainty
+(reducible uncertainty and state of knowledge uncertainty), which models the uncertainty in
+parameter estimation due to data shortages or model simplification. The major sources of uncertainties in power systems grouped based on the system components
+from which they originate are identified below:
+
+(i) Network-based uncertainties
+
+— Network topology.
+
+— Network parameters and settings (e.g. settings of tap-changing transformers,
+temperature-dependent line ratings, line and cable parameters).
+
+— Network observability and controllability.
+
+(ii) Generation-based uncertainties
+
+— Generation pattern and mix (size, output of generators, types and location of
+generators, i.e. conventional, renewable, storage, PV generation at the distribution
+level).
+
+— Output uncertainty of renewable generation due to forecasting errors.
+
+— Models and parameters (conventional and renewable generation and storage
+technologies, individual and aggregate models of wind farms and distributed PV
+generation).
+
+(iii) Load-based uncertainties
+
+— Time and spatial variation of load (e.g. location of EVs in particular).
+
+— Load composition (mix).
+
+— Load models and parameters, both frequency and voltage dependence of load,
+including conventional types of loads and rising number of new PE-interfaced loads
+and efficient lighting.
+
+— Load forecasting uncertainty.
+
+(iv) System controls-based uncertainties
+
+— Parameters of generator controllers (excitation and voltage controllers, governors,
+damping controllers, PE interface controllers).
+
+
+— Parameters of network controllers (secondary voltage controllers, controllers of 4 |
+FACTS devices and HVDC controllers).
+
+(v) Operating condition-related uncertainties aa!
+
+— Contractual power flows as a consequence of different market mechanisms and is
+Price. LS
+— System faults (type, location, duration, frequency, distribution, impedance of system 12
+faults and disturbances).
+
+(vi) ICT-related uncertainties
+
+— Noise, measurement errors, time delays, loss of signals, bandwidth, missing data.
+
+(vii) Weather/climate-related uncertainties
+
+— Wind speed, wind direction, temperature, humidity, solar irradiation, tidal/wave : =
+conditions. : =
+
+a
+
+Each form of the uncertainty listed above has a specific representation and quantification method. : =
+Therefore, the selection of the appropriate method to model relevant uncertainty comes after the 2
+identification of the type of the uncertainty. For some of these uncertainties, it may be possible S
+to produce a sufficiently accurate model based on historical values or data tolerance values from : a
+manufacturers.

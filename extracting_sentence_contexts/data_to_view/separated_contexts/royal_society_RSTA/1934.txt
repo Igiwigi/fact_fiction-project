@@ -1,0 +1,9 @@
+To the best of our knowledge, the latter cannot
+depend on the velocity discretization but it can be space- and/or time-dependent [55]. Usually,
+a=1 for DVMs [29], while the work by Frapolli et al. [41] relies on a= pw;(T) where w;(T) are
+temperature-dependent quadrature weights. In the present context, we chose to underline (1) the
+quadrature-free property of our approach by discarding quadrature-weights, (2) the fact that we
+are applying this methodology to the simulation of fluid flows by keeping the density in the
+definition of the numerical equilibrium through a = p. The latter choice eventually leads to the
+numerical equilibrium (2.13). Whereas the latter choice does not have a direct impact on imposed
+moments, it may lead to different stability domains for the root-finding algorithm.

@@ -1,0 +1,15 @@
+We provide A number of previous readers of this paper felt tempted to
+
+a brief description of the model and the results from [13,14] that take a limit A — oo in ILGR, in order to produce a model with
+
+will be needed and refer the reader to these papers for further ‘infinite rigidity’ meaning fixed group sizes, and were puzzled a
+details. In 2IFW, generations are again non-overlapping, and by the fact that the right-hand side of (3.4) is then converging to s
+the number of groups in each generation is again fixed as g. —1 rather than to 0. In fact, if one violates the assumed conditions a
+Groups have exactly the same size n. In each generation, each of ILGR, which require A < 1, and considers the case of very large = 2
+group selects independently a group from the previous gener- A, one runs into a situation in which (s, S) = (1,1) becomesan  S
+ation to be its parent group, with probabilities proportional to unstable fixed point, and our analysis of ILGR, including (3.4), =
+the average fitness of members of each group in the previous does not apply. =
+generation. The membership in each group in the new gener- The two channels discussed above lead to a decompo- “=
+ation is determined then by each member of the group sition F(p) = Framitton(P) + Fextra-Hamilton(P), With the first s
+selecting independently a member of the parent group with term corresponding to the first channel and the second = -s
+probabilities proportional to the fitnesses of these individuals. term to the second channel and including the factor Q.

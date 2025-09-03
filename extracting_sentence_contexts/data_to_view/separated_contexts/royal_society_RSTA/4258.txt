@@ -1,0 +1,6 @@
+To simplify the problem, in this paper, we only consider
+those signals that have one dominated shape function, ie. M=1 in (1.3). By exploring the fact
+that the shape function is a periodic function of the phase function, @, we can identify a certain
+low-rank structure of the signal. This structure enables us to extract the shape function from the
+signal. We remark that, in the model with the shape function, all intra-wave modulation is captured
+by the shape function.

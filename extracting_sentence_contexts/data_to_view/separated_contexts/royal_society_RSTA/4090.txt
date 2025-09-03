@@ -1,0 +1,35 @@
+With Ge(t) = tr¢[X(t)], we find
+
+2 ct
+dt@e(t) = a I, drtrs[V2.(t)(Vi.(x) X(t) — X(t) Volz) — (Va(r)X(z) — X(x)Vo(r)) Volt]. (2.14)
+
+
+Here, we perform the two crucial approximations: (i) the Born approximation, which assumes
+that the influence of the near environment on the state of the far environment is negligible: X(t) ~
+Qe(t) ® g¢(0), and (ii) the Markov approximation that the state of the near environment @e(t) is
+changing slowly on the time scale of the correlation function Vi(t — s)Vi (8). We finally assume
+that the V;,(t — s)V,(t) quickly approaches zero as s increases, so that
+
+2 pt oo .
+d¢Ge(t) = — z I, drtrs[Vo.()(Va(t)@e(#) ® a¢(0) — Ge(t) ® e¢(0)Vo(t))
+— (Vi(t)Bel(t) ® 2(0) — Belt) ® a¢(0)Vo(z))Vo(t)]
+2 poo .
+=- z I, dstraV3.()(Va(t — 8)Be(t) ® (0) — de(t) ® a¢(0)Vol(t — 5)
+
+— (Vilt = s)Be(t) ® a¢(0) — Belt) ® a(0)Vo(t — s))Vo(#)]- (2.15)
+
+This equation is the equivalent of the so-called Redfield equation [13]. Next, we will consider each
+term separately and take advantage of the fact that V;(f) is a tensor product operator with respect
+to the near and the far environment,
+
+Vi(t) = Un(t)ViUa (1) ® Ulf) VeU c(t),
+
+such that tr¢[A ® B] = Atr;[B]. It is now natural to assume that g¢(0) is diagonal in the eigenbasis
+of Hy, ie. [o¢(0), H¢] = 0 (this would be the case for a thermal state). Then we find
+
+2 poo
+ate(t) = — z I, dsC(s){Up (#)'V,Ua(s) VU (t — s)Be(t) — Un(8)* Via (f)de(E)Uo(t — s)'ViUo(t — 5)
+
+— Un(t — s)*VSUn(t — s)G0(t)Uo(t)* VU (t) + Ge(t)Uo(t — s)'V, Ua (s)* Vi Ud (t)}, (2.16)
+
+with the real function C(s) = tr¢[U¢(s)* V¢Ug(s) Vio].

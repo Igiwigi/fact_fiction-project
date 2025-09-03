@@ -1,0 +1,19 @@
+Conjugacy and good coverage suggest that the DP could be a very good general purpose non- a
+parametric density estimator. Unfortunately, the distributions drawn from a DP prior are, with a
+probability one, discrete so they do not have a density. In fact, a draw from a DP prior can be is
+represented in the following way: : 8
+
+~
+C= mdx, 61) 5
+2 =
+
+where the sum is an infinite sum, the z, are masses that sum to one, 6 is the Dirac-delta function :e
+and the x; are locations for those probability masses drawn iid from the base measure H, which
+controls the mean of G. To alleviate the problem of discreteness, the DP is often used as a prior on :=
+the parameters of a mixture model, with the whole model now called a Dirichlet process mixture iB
+(DPM) [20,24~26]. ‘Sp
+
+The particular example of a DPM of Gaussians, also known as an infinite Gaussian mixture :s
+model [27], is widely used for both density estimation and clustering. Clustering refers to the ree
+problem of finding groupings of objects or data points such that similar objects belong to the same :
+group and dissimilar objects belong to different groups.

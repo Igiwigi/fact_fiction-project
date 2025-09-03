@@ -1,0 +1,68 @@
+The results reveal substantial variability in the distribution of non-zero counts
+within outer Clusters 1 and 2 (see figure 5c). The majority of counts in outer Cluster 1 are zero,
+leaving little variation in the counts for the inner clustering. As most individuals present zero
+counts (for most processes) at an inner cluster level, it becomes difficult to detect specific patterns
+as it is also evident from the fact that many co-clustering probabilities are in the range 0.3-0.6
+
+
+03
+s
+
+£02 04 0.75
+
+5 0.50
+
+5
+
+é
+
+= of : a 0 _ 0 —
+
+2 3 4 5 1 2
+
+3
+
+6 7 8 9 10 11 12
+no. of inner clusters no. of inner clusters no. of inner clusters
+(b) within Cluster 1 within Cluster 2 within Cluster 3
+= 1.00
+2 0.44
+Zod 0.6 0.75
+& o>] 04 0.50
+3
+2 0 A 0 0
+1234567891011 1 2 1
+inner clusters inner clusters inner clusters
+within Cluster 1 within Cluster 2 within Cluster 3
+
+(2) inner Cluster 1 3.0
+(outer Cluster 1) 2.5
+
+inner Cluster 2 2.0
+(outer Cluster 1) 15
+inner Cluster 3 10
+
+0.5
+
+(outer Cluster 1)
+inner Cluster 4
+| || (outer Cluster 1)
+v » » be) 6 “
+
+inner Cluster 1 30
+(outer Cluster 2) J 25
+
+20
+inner Cluster 2 15
+(outer Cluster 2) 10
+
+N\
+
+SY > & 9 © A 5
+inner Cluster 1 1.5
+(outer Cluster 3) J 1
+NY % & 5 © A 05
+variable j
+
+Figure 5. Posterior distribution of the number of inner clusters per outer cluster (a), relative frequency of the inner clusters
+corresponding to the Binder estimate of the inner cluster allocation (b), cluster-specific empirical means of the counts (c). For outer Cluster 1, the latter is only shown for the four largest inner clusters for visualization purposes.

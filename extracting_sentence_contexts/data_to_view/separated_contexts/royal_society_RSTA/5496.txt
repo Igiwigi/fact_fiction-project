@@ -1,0 +1,9 @@
+In this study, we introduce two interpretability frameworks, specifically designed for DNNs
+trained for the ECG classification task, that let us inspect the decision of DNNs, unveiling which
+waves of the input ECG were most relevant to the final classification. In this work, we refer to the
+P-wave, QRS complex and T-wave composing the ECG beat as simply ‘waves’. The rationale
+behind the development of new interpretability frameworks in this context relies on the fact
+that the evaluation of the interpretation itself is challenging with the current interpretability
+methodologies. Indeed, such methodologies can highlight the most important samples of the ECG
+contributing to the classification. However, understanding whether such samples are meaningful
+for the cardiac abnormality to detect is not currently handled.

@@ -1,0 +1,50 @@
+Each column of this matrix (7) gives a set of solutions of the equations
+
+dx/dt = ux,
+
+and since 2(w) =1 for t = ty, these 7 sets are linearly independent, so that (uv) may
+be considered as a complete solution of the system. Part II. of the same paper discusses the form of the matrix Q(w) in the neighbour-
+hood of a point at which the elements of the matrix u have poles of the first order,
+or in the neighbourhood of which the integrals of the original equation are all
+“regular.”
+
+It is there shown that if ¢ = 0 be such a point, a matrix
+
+(9, Ca (t/to)*-, Cai (t/t)...
+
+£13 6., Caa( tte)?"
+
+baka Ca ee
+
+can be found, in which all elements to the left of the diagonal are zero, in which
+c= 0 unless 6;—6; is zero or a positive integer, such that Q(w) is of the form
+
+G2(¢)Go™,
+
+where G is a matrix whose elements are converging power series in ¢, and G, is the
+value of G at t = ¢,. The form of ¢ is such as to put in evidence what are known as HAMBURGER’s sub-
+groups of integrals associated with the fundamental equation of the singularity ; the
+method is, in fact, a means of analysing the matrix Q(1) into a product of matrices,
+of which one is expressible in finite terms and shows the nature of the point as a_
+singularity of the solution. The object of the following investigation is to see how far, under what conditions,
+and in what form, such an analysis can be effected for equations having poles of a
+higher order than unity in the elements of the matrix w. Tt is known that if in the neighbourhood of infinity the equation is of the form
+
+a. 3 ; {1\| a-r) —
+2) = { pe(a)+P,(2) be! ) = 0;
+
+1
+0
+
+
+SATISFYING LINEAR DIFFERENTIAL EQUATIONS. 3
+
+pr being a polynomial of degree pr, and P,(1/x) a series of positive integral powers
+of 1/x, the equation has a set of formal solutions of the form
+
+0
+Cann S, ga, =.1...0;
+na
+
+where , is a polynomial of degree p+1, provided a certain determinantal equation
+has its roots all different.

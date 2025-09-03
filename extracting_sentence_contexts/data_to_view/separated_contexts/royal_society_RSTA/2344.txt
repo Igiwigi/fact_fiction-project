@@ -1,0 +1,25 @@
+It yields the best vibrational energies obtained
+so far for the LiH molecule (figure 5). For v = 13, the deviation between the experimental and
+theoretical data increases, as the probability of the average internuclear distance getting closer
+to the distance where the avoided crossing between the two lowest electronic states occurs,
+increases. Extended line lists and tables of cooling functions were compiled for LiH comprising
+lithium isotopes °Li and 7Li and hydrogen isotopes H, D and T [60].
+
+(c) Vibrational shifts by effective mass models: a unifying AIM approach
+
+Though the results obtained so far are encouraging, the fact that two different methods should
+be used, depending on whether the molecule is polar or non-polar (e.g. in the LiH calculations),
+is not satisfactory. Amaral & Mohallem [61] recently developed a unifying single method which
+uses the stockholder atoms-in-molecules (AIM) approach by Hirshfeld [62], more precisely its
+iterative variant, Hirshfeld-I due to Bultinck et al. [63], to separate the core and valence electron
+density contributions. In his approach, Hirshfeld defined the density of a ‘promolecule’, which is
+the sum of the densities of the isolated atoms, as
+
+pP(r) = 50 pf"). (2.9)
+I
+He then introduced the following atomic weight functions:
+ef)
+- 1 2.1
+wy(r) Py’ (2.10)
+
+which, when applied to the molecular density, give the AIM densities.

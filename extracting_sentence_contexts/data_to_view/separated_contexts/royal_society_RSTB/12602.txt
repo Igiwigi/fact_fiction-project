@@ -1,0 +1,30 @@
+Finding the zeros of a func-
+heading variation. In the case where the contribution of one tion (or root finding) can be carried out by different methods such
+of the interactions is non-existent, for instance if there is no as descent methods or other iterative methods. Here, we use an
+explicit alignment, then the procedure will detect it. iterative method based on the fact that the equation that each
+For the sake of simplicity, we consider here the case where component must verify is linear in this component, so that
+fish are far enough from the tank wall that the contribution of each component can be written explicitly in terms of the other
+
+5¢w to the heading variation can be neglected with respect to components. This relation is found as follows.
+
+
+@) 15 1, O15 O15
+
+TTT HR, R=0.25 m [ ;
+
+1) DR R=029m
+
+1A
+= 10-1 4 moo Ss
+4 \ H S
+3 x
+rom [om
+6 =
+
+9 ~naae L pane of== =e
+0 2 4 6 8 10 12 -180 -90 0 90 180 -180 -90 0 90 180
+d (BL) 9, Viotlower
+
+Figure 7. Probability density functions (PDFs) of (a) distance between fish dj, (b) difference of heading @j, and (c) angle Yfolower With which a fish i perceives its =
+neighbour j when |y| < |y%i| (the ‘geometrical follower’ is hence the fish that would have to turn the less to face the other fish, the latter being called the — _,
+‘geometrical leader’).

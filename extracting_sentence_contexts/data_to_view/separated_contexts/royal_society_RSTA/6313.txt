@@ -1,0 +1,12 @@
+Given the extremely short
+time scales over which gain in the solid state system exists owing to collisional effects, it is evident
+that any improvements in understanding of the relevant rates could well influence the degree and
+duration of gain predicted. It should be noted that the rates used in this study have been the those
+used in previous versions of the SCFLY code, whereas recent experimental work has shown that
+these rates may well be an underestimate [19,31]. Furthermore, here the assumption has also been
+made that the distribution function of the electrons in the continuum is at all times Maxwellian—
+ie. we have both ignored the fact that the cold metal will have a Fermi-Dirac distribution of the
+electrons, and we have further assumed that thermalization of the electrons is instantaneous. Both of the aforementioned assumptions warrant scrutiny. If, for the sake of argument, we do
+assume instantaneous thermalization, the fact that the current version of the code does not take
+into account the Fermi degeneracy of the initial electrons is unlikely to be significant because the
+electron temperature exceeds the Fermi temperature on exceedingly short time scales.

@@ -1,0 +1,53 @@
+However, such test functions are not allowed in
+general, and therefore, we must proceed more carefully. We fix an arbitrary T* € (0,T), which is
+the Lebesgue point of #(¢) as a function in L(0,T;L'(@)). By using the fact that div v" = 0, we see
+that
+
+[ Vo" .v" To" — d) dx= [ Vi -v" To" — b) dx. (3.35)
+QR 2
+
+Then, we set = T(o" — D) x07] with 1 €(T*,T) arbitrary in (3.4). We deduce (since 3” €
+C({0, T]; L2(2)) and dis independent of time) by using (3.35) that
+
+[ [xcomveon — 8). vino" — 691 dxdt =— | Gy(0"(e) — B) - Glog 8) ax
+0 Q 2
+
+1
++f I -Vd -v" Xo" — 3) — «(0")Vb - V[T(8" — b)] + H(0" — 8) S":Dv" dxdt. (3.36)
+0 Q
+
+
+Then, it follows from (3.12), (3.14), (3.2), (3.20) and (3.36) that for 6 € (0, T — T*)
+
+1
+lim sup I K(O")V0" - VIT(8" — B)] dx dt
+0 Q
+
+n>00
+
+T
+=limsup A [one —8]-V[R(o" — 5)]
+
+noo
++ «(OVI -V[T(0" — 3)] dxdt
+
+Te +5 T
+<limsup [ I K(O")V[o" — 8] VIT(8" — B)] dx dtd
+0 Q
+
+noo T*
+
+T
++[ [ K(O)VO- V[T(o — 3)] dxdt
+
+0 2
+(3.36)
+=>
+
+- I Ge(0(T*) — 8) — Geld — 8) dx
+
+T
++[ I (S:Dv — Vd - v)I(o — 3) dxdt (3.37)
+0 Q
+
+as 6 + 0. Now, the aim is to identify the final expression in (3.37).

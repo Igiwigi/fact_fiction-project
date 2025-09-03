@@ -1,0 +1,13 @@
+In turn, this improvement in
+calculations drives ever increasing demands for computational resource, and AWE’s high-
+performance computers (HPC) operate today at 8petaflop/s (8 million billion floating-point
+operations per second). This HPC capability is necessarily complemented by high-end desktops,
+state-of-the-art visualization capabilities and ultra-fast high-volume networking and file stores
+to deliver an integrated environment for state-of-the-art calculations. Although remarkable, this
+level of computing does not provide a fully predictive capability; in fact such a capability will
+not be possible in the coming two decades even if Moore’s Law continues to hold for that
+time. Approximations in the methods therefore continue to be required to enable calculations
+to be carried out in a reasonable time, and these approximations must be underpinned by
+empirical data. Non-nuclear physics experiments are required to provide material data for the codes and
+separately to provide validation of the codes, and indeed validation of the designers who must
+be tested against cutting-edge science in the absence of nuclear tests.

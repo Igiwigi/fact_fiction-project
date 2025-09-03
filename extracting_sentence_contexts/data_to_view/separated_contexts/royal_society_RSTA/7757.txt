@@ -1,0 +1,18 @@
+These reduce to
+the values given by Samnt-VENANT if we take 8 = 1 and «= 0. But on calculation,
+after using the values of the strain components given by (1), we find that the body-stress
+equations are not satisfied if we take Satnt-VENANT’s values. In fact, we get
+
+Oxx oxy Oxz
+
+are + a rAr2x,
+Cx ey eZ
+
+oxy opp Oyz ‘
+peice Rhee ot A Ny
+Ox cy 0z Fi
+ox ay 0z . Since we have assumed the strain to be finite we cannot use SAINT-VENANT’S values
+of the component displacements.
+
+* ‘Phys. Rev.,’ vol. 30, p. 520 (1927).
++ ‘Mém. des Savants Etrangers,’ vol. 14 (1855).

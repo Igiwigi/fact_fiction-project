@@ -1,0 +1,56 @@
+The corresponding
+metric functions Q are then of the form
+441421 + 442492 et oP
+
+Q(t, 0) = (2.13)
+
+2 1 2 ait,
+at, +47, eA)
+
+which follows from setting Q = 0 in (2.10). In the following, we need not consider the whole class of areal coordinate representations, and
+instead, we find it sufficient to restrict to the special class for which Q is constant in both space
+and time but not necessarily zero; we refer to these coordinate systems as Qconst.-areal gauges. In
+fact, we further specialize to Qconst.-areal gauges that are obtained from a Qo-areal gauge in one
+of the following two ways:
+
+(1) Choose Q € R, fix arbitrary non-vanishing 417, a2; in R, and set
+0 a2
+A= :
+(° or)
+
+Jx€R and Jy=QJx, (2.14)
+
+Then it follows from (2.12) that
+
+and moreover, it can be shown, for Jx 4 0, that
+Y -—QX, (2.15)
+
+is the unique, up to rescaling, hypersurface orthogonal Killing vector field of g.
+
+
+(2) Choose Q € R, fix arbitrary non-vanishing 411, 422 in R, and set
+
+ayy 0
+A= :
+(cr, ‘)
+In this case, it follows from (2.12) that
+
+Jx=0 and JyeR, (2.16)
+
+and it can be shown, for Jy 4 0, that
+x (2.17)
+
+is the unique, up to rescaling, hypersurface orthogonal Killing vector field of g. These two Qconst.-areal gauges yield polarized T*-symmetric solutions of the vacuum Einstein
+equation (1.1) of the form (2.1) where Q is constant and the twist constants (2.3) and (2.4) have the
+property
+
+Jx=OandPeR, orP=OandjJxeéR, orJx=P=0, (2.18)
+
+where P is defined by
+P:=Jy — QIx. (2.19)
+
+In the Qo-areal gauge used in [24], in which Q=Jx =0 and X is the hypersurface orthogonal
+Killing vector field, the transformation (2) above is simply a rescaling, while transformation (1)
+flips the coordinate basis Killing vector fields. In this gauge, both transformations result in exactly
+one of the coordinate basis Killing vector fields being hypersurface orthogonal (provided there is
+one non-vanishing twist).

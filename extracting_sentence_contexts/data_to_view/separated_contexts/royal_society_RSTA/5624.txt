@@ -1,0 +1,7 @@
+The QUBO is constructed by combining hit doublets into triplets. The terms in
+the objective function depend on the angles separating the tracks and include a bias term to
+favour high momentum tracks. The algorithm also exploits the fact that tracks are expected to
+have originated from the beam spot. Penalties are added for bifurcated tracks in which the hits
+are not aligned along a potential trajectory and for edges that are not aligned appropriately in the
+plane parallel to the beam direction. The TrackML dataset is preprocessed by dividing the event into 32 overlapping sectors in
+the plane perpendicular to the beam.

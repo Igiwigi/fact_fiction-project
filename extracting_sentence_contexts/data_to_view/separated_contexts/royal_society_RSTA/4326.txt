@@ -1,0 +1,12 @@
+An important question opened by our analysis is why the biological network exhibits distinct
+features for TE and shows patterns in AI associated with functional regulation, when global
+measures yield no distinction between the biological network and random networks. We suggest
+that the separate analysis of two distinct levels of informational patterns (e.g. node-node or state-
+state) as presented above misses what arguably may be one of the most important features of
+biological organization—that is, that distinct levels interact. This view is supported by the fact
+that the control kernel plays a prominent role in the distinctive local informational patterns of :
+the fission yeast cell-cycle network, but was in fact first identified for its role regulating dynamics :3
+on the global attractor landscape. The control kernel may therefore be interpreted as mediating :s
+the connection between the local and global causal structure of the network. The results of the previous :
+section indicate that these same nodes act as a hub for the transfer of information within the
+network and for information storage.

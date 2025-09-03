@@ -1,0 +1,9 @@
+Other approaches have further focused on the role of the particular symmetry group G
+which, according to Noether’s theorem, comes with the conservation laws. As a consequence, the
+internal reference frame that one can define following this approach is heavily group dependent. This fact is clearly illustrated by the construction of the ‘model’ reference frame L(G): the square-
+integrable functions on the group G (under the invariant Haar measure) equipped with the left
+regular representation [8]. Hence, while this approach is mathematically very elegant, both in
+its definition and its interaction with the system, the construction is very complex, and so is the
+interaction required to implement the desired unitary on the system. Hence, one might wonder
+what sort of complex physical system this frame actually represents, and how to physically
+implement the necessary interaction.

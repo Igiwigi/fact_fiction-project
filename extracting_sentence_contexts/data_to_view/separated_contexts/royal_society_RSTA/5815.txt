@@ -1,0 +1,7 @@
+But they can become active due to peers’ influence. As discussed in
+[11,14], active agents may gradually lose their interests in the discussion and drop out of it, which
+is related to our above Rule 1. In addition, our above Rule 2 is based on the fact that only active
+agents participate in the opinion dynamics. Finally, as also discussed in [11,14], active agents can
+motivate their inactive like-minded peers. If an inert agent holds the same opinion of an active
+neighbour and they have a positive interaction (with takes place with probability 1 — p), then the
+inert agent is driven to be active with probability (1 — p)g.

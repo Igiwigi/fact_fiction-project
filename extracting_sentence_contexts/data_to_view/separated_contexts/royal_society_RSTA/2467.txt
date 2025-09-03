@@ -1,0 +1,5 @@
+To each path, there is a corresponding expression for f in terms of the Grébner bases. So,
+our aim is to identify those expressions of f, and we can do it modulo a certain module. In fact,
+we do it modulo a syzygy module and we hope this explains why Hilbert mentioned syzygies in
+his 24th problem. In §2, we apply this reasoning to a polynomial f and an ideal I. In §2a, we introduce the context
+of this membership problem.

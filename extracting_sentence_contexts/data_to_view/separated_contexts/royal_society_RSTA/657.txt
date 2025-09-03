@@ -1,0 +1,31 @@
+Thus, the multi-mode slow-
+light regime of our glide waveguide design is not suitable for the exploitation of directional effects
+
+n@) = (6.1)
+
+SThis transition is complicated by the presence of an (anti)-crossing between the two guided modes at ka/2 ~ 0.476, before
+they come back together for a degeneracy at ka/2 =0.5. It is also made more complicated by the fact that at the bandedge
+itself any linear combination of modes is itself a mode. The modes found by the eigensolver were not in fact a time-reversal
+pair. However, we found such a pair by taking linear complex combinations of the eignesolver’s solutions.
+
+
+(a)
+
+0.285
+
+0.280
+
+0.4 0.6 0.8
+2 0.275
+
+0.270
+
+07605 0.3 0.4 0.5 hoy yan O ‘O
+
+kala) —_— >
+ow |
+
+Figure 4. The effects of coupling to multiple modes on directionality. (a) The band diagram of the glide waveguide. (b) The
+maximum value of 7 in the vicinity of the waveguide as a function of frequency. (c) |E|? and 53 for the three modes at the same
+frequency in this waveguide (indicated by points in (a)). 53 in the first panel has been inverted to account for the fact the group
+velocity of the mode is in the opposite direction to the other two.

@@ -1,0 +1,14 @@
+Figure 2 depicts the subthreshold slopes of 64mV/Dec and
+70mV/Dec for the p-type and n-type parts of the characteristic, respectively, hence competing
+with the most advanced FinFET technologies [3]. In addition, the one-dimensional electrostatic
+control over the channel coupled to the use of a Schottky barrier-based injection mechanism
+enables very low off-current densities of a few pA per jm when compared with few tens of pA
+per j.m for low-power FinFETs [3]. These combined facts qualify the presented device technology
+as high-performance low-standby-power technology.
+
+(b) Logic operations with double-gate field effect transistors
+
+Digital circuits using these transistors can exploit both gates as inputs, thereby enabling the design of
+compact cells that implement XOR more efficiently than in CMOS. Indeed, in the context of digital
+operations, DG-SiNWFETs realize intrinsically an XOR characteristic, because the transistor is ON
+when PG = CG, ie. PG © CG = 1, and consequently is OFF when PG @ CG = 1.

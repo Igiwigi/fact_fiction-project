@@ -1,0 +1,15 @@
+The semantic structure changes as a consequence of = ©
+dissimilarity will be more different from each other than ‘smal- the addition of a word form. The mechanism behaves as if S
+ler’ representations (with fewer active neurons). In addition, this some features, which in fact characterize only some category =~
+makes it easy to increase the distance between representations instances, were shared by all category members. =
+(by adding new active neurons) and thus increase dissimilarity 3
+but more difficult to decrease dissimilarity, especially if, as in
+the present simulations, representational patterns are chosen (b) Limitations and future research needs
+that strongly overlap in the first place. It may be that when In spite of the present attempts to look more closely at the
+using a different dissimilarity measure (e.g. cosine dissimilarity mechanisms by which verbal labels may aid semantic cat-
+or a measure normalized for ‘representational size’ or vector egory learning, this work leaves many related questions
+length) the results will change in such a way that within- and unanswered. We believe that a likely mechanism is owing
+between-category dynamics appear more comparable in size. to the differing patterns of correlations that (i) the semantic-
+We suggest not over-emphasizing this difference between feature neurons, on the one hand, and (ii) the word form
+within- and between-category dissimilarities, but instead con- neurons and semantic-feature neurons, on the other, exhibit
+sider both facts, each of which is based on significant results, for concrete and abstract concepts.

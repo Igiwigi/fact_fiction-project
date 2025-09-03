@@ -1,0 +1,21 @@
+The intrinsically motivated learning pro-
+cess results in the acquisition of representations that are
+sensorimotor in nature, are grounded in the environment
+(distal reference), and are amenable for offline re-enactment
+and use by other cognitive processes (concept formation).
+
+(a) The offline control system: alignment of multi-
+
+sensory representations. In order to align the motor and sen- modal topologies for perception and action
+
+sory spaces, the mappings from the sensory and motor The main role of the offline control system is to select the
+modalities to the internal representational space need to be policy that will be executed by the online controller in the
+dependent on each other during learning so that they end actual environment [62]. As in TEC, two alternative modes
+up being represented in what is in fact the same, common should be distinguished: an exogenous or stimulus-tied
+space. Crucially, to obtain such alignment, the motor space mode driven by the environment as well as an endogenous
+must be defined at a correct level of abstraction. In particular, goal-driven mode of action selection, defined by reference
+
+the motor space cannot be identified with the space of motor to a self-generated process potentially decoupled by online
+
+
+interaction in a given context [41].

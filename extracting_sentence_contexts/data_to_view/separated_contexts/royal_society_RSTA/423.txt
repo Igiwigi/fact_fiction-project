@@ -1,0 +1,7 @@
+When TOA is computed off-chip, we assumed that processing
+speed is not limited by the TAC/TDC used but by intrinsic I/O speed. This is why the design
+of Niclass et al. [65] is penalized in the table with respect to the two previous designs, as the
+integrated TDCs are the bottleneck. In this design in fact, only one row can be operational at each
+time, whereas each four columns share a TDC. Thus, the overall TDC bandwidth of 10MSs~!
+must be divided by 4 times 128, to reach the reported value. In the design of Gersbach et al. [46], a bandwidth of 1 MS s-! in TCSPC mode can be achieved,
+whereas a much higher count rate is possible, thanks to an on-pixel six-bit counter.

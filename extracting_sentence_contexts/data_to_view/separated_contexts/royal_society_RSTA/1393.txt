@@ -1,0 +1,9 @@
+Fortunately, the mechanical part of the problem admitted extreme mass scaling of
+using 10000-fold density (even 100 000-fold with a minor error), which increased the critical time
+step to 100-fold allowing practically convenient solution times. It is the relatively low loading rate
+nature of the thermal loading that renders the mechanical part amenable to mass scaling. The 3D simulations of the thermal jet drilling corroborated the already experimentally
+established fact that this method is a viable one with granite rock. Rock heterogeneity has a
+significant effect in facilitating the underlying thermal spallation phenomenon. More precisely, a
+test simulation using a heat flux, modelling a thermal jet with 10 mm of radius, with an intensity
+of 3 MWm~ and a duration of 0.1s, followed by 0.1s natural cooling phase, showed that
+the significant rate of penetration, approximately 300mm min~!, can be theoretically achieved.

@@ -1,0 +1,25 @@
+Hence, the first
+variation of the action S = [ A dé with respect to 5x” gives the Euler-Lagrange equation
+
+dy Ay =0, (2.6)
+
+where we introduced the notation Ax = 0A/ axi, and the Einstein convention of summation over
+repeated indexes is assumed. There are only four conservation laws in (2.62) for 16 unknowns
+xi. The remaining 12 equations are indeed hidden within the integrability conditions of any
+configuration gradient, i.e.
+
+ap xh — ax =0, aXb. (2.6b)
+
+In fact, system (2.6) consists of 24 equations, where 12 of them are effective evolution equations,
+ie. those for a,b = 0, while the other 12 are the so-called involution constraints, see [8,44], that are
+pure spatial constraints, conserved along the particle trajectories.
+
+(b) Eulerian equations of motion
+
+Existence of the Lagrangian coordinates &” is a mathematical idealization and their practical use
+for general fluid-like motion is usually very problematic. Therefore, our unified approach to fluids
+and solids [16,50] relies on the reformulation of governing equations (2.6) in the Eulerian frame
+and later, on the replacement of the integrable (global) deformation field &“,, by the non-integrable
+(local) distortion field A which can be seen as a local basis tetrad (or non-holonomic basis tetrad). Therefore, in this section, we formulate equations of motion in the Eulerian frame which are
+obtained from the Lagrangian governing equations (2.6) by changing the unknowns &" — x“, see
+details in [44].

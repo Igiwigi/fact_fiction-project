@@ -1,0 +1,11 @@
+A plasma with this atomic composition has an ideal ignition temperature of approximately
+5.2 keV, compared to approximately 4.4 keV when no carbon is present. This demonstrates that
+the ignition temperature will be increased by the presence of carbon, and may be higher than
+predicted by equation (2.4). Despite the fact that this estimate does not account for the actual
+hotspot composition and likely overestimates the carbon content, it is likely that it still an
+underestimate of the temperature at which a capsule would actually achieve ignition. This is
+because it is an ideal estimate where only radiation losses due to Bremmstrahlung are considered,
+and in reality other processes such as conduction, hydrodynamic effects and alpha particles losses
+(ie. accounting for the fact that not all alpha particles are absorbed, and so some of the generated
+energy is lost from the system) also lead to an increase in ignition temperature. While the hotspot conditions are key for determining if the capsule ignites, the main fuel
+conditions are also required in order to determine the energy produced.

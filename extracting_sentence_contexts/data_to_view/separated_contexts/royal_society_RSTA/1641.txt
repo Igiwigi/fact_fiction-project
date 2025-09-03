@@ -1,0 +1,14 @@
+Again we see the same issue
+
+
+here whereby the perturbed case appears to be closer to the observed profiles for both Stokes-I and
+-V in comparison to the unperturbed counterparts when considering R?, whereas the NSE index
+indicates the opposite or at least that the fits are comparable for the perturbed and unperturbed
+spectra. The large value of R? for the perturbed Stokes-! profiles reiterates the issue of smaller
+sample sizes in increasing R*, as the 1600G simulations have fewer profiles and the perturbed
+profiles will be a smaller sample again. This does not detract from the fact that it points towards
+the fact that SIR has accurately reproduced the spectra, but it should be reiterated that it could
+account for the relatively larger R? values in the perturbed case here for the 1600 G simulation. However, it should be noted that in both the perturbed cases and the unperturbed case for both
+the 1000 G and 1600G simulations, the synthetic profiles match the observed profiles excellently,
+even accounting for the asymmetries and zero-point shifts in the profiles. This can be seen upon
+visual inspection of the synthetic and observed profiles.

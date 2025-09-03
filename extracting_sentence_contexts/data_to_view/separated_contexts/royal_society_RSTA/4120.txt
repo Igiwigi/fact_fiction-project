@@ -1,0 +1,13 @@
+Panel (b) is a histogram of the action changes for t = 8 iterations along the ia
+manifold. The solid line is a Gaussian function, whose width is given by the classical action diffusion constant, equation (2.12). : =
+Adapted from fig. 3 of [16]. 8
+73
+gs
+
+If this overlap integral were amenable to a saddle point analysis, then the reversibility
+properties of the quantum and classical fidelity would have to be identical, because one could
+follow the orbits forward and backward in time using the saddle point approximation the
+entire way. In fact, the information about this issue is exactly contained in the criteria on y
+just mentioned. For example, if € is fixed, in the limit of h — 0, there comes a point where the
+typical or majority values of the {55;} become greater than the value of fi. The crossover occurs
+just where the relation above switches to y* <d/hxsty.

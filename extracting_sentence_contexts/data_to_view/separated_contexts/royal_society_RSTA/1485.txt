@@ -1,0 +1,11 @@
+Images were recorded with a CCD camera (ORCA R2,
+Hamamatsu). Advance of bitplanes in the SLM running order was again initiated by TTL signals
+from the camera, but in this case repeated through a microcontroller (Arduino Mega 2560) to
+improve the fast-switching TTL signal at high frame rates. One limitation of this system stems
+from the reduced triggering functionality of the camera and the fact that the camera controller
+continually emitted a heartbeat of HIGH to LOW TTL signals independently of image acquisition. This meant it was not possible to reset the running order of SLM bitplanes at the start of each
+image acquisition resulting in a variable ordering of raw images in each SIM image sequence. To
+accommodate this, each image sequence was reordered post-capture as a first step in the image
+reconstruction process.
+
+6.

@@ -1,0 +1,17 @@
+These conditions simplify to
+
+w(x) =(W * w)(x) =2E[u] for a.e. x € supp()
+
+(4.7)
+and W(x) =(W * u)(x) = 2E[u] forae.xe RN \ supp(12)
+
+if is absolutely continuous with respect to the Lebesgue measure. These Euler-Lagrange
+conditions can also be interpreted in terms of game theory [70-72]. In fact, they imply that the
+potential y achieves its global minima on the support of j, and therefore jz is also characterized as
+
+Joy ¥@4HO)= min, | HO) A040. RN veP2(R%) Jn
+In game theory, the probability measure ju is interpreted as the strategy chosen by the agent x, the
+potential is interpreted as encoding the interactions between the agents, and the minimization
+is thought about the optimal condition (the game) that the agents are looking for. Therefore, the
+Euler-Lagrange conditions are interpreted in game theory as the lack of interest of any player
+in the game to a change of strategy leading to the concept of Nash equilibria.

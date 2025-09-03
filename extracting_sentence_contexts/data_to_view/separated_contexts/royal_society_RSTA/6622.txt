@@ -1,0 +1,10 @@
+A property of complementary modules is relevant at this point:
+
+(3.6) Provided m belongs to H,m** is the intersection of all modules 1 which contain mt
+and possess an n-term §-basis. Any such n contains m**, because n** = n. The fact that N n<m** is seen by remarking
+that m* (which also belongs to H) is the union of modules of the form §.. (w), with w linearly
+independent over K. .
+
+(3.7) For any m,ne H, N(m;n) = N(m;n**). Ifm =m**, M(im;n) = N(n*;m*). The first assertion follows from (3.6); the second from the first and (3:3). ’
+
+Local theory.

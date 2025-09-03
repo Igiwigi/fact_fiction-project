@@ -1,0 +1,35 @@
+Since t is large, the integral is dominated by small A,,,, hence : s
+small values of k,, and ju. It can be shown that for small jz, and hence small k,,, the quantity [4
+cosh(k,, log(r/a)) cosh(k,, log(ro/a)) 4
+
+a :2
+C2(ky,,4,b) (6.18) : ES
+
+does not depend on k,,, due to the constraint equation (5.2a). In fact, for small k,,,
+
+cosh loutrio) — as ky +0. (5.19)
+
+1 © -(2t)/(b?02)) log(b/a)(u2 +16 1) ind
+B mal (2D Pe?) log (6/0 u? +4B 1) giN® yy, (6.20)
+ae _ —00
+
+Hence
+
+P(r,0,t) ~
+
+This gives the winding angle distribution
+
+TPS ay? gin@-A8) g, — 2 _@-ABY
+W(6,t) = in e e du= Via exp TA , (5.21)
+where
+2t b
+A(t) = Row log (2) . (5.22)
+
+Thus, the asymptotic winding law for @(f) as f > oo is given by
+
+O(t)- AWB a
+a —>+N(,1), (5.23)
+
+where N(0,1) denotes the standard Gaussian distribution. We compare this with numerical
+simulations in figure 4. In this case, there is a drift of the angle at a linear rate A(t), since the
+confinement of the particle causes it to be strongly affected by the point vortex.

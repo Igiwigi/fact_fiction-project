@@ -1,0 +1,23 @@
+In these ‘Yang—Baxter’ integrable systems, conserved quantities
+
+1One should be careful about adiabaticity: there are resonances across large spatial distances at any non-zero interaction
+strength, which could lead to conservation laws that are not equivalent to those of the Anderson-localized orbitals.
+
+
+are translation-invariant sums of local or quasi-local operators, where quasi-local means with
+exponentially decaying support. For example, on a lattice a conserved quantity looks like
+
+Q=>°Q;, (1.3)
+
+where the Q; are local or quasi-local combinations of operators, and the effect of changing i is
+simply a translation. Free particle systems without disorder are examples of integrable systems of this type, but a
+remarkable fact with deep implications across mathematical physics is that certain interactions
+can be added in one spatial dimension without destroying the infinite list of independent
+conserved quantities. Many physically important Hamiltonians are in this class: for example,
+spinless bosons interacting with a 6-function interaction, or a spin-half chain with nearest-
+neighbour Heisenberg interactions. As in the many-body-localized case, the focus here will be on =
+how the existence of an infinite number of conserved quantities modifies important dynamical 3
+phenomena in the system. : al
+
+For the same reasons as before, we would expect the long-time state of the system to be a GGE mea)
+rather than the normal Gibbs ensemble.

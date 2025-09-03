@@ -1,0 +1,17 @@
+We observe that links with large membership to the holiday component connect smaller Danish
+islands (which are typical holiday destinations, see also electronic supplementary material, figure
+$5). Furthermore, such links have in general longer distance compared to links that are member
+of the weekend and workday components. In fact, the average geographical distance, weighted by
+membership, between connected pairs of municipalities in the three networks is 80.1 km + 67 for
+the holiday component, 59 km + 55 for the weekend component and 56.1 km + 54 for the workday
+component.
+
+(b) Consistency across datasets
+
+Having argued that mobility patterns between Danish municipalities can be decomposed using
+NMEF into three interpretable components, it is natural to wonder if similar results apply to
+other datasets describing mobility within and across cities. In this section, we use Facebook
+data released by the Data-for-Good initiative [13] to study travel patterns in three European
+countries: France, Italy and Spain throughout 2020 (see Material and methods). We selected
+these three countries among those covered by the Facebook data, because they included periods
+preceding the first epidemic wave.

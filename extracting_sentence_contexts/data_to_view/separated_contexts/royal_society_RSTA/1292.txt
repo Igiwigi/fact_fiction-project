@@ -1,0 +1,17 @@
+Nonetheless, Shull’s works did not : a
+suggest using those formulae to reduce solutions of contact problems from one case to the other. : =
+
+Recently, a further improvement to the JKR theory was suggested in the works by Popov and : =
+his collaborators [24,25]. Similar to Borodich [1], it was shown that the derivative of the total 1B
+energy of an adhesive contact produces two terms that vanish and a product of some expression : =
+that is a JKR-type solution and a derivative of the contact radius with respect to the indentation 8
+force; and similarly to Shull’s work [22], yet using a different mathematical justification, they : o
+were able to develop formulae that allowed explicit transformation from the solutions to largely : 3
+arbitrary axisymmetric non-adhesive contact problems to the JKR-type solutions of the adhesive : s
+problems. In fact, those formulae made a number of semi-analytical models of adhesive contact : S
+redundant, for instance, Finite-Element Method (FEM)-based approaches [26-28] developed to 1s
+
+describe adhesive contact between a rigid indenter and an elastic layer of finite thickness by
+means of introducing correction factors into the classical JKR relations for elastic half-spaces. The above mentioned approach [24,25] contains a priori assumptions, such as constant contact
+stiffness during the virtual ‘unloading’ stage. Those assumption are required to reach the true
+configuration of the system in the JKR approach.

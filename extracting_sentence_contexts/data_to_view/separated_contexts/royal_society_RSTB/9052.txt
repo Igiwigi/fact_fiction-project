@@ -1,0 +1,9 @@
+In its simplest form, this approach assesses concordance of a phe-
+notype in pairs of identical twins (who have almost identical genomes) and compares it to the concordance seen for pairs of
+non-identical twins (who share around 50% of their genetic variations, just like non-twin siblings). Elevated concordance in
+the identical twins provides evidence of genetic involvement. In fact, twin designs typically go further by directly incorpor-
+ating quantitative trait data and using the twin-twin correlation structure to partition the phenotypic variation into that due
+to additive genetic factors, common environment (shared by twins) and unique environment (unshared by twins). The pro-
+portion of phenotypic variance that is accounted for by genetics gives a formal estimate of heritability. Statistical tools have
+become more sophisticated over the years, and it is now routine to apply structural equation modelling and maximum-
+likelihood methods to large twin datasets, asking questions that extend far beyond heritability estimation.

@@ -1,0 +1,10 @@
+To the extent that an animal’s genera- The generative models shown in figure 3 afford the homeo- — __
+tive model is adequate to steer adaptive behaviour, the way static (figure 3a, ‘homeostat’) and allostatic (figure 3c, =
+it ‘carves nature’ is not important. ‘allostat’) regulation of a single interoceptive variable, which = 5
+As noted above, effective generative models also diverge we call here ‘body temperature’ for illustrative purposes; see =
+systematically from environmental statistics. Most notably, [20] for a fully specified example. The (observable) variable y =
+some priors p(x)—such as the fact that body temperature fluc- denotes the thermoreceptor activation and the (hidden) vari- =
+tuates around 37°—can be considered prescriptive goals that able x denotes body temperature. The model infers the =
+characterize the organism in terms of its prior preferences posterior belief over x by combining the prior belief over x = 4
+(‘how the world should be’), rather than statements about the and the interoceptive sensation y. The prior belief plays the s
+environment.

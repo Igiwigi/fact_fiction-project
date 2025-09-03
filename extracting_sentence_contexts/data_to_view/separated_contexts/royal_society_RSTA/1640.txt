@@ -1,0 +1,10 @@
+To
+isolate the perturbed profiles from the unperturbed profiles, we found the time steps and locations
+that the upwardly propagating wave from the original simulations passed through the height of
+formation of the 6301 A and 6302 A line pair. We took this as an optical depth of log, t = —0.5 to
+—1.5, as studies suggest that this is roughly the region where the line forms [70]. We took a range
+of optical depths to account for the fact that the optical depth is likely to vary in different regions
+of the tube and in the presence of the wave. Taking a range of optical depths ensures that we catch
+the propagation of the wave as it passes through that region of the atmosphere. Then we applied
+similar methods to profiles that were deemed as perturbed by the passage of the wave and those
+that were deemed unperturbed.

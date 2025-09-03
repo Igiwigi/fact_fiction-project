@@ -1,0 +1,55 @@
+Hence we have the
+theorem :—
+
+At an end point of (0, 7) the limits of indeterminacy of all canonical Sturm-
+Liouville series corresponding to an assigned function, save those whose normal
+functions satisfy the boundary condition u = 0 there, depend only wpon the values
+assumed by the function in an arbitrarily small neighbourhood to the right, or left, of
+the point, as the case may be. Again, from theorem IV, it appears that, if one of the Fourier’s series, say the
+cosine series, corresponding to f(s) converges uniformly in an interval (y, 8) contained
+within (0, 7), then all canonical Sturm-Liouville series corresponding to f(s) converge
+uniformly in (y, 8). It was shown in § 13 that
+
+sin 3 (2n—1
+(3) at [LAG—t) + Alor] Ae = Mt aes
+converges uniformly to zero for values of s in (y, 8), as n increases indefinitely, Since
+both the integrals
+
+% sin $(2n—1)¢
++ : i
+‘A (st) sin 4 -
+
+converge uniformly to zero, for these values of s,f and since
+
+lim 2 SR RCR=Ne a = 14 Te eer
+
+nao TJ sin dt
+* This is clearly - a 1 Tan 1 (3).
+
++ In virtue of Se kent corollary of II, § 9.
+} This result follows from the fact that
+
+"sin 3 (2n~1)¢ * o"s' aidies
+
+Lf on if dt = £0423, cos rf]
+
+and that
+
+1 ‘ sin 4(2n—1)¢
+t
+
+lim — >
+n>oT Jy sin $
+
+dt = 0,
+by the last corollary of IL., § 6.
+
+
+184 DR. J. MERCER: STURM-LIOUVILLE SERIES OF NORMAL
+
+it is thus clear that the canonical Sturm-Liouville series will all converge uniformly
+to f(s) in (y, ), when
+
+[LA G94 fF (o+)-27 (EERE ae
+
+converges uniformly to zero in this interval.

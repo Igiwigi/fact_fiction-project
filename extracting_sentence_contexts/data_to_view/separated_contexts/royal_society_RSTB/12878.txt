@@ -1,0 +1,59 @@
+In
+addition to that, decision problems were usually presented
+only once and, in case multiple decision problems were
+used, the final outcome (i.e. the realization of the lottery)
+was usually not displayed on a trial-by-trial basis (figure 2b). However, relatively few situations in real life match the
+characteristics of the pure description-based paradigms, namely
+complete and explicit information about outcome values and
+probabilities. In fact, in many circumstances, it seems rather
+prudent to assume that information about outcome values
+and probabilities are shaped by past encounters of the same
+decision problem. Experimentally, this configuration is often
+translated into multi-armed bandit problems (starting with
+Thompson [59], but see [60] for a review), where the decision-
+maker faces abstract cues of unknown value and has to figure
+by trial-and-error the value of the options. Computationally,
+behaviour in multi-armed bandit problems is generally well-
+captured by associative or reinforcement learning processes
+
+
+(a) description experience
+Ss Ss
+R R
+2 2
+3 3
+8 8
+[= [=
+g g
+aa aa
+2 2
+= =
+° °
+2 2
+3 3
+DB DB
+objective probability: p objective probability: p
+
+(b)
+
+Ss
+
+fs
+
+3
+
+2
+
+2
+
+°
+
+3
+
+roy
+
+3
+
+outcome values: x prediction error: R-Q
+
+Figure 3. (a) Illustration of the nonlinear transformation of probabilities in description (left panel) and experience (right panel).

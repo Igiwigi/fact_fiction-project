@@ -1,0 +1,13 @@
+Now, if the periodic phenomena in the deterministic system would
+never deviate from their periodic pattern, they would not leave a trace elsewhere, and therefore
+play no significant role; this would imply that the quantum particles associated to them would
+not interact. Interacting particles are associated to not-exactly-periodic features of the automaton.
+2In the case of finite N, the £ operator, derived from equation (2.7), connects the lowest energy state |0)z to the highest energy
+state |N — 1); one would be tempted to ignore this term in the limit N oo, but then unitarity will be violated. The fact that
+there is a small subset of states, called ‘edge states’, for which the one-to-one mapping linking quantum mechanics to classical
+
+mechanics fails, may be an important feature to keep in mind; it happens in other examples as well; see our remarks about
+“edge states’ later. Operators such as ¢(t) have the property that they commute at all times. Indeed, in the case
+of the harmonic oscillator, our treatment leads to a basis transformation that allows us, starting
+from a system with non-commuting operators x and p (the harmonic oscillator), to re-describe it
+in terms of only commuting ones, |y(t)).

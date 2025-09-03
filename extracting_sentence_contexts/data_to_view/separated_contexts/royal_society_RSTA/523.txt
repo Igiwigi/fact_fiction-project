@@ -1,0 +1,15 @@
+Determining alignment has a number
+of subtleties stemming from the fact that execution may proceed differently on different
+devices, and that any given function may be called multiple times. As a consequence, two
+neighbouring devices may each evaluate a single nbr statement in the code many times,
+with some of these evaluations aligning and sharing information, while others do not
+align and remain isolated. Alignment is thus the local implementation of the aggregate
+notion of a field’s domain, and the key to ensuring a provable relationship between
+
+“In fact, it is sufficient to track only the values supplied to nbr operations and the context of those operations.
+
+
+aggregate specification and local implementation. The minimal syntax of field calculus
+has allowed its semantics, including alignment, to be proven correct and consistent [19].
+— Self-stabilization. What kind of behavioural properties can we analyse given an arbitrary
+field calculus program?

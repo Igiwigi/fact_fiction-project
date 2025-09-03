@@ -1,0 +1,22 @@
+In the former approach, as The importance of a node in a network can be measured
+is the case of computers, the brain is a collection of hetero- in various ways using centrality metrics [6]. Centrality may
+geneous parts where function can be traced back to the refer to a leading node of a brain region or to the main connector
+computations carried out at well-defined locations and to between different regions [12], and can be quantified in terms
+the transport of their output from one location to another. of local properties, e.g. the number (or weight) of connec-
+At the system-level of investigation of standard non-invasive tions, or global properties, e.g. the number of shortest paths
+neuroimaging techniques, modelling typically involves a connecting any pair of nodes crossing a given node. Corre-
+small number of units. spondingly, various centrality measures, e.g. node degree,
+The huge numbers of neurons (approx. 10'') and synapses betweenness [14] or eigenvector centrality [15], have been
+(approx. 10'5) [8] suggest that the brain is better modelled as a proposed, each quantifying different ways in which some
+complex system [9], capable of generating a vast repertoire of nodes of a network can be thought of as central.
+macroscopic patterns of collective behaviour with distinctive Complex network theory allows going one step further and
+temporal, spatial or functional structures. investigating general organizing principles at all scales, reflect-
+While modelling macroscopic behaviour in terms of only ing the fact relevant aspects of functional brain activity, such as
+a few degrees of freedom as in the former approach probably information storing, may be either local, or non-locally spread
+represents a drastic reduction, the sheer number of interacting across widely separated units.
+parts makes it unfeasible to study the brain’s macroscopic Ata global level, neither random nor regular lattices seem
+functional properties by explicitly modelling each of its to constitute an adequate description of functional brain net-
+degrees of freedom. Statistical mechanics provides a frame- works. Instead, it has been shown that these networks have
+work for describing how these macroscopic patterns may small-world (SW) structure, indicating that any two vertices
+result from the interactions of a multitude of microscopic in the network can be connected through just a few links
+individual entities [10].

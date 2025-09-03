@@ -1,0 +1,13 @@
+For multi-class problems, we replace
+thresholding with argmax to determine the output class (D, figure 1). In this case, the class
+summation becomes indicative of confidence and argmax chooses the class with the highest
+confidence, thus avoiding any ambiguity in classification.
+
+(b) Reinforcement
+
+Fundamental to reinforcement are the team of Tsetlin automata (C, figure 1). Such automata are
+also known as automata with linear tactics to emphasize the fact that they allowed gradual ascent,
+or reinforcement, in performing a particular action, and equally gradual descent from one action
+to performing another action. A variety of types of such learning automata have been studied
+in [21]. In the Tsetlin machine implementation, a two-action Tsetlin automaton is described by the
+state diagram in figure 2.

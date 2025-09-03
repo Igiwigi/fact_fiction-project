@@ -1,0 +1,18 @@
+Generally, in tree
+extra information such as the range of possible rewards and traversal, estimated values can be substituted so as to treat a
+probabilities. In principle, one would like to exploit this infor- branch like a leaf. Finally, in just the same way, MB methods
+
+mation to target future computation more precisely, as a form using local backups, sample roll-outs or transitions can be
+
+
+applied locally to improve the existing estimates at any given in turn, each column of M can be learned via either of the | 5 |
+
+state x. sampling methods in §2 (trajectory or transition based, or
+
+Such a combination of MF estimates with MB refinement in general, TD(A)), where visits to state y are counted in a
+is motivated by the fact that estimating 7 from MF experience place of rewards. In general, TD learning of M requires s
+is so closely related to some of the methods we discussed for updating an entire row of the matrix following the transition a
+computing % from a model. That both involve accumulating from some state x to y, according to the observed transition © 2
+samples, though from different sources, makes it seem natur- (1 for y, 0 elsewhere) plus a vector-valued backup of the dis- 3
+al more freely to intermix both sorts of samples, experiential counted occupancies over all other states expected following S
+and model-generated, in updating the same vector.

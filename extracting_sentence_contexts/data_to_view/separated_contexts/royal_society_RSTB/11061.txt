@@ -1,0 +1,27 @@
+As shown in figure 3c, read-out from the initial stems from the emergence of more robust representations of
+network under this extremely limited feedback regimen still numerical information (i.e. invariant to physical appearance)
+succeeded, especially for the easier ratios. This finding corro- following unsupervised learning on visual sets.
+
+borates the hypothesis that even randomly connected deep
+
+networks endowed with simple visuospatial processing
+
+mechanisms can support numerosity comparison. (c) Emergence of number coding
+
+We replicated the regression analysis performed by
+Stoianov & Zorzi [24] to investigate whether there were
+neurons at the second hidden layer of the network (see
+
+(b) Influence of continuous visual cues on numerosity
+
+perception figure 2a) specifically tuned to numerosity information,
+The remarkable performance of the model, especially before rather than to cumulative area (see appendix A). In particu-
+visual experience, raises the recurring question of whether lar, the response profile of numerosity-sensitive neurons
+numerosity comparison might in fact be carried out using (‘numerosity detectors’ in [24]) should be invariant to cumu-
+low-level continuous visual properties as a proxy for discrete lative surface area: this is indexed by a large absolute value
+numerosity [73-77]. Indeed, even if test stimuli are carefully for the numerosity regression coefficient and a small value
+designed to control for continuous variables, simultaneously for the cumulative area coefficient. As shown in figure 5a,
+controlling all of them is not possible [78]. numerosity-sensitive neurons were found even in the initial
+
+To assess the influence of continuous visual cues in the network (n= 23), although their number significantly
+model, we created a set of image pairs in which cumulative increased following learning (n = 62).

@@ -1,0 +1,12 @@
+In order to detect the valve state (open or close), we
+start the motor in one direction and measure the change in the magnetic encoder until the
+movement stops due to resistance of the camshaft on the housing of the valve. To close the
+valve, the direction of the motor is reversed and the magnetic encoder is used in the same way
+to detect when the tube is compressed to the point of stopping the movement of the motor. One problem that can arise is the fact that the tubing can be damaged over time by repeatedly
+compressing it this way. One way to avoid this problem is by using a motor with less torque
+(a lower gear reduction ratio value) or to replace the magnetic encoder with a potentiometer
+which could be used to detect the position of the valve more accurately and stop the movement
+before the compression of the tubing gets too high. Since the instrument operates using two valves
+for the air and sample intake, both motors are coupled together but in opposite behaviour so that
+one is always in the closed position when the other is in the open position which reduces the
+possibility of having both valves open or closed at the same time.

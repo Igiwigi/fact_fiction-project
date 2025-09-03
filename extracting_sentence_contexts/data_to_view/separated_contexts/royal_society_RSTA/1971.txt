@@ -1,0 +1,9 @@
+Nevertheless, in a previous work the macroscopic
+velocity gradients approach has been used for its stability in a wide number of conditions [60]. In this application, special treatment has to be used at interface where there is no possibility to
+correctly evaluate the velocity gradient. In fact, at every interface node there is at least one gas
+neighbour (not resolved as stated in §2c), thus, in this condition, velocity at neighbour gas node is
+assumed to be equal to the value at donor interface cell—assuming a zero gradient approximation. GAS (light)
+
+F F F F F F F F F
+
+Figure 1. Passage from continuum description to discretized one.

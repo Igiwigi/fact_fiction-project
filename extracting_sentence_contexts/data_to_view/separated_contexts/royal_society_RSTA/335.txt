@@ -1,0 +1,10 @@
+The differences between the conditions k are thus modelled by the diagonal matrices Dx. PARAFAC is a major improvement to classical Gaussian factor analysis or PCA in the sense that
+it can actually uniquely estimate the components even for Gaussian data. However, there is an
+important restriction here, which is that the D, must be linearly independent, which intuitively
+
+
+means that data matrices must be sufficiently different with respect to the scalings for different k. | 10 |
+In fact, if all Dy were equal, the model would reduce an ordinary linear mixing like in (2.2). A combination of ICA with PARAFAC for estimation of (5.4) was proposed by Beckmann & a
+Smith [33], by basically assuming that the S in the PARAFAC model in (5.4) is non-Gaussian, like : s
+in ICA. This has the potential of improving estimation from what would be obtained by either ICA is
+or PARAFAC alone.

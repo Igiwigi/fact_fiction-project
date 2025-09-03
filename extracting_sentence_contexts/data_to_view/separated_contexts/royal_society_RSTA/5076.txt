@@ -1,0 +1,7 @@
+The only exception might be data-driven or resampling approaches that reuse parts of earlier
+thrust time series. These are not considered here since they do not increase our understanding of
+rotor loads. In fact, ideally we would like to obtain a model with only a few parameters that can be used to
+generate realistic rotor load signals. The main use of such a model would be as a starting point for
+a probabilistic analysis. One of the main challenges for structural optimization of wind turbine
+support structures is the sheer amount of time-domain simulations needed for a comprehensive
+assessment, which borders on the region of a few thousands [2,5].

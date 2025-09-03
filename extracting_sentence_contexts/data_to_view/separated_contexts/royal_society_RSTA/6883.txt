@@ -1,0 +1,25 @@
+The relevant interpolation formulae are, again, the Gregory-Newton equation and its
+derivative. With reference to figure 15, interpolation for the known value at B gives the
+
+uason Wy = Wy +xAh+C,Ag+..., (B. 9)
+
+* The boundary conditions in problems of stretching of plates occur naturally in this form. OF ELLIPTIC DIFFERENTIAL EQUATIONS 365
+and the known derivative at B gives
+hwy = A}+C,A3+.... (B. 10)
+Expressing differences up to a certain order in terms of pivotal values, (B. 9) and (B. 10)
+provide two equations from which the fictitious points 0 and 1 can be obtained in terms of
+other pivotal values. Retaining fourth differences, for example, (B.9) and (B.10) can be
+expressed in the forms
+wy(1—C,+C,—C,+C,) +w,(C, —2C,+3C,—4C,)
+= Wp —W>(C,—3C, + 6C,) —ws(Cy—4C,) —wyC,+A,, (B11)
+
+Wo( —Cj + C3,—C3 + Cy) +, (Ci —2C, + 3C3— 43)
+a = hw), —w,(Ci—3C, + 6Cj) —w,(Ch—4C)) —w,Ci+A,, (B. 12)
+
+® where A, and A, are known functions of fifth and higher differences.
+
+= Figure 15
+
+= Fox & Southwell did not use these formulae numerically, but estimated the effects of
+g differences of the second and higher orders by a graphical method. This process, however,
+s fails to specify the order of accuracy attained, and is generally unsatisfactory.

@@ -1,0 +1,13 @@
+Regarding this theorem, the blowup of the infimum of the stretching rate y is
+always accompanied by a collapse of the out-of-plane vorticity @ to zero, thus providing an
+example of theorem 2.10 on the conservation of zeroes of the symmetry 9 defined in (4.3). By
+contrast, the blowup of the supremum of the stretching rate y is not always accompanied by a
+blowup of @, as the case 0 < 4 shows.
+
+(f) Remarks on the spatial structure of the blowup
+
+The blowup of the infimum of the stretching rate y is stronger than the blowup of its supremum. In fact, for the exact three-dimensional Euler solution case 4=0, the supremum blowup is
+marginal: the denominator is going to infinity logarithmically, making this blowup milder than
+the infimum blowup. In the case 0 < 4, the exponent in the supremum blowup is always smaller
+than in the infimum blowup. In the case —1/2 < 4 < 0, the exponent is the same for both infimum
+and supremum, but the prefactor is always larger for the infimum blowup.

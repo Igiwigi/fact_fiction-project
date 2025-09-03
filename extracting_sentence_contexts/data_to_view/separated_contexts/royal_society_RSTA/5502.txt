@@ -1,0 +1,10 @@
+Usually, segmentation is performed after beat detection which :8
+is dependent on the quality of the ECG signal [36]. In the current work, we did not focus on the : =
+selection of the most robust segmentation algorithm for the clinical 12-lead ECG. However, given :8
+the fact that this type of ECG can be quickly acquired at low cost, physicians usually recollect : re
+the measurements in case of low quality. We therefore assumed that the ECG within the dataset 1
+
+DN
+was of sufficient quality (but we leave this investigation for the future). On the other hand, when (Ss
+the ECG signal is acquired in different contexts, e.g. sport activities and Holter acquisitions, the :s
+quality could be lower.

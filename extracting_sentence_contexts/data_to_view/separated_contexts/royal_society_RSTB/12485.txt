@@ -1,0 +1,12 @@
+The challenge: construct the probability distribution of future populations (represented by frequency distributions), given the current population distri-
+bution and patterns of fitness and transmission. (Online version in colour.)
+
+Here, n is the number of individuals and f is a transform vari- yield a set of terms, each of which corresponds to a different
+able. The bar indicates frequency mean. Thus, for a group of possible distribution of phenotypes, multiplied by the
+three individuals, one with phenotype ¢=1.5 and two probability of that particular distribution arising (figure 8).
+with phenotype ¢=4, equation (5.1) would be: (3-((1/ The reason for adding all of these layers is that we now
+3)e!F 4 (2/3)e")). have a compact way to write the distribution of distributions
+The fact that all populations are finite, and the stipulation that we can follow from one generation to the next. We will
+that the phenotype, ¢, is finite, ensure that all moments exist; see below that this is easier than one might expect.
+meaning that the moment generating function in equation (Equation (5.2) is analogous to a Fourier transform of a
+(5.1) is a compact way to capture the population distribution. Laplace transform.

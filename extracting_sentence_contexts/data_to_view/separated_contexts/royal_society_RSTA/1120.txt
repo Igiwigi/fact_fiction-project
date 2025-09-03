@@ -1,0 +1,23 @@
+Partial regularity
+
+Finally, we discuss ‘partial regularity results’, which limit the size of the set of possible
+singularities of weak solutions (or a subclass of weak solutions).
+
+(a) The set of singular times
+
+Scheffer [15] showed, using a result of Leray (!), that the set T of singular times has Hausdorff 78
+dimension no larger than 1/2, dimj;(T) < 1/2. We give the proof from [32] of a similar result for :3
+the box-counting dimension here, since it is very simple but nevertheless provides a model of :&
+the proof of a much more powerful result about space-time singularities that we discuss shortly. It combines the fact that near any ‘singular time’ T the solution must blow up at the particular
+rate in (5.4) with the bound So |Vu(s)||? < 00, valid for any weak solution. The finiteness of the
+integral means that there cannot be too many times T near which the lower bound holds. There are number of equivalent definitions of the (upper) box-counting dimension (see [33]),
+but the most convenient to use here is
+
+dim (A) = lim sup log N(A,#)
+20 —loge
+
+,
+
+where N(A, ) denotes the maximal number of ¢-separated points in A [so N(A,£) ~ ¢~ dimp(A)],
+Let T be the set of singular times, and suppose that dimg(7) =d > 1/2; then taking 6 with
+1/2 <4 <d there is a sequence e; > 0 such that Nj := N(A, ¢)) > 6.

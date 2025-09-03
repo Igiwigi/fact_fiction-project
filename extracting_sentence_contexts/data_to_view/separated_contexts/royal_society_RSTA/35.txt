@@ -1,0 +1,9 @@
+Equation (2.5) will still calculate the appropriate interactions
+between partial dislocation lines and between the partial dislocations and the externally applied
+stress. Conversely, for partial dislocations, equation (2.6) no longer applies. In fact, to accurately
+model the stacking fault region bounded by leading and trailing partial dislocations, a better
+approximation of the material y-surface must be included. To this end, we replace E°°"* above,
+with the generalized stacking fault energy (GSFE), E8*°. Similar to E°°"*, E8*f also accounts for
+
+
+the energy required to move the dislocation core through the crystal lattice [9-12].

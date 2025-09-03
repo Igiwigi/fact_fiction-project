@@ -1,0 +1,30 @@
+The integrations required in an energy treatment (§§40—45) are replaced, corre-
+spondingly, by summations in accordance with approximate formulas. It was remarked
+in Part VIIC (§9) that ‘Simpson’s rule’ will often give results as good, or better, than
+those deduced by more elaborate treatment: here we observe that when the integrand
+has both zero value and zero gradient at either end of its range, still better results may
+come from simple summation.
+
+48. Let 0, 1, 2, ...,2N—1, 2N be points of subdivision in the range AB, figure 14,
+and suppose the integrand y, of which both the value and the slope is zero at A and B, to be
+extrapolated ‘by reflexion’ to fictitious points C and D, just outside the range. Then
+by hypothesis
+
+Ys =Ye=9; Yo=M> Yo = Yon-1» (i)
+
+so of the two areas shaded, by Simpson’s rule,
+
+1 1
+of ydx = 3 ydx = h(yo+4y4+y,) = 2hy,
+A c
+
+B ee
+and | ydx (similarly) = 2hy.y_,, (ut)
+2N-1
+
+where 2NA = total range AB.
+
+70-2
+
+
+574 J. R.

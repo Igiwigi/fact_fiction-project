@@ -1,0 +1,9 @@
+The stress drops associated with an event can be seen to vanish in the
+arrested scenario. Furthermore, not only is the original event stopped but subsequent events disappear, thus implying causality.
+(Online version in colour.)
+
+stress drop at roughly the 100K time mark and two distinct dips. The first dip is a single plastic
+event and is our target for arrest while the second dip is in fact two events occurring in rapid
+succession. We note here that plastic events occur on a small but finite time duration of about
+5000 time steps. The solid line (black) line represents a simulation re-started from a checkpoint prior to the
+target event and a successful arrest of said event (no stress drop).

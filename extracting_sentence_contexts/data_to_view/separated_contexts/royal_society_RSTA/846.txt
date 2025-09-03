@@ -1,0 +1,19 @@
+Such substitution is correct because the function h(r — r’) depends not on the form
+of the solution but on the shape of the interface ¢;. The kernel (8.6) has the constant a(r’), which is obtained by integration of the delta function
+along the phase interface,
+
+ar’) = I. alr — Gin))d@, (6.11)
+
+where r’ = ¢;(r) is the equation of the complete interface and 2 is the liquid region enclosed by
+the boundary ¢;, i.e. the region enclosed by the solid/liquid interface ¢s,, and three infinite lines
+defined by x + +00, x > —oo and z — oo (figure 4). For instance, if the interface is a circle with
+radius Rg, then 1’ = Rg is the polar coordinate (scalar) that gives
+
+2 ove}
+a(r’) = I, d¢ I, 8(r — Ro)rdr = 27Ro. (8.12)
+
+
+The constant «(r’) appears due to the fact that the argument of the delta function has a null value
+not in one point (for which the constant a(r’) = 1) but on some manifold. In our case, this manifold
+is represented by the one-dimensional curve (given by the interface) as well as at infinite points. In obtaining equation (8.4), we have used the transition of the integral with infinite limits for
+the entire domain ¢; to the integral on the interface ¢s,,.

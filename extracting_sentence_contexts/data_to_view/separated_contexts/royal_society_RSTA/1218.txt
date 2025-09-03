@@ -1,0 +1,11 @@
+It does :8
+not require knowing the resolvents (A — An)‘ ina manageable form, and the latter is often not 1
+available (think, for example, of Ays as being proven to be generators by an intricate perturbation
+argument). This advantage cannot be overestimated (for a wide spectrum of applications, see e.g.
+[4,10,15]). In fact, in the light of this version, the approach via resolvents turns out to be not so
+natural, and indeed much less useful than we have become accustomed to think. In particular, the
+approach via resolvents hides a number of curious phenomena visible only when looked upon
+from the perspective of the extended limit. For instance, see [10] Section 3.4, even though all the
+operators A, of (2.5) are defined on the common domain D(D), the domain of their extended limit,
+i.e. the domain of the generator of the minimal semigroup of Kato’s Theorem, may be larger than
+D(D) or even larger than the domain of the closure of D + O.

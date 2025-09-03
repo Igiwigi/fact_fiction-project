@@ -1,0 +1,49 @@
+The critical point
+
+Figure 2 shows that depending on (v,€), or equivalently (i, €), the branch of the dispersion curve
+extending upwards from ({29,0) may tilt backwards up to a critical point marked with a cross,
+where d.2/dK =0, beyond which it slopes forward. This point will be denoted (2c, Kc), where 2
+is the critical frequency and K, is the critical wavenumber. To determine their values, we use the
+fact that Ke is a root of d(2?)/d(K?) =0, regarded as an equation in K*, and from (2.15) we have
+
+p2 3
+
+| _ ve
+(1—K?)?3 6/12
+=4
+
+2
+4 2), 2 v
++ €4{Ajjo(K*) qo Anlk y+ iM
+
+d(2?2)_ 2
+d(K2) 12
+
+{-1 + 2K2
+
+Agy(K?)} +... (3.1)
+
+Here, primes denote derivatives with respect to K*. This gives an expansion in powers of € of the
+form
+KE = Ki(D,€) = Keg) + (KE) @) + (KE) 2(0) + ---, (3.2)
+
+where Ky and (K2)2 are even functions of i, and (K2)1 is odd. A feature of (3.2) (and most series
+we use) is that it contains odd as well as even powers of €; this is a consequence of Poisson scaling,
+in which 7 instead of v is used as a parameter, and terms are ordered with ) regarded as order
+one.
+
+
+(a) Calculation of the critical wavenumber
+
+On substituting the series form of K? into (3.1), and equating coefficients of successive powers of
+€ to zero, we obtain
+
+(1 — K2,)°(1 — 2K%) = 5? (3.3)
+and >
+i /1-K
+
+K2), = 2 (3), 3.4
+
+(Ke) Vin \2— 3K, (3.4)
+
+and a somewhat longer expression for (K2)2.

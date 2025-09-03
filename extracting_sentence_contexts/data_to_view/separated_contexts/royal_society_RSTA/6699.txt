@@ -1,0 +1,24 @@
+The corresponding stress resultants are (2h denoting the thickness:
+cf. footnote to § 1) ” i
+T,=2h.X,, T,=2h.Y,, = 2h.X,, (8)
+
+y Si
+
+and they contribute an effective transverse loading
+
+0 5 dw\  O/, dw
+az 3) +5 A T, 54) + jl dy) tay (Se ax) (9)
+to the right-hand side of (1). Having regard to (4) and (5), we deduce that (1) must
+
+be replaced by
+
+Vi = Z PXAw , PY A? w 2 oy * |
+
+2h dy? dx? * dx? dy? ~ dxdy Ax dy]? om)
+
+which—in conjunction with the boundary conditions imposed on w—would serve to
+determine w if y were known.
+
+4. In fact neither y nor w is known initially, so both must be deduced from (6)
+and (10) combined with the imposed boundary conditions. These are von Karman’s
+equations (§ 2). When the boundary values of u and v are specified, introduction of y is less convenient.

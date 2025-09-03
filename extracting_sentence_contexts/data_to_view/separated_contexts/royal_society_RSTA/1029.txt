@@ -1,0 +1,6 @@
+Moreover, the tensor map 6[Z] may not be geometrically compatible, i.e. there could
+not exist any differentiable vector field gg such that Grad gg = @[Z]. In this case, there does not
+exist a deformation that maps the reference configuration of the residually stressed material
+into a relaxed one. In fact, assuming that the reference configuration is simply connected, such
+a deformation exists if and only if
+rot 6[Z] =0. In the following, we call G[Z] the relaxing map. Remark 5.5.

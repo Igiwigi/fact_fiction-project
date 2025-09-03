@@ -1,0 +1,40 @@
+This is rare in our
+set-up in practice, but more generally many consistent ways to aggregate the sets of tactics associated to a problem would
+still yield a valid partial order.
+
+
+> [OME} 1 xx=-3 ——
+> [OAE]x40=2 (ee WICLT]a = (x4 10) 4 o> [TSE] 1 xx+0=5
+EE A A
+Be ++ [SEE] a= 10-4 ss
+
++> (OAE] x43=1 =
+
+et 13
+16
+
+T T T T :
+0 2000 4000 6000 8000 10000 12000 14000 16000 :2
+
+. curriculum order =
+section za)
+
+substitution and evaluating expressions I one-step addition and subtraction equations 13
+Combining Like Terms @ one-step multiplication and division equations :S
+@ two-step equations 1S
+
+Figure 8. Sample-induced curriculum from agent's learned abstractions. 1S
+
+account which concepts are most easily taught together, a preference that our model does not =
+have. a
+
+(a) Result: the synergy between tactic induction and curricula 1S
+
+We now evaluate whether this induced curriculum would help a second agent learn faster. [3
+Intuitively, when solving problems in a random order, the first agent takes many samples to :3
+accumulate evidence that a certain abstraction is useful, and time is wasted attempting problems
+that are either too hard (require abstractions several levels above its current tactics) or too easy
+(e.g. solved within a single step given its current tactics). Thus, the fact that the learner is
+performing tactic induction provides a strong reason why a curriculum might be helpful. To train a second agent using a curriculum, we first sample one of the valid topological orders
+on all problems solved by the first agent. Then, we split the resulting sequence of problems into
+three blocks.

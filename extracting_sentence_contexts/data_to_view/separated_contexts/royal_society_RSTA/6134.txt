@@ -1,0 +1,11 @@
+Moreover, property (iii) is also
+approached by our model because 6 > 0 can be fixed to an arbitrarily small value (however it
+is not possible to make exactly 5 = 0). An expository interpretation of our result may be that making the Signorini contact condition
+in displacement ‘dynamic a bit’ (recall that boundary conditions having quantities with time
+derivative are called dynamic) leads to some stabilization effect to the system. We expect that
+
+
+this fact has some connection with Baumgarte-like stabilization techniques known in numerical
+simulations of non-smooth mechanics (see [17]), which is to be investigated in the future. The
+present result will also be of basic interest when we make an attempt to more involved crack
+problems, e.g. propagation and singular behaviour of crack tips. This paper is organized as follows.

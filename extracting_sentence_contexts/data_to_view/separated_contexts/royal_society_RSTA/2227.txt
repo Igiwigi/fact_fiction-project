@@ -1,0 +1,24 @@
+However, the generalization
+is trivial only if we confine our discussion to systems of random variables with finite numbers
+of contents and contexts, and to random variables that are categorical, i.e. have finite numbers of
+values. The latter is not a restriction for the CbD approach, in which all random variables should
+be replaced with sets of jointly distributed dichotomous random variables before contextuality
+analysis can be applied [1] (we need not, however, discuss this construction in this paper).
+
+3. Joint-distributional understanding: identically connected couplings
+
+The first meaning of contextuality is based on the obvious fact that one can consider a multitude of
+ways the six random variables in (2.4) could be jointly distributed ‘on paper’ (knowing that they
+are not jointly distributed de facto). This formulation (with the words ‘could be’) is hinting at
+counterfactuality, but we need not go that way: mathematically, we simply consider all sextuples
+of jointly distributed random variables
+
+St |S
+
+SEAEs (3.1)
+S S
+
+1 3
+
+with the same row-wise distributions as in (2.4). Any such a sextuple is a probabilistic coupling of
+the system (2.4), and the set of possible couplings is always non-empty.

@@ -1,0 +1,15 @@
+When we first conducted this
+analysis in March 2020, we calculated the population-level
+reproduction number as the unweighted mean of the individ-
+ual reproduction numbers, which led to smaller attributable
+fractions to groups. Ideally, we would have constructed a
+who-infected-whom matrix, but the SCS did not contain the
+age of contacts. Instead, to capture the fact that highly con-
+nected individuals contribute more to the reproduction
+number than less well-connected individuals, we used the indi-
+vidual reproduction numbers as a weight with which to
+calculate a weighted mean of reproduction numbers. This analysis was conducted before genomic sequencing
+could be used to quantify the role of superspreading and
+large events. In a phylogenetic analysis of cases in the
+Boston area, USA [19], 29% of cases were reported to be
+responsible for 85% of secondary infections.

@@ -1,0 +1,15 @@
+The advantage of using the non-dimensional J(n,m)* (u,v) integrals was
+that for a given L value they were all of the same order of magnitude (every J value lay in
+the range 1 to about 3/5), and this both expedited the matrix contractions (see equation (29))
+and greatly reduced the chances of error. Since the matrix contractions constituted a
+major part of the numerical work of the wave-function calculations this was a very important
+factor. It is interesting to note that it was possible to keep the J tables much more compact
+than would otherwise have been the case, by using the fact that it was found satisfactory
+to work with sets of «’s (see equation (25)) and hence of the w’s and v’s, which were in the
+ratio of small integers. The J values used thus corresponded to four small integral arguments
+
+and were tabulated accordingly.
+18-3
+
+
+148 M. J.

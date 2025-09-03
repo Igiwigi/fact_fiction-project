@@ -1,0 +1,9 @@
+In general, the initial forces on the fault cannot be determined in the earth [25], and we will
+use a UQ workflow to try and estimate these quantities. A snapshot of the ground shaking from
+one of the simulations is shown in figure 1—the bumpy line is the rough fault surface, and the
+colour scale shows the propagation of elastic waves away from the fault due to the slip on the
+fault. Complicating matters is the fact that earthquake faults are not smooth planes, but instead
+rough bumpy surfaces with a fractal geometry [26]. An important consequence of this is that
+the smallest wavelength bumps have the largest effect on the resulting forces [27]. This is what
+makes earthquake problems challenging to model: at a given model resolution, the simulation
+is omitting details that play an important role.

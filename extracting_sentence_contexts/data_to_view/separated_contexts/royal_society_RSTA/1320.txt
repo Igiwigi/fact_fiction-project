@@ -1,0 +1,7 @@
+This property may become increasingly important as
+the time step length in the UC problem decreases, to better deal with renewable uncertainty. Additionally, as mentioned, the computed dual solution gives a price signal with minimal uplifts. In fact, Electricité de France has a long tradition of using Lagrangian relaxation, that goes
+back to the seminal work [12]. The approach continues to be used nowadays, adapted to the
+market setting, to compute half-hour dispatch and prices [13]. Due to the constraints on the
+operational process in France, the problem needs to be solved in less than 10 min, with very
+strong requirements both on optimality and feasibility (all schedules must be feasible and a 1%
+gap adds up into several millions of euros per year).

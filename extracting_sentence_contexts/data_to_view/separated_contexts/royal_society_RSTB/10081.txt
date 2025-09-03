@@ -1,0 +1,22 @@
+Randomly distributed HGT
+study showing a great correlation between gene tree and does not dramatically decrease the accuracy of ILS-based
+species tree accuracies, claiming that the advantage of the fully probabilistic methods, although its accuracy drops
+most accurate species tree reconstruction method in their when HGT is focused on a specific species tree branch [94].
+experiments, *BEAST, was due to estimating much better The relative robustness under low and moderate levels of
+gene trees. Therefore, different factors that affect the accuracy random HGT is also shared with quartet-based disagree-
+of gene tree estimation can also influence the accuracy of the ment-reduction supertree methods—ASTRAL-II and wQMC
+resulting species trees. [95]—concatenation and ILS-based supertree methods (NJst),
+Gene tree reconstruction methods are considered robust to whereas under high levels of HGT, quartet-based methods
+missing data as long as the amount of phylogenetic signal is stand out in terms of accuracy (especially ASTRAL-I]) [96].
+enough to obtain a reliable tree [77,78]. In fact, including taxa The supermatrix approach is the most accurate species
+
+with a lot of missing data can improve the overall phylogenetic tree reconstruction method when the effect of ILS or HGT
+
+
+is low and/or the amount of phylogenetic signals per loci is
+small (e.g. short sequences) [97,98]. This advantage is due to
+the reduction of the noise/signal ratio by considering together
+all the phylogenetic information. The accuracy of non-
+supermatrix approaches is strongly depleted by loci with low
+phylogenetic signal (usually short genes) due to increased
+gene tree error.

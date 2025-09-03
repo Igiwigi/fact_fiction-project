@@ -1,0 +1,16 @@
+Table 1 gives the key parameters for all these : ES
+arithmetics. : 8
+
+We would expect the cost of a floating-point operation to be approximately proportional to : 3
+the number of bits in the operands, and therefore going from double precision to single precision 7S
+
+or single precision to half-precision should give a factor of 2 speed-up in arithmetic costs and a
+reduction in energy costs. (A notable exception to this rule of thumb was the Sony/Toshiba/IBM
+(STI) CELL processor, on which single-precision arithmetic was up to 14 times faster than
+double precision arithmetic [14]). Lower precision data also reduce storage requirements and
+data movement costs. In fact, even greater benefits are available. NVIDIA's Volta and Turing
+architectures contain tensor cores that can carry out a block fused multiply-add (FMA) operation
+X=AB + C, where A (fp16), B (fp16) and C (fp16 or fp32) are 4 x 4 matrices, at fp32 precision, and
+provide the result X as an fp16 or fp32 matrix; see figure 2. The tensor cores have a throughput
+of one block FMA per clock cycle and enable a peak fp16 performance eight times faster than
+for fp32.

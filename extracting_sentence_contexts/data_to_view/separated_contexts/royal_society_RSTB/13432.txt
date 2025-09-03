@@ -1,0 +1,10 @@
+The evidence for the impact of The GP regression method allows one to account for
+school closures on growth rates in Norway and Denmark is differences between the simulated epidemic trajectories
+more limited. While there was a reduction in growth rate of from the ODE model and the observed cases. However, the
+hospitalized cases after school closures, it has not been possible fact that closures occurred very early on in the epidemic
+to link this effect with school closures. means that the GP method often had to be trained on a
+While school closures are often among the first limited number of data points.
+implemented control measures, school reopenings are typically Since the instantaneous growth rate relies on the deriva-
+staggered with other eased restrictions, often with a small initial tive of splines, it is subject to increased error at the
+cohort of returning students. Since, to our knowledge, no strin- boundaries of the data. However, the observed signals are
+gent restrictions were introduced to compensate for the qualitatively robust to this limitation.

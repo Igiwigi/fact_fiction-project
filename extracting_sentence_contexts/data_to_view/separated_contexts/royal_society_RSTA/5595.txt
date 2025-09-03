@@ -1,0 +1,24 @@
+In other words, for a < i, solutions (ux, px) of (3.14) under the natural ‘Leray
+bound’
+
+t
+sup (iin (, fs + |, -a)*? mcs de) <M, @.15)
+
+t
+enjoy weak stability (since the embedding H* — L? is compact, cf. §3b), but can also be produced
+
+using ‘convex integration’ methods, a phenomenon which to our knowledge has not been
+observed before in any other situation. While the classical justification for the exponent 3 in theorem 3.5 given in the physics literature
+is based essentially on dimension analysis and, crucially, the law of finite energy dissipation,
+the proof of theorem 3.5 suggests an entirely different heuristics, which does not rely on energy
+considerations. The main mechanism to produce non-conservative solutions is in fact an algorithm which we
+will present in the form of an iteration scheme. Assuming that we start with a sufficiently smooth!
+(vo, Po, Ro) = (u,p, R) as in (3.3), at each step of the iteration we add an oscillatory correction
+in order to decrease the defect to being a solution. More precisely, we construct inductively a
+sequence of smooth solutions (vq, Pq,Rq),q=1,2,... to
+
+d¢vg + div (vq @ vq) + Vpq = div “| (3.16)
+
+and div vy =0,
+
+such that vg > v and Ry — 0 uniformly.

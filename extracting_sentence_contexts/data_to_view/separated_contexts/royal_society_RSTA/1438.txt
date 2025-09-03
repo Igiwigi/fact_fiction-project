@@ -1,0 +1,22 @@
+This is then implemented on a computer after which we perform numerical
+experiments with the computational model. These simulations provide results that are used to
+validate our models and, once validated, to predict the behaviour of the system we study. The power of this approach lies in the fact that the computational sciences have developed
+a large collection of well-established generic modelling paradigms (such as ODE or PDE-based
+methods, particle-based methods, agent-based methods, fully discrete methods, etc.) and a large
+collection of well-established (numerical) methods to discretize these computational models and
+implement them very efficiently on the full range of available computers (from the laptop via
+cloud to petaflop/s supercomputers). We argue that also in multiscale modelling and simulation
+such generic approaches are possible and have been demonstrated in a number of successful
+projects. Having been exposed to such solutions over the last decade, we will discuss the potential
+of generic multiscale modelling and simulation, with emphasis on high-end performance levels,
+projecting forward to the era of exascale computing.
+
+
+spatial scale spatial scale ' / Ao '
+
+Ax Ax +
+
+(___|______ temporal scale |—> t temporal scale —————_}—>
+At T At T
+
+Figure 2.

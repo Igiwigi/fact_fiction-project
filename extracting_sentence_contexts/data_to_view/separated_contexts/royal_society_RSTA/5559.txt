@@ -1,0 +1,24 @@
+Assume that the proposition 3.11 is false. As a result,
+one can extract a subsequence, still denoted P”, such that:
+
+IC" @ u)Ilcoacay _ 0
+
+(3.37)
+n>0 ||P" ||L-0(2)
+Therefore, by (3.11) the sequence:
+Pp"
+G!) = —___, (3.38)
+IIP"IIL2°(2)
+solves the boundary value problem:
+1 =
+in @ —AG"= ao @V):(u" @ u") — AAU" - i), (3.392)
+IIP" IIa)
+on 92 a;G" = yu" ii)? (3.39b)
+IP" IIL)
+and | G(x) dx= a | #(x)(w"(x) - nix)? dx. (3.39)
+2 IIP"IIL2(ay Ja
+
+Moreover, similar to the result of (3.35) and (3.37), the sequence ||G”| Icoa(gy is bounded. Thus, by
+the Arzela-Ascoli theorem, G” has subsequence, also denoted by G”, which converges strongly
+to a function G in the C°(@) norm (in fact it converges in the C8 (2) norm for any 6 €(0,q)). Obviously ||G"||1~(@) = ||GllL~©(@) =1. Therefore, by (3.37), the right-hand side terms of (3.392),
+(3.39b) and (3.39c) go to 0 in the C°8 (2) norm, for any B € (0,@), as n > 0.

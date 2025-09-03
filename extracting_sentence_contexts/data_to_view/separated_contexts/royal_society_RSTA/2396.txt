@@ -1,0 +1,8 @@
+Therefore, 6 is related to the width of the zeroth autocorrelation peak t, as well as the
+width of the first autocorrelation peak. Previous works have extensively studied this drift and its
+relation to co-moving Lyapunov exponents [25,57]. The drift is a consequence of the fact that the system is causal. The delayed term x(t — tp)
+cannot affect the dynamics before, or even at, the time t. Therefore, in figure 2d, we use
+
+t=nT+o, (3.2)
+
+to create space-time representations, where T = tp + 6 is the recurrence time and now o € [0,T].

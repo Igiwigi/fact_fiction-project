@@ -1,0 +1,18 @@
+As previously discussed, we use probability theory to represent the model forecasts. as
+For any given setting of the model parameters, the model must be able to produce a forecast of [5
+the form 2
+
+P(D|6,m). 1g
+
+This probability of the data as a function of the parameters is the likelihood of the parameters. With Dw
+the likelihood, for any given setting of the parameters, we are in the position of making forecasts. :
+However, the model m is not fully defined until we specify a ‘range’ for the parameter values, 0. a
+A linear regression model that states that the slope can take values between —1 and +1 is a very [a
+different model from one that specifies that the slope can take values between —100 and +100. In .
+fact, to fully specify a model, we need to do a bit more than specify the range of parameters, we
+
+need to define a distribution over this range. Only then will our model m be able to make forecasts. We see this by writing the forecast probability of the model using the sum and product rules,
+
+P(D|m) = | PD, aim do PS" | Peo, mPEOWm do. (2.1)
+The expression P(D|m) is variously called the marginal likelihood, model evidence or integrated
+likelihood.

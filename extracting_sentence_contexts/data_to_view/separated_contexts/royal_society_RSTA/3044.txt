@@ -1,0 +1,10 @@
+At this stage, the thermal noise contribution from
+the wires for the 4km long arms of the LIGO detectors was still below the photon shot noise
+[13] limits, and a strain sensitivity of 1 x 10-19/ ./Hz at 100 Hz could be achieved. It was clear,
+however, that for any improvements in sensitivity to LIGO and Virgo to be achieved, alternative
+solutions to wire suspensions were needed. In fact for GEO600, with its shorter 600m arm
+length, it was determined that thermal noise from metal wires would limit the sensitivity of the
+detector. Therefore, steps were taken to find alternative wire materials [24], before finally settling
+on fused silica, which had more than a factor 100 lower mechanical loss than any metal wires
+tested [25,26]. The thermal noise contribution from the suspension wires/fibres could in that way
+be pushed below 1 x 10-19 / /Hz at 50 Hz [26-29].

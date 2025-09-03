@@ -1,0 +1,18 @@
+Besides advances in particle/grid computational fluid mechanics, such as
+particle-mesh methods on multi-core graphics processing unit architectures,
+exciting developments in allied particle methods, typically smoothed particle
+aydrodynamics, particle-emesh methods for fluid flows, as well as constrained
+molecular dynamics, are also reported. A new class of four-dimensional (space
+
+ime) variational algorithms, tracking the unstable periodic orbits of high-
+dimensional nonlinear dynamical systems are described, which may disclose new
+avenues in computational studies of turbulence. The pervasive nature of fluid flows—the fact that they are key to virtually
+all human activities, life itself in the first place (air, water, blood)—is one of
+the compelling aspects of the field, as well as one of its major strengths. Just
+as complex fluids research is characterized by common underlying problems,
+so computational methods, algorithms and implementations must transcend
+disciplinary divides, hence the need of the new synthesis discussed earlier on
+in this preface. It is our major wish and hope that physicists, mathematicians, engineers,
+computer scientists and, in general, all scientists working in allied fields, where
+fluids play a major role, will be able to build on the work and experiences reported
+here, in order to advance their own research.

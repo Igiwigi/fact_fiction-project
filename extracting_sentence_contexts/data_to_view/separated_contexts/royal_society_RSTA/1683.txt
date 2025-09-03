@@ -1,0 +1,11 @@
+In
+particular, this gives an interpretation of ‘Wentzell’ as ‘dynamic boundary conditions’. Moreover,
+as in [8, Sect. 3.1], we call (aCP 4s) (mildly) well-posed if for every uo € X there exists a unique mild
+solution. By [8, Thm. 3.1.12] this is equivalent to the fact that AB generates a Cy-semigroup on X.
+
+4. The problems (aP1,) and (iaP1,)
+
+The main aim of this section is to show that the homogeneous problem (aP1,) is equivalent to a
+system of two independent problems: an abstract Dirichlet problem (aDP,) for 4 — Am and L and
+an abstract Cauchy problem (aCPw, ) for the Dirichlet-to- Neumann operator N, on 0X. Moreover,
+we give an explicit formula for the solution of (iaP1,) in the inhomogeneous case.

@@ -1,0 +1,9 @@
+By exploiting a fine pulse
+control and free evolution with J-coupling, a universal set of quantum logic gates
+can be designed. Particularly important are pulse sequences that implement the
+QST, for both spin 1/2 and quadrupole nuclei [1]. The two earlier-mentioned facts are the very basis of NMR-QIP, and work
+extremely well for two-qubit quantum computers. But as the number of qubits
+increases, things rapidly become complicated. One of the main challenges in
+current research on NMR-QIP concerns the design of special pulse sequences
+and, for that, powerful techniques have been developed: strong modulating pulses
+and gradient ascent pulse engineering (GRAPE).

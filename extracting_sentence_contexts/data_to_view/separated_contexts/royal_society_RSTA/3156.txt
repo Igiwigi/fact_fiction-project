@@ -1,0 +1,10 @@
+Table 1 shows the numerical
+value of the slope f (obtained by the best linear fit) and its theoretical prediction (6.9) for both
+bifurcations, at comax and comin, Where a is computed numerically. There is a mismatch of
+approximately 1% at the second bifurcation, at comin. This mismatch is probably due to the fact
+that a in theorem 5.3 cannot be computed at the precise value of dl, in the numerical set-up. The theoretical prediction f; at the first bifurcation at co max is less accurate in comparison to
+the numerical value of f (although it has the same order of magnitude). This is likely caused by
+the fact that the solitary travelling wave is rather wide at the bifurcation (recall that the solitary
+waves delocalize when c approaches the sonic limit c; = 1, as illustrated in figure 2), and Le,
+and £7e9 are not precisely in the kernel of £, causing an error in computing « and therefore
+f;.

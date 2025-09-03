@@ -1,0 +1,9 @@
+At the same time, it is evident that the applicability of harmonic
+balance-based methods is limited. For starters, their validity can be rigorously justified only for
+quasi-linear systems or for the case of nonlinear potentials with power close to 2 [35]. Harmonic
+balance-related methods are nevertheless also used for quartic or even stronger nonlinearities
+[36], and do in fact yield reasonably good results, albeit with limited and a priori unknown
+accuracy. Partial remedy for the case of periodic solutions can be achieved by accounting for
+multiple harmonics in the expansion. Still, the attempts to use slowly varying amplitudes for
+multiple harmonics may lead to a system that mathematically is even more complex than the
+initial one.

@@ -1,0 +1,10 @@
+A different heading for these results is the ‘Kelly criterion’ [25-27]. In contrast
+
+o ensemble-average exponential growth rates, which often diverge (for instance
+with leverage), time-average exponential growth rates can be optimized [24,28]. Kelly [25] used this fact to optimize wager sizes in a hypothetical horse race
+using private information. While he refrained from using utilities because he
+deemed them ‘too general to shed any light on the specific problems’ he considered
+[25, p. 918], he did not point out the fundamental difference in perspective his
+treatment implies: in essence, arbitrary utility functions are replaced by the
+physical truth that time cannot be reversed. My aim here is to emphasize this
+difference in perspective.

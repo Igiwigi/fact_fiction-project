@@ -1,0 +1,8 @@
+The advantage of this approach is that
+higher regularity norms of the velocity field are controlled uniformly in time, and that the growth
+of the Sobolev norm holds for every (non-trivial) advected scalar with initial data in H!. We will
+therefore be able to keep under control higher W"? norms of the vector field uniformly in time,
+and to show loss of H! regularity for every such initial data. In fact, since the construction is local,
+we need only assume that the initial data is locally in HR’). The iterative construction becomes however less explicit, since the location and the spatial
+scale of the family of cubes depend on the initial data, as we need to select the cubes in such a
+way that the derivative of the initial data is large enough in all of the cubes. Proof of theorem 1.1.

@@ -1,0 +1,52 @@
+When solving a family of related
+problems, discovering abstractions can drastically reduce the difficulty of harder problems: even
+complex programs can have short implementations in terms of the appropriate library. This
+insight has a direct interpretation in the land of mathematical reasoning: the difficulty of a
+mathematical problem also heavily depends on the ‘library’—of existing lemmas or tactics. Given
+
+1m fact, in modern proof assistants such as Isabelle /HOL, SMT solvers can be called to find proofs for sub-problems that are
+expressible in a theory they support.
+
+
+[SEE] substitution and [CLT] Combining
+evaluating expressions Like Terms
+Evaluate an expression using Simplify an expression using
+substitutions and performing properties of the operations
+basic operations with constants. and calculations when applicable. Evaluation Commutativit
+a=10x6-9 f—— a=(10+x)-5 Sf y
+(5-2)=3 (0 +x) = (e+ 10) ~ _, Substitution
+a=10x3 a=(v+10)-5 —~
+10x3=30 we (+ 10)-5=x+(10—5)
+1230 Substitution a=x+(10—5) (
+10-5=5 —+ Associativity
+a=x+5
+
+[OAE] one-step addition and [OME] one-step multiplication [TSE] two-step equations
+
+subtraction equations and division equations
+
+Solve first simple equations Solve first simple equations Solve equations combining an
+
+using addition and subtraction. using multiplication and division. additive and a mltiplicative term.
+77 Subtract from Divide .
+
+x+5=8 _{~ both sides xx5=10 JO both sides (&x3)-1=2 + Add to both sides
+
+(v+5)-5=8-5 (x x 5)/5 = 10/5 (@x 3)-1)+ 2+1
+
+(x+5)-S=x4(5-5) (xx 5/5 =x x (5/5) . a ;
+
+x4(5-5)=8-5 xx (5/5) = 10/5 xx3=3 Divide both sides
+
+5-5=0 S/IS=1 («x 39/3 = 3/3
+
+x+0=8-5 xx1= 10/5 Ee
+
+. 7 x=
+
+x=3 x=2
+
+Figure 1. Illustration of the formalized versions of five sections of the algebra curriculum on the Khan Academy educational
+platform.
+
+any starting library, harder problems can require arbitrarily large search depths to be solved.

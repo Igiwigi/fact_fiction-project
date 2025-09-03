@@ -1,0 +1,9 @@
+We consider the value of Ax as a function of the spatial eigenvalue
+pk, and refer to this as the dispersion relation. From this analysis, it can be shown that for two-species systems, the largest growth rate Ax will
+be real at the parameter space boundary of a Turing bifurcation (so that such a bifurcation does
+not indicate an oscillatory instability). Several other facts can readily be established about these
+instabilities, such as requiring D, 4 Dy, fy and g, to be of opposite signs, with the positive sign
+corresponding to a slower-diffusing activator, and the negative a fast-diffusing inhibitor. This
+is a classical example of local-activation long-range-inhibition, which has been implicated in a
+range of biological pattern formation scenarios [22]. The Turing space can be defined from this
+analysis as the set of parameters which admit this kind of instability.

@@ -1,0 +1,21 @@
+Diabatic evolution bound =
+We will calculate a diabatic evolution bound b on the quantity in equation (1.3) for some s* € [0, 1]: Do
+I[Uaa(s*) — Uroe(s*)]P(0)|l = Ilf(s*) — Poll, (3.1) =
+
+where : Ss
+(8) = PoUl (5) Utor(s) = x(s) + Po. 32) 3:8
+
+We would like to express f(s*) via f’(s) as
+
+st
+f(s*) =Po +| f'(s) ds. (3.3)
+0
+Recalling that Utot satisfies equation (1.1) and Ugg satisfies equation (2.9), the derivative is
+f' (6) = Po(Utg Utot + Ut gUlge) = Polite — [P,P] — itp) Utor = —Pollt IP", Plot, (3-4)
+
+where we used P’* = P’. Note how the O(tf) term cancelled out, so the expression appears to be
+O(1). However, it is in fact O(1/tp), as we show next. For any operator X(s) define X(s) (‘twiddle-X’) [22] such that
+
+[X(s), P(s)] = [H(s), X(s)] (3.5)
+
+and the diagonal of X in the eigenbasis of H(s) is zero. Note that X has units of time relative to X.

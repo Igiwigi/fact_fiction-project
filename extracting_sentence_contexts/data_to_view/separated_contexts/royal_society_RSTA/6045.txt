@@ -1,0 +1,13 @@
+The
+framework is a maximum entropy approach just like the Potts model approach from [19], except
+that Berg and von Hippel assumed that every single nucleotide in the binding site is at maximum
+entropy. The score that each sequence is assigned is an energy score, where the consensus sequence
+of the MSA for that site has zero energy (the ‘ground state’). In fact, the energy score of a DNA
+binding site is given by an energy functional that is precisely of the form (3.1), but without the
+second-order term (as correlations between sites are considered not to be important in DNA
+binding). Unlike in the Potts-model approach, the counterparts to h;(s;) are not fitted to the MSA in the
+BvH approach. Rather, they are directly extracted from the MSA in terms of a matrix as?
+
+(3.9)
+
+because this is the expression that maximizes the single-site entropy (subject to constraints).

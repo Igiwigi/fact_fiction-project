@@ -1,0 +1,11 @@
+In parallel with his work leading towards likelihood, Fisher was exploring the notion of (what
+we now think of as characterizing the frequentist school of statistics) evaluating estimators using
+their sampling properties, such as the consistency and efficiency mentioned above. Eddington
+claimed that the best estimator of the standard error of a normal distribution was the mean
+of the absolute deviations. Fisher showed [12] that this was not the case, and in fact that
+the mean of the squared deviations contained ‘the whole of the information respecting’ the
+standard error. As he said in Fisher [1, p. 315]: ‘the discussions of theoretical statistics may be
+regarded as alternating between problems of estimation and problems of distribution. In the first
+place a method of calculating one of the population parameters is devised from common-sense
+considerations: we next require to know its probable error, and therefore an approximate solution
+of the distribution, in samples, of the statistic is calculated.

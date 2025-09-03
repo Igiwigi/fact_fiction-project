@@ -1,0 +1,13 @@
+It is now evident that the sake cluster is poorly
+suited to perform GWAS. First, the number of sequences com-
+posing this dataset is too low and therefore does not provide
+sufficient statistical power for trustworthy associations. Second, the strains composing this cluster are very close to
+each other and all share large parts of the genome due to the
+fact that the common ancestor is very recent compared to
+other datasets. We initially thought that the European wine
+subpopulation, being a clear lineage and composed of a high
+number of strains (1 = 323), would constitute a good set to per-
+form GWAS because the population is not stratified. The
+number of false positives by run is very high for a Mendelian
+and complex trait and the results obtained with this dataset
+should therefore be taken with caution.

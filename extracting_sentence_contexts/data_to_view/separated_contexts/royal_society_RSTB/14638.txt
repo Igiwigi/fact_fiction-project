@@ -1,0 +1,9 @@
+Specifically, on Note that for ‘Ig turnover fr’, the frequency is normalized by
+the viral side, the C2-V3 region of the env gene is deeply the number of sequences in the lineage, so that }>,<; xj )(t) = 1.
+sequenced. This gene is known to be a potential target of the The absolute turnover then sums across all SNPs and lineages.
+antibody repertoire [33,34]. On the immune repertoire side, the To quantify the fact that B-cell lineages themselves are subject
+samples correspond to the deep sequencing of the variable to turnover, and rise and fall in time, we introduce a measure that
+region of the immunoglobulin (Ig) heavy chain locus. We computes the absolute change of lineage sizes. The size of a
+omitted patient 10 because of lack of HIV samples, as shown lineage is the sum of all its sequence abundances or frequencies
+in electronic supplementary material, section S1. (here normalized by their total counts in the sample, so that
+We wrote a pipeline to download the dataset, assemble the x(t) =).

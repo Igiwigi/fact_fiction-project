@@ -1,0 +1,19 @@
+Furthermore, interpreting and applying regulatory standards is
+challenging in cases in which an analyst seeks to combine data from multiple sources. In contrast
+with regulatory requirements, a formal privacy model like differential privacy offers general
+protection and can, in principle, be applied wherever statistical or machine learning analysis is
+performed on collections of personal information, regardless of the contextual factors at play. In :
+recognition of the fact that a broader notion of personal information must be protected in order :3
+to preserve privacy and that information that currently seems innocuous may prove sensitive i
+in the future, formal privacy models protect all information specific to an individual, not just : =
+information traditionally considered to be identifiable or able to be linked to an individual. 1p
+
+(ii) Scope of attacks contemplated : w
+
+Privacy regulations and related guidance contemplate a limited set of specific attacks and Dy
+privacy failure modes. As one example, many regulations make an implicit assumption that : =
+re-identification via record linkage—i.e. the re-identification of one or more records in a de- : &
+identified dataset by uniquely linking these records with identified records in a publicly available
+dataset—is the primary or sole privacy failure mode. Other central concepts appearing in
+privacy regulations, including personally identifiable information, (de-)identification, linkage
+and inference, are often defined from this point of view.

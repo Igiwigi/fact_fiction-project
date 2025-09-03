@@ -1,0 +1,9 @@
+The parameters of the less complex model have lower RSD values than
+the C model (p < 0.001) and a smaller range than the N model. This suggests that the closest fit of
+this model to the experimental data is identifiable, despite also being a poorer fit than either other
+model. This highlights the fact that low uncertainty in posterior parameters does not necessary
+imply a model fits the data well (and vice versa), and a trade-off exists which may depend on the
+goals and particular use-case of a modelling study. Beattie et al. [16] used the same standardized gating formulation to model the behaviour
+of a rapid delayed rectifier potassium current using an information-rich voltage protocol. In
+their case, the studied current appears to satisfy the requirement of peak time constant of the
+gate at mid-point of the steady-state curve (see, for example, fig. 5 in [16]).

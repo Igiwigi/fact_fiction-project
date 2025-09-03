@@ -1,0 +1,9 @@
+Recall from §2 the discussion of circles contained in the spectrum of Co-semigroups. This
+discussion implies in particular that the well-known alternative—either ||Zo(t)|| =1 for all t>0
+or (Zp(t)):=0 is exponentially stable—holds here in a much stronger form: either (Jo(t));>0 is
+exponentially stable or T € o (7o(t)) for almost every t > 0. Thus, unless (7o());>9 is exponentially
+stable, its peripheral spectrum (in fact, even the peripheral essential spectrum) is as large as
+possible for almost all values of t. In order to link the study of (Zo(t));>0 with the results from the preceding sections, define the
+quadratic operator pencil P(z):= 242B+A,z€C, with D(P(z)) = D(A). The next statement in
+combination with the abstract decay criteria from §3 tells us that semi-uniform decay rates for the
+energy E can be rewritten as operator norm estimates for P(z)! with z € iR; see [97, Lemma 4.6].

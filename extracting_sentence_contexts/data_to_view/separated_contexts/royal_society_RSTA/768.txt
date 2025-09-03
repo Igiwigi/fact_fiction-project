@@ -1,0 +1,14 @@
+Discussion and outlook
+
+When we consider information processing in larger-scale quantum devices, it is useful to divide
+that process into two fundamental layers: a physical device layer responsible for control and
+manipulation of the ‘qubits’, and an application level layer to perform the computation/data
+manipulation (this is illustrated in figure 4 for an NV modular device). The physical layer
+can further be divided into a number of sublayers, each responsible for a different part of the
+computational system. Nonetheless, these sublayers are not completely independent of each other :
+due to the fact that we cannot control errors in the computational system with only one sublayer. [=
+This complicates the system’s error management; however, it also gives us the opportunity to 38
+manage errors even when the physical system has weaknesses. Sublayers can work together :
+to compensate weakness in the physical system (as illustrated in our previous example). The aoa)
+interaction between sublayers also complicates our attempt to optimize the overall system. :
+Optimization of one sublayer may be detrimental to another sublayer.

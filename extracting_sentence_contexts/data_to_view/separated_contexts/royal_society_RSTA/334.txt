@@ -1,0 +1,7 @@
+The first, fundamental question in analysis of such three-way data is whether the three-way
+structure can be simply transformed into an ordinary two-way structure without losing too much
+information. In other words, can we just ‘collapse’ the data into an ordinary matrix and analyse
+it with ICA, or do we need special methods? In fact, in many cases where ICA is applied, it does
+not seem to be necessary to construct special methods for analysis of three-way data: it seems to
+be enough to transform the data into a single matrix for a useful application of ICA. Denote by X; the data matrix obtained from the kth condition (or subject). Its rows are the
+different variables i, and the columns different observations t.

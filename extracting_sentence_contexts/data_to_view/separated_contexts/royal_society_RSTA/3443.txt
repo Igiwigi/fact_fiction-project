@@ -1,0 +1,7 @@
+Owing to Cogent’s type system, the compiler even
+knows which objects have to be deallocated before returning, so the default clean-up code could
+be automatically generated. Independent of the language, we cannot always avoid serialization and deserialization of data. In fact, a significant portion of file systems code is typically concerned with this monotonous and
+error-prone task. Data description languages address exactly this problem by generating the code
+automatically given specifications of the serialized and deserialized format. Following a similar
+approach as PADS [71], we are currently working on adding language-level support for data
+(de-)serialization to Cogent.

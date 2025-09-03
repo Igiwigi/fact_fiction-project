@@ -1,0 +1,16 @@
+A (2008)
+
+
+3060 C. Bajaj et al.
+
+(b) Generating patient-specific heart models
+
+Bajaj & Goswami (2008) explore a solution to the problem of constructing
+good finite-element and boundary-element models of the human heart from high-
+resolution computer tomography (CT) imaging data. In fact, the quality of
+patient data, even if acquired with state-of-the-art CT hardware, is not sufficient
+to produce satisfactorily meshed models of the anatomy and to perform further
+simulation for diagnostic purposes. Imaging is therefore only the initial step of
+a complex computational pipeline, needed to generate a robust and spatially
+realistic mesh model of a patient’s heart (figure 8). Rough imaging data are first put through an image processing pipeline to
+enhance their quality.

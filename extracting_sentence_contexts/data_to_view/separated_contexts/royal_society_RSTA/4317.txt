@@ -1,0 +1,5 @@
+Let us now take a closer look at the memory matrix. The information of the vortices appears ls |
+in the memory space, but we use that information in the structure space, because it is here that we
+reduce the number of the unknowns. We are in fact transferring information from the memory
+space to the structure space with a conventional rule of the type ‘If a vortex appears in the memory
+space, fix the corresponding point in the structure space to a minimum or a maximun’. A reconstruction from incomplete information, in short, does not require only a memory. It requires memory and codes.

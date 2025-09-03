@@ -1,0 +1,18 @@
+In
+all, seven transformations were required to separate the zeros to four-figure accuracy, and
+by that stage nine figures had been lost in about half the coefficients. The zeros of this
+polynomial to five decimal places are
+
+—0:29351-40-:14350i, —0-22447-+ 0-45093i, a No estea oe
+—0-09004+1-06119i, —0-05086+1-29691i, —0-02567 + 1-47438i, (3-14)
+—0-01049 +-1-59630i1, —0-00249 + 1-66712i, |
+
+and would not, on general grounds, be considered to be particularly close together. If, in
+fact, the zeros of a given polynomial are much closer than these, their accurate evaluation
+becomes a really acute computational problem. For example, in the case n = 8, a = 10,
+A = 1 the zeros of f(x) have been calculated to four decimal places as follows:
+
+—0:1324-+0:1360i, —0-0187-+0-2530i, —0-0023 + 0-2926i,
+—0-0005-+0-3042i, —0-0001-40-3086i, —0-0000- 0-3107i, (3°15)
+—0-0000-+0-3117i, _—0-0000+-0-31221. Here the root-squaring process fails to determine all the moduli even if twenty figures are
+retained in the initial transformations.

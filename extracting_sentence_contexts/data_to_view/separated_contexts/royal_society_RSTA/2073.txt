@@ -1,0 +1,11 @@
+The continuum version of mechanics (represented in the Euler equation)
+has been put into the Hamiltonian form by Clebsch [27] and later, by Arnold [28], where the
+connection of non-canonical Hamiltonian structures with the Lie group theory was recognized. As in the particle mechanics, the usefulness of the Hamiltonian formulation of the continuum
+mechanics has come to light in particular in extensions, in unifications with other mesoscopic
+theories, in relation to thermodynamics, in numerical solutions, and in geometrical formulations
+(see [2] and references cited therein). Advantages of the Hamiltonian formulation stem mainly from the fact that the vector field
+generating the time evolution involves two objects that have two different and independent
+physical contents. One is the geometrical structure expressing mathematically kinematics of
+the chosen state variables and the other is a potential (a real-valued function) representing the
+energy (i.e. the quantity involving all the internal mechanical forces). In reductions, we consider
+the kinematics and the energy separately.

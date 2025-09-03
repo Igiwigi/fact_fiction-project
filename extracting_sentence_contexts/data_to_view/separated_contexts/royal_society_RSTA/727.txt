@@ -1,0 +1,44 @@
+Furthermore, the window-averaged power extraction for each
+optimization window i is
+oT 1 pG+DTs
+Pea | P(t)dt fori=1,...,N. (C2)
+Ta Jit,
+Using a Taylor series approximation for the ratio Po /Pr, the variance thereof can be expressed in
+terms of statistical quantities of its numerator and denominator (e.g. [32]) as
+
+var (72) ~ E(Po)? see _ ycov(Po, Pr) + ee (C3)
+
+Pr)  E(Pr)* | E(Po)? ~— E(Pr)E(Po)~—-E(Pr)?
+
+where var, cov and E denote the variance, covariance and expected values respectively. Since P= (oN, PIA)/N, the variances in equation (C3) can be written as var(P) = var(P™)/N. Furthermore, combining properties of the covariance operator with the fact that mean powers in
+different optimization windows can be assumed to be statistically independent, the covariance in
+equation (C3) can be rewritten as
+
+(ox Po) oe 1? Pei)
+
+cov(Po, Pr) = cov N N (C4)
+m ys x cov(PG', PR’) (C5)
+i= j=1
+1 Ta
+= cov(PG! , PR ) (C6)
+
+i=l
+
+1 - -
+= NicovlPo' PR’): (C7)
+
+
+Finally, since E(P) =P, equation (C3) can be readily evaluated in terms of quantities that can
+either be directly obtained from total time-averaged powers Po and Pk, or calculated from the
+distribution of window-averaged powers PY and Pi as
+
+(C8)
+
+PB 1 PA ar(PM cov(PM, pl’ ar(PlA
+var(F2) = p | ee ars my var’) |
+R
+
+Pp) NPR | PB PePo ia
+
+leading to a standard deviation o = (var(Po/P))!/2. Note that, even though Po and Pp are
+normally distributed, the ratio between them is not.

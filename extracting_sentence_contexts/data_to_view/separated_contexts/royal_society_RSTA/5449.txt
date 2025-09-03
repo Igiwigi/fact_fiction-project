@@ -1,0 +1,13 @@
+In particular, we focus on manifolds, networks, and multi-domain models. The first two can be thought of as examples of the generalized linear instability analysis given
+in §2b (at least in the case of undirected networks), whereas the latter will involve less obvious
+generalizations of the classical theory.
+
+(a) Curved manifolds
+
+The study of reaction-transport systems on curved manifolds goes back to Turing’s paper
+[1], where he employed spherical harmonics to discuss a hypothetical mechanism behind
+gastrulation. In fact, much of Turing’s paper uses spherical symmetry as a major discussion point
+for why symmetry breaking instabilities must play a role in development. Hunding pursued this symmetry breaking question in the context of reaction-diffusion
+systems defined inside spheres and prolate ellipsoids [31,32], though the curvature of the domain
+here was restricted to its boundary. Varea et al. studied a reaction—diffusion system on the surface
+of a sphere numerically, finding striking symmetries in the emergent patterns [33].

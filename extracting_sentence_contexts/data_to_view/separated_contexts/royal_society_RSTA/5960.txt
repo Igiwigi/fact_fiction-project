@@ -1,0 +1,47 @@
+In the classical homogenization theory, this condition is known
+as the macro-homogeneity condition, or Hill-Mandel theorem [20,31,35,36], which provides the link
+between the microscopic and macroscopic scales. In the following, the macro-homogeneity condition is enforced to obtain the incremental
+energy density (3.7) that matches the effective behaviour of the prestressed lattice at first- Vj (L)
+and at second- W»(L) order. Thus, the homogenization scheme is based on the following steps:
+
+(i) an incremental deformation gradient L is considered, so that the incremental energy
+density for the unknown effective continuum is defined by equation (3.7);
+
+(ii) following the Cauchy-Born hypothesis, equation (3.3), the incremental displacement field
+for the lattice is prescribed by the given tensor L and the periodic vector q* necessary to
+enforce the equilibrium of the lattice;
+
+(iii) with the solution of the lattice in terms of L (the periodic vector g* becomes in solution a
+function of L) the incremental energy density is calculated for the lattice;
+
+(iv) the two incremental energy densities in the continuum and in the lattice are matched, so
+to obtain the components of the incremental elastic tensor defining the effective solid.
+
+
+(i) Determination of the periodic displacement field for the lattice
+
+By substituting condition (3.3) into equation (2.21) and pre-multiplying by Zo!, the incremental
+equilibrium becomes
+
+Zo'K(P) Zo G* + Zo'K(P) GL) =Zo'f, (3.8)
+
+where the right-hand side can be written more explicitly using the partitioning introduced by
+equation (3.22) as
+i
+f' +4 f
+pof
+f° +f? +f" +f"
+
+The fact that the only non-vanishing forces are assumed to be the internal forces transmitted at
+the unit cell boundary by the neighbouring cells implies f’ = 0. Moreover, as the displacement
+field satisfying the Cauchy—Born hypothesis generates internal forces in the infinite lattice that are
+periodic along the direct basis {a,,a2}, any single unit cell is subject to external boundary forces
+that are anti-periodic. Consequently, f! = —f", f? =—f' and f” =f" — ft —f", so that the term
+Zo'f vanishes and equation (3.8) becomes
+
+Zolf=
+
+Zo'K(P) Zo @* = —Zo'K(P) A(L). (3.9)
+
+The solution of the linear system (3.9) provides the incremental periodic displacement field q*
+internal to the lattice for every given L.

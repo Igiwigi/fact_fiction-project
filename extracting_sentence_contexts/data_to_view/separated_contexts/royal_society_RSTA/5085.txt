@@ -1,0 +1,7 @@
+P1-DG
+discretization) and continuous piecewise quadratic polynomials are used for the pressure field
+(i.e. P2 discretization). A well-known difficulty in representing solid structures as immersed in an
+extended computation domain is the fact that sharp fluid—structure interfaces are smeared on the
+computational cells. This affects the accuracy with which forces, and hence boundary conditions,
+are represented on the structure surface. A related issue concerns the computation of diagnostic
+variables.

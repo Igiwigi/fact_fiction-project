@@ -1,0 +1,15 @@
+Further, it is likely that #, and £, may each be replaced by
+£ without appreciable error in most practical cases.
+
+
+550 R. A. RANKIN ON THE MATHEMATICAL THEORY
+
+Before passing on to the consideration of Conditions B and G, it may be remarked that the
+stability condition usually employed in practice—and, in fact, the only one in regular use
+—has not appeared in the preceding analysis. This condition may be stated in the form
+
+Br? +-n2V?2 = fr vV2>0, (8-42-8)
+
+and is obtained when all damping and Magnus coefficients are neglected. For then G(s)
+is real and equal to n? +fr?/V, and this clearly must be positive if the yaw equation (4-3-8)
+is to have stable solutions.

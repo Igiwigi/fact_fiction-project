@@ -1,0 +1,12 @@
+When the external input is decreased below a critical amount, as in the bottom image of (c), the activity on the
+neuronal sheet gets easily distorted and hexagonal structure is not detectable over time. At the same time, the head-directional input becomes the dominant source
+of input and the neurons show high directional tuning. (a,b) Adapted from [32]; (c,d) from [33]. The fact that a purely inhibitory network can generate grid these sets of studies suggest that connections do not have
+cells has already been noted by Burak & Fiete [30]; however, to be Mexican-hat type and that all-or-none inhibitory
+the connectivity of their model still follows a Mexican-hat connectivity is sufficient for grid formation.
+shape in the sense that cells with similar phases inhibit each A potential problem is that a purely inhibitory network
+other less and inhibition then increases as phase differences depends on tonic external excitatory drive for keeping cells
+increase, after which the inhibition again decays to zero. The sufficiently near firing threshold to fire. Such excitatory input
+all-or-none connectivity in Couey et al. [32] could be seen as a can come from a variety of sources, one of which could be
+special case of the Burak-and-Fiete weight matrix in which the hippocampus, which, via the deep MEC layers, has
+the amplitude of the positive Gaussian is zero (a = 0 in their strong projections back to the superficial layers of the MEC
+eqn 3) and the negative Gaussian has steep flanks.

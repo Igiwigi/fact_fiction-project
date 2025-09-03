@@ -1,0 +1,22 @@
+Note that, by construction of the multiple R-matrix boundaries, the
+reduced potential U connecting channels that scatter in different coordinates should be negligible
+compared to the scattering energy.
+
+
+(iv) Energy-dependent scattering using RmatReact methodology
+
+Non-reactive scattering. The mathematics here has been discussed by Tennyson ef al. [25] and
+is summarized here to make clear the differences in treatment necessary between non-reactive
+scattering (the simplest kind of process) and the other processes, particularly reactive scattering. We have discussed earlier the fact that we solve the inner region energy-independent problem
+in order to provide an efficient basis for describing the scattering problem at the boundary, i.e.
+equation (2.1). Mathematically, this approach uses a resolution of the identity (i.e. 1 =>; |W) (wl)
+and provides a spectral representation of Green’s function to find
+
+Z
+|W(E)) = > Ii) gp ILI BD), (2.9)
+i=l '
+
+where C is the Bloch term, ¥(E) is the scattering-energy-dependent wave function and E is again
+the scattering energy. The summation runs over all inner region solutions, i, which is formally
+infinite but in practice finite due to the representation of the inner region solutions in a basis set
+of size Z.

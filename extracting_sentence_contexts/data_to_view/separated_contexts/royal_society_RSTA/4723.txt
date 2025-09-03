@@ -1,0 +1,16 @@
+In [8], it was shown that there is a distinguished family of subpresheaves (the presheaf
+analogues of subsets of a set) of the spectral presheaf 2, called clopen subobjects.? These
+subobjects form a complete Heyting algebra Sub,|Z, and there is a systematic way, called
+daseinization, of mapping propositions about the physical world to clopen subobjects. The
+fact that we arrive at a Heyting algebra rather than at a Boolean algebra signifies the shift
+from classical, two-valued Boolean logic to a form of intuitionistic logic, which turns out
+to be multi-valued. The logical aspects of the topos formalism for quantum theory arise
+
+2A subobject $ of ¥ is called clopen if every component $y, V € V(N), is a clopen subset of Dy.
+
+
+from the internal logic of the topos of presheaves over the context category; for details
+see [8,13,14,16,18]. We will not be concerned with this part of the theory here.
+
+— When representing pure states, a difference between classical physics and quantum
+physics in the topos formulation shows up.

@@ -1,0 +1,32 @@
+The peripheral entries needed in the first stage of the evaluation of Z,, 74, are
+
+(a) the G, ,,, in which vy = 0, —-l andA=0,1 ...ym+l; the P, ,,, in which y= 0, —1
+and A= 0,1...,m+/—1.
+
+(b) the G, .,. These are needed only if n>/+1 and then v must assume the values
+v=0,1...,n—/—1, for G, _,, and v = 0,1, ....n—l for G, ,. On account of the fact, mentioned in §2 that the analytical expressions for all the ¢,,,,
+functions change when t=7, the peripheral entries must be obtained by adding the
+corresponding integrals in (17) and (18), over the ranges (0,7) and (7, 00). This is a very
+annoying, but inescapable, complication. We may conveniently represent the contributions
+from the lower and upper ranges by superscripts 7 and s, so that
+
+G a (Ks 7) = Gi ry(k,7) +G514(k, 7) (25a)
+
+n
+
+Pa alk 7) = Ph tsa(Ks 7) +P, 1:4(«>7)- (255)
+
+The separate partial range integrals can be expressed quite simply in terms of certain
+integrals of the type introduced by Coulson (1937) and defined by
+
+Paaneslts7) = [eet (0) dt (262)
+0
+
+Swann(7) = f Per HHK (8) dt (266)
+Evidently Gia saa7) = Kess(t) Beant) (274)
+G5, 144 (KT) = Ds4(7) Stra, na (Ks T). (276)
+
+As a result of equation (19) it follows that
+Phy aa(ts7) = (7+1) Ghialks 7) — Gb, 143(k, 7) (28a)
+Pi, 144 (K 7) iy Gas 1) Gi, 1a(K 7) — Gir rialk 7) (286)
+PSs rsa(&y7) = Gig, r4g(ky 7) +.

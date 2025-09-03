@@ -1,0 +1,17 @@
+Thus, selecting the direction of causality is simply reduced to choosing aia
+between two ICA models. 7y
+In principle, we could just estimate ICA on the vector x = (x1,x2) and see whether the mixing iN
+matrix is closer to the form of the one in model 1 or model 2. The zeros in the mixing matrices :3
+are in different places, which clearly distinguish them. A more efficient way of choosing between : BY
+the models can be based on likelihood ratios of the two models [13,14]. (An earlier approach used .
+cumulants [15].)
+In fact, this is just a special case of the general problem of estimating a linear Bayesian network,
+or an SEM. In the general SEM, we model the observed data vector x as
+
+and
+
+x=Bx+e or xj= > bixj + ei, (3.5)
+iAi
+
+with a matrix B that has zeros in the diagonal. The idea that each x; is a function of the other x;
+formalizes the causal connections between the different variables.

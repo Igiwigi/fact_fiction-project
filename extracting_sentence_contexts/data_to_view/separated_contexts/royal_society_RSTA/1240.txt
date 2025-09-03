@@ -1,0 +1,57 @@
+If the maximal inequality
+
+P
+
+t
+[,St-sisedWe] <0” (VP) Ist cauroryeaxy
+
+0
+
+E sup
+te[0,T]
+
+holds for all 2 < p < oo, where C is a constant independent of p, then the process (So S(t,s)g¢s dWs)te[0,7]
+has a continuous version which satisfies the Gaussian tail estimate
+
+r
+P| sup >r})<2exp|-—], r>0,
+(x ( =)
+
+where 0? = C78 ~(e.H0,T:7(HX))
+
+This method of getting Gaussian tail estimates gives rather poor bounds on the variance. In §5,
+we will discuss another method which, when applied to Theorem 5.2, gives a bound that is close
+to being optimal.
+
+f
+| S(t, s)gs dWs
+0
+
+
+
+(a) The factorization method
+
+The so-called factorization method was introduced by Da Prato, Kwapien and Zabczyk [37]
+to prove the existence of a continuous version for stochastic convolutions with Co-semigroups
+defined on a Hilbert space and was extended to Co-evolution families by Seidler [38]. It is based
+on the formula
+
+fc —s)*1(s—1n)-* ds=
+
+sin(a)’
+from which one deduces the following identity, valid for 0 <a < 1/2:
+
+ca
+
+sina
+
+t a s
+| S(t,s)gs dWs =| (t —s)*-1S(E,s) (| (s —r)*S(s,r)gr aw) dr.
+0 0 0
+
+For 2<p<oo and dea< b the process Rg(s):= Sols —r)*S(s,r)gydW, belongs to
+LP(0, T; LP(2; X)), which we identify with L? (2; L?(0,T; X)), and then use the fact that the mapping
+Rah KG — s)*-!S(t,s)Ry(s) ds maps the latter space into L?(2; C([0, T]; X)). Mutatis mutandis this
+method extends to the more general setting of 2-smooth Banach spaces. By bookkeeping the norm
+estimates and tracking constants, and performing a standard localization argument, the following
+result is obtained.

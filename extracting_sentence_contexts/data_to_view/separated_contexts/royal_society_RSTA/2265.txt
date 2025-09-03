@@ -1,0 +1,72 @@
+Note that
+up =fiup + 81uya, UN =fn-2up + 8n—2uh1 and uy, = uy, (4.6)
+where
+aoN42 4N-2 at HA oy
+f= Sa * 1 fN-2= joy +), g1=fn-2, §N-2 =fi- (4.7)
+
+By (4.4) and (4.6), uh can be expressed in terms of uh
+
+uF = (1 + B)fn-2 uf
+o Q+yv-(1+ Bf) NY
+
+thereby reducing the set of unknown functions in (4.5) to uh) and uh For the lattice row at
+y=N-1and y=N, respectively,
+
+(4.8)
+
+—w uy, N-1 + (Ux,N-1 — Ux,NYH(—x = 1) = (ul ya — uy) H(®) $+ uxtN-1
+
++ Uy-1,N-1 + Ux,N-2 — 3Ux,N-1 (4.92)
+
+
+and
+=w7 un + (UxN = Ux,N-1)H(-x = 1) = (uly — uly HG) + uN
++ UxN-1N + Ux,N41 — 3Ux,N- (4.9b)
+
+Following commonly used notation, it is supposed that |z| denotes the modulus and arg z denotes
+the argument (with branch cut along negative real axis) for z € C. Let
+
+bp4(2) = ~~, z*=(l-z 1, Z)>1, andzp:=e'*, (4.10)
+, oo . , , Z
+YN I= ar Z*(Uy,N ~ Uxn—1) = vindD+ (zp), (4.11)
+with vy = A(T 4 ce iON — eR eluN — cgeltveniKvN), (4.12)
+As special case of (4.3), using the definitions uy, = 32°. z-*H(£x — 3 + Fux, uh = (un,4 +
+
+uy;—). and similar definitions for uy+1;4 and uy_1,+, taking the Fourier transform of (4.9), using
+(4.6) and (A 2) (i.e. H = Q — 2), itis found that
+
+(H +1 —fi)(an—1,4 + UN-1;-) + (UN—1;— — UN;-) = —V,4 + UbfN-2 (4.132)
+
+and
+(H +1—A)(an;+ + un;-) — (UN-1;- — UN;-) = VN, 4: (4.13b)
+
+Using (4.13b), un—1,- = (Cm 1)(un,4 + un;—) + uN; — i+ after substitution in (4.132),
+(a7? = 1)(un;+ + un;-) =fn—2uh — G6 + 1 fi)(un—1;4 + uN-1;-)- (4.14)
+Let the vertical bond lengths in the cracked row (i.e. between y = N and y = N — 1) be defined by
+Vx,N = Ux,N — Ux,N-1- (4.15)
+With vh, = vn;+ + vn;—, using (4.15) in (4.14),
+G7 — Denis + vn) = fiv-2ug — Of fi FA )an-a;+ + UN-1;-), (4.16)
+which, using (4.8), is an algebraic equation (yielding uy 4 in terms of vy): In fact,
+
+(1+ B)fn-2 —@-fAtr})
+Qt -1lQty-(+ Bf) Qt —1)
+By (4.15), un,4 + un;— = un-1,4 + uN-1;— + vn;+ + vn;—. Using equation (4.13b) and that Q =H +
+2=A+A71, itis found that
+
+vy =Vak_, and %=fn—2 (4.17)
+
+VN- = Un; — UN-1— =— QT! = 1)(uy,4 + UN;-) + Vig (4.18)
+Finally, the WH equation obtained for vy is
+
+14%,
+
+Lynn Evy. = (1 — £)vi, , where £ = —————__—_
+vn;+ + VN;- = (1 — L£)vy, + itd
+
+= Le, (4.19)
+with the structure factor
+5K B/Y/N)=1- caQQywrN?, (4.20)
+
+using the definition of Cg given by (3.6) and L; given in [40] (i.e. £y =A/r, see (A 1) for the details
+concerning A and r). The WH equation (4.19) is posed on an annulus A in the complex plane; the
+definition is provided in (A 3).

@@ -1,0 +1,30 @@
+Solving by separation of variables we find
+mycme elie /6)met
+
+Vid. + (myc) (eee! — 1)
+
+where mvc denotes the initial value of the product moment. From this representation formula,
+we obtain in particular that
+
+mwc(t)
+
+(i) mwc(t) > mjc = sgn(m)\c)mc for t > +00, thus myc reaches asymptotically the values
++tmc depending on whether it is initially positive or negative. If instead m{y- =0 then
+mwc remains zero at all times;
+
+(ii) the convergence of myc(t) to myc = sgn(m\c)mc is exponentially fast in time, indeed
+
+(ye/6ynet
+8 A MC H/F forts too. 3.6)
+
+Imwc(t) — mycl < mc | ——————=
+elHe/3)met _ 4
+
+These two facts allow us to infer from (3.4) the asymptotic trend of my. By rewriting (3.4) as
+
+. bw 2mcmwc
+me + Myc
+we observe that it is an ordinary differential equation of the form
+x =a()(b(t) — x). It is known that if a(t) is such that a < a(t) <a@ for two constants a, a> 0 and if b(t) converges
+exponentially fast to a limit value b° when t + +00, i.e. |b(#) — b*| S et for t sufficiently large
+and for a certain b > a@— a, then also x converges to b* as t > +00.

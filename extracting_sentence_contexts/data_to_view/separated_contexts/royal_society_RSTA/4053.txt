@@ -1,0 +1,12 @@
+It is apparent that scans 1, 2 and 3 give higher SNRs than the other scans. This is mainly : 8
+owing to the larger pixel size at low magnification, leading to larger sampling size. Interestingly, : S
+scans 8 and 10 have a relatively high SNR despite the fact that their signal is considerably less : s
+than that of the other scans taken at the same magnification. : &
+
+(c) Crack opening
+
+In this section, the crack openings as quantified by the FWHM (figure 4) values are compared
+with the measurements obtained from the high-resolution SEM images for cracks A and B in
+table 6. The actual crack opening in the absence of load, as measured by SEM, of crack A (4.3 um)
+is twice the voxel size in the ROI scan, whereas the width of crack B is 1.8 um, which is smaller
+than a pixel. This corroborates two findings.

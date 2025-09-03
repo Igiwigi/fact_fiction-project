@@ -1,0 +1,34 @@
+As
+expected from the LB development and continuum error analysis, at 6* = 1, the solver exhibits
+a much wider usability domain (in terms of non-dimensional viscosity). It is also interesting
+to note that the maximum achievable Mach number/non-dimensional velocity is reached at
+0.65 < 0 < 0.85. This can in part be justified by the fact that for @* <1, temperature deviation
+affects the behaviour of the numerical solver in the form of hyperviscosity, while 6* > 1 results
+
+
+(
+022 10
+1.9
+1.6 0.8
+1.3 0.6
+gt .
+1.0 04
+0.7 .
+0.4 0.2
+0.1 0
+10° 104 107 10° 10+ 10? 10°
+v6/62 v6/62 v6/62
+) 2.2
+1.9 0.4
+* 1.0 0.2
+0.7
+04 O.1
+0.1 0
+10° 104 107 1 10° 10+ 10? 1 10° 10* 10? 1
+v6/62 v6/62 v6/62
+
+Figure 3. Stability domain (in the @* — v5,/5? space) of the regularized collision operator. (a) Maximum achievable Mach
+number for (from left to right) orders two, three and four; corresponding maximum non-dimensional velocities are shown in
+the (b). Plain lines are iso-contours with 5u = 0.05 and 5Ma = 0.1. (Online version in colour.)
+
+in reduced dissipation at higher wavenumbers.

@@ -1,0 +1,10 @@
+First, we simulated a steady-state activation rather
+that included these other effects. They found that when data than a 2s short stimulus. This was required in order to account
+were simulated with their detailed model and analysed with the for the fact that the Davis model is a steady-state model that
+Davis model, the estimated CMRO, changes were reasonably does not account for the transient haemodynamics occurring
+accurate, but could be improved if the parameters a and £ of the during evoked functional activation with a short stimulus.
+original Davis model are treated as free parameters that can be Second, we simulated different levels of arterial dilation as well
+optimized to reflect multiple physiological and biophysical effects. as different levels of CMRO) increases rather than assuming a con-
+However, in doing that, only a loose correspondence persists stant flow—metabolism coupling ratio. Third, both the intra- and
+between the optimized parameters and their original physiological extravascular BOLD signals were simulated rather than extra-
+meaning. It is also possible that the optimized values simply rep- vascular-only.

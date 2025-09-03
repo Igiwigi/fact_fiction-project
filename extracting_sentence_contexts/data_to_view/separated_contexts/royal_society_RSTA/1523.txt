@@ -1,0 +1,8 @@
+SIM illuminates the sample with a periodic interference pattern with a periodicity close to the
+optical diffraction limit of the optical imaging system. A very important feature of SIM is the extremely efficient use of available photons, which,
+combined with high imaging speed and new evaluation algorithms, also makes SIM one of the
+most suitable techniques for live cell imaging. SIM bypasses the Abbe/Rayleigh limit by exploiting the fact that fluororphores (as opposed
+to scattering particles) react to excitation intensity by a proportional emission of incoherent
+fluorescence. Super-resolution is achieved in SIM by the illumination of the object with a periodic
+sinusoidal pattern. This multiplication in the spatial domain correlates to a convolution in the
+frequency domain.

@@ -1,0 +1,35 @@
+A rational agent
+would take into account the posterior distribution over
+possible languages in order to produce a signal that is most 2. A new untrained agent is added to the population.
+likely to be associated with the intended meaning across 3. The following communication/learning steps take place
+all the languages, weighted by their posterior probability. 20 times:
+
+However, this does not take into account the fact that a
+receiver of a signal does not know what the meaning is,
+so even if the correct meaning is associated with that
+signal in a particular language, if there are other meanings in
+that language with which that signal is also associated, then
+there is the possibility of a failure of communication. To
+
+1. The oldest agent is removed from the population.
+
+(a) A meaning is chosen at random.
+
+(b) The oldest agent produces a signal for that meaning.
+
+(c) A different, randomly chosen agent from the popu-
+lation observes the meaning-signal pair and updates
+its posterior.
+
+take that into account, we introduce a communicative ration- Note that in this set-up, each agent will potentially be
+
+ality parameter y, which determines how much an agent exposed to data from nine other agents in their lifetime,
+
+considers the risk of ambiguity for each particular signal and it is always the most experienced agent who provides
+
+and language. data for less experienced agents (we alter this feature of the
+This gives us a ‘communication’ function, which gives a simulation in a later section).
+
+communicative weighting for each signal given a language To implement the deaf community or school setting (learn-
+
+and meaning C(s 11, m): ing from learners condition), we make only one modification.

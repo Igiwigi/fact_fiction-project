@@ -1,0 +1,11 @@
+The numerical procedure proposed improves
+upon existing methods that were used to determine the material constants (;, a) as best-
+fit parameters. The authors also found that the correlation between the data and the model
+is casual or in some sense, spurious. This is explained by the fact that the Ogden model is
+purely phenomenological and does not connect the material constants to mesoscopic quantities
+or mechanical features. As shown later by Ogden et al. [17], the curve-fitting procedure of (1.10) is a nonlinear
+optimization problem and its solution is not unique for n> 2. Hence, several combinations of
+
+
+material parameters exist that provide the same level of optimal fitting, but with the predictions
+of the corresponding models being quantitatively different, sometimes widely.

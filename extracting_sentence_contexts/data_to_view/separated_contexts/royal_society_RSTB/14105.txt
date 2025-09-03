@@ -1,0 +1,17 @@
+Second, an that different animals allow more or less freedom of LED
+experimenter may want to weight each target photorecep- choice (electronic supplementary material, figure S2m-q).
+tor excitation differently, if certain photoreceptors are Interestingly, LED combinations that would be chosen
+thought to be less involved in colour processing (see e.g. according to the peak of the sensitivities, a commonly used
+[20]). Thus, we obtain a constrained objective function that strategy when designing stimulus systems [23,24], most
+
+minimizes the weighted (w) difference between our desired often are not included in the 10% largest gamuts of all
+
+
+n-LED combinations (electronic supplementary material, gamut—they cannot be reproduced by scaling the intensi-
+
+figure S2m-q). This is due to the fact that our metric takes ties—values are usually scaled and clipped in a way to
+into account the shape and overlap of the sensitivities and minimize ‘burning’ of the image [27]. An image is burned
+LEDs, in addition to the peak of the sensitivities and LEDs. when it contains uniform blobs of colour that should have
+Finally, a desired property of a given stimulus system may more detail. Procedures to minimize burning of an image for
+be to enable experiments across vastly different intensity humans usually involve preserving relative distances between
+regimes.

@@ -1,0 +1,8 @@
+Incorporating human personality analysis to adapt a robot's The categorical model of emotion has been the most
+behaviour for engaging a person in an activity is becoming widely adopted approach in the literature. Cid ef al. [18]
+an important component for social robots [10-12]. One pro- developed an emotion recognition system by extracting fea-
+minent work by Rahbar et al. [13] focused on the prediction tures based on the facial action coding system (FACS) [19],
+of the extroversion trait only, when a participant was interact- and implemented it on a robotic head, Muecas [20], for an
+ing with the humanoid iCub [14], a robot shaped like a 4 imitation task. For emotion recognition, they first applied a
+year-old child. They extracted both individual features and preprocessing step to the face image taken by Muecas to nor-
+interpersonal features.

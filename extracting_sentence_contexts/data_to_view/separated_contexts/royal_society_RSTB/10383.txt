@@ -1,0 +1,35 @@
+We constrained the
+sequences such that the observed joint frequencies were exactly
+equated in each epoch (as opposed to equated on average). Thus, transition probabilities did not provide information
+about the location of community boundaries. To learn these
+boundaries, it was necessary to pick up on the fact that
+nodes in the same community were connected to overlapping
+sets of other nodes, whereas nodes from different communities
+were not. The only change to the architecture and parameters for this
+simulation was the addition of seven units to EC;,, and EC,,,; to
+accommodate the 15 nodes in the graph (versus the eight
+paired items). We exposed the model to sequences in the
+same way as for the pair structure paradigm, with two items
+presented at a time in a moving window and the previous
+
+
+(a) representations after training on community structure (b) graph with community structure
+
+DG CA3 CAL
+= a) . _ 0.6
+
+(e) pattern similarity
+
+G initial within internal —@ settled within internal
+G initial within boundary @ settled within boundary
+C initial across boundary @ settled across boundary
+
+Gi initial across other W settled across other
+(d)
+g > output for community structure CA1 settled — initial < 0.5
+Sg 10 <== sl eR 3 x 0.4
+fe Bs
+S 0.8 0.10 Qs
+3 5 0.6 — internal items 005  & 5 02
+8G 04 boundary items ° 0s Be o1
+£2 .

@@ -1,0 +1,12 @@
+In that context, the underlying idea in ComPat is that performance of the entire multiscale
+application can be predicted by combining two pieces of information together: (1) computational
+costs of every single-scale submodel and (2) interactions among submodels. These interactions
+are described by the submodel coupling topology and other parameters, such as the number
+and dynamicity of their instances. In fact, the claim is that, with only three configurations and
+any of their combinations, one can describe all kinds of multiscale applications and predict
+their performances on any HPC where the submodels have been profiled. These configurations
+are called the multiscale computing patterns (MCPs), and they are the extreme scaling (ES),
+heterogeneous multiscale computing (HMC) and replica computing (RC) patterns. In particular, a
+multiscale application follows the ES pattern if one submodel (the primary) dominates by far in
+terms of application computing costs compared to the other submodels (the auxiliaries), and both
+the number and creation of all submodels are static.

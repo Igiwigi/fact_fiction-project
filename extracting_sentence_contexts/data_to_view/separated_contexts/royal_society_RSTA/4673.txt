@@ -1,0 +1,22 @@
+It is important to recognize that, unlike MTMs,
+the materials called for in the present FT design have many desirable features, namely broad
+bandwidth; desirable loss and dispersion characteristics; and desirable levels of insensitivity to
+angle of incidence and polarization, as shown below in this paper.
+
+2. Field transformation in the context of generalized scattering matrix approach
+
+When designing an electromagnetic device, such as a lens antenna, we typically begin with a
+
+given source, such as a feed horn, and specify that the field radiated by the horn be transformed : =
+into a planar phase front, for instance. As is well known, this task is easily accomplished by : Sy
+placing the feed horn at the focal point of a conventional convex or plano-convex lens, and the a
+procedure for designing such a lens based on the ray optics (RO) approach is well established in aed
+the literature; in fact, it is a just a textbook case. : a
+
+The situation is different when we stipulate that the shape of the lens be flat instead of ne]
+convex. To address this problem, the TO algorithm offers an elegant recipe based on transforming : fa
+the geometry of the original convex lens into a planar one. The TO algorithm then shows us : =
+how to derive the requisite material parameters of the planar lens by using well-established : &
+
+relationships [6] between the ¢ and y values of the original convex lens and its surrounding
+medium, and those of its planar counterpart.

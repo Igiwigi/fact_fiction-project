@@ -1,0 +1,12 @@
+It also may represent the case where an hand, Deffner & Kandler [23] found that idealized agents
+adaptation already exists and has been maintained through evolved strategies to balance fast innovation with more sus-
+intergenerational transmission, for example, among Indigen- tainable long-term adaptations in a well-mixed, fitness-
+ous populations [9,14]. Adaptation failure in our model is biased learning model; in that model, simulated learners
+represented by the loss of the adaptive behaviour from the chose a fully random subset of teachers from a large popu-
+population, i.e. all agents adopt the non-adaptive behaviour. lation, then learned from the best-performing teacher. Our
+Note, then, that it is possible for model agents to revert to minority—majority approach takes a middle ground, represent-
+the non-adaptive behaviour through social learning after ing the fact that human social networks constrain who we
+learning the adaptive behaviour (the exact model learning interact with, but we also regularly interact with strangers.
+process is explained in §2 below). When either adaptive suc- Our model most closely represents those climate change
+cess or failure occur we say that either the adaptive or non- adaptations that may spread from one person or household
+adaptive trait has fixated, respectively. We will show that to another.

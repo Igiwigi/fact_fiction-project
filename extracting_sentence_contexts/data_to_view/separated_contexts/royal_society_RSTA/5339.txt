@@ -1,0 +1,7 @@
+However, our position so far has been to favour a Bayesian methodology,
+because it allows one to encode physical constraints in the form of prior
+distributions on model parameters. The Bayesian formalism is also naturally
+designed for model calibration, selection and probabilistic predictions. The fact is that Bayesian methods for selection and calibration of dynamical
+systems on noisy observations are only emerging. In a recent attempt, we
+considered a particle filter for parameter and state estimation [104]. To be honest,
+there is ample room for progress.

@@ -1,0 +1,45 @@
+But if Ay = 0 and dw; !<oo (3-76)
+
+the two solutions have different asymptotic values and are therefore distinct. Since
+w,!~const. cs~”
+(3°76) is compatible with the condition of theorems 5, 7 and 9 if
+
+¢=1, a>2, b>1, a—b>2. (3-77)
+
+
+EQUATIONS OF SIMPLE BIRTH AND DEATH PROCESSES 363
+For example, we can take a=5, b6=2, c=1;
+a simple process with these parameters is given by
+A, = w(nb+-2n4), fy = fe. We summarize these results in
+
+Turorem 10, If the parameters of an analytical process in which Ay ~ 0, satisfy the conditions
+(3°77) then the matrices F(t) and G(t) are distinct and in fact have the following properties:
+
+ol ae eae ,
+
+- F(t) = F()jA = AF (2),
+
+d G01) = G(t) A = AG(8),
+
+dt 4
+
+F(0) = G(0) =f,
+
+0<f(Q<1, Sfyl)<1,
+
+j=0
+
+j-0
+
+F(t+7) =F(i) F(r), G(t-4+-7 G(t) G(7),
+but fo(co) =G<1 (i>0), g(oo) =1. We recall that the ith row of F(t) or G(?) represents a solution of the equation
+
+0 p(t) A
+with the initial values
+PAO) =p e(0) 10) hae)
+
+Since all the rows of (3-74) or of (3-75) are identical, the solution G(¢) (if it exists) has the
+“ergodic property’ (see p. 344) because the asymptotic distribution does not depend on the
+initial distribution. On the other hand, if ¢<1, /(é) is not ergodic since the rows of (3-73)
+are then distinct; in these circumstances, if the system remains finite at all, it can only tend
+to the state of complete annihilation.

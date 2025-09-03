@@ -1,0 +1,9 @@
+Critiques
+
+Finally, let us comment on weaknesses of the above arguments. Regardless of the form in which
+the ‘bootstrap’ argument is phrased, it inevitably relies on the fact that thermalized regions exhibit
+some chaotic behaviour towards the distant LIOMs that are coupled to it. In the present §4, this
+was apparent in the fact that matrix elements were computed by a random matrix ansatz. One
+can certainly imagine scenarios in which the coupling of the first LIOMs would ‘kill’ the bath,
+so that it would become unable to thermalize more LIOMs. Such scenarios go under the name
+‘proximity effects’ (see [32,33], also explored in [34]).

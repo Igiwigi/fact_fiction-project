@@ -1,0 +1,22 @@
+Using our previous results, we can approximately implement any single-subsystem
+unitary. To implement any two-subsystem unitary between subsystems A and B, we (i) consider
+those two subsystems as a composite system, and (ii) use the same procedure as before on this
+composite system and a similar composite system in the reference frame (hence involving only
+four primitive subsystems). For example, to implement exp(—ia(o ®@ of?) /N)), we would apply
+exp(—i(w/N) SWAPs, 2, SWAPs,,R,) to the state ps,s, ® (ol ® a1”) ay: Once we can perform
+any two-subsystem unitary, we can use standard techniques to construct a circuit to implement
+any unitary on the system up to the desired accuracy.*
+
+If the subsystems are all of the same type, then an alternative approach would be to
+use (i) the fact that Unyp = /SWAP is an entangling two-subsystem gate which commutes
+with all conserved quantities, and (ii) that such a gate plus all single subsystem unitaries is
+computationally universal [26]. This would require only bipartite interactions, with the caveat
+of a more complicated construction.
+
+4. An application to quantum thermodynamics
+
+Although the reference frame construction above could be of use in many different scenarios,
+one interesting application is to quantum thermodynamics with multiple conserved quantities
+
+“In particular, we can apply the approach in [25] (generalized to arbitrary dimension) based on two-level unitaries built
+from controlled unitary gates on two subsystems.

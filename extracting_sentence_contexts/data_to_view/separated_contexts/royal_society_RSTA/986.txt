@@ -1,0 +1,27 @@
+Before :s
+analysing the structure of the inhomogeneous rod let us consider what it means to be in the :
+quasi-static regime of a viscoelastic material that has been subjected to finite deformation. For
+convenience, we do not append a hat to time varying variables in this section as we have done
+above, because we are not envisaging taking Fourier transforms of these variables - they are
+associated with the large deformation problem.
+
+(a) Quasi-static deformations
+
+We shall study nonlinear viscoelastic media that behave in a manner described by the QLV
+
+theory [40,45,71]. The general constitutive expression for anisotropic media takes the form
+
+aTT®(s)
+ds
+
+t
+TT’(t) =| G(t—s): ds, (4.1)
+00
+
+where TT is the second Piola—Kirchhoff stress with superscripts ‘ve’ and ‘e’ referring to the
+viscoelastic and elastic stresses, respectively, and G is a fourth-order reduced relaxation tensor,
+where reduced refers to the fact that it is non-dimensional, unlike the relaxation tensor in linear
+viscoelasticity, which has dimensions of stress, see e.g. (2.3). The stress T° is the (instantaneous)
+elastic stress, derived from a strain energy W as is standard in nonlinear elasticity. The form
+prescribed in (4.1) preserves objectivity and provides a balance between realistic modelling and
+ease of implementation in computational simulations.

@@ -1,0 +1,44 @@
+The dependency of the spectral density of the output signal of system (3.1) at the frequency 2 for large t on the
+noise intensity D for y = 0.1, A = 0.9,A = 0.1, 2 =1,x(0) = 0.5 and x(0) = 0.1. (Online version in colour.)
+
+the former one. The corresponding Fokker-Planck equation has the form
+
+af ar) 2 . 1, 1 #f
+2=-(p—-— Mx — Asin Qt =D? =. .
+at (> dx apy te Asin iF a8 op (33)
+To determine the mean values (moments) (x), (x2), etc., we use the following relations:
++00 p-too +00 p-too
+w= [[ xfG.pndrdp and pry=[" | p'fe,p.drdp. G4)
+—co J—oo —co J—oo
+
+Multiplying (3.3) by x (or p), and integrating with respect to x and p, we get the following
+equations for the first moments:
+
+di) dp
+a (p), a y (p) — A(x) + Asin Qt. (3.5)
+Similarly, equations for the second moments are obtained in the form
+2
+SO) = apap), SOP) <p) — yap) — 2702) + AG) sin.2t,
+(3.6)
+dip’)
+
+= —2y (p*) — 242 (xp) + 2A(p) sin Qt + D(x’).
+
+dt
+
+Due to the fact that the considered system is linear, equations for the moments of order n are not
+affected by higher order moments. As is seen from (3.5), the first-order moments are not affected
+by noise. Equations for the second moments can be written in the matrix form X = AX +B with
+
+(22). a(S 2 2) ant v(t)
+X= (xp)], A=]-22 -y 1 and B=| A(x)sinQt (3.7)
+
+)) D- —2)2 -2y) 2A (p) sin 2t
+
+This system is linear and its eigenvalues x are governed by the equation det(A — x1) =0 that takes
+the form
+3 2 2 2 2 -
+x” + By xe + 2y* + 2A*)x + 4a°y —2D=0 (3.8)
+
+The solution to (3.6) will be stable if all eigenvalues are distinct and have non-positive real parts
+Re[x;] < 0, i=1,2,3.

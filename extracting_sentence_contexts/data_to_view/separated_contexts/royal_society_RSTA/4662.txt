@@ -1,0 +1,22 @@
+In [10], the authors introduce a monotonicity function which is considered only in Bf
+and uses strongly the almost-convexity properties of the set {u = 0}. The result in [10] states that
+
+| (ux? sce, (3.5)
+B}
+
+where u is the solution to the thin obstacle problem. This monotonicity result uses the fact that
+the smallest eigenvalue, given by
+
+Soaps \Vawl? ds
+do= inf 1
+
+ad
+weH!(0By) Sage w? aS
+w=0 on (9B))~
+
+where Vg denotes the surface gradient on the unit sphere, and (0B))~ = {x’ =(x",xn-1) € RR” 1:
+Xn—1 <0} is given by Ap = (2n — 3)/4. Using this monotonicity formula, one can prove the growth rate of order 3/2 from free
+boundary points. To prove this, it suffices to show that supp |Ux,| < cr,
+
+°It is noteworthy that the solution may exhibit higher order regularity at free boundary points, depending on the number of
+connected components of {1 <0} in the upper half-ball.

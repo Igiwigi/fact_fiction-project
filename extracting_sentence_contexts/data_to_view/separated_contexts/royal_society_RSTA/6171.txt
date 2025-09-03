@@ -1,0 +1,6 @@
+The subscript on B indicates that all B-cells in this
+population are naive: they have very low affinity for viral proteins. This process is interpreted as
+allocation of a population of B-cells and not production of the cells themselves. This is somewhat of
+a computational fiction and is an artefact of the simplifying choice as with the virus population to
+not track individual cells, but only their count (or in this case, their affinity). The process therefore
+proceeds immediately, at infinite rate. The function of B-cells is to produce antibodies.

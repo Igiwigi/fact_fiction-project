@@ -1,0 +1,11 @@
+Hilbert’s question can be reformulated in terms of algorithms: What is the simplest algorithm
+for a given problem? At the current state of the art, the only way to guarantee that the software at hand is indeed
+without errors is to use verification tools to obtain a formal proof. In fact, according to the ISO/IEC
+
+‘Translation by the author.
+
+2In this article, the term proof theory always refers to the subfield of structural proof theory. The areas of ordinal analysis and
+reverse mathematics are not discussed here.
+
+3Proof normalization will be discussed in §2a below. Common Criteria*, the highest level of assurance (EAL7) for software is achieved by formal
+mathematical proofs of the correctness.

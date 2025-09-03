@@ -1,0 +1,20 @@
+The flock solution corresponds to the case in which all particles move with the same velocity
+vector vj = vg with |vg|? =a@/f while the positions X; € RN, i=1,...,M satisfy that the forces are
+balanced, that is,
+
+Yo VW = 8) =0.
+iAi
+
+The flocking solution corresponds then to the translational movement of the shape formed
+by the positions &;€RN,i=1,...,M with velocity vector vg. When the number of particles
+tends to infinity, these discrete flocking solutions are approximating continuum density profiles
+p satisfying VW * 6 =0 at least over the support of /. In fact, the connection between the
+second-order microscopic model (4.1) and the first-order model given by
+
+dx;
+a7 =- » VW(x; — xj) (4.2)
+j#i
+
+has been clarified in [55,56]. In these articles, it is shown that the stability of flock solutions for (4.1)
+is equivalent to the stability of the spatial shape of the flock as steady solution to (4.2). A similar
+result at the level of the continuum equations is lacking.

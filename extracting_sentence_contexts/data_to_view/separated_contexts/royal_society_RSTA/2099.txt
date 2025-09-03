@@ -1,0 +1,10 @@
+Postulate I, Quantum Mechanics, implies, in particular, that evolution of states (4.1) is unitary. Its infinitesimal generator takes the form
+
+H=Hpn + Heny + Hr, (4.3)
+
+where Hyp, and Heny act on the BH and environment subsystems, respectively, and H] acts on both,
+and can transfer information between them. In fact, LQFT evolution, on a time slicing, can be put
+in this form [34]. However, LQFT evolution will not be unitary once the shrinkage of the BH is
+taken into account, as we have argued above. In LOFT, H only increases entanglement between
+BH and the environment, either by creating Hawking pairs or by transferring entanglement from
+the environment to the BH, resulting in the unacceptable situation described in §2.

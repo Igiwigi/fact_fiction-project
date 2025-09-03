@@ -1,0 +1,66 @@
+A simple type that presents itself is that for which
+
+leD*p (2) = p (a)
+for then the separate terms of series such as § 8.1 (3), (4), (5), (6) have p (a) as a common
+factor and (5) and (6) may be written
+
+5" a n
+Po“) =Dp@). fi+z...}. te
+
+Ge P@) = Dp (a). fr42t3.}. 40 eae ee
+
+
+
+THE DEFERRED APPROACH TO THE LIMIT. 327
+
+At the same time the sum to infinity of the series in the bracket is given by putting
+AD = 1 in §8.1 (1), (2). The question then is: how small must / be in order that
+
+The convergence is faster if h?D*p (2) < p(x). Thatis to say if p (7) = e” the conver-
+gence will be faster than that indicated in the table provided that ;
+(6)
+
+ISS AVS cogs ae ee oe ere
+But it is not possible to fix h so that the h?-extrapolation remains valid for obtaining Dre
+If 12D2p (x) = — p(x), we put hD = VY —1 in §8.1 (1), (2), (5), (6), thus changing
+
+OUMOICTICGME EEO 20 AROMAT seG RIGO ny PRE. ee Se (7)
+For on comparing § 8.1 (5) with §8.1 (1), in view of the fact that De” = ae”, the
+hyperbolic to circular functions ; so that in place of § 8.2 (4), (5), we have
+
+(2 sinh 3)" =1 +5+ ae.
+and
+(2 sinh 4)" cosh} = 1 + ett... :
+
+with satisfactory approximation at the last term stated? ‘The question involves the
+purpose of the calculation, and so cannot be decided in general ; but some illustrations
+
+will be given.
+2 sinh } = 1-0422,, cosh 4 = 1-12763
+
+n | (1-04220)". | nae 4 , | (1-04220)" ¢1-12763. | 14: mt |
+1 1-0422 1-0417 1-1752 | 1-1667
+10 15119 1-416 1-7048 | 1-547
+|
+
+The table shows that even for tenth differences the terms »/24 and (n-+-3)/24 form the
+greater parts of the excess above unity of the sum to infinity.
+
+question is whether
+2 vee aay + ee eg
+
+with sufficient approximation atthelast term shown ? ‘The first member is an exponential
+function of m, the second member is a linear function of », and they cannot remain
+approximately equal as n > 2.
+
+§ 8.3. Cosine Type.
+
+n
+
+(2 sin $)"=1 eg are
+
+9 a n i _n+3 9
+(2 sin $)" cos } = 1 eer ngs tsi Ce aC
+
+
+328 LEWIS F. RICHARDSON AND J.

@@ -1,0 +1,15 @@
+Strong scalability of IFS and ICON models in global high-resolution simulations. : a
+
+core, radiation and physics components, but excluding I/O. The performance difference between a
+the models can be explained by mainly three (partly multiplicative) factors: IFS makes use of :S
+the hydrostatic model formulation instead of the non-hydrostatic model option, which in the IFS :
+approximately halves the performance at the moment (approx. 2x), IFS runs at single-precision
+(approx. 1.6x) [30] and most importantly employs a significantly longer time step due to its semi-
+implicit time integration (IFS/ICON: 240 s/45 s=5x in the 5km case). All these accumulate to
+a factor 16 and the figure implies about a factor 10, which is likely due to the fact that in ICON,
+there are different time steps used in the coupling to the physics compared to the dynamics part
+(the same in IFS). Figure 4 suggests that a throughput of 1 SYPD is achievable on today’s supercomputers for
+a 5km resolution case (IFS, single-precision, hydrostatic, 960 nodes). Referring to the double-
+precision, non-hydrostatic, full I/O performance of the DYAMOND 5km run using ICON
+and restricting considerations to atmosphere-only simulations, a throughput of ca 0.17 SYPD
+is reached on 900 compute nodes.

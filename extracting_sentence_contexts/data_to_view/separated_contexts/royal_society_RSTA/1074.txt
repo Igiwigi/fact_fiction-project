@@ -1,0 +1,15 @@
+The fluctuations are added to the mean
+velocity part of the local Riemann invariants corresponding to the incoming waves of the one-
+dimensional characteristic boundary conditions, which are defined at each nozzle stream inlet
+based on the operational jet conditions [16,18,24]. There are two coupling parameters that control
+the amplitude and the time scale of the synthetic turbulence. The use of the synthetic turbulence generator is motivated by the fact that although there are
+no data on turbulence measurements inside the CoJeN nozzles, boundary layers at the nozzle exit
+of a jet flow at the Reynolds number of the CoJeN jets are expected to be fully turbulent. Hence,
+in the absence of the experimental data and following the standard practice to prescribe inflow
+conditions in the jet LES literature [25], the amplitude parameter of the synthetic turbulence
+generator is chosen such that at the nozzle exit the average turbulent velocity fluctuations are
+around 3% of the stream-wise velocity. The time scale of the synthetic turbulence generator that
+scales with the stream-wise flow velocity inside the nozzle is adjusted accordingly so that the
+generated turbulent eddies are captured within several grid cells of the boundary layer, hence,
+allowing the CABARET solution to propagate a significant part of the synthetic turbulence from
+the inlets to the nozzle exit without strong dissipation.

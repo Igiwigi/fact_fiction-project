@@ -1,0 +1,63 @@
+DOUBLE GAMMA FUNCTION. 341
+
+was, however, published after my paper had been sent to press, and I was therefore
+ignorant of his elegant results. Expressed in the notation which I have adopted, his
+method is as follows. Tt is evident from the expression of the function {(s, a, ) as an asymptotic limit,
+that its importance lies in the fact that it is a solution of the difference equation
+
+f(a+a)—f(a)=—*,
+
+v
+
+when s has any value, real or complex. [From this result we see at once that we
+should expect that, when s is a positive integer, the simple ¢ function should be sub-
+“stantially a derivative of the gamma function, and when s is a negative integer, a
+SBernoullian function.] Now when X(s)>1, the simplest solution of our difference
+epmation is evidently
+
+el a
+2 == | 9) eareeaerr
+‘o ; (8,4, o) n=o0(@ + no)
+f=]
+6
+
+© This solution becomes nugatory when (s)$ 1, but Merny has succeeded in finding
+8a modified solution by the following ingenious modification of Mrrrac-Lerrier’s
+
+fel)
+
+process,
+
+<4 We construct the function
+
+co}
+
+z S_.2(a@|o)
+
+‘2when 1 > X(s) < — &, by writing —s in place of m in the m' simple Bernoullian
+Z function
+
+Dy mt1 m
+g Sloe) = - St. + (")aB,,, (0) bigs
+
+= and taking the sum of the first * + 1 terms, k being of course a positive integer.
+
+iS} 1- = k=1/ ‘
+
+Thus ai- an" im p\ioft
+> S,-:(a|o) = Gaede nk 2 + = | F3 )a7",B,,, (0).
+as)
+
+g And now ((s, @, @) is defined by the relation
+
+A &(s,a, ) :
+Rha) ie oe ete ht yi) ela} + Bey (a + no|)}. We readily see that this function formally satisfies our fundamental difference
+equation, and we may at once prove that the series does define a function existing
+
+over the whole plane. For when s=0,;—1,...,—4,
+it is evident that S_.2(a|@) = S_,(a|@) + constant,
+
+and therefore $_.2(a\e) —S_a(a) -— oe! = 0.
+
+
+342 MR.

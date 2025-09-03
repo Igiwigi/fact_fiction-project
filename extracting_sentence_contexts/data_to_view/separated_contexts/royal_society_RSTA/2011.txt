@@ -1,0 +1,8 @@
+This coupling may operate not only from cell to whole
+organ, but also in the reverse direction. Co-variances among model parameters, especially
+at different scales, are also an important consideration. A recent study has reviewed
+sensitivity analysis in many different modelling applications, and has highlighted the
+fact that many sensitivity analyses are flawed because model input spaces have not been
+explored thoroughly taking into account co-varying inputs [122]. Cardiac electrophysiology models have become a valuable tool not only for basic science, but
+also have been proposed for transition into clinical applications [98,99,117,118]. The credibility of
+model outputs has therefore become an important challenge.

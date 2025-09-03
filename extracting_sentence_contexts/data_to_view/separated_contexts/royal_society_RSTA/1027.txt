@@ -1,0 +1,9 @@
+Alternatively, in the case where there are multiple stable branches, one of the branches ia
+is always the trivial reference state. In this case, we assume that the reference state is chosen. This 4
+assumption is based on the fact that the dead load is added to the reference state and, thus, unless 4
+perturbed in some way, it will remain in this state. +
+The stable equilibria are illustrated in the stochastic bifurcation diagram shown in figure 5a,
+where p; =400, p2 =0.0013. Hence = p1p2=0.52, and we can see that the probability
+distribution follows the stable branches of the bifurcation diagram (cf. figure 2). Moreover,
+figure 5b shows that the probability of the cube presenting the trivial reference state is
+approximately 50%, which matches the probability derived above.

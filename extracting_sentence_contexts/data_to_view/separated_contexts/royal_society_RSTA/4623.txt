@@ -1,0 +1,13 @@
+It was proved in [30] that the mapping > /i has a unique fixed point if 0 <t <T, which yields
+the solution asserted in theorem 3.2. The extension of the solution to all times remains a difficult open problem, so here we
+formulate a much simpler one. Consider the cylindrically symmetric case, so that
+
+(x,y,z, =P(r,z,b), r= (x7 + yy,
+
+and, in fact, take
+g(r,z,t) = Z(r,t) — z. Then the free boundary moves according to the equation
+
+Zt + vZ; — v3 =0,
+
+where v = (v, v3), and v is the radial velocity. Consider the elliptic system (3.8)-(3.11) with P a : =
+given function of (r,t).

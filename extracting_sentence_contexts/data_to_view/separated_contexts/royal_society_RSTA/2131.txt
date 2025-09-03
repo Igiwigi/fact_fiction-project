@@ -1,0 +1,16 @@
+However, through recognition of the cortical microcircuit structure and topology,
+it is possible to further optimize performance. For example, while the sPyNNaker software
+package can handle a generic SNN model with multiple projections between populations, the
+cortical microcircuit model has only a single receiving projection between each population. This
+information is used to simplify code handling address look-up, acknowledging the fact that :8
+only a single address will be returned, and removing multiple loops and conditional statements [S
+accordingly. Overall these updates enable a single spike targeting a single neuron to be processed :3
+in 3.55 1s, a 31% reduction relative to previously published results [12]. It is useful to contrast =
+this number with the spike processing window, which effectively begins when neurons start : ”
+sending spike packets, and ends when the second timer event is triggered, giving it range: : =
+3.73 8 < ts,proc < 90 Ls. a
+
+(b) SpiNNaker machine clock alignment 7
+
+SpiNNaker machines comprise multiple 48-chip SpiNNaker boards, with board-to-board : ws
+communication via data packets.

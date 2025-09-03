@@ -1,0 +1,8 @@
+The main difficulty
+when dealing with the primitive equations on spaces of bounded functions is that the hydrostatic
+Helmholtz projection P fails to be bounded with respect to the L*°-norm. This is similar to the case
+of the classical Stokes semigroup, see §3. The proof is based on the fact that the combination of the
+three main players, V, P, elAr, nevertheless give rise to bounded operators on LoeL? (92), which in
+addition satisfy typical global, second order parabolic decay estimates. Note that the choice of the boundary conditions involved affects to a very great extent
+the difficulty in proving these estimates. For the case of mixed Dirichlet-Neumann boundary
+conditions, i.e.

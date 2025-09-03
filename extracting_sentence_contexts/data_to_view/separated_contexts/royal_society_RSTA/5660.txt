@@ -1,0 +1,32 @@
+Balanced ROMs are then constructed with ERA. Eigenvalues of the ROMs are shown in
+figure 4. All eigenvalues are located inside the unit circle (with maximum absolute value of
+|A| = 0.9999976), which demonstrates discrete-time stability of the balanced ROMs, despite the
+fact that the time step of balanced ROMs is 100 times larger than the original time step of
+
+
+Ooo = (c) T T T
+—— velocity 1.00; ¢  FOM
+5 — temperature < NI-BROM (p)
+A NI-BROM (u)
+e-10 | 0.75 | NEBROM (T) ~
+0
+2
+“15 one 0.50 |
+—— =| 0.25 |
+0 100 200 300 400 500
+m & 0
+B
+&
+0.25 | A
+0.50 |.
+z |
+2 O4y ; tyme pressure 0.75 |. Ej i i | = velocity
+Bo) fe temperature |
+© mass fraction -1.00 |
+.
+9 700 40 6080 =1.00 -0.75 0.50 025 0 025 050 075 1.00
+mode index
+
+real
+
+Figure 4. Hankel singular values (a).

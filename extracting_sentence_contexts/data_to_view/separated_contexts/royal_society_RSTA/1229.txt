@@ -1,0 +1,18 @@
+The coefficient b(x,y), often called the
+fragmentation kernel or daughter distribution function, can be interpreted as giving the number
+of size x particles produced by the fragmentation of a size y particle; more precisely, it is the
+distribution function of the sizes of the daughter particles. In most investigations into (1.1), b is
+assumed to be non-negative and measurable, with b(x, y) =0 for x > y and
+
+y
+| xb(x,y)dx=y, foreach y>0, (1.4)
+0
+
+but is otherwise arbitrary. Equation (1.4) can be viewed as a local mass conservation property,
+as it expresses the fact that, when the size variable is the particle mass, the total mass of all
+the daughter particles produced by a fragmentation event is the same as that of the parent
+particle. In the case of deterministic models, with either discrete or continuous size, two main
+approaches have been used extensively in their analysis, with one involving weak compactness
+arguments and the other using the theory of operator semigroups. Comprehensive treatments of
+each are given in [1], and there is also an excellent account in [7, ch. 36] of the semigroup approach
+to the discrete fragmentation equation.

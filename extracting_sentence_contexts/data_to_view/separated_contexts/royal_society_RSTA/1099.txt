@@ -1,0 +1,7 @@
+Notice that the dissipation matrix may depend on the non-equilibrium variables as well as the
+conserved ones, while the usual Onsager relation only allows the dependence on the conserved
+variables. It was shown in [16] why the dissipation matrix M = M(U) must be positive instead
+of semi-positive definite. In fact, this positive definiteness guarantees that (u,v) =0 whenever
+q(u, v) =0. This means that the local equilibrium states are those attaining the maximum of the
+entropy with respect to the non-equilibrium variable. We conclude this section with the entropy-production inequality proposed in [28], which follows
+from the conservation-dissipation principle.

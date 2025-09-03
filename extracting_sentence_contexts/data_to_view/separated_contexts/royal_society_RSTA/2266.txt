@@ -1,0 +1,40 @@
+Finally, the solution of (4.42) is written as (4.45). Also, as detailed in
+electronic supplementary material, S1, it is found that
+
+. 2, L4(zp)
+t i q +\4F
+uiynN =—U9nN_1-—— ——_- (4.51)
+1N 0,N-1 y-2 Lo
+
+In the case of incidence from the waveguide, (4.48) follows with
+CoAT! ub y_12P£+(2p)2q(2q — zp) €C. (4.52)
+By using (4.38) and (4.25), as well as (4.37), uy-1 and UNG can be found. In fact, an analogue
+of (4.5) provides the exact solution everywhere. In particular, (4.5)1, (4.48) yields
+
+2K(2)
+(z-zp)
+and additionally by (4.5) and (4.37); (as well as using (4.3)2 and (4.38)3)
+2K(2) ( (1+ B)fn-1
+z—zp\(Q+¥—(1+ B)A)
+(a-2N — 4) (with y ¢Z)-1),
+
+ul (2) =ACo ( ) x(z)Y-N (with y > N) (4.53)
+
+uh (@) = Aco aa72Nay — any — va Nay — ~~)
+
+(4.54)
+
+Above is not surprising, since the expression of uy—1,4 + uN4+1;+ can be used to determine un,—
+by (4.34), so that the problem is solved completely by (4.37).
+
+5. Far-field approximation in the reduced half-plane problem
+
+(a) Far-field approximation in the bulk lattice
+
+In either case, i.e. crack or rigid constraint, u,, is eventually determined by inverse Fourier
+transform,
+1
+wey = 5p, Ode, (eT, 6.1)
+where C, is a rectifiable, closed, counterclockwise contour (an appropriately dented contour, most
+of which coincides with the unit circle TCC in case the limit w2— 0* is considered) in the
+annulus A (recall (A 3) and remark 4.2).

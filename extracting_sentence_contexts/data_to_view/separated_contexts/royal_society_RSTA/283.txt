@@ -1,0 +1,9 @@
+To be physically meaningful, the ‘frequency’ variable f takes on only positive,
+integer values (although to fully invert this transformation and recover the density in the original
+random variable, both positive and negative frequencies are needed). In the ECF domain indexed
+by frequency f, the representation of the density is much more compact than the density in the
+domain of the state variable x. This economy originates in the fact that the Fourier representation
+for highly periodic or close to periodic functions is sparse, that is, few of the Fourier coefficients
+are large in magnitude [42]. By contrast, the density in the domain of the original, untransformed
+variable will typically have no small values at all. Given the typical sparsity of the ECF domain, we can simplify this by only retaining those
+coefficients that are larger in magnitude than a given threshold 4; the rest can be set to zero.

@@ -1,0 +1,42 @@
+The order O(Ine)
+term in the displacement gradient du,/0z was obtained by singular asymptotic of integrals in
+Callias & Markenscoff [14] as,
+
+byi(t
+vit z Ine, (2.4)
+Anczy
+
+where y = (1 — P/c3)'/ 2 and with the superscript (log) denoting the logarithmic part. Thus, at a
+near-field point x =/(t) + ecos 0, z= esin@, we have
+
+duty by y cos 0 1 bile)
+
+= Ine + O(1), 2.50
+az 2m cost6+y2sin?@e = Anchy3 () (2.5)
+au b sin 0 1
+yoy __Y <= +001), (2.5b)
+ax 2m cos? 6 + y2sin* 6 &
+uy —b iy sind 1
+and Oty Py Wysind 1 ogy. (2.5c)
+
+at 2m cos20 + y2sin2 0 &
+
+Ni & Markenscoff [15] showed that ee and we do not contain logarithmic terms if singularities
+
+of O(Ine/¢) are excluded in the governing equation. We will integrate (using MATHEMATICA) the pseudo-momentum —(0/d#)(t/ju;,¢) ina multi-
+scale contour from radius ¢” to per unit thickness in the y-direction (figure 1)
+
+2 (pixjuja)d meer drd
+“Tren ag oui) v=-{, I, pp (Plau2a)r rdoé
+e 2a ¢ b2 i y2ein2
+| | 3 0 vo l(t)y*sin® 0 ; rdrda
+Jo at | 41* (cos? 6 + y2sin26)°r?
+a { Pb; xi(t) >», Po I(t)
+-3{ae0 [ne —Ine"]=—~Feo3 Ine, (2.6)
+
+which is due to the fact that the dislocation is 1/r singular at the core. It may be noted that the
+same result is obtained for transition between scales (e"~!, e", n > 2); if it is across multiple orders
+then the effective mass is increased accordingly. It can be shown by calculation that the value of change of pseudo-momentum in the volume
+obtained in equation (2.6) agrees with the flux of the pseudo-momentum through the surface of
+the contour in figure 1, consistent with the conservation equation (2.3), as the contour does not
+contain a singularity.

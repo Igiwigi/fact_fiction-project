@@ -1,0 +1,14 @@
+For H=y> — x? and w=f(x,y)dx A dy there is a real-analytic local coordinate
+system u,v and germs a, B € R{H} such that
+
+H=w-w and w=a(H)-du Adv + B(H)-vdu adv. For positively oriented symplectic forms, the functions a(H) and B(H) are uniquely defined (the coordinates
+u, v are not). Let us now see what happens if ~ does not preserve H, but transforms it to a function of the
+form h(H), h'(0) £0 (in fact h'(0) > 0). Let w, be positively oriented symplectic forms. We consider
+necessary and sufficient conditions for the existence of a local diffeomorphism w such that y*@ =
+wand w*H =h(H) with h’(0) > 0, i.e. a local symplectomorphism making the following diagram
+commutative:
+
+(R?,0) —“-+ (R?,0)
+
+| |»
+(R,0) —“s (R, 0).

@@ -1,0 +1,21 @@
+Accordingly, research has shown that changes in frequency, (i) Smiling, like other orolabial gestures such as nose
+rate and intensity that are known to support emotional wrinkling [24], modify the shape and length of the
+interpretations in speech and music in fact also trigger similar vocal tract [25], shifting its resonating frequencies
+emotional responses when applied to environmental sounds (figure 1a). These changes can be simulated using
+such as rain, thunder or wind [15]. In addition, cross-domain frequency warping on the spectral envelope of the
+contrasts in brain imaging of speech and music emotion typi- sounds, inside a phase vocoder architecture [21].
+cally do not reveal common sensory representations in In listening experiments, English speech samples
+temporal voice areas, as would be expected if these were manipulated with such a transformation were vali-
+voice-specific effects, but only supramodal emotion represen- dated to sound more smiling, and generally more
+tations in the frontal cortices [16,17]. positive [21,26]; in production experiments, partici-
+All of this suggests that the perceptual mechanisms so far pants asked to imitate voices manipulated with such
+tested in speech and music studies may not, in fact, be pro- changes do so by smiling while they vocalize [26].
+cessed by the listener in reference to human voice. It remains (ii) Vocal tremor, which can occur physiologically from
+unknown whether specifically vocal expressive cues, such as cold, fatigue or anxiety, is a rhythmical and involuntary
+the unstable phonatory muscle control of an anxious voice, oscillatory movement affecting the vocal folds, thought
+the nonlinear vocal fold vibration of a scream, or the bright to result from disturbances in the neurophysiological
+resonating quality of smiled speech, also trigger comparable feedback processes of phonatory muscle control
+emotional reactions when they occur in music. [27,28]. It causes cyclical fluctuations in pitch (vibrato,
+One reason previous research has not tested voice-specific figure 1b) and loudness (tremolo), which can be simu-
+cross-domain effects is the lack of tools able to simulate such lated in recordings as the sinusoidal modulation of a
+phenomena in arbitrary audio material.

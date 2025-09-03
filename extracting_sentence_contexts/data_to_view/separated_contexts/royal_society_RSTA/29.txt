@@ -1,0 +1,12 @@
+The former can be explained by the fact that the VI solution is
+obtained by minimizing a function of the posterior similarity matrix, and as each posterior sample
+corresponds to an arbitrary partition of the data points into convex sets, each pair of data points
+may have a relatively high probability of being clustered together. These examples highlight that the choice of estimator can greatly affect the number of clusters
+and clustering solution. In fact, while most asymptotic theory focuses on the behaviour of the
+marginal posterior on the number of clusters, quite a different behaviour is observed when
+estimating the full clustering solution. As practitioners are interested in the full clustering
+solution, this is an important aspect to consider. There are a number of interesting directions
+to expand this study, including further investigating the performance of the different estimators
+in the misspecified setting, as well as the case when the clusters are not well separated (Rajkowski
+[157] finds that MAP tends to underestimate the number clusters in this setting), and sensitivity
+to hyperparameters.

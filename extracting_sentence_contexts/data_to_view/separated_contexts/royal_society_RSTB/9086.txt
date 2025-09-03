@@ -1,0 +1,18 @@
+The musical surface, however, is more complex than
+ordinary language, or potentially animal song, because of the sets, and there are subset relations between the classes: every
+interaction with metrical structure, which means that surface regular language is also context-free, every context-free
+symbols, such as notes or chords, do not all have the same sal- language is also context-sensitive and every context-sensitive
+ience when forming a sequence. This is demonstrated by a language is recursively enumerable. (n-Grams, when probabil-
+study of harmonic structure using a corpus of seventeenth cen- ities are stripped off, correspond to a true subset of the regular
+tury dance music [73]: an n-gram model taking into account languages—see below.)
+three-beat metrical structure (and representing each beat by For cognitive science, the relevance of the hierarchy comes
+one symbol) seems to favour 4-grams. This is probably because from the fact that the four classes can be defined by the kinds
+the first beat of a bar is more musically salient than the other of rules that generate structures as well as by the kind of com-
+two, in harmonic terms, and a 4-gram is able to directly cap- putations needed to parse the sets of sequences in the class
+ture at least some of this importance, in this representation, (the corresponding formal automaton). Informally, regular
+where a 3-gram necessarily cannot. languages are the types of sets of sequences that can be charac-
+
+terized by a ‘flowchart’ description (finite-state automaton). Crucially, when generating or parsing the next word in a sen-
+tence of a regular language, we need only to know where we
+
+4.

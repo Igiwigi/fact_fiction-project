@@ -1,0 +1,12 @@
+The two different ways of exploiting the muon projectiles crossing a target volume, Dm
+multiple scattering muon tomography (MSMT) and muon transmission radiography (MTR), are : =
+suitable for investigating volumes of different size. MSMT is usually exploited for relatively : =
+small objects, of the order of a few cubic metres at maximum, and provides three-dimensional -R
+information on the observed volume. It is in fact based on the multiple scattering effect, which was : S
+studied by means of two independent detectors located upstream and downstream of the target :3
+volume. The incoming and outgoing muon tracks are reconstructed for a large set of muons and :8
+exploited to determine the most likely density distribution inside the target volume, using custom : 3
+iterative algorithms developed by the few research groups worldwide that are able to apply this : 8
+
+technique and that have developed their own (not open source) code. Different from MSMT, MTR
+is a two-dimensional technique.

@@ -1,0 +1,9 @@
+In the
+change in subthalamic nucleus (STn) that projects to the presence of Gaussian noise, the output function is analytic,
+output nuclei of the BG allows STn to act either as an integra- asymmetric and Gaussian-like (figure 5a) with a skewness
+tor for rate code inputs or a coincidence detector [110] that increases quadratically with the standard deviation of
+(figure 2). Interestingly, under both conditions, faulty (noisy) the frequency noise (figure 5b). In addition to the fact that
+processing explains time-scale invariance. For example, Killeen the standard deviation of the output function is proportional
+& Taylor [28] explained scale invariance of counting in terms to the criterion time and, therefore, obeys the time-scale
+of noisy information transfer between counters. Similarly, invariance property, it also increases quadratically with the
+here, we explained time-scale invariance of timing in terms standard deviation of the frequency noise (figure 5d).

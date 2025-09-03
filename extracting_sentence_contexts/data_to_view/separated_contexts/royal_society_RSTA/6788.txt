@@ -1,0 +1,29 @@
+This integration may either be per-
+formed numerically (see later), or it may be completed analytically as the sum of certain
+Z functions defined by
+
+ee eee peace unl ly 3 7) Ud, (17)
+
+Particular cases of (17), corresponding to important low values for the parameter m, may be
+introduced as
+
+B adcci= | “en, (gts 7) that (18a)
+0
+
+P. et) = i} “ep, (1,t3 7) Bde, (184)
+0
+
+Methods of dealing with the Z, G and P functions analytically are deferred to a later
+paragraph.
+
+4. NUMERICAL INTEGRATION OF THE Z, FUNCTIONS
+
+Notwithstanding that these Z integrals can be reduced to standard mathematical functions,
+we have found that the alternative of numerical integration in (9) is often more convenient
+in practice. This arises from the fact that the geometrical dependence of the integrand upon
+the variable of integration is of the smoothly varying form shown in figure 2. Consequently,
+any of the standard integration rules (Bickley 1939) may be employed. It turns out that for
+large values of ¢ (frequently as low as ¢>3r), the integrand is effectively zero.
+
+
+226 M.

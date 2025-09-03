@@ -1,0 +1,20 @@
+Development of ML models always involves such balances or trade-offs. What
+XAI methods can do is to highlight the consequences of such trade-offs. In fact, a lot of work on
+explainability, e.g. [2], is focused on developers to help them guide ML-model development but,
+in this paper, we will primarily focus on other stakeholders, external to the development. To avoid confusion with the decisions made by humans in-the-loop, the term ‘predictions’ is
+used in figure 1 but these might include decisions made by an autonomous system, e.g. an AV may
+decide to stop when it detects a traffic light at red. We continue with this terminology throughout
+the rest of paper: all outputs of the ML-based system—whether decisions, recommendations,
+predictions or classifications—will be referred to as ‘predictions’.
+
+(c) Types of explainability method
+
+At the first level of our analysis, we will focus on two dimensions of XAI methods:
+
+— Local versus global—a local explanation relates to a single prediction (arising from a
+single input to an ML model), whereas a global explanation seeks to explain the model as
+a whole [2] thus shedding light on the range of possible predictions.
+
+— Time—we split time for the explanations into three categories: prior—before the
+prediction is made; contemporaneous—at the same time as the prediction; and post—
+after the prediction is made.

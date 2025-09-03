@@ -1,0 +1,13 @@
+We employ particles to represent proteins and advance them in time via the molecular
+dynamics method, fluid populations are used to represent the aqueous solvent and advance
+them in time according to the lattice Boltzmann method. The resulting lattice Boltzmann
+molecular dynamics (LBMD) methodology handles the interactions between solute and solvent
+particles through a lumped representation of the local collisions, and consequently hydrodynamic
+interactions are naturally included in the simulation. Given the fact that we represent the
+solvent molecules at the probabilistic level, the dual simulation technique can host not only
+hydrodynamics, but also a wide range of physical elements, including thermodynamic forces,
+electrokinetics, pH-dependent forces and so on, being a flexible platform for multiphysics. At the
+same time, the LBMD is intrinsically multiscale, because the resolution of both components, the
+fluid and the molecular system can be chosen to cover a wide spectrum of conditions. In the LBMD scheme, we take into account the presence of water via a minimalistic, yet explicit,
+representation of the solvent, with a computational cost that, at fixed concentration, is roughly
+proportional to the number of proteins in solution.

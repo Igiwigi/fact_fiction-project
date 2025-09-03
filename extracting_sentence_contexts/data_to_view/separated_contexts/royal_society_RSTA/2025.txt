@@ -1,0 +1,51 @@
+However, equation (3.31) with conditions (2.57)-(2.59) admits the exact solution.
+
+
+os L235, 1-10
+oh yee. 2 ——— 28), r=10
+3 ——— (2.35), t=20
+
+o6l ——— (28), r=20
+
+0.47
+
+0.27
+
+0 3 10 15 20
+
+Figure 5. Comparison of the results of computations by exact formula (3.8) and by formula (3.35) for y = 0.5. (Online version
+in colour.)
+
+First, let us consider the case when Cp = 1. Applying Laplace transform to the problem (3.31),
+(2.57)-(2.59), its solution in transforms can be readily obtained as follows:
+
+Caekie 1 eo KVR, (3.33)
+Ss
+where
+14+4.
+d= /2, a= *. (3.34)
+€ 4ew
+
+Applying to (3.33) the inverse Laplace transform and returning to the original variables X and t
+yields
+
+Xd
+Ci(t, X) = 0.5e%/2Xo# [ey erte( - adi)
+16%) 2X VAt
+Xd
++ vai) . (3.35)
+
+2X/ At
+
+Here, subscript 1 denotes the fact that at X=0, the concentration is equal to 1. If Co(t) is an
+arbitrary function, then the concentration of the contaminant in the fracture can be obtained by
+using Duhamel’s formula [31]
+
++ eXVO/Xoerfe (
+
+t
+C(t, X) = 2 I, Colt — €)Ci&, X)dé. (3.36)
+
+The explicit presentation for the function C(t, X), when at the fracture’s inlet the concentration
+of the radioactive solute reduces exponentially, ie. Co(t) =e~“4t, can be obtained by analogy with
+the derivation of the formula (3.35).

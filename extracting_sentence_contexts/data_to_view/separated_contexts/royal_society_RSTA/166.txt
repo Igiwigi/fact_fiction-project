@@ -1,0 +1,27 @@
+Mesh generation is a computational fluid dynamics (CFD)
+discipline in its own right, because for most engineering applications the
+shape of the body immersed in (or bounding) the fluid determines the flow
+around (or inside) it, e.g. flow around an aircraft or inside a nuclear reactor.
+
+n the large-scale environmental community, mesh generation research has
+seen largely confined to different approaches to discretizing a spherical surface
+and more recently to capturing shorelines. Owing to the comparatively low
+vertical resolution of atmospheric models, discretization of the lower boundary
+opography has not been a priority and is usually addressed by means
+of curvilinear (terrain-following) methods. The ever increasing resolution of
+general circulation models, and hence their ability to better capture significant
+opography features, has brought the issue of mesh generation to the forefront
+for a number of reasons, including the fact that poor mesh quality has a
+detrimental effect on the quality of the flow (e.g. spurious wave generation due
+
+One contribution of 10 to a Theme Issue ‘Mesh generation and mesh adaptation for large-scale
+Earth-system modelling’.
+
+4473 This journal is © 2009 The Royal Society
+
+
+4ATA N. Nikiforakis
+
+to highly skewed boundary cells). These problems are well known in the CFD
+community, and contemporary approaches have recently been employed in oceanic
+applications, owing to a technology transfer between the communities.

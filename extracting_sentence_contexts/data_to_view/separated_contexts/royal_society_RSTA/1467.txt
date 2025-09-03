@@ -1,0 +1,8 @@
+Therefore, any statement that links convergence of GMRES solely with the distribution of the
+eigenvalues of the system matrix must be justified in relation to these results proved more than
+20 years ago. This is in the literature done very rarely. The clustering argument is often used in combination with the remarkable fact pointed out
+in [83] that a certain class of preconditioners leads to preconditioned matrices with a low degree
+minimal polynomial. Such preconditioners are very important in practice where they are often
+replaced by some more computationally feasible approximations, which can lead instead of a
+low degree minimal polynomial to a few tight clusters of eigenvalues. This subtle shift requires
+a rigorous analysis.

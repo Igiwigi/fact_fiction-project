@@ -1,0 +1,11 @@
+Even battery-less systems by passive RFID technologies
+are possible for this type of communication [8]. But, unfortunately, the radio links are often too
+weak for reliable direct communication, owing to the high water content of food products. In fact,
+an important first step, to test radio link quality before system application, is often left out, and
+system planning directly jumps into either a cost-efficient RFID system or an elaborate system
+providing multi-hop communication. A well-founded decision should be based on an analysis of
+radio signal attenuation in the target set-up [7], depending on radio frequency, product, packing,
+water content and sensor placement.
+
+(b) Surface or core measurement? Because shelf life is related to product core temperature, sensors should ideally be placed in the
+centre of boxes or packing units.

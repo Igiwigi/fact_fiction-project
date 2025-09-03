@@ -1,0 +1,13 @@
+This fraction was chosen so that the size of the rational group was similar to that of 8
+the group of agents with re (r* — 0.05, 7* + 0.05), and then their performances could be fairly eel
+compared later on. Rational agents were given neural networks with a single hidden layer with a)
+three neurons, and the systems were trained for 10° generations. :8
+We plot in figure 8 the density maps after reaching convergence and found that the solution :s
+consisted in setting the risk to zero for low wealth values (i.e. not participating in any al
+transactions), and then abruptly increasing it to a fixed value for high wealth values. This is due
+to the fact that the agents find it more convenient to simply wait and receive their share of the
+total collected tax when they belong to the fraction p of the poorest individuals. We compare the
+solutions obtained for A = 0.28 and different values of p, and found that agents set their risk to a
+higher value for high wealth values as p decreases. It is also of interest to mention that for p > 0.7
+only the trivial solution of setting r = 0 for any w was found, corresponding to never participating
+in any transaction.

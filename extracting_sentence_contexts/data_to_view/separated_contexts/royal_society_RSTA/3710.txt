@@ -1,0 +1,16 @@
+The
+frequency range considered includes the octave band with centre frequency 2 kHz. For reasons of
+computational efficiency, the very time-consuming sound propagation calculations for the 2kHz
+octave band were not performed (and the 1 kHz band results were recycled). This is justified by
+the fact that atmospheric absorption becomes pronounced at these higher frequencies and source
+power levels start to drop; a more accurate assessment of the propagation at this band would,
+therefore, only slightly increase accuracy when assessing total noise exposure levels from the
+wind turbine.
+
+
+6. Conclusion
+
+A hybrid analytical-CM-GFPE methodology is presented to model sound propagation from a
+ridge-mounted wind turbine, represented here by an elevated point source above the ridge, across
+an adjacent valley. The hybrid method relies on an analytical solution for sound diffraction around
+an impedance cylinder and the CM-GFPE technique.

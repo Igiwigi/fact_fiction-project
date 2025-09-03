@@ -1,0 +1,12 @@
+In this approach, one 1B
+uses the forecasts available to solve a sequence of MDP formulations over time. At each decision : =
+epoch, a conventional MDP that incorporates the forecasts available is solved, the optimal first 8
+period action is taken, and this process is repeated at the next decision epoch. In particular, the : 4
+MDPs that are used by MPC at each decision epoch do not explicitly model, within the MDP, De
+the fact that the decision-maker will have available a new set of forecasts at each future decision : 3
+epoch within the decision horizon associated with the MDP. This is also the case in adaptations : 3
+of standard MPC to the setting where the forecasts contain probabilistic information [16]. By 8
+
+contrast, the MDPs introduced by this paper model the fact that the forecasts are continually
+‘refreshed’ over the MDP’s decision horizon, and do so via a formulation that preserves the
+computational tractability of the MDP.

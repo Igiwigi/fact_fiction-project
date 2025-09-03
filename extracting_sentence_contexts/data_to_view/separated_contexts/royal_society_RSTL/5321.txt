@@ -1,0 +1,19 @@
+In article (5) T proceed to
+determine by a direct method these simplified residnes in terms of the coefficients of
+F and @. Beginning with the case where,F and 9 are of the same'dimensions'(1m) in x,
+I obserye that we may deduce from f'and © m linearly independent frtinctions of
+each of the degree (m—1) in a, all of them syzygetic functions of Fand'p (vanishing
+when these two simultaneously vanish), and, with coefficients which.are made up of
+terms, each of which is the product of one coefficient of F and one coefficient of 9. These, in fact, are the very same (m) functions as are employed in the method which
+goes by the name of Bezovur's abridged method to obtain the resultant to (z. e. the
+resnlt of the elimination of x performed upon) Fand'p. As these derived functions are
+of frequent occurrence, I find it necessary to give them a name, and I term them the (m)
+Bezoutics or Bezoutian Primaries ; from these (m) primaries m Bezoutian secondaries
+may be deduced by eliminating linearly between them in the order in which they are
+generated,—first, the highest power of x between two, then the two highest powers of
+x between three, and finally, all the powers of x between them all: along with the
+system thus formed it is necessary to include the first Bezoutian primary, and to con-
+sider it accordingly as being also the first Bezoutian secondary ; the last Bezoutian
+Secondary is a constant identical with the Resultant of Fand . When the m times m
+coeflicients of the Bezoutian primaries are conceived as separated from the powers of z
+and arranged in a square, I term such square the Bezoutic square.

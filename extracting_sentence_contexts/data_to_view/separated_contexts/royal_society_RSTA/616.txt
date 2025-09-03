@@ -1,0 +1,7 @@
+Second, the average Hamiltonian appears naturally and plays a prominent role. The average
+Hamiltonian must be used in order to preserve the order of the expansion. Otherwise (e.g. if
+H' were used as a reference in displaced harmonic oscillators) what appears to be a first-order
+expansion in Ax would in fact be of second order. This has a consequence, explained below in
+§4, that in displaced harmonic oscillators, the dephasing representation (1.2) mentioned in the
+introduction is exact if the average Hamiltonian H is used as reference, but not if H’ is used
+instead (see equation (4.3)). It turns out to be useful to truncate expansion (3.11) at increasing powers of Ax.

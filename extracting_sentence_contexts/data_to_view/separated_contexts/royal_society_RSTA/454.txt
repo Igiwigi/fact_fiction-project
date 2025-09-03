@@ -1,0 +1,10 @@
+This is reproduced in figure 19. As RAPID observations are not currently assimilated by the FOAM system (although studies
+have considered this [69]), they can be used for independent evaluation of the initialized model
+state—analogous to the use of surface drifters to assess the initialization of the ocean mesoscale,
+as discussed in §2. More surprising is the fact that when only atmospheric boundary conditions are prescribed (i.e.
+no ocean data are assimilated), the FOAM system still captures the majority of the 30% reduction
+in the 2009-2010 event (blue lines in figure 19). This result does not preclude an important role
+for the ocean in constraining the evolution of the atmosphere during this time. However, it does
+indicate that constraining surface momentum and buoyancy fluxes is sufficient to explain the
+seasonal and interannual variability of the AMOC at 26° N and indicates a limited role for initial-
+condition-dependent mesoscale activity in driving the observed event during 2009-2010 [65,70].

@@ -1,0 +1,9 @@
+Particles that were always chemically connected
+([P1-P2], [P4—P5,P11], [P6-P9]) were assigned matching diffusion constants. As the CS was
+always chemically connected until elimination, it was assigned the same value as P1. To emulate
+the fact that the immature capsid lattice is effectively locked, capsid-related particles (P4, P5
+and P11) were assigned diffusion constants, D3), several orders of magnitude lower than that
+for a single capsid particle in three dimensions, while geometry potentials ensured planarity
+and spatial confinement (see below). With this choice of diffusion parameters, modulated P10
+diffusion still strongly dominates that of other particles involved during the reaction. Thus, it
+was not necessary to apply modulation factors to other particles.

@@ -1,0 +1,12 @@
+This action is simply transitive (if 1,
+y2€ Auti(F), we get y = nyt € Auto(F) with y2 = yy). This means that Auti(F) is either empty
+or is a right coset Auto(F) of Auto(F). There is another extra property: if y € Auti(F), the fact that D(D(F)) ~F implies that ye
+Auto(F). In particular? for a sheaf with Auto(F)=1 (e.g. a bountiful sheaf), there are only two
+possibilities: either Auti(F) is empty, or it contains a single element & , and the latter is an
+involution: 2 = 1. If this second case holds, we say that és is the special involution of F. (For
+instance, we will see that for hyper-Kloosterman sums K ¢, with r odd, there is a special involution
+which is x —x.)
+
+1See the notation section for a remainder of the definition.
+
+2See lemma 3.1 for a more general statement, based on these properties, that limits the possible structure of Auti(J).

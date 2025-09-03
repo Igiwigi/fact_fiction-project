@@ -1,0 +1,10 @@
+This allows the compiler to generate inference code that is
+optimized for the particular partition of observed and hidden variables. In some applications, it
+might not be known which variables will be observed until run time, and in such cases, the model
+can be extended with additional variables that allow for observing the partition at run time. For
+example, a model could be extended to include binary variables specifying, for each potentially
+observable variable, whether or not that variable is in fact observed. The Infer.NET compiler
+encapsulates numerous optimizations regarding the choice of message-passing schedule in order
+to generate efficient inference code. Currently, Infer.NET supports two deterministic inference
+algorithms (expectation propagation and variational message passing), as well as a Monte Carlo
+method (Gibbs sampling).

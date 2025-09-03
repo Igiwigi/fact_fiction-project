@@ -1,0 +1,10 @@
+If we kept dragging paths, as
+shown in the figure, we would conclude that those two paths were the same. Now, as there are
+two blank cells, we see that we cannot identify all paths. In fact, we conclude that if before we
+had nine different paths, after these identifications we only have two paths.
+
+(c) The analogy between paths and proofs
+
+We now start to relate paths and proofs. Let us consider figure 1. There we had nine different
+paths and these paths came from different applications of the rewriting rules, and these different
+applications of the rewriting rules mean that we have different proofs of the statement f is in I.

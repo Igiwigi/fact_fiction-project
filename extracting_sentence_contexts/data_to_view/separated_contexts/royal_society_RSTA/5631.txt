@@ -1,0 +1,17 @@
+They originated from the understanding that the density matrix renormalization group : =
+(DMRG) technique could be recast in a variational formulation by means of matrix product states 13
+(MPS) [6-8]. This stimulated the further development of such a framework in the last decade, : =
+extending the TN paradigm to encompass higher dimensionality [9-14], peculiar geometries DR
+[15,16], directly addressing the thermodynamical limit [17-19], as well as the continuum [20-23]. : 3
+
+One of the most appealing features portrayed by TN is the possibility to encode and control 12
+global symmetries for the local degrees of freedom that characterize several condensed matter :8
+models [24,25]. In fact, a general, robust and numerically efficient formulation of any such : =
+symmetries in the TN framework is known; it is commonly used in simulation to achieve 7G
+
+an enhancement of the algorithm performance, as well as precise targeting of irreducible
+representation sectors [26-28]. Lattice gauge symmetries differ from global ones, since they have quasi-local supports and are
+typically homogeneous, yielding a combined Lie algebra of generators which grows extensively
+with the system size [29,30]. Nevertheless, several physical contexts have been found where TN
+are an exact description of the ground states of gauge-invariant Hamiltonians (e.g. 2D toric code
+that is an Ising gauge theory) [31].

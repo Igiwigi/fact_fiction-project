@@ -1,0 +1,8 @@
+The purpose of the present work is twofold: firstly, in §2, we give a simple exposition of the
+feedback theory of regular linear systems. To this end, we mainly use operator theory to facilitate
+the task to the semigroup community. In fact, the interaction between semigroups and the theory
+of feedback of regular systems [20] theories lies in perturbation theory [26, Chap. III]. For example,
+the case of Miyadera—Voigt perturbation can be seen as the feedback of a system (A, Ix, C), where
+C is an admissible observation operator for A, while the Desch-Schappacher perturbation as a
+result of the feedback of a system (A,B,C), where C is a bounded operator from X to U and
+B:U-— X_, is an admissible control operator for A.

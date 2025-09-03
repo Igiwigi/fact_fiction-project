@@ -1,0 +1,13 @@
+In Grad’s case, the relaxation has to be aligned with
+the direction dictated by the eigenfunction of the linearized collision integral in order to annihilate
+the local invariance defect. This is more demanding than the local Maxwellian, which annuls the
+local terms in the invariance defect independently of the collision model used. Vanishing of the
+local invariance defect unifies the relaxation time approximation (and any similar kinetic model)
+with Maxwell’s molecules and is a consequence of the simple fact that all these have the same
+eigenfunctions of the form (5.10) and (5.11). Vanishing of the local invariance defect has no relation
+to the values of transport coefficients, and is non-vanishing for any other model, such as hard
+spheres. We shall return to the discussion of the local invariance defect and the corresponding
+correction in §9; for now, we proceed with the analysis of the non-local part of the invariance
+defect which is independent of the choice of the collision model.
+
+6.

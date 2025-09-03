@@ -1,0 +1,9 @@
+This means that E(H) = E(H) and
+
+therefore H has a spanning diverging tree: by proposition 4.2 the eigenvalue 0 of the Laplacian
+matrix of Hi (i.e. of the matrix —T) is simple, which means that 0 is a simple eigenvalue of T. We also remark that by condition (ii) and by the Gershgorin circle theorem, all the eigenvalues
+of G(T) belong to the discs centred in Tj <0 and of radius —Tj,. We can thus conclude that the
+eigenvalues Az,...,4y have all a negative real part and so 2t- 1+ 6° is an asymptotically stable
+relative equilibrium. a
+
+In fact proposition 4.3 can be generalized to (1.1) in a similar way. Corollary 4.4. Assume that H € H(A) admits a spanning diverging tree.

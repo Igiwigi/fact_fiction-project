@@ -1,0 +1,45 @@
+An iconic example of this is the
+investigation of cholera in London conducted by John Snow
+in 1854, which is now considered to be the first modern
+epidemiological investigation [11]. Good descriptive epid-
+emiology is extremely powerful for decision makers as it
+can quickly guide the direction of an outbreak response. In
+fact, in many instances, descriptive analysis alone is sufficient
+for guiding disease control efforts in the early phase of an
+outbreak and more sophisticated analysis sometimes only
+provides marginal gains for decision makers, often because
+the results are usually available too late to be operationally
+relevant. Tools for visualization of public health data beyond the
+traditional person, place and time epidemiological
+
+
+Table 1. Response actions, analytic approaches to aid decision makers and examples of analytic tools.
+
+areas where analytic approaches
+
+response actions could help decision makers examples of analytic tools
+investigation phase deployment of investigation data visualization of person, place ArcGIS and R for visualization and geospatial
+(days or weeks) teams and time analysis
+verification and validation of quantifying transmission dynamics statistical modelling with aggregated event
+initial information reported generation of hypotheses for further data and parameters from previous
+analysis outbreaks
+scale-up phase deployment of response team data systems design and linkage online and handheld device data collection
+(weeks) define strategic response data cleaning and reporting routines systems
+logistical movement of forecasting size of the event R and Python scripts for data cleaning and
+material planning the size and extent of linkage
+establishment of data Tesponse forecasting using patient-level data
+Management systems scenario simulations for response planning
+
+implement initial control
+
+measures
+control phase sustained response further detailed epidemiological ArcGIS for response monitoring dashboards
+(weeks or months) interventions tailored to descriptions statistical modelling of intervention strategies
+context characterization of transmission risk assessment for neighbouring unaffected
+rigorous monitoring of dynamics areas
+tesponse performance investigation of hypotheses about phylogenetic tree analysis of virus
+testing hypotheses tisk factors relatedness
+designing intervention strategies
+estimating end of outbreak
+
+descriptions are developing extremely quickly, especially relevant time window.

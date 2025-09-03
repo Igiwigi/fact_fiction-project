@@ -1,0 +1,19 @@
+Moreover, there are also many ways to employ direct product ensembles, independent copies
+of the cell or system, by using multiple independent copies of (X,S) for any semigroup S acting
+faithfully on a set X. In particular, this is true when X C Q and S = (X)per divides S(A), with
+Sa SNAG. A useful fact via ‘computing in parallel’ is related to the interpretation of groups
+in Gibbs’s viewpoint on ensembles. For any faithful permutation group (X,G), the right regular
+
+This restriction might be removable also if the sequences produced would vary in time in response to state that changes
+more quickly, but details of conditions that make this possible have not been characterized yet.
+
+31F must separate points of X up to cosets and contain enough constants up to cosets: for the first, distinct points should map
+to different cosets of N and, for the second, there must exist functions approximating constants for generators of G, i.e. values
+must be in the same coset of G/N rather than strictly constant.
+
+
+representation (G, G) with action gi - g = gig can be realized as a substructure of the direct product
+of X-many copies of (X,G). That is, |X| instances of a regulatory network within a cell, or |X|
+instances of the cell, allow one to embed (G,G) into the ensemble: let X = {x1,...,Xm} denote
+the m distinct elements of X, then a state g; € G can be uniquely encoded as (x1 - 81,...,%m * 81)
+as the action is faithful.

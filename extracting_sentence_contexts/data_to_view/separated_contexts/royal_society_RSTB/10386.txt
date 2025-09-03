@@ -1,0 +1,16 @@
+This article is part of the themed issue ‘New frontiers for statistical learning
+in the cognitive sciences’. Keywords:
+statistical learning, memory, modelling
+
+e-mail: thiessen@andrew.cmu.edu
+
+1. Introduction
+
+The term ‘statistical learning’ was initially used to describe the fact that infants are
+sensitive to the probability with which syllables co-occur, and can use this prop-
+erty to segment words from fluent speech [1,2]. In this original set of experiments,
+the probability of co-occurrence between syllables was described in terms of ‘tran-
+sitional probability’, which is defined as the frequency with which syllables X and
+Y co-occur, relative to the frequency with which X occurs. That is, if the syllable X
+occurs 100 times, and the conjunction of XY occurs 80 times, the transitional prob-
+ability between X and Y is 80%.

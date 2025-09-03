@@ -1,0 +1,10 @@
+For this computation, we have used a grid of 4000 points in
+the interval z,, € [26.8, 30.8], so the grid resolution is 0.001. The safe set computed ensures for any starting point qn in the safe set and any allowable én,
+there is a wu, that puts f(qn) + &n + Un back in the safe set. This is true for the map; however, the
+control is applied in the phase space so we must take into account of the fact that as each local
+maximum of z is described by three coordinates (Xin, Ym,Zm), the total distance to the safe set
+
+isd= J (Xm = Xmsafe)? + (Ym — Ymnsate)* + (Zm — Zmsafe)*, Where (Xmsafer Ymsafer Zmsafe) iS the closest
+point belonging to the safe set. In figure 7, we show a controlled time series of the z variable in
+contrast with an uncontrolled trajectory. We can see that chaos is sustained by applying small
+perturbations in the maxima of the variable z.

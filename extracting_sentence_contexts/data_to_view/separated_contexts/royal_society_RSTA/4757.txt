@@ -1,0 +1,17 @@
+It is best to
+assume that M is globally hyperbolic, as this ensures that PV is a Hausdorff (5-real-dimensional)
+space [11]. If we include a (null-vector) momentum p (index form p,), pointing along each ray and
+parallel-propagated along it—to give what I call a scaled ray—then we get a 6-real-dimensional
+space p\, whose points represent these scaled rays. In fact, pN is naturally a real symplectic
+
+
+6-manifold, with symplectic potential 1-form ® and closed symplectic 2-form Z, given [2] by
+G=pidx", L=db&=dp, A dx"
+
+(where, in coordinate notation, ‘dx*’ stands for the coordinate 1-form basis, and in abstract
+indices dx“ is just a ‘Kronecker delta’ translating the abstract index on ‘p,’ to conventional 1-
+form notation). When PV = PN, so our symplectic 6-manifold is the canonically given pN(=pV),
+we can apply twistor notation, finding
+
+® =iZ"dZy =-iZ,dZ", EY =db =idZ% A dZy. Equality of the two expressions for follows from the nullity of Z%, since 0 = d(Z%Zq) = Z¢dZ +
+ZqAZ.

@@ -1,0 +1,20 @@
+Exploiting the
+conjecture (3.3) and plugging in (3.8)-(3.9), we obtain the result:
+
+Z(-Z(2,3,7) =—-q 14+ q+ +t tq +297 +48 +29? +g 42g 4...) (10)
+
+Note that the above leading terms in the q-expansion coincide (up to a sign) with the guess
+(2.29) based on quantum modular properties and on q-hypergeometric identities. However, the
+procedure outlined in this subsection does not immediately lead to a way to prove the modularity
+of (3.10). We will see yet another way to compute Zo(-Z (2,3,7)) in the following subsection.
+
+(b) Relation to indefinite theta functions
+
+As mentioned earlier, one immediate problem with the proposal Za(—M3; 1)'=’Z,(M3; —t) (1.7)
+is the fact that in definition 1.1 one has t ~ —t + M < —M, and after this flipping of signature
+one no longer obtains a theta function ©," M (1.3) (and an integral (1.1)) that makes sense on the
+upper-half plane. While it seems to be the end of the road as far as definition 1.1 is concerned, a natural
+possibility is to replace the naive theta series with a regularized theta function. Indeed, building
+on previous work by Vignéras [31], Zwegers [32] has devised a way to define a regularization
+for theta functions of signature (1,1) which retains its holomorphicity, and moreover established
+the relation to mock theta functions.

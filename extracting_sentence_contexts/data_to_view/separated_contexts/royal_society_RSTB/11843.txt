@@ -1,0 +1,17 @@
+Observed Mltot is
+than expected by chance (p < 107°; figure 1; electronic sup- indicated by the black triangle.
+
+plementary material, figure S1). On average, the knowledge
+that a mutation in one gene is present in a given genotype
+provides a very small amount (87.7/6328 = 0.014 bits) of genotype in our data three times and never exhibited a
+information about the presence of a mutation in any other higher value of mutual information in any of the 100000
+specific gene. Nevertheless, the fact that mutated genes are simulations. When examining the complete dataset, including
+distributed non-uniformly across evolved genotypes indi- all clones descending from each population, we found that a
+cates that genetic networks subtly but significantly affected mutation in the PHO84 gene precedes a mutation in TRK7 in
+the mutational trajectories in our evolving populations. at least one population and that all populations with a non-
+Our estimates of mutual information depend on the value synonymous mutation in PHO84 allele acquire a TRK1
+of the pseudocount parameter ¢ (see Methods). We re-ran our mutation (electronic supplementary material, figure $5).
+analysis (albeit with 10 simulations instead of 10°) at varying To experimentally validate this positive genetic inter-
+values of ¢ between 0.0002 (¢ = 0.1/M) and 0.004 (e = 2/M) action, we reconstructed one allele of pho84 and two alleles
+and found that our main result is robust with respect of trk1 in the ancestral background both as single mutants
+to the choice of ¢ (electronic supplementary material, and as double pho84/trk1 mutants.

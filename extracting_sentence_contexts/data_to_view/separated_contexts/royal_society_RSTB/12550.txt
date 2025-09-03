@@ -1,0 +1,10 @@
+This approach is then extended in [35]
+by the purpose of movement and/or by physiological limit- with the introduction of a Lennard-Jones-type potential to
+ations, the latter results instead from the competition represent repulsive and attractive dynamics. Interestingly,
+between different behavioural stimuli, mainly coming from each velocity contribution is therein weighted by a parameter
+the environment and from interagent interactions. In this that, at variance with our work, can independently vary in R.
+respect, we here account for repulsion, attraction and align- Another difference with respect to our model relies on
+ment inputs that are active in non-overlapping individual the fact that the extension of the interaction regions are
+neighbourhoods. Escape strategies are also included in the significantly small so that the particles interact strictly locally.
+case of heterogeneous systems, i.e. formed by a predator The influence of a hunter on group collective dynamics is
+chasing a group of prey. Remarkably, each of the considered deeply investigated by particle-based models as well.

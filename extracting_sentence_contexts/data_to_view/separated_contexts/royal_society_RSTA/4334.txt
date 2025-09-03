@@ -1,0 +1,13 @@
+The benefits of exploiting MMW for fronthaul transmissions include
+high capability of wireless data transmission, simple deployment and adaptive environmental
+suitability, as MMW bands provide multi-gigahertz available bandwidth without the burden of
+distant cable wiring. To reach high spectral efficiency, advanced MMW technologies are desired for signalling,
+and this is realized by the supporting fibre-wireless convergence. In fact, many RoF links over
+MMW bands have been proposed and experimentally demonstrated in recent research. Bit rates
+above 100Gbs~! have been attained by adopting spectrum-efficient modulation formats and
+digital coherent detection enabled by fibre—-wireless convergence [28-30]. Different approaches for
+the realization of a high-speed fibre—wireless integration system as mobile backhaul/fronthaul,
+including optical polarization division multiplexing (PDM) combined with MIMO reception
+[31,32], advanced multi-level modulation, multi-carrier modulation [30], antenna polarization
+multiplexing [33,34], MMW CoMP transmissions [35,36] and multi-band multiplexing, have
+been proposed [37].

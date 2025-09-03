@@ -1,0 +1,31 @@
+For the short-time use transient signal that has the form of exponential
+
+
+damping (as in our case), we can use the Stehfest algorithm which involves specific time instances. The time response is computed by a sum that involves weighted values of the Laplace function:
+
+f(t) m2 Yo ViF (1), (3.3)
+i=1
+
+where the weights V; are determined by
+
+min(i,(1/2))
+Yep
+
+am
+eS
+
+k/2 (2h)!
+(n/2 — WIK(K — DIG — Wk —
+
+(3.4)
+
+An optimal choice for the number of terms n in the summation of (3.3) is 10 <n < 14, here
+we are using 14. Note that (3.4) is incorrectly written in [18], which can be attributed to the fact
+that the same expression is also incorrectly written in [11] from which it was taken. The Stehfest
+algorithm gives very good results in the short-time domain. In §4 we will study its reliable use by
+comparing its results with the universal numerical method.
+
+(c) Pole extraction
+
+The residue theorem is an alternative method for Laplace inversion and involves the computation
+of poles of the function to be inverted.

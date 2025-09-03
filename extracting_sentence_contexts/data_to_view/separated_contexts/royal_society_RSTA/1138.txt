@@ -1,0 +1,21 @@
+The latter are related to the famous O(Ma’) errors that are obtained
+in the definition of the viscous stress tensor [42]. Hence, the LSA of the DVBE is able to capture
+the weakly compressible deficiency of the D2Q9 velocity discretization, as previously reported
+for the D3Q19 lattice [67]. In fact, previous studies showed that by adopting higher-order velocity
+discretizations, the LSA further leads to shear and acoustic waves that do not suffer anymore
+from compressibility errors [12,78]. If we now consider results obtained with methods that are supposed to restore the Galilean
+invariance of standard lattices, such as the cascaded and the cumulant-based LBMs [18,19,26],
+
+
+x
+
+Act naan
+
+shear :s
+
+0 4 2 34 x 0 Wd x2 34 x 0 4 m2 304 © 3
+k, k, k 1y
+
+x x x
+
+Figure 2. LSA of the D2Q9-BGK-DVBE with a second-order equilibrium (N = 2).

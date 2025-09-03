@@ -1,0 +1,16 @@
+It has
+been formulated for consistently connected systems only, and its CbD-based generalization is not
+unique. We will consider one such generalization, obtained by treating multimaximal couplings
+of connections as if they were additional bunches. This can in fact be used to formally redefine
+every system into a consistently connected one, as proposed by Amaral et al. [29].4 We prefer,
+however, to simply complement bunch probabilities with connection probabilities rather than
+redefining the system itself.
+
+7.2 Unlike the three measures considered above, however, CNTF requires that we deal with
+complete vectors of probability p,.), as defined in (3.5), rather than reduced vectors. We need to
+accordingly replace the Boolean matrix M with the Boolean matrix Mi.) such that the system R
+represented by Pl) is non-contextual if and only if
+
+MQx= Pi), (7.1)
+
+with x defined as above. The structure of M(. is described in [21], and its summary is as follows.

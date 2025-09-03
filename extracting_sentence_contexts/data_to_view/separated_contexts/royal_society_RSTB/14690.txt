@@ -1,0 +1,63 @@
+Unexpectedly,
+however, the Basicranium partition also performed much
+
+
+(a) distances of molecular and GMM-based trees from reference phylogeny
+
+o 35
+2°
+8
+5 30
+2
+2
+= 25 Ss
+€ 2 Fe ~
+6 Ss Z 225 2 S
+zz S S 32 BS 5 >
+S Z & 2 Stas FI z
+8 & S zefee = Z
+Zz $ Z2S58 Y
+£15) 2 gee05 |= g
+2 = 8 5 5Uss E <
+2 5 2 Soease §
+2 10] 3 3 £ oes 2 3
+8 8 3 332" 38 g
+D S
+3 2 = 2 “
+wm 5
+|
+> 0 /
+3 0 0.2 04 0.6 08 10
+7
+generalized RF distance
+(b) distances of discrete and pruned GMM-based trees from pruned reference phylogeny
+2§
+—£ Oo
+as 8
+ge
+3
+a
+v
+0 0.2 0.4 0.6 0.8 1.0
+
+generalized RF distance
+
+Figure 4. (a) Generalized Robinson—Foulds (RF) distances of NJ (orange), UPGMA (dark blue), parsimony-based (light blue) and molecular-based (green) trees from
+the reference molecular phylogeny, compared with the density distribution of distances of a randomly generated sample of 10 000 random trees (purple curve). (6)
+Generalized RF distances of trees based on discrete data (red), compared with the above trees reduced to the same sample. ‘pruned’, discrete-based parsimony trees
+derived from a larger sample and pruned to the dataset matching the GMM data; ‘subset’, discrete-based parsimony trees derived from a dataset matching the
+species in the GMM dataset. (Online version in colour.)
+
+worse in our discrete character-based tree comparisons, relatively conservative [84] basicranium of marsupials and
+although these performed better than most GMM-based other metatherians.
+trees overall. The intricate topology of the basicranium also highlights
+It is possible that evolutionary conservatism of the basicra- the different properties of GMM versus discrete data acqui-
+nium—the very feature that makes it a popular choice for sitions, as outlined in the Introduction. Discretization of
+discrete character scoring—in fact reduces the phylogenetic morphological characters draws unambiguous distinctions
+information reflected in this region. Ina GMM context, a con- between one morphology and another, and is easier when
+served or constrained morphology would result in less variability is relatively straightforward to encode (e.g. pres-
+available shape variation (as seen in the lower disparity of ence/absence, or single dimension). This is certainly the
+the Basicranium compared with the Rest of Cranium partition) case for the basicranium: for example, in terms of discrete
+and less freedom for landmarks to vary relative to each other. basicranial characters, diprotodontians are different from per-
+The lower phylogenetic signal in the basicranium is also con- amelemorphians, and dasyurids are highly distinct compared
+sistent with the expectation that it has highly integrated with didelphids [5].

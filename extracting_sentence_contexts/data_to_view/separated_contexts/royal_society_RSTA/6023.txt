@@ -1,0 +1,21 @@
+An example of the communities detected with LPA is shown in figure 1, where nodes with
+the same colour belong to the same community. Notice that the algorithm is not provided with
+any knowledge of the spatial relation among the nodes. In fact, it is completely model-agnostic,
+in the sense that it is designed to work on arbitrary weighted graphs that may represent any sort
+
+
+054 100
+044 so 8
+g
+z 034 60 E
+024 40 2
+—— unweighted S
+0.15 — weighted on &
+0, s---) KIN [=
+0 O01 02 03 04 05 5 10 15 20 25 1S
+kIN k “s
+5
+Figure 5. Community structure of concurrence networks. (a) Number of communities in the concurrence network over N, n/N, —
+as a function of k/N, for V = 100, 200, 500, 600, 960, by treating the edges as unweighted (blue) and weighted (green). In the {a
+weighted case, the number of detected communities is exactly equal to k (with some fluctuations due to numerical errors), :2
+regardless of NV.

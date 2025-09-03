@@ -1,0 +1,9 @@
+In contrast with previous models we have explicitly taken the codon sequence into account. Our description is, however, deterministic and is essentially a mean field treatment. This latter
+point refers to the fact that as y; refers to an average over mRNAs (see §2), we do not take into
+account any spatial correlations in the density. Although correlations are likely to have a large
+impact on density profiles around bottleneck sites, by comparing with stochastic models which do
+take correlations into account [19,41] we predict that the overall behaviour is unlikely to change
+qualitatively. We have also neglected any active variation in the initiation rate which may result as
+the cell actively responds to starvation: for example, the GCN pathway [4,31] gives rise to a global
+reduction in initiation rate, while other pathways act to increase or reduce translation of specific
+mRNA species.

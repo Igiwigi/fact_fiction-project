@@ -1,0 +1,8 @@
+Typically,
+the design implies that the rotors rotate uniformly with a certain frequency of w and the body
+performs forced small harmonic oscillations with the same frequency. In this work, we draw the reader’s attention to the fact that this is true only in the first
+approximation. In fact, the rotor rotation rate changes periodically, which leads to the emergence
+of higher harmonics in the driving force and in the device oscillations. We obtain these oscillations
+in the second approximation when solving the system of nonlinear equations of the joint motion
+of the exciter rotor and the oscillating body. These oscillations may be essential and yield in
+some undesirable effects, in particular, for devices with self-synchronization vibration exciters.

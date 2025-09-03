@@ -1,0 +1,33 @@
+By integrating equation (2.6) in each
+frequency band, we compute the indices within the low frequency (LF = 0.04-0.15 Hz) and high
+frequency (HF = 0.14-0.45 Hz) ranges, along with their ratio (LF/HF).
+
+(d) Maximal information coefficient
+
+In order to quantify the coupling between two variables, we calculated the MIC [66]. This index,
+in fact, is able to quantify linear and nonlinear couplings occurring between two variables over
+time, x and y [66]. MIC relies on the fact that, if two variables are somehow coupled, then a grid
+can be drawn on the scatterplot of the two variables. Formally, let Gxxy indicate all the possible partitions with x rows and y columns of the
+scatterplot for the ordered pairs of two vectors, and I, the mutual information for one specific
+partition with x x y grids that are applied to the ordered samples of the two vectors. MIC is defined as the maximal value of mm over the ordered pairs (x, y), with x <n and y <n,
+where 1 is the length of the vectors:
+
+max {Ig}
+
+Guxy
+8EGrxy (2.7)
+
+Mhoxy = log min{x, y}"
+
+In practice, it is possible to compute the estimation as MIC = max{itxxy} with B empirically
+axy<
+
+defined as B = n°-° [66].
+
+(e) Statistical analysis =
+
+Statistical analyses were performed on MIC values, considering data gathered from all of the :8
+subjects, in order to perform (i) comparison between resting state sessions; (ii) comparison : a
+between neutral sessions; (iii) comparison between (whole) arousal sessions; (iv) comparison is
+between pleasant and unpleasant stimuli of each arousal sessions; and (v) comparison between tw
+pleasant/unpleasant stimuli among different arousal levels.

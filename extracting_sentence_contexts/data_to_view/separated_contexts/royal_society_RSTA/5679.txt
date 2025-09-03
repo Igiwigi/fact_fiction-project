@@ -1,0 +1,16 @@
+This was
+achieved by also solving structural mechanics in a region surrounding the structure, using a
+functionally zero Young’s modulus value for the liquid, a million times smaller than the value
+used inside the solid. This assumes that a material with a sufficiently small Young’s modulus
+approximates liquid behaviour and offers no significant resistance to the movement of the solid
+structure. Note that we could in fact solve fluid flow on the same mesh, simply using a change of
+variables, with velocities replacing displacements stored at cell faces—a planned future extension. The structural mechanics problem can then be defined by the local material properties and
+application of force within this domain, which are themselves defined by the solid fraction and
+concentration values provided for each volume by the CA method. A similar method has been
+applied by Uehara et al. [34], using a finite-element method with a fixed mesh to avoid the
+remeshing issue described, updating the material properties at the nodes as the domain solidifies.
+
+(c) Cell orientation and model coupling :3
+The code allows for the crystallographic orientation of dendrites to vary spatially, so that each : S
+cell comprising the structure has a local crystallographic orientation 6 inherited from a parent : i
+cell which can be updated using local displacements obtained from the FVSMS.

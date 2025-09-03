@@ -1,0 +1,27 @@
+Since we
+have replaced v by its asymptotic value for large R we can ultimately study the solution of
+the equations only in the large R range. In order to study this term in the small & range we
+should have to replace v by the expression (3-36), but since interest centres principally in
+the range of large R all this section will be devoted to this range. The approximation made
+above is not sufficient to make the equations tractable, and I shall approximate further in
+the equations of motion by taking V?=0?/dz* in the Navier-Stokes terms, that is, the
+differentials with respect to 7 are ignored. ‘This may be justified because of the shallowness
+of the liquid contained in the dishpan and is in fact a similar approximation to that made
+in earlier sections where the velocity components are expanded in powers of a. A similar
+approximation is permissible in dealing with atmospheric flow on the spherical earth. The equations governing the flow are taken to be
+
+20.0 = - v3 ; Pa (4-1)
+
+Pow - + 2Op u rae (4-2)
+
+0 4 + gaT, (4:3)
+
+ae 1 uy (77) —-05 (4:4)
+or dz :
+
+Ve = 0: (4:5)
+
+It will be noted also that in equation (4-3) the term y(d2w/dz*) is omitted; evidently this
+does not prevent us satisfying the boundary conditions at the surfaces z = 0 and z — h,
+and it is the satisfying only of the side condition w = 0 at r = a that is invalidated by this
+step.

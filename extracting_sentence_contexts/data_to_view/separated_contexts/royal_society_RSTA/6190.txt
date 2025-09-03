@@ -1,0 +1,15 @@
+To give more detail, figure 6 shows a single unsmoothed run (red lines), from this final batch,
+but now for hospital deaths and total deaths for England and all seven regions, and shows the
+sort of quality of matches we are seeing so far. The black points give the (unsmoothed) death
+data and the combined uncertainties due to o¢ and o, shown as the blue lines. The fact that
+JUNE matches several regions simultaneously, at least over the first wave, without resorting to
+any region specific parameters, suggests that geographical variations in the relative importance
+
+
+in different types of interaction drove/affected the different epidemic curves in those regions. Further, more detailed investigation to confirm this is of course required. We leave the extension
+to 2021 and beyond to the future work, as this requires the complex behavioural and partial
+restrictions (on travel, visiting relatives, etc.) imposed over the December 2020 Christmas period
+(the ‘cancelled Christmas’) and the January to April 2021 lockdown and subsequent staggered
+release to be implemented and tested, possibly requiring additional time-dependent parameters,
+which is the ongoing work (although we note that vaccines and multiple variants have already
+been implemented in JUNE).

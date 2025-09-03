@@ -1,0 +1,6 @@
+At the top level of the modified system is a single workflow that operates on every
+available dataset. This workflow then initiates a new execution branch for each dataset that runs
+concurrently to calculate descriptors and, ultimately, to construct and validate a set of models (the
+workflow is shown in figure 2). The opportunities for parallelization in this system arise from the
+fact that each set of data can be treated independently. Thus, when the first workflow completes,
+there are several thousand independent workflow requests in the execution queue. To create this system, a number of additional workflow blocks were developed.

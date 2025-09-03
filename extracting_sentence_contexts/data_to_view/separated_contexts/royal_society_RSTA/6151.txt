@@ -1,0 +1,11 @@
+The reduction of this load
+bearing area provides a measure of damage within the RVE, A/A = (1 —d), where the damage
+parameter, d, similarly to the definition given for the softening law association with interlaminar
+damage, is bounded (0 <d <1) and monotonically increasing to prevent non-physical healing. By conceptualizing A as the cross-section area of a ‘fictitious’ undamaged material under the
+same loading, we can relate the transmitted stress, 0, to the ‘effective’ stress, ¢, in the fictitious
+undamaged configuration, o =¢(1—d). By assuming that the same strain is acting on the
+damaged and fictitious pristine material, it may be shown that this leads to a linear reduction
+in modulus, E = E(1 — d). A constitutive plane stress model for anisotropic damage in fibre-reinforced composites was
+first presented in [62] and has formed the basis for the numerous formulations that have since
+been proposed. In the approach developed by the author, a RVE of a homogenized fibre-
+reinforced polymer composite is subjected to a full three-dimensional stress state.

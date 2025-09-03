@@ -1,0 +1,13 @@
+By the Lefschetz Trace Formula, this is equivalent to
+
+2n
+S\(-1)'Trace(Frobr, AR F@F*’))=q".
+i=0
+
+Already the trace on the H2" is q”. This suggests that Hi(A! , F @ F”) vanishes for i # 2n. We will
+
+now show that this is in fact the case. Here is an equivalent formulation. The sheaf F @ FY = End(F) has a direct sum decomposition
+
+End(F) = Qe @ End°(F),
+
+in which End°(F) is the subsheaf of endomorphisms of trace zero.

@@ -1,0 +1,10 @@
+In its original formulation, such a theorem requires the boundedness of the
+bulk actions, the knowledge of the integral balance of forces, and the action—reaction
+principle. If we choose to act in this way, we have to remind that we are not sure about
+the effectiveness of the result: analogy, in fact, is not always a secure path. The direct assignment of integral balances demands fewer assumptions, in fact, and
+allows to try to prove Cauchy-type theorems. However, since we consider M as a
+nonlinear manifold, which is the general unifying choice, prescribing an independent
+integral balance of micro-actions would be highly questionable formally. We would write,
+in fact, integrals involving integrands taking values on the cotangent bundle of M, which
+is anonlinear space (unless M coincides with a linear space) and is the target space of the
+integrand, so the definition of the integral itself would be questionable.

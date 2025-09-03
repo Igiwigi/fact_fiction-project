@@ -1,0 +1,12 @@
+The 400 waveforms
+were analysed by computer to classify the length of the transient before Helmholtz motion was
+established, and this transient length is coded in the colour scale of figure 4a. The results show a trace of Guettler’s predicted wedge-shaped region, but the data are
+‘speckly’: the transient length varies from pixel to pixel, and even within the wedge there are
+some black pixels that did not produce Helmholtz motion at all but a different regime of nonlinear
+oscillation. In fact, the experiment gives a hint of sensitive dependence: even with the computer-
+controlled bowing machine, repeating the parameter space scan does not produce identical results
+but a different pattern of speckles. However, the underlying wedge-shaped region within which Helmholtz motion is produced,
+at least sometimes, persists. The task of theoretical modelling is to produce a set of simulations
+capable of reproducing this behaviour with sufficient fidelity that the model might be trusted to
+shed light on how the details of the pattern might be affected by changes to the string, or the
+instrument body behaviour, or some other musically relevant aspect.

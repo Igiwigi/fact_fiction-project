@@ -1,0 +1,24 @@
+As
+taken over the entire population. the two scientists corresponded prior to the publication of
+Now, if all individuals in the population belong to Price’s 1970 article [4], Hamilton came to see the Price
+non-overlapping groups with the mean group fitness W, equation as a cleaner and more appropriate way to formulate
+each individual’s fitness can be decomposed into two his central findings on social evolution compared with his
+components—the group mean and individual deviation original rather cumbersome derivation [1, p. 175]. Hamilton
+from the group mean (Aw) published a Price equation-based rederivation of his central
+
+result immediately following the publication of the Price
+equation itself. In fact, the story goes that this was the
+result of a collusion between the two—Hamilton pressured
+Nature [1] into either publishing Price’s paper [4] or risk
+wAg = cov(w,g) = cov(W + Aw,g). losing Hamilton’s own contribution [21], in a move that
+seems unlikely by today’s standards. The derivation I present
+here nevertheless owes the most to Queller [16], who derived
+this now widely known ‘general’ model of kin selection—
+
+w=W+(w-W)=W+Aw. Substituting this into the first term of equation (1.1) we get
+
+Making use of the distributive property of covariance, we
+can write this as
+
+wAg = cov(W,g) + cov(Awg) . (3.2) general in the sense that minimal assumptions are needed
+between-groups _within-groups in its derivation.

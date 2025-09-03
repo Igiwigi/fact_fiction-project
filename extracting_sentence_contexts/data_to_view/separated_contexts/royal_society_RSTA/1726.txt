@@ -1,0 +1,9 @@
+We have to distinguish between uniform convergence—i.e.
+
+
+convergence in operator norm—and strong convergence. As before, E denotes a Banach lattice. Several examples will be discussed in §4 and §6.
+
+(a) The limit operator
+
+We first recall a few general facts about the limit operator of a convergent semigroup. By the fixed
+space of a semigroup S on E we mean the set of all vectors f € E such that S(t)f =f for all times tf. The dual semigroup of a semigroup S on E is the mapping S’: (0,00) 3 th S(t)’ € L(E’).

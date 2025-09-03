@@ -1,0 +1,11 @@
+This set X contains the following 20 trinucleotides:
+
+X = {AAC, AAT, ACC, ATC, ATT, CAG, CTC, CTG, GAA, GAC,
+GAG, GAT, GCC, GGC, GGT, GTA, GTC, GTT, TAC, TTC}. The two sets X; and X3, of 20 trinucleotides each, in the shifted frames 1 and 2, respectively,
+of genes can be deduced from X by a circular permutation. These three trinucleotide sets
+present several strong mathematical properties, particularly the fact that X is a maximal C° self-
+complementary trinucleotide circular code [12]. The subset {CAG, CTC, CTG, GAG} of the circular
+code X is a trinucleotide comma-free code and, furthermore, C? and self-complementary [13]. Comma-free codes are important codes as they represent a limit class of circular codes with three
+particular properties: (i) no word of a comma-free code is found in a shifted frame; (ii) the length
+of reading frame retrieval is the shortest; and (iii) the probability of reading frame coding is
+maximal and equal to 1 [14].

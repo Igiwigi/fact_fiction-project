@@ -1,0 +1,17 @@
+For instance, the standard ,
+Kronecker product of a vector s= [s1,s2]' with itself yields Ist, $182, 5281,83]", whereas for the
+compact Kronecker product we have [s7, $182, ae The Kronecker product of two column vectors
+of length r contains only r(r + 1)/2 unique quadratic terms.
+
+(a) Burgers’ problem for shock propagation
+
+We assess the method’s performance on the inviscid Burgers’ equation for shock propagation in a
+one-dimensional domain [17,18,21,46,47]. This problem is particularly challenging for projection-
+based ROMs. The difficulty arises from the fact that ROMs approximate the solution as a linear
+combination of spatially fixed reduced basis functions. However, when the underlying system
+dynamics exhibit motion with respect to a fixed grid, ROMs that use a global POD basis generally
+fail to capture the space-time evolution of the local phenomena accurately. Consider the following
+one-dimensional initial-boundary-value problem:
+
+2 s( t) + s(x, D2 scx, t)=g(x); xe [0,100], t € [0,50], (4.1)
+with s(x, f) the unknown conserved quantity, and the forcing term g(x) = 0.02e°°*.

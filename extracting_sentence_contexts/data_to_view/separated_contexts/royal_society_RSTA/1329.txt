@@ -1,0 +1,14 @@
+The : 2
+microstructures were motivated by a three-phase example [31] having cubic symmetry, where it : 3
+was rigorously shown that the Hall coefficients Ril , RH and Re of all three isotropic phases can be : =I
+
+non-negative, while at the same time R# is negative. One can explain this [29,31] in terms of the
+‘matrix valued’ electric field E(x) whose three column vectors e1 (x), e2(x), and e3(x) each solve the
+conductivity equations, with zero magnetic field (i.e. the same x(x) and p = pI). Assuming (E) = I,
+a perturbation argument [31,32] shows that the sign change of the Hall coefficient is related to the
+fact that the trace of the cofactor matrix of E(x) changes sign, at least in certain regions in the
+unit cell of periodicity. On the other hand, in any multiple rank laminates (with (E) =I) Briane
+and Nesi show that the determinant of E(x) remains positive [33], whereas it does take negative
+values in certain regions in the interlinked tori geometries [34]. While they show that the trace of
+the cofactor matrix of E(x) can change sign in three-phase multiple rank laminates, it is an open
+question as to whether it can change sign in two-phase multiple rank laminates.

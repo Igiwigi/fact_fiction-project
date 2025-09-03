@@ -1,0 +1,19 @@
+When this heat exchange
+is sustained through time, resulting in a diffusive heat flux J =dQ/dt, then the
+diffusive heat exchange produces entropy ¢ at a rate of
+
+ds 1 1
+r= Sasx(Z-z): (2.4)
+
+When we deal with a non-isolated system, we also need to consider the entropy
+changes owing to the exchange fluxes of energy and mass with the surroundings. Then, equation (2.3) becomes a balance equation for the entropy of the system
+that relates the changes in entropy dS/dt with the entropy production a by
+irreversible processes within the system, e.g. heat diffusion, and the net exchange
+of entropy across the system boundary, Js net. The net entropy exchange captures
+the fact that the energy which is exchanged with the surroundings is not of the
+same quality. For instance, it captures the fact that solar, shortwave radiation is
+of different composition to terrestrial, longwave radiation that leaves the Earth. Hence, the entropy balance is written as
+
+ds
+at =o—- Ig nets (2.5)
+with an isolated system represented by J net = 0.

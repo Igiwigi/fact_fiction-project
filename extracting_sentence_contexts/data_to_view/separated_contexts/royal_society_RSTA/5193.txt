@@ -1,0 +1,19 @@
+Finally, the leader—follower interaction is described for
+every agent from the leaders’ group, thus in general we have
+
+(3.5)
+
+wae =
+v=,
+
+w™ =w +aS(w,d)(5 — w) + me
+
+where, similar to the previous dynamic, 6 is a random variable with zero mean and finite variance
+6? and0<D(.) <1. Since we are dealing with a kinetic problem in which the variable belongs to a bounded
+domain, namely I=[-—1,1], we must deal with additional mathematical difficulties in the
+definition of the agents’ interactions. In fact, it is essential to consider only interactions that do
+not produce values outside the finite interval. For the leaders’ interaction if we consider the constrained binary interactions system (3.1)—
+(2.11), without diffusion we obtain that |* — 0*| is a contraction if a < 3
+
+\o* — 0*| =|(@ — 3) — aw — 5)(R@, d) + REG, W))| <1 — 2a — dj. The following proposition gives sufficient conditions to preserve the bounds for the leaders’
+interactions (3.1).

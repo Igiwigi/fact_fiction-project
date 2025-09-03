@@ -1,0 +1,9 @@
+Such models have recently attracted a considerable amount of attention due
+to the fact that various phenomena, including cracks, are successfully described. In the classical
+linear elasticity theory such nonlinear response cannot be explained. The advantage of implicit
+theories is that they allow for the gradient of the displacement to stay small so that one could
+treat the linearized strain, even for arbitrary large values of the stress, which has, in fact, been
+observed in many experiments (see the references in [3]). In this work, we are interested in the analysis of a one-dimensional viscoelastic model resulting
+from a constitutive equation specifying the relation between the linearized strain, the stress and
+the stress-rate. In §2, we introduce the model we study in this work which is derived using
+the viscoelastic constitutive relation and the equation of motion.

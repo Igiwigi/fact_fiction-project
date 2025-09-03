@@ -1,0 +1,17 @@
+The latter was obtained directly from SCADA data by [50]. However, in
+
+
+the planning phase of a wind farm, there is usually little technical information about the wind
+turbines to be used. In this case, the best approach may be to exploit the fact that most modern
+wind turbines are tip-speed regulated to rated wind speed after which they are power regulated. For wind speeds less than rated, (2.8) may be employed with a taken as optimal. At wind speeds
+above rated, the average power coefficient is given by
+
+2Pc
+
+Cp=—%
+37
+pAuy
+
+(2.9)
+
+where Pg is the generator power.

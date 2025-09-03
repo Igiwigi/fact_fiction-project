@@ -1,0 +1,13 @@
+Hence, in this work, the UAV is assumed
+to be sufficiently stiff to justify its representation by a 6-d.f. rigid body, equipped with deployable
+control surfaces. This assumption is appropriate, as it is satisfied by many UAVs, particularly in
+the context of landing. Linearization is also justified by the fact that the controller can be expected
+
+
+
+to maintain the UAV within small perturbations about a pre-designed glideslope, except if it 4 |
+has to deal with an exogenous event just before touchdown—a scenario that is not considered
+
+in this work. On the other hand, linearization about a steady-state equilibrium point would 3
+not be effective in this case, because the fluid state at such a point is time-dependent. For this oS
+reason, a more suitable linearization is performed instead.

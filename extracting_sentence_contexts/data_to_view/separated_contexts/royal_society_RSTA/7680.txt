@@ -1,0 +1,33 @@
+The chance of an observation beyond 4 k, for
+Type VII, is greater than that for the limiting normal law, which is approximately
+k*\/k/a. This will remain a good approximation for Type II if the index i
+
+exp
+
+n>4/(mm) (3)""" log 2
+
+if we take & = 4,/m as our limit, On the other hand, if m is to be shown to be finite
+/},—-3 must exceed its standard error substantially, In this case we may use Pearson’s
+uncertainty; we have
+
+whence we may reasonably require, to establish departure from the normal, that
+shall exceed 8m? considerably. The following table gives some representative values
+showing n,, the maximum number of observations that may be expected to avoid slow
+convergence, and 1, 3m?) the number that must be exceeded if any determination
+of such a value of m is to be possible.
+
+m ny Ny
+
+9 i 343
+25 650 IS75
+4h 193,000 7203
+100 2-4 x 10 30,000
+
+If in fact m — 25, we shall need well over 2000 observations to detect it; but in 650
+
+observations there will ordinarily be some beyond the range where the series gives
+
+a satisfactory approximation. It will be only at such large values of m that the number
+of observations needed to show that m is not infinite will be 10,000 or more that the
+approximation by series will be of any use. The trouble is that it is biased in dealing
+with the outlying observations, which are precisely the ones of most use in finding m.

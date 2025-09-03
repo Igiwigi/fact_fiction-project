@@ -1,0 +1,21 @@
+The resulting multiplier (m(&,)/®(E,n))m'(n,o) is regular, so one can now analyse cubic
+integrals of this type using again the method of space-time resonances. An important algebraic
+observation, which is used in the analysis of the phases 6__,,®_,;—,® ~~ to control the
+weighted norms, is the identity
+
+Ve(E,n,0)=0 if Vnob(E,n,0)=0 and |nl,/§-o1<él- (3.17)
+
+This is a slow propagation of iterated resonances property; more subtle versions of this property are
+also important in the three-dimensional gravity—capillary model described below (e.g. (3.53)). The dispersive analysis in [71] is simplified by the fact that there are no quadratic space-time
+resonances in the problem. However, the basic idea of the method of space-time resonances,
+namely to identify these points and centre the analysis around them, plays a crucial role in many
+
+
+other global regularity results on plasma models and water waves models. Further developments
+of these ideas, and much more sophisticated arguments, are used in the proof global regularity for
+the three-dimensional gravity—capillary model, where one has to deal with a full set of quadratic
+space-time resonances (see §3d).
+
+(c) Gravity water waves in two dimensions
+
+We consider now the system (1.7) in one dimension in the case (g,) = (1,0).

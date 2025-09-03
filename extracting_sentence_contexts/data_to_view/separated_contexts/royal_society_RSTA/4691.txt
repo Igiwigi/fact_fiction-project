@@ -1,0 +1,6 @@
+The latter is the case for streets going around the inner
+circle, i.e. the azimuthal component of the velocity appears faster than in figure 1a. Likewise, the
+radial component of the velocity appears slower than in figure 1a. So far, everything has been fictitious in that no car in the city is actually driving faster than in
+figure 1a. Here comes the trick: we turn the apparent velocity of cars on the computer screen into
+an actual velocity distribution in the city. To do so, we have to ignore the fixed grid of streets and
+rather consider an open area.

@@ -1,0 +1,11 @@
+T,0,K*% 0.5-1.5s is a dead time required to process
+information about stimuli and to initiate actions. It may be different for
+different kinds of stimuli; see model (3.10).
+
+— Relaxation time. T* 1-10s appears owing to the fact that vehicles are
+capable of only finite acceleration; see model (3.12).
+
+— Desired time gap (also called time headway). Tsay 1-2s is the time
+distance drivers would like to keep when following a leader; see
+model (3.13). We remark that these times should also be distinguished from the numerical
+update time that is simply an artefact of time discretization.

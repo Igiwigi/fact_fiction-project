@@ -1,0 +1,11 @@
+In general, one cannot use GLMs for covariates and so on, must be considered in light of the
+both levels or alternative sources and the overall rate of spil- behaviour of spillover counts we have shown here. For
+lover. However, when one assumes linear models between a example, lasso regression [33] could easily shrink the slope
+covariate and the log-rates of shedding from alternative for a covariate to zero when the slope is in fact high but invis-
+sources and/or the log-odds of successful passage through ible owing to its modulation of a non-dominant source or a
+a barrier to spillover, the resulting nonlinearity is always currently low-attrition process on the pathway to spillover.
+approximately piecewise linear. Thus, count data of spillover More generally, based on the results in figures 2 and 3, we
+incidence should be carefully analysed for piecewise linearity suspect such approaches, which are typically employed to
+using tools such as generalized additive models, switching- prevent overfitting, could exacerbate the challenges of identi-
+regression models or ensembles of linear models. Projections fying sensitive yet non-dominant pathways and weak
+beyond the range of observed covariates should be especially attrition processes.

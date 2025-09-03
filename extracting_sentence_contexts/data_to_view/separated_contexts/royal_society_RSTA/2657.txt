@@ -1,0 +1,12 @@
+However, in some special
+cases, the three-dimensional imaging problem can be reduced to a two-dimensional imaging
+problem. A good example for this is vertical nuclear spent fuel casks. Owing to the fact that spent fuel
+assemblies are very long, spent fuel casks have the same profile at different positions along the
+vertical direction if we ignore the lid and bottom parts. Therefore, for any muon path, if we shift
+it in the vertical direction to a new position, then the materials encountered along the new path
+will be the same as along the original path, therefore the bin size in the vertical direction can be as
+large as the cask itself. Furthermore, we noticed that for muons with the same azimuthal angle,
+x- and y-coordinates, but different zenith angles and z-coordinates, their expected water
+
+
+Figure 1.

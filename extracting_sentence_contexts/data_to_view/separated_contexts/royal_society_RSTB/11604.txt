@@ -1,0 +1,43 @@
+Summary of results for each method applied to the test sets overall and to each plant group. Italicized accuracies are significantly better than the
+default accuracy. Superscript letters indicate significantly better performance than Random Forests (RF), rCAT (RC), ConR (CO), Specimen Count (SQ), or the US
+Method (US).
+
+group number of species accuracy/% default accuracy/% sensitivity specificity
+Random Forests all 326 99 seus n 0.85% 0.91088
+Coffea 32 75 62 0.80 0.67
+Legumes 204 94 93 0.64 0.96
+MadPalms 52 88 85 0.98 0.38
+Myrcia 19 74 63 0.67 0.86
+OrchidsNG 19 84 89 1.00 0.82
+rCAT all 1311 gg nus n 0.83% 0.920%u8
+Coffea 105 87 68 0.86 0.88
+Legumes 837 92 89 0.78 0.94
+MadPalms 176 84 83 0.85 08
+Myrcia 97 81 62 0.7 0.88
+OrchidsNG 96 82 76 0.96 0.78
+Conk all 1303 82" n 0.87% 0.80"
+Coffea 105 93 68 0.94 0.91
+Legumes 829 83 89 0.73 0.85
+MadPalms 176 91 83 0.92 0.83
+Myrcia 97 67 62 0.76 0.62
+OrchidsNG 96 51 76 1.00 0.36
+Specimen Count all BU 82" 2 0.69 0.8700s
+Coffea 105 B 68 0.62 0.97
+Legumes 837 87 89 0.45 0.93
+MadPalms 176 84 83 0.84 0.87
+Myrcia 97 65 62 0.65 0.65
+OrchidsNG 96 53 76 1.00 0.38
+US Method all 1311 7 n 0.86 0.74
+Coffea 105 78 68 0.73 0.88
+Legumes 837 2 89 0.75 0.78
+MadPalms 176 91 83 0.99 0.53
+Myrcia 97 64 62 0.78 0.55
+OrchidsNG 96 58 76 1.00 0.45
+appeal to practitioners with limited computing resources or (almost always present in herbarium data) at the cost of
+coding skills, who may also appreciate the fact that they can reducing the specificity (to 55%) and thereby inflating the
+readily visualize the pathway each species follows number of species requiring full assessment.
+
+(figure 3). However, the sensitivity of the US Method is
+very dependent on the definition of locality used. In our
+
+application of the method, following testing, localities 4.

@@ -1,0 +1,15 @@
+At
+temperatures below 12.6mK, the reference temperature was provided by a pulsed !Pt NMR
+thermometer which was read out by PLM4 electronics.>
+
+Figure 3a shows the power spectral density of flux noise obtained using the cross-correlation
+method at different temperatures. The recording time for one cross-correlation spectrum was
+400s leading to a statistical precision of better than 1% for the given bandwidth of about 100 Hz. The fact that the overall shape is in very close approximation identical for all spectra indicates
+
+$RV-Elektroniikka, Vantaa, Finland.
+
+
+that the resistivity of the noise-generating copper piece did not change in the entire temperature 6 |
+range on a relevant level as expected. The solid lines through the data points of each spectrum
+assume an identical spectral shape and fit each dataset very well. According to (1.2) the prefactor “3
+of this fit is expected to vary linearly with temperature.

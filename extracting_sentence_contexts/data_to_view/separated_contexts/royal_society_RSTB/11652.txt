@@ -1,0 +1,32 @@
+All rights reserved. Traditionally, the task of NLG has been divided into the | 2 |
+following six sub-tasks [12]:
+
+S
+— Content determination: deciding which information to &
+
+include 2.
+
+— Text structuring: deciding what order to present the s
+
+information in =
+
+— Sentence aggregation: deciding what information to present — =
+
+in individual sentences 3
+
+— Lexicalization: choosing the words and phrases to express ‘&
+
+the information 2
+
+1 — Referring expression generation: choosing the words and z
+
+3 ” 4 phrases to express domain objects a
+
+Figure 1. A fictional social robot. Image @ 1977 Lucasfilm Ltd. (Online — Linguistic realization: combining words and phrases into =
+version in colour.) sentences =
+yy
+
+While most NLG systems address the above tasks in some = 5
+systems, the robot will not be able to carry out even the basic way, the organization within the system can vary. For
+tasks necessary for communicating with people in a face-to- example, some systems use a modular approach, with clear a)
+face context.

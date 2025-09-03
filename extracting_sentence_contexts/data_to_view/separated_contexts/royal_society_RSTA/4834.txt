@@ -1,0 +1,30 @@
+For every mapping s of the
+semigroup, any set X stabilized by s (e.g. any natural subsystem where s acts) recurs in the
+ensemble, so even after arbitrary time -s: X > X will realized. Thus, the entire semigroup
+S with its space of dynamical possibilities (Q,5(A)) recurs indefinitely often. If one has a
+good model for understanding its natural subsystems and the transitions between them,°”
+this can be applied repeatedly, in spite of the fact that they may only occur transiently in a
+particular component.
+
+(b) Example 1 continued: cell cycle and multicellular differentiation
+
+Let C be any finite automaton cell model including the cell cycle which results at some point
+in division, for example using the simple cell-cycle model of [101] modelled as a Petri net in
+figure 12.55 Here phosphorylated cdc-2 (cdc2-P) and cyclin oscillate in synchronization with the
+cell cycle; in sufficient concentration cdc2-P sets off a cascade of events that results in the cell
+
+*’This refers not only to scientific or experiential understanding, but also to hierarchical coordinate systems obtained by
+Krohn-Rhodes decompositions, using say the partial order 2/’R of weak control hierarchy (as in theorems 6.1 and 6.2).
+
+58We remark that in this Petri net for the cell cycle there are non-trivial automorphisms (symmetries). One gets an
+automorphism of the Petri net via the (external) symmetry of order 2: on places, (cde2 amino acids) (cde2-P cyclin), ie.
+swap cdc2 and amino acids and simultaneously swap cdc2-P and cyclin; whereas, on transitions, swap as follows (517) (416). This induces an (external) automorphism of order 2 on the six-state automaton, as evident from figure 12b.
+
+
+(a) (b)
+
+Figure 12. (a) Petri net model of the cell cycle based on a differential equation model of reactions as described by Tyson [101]. :3
+(b) Finite six-state automaton associated to this Petri net whose state set consists of all configurations reachable from the initial 1p
+configuration with one token at the place representing MPF (active or inactive). :8
+
+division.

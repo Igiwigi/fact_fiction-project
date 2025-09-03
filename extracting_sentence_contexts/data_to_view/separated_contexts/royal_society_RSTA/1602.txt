@@ -1,0 +1,17 @@
+In the above formula, we can simply consider the composition QN instead of JQN since Im(Q)
+and ker(L) can be identified (even if it is not technically correct to say that they coincide, being
+subspaces of different spaces) and we can choose J as the identity. It is possible to check that u € D
+is a T-periodic solution of (1.5), if and only if it is a fixed point of &. Hence, the problem of finding
+T-periodic solutions to equation (1.5) is brought back to the search of fixed points of the operator
+®, or, equivalently, to the search of solutions to the nonlinear functional equation
+
+u— P(u)=0. (2.9)
+
+Property (A) yields the well known fact that, although Kp is not compact, the Nemitski
+operator is L-compact and the coincidence degree theory is therefore applicable in order to study
+equation (2.9). This will be done in the following two sections.
+
+
+3. The general result
+
+In this section, we prove the existence of T-periodic positive solutions of problem (1.5).

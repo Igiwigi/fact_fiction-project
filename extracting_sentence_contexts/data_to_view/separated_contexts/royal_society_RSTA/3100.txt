@@ -1,0 +1,57 @@
+We therefore defer evaluation of fluxes to
+§8, after we clarify the modes. To achieve that, some further transformation of the nonlinear
+contributions is necessary. Specifically, by extracting the irreducible part of the rank-three tensor,
+and taking into account the fact that o is trace-free, we transform Aplin. (6.18) as follows:
+
+Aplin = ~ VR aC 9)(CaCgCy)(GapdyT) + —— O ~ wict- 14C? + 35)Cu(oupdgT). (6.29)
+A similar transformation of Agin (6.19) yields
+Agin= 5 eo 7)(CaCpCy) (Ga dpuy)
++—“ (4 _ act 4.35¢ (a up + Opa — 25 ayy) (6.30)
+25p/RT aff \ Calls Bia Babyy } °
+Furthermore, one immediately recognizes that Agia (6.22) and Agi (6.23) are composed of two
+terms with the structure of the second and third primary modes,
+i M
+agin = ~ 5c —7)(CaCp) (9p) Fya) — 5p “Cc —10C? + 15)qudgope (6.31)
+and M
+Sip = ~ 5a ~ WCC BNA %eP) — Fe AE (Ct =10C? + 15)(qu dup). (6.32)
+
+Finally, the term Aplin (6.26) can be transformed as follows:
+Aplin — eee 7)(CaCp)oap(dy Uy) +7 aa —10C? + 15)oapdgita + Anin (6.33)
+and
+Ago = 55 MT (CaCpCyCa) — (CaCy)8pa — (CaCy Bun — (CC) py
+
+— (CpCy) Say — (CaCg)dyx. — (Cy Cy) dap (Gap Ay ua). (6.34)
+
+7. Invariance defect as a superposition of eight modes
+
+After transforming various nonlinear contributions, it now becomes easier to recognize the
+structure of the invariance defect as a superposition of eight modes,
+
+8
+Age = °K, (7.1)
+i=1
+
+which we specify below.
+
+
+(a) Primary mode xc
+
+The mode
+
+KO = MPO} FO (7.2)
+
+is associated with the rank-three tensor po) , and was already identified from the analysis of the
+
+linear part of the invariance defect (see (6.10)),
+
+PU, = (CaCpCy). (7.3)
+
+Collecting pertinent contributions from (6.10), (6.16) and (6.17), and taking into account that
+tensor (7.3) is symmetric and traceless, we get the extension of the frequency associated with
+this mode into the nonlinear domain,
+
+a 1 1 . RT
+Fy = (<a) (9) Gap) _ (==) (Fup 9.0ry) _ (=) (Cup dy P), (7.4)
+
+where we have introduced shorthand notation (Aggy) for the symmetrized trace-free generic
+tensor of rank three.

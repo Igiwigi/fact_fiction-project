@@ -1,0 +1,9 @@
+If the applied forces are held constant,
+the total energy of the system (internal energy of the body plus potential energy of the sources
+of external force) is a function of the set of parameters necessary to specify the configuration
+of the imperfections. The negative gradient of the total energy with respect to the position of
+an imperfection may conveniently be called the force on it. This force, in a sense
+fictitious, is introduced to give a picturesque description of energy changes, and must not
+be confused with the ordinary surface and body forces acting on the material. Even if there is only a single imperfection in the body and no externally produced stresses
+the force on it will not in general vanish. This ‘image force’ will depend on the shape of the
+boundary of the body and on the variation of the elastic constants from point to point in it.

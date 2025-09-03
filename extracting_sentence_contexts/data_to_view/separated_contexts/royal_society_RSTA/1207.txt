@@ -1,0 +1,8 @@
+It is
+worth noticing that the angle is independent of the dimension and in fact the same result holds
+in the infinite dimensional case as well. The asymptotic behaviour of T(t) in ub follows from the previous considerations and the
+spectral results of §4b. It is clear, in fact, that T(t)f > Pf pointwise for f € C,(RN), where Pf
+is the projection defined by the right-hand side of (3.12). By Lebesgue theorem, we obtain
+limy +00 I T(DF — PFilne =0 for every f € C,(RN) and then by density for all functions f € Ly. On
+the other hand, 0 is an eigenvalue of A, for p > 1, the other eigenvalues have negative real parts
+and the semigroup is analytic (and also compact), see §4b.

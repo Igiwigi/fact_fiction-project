@@ -1,0 +1,17 @@
+We note that when both fil-
+which TP (fuzzy cactus, fuzzy penguin), a look-up table with lers and roles are similar to each other, both models predict
+that information or simply the knowledge of the modeller the same thing—maximal similarity as identity is
+looking at the values in the network). Another consequence approached. The key prediction regards cases where the fil-
+of a TP-based architecture without a tracking mechanism is lers and roles are not a priori similar to each other; TP
+that binding information (viz., the fact that fuzzy penguin predicts these have (cosine) similarity of zero, ADB predicts
+goes with fuzzy and penguin) is not available to other neurons they will be judged as similar despite constituent relative dis-
+in the network during meaning composition; binding infor- similarity. Below, we present the methods of both
+mation must be available to downstream neurons in order experiments 1 and 2 before discussing their results together.
+
+for the system to maintain variable-value independence—
+for the system to be functionally symbolic, and for the
+
+behaviour of the system to align with that of humans. 2. Experiment 1: word similarity ratings
+By contrast, in a binding system that maintains role—filler
+independence, the similarity of x to itself is fixed, regardless (a) Participants
+of what it is bound to.

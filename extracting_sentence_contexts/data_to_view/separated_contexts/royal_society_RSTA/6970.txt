@@ -1,0 +1,19 @@
+Emmons & Brainerd (1941, 1942)
+have given solutions of this system for constant viscosity and for various viscosity laws
+respectively, and these have been used as a standard of comparison for the various approxi-
+mate solutions given earlier. In addition, their work shows that in this case the boundary
+layer does not separate from the solid boundary, so that, as in the incompressible case, it is
+necessary to have retarded flow in order to get separation. The fact that for no pressure gradient the solution is a function of y/./x only suggests that
+when there is a pressure gradient it will be possible to work as in the incompressible case in
+terms of x and y/./x as independent variables, and it can be hoped that the variation of the
+various quantities with x at constant y//x will be slow, smooth and easy to handle. The simplest case to consider seems to be that of constant pressure gradient in the main stream,
+rather than constant velocity gradient as taken by Howarth (1938 and F.D. p. 173); more-
+over measurements show that for flow round a projectile with a streamline base (figure 1,
+top photograph) the pressure gradient is often nearly constant over the streamlined portion,
+so that the choice of constant pressure gradient corresponds to an eminently practical case. For generality let the pressure gradient be written
+
+0, Ul Ul
+= aU, UiG(Uj2|U,), (61)
+
+where G(0) = 1, so that Uj has the dimensions of a velocity gradient and is positive for
+retarded flow; for constant pressure gradient G = 1.

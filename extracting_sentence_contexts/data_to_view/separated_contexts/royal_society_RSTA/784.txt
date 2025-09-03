@@ -1,0 +1,12 @@
+Comments and open problems
+
+While in the discussion of Yang-Baxter integrability we have concentrated on the success of
+hydrodynamical approaches, there remain several limitations. Given an arbitrary initial pure
+state, it remains an assumption that this will evolve into a GGE to which hydrodynamics can
+be applied, and there are not in general practical methods to calculate which GGE a particular
+state evolves into. Related to this is the fact that the Bethe-Boltzmann equation describes ballistic
+propagation, while spin currents, for example, have a diffusively decaying part as well [50]. At
+low temperature the ‘coarse-graining’ length and time scales for a GGE to become established and
+for hydrodynamics to become valid for non-Bethe-state initial conditions are expected to diverge. The most dramatic agreement so far with microscopic density-matrix renormalization group
+calculations is obtained for energy flows in XXZ, which are known to be somewhat special
+because of the energy current conservation mentioned above [45].

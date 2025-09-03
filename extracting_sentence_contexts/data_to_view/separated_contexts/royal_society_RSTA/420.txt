@@ -1,0 +1,10 @@
+Many practitioners regard the strength of the Hubbard-U term as a parameter of the
+simulation, and DFT + U has often been used incorrectly as a method for widening the band
+gap for general semiconductors. Empirically fixing the band gap for closed-shell systems usually
+requires an unphysically large Hubbard U, causing overlocalization and a flattening of the
+valence and conduction bands. In this sense, it might be thought that DFT + U calculations are
+semi-empirical, rather than ab initio in nature; however, Cococcioni & de Gironcoli [31] showed
+that the correct value of the Hubbard-U terms could in fact be computed using density functional
+perturbation theory. This technique removes the empiricism and ensures that the values used
+are physically reasonable, though it is not straightforward to apply to materials with many
+different elements. The final approach we discuss is Hartree-Fock and related methods.

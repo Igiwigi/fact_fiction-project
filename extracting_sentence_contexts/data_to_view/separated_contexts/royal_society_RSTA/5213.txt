@@ -1,0 +1,7 @@
+Indeed, it is set on
+the whole real line, and it is seen that the free boundary starts from infinity at t= 0. Nevertheless,
+it is tempting to approach the non-local u-problem by first solving the local w-problem (1.6). As a
+matter of fact, to derive further qualitative properties, we study this w-problem in §7. However,
+the w-problem does not yield the solution of the u-problem that is of interest in a straightforward
+fashion. By solving the w-problem, we, indeed, obtain the free boundary, but we then need to
+show that it is of the form {x = a(t)} = d{w > y}.

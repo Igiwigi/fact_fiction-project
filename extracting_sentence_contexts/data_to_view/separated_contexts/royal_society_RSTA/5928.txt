@@ -1,0 +1,11 @@
+Our
+result provides in addition an estimate on the convergence rate, which, up to an exponentially in
+time diverging prefactor, remains of the order of ¢ as for the initial datum, see (2.6). Furthermore,
+the estimate holds true for any solution w satisfying our initial assumptions. As we have written
+earlier, this is a remarkable property in light of the fact that it is currently not known whether
+solutions to the Euler equations with vorticity in L? are unique, if p < oo. As solutions to the point
+
+
+vortex system (2.12) are unique, our result shows that in any case uniqueness is in some sense
+recovered in the limit as ¢ > 0. We remark that the estimate in corollary 2.2 can be interpreted as a stability estimate for the
+Euler equation.

@@ -1,0 +1,23 @@
+The principal
+solution stands in the same relation to the ‘ Chaplygin set’ of solutions (in which the variables
+q, / are separated) as the generating function for Legendre polynomials does to the harmonic
+functions 7"P, (cos @) ; it is not, like this generating function, elementary, but it has a notably
+wide domain of regularity in the variables q, ¢. A brief comparison may be added with other methods for determining hodograph
+solutions (Legendre potentials or stream functions) which, as functions of g, 0, are multiple-
+valued. There are, I think, essentially two of these which are analytically rigorous, and
+applicable when pp~” — const. (i) The first, due to Bergman (1945, 1948), is to transform
+the hodograph equation to the form
+
+aw d2w
+
+ane + aga t WFLA) = 0, (B)
+
+where dis a suitably chosen function of g. (In fact, A = iv, where a is defined in (2:3) below.)
+For a first approximation the term wF(A) is omitted, so that w can be an arbitrary harmonic
+function of A, #, not necessarily single-valued. An exact solution is then obtained as a series
+in which this first approximation is the first term. Now F(A) has a singularity at the value
+of A corresponding to the sonic value q, of g; on this account the series cannot converge in
+a domain including q,, and for q near q, it is at best slowly convergent. (ii) The other method
+(Lighthill 1947; Cherry 1947; Goldstein, Lighthill & Craggs 1948; Tamada 1950) is to
+
+} For the specification of these solutions see the last paragraph of the introduction.

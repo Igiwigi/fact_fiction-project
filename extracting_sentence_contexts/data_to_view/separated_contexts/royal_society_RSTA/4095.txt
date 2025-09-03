@@ -1,0 +1,9 @@
+Evidently, the fidelity computed using an initial state pg and the fidelity
+obtained from the Haar measure for the quantum maps share the same decay behaviour: a short-
+time decay which depends on the characteristics and strength of the perturbation, followed by a
+Lyapunov regime depending on a classical feature. We also compute | f2(t)| using the semi-classical DR. This is a simple task due to the fact that
+unperturbed trajectories are geometrically obtained in the billiard and the perturbation only gives
+a phase as dictated by equation (2.1). To take into account the initial pg(n1) state, we compute the
+semi-classical | fa(t)| by assuming that the initial conditions are uniformly random inside the
+billiard; the same was assumed for the direction of the initial momentum. The modulus squared
+of the momenta are distributed as the eigenenergies of the unperturbed system.

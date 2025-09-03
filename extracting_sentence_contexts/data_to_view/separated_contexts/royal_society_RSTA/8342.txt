@@ -1,0 +1,36 @@
+Convergence of the Series. In default of a proof that the formal power series (5.13) giving the general solution of
+the equations (5.1) are convergent, the investigation of §§ 5-9 is of only formal validity. In point of fact the series (5.13) are in general divergent, but the arguments by which this
+may be proved are of an indirect nature.* A new line of attack is therefore needed to
+prove the convergence of the series giving the formally periodic solutions. ‘The procedure
+is to give a process for the direct construction of these solutions, and then to prove that
+the series involved are convergent by the method of “ dominant series.” The process
+makes no direct appeal to the Hamiltonian form of the equations, but to show that it is
+successful in constructing periodic solutions we invoke the existence theory of §§ 5-9,
+and to this the Hamiltonian form of the equations is, of course, essential.
+
+* The argument is briefly that any system for which the transformation (5.20) is convergent is “‘ soluble,”
+so that its periodic solutions are in general “ ordinary,” whereas in general a Hamiltonian system possesses
+no ordinary periodic solutions. HAMILTONIAN SYSTEMS OF DIFFERENTIAL EQUATIONS, 185
+
+Hypotheses.—We suppose (i) that for the equations (5.1), viz.,
+da, _ oF dy. enon
+
+—— oe =— (ESA ab) iri 2 0.)
+Ls a. ( ) (20.2)
+we know a periodic solution of parameter v, and exponents ++ 0, ++ 2, and also (ii) that
+we know the normalising linear contact transformation appropriate to this solution, say
+
+y= 9, (%,, Or; ye"), Yu = Xe (%,, ©, ye") Seah newenieiend 4. (L0-2)
+under this transformation the equations (10.1) become of the “ normal ” form
+
+dt, oG do. 0G
+peer SS eee pated le 10.3
+eae” ee a, (10.3)
+in which G is a power series in the ¢,, , with periodic coefficients, the terms of lowest
+degree being quadratic and of the form (5.7), (5.9) or (5.12) in the various possible cases. We suppose, further, (iii) that the Laurent series in ye“ which occur in (10.2)* are
+
+absolutely and uniformly convergent} for a certain positive range of | ye"'|:
+
+ayer een: eh yes) se > OA)
+
+where, when v is pure-imaginary, we shall suppose 5, <1 < 5,.

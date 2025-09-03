@@ -1,0 +1,24 @@
+A matrix B belongs to SO(1, 2) iff it is of the form
+
+0 by bis
+B=|bo 0 by}. (6.11)
+bi3 —bo3 0
+Now, assignment
+0 X3 X. R35 X =[X1, Xo, X3]) > K:=] X30 + —X, | €SO(1,2) (6.12)
+X2 XX, 0
+
+defines an injective map. In fact, this map is a Lie algebra isomorphism of SO(1,2) and R®
+considered as Lie algebra with Lie bracket defined by C; see (6.6). If for X, Y € R° we have Z = YX, then Z= XY where
+
+0 X3 Xp
+X:=/-xX; 0 X|. (6.13)
+X X, 0
+
+Let us set r; = AR; with R; =0, for i=0,1. Then
++; = AR; = AQR;, (6.14)
+and the kinetic energy can be rewritten in the following form:
+T = y1mo](A@Ro, AQRo) + 31m J(AVR,, AQR)) = 522, (6.15)
+where
+T= moRGJRy + ™mRYJRy (6.16)
+
+is the tensor of inertia.

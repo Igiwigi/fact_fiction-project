@@ -1,0 +1,9 @@
+To solve this Pareto-optimal
+optimization problem with only two variables, it is possible to carry out a numerical analysis with
+a discrete search technique by sampling the values over the possible ranges of F and 6. However,
+even in that case, the total computation time may be significant. To avoid the computationally
+intensive approach, a simpler technique is followed by exploiting the fact that the power loss is
+independent of the tendon tension F (figure 5c) and hence rp(f) is a function only of f. Further,
+it can be observed from figure 5 that, to achieve the maximum possible vibration reduction or to
+minimize the vibrational response, the maximum value of F = Fmax should be used (since F has
+no impact on power production). Hence, the first term in (3.5) is a function of f as F is known.

@@ -1,0 +1,15 @@
+Although linear stability considerations indicate that the fastest-growing disturbances have
+streamwise wavelengths comparable to the (dimensional) VF thickness A;, these modes cannot
+directly couple with motions in the UMZs because their wall-normal extent similarly scales with
+A;, implying that such disturbances are confined to the fissure. In contrast, disturbances with
+streamwise wavelengths long compared with the fissure thickness induce pressure fluctuations
+that penetrate well outside the VF. Moreover, the near-marginal instabilities most relevant to
+an SSP are, in fact, long-wavelength modes. As shown in §3, the x-varying streamwise velocity
+component associated with these long-wavelength near-marginal modes is amplified within the
+VE, enabling the fluctuation dynamics to nonlinearly couple with the streamwise-averaged flow
+inside the fissure.
+
+3. Large Reynolds number analysis
+
+In this section, we perform a large Reynolds number asymptotic analysis of the NS equation
+to derive simplified equations governing the flow configuration shown in figure 2b.

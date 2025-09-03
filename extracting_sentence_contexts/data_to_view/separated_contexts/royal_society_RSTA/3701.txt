@@ -1,0 +1,10 @@
+The initial
+configurations are those derived in our previous work [29]. As in this work we are concerned
+with the study of both the isomerization processes and the tendency of the clusters to dissociate;
+the equilibration stage usually considered in MD is absent from our simulations. In fact, we want
+to investigate the differences in the dynamic behaviour of the most stable isomers of Nat-(Bz)4
+and Cs*-(Bz)4 and, hence, we needed to avoid the inconvenient interconversion among such
+isomer structures that may occur during the equilibration stage of the system. This means that in
+our simulations, independently of the T considered, the initial configuration of the simulations is
+that of the most stable isomer. The analysis of the differences between Na*-(Bz)4 and Cst-(Bz)4
+was based on the mean values of both the potential energy (configuration energy, Erg) and T.

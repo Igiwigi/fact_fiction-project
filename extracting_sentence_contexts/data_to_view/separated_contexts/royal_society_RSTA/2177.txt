@@ -1,0 +1,6 @@
+In particular, the streamlines are confined into the level sets of B. The stationary Euler equations with the Bernoulli formulation are
+
+Xx @w=VB
+div X=0. In the analytic setting, Arnold noted the following fact about solutions to these equations. Let
+(M,g) be an analytic Riemannian manifold and let X be an analytic solution of the equations. If B is constant and X is non-vanishing, the vorticity is proportional to X everywhere, that is
+curl X = fX for some analytic function f.

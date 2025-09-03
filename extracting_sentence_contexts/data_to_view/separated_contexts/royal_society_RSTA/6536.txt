@@ -1,0 +1,17 @@
+We know empirically that there are actually
+wide ranges of individual differences in these cross-links in humans, and that they
+are likely to be crucial when it comes to problems arising from using non-standard
+viewing devices. Clearly, we must exercise some care to deal appropriately with these
+issues. The fact that we need not, and probably should not, constrain our evolved robotic
+systems to match known biological evolutionary history is one area where our robotic
+systems have the potential for performing even better than the corresponding human
+systems.
+
+8. Conclusions
+
+In this paper I have demonstrated how allowing populations of simple adaptable
+control systems to evolve by natural selection can produce individual systems that
+are able to perform and adapt efficiently under a range of conditions. A Baldwin-type
+interaction (Baldwin 1896) between learning and evolution results in the emergence
+of appropriate innate values for each parameter in the system, along with appropriate
+(different) learning rates for each parameter.

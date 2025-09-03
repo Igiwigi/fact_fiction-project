@@ -1,0 +1,19 @@
+The same trade-off also governs to
+multi-timescale models or options are able to immediately what extent it is worth spending computational resources
+adjust to reward or transition changes would depend on refining existing value estimates via MB evaluation.
+whether or not these reflect rewards or transitions that are The relationship between a Markov decision process and
+already cached inside their pre-computed aggregates (or, a Markov chain implies that most of the algorithmic methods
+potentially, whether or not the way that the cached quantities can be adapted to control. For instance, there is a maximizing
+might have changed since they were learned can be predicted variant of the consistency condition in equation (2.9) that
+or is known). The fact that temporally extended options, for leads to a maximizing variant of the MB tree backup [68]
+instance, contain a model of their aggregate reward conse- and of MF value learning [66], both of which produce the
+quences, is the basis for a suggestion [10,11] that such value function associated with the optimal policy. While it
+action chunking (rather than classical MF value learning) is possible to define an analogous optimal successor rep-
+might give rise to the experimental phenomena of habits. resentation (the successor matrix induced by the optimal
+As for whether, or at what states, to target additional policy), this cannot be learned in a simple MF way, separate
+computation, one view is that this depends on assessing the from the optimal values. Instead, the successor representation
+uncertainty and/or bias in the existing value estimates, and multi-timescale models fit more naturally with a differ-
+which generally can be done only approximately [61-63]. ent family of control approaches, which include policy
+Locally, this involves tracking uncertainty about the rewards iteration in the MB case and the actor—critic for MF learning
+
+or transitions both by taking account of what has been [9,59].

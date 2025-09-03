@@ -1,0 +1,22 @@
+The full quasi-equilibrium problem for M=
+
+{M1, Mi} in the ‘shifted’ formulation reads: extremize the functional S[W; + AW] with respect
+
+to AW, under the constraints Mj[Wy + AW] = My and My[W; + AW]= Mr. Let us denote as
+
+AMy = My — My(M)) deviations of the moments My from their values in the quasi-equilibrium
+state Wy. For small deviations, the entropy is well approximated with its quadratic part
+
+1
+as=—{aw[1+in Wi Je | AW" ax
+Weg 2) We
+
+I
+Taking into account the fact that M;[Wy] = My, we come to the following maximization problem:
+
+AS[AW] > max, Mj[AW]=0, My[AW] = AM. (3.1)
+
+The solution to the problem (3.1) is always explicitly found from a (k + 1) x (k +1) system of
+linear algebraic equations for Lagrange multipliers. This triangle maximum entropy method was
+introduced in the context of the Boltzmann equation in [8]. In the remainder of this paper, we deal with the one-moment near-equilibrium closures: Mj =
+Mo (i.e.

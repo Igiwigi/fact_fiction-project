@@ -1,0 +1,30 @@
+This reveals for instance that dis- ages (x(a).
+ruptive selection may be driven by accelerating effects of a We have illustrated equation (3.13) (and equation (IIA) in
+trait change on state dynamics at a certain age (0? 9(Zm, 2, box 2) with examples from life history such as resource allo-
+x°(a))/(02m)" >0, e.g. because an extra unit of resources cation problems as those are the most straightforward
+invested in growth at age a generates a greater than linear applications. But since all vital rates (fecundity b, mortality
+increase in growth rate) when such a change improves u and growth g) depend on both mutant and resident traits
+current reproductive value (00° (a) /(Ax°(a)) > 0). (2m and z), equations (3.13) and (IIA) can of course be used
+The first part of h(z*) in equation (3.13), labelled ‘change to understand disruptive selection on traits that influence
+in age’, is conceptually equivalent to h,(z*) in equation (3.8), social interactions. In fact, since the vital rates may depend
+ie. capturing the effect of change in representation in a on the resident internal state and its distribution across resi-
+given age class a (through dl(a)/(0zm)) but with internal dent individuals, equations (3.13) and (II.A) can be applied
+
+state dynamics left unchanged (so with x(a) of a resident: to social interactions mediated by internal state, such as
+
+
+Box 2. Second-order fitness effects of a state change in physiologically structured populations. Disruptive selection in physiologically structured populations (equation (3.13), §3) depends on the product between the effect
+of a change in trait expression on internal state at age a (0x(a)/(0z,,)) and
+
+Ob(z, z,3 0, \ OM(Z, 2, ol
+inal) = ( g 2.30) 5 (a) ez x) (@)
+
+Ox(a) OZm
+. (7rem 2,x(@)) 50 (@) PF w(Zm, Z, X(a)) + 08° (a) Fm z, x(a)) ) P(@)
+OZmOXx(a) OZmOx(a) Ox°(a) — OZmOx(a)
++3 e Zz, x(@)) _#@) Fale, z, x(@)) n 26°(a) ate, z, zo) dx(a) r@, (ILA)
+Ox(a) Ox(a) Ox°(a) — Ax(a) OZin
+
+where each line corresponds to a different fitness effect of a change in internal state x(a) at age a. (i) The first line of Ng x(a)
+depends on how a change in state at age a affects fecundity and mortality at that age, multiplied to the effect of a trait change ~>
+on the probability of surviving till then (@l(a)/(0z)).

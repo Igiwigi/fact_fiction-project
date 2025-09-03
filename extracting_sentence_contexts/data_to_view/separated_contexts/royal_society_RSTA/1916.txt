@@ -1,0 +1,15 @@
+This happens, for example, for fluid particles
+located on right of the domain when the inner cylinder starts moving. Note that the unwinding
+is less pronounced for greater values of 61, because each cylinder can perturb all fluid particles
+more before the other cylinder reverses its rotation. In fact, the global stretching factor of a line is
+not affected much by such unmixing / unwinding phases, because the growth rate is controlled by
+the parts of the line that wind efficiently on the figure-eight braid. Nevertheless, the temporary
+decrease of the length indicates that the protocol is inefficient for stretching a fraction of fluid
+particles.
+
+7. Measuring the quality of mixing from stretching factors
+
+The topological entropy of the different flows, that is the asymptotic exponential growth rate of 13
+material lines that we have studied above (figure 10), may be considered as a measure of the ao
+mixing efficiency of the flow: the longer the interfaces, the more efficient is molecular diffusion, 78
+hence mixing.

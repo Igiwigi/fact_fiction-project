@@ -1,0 +1,8 @@
+If the bandwidth
+is fixed and the transmitted power is increased, then the capacity C(P, W) tends to infinity, but
+it grows only logarithmically with power. On the other hand, if the power is fixed and the
+bandwidth increases, the capacity will never exceed C(P) = limw- 0 C(P, W) = P log, e/No bit/s. These two cases highlight the fact that when bandwidth is available, it is a good idea to spread
+the power over the whole bandwidth rather than only using a small part of it. We will now use the band-limited AWGN channel in (4.1) as the noisy channel in figure 1b to
+exemplify two fundamental principles regarding achievable rates of continuous- and discrete-
+time channel models. First, there exist multiple discrete-time channels that correspond to the
+same waveform channel, depending on the choices for the inner transmitter and receiver.

@@ -1,0 +1,12 @@
+Does then A; generate a Co-semigroup or
+
+
+The approach to the primitive equations by evolution equations is based on the hydrostatic
+Stokes semigroup which was introduced first in [23]. Its extension to the setting of bounded
+functions was investigated only recently in [24]. The iteration scheme for the nonlinear problem
+rests on the fact that the combination of the terms V, P and e!4* nevertheless gives rise to bounded
+operators on the associated spaces which satisfy in addition typical second-order parabolic
+estimates. The classical Stokes semigroup also plays an important role in the investigation of viscoelastic
+fluids of Oldroyd-B type and nematic liquid crystals. The associated semigroups, i.e. the Oldroyd
+and the Ericksen—Leslie semigroup, are defined by a certain coupling of the Stokes semigroup to a
+transport equation or by the equation for the so-called director, respectively.

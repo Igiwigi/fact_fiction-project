@@ -1,0 +1,12 @@
+TNF and differential coverage is, for example, employed by of DNA from individual uncultured cells rather than from
+CONCOCT [33] and GroopM [34]. Finally, another commonly communities obtained by metagenomics (reviewed in refer-
+used tool is based on emergent self-organizing maps in which ences [37—39]). A commonly used approach to obtain single
+clustering can not only be performed using TNFs [35], but also cells from environmental samples is based on fluorescence-
+include read coverage information [36]. activated cell sorting (FACS), whereas more recently developed
+Regardless of the binning method used, careful inspection cell sorting methods include microfluidics (e.g. [40,41] and
+of the resulting ‘genome bins’ remains an absolute necessity. reviewed in [42]) as well as optical tweezers [43,44] to capture
+Standard quality assessments should include the identifi- individual cells (figure 2). Following sorting, individual cells
+cation of single copy marker genes and the verification that are lysed, and the genomic DNA of each cell is amplified
+these are derived from a single taxonomic source. The using multiple displacement amplification (MDA) or similar
+presence of single copy marker genes can also be used for techniques, yielding single-cell amplified genomes (SAGs).
+estimating bin completeness and redundancy.

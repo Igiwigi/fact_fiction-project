@@ -1,0 +1,9 @@
+The problem was analysed ona theoretical
+level by Chen & Bickel [78], who also proposed a practical method for adapting the G;. Further
+non-parametric methods were proposed by Vlassis & Motomura [79], Hastie & Tibshirani [80]
+and Learned-Miller & Fisher [81]. In fact, an ingenious approach to approximating the optimal G; was proposed much earlier
+by Pham & Garrat [7], who approximated the derivative of G; as a linear combination of a set of
+basis functions. It was shown that the weights needed to best approximate the derivative of G;
+can be obtained by a rather simple procedure. It seems that this method has not been widely used
+mainly because the main software packages for ICA do not implement it, but on a theoretical
+level, it looks extremely promising.

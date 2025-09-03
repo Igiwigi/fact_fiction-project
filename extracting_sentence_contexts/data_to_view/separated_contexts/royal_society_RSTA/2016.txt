@@ -1,0 +1,11 @@
+Another shortcoming of the traditional viscoelastic model is that the number of parameters is
+usually large, such that more than 10 and even 30 or 40 parameters are necessary in the Prony
+series for the accurate description of relaxation modulus of solid propellants and other viscoelastic
+materials. A more appropriate approach for both accuracy and fewer parameters may be the
+viscoelastic model based on fractional derivatives instead of the traditional viscoelastic model
+with integer-order derivatives. In fact, the fractional calculus approach to viscoelasticity has evolved as an effective method
+of describing the properties of viscoelastic materials [17]. Nutting [18] earlier observed that the
+stress relaxation phenomenon of a number of materials could be expressed by means of fractional
+powers of time. Later, Gemant [19] found some limitations of traditional viscoelastic models
+and suggested that the stiffness and damping properties of viscoelastic materials appeared to be
+proportional to fractional powers of frequency.

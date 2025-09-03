@@ -1,0 +1,13 @@
+Cer, space-averaged wave elevation inside the moonpool in the
+Earth-fixed coordinate system. (Online version in colour.)
+
+We note the significant difference between semi-nonlinear and nonlinear hybrid methods
+around roll resonance. The differences between semi-nonlinear and nonlinear hybrid methods are
+not as large at heave resonance. The latter facts are consistent with the numerically predicted roll
+damping and heave damping at resonance (figure 8) as functions of roll and heave amplitude,
+respectively. For example, in the semi-nonlinear simulation with wave steepness ay the roll
+amplitude is 7.6° at roll resonance and the heave amplitude is 4.5mm at the heave resonance;
+in the nonlinear simulation, the roll amplitude is 4.9° at roll resonance and the heave amplitude
+is 3.9mm at the heave resonance. The roll damping coefficient in figure 8 is obtained by calculating the damping moment about
+the COG (180° out of phase with the roll angular velocity) due to forced roll about the COG by
+both hybrid methods.

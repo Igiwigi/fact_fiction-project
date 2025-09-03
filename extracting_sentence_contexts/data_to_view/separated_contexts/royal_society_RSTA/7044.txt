@@ -1,0 +1,10 @@
+The most laborious part of this proof is the verification of the
+associative law ofnormal form multiplication. This difficulty is avoided by van der Waerden
+(1948), who introduces the product of the given groups as a permutation group of the set
+of normal words; this is our group © of chapter 1 (p. 509). In fact, van der Waerden deals
+only with the case of the ordinary free product (with only the trivial group amalgamated) ;
+but there appears to be no obstacle to an extension of his proof to the case here considered. We here follow a similar way, which may perhaps not lead to the goal more rapidly than
+Schreier’s or especially van der Waerden’s, but which allows us to derive some new supple-
+mentary results. We also construct a permutation group—different, in general, from van
+der Waerden’s—rather than the required generalized free product itself, and we then derive
+the existence of this latter by an application of theorem (8-4) (p. 521).

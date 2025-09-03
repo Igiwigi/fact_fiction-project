@@ -1,0 +1,12 @@
+They highlight important differences between a wireless sensor network
+and an idealized distributed system, and discuss how these differences affect
+the design of distributed algorithms and their complexity. They show that the
+underlying communication model, which governs how nodes communicate and
+interfere with each other, is key to designing distributed algorithms for sensor
+networks, and has sparked new interest in the area of distributed computing. The fact that sensor nodes are embedded within a physical space gives rise
+to interesting geometrical structures, and motivates the study of a special class
+of algorithms, referred to as geometric algorithms. Gao & Guibas [2] identify
+four distinct areas in which geometric structures can be exploited to configure
+sensor network operation. First, they can be used in network localization,
+ie. to infer the locations of sensor nodes from local measurements, such as
+distance and angle estimations between neighbouring nodes.

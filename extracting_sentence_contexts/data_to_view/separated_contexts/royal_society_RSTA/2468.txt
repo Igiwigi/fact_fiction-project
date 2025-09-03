@@ -1,0 +1,10 @@
+Now, considering this graph, we see nine different paths from f to zero. Nevertheless, we
+realize quite easily that some paths are essentially the same. In fact, whenever we have a polynomial to which we can apply the rewriting rules in different
+ways if there is no overlapping in monomials to which we apply the rules, the paths are going
+
+to be essentially the same. An example of such ‘no overlapping’ is: f = —xy* + xy° 2, yp +x 2
+yP —y* and f= —2y! +2?  -ryt —y Sy — yt,
+
+So, whenever there is no overlapping in the application of the rewriting rules, let us colour
+the ‘area’ between those applications of the rewriting rule. An ‘area’ betweeen rewriting rules is
+called a cell.

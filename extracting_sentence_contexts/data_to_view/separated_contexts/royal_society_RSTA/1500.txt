@@ -1,0 +1,12 @@
+Nevertheless, as the workshop on ‘Machine learning in weather
+and climate’ (Oxford, September 2019) has also shown, there are still reservations about DL in
+this community. Two core arguments in this regard are the lack of explainability of deep NNs
+and the lack of physical constraints. Furthermore, some scepticism prevails due to the fact that
+researchers have experimented with rather simple NNs which were clearly unsuited to capture
+the complexity of meteorological data and feedback processes, but then extrapolate these results
+to discredit any NN application including the much more powerful DL systems. In their review
+of ‘Deep learning and process understanding for data-driven Earth system science’, Reichstein
+et al. [14] argue that traditional ML approaches might not be optimally suited to address the
+specific data challenges posed by Earth system data. They suggest that ‘deep learning methods
+are needed to cope with complex statistics, multiple outputs, different noise sources and high-
+dimensional spaces [of Earth system data].

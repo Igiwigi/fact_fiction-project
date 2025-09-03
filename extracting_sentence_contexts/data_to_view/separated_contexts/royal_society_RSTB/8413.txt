@@ -1,0 +1,16 @@
+If the decoding mechanism activates a word in the phonological lexicon (here, the correct word /hi:t/ is more
+active than its competitors), an orthographic entry is created (<heat>) and the phonology of the ‘winner’ (/hi:t/) is used as an internally generated teaching signal
+(grey arrows) to improve and strengthen the weights of the TLA network (iii).
+
+activated units in the phonological lexicon through context, at which a word in the phonological lexicon was considered
+semantics or syntactical constraints. This is, of course, an activated enough to be recognized (0.05, 0.15, 0.25, 0.35 and
+oversimplification but not an unrealistic one because during 0.45). All models were run for 500000 word presentations."
+the initial stages of learning-to-decode children have a lot The results are shown in figure 2.
+of information which helps them to select the correct word, As can be seen from figure 2, with low word recognition
+such as images in story books, short sentences with constrain- thresholds (i.e. where words in the phonological lexicon need
+ing context, paired reading and feedback from the teacher. less activation to become activated), the model learnt most of
+After pretraining, the TLA network was presented with the words despite the fact that it started off with only a small
+32 735 words (all of the words used in [12]). We considered set of grapheme—phoneme relationships learnt during pre-
+a word had been learned correctly if the correct phonological training. For instance, with a word recognition threshold of
+entry was found in the cohort of activated neighbours, in 0.05, the model successfully learnt more than 80% of the
+which case its corresponding orthographic representation words.

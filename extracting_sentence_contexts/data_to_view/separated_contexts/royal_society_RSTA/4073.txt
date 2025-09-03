@@ -1,0 +1,10 @@
+In the present 22
+NCYL model, the inner fibre core is surrounded by (N — 1) matrix layers. During the process a}
+of damage evolution, the damage occurring in the discrete matrix layers is identified based on : =
+the calculation of the strain and stress fields, whereas the undamaged matrix layers retain their : S
+virgin properties. It is important to emphasize the fact here that, in the 2CYL model, the entire : gS
+
+volume of matrix material was degraded by the same amount, as it is not possible to restrict
+damage to a particular region of matrix volume. As a result, the model overpredicts the stiffness
+and the nonlinear stress-strain response. This limitation is eliminated by the NCYL model and
+the radius of the discrete damage zone can be controlled as an input variable to this model.

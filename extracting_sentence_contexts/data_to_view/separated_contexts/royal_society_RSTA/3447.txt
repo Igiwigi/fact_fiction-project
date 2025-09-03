@@ -1,0 +1,9 @@
+As of February 2016, there were 5780 books in the repository, containing
+approximately 62 242 user-supplied definitions and 123 804 user-supplied theorems.*
+
+This paper is about how the ACL2 system came to be used in industry. As such, the paper is
+more of a historical narrative than a technical article. The story is complicated by the fact that
+ACL2’s adoption owes much to the close-knit community of users of ACL2 and its predecessor,
+Nqathm (described further below), whose members share a common vision of making mechanized
+proof a routine industrial practice when appropriate. That community, in turn, owes much of its
+coherence and vision to the place where the ACL2 project began, Computational Logic, Inc. (CLI). We start, in §2, by describing the origin of the ACL2 project in 1989 at CLI.

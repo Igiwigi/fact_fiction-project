@@ -1,0 +1,14 @@
+The black lines represent the old coordinate lines viewed from the new coordinate system. (c) The
+physical space, which contains the metamaterial implementation of the curved electromagnetic space (b). (Online version in
+colour.)
+
+First and foremost, the equivalence relations of transformation optics are valid for the full-
+wave Maxwell equations. Indeed, in contrast to optical conformal mapping, transformation optics
+successfully incorporates geometrical concepts to manipulate the wavelike behaviour of light,
+a regime that is known to be incompatible with the geometrical concepts used in the eikonal
+approximation. This can be understood from the fact that conformal transformations transform
+only the Helmholtz equation with form invariance. In the case of media with inhomogeneous
+permittivity and permeability, however, one needs to make a short-wavelength approximation
+to put the wave equation for the electromagnetic fields in the Helmholtz form. Variations of the
+refractive index profile will thus introduce unwanted distortions in the propagation expected
+from the conformal map.

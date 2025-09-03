@@ -1,0 +1,8 @@
+Ifall n; are equal to 1, we denote F(,.,1) =F. Then
+(F,G) =0
+
+unless G =~ F, and
+(F,G)=1
+
+in that case. The crucial point in the proof is the following very simple fact. Lemma 2.8. With the notation of the theorem, assume that
+(Fn, G) #0.

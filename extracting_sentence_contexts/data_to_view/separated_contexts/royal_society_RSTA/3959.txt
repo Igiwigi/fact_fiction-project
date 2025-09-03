@@ -1,0 +1,28 @@
+Wells: &Boy Scout ®Black Brown Guinn ©Bryant axa)
+1,0 premiere AKA
+0.9
+0.8
+
+0.1 Sopt
+0.7
+0.6
+0.5
+
+Sopt= 0.1 m
+0.3 | t45:=26 months
+0.2
+
+0.1 1.0 10
+time (months), log scale
+
+Figure 3. (a,b) Histories of gas flux, scaled to the maximum of 1, at the surface observed at five different sites [18], in actual
+and logarithmic time scales, when the crack spacing s is changed.
+
+energy are certain to be smaller, probably much smaller, than those of shale. Hence, the hydraulic
+cracks must be expected to run along the rock joints wherever possible. That they do is supported
+by the fact that the typical spacing of rock joints appears to be of the order of 0.1m, which is
+roughly equal to the aforementioned spacing of hydraulic cracks deduced from observations of
+gas flux on the surface. The ultimate goal is to simulate the whole fracking stage, which is typically 70m long, 150m
+deep and 500 m wide. The present discretization of fracture relies on the crack band model [34,35],
+in which the crack is smeared as equivalent damage over the finite element of a width equal to the
+crack band width.

@@ -1,0 +1,15 @@
+An alternative and more direct approach to characterize
+intermittency is to compare the PDFs of increments at different spatial lags, finding that fatter non-Gaussian tails appear in
+the PDFs of the smaller lags. (c) An example from solar wind data, where spatial lag is proportional to time lag. (Adapted from nee)
+Sorriso-Valvo et al. [16].) eae
+
+simply adopt a perspective based on analogy with equation (2.6) and proceed to evaluate higher a
+order statistics and their scalings with spatial lag. From this emerges a picture quite reminiscent eral
+of hydrodynamics, as illustrated in figure 2. . Despite what might appear to be an encouraging similarity in the scaling of higher order
+moments in hydrodynamics and in MHD, there are in fact at least two main impediments to a
+direct extension of the KRSH to MHD, and at least one additional major problem in extending it
+to kinetic plasma, as follows. First, for both MHD and plasma, there is ambiguity regarding the choice of fluid-scale
+variables as there are now at least two vector fields involved. These are the velocity v and
+magnetic field b, or equivalently the two Elsasser fields z+ = v + b//4irp and z~ =v — b//4xp,
+where p is the mass density. (When the magnetic quantities are expressed in Alfvén speed units,
+the Elsasser variables take the form z* =v +b.) Is the local dissipation related to 5v,;?

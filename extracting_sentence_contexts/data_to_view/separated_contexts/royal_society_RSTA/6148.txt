@@ -1,0 +1,10 @@
+In contrast to initial value problems that typically arise
+when studying mathematical epidemiology, boundary value problems are much more difficult
+to deal with. For instance, it is well known that a small change in the boundary conditions may
+lead to significant changes in the behaviour of the solutions [20]. In fact, there is no general theory
+to the existence and uniqueness of a solution for boundary value problems. In most instances,
+we have to study the boundary value problem on a case-by-case basis, especially when the
+problem at hand is nonlinear, and/or the boundary conditions are atypical, which is the case
+with our problem as the boundary condition (1.4) is given in a non-local integral form. Non-
+local boundary conditions have been studied in the past in various forms, recently appearing
+in the study and application of fractional differential equations [21].

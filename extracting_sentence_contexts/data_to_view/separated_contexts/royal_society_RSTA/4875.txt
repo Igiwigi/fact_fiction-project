@@ -1,0 +1,31 @@
+We will see that they are indeed polynomials as a by-product of their computation. Furthermore, in all of
+our applications, F will be monic. Furthermore, the denominator is in fact the discriminant of F, for, in characteristic 2, r + e =
+(r,- ry. Following Berlekamp, we denote the numerator of Berl(F) by &(F), that is,
+
+&(F)
+disc F’
+
+Berl(F) = (2.3)
+
+Note also that, in characteristic 2, disc F = 5(F)*, where
+
+a(F)=ay | i +7)
+
+i<j
+
+is a polynomial in the coefficients of F with total degree n—1, and degree at most d(n)=
+
+{(n —1)/2] in ap—its leading term, as a polynomial in ao, is al V2 gn D2 for odd n, and
+(2 1 (297 ? for even n. The formulae for Berlekamp’s discriminant for degrees up to 3 are
+0
+Berl(ax + b) = V
+2 ac
+Berl(ax* + bx +c) = B
+Pd? + abcd + Bd S
+and Berl(ax> + bx? + cx + d) = ae + aed + tae
+(ad + bc)?
+
+(b) Effective computation of Berlekamp’s discriminant
+
+The formulae above do not lend themselves immediately to computations of Berl(F) or &(F)
+in terms of the coefficients of F.

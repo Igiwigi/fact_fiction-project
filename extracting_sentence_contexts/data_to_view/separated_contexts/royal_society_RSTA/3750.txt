@@ -1,0 +1,16 @@
+Interestingly, the shape of the PDF is
+nearly invariant over most of the boundary layer, with an obvious reduction in width in the outer
+region. This reduction in the PDF size in the outer part is a consequence of the non-turbulent
+region interspersed with the turbulent uv-containing region. In fact, the (externally) intermittent
+
+
+0 L 1
+
+1 10 102
+yt /5*
+
+Figure 4. The skewness of —uv versus wall-normal position normalized by the intermediate length scale. Symbols are
+tabulated in table 1. (Online version in colour.)
+
+region starts at a yt of about (4)6+ [23], which is roughly the location where the width of the PDF
+size starts to decrease.

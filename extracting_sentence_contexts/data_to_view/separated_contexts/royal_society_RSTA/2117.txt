@@ -1,0 +1,10 @@
+Discussion
+
+In the above, we started from the simple, but fundamental, condition that a system must remain
+separable from its environment for an appreciable length of time [31]. On unpacking this notion—
+using concepts from information geometry and thermodynamics—we found that the states
+internal to a Markov blanket look as if they perform variational Bayesian inference, optimizing
+posterior beliefs about the external world. In fact, both active and internal states (on average)
+minimize an upper bound on surprise. This means that Markov-blanketed systems make their
+world less surprising in two ways. They change their beliefs to make them more consistent with
+sensory data and change their sensory data to make them more consistent with their beliefs.

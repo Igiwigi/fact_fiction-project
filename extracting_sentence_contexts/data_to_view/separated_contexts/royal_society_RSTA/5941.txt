@@ -1,0 +1,12 @@
+The effect of elastic waves in the
+surroundings of the shield is usually not explored due to the lack of simplified homogenized
+models allowing the simulation of large meta-structures with reasonable computational costs. We show in this paper that, once such a model is established, suitable boundary value problems
+can be set up allowing an eased simulation of both the inner and outer domain. In fact, even if
+dynamic homogenization methods have provided important advancements in the modelling of
+infinite-size metamaterials [32,33,35—40], little is known about handling scattering problems at the
+boundaries of finite-size metamaterials. This lack of knowledge is mainly due to the difficulties
+arising in establishing pertinent macroscopic boundary conditions formally upscaled from
+microscopic ones. To overcome this problem, we propose here to study the scattering properties of
+the considered shielding device via the relaxed micromorphic model, introduced by the authors
+[41-43] and recently equipped with a set of well-posed, physically coherent boundary conditions
+[7].

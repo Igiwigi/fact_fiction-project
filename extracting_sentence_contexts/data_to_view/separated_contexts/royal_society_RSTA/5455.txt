@@ -1,0 +1,14 @@
+Post-deployment, local XAI methods could help to implement a highly
+dynamic assurance case [78,79] where the critical predictions made by an ML-based system could
+be used to update the assumptions about, and confidence in, the system deployed compared with
+the assessment made pre-deployment.
+
+8. Conclusion
+
+ML-based systems are already being used in situations that can have an effect on human well-
+being, life and liberty. This, combined with the fact that they move decision-making away
+from humans, makes it an assurance imperative to provide evidence that this transference is
+appropriate, responsible and safe. Explanations of ML-models and ML-generated predictions can
+be provided as part of this evidence. But they sit within a wider accountability framework, in
+which human decision-makers are still required to give the normative reasons or justifications
+(which XAI methods cannot provide) for the ML-models.

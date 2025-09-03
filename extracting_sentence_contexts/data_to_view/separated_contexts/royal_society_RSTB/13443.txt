@@ -1,0 +1,9 @@
+Social
+An alternative consists in regarding norms and strategies norms are organized in a tabular format (figure 2), which
+as Boolean functions that, when evaluated as true, will assign provides a compact representation while offering a means
+a good reputation or cooperate [32]. This approach naturally to grasp, visually, their order and complexity. Norms of
+takes advantage of the fact that models of IR often consider first order have all entries of the left and the right eight-
+binary reputations and binary actions. As a result, each entry blocks identical. Norms of second-order have four
+layer of information used by strategies and norms can be con- four-entry blocks in each of which all entries are equal;
+ceived as a Boolean (logic) variable that can acquire two norms of third-order have eight two-entry blocks of this type.
+values: good/cooperate (true) or bad/defect (false).

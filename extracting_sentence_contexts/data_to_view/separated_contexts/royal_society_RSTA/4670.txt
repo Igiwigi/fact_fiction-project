@@ -1,0 +1,13 @@
+The metasurface design can be summarized as the synthesis
+of an inhomogeneous surface admittance profile in (2.3) that transforms the impinging wavefront
+into the desired scattered one. As noted above, the required admittance is generally complex,
+and therefore loss and gain elements may be required to synthesize the required real portion
+of Veg: As intuitively expected, this condition becomes extreme if the incident and scattered
+wavefronts do not sufficiently overlap on the surface, and the surface properties are desired to be
+maintained local. In this scenario, in fact, the metasurface would necessarily be required to absorb
+energy in one location, and re-radiate it from somewhere else to generate the desired scattering
+profile. Fortunately, in many practical applications impinging and scattered beams overlap, and
+passive metasurfaces may be sufficient. In order to facilitate the physical implementation of the
+structure and avoid incorporation of active elements [43], the required surface profile in these
+cases may be approximated as purely imaginary (i.e. lossless), while allowing a high conversion
+efficiency [44] to the desired scattering profile.

@@ -1,0 +1,18 @@
+The latter is the case with the heart and the
+cardiovascular system, intended as a dynamical systems whose activity is paced by the heartbeat;
+many of the output variables of these systems, such as the heart period and the systolic arterial
+pressure (SAP), can be measured once per cardiac beat and thus cannot be assessed at a faster
+pacing. Such a problem often shows up in the analysis of physiological time series [7,8]; a solution
+to this issue has been proposed in [9] introducing an extended GC measure in the frequency
+domain that takes into account both lagged and instantaneous influences. A main limitation of
+this approach is the fact that it assigns a direction to zero-lag effects, and the proposed measure
+depends on such an assignment. On the other hand, in some cases, a preferential direction
+for instantaneous influences cannot be assigned a priori [10], and more generally instantaneous
+interactions in VAR models should be un-directed, as discussed in [11]. In this paper, we propose a novel approach to deal with instantaneous interactions in
+the spectral formulation of GC, which (i) exploits a recently introduced framework [12] that
+allows one to quantify causal influences in a stochastic dynamical system, both in the time
+and frequency domains; (ii) introduces a measure of undirected instantaneous causality for
+multivariate systems; (iii) introduces a measure of extended GC that takes into consideration
+both lagged and instantaneous causality and does not depend on the direction of instantaneous
+interactions; (iv) significantly speeds up the evaluation of the model parameters compared to
+the original proposal [12].

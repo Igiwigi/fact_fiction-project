@@ -1,0 +1,54 @@
+We have the following:
+
+a) limg-o0 g~ 4s" Tstable — HSp (q-1/2
+& q nq in J
+(b) limg+oo qe Tunstable =0. Proof. For the first statement, we compute > ay
+
+L(2g—2)/3] oi Lo
+i gn—i :
+
+lim qu’se > (-1)'Tr(Frob, Rect’ (Mg nz, Qe) 1S
+
+i=0 aS
+
+Ug-1)/3} 5 3
+
+= li -i. di ae)
+
+im > q/-dimR; 8
+
+j=0 [5
+
+lim qndenTstable —
+goood ging = A
+
+boss .
+= Ya dim R7.
+j=0
+
+Using the Hilbert series of Rn, we may then rewrite the above sum as
+
+=HSr,(q_“)
+
+Note that we use the fact (from theorem 3.3) that for 0 <i < (2g — 2)/3, we have
+
+i w prden-i
+in = Ry @Q Qe = Reet” (My n,z,7 Qe)-
+
+For the second part, we let P(z) be the generating function for the partition numbers p(j), and
+let Q(z) :=>¢ (ai be the generating function whose jth coefficient is the number of multisets
+of size j on n elements. Then
+
+HS, (2) = Qn(2*)P(2’). In particular
+
+dim R2 = y (" + dz ) pli —j) <exp (envi). (4.2)
+
+jo \ J
+
+Since Root Ment, Qo) is defined in terms of the image of a map from R, to cohomology, we
+further obtain
+
+«den —2i ;
+dim Reet (Mgng Qe) < exp (envi). (4.3)
+
+Of course, when i is odd this group is zero-dimensional.

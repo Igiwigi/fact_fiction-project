@@ -1,0 +1,9 @@
+The pioneering papers of Vilhelm
+Bjerknes (e.g. [15]) are often used as a signpost marking the beginning of dynamical meteorology,
+and we choose to use Vilhelm Bjerknes to highlight a fundamental dialectic that has enlivened
+the field since the beginning, and to this day, as we shall see below. Bjerknes pioneered the
+use of partial differential equations (the first use of the ‘primitive equations’) to represent the
+state of the circulation and its time evolution, but closed-form solutions were hard to come by. Numerical methods were also immature, and basic facts about the computational stability of
+the methods were yet unknown. The failed attempts by Richardson [16] involving thousands of
+human ‘computers’ are also well documented. One could consider it the first attempt at parallel
+processing, and at 64000 ‘cores’, it would be considered still quite cutting-edge today!.

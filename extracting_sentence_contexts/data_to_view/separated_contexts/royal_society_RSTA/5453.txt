@@ -1,0 +1,7 @@
+Such well-structured definitions
+can be realized in the form of ontologies, ie. formalized knowledge bases. Gruber [13]
+defines an ontology as an ‘explicit specification of a conceptualization’. While an ontology’s
+terminological component (TBox) describes facts about the notions included, its assertional
+component (ABox) describes the instance level. Different kinds of ontologies, namely application
+ontologies, reference ontologies and top-level ontologies, should be distinguished [14]. Application ontologies rely on specific universals and particulars in combination with inference
+mechanisms for executing some specific task [15].

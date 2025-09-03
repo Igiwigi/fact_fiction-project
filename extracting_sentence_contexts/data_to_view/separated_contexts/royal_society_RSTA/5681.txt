@@ -1,0 +1,13 @@
+It is important to point out that we are : s
+discussing the quenched variance, that is variance for typical realization of the random potential. :3
+The linear in ¢ growth of the variance after averaging with respect to the disorder was understood :F
+for a long time [11,12]. Such growth is due to a contribution of the non-typical random potentials ia
+which have small probability, but whose contribution to the averaged (annealed) variance is large. : =
+Surprisingly, our numerical results suggest that in fact the variance grows as t > oo even for : =
+typical realization of the random potential. 13
+
+The numerical results are presented in the next two sections. In fact, we study the problem : =
+in a discrete setting. While the exact meaning of the hydrodynamics equations in this case is DR
+not obvious, the discrete case provides the most natural model for studying the localization aieel
+phenomenon for directed polymers. Also, in the discrete setting one can naturally define partition :8
+functions which can be viewed as solutions to the discrete SHE.

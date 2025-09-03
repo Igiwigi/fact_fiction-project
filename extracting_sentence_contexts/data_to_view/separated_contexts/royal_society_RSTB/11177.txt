@@ -1,0 +1,10 @@
+As remarked earlier, we need a better explanation of
+Weber's law (the scalar uncertainty in the brain’s represen-
+tation of quantities). Assuming scalar noise in the numerons
+themselves has intolerable computational consequences. Thus, we should take note of the fact that a scheme that divides
+a number into an exponent and a significand is a scheme that
+obeys Weber's law. The exponent establishes the range of mag-
+nitudes, while the number of digits in the significand indicates
+how finely quantities within that range are specified. The
+imprecision with which a quantity is specified is then propor-
+tionate to the scale.

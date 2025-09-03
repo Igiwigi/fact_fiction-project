@@ -1,0 +1,17 @@
+Practically, Q(y, ~) as a function of two : S
+variables was constructed on a 64 x 64 equidistant grid in a domain (0,2z) x (0,27). [fF
+
+Note that determination of the respiratory phase y is simple: since the respiratory signal looks : a
+like a modulated and slightly distorted sine-wave, its phase can be easily estimated, e.g. by means : =
+of the Hilbert transform. On the contrary, the ECG signal has a quite complicated form and : =
+computations of its phase represent a non-trivial stand-alone problem, see [15]: here one needs 1B
+very high-quality data, and its processing is technically quite demanding. This fact motivates : =
+a development of techniques operating only with point processes, namely with instants of the 8
+R-peaks, corresponding to the peak of depolarization of the ventricles of the human heart. These if
+events can be easily detected and therefore are commonly used in the analysis of HRV. Since these : |
+peaks appear once per heartbeat cycle, their continuous phase ¢ without loss of generality can be : §
+set to zero. a
+
+First, we discuss how the disentanglement of the HRV can be performed if both continuous 18
+
+phases g(t) and w(t) are available [15].

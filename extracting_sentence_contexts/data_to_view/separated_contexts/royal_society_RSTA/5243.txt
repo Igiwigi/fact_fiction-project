@@ -1,0 +1,9 @@
+Torques that act on our pendulum as it rotates, in addition to that produced
+by our source mass, have several origins.
+
+1. Nonlinear elastic torques associated with the fibre, which we may approximate with a
+Taylor series expansion: t = —(k10 + kz? + k305). Symmetry suggests that ky should be
+zero, but in fact we have found significant non-zero values for this term in our tests. Fortunately, ky proves to have negligible effect on our results. k3 however does have a
+marginally significant effect.
+
+2. Dissipative fibre torques.

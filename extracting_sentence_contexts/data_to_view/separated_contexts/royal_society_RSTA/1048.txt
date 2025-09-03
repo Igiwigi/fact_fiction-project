@@ -1,0 +1,13 @@
+Both Monte Carlo as well as post-refinement use the recorded mean
+energy as a single parameter needed to address the fluctuating X-ray spectrum, which has a
+very fine structure [22,25]. It has been surprising therefore that when running the XFEL in a
+self-seeded mode a strong improvement in the SFX data processing statistics was not seen [26]
+as would be expected. Reliable quantification of all physical contributions to the uncertainty of
+
+
+the measurement is in fact not yet obtained and future investigations would be of great interest
+to the SFX community. Instead, the field is relying on averaging as a principle technique when
+executing and processing multi-crystal SFX datasets of still images with high partiality, and
+predictions of the sensitivity of difference measurements cannot generally be made with sufficient
+statistical certainty. General protocols have now been developed for the successful execution of flash-induced
+time resolved structural biology [27-29].

@@ -1,0 +1,10 @@
+For reasons discussed below, no existing set of algorithms comes close to being able to simulate
+the statistical properties of the variables that determine our climate (rainfall, temperature, wind
+and so on) to such a level of accuracy. For some of the contemporary climate models used in
+the IPCC ARS report [1], this bias-to-signal ratio can exceed a factor of 10 for some variables
+and regions [2]—a hundred times bigger than what we might desire. This reflects the fact that
+simulating climate accurately is an exceptionally challenging problem. We are a long way from
+passing the ‘Climate Turing Test’ [3] where we cannot easily tell whether we are looking at a
+simulation of climate, rather than the real thing. Hence, instead of seeking algorithms which solve the climate simulation problem to some
+prescribed tolerance, we must instead ask: What algorithms can reduce systematic errors to the
+smallest possible values and at the same time be not so expensive as to be unaffordable?

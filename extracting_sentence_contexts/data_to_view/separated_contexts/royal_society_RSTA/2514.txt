@@ -1,0 +1,15 @@
+This is clearly embarrassing for proof theory as a mathematical field; and only a satisfactory
+notion of proof identity can eventually lead to a satisfactory answer to Hilbert’s 24th problem. Furthermore, the lack of understanding of what actually constitutes a mathematical proof has
+consequences for many other areas in which proof theory is applied, in particular, the foundations
+of computer science. In fact, the problem of proof identity is no longer some abstract ‘ivory tower
+problem’, but it has serious implications for our daily life, as I will argue below.
+
+(b) The relevance for computer science
+
+Many aspects of our modern life depend on computer systems, and the correct functioning of
+the software running on them should be of utmost importance. Yet we do not trust software
+and expect it to break, we are used to turning off and back on again our personal computers
+if they show unexpected behaviour, and we just shrug at news about the latest ‘software bug’
+that has been exploited by criminals or has caused some major damage. A few decades ago
+such a ‘computer bug’ might have just been a little annoyance, and even today, a crash of a
+word processor or a media player is not a life-threatening problem.

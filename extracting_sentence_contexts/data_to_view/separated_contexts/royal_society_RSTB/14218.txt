@@ -1,0 +1,9 @@
+Diagrams illustrating what actually happened as well as how hypothetical simulations and counterfactual simulations are generated. (a) In the actual
+situation, ball A was present in the scene (x), the block did not end up in front of the gate (z’), and ball B went through the gate (y). (b) To compute the
+hypothetical probability of whether ball B would miss the gate if ball A were not present in the scene p(y'|do(x’)), the model removes ball A from the
+scene, and then simulates what would happen. The dashed path illustrates ball B’s movement in the simulation. At each moment in the simulation, a small
+degree of noise is added to ball B’s trajectory to capture the fact that participants have some degree of uncertainty about exactly how ball B would move if
+ball A were not there. In some of the simulations the block stays put (see top example) while in others the block moves (bottom example). (c) To compute
+the counterfactual probability of whether ball B would have missed the gate if ball A had not been present in the scene p(y’y|x, y), the model first takes
+into account everything that actually happened which includes whether or not the block moved. It then goes back in time (indicated by the dotted arrow in
+the diagram) to replay the clip with ball A removed.

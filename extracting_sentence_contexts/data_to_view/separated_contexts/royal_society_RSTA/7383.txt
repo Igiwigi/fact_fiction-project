@@ -1,0 +1,35 @@
+Fortunately, the number of these required was the smallest, and table 2 contains
+most of the values required for calculations up to the 3d shell. A method which is fairly
+direct, and as good as all the others examined, is to consider a term ABO(e, m,) C(m,),
+where A, B, C denote connected sets of eigangs with first values a, b, c, and to expand this
+numerically in two ways
+
+ABO(e, my) C(my) = > X(d,m, + mg, €, ¢, m,) ABG(e) CO(d, m, +m), (14)
+and a
+ABO(e,m,) C(mg)
+= X X(¢,m,, a, b, ms) A(ms) B(m, —ms) C(ms)
+
+= Y X(e,m,, a,b, ms) X(f,m, + m,—ma, b, c,m,—ms) A(ms) BCO(f, m, +m,—ms)
+ng
+
+ms,
+
+~2 Y(f, d) A[BCO(f)] O(d, m, + m,). (15)
+
+These two expressions, evaluated numerically by means of the X tables, are equal, and by
+theorem 2, part IV, the eigang terms with corresponding eigang values can be equated
+so that it follows
+
+ABO(e) CO(d, m, +m) = ~ Y(f,d)/X(d, m, + my, e, c,m,) ALBCO(f)] O(d,m,+m,). (16)
+
+But these coefficients are just the U(a,b,c,d|e, f) by the definition of the latter. Values of these coefficients are given in table 2, where it will be seen that a numerical
+check is provided by the fact that each subtable represents an orthogonal transformation
+and so different columns are orthogonal.
+
+5. Tue W corFrFIcIENTs
+
+The W coefficients are used in one of the most fundamental relations for the reduction of
+Schrédinger matrix elements between vector-coupled functions. They were defined by
+a formula involving a double summation of products of X coefficients, but it is simpler to
+evaluate them by a modification of the relation in which they are used, and which was proved
+to be a consequence of the definition.

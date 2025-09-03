@@ -1,0 +1,5 @@
+This idea also applies to p(n). Namely, Rademacher’s exact formula for p() can be reformulated as a finite sum of values
+of a single (non-holomorphic) modular function. This fact was first observed by Bringmann &
+Ono [8], and the phenomenon relies on the fact that (1.3) can be reformulated as a sum over
+equivalence classes of discriminant —24n +1 positive definite integral binary quadratic forms. This observation was refined by Bruinier & Ono [9] to prove a much stronger statement. To make this precise, we let n(t):=q¥/4 []2,(1 — q") (q:=e2""" throughout) be Dedekind’s
+weight 1/2 modular form.

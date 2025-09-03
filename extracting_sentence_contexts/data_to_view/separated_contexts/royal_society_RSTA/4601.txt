@@ -1,0 +1,20 @@
+To facilitate an understanding of HMC, one must envisage that the ith element of
+the parameter vector 6 represents the displacement of a particle in the ith direction. One then
+introduces a vector of momenta p € R* (recalling that Ng is the number of parameters to be
+estimated) such that the Hamiltonian of the system is H = K(p)+V(@) (where K and V are
+the kinetic and potential energies, respectively). Introducing a fictitious ‘time’ variable r, the
+dynamics of the system can then be evolved through t according to
+
+do dp
+—= —=-VV. A
+ar p and dr VV. (3.4)
+Writing p =| p |, the key here is to define the kinetic and potential energies as
+Pp
+K= > and V=-—In(x*(6)) (3.5)
+such that
+a r
+H= 77 In(z*) and exp(—H) = exp 7 x. (3.6)
+
+As a result, if one targets the distribution exp(—H) and then simply omits the samples of p, one
+will be left with samples of @ from the target z. To generate a candidate state {p’,6’} from the current state 6, one must first generate an
+initial momenta p ~.V(0,1) (noting that this is actually a direct sample from exp(—H)).

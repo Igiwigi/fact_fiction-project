@@ -1,0 +1,6 @@
+Appendix B. Correlation between signals and Nature
+
+Consider the imperfect-recall decision tree depicted in figure 12, and the joint distribution of a
+coin toss at the team’s information set, and Nature’s move, depicted in figure 13. The team gets
+an expected pay-off of 1 (in fact, 1 almost surely) by choosing Left after Heads and Right after Tails. Its expected pay-off in the underlying tree is 3 (regardless of its strategy). This shows that proposition 5.2 is false in the absence of the independence assumption
+between signals and Nature.

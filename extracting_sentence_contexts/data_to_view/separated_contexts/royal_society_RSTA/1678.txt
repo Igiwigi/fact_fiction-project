@@ -1,0 +1,10 @@
+Both topologies have their disadvantages: On one hand, the norm topology is too
+strong to reflect the properties of X. On the other hand, equipping C,(X) with the compact-open
+topology generally does not yield a complete topological vector space. In fact, C},(X) is dense in
+the space C(X) of all continuous complex-valued functions on X with respect to the compact-open
+
+1Some authors use the term semi-dynamical system for obvious reasons.
+
+
+topology. In order to circumvent these problems we ‘mix’ the two topologies. We refer to [24,25]
+for an introduction to locally convex topologies.

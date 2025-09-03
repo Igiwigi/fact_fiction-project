@@ -1,0 +1,8 @@
+The variance of the transmitted symbol x; is o2 =P for alli. The capacities of these two discrete-time channels are shown in figure 4a, where the shaded
+region indicates that the capacity of the non-coherent channel is known by means of upper
+and lower bounds (see appendix) but not exactly. Despite the fact that they both communicate
+over the same waveform channel, their capacities are quite different. Interestingly, the capacity
+of the complex discrete-time AWGN channel is log,(1 + 02/02) bit/symbol, which corresponds
+to (1/Ts) log,(1 + 02/02) bit/s. This is exactly the same expression as (4.2), which shows that
+this combination of transmitter and receiver is, indeed, optimal for the continuous-time AWGN
+channel.

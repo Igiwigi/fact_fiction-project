@@ -1,0 +1,8 @@
+Thus, the contour is horizontal in the vicinity of these points. Note
+that, owing to TF discretization, zeros of the spectrogram cannot be exactly determined; therefore
+a contour, in practice, passes in the vicinity of the discrete minimum but not necessarily exactly
+through it. Another interesting aspect of the proposed method lies in the fact that the contour does not
+necessarily last for the whole time span of the signal: if the energy becomes locally too small the
+ridge ends on the nearby zeros of the STFT. This last point is very important because it indicates
+that a mode dies when it connects with a zero. Usually, the presence or otherwise of a mode is
+assessed in terms of the statistics of the spectrogram of the noise.

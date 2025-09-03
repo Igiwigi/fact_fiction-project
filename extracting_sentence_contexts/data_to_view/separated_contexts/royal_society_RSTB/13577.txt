@@ -1,0 +1,41 @@
+N = 25 species. 8
+S.
+s
+binomial name common name MaxDF MeanDF MinDF RangeDF category =
+Ailuropoda melanoleuca giant panda D 2 S
+Aotus trivirgatus three-striped night monkey D 2 3
+Arctocephalus philippii Juan Fernandez fur seal D D 2 2
+Canis lupus wolf D D 2 z
+Cervus elaphus ted deer D D 2 +
+Dugong dugon dugong U 4 2
+Fulemur coronatus crowned lemur D 2 z
+Glaucomys volans southern flying squirrel U 4 s
+Lophocebus albigena grey-cheeked mangabey D 2 =
+Macaca silenus lion-tailed macaque D 2 ~
+Marmota monax groundhog U 4 er
+Meles meles European badger D D 2 =
+oO
+Mus musculus house mouse U U 4 Ss
+&
+Notomys alexis spinifex hopping mouse U 4 id
+Notomys fuscus dusky hopping mouse U 4
+Odocoileus virginianus white-tailed deer D 2
+Phascolarctos cinereus koala D 2
+Pongo pygmaeus Bornean orangutan D 2
+Pseudomys australis plains rat D 2
+Rattus rattus black rat U 4
+Speothos venaticus bush dog 2
+Spermophilus beldingi Belding’s ground squirrel D 2
+Trichechus inunguis Amazonian manatee U 4
+Trichechus manatus West Indian manatee U 4
+Varecia variegata black-and-white ruffed lemur D D 2
+MinDE in line with anatomical adaptations and their associ- should be interpreted carefully because, a priori, the four
+ated allometric deviations resulting from selection for size acoustic parameters investigated here have only 2 degrees
+exaggeration. A possible explanation for this surprising of freedom. At the same time, the four measures are not com-
+result would be that non-VPL upward outliers are, in fact, pletely redundant, in the sense that two are not enough to
+VPL species, overall highlighting the potential of this study explain all of them. Empirical examples of this come from
+when it comes to identifying candidate VPL species. Looking the 6/51 remaining species: Balaenoptera edeni and Spermophi-
+in particular at the MinDF column in table 3, future research lus beldingi, which appear as downward outliers for RangeDF
+will either support or refute these hypotheses by investi- only, and Notomys alexis, Notomys fuscus, Rattus rattus and
+gating (i) whether anatomical adaptations can be found in Rhinopoma hardwickii which appear as upward outliers for
+downward non-VPL outliers (namely Eulemur coronatus, RangeDF only.

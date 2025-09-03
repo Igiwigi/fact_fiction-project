@@ -1,0 +1,32 @@
+What the first according to the hierarchical structure of the training data, as
+equation expresses, then, is that the output of the network at captured by the SVD. The time course of learning of each
+time t can be described as the weighted sum of the dimensions dimension of the SVD follows a sigmoidal curve whose
+of the SVD of the training data. What the second equation cap- parameters depend only on the overall strength of the dimen-
+
+tures is the fact that the weight on each dimension follows a sion s; and its initial value a;(0). Three specific points are
+
+
+(a) sparrow
+hawk
+
+salmon
+
+sunfish
+
+oak
+
+maple
+
+rose
+
+daisy
+sparrowhawk
+
+Ss vi
+N
+U
+4
+2
+0
+Figure 7. Adding a new item and the resulting SVD. (a) The augmented dataset containing the sparrowhawk in addition to the existing eight items from the
+training set presented in figure 4.

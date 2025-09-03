@@ -1,0 +1,8 @@
+In addition, it should be noted that for a mean flow at rest no positive growth rates were
+found, meaning that the D2Q9-LBM is linearly stable for Ma = 0 no matter how low the value of
+v is. This is true whatever the equilibrium and the collision model considered, with the exception
+of the cumulant-based LBM. This seems to be in contradiction to previous studies [26,41,96], but in
+fact, this defect might be related to the LSA itself, which cannot account for nonlinear mechanism
+without increasing the truncation order of the Taylor expansion (A 1). Eventually, the numerical discretization leads to spurious couplings between modes, that were
+not observed for the DVBE. These couplings induce energy transfers between non-hydrodynamic
+and hydrodynamic modes, eventually leading to positive growth rates, i.e. linear instabilities.

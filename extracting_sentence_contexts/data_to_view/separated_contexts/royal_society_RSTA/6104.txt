@@ -1,0 +1,16 @@
+We should stress that the aim of this comparison is if
+not to spot the best system, but rather to discuss the main trends related to the combinations : 2
+discussed previously, i.e. active or passive sensor combined with intra- or extracellular access. : =
+We see that the largest signal amplitudes are measured when intracellular access is established : 5
+via spontaneous incorporation or electrical and optical poration methods. A large signal as)
+amplitude does not always come with high SNR, tough. In fact, the SNR depends on many system : <
+features, including those of the readout circuit. Active pixels are less sensitive to the interconnect 3
+parasitics, making it easier to implement parallelization and to operate a large number of :3
+recording sites. We also see that extracellular access allows for days/months recordings, although : ~
+the measured signal amplitude is much lower than with intracellular access. : S
+In the following section, we establish a simulation methodology amenable to investigate the aoe
+
+impact of electrode morphology and material on the expected electrical transduction performance
+of the sensors.
+
+3.

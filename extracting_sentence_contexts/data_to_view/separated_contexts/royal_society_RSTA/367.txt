@@ -1,0 +1,13 @@
+Changes in probability of
+the upper regime/lower regime are affected predictably by the imposed ‘forcing’.
+
+enables the forecast probabilities to be calibrated based on past performance and
+the model bias to be corrected. However, these empirical correction methods are
+essentially linear and yet we know that the real system is highly nonlinear. As
+Turner et al. [16] have demonstrated, there is inherently much more predictive
+skill if improvements in model formulation could be made that reduce these biases,
+rather than correcting them after the fact. It is also the case that model-specific biases, both in the mean state and in the
+internal variability, lead to under-dispersion in the ensemble. This has led to the
+use of multi-model ensembles in which the differing model-specific biases allow
+the forecast phase space to be sampled more completely with therefore greater
+reliability in the ensemble prediction system [17].

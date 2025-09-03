@@ -1,0 +1,15 @@
+In the first case we choose a kernel
+and carrying capacity functions (G(u) = gu), K(u)=sech(u/o)), such that
+the natural solution exists and is positive everywhere. Thus it is stable,
+and it is the steady state attained at long times. In fact it can be analytically
+calculated,
+
+Ww (uw) = a7! sech®(u/o). (2.8)
+
+In the second case the non-positiveness of the kernel used (with a carrying
+capacity of the type equation (2.2)) breaks down the initial configuration into
+umps, which at long times approach zero-width delta functions with forbidden
+zones in between. In the third case, despite G, being positive, a positive natural
+solution does not exist. Several outcomes are possible but, for the kernel and
+capacity used, the system approaches a single hump solution which vanishes in
+yart of the niche space.

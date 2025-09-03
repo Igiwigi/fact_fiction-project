@@ -1,0 +1,15 @@
+A quantum Lévy area
+formula would similarly contain the same information as a joint distribution for the quantum
+Lévy area SP) dQ(s) — Q(s) dP(s)), and the quantum-squared Brownian radius P(t)? + Q(t)*. Unfortunately, these two processes do not commute with each other or with themselves at
+different times. However, help is at hand in the observation that P(t)? + Q(t)? is, like the Lévy area, itself an
+iterated stochastic integral; in fact,
+
+P(t? + Q(t)? =2 [eo dP(s) + Q(s) dQ(s)) + 207¢
+0
+=Ji(dP @ dP + dQ @ dQ + 207 dT),
+
+where, following the notation of [22,24], pe means integrate the multi-differential which follows as
+an iterated integral over [a,b]. Having removed the time integral which commutes with the rest,
+we may find a substitute for the joint characteristic function, which is the exponential of a double
+integral and thus problematic in a non-commutative context, as the corresponding double product
+integral, to define which does not require commutativity. A start has been made on this procedure [26].

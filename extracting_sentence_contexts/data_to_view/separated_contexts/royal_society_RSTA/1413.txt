@@ -1,0 +1,39 @@
+In particular, the computational load varies significantly, for example, between
+cloudy and cloud-free areas. In this case, it makes sense to model
+
+tcomput(1) — fimbalance(1)
+
+fcomput(N) N + timbalance(N)
+
+with temporal evolution timbalance(N) for the imbalanced compute part. The latter is, however,
+very complex to deduce analytically, due to the aforementioned state-dependency argument on
+cloudy areas and the fact that simulation models comprise up to millions of lines-of-code.
+
+
+
+12800
+
+—— model
+
+6400 AN - —te— model + est. load imbalance
+i measured
+300 = — — ideal scaling
+2 1600
+&
+800
+400 +
+
+200 =
+50 100 200 400 800 1600 3200 6400 :5
+no. nodes : =
+is
+Figure 5. Measured (measured) and modelled performance (model, model + est. load imbalance) for the 5km ICON- bo
+DYAMOND configuration. Ideal scaling assumes perfect scalability of the ICON-DYAMOND 5 km simulation, taking the 100 node : =
+configuration as baseline. (Online version in colour.) : a
+a)
+>
+wn
+a
+Given a new piece of hardware and its hardware specifications, b(sy) and t; are fixed. [3
+Measuring performance of ICON on one node of the new hardware fixes tcomput(1) and is : ~
+already sufficient to evaluate scalability via the first performance model.

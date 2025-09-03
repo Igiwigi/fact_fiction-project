@@ -1,0 +1,32 @@
+The additional
+olution F is thus always zero and our solution is therefore the unique solution of the problem. By a similar argument it can be shown that our first form of solution, involving the pressure
+‘opradient y(y, t) is also unique. In either form, once y or F is determined uniquely, the field
+everywhere is then determined uniquely by equations (1) and either (7) or (9).
+‘w Essentially, although the basic integral equation (15) and the resulting equation (25)
+sao not have unique solutions, our solution is made unique by satisfying the condition that
+-Bthere is no incident field from the left and using the fact that effects cannot be propagated
+
+Zround the edges faster than the velocity of sound.
+3
+5 3-6. Average pressure on strip
+
+o 5
+‘2 A quantity of physical interest is the force on the strip due to the pulse, which per unit area
+
+“ais the average net pressure f given by
+> ES adel
+£ D=| (by-h) a, (93)
+
+E\where the suffixes refer as before to the front and back of the strip. By use of equations (3)
+
+sand (10) we may write 1
+
+i p= af inner
+
+3 0
+
+3 - 2(1 —Pr)s (94)
+
+where f, denotes the average pressure on fhe back of the strip.
+& The average pressure f, can always be obtained by numerical integration of the pressures
+calculated from our solution for individual points on the back of the strip.

@@ -1,0 +1,18 @@
+Section 6 is devoted to concluding
+remarks and outlooks.
+
+2. Nonlinear resonance in the context of image processing, visual perception
+and dithering
+
+(a) Image processing
+
+As it is generally the case, the concept of image filtering with nonlinear resonances was first
+introduced with one-dimensional signals and is mainly based on the SR property: adding an
+appropriate amount of noise enhances the response of a system to a coherent information
+excitation. However, motivated by the fact that adding this optimal amount of noise in real
+system is not an easy task, parameter-induced stochastic resonance (PSR) has then been proposed
+as a convenient solution to take benefit of the noise enhanced property in the field of signal
+processing [29,30]. Later, the concept was extended to two-dimensional signals in the image
+processing field. In fact, the underlying strategy of PSR consists in changing the intrinsic
+characteristic of a nonlinear system to induce a cooperative effect between the input excitation
+and the noisy nonlinear system.

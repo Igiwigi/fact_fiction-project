@@ -1,0 +1,14 @@
+If the rank of A is smaller than
+the dimension of M, the basic definition of a finite-dimensional integrable system given in
+Introduction needs a small modification. Namely, we will assume that the number of independent
+commuting first integrals (including the Hamiltonian H) equals
+
+3(dim M + corank A),
+
+where the co-rank of A is taken at a generic point. This condition is equivalent to the fact that the
+subspace spanned by the differentials of the first integrals in the cotangent space TM at a generic
+point x € M is maximal isotropic with respect to the Poisson tensor A (which is exactly the same
+condition as what we use in the symplectic case). One of the most effective methods for constructing and studying integrable systems is based
+on the notion of compatible Poisson structures; for example [139,140]. Recall that two Poisson
+brackets { , }; and { , }2 on M are called compatible if any linear combination of them is again a
+Poisson bracket.

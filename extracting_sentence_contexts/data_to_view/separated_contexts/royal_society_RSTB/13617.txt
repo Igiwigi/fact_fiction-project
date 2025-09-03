@@ -1,0 +1,18 @@
+While our results confirm that the vowel [u], with an 4. Methods
+extremely low second formant F2, consistently exaggerates
+the perceived size of a vocalizer, the size-exaggerating effect (a) Summary of experimental materials and methods
+of [a] was less consistent. Nevertheless, the fact that [a], a We created synthesized vocal stimuli with the R package sound-
+vowel with high F1 and neutral F2, still sounds relatively gen [36], an open-access parametric voice synthesizer that creates
+large, suggests that articulatory size exaggeration may realistic yet highly controlled voice stimuli by synthesizing
+involve a trade-off between lowering formant frequencies a mixed harmonic-noise excitation source filtered with a vocal
+
+tract transfer function based on manually provided global con-
+tours of control parameters such as f,, individual formant
+frequencies, amplitude and other acoustic features [36,52]. The
+synthetic stimuli were patterned after actual voice recordings,
+
+and maintaining a loud voice. Sonorous open vowels such
+as [a] may be more effective for size exaggeration than the
+closed vowel [u] under conditions when loud calling is criti-
+cal, potentially explaining the mixed results of past studies in and all pairs of synthesized stimuli in both vowel and single-
+sound symbolism [11,27-29,32].

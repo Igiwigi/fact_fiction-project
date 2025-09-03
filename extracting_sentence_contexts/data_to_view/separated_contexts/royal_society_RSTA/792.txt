@@ -1,0 +1,22 @@
+Consider, for example, another natural form of Hpjix which would just be the identity matrix Ip,
+mixing |cw) and |cl) as well as |sw) and |s/). Then, the C# Hamiltonian would have four distinct
+eigenvalues, +,/2 + g, where we denoted rad =2(1+ Mose - Mwin), and none of the eigenvectors is
+an eigenvector of Jz, hence the only stable mixed state is I/4. As it is the case with H and J, considered throughout the paper, we can see directly from
+the form of J, that it has invariant subspaces Span(|cw) , |cl)) and Span(|sw) , |sl)), and it is easily
+seen that H must be degenerate from the fact that H? is proportional to I (in effect 4;7 = (1 + 17),
+following §5; thus, all 4,2 are identical for all four i, which leaves only two values for the four
+eigenvalues A; of the Hamiltonian). Indeed, H also has two twice degenerate eigenvalues, which
+allows for a choice of eigenvectors such that they would also be eigenvectors of p. For this stationary state p, we can either directly calculate the measure of decoherence to be
+0.9333, or represent p(oo) = t+ (co), where yp is a traceless operator responsible for pertaining
+of coherence
+
+05 0 -1 0
+
+0 05 O -1
+
+-1 0 -05 O |’
+0 -1 O —0.5
+
+p(00) = 0.1
+
+and calculate (1 —Tr(p2))N/(N — 1) =1—Tr(u2)N/(N — 1) =1-4.0.12.(0.52 + (—1)?)-4/3 = 0.933.

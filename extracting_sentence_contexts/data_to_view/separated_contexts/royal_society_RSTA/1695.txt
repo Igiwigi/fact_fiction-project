@@ -1,0 +1,19 @@
+The solution of the Cauchy problem
+
+
+(2.3) is given by
+t —~
+x(t) = T(t)x + | T_1(t — s)B(Mx)(s) ds,
+0
+for any xo € X and f > 0. Note that (Mx) is not explicit. To give a good expression for the solution
+x(-), we need the following extension of C:
+
+D(Ca):= {x €X: lim CAR(A,A)x exists in ul (2.7)
+A>+00
+Cax:= lim CAR(A,A)x, x€D(Ca). (2.8)
+A>+00
+
+In fact, we have D(A) C D(C) and C, =C on D(A). The operator C4 is called the Yosida extension
+of C with respect to A. It is well known (e.g. [39, Thm. 3.1] [40, p 138]) that the estimate (2.6)
+implies that Range(T(t)) C D(C,) for almost every t > 0, and the estimate (2.6) holds for any x € X,
+if we replace C by its Yosida extension Cy.

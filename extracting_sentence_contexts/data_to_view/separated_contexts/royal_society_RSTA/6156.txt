@@ -1,0 +1,17 @@
+The data are collectively denoted y. Application of Bayes’ theorem implies that the posterior
+probability distribution (6, & | y) is given by
+
+(0, Ely) x w(ylE)L(E 0) 8), (2.4)
+
+where various terms in this expression are:
+
+(i) The observation model zr (y|&)
+
+Ina standard Bayesian approach this would give the probability of the data given a system state
+based on statistical characterization of the relevant observation processes. Often writing down a
+true observation model is complicated by the fact that we may not know the error associated with
+a set of measurements, and the observation probability for a set of measurements down a time
+series may be highly correlated. Instead, here we follow an approximate Bayesian computational
+(ABC) approach that relies on introducing a measure of fit, or distance metric [6], between the data
+y and the state € here called the ‘error function’ (EF). A small EF implies a close correspondence
+between é and y.

@@ -1,0 +1,34 @@
+The Born-Markov approximation used above
+implies some coarse-graining in time, i.e. averaging over a small time interval. Assuming
+ergodicity, this averaging may be replaced by averaging over the random matrix ensemble. In
+the case of the Gaussian ensembles, it is then enough to use the fact that (Veg Von) = 5jx5it (GUE)
+
+
+or (Veg Von) = djx5it + 5ik5;1 (GOE) to arrive at the following very simple master equation:
+
+ihdroe(t) = Hxoelt) — oelt)Hy — ih fect - tet} , (2.19)
+
+The dissipation term of this equation had been obtained previously for a random matrix model
+where the coupling matrix is a full random matrix in the product Hilbert space of the near and
+far environment [14]. Note that equation (2.12) implies
+
+fir (8) = troelt) = trel[M,(Hée(1)], My (t) = Uo(t)"U. (0). (2.20)
+
+(c) Evolution equation for the generalized fidelity amplitude
+
+To solve the master equation (2.19), we return to the interaction picture and separate off the
+exponential decay from the solution,
+
+rT
+Bolt) =e QW): H2() = Mj (HtrelM2 (2). (2.21)
+e
+We now consider the corresponding integral equation
+ret
+Q(t) = 20) + Mm | dtM}(r)trel[Ma(t)2(c)], (2.22)
+e Jo
+
+and define
+gar (t) = tre[M)(t)2(t)] such that fy,r(t) = eb, F(t). (2.23)
+
+Eventually, we are only interested in the generalized fidelity amplitude f, r(t). It is then
+convenient to derive an evolution equation for ¢,, (t) directly.

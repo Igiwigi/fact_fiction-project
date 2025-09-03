@@ -1,0 +1,13 @@
+Introduction
+
+Wall turbulence plays a critical role in a wide range of engineering and physics problems. Despite the acknowledged importance of improving understanding of wall turbulence and an
+
+extensive literature recording advances in the study of this problem, fundamental aspects of 1
+wall turbulence remain unresolved. The enduring challenge of understanding turbulence can be :2
+partially attributed to the fact that the Navier-Stokes (NS) equations, which are known to govern : =
+its dynamics, are analytically intractable. Even though there has been a great deal of progress in [3
+simulating turbulence [1-6], a complete understanding of the physical mechanisms underlying : =
+turbulence remains elusive. This challenge has motivated the search for analytically simpler and 8
+computationally more tractable dynamical models that retain the fundamental mechanisms of eri
+turbulence while facilitating insights into the underlying dynamics and providing a simplified : a
+platform for computation.

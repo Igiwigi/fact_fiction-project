@@ -1,0 +1,20 @@
+Moreover, while RL has traditionally
+been most effective in the tabular setting—the case in which
+options and contexts are discrete and finite, so that the value
+of each action can be stored in a lookup table—its formalism
+is generic enough to extend to continuous decisions. Finally,
+recent progress in deep RL has opened a new dialogue between
+machine learning and cognitive neuroscience, producing artifi-
+cial agents capable of solving challenging continuous tasks like
+quite unnatural and that results from animal intertemporal video games while underperforming humans in others like
+choice tasks may not paint an accurate picture of natural behav- imitation learning (e.g. [30-34]).
+iour [12-17]. Another example comes from the fact that
+laboratory risk paradigms (including our own) tend to draw
+
+The greatest benefit to studying continuous decisions is
+that they are a type of decision our brains were evolved to
+make [8-11]. Focusing our research on evolutionarily valid
+contexts is important because it maximizes our chances of
+making valid discoveries. If artificial decisions are contrived,
+then they may, for example, produce preference patterns,
+including anomalies, that are irrelevant in the natural world.

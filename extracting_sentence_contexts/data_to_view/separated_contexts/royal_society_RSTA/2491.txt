@@ -1,0 +1,6 @@
+The drop in the parameters is not as dramatic as before, but we still have a simpler proof. Note
+that the maximum clause weight, which started at 87, did not change in this iteration. We could
+continue in the same vein for a while, but what will happen eventually is that the proof lengths
+will no longer drop, but might in fact rise a bit. Generally speaking, what tends to happen is that
+proof lengths (and the other parameters) rise and fall. A stable proof might be found at some
+point or it might not.

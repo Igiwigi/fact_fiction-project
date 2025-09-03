@@ -1,0 +1,22 @@
+The full back-
+ground training set consisted of 32 training items, one for every combination of each of the eight indicated items with each of the four indicated contexts. The
+network was trained to activate the correct set of output units corresponding to each item-context pair. For example, for robin can the network was trained to
+activate grow, move, fly. (b) An explicit hierarchical tree representing the taxonomic hierarchy or the items used and the set of facts included in the training examples. Facts true of a node higher up the tree (e.g. animal) propagate down to the specific items at the bottom of the tree (e.g. can grow, can move, and can fly propagate
+down to robin from the living thing, animal, and bird nodes respectively). Adapted with permission from fig. 2 [18, p. 1194] American Psychological Association.
+
+bark
+
+big
+
+context
+ISA
+can
+has
+
+branches
+ISA
+
+salmon
+
+corresponding output units, indicating all of the completions the flavoured foods they learned about had a specific place.
+that were true for that item and relation.

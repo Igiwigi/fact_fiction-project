@@ -1,0 +1,13 @@
+In the context of a fitness game I= (X, w), an individ-
+ual’s feasible set is the set of strategies X. The individual
+with whom (s)he is matched to interact—the opponent—
+also chooses some strategy in the strategy set X. To capture
+
+As an illustration, in example 2.3 the unique ESS is x the fact that an individual’s ranking over own strategies
+m/(2—k). This is found by noting that any ESS x"°° must solve may depend on what strategy the opponent is expected to
+use, a preference function is some function u:X?—R
+that associates a real number with each pair of own and
+opponent’s strategies. If the individual strictly prefers some
+strategy profile, say (x, y), over another, say (x’, y’), then u
+
+1.

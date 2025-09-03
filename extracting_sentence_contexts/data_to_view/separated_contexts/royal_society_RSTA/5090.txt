@@ -1,0 +1,17 @@
+A typical test matrix therefore contains system identification cases
+(i.e. free decay, white noise wave, fixed displacement and mooring line force identification cases)
+and deterministic and stochastic separate and combined wind and wave cases. Table 1. Important dimensionless numbers for FOWT testing.
+
+f= —_ (41) pea ta) r= 8 43) kca om tgay
+val “ v i
+2
+a=2" (45) y= pack (4.6) Ma=~ (47) =" (4g)
+m |, G v
+z
+The particular challenge of FOWT experimental testing is due to the fact that the system : =
+dynamics are governed by both aero- and hydrodynamic loads, which are dominated by different :s
+physical properties. To ensure similitude of platform hydrodynamics, the platform properties are !
+typically scaled by the dimensionless Froude number (4.1) (see table 1). It describes the ratio : <
+of inertial forces to gravitational forces in a fluid, assuming that the influence of viscous effects : 3
+present in the thin boundary layer is small compared with the dominant factors, i.e. gravity and 13
+inertia.

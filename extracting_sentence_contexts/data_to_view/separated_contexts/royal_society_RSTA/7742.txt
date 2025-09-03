@@ -1,0 +1,15 @@
+The result
+is a set of compensated values of gravity which is responsible for the form of the
+compensated geoid. The separation of geoid and compensated geoid is easily calculated when the
+topography is known.* The reduction of gravity observations, including compen-
+sation according to the Hayrorp hypothesis, is well understood. The fact that
+many gravity results have already been so reduced makes it convenient to adopt this
+form of compensation. For the present purpose, in addition a height correction
+for the amount of separation of the geoid (from which heights of pendulum stations
+are ordinarily given) and compensated geoid is required ; for our data are to be
+applied to the compensated geoid. The height correction in all cases may be derived
+best by means of equation (17.4)
+
+We have tacitly assumed hitherto that the compensation correction will remove
+all effects of matter external to the real geoid ; but we now require that the same
+be true of the compensated geoid.

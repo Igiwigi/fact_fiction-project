@@ -1,0 +1,13 @@
+Such an
+approach was taken by, for example, by Bodart & Larson [1], who disregarded convective
+terms in the governing equations and considered integral quantities in the wall-normal
+direction. Over all, this general approach has provided successful wall models that performed
+well in specific parameter regimes, but failed to demonstrate adequate robustness for an
+application in complex configurations at very high Reynolds numbers. This lack of robustness
+is thought to be attributable to the fact that common wall-models rely on compensating for
+the missing flow physics of the coarse-grid solution without addressing the errors due to
+the SGS model or the numerical scheme. These errors, however, are not known a priori; for
+this reason, wall-models borrowing features from optimal control theory have been proposed
+and promoted. A first attempt to design a control-based near-wall model was undertaken by Nicoud et al. [2]:
+a optimal-control framework was employed to best estimate the mean velocity profile from the
+available stress components.

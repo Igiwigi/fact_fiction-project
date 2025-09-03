@@ -1,0 +1,24 @@
+Thus for these models, we have the following definition: 1s
+areal
+XQ
+Etotal
+PE Ignorable = PE,Non-ignorable = i =. We use the posterior predictive distribution of Pf|Y,R to derive inference on the error rate. Note, we can do this after fitting the appropriate model despite having not observed the latent
+variables EMis, To do so, we use the fact that for the ignorable model the following holds:
+
+EPS ~ Binom(R;, pizi)
+and
+EM's ~ Binom(J; — Ri, pi(1 — 7))-
+
+Similarly, for the non-ignorable model:
+
+EQS ~ Binom(R;, pizt2/)
+
+and
+
+EMSs ~ Binom(Jj — Rj, pi(1 — 72/)).
+
+5. Application
+
+In this section, we consider the black-box study of latent palmar prints presented in Eldridge et al.
+[5]. Using the models introduced in §4, we offer a re-analysis of their data to explore the impact
+that missing data might be having on error rate estimates.

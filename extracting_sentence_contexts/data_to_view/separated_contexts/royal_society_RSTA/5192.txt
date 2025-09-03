@@ -1,0 +1,19 @@
+G3)
+
+e | 2d —ape)1$ — 2p TE
+
+The left-hand side of (3.3) describes the slow dynamics of the moments of distribution in the
+economy configuration variable x and time ft. This evolution is driven by the fast, local evolution
+of this distribution as a function of the individual decision variables y described by the right-hand
+side. The parameter ¢ at the denominator highlights that fact that the internal decision variables
+evolve on a faster time scale than the external economy configuration variables. According to
+Degond et al. [1], the fast evolution of the internal decision variables drives agents performing a
+‘rapid march’, i.e. on a O(1/e) time scale, towards a Nash equilibrium, defined by the game of
+minimizing the functional ®; in (1.2), up to a diffusion.
+
+(b) The frequent trading limit and the Gibbs measure
+
+In the limit of frequent trading interaction (when ¢ in the previous section is small compared
+with 1), the macroscopic dynamics are given by the shape of the solution of Q(f) =0. In the
+following, we restrict the form of the nonlinear operator Q such that the coefficients ap and by
+in (3.1) depend only on the means of the first two moments of the wealth variable.

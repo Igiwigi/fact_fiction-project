@@ -1,0 +1,18 @@
+It can be shown
+that this requires the number of subbands N to be larger or equal than the QAM constellation
+order M, which means in practice that transmission efficiency improvements can be achieved
+only for relatively low constellation orders M (e.g. M : 4, 16), as otherwise the large number of
+subbands required renders the scheme impractical. Most interestingly, however, the scheme can
+provide improved energy efficiency over the m-CAP scheme exhibiting with the same spectral
+efficiency owing to the fact that the subband index bits are transmitted over the channel only
+by the status of the subbands during each symbol period (i.e. which subset is active) without
+consuming any energy. Finally, SI-CAP provides a slightly better PAPR ratio than m-CAP due to
+the activation of a lower number of subbands during each symbol period which results in a lower
+probability of constructive interference of the particular harmonics [123].
+
+(iv) Non-orthogonal or super-Nyquist m-carrierless amplitude and phase
+
+In this variant, typically referred to as super-Nyquist (SN-CAP), the spacing between the CAP
+subbands is reduced in order to increase the spectral efficiency of the scheme [96,124—126]. However, this results in spectral overlap (band interference) between adjacent bands which
+destroys the orthogonality of the respective pulse shaping filters and in the distortion of the
+transmitted waveforms.

@@ -1,0 +1,13 @@
+Specifically, for (1.5) to occur
+on sequences of Navier-Stokes solutions, the pth-order absolute structure functions cannot satisfy
+a bound of the type
+
+T
+S= | [w+ en —w'G,nP drdt cre, viel st, a7)
+0 Td
+
+for any ¢» > p/3, p= 3 and a constant C independent of viscosity. This assertion, originally stated
+by Onsager [24] about weak solutions of the Euler equation and in the slightly more restrictive
+setting of Hélder spaces, has since been rigorously proved [25-27]. In fact, energy dissipation
+must vanish as viscosity goes to zero for any family of solutions {u"},.9 which are uniformly
+bounded in the Besov space! LP(0,T; By! Bt (74) for p = 3 [28].

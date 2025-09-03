@@ -1,0 +1,18 @@
+Nevertheless, we believe it is clear that Cogent
+affords a meaningful reduction in verification effort by about a third to a half.
+
+(d) Performance
+
+In previous work [58], we conducted a detailed performance analysis of the two Cogent
+file system implementations, using various file system micro-benchmarks. We also looked at
+macro-benchmarks [60], and summarize the high-level trends here. Overall, the Cogent file system implementations perform within 10-20% of their native
+counterparts. (For BilbyFs, which is a custom file system, we manually wrote a native C
+implementation against which we compared the performance of its Cogent implementation.)
+These performance overheads are due to the fact that the Cogent implementations tend to
+use data structures that strongly resemble those of the original C, rather than more idiomatic
+functional data structures, which are handled better by our compiler. For some operations,
+the C implementation would rely on unsafe features for performance, where the Cogent
+implementation uses slower, but easier-to-verify techniques, which lead to additional copying of
+data. In most cases, the overheads for these do not lead to a major performance penalty, but there
+are pathological cases, where copying happens inside a tight loop, which can lead to a slowdown
+of an order of magnitude for that specific operation.

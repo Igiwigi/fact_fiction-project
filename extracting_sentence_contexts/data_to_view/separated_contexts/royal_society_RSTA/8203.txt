@@ -1,0 +1,38 @@
+COXETER ON POLYTOPES WITH
+
+If “ ~” means * intersects,” (remembering that o" = 1) the rules of intersection are
+as follows :—
+
+Eat ~ no’ ~ Fa’,
+
+Eat ~ Fatt? ~ Eatt®,
+
+no ~ not? ~ wit,
+
+Cat ~ Catt  ~ Cott,
+
+Le |
+BO, ee
+
+jo’ ~ yo,
+Cok ~ Cott,
+
+no'~ Co’ if A= + 1 (mod. 9),
+
+Coi'~ Eo if p= + 2 (mod. 9),
+
+Zot'~xno'* if v= +4 (mod. 9).
+(The numbers +1, +2, +4 are the residues, modulo 9, of the various powers of 2, and
+the notation can be further elaborated.) ‘These rules, it is easy to see, give the 135
+intersections, which are therefore unaffected by . So w belongs to the group, as
+required.
+
+13.7. The operation may be regarded as a product PQ, in which each of P, Q is of
+period 2; Q being in fact
+
+(16) (25) (34). This is seen at once by applying to each of X, Y, Z (of which no two have a line in
+common) the obvious decomposition of a cyclic permutation of period 9,
+(123456789) = (17) (26) (35) (89) . (18) (27) (45) (36).
+
+13.8. It is manifest that instead of » we may take any power of o, say o”, where
+is not a multiple of 3.

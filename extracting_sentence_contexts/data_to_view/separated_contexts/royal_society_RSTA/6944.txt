@@ -1,0 +1,41 @@
+When these values are inserted into equation (34) we obtain the new
+
+value “ = 4:9097. The new residuals given by (35) are small and necessitate no alteration
+in f, the final result being
+
+JS = 0°8492, 1-0400, 1-1600, 1-2009; = 49097, A-! = 11-2854.
+ia
+
+This solution agrees within one unit in the last figure with the analytical solution (37). TABLE 5
+12y/m [sin (§7+y) f(y)]
+0 04246
++3108
+1 0:7354 — 416
+2692 —723
+2 1-0046 1139 +310
+1553 —413 +99
+3 1/1599 1552 +409 —84
+~ + 1 - 4 +15
+4 1-1600 1556 +424
+—1555 +420
+5 1-0045 —1136
+—2691
+6 0-7354
+
+Ay = +0-0507
+
+
+NON-SINGULAR LINEAR INTEGRAL EQUATIONS 515
+
+The fact that the vector suffers less change than the eigenvalue when the difference
+correction is applied is no unusual feature of eigenvalue problems, and was noticed by
+Fox (1947, 1949) in connexion with the solution of differential equations. This phenomenon
+is not confined to oscillatory functions. Consider, for example, the integral equation
+
+1
+Af (2-+92) fly) dy f(x): (42)
+It is easy to show that this has two eigenvalues, given by the roots of the equation
+
+42+ 30A—45 = 0,
+
+and the eigenfunctions have the form x2—4+ 71.

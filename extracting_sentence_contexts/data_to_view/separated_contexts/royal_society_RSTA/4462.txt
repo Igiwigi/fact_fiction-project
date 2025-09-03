@@ -1,0 +1,23 @@
+Nevertheless, we have performed several independent integrations for : =
+the same geometry, as the CFD results may be susceptible to uncontrolled rounding-off error : yy
+propagations. 2
+
+The geometrical set-up considered the channel width =4.0mm, while the total length aes
+L=33mm is assigned to the four zones according to the following scheme: Z; :1mm,; Z2:4mm : _
+(packing zone); Z3 : 8mm, Z4 : 20 mm. By properly re-scaling the linear dimensions, velocities and : xs
+fluid features of the fluid used in this study, our results can also be applied to similar systems of DN
+different sizes. The fact that the permeability of similar systems of different size does not differ : g
+much has been pointed out as an advantage of numerical methods in other approaches to porous :3
+
+media problems [20,21].
+
+3. Methods
+
+The equations of mass and momentum conservation are integrated with the help of ANSYS-
+FLUENT CED package, under the assumption of incompressible and isothermal regime [22]. The
+equation of conservation of mass, or the continuity equation, is written as
+
+a
+> 4+ (pv) =Sy. (3.1)
+This equation is valid for both compressible fluids as for incompressible fluids, and the term S,,
+is the flow mass added to the continuous phase from a dispersed phase.

@@ -1,0 +1,14 @@
+This line of research began with Ashurst & Hoover [13], and
+moved onto massively parallel computers through Abraham eft al. [14]. While computers became
+more and more powerful over time and seemed to make the need for analytical understanding
+obsolete, it proved surprisingly easy to be misled by the solutions that came from seemingly
+obvious choices about initial conditions and boundary conditions. For example, because of lattice
+trapping, it was possible to think that certain loading conditions made crack motion impossible,
+when in fact the stationary crack was only a metastable solution. Many cracks were driven in
+simulation by boundaries made to move apart at rates that were far to fast ever to be realized
+in experiment. Therefore, analytical understanding of dynamical crack motion in crystals was
+important, and complemented the understanding that could come from simulations.
+
+(a) Slepyan’s atomic solutions 1s
+
+The first analytical solutions for dynamic cracks in a lattice were obtained by Slepyan [15].

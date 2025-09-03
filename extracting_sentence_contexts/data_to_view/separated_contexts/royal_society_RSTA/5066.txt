@@ -1,0 +1,8 @@
+Equations (3.1) and (3.2a,b) show that the loads on the wind turbine structure can be alleviated
+by appropriately modifying the pitch angle 6. However, careful design of the control algorithm
+is required in order to avoid alleviation of loads using the pitch controller from interfering with
+power generation. In fact, small changes in pitch angle can have a dramatic effect on the power
+output [34]. The application of active pitch control for wind turbine load reduction is presented
+in [2,4,36]. Active pitch control interacts strongly with the turbine dynamics, in particular with
+the tower dynamics, and under certain circumstances can lead to instability of the active system
+if the gains of the controller are not designed properly.

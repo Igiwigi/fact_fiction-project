@@ -1,0 +1,25 @@
+Therefore, the
+
+sequence of the integrals | qn(t)@n(t) dt is eventually positive and bounded away from zero,
+
+n
+
+
+because it is increasing. Consequently, as
+
+noo
+
+lim | qyitonttde=0,
+Vin
+it follows, for n sufficiently large, that
+
+o> en| an Hon (0) dt,
+
+n
+
+which is a contradiction. This concludes the proof. a
+
+(b) The topological approach: an equivalent functional version of equation (1.5)
+
+For the reader’s convenience, we shall briefly summarize here the main facts about Mawhin’s
+coincidence degree. For details see [3-5]. Let E and F be real Banach spaces and let 2 be an open bounded subset of E.

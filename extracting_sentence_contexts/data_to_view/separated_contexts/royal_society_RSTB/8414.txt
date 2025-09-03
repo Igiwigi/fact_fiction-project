@@ -1,0 +1,15 @@
+As a result, high decoding accuracy is
+be learnt. As argued above, in real life, although there is an obtained rather quickly (figure 3).
+external teacher (sometimes), the external teacher does not One important issue that we have not fully addressed yet
+provide correct pronunciations for many thousands of is what happens when initial decoding results in the acti-
+words. As a matter of fact, the power of self-teaching is the vation of several word candidates. In our simulations, we
+idea that such an external teacher is not needed [2]. simply chose the correct word (figure 2c) if it was in the
+In this work, an external teacher is only needed for the cohort of word candidates. This oversimplification is based
+pretraining of a small number of grapheme—phoneme corre- on the assumption that in the real learning situation with
+
+spondences [15] and for the selection of some word candidates real texts, children will have additional information from
+
+
+the story context, images, semantics or syntax to help them implemented through poor vocabulary (a small phonological
+
+chose the correct target.

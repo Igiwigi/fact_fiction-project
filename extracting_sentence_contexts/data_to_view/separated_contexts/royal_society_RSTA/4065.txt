@@ -1,0 +1,15 @@
+If remotely
+applied transverse tension (or compression) and in-plane shear stress are combined with the :
+axial tension, then these additional loads will affect the local load transfer by changing the local :=
+stress field. Without fully analysing these modifying effects, it is commonly assumed that the 23
+transverse load (tension or compression) has no effect and that the in-plane shear contributes to
+the fibre failure mode in tension in the form of a quadratic interaction, as in equation (2.3). In mea)
+fact, this equation also suggests that if the in-plane shear is the dominant loading mode, then :
+the mechanisms of shear cracks leading to transverse crack formation, discussed in §§3e and 4e, a]
+will be modified by the imposed axial tension in the same way. Obviously, this assertion is not DNS
+supported by any analysis at the microstructural level. ares
+
+Consider next the fibre failure mode in compression, discussed in §§3b and 4b. Although [8
+different mechanisms underlying this failure mode are possible, in the common case of glass— .
+epoxy and carbon-epoxy, the mechanism involved is plastic microbuckling leading to kink-band
+formation.

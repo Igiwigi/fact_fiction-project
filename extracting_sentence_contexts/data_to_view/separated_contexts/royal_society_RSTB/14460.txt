@@ -1,0 +1,17 @@
+This is opposite to many definitions in the literature.
+
+figure 6a. The disparity sensor windows are not uniform, as of disparity in primary visual cortex (V1) undergoes exten-
+sketched in figure 1b, but are smaller and more numerous sive subsequent processing in further brain areas [46,48].
+closer to fixation and become larger and sparser further Our perception of depth is believed to reflect activity at the
+away, making our depth perception less precise there end of this process, perhaps in inferotemporal cortex [62].
+[46,85-87]. The windows are also now drawn as ellipses, to The processing seems to reduce the responses to false
+indicate that the sensors are more narrowly tuned to disparity matches (image-patches which are superficially similar but
+than to direction [55,88]. do not in fact correspond to the same point in space), contains
+
+specialized mechanisms for depth discontinuities, slant and
+curvature, and presumably also identifies monocular occlu-
+
+(f) Additional processing required for correspondence sions [89-94]. Similarly it seems clear that something like
+For accurate stereo correspondence as in human cyclopean the global interactions discussed above do occur, but not
+stereopsis, the initial combination of left and right images exclusively within V1 itself [95]. For example, repeating pat-
+via local disparity sensors is just the beginning.

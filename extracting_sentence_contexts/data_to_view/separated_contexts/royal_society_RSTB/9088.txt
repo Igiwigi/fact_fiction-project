@@ -1,0 +1,12 @@
+Below the level of regular languages, ongoing rules and the structures that different types of rewrite rules con-
+research established the so-called subregular hierarchy that strained by different restrictions may express. One well-known
+includes, among others, the class of strictly locally testable issue—and an aspect that the notion of mild context-sensitivity
+
+languages (SLTL) [104]. SLTLs constitute the non-probabilis- addresses—concerns the fact that repetition, repetition under a
+
+tic counterpart of n-gram models. SLTLs/n-grams do not modification (such as musical transposition) and cross-serial
+
+assume underlying unobservable (hidden) structure and dependencies constitute types of structures that require quite
+model the string language based on surface fragments complex rewrite rules (see also the example of context-sensitive
+alone. Regular languages and Markov models are therefore rewrite rules expressing cross-serial dependencies in reference
+not equivalent, and showing the inadequacy of n-grams or [114]).

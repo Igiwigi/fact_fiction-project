@@ -1,0 +1,15 @@
+Figure 4c shows the case in which the her- these rules must yield the correct biological result. Applying =
+itability in environment 0 is 0.2, while that in environment 1 simple arithmetic to the numerical values given in (4.1) ©
+is 0.4 (the fitness function is still that shown in 4a). In this quickly shows that they do not pass this test. a
+case, the population does not follow the fitness gradient, For example: we often need to calculate the mean valueof =
+and in fact may be pulled across a fitness valley. In figure a phenotype, but under the scheme given in (4.1) the meanof = S
+4d, the difference in heritability is greater; 0.1 in environment an A and a G is a C (since the mean, in binary, of 00 and 10 is a
+0 and 0.5 in environment 1. Here, the population evolves 01), and the sum of a C anda G isaT.
+towards [¢,=1, ¢,=1] from every starting point in this
+region, even though the fitness landscape is still the same. (A, G)= cf (4.2)
+All of these heritability values, including the most extreme and C+G=T.
+ones (0.1 and 0.5) are well within the range commonly seen These results are clearly biologically (and chemically) mean-
+in natural populations [19,21]. ingless; the sum of two nucleotides is not a different
+This example illustrates one way in which heritability can nucleotide.
+evolve—as individuals end up preferring environments in The way around this is to represent monomers as vectors
+which heritability is relatively high.

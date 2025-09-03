@@ -1,0 +1,11 @@
+Several previous DN
+studies also show that the selection of virtual fields is an important point regarding the accuracy :a
+a7
+and robustness of the identification method [65]. Therefore, it is necessary to first examine the : S
+
+robustness and sensitivity of the identification method according to the chosen special virtual
+fields. The data obtained from using one of the full-field techniques (i.e. grid method or digital
+image correlation) in an actual experiment are in fact displacement fields that are discretized
+over a region of interest. Therefore, effects produced by noise on the identification procedure are
+closer to the actual effects that occur during actual experiments. These effects can be investigated
+by directly corrupting the numerically simulated displacement fields.

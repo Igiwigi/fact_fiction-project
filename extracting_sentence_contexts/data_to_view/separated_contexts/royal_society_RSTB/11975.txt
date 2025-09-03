@@ -1,0 +1,16 @@
+The storage process takes place within a ‘training phase’
+where they are presented to the network in such a way that
+each neuron S; adopts the memory state, i.e. $;= & and all its
+synaptic weights J; are updated (starting from Jj; = 0 at time
+zero) following the so-called Hebb’s rule, which is summarized
+in figure 2b. In a nutshell, correlated inputs increase weights,
+whereas uncorrelated ones decrease them. It can be shown
+[28] that the memory states &, are, in fact, the minima of a
+(high-dimensional) energy function, namely:
+
+with T defining a temperature and ¢(x) a function such that
+(0) = 0 and (x) > +1 for x +00. Temperature is not just
+an additional attribute, as it actually provides a powerful
+mechanism to escape from local minima. By using a stochastic
+transition rule, it is possible to move to lower-energy states
+from a given, suboptimal (usually non-memory) state.

@@ -1,0 +1,23 @@
+There is no ambiguity DN
+
+because (2.2) has a unique solution g up to an additive constant, among potentials with finite [GS
+
+magnetostatic energy. [8
+The key point for this paper is the precise form of the energy wells of W. These are pairs (F,m) .
+
+consisting of a 3 x 3 deformation gradient F and corresponding magnetization m that minimize
+
+the local free-energy density W. In the case that the martensite is ferromagnetic and 6 < 69, these
+
+have the following general form [23]:
+
+(RU, +Rmj), (RUz,+Rmp),...,(RU;,+Rm,), R€SO(3). (2.3)
+
+Note for later use the rotational invariance, and the important fact that the same rotation
+matrix appears in front of U; and m;. The symmetric, positive-definite tensors Uj,...,Uy, called
+transformation stretch tensors, define the variants of martensite. All of the wells can be obtained
+from the first one by using the point group P = {Q;,...,Q,,} of undistorted austenite:
+
+{(U1,my),..., (Un, m)} = (Q;U1 QF, Q;m1):i= 1,..., m1). (2.4)
+
+Generally, n < m because there can be degeneracy, as in the tetragonal case below.

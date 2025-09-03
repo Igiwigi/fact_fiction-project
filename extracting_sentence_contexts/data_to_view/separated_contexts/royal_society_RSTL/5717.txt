@@ -1,0 +1,36 @@
+CAYLEY ON THE THEORY OF MATRICES. 27
+
+80 that M satisfies the equation
+a—M, b |=0;
+| ec » d—M |
+or
+M*—(a+d)M+ad—be=0,
+and let X,, X, be the single quantities, roots of the equation
+c - 4—X |
+or
+X*—(a+4d)X +ad—be=0. The equation satisfied by the matrix may be written
+(M=X,(M—X,)=0.
+
+in which X,, X,, are to be considered as respectively involving the matrix unity, and it
+would at first sight seem that we ought to have one of the simple factors equal to zero,
+which is obviously not the case, for such equation would signity that the perfectly inde-
+terminate matrix M was equal to a single quantity, considered as involving the matrix
+unity. The explanation is that each of the simple factors is an indeterminate matrix,
+in fact M—X, stands for the matrix
+
+( a—R, b I:
+| ec , 4d—X,
+
+and the determinant of this matrix is equal to zero. 'The product of the two factors is
+thus equal to zero without either of the factors being equal to zero.
+
+29. A matrix satisfies, we have seen, an equation of its own order, involving the
+coefficients of the matrix; assume that the matrix is to be determined to satisfy some
+other equation, the coefficients of which are given single quantities. It would at first
+sight appear that we might eliminate tle matrix between the two equations, and thus
+obtain an equation which would be the only condition to be satisfied by the terms
+of the matrix; this is obyiously wrong, for more conditions must be requisite, and we
+see that if we were then to proceed to complete the solution by finding the value of the
+matrix common to the two equations, we should find the matrix equal in eyery case
+to a single quantity considered as involving the matrix unity, which it is clear ought
+not to be the case.

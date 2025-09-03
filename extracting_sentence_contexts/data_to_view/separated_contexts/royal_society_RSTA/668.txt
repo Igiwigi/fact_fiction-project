@@ -1,0 +1,17 @@
+This is typically referred to as the ‘no-slip’
+condition. However, SHSs possess a fraction of air (1 — ¢s) at the solid—liquid interface, which can
+yield a non-zero slip velocity. In fact, Navier [42] first proposed a slip velocity, us, for solid surfaces
+in 1823, where he suggested that the shear rate at the wall was proportional to u,. Although
+somewhat different for a solid surface with a heterogeneous three-phase interface, one can extend
+this same idea. For a two-dimensional flow, this is depicted in figure 3a,b and described by
+
+dw
+
+dy
+
+du
+
+Us = hy ay , Us=0 and we=Az , (3.1)
+
+where u, v and w are the velocity components in the streamwise (x), wall-normal (y) and spanwise
+(z) directions, and 4; is the slip length along direction i.

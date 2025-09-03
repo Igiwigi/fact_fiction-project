@@ -1,0 +1,16 @@
+The y variation of W, dW/dy, is of central importance, as it is analytically shown
+to approach a constant on the domain where the leading-order balance solely involves inertial
+terms. In the context of the mean momentum equation, this is the origin of distance-from-the-
+wall scaling that underlies a logarithmic mean velocity profile, and recent empirical studies at
+high Reynolds number support the onset of logarithmic dependence on the inertial domain as
+specified by the present theory (e.g. [5,16]). The features of the theory most relevant to this study relate to the fact that the coordinate
+stretching function, ¢, that yields an invariant form of the mean momentum equation across
+the entire hierarchy of scaling layers is analytically given by ¢ =dy/dW, and thus this scaling
+parameter approaches constancy, ¢ > ¢¢, as the Reynolds number tends to infinity. Indeed, the
+
+
+theory specifies that $7 =1/«, where « is the leading coefficient in the logarithmic mean profile
+equation (i.e. the von Karman constant). By employing a valid but discrete construction of the
+layer hierarchy, Klewicki ef al. [11] show that the quantity ¢2/(¢- + 1) approaches a constant
+a on the inertial domain, and through a number of empirical measures show that a equals
+unity to within a couple of per cent, i.e. within the measurement uncertainty.

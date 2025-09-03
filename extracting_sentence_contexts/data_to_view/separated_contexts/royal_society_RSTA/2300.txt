@@ -1,0 +1,17 @@
+The knowledgebase K disagrees globally if and only
+if S is logically contextual. It disagrees completely if and only if S is strongly contextual. Note that the first part of the proposition reiterates the idea, expressed in §4c, that contextuality
+in an empirical model corresponds to an instance local agreement versus global disagreement.®
+The statement connecting strong contextuality with complete disagreement, on the other hand, is
+a new addition to the theory.
+
+5In fact, the two results coincide, as one can show that the algebra of relational databases is equivalent to the one of Boolean
+potentials via the isomorphism P(X) = 2*.
+
+
+(a) Detecting logical and strong contextuality is an inference problem
+
+Thanks to proposition 6.2 and the results of the previous sections, we can easily translate the
+problem of detecting logical and strong contextuality into inference problems. This aspect is
+particularly important since it allows to apply the numerous efficient algorithms developed by
+the long-established theory of generic inference. The following proposition follows immediately
+from proposition 6.2 and the results of §5b(i),c.

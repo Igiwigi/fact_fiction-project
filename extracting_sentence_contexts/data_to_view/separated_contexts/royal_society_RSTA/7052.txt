@@ -1,0 +1,13 @@
+However, very often in any par-
+ticular calculation there is a particular method which enables the EDSAC to complete the
+calculation quicker than if some general method were used. It is mainly these two general problems which make the task of constructing a programme
+for most calculations quite complicated. If such a programme were going to be used only
+once, in spite of the fact that the EDSAC performs the calculation much more quickly
+than could be done with a desk machine, in many cases it would be doubtful ifit were worth
+while constructing the programme. However, in addition to the speed of the EDSAC,
+there is a second very important advantage: when a programme has once been con-
+structed it is punched on tape, and this tape and copies of it can be used for any number of
+similar calculations with different numerical quantities, thus saving very much time. Thus,
+although the EDSAC was very useful in the calculation of atomic wave functions reported
+
+in this paper, it will be even more effective in future calculations of this type.

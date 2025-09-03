@@ -1,0 +1,9 @@
+The signal arrived at a time when the detectors were behaving well and the noise was
+Gaussian. After matched filtering with the best-fitting template from a library of waveforms that
+incorporate our best understanding of inspiral-and-merger physics [17], the combined amplitude
+signal-to-noise ratio was 24. This is a 240 detection, by this measure, and the probability of a false
+alarm is something like 10-°°, even allowing for the fact that millions of templates would have
+been tested against the data in the search. But the abstract quotes our confidence at something
+like 50. This much more conservative figure comes from the fact that the detector noise is not
+always Gaussian, but is characterized by random ‘glitches’, which are bursts of interference that
+originate mainly within the detector.

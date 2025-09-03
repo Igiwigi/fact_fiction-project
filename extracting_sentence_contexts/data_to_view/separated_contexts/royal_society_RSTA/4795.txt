@@ -1,0 +1,12 @@
+We see
+that the cells occupying quadrants where either (or both) inputs are equal to 1 do not give off light
+(equivalent to an output value of 0); the few cells in the top-right corner that are doing so have
+actually been pushed into that quadrant by other cells. Importantly, we show how a simple change in the definition of a ‘high’ input value (1) can
+switch the circuit's functionality from NOR to NAND. The key to this is the fact that the NOR
+circuit uses a particular molecular concentration to represent 1; by significantly reducing the input
+concentration, the circuit ‘flips’ (without modification into NAND mode (the specifics of how this
+works are beyond the scope of this review paper, but full details are given in [52]). In figure 2
+(top), we see the results of another simulation, this time for the NAND case, in which we can
+clearly see that the only quadrant in which the cells are not ‘on’ is (correctly) the one in which
+both inputs are equal to 1. Figure 4 (adapted from [53]) shows a similar multicellular simulation of a distributed XOR gate
+(comparator).

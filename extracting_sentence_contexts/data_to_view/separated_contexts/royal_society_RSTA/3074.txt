@@ -1,0 +1,7 @@
+I will show that the volume-averaged PDF explicitly depends upon the spatial gradients even
+though those gradients are absent from single-point distributions. In §4, I will perform the
+spatial averaging of the balance laws over finite volumes. That averaging is complicated by the
+nonlinearity of the equations and by the fact that the velocity field is not necessarily smooth on
+length scales of the mean free path. The remarkable result of all these calculations is that the macroscopic equations are precisely
+those derived in [4] by finite-scale coarse-graining of the NSE. In §5, I will describe their relation to
+the regularized Euler equations that form the basis of most numerical simulations of fluid flows.

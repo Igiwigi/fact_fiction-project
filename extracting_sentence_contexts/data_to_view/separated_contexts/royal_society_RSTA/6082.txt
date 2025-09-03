@@ -1,0 +1,32 @@
+Causal emergence as information conversion
+
+Given the evidence that information conversion can occur at macroscales, even in a well-
+understood baseline measure like the mutual information, it is next necessary to establish what
+it means and how it relates to other information-theoretic approaches to emergence. How does
+it play out in measures like the effective information, which was specifically designed to capture
+causal influence and can peak at a macroscale? A hint comes from the already well-established fact that the effective information (EI) changes
+across scales due to a change in determinism and/or degeneracy [8,10,18]. Indeed, it is already
+proven that:
+
+EU(X;Y) = > J P(x, y) logy (seeps) | P(X) =H™, (4.1)
+xEeX yey
+
+
+which differs from the normal mutual information calculation in that P(X) is set to H™**, and can 8 |
+be rewritten as
+
+Effective information = determinism — degeneracy. (4.2) Ss
+
+=
+
+1a
+
+In this interpretation of the effective information, the determinism is based on the information 28.
+
+lost via uncertainty in state transitions:
+determinism = log,(N) — (H(p(y) | P(X) =H™*)). (4.3)
+
+The term log,(N) can be understood as the uncertainty about the future state of a maximally
+entropic system with N unique states. The second term (H(p(y) | P(X) = H™**)) gives the average
+uncertainty about the future state of our real system X (note that this is applied over a single
+timestep, e.g. t to t, 1).

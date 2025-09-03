@@ -1,0 +1,7 @@
+This
+study shows that the method provides accurate results on a series of benchmarked test cases. The present analysis is limited to relatively low Reynolds numbers because of the absence of
+a turbulence model and the high computational cost associated with the present simulations. The simulation cost is due to the fact that none of the structural-dynamics models and the
+coupling algorithm are currently parallelized. However, the use of a thin shell surrounding the
+structure is very attractive to tackle high Reynolds numbers flows, for which boundary-layer
+resolution is critical. Future research will focus on improving the representation of physical
+phenomena in the IS to tackle the aero- and hydrodynamics of offshore wind turbines.

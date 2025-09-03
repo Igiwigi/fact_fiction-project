@@ -1,0 +1,15 @@
+To validate our simulation approach, we compared our esti-
+mates of species richness at equilibrium with those expected for
+point mutation and random fission, given the size of our meta-
+community (Jm=1 million individuals) and per capita
+speciation rates (v). For the point mutation mode of speciation,
+the number of species expected at equilibrium is given by
+Seq = 1+ 6 In(1 + [me — 1]/6) [1], where 6 is the fundamental
+biodiversity number. Under the Moran model with overlapping
+generation, our case, 6 = Jyv/(1 — v), or more exactly (J — 1)v/
+(1 — v), to account for the fact that an offspring could not take
+over the parental cell. Importantly, we do not calculate @ as Hub-
+bell [1] originally did (@=2Jyv), which only applies to the
+Wright—-Fisher model with non-overlapping generations
+[56,57]. For the random fission mode, the number of species
+expected at equilibrium is given by Seq = Juv? [58,59].

@@ -1,0 +1,12 @@
+Here, we traditionally neglect atomic diffusion in the solid. For
+the sake of simplicity, we consider the case of equal thermal diffusivities in both phases. This
+hypothesis does not change the selection criteria given below due to the fact that different thermal
+diffusivities will change the selection constant only. To describe the hydrodynamic flows, we use the linearized Oseen model for a viscous flow
+[4446]
+
+ue _ 1 yp pwvw, V-w=0. (2.10)
+Oz PL
+Here, U is the fluid velocity far from the dendritic surface (see figure 1), p is the pressure, p) is the
+density of the liquid and v is the kinematic viscosity. The convective heat and mass transfer problem (2.1)-(2.10) written out for the case of n-fold
+symmetry of crystal growth enables us to find the generalized solvability criterion, including the
+effects of kinetics and convection for arbitrary Péclet numbers.

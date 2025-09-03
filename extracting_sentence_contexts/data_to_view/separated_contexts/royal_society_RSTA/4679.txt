@@ -1,0 +1,15 @@
+We will refer to this concept as ‘local periodicity’ (figure 3). The identification
+
+
+metallic patches
+
+— > ground plane
+
+Figure 3. Illustration of the local periodicity assumption and geometry for the equivalent problem.
+
+of the local periodic structure is facilitated by the fact that the lattice is often Cartesian and the
+modulation is obtained not changing the local period, but changing the dimension and orientation
+of the elements inside a uniform lattice. In the following, we will refer to a lossless substrate with
+thickness h and relative permittivity er, and to metallic patches arranged on a square lattice of
+period d. The local periodicity assumption allows for the definition of average tangential fields in a
+simple way using a local Floquet-wave (FW) expansion.

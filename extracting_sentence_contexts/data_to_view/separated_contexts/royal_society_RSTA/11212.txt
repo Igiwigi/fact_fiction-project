@@ -1,0 +1,15 @@
+Another plan would be to differentiate the three equations up to any order with
+the hope of determining all the derivatives of the highest order that occur in
+terms of derivatives of lower order. If this were possible, substitution in the
+equations of differential elements such as
+
+dl = adx + hdy + gdz
+
+and suecessive integration would ultimately lead to v. It appears in general, how-
+ever, that relations of interdependence among the equations prevents them from
+
+
+DIFFERENTIAL EQUATIONS OF THE SECOND ORDER, 45
+
+being adequate for the purpose at any stage; the relations are, in fact, satisfied
+conditions of compatibility. This method is, therefore, ineffective. An effective method can, however, be obtained as follows.

@@ -1,0 +1,16 @@
+Introduction
+
+perception, consciousness, probability One motivation for treating neural representations as probabilistic is that neurons
+
+are stochastic devices: identical inputs to identical neurons will inevitably yield
+Author for correspondence: variation in firing patterns. That applies to all neural representation, but there is
+Ned Block a reason to expect perceptual representation, in particular, to be probabilistic
+because, given any activation of a perceptual system, there are many different
+environmental situations with different perceptible properties that could have
+produced it, some more probable than others. The visual system is said to cope
+with these facts by representing many of the possible environmental situations,
+each with a certain probability [1,2]. Perceptual representation of a range of
+environmental situations, each with a certain probability, is what is meant in
+this article by ‘probabilistic representation’. For example, Vul et al. say that’. . . that internal representations are made up of
+multiple simultaneously held hypotheses, each with its own probability of being
+correct...’ [3].

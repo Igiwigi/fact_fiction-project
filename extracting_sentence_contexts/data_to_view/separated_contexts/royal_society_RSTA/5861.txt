@@ -1,0 +1,8 @@
+The challenge is to find a way of computing heat transfer that at the
+same time shows how it can be optimized. We follow the approach of our previous articles on
+maximizing transport across an externally heated fluid layer [43-45], the key difference being
+the presence of the internal source f(x, f). We show it is possible to bound (|VT|), and in fact to
+compute it exactly in the steady case, by a pair of variational problems. These problems recall
+Dirichlet’s principle for Poisson’s equation, but are non-local due to the mixed character of the
+operator u - V — A. That there exists a non-local Dirichlet-like principle for the effective diffusivity
+of a periodic or random fluid flow is well-known in homogenization [46,47].

@@ -1,0 +1,14 @@
+Epochs marked as artefact-corrupted were tagged and, after
+visual inspection, definitively discarded [75]. ‘Bad’ channels identification refers to the detection
+of low-quality EEG signal, frequent unexpected events and presence of high-frequency noise [73]. To this aim, for each channel, we calculated the second-, third- and fourth-central moments and
+identified the ‘bad’ channels as the outliers present in such a three-dimensional space. Good
+channels, in fact, usually cluster together, whereas the bad ones drift apart in different directions
+according to their artefactual nature (for example, channels highly contaminated by the power- =
+line have lower kurtosis than other channels). For each dimension of this space, channels distant :
+more than twice the interquartile range from the cluster centroid were classified as artefactual
+and, after visual inspection, were discarded. nee)
+
+(c) Instantaneous heart rate variability analysis by
+
+The ECG signal was analysed off-line to extract the RR intervals [41]. Firstly, ECG was pre-filtered [3S
+through a moving average filter in order to extract and subtract the baseline.

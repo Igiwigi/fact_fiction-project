@@ -1,0 +1,14 @@
+We recommend
+excellent specific reviews for detailed discussions on the mol-
+ecular biology [23,24], performance and estimated costs
+[25,26], and data analysis [27,28] aspects of scCRNA-seq.
+
+(a) Sampling and preservation additional advantages such as strict filtering of cell doublets
+Sampling strategy is a critical component in capturing the and non-cellular particles (which can be very abundant in
+native transcriptomes of the cells of interest (figure 1a). Ideally, environmental samples). Moreover, in the case of complex
+fresh cells should be isolated and immediately lysed in an communities in the field, FACS can be used to further target
+RNA-stabilizing buffer. However, this is usually not the case, specific cell populations either using intrinsic cell properties
+even in a laboratory setting with model organisms. The time (e.g. presence of pigments) or in combination with staining
+needed for harvesting samples, dissociating them into single (e.g. against specific organelles).
+cells, and isolating cells of interest may affect the RNA compo- A different technology commonly used to isolate single
+sition of the cells.

@@ -1,0 +1,59 @@
+It is also interesting to examine the behaviour of the spatially integrated mineral depletion rate
+in the rock matrix, which is defined as
+
+d x pe
+
+Ri) = Fal | nkCy (x, Z, E)W(x, z, f)dz dx. (3.9)
+dt Jx=o Jz=0
+
+Note that (3.9) assumes an infinitely long fracture and infinitely wide rock matrix. Because the
+
+reaction occurs largely at the reaction front, R(f) can also be expressed as the rate at which mineral
+
+is depleted by reaction front propagation
+
+x¢(t)
+R(t) = < (2 4 Z4(x, nt) : (3.10)
+
+Evaluating the time derivative in (3.10) using the Leibniz rule and (3.7) for x;(t), itis readily shown
+that
+
+RQ)= “Co. (3.11)
+
+The spatially integrated reaction rate R(t) is time invariant because in a semi-infinite system (in
+both x and z), the entire influx of reactive species mass is consumed within the domain at all times
+(after a short initial time as discussed below in the next section). In fact, the constant value of R()
+is simply equal to the reactive power of the inflow solution, where the factor n/m denotes the
+number of moles of W required to react with one mole of C. For a fracture with finite length (L),
+it is readily shown that R(t) is given by (3.11) before the reaction front reaches the end of the
+fracture, i.e. t < t,, where ty, is the time taken by the reaction front to reach the end of the fracture,
+
+given by
+ope" ie
+tL= —. (3.12)
+- ( q Dip
+
+For t > t,, R(t) decreases as the inverse square root of time, according to
+
+R®= en ES (3.13)
+
+
+time= 1.00 2.00 5.00 10.00 year
+
+0 2 4 6 8 10 0 2 4 6 8 10
+x=Ocm x=125cm
+
+Cy/Cq— numerical
+
+WW, —numerical
+
+— — 6,/Cy-analytical
+
+— — WIW,-analytical
+
+time= 1.00 2.00 5.00 10.00 year o time= 1,00 2.00 5.00 10.00 year
+0 2 4 6 8 10 0 2 4 6 8 10
+x=250cm distance (cm) x=375cm distance (cm)
+
+Figure 2. Non-dimensional reacting species concentration (C,,/C)) and mineral molar density (W/W) profiles in the rock
+matrix at different locations (x) along the fracture for case 1.

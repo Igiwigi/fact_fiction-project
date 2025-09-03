@@ -1,0 +1,26 @@
+After discussing TPs and TP-generating
+mechanisms from these perspectives, we revisit the competing mechanisms of TPs and PI and
+argue that this dichotomy has in the past been overblown. Both mechanisms have their place and
+roles to fill in developmental biology; often, indeed, they may be required simultaneously [8]. Furthermore, at a deeper mathematical level we can also show that mathematical models of these
+two mechanisms are in fact closely related.
+
+2. Turing-pattern mechanism
+
+Turing’s original mechanism involves two morphogens, A and B, which act as illustrated in
+figure 1a: local activation (of A by itself, and of B by A via diffusion), followed by lateral inhibition
+(of A by B, again via diffusion).
+
+
+(a)
+
+Gierer—-Meinhardt model
+
+(b)
+
+Figure 1. Representations and manifestations of Turing patterns. (a) The Gierer—Meinhardt model is one of the most widely [SS
+studied systems producing Turing patterns, and it embodies the local auto-activation and lateral inhibition mechanisms that DN
+are the hallmarks of the majority of Turing-pattern mechanisms. (b) An example of a Turing pattern produced by the Gierer— :8
+Meinhardt system; here the two morphogen patterns are in phase, which means the areas of high and low concentrations of 28
+both morphogens coincide. (c) Patterns on snail and sea shells are one of the classical examples of Turing patterns in nature.
+
+(d) Asea shell illustrating the robustness and self-repairing ability of Turing-pattern systems.

@@ -1,0 +1,15 @@
+A combination of these factors will mean that the Stokes-V is probably less accurately
+reproduced than Stokes-I across all inverted profiles in the data, thus, resulting in a smaller
+R? value. It should be noted, that it is not advisable to make direct comparisons here between the R?
+values between the 1000G and 1600G simulations, to determine which case is more accurately
+reproduced by the inversion algorithm. The reason why this is not possible, is due to the fact
+that the two have different numbers of frames and, therefore, a different total number of spectra
+from which these parameters are obtained. Therefore, the 1600G R? value may be artificially
+higher in comparison to the 1000 G value purely for the fact that there are less measurements and
+potentially fewer outliers than the 1000G data. This would imply that the algorithm performs
+better in returning the synthetic spectra for the 1600G simulations, but that is not necessarily
+
+R=1 (3.1)
+
+
+the case.

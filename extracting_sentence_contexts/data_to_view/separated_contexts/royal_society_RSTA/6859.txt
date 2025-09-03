@@ -1,0 +1,10 @@
+The form of the difference correction to be added to equation
+(B.1) to make it a more accurate representation of the differential equation is also ascer-
+tained. First, however, some explanation is required of the difficulty experienced by computers
+in applying relaxation methods to the set of simultaneous equations typified by (B. 1). The
+difficulties are undoubtedly real, and arise from the fact that these equations, particularly
+when a large number is involved, are of the type called ‘ill-conditioned’. Substantial
+changes can be made in the unknowns without altering appreciably the residuals, and great
+care is therefore needed to obtain accurate results. The phenomenon is well known to computers who solve linear equations by direct methods,
+and to users of standard iterative procedures, but appears to have received little attention
+from workers in relaxation methods.

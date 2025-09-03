@@ -1,0 +1,23 @@
+Thus, for example, if the lar value decomposition, but now with a much stronger
+neural representations of the odour stimuli used in the Tse dependence on the strength of the singular values: the rate of
+et al. experiments were approximately orthogonal high-dimen- acquisition of each dimension is now proportional to the
+sional vectors, then this input representation would be a useful square of the singular value as reflected in the exponential
+way of modelling how they function as input to a deep neural terms in the revised learning dynamics equation below
+network that maps them onto a structured system of internal 25t/r
+representations of corresponding places in an arena. a(t) = =. (2.3)
+The second case we consider is one in which the patterns erst + (si/a;(0) — 1)
+correspond to vectors that may have some degree of corre- Thus, for example, a dimension 5 times stronger than another = >
+lation, or similarity, to each other. Such correlations will would be learned in 1/25 of the time required to learn the =
+induce a tendency for what is learned about one input to weaker dimension. This is reflected in the fact that the learning =~
+transfer to similar items, and this is likely to be helpful if, as curves for the stronger dimensions are much steeper in the auto- =
+is often the case, items that appear similar share other charac- associative case than in the case with one-hot inputs, as canbe 5
+teristics, or if the very same item appears slightly differently seen by comparing the top and bottom panels of figure 6. a
+to the senses on different occasions. The situation can be In summary, while details of the dynamics of learning =
+more problematic if similar items must be mapped to comple- depend on details of the neural network architecture, the  &
+tely different outputs, as could be the case if, for example, two training patterns, and the formulation of the learning task,
+very similar flavours in the Tse et al. experiment had to be the general characteristics of the time course of learning we &
+mapped to two distinct places in the environment. The observed with the analytically tractable deep linear network =
+theory can address the effects of such correlations (and can cap- are conserved under a wide range of variations, supporting ©
+ture differences in strength of input activations, capturing the view that the patterns of learning we have observed in 3
+aspects of differences among features in their perceptual our deep linear network are relevant to understanding learn-
+salience) as long as the set of patterns to be mapped to distinct ing in a wider range of cases.

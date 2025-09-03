@@ -1,0 +1,11 @@
+It has been pointed out in a
+series of papers that the applicability of KdV as a model for tsunami wave propagation should
+be questioned; see the discussions in [1,2,33,34]. The main argument is that the balance between
+nonlinearity and dispersion as embodied by KdV would occur at time and length scales which
+cannot be realized on Earth. Our analysis in §4 for gkdV shows that the inclusion of Coriolis
+effects in the model does not alter this fact. The discussion in §4 shows, however, that gBouss, which was derived in near-field variables
+as opposed to the far-field variables used for gKdV, may be an appropriate model to study
+tsunami wave propagation, because the relevant distances required for the near-field balance are
+
+more realistic. Our derivation is based on the f-plane approximation, which is applicable in the : =
+context of tsunami waves near the Equator.

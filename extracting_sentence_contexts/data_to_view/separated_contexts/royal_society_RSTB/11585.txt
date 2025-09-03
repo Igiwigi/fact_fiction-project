@@ -1,0 +1,14 @@
+From its inception, OpenWorm has incorporated best ming and crawling. This version of the visualization is currently
+practices from the software industry, including unit testing, being incorporated into the OpenWorm simulation stack above
+across all of the diverse sub-projects, especially PyYOpenWorm in order to allow users to examine intermediate levels of the
+[47]. Examples of unit tests used by OpenWorm include verify- simulation (see [20], this issue, for visual examples.)
+
+ing that entries can be added to and removed from the
+PyOpenWorm database, that every biological fact such as ion
+channel parameters have associated PubMed identifiers and
+that functions implement error handling correctly. As a scientific research project that incorporates dynamic
+models, another class of tests crucial to our effort are model vali-
+dation tests. In contrast to simple unit tests, which verify that a
+discrete piece of code has the correct behaviour, model validation
+tests verify that the output of an entire dynamic model corre-
+sponds to known behaviour from the academic literature.

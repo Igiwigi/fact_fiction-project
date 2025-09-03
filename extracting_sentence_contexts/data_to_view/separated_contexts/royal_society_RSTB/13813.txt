@@ -1,0 +1,18 @@
+This assump- are smaller (lower carrying capacity), allowing the large-
+tion clearly breaks down close to transition thresholds (e.g. population state to persist despite higher levels of migration
+see figure 2e,f); thus, thresholds observed in simulations may on such islands. Finally, the third threshold m,3, which sig-
+differ somewhat from semi-deterministic predictions (details nals the emergence of a migration-dependent low-load state
+in the electronic supplementary material, appendix B). More- (at large 2LU) is also highly sensitive to the demographic
+over, the semi-deterministic analysis neglects all effects of migration, and becomes unrealistically high in the
+demographic stochasticity, and thus does not account for the large K limit, where increasing migration can only shift
+fact that changes in K will affect not just the (systematic) demo- allele frequencies but has little effect on population numbers
+graphic effect of migration but also the (stochastic) effect of (relative to carrying capacity).
+demographic fluctuations. Nevertheless, the semi-determinis- A comparison of the top and bottom rows in figure 3,
+tic analysis is useful as it allows us to explore qualitative which correspond respectively to h=0.02 and h=0.1, shows
+dependencies of critical thresholds on the underlying that as deleterious alleles become less recessive (larger h), the
+parameters without resorting to time-consuming simulations. parameter regime in which increasing migration eliminates
+Figure 3a,c show the critical selection thresholds Ks, (as in the large-population equilibrium shrinks drastically, and only
+figure 1a) and Ks. versus the scaled mutation target 2LU = emerges for very high genome-wide mutation rates—with
+2L(u/ro) for the two values of h, for various carrying h=0.1, the second threshold Ks, exists only for 2LU = 0.8
+capacities (with Ks, Ku, 2LU=2L(u/ro) held constant, as K in figure 3c. This is consistent with the fact that purging of
+is varied).

@@ -1,0 +1,8 @@
+The above results shows that for any y € Hx, the magnitude of its Fourier transform |F[y]()|
+decays exponential fast as || > oo and the speed of decay increases with 2. Analogous results
+exist for the case of Matérn kernels [21]. A fundamental property of GPR schemes is the fact that one can obtain a priori estimates for the
+accuracy of the surrogate model. In particular, for the case of GPR schemes, we have the following
+error estimate:
+
+Proposition 2.3 (Stuart & Teckentrup [22], proposition 3.5). Suppose that 9(x) and k(x, x’) are given
+by the GPR scheme (2.5).

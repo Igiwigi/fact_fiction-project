@@ -1,0 +1,12 @@
+In addition, the term also robot refines its skills before being released into the real
+includes research dubbed ‘evo-devo’ which considers robots world. Furthermore, robots that fail to attain a defined
+that can change their morphology over the course of their life- level of learning are removed from the system and do not
+time [17]. In this article, we only discuss work that falls into participate further in the evolutionary cycle.
+the former category, in that artificial evolution produces a Eiben and Hart further expand on the role of the learning
+robot body whose controller can adapt over a lifetime phase in [21], arguing that it is in fact essential, particularly if
+owing to individual or cultural learning mechanisms, but evolving directly in hardware. In the extreme case where
+whose body remains fixed during this period. there is a complete mis-match between the number and
+In order to develop a system that can achieve this in prac- type of sensors and actuators of parents and that of their off-
+tice, evolution should act on a population whose individuals spring, any inherited neural controller is not likely to be
+have a genome that encodes the information required to gen- usable, as the network will have an incorrect structure, i.e.
+erate both morphology and control. However, this notion an incorrect number of inputs and outputs.

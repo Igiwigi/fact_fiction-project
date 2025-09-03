@@ -1,0 +1,16 @@
+J. G. LEATHEM ON SOME APPLICATIONS OF
+
+At the outset something of a suggestion might seem to be found in consideration
+of the fact that, if the intrinsic equation of a curve in the z plane is y = F(s), the
+vectorial element of are dz is the same as ds exp (ix) or ds exp {iF (s)}, where i as
+usual represents ,/(—1). From this it appears that the transformation
+
+dz = f’ (w) exp [iF {f(w)}] dw,
+
+where F and fare functions having real values for all real values of their arguments,
+makes the real axis in the w plane correspond to a curve in the z plane whose intrinsic
+equation is x = F(s), the relation between w and s being s =f(w), where f is
+an arbitrary function. But transformations of this type, though they settle the
+correspondence of prescribed boundaries, offer no guarantee against zeros, infinities
+or singularities at points where w is not real, and so do not necessarily give conformal
+representation.

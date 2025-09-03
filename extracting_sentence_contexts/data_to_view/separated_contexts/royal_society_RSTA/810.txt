@@ -1,0 +1,18 @@
+The efficiency factor kg must then be
+close to unity, and the gravitational waves are then principally sourced by the scalar field gradient
+energy.
+
+(b) Acoustic waves
+
+For a general thermal phase transition, the initial collisional phase is short-lived; furthermore, the
+scalar field gradient energy scales only as the surface area of the bubbles rather than the volume. A
+more significant and long-lasting source of gravitational waves is produced by expanding sound
+shells in the fluid kinetic energy after the bubbles have collided. In fact, for non-ultrarelativistic fluid flows, it is straightforward to obtain the gravitational
+wave power spectrum from acoustic waves through a convolution of the fluid velocity power [65],
+
+
+and, in turn, this can be derived from a fluid profile obtained through the methods discussed
+earlier [66]. However, there is incomplete agreement with the fluid velocity power spectrum
+observed in simulations, perhaps due to the analytical work of Hindmarsh [66] not modelling
+the initial collisions of the fluid profiles. We therefore concentrate for the time being on results
+derived from recent very-large-scale simulations [59].

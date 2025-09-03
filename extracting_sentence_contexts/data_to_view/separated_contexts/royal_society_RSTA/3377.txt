@@ -1,0 +1,57 @@
+Indeed, arguably such coarse-grainings are the basis of all sciences
+that concern phenomena at higher scales than quantum chromodynamics. This kind of coarse-graining, made by us scientists
+when we decide how to model a physical system, is not directly related to the kind of statistical physics coarse-graining
+considered in this appendix. So the drop in entropy in the copy process is
+
+S(X | n°) — S(X’ | n!) =log[P@*’ | n)] — log[P(x | n°)] (A4)
+N N-k
+=log (vane . ) ~ log (aren . ) . (A5)
+Using Stirling’s formula to lowest order, we can approximate this drop in entropy as
+c
+Nlog[N] — (N — b)logN — k] + )> n'( login" ()] — n°@ log[n().- (A 6)
+
+i=1
+
+If we take N > k, then we can approximate the first two terms by expanding to lowest order in
+k/N, where we obtain
+
+Nlog[N] — (N — K)log[N — kK] =N log[N] — (N — k) (iostn1 + log [! - x})
+
+~ klog[N] + (N — ox (A7)
+=klog[N] +K(1- x): (A8)
+
+If we also take each (i) >> v(i), the remaining terms can be similarly approximated as
+
+Cc *
+~ YF v() login] — v) (1 “@ ) (A9)
+i=1
+
+~ n0(i)
+and the total entropy change can be approximated as
+
+Cc
+
+klog[N] +k (1 - x) =) r@log(n)] - vi) (1 _ 0 )
+
+SF n9(i)
+=hlog(N] —k~ > ui log[n°(i i
+=klog[N] — k5 — > vf) login] + v)
+
+i=l
+
+v(i)
+“ ‘A 10
+n(i) 6 )
+where we have used the fact that }°; v(i) =k. In the limit where the bath becomes large, i.e. k/N > 0, v(i)/n°(i) — 0 for all i. This gives our
+final answer that the total entropy is approximately
+
+Cc Cc
+klog[N] — ) > v(i) login] = — D> vA) logla®(i)], (A 11)
+i=1 i=1
+where
+ni)
+
+ai) =
+
+(A 12)
+is the fraction of amino acids of type i that are actually in the pre-copy bath.

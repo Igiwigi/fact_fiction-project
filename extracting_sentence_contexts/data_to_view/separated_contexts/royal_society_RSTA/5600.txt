@@ -1,0 +1,18 @@
+Clearly, such artificial viscosity misses much of the structure of the actual viscosity in (3.25). For instance it misses the estimate (3.5). In fact smooth solutions of (3.25) satisfy the stronger
+identity
+
+that ¢= aoe 3 is the typical length of the latest correction, vy would have to be Kolmogorov’s
+
+ug! : ug! 2 |ug\?
+4 + div > +P Ug | + Vq|Dugl =A. (3.26)
+
+As remarked in [75], if uq converges strongly in L? to some u, then the latter would be a weak
+solution of incompressible Euler which satisfies the local energy inequality
+
+2 2
+lth saw (SE +9)x) <0 @27
+
+3This is in fact not fully correct since the proof of theorem 3.5 does not achieve the threshold } but rather gets ¢ close to it for
+every positive e. This suggests a stronger form of the Onsager conjecture, where the dissipative solution is required
+to satisfy (3.27). The first such examples in the literature were given in [22], but the solutions in
+[22] were only bounded.

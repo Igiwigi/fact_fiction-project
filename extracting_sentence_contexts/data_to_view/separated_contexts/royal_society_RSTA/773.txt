@@ -1,0 +1,15 @@
+With the approach imagined here, we can state a much more usable property, composing
+race-free and concurrency-feature-restricted component P with a context that is not restricted, C,
+while maintaining the ability to reason about P using SC verification tools. We call this property
+component SC,
+
+[P-C]c++ E [Plsc # [C]o++-
+
+Component SC strengthens the memory model that underlies P, so that with some adaptation
+we may now use SC logics like CoLoSL [32] for validating properties of P. In fact, there is a range
+of state-of-the-art concurrent logics with weaker underlying memory models (e.g. OGRA [33],
+RSL [34], FSL [35], GPS [36]). Our imagined denotational approach allows one to choose the ideal
+model for each component: strong enough to use a less intricate logic, yet weak enough to admit
+a high-performance implementation.
+
+6.

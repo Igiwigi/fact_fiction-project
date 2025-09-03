@@ -1,0 +1,8 @@
+In this set-up, the length of the dopant section is not constrained as in the example
+shown in §2b. Therefore, it is expected to have continuous injection at the back of the cavity until
+the accelerating fields are fully saturated. In fact, this effect is observed in the simulation for the
+electrons ionized from the second level of helium. However, due to the cavity elongation during
+the focusing, these electrons are being trapped behind the previously injected beam, and, thus,
+they do not overlap time nor influence the quality of the primarily injected beam. Figure 5b shows
+the combined longitudinal phase space of the driver and the injected electrons, after 1.8mm of
+propagation.

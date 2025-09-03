@@ -1,0 +1,18 @@
+Consequently,
+T* can be chosen bigger than T, and so we obtain (3.45) with T* replaced by T.
+
+(iii) Limit in the entropy equality
+
+Let us analyze the limit of (3.24) as n > +00 for each term. The strong convergence of #” and
+V0", see (3.14) and (3.33), implies that n” > n and Vn" > Vn a.e. in Q. Thanks to the definition of
+n", and the a priori bound (3.8), we obtain a uniform bound for ||7"||L"(q) for any 1 € (1, +00) and
+for || Vn" ||,2(Q)- These facts, the Vitali convergence theorem and (3.2) allow us, up to subsequence,
+to easily pass to the limit on the left-hand side of (3.24). To pass to the limit also in terms on the right-hand side, we use (3.10), (3.11), (3.14), (3.23)
+and (3.45) combined with the Lebesgue dominated convergence theorem and together with the
+minimum principle for 0". Consequently, n satisfies entropy equation (2.11).
+
+
+(c) Continuity of 2 in time
+
+Finally, we focus on the attainment of initial conditions and continuity with respect to
+time variable.

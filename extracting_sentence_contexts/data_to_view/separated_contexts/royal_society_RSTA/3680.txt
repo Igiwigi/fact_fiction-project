@@ -1,0 +1,9 @@
+For TM 50, the model and experiment substantially disagree, although the
+observed diffusivity shows the same trends as the other experiments, increasing quickly at high
+¢. These differences could suggest additional, or non-DLVO, interactions. The modified Carnahan-Starling equation proposed by Peppin, Elliot and Worster ([9, eqn 17]
+matched asymptotic solution between Carnahan-Starling at low ¢ and molecular dynamics
+simulations at high ¢) does also turn back upwards at large volume fractions, and in fact diverges
+near random close packing (¢ = 0.64). However, if this compressibility factor, Zp, is used in place
+of equation (2.15), there is no noticeable difference in the response below about ¢ = 0.60, as
+demonstrated by the dashed line in figure 8a. It cannot account for the observed increase in the
+effective diffusivity of the colloidal particles in the range of ¢ = 0.4 to 0.6.

@@ -1,0 +1,11 @@
+Figure 1 shows examples of the extracted supports of the SWT
+curves corresponding to the ECG and respiration first harmonics. The advantage of using SWT for phase and frequency extraction over the more commonly
+used marked events (MEs) method is that one obtains phase and frequency values at the same
+sampling frequency as the signal, whereas the ME method gives values only at particular points
+(e.g. peaks). Thus, the effective sampling frequency of the characteristics extracted by MEs is,
+in fact, the (time-varying) frequency at which the MEs occur, i.e. the reciprocal of the current
+interpeak interval (usually around 1 Hz for ECG and 0.25 Hz for respiration); all other values,
+obtained by interpolation to match the original sampling frequency, are unphysical. Note that heart activity is sometimes modelled through use of the integral pulse frequency
+modulation (IPFM) model [42] which, in effect, assumes that only the R-peak positions in the ECG
+are informative. Within this framework, much effort has been directed towards the reconstruction
+of instantaneous heart frequency (IHF), treated as the input signal.

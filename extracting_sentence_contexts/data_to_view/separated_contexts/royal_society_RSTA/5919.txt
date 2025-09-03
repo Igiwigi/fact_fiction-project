@@ -1,0 +1,44 @@
+A
+computation of the area of the 2-torus T? gives an identity to be satisfied by the Jacobian:
+Jao dx dy = 4n2 = Jae I(t; Xo, Yo) dXo dYo, or in terms of averages:
+
+U(t))o=1, (4.9)
+
+where (f)9 denotes an average over the ‘label’ variables Xo, Yo. Noticing that J is positive as long
+as there is no blowup, we can interpret J(t; Xo, Yo) as a probability density on the 2-torus. From the fact that V;, - u, = —y we readily obtain an evolution equation for J:
+
+J; X0,Yo) _
+
+t
+Te Xo, Yo) XOXO.) => It Xo, Yo) = exp (- I, v(X(8), ¥(s),8) as) ,
+
+0
+and using equation (4.7) we get J(t; Xo, Yo) = [A(#) (1 + (A + 1)y0(Xo, Yo) Jo(1/A(s)*) ds)" V/A),
+Finally, replacing this solution into condition (4.9) and defining the increasing function
+
+_ ra —peypyy-1/2
+s= | ae => A(t)=[SH], (4.10)
+
+we get a remarkable first-order ODE for S(t):
+
+. = Q+1)\ 2CFD
+50 -([ +a+Dn(950)] , $(0)=0. (a1)
+0
+Once the solution of this ODE is found, then A(t) can be obtained and so the basic fields y, w can be
+found explicitly along the pathlines. This ODE contains all the needed information to determine
+whether a blowup occurs in a finite time. The initial data for w plays no role.
+
+
+(c) Singularity time and blowup asymptotics
+
+Combining equations (4.7) and (4.8) with equation (4.10) we obtain y and along the pathlines
+in terms of S(t):
+
+S(t)yo(Xo, Yo) 1 Si)
+y (X(t), Y(t), #) T+0+ DX, Yos 2040 (4.12)
+and
+1/Q+1)
+o(X(P), Y(B, #) = @o(Xo, Yo) [- +O+ a wn] . (4.13)
+
+A singularity occurs at the first time T, when 1 + (A + 1)yo(Xo, Yo)S(T) = 0 for some (Xo, Yo) € T2,
+because $ > 0.

@@ -1,0 +1,10 @@
+One frequently touted advantage of XML is the availability of schemata for
+data validation. In practice, though, we have found this to be of negligible use—
+indeed, frequently, we find the use of schemata more of a hindrance than a
+help, mitigating directly against the levels of extensibility needed for wholesale
+data interoperability. The ability to use ad hoc extensions—in fact, the ability to design and implement
+XML dialects and languages on the fly, with varying levels of formality—is a great
+part of the attraction of XML to the eScience worker. Interoperability is enhanced
+rather than hindered by the ability to embed application-specific data, and to
+tailor XML dialects to their domain of use. Regardless of formal schemata, languages conform to implied rules if tools
+can meaningfully process the data.

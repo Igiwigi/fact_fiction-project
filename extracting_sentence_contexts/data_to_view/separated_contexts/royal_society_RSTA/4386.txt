@@ -1,0 +1,21 @@
+In doing so, they calculated the so-called
+flow enhancement factor, which is defined as the ratio of the measured flux to the theoretical flux
+calculated by the Hagen-Poiseuille equation. The flow enhancement factor has previously been
+used to quantify flow enhancement in CNT membrane pores resulting from slip flow of water at
+the hydrophobic CNT surface [34] and, more recently, has been adopted to describe anomalously
+fast permeance by graphene-based membranes [6,11,18]. Acknowledging the fact that fluid flow
+in these nano-capillaries may not conform to continuum mechanics, we similarly compare our
+experimental results to the theoretical value. Following the procedure first employed by Nair et al.
+[18] for GO/RGO membranes, the theoretical water permeance through RGO nano-channels can
+be estimated by using the classical solution to the Navier-Stokes equation for viscous, laminar
+volumetric flux through a channel comprising parallel plates (i.e. RGO sheets):
+
+IPLAP
+
+Q= 12na
+
+(3.1)
+
+Here / is the interlayer (channel) spacing between graphene sheets, L is the lateral size of a
+GO/RGO sheet, a is the effective length of the channel, 7 is the solvent viscosity (0.001 Pas for
+water) and AP is the driving pressure between the ends of the length of the pore/channel.

@@ -1,0 +1,11 @@
+Systems can be validated for correspondence to key goals
+and requirements. In safety-critical applications, software systems are presented together with
+assurance cases, documents that are meant to convince a sceptical expert that the system operates
+as intended, and which detail the steps taken to assure fidelity of the system to its stated
+goals [28,29]. Further, this analysis holds the focus of review away from the logic of processing
+itself and maintains attention on the important question of why the logic in use is the best
+solution to the problem at hand (further, it opens to review the question of whether the problem
+being attacked is in fact the problem that should have been considered or whether the measures
+of success employed to refine requirements caused a focus on the wrong questions) [14]. We
+refer to this as a kind of intensional understanding, borrowing a term from formal logic where
+an intensional definition of a collection is a rule for inclusion in or exclusion from the collection. SThis is in contrast to extensional definitions of a collection, which simply list all elements of the collection.

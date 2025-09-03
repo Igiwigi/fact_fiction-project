@@ -1,0 +1,7 @@
+In our paper, we explored two archetypal systems used widely in the literature to test
+methods for community detection in complex networks. In particular, we found that our method
+is useful to detect communities in sparse networks such as the metabolic network discussed
+above. In fact we found that weighting dissimilarities perform better than several of the methods
+recently published [8-18]. An analysis of larger networks would offer further insights into the
+dissimilarity’s performance; however, such an analysis is outside the scope of this work and is left
+for a future publication. However, we analysed a number of different networks.

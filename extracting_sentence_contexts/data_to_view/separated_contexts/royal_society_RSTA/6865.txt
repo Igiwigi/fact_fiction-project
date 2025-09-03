@@ -1,0 +1,15 @@
+An equation of the type (A. 6) is to be satisfied
+at every internal point, and for mesh points adjacent to the boundary some of the w’s in the
+equation take the given boundary values.* The procedure is then to obtain an approximate
+solution to the differential equation by neglecting A and solving by relaxation methods the
+set of simultaneous equations. The function is then differenced in both directions, approxi-
+mations to A computed and inserted as new residuals, and the process is repeated until the
+full finite-difference equations are satisfied. When the boundaries are curved one or more of the points involved in the equation
+(A. 6), applied at mesh points adjacent to the boundary, is a so-called ‘fictitious’ point lying
+outside the boundary. The procedure here is to obtain an expression for this external value
+in terms of the known boundary value and values at internal points, using the Gregory-
+Newton formula of interpolation (involving forward or backward differences) and retaining
+all significant differences. Equations for mesh points adjacent to the boundary can therefore
+
+be obtained which involve no external points, but which are rather more complicated than
+the general equation.

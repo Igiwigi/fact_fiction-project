@@ -1,0 +1,23 @@
+This may be seen qualitatively by considering a film which is thick compared
+with the characteristic absorption thickness; the majority of the radiation is absorbed at
+the surface of such a film, the rest of the film acting only as a conductor in parallel and
+
+
+PHOTOCONDUCTIVITY IN INFRA-RED REGION OF SPECTRUM 565
+
+thus decreasing the overall responsivity. This problem will be discussed in more detail in
+the following part (Simpson); it is sufficient here to mention that dV/d/ is maximum for
+a film of vanishing thickness. The practical problem of the optimum thickness is, however,
+further complicated by the fact that the noise necessarily increases as the linear dimensions
+are decreased, so that it is not profitable to decrease the thickness beyond a certain limit. Although the responsivity is the first important characteristic of any detector, at low
+intensities of illumination, the noise is equally important. Noise may arise from three main
+sources:
+
+(1) Johnson noise, controlled by the resistance and temperature of the film
+¢,= (4k TRAS)*.
+
+(2) Current noise, ¢,, which is generally lower at high frequencies, and increases as
+some unknown positive power of the current.
+
+(3) Radiation noise, 43, due to statistical fluctuations in the radiation field to which the
+detector is exposed and dependent only on the temperature.

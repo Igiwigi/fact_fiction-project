@@ -1,0 +1,7 @@
+However, when seen as environments for automatically finding solutions, these languages pose
+several challenges. Firstly, given a solution in progress, there is often an infinite number of next
+steps that are valid (we dissect the reasons for this in §4). This fact implies that agents cannot
+learn by choosing actions from a list of valid options—they need to generate their own actions. This is typically accomplished by first learning a generative model of likely solution steps from
+human-written proofs [16,19]. However, there are little—if any—data from students writing their
+solutions in existing theorem-proving languages.” Therefore, we wish to proceed without this
+dependency.

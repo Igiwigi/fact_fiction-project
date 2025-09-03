@@ -1,0 +1,7 @@
+In
+describing the transition dynamics in terms of a Markov chain in figure 5, we rely on standard
+assumptions of the AMS algorithm, stated by Cérou eft al. [8, p. 12]. The time T.45 + Ts.4 is the mean non-reactive time. This is the mean time for trajectories starting
+from within A to return to A, conditioned on the fact that they reach S. Similarly, Tas +Tsp is
+the mean reactive time for trajectories starting from within A to reach B, conditioned on the fact
+that they do not return to A. Neither the reactive time nor the non-reactive time is particularly
+large.

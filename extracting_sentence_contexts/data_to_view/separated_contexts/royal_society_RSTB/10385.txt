@@ -1,0 +1,13 @@
+Third, learn- regularities, then—as in our model—representations of
+ing in our model does not make use of overt reactivation of associated items should be present during the initial pass
+transitive associates (electronic supplementary material, through the hippocampus, prior to activity spreading from
+figure S4). Relationships are uncovered implicitly as a result deep to superficial layers of EC. Depending on the specific
+of the fact that patterns with shared features tend to adopt implementation of the mechanism (which has yet to be
+overlapping neural substrates in CA1. In other words, AB instantiated in a neural network model), the TSP may or
+and BC become associated not because BC brought AB to may not be required for retrieval after learning is complete.
+mind, but simply because AB and BC share B. Speculatively, However, in any implementation, the TSP would be required
+the rapid and overt reinstatement required for integrative for encoding the integrated representations, and so lesions to
+encoding is perhaps more likely to occur in situations the TSP should disrupt learning.
+where pair encoding is made an explicit task requirement, To summarize the two key predictions/differences: (i) if
+as is the case in many associative inference but not statistical the learner is relying on recurrence or integrative encoding,
+learning studies.

@@ -1,0 +1,14 @@
+Most of these forces display short-range singularities which
+are, in principle, a source of concern for the LB representation. However, for deformable particles, such singularities are allegedly regulated at the scale
+defined by the typical deformation length of the droplet, namely
+
+DZ
+
+6~
+E’
+
+where ¥ is the normal stress and E is the Young modulus of the droplet. In fact, most formal coarse-graining procedures would turn the singular lubrication force
+F(g) ~ 1/g into a smoothed version F5(g), recovering the 1/¢ decay at large separations g/5 >> 1
+and turning into a constant of order 1/6 in the short-range limit g/5 « 1. It is important to note that, regardless of the details of the coarse-graining procedure, for
+droplet diameters of the order of D ~ 100 1m, a mere 10% relative deformation implies 6 ~ 10 1m,
+hence well within the mesoscale regime suitable for LB modelling. Figure 2.

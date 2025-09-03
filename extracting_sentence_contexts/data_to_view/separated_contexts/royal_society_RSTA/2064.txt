@@ -1,0 +1,11 @@
+In the early work on extended
+thermodynamics, the fluxes of conserved quantities have been chosen as additional variables,
+and also fluxes of fluxes and even higher fluxes. Over time, two schools have emerged (see the
+article by Jou in this theme issue), nowadays known as rational extended thermodynamics (RET)
+[9] and extended irreversible thermodynamics (EIT) [10]. The restriction to the conserved quantities and fluxes appearing in balance equations as
+variables is motivated by the fact that their convection behaviour is well-understood so that
+one can focus entirely on the irreversible processes, which are usually associated with entropy
+production. Convection conserves entropy, and guaranteeing the non-negativity of entropy
+production by irreversible processes is a central element of any framework of nonequilibrium
+thermodynamics. The use of more general structural variables became possible by the generalization of
+convection in terms of Hamiltonian dynamics with degenerate Poisson brackets.

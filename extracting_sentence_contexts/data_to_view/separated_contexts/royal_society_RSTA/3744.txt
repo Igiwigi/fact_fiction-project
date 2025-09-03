@@ -1,0 +1,17 @@
+In our derivation, a quantitative distinction between the coherent
+and incoherent parts is made with the help of a triple decomposition, while a dynamic mode
+
+
+decomposition (DMD) of a large-scale DNS database is used to extract phase-averaged (coherent) 3 |
+structures and their temporal dynamics. We employ the triple decomposition, introduced by Reynolds & Hussain [6], in which 3
+a turbulent field u is divided into a time-averaged (i), a phase-averaged, coherent (i), : o
+and a random, incoherent (u’') component. The phase-averaged component is defined by :<
+the fact that the background turbulence is eliminated and only the organized motion is : Zs
+retained—mathematically expressed by (u)=i+u where (.) denotes the phase-averaging : a
+
+operator. Relations resulting from this decomposition, which will prove advantageous in the
+derivation below, include (u’) = 0, confirming the random nature of the background turbulence,
+and iw’ = (iw) =0, showing that the background turbulence w’ and the organized wave
+
+motion it are statistically uncorrelated. In the above, the overbar-operator * indicates a long- 8
+time average.

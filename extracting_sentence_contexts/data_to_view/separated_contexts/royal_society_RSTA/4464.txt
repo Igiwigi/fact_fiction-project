@@ -1,0 +1,5 @@
+The parameters 53, s and tr
+represent, respectively, the effects of TOD, SST and IRS. The L.h.s. of equation (2.4) contains conservative terms. In fact, except for the quintic-order term
+we recover the nonlinear Schrédinger equation. While on the r.h.s., the terms related to 6, €, uw and
+B are dissipative, the H.O.E. include only conservative terms. In particular, it is straightforward
+to check that f |w|2 dr does not change its value because of TOD, SST or IRS.

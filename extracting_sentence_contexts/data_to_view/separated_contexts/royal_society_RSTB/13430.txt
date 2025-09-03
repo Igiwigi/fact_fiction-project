@@ -1,0 +1,25 @@
+For instance, ASMODEE could be
+useful for detecting new hotspots of Ebola cases in large-scale
+epidemics such as the West-African Ebola outbreak [37,38] or
+the more recent one in North Kivu/Ituri, Democratic Republic
+of the Congo [26,39]. In a different context, it could complement
+existing systems for tracking nosocomial outbreaks of norovirus
+at a national level [40], to help identify wards or hospitals with a
+sudden increase of cases that would warrant prompt interven-
+tion. The fact that ASMODEE is model-agnostic and can
+include additional predictors beyond time grants the method
+flexibility to accommodate additional factors impacting inci-
+dence, such as changes in data quality, surveillance or testing
+capacity. For instance, changes in testing capacity could be
+accounted for by including the daily numbers of tests as a
+covariate in candidate models, so that any detected departure
+from past trends would indeed reflect changes in transmission,
+and not testing. Similarly, periods of disrupted surveillance, e.g.
+due to heightened insecurity [26], could be accounted for
+by including the presence or absence of disruption as an
+additional predictor.
+
+(b) Detection of flare-ups of COVID-19 cases in England
+Looking at the particular case of Leicester in June 2020, we see
+that increase signals are consistently triggered for reference
+dates ranging from 10 to 22 June (figure 4).

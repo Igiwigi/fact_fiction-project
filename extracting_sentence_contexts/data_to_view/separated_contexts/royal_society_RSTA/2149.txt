@@ -1,0 +1,19 @@
+Hardy & Ramanujan [3] stunned the mathematical community with their proof of their
+asymptotic formula. Theorem 1.1 (Hardy-Ramanujan, 1918). As 1 — +00, we have
+
+ae et Vm
+4nV3 ‘
+
+In fact, Hardy and Ramanujan proved a much stronger result than this asymptotic. They
+showed that p(7) can be approximated by means of a divergent series, sharpening the asymptotic
+in theorem 1.1. Specifically, they showed that there is a sum of similar terms such that for some
+constant C,
+
+p(n) ~
+
+Cn
+p(n) = Y> Ej(n) +O @)., (1.2)
+j=l
+
+Here, E,(n) ~ (1/(4nV3)) -e7¥2"/5 is the main term, and the later terms have similar
+asymptotics but for exponentials with smaller multiples of ./n.

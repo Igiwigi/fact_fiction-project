@@ -1,0 +1,4 @@
+This function is equal to zero at t=0 and Laplace transform of this function exists. Substituting its Laplace transform ¢(X,s) = (1/s,/s)~w(x), into equation (A 38), leads to (g2(s) —
+G1(s)) = Js, but /3 cannot by a Laplace transform of any function (hence, the necessary condition
+is not satisfied). This fact proves that the equality (A 38) is valid only if w(x) =0. Hence, (¢2(s) —
+G1(s)) =0 > G2(s) = G1(s) > ¢1(t) = ¢2(). It means that equation (A 37) has a unique solution.

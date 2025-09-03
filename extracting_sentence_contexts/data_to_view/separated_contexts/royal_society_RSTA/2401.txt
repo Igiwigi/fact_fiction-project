@@ -1,0 +1,8 @@
+The equivalence between an LE and FP description
+is at the heart of that development. Following the approach of Budini & Caceres, one of the present authors has shown in [29]
+the importance of constructing joint-probability distribution functions (PDF) to represent non-
+Markov stochastic processes compared to Markov cases. The joint probability distribution is
+in fact necessary to construct the conditional probability distribution, which is the bona fide
+representation of the random process. Following on from ref. [30], an FP representation for the
+one-time and two-time PDF has been developed to construct the conditional PDF for a DLE [31]. Despite these recent findings for linear non-Markov systems, the formulation of an FP
+description of nonlinear, non-Markov processes remains an open problem.

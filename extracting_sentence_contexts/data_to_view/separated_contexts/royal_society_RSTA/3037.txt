@@ -1,0 +1,8 @@
+This means that the product of
+the standard deviation of the amplitude quadrature and the standard deviation of the phase
+quadrature is minimized, i.e. (here) equal to 1. It is actually more common to quantify the
+uncertainty of a variable X in terms of its variance A?X, which is the square of the standard
+deviation AX. For a coherent state, the size of the variance of the amplitude and the phase
+quadrature is identical, shown by the fact that the uncertainty distribution is spherically
+symmetric. This is somewhat of a special case. The product of the variances of two non-commuting variables can be larger than or equal
+to 1, but never smaller.

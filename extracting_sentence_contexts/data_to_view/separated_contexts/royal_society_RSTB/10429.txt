@@ -1,0 +1,28 @@
+Contrary to pre- with high infective doses do not kill or subvert professional
+dictions, we found no significant relationship between immune cells leading to a higher probability of recovery
+virulence and whether a parasite species is (i) capable of sub- from infection [12].
+verting the immune system or not (electronic supplementary We also found that parasites that cooperatively control their
+material, figure S2a and table S3, PMCMC = 0.27); (ii) a facul- production of virulence factors (quorum-sensing controlled
+tative or obligate parasite (electronic supplementary material, virulence factors) have higher infective doses (figure 3d; elec-
+figure S2b and table S3, pMCMC = 0.23); (iii) using quorum tronic supplementary material, table S5, pMCMC = 0.008)
+sensing to control virulence factor expression (electronic sup- and grow significantly faster (electronic supplementary
+plementary material, figure S2c and table S3, pMCMC = material, figure S3b and table S5, pMCMC = 0.05) than para-
+0.43); or (iv) motile or not (electronic supplementary material, sites that do not. This seems logical if we consider that
+figure S2d and table S3, PMCMC = 0.19). quorum sensing is dependent on population density and so
+
+is likely most effective when infective dose is high and/or
+when parasites reproduce quickly. Together with the fact that
+
+(d) Infective dose and virulence fast growth is correlated with low virulence (figure 1), this
+We previously found that the number of cells required to suc- suggests that quorum-sensing parasites may be less virulent,
+cessfully infect a host (infective dose) was significantly perhaps because their coordinated production of virulence
+negatively correlated with virulence [41], a pattern that we factors avoids unnecessary host damage [29,32,33].
+find again in this extended dataset (figure 3a; electronic sup-
+plementary material, table S5, PMCMC < 0.001). Our current
+results suggest that this is because (i) infective dose is posi- (e) Insights and conclusions
+tively correlated with parasite growth (figure 3b; electronic In general, there have been only a limited number of formal
+supplementary material, table S5, pMCMC = 0.02)—this is comparative studies attempting to explain virulence across
+a phylogenetic correlation suggesting that infective dose a number of pathogen species [20,26,41,54—56]. An important
+and parasite growth have coevolved over evolutionary time; exception is Herre’s [20] work on fig wasp nematodes, which
+but (ii) faster growing parasites are less virulent (figure 1, showed higher virulence in species where there was a higher
+electronic supplementary material, table Sl pMCMC = chance of transmission.

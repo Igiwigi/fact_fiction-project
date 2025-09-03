@@ -1,0 +1,15 @@
+The mean seasonal cycle of the ice extent from the CMIP5 models is compared to the observations (in bold).
+
+variant of MF-DFA called multifractal temporally weighted detrended fluctuation analysis (MF-
+TW-DFA), which exploits the intuition that points closer in time are more likely to be related
+than points distant in time, providing a clearer signature of long time scales present in a time
+series [23]. The detailed algorithm for MF-TW-DFA can be found in ([10,24,25] and references
+therein) and this is the approach we use to analyse and compare the EIE (without a seasonal
+cycle) from AR5 models to that from the satellite observations. Because of the fact that there
+are no a priori assumptions made regarding the physical processes in the system, this method
+has also been used to explain the dynamics of Arctic sea-ice velocity fields [24], and to detect
+exoplanets [25] and their atmospheres [26]. We note again that when the seasonal cycle is not
+removed from the sea-ice data multifractality is inhibited and hence all the time scales longer than
+annual are masked, which leads to erroneous interpretation of data or model output as obeying
+an AR-1 process. The fluctuations in a time series are quantified with respect to a smooth profile, defined as
+the cumulative sum produced by time-weighting the data.

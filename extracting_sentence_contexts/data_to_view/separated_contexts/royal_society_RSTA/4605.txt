@@ -1,0 +1,10 @@
+These norm differences, one for each supercell, are compared (in Ly
+or Lo), to give an overall norm of the difference of PDF/CDF. We find convergence or converging
+trends under mesh refinement, with the order of convergence depending on the supercell size. From this fact, we conclude that the primary error is related to the statistical sample size as an
+approximation to the PDF/CDE, rather than being mesh related. These facts are illustrated with a
+table extracted from Kaman et al. [17] (table 1).
+
+5. An application programming interface for front tracking
+
+Having argued that FT/LES/SGS has desirable properties for the study of turbulent mixing, we
+turn to the question of the availability of this technology to others.

@@ -1,0 +1,18 @@
+It should be noted that, while we
+are conceptually exploring the entire search tree, in practice it is not necessary to explore every
+pathway as described above, as algorithmic implementations including branch and bound, and
+other techniques, can reduce the computational burden.
+
+(c) Choice of substructures
+
+The choice of the basic substructures depends on the context of the desired complexity. For
+example, if we are establishing the complexity of the word ‘banana’, then we could select the set
+of unique structures {b, a, n}, where the complexity is relative to all other words that can be made
+from those three letters. In fact, we could reasonably extend this set to include all letters of the
+English language plus punctuation, so we could then compare the complexities of any arbitrary
+phrase in any language using that alphabet. For a chessboard, natural units to choose would be
+
+
+{black square, white square}, and the complexity would then be relative to all patterns that can
+be made of black and white squares. In selecting the set of basic subunits, we need to consider the class of objects that we are
+comparing.

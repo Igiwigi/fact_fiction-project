@@ -1,0 +1,8 @@
+The first part is the usual quadratic form described by a matrix which
+has Green and Robin functions as its entries. The second part is a quadratic form which gives the
+energy of circulating flows beyond those which are already present in the Green function. The
+problem is that there is a non-trivial interaction between the two parts of the Hamiltonian, due to
+the fact that the electrostatic-type Green function we are working with does not respect the Kelvin
+Law. As the poles (vortices) move the global circulations implicit in the Green function change,
+and that has to be compensated by the second term in the Hamiltonian. One could imagine replacing the electrostatic Green function by a hydrodynamic Green
+function, like in the multiply connected planar case.

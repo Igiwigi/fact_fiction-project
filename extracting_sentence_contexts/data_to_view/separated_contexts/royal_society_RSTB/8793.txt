@@ -1,0 +1,10 @@
+As the figure makes clear, relates to the representation of environmental state. When
+the ability to ‘try out’ these subgoal-oriented options, alongside planning using a primitive-level model, it is necessary to
+primitive one-step actions, yields a dramatic reduction in keep track of the current (projected) situation at each step
+planning time. of a candidate action sequence. Depending on the problem
+This effect stems from the fact that options structure the domain, this can require tracking detailed features of the
+agent’s search among candidate behaviours, guiding that environment that may not be important at the level of the
+search into channels that fit well with the organization of overall plan. For example, a detailed simulation of the activity
+the problem domain (see [20]). This pay-off is precisely analo- of preparing pasta would require maintaining an explicit
+gous to the one gained by adding temporal abstraction to record of factors such as whether the sink tap is running,
+model-free RL [10].

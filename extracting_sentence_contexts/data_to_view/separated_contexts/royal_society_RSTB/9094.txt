@@ -1,0 +1,18 @@
+In vector grammars, such cases can be dealt with by assign-
+ing ‘near’ a vector in between the cluster of prepositions
+and the cluster of adjectives. In computational linguistics, vector grammars (which
+have a close relation to neural networks models of linguistic
+structure from the 1990s [150,151]) are experiencing a new
+wave of excitement following some successes with learning
+such grammars from data for practical natural language pro-
+cessing tasks [152-155]. These successes are due not only to
+the ability to represent gradedness but also (and perhaps
+more so) to the fact that models with continuous values
+allow gradual learning procedures (in these papers, the pro-
+cedure is ‘backpropagation through structure’ [156]). While vector grammars have, to the best of our knowledge,
+not been applied yet to music and animal vocalizations, we
+expect that they offer much potential in these fields. Efforts to
+apply symbolic grammars in these domains often encounter
+difficulties with dealing with phenomena that seem funda-
+mentally continuous in nature, such as loudness and pitch
+variation, beat, etc.

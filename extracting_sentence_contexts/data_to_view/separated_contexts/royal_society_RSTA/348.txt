@@ -1,0 +1,9 @@
+If you consider measurements of masses that have the average of 1kg with an approximately
+Gaussian distribution and a standard deviation of 0.1kg, it is completely meaningless to use the
+‘non-negativity’ of that data. On the other hand, if one computes quantities such as (Fourier)
+spectra, or histograms, non-negativity may be an important aspect of the data [88] because values
+in high-dimensional spectra and histograms are often concentrated near zero. In some cases, such non-negativity constraints in fact enable estimation of the model [89,90]
+without any assumptions on non-Gaussianity. However, the conditions are not often fullfilled,
+and in practice, the performance of the methods can be poor. That is why it has been proposed
+to combine non-negativity with non-Gaussianity, in particular the widespread form of non-
+Gaussianity called sparseness [91].

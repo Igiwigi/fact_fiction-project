@@ -1,0 +1,22 @@
+If (4.16) holds, there exists a
+nuclear self-adjoint operator Quo, given by
+
+0
+Qoox =| &AQe" yds, xEX, (4.17)
+0
+
+which maps D(A*) into D(A) and satisfies the identity (called Lyapunov equation)
+QxA*x + AQnx=—-Qx, xe D(A*). (4.18)
+
+Such identity is easily obtained recalling that (Qoo e'4"x, e!4” y) = —(Qoox, y) — (Qrx,y) for every x,
+y €X. Indeed, taking x, y € D(A*), differentiating in time and taking t =0, we get (Qn0A*x,y) +
+(Qoox, A*y) = (Qx, y) and (4.18) follows by the density of D(A*). Moreover, the Gaussian measure [19 :=No,g,, is invariant for T(f), namely
+
+[TFC usolee) =] f0) wold), > 0, fe.
+xX xX
+
+In fact, it is possible to show that (4.16) holds iff there exists a probability invariant measure for
+T(t) iff there exists a self-adjoint non-negative nuclear operator P mapping D(A‘) into D(A) and
+such that PA*x + APx = —Qx for every x € D(A*) (which is equivalent to 2(PA*x,x) + (Qx,x) =0
+for every x € D(A*)). Moreover, any invariant measure is given by v x [1o, v being a probability
+invariant measure for the semigroup R(t) defined by R(f)f(x) = f(elAx) (e.g. [26], [7, Thm. 11.17]). So, if R(t) has no invariant measure except 69, foo is the unique invariant measure for T(t).

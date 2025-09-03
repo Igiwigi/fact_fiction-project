@@ -1,0 +1,18 @@
+It was not until 1920 that Gauss’ proof was completed.’
+
+
+e Let me quote several momentous statements chosen at random from the 1821 Cours
+d’analyse by Cauchy [8], where he ‘set the foundation of rigour’ for modern Analysis:
+‘Each continuous function is differentiable almost everywhere’, ‘The sum of a convergent
+series of continuous functions is itself continuous’, ‘A function of several variables,
+continuous in each variable is continuous’, ‘Any essential singularity is a pole’. Browsing this textbook for a few minutes, you will easily find dozens of similar
+statements, ‘accompanied by complete and detailed proofs.’ (Of course, I know Lakatos’s
+objections [9] that Cauchy made no mistakes, but was arguing in terms of non-standard
+Analysis. Iam not convinced, since most early authors praise Cauchy precisely for getting
+rid of infinitesimals.)
+
+In fact, Cauchy was notorious for making really bad mistakes (as Abel sarcastically puts it: ‘It
+appears to me that Cauchy’s theorems suffer exceptions’). Especially in Algebra, he made quite
+outrageous claims, accompanied by several dozen pages of computational proofs by obfuscation. We skip the famous Lamé-Cauchy case, where Cauchy persisted in publishing his ‘proof’
+of the unique factorization for cyclotomic integers long after being confronted by Kummer’s
+counterexamples [10].

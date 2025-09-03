@@ -1,0 +1,50 @@
+Noting this, the free-boundary problem may then be reformulated as a linear elliptic problem
+for y coupled with a nonlinear boundary condition at the free boundary, given by
+
+Aw =0 for (x,z)E2
+
+w=0 onz=n(x)
+Wooo asz—>-—0oo (3.11)
+
+and | wyP+z=0 on z= n(x).
+28
+
+The nonlinear boundary condition is a reformulation of the Bernoulli condition (restricted to the
+free surface), given by
+u? + w? P-—Pa
+2g 2
+which is interpreted as a form of energy conservation throughout the closure of the fluid domain
+2. The constant Q is the hydraulic head, and the reader is referred to [8,15,33] for further
+discussion of its physical significance.
+
+=Q for (x,z)€2, (3.12)
+
+(ii) The velocity potential
+
+Irrotationality of the flow ensures the velocity field u may be written in terms of a velocity
+potential y, according to
+
+Gx=uU-—c, g=w (3.13)
+and again the fact that the flow is both irrotational and incompressible also ensures the velocity
+potential is harmonic in the interior of the fluid domain. Integrating, we find that the velocity
+potential may be written according to
+
+p(x, Z) =|. (u(L,z) — c) dl + I. w(x, s) ds, (3.14)
+
+Xo zo
+where the integration constant is chosen such that $(0,z) = 0. The 4A—periodicity of the vector field
+also ensures
+
+Q(x +A,Z) = V(x, Z) — cA. (3.15)
+(iii) The conformal mapping
+
+Introducing the variables
+q=—9(%,2) and p=—wW(x,2), (3.16)
+the hodograph transform given by
+
+H:Q2—> i)
+(3.17)
+
+and 1: (x, 2) > (q,p)
+
+is a conformal mapping (in the interior) of the fluid domain onto a fixed boundary domain.

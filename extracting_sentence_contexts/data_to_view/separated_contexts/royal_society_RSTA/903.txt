@@ -1,0 +1,9 @@
+All that is needed in practice
+is that the record made in the apparatus (e.g. the position of its pointer) must be ‘repeatably
+accessible’. Frequently, one does not care about repeated measurements of the quantum system
+(which may even be destroyed in the measurement process). Axiom (iii) captures in fact the
+whole idea of a record—it has to persist in spite of being read, copied, etc. So one can impose
+the requirement of repeatability at the macroscopic level of an apparatus pointer with a much
+better physical justification than Dirac did for the microscopic measured system. The proof of §3
+then goes through essentially as before, but the details (and how far one can take the argument)
+depend on specific settings.

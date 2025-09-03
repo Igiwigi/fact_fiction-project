@@ -1,0 +1,12 @@
+The mean rank of the
+distribution (figure 5b) of the literature network shows an degree of the core triad is higher than for ARACNE, reflecting
+
+approximately linear decrease in the log—log-plot. Contrary a less central place of these TFs in the network.
+to this, the predicted networks show a marked deviation Finally, the network predicted by the clr_mi algorithm
+from a linear degree distribution for the highest degrees. The shows the most pronounced modular structure with groups
+linear degree distribution of the literature network up to the of nodes that have high connectivity among themselves but
+highest degrees is reflected by the fact that the most important low connectivity with outside nodes. The modular structure
+nodes, Nanog and Pou5df1, are involved in 50% of all inter- is reflected in the highest modularity index of all predicted
+actions. Their targets typically have no interactions among networks as well as the highest transitivity and degree corre-
+
+themselves, leading to a star-like structure centered on lation.

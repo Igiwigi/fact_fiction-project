@@ -1,0 +1,25 @@
+Ideally, one would wish to use a detector array as the imaging detector; however, until
+recently the cumulative noise of such arrays was too high to measure reliably the position of a
+
+
+(a) ; ~ (b) ; ~~
+
+bucket
+
+bucket
+detector
+detector jcc
+object object
+uv uv
+camera camera
+position-correlated momentum-
+photon pairs anticorrelated
+upright image Photon pairs inverted image
+Figure 2. Ghost imaging systems can be configured to take advantage of either the position (a) or momentum (6) correlations : &
+inherent in SPDC. The fact that one can do either is a manifestation of EPR-type correlations. a
+>
+yy
+single photon within the field of view. One contribution from our groups [12,14,15] has been to 1B
+use an intensified camera to do exactly this. By reducing the gate time of the intensifier such that =
+the gain is large only for the instant of the photon arrival, it is possible to reduce the number Da
+of dark events to far fewer than one dark event per frame.

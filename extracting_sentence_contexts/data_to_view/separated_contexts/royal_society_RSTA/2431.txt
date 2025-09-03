@@ -1,0 +1,53 @@
+This gives the HCM-based multiple access approach a huge flexibility advantage
+as the code size can be adaptively changed without disrupting existing connections.
+
+(i) System performance for an ideal channel
+
+It is informative to examine the ideal channel case to understand the system limitations when the
+transmission bandwidth is larger than needed for the symbol rate used. The decoded vector in
+this case can be rewritten as
+
+rp ~ e
+v= witht Naip, (2.7)
+where r represents the clipping coefficient that describes the power loss due to clipping. Using the
+
+fact that x can be modelled as approximately Gaussian, the clipping coefficient, r, can be calculated
+from the Bussgang theorem [21] using
+
+00 2
+aE [ xg(x) wo (- @= Oe (= He) )ax
+
+—p +2, 2P,
+B+2Pmax) ogo B+ 2P max) | (2.8)
+
+68203)/N V0e6?e3y/N
+
+where erfe(x) = (2/,/7) [°° exp (—u?) du. The effective noise vectors after the IFWHT operation are denoted as n= (n/N)(H}, - Ay)
+
+1
+=1- <= |erfc
+
+and clip = (Naip /N)(H}, - Ay) in (2.7). oF represents the variance of dy. Therefore, after HCM
+
+
+demodulation at the receiver, the bit error rate for the kth user using M-PAM HCM for non-
+dispersive channels can be approximately calculated from [22] as
+
+BER, © , (2.9)
+
+Me=1 ote 3 Pp
+2Mx logy Mx J2(MB - 1) N(of + 033;
+
+which is a standard approximation of the BER for M-PAM.
+
+(ii) System performance for a dispersive channel
+
+A dispersive channel introduces ISI between HCM symbols and interchip interference (IChI)
+within the codewords; in this paper we ignore the ISI, assuming a large enough N is used to make
+the interference between adjacent symbols relatively small. (If not, a cyclic prefix or guard-time
+between symbols can be used as in OFDM.) The received signal vector after the IFWHT operation
+can be represented as in [12],
+
+- - \2d-1 B ._ .
+v=rf (Hy — Hy) F(Hy — Hy) tg tit Reip, (2.10)
+where F= >, h[¢]I and 1 represents the ¢th right cyclic-shifts of the identity matrix.

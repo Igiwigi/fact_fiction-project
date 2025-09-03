@@ -1,0 +1,11 @@
+Carja et al. [169] also and use fixation probability as a fitness measure instead of
+show that these ES rates all decrease with increasing rates of invasion fitness [107,172-175]. Assumption (v) is more diffi-
+recombination between the major and modifier loci (see fig. cult to relax since doing so allows multiple mutants to
+S5 in [169]). This can be understood as owing to the fact occur at a time. Analysis of such multi-mutant invasions is
+that the strength of indirect selection at the modifier locus beyond the scope of the mathematical tools typically used
+decreases as increased recombination erodes linkage disequi- in evolutionary analysis. One potential route forward for
+librium between the major and modifier loci. such analyses might be to follow Luo and Cooney who
+
+used non-local integro-differential partial differential
+equations to study the evolution of cooperation via multilevel
+selection [47,176-179].

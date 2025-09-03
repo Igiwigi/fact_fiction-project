@@ -1,0 +1,18 @@
+We here recap
+some of the basic properties that have been investigated so far:
+
+— Global-local coherence. Coherence of the aggregate field computations in a distributed
+execution is maintained for field calculus by tracking which nbr operations align with
+one another, meaning that they are part of the same aggregate operation and should
+share information via the field output by nbr. Determining alignment has a number
+of subtleties stemming from the fact that execution may proceed differently on different
+devices, and that any given function may be called multiple times. As a consequence, two
+neighbouring devices may each evaluate a single nbr statement in the code many times,
+with some of these evaluations aligning and sharing information, while others do not
+align and remain isolated. Alignment is thus the local implementation of the aggregate
+notion of a field’s domain, and the key to ensuring a provable relationship between
+
+“In fact, it is sufficient to track only the values supplied to nbr operations and the context of those operations.
+
+
+aggregate specification and local implementation.

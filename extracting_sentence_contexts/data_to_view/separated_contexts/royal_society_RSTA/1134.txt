@@ -1,0 +1,12 @@
+Usually, the LSA is used to determine the linear
+stability properties of a given numerical scheme for uniform base flows and assuming a periodic
+simulation domain. To further include the impact of boundary conditions or grid mesh refinement
+techniques, one must use more complicated methods [55,56]. In the CFD community, the LSA
+is most commonly called a von Neumann (or Fourier) analysis owing to the fact that von
+Neumann was among the first to study the linear stability of numerical schemes used to solve
+partial differential equations [57]. Even if this analysis cannot quantify the impact of nonlinear
+(de)stabilization mechanisms, it is a mandatory step to assess the good behaviour of a numerical
+scheme in terms of both accuracy and robustness [57,58]. When it comes to the LBM community,
+
+despite the tremendous number of numerical validations of collision models that have been : =
+published up to now, only a few of them rely on the LSA [7-9,11,16,59-78].

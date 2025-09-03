@@ -1,0 +1,29 @@
+As we have seen throughout this article, ‘the data’ cannot be reduced to something as simple
+as the matrix condition number. For CG, the nonlinear adaptation to the data is the main principle
+
+
+behind the method; this is the beauty of Krylov subspace methods. This was appreciated early on
+by Lanczos and Einstein, who corresponded on the topic of the Lanczos method [4]:7
+
+The reason why I am strongly drawn to such approximation mathematics problems is
+not the practical applicability of the solution, but rather the fact that a very ‘economical’
+solution is possible only when it is very ‘adequate’. To obtain a solution in very few steps
+means nearly always that one has found a way that does justice to the inner nature of the
+problem.
+
+— Cornelius Lanczos in a letter to Albert Einstein on 9 March 1947
+
+Your remark on the importance of adapted approximation methods makes very good
+sense to me, and I am convinced that this is a fruitful mathematical aspect, and not just
+a utilitarian one.
+
+— Einstein’s reply to Lanczos on 18 March 1947
+
+Equating the (nonlinear) convergence of CG with the (linear) contraction bound based on
+condition number completely loses any notion of the adaptivity behind the method.§
+
+The complex, nonlinear, data-dependent behaviour of Krylov subspace methods, combined
+with the effect of rounding errors, makes efficient use of such methods seem daunting. Software
+libraries which provide implementations of algorithms for such iterative methods often provide
+little or (usually) no documentation describing important aspects of numerical behaviour, leaving
+the user blindly guessing at the best approach.

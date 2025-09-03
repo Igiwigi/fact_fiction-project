@@ -1,0 +1,8 @@
+Modifications in RDGE and CINE are algebraically synonymous with the CICE6 baseline, but
+slightly alter the numerics of the continuity and momentum equations, respectively. The KSNO
+case results in a Category III climate change owing to the model’s strong sensitivity to the
+thermal conductivity of snow [43]. In fact, we define any parameter change in an existing CICE
+configuration as a Category III change that would first be detected during maintenance of the code
+repository, rather than by the 2SPT and QSC tests. Nevertheless, KSNO serves as a benchmark
+against which RDGE and C1NE may be compared. We seek to answer three questions using the RDGE-C1NE-KSNO suite: First, are the combined
+2SPT and QSC tests sufficiently sensitive to differentiate Category I, II and III code modifications?

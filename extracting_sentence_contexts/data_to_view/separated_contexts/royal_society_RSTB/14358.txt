@@ -1,0 +1,11 @@
+First, the lower-dimensional projections of each only randomly related to the sensory inputs occurring to
+modality must share an intrinsic internal metrics so that the agent. In the same way, the representations in the internal
+regions in the space of one modality can be related to regions space from which the policies are generated are randomly
+in the space of another modality. Second, a function must be related to the policies that are in fact executed by the agent.
+found to relate patterns in different modalities with each The agent thus starts with internal representations that are
+other so that sensory inputs that are associated with a specific meaningless at first. Importantly, however, as long as sub-
+motor programme are represented in the same region of the sequent sensory states are detected, despite the agent’s
+internal space. The two requirements can be merged by initial random behaviour (which here amounts to selecting
+assuming that the projections of all modalities lie in the a policy among those currently available) the internal rep-
+same lower-dimensional inner space and, consequently, by resentations of the different sensory modalities will move
+observing that the relationship between motor programmes within the inner space.

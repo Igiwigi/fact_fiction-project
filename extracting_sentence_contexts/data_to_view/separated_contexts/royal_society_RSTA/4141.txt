@@ -1,0 +1,36 @@
+This mental two-step process is indistinguishable from the
+actual one’ [12]. Measuring A of an ensemble for the system created in state a’ is then naturally
+symbolized by Ala’) = |a’)a’ and |a')A =a’ |a’). One then finds that these symbols behave as a set of vectors dual to each other and to the
+measurement symbols, because it is natural to their interpretation that both
+
+(a |a") =8(a',0") (3.7)
+
+and
+
+Yia’ya'=1, (3.8)
+
+the first by virtue of the fact that a’ and a” are different and the latter because all possible
+measurements are considered. Thus, one has for them both orthonormality and completeness,
+providing the basis for a geometry of states. One finds an explicit expression for the property A in
+terms of states by multiplying by the corresponding destruction symbols (a’| and summing over
+all values of a’:
+
+A=>o laa. (3.9)
+
+Schwinger points out that the physical property A is characterized by the possible results of its
+measurement (the numbers a’) and by the symbols of creation and annihilation of a system in the
+states labelled by those results, a’, so that one also has for any function f(A) of A,
+
+FA)= SO la yfaya’. (3.10)
+
+
+Returning to the consideration of successive measurements, first the creation of a state b’ and
+then its being measured for A in some way (symbolized by M(A)), will yield that M(A) |b’) has
+the effect of the destruction of the b’ state:
+
+(b'|M(A)|b’). (3.11)
+
+By starting with a measurement that accepts no systems, then one state, two states and so on
+through increasingly less selective measurements—tecalling that this involves summing over
+selective measurement symbols—one sees that the resulting quantities, which can be written in
+the form p(a’, b’), are candidates for probabilities.

@@ -1,0 +1,17 @@
+Extensive studies we : Ss
+have performed in recent years show that molecular dynamics systems indeed exhibit extreme : =
+sensitivity to initial conditions [46-49]. From our investigations, we observe that the properties :8
+one computes from molecular dynamics trajectories appear superficially to be described by a [3
+Gaussian random process (GRP) with a normal distribution denoted by N(u,07), characterized : 3
+by average p and standard deviation o (the square root of the variance in the data). Note, : Ss
+however, that a normal distribution cannot be assumed and in fact there are frequently significant : =
+deviations from such statistics in nonlinear dynamical systems of which molecular dynamics is “8
+
+an excellent example [50]. In a recent study, for example, the effect of box size on simulations of protein dynamics in
+water was reported [51]; the authors reported that calculated values of various properties, such
+as the stabilities of the unliganded and liganded states of human haemoglobin and the density
+or number of hydrogen bonds per water molecule, changed systematically with an increase in
+box size; the authors maintained that a surprisingly large box of 150 A was required to obtain
+meaningful results. Although at first sight, this dependency on the box size appears to be an
+example of a systematic error in the simulation, it is in fact caused by a lack of reproducibility in
+the study which becomes manifest when random errors are taken into account [52].

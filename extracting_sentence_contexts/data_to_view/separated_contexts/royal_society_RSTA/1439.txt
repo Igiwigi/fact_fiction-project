@@ -1,0 +1,12 @@
+Yet it often is the temporal behaviour that one is really interested in, and that
+behaviour is not extended by adopting larger computers of this nature, or by making the problem
+physically larger. Since the scientific problems of interest usually have time scales which scale
+as a nonlinear function of the volume of the system under investigation, each temporal update
+requires more wall clock time for larger physical problems. This is in fact a recipe for disaster: we
+are not getting closer to studying large space and long time behaviour with monolithic codes’. We
+consider this to be a cogent argument to suggest that monolithic codes could be the exception on
+exascale machines, as weak scaling may not produce the desired results. If so, we should invest
+in developing other scenarios, including high-performance multiscale computing, or scenarios
+where monolithic codes (or coupled multiscale codes for that matter) are repeated over and over
+again in ensembles, e.g. in parameter sweeping scenarios or for uncertainty quantification (see
+also Portegies Zwart, who recently made a similar argument [27]).

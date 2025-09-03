@@ -1,0 +1,13 @@
+For instance, if the true causal structure
+is x-u—w for some (possibly unobserved) confounding
+factor u, then w covaries with x, and thus the derivative
+dw/dx is usually non-zero, as we noted above. But the causal
+derivative 6w/Sx is zero everywhere, for there is no directed
+path from x to w. This reflects the fact that one cannot change
+the fitness value by intervening on x in this case (for their func-
+tional relationship is spurious). We will return to this topic at
+the end of this article. The quantitative nature of each cause-effect relationship is
+modelled by a structural equation that determines the value of
+the effect variable from those of its parents, such that x;=
+fi PA()), uj), where PA(x;) is the set of all parents of x; and 1;
+is an unmodelled error term.

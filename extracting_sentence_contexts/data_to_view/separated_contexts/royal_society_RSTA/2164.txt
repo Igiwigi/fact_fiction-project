@@ -1,0 +1,31 @@
+Applications and the future of the mock theta functions
+
+Addressing Dyson’s claim, the future is here, and if Watson, who called the mock theta functions
+(and himself) old-fashioned, only knew to what lengths Ramanujan’s mock theta functions would
+travel over the course of the next 100 years. In the remaining sections, we discuss some modern
+generalizations and applications of the results described in the previous sections surrounding the
+mock theta functions. In particular, in §3(d), we discuss applications to topology, and state and
+prove a new interpretation of the right-hand sides of the radial limits in theorems 2.3 and 2.4.
+
+(a) Radial limits of universal mock theta functions
+
+As a companion to a function studied by Hickerson (sometimes denoted by g3(w; q)), Gordon and
+McIntosh defined the universal mock theta function [25]
+
+oo _ ae n(n+1)/2
+g0(w;q) = > 2
+mp Ui Dn OW" Dnt
+
+This function is so named due to the fact that all of Ramanujan’s mock theta functions can be
+expressed in terms of linear combinations of specializations of gz and ordinary modular forms. Extending results from [21], some of which are discussed above, Rhoades [26] asked if one could
+similarly explicitly determine modular forms f,p,4,p,n,k in a uniform way such that go(cfq4 ; q® )-
+fa,b,A,B,h,k(9) is bounded as q > gf radially from within the unit disc, and subsequently find finite
+
+
+formulae for these radial limits. These questions were answered by Bringmann & Rolen [27] in
+2015, who determined modular forms f,,p,4,8,1,k Such that
+
+Qa,b,A,B hk = Him (ga(6p q):9°) — fa ABhk(Q))
+qk
+
+is bounded as q > ot radially from within the unit disc.

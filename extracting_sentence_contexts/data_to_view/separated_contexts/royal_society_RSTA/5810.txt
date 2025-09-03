@@ -1,0 +1,46 @@
+Choice of the cubes. We set f = |vpe Li (R), which clearly entails My = Illi. ): We : 8
+
+set a)
+
+fy) dy, :o
+
+1
+A(x) = —— :
+= 3.0 Joa 3
+
+where we denote by Q,(x) the cube of side-length r > 0 centred at x € 4, and we set [8
+
+D={xeR!: lim A,(x) =f(x)}. :g
+
+By the Lebesgue differentiation theorem, we have |R4 \ D|=0. The assumption that / is not a
+constant function translates into f #0, which in turn guarantees the existence of 5 > 0 and of a
+bounded set D c D, with |D| > 0, such that
+
+VxeED, E] tim Ar(a) =f(x)>5>0.
+r
+
+This means that, for every x € D, there exists 7; > 0 with the property
+
+| f(y) dy = ow yOer<iy.
+(x) 2
+
++
+
+We can therefore iteratively pick a monotonic sequence {A} satisfying
+O<An<e™", dn 10, (3.4)
+
+and choose the centres x; € D of the cubes in such a way that the cubes Q7,,, (x) are disjoint and,
+setting Q; = Q),,(%n), we have
+
+Mn>Cat?, vn. (3.5)
+
+The existence of the sequences {x;} and {A,} as above is guaranteed by the fact that we can
+inductively choose x; and 4, > 0 (small enough) to have
+
+P\Uent >0, Yn.
+
+k=1
+
+The fact that D has been chosen to be bounded guarantees that {x;,} can be chosen to be a
+convergent sequence and {Q7;,,(%n)} to be contained in a bounded set. We conclude that {Qn}
+is our desired sequence of cubes. Step 3.

@@ -1,0 +1,19 @@
+Further embedding region is driven by the differential responses of
+evolution in ecological thinking would allow greater the five plant functional types within the model. An
+appreciation of the relationship between biological interesting observation is that ED2’s predictions for cer-
+processes at the individual level and the population, tain parameters begins to drop off in the highest
+community or ecosystem results of these processes. If latitudes, probably because of the fact that the domi-
+novel environmental change imposes selection pressures nant late-successional tree in this region is not found
+that cause the components of an ecological system to in the site used for parametrization, raising the possi-
+evolve and if this evolutionary process affects the way bility that additional functional types may be need to
+that system functions, then evolution cannot be ignored. be added to the model the further it is extended away
+
+Despite the desirability of including evolution in from the area from which its parameters are derived.
+ecological models, the most successful group of | ED2 uses size- and age-structured partial differential
+process-based models in ecology—the terrestrial bio- equations to approximate the first moment behaviour
+sphere models do not do so [27-31]. This may be of a stochastic individual-based model [27,36]. The
+due to the fact that their raison d’étre is to predict process of using such an approximation makes
+changes in the forest community and so even though the model more computationally tractable but means
+they have long simulated run times—typically 1000 that information is lost about individual heterogeneities.
+years, the organisms within them also have long gener- Clark et al. [37] argue that as it is individuals rather
+ation times.

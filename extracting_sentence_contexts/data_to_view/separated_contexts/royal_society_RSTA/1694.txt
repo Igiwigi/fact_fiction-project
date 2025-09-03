@@ -1,0 +1,5 @@
+The operator B ¢ £(U, X_1) is called an admissible control operator for A (or
+(A, B) is admissible) if for some fo > 0 we have #;,u € X for any u € L?(Rt, U). In what follows, we assume that (A,B) is admissible. In this case, the closed graph theorem
+shows, in fact, that
+
+, € C(LP(R*,U),X),  VE=0. Hence x(t) € X for any f> 0 and u € LP(Rt, U). The first obstacle is that the map t+> Mx(t) is not well defined as D(M) =Z Cc X and x(t) € X.

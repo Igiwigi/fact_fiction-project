@@ -1,0 +1,123 @@
+It is nevertheless natural to wonder at what order the effect of curvature is felt as h > 0. a
+As our upper and lower bounds on the leading-order correction (the scaling of min E, — min Fo :=
+with respect to h) do not match, our results are consistent with the possibility that curvature effects :8
+might play a role at this order. As for the length scale of wrinkling, while our results show that eae
+it is approximately constant (this is required to get the correct leading-order behaviour), its small y
+deviations from constancy might be influenced by effects that do not enter our analysis, such as ia
+the extra cost of wrinkling in a curved environment. : x
+
+3. The lower bound :&
+
+In the rest of the paper, < will stand for < C, where C > 0 is a generic constant depending on as,
+ro, R. (The implicit constant is often dimensional.)
+
+The radial symmetry of the domain 2 and of the substrate allows for convenient
+representation of the energy (2.1) in the radial coordinates (r, 0)
+
+tof p2 (ag? |aeue . ue , (68)? |"
+E, ,éE)= A) 1 1 1
+vtond= [P(e + SEF) | 4 ey OS
+2
+r a, r
++ aa leak? + HEP + &+5R| do] rar
+2
+
+doy + dd,g — uy + d,E OE 4 ey é?do)rdr. (3.1)
+7p Or V5 Orlle 3"? 3p ore 8 pe oor . .
+
+ro [ p2x
++ [ [ 2
+0 \Wo
+
+Motivated by the fact that in thin sheets (ie. 1 <1 and so asl~? > 1) the quantity & + |x|?/2R
+should be very small, instead of € we consider w defined by
+
+2
+
+2
+
+w(t, 8) =€(7,0) + 3. Note that for any f € L?(0, 27), we have
+2 Qn 2
+fo vr=ar+fo v7, (2)
+0 0
+where f = fy" f We see that for ii,(r) := fy" u,(r,0) d@ we have
+
+2
+della Uy — (Og)
+
+2 2. 2
+f par do =|" +f Oe do
+0 r r 2r2 r 0 2r2
+2
+2 2 5 2x (a,2)2
+fe dotie  Ur 4 (dow)? _ itr -f * (880) ol ao.
+0 r r 22 r 0. 2r
+
+(3.3)
+
+
+Defining (7) := iS * qw(r,0) d0, we use the definition of w and (3.2) twice to write
+
+f
+0
+
+OpUp +
+
+2
+a6)? _ ler -\2 fm
+( s) Orllr + 3 (5 - ari) +f |ar(w — w)|? dé
+
+2a
+f
+0
+
+do. (3.4)
+Plugging (3.3) and (3.4) into (3.1), we get that
+
+0 1/7
+E,0u8)= [ Rg )re
+
+Opt — —
++Ry(u, &), (3.5)
+
+2
+| w=
+
+Oy(Uy — ity) + do
+
+(a8)? ?* (Ar8)?
+2 -f 2
+
+- lyr _\2 2
+Oyty + 3 (G _ ay) + B(r)
+
+ul Os _
++W, (S079) + Slo? +17
+r h
+
+where B(r) := fe" |a-(@ — w)? do,
+
+Qn 4 2 Qn Qn Qn |? Watned=|n +f a (os Pao] +f laoog Pao tact? fle fs] ao G6)
+0 2r 0 0 0
+and
+2
+Tp a,£)2 2m (9 £)2
+Ry(u8)= [°F eur — iy) + 28) -f (05) 6 rar
+o Jo 2 0 2
+2
+ro p20 2 a 20 2
+[ f Bone | Mr, (atv) -a-f (2020) 6 rar
+o Jo r r 212 r 0 22
+
+ro (27 1\1 u 1
++[ ({ = [Fae 78 (2) + -a,£ age
+0 o 2 |r r r
+
+To show that € > coh, we need to gather some properties of the functionals F),.
+
+2 2n2
++ FP [arr(w — @)P + —-ldoré? 8 } rd.
+
+(3.7)
+
+Proposition 3.1.

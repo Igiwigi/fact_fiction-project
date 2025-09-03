@@ -1,0 +1,8 @@
+The efficiency of Huntorf is around 42%. This efficiency is too low to deliver an expected profit
+and so an efficiency of 1 = 0.9 was chosen such that E(x) = nF(x). We construct F by combining the
+discount rate, the actual load data with the MOC and the fact that Huntorf’s capacity is 290 MW
+and fully charges /discharges over 2 h. The results, and MOC, are shown in figure 1 with
+
+F(x) =5.1926 x 107 x? — 1.7997 x 10-79x° + 2.7287 x 10774x7
+— 2.3728 x 1071°x° + 1.3025 x 107Mx? — 4.6751 x 10710x4
++ 1.0960 x 10-5x5 — 0.16169x* + 1361.3x! — 4.9723 x 10°. Further details of how all results were obtained are in the electronic supplementary material.

@@ -1,0 +1,9 @@
+To summarize, the model we have in mind has the following structure. A transmission planner
+is to determine a plan of transmission investments over a long time horizon that adapts to changes
+in circumstances as exogenous market conditions (e.g. demand, fuel prices, etc.) become revealed
+over time. The plan accounts for the fact that in the time interval between each transmission
+expansion,! each generator in the network will choose a capacity level, and generation amounts
+for each period in this interval that will maximize its profits over this time interval, accounting
+for the actions of competing generators in a Cournot oligopoly. The transmission investments of
+the planner are chosen to maximize the total expected welfare of generators and consumers less
+transmission capital costs over the planning horizon. Nomenclature is provided in table 1.

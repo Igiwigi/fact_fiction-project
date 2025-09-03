@@ -1,0 +1,14 @@
+A naive continuum limit corresponds to ¢ > 0 at fixed distances in f and x. For a given distance
+in time or space the number of intermediate lattice points goes to infinity. Sums are expressed by
+
+integrals
+Ja] dr=| =22D. (3.36)
+tx tx
+
+Here the factor 2e? accounts for the fact that 1x only sums over the points of the even sublattice. For a sufficiently smooth wave function, the lattice derivatives are replaced by partial derivatives,
+acting on a continuum of Grassmann variables wy, (t,x), Vy, (t,x). We also choose a different
+normalization for the Grassmann variables
+
+w(t,x) = V2eWn(E,x). (3.37)
+
+In this way, we absorb the factor (2e7)~! arising from zx.

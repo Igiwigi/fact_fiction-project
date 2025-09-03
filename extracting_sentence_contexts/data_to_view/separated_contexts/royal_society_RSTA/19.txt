@@ -1,0 +1,22 @@
+This implies that the SCR can occur over only a few atomic layers adjacent
+to the interface, as experimentally observed, for example, by Chen et al. [26], for LiyV2O5
+electrodes in contact with Li; 5Alo,5Ge1,5(PO3)4 solid electrolyte. The limited thickness of the
+SCR restricts the applicability of continuum models, which are typically valid only for SCRs
+with widths above 10 A [31], and confines their utility to describing qualitative features and
+providing rough estimations. This limitation stems from the fact that such models ignore the
+electronic structure of the solid electrolyte and neglect the description of discretized defect-
+defect interactions within the crystal lattice sites, which cannot be adequately described by bulk
+dielectric screening. To appropriately model these aspects at the atomistic level, it is crucial to recognize that
+electrostatic potentials arising from the formation of an SCR have a profound impact on the
+creation of charged point defects because their presence directly influences the formation
+energy of such defects [34]:
+
+BEER ph re, (3.5)
+
+f bulk
+
+Here, is the formation energy of a point defect i” at charge state z in the bulk of the
+material. According to standard defect theory [35], this can be obtained by computing total
+energies, atomic chemical potentials and Fermi levels (referred to as valence band maxima)
+
+using only first-principle calculations as input (e.g.

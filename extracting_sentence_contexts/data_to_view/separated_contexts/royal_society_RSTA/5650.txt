@@ -1,0 +1,21 @@
+For a differentiable scalar
+function g(-):R4 > R, let Qo(-): R4 > RK*4 be a matrix-valued function whose jth row is defined to be
+(5jVg(.))'. Then, Qe(x)Vg(x) =0 for all x € R?,
+
+Proof. The proof readily follows from the fact that for any ye R4, y' Siy= 0 since S; is skew-
+symmetric. a
+
+
+input: z VGyn(2)_ skew-symmetric matrices output: Ayy(z)
+
+fully connected °
+wutomatic . .
+: > PQOseem >| Sani) |+($3)-=| : :
+eR! ERLE . € Rdxd € Rid
+OC fully connected
+
+e | a Bay (@)
+= ba a e€ Réxd
+€R"e R™ é€R"
+
+Figure 4. Architecture of GFINNs for case 2.

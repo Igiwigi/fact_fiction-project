@@ -1,0 +1,9 @@
+This intrinsic yield for the DT fusion is about 300, which is a large number by itself but,
+unfortunately, insufficient for compensating the losses related to incomplete fuel burn (typically
+30%), heating and compression efficiency (typically less than 10%), energy conversion efficiency
+(less than 40% for a thermal process) and the laser driver efficiency (today of a few per cent). A fusion yield in the inertial process can be significantly increased by using the ‘hot spot’
+ignition scheme. In fact, not all fuel needs to be heated to the ignition temperature, but only a
+small fraction, called the hot spot, which initiates the burn in a cold fuel shell. The energy released
+in the hot spot should be sufficient to compensate losses and to further increase its temperature
+and to trigger a burn wave in the cold fuel. This condition provides a criterion on the hot spot areal
+density and temperature similar to the Lawson criterion in magnetic fusion [2,3].

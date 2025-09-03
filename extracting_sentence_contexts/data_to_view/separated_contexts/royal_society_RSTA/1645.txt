@@ -1,0 +1,10 @@
+The O-U semigroup is defined through the Mehler formula by
+
+TOf=f, T(bf(x):= [fet +V¥1—e-%y)y(dy), £>0, f €C,(X). (3.1)
+
+It is a contraction semigroup on C;(X), and y is its unique invariant measure. It is not strongly
+continuous, not even on BUC(X). In fact, it is easily seen that for every f €¢ BUC(X) we have
+limy.o+ II Tf —filloo =0 if and only if limy-.o+ |[f(e~-) — floc = 0. However, for every f € C;(X),
+the function (t,x) +> T(£)f(x) is continuous on [0,00) x X by the dominated convergence theorem,
+and this allows to define the generator L as in §2c. Moreover, T(t) is strongly continuous in the
+mixed topology, see refs [8,9].

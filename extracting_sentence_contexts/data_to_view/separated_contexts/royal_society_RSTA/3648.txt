@@ -1,0 +1,9 @@
+The basic idea is to modify the
+minimizer (vj, @),) of Fy, by wrinkling where necessary, and estimate the increase in the energy
+due to wrinkling. Using (3.14), the amount of arclength we need to waste at each circle (together
+with the optimal length scale of wrinkling) can be read off from (vj, wp). Nevertheless, learning
+from the proof of the lower bound we anticipate that we should not really use wrinkling with the
+optimal period, as it will be costly to change this period too often—B(r) would then be too large
+(in fact of order O(1)). Anyway, as we explained in §2, it is not necessary for the wavenumber k
+to take the ‘optimal’ value att yyh at radius r. Rather, what matters is that |hk/r — a! ¢/kh| be at
+most of order h/?.

@@ -1,0 +1,6 @@
+Associated with the equations of motion are appropriate boundary conditions. The free water
+surface moves together with the fluid, thus the normal velocity of a fluid particle on this surface is
+the normal velocity of the surface itself. At the rigid bottom the situation is similar except for the
+fact that the surface is stationary. Below a certain level, one can consider the flow to be stationary,
+and therefore one can take at the bottom U = 0. These two impermeability conditions are purely
+kinematic, involving only velocity components.

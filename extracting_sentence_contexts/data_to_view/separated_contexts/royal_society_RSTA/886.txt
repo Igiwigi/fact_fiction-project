@@ -1,0 +1,7 @@
+It is in some ways similar to the tree-width, introduced in [21]. The tree-width captures
+essentially how tree-like the graph is. This is useful for finding algorithms for problems on graphs
+of bounded tree-width, motivated by the fact that many graph problems are easy on trees. More
+on algorithms for problems on graphs of bounded tree-width can be found in [22]. Rank-width,
+
+
+compared to tree-width, captures a larger class of graphs with similar complexity.

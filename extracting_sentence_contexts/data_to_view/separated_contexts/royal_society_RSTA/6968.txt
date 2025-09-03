@@ -1,0 +1,42 @@
+Figures 3 and 4 have been included to give an idea of the sort of variations of 6* and #,
+which occur as .@ increases. If there is a pressure gradient then (3-18) must be used in full, but before proceeding to
+the compressible case it is convenient to revert for a moment to incompressible flow and
+consider the Pohlhausen method of calculating separation for the most general form of
+velocity distributions subject to the restriction that the functions used must form a one
+parameter set with parameter A. This form is
+
+f=F+4AG,
+where F and G are unspecified functions of 7; the momentum equation becomes, in the
+notation of F.D. p. 159
+2 dZ @U,
+Fe = (A) Ge" +8(4) 77, (45)
+2d—4eA
+
+nee AA atsag?
+
+(A) _ 2F"(0) + {2G’(0) —2a— 4c} A+ (26— $4) AAS
+
+i ¢+3dA—5eA?2
+and
+
+1 1 1 1
+a=1—{ Fay, 6=[ Gdn, c=1-a—f Fidy, d= b—2f FGdn, e=[ G'dy
+0 0 0 0 0
+2
+ta et ee:
+# d:
+
+and
+The fact that g(A) is of the form (cubic in A)/(quadratic in A) for several particular forms
+of F and G has been noted; the point of the above analysis is that it shows that the form of
+
+g(A) as a function of A has nothing to do with the form of f as a function of 7. A detailed
+examination of the steps by which (4-5) is derived shows that it arises quite naturally from
+
+
+LAMINAR BOUNDARY LAYER IN COMPRESSIBLE FLOW ll
+
+the assumption that fis a linear function of A. The numerator of g(A) arises from # x dU,/dx,
+and so necessarily involves A3 and the denominator from # and involves A?; thus it can be
+seen that if f were assumed to be polynomial of the nth degree (an n-tic) in A, then g(A)
+would be of the form [(2n+ 1)-tic in A]/[2n-tic in A].

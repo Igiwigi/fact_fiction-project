@@ -1,0 +1,15 @@
+By construction, as one
+may verify by writing down the master equation, this system always collapses into
+a purely classical mixture of the coarse-grained states. Equivalently, in a quantum
+jump trajectory simulation, after the first quantum jump, the state is always given
+oy a single such state. In fact, in such a trajectory simulation, this system behaves
+exactly like the original Markov jump process. Neglecting for now that our original
+model has three different input conditions € ¢ {HOLD,SET,RESET} and thus
+
+ia
+
+hree different conditional transition matrices p? we first discuss how to move
+from the discrete time Markov chain model to a continuous time Markov jump
+process. Rephrasing this question, we can ask the following: is there a Markov
+jump process with conditional transition probability matrix P(t) that ‘looks like’
+our Markov chain when stroboscopically probed at fixed time intervals 6t?

@@ -1,0 +1,13 @@
+Model Updating (Step 9) is quite a well-developed procedure now for linear systems,
+and there are a number of algorithms and software packages that can be used to support this
+
+
+task. However, there is an important qualification that applies to all updating exercises, including
+for linear structures, and that is the need to verify that the model is capable of being updated
+before embarking on that process. Simply, this means ensuring that the model does in fact include
+sufficient parameters or elements to be capable of describing the structural behaviour adequately
+once the correct values for these parameters have been determined. The problem that can arise
+is that a model updating procedure can be applied to a model which is not verified, and while a
+result is obtained, this result is unreliable, and often involves the adoption of unrealistic values
+for the parameters that have been updated. In the case of a nonlinear structure, a new issue arises in the sense that each model element
+is likely to have a higher order characteristic than would be the case for a linear structure.

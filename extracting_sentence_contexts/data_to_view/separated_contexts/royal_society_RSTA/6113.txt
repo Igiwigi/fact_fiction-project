@@ -1,0 +1,10 @@
+On the other hand, to turn a low
+algorithmic complexity network into a higher algorithmic complexity network, stochastically
+random single-edge deletion suffices [27]. A formal observer system © is a particular type of FDDDS that has prior knowledge of a
+formal theory and can simulate Turing machines (or compute functions) during its state space
+trajectory. Thus, as demonstrated in [1, Section 3.2], whether or not a formal observer system can
+compute a certain function is a fact dependent on the prior formal knowledge that the formal
+observer system knows. This is an important property that we will explore in §3a. A direct
+consequence of the definitions of algorithmic perturbation and formal observer system is that
+they enable an algorithmic perturbation to change the machine that 0 is simulating ([1], Lemma
+3.1).

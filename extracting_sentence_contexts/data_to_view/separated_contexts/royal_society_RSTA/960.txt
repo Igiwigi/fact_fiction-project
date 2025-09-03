@@ -1,0 +1,28 @@
+The authors emphasized a necessary condition for
+moving spots given by the inequality
+
+nt<-—l. (3.4)
+
+This condition, which will later reappear, comes from the linear stability analysis around a
+stationary state that leads to the following characteristic equation for the growth rate A:
+
+A+ n(1 — exp(—ar)) =0. (3.5)
+
+
+1.0
+~ 05
+a
+zB
+- 0
+ni
+= 0.5
+-1.0
+-10 5 0 5 10
+
+x
+
+Figure 5. Hyperbolic tangent solution to equation (3.8), with e« = 0. The fact that a simple explicit formula exists for the
+leading-order problem facilitates the analysis. See also equation (3.12). (Online version in colour.)
+
+A necessary condition for stability is obtained by first determining the real roots. Keeping t
+fixed, we analyse A = 4(n) from equation (3.5) in the implicit form nt = At(exp(—At) — 1)1.

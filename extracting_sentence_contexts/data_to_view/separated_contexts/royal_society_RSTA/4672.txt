@@ -1,0 +1,12 @@
+A simple example of FT is the transformation of the spherical fields emanating from a point
+source into a planar phase front by using a flat lens whose behaviour mimics that of a convex :
+lens, for instance. The same problem when tackled by the TO leads to a relatively complex design =
+and calls for MTMs that are not only difficult to realize, but lead to performance characteristics 3
+that are not on par with the FT-based design, as we will demonstrate in this paper. This is true :
+despite the fact that the latter design uses realistic materials, which can either be fabricated in nee)
+the laboratory, or are commercially available off-the-shelf that are modified slightly to realize the :
+desired material parameters. Such materials are wideband as well as relatively insensitive to the [4
+polarization and incident angle of the incoming wave. DN
+
+Finally, we will point to a new interpretation of the TO algorithm that has recently been [5
+employed to design absorbers that help reduce the RCS of real-world targets.

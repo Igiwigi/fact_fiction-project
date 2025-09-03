@@ -1,0 +1,44 @@
+The largest error, in fact, is below 2%, whereas, in the case of a full LBM simulation
+(orange dots in the inset of figure 3a), a 5% error is found to occur within the Knudsen layer. This
+result is obtained strictly maintaining mass conservation within the system. In figure 3b, in fact,
+the instantaneous number of particles present in the DSMC region is compared with the averaged
+
+
+(4) 10
+
+DSMC «
+hybrid ——— |
+
+= ssssssnsssnssesseg Wreeeesseey
+ad 5025 0 25 5.0
+0.4 Ai (x/H) (%)
+
+0.2
+
+Agy
+
+=1.0 08 -0.6 -04 -02 0 02 04 06 O08 1.0
+it (x/H)
+
+©) 108x104
+1.06 x 10+}
+
+= 1.04% 104}
+S 1.02x« 1044 Fe
+
+& 1.00x 0" i a
+= 9.80x 10! §
+ZB 9.60x108F
+9.40 x 103 |
+
+9.20 x 103
+
+0 2000 4000 6000 8000 10000
+LB time steps
+
+Figure 3. (a) Comparison of the velocity profiles averaged over time and normalized with Uyay from a hybrid simulation
+(a = 0.2, blue line) and full DSMC simulation (red dots). In the inset, the relative errors as defined in equation (3.1) fora hybrid
+and a full LBM simulation are shown. (6) Instantaneous number of particles within the DSMC region versus time step: mass
+conservation, on average, is strictly obeyed. The average (N) deviates from the initial number of particles by less than 0.05%.
+
+one, which, in turn, deviates from the initial one by less than 0.05%.

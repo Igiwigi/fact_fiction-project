@@ -1,0 +1,44 @@
+By virtue of Dirichlet’s principle, we have
+
+1
+Es(Z)= inf >| IworPdx+ | O*n' dd + | er dd. (2.4)
+o*eH!?(D) 2 J z= 2Jz
+
+This means that Es and €, are completely determined by the surface Y. Moreover, if the wave is
+bounded, i.e. yl <M for y€S, then the surface integrals in (2.2)-(2.3) can be transformed into
+volume integrals by integration by parts:
+
+| on'az =| n(x3)d1® dx, | cova =] a,3 (n(x) dx, k=1,2,
+z= Q z= QR
+
+where 7 is an arbitrary smooth function of x° which is 1 for x3>—M and 0 for x* <—2M. Therefore, the kinetic and gravitational potential energies are well defined for all continuous
+surfaces S, without self-intersections, which are bounded in the x°-direction.
+
+(b) Elastic energy: preliminaries
+
+To derive the integral representations for bending and stretching energies, we recall some basic
+facts from differential geometry. Henceforth, we adopt the notation 0; := 0/0X', i= 1, 2, for partial
+
+
+derivatives with respect to the reference variables X,,X2. For a rectifiable surface S given by
+x = r(X), the normal vector at r(X) is
+
+d1r(X) x dor(X)
+
+1X) = TX) x Dor X)I"
+
+The first fundamental form of S defines the metric g on S induced by the metric of the ambient
+space R°, which means that the length ds of the element (dX!, dx?) is given by
+(ds)? = g(dX!, dX?) = gap dX’ dX’, gag = dur Opr (2.5)
+and the area element dS of the surface S is given by
+dS = /%dX, g=det gop =811922 — 912”. (2.6)
+The second fundamental form A of S is defined by
+A(dX!, dX?) = bap(X)dX%, dX, bap (X) = dw dgr-n = —dyr - Ign. (2.7)
+
+The mean curvature H, the Gauss curvature K and the length |A| of the second fundamental form
+are algebraic invariants of the symmetric matrix g~/7Ag~1/?,
+
+ki tk
+
+H= , K=kk, and |AP=Kh+K5. (2.8)
+Here the principle curvatures k; are the eigenvalues of g~!/7Ag~1/?.

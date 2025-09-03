@@ -1,0 +1,45 @@
+Discussion | a |
+
+The derivations based on the Feynman path integral bypass the conventional semiclassical
+approximations and therefore allow us to introduce several rigorous statements. If the :8
+Hamiltonian is up to quadratic and the perturbation up to linear, the dephasing representation is
+(or phase averaging [15] or weighted average classical limit [31]) is exact. For example, for : a
+displaced simple harmonic oscillators :
+
+(4.1)
+
+r 4 ay2
+
+d H’ =P 4k a
+a mm t (945) »
+the dephasing representation is exact [15] if the classical trajectories are propagated with the
+average Hamiltonian H since then the Hamiltonian difference (3.11) is indeed linear in Aq and 2s
+Ap: Da
+
+H"(x") — HQ) = Pap + kg(a + Aq). (42) 8
+
+By contrast, the dephasing representation is not exact even in this simple system if H’ is used for thy
+dynamics, as quadratic terms in both Aq and Ap appear: :3
+
+1 1
+H'(x") — H'(x)= mCP + Ap)Ap + ak2q + Aq)(a+ Aq). (4.3)
+
+Similarly, the dephasing representation is not exact (in fact, breaks down rather severely) for
+simple harmonic oscillators with different force constants,
+
+z 1 Pol
+HaP pik? and HY =P 4 Kg? 4.4
+mt 27 aM m2. 7" (4)
+
+as the perturbation is quadratic in Aq even if the average Hamiltonian is used for dynamics:
+(ll yt) — P 1 2,1 2
+FIN") — AIG) = Ap + gg + 5 Ak q + 7(Aq) : (4.5)
+
+The last simple example provides a particularly bad scenario for the dephasing representation,
+which can be remarkably accurate in much more complex, even chaotic systems such as the kicked
+rotor. Unfortunately, undisplaced harmonic oscillators provide a good model for the ‘silent’
+modes in electronic spectra, i.e. the modes which are not excited by the electronic transition, and
+hence are not displaced, but may have a different force constant in the excited state. Especially in
+large molecules, the majority of the modes are silent, but the dephasing representation produces
+an artificially fast decay of fidelity amplitude [40], which in turn gives rise to artificially broadened
+spectra, often to the point that any structure is lost.

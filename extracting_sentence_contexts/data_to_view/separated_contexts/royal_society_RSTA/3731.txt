@@ -1,0 +1,26 @@
+Let us now exemplify these four steps by considering the Rayleigh—Plateau instability in
+the inviscid limit (Oh <1). Denoting by the dynamic viscosity of the fluid and by 9 its
+density, the Ohnesorge number Oh = 1/(,/ py Ro) compares viscous effects and inertial effects. The
+Ohnesorge number is in fact the inverse of a Reynolds number where the velocity scale \/y/(pRo)
+would be capillary driven. Let us start from the depth-averaged equations governing slender jets
+introduced by Eggers & Dupont [17], which express the conservation of mass and momentum in
+the inviscid limit:
+
+(1) Denoting R(x, t) the radius of the thread, U(x, t) the mean axial velocity, we write
+
+dR dR 10U
+
+agR_ PR _ tau 2
+
+dt Uae 2 ax 62)
+and
+
+du au sy dk
+
+a U5 rrs (3.3)
+
+in the inviscid limit Oh «1, where « is the total curvature. The domain extends from
+—oo to +00 in the streamwise direction and periodic boundary conditions can be
+applied.
+
+(2) We outline R = Ro and U= Up as spatially and time-independent base state.

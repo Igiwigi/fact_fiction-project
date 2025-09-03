@@ -1,0 +1,9 @@
+The parameters used for the measurement are 6 = 2.3, 0 = 0.23, 6 = 11/4. (Online version
+in colour.)
+
+nodes 2, 4, 5 or 7; yet, the red cluster still synchronizes, as shown in figure 11c. These experiments
+confirm the stability of such so-called equitable partition cluster synchronization [35]. As mentioned in §7, a chimera state is a dynamical state of a network in which the nodes split
+up into a coherent set and an incoherent set despite the fact that they are all identical and coupled
+identically [38,39]. The chimeras in §7 were observed in a network with circularly symmetric
+coupling and many nodes. Using the system shown in figure 10, we were able to observe a
+chimera state in a 5 node globally coupled network [34].

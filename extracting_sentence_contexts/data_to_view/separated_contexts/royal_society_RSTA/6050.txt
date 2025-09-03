@@ -1,0 +1,28 @@
+Classically, it is convenient to translate the energy conditions to
+restrictions imposed on p and p. To work out the energy conditions for our type of fluid, we start by noting that in the
+formulation of the field equations, both the metric given by (2.1) and the bulk fluid described
+
+
+by (2.8) and (2.12), appear as static with respect to the time coordinate t, because the evolution is
+taken with respect to the fifth spatial coordinate Y. Using this fact, we can reinterpret our fluid
+analogue as a real anisotropic fluid having the following energy momentum tensor:
+
+Tap = (0° + pu — p°gapd45h — Pygssd4 5p, G1)
+
+where u%, = (a(Y),0,0,0,0), A,B=1,2,3,4,5 and aw, 8 =1,2,3,4. When we combine (2.8) with (3.1),
+we get the following set of relations:
+
+PY=—p, (3.2)
+
+p°=-p (3.3)
+
+and po =p. (3.4)
+Note that the last two relations imply that
+
+po=—p", (35)
+
+which means that this type of matter satisfies a cosmological constant-like equation of state. Substituting (3.2)-(3.5) in (3.1), we find that
+
+Tap = —p8ap5%5 + pg55d4dp- (3.6)
+
+At this point, we can start to formulate the energy conditions.

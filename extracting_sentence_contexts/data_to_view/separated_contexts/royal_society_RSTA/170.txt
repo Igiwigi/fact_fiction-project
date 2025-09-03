@@ -1,0 +1,14 @@
+We leave the regression setting and turn to some other traditional areas
+of multi-variate statistical analysis. We describe briefly two active areas of
+development: investigation of the properties of classical methods when the number
+of variables is large, and development of new, typically nonlinear variants of these
+methods that respond to high dimension. In the first direction, it is a striking fact that most of the standard techniques
+of classical multi-variate analysis—principal components analysis, canonical
+correlation analysis, multi-variate analysis of variance, discriminant analysis
+and so forth—are based on the eigenanalysis of sample covariance matrices. Under Gaussian assumptions for the distributions of the sampled data, and
+under the symmetry assumptions characteristic of null hypotheses, the sampling
+densities of the eigenvalues of these matrices have precisely the laws arising in
+the classical orthogonal polynomial ensembles of random matrix theory. The
+natural asymptotics in random matrix theory—reflecting its origins in the many-
+particle models of statistical and nuclear physics—allow the number of variables
+to become large.

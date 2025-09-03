@@ -1,0 +1,8 @@
+The SE fMRI approach is sometimes criticized because func-
+Some GE BOLD characteristics can appear because of the tional mapping signals are small; but this is the price one
+imaging sequence, particularly with EPI or spiral based rapid pays for improved spatial accuracy. The loss can be made
+single shot imaging sequences preferred in functional imaging up by using high magnetic fields. In fact, SE fMRI at 7 T
+studies. In such sequences, there is only a single point in has roughly the same functional signal change, and probably
+k-space (i.e. a single time point in the acquired data) that a better functional contrast-to-noise ratio (fCNR), as GE
+meets the full spin echo condition. All other points in BOLD fMRI at 3 T.
+the data also have some gradient echo weighting.

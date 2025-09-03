@@ -1,0 +1,12 @@
+From the one-dimensional projection in figure 5,
+response assumption may become questionable. First, it is the overlap of both distributions is only 6%, which reduces
+clear from the discussion of figure 2 that the mechanical further to 0.6% when the overlap is calculated using the first
+response of the protein (including overshootings, etc.) is inelas- seven principal components which show structured distri-
+tic, because, for example, contacts are broken and formed. These butions and slowly decaying autocorrelation functions [32].
+findings cannot be described by a harmonic force field (used, As in fact the effective dimensionality of the dynamical
+e.g. in the popular elastic network models [72,73]), in which system may be larger than seven [75-78], we expect the true
+all forces are linear. MD simulations using common biomo- overlap to be even smaller. That is, by employing a reaction
+lecular force fields as well as NMR experiments, on the other coordinate that is able to account for the global conformational
+hand, certainly may account for these effects. rearrangement of the allosteric transition, we find that free-
+It is less clear, though, if the basic assumption of Onsager’s energy surfaces of the cis and trans equilibrium states hardly
+regression hypothesis is appropriate; i.e. if the non-equilibrium overlap.

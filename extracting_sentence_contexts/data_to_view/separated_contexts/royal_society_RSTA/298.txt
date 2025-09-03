@@ -1,0 +1,11 @@
+The circadian and homeostatic processes were
+formalized phenomenologically in the two-process model of sleep regulation
+51,52]. According to this model, a homeostatic process (process S; relaxation
+oscillator) and a circadian process (process C) interact to generate sleep-awake
+patterns (on a time scale of hours to days in humans and minutes in rodents). In recent years, more and more facts about the underlying neurophysiological
+mechanisms have been uncovered by experimental work [53]. Based on these
+findings, several attempts have been made to develop mathematical models
+of the neural dynamics underlying sleep regulation. There the activity of the
+specific neural populations involved in sleep regulation is modelled by coupled
+nonlinear ordinary differential equations that can produce limit cycles, show
+1ysteresis effects and undergo bifurcations.

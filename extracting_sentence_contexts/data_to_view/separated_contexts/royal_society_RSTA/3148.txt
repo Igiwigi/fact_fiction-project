@@ -1,0 +1,14 @@
+Thus, the
+adjoint of £ can be defined, and indeed we find that
+
+L=-J'L], (3.6)
+
+so that £J and JL are self-adjoint (note that J-! =-J). Observe also that the spectrum of L is
+2ni-periodic, because e** Ztw(t) =e +2)" (Ze (z) e2"*7) and Ztw(t) e~2""* is also a travelling
+wave with velocity 1. This symmetry is due to the fact that the shift operators $, commute with
+the multiplier eT for ne Z. Owing to the time-translation invariance of the solution Xtw, an
+important property of L is that its kernel contains
+
+C0 = 07 Xtw, (3.7)
+
+as can be directly verified by differentiating (3.1) in t and evaluating the result at X = Xtw. Here we assume the generic situation when ker(L) =span{eo}.

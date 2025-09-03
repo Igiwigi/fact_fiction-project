@@ -1,0 +1,11 @@
+Their empirical evi- We here remark that, in principle, the computational
+dence in fact shows that the predation risk is reduced in the results presented in the previous parts of the paper
+case of prey exhibiting a balance between attraction and depend on the initial condition of the particle system. How-
+orientation. A possible explanation of this discrepancy is ever, as it is possible to observe by the error bars in the plots
+owing to the fact that in our model the virtual prey individ- of figure 7, the simulation outcomes obtained by keeping
+uals react to the presence of the predator thereby giving rise constant the initial density of agents (i.e. the number of ani-
+to somehow different dynamics. In [40], it is also observed mals and diameter of the round region where they are
+that the predator preferentially attacks small groups of targets initially located) while randomly varying individual pos-
+and individuals located at the edge of the prey aggregate, an ition and orientation do not significantly differ in almost
+
+aspect not captured by our approach. all cases. Keeping fixed its basic structure, our model can be easily Funding.

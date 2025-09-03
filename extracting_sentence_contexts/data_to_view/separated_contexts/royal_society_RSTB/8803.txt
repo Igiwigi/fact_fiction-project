@@ -1,0 +1,16 @@
+Similarly, dopamine responses are elicited by
+decay after its release. The resulting updates show phasic sensory cues that, in higher order operant conditioning
+responses to the arrival of new sensory information that paradigms, lead to reward but thereafter ‘remain unin-
+converge to tonic values, which minimize free energy. fluenced by events that are as good as predicted’ [62]. Many readers will have noted a similarity between the Indeed, it was the transfer of dopamine responses—
+dynamics of precision and the firing of dopaminergic cells. from early to late conditioned stimuli—that motivated
+In fact, nearly every anatomical and physiological feature normative theories of reinforcement learning based
+of dopaminergic neurotransmission can be found in these upon temporal difference models [29]; and
+precision updates: — precision decreases with the withdrawal of an opportu-
+nity to fulfil prior beliefs (shown in [8]). Similarly,
+— expected precision modulates the contribution of expected dopamine firing decreases in the absence of an expected
+value during the optimization of posterior beliefs about the reward [62].
+state of the world and action selection. This fits comfortably
+with the broadcasting of dopaminergic signals from the For people familiar with discussions of dopamine in the
+VTA and SN to the cortex (for perception) by the meso- context of active inference, the correspondence between pre-
+cortical system—and to the ventral striatum (for action) cision and dopaminergic neurotransmission will come as no
+via nigrostriatal projections.

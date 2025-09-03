@@ -1,0 +1,11 @@
+However, there is an important technical caveat:
+the set K’ has to be sufficiently large in a topological sense. A sufficient condition is that K’ c R4
+has nonempty interior, but a key point in Tartar’s framework is that certain (linear or nonlinear)
+constraints may restrict K’ to a lower-dimensional variety—a concrete example will be presented
+below in the context of MHD turbulence. Combining the general framework of Tartar in (2.2) and (2.3) with techniques developed for
+the existence theory of vectorial differential inclusions (2.4) leads to the following basic principle
+(again formulated in an imprecise way, ignoring technical side conditions):
+
+PRINCIPLE II: Typical elements of S are in fact elements of S. Here again ‘typical’ refers to Baire category. As such, using this principle to prove the existence
+of solutions invariably leads to weak solutions with often paradoxical properties which are
+highly irregular.

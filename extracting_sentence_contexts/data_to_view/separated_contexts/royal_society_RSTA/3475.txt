@@ -1,0 +1,68 @@
+More importantly, though, it : 8
+may not even be necessary to accurately model all uncertainties in the system, as many may have 7m
+
+little impact on the system phenomena of interest, despite adding considerable computational
+burden when modelled more accurately. It is important to mention that, in spite of the trend of
+increasing monitoring in power systems in general, the transmission companies still have little
+experience in collecting standardized network performance data such as outage rates and repair
+times.
+
+(c) Key challenges in stability studies of future power systems
+
+Considering the above structure of future power systems and increased levels of uncertainties,
+the key research challenges for stability analysis of future power systems can be grouped into
+three broad areas:
+
+(i) Efficient use of and reliance on existing and newly acquired data through deployed local
+measurement devices and two-way communications-enabled meters and global wide-
+area monitoring systems (WAMS) for state estimation, static and dynamic equivalents
+and control (including real-time control). This implies efficient data management (signal
+processing, aggregation and transmission), reliability of, and reliance on, ICT networks,
+as they are essential for both static and dynamic observability of the system.
+
+(ii) Modelling for steady-state and dynamic studies of
+
+— Large interconnected networks with generation mix, FACTS devices and short- and
+long-distance bulk power transfers using HVDC lines.
+
+— Clusters of RESs (generation and storage) of the same or different type.
+
+— Parts of, or the whole, LV and MV distribution network with thousands of integrated
+RESs.
+
+— Demand, including new types of energy-efficient and PE-controlled loads, heat
+pumps, customer participation and behavioural patterns, EV, etc.
+
+— Centralized and distributed storage technologies (i.e. virtual storage plant) for
+provision of ancillary services.
+
+— Interconnected critical infrastructure systems, ‘system of systems’ and, as a
+subset of these, networks with different energy carriers and self-sufficient energy
+modules/cells.
+
+
+(iii) Design of advanced controllers and control structures including ls |
+
+— Design of supplementary controllers based on WAMS to control, including real-
+
+time control, and stabilize a large system or parts of the system (the structure and 38
+extent of which may vary depending on connected technologies and the aims of 1s
+
+control) with uncertain power transfers and load models and stochastically varying
+and intermittent PE-connected generation, demand and storage, i.e. reduced inertia
+systems.
+
+— Design of new risk-limiting control systems/structure, including consensus,
+distributed or hierarchical control, adaptive and close to real-time control for power
+networks with fully integrated sensing, ICT technologies and protection systems. Considering the evolving power system with increased uncertainties and abundance, and :3
+growing measurement data and challenges identified above, the key question that needs : =
+answering is: Are the tools currently in use for system modelling, analysis and control adequate, and 3B
+if not, how should we modify them, or what other tools should we be using? : =
+This paper addresses the above question by proposing a probabilistic approach to power 8
+system stability studies. It presents an integral approach to probabilistic stability analysis of [3
+power systems, including small and large angular stability and frequency stability, and provides : a
+guidance for handling uncertainties in power system stability studies and some illustrative 13
+examples of the most recent results of probabilistic stability analysis of uncertain power systems. : 8
+an
+
+2.

@@ -1,0 +1,22 @@
+The two-body cusp ratios were determined using [32,33]
+
+ae (3.3)
+
+(5(ri))
+
+The exact value of the nucleus-electron cusp v31 is —Z for the infinite nuclear mass systems, and
+the exact value of the electron-electron cusp vj is 0.5, but for HF calculations vj is zero [34]. The
+data presented in table 5 demonstrate that the HF Laguerre-based wave function is capable of
+producing accurate nucleus-electron cusps.
+
+vig = (Vij) =
+
+(e) Behaviour near critical Z
+
+For Z < ZHF, the ground state becomes unstable against electron detachment. The convergence
+of the variational atomic energy as a function of the number of terms degrades only slowly as
+the nuclear charge approaches ZHF, In fact, at Z = 0.85 the HF energy is still converged to seven
+or eight significant figures, but as Z decreases further the convergence deteriorates rapidly as
+shown in table 6. Furthermore, the convergence of the bound state properties deteriorates much
+more rapidly than the energy, to the extent that for Z = 0.80 the expectation values are erratic and
+basis-size-dependent. However, for Z > 0.85 the data appear to converge.

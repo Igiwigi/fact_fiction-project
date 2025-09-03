@@ -1,0 +1,48 @@
+Regressions for protected area siting choices using relevant characteristics. Standard errors in brackets. ***, p < 0.01.
+
+pre-2000 PAs 2000-2004 PAs
+in the arc not in arc in the arc not in arc
+road distance 1985 (km) 0.3055*** 0.1162*** 0.3949*** 0.1153***
+0.004) 0.003 0.004) 0.003
+big city distance 1991 (km) 0.2294*** 0.2547*** 0.2812*** 0.4940***
+0.007 0.007) 0.007; 0.007)
+forest edge distance 2000 (km) 0.1865*** —0.0807*** 0.2284*** —0.0276***
+0.002 0.002! 0.002! 0.002!
+river distance (km) — 0.0032 0.1371*** —0.0196*** 0.0822***
+0.002 0.002! 0.002! 0.002!
+soil fertility (1-5) 0.0528*** — 0.0024 —0.0093*** 0.0312***
+0.003 0.002! 0.004) 0.003
+rainfall (mm) —0.0008*** 0.0003*** —0.0008*** 0.0001***
+0.000) 0.000! 0.000) 0.000:
+Cerrado (1/0) 0.1632*** —0.3346*** 0.0748*** —0.1596***
+0.012 0.032! 0.012: 0.033
+flatter slope (%) —0.032*** — 0.0085 0.0784*** — 0.1683***
+0.007 0.006) 0.007; 0.006:
+Rondonia 1.2389*** _ 0.8471*** _
+0.020) 0.025
+Mato Grosso —0.2053*** _ — 0.4646" _
+0.020) 0.025
+Para 0.0111 — 0.3196*** _—
+0.019) 0.024)
+Tocatins 0.1939*** _ — 0.0448 _
+0.040) 0.044)
+Maranhao omitted _ omitted _
+Acre _— —0.1331** — —0.5024***
+0.019) 0.017;
+Amazonas _ —0.5583*** _ — 0.8435***
+0.016) 0.014)
+Roraima _ 0.3025*** _ —0.0808***
+0.018) 0.016)
+Amapa _ omitted _ omitted
+constant —6.7208*** — 6.0394*** —7.8191** —8.0445***
+[0.090] 0.072! [0.094] 0.073
+# pixel observations 219 287 233 764 194 561 243 734
+regression then further reduces bias from the remaining almost 4% outside the PAs but again it is about half of a per
+differences relevant to deforestation. cent in PAs established before 2000, and under a tenth of a
+
+per cent in PAs created after 2000. Table 2 places facts from table 1 in Probit regressions for the
+binary protection indicator. Each pixel characteristic that could
+
+3. Results vary between PAs and unprotected pixels, e.g. road distance,
+As noted, table 1 shows that unprotected pixels’ characteristics is tested for whether it significantly influences the siting of
+differ from those of PA pixels.

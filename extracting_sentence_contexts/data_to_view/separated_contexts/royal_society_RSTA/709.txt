@@ -1,0 +1,5 @@
+In figure 15, a partially controlled trajectory is displayed. The controls,
+represented as yellow segments distributed along the trajectory, are applied every At = 1.2. We
+show this fact with a zoom in figure 16. As a result, the trajectories never fall into the attractors
+Ct or C~, keeping the dynamics in the chaotic region forever. As we have mentioned, the safe set appears for values of At > 1.2, so it is possible to adapt
+the control frequency to our specific requirements, taking other At values.

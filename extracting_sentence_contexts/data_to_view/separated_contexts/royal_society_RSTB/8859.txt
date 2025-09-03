@@ -1,0 +1,20 @@
+This finding is not surprising given that real-world rich
+clubs are known to contain many long-range links, which
+are exceptions to the cost minimization principle embodied
+in the exponential decay model. It therefore seems intuitive
+
+words, the network has learnt to recognize the input stimulus. that a useful model requires a second term, balancing out
+The resulting reconfigured networks can be analysed to see the distance penalty term and allowing the emergence of
+whether given features (such as a rich-club structure) also arise longer connections and of highly connected hub nodes. One
+during learning. simple example is the economical preferential attachment
+
+(Eco PA) model, slightly modified from [37] to account for
+the fact that nodes are not added to the system one by one
+
+3. Results Pyj © (kiki) (dij). (3.2)
+(a) Large-scale brain network models Here Pj; is the probability of connecting nodes i and j, of
+In previous work, we compared several classes of generative degree k; and k;, respectively, that are a distance dj; apart;
+models for the formation of large-scale brain functional net- is the parameter of distance penalization, as before; y is the
+works [21]. Given the known anatomical location of the nodes parameter of preferential attachment (the exponent of a
+in the network, we asked whether simple rules could predict power law in the product of the degrees of the connected
+the probability of functional connection between two cortical nodes).

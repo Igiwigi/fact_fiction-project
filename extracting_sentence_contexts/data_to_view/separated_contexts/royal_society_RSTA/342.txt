@@ -1,0 +1,18 @@
+A particularly simple way to estimate the model
+is to first compute the innovation process of x(f) by fitting a VAR on it, and then do basic ICA on
+those innovations, i.e. the residuals [54]. (See also HyWarinen et al. [19] for a related method based
+on fitting ICA on the residuals of a VAR model.)
+
+Alternatively, we can assume that the components s;(t) are independent in a certain frequency
+band only. If the frequency band is known a priori, we can just temporally filter the data to
+concentrate on that frequency band. In fact, linear temporal filtering does not change the validity
+of the linear mixing model, nor does it change the mixing matrix. Furthermore, an optimal
+frequency band can be estimated from the data as well [57]. A different framework of dependent components in time series was proposed by Lahat
+et al. [58], combining the idea of independent subspaces discussed earlier with suitable
+non-stationarities.
+
+
+(d) Further models of dependencies
+
+A model in which the components are linearly correlated (without considering any time structure)
+was proposed by Sasaki et al. [59].

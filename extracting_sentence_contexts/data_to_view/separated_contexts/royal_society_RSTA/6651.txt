@@ -1,0 +1,26 @@
+WOHLFARTH ON A MECHANISM
+
+From table 2, giving cos ¢ as a function of h at a series of values of @, tables may be drawn up
+giving (cos ¢), for @ = 0 (10°) 90°, and a series of equally spaced values of the integrand
+obtained by multiplying by sin @. Where the integrand is a continuous function of @ over
+the range of integration, that is for | h| <3, for }<h<1, and for | h| >1, the integration can
+in principle be effected numerically, using the Newton-Gregory formula, or, if the con-
+tinuation of the function outside the @ range from 0 to 90° is known and is of a suitable
+character, the more convenient central difference formula. For |h| <4, the integration can in
+fact be effected with the required accuracy with the intervals in 0 as large as 10°, but smaller
+intervals (5 or 25°) are required for }<h<1, and also for | 4| greater than, and close to 1.
+(The difficulties arise from the behaviour of the differences of the integrand as # approaches
+90°, the general character of which can be appreciated, without detailed description, from
+the forms of the curves in figures 4 and 5.) For || = 1, accurate integration by this method
+is virtually impracticable, since for 690°, (d$/d0) >—oo. Similar difficulties arise for all
+
+values of h in the range —1<h< —} at the critical values of 6. The integrals extend over
+three continuous ranges, as may be exemplified for h = — 0-6 (see figures 4 and 5).
+(1) (2) (3)
+h 0-6: 7] 0—16-°59 16-59— 73-41 73°41— 90
+Q 0—50°34 190-36—224-56 129-66—126-87
+
+t
+
+The contribution from range (2) is readily evaluated; it is simply the negative of the corre-
+sponding integral for h = +0-6 between the particular limits.

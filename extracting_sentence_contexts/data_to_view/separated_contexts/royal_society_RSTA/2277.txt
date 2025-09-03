@@ -1,0 +1,10 @@
+Since both classical and quantum models are able to generate deterministic functions, it
+is clear that some restriction are necessary in order to understand the difference between classical
+and quantum correlations. A natural candidate is the restriction on the amount of memory that
+can be stored in the system. In fact, if the system is not able to ‘remember’, at a certain step s,
+all previous inputs and outputs in the sequence, it will not be able to generate the corresponding
+deterministic function associated with the sth step. We may, thus, identify ‘memory’ as a resource
+needed to generate temporal correlations, and speak of the ‘memory cost’ of simulating temporal
+quantum correlations with classical models. Of course, one can extend this idea and speak more
+generally of the ‘memory cost’ of generating certain correlation with a given theory, e.g. in the
+framework of GPTs, as discussed in [17].

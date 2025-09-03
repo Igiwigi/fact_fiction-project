@@ -1,0 +1,6 @@
+Stationary solutions. We will be interested in equilibrium configurations, i.e. in stationary
+solutions of these equations. A well-known fact is that the Bernoulli function is a first integral
+for both X and w. In particular, the streamlines are confined into the level sets of B. The stationary Euler equations with the Bernoulli formulation are
+
+Xx @w=VB
+div X=0.

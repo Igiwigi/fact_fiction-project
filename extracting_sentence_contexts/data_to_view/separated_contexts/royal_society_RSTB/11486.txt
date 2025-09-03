@@ -1,0 +1,15 @@
+The hydraulic processes represented by ated with plant mortality, which represents the ultimate = -5
+SOX also open up the possibility for a more explicit represen- fitness cost [18,19,82]. There is substantial evidence that =
+tation of drought-induced mortality in DGVMs. The high levels of xylem cavitation-induced embolism are in S
+thresholds of hydraulic conductance loss associated with fact associated with plant mortality [9-11], which corrobo- -
+increased risks of plant mortality, thought to be close to rates this assumption. Even non-lethal loss of hydraulic 2
+0.5k,¢max for gymnosperms [12] and 0.12k,.max for angios- conductivity should be detrimental to plant fitness, as recov- S
+perms [9,10], can be linked from the SOX output into a ery of hydraulic conductivity through construction of new w
+DGVM module that controls vegetation demographic pro- vessels [53,54,83], or through active refilling of embolized
+cesses, such as the TRIFFID module currently used in vessels [84-87], requires carbon investment, which would =
+JULES [74]. necessarily detract from plant tissue growth and reproductive ©
+The good performance of the simplified SOX implemen- investments. Differences in plant capabilities of recovering = &
+tation we show in this study, which is comparable even to hydraulic conductivity, be it through refilling or through
+that of more detailed models previously used on the site the construction of new vessels, imply that a given level of
+[51,76], illustrates the parsimony of the xylem hydraulics- hydraulic damage predicted by the xylem vulnerability func-
+based optimization approach.

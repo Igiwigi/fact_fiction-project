@@ -1,0 +1,8 @@
+However, in a conventional self-application pattern, the follow-up
+workload of healthcare service providers is heavier. Additionally, note that the general greedy algorithm for Model Il is not as effective as for Model
+I, but our sub-grouping greedy algorithm plays a part. That might be owing to the fact that the
+fine-tuning process of general greedy algorithm is restricted by Constraints (3.7) and (3.8). The
+point is that in the general greedy algorithm, the fine-tuning function considers [n/2] pairs of x
+and over 25% pairs fail in being eligible for Constraints (3.7) and (3.8) based on our real data. In
+sub-grouping greedy algorithm, the fine-tuning function considers [c/2] + [p/2] + [0/2] pairs of x
+(where c + p +0 =n).

@@ -1,0 +1,10 @@
+There are two ways to increase the muon number for each quasi-beam, one is to increase : S
+the angular and spatial bin sizes, and the other is to increase the data collection time. Increasing a]
+the bin sizes has a negative effect on the image spatial resolution. On the other hand, due to : <
+the fact that the cosmic ray muon rate is relatively low, to gather enough muons to reconstruct : >
+a high resolution image is time-consuming. Furthermore, the assumption of a straight muon io
+beam path by the quasi-beam worsens the image spatial resolution even further, because the 18
+actual muon paths inside the matter are most likely to be curved due to the multiple scattering : s
+effect. Therefore, for applications that require a high spatial resolution, an image reconstruction 18
+
+algorithm not relying on an explicit muon beam is required.

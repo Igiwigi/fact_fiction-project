@@ -1,0 +1,15 @@
+As mentioned [=
+
+above, in the teacher forcing task y only affects the prediction for X,41 but not the reservoir state : R-)
+
+(see equation (3.1)). Taking a gradient with respect to x;_, yields input-output sensitivity S,, = 8
+
+A™ Win. Taking the operator norm p(-) = || - ||2 of both sides and invoking the fact that matrix :s
+
+norms induced by vector norms are submultiplicative (||AB]| < ||A||||B||) yields the desired result. :&
+a
+
+Note that applying this lemma to the reservoir-free case A = 0 immediately yields the earlier
+result above:
+
+Corollary 4.2. Let E be an ESN with no reservoir i.e. A=0.

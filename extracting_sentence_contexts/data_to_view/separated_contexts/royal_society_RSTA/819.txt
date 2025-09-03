@@ -1,0 +1,14 @@
+First,
+the number of particles involved in each simulation was sufficiently small that no attempt was
+made to consider the system as constituting a canonical (NVT) ensemble through the assignment
+of a temperature. Therefore, the pair-wise CR or frictional force was not balanced by any random
+
+
+temperature-dependent force acting as a heat source or sink [42]. This omission was helped by the ls |
+fact that in all close encounters between charged particles U >> kgT, where kg is the Boltzmann
+
+constant and T is a temperature. In addition, both experiments were undertaken in the presence of a
+an external force, which was either mechanical [29-33] or gravitational [34]. Furthermore, a many- :8
+body electrostatic theory has been used to describe charged particle-neutral particle and charged
+particle-charged particle interactions, whereas DPD studies have used pair potentials within a
+‘smeared charge’ formalism to avoid problems with point charges [20,23,24,27,28].

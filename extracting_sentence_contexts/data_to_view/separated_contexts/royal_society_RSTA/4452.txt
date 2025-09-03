@@ -1,0 +1,5 @@
+The pertinent numerator can be regarded as a kind
+of ‘distance’ between two contiguous probabilities. Thus, a different ordering of the pertinent
+summands would lead to a different Fisher information value. In fact, if we have a discrete PDF
+given by P = {p;,i=1,...,N} we will have N! possibilities for the i ordering. The question is, which is the arrangement that one could regard as the ‘proper’ ordering? The answer is straightforward in some cases, a histogram-based PDF constituting a conspicuous
+example.

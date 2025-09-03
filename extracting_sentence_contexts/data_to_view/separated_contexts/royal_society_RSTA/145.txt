@@ -1,0 +1,14 @@
+The constant vectors Uj, are the projections of u*(x) onto the spatial eigenbasis. Through analogous calculations to those in §3a, we find that coefficient vectors in the expansion
+
+(3.25) evolve according to
+
+dU;
+
+an —pDU, + I. P(x) f («09 + 2 Px(09Us (t), : — f(u*(x), »} dx, k=0,1,2,....
+
+(3.26)
+
+The last term arises from the fact that u*(x) satisfies the partial differential equation (2.4), which
+allows us to replace the relevant Laplacian term with —f(u*, x). The time derivative and diffusion
+terms in (3.26) are linear, yet the reaction term is nonlinear. Furthermore, as the reaction term
+involves all possible modes, the system (3.26) is infinite dimensional.

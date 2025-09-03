@@ -1,0 +1,17 @@
+Consider a DNA region D that can bind a set of proteins Xi
+(i=1,...,n), each with multiplicity m;. Let the cytoplasmic protein concentrations be [Xi]. This
+binding event can be represented as
+
+k
+
+7"
+D+mjX1 + m2X2 +--+ +1nXn = D- X1m, + X2m, +++ XMm,,- (2.1)
+k
+
+For simplicity in the discussion that follows, this representation clubs together what are in
+fact several independent binding events, and includes effective rate constants ky and k— for
+
+
+this clubbed reaction. Indeed, there might be several configurations of the bound state: other
+combinations in which the DNA can bind these proteins. Let s; represent these various states
+(including the one in which the DNA is bare).

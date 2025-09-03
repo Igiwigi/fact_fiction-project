@@ -1,0 +1,8 @@
+The examples above suggest that in general we cannot expect C!!-regularity of solutions,
+unless we restrict the problem into a smaller class of equations; this is illustrated in a few
+cases below. Note that in example 1.1, although the solution is not Cl! their second derivatives belong to
+BMO as a consequence of classical elliptic regularity (see, for instance, the appendix in [11] for
+a proof of BMO regularity for elliptic and parabolic fully nonlinear equations). Nevertheless, we
+do not expect this fact to be true in general for solutions to (1.3), and it would be interesting to
+understand under which assumptions such BMO regularity holds. We conclude this section by noticing that in the book [12, ch. VI, §5] (see also [13]), there are
+discussions and few results on ‘overdetermined’ problems with matching Cauchy data.

@@ -1,0 +1,15 @@
+Aside from work in actual Reverse
+Mathematics, research within the field often concerns the abstract theory of Reverse Mathematics
+itself, the study of the axiomatic systems for its own sake, the study of models of the theory and
+the relation between subsystems of Z2 and other systems of first- or higher-order arithmetic or of
+set theory. A general reference for the subject is Simpson [3]. We also refer the reader to Dean and
+Walsh [4] for an overview of the historical context of the development of Reverse Mathematics
+going back to Poincaré.
+
+(b) Ordinal Analysis
+
+Gentzen [5] gave the first proof (two, in fact) of the consistency of number theory (more precisely,
+PA). By Gédel’s theorem, such a proof must necessarily go beyond the means of arithmetic itself,
+and the way this happens in Gentzen’s proof is interesting. The proof follows a direct, explicit,
+inductive construction which reduces a putative proof z of a contradiction to a simpler such
+proof, eventually producing a proof so simple that it can be verified directly 7 could not exist.

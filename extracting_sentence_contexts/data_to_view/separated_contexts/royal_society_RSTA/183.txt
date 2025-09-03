@@ -1,0 +1,21 @@
+Immediately, this suggests that, in other potentially complex
+systems, one can advantageously progress by looking for their minimal frustrated
+models, rather than including at the outset all aspects of real systems at the
+microscopic level. Many other systems in condensed matter physics are now recognized as having
+conceptually related glassy complexity,” but let us now turn to different subjects
+with different ‘rules’.
+
+3. Combinatorial optimization—satisfiability
+
+The topic of combinatorial optimization has already been introduced through
+the Dean’s problem, but in fact there are a very great many hard optimization
+problems of considerable interest and intrigue. One such class, much considered in
+computer science, is known as ‘satisfiability’. Here, the task is to find the values of
+N binary variables 2;; i=1,...,N; x=1,0 such that a set of constraint ‘clauses’
+is satished (SAT) e.g.
+
+(a or Zora) and (Z3o0raorz5) and (......) and
+
+(3.1)
+
+where 2; denotes 2; = 1 (or true) and Z; denotes x; = 0 (or false).

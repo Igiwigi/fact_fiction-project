@@ -1,0 +1,10 @@
+One lesson learned repeatedly through
+the data challenges was that, if a system or procedure had not been tested at
+large scale, it would not work first time at large scale. All dimensions are relevant
+here: number of systems, sites or users, length of time for an operation, numbers
+of files or volume of data. Many of the problems encountered are obvious after
+the fact, but limits and thresholds, particularly in distributed systems, are not
+always obvious until they are encountered. Through this period, there were a number of experiment-based initiatives to
+improve the performance and reliability of Tier-1 and Tier-2 sites. In CMS,
+specific task forces were launched to help debug and monitor networking
+connections and to set up physics analysis processing at Tier-2 sites.

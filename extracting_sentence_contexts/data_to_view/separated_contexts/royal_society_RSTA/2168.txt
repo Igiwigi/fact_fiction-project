@@ -1,0 +1,27 @@
+Introduction
+
+planar Brownian motion, winding angle
+
+distribution, point vortices Let R(t) be a two-dimensional Brownian motion in R?
+
+with unit diffusivity, so that E|R(f)|? =4t. Take @(f) to
+be the total winding angle with respect to the origin
+accumulated by R(t) up to time f. It is a known fact that
+Jean-Luc Thiffeault Brownian motion avoids the origin with probability 1,
+e-mail: jeanluc@math.wisc.edu so the winding angle is well defined. Since the winding
+angle takes value in (—oo,0o) instead of [0,27), we
+can view the Brownian motion as taking place in the
+universal cover of C\{0}, ie. the Riemann surface of log z. Spitzer [1] in 1958 showed that the normalized
+winding angle converges to a standard Cauchy distribution
+
+as t > 00,
+
+20(t) a 1
+
+1
+x d x) = ——— 11
+logt ~ and px(s) mw1+x2’ (14)
+
+Author for correspondence:
+
+where px(x) denotes the probability density of X.

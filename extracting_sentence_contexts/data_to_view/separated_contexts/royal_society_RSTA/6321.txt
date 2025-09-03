@@ -1,0 +1,10 @@
+For rs = 4, the RPA performs comparably well over the entire q-range, with a
+maximum relative error around intermediate wavenumbers q ~ 2qr. In addition, we note that
+
+
+the r-decay measure within the RPA is more accurate for t = 6/10 than for t = f/2. This can be
+explained by the fact that while the SSF S(q) = F(q,0) in the RPA exhibits systematic errors for
+intermediate q (see figure 6), it does attain the correct first derivative given by the well-known f-
+sum rule (equation (2.18)). For rs = 20, the qualitative accuracy of the RPA noticeably deteriorates
+as electron-electron exchange-correlation effects become more important. In particular, the RPA,
+too, does not reproduce the negative slope of the exact PIMC data for AF;(q) for small q.

@@ -1,0 +1,12 @@
+In many case studies of interest, the
+change when assuming a population bottleneck between available data are in the form of frequencies of different var-
+the beginning and the end of the phase. iants of a cultural trait in the population at one or several
+The accuracy of ABC inference depends partly on how the points in time, which means that we face a classical inverse
+difference between observed and simulated data is calculated problem. Naturally, attempting to address this problem
+and on the achieved tolerance level. Calculating the differ- leads to the question of how much information about under-
+ence based on summary statistics S instead of the full data lying processes of social learning can in fact be extracted from
+D results in discarding likely useful information [93]. If a cultural frequency data of a given resolution. The framework
+summary statistic (or set of) is not sufficient—as is generally outlined here allows us to address this equifinality problem.
+the case in practice—the resulting posterior distribution will At the heart of this framework is a generative model, which
+not be equal to that computed with the full data [94] captures the main cultural and demographic properties of
+(see also [93] for a review of strategies dealing with this the system considered.

@@ -1,0 +1,28 @@
+However, as there were
+many genes without blast match and the annotation process can
+overpredict gene content [34], we decided to take into account
+only proteins in which, using a Pfam scan, we could find protein
+domains. The proteomes of M. brevicollis and S. rosetta contain
+approximately 70% of their proteins with a described Pfam protein
+domain. Therefore, we considered this fact in our calculations
+together with the average between the genomic completeness
+obtained by BUSCO and CEGMA (taking into account complete
+
+and fragmented proteins detected), to infer the total number of
+proteins that UC1 and UC4 may have in their complete genomes. SAGs assembly and annotation are available at Figshare (https: //
+doi.org/10.6084/m9.figshare.7819571.v1), including the list of
+protein classification.
+
+(d) Genome size estimations UC1 and UG4
+
+To estimate the genome sizes of UC] and UC4, we took the aver-
+age of the percentage of presence of BUSCO and CEGMA
+proteins (complete and fragmented), and the length of each
+assembly. Then, we inferred the putative genomic size of UCI
+and UC4 if the percentage was 100%.
+
+(e) Ecological distribution of our SAGs
+
+We performed a BLASTn v. 2.2.31 [49] using as query the 18S
+sequences of our SAGs against the operational taxonomic units
+(OTUs from the TARA Oceans database [55].

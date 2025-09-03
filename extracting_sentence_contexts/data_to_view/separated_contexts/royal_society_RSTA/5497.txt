@@ -1,0 +1,13 @@
+First, both versions of the framework were
+capable of providing a local interpretation for a given ECG signal classified by the network,
+by suggesting which ECG wave was involved in the decision. Depending on the class-wise
+recognition accuracy (recall) achieved and the ECG wave highlighted by the framework, our
+understanding of the decision process in place by the network may change. In fact, when the
+
+recall is low and the framework points to the right ECG wave for the diagnosis of the cardiac ‘=
+abnormality, the network is likely confounding its decisions with other abnormalities involving : =
+the same wave. For example, high RV values regarding the T-wave may mean that the network :B
+did not learn the correct pattern to distinguish between T-wave abnormality or T-wave inversion, : =
+but was understood to focus on the correct wave. On the other hand, when the recall is high :g
+and the RV value is low, the network might be overfitting on the given dataset, or the cardiac 3
+abnormality is not uniquely related to a specific ECG wave (e.g.

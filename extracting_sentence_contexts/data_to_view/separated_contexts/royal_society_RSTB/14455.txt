@@ -1,0 +1,14 @@
+However, that is not necessarily
+always their primary goal nor contribution (though it could
+be). Moreover, it has also been shown that even AI agents
+with the same overall benchmark scores are not necessarily
+judged to be equally human-like by human judges. In fact,
+While multitasking and continual RL have substantially con- benchmarks may contribute in early stages of model develop-
+
+tributed to this direction, many challenges and opportunities ment. For instance, consider Brain-Score [87], a platform for
+remain for future work [56,138-141]. comparing computational models of vision against brain
+
+benchmarks using neural measurements of the ventral IT
+cortex. Brain-Score results show that up to a certain point,
+better performance on image recognition correlated with
+better matches to neural and behavioural data.

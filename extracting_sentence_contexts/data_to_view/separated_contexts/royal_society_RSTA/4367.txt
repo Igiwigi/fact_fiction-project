@@ -1,0 +1,7 @@
+If there was no multiplexing gain, we would need to dimension core nodes such
+that they can carry the load resulting from all the lines peaking at the same time to the level
+of the most demanding of any of them. So for N lines, we would need a capacity of the order of
+N*R(1) with R(1) ~ 130 (from figure 5a). In actual fact, we only need to dimension those nodes
+to N*R(N). So the multiplexing gain is of the order of G(N) = [N*R(N)]/[N*R(1)] = R(1)/R(N). As
+shown in figure 6, if statistical multiplexing did not occur, network interfaces in the core of the
+network would have to be 50-60 times bigger than they need to be in practice.

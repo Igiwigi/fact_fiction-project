@@ -1,0 +1,42 @@
+In view of (1:53) we have, of course, y,(0) — 0 for all values of 2, so that we may put
+
+¥,(8) = EV a(6)- (1-58)
+
+The polynomials y,,(g) satisfy the same recurrence relation as the y,,(&), viz. Yu) — (E+ Ana tin) Yn—1(E) + An tél 1¥n2l8) = 0
+(u>1), and in accordance with (1-52) we have
+w_,(€)=0, ¥(€) =1. (1-60)
+In order to be able to apply lemma | to the #/,(§) we have to show that
+¥.(0) =¥,(0)>0 (n= 0,1,2,...). (1-61)
+
+On differentiating (1:57) and putting £ — 0 we find that
+
+Vi (0) = ty Yn—1() +9,-1(0), (1-62)
+whence (1-61) follows by induction, because ¢,_;(0) > 0 by (1-24) and (0) >0. Bearing in mind that
+n
+¥,(6) = TT (E-BAY) (n= 1,2, ---), (1-63
+r=1
+
+we obtain the following facts about the eigenvalues of the modified sections:
+Trrorem 2. The eigenvalues of BY (n = 1,2, ...) are distinet; one of them is zero and the others
+
+negative, thus eS me
+e OS RP SpPs shy: (1-64)
+
+The eigenvalues of B"~") separate those of BY, i.e.
+0 = AG yes Bea Bien s See Pet Pat - (1-65)
+
+>,
+
+The spectral theory of §1 may be applied to B™, The eigenvectors uj!" and v”” corresponding
+
+to #\ may be taken to be any non-zero row or column of
+adj (P1— BM) (1-66)
+
+respectively. Since AM and B™ differ only in their last element, the cofactors of the last row
+
+and of the last column are common to
+E™—AM| and | E7M— Bo]. (1-67
+
+Apart from vi? when A, = 0, the eigenvectors of B™ can be obtained from (1-38) and (1-39
+
+simply by replacing a” by /””.

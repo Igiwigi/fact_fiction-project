@@ -1,0 +1,7 @@
+The degeneracy distributions that admit a non-power representation are extremely rare. In
+order to see this, note that symmetry of the degeneracy table is a necessary condition for a
+existence of a non-power representation. The ratio between the number of symmetric degeneracy
+tables over the total number of possible tables gives a coarse assessment of this fact under the
+assumption that every table occurs with the same probability. Counting the number of degeneracy tables is analogous to what in physics is called the Bose—
+Einstein statistics, that is, counting the ways one can distribute k indistinguishable balls into 1
+labelled urns. In our 6-bit binary system, we have 64 strings/balls and 24 numbers/urns.

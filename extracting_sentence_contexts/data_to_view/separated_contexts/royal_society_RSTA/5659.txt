@@ -1,0 +1,60 @@
+In three
+dimensions, we find (using equations (3.13b) and (3.18b)) the Bolgiano-Obukhov result explicitly
+as
+
+E(k) = Kpeo?/?k- 1/5 (3.23)
+
+and
+1 frMSg-2/5 k2
+
+> .23b
+2n2 o(l+o0) KB (3.238)
+
+Kg=
+
+It remains to provide an estimate of the quantities f(¢, 7) and g(¢, «) in D=3 and for y=4,
+
+which is a consequence of the self-consistency of equations (3.132) and (3.182). For this, we use a
+
+trick for evaluating integrals [39] in dynamics from a renormalization group standpoint. This
+
+involves exploiting the fact that we are interested in wavenumbers ‘k’ that are much smaller
+
+than the viscous dissipation scale and hence evaluate the integrals to the lowest order in k’. Accordingly, equation (3.12) simplifies to
+
+tri \c i [ d(coso) | KP"P3" 4. fs" _ 2ks"p3"
+Cc 8220(1 +0) k pita 1 Kept ke Kp?
+
+1 8ky
+=——— . ]1+—- }. 24
+96720(1 +0) + Re (3.24)
+
+To evaluate the integral in equation (3.16), it is simplest to write it in frequency space and carry
+out the frequency integration to get in three dimensions
+
+dq (og
+rp)=| (x oa Pj3(q)piP 3D gee 4 (3.25)
+
+The factor I(p,q,o) is found to be
+
+rhs rp lp —qip(1 + op? + 4? + Ip — FP lly + lp — 4 + 09". (3.26)
+
+
+
+The projection operator involving term is given by
+
+22.2
+pjPl@piP (a) p+ OO — 223809) (6.27)
+
+a
+
+Here, again, we employ the same approximation as before of evaluating the integral F(p) where
+the wavenumber p is small (upper bounded by k which is small) and use a large —q limit to extract
+the first non-vanishing term in p. Accordingly, we find (setting y=4 and 5z=2) after doing an
+angular average
+
+CC 4x 10(py?) | 5 .(°% dg C2 For
+FY) PP 50(1 +0) E 3p. |P j G® PS 6o+o)” * (3.28)
+
+Returning to equation (3.17) in D =3, we find that the integration produces a term In(k/ko),
+which diverges as the lower cut off is taken towards zero.

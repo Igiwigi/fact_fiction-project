@@ -1,0 +1,38 @@
+However, if we view the corresponding wavelet transform modulus
+(figure 1d), we may observe a very obvious white band snaking across the transform plane. This
+band indicates where most of the energy of the original signal is contained in time and frequency
+and we can see that the characteristics of the signal are now displayed in highly resolved detail:
+the general frequency drift is evident, increasing over time and the frequency modulation is
+obvious from oscillatory nature of the band. In fact, the ridge of the band (shown as a black line
+superimposed on the band maxima) may be used to extract the instantaneous frequency of the
+signal component relatively easily by projecting this ridge vertically (figure le). This new signal
+
+
+32
+Ez
+Bie = 0
+5 10 15 20 25 30 35 40 45 50 () 10
+(b) gz :
+f E :
+“0 500 1000 1500 2000 2500 3000 :
+5 10 15 20 25 30 35 40 45 50
+©) . ' ig
+a]
+aN
+500 1000 1500 2000 2500 3000 =
+5 10 15 20 25 30 35 40 45 (g) a
+Fy ay 8
+@ ; 13
+f : =
+v en : <
+aN
+: a
+5 10 15 20 25 30 35 40 45 500 1000 1500 2000 2500 3000 Due
+:8
+Figure 2. Manipulating the transform. (a) Test signal containing two sinusoidal components. (b) Wavelet transform modulus. :3
+(Greyscale: black to white = lowest to highest amplitude.) (c) Transform phase. (Greyscale: black to white = —7t to 7t.) [eB
+
+(d) Synchrosqueezed transform. (e) Test signal containing underlying component with modulations and a break in the signal,
+high-frequency noise and large amplitude artefact. (f) CWT modulus of (e). (g) Running wavelet archetype of (f).
+
+is the non-stationary drift plus frequency modulation of the original signal (figure 1b).

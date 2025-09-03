@@ -1,0 +1,47 @@
+The optimized designs
+are in accordance with the results in [18], obtained using the incremental harmonic balance
+method, where we found the nonlinear strain energy due to mid-plane stretching reaches its
+local maximum around x= }L and x= 3L, which is precisely where the optimized structures
+are altered most significantly relative to their general thickness. Furthermore, the eigenfrequency
+of the first flexural mode decreases during optimization of maximizing the cubic nonlinearity,
+and increases during optimization of minimizing the cubic nonlinearity. This follows from the
+fact that the structure is made generally thinner when maximizing the nonlinearity, so that the
+critical sections can be made relatively thick, and the opposite trend occurs when minimizing the
+
+
+15 final design
+
+iteration = 30
+
+iteration = 20
+
+, iteration = 10
+
+vA initial design
+
+0 10 20 30 40 50 60 70 80 90 100
+iteration number
+
+Figure 5. Evolution of the objective function and shapes encountered during the optimization process. The vertical axis is the
+absolute value of the objective function divided by its initial value and the horizontal axis is the iteration number. (Online version
+in colour.)
+
+initial design
+
+1.0 br
+
+0.97% . .
+\ iteration =2
+
+iteration = 5
+
+° \ iteration = 10
+
+0.3
+
+0.2 final design
+
+0 10 20 30 40 50 60 70 80
+iteration number
+
+Figure 6.

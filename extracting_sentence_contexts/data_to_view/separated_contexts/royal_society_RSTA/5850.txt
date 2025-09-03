@@ -1,0 +1,62 @@
+By assumption u € 13(0,T; L3(T4)),
+
+so we need only to find an integrable upper bound for the Besov semi-norm MOI pea: First,
+
+by Jensen’s inequality, the pth-power of ball-averages is bounded by the ball-average of the pth
+power:
+
+Vet < p> ff aflem pan, p>. (21)
+T
+
+|Br|
+Thus, letting xy := 2-N_ we have
+
+lu(P)ljea = (Sup EN°1IV2-xflls)°
+. N=0
+
+<sup ly shh, ||5u(Lnn; +, £)||3 dn
+IBrl
+
+N=0
+
+-a5 nt fw d-1 Bap
+= sup ty doo | \ou(ot- 113. dot) (22)
+Now N Brl Jey-1 sit 3
+
+
+where p = |r| and where we have used the upper bound (3.21). Fix any scale ¢9 and split into small
+and large
+
+3 3s 3 —3s 3
+|U(P)I poae < sup ¢ [, (sem t)| bone dx+ sup ¢ I, ([deu(x, 1) beng dx
+
+[e|<lo [e|>£o
+< sup ¢- [ ([deutx, n)°) dx + 265% ||u){35. (3.23)
+lelséo tT! ang
+For B € (0,1), we have
+"Woe a-p-as(_1_ [7 3
+|u(t)|ps-0 dt < sup e~P)°S == | I |Seu(x, | dxdt (3.24)
+i BS itive \e-# Jo LA bag
++ 2) *|lulliso,ruseryy: (3.25)
+=]
+It follows that for any s < (1 — B)/3, we have for any € > 0 that there exists an ¢< such that for all : =
+lo Sle, 73
+:B
+[wor dt<00-A-% sup al (Iden Hi) dxdt + 20% ||u[35.9 1.7 3;q0 :S
+0 Be = "0 eicty EP My Ie Ol Tang 0 MAT 30,180) 8
+T 8
+1 a)
+<)* (limsy a= | [ [Seu(x,f)[3) dxdt + € + 2\IuI[s >. : =
+° ( 0 [e'-B Jo ul beng OTL (2) : 8
+Ss
+3 r 3 8
+~3s , :
+<f -/ I, D4/3lu] dxdt + € + 2Nlellis¢o,r;13¢04))
+=e (4 ' D[u] dxdt QI Iull> 3.26
+=o aly Sr [u] dxdt + € + Hl 3e0,r23¢r)) , (3.26)
+
+where we used the fact that the distributional limit exists by hypothesis 2.1 and employed our
+main hypothesis 2.3(b) in passing to the second to last line. We remark that the bound on the
+Besov semi-norm depends on magnitude of the inertial (or anomalous) dissipation. a
+
+Data accessibility. This article has no additional data.

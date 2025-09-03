@@ -1,0 +1,8 @@
+The security of these protocols relies on the
+computational complexity of the mutual underlying mathematical problem. While this problem
+may be hard for a classical computer, it does not necessarily have to be hard for a quantum
+computer. In fact, quantum algorithms are already known to solve some of these problems
+efficiently. In general, one can say that security based on algorithmic complexity is always
+endangered by a correspondingly large increase in computational power even of a classical
+computer or by advances of classical algorithms. In the history of cryptography, the only information-theoretically secure way of encrypting
+information is by way of the one-time pad.

@@ -1,0 +1,18 @@
+One example is to combine EIT and ECT together to realize
+the three-phase gas/oil/water flow [61]. Nevertheless, for all cases, further studies on the data
+fusion method are necessary in order to realize the multidimensional approach.
+
+:=
+
+5. Reconstruction algorithms :S
+The function of reconstruction algorithms is to convert the tomography sensor measurements into : a
+a tomogram that represents the electrical property distributions. 1S
+Owing to the fact that electrical tomography techniques generally have a low spatial resolution 7
+compared with hard-field tomography techniques, there has been much research on new : Sg
+reconstruction algorithm developments [62-65]. The common goal of these new algorithms is :B
+to improve electrical tomography’s ill-posed nature, aiming to achieve a better spatial resolution 73
+and image accuracy. Ideally, a good algorithm needs to have the following features: : x
+
+— high accuracy;
+— low computational complexity; and
+— robustness.

@@ -1,0 +1,11 @@
+Some examples
+of deterministic algorithms include the Laplace approximation, variational methods [75] and
+expectation propagation [76]. Both deterministic and stochastic algorithms for inference can often
+exploit the conditional independence relationships that exist between the variables in a model to
+perform the relevant computations efficiently using local messages passed between nodes of a
+graphical model [77-79].
+
+'8Most theoretical results on intractability focus on the worst case of a problem instance. The real-world inference problem
+may in fact be much easier to approximate. A complete review of approximate inference methods is beyond the scope of this paper, but
+a couple of points are worth making. All approximate inference methods can be characterized
+in terms of a speed-accuracy trade-off.

@@ -1,0 +1,15 @@
+For example, Ekman, Friesen & Hager developed a
+dimensional scanner (Occipital, Boulder, CO) and portions of manual observer-based method for coding facial expression
+code from the fieldtrip toolbox implemented in Matlab 2022a measurements [82] referred to as the facial action coding
+[67-71]. Optode locations were used to calculate positions of system (FACS). FACS provides a technique to record an objective
+recording channels (figure 1b), and Montreal Neurological Insti- description of facial expressions based on activations of facial
+tute (MNI) coordinates [72] for each channel were obtained with muscles and has provided a foundation to link human emotions
+NIRS-SPM software [51] and WFU PickAtlas [73,74]. with specific human facial expressions. By contrast, application
+
+of the OpenFace platform in this investigation does not relate
+facial AUs to any specific emotion. Spontaneous expressions of
+
+(g) Eye-tracking the Movie Watcher are classified as discrete constellations of
+Two Tobii Pro x3-120 eye trackers (Tobii Pro, Stockholm, Sweden), moving parts (AUs) and rated by the Face Watcher using a
+one per participant, were used to acquire simultaneous eye-track- scale from —5 to +5 indicating affect valence and intensity.
+ing data at a sampling rate of 120 Hz.

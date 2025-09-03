@@ -1,0 +1,17 @@
+As ground state depletion leads to a hard limit for the maximum usable intensity, we instead
+increase the driving wavelength to increase the harmonic energy; this comes at the expense of
+longer electron excursion times in the continuum. Long excursion times have two significant
+drawbacks—the first is a direct decrease in the harmonic yield at the single-atom level, with
+estimates of the exact scaling between 2-> and 4~° [22,24]. This is because (i) the electron
+wavepacket has more time to spread in the transverse direction, decreasing the probability of
+colliding with the atom, (ii) the increased longitudinal spreading of the electron wavepacket
+means the electron amplitude is spread over a wider range of energies, (iii) the fact that the dipole
+matrix elements responsible for the harmonic emission generally decrease with emitted photon
+energy and (iv) the intrinsic 1 /o* scaling of dipole emission [24]. For a fixed harmonic energy,
+increasing the wavelength causes the corresponding long trajectories to be born closer to the peak
+of the field, and the short trajectories to be born further away from it; the exponential scaling of
+the tunnel ionization probability then leads to a suppression of the short trajectories. The second
+
+
+effect of the long excursion times is an increase in the harmonic phase ¢(w), and in the intensity
+dependence of this phase.

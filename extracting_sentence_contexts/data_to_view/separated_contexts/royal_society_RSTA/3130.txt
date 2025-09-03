@@ -1,0 +1,11 @@
+The price to
+pay is that one of the basic notions that distinguishes probability from general measure theory,
+namely conditioning, was absent in this approach. An indication that von Neumann was aware
+of this is that he devoted a long manuscript to the quantum conditioning problem. The fact
+that this manuscript was never published is an indication of the author’s dissatisfaction with
+its conclusion (which amounts to an algebraic version of the usual Bayes formula: today we
+know that this is not the correct answer). This manuscript was later published under the editorial
+supervision of Halperin [12]. The attempts to introduce a notion of quantum conditioning in
+the context of C* and von Neumann algebras have a long history, which eventually led to the
+conclusion that, in von Neumann algebras, there is an analogue of the conditional expectation,
+but contrarily to the classical case, in general it is not a projection [13].

@@ -1,0 +1,12 @@
+However, we do not discard it, because motility of
+tumour cells has not been included in this first investigation, and might be crucial for these cells
+to escape. Finally, even though the tumours here inspected are genetically homogeneous and no
+evolutionary process is really taking place in our model, the transient bifurcation diagrams
+insinuate how the sculpting of the phenotype occurs, moving from the first region to the second,
+and then to the third. In fact, a similar CA can be used to explore the impact of heterogeneity
+and how the process of immunoedition takes place. It suffices to consider that the immune cell
+intrinsic cytotoxicity, represented by the parameter 6y,, depends on the tumour cell.
+
+(b) Low recruitment scenario
+
+We now evaluate the impact of the recruitment of immune cells to the domain of the tumour. For this purpose, we reduce the value of @;e¢ from 1 to 0.35.

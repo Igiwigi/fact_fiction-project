@@ -1,0 +1,21 @@
+The release of the study’s
+results, therefore, does not satisfy semantic security. Further research extends these examples and
+generalizes them in a formal mathematical argument that making semantic security a requirement
+in data analysis would essentially prohibit the discovery of any new knowledge through research =
+using personal data [29]. : 3S
+
+The discussion above should not be understood to undermine the importance of cryptographic
+notions such as semantic security to privacy. In fact, modern cryptographic methods such as mea)
+secure multiparty computation [30] and homomorphic encryption [31] extend the notion of :
+semantic security to settings in which several parties (each holding a private input) compute a [4
+function f() of their joint data without having to reveal any information beyond what is revealed DO
+at the conclusion of the following ‘ideal’ (imaginary) process: a fully trusted party collects the data a
+from all the parties, computes f(), informs each party of her designated part of f(), and erases the ae
+entire process from its memory. Such cryptographic approaches are now beginning to be deployed .
+in real-world settings, such as personalized medicine [32].
+
+(iii) Formal privacy models and differential privacy
+
+Failures of traditional privacy-preserving approaches to control disclosure risks in statistical
+publications have motivated computer scientists to develop a strong, formal approach to privacy. The formal study of privacy has grown successfully out of the study of cryptography, beginning
+with the seminal work of Diffie & Hellman [33].

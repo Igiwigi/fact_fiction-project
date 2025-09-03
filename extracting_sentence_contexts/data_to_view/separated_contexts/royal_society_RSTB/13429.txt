@@ -1,0 +1,85 @@
+These data include K-fold cross-validation and AIC) and the automated selection
+all reports classified as ‘potential COVID-19 cases’ notified via
+
+of k using the scoring described in the previous section, plus
+calls to 111, 999 and 111-online systems [30]. These data are not plotting functions.
+confirmed cases, and are subject to unknown reporting biases. They likely include a substantial fraction of ‘false positives’
+
+(cases classified as potential COVID-19 that are in fact due to (ii) Simulations
+
+other illness), as well as under-reporting (true COVID-19 cases Scripts implementing the simulation of COVID-19 outbreaks and
+not reported). Last, because these data are using self-reporting, their analysis, as well as the adapted farringtonFlexible function
+it is likely that individual perceptions as well as ease of access are available at: https://gitlab.com/stephaneghozzi/asmodee-
+
+to the reporting platforms impact the observed numbers. trendbreaker-evaluation.
+
+
+scenario: relapse 6 |
+
+evaluation on class ‘increase’
+alpha(ASMODEE manual) = 0.03, alpha(ASMODEE optimal) = 0.15, alpha(modified Farrington) = 0.01
+
+3
+A}
+ba precision sensitivity specificity
+0.754 @ &>
+2
+g
+5 0.50
+0.25
+0
+> > > > > > S > > s
+s © ss Ss SS Ss s Ss
+s $ s $s s s eg s eS
+gy gr es gr of gt of ve
+¥ $$ § ¥ S$ & & s&s
+SF FX Kg SF OS - er S g
+S Ss
+xs © SS SS SS S
+Y ba s Y Y Y e s z
+detection method =
+S
+scenario: lockdown Fe
+evaluation on class ‘decrease’ =
+alpha(ASMODEE manual) = 0.01, alpha(ASMODEE optimal) = 0.04, alpha(modified Farrington) = 0.01 a
+S
+ba precision sensitivity specificity i
+w
+—~
+>
+0.75 - ~
+—)
+2 S
+5 0.50 - Ss
+g Np
+&
+0.25 -
+|
+> Se RS >
+s Ss & s < . eo RS ss SS
+¥ ¥ ¥ ¥
+SF FF SF SF ¥
+Pr PY Ss ro Sf Ss Y
+
+detection method
+
+scenario: flare-up
+evaluation on class ‘increase’
+alpha(ASMODEE manual) = 0.03, alpha(ASMODEE optimal) = 0.25, alpha(modified Farrington) = 0.02
+
+ba FI precision sensitivity specificity
+
+:
+> S > $
+
+s € s = s Ss
+
+$s < Ss sg s Ss
+s$ gg s gg $
+Si ~ sj § § x
+s se Ss s s Ss
+. r Sf s rf Ss
+
+detection method
+
+Figure 2. Evaluation of the algorithm on simulated data.

@@ -1,0 +1,12 @@
+Our next goal is to consider the effects
+of more global copying operations.
+
+
+4. Knowing of the record but not the outcome
+
+Immediately above, in equations (3.18)-(3.20), we have insisted that the orthogonality condition,
+Tr pea ps A — 0, should be satisfied ‘in the apparatus’, that is, that the apparatus eigenspaces that
+correspond to the records should be orthogonal. This insistence stemmed from the fact that the
+copying evolution 4p coupled only to A. However, one can imagine a situation where S(s_4)p
+couples D to a global observable of SA. In that case, one might be able to find out that A ‘knows’
+the outcome—the state of S—without actually finding out the outcome.

@@ -1,0 +1,14 @@
+Each is a basis for Gaussian modes of mode order
+N, inequivalent because the commutator of the corresponding operators does not vanish. The
+lowest-order members of the HG and LG sets, labelled by N and j, are shown in figure 4. The
+‘swings and roundabouts’ distinction between linear back-and-forth motion associated with M
+and angular motion with a definite sign associated with L, gives a physical interpretation to the
+fact that HG modes are real-valued, resembling a standing wave pattern, whereas LG modes
+are complex with a definite sense of angular momentum direction in the azimuthal phase factor
+exp(it@), although both HG and LG modes have the same eigenvalues. Real LG modes such as
+those discussed by [13], with angular dependence cos ¢@ or sin ¢@, are not eigenfunctions of L,
+but are of L2: they may occur in laser cavities whose mirrors have some spherical aberration [13],
+or if a defect in the cavity generates a nodal line. As we are considering stationary modes, it is
+natural to expect real LG modes occurring as modes of cavities, like HG modes; devices such
+as cylindrical lenses (or indeed, spatial light modulators) are required to synthesize LG beams
+carrying orbital angular momentum of definite sign, as appreciated by Allen et al. [11].

@@ -1,0 +1,25 @@
+Note that the refocusing time is expected at 2T, which
+is redefined in the following text as the new time origin. We have to note that that this new wavefield verifies a homogeneous wave equation with the
+time-reversed BCs (the original source is no longer present):
+
+1 a gtr(r, t)
+wae 0. (2.2)
+Therefore, it cannot be equal to g(r, —f). In fact, it is not enough to time-reverse the wavefield
+on the boundary S. You also have to time-reverse the source term on equation (2.1) and g(r, —f)
+indeed verifies the following equation deduced from equation (2.1) where f is replaced by —t:
+
+Agu(t, t) —
+
+1 92y(r, —#) =
+
+Ag(r, -t) — —5 ——— =s(r, -#). 2.3 13
+ett) ~ Tage 806 1 Q3) 38
+This means that in order to achieve a perfect time-reversal, both the source has to be transformed into :
+a sink (the time-reversal of a source s(r, —f)) and also the field and its normal derivative on surface aa)
+S have to be time-reversed. Note that if the source is impulsive one writes s(r,t) = S(r)5(f) and as tw
+
+8(t) = 4(—t) we easily find that [13] 3
+gue(t, t) = p(t, -f) — g(t, t). (2.4) : gS
+
+This important result is, in some way, disappointing because it means that reversing a wavefield
+using a closed TRM is not enough to radiate only the advanced wavefield.

@@ -1,0 +1,13 @@
+For the deforestation analyses, we calculate the
+
+slope of each 30m land parcel. For the socioeconomic
+analyses, we calculate the average slope (in degrees) based
+on the slope of each 100 m land parcel within a canton. The fact that protected areas have the potential to affect
+multiple units (parcels or cantons) raises concerns regarding
+the statistical precision of our ATT estimates. The concern is
+that if the outcome is systematically correlated across units
+
+according to some grouping, then the precision of our estimates (ii) Distance to major city
+will be overstated. This is a particular concern in the deforesta- Distance to city captures the variation in the opportunity cost
+tion analysis because we are not able to observe the relevant of land and deforestation pressure as a function of distance to
+management units, which is one of the reasons that we ran- major markets [16,30].

@@ -1,0 +1,39 @@
+RO = log [a] , (4.2)
+
+defined in such a way that its average is the first-order Shannon information (if we take logs to
+the base of the alphabet D)
+
+L
+(Ride =) pilsa)R =L — D> H(i), (43)
+
+ia
+where
+
+H() = — Y7 pilsa) log pilsa)- (4.4)
+
+Note that this information matrix is defined in close analogy to the position weight matrix
+(3.9), except that rather than comparing p;(s,) to the likelihood of the most common symbol, the
+information matrix is constructed by comparing p;(sq) to the unbiased expectation, that is, 1/D. The information score for a sequence s; constructed using the first-order information matrix is
+constructed just like (3.11)
+Ry(s) = Tr(ROG,). (4.5)
+
+We now construct both energy and information scores that include higher-order corrections. Using E(s1 ---s;) =log(po(si ---s,)/p(si-+-s_)) and the expansion of the joint probability (see
+appendix A) we can write
+
+L L L
+E(1 +++ 81) =) E(s;) — D> Blsj:5)) + D> Blgj:sj 15x) — +--+ (- 1) TEG:8):-+-51). (4.6)
+i=1
+
+i<j i<j<k
+
+Here, we defined joint and shared energy scores as
+
+E(s;) = log a (4.7)
+E(sjs;) = log Potsi) (4.8)
+Pij
+and E(s;: 5;) = E(s;) + E(s;) — E(s;s;). (4.9)
+
+5 This is in fact Schneider's information matrix introduced in [27], but with a uniform prior 1/D and without finite sample size
+correction, which we will take care of using pseudocounts instead. Analogous relations hold for information scores for monomers, dimers and so on. Note that
+expression (4.6) exactly mirrors the entropy decomposition (2.6), but it holds for every sequence,
+not just for the average over sequences.

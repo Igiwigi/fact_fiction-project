@@ -1,0 +1,7 @@
+After all, there could be intermediate principles
+that are derivable in T. Dick de Jongh was the first to investigate this phenomenon: in his doctoral
+dissertation [3], he showed that the propositional principles valid in Heyting arithmetic (HA)
+under all substitutions are exactly those of propositional intuitionistic logic (IPC). This fact is now
+known as de Jongh’s theorem and has sparked fruitful investigations into the logical structure of
+intuitionistic arithmetic. A generalization of de Jongh’s theorem would be to consider not only
+the propositional principles of HA but also its propositional admissible rules (see definition 2.3). Visser [4] showed that the propositional admissible rules of HA are exactly those of IPC.

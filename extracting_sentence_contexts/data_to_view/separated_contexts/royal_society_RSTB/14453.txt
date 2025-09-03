@@ -1,0 +1,15 @@
+The effect of embodiment
+
+
+on the motor control of a virtual arm under visuo-propriocep- action redirection, the experimental dataset is extremely rich
+
+tive conflict has been recently documented [55,62] and could and future works will be needed to go through it in more
+be explained as an implicit motor component that acts to mini- depth. Inspecting classical kinematics indexes (e.g. peak
+mize multisensory prediction errors [56]. According to the and time-to-peak velocities and accelerations) as in previous
+model, this motor component is modulated by the perceived studies on reaching control may in fact add complementary
+mismatch between the visually and proprioceptively sensed insights. However, a direct comparison with previous
+locations of the arm and acts akin to a small force in the direc- works would not be straightforward, given that the continu-
+tion of the visually perceived location. In the current study, ous visuo-motor manipulation adopted in our study is
+for reaching actions redirected away from the midline the vir- profoundly different from those adopted in classical studies
+tual hand is displaced closer to it, while the opposite is true on online motor corrections using discrete perturbations
+for actions redirected towards the midline.

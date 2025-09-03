@@ -1,0 +1,26 @@
+In the meanwhile, numerical modelling has
+progressed towards more sophisticated descriptions of structural components, mechanical and
+electrical subsystems of modern offshore wind turbines, along with an appropriate treatment
+of the incident wind and wave fields. Existing numerical models rely on modal representation,
+multi-body, finite-element (FE) concepts, sometimes combined in mixed approaches, and involve
+system motion equations to be solved by fully coupled nonlinear time-domain integration, to
+account for inherent interactions between aerodynamic and hydrodynamic responses. In fact,
+while aerodynamic loads on the rotor are to be derived from aeroelastic models, considering
+
+
+the complex interaction between air flow and rotor blades, the influence of control systems
+and support structure dynamics, the latter affects the calculation of the hydrodynamic loads. Hence, although in some cases and especially in the early stages of design, simplified analyses
+are implemented with responses to wind and wave loads computed separately and next
+superposed [18,19], only fully integrated time-domain simulations are currently recommended as
+the basis of final, detailed wind turbine design calculations, owing to the role played by system
+nonlinearities inherent to rotor aerodynamics, hydrodynamics and control systems [20-22]. For either existing solutions in shallow-transitional waters or future projects in deeper waters,
+the objective of an efficient and cost-effective design poses engineering challenges and numerical
+modelling complexities, which can be solved only by an integrated approach combining the
+expertise in diverse fields such as, among others, aerodynamics, hydrodynamics, structural and
+foundation engineering; also, vibration control and health monitoring play an important role, in
+view of ensuring a reliable and continuous power production for sustainable investments [23,24]. =
+Although an exhaustive description of all aspects of offshore wind turbines design is almost :
+prohibitive, this theme issue will attempt to provide a broad perspective on the state of the art
+and most recent developments, with 16 papers on aerodynamics, hydrodynamics, new design nee)
+solutions, experimental tests on prototypes, response to environmental loads, vibration control
+and health monitoring techniques.

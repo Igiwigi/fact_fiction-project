@@ -1,0 +1,10 @@
+On the other side,
+fractional operators possess several extremely powerful features for the simulation of complex
+physical systems. As an example, due to their differ-integral nature, fractional operators are
+intrinsically multiscale. In fact, the order of the fractional derivative dictates the shape of the
+influence function (kernel of the fractional derivative), while its interval defines the horizon
+of its influence, i.e. the distance beyond which information is no longer accounted for in the
+derivative. As a result, time-fractional operators enable memory effects, ie. the response of a
+system is a function of its past history, and space fractional operators account for non-local and
+scale effects. The unique set of properties of fractional operators have determined a surge of
+interest in exploring their possible applications.

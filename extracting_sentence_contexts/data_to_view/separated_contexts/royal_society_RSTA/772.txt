@@ -1,0 +1,8 @@
+The execution includes rf edges, indicating which store a given load reads from, and hb
+edges, where internal load-acquire accesses pair with the store-release in the context to create a
+happens-before ordering. This ordering is captured in the history as a happens-before edge from
+the context store to the block return (this edge is missing from the corresponding history of P3). In the history, all of the internal structure of the block is erased, including the fact that there are
+two loads in P}. A pair of denotations, [P;] and [2], can be compared with an abstraction relation, written as
+[Po] © [Pi]. The abstraction relation ensures that the histories of [P2]] are a subset of those in [P)],
+so Pj can interact with its context in at least as many ways as P3, as is the case for our example
+above.

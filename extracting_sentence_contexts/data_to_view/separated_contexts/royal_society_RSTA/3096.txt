@@ -1,0 +1,10 @@
+This theorem extends a result proven in [18] in that it pins down an appropriate
+function space for our analysis and, within that function space, establishes uniqueness of a
+minimizer. That uniqueness, in turn, yields a weak stability result, as it shows that it would be
+inconsistent for any perturbation preserving the function space to have a growth rate that is non-
+negative. Preliminary calculations indicate that in fact a strong stability result should hold here;
+ie. that for any value of || < 1, there exists c > 0, depending on yz, such that the infimum of the
+decay rate magnitudes of perturbations preserving the space is bounded below by c. However,
+this remains to be rigorously established by a complete analysis of the Hessian for the RCN
+variational problem. The second part of §3 discusses how to reconcile this stability result with the presence of
+an instability in grain boundaries of the SH equation.

@@ -1,0 +1,6 @@
+Now let us set up the example task. The system is asked: ‘What is the dollar of
+Japan?’. The system’s knowledge base is assumed to include all necessary items, for example:
+‘currency = superset*dollar’ and ‘Yen =Japan*currency’, i.e. it knows that the dollar is a subset
+of the concept of a currency, that the currency of Japan is, in fact, the Yen and all other relevant
+facts. Under these conditions a possible succession of steps used by the overall ‘cognitive’ system
+to solve the query is shown in table 4. The system begins by loading the keywords of the query into its buffers INA and INB (step 1).

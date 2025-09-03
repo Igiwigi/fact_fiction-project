@@ -1,0 +1,7 @@
+Here, pressure profiles are sampled from a
+distribution that can represent many practical bubbly flow problems. Yet, the method is not
+guaranteed to generalize well for drastically different external forcings. The former caution stems
+also from the fact the used neural network is trained on a fixed time step, which may result in
+poor generalization for cases with much faster dynamics. Section 2 formulates a model problem that serves as the basis for the proposed extension
+of CHyQMOM, namely the dynamics of a population of cavitating bubbles whose statistics
+are significantly non-Gaussian. In §3, the new hybrid method is described.

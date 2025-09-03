@@ -1,0 +1,7 @@
+We define the matrix
+product state showing two possible ways to build it. The first one is in the spirit of DMRG
+method of White [3], based on the Schmidt decomposition of a quantum state. The second one,
+the original point of view, comes from the fact that the matrices can be seen as a bond between the
+neighbour sites in a chain. The latter approach springs from the valence bond model introduced
+by Affleck et al. [70] and generalized by Fannes et al. [71]. The link between the two points of view
+has been unveiled by Ostlund & Rommer [6].

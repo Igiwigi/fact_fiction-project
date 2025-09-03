@@ -1,0 +1,13 @@
+However, in the context of deterministic processes, statistics faces insuperable obstacles when
+trying to quantify irreducible information content [13]. Being one of the well-known results
+in algorithmic information theory (AIT) [1], any resource-bounded computational procedure
+that tries to quantify the amount of irreducible information content in a single encoded object
+returns distorted values in general. Although the entropy of its contiguous blocks of length
+m is maximal, this distortion is, for example, seen in Borel-normal sequences of length n that
+are in fact computable (and therefore logarithmically compressible) [14], where m <n. In the
+context of networks and graphs, there are also highly compressible graphs in which the degree-
+sequence entropy is maximal [15]. Thus, if one is interested in measuring irreducible information
+content (or measuring the emergence of new irreducible information) in deterministic systems,
+which are free of stochasticity, employing any fixed and computable measure based only on
+finding and exploiting statistical patterns (in order to approximate the most compressed form that
+computes the system’s behaviour) will exhibit limitations and face these obstacles in general.

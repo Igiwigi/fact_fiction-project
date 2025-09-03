@@ -1,0 +1,67 @@
+As expected, site-heterogeneous
+that the S/F method is widely recognized as useful to avoid models (CAT + P and CATGTR + I’) perform slightly better
+artefacts, even in shallow phylogenies. Therefore, it is surpris- than site-homogeneous models (LG +I and GTR+T).
+ing that the results of its application to deep phylogenies are However, the key difference here is not the substitution
+ignored to the advantage of those obtained with very simplistic model used, but the taxon sampling (outgroup distance),
+methods (e.g. without any heterogeneity across sites [81,82]). which is precisely the parameter that is almost fully con-
+To make it clear, our point here is not to claim that the S/F strained when rooting the ToL (owing to the existence of
+method is adequate to locate the root of the ToL (see [59] for a only three domains and a few anciently duplicated genes). Sev-
+recent criticism of fast site removal) nor that prokaryotes are eral important model violations are known to affect
+indisputably monophyletic, but rather to emphasize the fact mitochondrial genes: (i) heterogeneous amino acid composition
+that many researchers have preferred results based on clearly across taxa [50], (ii) heterotachy [86] and (iii) heteropecilly [59].
+inadequate methods over results based on improved methods. These model violations are due to variations in the substitution
+
+In our opinion, this paradox is to be attributed to the power of process over time and initially stem from a change in functional
+
+
+Eukaryota [EF 1-like]
+Eukaryota [EF la-nuclear]
+— Thaumarchaeota
+_—~] Crenarchaeota~Thaumarchaeota
+Crenarchaeota
+Nanoarchaeota
+Crenarchaeota
+Crenarchaeota
+
+Korarchaeota
+Parvarchaeota
+10 '__ Euryarchaeota
+<7] Euryarchaeota—Nanoarchaeota
+anohaloarchaeota EF-Tu
+Euryarchaeota
+a 2 Lex] Euryarchaeota
+L<| Euryarchaeota
+Eukaryota [EF la-plastid]
+Bacteria
+Bacteria
+Bacteria
+Bacteria
+Eukaryota [EF 1a-mitochondrion]
+Eukaryota [EF la-mitochondrion]
+Bacteria
+Bacteria
+Bacteria
+
+<=] Eukaryota [EF2-plastid]
+L— Bacteria
+Bacteria
+-—|— Bacteria
+18 <<] Bacteria
+
+Ll
+
+3.5
+
+Eukaryota [EF2-mitochondrion]
+Eukaryota [US—116kD]
+Eukaryota [EF2-nuclear]
+
+EF-G
+
+Crenarchaeota
+Parvarchaeota
+Euryarchaeota—Nanoarchaeota
+
+M<] Euryarchaeota
+
+Figure 3. The amount of model violations in alignments of anciently duplicated genes makes rooting the ToL very difficult.

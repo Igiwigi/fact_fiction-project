@@ -1,0 +1,44 @@
+It is, however, desirable to check that,
+in the general case, the solution is continuous across @-+ 0) = 17, particularly in view of the
+fact that the subsequent analysis centres on an examination of the field at points on this line. The discontinuity in the geometrical optics term (99), found by subtracting its value at
+4 +6, = 1—e from that at 6+-0) = +e, where e-> 0, is
+
+Hs] A(S, 8). (137)
+
+It is not difficult to show that (137) is balanced by the discontinuity in the diffraction term. This latter arises solely from the first expression on the right-hand side of (133) ; in fact, using
+(118) and noting that B = 0 on 0+0, = 17,
+enh Ra? If 2+ 2i cot? 4(O,— ay)
+* Fei
+
+cinberg (1946) gives a second-order correction term in this case for the ground-to-ground field
+
+7+
+rile = 2,/2e™ cot }(0,—a,) da. (138)
+
+
+RADIO PROPAGATION ACROSS A BOUNDARY 31
+
+ssed (exactly) in terms of the complex Fresnel integral
+
+The integral in (138) can be expr’
+(20) (Ott 1943; Clemmow 1951); we have
+7 bs = -
+1] = 2 /mne-tin Ff /(2kR,) cot $(09—ay)}, (139)
+. soe oe ay
+and this can be legitimately replaced by
+ze
+1| 2 /ne-tit sin }(0)—ay) F£/(2KR,) cos (0) —2)} (140)
+ea
+to the order of approximation to which we are working. ‘The corresponding discontinuity
+in Hé is now obtained from (106), (128) and (140). It is
+
+m4 2/2 : .
+id sere ee _@-ikS FS /(2kS) sin 1(0 +-a,)}
+Hy cos 4(9—a,) L,(—cos 0) L, (cos 0) © He singe bay)
+- —A(S,@), using (102) and (21). (141)
+
+We remark that the necessity here for replacing (139) by (140) only arises because, owing
+to the greater complexity of the analysis, our method of approximation in the mixed-path
+problem has been slightly less refined than that adopted in the case of a homogeneous earth.
+
+8.

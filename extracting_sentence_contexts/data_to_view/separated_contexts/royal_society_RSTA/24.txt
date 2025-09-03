@@ -1,0 +1,10 @@
+Indeed,
+it is well-known that DP mixtures can introduce many small extra clusters. To overcome this,
+Guha et al. [147] develop a post-processing procedure to consistently estimate the true number
+of components by suitably truncating components with small weights and merging similar
+components. Instead, consistency can also be achieved by adapting the concentration parameter
+a of the DP to be sample-size dependent or via a suitable hyperprior, which is in fact standard
+in practice [149,150]. Furthermore, Frithwirth-Schnatter & Malsiner-Walli [151] illustrate that the
+choice of the hyperprior on the weights is far more influential on the number of clusters than
+whether an overfitted or DP mixture is considered. In practice, we can expect that mixture models are misspecified in some way; either in the
+kernel or mixing measure, or both.

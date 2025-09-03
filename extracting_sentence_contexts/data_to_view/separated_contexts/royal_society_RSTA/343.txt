@@ -1,0 +1,4 @@
+The idea is to consider a generative model similar to the one
+in (6.2), but with, in some sense, opposite assumptions on the underlying variables: the s; are
+linearly correlated, while the v; can be independent (above, it was approximately vice versa). This changes the statistical characteristics because 5; are zero-mean while the v; are non-negative. In fact, the s; are then linearly correlated. A topographic kind of dependencies was proposed by
+Sasaki et al. [59]. Very general kinds of dependencies can be modelled by non-parametric models.

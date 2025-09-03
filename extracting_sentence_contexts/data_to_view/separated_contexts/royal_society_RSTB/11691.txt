@@ -1,0 +1,24 @@
+Metapopulations are defined as a collection of
+spatially restricted local populations connected by some
+degree of migration (i.e. a patch network) [13], and their
+dynamics can be described by mathematically rigorous
+models using biological and landscape data from real
+metapopulations [14]. Metapopulation models are most com-
+monly used in conservation planning to help identify habitat
+patches critical for the persistence of threatened populations,
+earmark these critical areas for protection and study the
+effects of habitat loss at the network level [15]. However,
+populations of invasive species inhabiting and moving
+across fragmented habitat often fulfil the criteria of a meta-
+population [16-19], and are in fact more often likely
+to satisfy the metapopulation modelling assumptions of
+dynamic population equilibrium and low detection error
+than are populations of threatened species that are rare and
+in decline [20]. It follows that the traditional metapopulation
+approach could be used ‘in reverse’ to identify habitat
+patches important to invaders, prioritize those patches for
+management and study how localized management efforts
+might influence broader invasive population dynamics
+across the network of patches [17,21]. Among the existing metapopulation modelling approaches
+(e.g. [22-24]), the incidence function model (IFM) might be the
+most useful to examine invasive populations.

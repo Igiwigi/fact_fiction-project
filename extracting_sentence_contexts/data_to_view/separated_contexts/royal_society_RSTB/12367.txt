@@ -1,0 +1,7 @@
+During encoding, the model was presented with a series of three role-filler pairs (SUBJECT - DOG, VERB - EAT,
+PATIENT - STEAK). At the last (fourth) time step, the model was only presented with a test role (in the example above: SUBJECT) and it had to output the
+corresponding filler which was associated with it (DOG). When the model was trained to produce VARS representations, the role-filler pairs were accompanied
+by a random? permutation of tokens during encoding which determined the allocation of symbols to representational slots (for example, the fact that DOG
+was paired to token 3 meant that DOG has to be represented in the third representational slot). In this way, the random token input ensured that each filler
+has been allocated to each slot during training. The VERB was treated as a binary relation and its arguments (i.e. the relational roles SUBJECT and PATIENT)
+were bound to the corresponding fillers (in this example, subject to DOG and PATIENT to STEAK).

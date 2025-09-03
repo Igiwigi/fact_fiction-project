@@ -1,0 +1,13 @@
+Developmental processes in different parts of the embryo
+will need to be synchronized: protein levels will need to oscillate periodically in time. And the list
+goes on. The surprising fact is, each of the tasks on our wish-list can be achieved by small networks
+of interacting genes (figure 4) [32,33]. In §4b, we survey a few simple networks that are
+able to generate, in principle, these various biologically desirable outcomes. Over the past
+decade systems such as those discussed here have been explored experimentally by synthetic
+biologists [34-36]: negative feedback for noise reduction [37,38]; positive feedback and the
+flip-flop for bistability [20,3941]; and hysteretic and ring oscillators [26,4244].
+
+(b) The dynamics of simple network topologies
+
+Amplification by cooperative activation: consider a gene that encodes a protein Y and is regulated
+by an activator X (figure 52).

@@ -1,0 +1,8 @@
+This ‘minimization principle’ is set out for uses of personal data within the Data Protection Act. There are steps that we can take to do this, e.g. de-identifying or aggregating data to higher
+levels, keeping data in registers and querying against them (rather than seeing the whole dataset),
+or using synthetic data. We need to be alert to the fact that increasing the amount of data available
+increases the possibility of de-identified data being re-identifiable. Often government will need to use identifiable data (and sometimes sensitive identifiable
+data), or include large datasets to create good algorithmic models or identify wrongdoers. In
+our research, participants were concerned about how this seemed to be in conflict with the
+principle of innocent until proven guilty and using data from people who have done nothing
+wrong to identify those who have.

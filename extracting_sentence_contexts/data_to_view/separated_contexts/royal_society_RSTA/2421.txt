@@ -1,0 +1,14 @@
+In the published derivation the plasma was assumed
+to be cylindrical and so the elongated shape of the plasma was not included. Repeating the
+derivation but including the shape characterized through the aspect ratio, A=Ro/a and the
+elongation, «, we find
+2 7/2
+
+nT tp x ab () . (2.2)
+
+The details of the derivation are given in appendix A. Here H = (TE) experiment / (TE) scaling is a
+simple numerical factor included to allow for the fact that in experiments the actual confinement
+time, (TE)experiment, can be above or below (TE) scaling: Typically H is in the range 0.8-2.0. The
+parameter q = RoBrk. /A*lp is an operational parameter related to the pitch of the magnetic field
+in the plasma and known as the ‘safety factor’. Experiments have shown that q must be kept >2.5
+and so for a given device it is essentially a constraint on the maximum current that can be used.

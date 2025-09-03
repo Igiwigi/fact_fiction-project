@@ -1,0 +1,25 @@
+The good agreement with
+the results from the combined FAS/KMC simulations illustrates the validity of fitting the key
+quantities in the AMC, #; and zj, with the analytic functions in equations (2.10) and (2.11). In this
+particular case, the AMC approach is actually computationally more expensive than the direct
+KMC simulations. This is due to the fact that there is no large barrier for the escape from the
+superbasin states, i.e. the system is not trapped in these states, and the effusion can also readily
+happen in the KMC simulations. The time-consuming part of the AMC algorithm is the inversion
+
+
+
+(a) (b)
+
+Z6 ae 15 oo
+
+a4 oe 10 on
+
+== KMC .
+
+++ AMC ; == KMC
+i +++ FAS 1 ++. FAS
+
+0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 0 0.2 04 06 08 10 12 14
+minimal distance x,,;,, (nm) minimal distance x,,;,, (nm)
+
+Figure 3.

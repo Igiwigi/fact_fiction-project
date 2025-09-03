@@ -1,0 +1,6 @@
+All the artificial harmonic waves are absorbed to the shape function. This enables us to
+obtain a sparse representation of the signal. Once the phase function is obtained, by exploring the fact that s is a periodic function of 6, we
+can identify certain low-rank structure of the signal. This structure enables us to extract the shape
+function from the signal. The details will be given in the next section.
+
+3.

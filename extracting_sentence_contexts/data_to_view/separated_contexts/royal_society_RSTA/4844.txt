@@ -1,0 +1,26 @@
+We construct again empirical DT and ALMT phase diagrams and display them in figure 3
+together with the theoretical Gaussian-case phase-transition curves for LP. Also in this case, the
+CT phase diagrams are almost identical to the Gaussian case, in terms of both the empirical phase-
+transition curve and the width as indicated by the 5% and 95% contour lines. In fact, the similarity
+is even larger, as the cyan 50% contour in the CT case coincides with the theoretical transition
+curve, except at the bottom left corner of the DT phase diagram, as before caused by having
+only one or two CT projections. In accordance with the theoretical curves, we see that even fewer
+samples suffice for recovery in the non-negative case compared to before.
+
+
+(a)
+
+1.0
+
+Gaussian spikes (b) fan-beam_equi spikes Lo |
+
+0 0.2 0.4 0.6 0.8 10 O 0.2 0.4 0.6 0.8 1.0 : ~~
+d=m/N d=m/IN is
+(c)
+
+10 Gaussian spikes (d) fan-beam_equi spikes [4
+
+0 0.2 0.4 0.6 0.8 1.0 0.2 0.4 0.6 0.8 1.0
+s/N s/IN
+
+Figure 3. Phase diagrams for the non-negative spikes image class and LP reconstruction.

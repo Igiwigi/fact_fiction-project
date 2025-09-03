@@ -1,0 +1,10 @@
+While the lattice Boltzmann method (LBM) : zB
+displays numerous advantages as a CFD tool, see [3,4], it formulates on an uniform Cartesian 1S
+
+mesh, by default. Therefore, the task of prescribing boundary conditions over arbitrarily shaped
+surfaces requires particular care in order to avoid the inaccurate staircase discretization. This
+task is further complicated by the fact that LBM’s working variables correspond to mesoscopic 8
+populations, rather than macroscopic fields [5]. Thus, the LBM realization of hydrodynamic :
+boundary conditions tends to be made implicitly, through conditions set at the level of the aaa)
+mesoscopic populations. Such difficulties explain the relentless interest in this topic, which :
+continues an active area of research [3,4,6].

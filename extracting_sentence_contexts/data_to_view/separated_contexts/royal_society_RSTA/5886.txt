@@ -1,0 +1,53 @@
+Finally, we will also provide some details about
+numerical approximations.
+
+(a) Solution of Problem 4.1
+
+For a given value of £9, a local maximizer tig, of Problem 4.1 can be found as tig, = limn—oo ul?
+using the following iterative procedure representing a discretization of a gradient flow projected
+on Se,
+
+1
+ug y= Pse, (a? + mVR(us))
+
+1
+ul) =w, (Al)
+
+where ul is an approximation of the maximizer obtained at the n-th iteration, u® is the initial
+
+guess and t, is the length of the step in the direction of the gradient VR(uo?). Projection onto the
+constraint manifold Sg, is performed using the composite operator Ps,,. :H?(Q) > Se, defined as
+
+Ps, (u) = Ps,(Mo(u)), where (A 2a)
+
+Eo
+
+TIo(u) =u — V[A7(V - u)] (A2b)
+
+
+and Pe,(u) = a (A 2c) 0 |
+
+in which (A 2b) and (A 2c) represent, respectively, enforcement of the incompressibility condition : <
+and normalization related to the enstrophy constraint. : 3
+A key step in procedure (A 1) is evaluation of the gradient VR(u) of the objective functional :2
+
+R(u), cf. (1.9b), representing its (infinite-dimensional) sensitivity to perturbations of the velocity
+field u, and it is essential that the gradient be characterized by the required regularity, namely,
+VR(u) € H?(2). This is, in fact, guaranteed by the Riesz representation theorem [81] applicable
+because the Gateaux differential R’(u;.): H?(2) > R, defined as R’(u; w’) :=lim,_,j €~![R(u+
+eu’) — R(u)] for some perturbation u’ € H?(Q), is a bounded linear functional on H?(2). The
+Gateaux differential can be computed directly to give
+
+Riu) =| [u’- Vu-Au+u-Vu'-Au+u- Vu: Au'}dx— 2» A?u-w' dx, (A3)
+2 2
+from which, by the Riesz representation theorem, we obtain
+Neal) — ’ ly ’
+Ri(u;w) = (VR(w), uw evo) = (v R(u), w )evey (A4)
+
+with the Riesz representers VR(u) and vER(u) being the gradients computed with respect to
+the H? and L* topology, respectively. We remark that, while the H? gradient is used exclusively
+in the actual computations, cf. (A 1), the L? gradient is computed first as an intermediate step. :
+Identifying the Gateaux differential (A3) with the L? inner product and performing integration [8
+by parts yields 8
+
+Vv?

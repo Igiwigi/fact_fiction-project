@@ -1,0 +1,5 @@
+As we are interested in propagating waves, only real-valued entries of q are considered. Moreover, by periodicity, it suffices to consider values of q in the so-called first Brillouin zone
+{qW|qWe [-7,7)*}. In fact, owing to the symmetry of the C-shapes about the x-axis, q2 is
+symmetric about the q1-axis and, by a time-reversal argument, the eigenvalue also does not
+change if q is swapped for —q. The full picture is thus given by {q W | q W € [0,)?}, which makes
+up the so-called irreducible Brillouin zone in this case. We solve the Bloch problem using the finite-element method.

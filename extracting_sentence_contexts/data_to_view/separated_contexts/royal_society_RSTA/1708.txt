@@ -1,0 +1,16 @@
+For general information about the theory of Co-semigroups, analytic semigroups and also
+about non densely defined operators, we refer to the textbooks [25-28].
+
+2. The Stokes semigroup on L?(§2) for! < p < co
+
+(a) The Helmholtz decomposition
+
+Given an open set 2 C R" and p € (1,00), the Helmholtz decomposition deals with the question
+of whether L?(@) can be decomposed into a direct sum of the space of solenoidal vector
+fields and the space of gradient fields. This is important due to the fact that, if such a
+decomposition holds true, the Stokes equation (1.1) can then be formulated as an evolution
+equation in the L?-setting. For 1 <p < oo and 2 C R" being an arbitrary open set, we set L} (2) :=
+{u € C2°(2):divu=0 in aye and G)(2):= {u € LP(2):u= Vz for some m € Wi? (2)). We say
+that the Helmholtz decomposition exists for L?(2) whenever L?(Q) can be decomposed into
+
+LP(Q) =L5 (2) © Gp(2).

@@ -1,0 +1,15 @@
+Error bars show the standard error of the mean.
+
+numerosity (figure 2e), suggesting that the log-normal model our random-matrix theory: they appear even in the absence
+more often captures an average firing rate profile over many of noise, as a counterpart at the unit level of the oscillatory be-
+neurons with the same preferred numerosity. To test this pre- haviour previously reported at the population level. The
+diction and quantify the proportion of ‘multi-peak’ tuning existence of multi-peak neurons is an original prediction of
+curves in real data, we conducted a post hoc analysis on all neur- our model, and the fact that actual number neurons conform
+ons previously identified as number selective in the sample to this prediction thus provides strong support for the
+period of [7] (see electronic supplementary material, Note random-matrix theory.
+$3). Given a neuron with preferred numerosity n, the general Our second quantitative prediction concerns the funda-
+logic of this analysis was to grant another peak at numerosity mental assumption of our theory, that of a random band
+n' whenever the firing rate of the cell did not differ significantly matrix which implements a successor function. Because this
+in response to n and n', but was significantly reduced for matrix links number codes together, it is legitimate to ask
+numerosities between n and n’. whether its dimension n and bandwidth w would impact on
+We discovered that 10.6% of number neurons exhibit number sense.

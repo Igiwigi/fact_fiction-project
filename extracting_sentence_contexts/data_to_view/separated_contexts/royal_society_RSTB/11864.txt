@@ -1,0 +1,22 @@
+In some cases, the susceptible host populations for
+plants and animal pathogens/biota can be further refined. For
+example, in areas where horticultural crops are grown, such as
+Citrus and Prunus, homeowners often also grow such plants in
+their dooryards and gardens. In fact, data from past surveys of
+citrus diseases conducted by state/federal regulatory agencies
+show approximately 60% of residences in Florida grew citrus in
+their gardens, at approximately two trees per residence. When
+similarly validated datasets are available, we can link residential
+host plants to the distribution of human residences at the chosen
+spatial scale as a proxy to estimate residential host plant popu-
+lations. We then join the resulting residential and commercial
+plant host populations to approximate the spatial distribution of
+hosts within the endpoint area of interest at fine to coarse
+granularity.
+
+(e) Risk algorithm and mapping
+
+The deterministic model is a sum of the accumulated risk com-
+ponents from source countries (Rsc), adjacent suspected
+countries (Rac) and returning outbound US travellers (Rour)
+for each parcel j.

@@ -1,0 +1,10 @@
+Furthermore, it degrades
+quantification, which is an important issue when used for disease grading and may directly
+impact treatment planning and response assessment. All these limitations can be controlled by
+addressing each type of motion properly and many strategies have been implemented for this
+purpose as shown in figure 1. Moreover, it is worth highlighting a somewhat counterintuitive
+fact: motion can improve the imaging system resolution because it increases spatial sampling. For
+example, a tiny rotation (equal to half the size of the crystal) of PET scanners was commonly
+applied in the past for increasing the spatial sampling and consequently the resolution [17]. Therefore, proper motion management can help increase the resolution of the imaging system
+due to improved sampling, compared to motion-less acquisitions, an effect also referred to as
+super-resolution [18].

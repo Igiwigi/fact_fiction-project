@@ -1,0 +1,19 @@
+The computations I made showed
+that the results obtained in that way would have been sufficiently exact, but as it
+was clear that the approximation to the Q functions was not very close, and as the
+computation is tedious, it seemed better to find the G,’ by quadratures. In order to do this I divided y or 69° 49’ by 12, and took 5° 49/545 as the common
+difference, say 6, I then computed sec x, a + b cot? x + ¢ cot'y +..., and
+see x + (a + b cot? x + ¢ cot'y...)* for values of p= 0, 8, 28,+.. 128 or y. As a fact the first five or six values need not be computed because the early values
+of the functions to be integrated are practically zero. The ordinary formule of
+
+
+Sf
+
+FIGURE OF EQUILIBRIUM OF A ROTATING MASS OF LIQUID. 295
+
+quadratures are inappropriate for these integrations, because the function, say U,, to
+be integrated increases so very rapidly. I therefore take an empirical and integrable
+function, say v,, which is such that 0,5 = wo, Yj, = %,; the quadratures may then be
+applied to w%,—v,, and the result applied as a correction to [vd In fact this
+correction is always very small, and we might well be satisfied to use |v dy, which is
+very easy to calculate.

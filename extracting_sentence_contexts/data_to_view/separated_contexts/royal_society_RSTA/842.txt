@@ -1,0 +1,11 @@
+Existence of exponentially
+large e-orthogonal systems in high-dimensional spaces was discovered in 1993 by Kainen &
+Kurkova [47]. They introduced the notion of quasiorthogonal dimension, which was immediately
+used in the problem of random indexing of high-dimensional data [21]. The fact that an
+exponentially large random set consists of pairwise ¢-orthogonal vectors with high probability
+was demonstrated in [46] and used for analysis of the data approximation problem in random
+
+
+bases. We show that not only do such ¢-orthogonal sets exist, but also that they are typical in
+some sense. N randomly generated vectors x; will be almost orthogonal to a given data vector y (the angle
+between x and y will be close to 2/2 with probability close to 1).

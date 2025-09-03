@@ -1,0 +1,36 @@
+Function gg(t) = 0.000007 for N = 1290 (& = 1083). Thus, if 0.5 < 6 <1, the following formula is valid:
+
+0, T <t%(B);
+
+ga(t)=4 1
+
+N A
+=| exp[—ét — € cos(Bz)] sin(é* sin(Br))dé,  t > (8). (4?)
+0
+
+For the formula (A 7), for all r > 0 and 0.5 < 6 <1, the relative error does not exceed 10-! at
+N=3000. Using the fact that function gg(t) in the space of Laplace transforms is represented by the
+rather simple formula (A 1), we can suggest one more approach for computing its values, which
+is based on the numerical inversion of Laplace transform. Two reliable formulae of numerical
+
+
+0 0.2 0.4 0.6 0.8 1.0
+
+Figure 8. Function g(t) for 0 < 6 < 0.5 calculated by formula (A1) and numerical inverse transform. (Online version in
+colour.)
+
+inverse Laplace transform are given in publication [33]
+
+m
+
+f= : x exp[4.7] « (0s «FE (7) +Re [> (-1)" «F (42="))) (A8)
+
+n=1
+N-1
+
+f@= (<2) (0s * F(K(z))exp [K(#)t] + » Re [ew [is (=, *)| F (s (=))]
+
+x (1+ isis [<])): (A9)
+where K(r) = 2*(N/5r); S(y, t) = K(r)y(Cot[y] + i) and
+
+sig(y) =y + (yCot[y] — 1)Cot[y].

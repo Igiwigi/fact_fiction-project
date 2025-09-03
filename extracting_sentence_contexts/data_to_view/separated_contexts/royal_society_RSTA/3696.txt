@@ -1,0 +1,10 @@
+These quantities define box-to-box rate coefficients, which can then be used
+to calculate a potential of mean force, which is independent of the boundary locations. Choosing
+BXD boundaries is analogous to the process of specifying umbrellas (in umbrella sampling). A
+key difference is the fact that umbrella sampling requires two parameters per umbrella (location
+and force constant), whereas BXD requires only one parameter (location). While the latest BXD
+algorithms are able to adaptively determine the most computationally optimal box boundary
+locations [36] without requiring user specification, this capability was not available at the time
+the work described in this paper was carried out, and BXD boundaries were specified the ‘old-
+fashioned’ way (via user trial and error). In order to calculate thermal dissociation rate coefficients, we performed BXD simulations
+from 700 K to 1300 K in 100 K intervals.

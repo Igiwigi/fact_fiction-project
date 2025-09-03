@@ -1,0 +1,19 @@
+The L,a,b,c constants are specific to
+the material with L> 0 anda,beR, c>0. If u=0 the Q-tensor equation would simply be a gradient flow of the free energy. For u 4 0,
+the molecules are transported by the flow (as indicated by the convective derivative D;) as well
+as being tumbled and aligned by the flow, a fact described by the term:
+
+def
+
+1 1 1
+S(Vu, Q) = (D+ 2) (2 t si) t (2 t 5) (ED — 2) —2& (2+ si) tr(QVu), (2.3)
+where D def 1/2(Vu + (Vu)") and 2 det 1/2(Vu — (Vu)") are, respectively, the symmetric part and
+the antisymmetric part, of the velocity gradient matrix Vu. The constant é is a material dependent
+constant, the case = 0 being referred to as the co-rotational case. The equations for the flow u resulting out of the linear momentum conservation satisfy the
+forced Navier-Stokes system:
+Ou + (u-Viu=vAu+ Vp+av-T
+(2.4)
+V-u=0,
+
+where v, 4 >0 with 4 measuring the ratio of the elastic effects (produced by the liquid crystal
+molecules) to that of the diffusive effects.

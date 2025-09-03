@@ -1,0 +1,27 @@
+However, it is well known that solutions can be approximated by means
+of a gradient expansion method also known as WKB approximation [30], we write
+
+o=Awxpe’. (2.3)
+
+At first order, the wave can be seen as a coherent collection of rays (see [31] for an elegant
+presentation of the method for water waves). The rays are given by a Hamiltonian, which in our
+case is given by [27]
+
+H = 5[(w — v9.k? — F(R), (2.4)
+
+where k= VS =(k,,m/r) and w =—9d;,S, with k, being the radial wavevector and m being the
+azimuthal number. The amplitude of the wave is calculated by using the fact that the wave action
+is transported with the group velocity, vg, along tubes delimited by such rays. More precisely,
+in the absence of dissipation and in stationary systems, the amplitude satisfies the transport a
+equation: :=
+
+V - (QoAKRVe) =. (2.5) :8
+
+Therefore, we have that :
+1 7s
+Joy’ (2.6) =
+where 29 = — v9 -k is the co-moving frequency, computed after having solved Hamilton’s ae
+equations with the Hamiltonian given in equation (2.4). :3
+At fixed m and w, the Hamiltonian function defines a two-dimensional surface parametrized [8
+by r and k,. The structure of the Hamiltonian function imposes that this surface admits a saddle ,
+point (figure 1).

@@ -1,0 +1,8 @@
+It would be interesting to compute what a heuristic similar to heuristic 1.2 suggests about the
+average number of points on a stable curve of genus g, as g > oo. Our approach fails to directly
+yield an answer. In particular, we would seek a computation along the lines of lemma 4.1, but this
+is complicated by the fact that the dimensions of the tautological cohomology R’ (Mg,n) can grow
+exponentially in g, as g > 00. In §2, we review the topological results showing that the low degree singular cohomology of
+Mg,» is tautological and giving a precise description of the cohomology groups. In §3, we translate
+these results into compactly supported étale cohomology using comparison isomorphisms and
+determine the effect of Frobenius.

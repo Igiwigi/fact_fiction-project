@@ -1,0 +1,93 @@
+This illustrates that our model is of limited interest Calculating the probability density of the incidence from
+in such cases where d/5 < 0.5. the sampling series is computationally inexpensive, but still
+We note also that p(qr < Qos) can be below the 95% expec- requires technical proficiency. Therefore, we have produced
+tation. This results from the fact that the stochasticity of the an online application interfacing the full model as exhaus-
+simulations scatters the realized epidemic curves symmetri- tively as possible, as well as an approximation of the model
+
+cally around the fitted logistic one (whose identified that can be derived with simple algebraic operations
+
+
+= 15, 6= 542m 0=35, 5= 1264m @=75, 5= 2709 m = 150, 5= 5417 m
+
+1.007 =0013
+
+0.754 d/d = 0.2
+
+r= 0.013
+d/d5 = 0.047
+
+r=0.01
+d/o = 0.023
+
+0.50 4
+
+0.25 < Oy.) = 0.988
+
+< Qs) = 0.963
+
+O45) = 0.992
+p< Ogg) = 0.987
+
+PUG p< Qos) = 0.988
+P(d;-< Oo) = 0.88
+
+0
+1.0047 =0.02
+’
+
+r=0.011
+
+0.754 d/5= G/o = 0.047
+
+=
+‘4 | estimation
+
+ESS ns
+u | method
+=z 050 Is
+@ s
+= - 7 = g © approx. S 0254 Gp< Qos) = 0.99 P(Gy< Qos) = 0.988 PUG p< Qos) = 0.986 | H
+d 1(4-< Qos) = 0.977 P(Gn< 0.) = 0.919 = full mod.
+
+r= 0.015
+ag | Fr< Qos Qos
+
+£ 0754 d/o d/s5=0.1 g
+2 4
+5 0504 KB + false
+Z cy
+$ e tne
+
+< 045) = 0.993
+
+Py
+pl = 0.987
+
+< O45) = 0.988
+< Qyq) = 0.945
+
+paz< ga)
+
+r= 0.021
+0.75 d/5 = 0.20
+
+0.50 4
+
+0.25 4 Oy3) = 0.992
+
+) = 0.986
+
+= 0.984
+= 0.927
+
+Plqp<O, 0.982
+P(gz< Qos) = 0.877
+
+ pap<
+
+0
+
+0 025° 050 0.75 1.00 0 0.25 050 0.75100 00.25 0.50 0.75 1.00 00.25 0.50 0.75 1.00
+real incidence of the disease, 4,
+
+Figure 3. Estimation of Qo; and Qg5 from sampling series realized on spatially explicit epidemics, i. simulated with the dispersal kernel (equation (2.14)).

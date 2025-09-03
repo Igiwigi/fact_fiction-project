@@ -1,0 +1,6 @@
+The circuit diagram of the full bridge series resonant inverter is
+shown in figure 3. The excitation coil is presented as a series RL circuits. In fact, due to the large excitation
+current during detection, the inductance and resistance values on the connecting wires of the
+circuit cannot be ignored. Here, resistance R; and inductance L; take into account the electrical
+parameters of the excitation coil and the connecting wire. The sample is modelled as an inductor
+L, and an impedance Z, = R, +jXe, which is related to the material properties of the sample.

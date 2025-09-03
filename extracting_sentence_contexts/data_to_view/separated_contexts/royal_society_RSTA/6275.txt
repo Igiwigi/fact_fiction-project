@@ -1,0 +1,4 @@
+Assertion: => R, ie. the body is empty. When R contains no variables the assertion is called
+ground. These ground assertions represent the facts of T and the members of T(PS) and
+F(PS). Goals: Qi A...A Qm =>, i.e. the head is empty. These usually arise from the negation of the
+conjecture to be proved and from subsequent subgoals in a derivation.

@@ -1,0 +1,13 @@
+Turning from the question as to when a formal solution is possible, we now consider
+the method used for its reduction to an expression capable of yielding numerical results. Basically, the procedure is to remove certain factors from the integrand of a double integral
+at the ‘predominant’ values of the two variables of integration; exactly which factors are
+involved depends on the particular @ and @,, but part of the integrand has always to be
+treated in this way before any progress can be made. The extent of the error thus introduced
+cannot be stated with precision, but it seems that the validity of the method depends on kr
+and kr, being ‘large’ in the sort of way that is common in the calculation of radiation fields ;
+this despite the fact that the resulting approximation to the solution is finite and continuous
+at = 0 and 7, = 0 (R+0), not having the infinity which usually indicates the failure of an
+asymptotic expression.* It may be remarked that the restriction is likely to be most stringent
+with regard to the phase, and this is especially unfortunate ifit is true that coastal refraction
+phenomena are largely determined within a wave-length of the coastline. The direct scope of the solution is limited by the difficulties of computation. It would, of
+course, be out of the question to tabulate G(a, 6) over the required complex range of a and b.

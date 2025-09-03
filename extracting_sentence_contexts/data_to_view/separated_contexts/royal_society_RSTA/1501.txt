@@ -1,0 +1,14 @@
+This conditioning on outcomes and observations violates the theoretical assumptions of forecast
+verification methods [21,122].
+
+6. Physical constraints and consistency
+
+As has been demonstrated in other application areas of ML (e.g. [123,124]), NNs can be prone
+to learning spurious relationships in data. A purely data-driven model for weather forecasting
+might fail to adhere to the underlying physical principles and thus generate false forecasts as
+it lacks understanding of the fact that every atmospheric process obeys physical laws described
+in terms of conservation of momentum, enthalpy and mass. The incorporation of physical laws
+in NNs is becoming a vibrant area of research (e.g. [125-128]) and is now often denoted as
+scientific ML. One of the first studies to demonstrate that physical constraints can efficiently reduce
+systematic biases in lake temperature predictions, while at the same time enhancing
+generalization capability, was Karpatne et al. [129].

@@ -1,0 +1,11 @@
+Compact Lie groups, on the other hand, are the simplest
+examples of Riemannian manifolds and we can similarly, albeit more loosely, think of the ‘dual’
+of the latter as coming down to quantum mechanics or wave operators of different types. Recall
+that quantum mechanics in nice cases can be seen as the non-relativistic limit of the Klein—
+Gordon space-time Laplacian for fields where e~mt/h is factored out. In fact a Riemannian or
+pseudo-Riemannian manifold cannot be totally reconstructed from the scalar Laplacian alone,
+but if we use the Dirac operator, then one has Connes’ reconstruction of a spin manifold from
+an abstractly defined ‘spectral triple’ in the commutative case [17]. Either way, if one extends
+these ideas from classical to quantum field theory, then logically an aspect of this should be
+that it corresponds to quantum Riemannian geometry, where space-time coordinates become non-
+commutative. This should then be taking us towards the self-dual axis as shown in figure 1.

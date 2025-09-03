@@ -1,0 +1,30 @@
+In fact, energy dissipation ¢ = v||Vul|* is observed to be non-vanishing as v > 0 in
+turbulent flow, requiring velocity gradients to grow unboundedly. Estimating ||Vul] ~ (e/v)!/2,
+the upper bound (7.1) becomes
+
+(P(t) < 6a y" [ew (2 ()'") - | . (7.2)
+
+This bound allows unlimited diffusion of field lines. Consider first the case 4 =v or Pt =1, for
+simplicity, where Richardson’s theory implies that
+
+(r7(t)) ~ 12at + ef. (7.3)
+
+The rigorous upper bound always lies strictly above Richardson’s prediction and, in fact, goes
+to infinity as v = — 0! The case of large Prandtl number is just slightly more complicated, as
+previously discussed in §4c. When Pt > 1, the inequality (7.2) holds as an equality for times
+<ttrans with
+
+trans = a (7.4)
+This is then followed by a Richardson dispersion regime
+3\ 12
+(7) ~6 (=) +e(t—ftrans)®, > trans, (75)
+
+assuming that the kinetic Reynolds number is also large and a Kolmogorov inertial range exists
+at scales greater than the Kolmogorov length (v°/e)!/4, Once again, the upper bound (7.2) is much
+larger than Richardson’s prediction and, at times longer than trans, the dispersion of field lines is
+independent of resistivity.
+
+(b) Making Goldreich—Sridhar model self-consistent
+
+Historically, a lot of reconnection research was aimed to obtain the Holy Grail number of
+reconnection speed, which on the basis of solar flare observations was determined to be 0.1Vq.

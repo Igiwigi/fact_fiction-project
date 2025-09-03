@@ -1,0 +1,9 @@
+The dependence of the critical feedback rate n corresponding to the drift instability threshold
+defined by equation (4.4) on the feedback phase ¢ and carrier relaxation rate y is illustrated by
+figure 4. In this figure, the curves labelled by different numbers correspond to different values
+of y. Considering the fact that the feedback in equation (3.1) is introduced with the minus sign,
+we see that the drift instability takes place only for those feedback phases when the interference
+between the cavity field and the feedback field is destructive, i.e. when the cos function in the
+denominator of the right-hand side of equation (4.4) is positive. On the contrary, when this
+interference is constructive the feedback has a stabilizing effect on the LS. Furthermore, the
+slower the carrier relaxation rate, the higher the drift instability threshold.

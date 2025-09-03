@@ -1,0 +1,23 @@
+Here, the
+planner assumes perfect information of the future and thus the associated (deterministic) solution
+may represent an investment option that cannot be efficiently adapted if a different scenario
+(which was, in fact, ignored) is realized. This case can also be considered as a base, reference
+case:
+
+min} > rm(t!ln + t°Om) $f, Vj €SC. (3.21)
+
+meScj
+
+(c) Illustrative example
+
+(i) Input data
+
+We study the electricity network depicted in figure 2 with three nodes (N1, N2 and N3),
+three existing conventional generators (G1, G2 and G3), three existing lines (L12, L13 and L23)
+and one load (D). In order to face the forecasted demand growth along a planning horizon
+comprising three epochs spanning five years each, the system can be expanded through wind
+power generation (W), solar power generation (S), a line (L’23), a FACTS device, namely a quad-
+booster phase-shifting transformer (QB) [73], and a battery storage system (B). The input data
+used to run our stochastic program are shown in table 2, where base values for power and voltage
+are 100 MVA and 66 kV, respectively. For illustration purposes, uncertainty is solely associated with the future evolution of
+investment costs of solar power generation.

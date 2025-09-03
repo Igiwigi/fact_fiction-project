@@ -1,0 +1,18 @@
+The CyggHso2 diamond [100] slab that was modelled in this work. (a) A ‘top-down’ view, and (b) a ‘side-on’ view. The Lm
+surface is hydrogen-capped except for a single —CH; group, which is located near the centre of the slab, and easier to see in the : =
+‘side-on’ view. (Online version in colour.) : a
+kinetics at surfaces is amenable to modelling using statistical rate theories (e.g. the energy-grained : 3
+master equation (EGME)), or whether more detailed approaches based on explicit molecular :8
+dynamics are indeed required. : s
+
+In this paper, we investigate these questions by carrying out a detailed study of dissociation 8
+
+at the surface of a diamond slab shown in figure 1. Through comparisons between molecular
+dynamics (MD) simulations and EGME calculations, we show that dissociation at the diamond
+surface is in fact amenable to statistical treatments. There are two aspects which are key to the
+accuracy of the statistical approach outlined herein: (i) the system must be separated into ‘system’
+and ‘bath’ components; and (ii) it must be possible to construct reasonably accurate models for
+energy transfer between the system and the bath. Our strategy for constructing an energy transfer
+model for surface reactions is straightforward: we have developed energy transfer functions
+which can be used within the EGME and which reasonably reproduce the time-dependent energy
+transfer profiles obtained in non-equilibrium MD simulations.

@@ -1,0 +1,12 @@
+Note that typical textbook expressions (e.g. [9])
+just bound the overlap between U,q(1)|¥(0)) and the final state Utot(1)|¥(0)), where |(0)) is the
+lowest eigenstate of H(0). Instead, we consider any initial state |¥(0)) € P(0)H, not just the ground
+state, and also compute the total phase. This is also more flexible in that, in fact, the projector P
+can single out any subspace of eigenstates of H (not necessarily the lowest), which may or may
+not be degenerate. Techniques exist to improve the bound to ;/ tf for integers k > 1. This is done by requiring the
+time-dependent Hamiltonian to have vanishing derivatives up to order k at the initial and final
+
+We use a prime to denote /ds in this work.
+
+2The norm we use in this work is the operator norm |\Al| =sup\,) IA |¥/)II (\I |) | =1), which is unitarily invariant [6]:
+||UAV|| = |All for arbitrary A and unitary U and V.

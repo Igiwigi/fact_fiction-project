@@ -1,0 +1,22 @@
+Proposition 5.1. If the generalized kernel of Lo is exactly four-dimensional, the essential spectrum does
+not contain zero, and H'(co) £0, then the splitting eigenvalues are} = Oe"),
+
+We remark that this proposition holds in the framework with weighted spaces (in the setting
+with unweighted spaces where zero is usually contained in the essential spectrum, the conditions
+are usually not satisfied and one needs to investigate whether the effects of the essential spectrum
+can be neglected). The result follows from the fact that two of the four eigenvalues of £ are always
+zero. It suffices to calculate the leading-order terms of the eigenvalues for the perturbed operator
+Lat c=cy + €. By restricting the operator in the invariant subspace G4, the question reduces to
+the perturbation of the matrix
+
+010 0
+001 0
+Ag = F
+“10 001 6
+000 0
+with two constraints that hold for any c,
+L(d_ Xtw(t;0)) =0 (6.5)
+and
+L(cdcXtw (tT; ¢)) = Or Xtw(T; C)- (6.6)
+
+Note that the characteristic polynomial of the unperturbed matrix Ag is 44 = 0.

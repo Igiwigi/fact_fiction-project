@@ -1,0 +1,6 @@
+It is clear that a,b are finite because u is T-periodic. One has that (a) = u(b) =0, u(t) < 0 in (a,b),
+and, due to the sign assumption on h, u is concave in [a,b]. These facts lead to a contradiction. In the second case, we suppose that u is negative on R. As it is not constant since h(t, u(),
+u(t —),u'(t))>0 for almost every t, we deduce that u is strictly concave contradicting its
+periodicity. a
+
+Theorem 2.2 (Strong maximum principle).

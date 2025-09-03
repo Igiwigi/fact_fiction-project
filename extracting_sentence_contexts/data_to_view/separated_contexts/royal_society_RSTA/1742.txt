@@ -1,0 +1,11 @@
+For this to be the case,
+more detailed simulations in higher dimensions would be required. The gains presented are also
+not in themselves particularly remarkable, with much higher gains being regularly reported for
+simulation work. Rather, the notable and novel aspect of this work is in its identification of a
+regime where instability growth is expected to be low, and the fact that 1D simulations suggest
+that reasonable gain is possible in such a regime. The 1D simulations are intended only to provide
+an indication of performance, but it is believed that this initial estimate is sufficiently high to
+warrant further investigation of this regime and approach. The inability of 1D simulation codes to provide an accurate predictive capability is a
+significant obstacle to achieving ignition, and attempts to mitigate this issue (aside from this
+paper’s approach of operating in a regime where these capabilities are better) are under
+development.

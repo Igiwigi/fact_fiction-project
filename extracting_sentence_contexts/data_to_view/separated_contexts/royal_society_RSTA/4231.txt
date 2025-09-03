@@ -1,0 +1,16 @@
+In [8, §5], this step was done under the restrictive
+assumption of convexity of E(t,-). Here, we show that the proof via the construction of
+MRS is more flexible. Of course, we still need a fine tool from weak convergence theory,
+namely H-measure or microlocal defect measures; see [40-42] for the more general microlocal
+compactness forms.
+
+(c) Pseudo-differential operators and H-measures
+
+To understand the set of stable states a little better, we can use the facts that E(t,-) is quadratic,
+that E(t, -,@) is uniformly convex (by Korn’s inequality and J, da > 0), and that D depends on 6
+only. Thus,
+
+q=(u,0) € S(t) => uminimizes E(t,-,0) > U=Uelast + BO,
+
+where the minimizer Uelast(t) of E(t,-,0) satisfies Uelast(-) € gpir + C!([0, T]; U). The linear
+operator satisfies Be Lin(L7(@); U).

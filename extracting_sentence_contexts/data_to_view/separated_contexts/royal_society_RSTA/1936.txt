@@ -1,0 +1,19 @@
+This is done by satisfying the following requirements
+in terms of flow velocity ug [29]
+
+min(§ig) < Ue < max(Eq), (C1)
+
+and temperature T
+min |tly — Sal? SDT < max lta — fia. (C2)
+i i
+
+Interestingly, the condition (C 1) translates to the fact that information cannot propagate at a speed
+below the smallest discrete velocity of the lattice, and above the maximal one—this condition
+is more commonly known as the (Courant, Friedrichs et Lewy) CFL condition. Similarly, the
+condition (C 2) translates to the fact that the temperature is bounded by the minimal and maximal
+internal energies of discrete velocities. Observing a lower limit for the temperature might be
+surprising at first, but in fact, this is exactly what is observed during simulations of both DVMs
+and LBMs (figures 1 and 2). Consequently, by choosing the minimal and maximal norm of discrete velocities, and by
+centring the velocity discretization accordingly, researchers from the DVM community are able to
+obtain stable simulations that lead to accurate results even for very large velocity and temperature
+variations.

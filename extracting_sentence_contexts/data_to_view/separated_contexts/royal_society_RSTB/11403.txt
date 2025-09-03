@@ -1,0 +1,38 @@
+Given a neuron with preferred numerosity n, the general Our second quantitative prediction concerns the funda-
+logic of this analysis was to grant another peak at numerosity mental assumption of our theory, that of a random band
+n' whenever the firing rate of the cell did not differ significantly matrix which implements a successor function. Because this
+in response to n and n', but was significantly reduced for matrix links number codes together, it is legitimate to ask
+numerosities between n and n’. whether its dimension n and bandwidth w would impact on
+We discovered that 10.6% of number neurons exhibit number sense. In fact, a long-standing conjecture [41] in
+unambiguous tuning to multiple numbers, against 4.6% units random-matrix theory states that for random band matrices
+in the minimal model and 3.4% in the extended model (see whose underlying space is of dimension 1, a critical bandwidth
+examples in figure 7). While the proportion of multi-peak neur- w* exists that marks a sharp phase transition between two
+ons is smaller in the model than in data, increasing the noise in regimes: a strongly disordered, ‘insulator’ regime for bands
+number states at each iteration increases the proportion of smaller than \/n, where eigenvectors are localized in the
+multi-peak neurons in both our models. Importantly, units sense that most of the norm of the vector is carried by a few
+
+with multiple number preferences are a generic behaviour of elements, and a weakly disordered, ‘metallic’ regime for
+
+
+(a) minimal model (b) extended model
+
+100 : 0.96 0.96
+0.93 : oe fitw = O(V
++++ observed w 0.88
+0.90 4 2
+& 5
+a 0.87 3 10.80 2
+Ss fj In By 2
+c=} vow fit w= O (Vn) 0.84 z -0.72 &
+iJ era yk By 3
+z +++ observed w os! 2 (0.64 a
+3 A b5)
+* 0.78 8 0.56 3
+0.75 =
+i | 0.48
+é 0.72
+& 0.40
+100 500 900 1300 1700 2100 2500 202 302 402
+dimension (n) dimension (n)
+
+Figure 8.

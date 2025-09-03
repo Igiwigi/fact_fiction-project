@@ -1,0 +1,17 @@
+At the input of
+the fibre the pulse is tens of nanometres in bandwidth but after a very short time of propagation
+this increases to many hundreds of nanometres and begins to overlap with the wavelength of the
+resonant radiation. This mode overlap or coupling between the pulse and the resonant radiation
+gives a huge boost to the efficiency, and this method has been used to demonstrate large energy
+conversion efficiencies of up to 40% from an infrared pulse to the visible [29-31]. This is only
+possible in the resonant radiation case due to the fact that the pulse self-stimulates the resonant
+conversion, and this same trick can not help us boost the conversion efficiency from the external
+probe in the Hawking process case.
+
+(c) Efficiency
+
+The pulse compression effect depends finely on the input parameters of the pulse, particularly the
+power, the wavelength and the chirp. In our laboratory we made an experiment to see just how
+efficient this process could become. We sent short 50 fs pulses through dispersion compensation
+and power control into a photonic crystal fibre (NLPM760, NKT Photonics) with zero-dispersion
+wavelength 760nm, nonlinear coefficient 0.1W~! m=! and core size 1.6 1m.

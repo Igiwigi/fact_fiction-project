@@ -1,0 +1,9 @@
+The active tendon control strategy works by providing a cable anchorage to the structure, with
+the cable force or the displacement of the cable support controlled by an actuator. Staino et al. [19]
+proposed the use of active tendon control for suppressing edgewise vibrations, but the control
+system arrangement could be equally applicable for controlling flapwise displacements as well
+(by rotating the cable/tendon arrangement inside the blade by 90°) as shown in the following
+sections. In fact, two sets of orthogonal cable arrangements can be used to facilitate independent
+control in two orthogonal directions. An appropriate control algorithm can then be used to
+actuate the tendon controller. Active tendon control to mitigate flapwise blade vibrations has been
+investigated in [39,40].

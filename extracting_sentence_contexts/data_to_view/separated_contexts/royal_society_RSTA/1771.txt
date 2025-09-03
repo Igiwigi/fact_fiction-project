@@ -1,0 +1,7 @@
+These two signals have both
+signals from fibre and others. The signal from fibre orientation has a larger amplitude, and the
+phase is significantly shifted. Based on this fact, the ECT signal from the fibre is distinguished
+from others by rotating the phases of Vx and Vy in the complex plane using a rotation matrix. In
+the case of CirD (w = 90), a phase-rotated Vy signal was used for the evaluation protocol as shown
+in figure 8. After phase rotation, the spatial frequency spectrum of the contour map of the ECT signal
+was analysed by applying spatial Fast Fourier Transform (2D-FFT).

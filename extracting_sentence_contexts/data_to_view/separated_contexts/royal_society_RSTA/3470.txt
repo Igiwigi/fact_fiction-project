@@ -1,0 +1,5 @@
+In the parlance of team theory, such a profile is known as being person-by-person optimal [18]. Clearly, a team optimal profile is also person-by-person optimal. Though seemingly disparate, it is remarkable that team optimal and person-by-person optimal
+profiles can in fact coincide under fairly general assumptions. It is known [7,18] that if g is concave
+and continuously differentiable, and for each i € N, X; is closed and convex, then any person-by-
+person optimal profile is also team optimal. There are counterexamples showing that this relation
+is not true for problems lacking either concavity or differentiability of g; see [18].

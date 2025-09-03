@@ -1,0 +1,10 @@
+The next column gives the error dR in ohms of each separate resistance of the main
+dial in terms of the mean of the whole, deduced from equations (1) by the aid
+of (2) and (3). The fourth column gives the correction dn in ohms to the reading at
+each point. This correction is equal to the sum of the errors of all the coils up
+to the point considered, subject only to a small correction, called the “ vernier-
+correction,” to allow for the fact that the next two coils are shunted by the vernier
+dial. The value of the vernier-correction is given by the following expression—
+
+Vernier-correction to reading n = — n (‘38 — 3dR,,,, — 3dR,,,,)/400. This correction is often negligible when is small, but sometimes reaches ‘5 or °6
+of an ohm near the higher readings.

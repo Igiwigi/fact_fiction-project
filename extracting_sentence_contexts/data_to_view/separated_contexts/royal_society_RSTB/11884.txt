@@ -1,0 +1,15 @@
+The method can also
+ented examples. Our method explicitly models time be trivially extended to situations where we are sampling
+structure and includes all state transitions rather than just over parameter uncertainty as well as epidemic stochasticity.
+infection events, thus extending beyond Kenah & Miller Perhaps most excitingly, conceptual parallels between our
+[27]. Our method permits counterfactual events that did not approach and data augmentation approaches (e.g. [30])
+occur in the factual case, thus extending beyond Haydon suggest ways in which we might more precisely explore
+et al. [28]. Ackley et al. explore the relationship between how interventions might have worked in real-world
+
+causal diagrams and compartmental models [29], and one epidemics. Precisely characterizing the potential impacts of interven- to achieve this goal, allowing more precisely targeted infer-
+
+tions is often an important component of scenario modelling ence in a variety of complex scenarios.
+
+analyses for public health, in both pathogen-emergent and Ss
+
+-elimination scenarios.

@@ -1,0 +1,13 @@
+As can be observed, the model overestimates the experimental data in most of the CNT
+diameter range investigated. This could be attributed either to a larger error in the estimation
+of the effective voltage, as discussed earlier, or in the measurement of the experimental data (flow
+rate and or nanotube diameter). Another possibility can be the fact that the no-slip boundary
+condition has been used to solve the Navier-Stokes equation with the electro-osmotic term. There
+is ample evidence in the literature, including for the same nanotubes used in this work, that
+a significant amount of wall slip is present for water flowing through CNTs under a pressure
+gradient. Considering slip could alter the permeability values resulting from applying the model
+to the present case, at least in the pressure-driven flow case, though whether slip is possible in the
+case of an electrolyte solution near a charged surface is a yet unsolved problem [1], beyond the
+scope of this work.
+
+4.

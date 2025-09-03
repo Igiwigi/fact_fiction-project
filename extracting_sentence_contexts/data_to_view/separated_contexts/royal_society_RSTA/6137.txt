@@ -1,0 +1,78 @@
+Otherwise we further integrate (4.3) with respect to t, with By (ft) := Jo A(s) ds, to get
+
+By(t) + py llttm(E)|Iz < Calf, E, g, uo, to, Ty + 1) + Cly + vf, By (s) ds,
+so that, by Gronwall’s inequality,
+Bu(t) + oy ll (Ili < Cof, F, 8, to, tto, Ty + 1 eC,
+Since py(d/dt) tm (DIF, = 2py(ui,,(t), Um(t)), we find from (4.3) that
+A) SCUF-F, 8, to tto)(y +1) + Cy + DBC) + F lat On + 207? tn Oe
+which concludes
+(olen It + Iein 1%) < Ca(P- Fg, mo, tto, Ty + 1? eS, (4.4)
+
+Remark 4.1. As we already noted before (4.3), it also holds that, for all t € [0, T],
+
+an [Uy ems) + thn (SI lpscr-) AS < CaF F, & to, to, TH(y + 1? eC, (4.5)
+
+(c) Second a priori estimate
+
+Next let us establish an estimate for u/,, € wh(0, T;H) NL*(0,T; V). For arbitrary t € (0,T) we
+take v= yu}, + uf, € Vin in (4.2) to obtain
+
+Fay (oles + hey (IG) + ey DIG + YC, 10)
+S70, tl) + FO, tal) ry + of win) + (EO, tn) ry
+= (8) Vee (ley: ODL ne OD, Meine OY) p, — 7(8' Oeee lt ine OD, let inell) p,
+= (geen ()D, Line) r.,
+where we have used the fact that 6, and Va, are non-negative. Applying Hoélder’s and Young’s inequalities to the first three and the sixth terms on the right-
+hand side, together with |c,(-)| < 1 and the trace inequality ||[[v]] Icy <Cllv|lv, we have
+
+Fay (Uae OG + ey (DIG) + % bay 1 + 0 (0, (0)
+<Cly + IF Olli + IF Ollaary + Ul’ Ollagry) + ellaen Ollie
+
++ Feary ~ ¥(gO Feel OD, eye OD), — (9°, $ elle),
+
+
+Integration of both sides with respect to t yields
+ ialy Ol + Sly (OI + % ah Iu), (9) IR ds + oy [(w',(3),u!,(8))J
+- ov, Iw, (3) 3, ds
+<P in OI + 5 5 lltoll + Cr + DUE Wiz o.ran +E Viao.ra2crqy + |S We@razcy)
++ i, plluh(s)I3eds + [F(6), hls) J) — fee. wh(s))r ds
+~ [ (etc YD, Hen e(OM) J, + i, (3'(8)oee (lire 9D), Lone (0) 7, As
+
+t
++ r| (g(8), o¢¢ (he (S)D) Lene (5) I) 7, ds
+0 = ———_—
+
+—__——_,
+
+=(d/ds)g- (Iu), (51)
+t
+= [(e ©), Ge (lee) Jo + I, (g"), Get e(S)1) p, ds
+
+where the eighth term on the right-hand side equals
+
+t
+VE(8(), Geen (SID) 1h - I, (3/69), Ye (lt .e(S)0)) p. ds
+Hélder’s and Young’s inequalities, combined with the relations
+HO, TL) > C(l0, TH L202)),
+
+oD llz2¢7) S$ Cllellv and with Joe(-)| <1, ve() = | ? + €?, lead to
+
+pollen Olli + + Shi (O 1 + rf Iai S)Iiy ds + py = S(O
+SCO + (le Ollie + UF len o.ran + Elieerz2cryy + W8lteo.rz2czy + litolly + 7)
++Cv +0 [corn + Flan (I) ds+Cy7liglinoriyry YEE O,T), (4.6)
+
+where the last contribution owes to y(¢(fee([4},.()D), [42D r. and y (g(t), Ge (tne (OI) r.-
+It remains to estimate ||" (0)||H. For this purpose we make t = 0 and take v = u’”(0) € Vin in (4.1)
+to see
+
+pllttn (Olli + 4(t0, (0) + (Bey tov + tov), Min (O]) p. + (3Oete(UHor I), Lene OM)
+= (pf (0), wy,(0)) + (FO), 7,(0))ry-
+Noting that
+ato, 17,(0))
+= (— div (1), 1 (0)) + (0 (0), t74(0)) 75, — (v0), Lehn) r, — (6+ (00), Lhe OM r,
+and using the compatibility conditions, we deduce
+play, (0)|lz = (div o(u0) + pf (0), my,(0)),
+
+which implies ||1;;,(0)|la < C(|| div o (uo) Il + IIf()\l)-
+
+
+Substituting this into (4.6), we proceed as in the previous subsection assuming € < 1.

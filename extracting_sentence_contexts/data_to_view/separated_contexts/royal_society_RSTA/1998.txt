@@ -1,0 +1,8 @@
+After around 1000 ms, the case with no model error continues
+to reduce error, while error increases when the LETKF uses incorrect fibre rotation in the model
+for the ensemble forecast. Both cases with fibre rotation error exhibit similar error patterns. The fact that the state is initially well approximated even with the model error indicates that
+data assimilation has the potential to correct for model error. One potential reason for the eventual
+divergence could be that because each ensemble member uses the same incorrect model, the
+model error is not represented in the spread and thus the system develops too much confidence in
+the forecasts. The global root mean squared spread in the model-error case continues to decrease
+over time, even as the error begins to increase after 1000 ms, as shown in figure 8.

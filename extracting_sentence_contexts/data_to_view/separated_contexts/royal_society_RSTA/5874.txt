@@ -1,0 +1,47 @@
+Incorporating the structure of the problem might
+improve our result.
+
+3. Proof of threshold theorem
+
+From equations (2.6) and (2.7), the time evolution of the expectation of the state is described as
+
+4 |
+ig Ello) = (Aw -5 0) ELI6())], (3.1)
+k
+
+
+where we used E[dW;(t)] =0 in the Ito process. Then, using the fact that |y(T)) is the solution of
+equation (2.1), we find
+
+olti2)10 Nasi M ELI g(T))] = (D)). (3.2)
+
+We describe the state in one realized time trajectory of equation (2.6) as |;(t)) and expand it at the
+final time T as
+
+\;(T)) = > Cinln). (3.3)
+n
+From equation (3.2), we immediately find
+
+ell) Lage VC] =Cn=1-e. (3.4)
+
+Then, using the Chernoff—Hoeffding inequality [27,28], we have
+
+r —4§2
+Pr [enmtzacinat > RCim —(1—-€)< -s| <exp ( e ) , (3.5)
+i=1
+
+where Cj, = RC) + i3Cjm, 5 > 0, and we used —1 < RC; <1. In the following, we set 0 <6 <
+1 —€ and always consider the case in which
+
+rt
+ell ExSH04 2 SHC jy > 1 = 8. (3.6)
+r i=1
+We note that this inequality plays an important role as a constraint and holds with probability
+greater than 1 — exp(—r6?/2) from equation (3.5). Next, we consider the case in which the probability amplitudes of the target state in the r
+realized time trajectories of equation (2.6) satisfy
+
+ie
+5 de [Ciml? > 2°. (3.7)
+i=1
+
+In the following, we prove that, under the conditions (2.9) and (3.6), equation (3.7) holds.

@@ -1,0 +1,19 @@
+Potential artefacts from blood pulse and respiration were
+controlled using the Translational Algorithms for Psychiatry-
+Advancing Science (TAPAS) toolbox standard procedure
+(https: // www.tnu.ethz.ch/de/software/tapas/documentations/
+physio-toolbox.html; [27]). Realignment parameters (translation
+and rotation), as well as their derivatives and the square product
+of both parameters and their derivatives, were used as covariates
+to control for movement-related artefacts. We also used the arte-
+fact detection tools (ART) to control for any movement-related
+artefacts (www.nitre.org/projects/artifact_detect/) using the
+standard threshold of 2 mm. The fMRI time series were analysed using the general linear
+model approach implemented in SPM. Single-subject models
+consisted of one regressor representing the 1 min discussion for
+
+
+Meg >
+ROOD
+
+Figure 2.

@@ -1,0 +1,21 @@
+Large-scale turbulent noise prediction
+
+For large-scale turbulent noise source terms, coherent with the average flow and turbulent
+pulsation, similar noise source terms can also be found in the MGBK and JeNo methods based on
+the Lilley equation, considered as shear noise sources. While both the MGBK and JeNo method
+are only modulated as the pulsating quadrupole source, and the average velocity in the source
+term is considered to affect only the acoustic propagation as part of the Green’s function solution. However, the study considers that the large-scale turbulent noise source has a great
+relationship with the average flow, which is mainly reflected in the fact that the length scale
+of the large-scale turbulent should be larger than the fine-scale turbulence length scale, and
+the directivity of the large-scale structure radiation noise is more than that of the fine-scale
+turbulence noise. It is obvious. Therefore, the following large-scale turbulence noise source
+modelling function is established
+
+Q6) = (UT G1.) OT, +9)
+— In2 -
+= Angeli) exp | EL — SP — aie)? + 9? +27] (4)
+
+S  “s-large
+
+where Alarge is the empirical constant of large-scale noise source intensity, and I, is the length scale
+of modelled large-scale turbulence noise source.

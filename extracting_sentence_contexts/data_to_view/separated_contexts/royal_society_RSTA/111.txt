@@ -1,0 +1,28 @@
+It is true that the definition of event used in figure 6 is also based
+on a threshold, namely ¢, however, looking at the interevent times for avalanches S > Sy, we
+retain the same definition (i.e. the events for which ¢(t) > #) while neglecting the computation
+of tw avalanches smaller than Sj,. Thus P[t»|S¢,] and Pltwlex] refers to two different statistical
+properties of the system that are not related to one another. This example highlights the fact
+that the scale transformation e, — A€, cannot be considered a coarse-grained transformation in the
+
+
+Plt)
+
+slope = 1.65
+
+Plt, és — 55 a
+
+slope=1.56 -----
+Plty lex <19.56 A
+
+slope=1.40 -----
+
+10-4 10-3 0? 107! 1 10
+interevent time 1,,
+
+Figure 7. In this figure, we compute the probability distribution of P{t,,, €,.] which represents the probability distribution of
+interevent times between consecutive events where €(t) > €,. where €(t) is the rate of energy dissipation and e,, is defined
+with respect to the constant injected power @ = 4A. Contrary to what we observe in figure 6, the probability distribution
+Plt, €] is not invariant upon increasing €,.. (Online version in colour.)
+
+sense previously discussed.

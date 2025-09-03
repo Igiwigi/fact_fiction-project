@@ -1,0 +1,74 @@
+Let us, then, suppose that 1), us, Us, uy are connected by two or by three
+equations,
+
+F(u;; ts, gt) = 0 (2 = 1,2 or 1, 2, 8):
+
+Now if p,, Po, Qs Qo, are all expressed in terms of p, g, two of their number, and
+&), ©, y, z%, by means of the equations f, = 0, fy = 0, the expressions
+
+dy — pid, — pydty, dz — q,da, — g,da,
+must both be expressible in the form +
+
+» Aydu, + Agdu, + Adu, + A,du,,
+
+* Otherwise thus—if in the auxiliary equations we suppose fy to have the known value 1%, they become
+a pair of linear equations for /;, which must be satisfied by w,, us, %3 now two linear equations in six
+independent variables can only have four functionally independent solutions, and one of these is known,
+namely, i. (In exceptional cases the two linear equations for v,, us, %4 may be equivalent ; for instance,
+suppose fi = pi + fi, %4 = po + qs, fe having any form.) Hence, except in special cases, the particular
+complete primitive is defined when one of the functions 1%, ve, Us, ws, or More generally a combination of
+them, F(w,, v2, us, us) is known, In the case supposed in the text two such combinations are known,
+
+
+PARTIAL DIFFERENTIAL EQUATIONS. 167
+
+and since dp, dg are absent we must have in each case
+
+Bee 9), Ae ge = 0,
+Thus the equations Ai A ed
+dy = pdx, + pyrda,, dz = qydx, + quday
+become
+du, Auy, dus, du, ||
+
+| Ot Oug Bury Oy |
+| Op’ Op’ op’ a | = 0.
+| Bm 2m Om Oey |
+
+0g’ Oy’ Oy’ o%
+These two equations, connecting du,, du,, dus, du, taken with the system
+
+r.? uote a (a = 1,2 orl, 2, 3),
+
+show that if 7, w, Us, u, satisfy by themselves no other relations than F, = 0
+(2 =1, 2 or 1, 2, 3) we must have, as a consequence of the equations of the
+solution, a
+
+4 OF, Ou 4 OF, Ou,
+
+SU eee eS ve
+
+r=1 Ou, Op 9, 2 Ou, Og 0. If, then, there are two equations
+
+LO SOS
+the four equations
+& OF, Ou, __ 4 OF, Ot,
+
+Mens Op = ey Ou, 0g = 0(«=1, 2)
+
+must reduce to two only. This will be the ordinary case, and we see that if the
+forms of F, F,, have been found by any means, the solution is completed without
+integration ; the process corresponds to CHArprt’s method of deducing all complete
+primitives from one, but it differs in that the functions F,, Fj, are not arbitrary ;
+they must, in fact, be so chosen that the four equations last written shall reduce to
+two, and the conditions for this are clearly very complicated in general, though in
+particular cases available forms for F,, F, may be seen on inspection. In the more uncommon case, when there are three equations
+i=, HS =:0;, na =—.0;
+
+the six equations
+
+var Oe Op“ -sayouy Og
+
+=O {a 1,2; 3),
+
+must reduce to one only. These two cases are further discussed, from a somewhat different point of view,
+in §§ 21—23.

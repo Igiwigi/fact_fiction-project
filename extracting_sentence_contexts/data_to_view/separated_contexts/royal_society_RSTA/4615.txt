@@ -1,0 +1,5 @@
+There exists a sufficiently small e' such that if S(t) < €’ on a time interval [0,T] then
+S(t)* E(t), Wte[0,T]. Proof. The proof of this fact is one of the pillars of our strategy. It has been presented in detail
+in §§2.1-2.5 and 4.2 of [11] and, therefore, we omit it here. We note that the direction S(f) < E(#) is
+obviously harder to prove, as the energy function E(t) a priori controls only tangential derivatives
+of the temperature q.

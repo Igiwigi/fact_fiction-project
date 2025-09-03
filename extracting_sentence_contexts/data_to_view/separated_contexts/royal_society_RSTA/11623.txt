@@ -1,0 +1,81 @@
+Numerous theorems of isolation, in the senses in which the word is
+employed in this paper, may be obtained from the reticulation theorems. I proceed
+to give some of those which present features of interest. A previous result was to the effect that the number of partitions of all numbers
+which have exactly q parts, a highest part equal to p and s different parts is
+
+enumerated by
+p—1\ fq- ) \
+s— 1) s—1,
+
+Hence, without specification of s, the number is
+
+This enumeration is also given by the coefficient of a!~! a’@—-» in the function
+
+1
+(1 —2) (1— az)... (1 — az)
+
+
+
+THEORY OF THE PARTITION OF NUMBERS. 637
+
+Hence we can isolate that portion of the generating function which contains only
+powers of ax’, It is
+
+1+ ({)aer + (?3 ‘) (ax?) + ei" *) (acer)? + speerers :
+or
+al =
+
+This fact leads as before to an expansion theorem. Putting
+(1 = aar)p : ve: ey — ayer 2
+1l-—z.l—-a.. -1—aae eed ene, Lt qari + Vp (x),
+& then of course
+A 1 ii i
+ts -l—av....1—age et — ax?)P = 1 V, (2),
+
+=
+2 and we find in succession
+
+V, (2) =
+
+1-2
+
+V, (2) =
+
+— az’
+
+aa? (1 — ax?)
+
+V3 (x) =; os oe
+
+1—az.1 — axe
+
+* au (1 — aa) an (1 — az*) __ a (1 — axty
+Malabar gs Pra 1l—ace.1— ae 1 — av.1 — aa®.1 — aa®”
+
+isl .
+and in general
+oO
+
+aac? (1 — axP-l)e-8 ¥ ax? (1 — axt)e-4 (1 — avr)
+Wake! =F eu metic 1 — ame * 1—az.1—a2....1 — avr
+az? (1 — az? (1 — au?)e-*
+SE Seon igt Foams ier t loon =ae....1—axr?.1 art
+
+The simplest cases, omitting the trivial one corresponding to p = 1, are
+
+1 = 1 {; i. _ fale
+1—a.1l—az.1—aa®” (1 —az*)? 1—2# 1—az
+
+l—2@.1—an.1—a22.1—ae ~ (1 — aat)8 [1 en 1—ae" 1—ax.1—as?
+
+
+
+638 MAJOR P. A, MACMAHON ON THE
+
+I 1 1 an a? az® (1—aa'*)
+1—a. 1—az.1—ax?.1-a23.1—aat~ (1— an*)* { 1—« bi 1l—ax a l-ax 7 1 -1—az?
+ax} (1—ax') aa (1—an') 4 ax (1 —ax')?
+iF 1—ar.1—aa? © 1—av.1—ae © 1—axr.1—aa*.1—az%
+
+The fractions, in the brackets { }, may be united in batches, but I prefer to leave
+them as written, as the law of development is shown the better.

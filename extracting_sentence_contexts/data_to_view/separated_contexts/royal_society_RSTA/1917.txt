@@ -1,0 +1,17 @@
+Further,
+a numerical comparison between LBM with the herein given equilibrium population and LBM
+with an extended Navier-Stokes equilibrium is given in [31]. From a formal point of view, the
+inclusion of extended equilibria into the current framework would require extended perturbation
+terms for the steps AP in the proposed ansatz (§3), effecting additional terms on the right-hand
+side of (3.7).
+
+5. Lattice Boltzmann equation—numerical examples
+
+The generality of the herein presented ansatz is reflected in the fact that by varying model
+parameters in the constructed DVBE, we can reach either an advection-diffusion equation, a
+diffusion equation, or a hyperbolic conservation law. The following numerical tests investigate
+the applicability of the stability constraints derived above and suggest approximation orders to
+
+
+the TEQ. An in-depth analysis of accuracy and consistency in each step from TEQ to LBE is not
+carried out, though subject to follow-up research.

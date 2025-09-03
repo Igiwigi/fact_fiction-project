@@ -1,0 +1,8 @@
+Before comparing the stability domains obtained for all collision models of interest, the impact
+of the parameter M has been investigated. Results obtained for the most sensitive collision model
+(which was identified as the BGK operator) are plotted for different mesh sizes in figure 8. At first
+glance, the fact that the stability of LBMs depends on the number of iterations (required to run the
+simulation) might be surprising. Nonetheless, one must remember that in the context of LSA, even
+if a wave is proven to lead to a linear instability, it will take some time before it emerges from the
+uniform background of the flow. Especially, if its growth rate is extremely low, let us say Im(w) =
+10-5, then its amplitude would be increased by a factor exp[Im(w)] 1 + 10-5 at each iteration.

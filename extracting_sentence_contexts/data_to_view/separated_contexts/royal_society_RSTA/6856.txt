@@ -1,0 +1,15 @@
+The next two sections
+describe and illustrate methods of obtaining and using the necessary finite-difference
+equations for boundary conditions of the type (I.4) or (I.5), when the boundaries are
+rectangular. There is at present no completely satisfactory method of dealing with curved
+boundaries; some possibilities are discussed in § 4.
+
+2. Rectangular boundaries
+
+The importance of rectangular boundaries lies in the fact that the normal to the boundary
+is always in the direction of one of the mesh lines. In this case only is it possible to establish
+without difficulty finite-difference formulae, for points on or adjacent to the boundary,
+which will satisfy both the differential equation (of type I.2) and the boundary condition
+(of type I. 4 or I.5). Ficure 1
+
+Consider, for example, the mesh of figure 1, in which the boundary is a line of nodal points.

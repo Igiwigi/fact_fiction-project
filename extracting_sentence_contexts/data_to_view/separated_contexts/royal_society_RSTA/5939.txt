@@ -1,0 +1,14 @@
+The variable n, on the other hand, is
+stochastic with
+
+1
+Prob(n = +1) = Prob(n = —1) = By (2.4)
+
+
+so that its expectation value vanishes. Numerical simulations in [4] indicated that the time-
+asymptotic state of this model was one of complete wealth condensation [4,6,7], also referred
+to as total oligarchy, in which all the wealth falls into the hands of a single agent. It is worth taking a moment to understand why wealth concentrates in this model, in spite of
+the fact that both agents are subject to the same rules, and the winner is determined by a fair coin
+flip. To see why this is the case, consider the wealth wy of the poorest (wealth rank R = N) agent in
+the population. Since the poorest agent in the population is also the poorest in any transaction, we
+have Aw = ./y At wy.

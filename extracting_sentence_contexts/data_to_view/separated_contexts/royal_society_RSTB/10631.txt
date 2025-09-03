@@ -1,0 +1,9 @@
+The critical timescale 7.,i, was determined with many existing simulation studies of plastic network
+as the value 7, (equation (3.2)) above which a recurrent models (figure 1)—in each of these, a rapid homeostatic
+neural network, initially tuned to a low-activity asynchron- control mechanism on a timescale of seconds to minutes
+ous state [91,92], generates runaway activity. Using was implemented to maintain stability [14,19,21,22,27,63,94].
+simulations and mean field theory, Teri, was found to be We can summarize our insights as follows. The fact that
+of the order of seconds to minutes. Thus, the negative Hebbian plasticity has to be appropriately constrained
+feedback needs to be too rapid to be linked to the through stabilizing mechanisms to avoid runaway activity
+known experiments of homeostatic synaptic plasticity is well known. Classic models such as Oja’s rule or the
+reviewed in figure 1.

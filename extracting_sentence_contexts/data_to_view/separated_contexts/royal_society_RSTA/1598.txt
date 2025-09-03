@@ -1,0 +1,9 @@
+Can light sheet microscopy and SIM, with multiple pattern orientations,
+be properly combined? As noted in §8, light sheet and SIM appear to be a perfect match: light sheet microscopy is limited
+in resolution due to the relatively low numerical aperture objectives used, but generates very little
+out-of-focus light—the bane of SIM. However, traditional light sheet SIM (LSFM-SIM) suffers
+from the relatively coarse illumination pattern that can be provided by the excitation objective
+in LSFM systems and the fact that only one orientation of the pattern is present. As such, while
+improvements in axial resolution can be made, very little useful enhancement of lateral resolution
+is possible. In an attempt to counter these issues, Manton & Rees proposed an LSFM-SIM system featuring
+three mutually orthogonal objectives [103].

@@ -1,0 +1,14 @@
+In this model the EC outer membrane is
+sidered a feature of the end behaviour, and traditionally used to represented at a subcellular level by a collection of individ-
+quantify fully selected tip cells [40], rather than a feature of the ual computational agents (‘memAgents’) connected by
+initial (‘deciding’) process occurring to some degree in all cells. springs following Hooke’s law, which represents tension
+Furthermore, how can the behaviour occur before it is selected? in the actin cortex beneath [49]. This ‘memAgent-Spring
+What about cause and effect? From a temporal perspective, it is Model’ (MSM) allows simple, subcellular level rules to
+easier to conceive that tip cells are not in fact ‘selected’ at all: all generate localized responses of individual memAgents on
+cells begin to migrate initially—it is their ‘default’ state [41]; it is the cell surface by moving between on and off lattice
+the stalk cells that are selected by Notch signalling. With this modes, all together driving high resolution cell shape and
+realization, cause followed by effect is restored! gene expression changes in a realistic, emergent manner. Furthermore, the model was temporally well defined, in
+that all time delays involved were matched as far as possible
+
+(ii) Active perception .
+to experimental data.

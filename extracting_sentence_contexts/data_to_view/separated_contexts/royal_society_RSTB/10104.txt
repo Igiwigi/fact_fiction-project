@@ -1,0 +1,26 @@
+It was
+where the MSEs between the simulated and the recovered therefore possible to repeat the entire optimization procedure
+changes in CMRO, are compared. We observe that the new for different magnet strengths ranging from 1.5 to 14T.
+values of a= —0.05 and B= 0.98 reduce the MSE by 25% The optimal values for a and B in each case are shown in
+compared with using a = 0.10 and 6 = 0.90. table 1 as well as the TE value used in the simulations. The
+We emphasize that because a and f are no longer treated fact that a varies for different values of the external B-field
+
+as physical parameters, but rather as free parameters, they no emphasizes the point that a does not reflect vessel
+
+
+Table 1. Optimal values for free parameters a and 8 for different (f) The simple heuristic BOLD model performs as well HM
+Byfield strengths.
+
+as the regular Davis model a
+
+We also tested the accuracy of the simplified heuristic BOLD =
+
+B-field (T) TE (ms) ~ B model [29] presented in equation (2.2) to recover changes in 2B
+
+15 45 —0.09 030 CMRO;. As shown in figure 6a, our optimization adapted 8.
+
+for the heuristic model computed ay = —0.05 as the optimal <=
+
+3.0 30 —0.05 0.98 A =
+
+value of the sole free parameter.

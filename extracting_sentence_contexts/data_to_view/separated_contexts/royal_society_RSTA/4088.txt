@@ -1,0 +1,19 @@
+As the experimental set-up
+corresponds to the limit described by equation (3.9), this expansion will be dominated by terms
+with the lowest possible order in the weak interaction, i.e. k = 2:
+
+(L) : + Lew (x) | . (3.14)
+
+Equation (3.14) indicates that, beyond the very short-time expansion, i.e. (ty/N) <t < ty, the
+dependence on ts becomes superseded by the diverging terms in the scale T2. This could lead to
+the new time scale T3, which was seen experimentally to be tied to T2 as
+
+T2 $13 Ktz. (3.15)
+
+In that sense, T3 becomes characteristic of the complexity or ‘chaos’ of the many-spin system
+that amplifies the small effect of the perturbation. In addition, it is important to stress that,
+being an experimental fact, equation (3.15) corresponds to a system composed by infinitely many
+interacting spins. In other words, equation (3.15) stands for the relations of time scales in the
+thermodynamic limit. Quite on the contrary, any numerical simulation involves a finite, very
+small indeed, number of spins where the irreversibility rate T; would be essentially given by
+ts.

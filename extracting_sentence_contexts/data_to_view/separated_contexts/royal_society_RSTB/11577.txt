@@ -1,0 +1,21 @@
+These scales vary in spatial extent (nanometre to millimetre) and in
+level of abstraction (tracking of ion concentrations versus body wall dynamics). Each sub-project is organized as a public repository on GitHub, a web-based
+software development platform that serves as the de facto location for collabora-
+tive, open-source software projects, including those defining biological models. Each sub-project also has distinct success criteria, which all have in common a
+goal of reproducing empirical stylized facts associated with a biological
+subsystem using biologically inspired dynamical models.
+
+e-mail: rgerkin@asu.edu
+
+(a) Unit tests
+
+In practice, formalizing these success criteria requires producing a checklist of
+experimental observations and then assessing how well a single model can
+reproduce them when simulated with the appropriate parameters and stimulus
+conditions. Here we implicitly assume that the ability to reproduce experimen-
+tal results is an indicator of model fitness, and that models which reproduce
+more such results are, ceteris paribus, superior to those that reproduce fewer. This is analogous to the ubiquitous practice of wunit-testing in software
+
+THE ROYAL SOCIETY
+
+PUBLISHING © 2018 The Author(s) Published by the Royal Society.

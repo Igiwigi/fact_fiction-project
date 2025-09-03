@@ -1,0 +1,12 @@
+In contrast to the above deterministic case, this table demonstrates that in no scenario is
+there any conventional network investment needed to cope with the uncertainty levels faced by
+the planner in the first epoch. Indeed, the model determines that epoch 1 is too early to decide
+whether to invest in a long power line (commissioned at the beginning of epoch 2) that may
+end up stranded under the realization of scenarios 1 and 2 where solar power emerges right at
+the location of consumption. Rather, the stochastic approach chooses to ‘wait and see’ and thus
+potential network congestions (under scenarios 3 and 4) are managed in the operational time scale
+through smart technologies such as FACTS/QB devices that can be chosen and quickly installed
+right in epoch 2. This solution is complemented later on with a battery storage plant to face larger
+amounts of wind power that materialize towards the end of the analysed planning horizon, also
+considering the drop in cost of batteries in the meantime. It is important to point out that table 3 shows the costs associated with the best expansion plan
+for each scenario considered by the planner to characterize the uncertain future.

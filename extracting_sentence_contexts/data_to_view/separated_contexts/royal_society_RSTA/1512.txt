@@ -1,0 +1,11 @@
+To compare different reconstruction methods to classical widefield fluorescence data :8
+(figure 4e), we use three different reconstruction algorithms: : S
+
+1. Super confocal imaging [28]: Here, the stack is processed by applying maxz(Istack(Z)) +
+minz(Istack(Z)) — 2*meanz(Istack(Z)). It exploits the fact that a sample position in ISM is
+most of the time not illuminated when in focus in this sparse illumination scheme. This
+successfully reduces background contributions and offers a fast and simple way to obtain
+good sectioning (figure 4f).
+
+2. Classical ISM photon reassignment: We base our algorithm on work by McGregor eft al.
+[20].

@@ -1,0 +1,7 @@
+There is also growing interest in exploring VR dynamics in FFNs. For example, Qin ef al.
+investigated the VR phenomenon in multi-layer FFN constituted with FHN neurons [83]. Considering the fact that all neurons in a population cannot receive exactly the same HF input,
+they applied HF driving to the neurons with different amplitudes and phases. It was found
+that heterogeneous HF stimuli may be a more useful driving strategy in weak signal detection
+and transmission through layers. More precisely, distributed amplitudes of HF signal within the
+population result in energetically efficient successful communication between neuronal layers
+due to enabling correlated firing activity of interacting neurons.

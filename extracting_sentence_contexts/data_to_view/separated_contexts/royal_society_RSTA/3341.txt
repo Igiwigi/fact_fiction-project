@@ -1,0 +1,7 @@
+We thus restrict our analysis to the eight
+well-defined states. The dynamic analysis reveals the cell-cycle network to be robustly integrated. Over the course
+of the biological sequence, the full cell-cycle network of eight elements is integrated and, in fact, a
+local maximum of ¢ in all eight states (figure 4a). In each state, the cause-effect structure contains
+eight first-order mechanisms, one for each element in the system. In addition, there are always
+high-order mechanisms in the cause-effect structure, as few as 10 for fy and as many as 111 at ty
+(figure 4b).

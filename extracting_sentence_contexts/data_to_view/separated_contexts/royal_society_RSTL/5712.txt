@@ -1,0 +1,38 @@
+Tus term matrix might be used in a more general sense, but in the present memoir I
+consider only square and rectangular matrices, and the term matrix used without quali-
+fication is to be understood as meaning a square matrix ; in this restricted sense, a set
+of quantities arranged in the form of a square, e. g.
+
+a4 , eo)
+a, 0,0
+a, bt &
+5
+is 8aid to be a matrix. , The notion of such a matrix arises naturally from an abbreviated
+notation for a set, of linear equations, viz. the equations
+
+X=ax +by +cz,
+Y=d'z +0'y +02,
+Z =d"r+0"y+0"2,
+may be more simply represented by
+(&.Y,12)=(.,, .,0-Xo;y,2),
+4,00
+Ca ee
+
+and the consideration of such a system of equations leads to most of the fundamental
+notions in the theory of matrices. It will be seen that matrices (attending only to those
+of the same order) comport themselves as single quantities; they may be added.
+multiplied or compounded together, &c.: the law of the addition. of matrices is pre-
+cisely similar to that for the addition of ordinary algebraical quantities; as regards their
+multiplication (or composition), there is the peculiarity that matrices are not in general
+convertible; it is nevertheless possible to form the powers (positive or negative,
+integral or fractional) of a matrix, and thence to arrive at the notion of a rational and
+integral function, or generally of any algebraical function, of a matrix. I obtain the
+remarkable theorem that any matrix whatever satisfies an algebraical equation of its
+own order, the coefficient of the highest power being unity, and those of the other
+powers functions of the terms of the matrix, the last coefficient being in fact the deter-
+minant ; the rule for the formation of this equation may be stated in the following con-
+densed form, which will be intelligible after a perusal of the memoir, viz. the determi-
+MDCCCLY1IL. D
+
+
+18 MR. A.

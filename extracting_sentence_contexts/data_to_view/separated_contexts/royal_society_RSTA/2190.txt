@@ -1,0 +1,14 @@
+However, the configuration : =
+matrix for most of vortex crystals obtained in this paper has a one-dimensional null space. To : =
+avoid this contradictory situation, we assume the existence of a background constant vorticity 1B
+uniformly distributed over the surface S to compensate the total strength [otal = vy In. As : =
+a matter of fact, vortex crystals on the spherical surface are successfully constructed under this 8
+assumption [12,27,28]. In the same spirit, we do not take the constraint of the zero total circulation : o
+into consideration in this paper. in
+
+The linear stability of a vortex crystal is verified by computing the eigenvalues to the linearized : s
+matrix £¢ R2N*2N of (2.3) around the configuration of the vortex crystal numerically. Since : 3
+equations (2.3) are written as a Hamiltonian dynamical system, the eigenvalues of the matrix £ io
+
+become either a pair of real numbers with the opposite signs or a conjugate pair of pure imaginary
+numbers.

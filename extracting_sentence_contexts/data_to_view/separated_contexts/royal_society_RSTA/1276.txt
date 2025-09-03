@@ -1,0 +1,17 @@
+Define, for : =
+t¢[0,1], the continuous function gi(t) := LMP;(é;) = LMP;((1 — f)“g + £9), which is such that + 60
+
+&i(0) = LMP(¢g) < a and gj(1) = LMP(&,) > @;*. Thanks to the intermediate value theorem, there
+exists a 0 <t, <1 such that g;(t.) = LMP;(&;_) = a7", and
+
+1(E1,) < (1 — te )U(Mg) + tel (E 9) = belo) < 1&0),
+
+which is a contradiction, since & is the minimum. Therefore, § € |_|peconn. comp. of Lt awe), The
+. . of L;
+same argument, based on the convexity of the rate function and the fact that I(¢¢) = 0, shows that
+8 y §
+ge awit +) . Lastly, equation (5.4) can be derived in the same way. a
+
+Proposition 5.1 shows that in order to solve the problem in equation (5.1) we only need to
+look at the boundaries we it) aw i) . Determining such boundaries is a non-trivial problem, for
+which dedicated algorithms exist.

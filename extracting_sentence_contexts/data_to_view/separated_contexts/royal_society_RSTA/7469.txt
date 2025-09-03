@@ -1,0 +1,14 @@
+Tables of the real and imaginary parts of the function
+are given to four decimal places, for values of |p| from 0 to 0-80 at intervals of 0-01, and for values
+of arg p from 0° to 45° at intervals of 1°.
+
+1. INTRODUCTION
+
+The tabulation of functions for complex values of their argument is very seldom under-
+taken. This fact is, perhaps, not surprising in view of the enormous increase of labour
+involved when the argument has two degrees of freedom. It is, however, unfortunate that
+the widespread use of the complex variable in mathematical physics cannot be more
+adequately supported by numerical tables. The deficiency is particularly noticeable in
+wave theory; here the complex variable is an essential tool, but both the relatively simple
+form and the physical content of a result may be destroyed by the necessity of separating it
+into real and imaginary parts for the purpose of computation.

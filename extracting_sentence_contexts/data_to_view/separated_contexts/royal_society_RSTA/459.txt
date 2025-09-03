@@ -1,0 +1,7 @@
+Wavelet analysis is probably the most popular technique;
+a review of condition monitoring applications is found in reference [18]. In terms of an online
+implementation, the application of time-scale methods is less costly than a fast Fourier transform
+(FFT). In fact, the discrete wavelet transform can be carried out in O(N) operations compared with
+O(N logN) for the FFT. Some examples of WT applications in condition monitoring are given
+in [19-23]. Other common time-frequency methods are Cohen class time-frequency distributions such as
+the Wigner-Ville (WVD) and the Choi—Williams (CWD) distributions.

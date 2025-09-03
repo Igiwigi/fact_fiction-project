@@ -1,0 +1,11 @@
+Now, the notion of mathematical equality (and, a fortiori, the notion of identity) has undergone
+a far-reaching process of reconceptualization that started with the development of category theory,
+continued with the enhancement of the latter to higher category theory, and has recently entered
+into a new phase with the development of homotopy type theory in the early new millennium [26,27]
+(see also [28] and references therein). Category theory made clear that the notion of strict equality
+is indeed too strict. This fact motivated the ‘stretching’ of the notion of strict equality into the
+notion of isomorphism. It soon became clear that a full-fledged development of this weakening of
+the notion of strict equality requires us to extend category theory to higher category theory. In
+turn, we could say that homotopy type theory focuses on the sector of higher category theory
+that encodes this extension of the notion of equality, namely the higher categories known as oo-
+groupoids.

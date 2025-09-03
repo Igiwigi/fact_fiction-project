@@ -1,0 +1,13 @@
+Note that in the models of cellular automata in [3], the interaction with the environment
+can produce changes, i.e. perturbations, in the evolution rule of system A. So it differs from
+algorithmic perturbations because the latter impact the states of system A instead of its evolution
+tule. In fact, one can reduce each state-dependent rule perturbation of a cellular automaton A
+in [3] to an equivalent algorithmic perturbation on an equivalent universal cellular automaton
+that emulates A. To this end, just note that every finite cellular automaton is computable by
+a Turing machine and there are universal cellular automata (for example, elementary cellular
+automaton Rule 110) that can simulate any Turing machine [1]. Thus, for each state-dependent
+
+
+tule perturbation in [3], one can construct such an equivalent algorithmic perturbation and
+then demonstrate that there is a constant ce for which ODE (as in [1], Definition 4.1) implies
+unbounded evolution and innovation (see [1], Section 4.1.1).

@@ -1,0 +1,11 @@
+Linearized models are prone to be analytically solved, as done by
+Hunt and co-workers to describe the flow over low hills [7] and over forested areas [8]. These
+analyses led to the development of commercial software such as WAsP and FUGA [9]. Despite
+the fact that wind turbines can be described as body forces distributed over the rotor disc (similar
+to the actuator-disc method), and that the work of Belcher et al. [8] could be apparently applied
+to a distribution of wind turbines, no analytical model has been proposed for the flow over wind
+farms. The key assumption of the analytical solutions of the linearized equations relies on the scale
+separation between a lower layer, described by a parabolic equation (where the pressure gradient
+is constant in the wall-normal direction), and an elliptic region above it, where the pressure field is
+determined as a response to the body force. According to the model assumptions, the pressure at
+the bottom of this upper layer will then be imposed over the lower layer.

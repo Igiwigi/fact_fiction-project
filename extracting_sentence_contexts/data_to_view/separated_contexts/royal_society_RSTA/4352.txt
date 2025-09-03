@@ -1,0 +1,12 @@
+SE benefits of optimizing different transmission fibre parameters: theoretical spectral efficiency curves as a
+function of launched signal power limits for a representative communication system. (1-black line) Baseline parameters
+of system length = 2000 km, amplifier spacing = 80 km, amplifier noise figure = 4.5 dB, channel spacing = 50 GHz,
+baud rate=50Gbaud, fibre loss=0.22dBkm~', nonlinearity = 1.4(Wkm)~', dispersion = 16 psnm~' km~',
+wavelength = 1550 nm, bandwidth = 5 THz, number of WDM channels = 101. In the additional plots, all other parameters
+were kept the same as for the black curve other than (2-indigo line) nonlinearity = 0 (Wkm)~" (conventional Shannon
+Limit for a SMF system); (3-blue line) loss reduced by a factor of 2-0.11 dB km~"; (4-dark green line) nonlinearity reduced by
+1/1000; (5-orange line) dispersion increased by a factor of 2 to D = 32 ps nm~' km~"; (6-light green curve) amplifier noise
+figure reduced to 1 dB; (7-red line) simultaneous changes (3—-6) to the baseline parameters as above. The figure highlights the
+fact that even by radically improving fibre amplifier properties, then only relatively modest improvements in spectral efficiency
+can be achieved. It should though be appreciated that the financial benefits of such radical property improvements could be
+significant. (Figure courtesy of Prof. Andrew Ellis of Aston University, UK).

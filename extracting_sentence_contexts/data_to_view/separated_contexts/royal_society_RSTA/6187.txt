@@ -1,0 +1,12 @@
+To pass to the limit also in terms on the right-hand side, we use (3.10), (3.11), (3.14), (3.23)
+and (3.45) combined with the Lebesgue dominated convergence theorem and together with the
+minimum principle for 0". Consequently, n satisfies entropy equation (2.11).
+
+
+(c) Continuity of 2 in time
+
+Finally, we focus on the attainment of initial conditions and continuity with respect to
+time variable. Concerning the velocity field, we can recall (3.10) and by standard parabolic
+interpolation, we observe v € C([0, TI; LG, div): The fact that v(0) = vo is then proven analogously
+as for Navier-Stokes equations, see e.g. [2,8]. Now, we focus on the temperature. For the attainment of the initial condition, one can follow
+[1-3].

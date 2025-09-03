@@ -1,0 +1,25 @@
+Without loss of generality, assume that
+D(to) > 0. This gives us that E(to) > 0 by definition and F(t) <0 by (5.3). Considering this, (5.5)
+and the fact that x, y € C*(to, f2), we have that there exists t € (fo, f1] such that F(r) = 0 and F(t) <0
+
+
+for all t € (to, t). In particular, this means that, by integrating F with respect to s € (to, t), we have
+
+I; F(s)ds <0 (5.6)
+
+to
+
+and, setting t = t in (5.4), we have
+
+I. E(s)ds =0. (5.7)
+
+to
+
+Then, by integrating (5.4) with respect to t € (to, t) and using (5.6), we obtain
+
+t tt t ct
+
+o=| FU) at-+ Be | | E()ds dt < fe | | E(s) ds dt =0,
+to ty Jto ty Jto
+
+where the last equality is a consequence of Fubini’s theorem and (5.7).

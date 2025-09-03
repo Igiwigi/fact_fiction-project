@@ -1,0 +1,5 @@
+This effect is
+shown in figure 5a. Note that in [101] a similar model is studied, but it is operated in the excitable
+regime (a > 1), and the analysis is performed for small delay t = O(¢). The fact that the delayed neuron is slightly ahead of the real neuron means that the difference
+h=T —t between period T and delay t is small. When the system is on a stable limit cycle,
+u(t) =u(t+T). This means that u(t — t)=u(t+T — t) =u(t+h).

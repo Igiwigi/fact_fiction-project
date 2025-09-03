@@ -1,0 +1,9 @@
+In 2D, it’s like snakes on a plane. Recently, it has been shown that that the temperature 1 abstract Tile Assembly Model (i.e. non-
+cooperative binding) is provably weaker than the full model [45]: in particular, temperature 1
+tile assembly is not capable of simulating arbitrary tile assembly systems. In fact, there is a very
+simple cooperative tile assembly system, that uses cooperative binding on two sides in merely
+one location, that cannot be simulated by any non-cooperative tile assembly system. This is the
+first fully general negative result about temperature 1 that does not assume restrictions on the
+model nor unproven hypotheses. The proof uses a simple pumping lemma (called the window
+movie lemma) for self-assembly that gives a sufficient condition to modify assembly sequences
+and swap parts of assemblies.

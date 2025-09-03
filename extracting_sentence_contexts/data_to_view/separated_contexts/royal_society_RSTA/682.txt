@@ -1,0 +1,17 @@
+As expected, the predictions from Tm-HoTMuSiC are more
+accurate than those from the standard HoTMuSiC, given that additional potentials are considered,
+which take more properly into account the thermal stability properties of the proteins. However,
+the difference in performance is smaller than expected, especially in the light of the results shown
+in the next section where a relation between the Tm of the wild-type protein and the ATm
+distribution of point mutations is observed. This can be attributed to the fact that the T-dependent
+potentials are extracted from small datasets of about a hundred proteins and thus are noisy, even
+if some tricks were employed to limit this small-size effect [27].
+
+5. Analysis at the structuromic scale
+
+On the basis of the results obtained at the protein level, we analysed the thermal properties
+of proteins at the structurome scale in view of understanding how the physical principles that
+drive the thermal optimization are reflected in the evolutionary pressure on the sequences, which
+occur in response to the thermal conditions of the environment. In the last decade, a series of
+investigations tackled this issue (e.g. [29-34] and references therein), but the answers remained
+elusive and too frequently model dependent.

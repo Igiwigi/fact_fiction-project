@@ -1,0 +1,18 @@
+We can also imagine that the bird mainly uses song A
+dependency. However, a long-distance dependency does in one context, and song B in another context. In such a
+have consequences for the underlying model that can be case, the appropriate model might be a hierarchical hidden
+assumed for its strong generative capacity, representational Markov model, which at the level of sequences-of-songs dis-
+capacity and compressive power: in the example shown in tinguishes different ‘states’ for different contexts, and at the
+figure 4, we were forced to duplicate the state responsible level of sequences-of-elements distinguishes different states
+for generating B, in fact we require 2m states (where m is for different sections (start, end) of the song. Such a model
+the number of non-local dependency pairs, such as A...C is still finite-state in terms of weak generative power—
+or D...E, that need to be encoded). Therefore, if there are because ultimately it can be described as involving a finite
+multiple (finite), potentially nested non-local dependencies number (two contexts x two sections = four states) of
+the number of required states grows exponentially (see also states, but it would be problematic to describe the model
+the comparable argument regarding the implicit acquisition without using an account that represents the individual
+of such structures in references [99,114]). songs that are generated; accordingly, a model for describing
+On similar grounds, one may argue that human musical song production in terms of strong generativity may poten-
+capacities exceed not only Markovian, but probably also a tially rather employ a formalism such as CFGs.
+finite-state representation (which is not a relevant or probable Other motivations to move beyond the confinements of the
+model here on the grounds just presented), based on empirical CH lie in the modelling of real-world structures that under-
+evidence that a recent study provided: human non-musicians mine some of the assumptions of the CH.

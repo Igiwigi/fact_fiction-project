@@ -1,0 +1,17 @@
+Here, it is worth differentiating claims about the need for communicative intent from claims [2
+about the need for an external world more generally. (Perception is the most obvious example : >
+of the latter category, but there are other examples, e.g. an agent’s non-communicative goals.) :8
+Arguments against LLMs often entangle both into a generic notion of grounding, but these claims : -
+are not the same. They inherit from separate philosophical traditions and thus have separate sets : <
+of criticisms to address. (cf. [71,72] who present partially overlapping arguments with the ones I _
+make below.) : 8
+
+SI
+(i) Does meaning require communicative intent? 8
+
+A common line of argument is that LLMs cannot encode meaning because they lack
+communicative intent. That is, when humans mean things by language, it is by virtue of the fact
+that they are using language to influence others’ thoughts and actions. This notion of meaning
+originates from [73] who argues that meaning is dependent on the way in which words are used. This perspective is appealing to natural language processing researchers because it is (one of)
+the possible theoretical traditions that is consistent with the distributional hypothesis [74,75] on
+which nearly all modern computational models of language are based.

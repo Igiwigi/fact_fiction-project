@@ -1,0 +1,21 @@
+In general, several non-steady or non-regular failure
+processes can occur, where the critical displacement may be achieved at any time and location
+corresponding to the position of intact vertical links. Additionally, the strength of the horizontal
+links will play a role in the material's failure, providing new potential regimes of possible fracture. Some of these regimes are discussed below in connection with the computations presented here
+that are based on the analytical procedure of [36].
+
+(i) Governing equations of the medium
+
+During the bridge fracture process, the junctions along the upper row of the system are assumed
+to undergo motion according to the following equation from [36]:
+
+Mitm(t)—Qm(t) = HUm+1(t) + Um—1(t)) — 2(u + 26) (E), (2.6)
+
+where Q,,(¢),  € Z, is an internal forcing term taking into account the fact that behind the crack
+tip only the vertical links associated with odd-numbered nodes supply longitudinal forces to the
+masses along the upper row. This term has the form
+
+2 1), *, /
+On(t) = xUm(t), m>m*, m even, (2.7)
+
+0, otherwise. Here, m* denotes the position of the failure front.

@@ -1,0 +1,8 @@
+Our known Vicsek’s model [34]. In particular, it assumes that
+general model (that is not referred to a particular species) rea- flocking phenomena are owing to alignment mechanisms,
+listically distinguishes between individual speed and with uncertainties arising from a random contribution in
+direction of motion. The former is in fact typically established individual velocity. This approach is then extended in [35]
+by the purpose of movement and/or by physiological limit- with the introduction of a Lennard-Jones-type potential to
+ations, the latter results instead from the competition represent repulsive and attractive dynamics. Interestingly,
+between different behavioural stimuli, mainly coming from each velocity contribution is therein weighted by a parameter
+the environment and from interagent interactions.

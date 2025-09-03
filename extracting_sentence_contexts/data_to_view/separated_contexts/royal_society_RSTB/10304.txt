@@ -1,0 +1,14 @@
+Intuitively, ‘land-
+marks’ (e.g. voxels) on a one-way street are always visited
+in the same order. Hence, regardless of whether the
+one-way street is traversed early or late in a specific path
+(e.g. lag thread), the ordering of landmarks will be highly
+correlated over all paths (e.g. over all lag threads). When
+we compute the voxel-wise propagation sequence correlation
+across lag threads, we in fact find topographies of high corre-
+lation, indicating the presence of one-way streets (figure 3f). We refer to these ‘one-way street topographies’ as ‘lag
+thread motifs’. Comparing the propagation sequence corre-
+lation matrix (figure 1f) against a conventional zero-lag
+(functional connectivity) correlation matrix (figure 1b), we
+
+find substantial agreement [42].

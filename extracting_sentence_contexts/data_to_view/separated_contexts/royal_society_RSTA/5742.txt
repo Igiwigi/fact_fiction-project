@@ -1,0 +1,12 @@
+They therefore give two sets
+of identical BKL map values after the end of sync at the two different spatial points. The same is true for the boundary u-values of each sector, namely the values u = 1, and u = 00
+(this last value characterizes the so-called ‘Taub points’ T),T2,T3, pa = (1,0, 0), (0, 1,0), (0,0, 1). In fact, the midpoints Q1,Q2,Q3 of the three arcs connecting the three Taub points on a Kasner
+circle, which correspond to the LRS Kasner solutions, are also synchronized. This follows from
+
+
+their parametrization, cf. [18], p. 132, namely, by setting Y+ = cos y, Y_ =sin y, one finds that,
+1 1
+pre = 3(1—2cosyA%), pyy = 51 + cosy* + V3sin y 4), (6.6)
+
+with the Q points lying at the values y =0,27/3,47/3, respectively. When B receives data from
+A and synchronizes, then [Tz — 2, and so we have that peo v4, hence, Q?

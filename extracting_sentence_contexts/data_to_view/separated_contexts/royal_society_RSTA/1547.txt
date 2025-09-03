@@ -1,0 +1,51 @@
+These models require hundreds of adjustable parameters to fit the short-term data,
+including the geometry and depth to ductile creep (i.e. locking point) and coupling coefficients
+for each individual fault, and estimates of long-term slip rates on block boundaries. Lamb & Smith [15] argued that the block models of short-term deformation are unsatisfactory
+because they require information on deformation at vastly different timescales ranging from
+decades to hundreds of thousands of years, and they provide no insight into the driving forces
+of this deformation, assuming the long term as essentially having a close correspondence with
+the short term. Furthermore, the premise of the block models is undermined by the fact that
+
+
+earthquake earthquake
+
+x
+
+(a)
+
+aver age
+ambient
+stress/strain
+
+stress/
+stress/ strain
+
+strain drop
+drop
+
+time
+
+(b) rotation dilation [=
+
+strike-slip
+
+—42.5°
+
+173.5° 174° 174.5° 173.5° 174° 174.5°
+2016 M7.8 Kaikoura Earthquake coseismic strain
+10+
+-10 5 0 5 10
+
+Figure 1. (a) Earthquakes are part of a cycle of slow accumulation of elastic stress/strain over 10 s to 100 s years in the
+interseismic period (referred to in this study as short-term deformation), and then sudden redistribution or elastic rebound of
+this stress/strain as permanent fault slip during an earthquake over seconds to minutes, followed by post-seismic adjustments,
+creating over many earthquake cycles the long-term deformation. (b,c) show the rotation and dilation (change in area/unit area)
+components of strain field as a consequence of elastic rebound during the M7.8 2016 Kaikoura Earthquake in northern South
+Island, New Zealand, (see figure 2a for location of maps). Significant anticlockwise rotation and extensional dilation occurred in
+azone up to 30 km from the fault ruptures, converted into about 10 m of reverse dextral slip on a complex set of fault ruptures in
+amuch narrower zone. Strain field calculated from co-seismic displacement field based on InSar satellite observations spanning
+the earthquake (John Elliott, pers com 2017). (Online version in colour.)
+
+the models can be shown to be unstable if there are no a priori estimates of long-term slip rate
+on surface faults [13,14], so that different estimates drive the block model solutions in different
+directions [16].

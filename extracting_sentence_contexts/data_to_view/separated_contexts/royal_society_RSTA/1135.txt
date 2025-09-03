@@ -1,0 +1,39 @@
+More specifically, the moments of fi must equal
+those of its continuous counterpart f°,
+
+Oh Sly = Mpt = Mp = | ekelper de, (25)
+i
+
+at least up to a given order p + q=N €N that depends on the physics of interest [82]. To recover
+
+the isothermal behaviour of the NS equations, up to third-order moments of the Maxwellian must
+
+be recovered by the discrete equilibrium. This is explained by the fact that the NS equations (2.1)
+
+can be rewritten as
+
+3y(MBOP) + d-(MMP) + 0,(Mh1) = 0,
+
+ay(MYQ) + Be(M3Q°) + ay(MYT) = Ax(H20) + y(n) (2.6)
+and (MMB) + d-(MMP) + a,(MNS) = ar(TT11) + dy (02),
+
+where the diffusive term is further related to equilibrium moments through the Chapman-Enskog
+expansion [83]
+
+Th = (MMB) + dy(MMB) + a,(MNB),
+
+Ty, = 0:(MMP) + d.(MMB) + a,(MMP) (2.7)
+
+and Tlo = 0:(MDS°) + dx(MY5) + dy(MN°).
+
+
+and the equilibrium moments are
+
+My? =p, Mig? = puts, M39? = p(uy + To), MAP = p(uxtty)
+MB 3 MB 2 (2.8)
+and M3q° = e(uy + 3Toutx), Mp,” = p(uy + To)uy-
+
+MMB, MMB, MMB and MMB are obtained by index permutations. For standard lattices, discrete velocities are defined as &, € {0,+1} (a=x or y) which
+leads to the aliasing defect & in =&. [2]. In theory, this decreases the accuracy of such
+velocity discretization to N =2, which corresponds to the isothermal and weakly compressible
+regime [82].

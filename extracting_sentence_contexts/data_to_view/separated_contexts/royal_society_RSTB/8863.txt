@@ -1,0 +1,39 @@
+Identify-
+scale, where the role played by single nodes may be altered ing nodes, establishing links according to some relationship
+[74]. For instance, network hubs appear to be especially vulner- between them, deciding which links are significant, and,
+able to brain disease [18,75], which appears to reshuffle the once network properties are computed, using them to charac-
+ranking of node centralities in the network [65,76]. terize the network are all steps involving somehow arbitrary
+
+choices with often covert underlying assumptions, and far-
+reaching nested consequences (see [9,78—80] for recent critical
+reviews on the topic).
+
+3. Hard times
+
+The introduction of fundamentally different concepts and tools
+
+to a new field is a path often plagued with pitfalls, typically (i) Identifying nodes
+
+coming under the guise of over-, under- and mis-application Identifying nodes supposes that the studied system can
+
+and interpretation. meaningfully be decomposed into discrete structureless
+In fact, the enthusiastic resort to any new method, particu- parts. This reduction is not trivial when dealing with systems
+
+larly when imported from other fields, may on one hand lead of largely unknown organization and dynamics.
+
+to disregarding some of its assumptions and limitations and, Depending on the technique used to record brain activity,
+
+on the other hand, lead to the (often improper) isolation of the main issue may be the extent to which sensors sample the
+
+those parts of the method that are more readily amenable to underlying dynamical system or how to best segment
+
+the pillar concepts of pre-existing ones, while other parts are the space.
+
+only resorted to at later stages, regardless of their possible Studies using electrophysiological techniques such as
+
+scope in the field. electro- or magnetoencephalography identify nodes with
+Neuroscience is not being spared these various problems, sensors. This introduces spatial scales possibly unrelated to
+
+as stumbling blocks lurk at all levels, from the very domain the actual system organization, and potentially affecting the
+
+of complex network theory’s applicability, to the crucial network’s topological properties [81,82].

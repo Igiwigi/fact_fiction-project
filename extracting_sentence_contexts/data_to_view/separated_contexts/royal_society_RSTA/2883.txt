@@ -1,0 +1,10 @@
+More
+generally, she showed that a large portion of the US population could be uniquely re-identified
+given just these three pieces of their information [19]. Subsequent attacks on de-identified data
+(e.g. [20,21]) suggest that as few as three or four data points can be sufficient to re-identify an
+individual in a de-identified dataset. In fact, to be effective, de-identification must strip the data
+of most of its informational content, rendering it almost void of value of analytic purposes (see
+discussion in [22,23]). There have been many attempts to define the concept of de-identification
+heuristically (e.g. k-anonymity [24] and its variants /-diversity [25] and t-closeness [26]). However,
+as researchers continually discover new privacy vulnerabilities, new heuristic definitions must
+be developed to address them.

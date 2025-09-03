@@ -1,0 +1,6 @@
+This suggests that as we increase
+y(0) the difference between up- and down-drift further decreases. We show this numerically in
+figure 2c,d. In fact, the values of the up- and down-drift change continuously until they coincide
+at the balance point y(0) = 6 ~ 0.514 (figure 2e). For larger values, the order of the drifts is reversed
+and coarsening leads to another ‘winning’ phase of the solution (figure 2d). Note that throughout this process of the change of y(0), the function fr satisfies (H1) and
+(H2), and as a result fy satisfies (H3).

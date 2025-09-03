@@ -1,0 +1,8 @@
+Assuming that the sheet actually wrinkles (i.e. assuming that the excess length of the outer
+circles is large enough to induce wrinkling rather than compression), the cost of changing the
+length scale of wrinkling from circle to circle does not enter the leading-order energy; rather,
+it contributes to the principal correction (the excess energy). As we are interested in how
+the wrinkling pattern changes with 1, it is crucial to understand the principal correction. In fact,
+it seems to be of order h (more precisely: we have a lower bound that is linear in h, and an upper
+bound that is almost linear in /). Our main mathematical result is the following characterization of the leading-order energy
+and the principal correction. Theorem 2.1.

@@ -1,0 +1,15 @@
+Even if the Nash equilibrium obtained in each case
+is different it does not have a significant impact on the objective function. The mean objective
+function across the population is €1649.58 in the perfect forecast case, and €1649.86, €1649.21,
+€1648.99 for W = {0.1,0.2, 0.3}, respectively. Those values are very close, and this result should
+be interpreted as the fact that changes in forecast uncertainty are mitigated by population effects
+when it comes to population-average costs. In addition, the distributions have similar shapes and
+quantiles, therefore, we can conclude that the effect of the forecast accuracy is mitigated by the
+population effects in terms of cost, beyond the mean only, but not in terms of consumption. Recall
+that the plot shows the mean consumption across the population, but the aggregated effect of this
+small deviations has a significant impact on the system demand.
+
+(d) Effect of bounded rationality
+
+Finally, we relax the rationality assumption and study the impact of bounded rational agents on
+the system equilibrium.

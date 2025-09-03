@@ -1,0 +1,6 @@
+However, a number of distinctions exist. By
+taking advantage of the correspondence between the moments and discrete velocities [13,14],
+the SMRT model is readily translated into a discrete-velocity model that can be used in LB. Nevertheless, as the exact eigen-functions of the full Boltzmann collision operator are largely
+unknown, the individual relaxation of the Hermite moments is only justified by the fact that
+the Chapman-Enskog calculation indeed yields the correct Navier-Stokes-Fourier equations [10]. Numerical tests are necessary to verify the effectiveness of SMRT in the non-equilibrium regime. The main purpose of the present work is to give a coherent and detailed presentation of the
+multi-relaxation model.

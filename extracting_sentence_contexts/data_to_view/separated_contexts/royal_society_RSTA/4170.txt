@@ -1,0 +1,11 @@
+Bootstrap-based 90% confidence intervals for the PDMs corresponding to all three inputs.
+
+range—particularly below 0.05 Hz [13,17,19,20]—with regard to the ETCO? input. Therefore, the
+nonlinearities are expected to be associated primarily with the PDMs that exhibit resonant peaks
+in that frequency range. This is, in fact, observed in the ANFs shown in the PDM-based model
+of figure 2. However, when we assess the statistical significance of the obtained estimates of
+the ANF coefficients using p-values (under the assumption of system stationarity), we observe
+significant nonlinearity only in the quadratic coefficient of the first PDM of the ETCO2 input
+(p = 0.039), as indicated in table 2 where the average (s.d.) values of these coefficient estimates
+and the corresponding p-values are shown for the three PDMs of each input. It is also seen in
+table 2 that several linear coefficient estimates do not rise to the level of statistical significance.

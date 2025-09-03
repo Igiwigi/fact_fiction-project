@@ -1,0 +1,12 @@
+With
+13 constraints, the equilibrium distribution matches the moments of the Maxwell—Boltzmann
+distribution not only for the conserved moments, as does the 5-moment approach, but also for
+higher-order, non-conserved moments. In this manner, the behaviour of the macroscopic flow
+variables, which are related to the moments of the particle populations, can be more adequately
+represented using as few as 39 discrete velocities in 3D, by putting more effort into the equilibrium
+instead of the lattice. This is explained by the fact that the desired moments of the distribution are
+strictly enforced with the help of a numerical solver. Hence, they no longer depend on the choice
+of a sophisticated discrete velocity stencil, or at least, the dependency is highly reduced. Here, the choice of a D3Q39 velocity discretization is motivated by recent improvements
+obtained with hybrid LBMs based on the same lattice, and which successfully simulated flows
+around realistic geometries in the high-subsonic, transonic and supersonic regimes with a wall-
+clock time that competes with Navier-Stokes—Fourier solvers [22,44,45].

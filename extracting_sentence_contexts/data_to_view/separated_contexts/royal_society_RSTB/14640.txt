@@ -1,0 +1,8 @@
+For each pair of the
+
+HIV-Ig absolute-change measures, we compute a Kolmo- with any of the Ig measures (and similarly for the Ig number
+gorov-Smirnov p-value on the distribution of re-scaled of sequences). Another spurious correlation can be generated
+correlation coefficients. The 24 p-values are shown in electronic by the fact that the time points are not homogeneously distrib-
+supplementary material, figure $3a. We correct for multiple uted (electronic supplementary material, figure S1), and the
+testing through a Benjamini-Hochberg test at a false discovery considered change measures are dependent on the length of
+rate of 0.05. This selects three significant pairs of measures, the time windows.

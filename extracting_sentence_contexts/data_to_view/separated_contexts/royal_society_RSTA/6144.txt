@@ -1,0 +1,13 @@
+A
+paradigmatic approach to gain insight about critical phenomena is the Ising model at different
+dimensions: it has been shown that a simple two-dimensional Ising model with fields is universal,
+ie. it can be used to facilitate the physical simulation of Hamiltonians with complex interactions
+[39] and it has been related to cellular automata [40]. Remarkably, there are systems that do
+not even need a parameter (e.g. temperature) to be tuned in order to exhibit the scale-invariant
+organization in space or time, such as in critical systems at phase transition. In fact, such systems
+dynamically reconfigure their state and spontaneously reach a critical point, which is also an
+attractor. This peculiar behaviour is widely known as self-organized criticality [41,42] (SOC) and
+it is characteristic of driven nonlinear systems of many interacting units out of equilibrium [43]:
+the signature of SOC is the fractal organization in space or time, and it has been observed in
+biological, ecological, physical and social systems [44,45]. At this point, since most of the systems mentioned so far are non-living, it is worth remarking
+what is meant by ‘organization’ in open systems out of thermal equilibrium.

@@ -1,0 +1,9 @@
+In the SDT experiment, the hotwire probe was moved along a single radial line to obtain data
+at different locations between the hub and tip. When the radial locations are placed in the volume
+at different circumferential locations from 90° to 106°, slight differences in the results are found
+as shown in figure 4. The difference is attributed to both the fact that a cartesian grid not aligned
+with the wake is used in the gap and that there is an averaging process used when saving the data
+into the volume file and an interpolation process used when extracting the data. Note that probe
+values are saved without any space averaging or interpolation involved (the value of the probe
+containing voxel is used). Figure 4a shows there is no appreciable grid, sampling or interpolation effect present in the
+total mean flow values.

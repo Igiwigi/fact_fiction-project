@@ -1,0 +1,9 @@
+Why is magnetized plasma turbulence anisotropic? This question can be answered rather
+simply, in the context of incompressible MHD, through physical intuition derived from the
+picture of nonlinear energy transfer presented above. Basically, the anisotropy arises as a direct
+consequence of two facts: (i) only counter-propagating Alfvén waves interact nonlinearly and
+(ii) the nonlinear energy transfer is maximized for interactions between perpendicularly polarized
+Alfvén waves. Consider the nonlinear interaction between two plane Alfvén waves with arbitrary
+wavevectors kj and kz. We adopt the convention that the wave frequency must be non-negative,
+w= 0, so that the propagation direction of the wave along the mean magnetic field is given by
+the sign of the parallel component of the wavevector.

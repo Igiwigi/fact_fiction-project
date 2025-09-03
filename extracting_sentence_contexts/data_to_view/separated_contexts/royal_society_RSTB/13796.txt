@@ -1,0 +1,16 @@
+For r=0, both the a and B alleles in the central region (see electronic
+the equation is thus dimensionless, and for r > 0 we can intro- supplementary material, figure S3 for a detailed explanation
+duce another re-scaled parameter, r/s (the inverse of the in terms of haplotype frequencies), inducing movement of
+coupling coefficient introduced by Barton [24]), that measures the A cline to the right and the B cline to the left. When
+the strength of recombination relative to selection. recombination is sufficiently strong, linkage disequilibrium
+Figure 3 shows an example for numerical solutions of this is mitigated (electronic supplementary material, figure S4),
+system of partial differential equations. The spatial width of a and the fitness advantage of the alleles between the clines is
+cline is proportional to x9 = Jas, in agreement with the fact reduced, leading to slower movement of the clines.
+that dispersal tends to homogenize allele frequencies across Figure 4 investigates the time it takes until two clines
+the cline whereas selection tends to remove unfit heterozy- spatially align as a function of their initial distance, the selec-
+gotes from the population and steepen the cline [6]. We find tion intensity, the diffusion parameter, and the recombination
+
+that two clines at different loci will tend to spatially align rate. We find that clines will always couple, but over longer
+
+
+time spans when recombination is higher or the initial dis- frequencies established during surfing events.

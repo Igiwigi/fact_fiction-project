@@ -1,0 +1,7 @@
+We describe briefly the approach which was used in [49] to establish the global validity
+of (2.2) in solving (2.12); other geophysical scenarios were addressed in [50,51]. Firstly, from
+examining its Jacobian matrix, and applying the inverse function theorem, it can be proved that
+the mapping (2.2) represents a local diffeomorphism from the Lagrangian variables to the fluid
+domain. Additional analytical considerations establish that it is, in fact, globally injective. To
+complete the proof, as was first implemented in [3] for Gerstner’s wave, we employ the following
+degree-theoretical result, the invariance of domain theorem [52,53], which we state as Theorem 3.1. Theorem 3.1.

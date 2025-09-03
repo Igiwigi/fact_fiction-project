@@ -1,0 +1,36 @@
+In the training process, we restricted the norm of w to be unity so that
+only the bifurcation type is identified. To evaluate the identified centre manifold and coordinate transformations using the trained
+networks, we take the trained N2; block and set its input to [y1,y2 =0,8 =0] and analyse the
+network output for a range of input y; values (figure 3). In fact, we are enforcing the dynamics
+to remain on the centre manifold in the latent space, and aim to identify its geometry in the
+original coordinates. Figure 3 shows the identified centre manifold compared with the reference
+
+
+—0.05
+-0.10
+0.15
+= 0.20
+a
+0.25
+Ps
+0.30 6
+7
+—0.35 |, id - — centre manifold theory (nonlinear) :
+-— — centre manifold theory (linear) : =
+Ayn | —— approximated by the trained network an
+“0.05 —0.04 -0.03 —0.02 0.01 0 : =
+Hu aed
+1S
+Figure 2. Reference and data-driven identified 6 (2) corresponding to the linear dynamics on the centre manifold of the : ~
+system of equations (3.1). (Online version in colour.) : ES
+8
+g
+N
+0.015
+0.010
+%2
+0.005
+0
+—0.10 0.05 0 0.05 0.10
+
+Figure 3.

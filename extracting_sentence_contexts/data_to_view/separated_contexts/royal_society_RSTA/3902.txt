@@ -1,0 +1,8 @@
+Such a possibility has already been explored by using specialized
+computational infrastructure made of thousands of GPUs [55]. Importantly, the LBMD computational scheme offers an original approach to multiscale
+simulations. In fact, the multi-resolution lattice Boltzmann scheme is today available [56], as much
+as devising methods where the particle resolution is handled differently in different regions of the
+system [57-59] and, in essence, allowing to handle situations where both the fluid and particle
+components cross the scale boundaries. Data accessibility. The files containing the processed Protein Databank structures relative to CI2, amyloid
+peptides and the A2 domain of VWF and containing the OPEP force field parameters are publicly available
+upon request to the authors.

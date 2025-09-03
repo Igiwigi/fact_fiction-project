@@ -1,0 +1,20 @@
+For
+the Hopf case, excitatory synapses lead to stable synchrony (or near synchrony) (E5, green), while
+inhibitory synapses lead to anti-phase (15, red). These figures show that both the nature of the
+coupling and the shape of Z play an important role in determining the phase-locking properties
+of symmetrically coupled oscillators. The fact that a pair of identical oscillators always leads to an odd effective coupling function
+(the even terms do not matter) would lead one to believe that we could assume H is an odd
+function. However, once more than two oscillators are connected, then the even component of the
+
+
+
+(a) 40 w $5
+
+0 é 2n
+
+a 2n 0 oa 2a
+
+o o
+
+Figure 1. The Morris Lecar Model. (a) The voltages for parameters near an SNIC or Hopf bifurcation. (b) The solutions to the
+adjoint equation in each case. (c) The interaction functions C(@) in different scenarios for the SNIC.

@@ -1,0 +1,9 @@
+Often researchers
+use either spatial or Fourier filters to eliminate the smaller scale features near the
+pole in either the regular spherical grid system or the reduced grid system. In any
+case, this method has some undesirable computational features that have plagued
+climate modelling for decades. In fact, these problems have revived interest in the
+use of Buckminster Fuller’s geodesic dome idea, in which the globe is covered with
+‘nearly’ uniform triangles as shown in figure 7. Some of the earliest work carried
+out in this area was by Sadourny et al. (1968) and Williamson (1968). The spectral transform method became widely used in the 1970s for solving
+the dynamical equations of atmospheric climate models.

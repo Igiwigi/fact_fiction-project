@@ -1,0 +1,23 @@
+Considering re-formulating the Paris equation, see equations (2.2) and (2.3), in terms of G
+rather than K, then at first sight the most obvious and corresponding parameter against which
+
+
+to plot the measured rate of the FCG, da/dN, is the range of the applied energy release-rate, AG. However, as shown in equation (2.1), K is proportional to VG. Indeed, recent work, for example
+by Jones et al. [24,26,27], Rans et al. [36], Pascoe et al. [37], Simon et al. [38] and Yao et al. [25,39-41],
+has confirmed that the logical extension of the Paris FCG rate equation in terms of G, rather than
+K, is in fact to express da/dN as a function of AVG, where
+
+AVG = /Ginax — VGmins (2.4)
+
+where Gmax and Gin are the maximum and minimum values of the applied energy release-rate
+in the fatigue cycle, respectively. The values of Gmax and Gmin may, of course, be calculated from
+the maximum and minimum loads, Pmax and Pmin, respectively, in the fatigue cycle and the R-
+ratio may be defined by R = Pmin/Pmax. (The value of the R-ratio may also be given in terms of
+the maximum and minimum displacements, 5max and min, respectively, and the R-ratio may now
+be defined by R = 3min/émax)-
+
+The Paris equation, either in terms of AK or AVG, gives a linear expression when plotted
+as logarithmic da/dN versus logarithmic AVG. However, while the central portions of the
+FCG relationships that are experimentally measured do invariably follow this linear expression
+relatively closely, the experimental results for the FCG relationships over the full range of values
+are usually sigmoidal in shape, for example, see figures 1, 4, 7 and 8 below.

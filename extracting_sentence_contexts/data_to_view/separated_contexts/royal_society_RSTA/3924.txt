@@ -1,0 +1,21 @@
+The ratio between the two
+time steps, depending on the LBM lattice spacing and the DSMC particle characteristic collision
+time, defines the number of subcycles the DSMC should run for each LBM time step. The LBM
+solution information in proximity of the fine level grid is passed to the DSMC via the imposition
+of proper boundary conditions on the particle simulation domain. At the beginning of each DSMC
+integration step, in fact, particles are generated within the buffer region by sampling Grad’s
+distribution built according to the reconstruction step. The particles, in both the DSMC and the
+buffer regions, are allowed to stream for one fine level time step. If a particle from the DSMC
+region crosses the interface, that particle will contribute to the fluxes of mass and momentum for
+the LBM discrete distributions corresponding to the node where the crossing occurred, so that the
+
+
+populations will be corrected as
+
+R
+falx, mAtLBM) = fz % mAtLem) + )~ Afa(x,iAtpsmc), (2.5)
+
+i=1
+where f; are the populations before the application of the correction, R is the ratio between the
+LBM and DSMC time-step durations, and the correction contribution, }°; Afa, can be evaluated
+from equation (2.1) for n > 1 (only the fluxes are exchanged).

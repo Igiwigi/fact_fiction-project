@@ -1,0 +1,15 @@
+If one wants to improve the asymptotic behaviour of LBMs in an a priori
+manner, one must adapt either the discrete equilibrium state or the velocity discretization. This statement obviously extends to LBMs based on collision models with dynamic relaxation
+frequencies (entropic [87-89], KBC [10], subgrid scale models [90], space filtering [66,91], etc.). This is explained by the fact that they either lead to (1) a space- and time-dependent kinematic
+viscosity v(x, t), or (2) a dynamic relaxation of third- and higher-order non-equilibrium moments
+that should not have any impact on the isothermal macroscopic behaviour. It is finally worth
+noting that one could rely on approaches based on velocity-dependent relaxation times [47], or
+even correction terms [26,77,85,92-95], to alleviate the remaining deficiencies of standard velocity
+discretizations.
+
+3. Linear stability analyses of the discrete velocity Boltzmann equation
+
+(a) Motivation
+
+In the previous section, the impact of the equilibrium on the macroscopic behaviour was
+highlighted.

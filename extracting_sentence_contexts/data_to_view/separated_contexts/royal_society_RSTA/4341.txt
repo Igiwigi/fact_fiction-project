@@ -1,0 +1,13 @@
+These are very different networking scenarios often referred
+to as north-south (aggregation to core) versus east-west (metro-only) traffic flows. The metro
+environment is much more cost and energy sensitive and the metro market is driven more by
+large numbers rather than high performance. In fact, the traffic composition in a metro network
+is very similar to a data-centre network, where the majority of traffic comprises east-west flows
+[7]; however, the metro area is clearly more distributed and the network nodes or end users are
+much more heterogeneous. Applications within a metro environment range from radio access,
+
+
+
+sensor networks and consumer communications to storage area networks (e.g. for the finance
+and entertainment industries), scientific computing and large campus networks. To deal with energy concerns in future optical networks, photonic integration has emerged
+as an important technology.

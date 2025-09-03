@@ -1,0 +1,9 @@
+In the field of IoT, a layered approach
+can be used to decompose functional aspects. In particular, a layer known as middleware can be
+used as an application enablement platform, i.e. to integrate external applications and ensure
+requirements such as interoperability, persistence and analytics, context awareness, resource and
+event handling, etc. In fact, loT devices are normally unable to perform resource-intensive tasks. To that end, some researchers have introduced the concept of the cloud of things, extending
+the IoT with cloud computing services [30]. As already mentioned in the previous section and
+highlighted in reference [30], using cloud services to enhance CPS resilience via DT requires
+taking into account issues related to bandwidth, connection unavailability, latency, data validity,
+security, etc.

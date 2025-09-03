@@ -1,0 +1,29 @@
+Explicit formula: two swaps
+For the term with two swaps, we have
+00 1 IT \ B= -8-2s xs
+| WO |e (=) Z(-y,-8, a — s, ~B — 8)— ds dt. If T? > 7X, then the answer will be 0 as can be seen by moving the path of integration to the
+right. If T? < 47?X, then we use the fact that
+
+¢-a-y—~s)é—p-y —s)el—a —6 ~s)¢(1— B —8 —s)
+¢(2-a—B-y—65—2s)
+
+has poles ats=a+y,a+6,6+y and f + 4; so together with the residue from the pole at s = 0,
+
+we will get a total of five terms for this integral:
+
+Z(-y, -8, —a — s,—B —s)
+
+ay o(l-a— ye — B — ye —a — 8)g(1 — B — 3)
+on tQ—-a-B-y—S)
+
+wee aye ct+a—p)e(l+y —d)c(l+a—B+y—8)
+aty \2n ¢(2+a—B+y-—5)
+
+xs ( mr cl—-y+ded+a-p-y +6) t+a-)
+
++ ots Qn (2+a—B-y+)
+xP Y (IT) oP) CL a + BE(L—a + B+y — del +y 4)
+a+65 \2n 6(2-a+B+y—5)
+i x-h-8 ayer" cl—-aw+p—y+de(l—y +d)¢(1—a + B)
+B+65 \2n ¢(2-a+p-—y+6) . Note that the last term here is the negative of the last term in the explicit formula for one swap. In the case that X > (T/27)*, we add the zero-swap, one-swap and two-swap terms all together
+and all of the dependency on X disappears; we recover exactly the formula (4.1).

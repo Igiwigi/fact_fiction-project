@@ -1,0 +1,8 @@
+In Avida, traits are snippets of code that allow the avidian to gain energy
+from the environment, by performing logic operations on binary numbers that the environment
+provides (see Methods). Replicators with the fg/gb motifs did evolve more novel traits than
+replicators with the hc/rc motifs (figure 6d). In fact, only fg-replicators evolved traits in these
+experiments. Finally, we looked at the effect of historical contingency when all 914 replicators
+were competed against each other in one population. After 50000 updates, we identify the most
+abundant genotype in 200 replicate experiments and reconstruct the line-of-descent to determine
+which of the replicators gave rise to it (we call that replicator the ‘progenitor’).

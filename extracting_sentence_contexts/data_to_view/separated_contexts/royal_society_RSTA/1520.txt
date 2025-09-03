@@ -1,0 +1,11 @@
+ML methods (in this case, recurrent neural : =
+networks) have also shown themselves capable of reproducing a time series from canonical 1B
+chaotic systems with predictability beyond what dynamical systems theory would suggest, e.g. :2
+[55] (which indeed explicitly makes a claim to be ‘model-free’), [56]. Does this mean we have come 8
+full circle on the von Neumann revolution, and return to forecasting from pattern recognition : 4
+rather than physics? The answer of course is contingent on the presumption that the training data De
+in fact is comprehensive and samples all possible states of the system. For the Earth system, this : Ss
+is a dubious proposition, as there is variability on all time scales, including those longer than the : =
+observational record itself. A key issue for all data-driven approaches is that of generalizability 1m
+
+beyond the confines of the training data.

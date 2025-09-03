@@ -1,0 +1,28 @@
+Our inhomogeneous scalar field theory </ may be augmented to a theory with values in Algsts
+in various ways. The simplest is to define of :locStc—> AlgSts so that </(M, J) = (./(M,]), (M, J)", 4)
+for each object (M, J) of LocSrc, and taking A (ir) to be the morphism induced by ./(w) for each
+morphism y : (M,J) > (M’, J’) in LocStc (note that </(y)* maps any state of /(M’,]’) to a state of
+A (M,]J)). A more interesting possibility is to equip each A(M, J) with the corresponding set of
+Hadamard states, which are the standard choice of physically acceptable states of the scalar field
+
+(e.g. 3).
+
+1For example, let A = ®ay((Om + 2)f) + (fy If dvolus)12rcmy)- Then our definitions give
+
+kgA=Po)((Om + nf) + (| Gu +P fod vol) lag + (\, Ifa vol) Asim) =0
+
+using the relations in /(M, 0) and the field equation obeyed by ¢, which is consistent with the fact that A =0 by the relations
+in o/(M,]).
+
+2By the time-slice property (discussed later) there are isomorphisms /(M, J) = «/(M’,J’) whenever the Cauchy surfaces of
+Mand M can be related by an orientation-preserving diffeomorphism.
+
+3For simplicity of presentation, we suppress a further condition often imposed on state spaces: namely that S should be
+
+closed under operations induced by .A, ie. to each w € S and Be A with «(B*B) > 0, the state wp(A) = @(B*AB)/w(B*B) is
+also an element of S. Definition 3.2. A state w on A(M,J) is said to be Hadamard if the corresponding two-
+point function W2) :C%°(M) x C%(M) + C defined by WO(E,f) =o(arpy(fOarp(f')) is a
+distribution in Z'(M x M) with wavefront set
+
+WE(W) CN- x Nt, @.3)
+where V+/~ is the bundle of future/past-directed null covectors on M.

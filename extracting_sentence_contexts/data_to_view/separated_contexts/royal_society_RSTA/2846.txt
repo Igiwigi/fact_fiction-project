@@ -1,0 +1,20 @@
+The form chosen for the creep compliance of the bulk material is motivated by
+laboratory-scale uniaxial compressive experiments [13] on saline ice, and the observation [14]
+that given a relatively low compressive stress (0.5 MPa) imposed at —10°C, the creep strain varies
+approximately as t'/?, namely,
+
+J®= : +H, (3.1)
+
+
+in which E is the short-time modulus that can be obtained from the initial slope of the load-
+crack mouth opening displacement plot and C is as yet left unspecified. The truncated fractional
+power-law form of the creep compliance in (3.1) corresponds to a three-parameter fractional linear
+solid [15].
+
+4. Viscoelastic fictitious crack model
+
+To analyse sea ice fracture tests in the presence of coupled creep and fracture deformations, it
+proved necessary to first develop a viscoelastic-fictitious-crack-model (VFCM) [16]. The basis for
+this approach is the fictitious crack model (FCM) [17] as well as the creep compliance function
+in (3.1). In its unloaded state, the fabricated (sawn) crack may be viewed as having a well-defined
+crack tip with a point-sized process zone.

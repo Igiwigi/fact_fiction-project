@@ -1,0 +1,12 @@
+Theorem 2.8 of §2 analyses the set NAV for n € N particles in arbitrary dimension d, interacting
+via long-ranged potentials.
+
+(a) Content
+
+In §2, we will introduce some notation and present the main ideas of the proof. A non-
+deterministic kinematical model for the asymptotics of those orbits, whose asymptotic velocity
+does not exist, is exhibited in §3. That the dynamics is in fact well described by that model, will be
+shown in §4. The proof of our main result is based on a Poincaré section method devised in [10]. The corresponding estimates form the content of the final §5.
+
+
+2.

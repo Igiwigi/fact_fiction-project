@@ -1,0 +1,20 @@
+Here, regardless any €y)x improvement due to A, the measure ||L2(jx)||
+remains controlled by &,, «€7. The same happens with the BB rule, but in a rather more punitive
+way as &, «€. This error degrades the overall simulation accuracy to first order.
+
+7The structure of these errors in the duct flow modelling results from the fact that in bulk the third-order derivatives vanish
+on the account of a FxCqy Dy lx =O, Dog Cox ayCge Ayyeix = 0, etc. because the implicated odd-order velocity moments amount to
+zero. However, this form of truncation error does not apply to boundary rules, which implies that third-order derivatives are
+typically non-zero. This constrains the boundary error of parabolic schemes to third order.
+
+
+(a) Ik ioll A= 112 (D) iieiol A= V6 (c) Il A=3/16 (d) IG A= V4
+1
+
+10-5]
+N
+5 153070 5 153070 5 15 30-70 5 1530-70
+
+A BB[O(e)] © CLI[O(e2)] © MRI[O(e)]} OO MCLI[O(e’)] — @ Lnode [O(e*)] 0 Lwall [O(e))
+
+Figure 3.

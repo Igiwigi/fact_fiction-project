@@ -1,0 +1,8 @@
+By contrast, when statistics are computed over
+a collection of personal data, the analyst (understood broadly as any party with access to the
+published outcome) is both the proper consumer of the statistics and a potential privacy attacker. Semantic security has proved to be a fundamental concept for encryption. In fact, encryption
+schemes that are in common use today are semantically secure (under some mathematical
+assumptions). However, Dwork & Naor [29] demonstrated that the concept cannot be applied
+in the context of private data analysis as it would imply (reusing Dalenius’ words in [28])
+‘elimination of statistics’. To understand what this means, consider an example, taken from
+Dwork & Naor [29].

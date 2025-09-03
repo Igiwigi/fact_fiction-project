@@ -1,0 +1,30 @@
+This indicates voltage variation resilience in the perceptron design.
+
+— The input duty cycle has limited range—from 20 to 70%. Beyond this range the output
+stops oscillating and becomes a constant signal.
+
+
+100
+
+-¢— without compensation
+-e— with compensation
+
+g
+S80} |_-. ideal
+
+o 60
+
+3 40
+
+20
+
+20 40 60 80
+input duty cycle (%)
+
+Figure 18. Output versus input duty cycle of the perceptron with and without compensation. (Online version in colour.)
+
+The observed reduction of operational range and loss of linearity in the voltage to PWM :8
+converter are caused by the fact that the voltage DCsum powers the voltage to PWM converter. ae
+When the input duty cycle is above 70%, DCsum is below 30% of Vag. For Vaq = 2.5V this is below : &
+the threshold voltage. And in this case the NMOS transistors of the ring oscillator are always off, : ~
+and the output stops oscillating.

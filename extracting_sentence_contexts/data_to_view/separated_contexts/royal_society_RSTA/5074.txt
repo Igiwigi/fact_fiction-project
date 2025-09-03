@@ -1,0 +1,8 @@
+The coefficients C,(A, @) to be used with equation (2.1) are here derived in three different ways. The standard way is to use values obtained from steady-state rotor simulations under constant
+wind. It is not straightforward to estimate (in fact, model) these coefficients accurately for many
+different values of blade pitch and tip speed ratio, which also includes cases in significant stall
+where the turbine slows down over a relatively long period of time to reach steady state. Typically,
+the wind speed fluctuations move the turbine out of this regime long before the steady-state
+behaviour is reached, and it is questionable how realistic the use of steady-state coefficients would
+be in these cases. Therefore, the quasi-static model is only evaluated for the low wind speed of
+6ms-! (case FcCtSteady).

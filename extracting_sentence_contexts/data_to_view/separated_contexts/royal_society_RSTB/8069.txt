@@ -1,0 +1,15 @@
+In these models mutations either in return evolution affects within-host dynamics via
+reduce or increase fitness by a constant amount (+s). a reduction in mean fitness (mutation load). We
+However, here too, both epistasis and fitness variation derive the state of the system at epidemiological and
+among mutations are ignored, and usually the evolutionary equilibrium, and show that the corre-
+occurrence of multiple mutants is neglected (i.e. low sponding densities of infected cells follow a
+mutation rate approximation), which may be less valid surprisingly simple linear relationship with mutation
+for viruses. rate. We retrieve a simple closed form expression for
+In fact, an important class of models in evolutionary the critical mutation rate at which within-host extinc-
+theory allows for both epistasis and variation in the tion should occur. Our predictions rely on several
+fitness effects of mutations: phenotypic landscape simplifying assumptions, but comparisons with indi-
+models with an infinite pool of allelic effects, such as vidual-based stochastic simulations of within-host
+Fisher’s geometric model (Fisher 1958). A main goal dynamics show the robustness of the analytical results.
+of this paper is thus to use this approach as an analytic Following the approach of Bull et al. (2007), our
+framework that accounts for continuous fitness results are expressed in terms of a few measurable
+variation among mutants (including compensatory quantities.

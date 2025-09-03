@@ -1,0 +1,10 @@
+Overall, we find a similar trend for all depicted
+wavenumbers: the RPA (dotted green) underestimates the static limit of F(q,0) = S(q) but exhibits
+the correct qualitative decay with respect to t. The combination of our new single-particle
+model for the imaginary-time diffusion and the exact static limit via equation (2.22) overall
+fits even better to the PIMC reference data and captures the correct trends for all depicted
+temperatures and wavenumbers. In fact, it becomes more accurate with increasing temperature,
+which can be understood intuitively in the following way. As we have previously shown in
+this work, equation (2.22) becomes exact in the limit of t > 0 with respect to both F(q,0) and
+the slope at the origin. For higher temperatures, the imaginary-time propagation described in
+§2d is carried out over a shorter distance in the t-domain.

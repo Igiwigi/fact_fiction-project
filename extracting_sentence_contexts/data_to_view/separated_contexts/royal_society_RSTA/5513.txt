@@ -1,0 +1,14 @@
+There are two possible scenarios that lead to INN jumps: (i) an Li*
+jumps, leaving behind a vacancy, and its INN immediately jumps into the new vacancy location,
+as shown by the black and grey arrows in figure 2b and (ii) two vacancies are close to one
+
+
+another, such that INN Lit then jump into those separate vacancies (leaving the vacancies as
+first nearest neighbours), as shown by the black and red arrows in figure 2. We know that in the
+2 V;, simulation there is a high probability of finding vacancies as nearest neighbours (figure 3),
+so the second scenario is possible, but the first scenario is far more likely. In fact, the electronic
+supplementary material shows that with 1 V_,, there still exists a high probability of finding INN
+subsequent jumps between 100 and 200 fs at 1100K, which can only be justified according to
+the first scenario. We refer to these clusters of jumps in space and time as ‘hot zones’, where the
+balance of enthalpy and entropy at a given temperature transfers to the entropic regime and many
+jump events occur [56]. The s-Frenkel mechanism is also an example of an entropic ‘hot zone’.

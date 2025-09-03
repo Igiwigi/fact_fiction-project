@@ -1,0 +1,26 @@
+Total broadband demand for one |SP in the UK, measured at peak time over a 10 year period. (Online version in colour.)
+
+This sustained growth is the result of the compound effect of several factors:
+
+— The increase in broadband penetration over the past 10 years.
+
+— The explosion in the number of connected devices accessing the Internet through
+residential broadband lines.
+
+— Changes in the behaviour of broadband users, such as the pervasiveness of messaging,
+especially amongst younger users and more time spent online generally.
+
+— Online services becoming more resource demanding, including increased complexity of
+webpages, sometimes made up from hundreds of media files. Video streaming rates have
+increased from around 1 Mbs~! in 2005 to around 7 Mb s~? for Netflix today.
+
+
+— The availability of online content has exploded over the period, progressing from video
+streaming of short social network videos in 2005 on services like YouTube to 30-60 min
+programmes from television catch-up services in 2015, and feature films through video-
+on-demand content providers such as Netflix, which can last in excess of 2h. The Cisco report [1] also highlights the interesting fact that metro traffic (traffic remaining within
+local/city areas) will surpass long-haul traffic in 2015, and will account for 62% of total IP traffic
+by 2018. One key reason for this, as will be explained in detail later, is related to the increasingly
+significant role of content delivery networks, which bypass long-haul links and ensure content
+(such as popular videos) is delivered directly to the metro. There are various approaches to the question of how long we will continue to see exponential
+traffic growth.

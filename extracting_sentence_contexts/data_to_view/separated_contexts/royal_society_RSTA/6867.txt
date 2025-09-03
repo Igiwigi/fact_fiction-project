@@ -1,0 +1,53 @@
+A ‘fictitious’ point —1 is now introduced, and the
+boundary condition is used to obtain its value, in terms of those at points on and internal to
+the boundary, from a much more rapidly convergent expression.
+
+44 I 2 oil. 2
+
+Ficure 2
+
+With reference to figure 2, it can be shown that at a boundary point such as 0 the derivative
+is given by
+
+h(dw/dx), = AL, os ius M,, (A. 8)
+
+
+OF ELLIPTIC DIFFERENTIAL EQUATIONS 351
+
+and, at a boundary point like 6,
+= 1
+h(@w/08)~V}— 3 a Vi (A.9)
+If the differences are now written in terms of functional values, an expression can be obtained
+for the fictitious value —1 in terms of the boundary derivative and boundary and internal
+values. Table 1 gives expressions for w_,, together with the error term or difference cor-
+rection, according to the number (r) of differences replaced by pivotal values. TABLE 1
+r w_y error term
+1 —h(dw/8x), + wo
+2 —2h(dw/2x), + w,
+3 — 3h(Gw/Ox)) — $wy +3w, — jw, 3 (-1)" At
+4 —4h(2w]Ox))— Pw, + 6w, —2w, + fw; cranes
+5 —5h(Gw/Ax), — $$ + 10w, — Sw, + 3ws— pw,
+a. 6 —6h(Gw/Ax) 9 — Fwy + 15w, — 10w, + 5w, — fw, + us
+
+Similar expressions for w, can be obtained from this table by changing thesign of h, replacing
+5 w, by we, w, by w;, etc.; in the error term backward differences replace forward differences
+a and the factor (— 1)" becomes — 1.
+
+8» For a boundary condition of the type (I. 5) which can here be written as
+
+w+kdw/dx = K, (A. 10)
+EB the fictitious point in figure 1 can now readily be obtained from table 1. Taking r = 4 for
+example, it easily follows from the table and equation (A. 10) that the required expression
+m - .
+
+2 is given by K te 10
+
+> w_y 4he + Wole | + 6w, —2w.+ 4w,+A,
+
+3 (A. 11)
+& ey ee
+
+n=5lt (n 3 1)
+Substitution of this expression in the finite-difference equation (A. 6) now gives the equation
+to be satisfied at the boundary point 0, (A. 6) being applied unchanged at internal points. These internal equations involve one difference correction, the boundary equations involve
+two, one for the differential equation and one for the boundary condition.

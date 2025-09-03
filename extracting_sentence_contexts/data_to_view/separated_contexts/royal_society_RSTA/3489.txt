@@ -1,0 +1,28 @@
+Benefits of ghost imaging
+
+Another embodiment of ghost imaging that offers special performance is when parametric down-
+conversion is phase-matched to give non-degenerate signal and idler wavelengths [14]. In this
+way, the object can be illuminated at one wavelength and the spatial information recorded at
+another, perhaps where the imaging detector is more sensitive or less noisy. Nearly all ghost
+imaging systems demonstrated to date have suffered from the same practical flaw, namely that
+the imaging detector is a raster-scanned, single-element detector, and this fact massively reduces
+the overall effective quantum efficiency of the system in proportion to the number of pixels in the
+image. Ideally, one would wish to use a detector array as the imaging detector; however, until
+recently the cumulative noise of such arrays was too high to measure reliably the position of a
+
+
+(a) ; ~ (b) ; ~~
+
+bucket
+
+bucket
+detector
+detector jcc
+object object
+uv uv
+camera camera
+position-correlated momentum-
+photon pairs anticorrelated
+upright image Photon pairs inverted image
+Figure 2. Ghost imaging systems can be configured to take advantage of either the position (a) or momentum (6) correlations : &
+inherent in SPDC.

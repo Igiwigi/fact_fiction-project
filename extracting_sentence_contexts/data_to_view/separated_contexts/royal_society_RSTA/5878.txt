@@ -1,0 +1,19 @@
+Since a number of important milestones have recently been attained in
+this research program, the present review paper aims to survey these developments. Most of the optimization problems considered here are non-convex, hence their solutions
+found numerically based on local optimality conditions are local maximizers only. Thus, unless
+stated otherwise, when we refer to ‘maximizing solutions’ defined with arg max we will in fact
+mean local maximizers. Theoretical results concerning the existence of (possibly non-unique)
+solutions to optimization problems involving different hydrodynamic PDE models are available
+in the literature, which includes the seminal study [58] and the monographs [59-61]. The structure of the paper is as follows: in the next three sections, we review instantaneous and
+finite-time energy-type estimates known for the one-dimensional Burgers, two-dimensional and
+three-dimensional Navier-Stokes systems, and discuss different optimization problems that have
+been introduced to test their sharpness before presenting some key results (in §2 devoted to the
+one-dimensional Burgers equation we also provide comments about the corresponding stochastic
+problem and the system with fractional dissipation); in §5, we draw some connections to other
+research problems concerned with establishing bounds on the behaviour of hydrodynamic
+models such as the background method and the methods based on sum-of-squares (SOS)
+polynomial bounds; finally, summary and conclusions are deferred to §6, where we also provide
+an outlook; more technical material concerning the numerical solution of the optimization
+problems studied in this research program is collected in an appendix.
+
+2.

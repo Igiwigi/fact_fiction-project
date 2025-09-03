@@ -1,0 +1,53 @@
+In deriving this expression, it was recognized that any change in the crack surface
+area Ar in the current material space can only occur due to motion of the crack front. Assuming
+that no dissipation of energy occurs within the volume of the body (i.e. restricted to the creation
+of new crack surfaces) and given that dV = Vx - WdV, the change of the specific free energy can
+
+
+be expressed as:
+
+d . a
+ral WEE p)ae =| Vxw:P+VxW: 5 + fi. wde, (3.4)
+dt Jo 2
+where
+
+y=W(F, p)l—F'PE, p), (3.5)
+
+where P is the first Piola-Kirchhoff stress; in the case of heterogeneous materials, it can be
+expressed as:
+
+aw(E, " ow
+pa IY Ep) _| ep |" av) (3.6)
+aF pe | OF
+The parameter n is a characteristic exponent and pj is the reference density. Although this form of : 3
+the Piola—Kirchhoff stress was adopted from porous materials, such as bone [29], it can be used for : =
+generic heterogeneous materials. ¥ is the Eshelby stress tensor and f'"" is an additional fictitious : 8
+force that arises from variations in the density field and drives the crack front from dense to less : =
+dense material. fi" is computed as follows: : S
+a)
+3
+i ow 1m
+em (%) , 67 i=
+8X J expl. 1g
+ra
+where the explicit derivative of Y is defined by : 3
+[Ss
+aw aw ap 18
+; ; . (3.8) 18
+9X Jexp. 90 |(p=const.) 9X :8
+78
+Making use of equations (3.2)-(3.4), equation (3.1) can be reformulated as: 13
+| (w-t-W- FT ds= | yAyr -WdL
+IB ar
++| (PB: Vxw + 5: VxW + fi. Ww) dv. (3.9)
+By
+The spatial conservation law of linear momentum balance is repeated here:
+Vx -P=0VXEB, PN=tVXcaZ, (3.10)
+
+where dB? is the region of the boundary where tractions are applied and N is the outer normal to
+the surface. The equivalent material momentum balance is expressed as:
+
+Vx F=f" vxeB and UN=F'tvxXaZ?. (3.11)
+
+It is important to note that finh —9 in the case of homogeneous materials, with uniform
+density distribution.

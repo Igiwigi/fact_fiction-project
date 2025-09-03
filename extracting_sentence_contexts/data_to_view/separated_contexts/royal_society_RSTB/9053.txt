@@ -1,0 +1,10 @@
+In recent years, it
+became quick and inexpensive to carry out systematic genome-wide genotyping capturing much of the polymorphic content
+of a phenotyped sample, allowing researchers to perform hypothesis-free association screening at high density across the
+genome. These screens involve an enormous amount of multiple testing (hundreds of thousands of polymorphisms in
+each individual), so rigorously adjusted thresholds for statistical significance are required to avoid false positives. Together
+with the fact that most complex traits are likely to involve many genes with very small effect sizes, such studies require
+sample sizes of thousands of individuals to achieve adequate power. In the post-genomic era, scientists also now make
+use of copy number variation (CNV) data and rare variations emerging from next-generation sequencing studies. Again, the
+key to success is use of robust statistics and replication in independent samples, to discount spurious genotype—phenotype
+relationships.

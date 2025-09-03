@@ -1,0 +1,10 @@
+This is due to the
+fact that the loss of particles to the settled bed, which should decrease solid per cent, is almost
+balanced by the reduction in the mobile volume that contains crystals. For example, in figures 1
+and 2, the mobile volume is between the horizontal yellow line and the settled bed, and the
+solid volume per cent stays nearly constant in that region. The fact that the solid per cent does
+not change markedly as the simulations proceed suggests that there is a local self-similarity or
+qualitative stationary state in the average mass per cent. The R value provides a global metric of the clustering in the system but does not provide
+information on cluster size when clustering is present. To obtain more information about the
+particle distributions we will use what are called Ripley’s K(r), L(r) and g(r) functions [80,81]; the
+reader is directed to [66] for a more complete presentation.

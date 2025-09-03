@@ -1,0 +1,33 @@
+A problem dual to (2.7), given by maxi-minimizing the Lagrangian,
+inherits the separable structure present in the Lagrangian. Specifically, the dual problem is defined
+as
+
+max {6@2):2€R"}, (3.1)
+
+where
+
+(A) = min {L(p, u, A): (pj, ui) € Qj,i€ M}
+=.'D in Li(p;,uj,a). 2
++ = gmitig, bilPir wir) (3.2)
+iceM
+The partial dual functions 6;(A) = min, L;(pi, ui, 4) in the summation are the negative of the
+(Pili )E Qi
+
+margin maximization problems (2.5), written with 7 = A:
+
+max 2'p; — GCost;(pj;, u;)
+—6j(7) = max_ —Li(pj, uj, 1) = ¢ (Pits) ‘ we =MP*“(zr).
+(Pitti)EQi s.t. (pi, Ui) € Qj
+
+Accordingly, a dual price also solves the minimization problem below
+
+max 0(A) = max { A'D — Mm*(A) } = — min M™*(A) — TD
+
+ax 6(2) =e DMPMO) P= —miny DMEM)
+This characterization of the dual price as the one minimizing the discrepancy between the
+expectation of best margin from the agents and the total payment they receive. In turn, the
+payment is related to the margins seen by the ISO in (2.4), so the dual problem is in fact
+minimizing the differences (2.6). These relations justify the naming of minimal uplift that is
+associated with the dual prices in [8], also called convex-hull prices in the electric engineering
+literature. When there is no discrepancy, the minimal uplifts are all null and in the optimization
+jargon it is said that there is no duality gap.

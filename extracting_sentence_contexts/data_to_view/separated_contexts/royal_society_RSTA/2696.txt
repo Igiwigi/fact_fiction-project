@@ -1,0 +1,58 @@
+Standard electric field and anomalous magnetic field: The first line of equation (2.2) still holds,
+but since V x B =0, the field momentum is zero:
+
+Pem =0. (2.4)
+
+20f course, you could go back to equation (2.1) and insert B= V x A, but it’s a little easier to work from equation (2.2).
+
+
+3. Anomalous electric and magnetic fields:
+Pom =ofé x B)dr= -of(é x W)dr= -« [1 x E) dr
+= 100 | Vf) de, (2.5)
+
+and since (equation (1.10))
+
+~ (yl Ty!
+vw= ns | fer dr’ and A()= 4 | a " dr’,
+7 7 (2.6)
+and hence Pem = /0€0 | A(t)A() de.
+4. Anomalous electric field and standard magnetic field:
+Pem=e0 | E x (V x A)dr
+=-e|[A x (Vx B)+(A-WE+(E- WA] dr
+= Heo Ja x J)dr. (2.7)
+lused the fact that the ith component of f(A -V)Edr is
+fa WE) dt =— | - A)E; dt =0, (2.8)
+and the same goes for sé - V)A dr. Finally, using the now-familiar trick,
+~ r’) x J
+Pem = woe [(A x J)dr= woe | a Je) Jo) dt’ dr
+ax |r—r'|
+= woer [x A)dr. 29)
+
+Isummarize these results as follows:
+
+E and B Pen = soto [ VIdr= [ pAdr
+
+EandB | Pen =0
+
+EandB Pen = soto [(A x I)dr = =poe [(A x 3)dr
+
+EandB Pen = poo [V5 dt = woeo [ BAar
+
+Now we will use these formulae to determine the field momenta of electric and magnetic
+dipoles (both standard and anomalous) in external electric and magnetic fields (both standard
+
+
+and anomalous). The dipoles are at rest (we might as well put them at the origin), and since they
+occupy an infinitesimal volume we can expand the external potentials:
+
+V(r) = V(0) + r- (VoV) = V(O) —r- E(0); A(t) = A(O) + (r- Vo)A; (2.10)
+
+and
+
+V(t) = V(0) +4r-(VoV) =V(0) —r- B(O); A(t) = A(0) + (r- Vo)A. (2.11)
+
+1 we ae . .
+, .
+(Here Vo means ‘evaluate the derivatives at r= 0,’ and we do not need any higher-order terms.)
+
+1.

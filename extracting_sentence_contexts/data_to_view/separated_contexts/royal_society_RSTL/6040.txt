@@ -1,0 +1,23 @@
+In fact, the formula (assuming for a moment
+the truth of it) hows that the expansion of any power whatever of a series of the form
+in question, can be obtained by means of the expansions of the successive positive
+integer powers of the same series: the existence of such a formula (at least for negative
+powers) was indicated by EISENSTEIN, Crelle, t. xxxix. p. 181 (1850), and the formula
+itself, in a slightly different form, was obtained in a very simple manner by Professor
+SYLVESTER in his paper, © Development of an idea of EIsENSTEIN,” Quart. Math. Journ.
+t. 1. p. 199 (18559); the demonstration was in fact as follows, viz. writing
+
+R*=(1+R=I)=1+7 (R—=1)+Z5" (R—1)+&e::
+if we attend only to the terms involving powers of # not higher than #*, the series on the
+right-hand side need only be continued up to the term involving (R—1)*, and the right
+side being thus converted into a rational and integral function of R, it may be developed
+in a series of powers of R (the highest power being of course R*), and the coefficients of
+the several powers are finite series which-admit of summation ; this gives the required
+formula. But there is an easier method; the process shows that the series on the right-
+hand side, continued as above up to the term involving #, is, as regards 7, a rational and
+integral function of the degree x; and by LAGRANGE'S interpolation formula, any rational
+and integral function of 2 of the degree a, can be at once expressed in terms of the
+values corresponding to (+1) particular values of n. The investigation will be as fol-
+lows:—Let R denote a series of the form 1+bt+ct?+&., and let R” denote the develop-
+ment of the nth power of R, continued up to the term containing 7*, the terms involving
+higher powers of 7 being rejected.

@@ -1,0 +1,13 @@
+The later the defect is found, and consequently the more it costs
+to fix, the less likely the business case will be justified, and the more likely the defect is allowed to
+remain—thereby undermining quality. For truly critical software, however, the defect impact can
+be so large as to make a fix effectively mandatory, regardless of cost. These facts lead us to the guiding principles of our approach:
+
+— do everything practical to prevent the introduction of defects; but
+
+— accept defects will be introduced, so do everything practical to identify and remove
+defects as close as possible to their point of introduction. This leads to a natural preference
+for static analysis of design artefacts over dynamic testing, because static techniques can be
+introduced far earlier in the life cycle. These guiding principles underpin our strategy:
+
+Take small steps, not large leaps.

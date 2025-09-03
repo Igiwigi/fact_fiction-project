@@ -1,0 +1,29 @@
+Trotter’s paper [5] was based on his PhD dissertation,
+and his PhD advisor was William Feller). For reasons that will become clearer in the following
+sections, we will, however, restrict ourselves to the case where all semigroups act in a
+single space. The third and final remark is that convergence in (2.2) is in fact, by nature, uniform for
+t in bounded subintervals of Rt: you may prove it for all t>0 separately or, as is usually
+easier, prove (2.3) for just one A >, and the convergence in (2.2) will turn out to be uniform
+anyway. This result initially seems to be a bonus, and to some extent it is, but later this will
+be shown to be the biggest shortcoming of the discussed theory: the Trottter-Neveu—Kato
+Theorem cannot describe a convergence that is not uniform for f in bounded subintervals
+of Rt!
+
+
+(b) The convergence theorem
+
+The proposition discussed in the preceding section has a version applicable to the case where
+the limit semigroup is not known, and even its existence cannot be a priori granted. The Trotter—
+Neveu-Kato Convergence Theorem says that if
+
+(a) the semigroups {T;(t),t = 0},1r € (0,1) satisfy the stability condition (2.1),
+(b) the limit
+
+Ryx:= Jim (a—A,) 1x, xeX, (2.4)
+rol
+
+exists for one (and hence for all) 4 > @, and
+(c) the operator R, has dense range,
+
+then there is a semigroup {T(f), t > 0} in X such that (2.2) holds; the limit is uniform, as before, and
+R,,A > @ is the resolvent of the limit semigroup generator.

@@ -1,0 +1,15 @@
+This synchroni-
+zation occurs at the global level between the automaton
+and the transients, and not between the cells of the auto-
+maton. When TIGoRS is present, there is a nonlinear
+relationship between the input sampling rate and the
+Hamming distance between the transient stimulus and the
+transient response of the automaton. This synchronization
+
+occurs in spite of the fact that the underlying rule space of
+the automaton is constantly changing. The presence of
+TIGoRS demonstrates that finite duration spatio-temporal
+transients are the proper dynamical states to be studied. In
+the presence of TIGORS, the dynamical action on these tran-
+sients causes the dispositional cellular automaton to act as a
+primitive stimulus-response system [33].

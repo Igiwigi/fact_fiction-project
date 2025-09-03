@@ -1,0 +1,23 @@
+An important technical construction presented in this article that
+allowed the classification of the admissible propositional rules for many of the mentioned theories
+in fact showed a general phenomenon: almost any intuitionistic set theory built from certain
+standard axioms will have the same admissible propositional rules as intuitionistic propositional :
+logic. :=
+
+This article lists a large number of open questions. One of the open problems in the area is to I=
+find first-order logic and admissible propositional rules for IZF. Note that the fact that first-order :8
+logic of IZF is larger than just intuitionistic first-order logic is a classical result of Friedman and 1p
+Séedrov [52]. :8
+
+g) Ordinal Analysis and the set-existence property for intuitionistic set theories [53] 78
+
+The standard fact about Heyting arithmetic HA is that it has the number existence property: :s
+whenever HAF Ax¢(x), for some n, HAF y(n), where n is the numeral of 1, i.e. the term
+
+1+...41.
+—S
+n times
+In the case of set theories, of course, there is no analogue of numerals for sets. A theory T is said
+to have the existence property if whenever T+ Axg(x), then there exists formula w(x) such that
+TE Alx(w(x) A g(x). In this article, Rathjen proves that two natural weakenings (Fp and (Fg of
+CIF have the existence property.

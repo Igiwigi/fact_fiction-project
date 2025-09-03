@@ -1,0 +1,8 @@
+In addition, we recall in figure 8b the optimal image obtained with the
+VR-detector when the noise level is o = 0.1. We observe that the quality of the perceived image
+decreases as the noise level of the initial image increases. In fact, it is not surprising since the
+maxima of the cross-covariance also reduces with increasing values of noise in figure 82. On the other hand, figure 8a also reveals that VR ceases to exist when the noise level o of
+the initial image exceeds the optimal noise RMS value y* of the SR-detector. Indeed, the cross-
+covariance is a monotonous decreasing function of the perturbation amplitude for the noise
+intensity o = 0.55 (squares), o = 0.65 (diamonds) and o = 0.75 (triangles) which are beyond the
+critical noise value y* = 0.5.

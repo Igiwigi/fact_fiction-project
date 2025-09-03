@@ -1,0 +1,10 @@
+Here (2.1) states that the medians from b to (ac) and
+from a to j(bc) meet in the point 0, which divides ay(bc) and by(ac) in the ratio 2:1 (vertex:
+midpoint). Here a stands for o(a(o(bc))o). The picturesque geometric statement we provided
+should, however, be taken with a grain of salt, as there is no mention of the fact that the vertices
+of our ‘triangle’ are not collinear. The statements Al and A2 are making is plain, while A3 states
+that the midline of a triangle is half as long as the basis (in triangle abc, the segment j1(ab) (ac)
+joining the midpoint of ab with that of ac is half as long as bc), which is equivalent in Hilbert’s
+absolute geometry to the statement that there exists a rectangle (or that the sum of the angles of a
+triangle is two right angles). That this is possible at all is not a discovery made by a human, but rather by Tipi, an aggregate
+of several automatic theorem provers [12], as reported in [13].

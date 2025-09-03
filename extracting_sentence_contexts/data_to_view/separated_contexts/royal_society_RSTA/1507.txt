@@ -1,0 +1,13 @@
+The very common resort to perform so-called ‘long-time
+averages’ of a single microsystem appeals to the ergodic theorem, which is in fact only valid
+for long times at which this time average should converge to the ensemble average. In reality, that
+time interval would need to be of the order of a Poincaré recurrence time—a truly astronomical
+epoch—for the equality to hold. In practice, it is taken to be as long as authors deem to be
+reasonable, and, compounding this, we must face the fact, mentioned below, that the accuracy
+
+of these long-duration trajectories is severely limited. : =
+
+In the ergodic hierarchy of dynamical systems, those which approach and reach equilibrium : =
+must be at least mixing [42]. Mixing implies ergodicity, but the converse is not true. Mixing 1B
+systems exhibit the tell-tale property of dynamical chaos: neighbouring trajectories, no matter : =
+how close, diverge exponentially, at a rate given by a Lyapounov exponent.

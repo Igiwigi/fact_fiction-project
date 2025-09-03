@@ -1,0 +1,9 @@
+The latter observation is crucial for
+understanding the analytical and computational challenges. Standard techniques for evolution
+equations are not applicable in the analysis of mean-field games, e.g. the question of local-in-time
+existence cannot even be posed reasonably. On the other hand, variational approaches suffer from
+missing coercivity, convexity and the fact that as usual in differential games a fixed-point operator
+needs to be formulated on top of the optimization problem. Novel developments coupling
+variational principles and viscosity solution techniques for the adjoint problem can be found
+in recent literature [42-45] as well as solutions with advanced probabilistic arguments [46,47]. With respect to the numerical solution, there is no simple forward integration, but the huge
+coupled systems in space-time need to be solved.

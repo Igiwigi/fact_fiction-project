@@ -1,0 +1,18 @@
+The emergent rhythmicity is
+network. The dynamics of the transmembrane potential of achieved by a balance between the excitatory and inhibitory
+the soma of each neuron is described by the following set synaptic currents and can be explained by periodic changes
+of differential equations: of the excitability in the network, i.e. periodic modulation of
+dv the distance to threshold. Despite the fact that excitatory neur-
+Cm SP = —gxit'(V — Ex) — grant h(V — Ena) ons are dominant in the network, the stronger synaptic
+= g(V — Ex) — leyn + Lext, (2.1) inhibitory conductances and the higher firing rate of the inhibit-
+ory neurons allow the system to reach a balance between
+where gx, 8na and gy, are the maximum conductances for the excitation and inhibition. In order to obtain collective oscil-
+potassium, sodium and the leak currents, respectively, and lations in the alpha (gamma) band, we set the decay synaptic
+Ixyn is the synaptic current coming from the neighbouring time to be 7g = 15 ms (5 ms).
+
+neurons. The dynamics of the sodium and potassium chan-
+nels is represented by the time-varying probabilities of a
+
+channel being in the open state: (b) Dynamics of the neural mass model
+dx The description of the mesoscopic neuronal ensemble is based
+ad Plax(VIA — x) — B.(V)x1, vam hyn, (2.2) on a model proposed by Jansen & Rit [11].

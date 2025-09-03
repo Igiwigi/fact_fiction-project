@@ -1,0 +1,22 @@
+In both works [33,34], a parametric description of the curve is provided. a
+However, this is not enough for representing the microstructure in terms of the zero value of : g
+
+a level-set function which is in general more appropriate in a topology optimization framework. In this work, we provide such an implicit description of the microstructure and its corresponding
+level-set. In the unit square cell Y with coordinates (y1, 1/2), the level-set function of the Vigdergauz
+microstructure is defined as
+
+my ma
+
+vo iflml<" and |pi<%,
+
+: (6.1)
+otherwise,
+
+Wo(Y1,Y2) =
+
+with the function Wo(y1, yz) defined by
+WolVi, ¥2) = (1 — yp.) — yp) —
+
+The fact that y, is not continuous at the boundary of the inner rectangle (—m1/2,1m/2) x
+(—mz/2,m2/2) does not matter here since only its sign is important. Thus, the value of co <0
+can be taken arbitrarily but is negative. In this work, we take cp = —|o|.

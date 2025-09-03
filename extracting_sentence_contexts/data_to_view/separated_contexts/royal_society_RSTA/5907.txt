@@ -1,0 +1,38 @@
+Below we will omit the superscript
+A, but all the expressions that follow are understood to hold in this finite-dimensional space.
+
+
+(i) Constant mutual inductance matrix
+
+We first consider the case where Mjj(s) = Mj. As we shall see, in this case ||H’|| does not grow
+
+with the cutoff, H? <cp is sufficient, and previously developed bounds such as that of JRS will
+
+not depend on the cutoff either, although recall that by corollary 2.2 we can obtain a tighter bound. The derivative is
+
+Ahux(8) = >, Bis) cos(x; + gi(s)) — Bi(s)¢{(s) sin(x; + gi(s)), (6.3)
+and we note that
+Hpux(3)Il < > 1Bi)I + Bi) |e4(s)| = Vcol), (5.4)
+
+where as long as B;(s) and g;(s) are smooth functions of s, then co(s) is finite, does not depend on
+the cutoff A and has dimensions of energy,
+
+2
+co(s) = (= |Bi(s)| + a) . (55)
+
+The final error upper bound (equation (2.28)) simplifies to
+6 =r (O)IIPOH'()Qoll + x71S")IPS)A'S")QE)I
+st
++| ds [®IPH’Ql + 3\|PH’P||)||PH’Q\| (5.6a)
+0
+
++ 7 |PH'Q| + 3° Jo IPH’QI. (6.60)
+
+Now, since in this example ||H’(s)|| is finite and A-independent for all s, in fact the projection P
+is not necessary and known bounds are already A-independent. Indeed, the JRS bound for 6(s*)
+quoted in equation (2.1) is clearly A-independent for the present example (recall corollary 2.2)). Thus, in the next subsection, we consider an example where ||H’(s)|| diverges with A.
+
+(ii) Time-dependent mutual inductance matrix
+
+Generally, to implement a standard adiabatic quantum computing or quantum annealing
+protocol, the mutual inductance matrix Mj; cannot be constant (e.g. see [46]).

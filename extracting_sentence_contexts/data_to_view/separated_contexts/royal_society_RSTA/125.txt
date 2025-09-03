@@ -1,0 +1,23 @@
+Since
+publication, this design algorithm has been used to discover Turing patterns and other interesting
+spatio-temporal phenomena in reaction-diffusion systems such as the iodate-sulfite-thiosulfate
+reaction [86], the bromate-sulfite-ferrocyanide reaction [92] and others [93,94].
+
+(b) Belousov—Zhabotinsky reaction reverse microemulsion systems
+
+(i) Development
+
+There are few nonlinear chemical systems studied as thoroughly as the Belousov—Zhabotinsky
+(BZ) reaction [95]. The BZ reaction in a spatially extended system shows interesting dynamics,
+such as concentric waves [95], spiral waves [96], scroll waves [97] and chemomechanical
+oscillations when coupled to an active gel [98]. However, the generation of BZ Turing patterns
+was hindered by the fact that the activator (bromous acid) and inhibitor (bromine) diffuse at
+similar rates in the aqueous phase, and no complexing agent has been found that can separate
+them [99]. In the early 2000s, Vanag and Epstein used a water-in-oil aerosol OT (AOT) microemulsion to
+isolate the BZ reaction into the water droplets (BZ-AOT system), and showed that the inhibitor,
+bromine, diffused two to three orders of magnitude faster than the activator, bromous radical,
+in the oil phase [87]. This was sufficient separation of the diffusion rates, and Turing patterns
+were able to form for up to one hour in the closed system (due to the BZ reaction’s long-lived
+
+
+oscillatory behaviour) [87,99].

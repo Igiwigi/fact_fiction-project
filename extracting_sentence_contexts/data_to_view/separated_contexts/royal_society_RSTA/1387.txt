@@ -1,0 +1,11 @@
+More generally,
+scale-aware convection schemes that correctly handover between resolved updrafts and sub-
+grid convective plumes may help to address this issue (see below), although we note that in
+some cases running without a convection scheme can perform better than using scale aware
+schemes [69,70]. The challenge for climate change studies is to understand to what extent the
+inherent deficiency of CPMs to overestimate heavy rainfall intensity impacts on the reliability
+of future changes. Does the fact that heavy rainfall tends to be too intense in the present day
+make the model likely to overestimate or underestimate future changes? The likelihood is that
+model updrafts will be too strong in future storms as they are in present-day storms, but changes
+may still be reasonably captured. Looking at how extreme rainfall values increase with the rarity
+of event (i.e. return period) provides some support for this.

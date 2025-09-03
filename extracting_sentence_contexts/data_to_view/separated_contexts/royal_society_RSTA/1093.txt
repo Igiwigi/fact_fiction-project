@@ -1,0 +1,8 @@
+The periods are then randomly reordered and a new phase time series
+is constructed based on the reordered sequence. The process is repeated until the desired number
+of surrogate time series is obtained. Note the difference from the IID surrogates when the elements
+of time series are randomly reordered generating a white noise sample, while here we in fact
+reorder the whole cycles. For ‘continuous’ Hilbert phase, obtained according to equation (3.5), essentially the same
+procedure applies but care must be taken to preserve the intra-period information in the
+signal. The signal is first divided into periods and all the periods except the first and last
+are permuted randomly.

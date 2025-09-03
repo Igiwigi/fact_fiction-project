@@ -1,0 +1,17 @@
+There are pronounced differences in the evolution and phasematching maps between the three
+adjacent half-cycles caused by the build-up of free electrons from one half-cycle to the next, with
+the effects of plasma lensing readily apparent in the later half-cycles. Regions of phasematching
+(Ak =0) can be observed for each case, but they move to increasingly off-axis as the plasma
+density increases. More importantly, the direction of phasematching changes greatly between the
+three half-cycles; while the half-cycle at —3 fs has the phasematching condition satisfied on-axis
+and with a low divergence, the half-cycle at —6 fs has the phasematching condition satisfied in a
+strongly off-axis direction, meaning the harmonic flux contribution at the detector will be minimal
+despite the fact that, locally, the ‘quality’ of the phasematching is clearly comparable between the
+three cases. While phasematching being satisfied in regions away from the central axis is not
+generally a problem, as the virtual source position is before the harmonic target and thus these
+contributions can be re-focused to a common point [21], phasematching in the off-axis direction is
+more problematic as it means the harmonic radiation cannot be recaptured and will usually have
+a spread of virtual source positions. That the best on-axis phasematching occurs for the —3 fs half-cycle is in agreement with
+previous full-dimensional HHG calculations [21], as is the relatively short distance (a few
+hundred micrometres) over which the phasematching condition is satisfied, though quantitative
+agreement is neither seen nor expected at this level of theory.

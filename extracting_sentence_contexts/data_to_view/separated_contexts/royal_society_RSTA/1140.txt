@@ -1,0 +1,19 @@
+Consequently, one can expect the critical Mach number, that was obtained with the D2Q9-DVBE,
+
+
+to be an upper limit of linear stability domains obtained after the numerical discretization. This
+point will be further investigated hereafter.
+
+(c) Linear stability domain
+
+A set of partial differential equations, either continuous or discrete in both space and time, is
+considered to be linearly stable if and only if the growth rate of perturbations Im() remains
+negative whatever the value of the wavenumber k [57,100,128]. Put simply, it translates to the
+fact that perturbations should not be amplified over time by the system, but instead they should
+decay following dissipative laws, imposed by both the physics and the numerical discretization,
+and that depend on their wavenumber k. Hereafter, we will use this stability criterion to compute the maximal Mach number for v €
+[10-6, 107-1], where the lower value is typical of airflow simulations in under-resolved conditions
+while the upper value is chosen so that the continuum limit assumption remains valid. In
+
+addition, contrary to previous analyses assuming a critical stability for waves propagating in : =
+the direction of the mean flow [8,65], every combination has been considered here.

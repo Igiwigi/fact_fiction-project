@@ -1,0 +1,11 @@
+The main concern at present is to show how accuracy is improved, on a relatively coarse
+_ mesh, by the use of more complicated but more accurate finite-difference equations, and it
+is therefore undesirable to introduce errors, of the type discussed in §5, due to inadequate
+relaxation of the simultaneous equations. For this reason the latter have been solved, in this
+example, by means of a reciprocal matrix, similar to that of table 2, but incorporating the
+more accurate derivative formulae at the boundary. The first approximation w® obtained in this way is shown, at internal and fictitious
+points, in figure 10. The small numbers given to the right of nodal points are the residuals
+still unliquidated, that is, the values of the left-hand side of (B. 8) with A neglected. They are
+at this stage negligible, in the sense that their liquidation would not change any of the w
+values by more than half a unit, but they should be carried over and incorporated in the
+next stage of the process, to minimize subsequent rounding-off errors.

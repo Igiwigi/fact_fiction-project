@@ -1,0 +1,12 @@
+As the RCPs do not impose
+a single set point, activity patterns are not unlearned when
+a certain input is kept active (inactive) for extended periods
+of time (compare figure 5d with 5¢,h). As a result, neuron 2 shown in figure 5h shows ‘no learn-
+ing’ which seems undesirable at first. However, it is in fact
+useful for such a stable equilibrium to exist when learning
+is considered as a network phenomenon. Other neurons
+(neuron 1 in our case) already are selective and code for a
+given stimulus. Analogously, neuron 2 might in fact code
+for a different stimulus which is not active at the moment,
+in which case we would like to perturb it as little as possible
+while other neurons ‘learn’ (figure 5/).

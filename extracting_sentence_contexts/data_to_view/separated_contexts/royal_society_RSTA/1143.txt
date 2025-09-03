@@ -1,0 +1,10 @@
+When high-order moments are equilibrated, the
+REG-CHM model recovers the behaviour of the SRT-RR approach. The REG-HM and REG-RR
+further leads to the standard regularized approach. The latter is explained by the fact that this
+configuration (REG) amounts to discarding the non-equilibrium part of populations that are
+computed using recursive formulae. In addition, it is confirmed that none of the collision models are able to remove the Mach
+number limitation, which was obtained in the linear case, and which is imposed by the lattice
+and the equilibrium. In fact, by adopting a different type of equilibrium, e.g. the entropic
+formulation obtained by minimizing the H-functional under the constraint of density and
+momentum conservation [134], this limitation could be alleviated but at the cost of part of the
+physics [76].

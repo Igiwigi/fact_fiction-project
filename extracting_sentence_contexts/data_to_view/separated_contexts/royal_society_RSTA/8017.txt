@@ -1,0 +1,12 @@
+On the contrary, if H, or H, were true, the sample points would
+be close to O in comparatively rare cases only. THE MOST EFFICIENT TESTS OF STATISTICAL HYPOTHESES. 297
+
+In trying to choose a proper critical region, we notice at once that it is very easy to
+control errors of the first kind referred to above. In fact, the chance of rejecting the
+hypothesis Hy when it is true may be reduced to as low a level as we please. For if w
+is any region in the sample space, which we intend to use as a critical region, the
+chance, Py (w), of rejecting the hypothesis Hy when it is true, is merely the chance
+determined by H, of having a sample point inside of w, and is equal either to the
+sum (when the sample points do not form a continuous region) or to the integral
+(when they do) of pp» (2,, v2) taken over the region w. It may be easily made = ¢,
+by chosing w sufficiently small.

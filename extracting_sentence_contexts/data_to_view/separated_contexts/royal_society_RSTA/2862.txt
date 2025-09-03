@@ -1,0 +1,10 @@
+Learning from noisy data: differential privacy
+
+Another formal data protection model, called differential privacy [27,28], was introduced to address
+the shortcomings of previous privacy models. In this popular model, which was awarded the
+Gédel Prize in 2017, de-identification is prevented by the addition of noise to the data. The
+model is based on the fact that auxiliary information will always make it easier to identify an
+individual in a dataset, even if anonymized. Instead, differential privacy seeks to guarantee that
+the information that is released when querying a database is nearly the same whether a specific
+person is included in the study or not [27]. Unlike k-anonymity, differential privacy provides
+formal statistical privacy guarantees.

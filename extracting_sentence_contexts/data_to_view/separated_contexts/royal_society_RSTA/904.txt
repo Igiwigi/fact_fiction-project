@@ -1,0 +1,7 @@
+In particular, one relies on the ability to undo
+the effect of local transformations (such as a ‘swap’) by acting on another part of the composite
+system, so that the pre-existing state of the whole is recovered with certainty. Using envariance,
+one can even show that an amplitude of 0 necessarily implies a probability of 0 (i-e. impossibility)
+of the corresponding outcome. One can also prove additivity of probabilities [42] using a modest
+assumption—the fact that the probabilities of an event and its complement sum up to 1. FAQ 8: Why are the probabilities of two local states in a Bell-like entangled state equal? Is the invariance
+under relabelling of the states the key to the proof?

@@ -1,0 +1,9 @@
+However, for the general Go case without any symmetries, only
+conjectures can be framed, cf. [23] for a precise presentation (see also [24~28] for other details and
+numerical results). In this paper, we shall follow the notation of [23]. But perhaps a major obstacle for the plausibility and proof of the BKL conjecture is the
+fact that the behaviour of the homogeneous Mixmaster universe is already formally a chaotic
+system [29,30]. It possesses a smooth invariant measure [31], with a corresponding shift map
+[32], and a detailed statistical theory for the Mixmaster stochastic behaviour can be readily
+built [6,7]. Another complication, possibly related to the chaotic behaviour, this time seen in
+the generic evolution of each spatial point in the inhomogeneous case, is connected with the so-
+called gravitational turbulence [33].

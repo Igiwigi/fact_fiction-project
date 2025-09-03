@@ -1,0 +1,21 @@
+In this regard, one
+can mention the paper of Blank [9] where he proves existence of solutions to the obstacle problem
+with a free boundary that spirals around a point. The construction of I. Blank depends heavily on
+the fact that the Ag is non-Dini. As mentioned earlier, having settled the optimal C!!-regularity of the solution, one can
+consider the equation
+
+Au=(A@)x{u=y) in By,
+
+which can be written as
+Av=(—Ag)xv>0) in Bi,
+with v=u— 9g.
+
+(c) Non-degeneracy
+
+The concavity of y, or more precisely the strict positivity of —Ag, at free boundary points of
+interest, becomes of central importance, in order to have the so-called non-degeneracy. That is,
+we would like to have that the supremum value of v around the free boundary point behaves
+quadratically with respect to the distance to the free boundary,
+supv> cr, (2.2)
+B-@)
+where z is now a free boundary point, and —Ag(z) > 1 (say).

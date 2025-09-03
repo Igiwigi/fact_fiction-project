@@ -1,0 +1,9 @@
+It allows all
+technological equipment to be connected and interoperate. In this project, this infrastructure is
+provided by the Industrial Internet-of-Things (IloT) platform Winnum [38]. As a matter of fact, this platform allows counting on monitoring data that is located in the
+cyber space and is associated with specific models of equipment, processes and production plans
+(schedules), which together serve as a basis for the digital twin of the described production
+system. The IIoT platform allows the integration of third-party equipment, e.g. working with
+CNC equipment provided by other manufacturers, given that this equipment has the adequate
+process interface, special connectors that work e.g. with their web-interfaces. A physical object to be manufactured in the cyber-physical platform is called here ‘smart
+product/smart workpiece’.

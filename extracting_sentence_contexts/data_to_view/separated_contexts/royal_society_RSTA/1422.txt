@@ -1,0 +1,19 @@
+The ideal, most favourable, situation in which the full system’s state is
+observed in the reduced space with no error is referred to as the ‘perfect observation’ case: yx = xx. For convenience, we further assume that observations are available regularly at multiples of the
+model time step such that At = ty, — tk = N;ét, Nc € N*. This also accounts for the fact that, in
+general, the observation sampling period is longer than the integration time step of the numerical
+model.
+
+3. Method
+
+(a) Loss function approximation
+
+Let us assume that an estimation of x, (k € {0,...,K}) is available at observation times, every At =
+N,ét, so that
+
+Xpp1 = IT o MN (24, 58), (3.1)
+
+where M2) is the composition of the model N, times, and similarly for the truncated model,
+Xiu = MWS) (xp, St). Since observations are not available at each time step (Nc > 1), the model
+error €™ is not known at each time step either, and the loss function equation (2.7) cannot be
+exactly computed.

@@ -1,0 +1,18 @@
+For n > A > 1, we have the following results.
+
+(1) For A=1,Mj1(Fq) =1and M;; =1.
+(2) For A=2, we have
+
+1
+Mo 9(F,) =2 — 7
+
+(3) Forn > A> 3, we have
+
+Ma,A(Fq) =A! —
+
+A(A — 1A! 1
+qo (3)
+
+Proof. Assertion (1) is immediate from the fact that #V(1, 1, 7)(F,) =q. Assertion (2) is immediate
+from the fact that #V(2,2,n)(Fq) =2q(q —1)+q= 2q7 —4q. For n > A > 3, we break up V(A,A,1)(F,) by the number d of distinct coordinates x, in a point. The number of points with precisely d distinct xq’s is the product of mat (q — i) with a strictly
+positive combinatorially defined integer, call it D(A, A,n,d).

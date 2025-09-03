@@ -1,0 +1,14 @@
+Salome
+(v. 7.3.0) was mainly used to build the geometry of the different models, and ParaView (v. 4.1.0)
+to display some of the images.
+
+(b) Flow domain
+
+The real flow domain is a catheter along with the lateral ventricle in which the catheter is
+placed. However, our goal is just to compute the flow rate distribution and shear stress in a
+neighbourhood of the VC walls, so the influence that the geometry and volume of the ventricle
+might have on the results is negligible. In view of this fact, the lateral ventricle was modelled
+as a cylinder (figure 1) to facilitate the task of meshing and thus improving the accuracy and
+computational efficiency. The cylinder is 75mm long and its diameter is 16mm. The inner
+diameter and outer diameter of the catheter are 1.5mm and 2.5mm, respectively, and the part
+of the catheter inside the cylinder has a length of 60mm.

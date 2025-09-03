@@ -1,0 +1,60 @@
+The Hermite polynomials are defined as [47-49]
+
+Hn (&*) =(-1)" -w (é*), (2.3)
+where the weight function , w(é*), is defined as
+gr?
+w (§*) =n) P? exp —*—. (2.4)
+
+The coefficients appearing in equation (2.2) are computed as
+
++00
+ab) (p,uto*) = [Hy (6) AGP (oon, 0") a8 @5)
+
+The first few Hermite polynomials obtained using equation (2.3) are
+
+Ho=1, (2.6)
+
+i, = a (2.6b)
+
+Hiyir = §3, Sixizy (2.6c)
+
+Hiviis = FERS ssf), (2.64)
+
+and Misinsis = SRERERES + [Bi Sti lege — [ee8 ii] er (2.66)
+
+where indexes i1,i2,... go over all directions in space (i.e. x,y,z), 5;,;, is the Kronecker delta
+function and []cyc designates cyclic permutations without repetition over the indices, while the
+
+
+corresponding thermal coefficients are shown to be (using equation (2.5))
+
+ae? =p, (2.7a)
+(eq)
+a= puz, (2.7b)
+a = pu uf, + p(0* 1) bir (2.7c)
+(eq)
+Mis inig = PMI MMA, +P (0* — 1) [Pb |e? (2.74)
+(eq) 2
+and ay), = aul wh whut + p(0* 1)" [Biidisileye + 0 (0* — 1) [mimic] (2.7e)
+Being interested in the low-order dynamics of the distribution function (the Euler and NS : S
+levels) in the context of the LB method and limited by the order of the quadrature, a truncated : =
+approximation of the Hermite expansion can be used [42,43]: :a
+FOR) (Ep, u,0*) = 0 (8) DO alr (p, n°, 0°) Hn (E*) Qs) OS
+n=o :3
+1s
+Ana priori argument for the order of truncation N can be provided via a simple Chapman-Enskog : <
+(CE) analysis of the continuous Boltzmann equation (to find highest order moments of the EDF Do
+Dw
+involved at the NS scale). For example, to correctly recover the mass and momentum balance [a
+equations at the NS level, one must set N to three. This rational is further backed by the fact that : S
+Hermite polynomials are mutually orthonormal. In the remainder of this article it will be shown : 3
+BS
+that a posteriori considerations such as stability enhancement through error control of higher order [$
+
+moments can affect the choice of this truncation [50]. The truncated Hermite polynomial expansion of the distribution function can then be used in
+a Gauss—Hermite quadrature to discretize phase space (&*):
+
+Q
+fem (8°) w(&") de® =) we (ca"), (2.9)
+a=0
+where cy* are the discrete abscissae and wa the corresponding weights.

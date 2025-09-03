@@ -1,0 +1,18 @@
+In contrast to &
+as input the image of the overhead map, the approximate conventional methods based on mapping and planning, S
+goal location (obtained via a noisy GPS measurement), and a methods that learn from experience can learn about how the
+query location, and predicts a heuristic estimate of the feasi- robot actually interacts with the world, directly inferring 8
+bility of reaching the goal from that location. This estimate is which terrain features and obstacles are traversable and =
+learned from data via a variant of contrastive learning [84]. which ones are not, and developing a grounded representation ~
+It is then included in the search process as a heuristic, analo- of the navigational affordances of the current robot in the
+gously to how heuristics are used in A* search, though with real world. However, much like how conventional mapping
+a modification to account for the fact that the robot is carrying and planning methods build an internal abstract model of
+out a physical search of the environment, and therefore should the world and then use it for planning, learning-based
+also take into consideration the time it would take for it to methods also, implicitly or explicitly, construct such a model
+travel to the best current graph node from its current location. out of their experience in each environment. However,
+In an experimental evaluation, ViKiNG is able to extract as we discuss in §4, in contrast to the hand-designed abstrac-
+useful heuristics from satellite images and road schematics, tions in geometric methods (e.g. 3D points or vertices),
+and can navigate to destinations that are up to 2km away learning-based methods acquire these abstractions based
+from the starting location in new, previously unseen environ- on the capabilities of the learned skills. Thus, robots with
+ments, using low-level policies and heuristic models trained different capabilities will end up using different abstractions,
+on data from other environments.

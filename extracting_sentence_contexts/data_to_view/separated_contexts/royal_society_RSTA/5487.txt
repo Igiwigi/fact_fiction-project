@@ -1,0 +1,9 @@
+Outlook 3
+
+In this article, we have derived a better approximation for the MDLG equilibrium distribution :s
+function. It deviates from the previous best approximation by Parsa et al. [1] in a broad transition [2
+region between the ballistic and diffusive regime of random particle displacements. Despite the fact that these deviations are small, we expect them to be of great importance in
+the analysis of non-equilibrium systems, particularly systems not too far from equilibrium, as
+is typical in hydrodynamic systems. What we have outlined here is the equilibrium behaviour
+of the MDLG mapping of an MD simulation onto an LG. The key interest, however, lies in
+the non-equilibrium predictions of this mapping.

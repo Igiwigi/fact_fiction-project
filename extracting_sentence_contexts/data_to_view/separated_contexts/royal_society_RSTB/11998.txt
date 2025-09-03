@@ -1,0 +1,32 @@
+This requires that more trials per stimuli be collected
+(at least two) and even more if the trials are to be averaged
+before analysis. It also assumes no difference in similarity
+amongst the stimuli. That is, if the stimuli consist of animals
+and tools, the classifier is unaware of the fact that animals
+are more similar to other animals than to tools. There are If the correlation of properly matched vectors is greater, the
+many classification algorithms; support vector machine 2 versus 2 test is said to have passed. There is one test per
+
+cos (i, vi) + cos (Gj, Uj) > cos Gi, Vj) + COs (Gj, Vi). (2.1)
+
+
+(a) TGM predict adjective (b) TGM predict adjective, FDR applied
+25 0.8 25 0.8
+x
+0.7 0.7
+2 0.6 5 2 0.6 5
+3 515 8
+s c s
+Y O50 68 -, 050
+g 8 yaks 3
+4 a 1.0 / 2
+0.4 2 / 0.4 9
+a N
+03 0.5 yp 03
+2 .
+0.2 oF 0.2
+Pro pour a
+0 05 10 15 20 2.5 0 05 10 15 20 2.5
+test time (s) test time (s)
+
+Figure 1. 2 versus 2 accuracy for predicting the adjective when presented as part of a phrase, presented as a TGM matrix. (a) All results, (b) false discovery rate
+(FDR) thresholded.

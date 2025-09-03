@@ -1,0 +1,9 @@
+We observe that the more thermostable
+the protein, the easier it is to destabilize with point mutations. Indeed, the mean ATm for the
+point mutations introduced in thermostable proteins (Tm < 50°C) is 3°C smaller compared with
+those of hyperthermostable proteins (Tm > 80°C). This effect is increased to about 4°C for the
+mutations introduced in the protein core due to the fact that thermostable proteins have usually
+a more compact structure. Instead, in the surface region, the difference between thermostable
+and mesostable proteins is reduced, even though the difference in AT remains significant:
+about 1.5°C. We then used the protein-level predictor HoTMuSiC introduced in §4 to evaluate the changes
+in stability of these 1600 mutations.

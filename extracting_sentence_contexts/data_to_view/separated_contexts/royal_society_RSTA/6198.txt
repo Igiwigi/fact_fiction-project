@@ -1,0 +1,8 @@
+Thus, Ok(T) serves
+
+
+as a measure of how close T is to being [1}-sound: the larger O}(T) is, the harder one needs to
+search to find a counterexample to the /1}-soundness of T. The authors begin by recalling various concepts and results from the theory of ptykes. While
+these facts were already explicitly or implicitly covered in the work of Girard [61] and Girard-
+Ressayre [62], proofs are included for convenience. Seven classification theorems are proved, all
+recasting various soundness properties of T in terms of whether certain dilators D belong to O}(T). As mentioned in the article, these results all extend to the other classes 1} without much trouble.

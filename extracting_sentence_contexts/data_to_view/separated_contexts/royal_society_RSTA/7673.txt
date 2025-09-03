@@ -1,0 +1,17 @@
+Subject to a certain condition of convergence, if we adopt the mean as our estimate,
+then whether the normal law is true or not the uncertainty of the true value, given the
+mean, is found from the standard deviation and nothing else. If the average residual
+is used instead, there will usually be little difference beyond a slight increase of the
+uncertainty if the normal law is true; but if the normal law is true and there happen,
+in a particular case, to be a few exceptionally large residuals, or if it is untrue and there
+are residuals beyond the range predicted by it, the average error will lead to an under-
+estimate of the uncertainty of the true value as estimated from the mean. In fact, the
+case where the use of the average error is recommended is precisely the one where its
+use is most undesi
+
+rable. The large residuals, in this treatment, have already received
+full weight in estimating the mean, and if they have led to error in the mean they must
+also be given full weight in estimating the standard deviation. If the normal law is wrong, on the other hand, neither the mean nor the standard
+deviation is the best estimate to use in finding the true value and its uncertainty, and
+we should try to find out in what respects it is wrong and correct the postulate of the
+arithmetic mean accordingly.

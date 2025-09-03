@@ -1,0 +1,11 @@
+We have considered the model in [7] to illustrate that strong non-local competition
+and bistability are the main ingredients to obtain FCs. However, the analysis considering water
+transport process is more sophisticated (include more variables, parameters, etc.). Because this
+fact, we have developed the majority of our work based on equation (2.1), which is simpler and
+easier to manipulate.
+
+3. Fairy circles formation: numerical simulations
+
+Considering a regime far from any pattern forming instability, we focus on the parameters where
+the bistability between the bare and the uniformly vegetated states takes place. To generate
+FCs, we need to connect these two homogeneous states.

@@ -1,0 +1,13 @@
+We also
+find that the specific constitutive choice for the crack density function (AT1 versus AT2) does
+not play a significant role, with the AT2 model predicting the initiation of crack growth at a
+slightly larger G. We have also shown that these conclusions hold for ¢ — 0, independently of
+whether or not the irreversibility condition is employed. In fact, enforcing damage irreversibility
+appears to have a negligible effect on the efficacy of phase field models for accurately predicting
+crack initiation, under the conditions considered here (a long sharp crack). Our analysis suggests
+that the delay in initiating fracture when the initial crack is geometrically prescribed is related
+to the natural boundary condition (2.8)b, constraining ¢ to be constant near the crack surface,
+and the additional energy expenditure required to build-up a highly constrained phase field
+region around the crack tip (even behind the crack). There are other sources that can potentially
+contribute to discrepancies in crack initiation predictions, which have not been quantified as we
+have judged them a priori to be of secondary importance.

@@ -1,0 +1,22 @@
+A x?, see [22] for details, test is also shown (right axis and thick red solid : Sg
+line) with values close to zero for good Wigner—Dyson (quantum chaotic) statistics of the full spectrum. The central part of DN
+a7
+the spectrum follows the overall distribution of crossings, but it has a larger local density of crossings especially around the :B
+maximum of the distribution. Interestingly, this maximum is found close to the Mott-insulator transition in the ground state of ical
+
+our one-dimensional Bose—Hubbard model [20], a fact that most likely has to do with the reordering of the spectrum around
+this transition briefly discussed in [21]. (Online version in colour.)
+
+The case with finite F represents a paradigm of a many-body Floquet Hamiltonian, which is
+analysed in detail elsewhere [7,11,19]. Pl6tz et al. [7] show, in particular, that the transition from
+the regular to the chaotic regime as a function of F can be well captured by the analysis of the
+width distribution of the detected avoided crossings [7,26],
+
+2 2,2
+Plo) =(1— y)3(c) + X= exp [-22 . (2.7)
+me me
+
+We use the fidelity measure S, to find all avoided crossings and then just compute the difference
+c of the nearest-neighbour levels at the avoided crossings from the spectrum independently. This
+distribution has a chaotic part of weight 0 < y < 1 and a finite regular component, which is visible
+as a strong enhancement of P(c) close to zero; see the 5(c) function.

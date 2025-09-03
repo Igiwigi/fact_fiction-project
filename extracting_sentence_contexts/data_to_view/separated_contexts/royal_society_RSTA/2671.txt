@@ -1,0 +1,9 @@
+In this limit, the dynamics of u, as given by
+
+
+equation (2.5) is driven by u that appears as a multiplicative noise, whose statistics is determined
+by the quenched KPZ equation. Note that, regardless of the nature of the solutions, the structure
+of equation (2.5) ensures that (du /dt) =0. This follows from the fact that (a) equation (2.5) is
+linear in u, implying invariance under u, — —u_. Thus, (u,) should be bounded, unlike (u)),
+which continuously grows, reflecting the average motion of the crackfront in the longitudinal
+direction. We are interested in the scaling of u_.

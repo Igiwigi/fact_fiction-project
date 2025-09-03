@@ -1,0 +1,8 @@
+The true model is integrated over approximately 62 years after a spinup of 30000 years, in the
+same configuration as in [35]. In all experiments with MAOOAM, the state is fully observed every
+27h (At = 27h) (corresponding to N, = 1,000). A small modification was made to the observations
+from equation (2.8) to account for the fact that observations of the ocean are not at the same
+scale as those of the atmosphere: before being assimilated, instantaneous ocean observations
+are averaged over a 55-day rolling period centred at the analysis times. The EnKF-N is used
+as DA algorithm. The noise on the model forecast is added only to the atmospheric variables
+with a standard deviation of ¢™ = 1073 oft.

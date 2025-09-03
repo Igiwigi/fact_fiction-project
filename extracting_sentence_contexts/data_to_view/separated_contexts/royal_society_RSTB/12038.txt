@@ -1,0 +1,14 @@
+The optimal type of model to use depends on the questions
+As well as being able to address questions that are common of interest in the particular host—pathogen system under con-
+to diseases of humans, plants and animals, compartmen- sideration, and the wide range of available models reflects
+tal models can account for differences between systems the increasing number of data sources described in the pre-
+comprising these different host types. As an example, cryptic vious section. For example, analyses of pathogen sequencing
+infectiousness has been included in plant disease models to data have been linked with models of epidemic dynamics lead-
+represent the fact that some hosts become infectious before ing to the field of phylodynamics [85,86]. This issue includes a
+the onset of symptoms (see [70,71] and figure 3b top), whereas review paper by Lycett et al. [59] in which the history of
+simple models of Ebola virus disease in humans have incorpor- avian influenza is summarized, including the inference of
+ated the onset of infectiousness following a non-infectious but transmission routes using phylodynamic methods (figure 3d).
+symptomatic period (see [72,73] and figure 3b bottom). Such a wide range of modelling approaches provides a
+There are a number of other differences between human, suite of techniques for forecasting and planning control
+animal and plant disease systems that require different epidemio- when epidemics are ongoing.
+logical modelling approaches.

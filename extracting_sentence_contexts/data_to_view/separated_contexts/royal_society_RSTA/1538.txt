@@ -1,0 +1,11 @@
+In fact, the underlying strategy of PSR consists in changing the intrinsic
+characteristic of a nonlinear system to induce a cooperative effect between the input excitation
+and the noisy nonlinear system. In image processing, these techniques have revealed better results
+than a classical low-pass filter to denoise black and white images [31]. In fact, the measure of
+performance used in this study was the bit error ratio between the original noiseless image and
+
+
+the processed image. A weaker error was observed for the PSR method which held more the
+image details at large noise intensity than when a simple low-pass filter was used. Very recently, another way to take benefit of SR in image processing by adjusting the
+system parameters has been addressed in a nonlinear optical system containing photorefractive
+or nematic liquid crystals [32-35].

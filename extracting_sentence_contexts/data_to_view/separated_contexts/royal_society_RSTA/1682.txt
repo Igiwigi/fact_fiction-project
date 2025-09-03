@@ -1,0 +1,29 @@
+These operators and the corresponding abstract
+Cauchy problems
+X(t) =Nax(t), £20,
+
+x(0) =x0
+
+play a crucial role in our treatment of the problems (aP1,,) and (aP2). We recall from [8, Sect. 3.1]
+that (aCPy,) is called (mildly) well-posed if for every x9 € 0X there exists a unique mild solution. By [8, Thm. 3.1.12], this is equivalent to the fact that N; generates a Co-semigroup on dX.
+
+(aCPn, )
+
+
+(c) Operators with abstract generalized Wentzell boundary conditions
+
+Finally, in order to study the problem (aP2), we need the operator A® : D(A’) c X > X with
+abstract generalized Wentzell boundary conditions given by
+
+A®CAm, D(A®) = {f € D(Am) 0 D(B) : LAmf = Bf}. (3.2)
+
+If B=0, the boundary conditions defined in (3.2) are called pure Wentzell boundary conditions. This
+operator corresponds to the Cauchy problem
+
+i(t)=AP uf, t20,
+
+CP 4B
+u(0) = uo. (@CPav)
+
+In theorem 5.1, we will see that the problems (aP2) and (aCPys) are basically equivalent. In
+particular, this gives an interpretation of ‘Wentzell’ as ‘dynamic boundary conditions’.

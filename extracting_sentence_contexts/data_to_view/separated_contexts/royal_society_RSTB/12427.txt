@@ -1,0 +1,13 @@
+In addition, software motifs for cellular networks, here too the distribution of S
+design principles include fault-tolerance and extensibility, motifs in dependency graphs is essentially a by-product of Ss
+and the latter is closely related to the capability of software tinkering. Given a (sparse) subgraph motif Q, the average =
+to evolve. The fact that a simple growth model (figure 2d) is number of occurrences (G) of this motif in an uncorrelated S
+able to explain most of the statistical properties of software scale-free network scales with the subgraph size and the ©
+graphs [60] is an unexpected turn to Jacob’s views: even the exponent of the in-degree distribution [74]: =
+engineer, who consciously plans for the future, cannot avoid (G@)~N"S esoyel B.A) 5
+tinkering when preserving software stability. ’ . >=
+A simple model, known as the Growing Network with where s is the maximum in-degree in the motif and n andg =
+Copying [73], explains the asymmetric nature of the two are the numbers of nodes and links in the motif, respectively. _,
+degree distributions and the robust scaling exponents. The This scaling is actually valid for 2<y;<s+1. Interestingly, =
+rules are summarized in figure 2a and include directed this prediction is in very good agreement with the number — 3"
+links.

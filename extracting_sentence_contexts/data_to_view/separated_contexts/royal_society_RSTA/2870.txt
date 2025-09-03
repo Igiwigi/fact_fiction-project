@@ -1,0 +1,23 @@
+ALI is entirely [8
+
+dependent on the choice of training data (legal text), its labelling and curation (marking what is .
+
+deemed relevant for the output, i.e. a decision about whether or not a legal norm was violated),
+
+the hypothesis space that was developed (a set of mathematical functions that aims to connect
+
+input data with output data), and the performance metric chosen (percentage of output that is
+
+correct according to legal experts) [9]. ALI is not deterministic in the sense that IFTTT is. In point
+
+of fact, it contains a new type of discretion, situated in the design choices made when training
+
+the algorithms. These choices have many implications as to the reliability, the comprehensibility
+
+and the contestability of the output, but, as they are usually made by technology developers
+
+and policy makers, they are largely invisible to those who may be subject to decisions based on
+
+ALI. Each and every design decision has trade-offs, for instance between speed and accuracy,
+
+between generalizability and correctness or between accuracy and interpretability.

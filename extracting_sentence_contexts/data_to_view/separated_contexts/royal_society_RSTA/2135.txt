@@ -1,0 +1,9 @@
+As Ramanujan graphs appear when studying PU(2), one expects Ramanujan complexes to
+appear when moving to general PU(n). This is indeed so, but the direction taken in §4, of replacing
+Qby F,(#), cannot be used anymore, since the latter does not embed in R. The task also becomes
+more complicated due to the fact that the naive generalization of RP conjecture to PGL, fails, due
+to the appearance of functorial lifts (cf. [39]). For general 1, this is still work in progress, but for
+PU(3) (which corresponds to quantum computation on a single qutrit), a complete solution exists:
+
+Theorem 6.3 ([16]). For p=1 (mod 4), there is an explicit Golden Gate set Sy C PU3(Q), such that
+(Sp) acts simply transitively on the Bruhat—Tits building of PGL3(Qp).

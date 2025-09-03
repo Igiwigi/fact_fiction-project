@@ -1,0 +1,47 @@
+The extent of binding to CCT or GroEL was
+determined by calculating the fraction bound to chaperonin compared to total protein synthesized (weak < 5%, medium = 5-15%, strong > 15%). Results
+from independent studies are shown in column 5 and referenced in column 6. nd, not done; nt, not previously studied. CCT binding GroEL binding CCT binding
+
+protein protein complex/function this study this study published work
+
+ASC ribosome subunit/signalling weak weak nt
+
+AQ CAF1-p60/chromatin medium yes nt
+
+lore Skip1/ubiquitin weak yes no [28]
+
+ao APC/ubiquitin £3 strong yes yes ++ in vivo [32,28]
+
+G5 PP2A regB/phosphatase strong nd yes ++ in vivo [32,29]
+
+OHI APC/ubiquitin £3 strong yes yes ++ in vivo [32,28,29]
+
+DOA1 ubiquitin weak no nt
+
+ELP2 Pol II elongation/transcription negative no nt
+
+HAT2 histoneAT Type B/acetylation weak no nt
+
+SEC13 coatomer II/secretion weak no nt
+
+SECQ7 coatomer I/secretion medium nd yes [32]
+
+TAFS TFllD/transcription strong yes yes [32,29]
+
+TIF34 initiation factor 3/translation negative no nt
+
+TUP1 Tup1-Ssn6/transcription repression medium nd nt
+
+UTP13 U3 snoRNA (SSU)/translation medium yes nt
+
+VviD27 vacuole/protein degradation strong nd yes [45,46]
+likely to be responsible for GroE-dependent versus GroE-inde- proteins do not bind CCT or GroEL whereas others bind
+pendent folding behaviour and accounts for the fact that single both chaperonins strongly (sample assay data in figure 3).
+point mutations can convert MetK from Ureaplasma urealyti- Although 14 of these 16 proteins showed some degree of bind-
+cum, a bacterium with no GroE chaperonin system, into an ing to CCT, only five demonstrated very strong interaction with
+obligate substrate of E. coli GroEL/ES [41]. it. These strong CCT interactors are Cdc55p, Vid27p, Taf5p,
+
+When I first made the CCT-WD40 connection it was Cdhip and Cdc20p, each of which has been identified in
+
+obvious that the CCT ring had the required shape and dimen- other genetic and physical studies (table 1 and figure 1). It is
+sions to facilitate the binding of the propeller [2].

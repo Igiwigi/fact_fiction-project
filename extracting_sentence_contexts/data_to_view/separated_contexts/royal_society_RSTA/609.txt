@@ -1,0 +1,52 @@
+We spiked each RNA-Seq experiment (figure 1a) with an external RNA
+standard whose sequence does not align anywhere in the E. coli genome. Reads mapped to the
+spike in sequence showed high reproducibility between biological replicates. With this twist,
+the RNA-Seq datasets, normalized to the living cell counts (determined by FACS) were used to
+calculate the absolute copy number of each mRNA per cell (equation (2.1)). We were able to map
+reads to 4254 ORFs in LB and 4269 ORFs in MM. (In E. coli, the total number of genes including
+tRNA, tRNA and non-coding RNAs is 4496.)
+
+Cells grown in LB medium have about three times more mRNA transcripts than cells grown
+in MM (approx. 7800 mRNA copies/cell versus approx. 2400 mRNA copies/cell; figure 1b);
+
+
+(@) LB medium, ° =37°C, OD =0.3-0.4 MM medium, 1° = 37°C, OD =0.3-0.4
+
+pa La
+
+ZA <__ heat stress AX, osmotic stress
+LB,°=37°C LB, =47°C, 7 min MM MM, 0.3 M NaCl, 20 min
+|
+Sx [SM pikein Se (SM pikein
+Ce Ce RNA Ce Se eA
+RPF RNA-Seq_ RPF_—RNA-Seq RPF RNA-Seq RPF_— RNA-Seq
+
+\ “ \ 4 \ vf ‘\ ra
+deep sequencing deep sequencing deep sequencing deep sequencing Dos
+:2
+fold changes (hea/LB) fold changes (osm/MM) =
+~
+>
+4 a)
+fold changes (LB/MM) [3
+a)
+(b) (c) (d) DG
+05 05-2 >2 =k
+0.20 <5 05-2 >2 0.20 <05 05-2 >2 0.20 ‘ Do
+LB :Q
+0.15 LB 0.15 (Nx 5 0.15 heat [=
+» MM. wM - stress :8
+Z Z osmotic 2 a
+= 0.10 & 0.10 stress 0.10 a
+3 aad
+1a
+ao)
+
+0.05 0.05 0.05
+
+0 0 - 0 as
+-0 - 0 5 -0 5 0 5 0 5 0 5 Wo
+log, mRNA copies/cell log, mRNA copies/cell log, mRNA copies/cell
+
+Figure 1. Changes of the mRNA copy numbers upon stress. (a) Schematic of the experiment to analyse differences in expression
+under different stress conditions.

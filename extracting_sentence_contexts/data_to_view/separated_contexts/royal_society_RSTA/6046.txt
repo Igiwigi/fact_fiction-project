@@ -1,0 +1,16 @@
+We have now seen that BvH theory can assign a score that reflects the functionality of a
+sequence pattern without the need to fit any parameters. But in order to quantify the functionality
+of sequences with significant correlations between sites, we have to go beyond that theory. We
+now introduce a second-order PWM (as BvH in fact did in the appendix to [22], but for adjacent
+
+monomers only)
+(2) Po(si) )
+M-, =lo (ae : 3.12
+
+jab 108 Pij(Sa, Sb) 6.12)
+
+Just as before, pjj(Sa, Sp) is the likelihood to find symbol combination sq, sp at the pair of sites i, j,
+while po(sjj) is the likelihood to find the consensus pair there. Defining this matrix implicitly assumes that beyond monomers, any pair of monomers is in
+statistical equilibrium as well. While assuming that even higher-order correlations are in statistical
+
+3We changed notation slightly in equation (3.9), from pi(s;) in equation (2.8) to pi(sa) here, to conform to BvH theory.

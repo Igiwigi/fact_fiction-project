@@ -1,0 +1,14 @@
+Before moving on, let us mention some promising Modern Perspectives in Proof Theory, which
+in an ideal world would have also been covered in this issue.
+
+(a) Provability logic and its models
+
+Provability logic studies the abstract properties of the provability relation. A good source for the
+subject is Boolos [12]. By using the tools of modal logic, one can state simple facts about it, such
+as Gédel’s incompleteness theorem:
+
+oT > OO,
+
+an instance of the more general Léb axiom, O(O¢ > ¢) > Di. Solovay [13] proved that the
+provability logic of Peano Arithmetic can be axiomatized by Kripke’s axiom K, Léb’s axiom and
+the rules modus ponens and necessitation. The resulting modal system is called GL.

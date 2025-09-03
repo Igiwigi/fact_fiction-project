@@ -1,0 +1,31 @@
+A good approximation to this integral is
+
+128uQ;f 1 1
+APpvis = - Fes ral : (A6)
+
+With Q, = (2/4)D2 x v and v=80ms"!, we find that Apyis = 0.60/Dn (units are Pa if Dy is in
+metres). The power required to pump the liquid through the system is the pressure drop multiplied by
+the volume flow rate. Hence, we may write down an equation that describes the power (watts)
+needed for a given flow rate, Q (m? s~!):
+
+0.90
+Py= (Ss 43.2 x 10°) Q (A7)
+Da
+
+= (— +3.2x 10°) Q. (A 8)
+
+The second line is derived from the fact that the drop diameter is approximately two times the
+nozzle diameter and the drop diameter is approximately four times the dry aerosol diameter, Dm,
+so Dn =2Dm.
+
+(b) Taylor cone jets
+
+Here, we provide arguments for the application of Hagen-Poiseuille flow to the case of Taylor
+cone jets and show that it is consistent with measurements by Neukermans et al. [11]. The Taylor cone jet method uses an untapered nozzle and does not require the pump to provide
+drops with a high kinetic energy, because an electric field provides the kinetic energy instead. For
+an untapered nozzle, the power required to overcome the pressure drop due to viscosity and
+
+surface tension is:
+
+128uLQs . 40 )
+Pw={—{— += ]Q.

@@ -1,0 +1,17 @@
+The intrinsic rewards are thus
+proportional to the learning progress of the Learner, ie. the
+more the Learner learns to approximate the appropriate corre-
+lations, the higher the rewards. The RL component receives
+
+The term ‘embodied curiosity’ refers to the application of
+curiosity-based computational models within an embodied,
+physical agent. It hints to the fact that there is a very tight
+interaction between the computational model and the body,
+ie. sensors, motors and their physical arrangement, as well
+as the embedding interaction. One interaction cannot be ana-
+lysed without the other, since emerging behaviours are
+dependent on both. In this section, these two concepts are
+briefly described and reviewed.
+
+(a) Artificial curiosity these intrinsic rewards and changes the policy, based on the
+Artificial curiosity refers to the computational models wherein RL algorithm.

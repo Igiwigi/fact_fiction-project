@@ -1,0 +1,9 @@
+Pathway Complexity has an upper bound of Ny — 1, where Ny is the number of vertices on the
+graph. This represents joining two fundamental graphs in the first step, and then adding one more
+ata time until the object is constructed. One lower bound of Pathway Complexity is logy Ny, which
+represents the fact that the simplest way to increase the size of an object in a pathway is to take the
+largest object so far and join it to itself, e.g. we can make an object of size 2 with one join, 4 with
+2 joins, 8 with 3 joins, etc. An illustration of the upper and lower bounds of Pathway Complexity
+can be seen in figure 4, with the orange regions being forbidden due to the above boundary
+conditions. The green portion of the figure is illustrative of the location in the complexity space
+where life might reasonably be found.

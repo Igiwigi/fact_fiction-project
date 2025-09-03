@@ -1,0 +1,19 @@
+Note that
+the measure is generally asymmetric as Pj(o,a) 4 Pi=(d,o), reflecting the asymmetry of real world
+travel. Note also that d; is dimensionless and unaffected by the magnitude of the mobility flow. More in general, to account for the fact that not all pairs of cities are connected via a
+link, the authors of [29] defined the effective distance between any pairs of network nodes
+as follows. Assume I" = {11,12,...,n,} is an ordered path from any two nodes 11 to ny and
+wr) = ni Pnj.1n;, then the distance of that path is defined as
+
+AW) =L — log W(L). (4.5)
+The effective distance, Dj(o,d), is then the path that minimizes the distance
+
+Dim = min MD), (4.6)
+
+which is equivalent to computing the shortest path in a network with weights computed from the
+effective distance (equation (4.4)) plus one.
+
+(d) Cartograms
+
+We display the maps of Denmark in figure 1 as cartograms [17]. We computed the cartograms
+as follows.

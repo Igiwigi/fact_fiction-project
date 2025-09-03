@@ -1,0 +1,20 @@
+The sampling rates
+estimated from TRiPS are thus directly comparable across
+geological intervals of unequal durations. Note that while
+we have described TRiPS using species observations it can
+also be directly applied to genera or groups of taxa defined
+in other ways. In fact, any grouping of taxa thought to exhibit
+similar sampling rates might be combined, whether or not
+they actually are taxonomic clades.
+
+(c) Simulations using a birth—-death—fossilize process
+To evaluate our method’s applicability and power, we per-
+formed a large number of continuous time birth-death (BD)
+simulations, coupled with a fossilization scheme, which we
+interpret as sampling. In a classic BD process a lineage either
+gives rise to a new species or goes extinct at a certain rate;
+our fossilization scheme adds a third potential event: that of
+a lineage leaving a fossil. We are thus simulating a ‘fossil
+record’ given a set of parameters controlling the dynamics
+and sampling of the simulated clade, and then using TRiPS
+to estimate the true number of species in these simulations.

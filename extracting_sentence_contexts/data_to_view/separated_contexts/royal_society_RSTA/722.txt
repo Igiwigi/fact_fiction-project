@@ -1,0 +1,35 @@
+Comparison with the finite-
+element solution shows that this is actually a very good approximation for all n > 2. :
+
+We proceed by integrating the equations [2
+
+an oe a 13
+* =Leosg@xL(1—-—) and “~=rsino~Lo, 28
+0s 2 0s :
+
+to obtain : S
+Li (4 3n7\ . 7 an ona | +L : S
+
+x - § sin$ — sin 27 :
+4n2 "7 2n2 ms :o
+
+and aot
+
+| :
+y= 7 (@s — sinms) — 7, 28
+
+after using the boundary conditions for x and y at § = 0. We still have two unknown lengths L and Lc, but we have two constraints to enforce: (i) at
+§ =1 the beam must lie on the line defined by equation (3.3); and (ii) the total length of the beam
+is known from inextensibility, 2L, + L =22R/n. Note that the left-hand side of this constraint does
+not take into account the error in length due to the approximations for cos @ and sin @ used to find
+x and y, which are, in fact, the largest sources of error in this approximation. These two constraints
+can be used to determine L, and L and we find that
+(x R/n — rtan(z/n)) tan(27/n) and Le= mR_L
+
+c =
+
+n/n — $(1 — 322/2n?) tan(2x/n) no 2
+
+In the limit 1 > 00, we find that L— 4n(R — r)/3, which only makes sense if the allowed
+solutions for increasing n have (R —r) > 0 faster than n — oo. We use this approximation to
+determine the critical buckling radius as a function of n.

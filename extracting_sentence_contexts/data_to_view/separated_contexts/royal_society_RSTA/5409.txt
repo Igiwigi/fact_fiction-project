@@ -1,0 +1,10 @@
+A caching of values to be computed is associated to the expression graph, where
+already evaluated subexpressions are connected via symbol and value sharing. The traversal of the reachable subgraph of the functional environment. is
+activated whenever a new value is being evaluated or an existing symbol is
+redefined. The value generating process is made easier by the fact that the
+language is purely functional—no state nor side effects. Proto-PiasM will support progressive computations, where each operation
+works by reading a stream of incremental refinements of its operands and
+produces from the very beginning a coarse approximation of the final result. The function-level programming style couples very well with the dataflow
+diagrams and visual languages, where a computation is visualized as a directed
+graph of data flowing between boxes representing either single operations or
+whole programs.

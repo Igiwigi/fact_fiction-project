@@ -1,0 +1,8 @@
+The analysis
+in [39] goes beyond those periodic solutions and establishes a theory of the dynamics of a
+slowly oscillating chaotic solution, which is called laminar chaos and is found only in systems
+with dissipative delay. These solutions are fundamentally different from the slowly oscillating
+solutions, which are known for constant delay systems. In fact, they are a result of the Doppler
+effect with self-feedback due to a time-varying dissipative delay. In the following, we present a
+systematic analysis of the dynamics due to dissipative delays for the nonlinear DDE (3.1). It opens
+a rich variety of periodic and chaotic dynamics, which may be interesting for applications.

@@ -1,0 +1,12 @@
+The DVV method
+is explained and further elaborated and tested in Gautama et al. [28-30] and Mandic et al. [31]. A
+separate paper in this Theme Issue tests DVV for floating platforms and the potential of its use for
+tracking changes in structural properties is identified there [32]. Advantages of using this method
+
+
+relate to the facts that it does not require any prior knowledge about the system or the excitation,
+it is robust to the presence of noise, it is straightforward to interpret and typically exhibits
+improved performance over other traditionally available methods [30]. Numerical analyses were
+performed using the DVV toolbox [33]. The output of the method is one number for each
+response signal recorded, shown by the root mean square error (RMSE), and represents the degree
+of nonlinearity of the response [30].

@@ -1,0 +1,18 @@
+This definition requires, for example, that in a
+computing the meanings of the sentences Jo loves Sam and Sami loves Jo, the system employs .
+the same representations of the constituents (Jo, loves, Sant), the same representations of the
+syntactic/semantic roles (i.e. argl and arg2 in arg] loves arg2), and the same functions for
+combining those meanings. (cf. [39], who offers a more permissive definition which almost all
+modern neural networks meet by definition.)
+
+(c) Discrete concepts
+
+A basic prerequisite of this definition of compositionality is the existence of discrete, modular
+representations of individual concepts, including representations of the roles that those concepts
+fill. Neural networks are known to often entangle concepts in a way that would violate this
+requirement. However, the fact that neural networks sometimes entangle concepts does not mean
+they always do, and a number of recent studies show that there are many cases in which neural
+networks learn representations which can be localized to specific parts of the parameter space
+and can be isolated from other (even frequently co-occurring) concepts. For example, in [40], we present experiments for a variety of neural network image
+classification models trained on an abstract visual reasoning task (figure 1a). In this domain,
+abstract arrangements of shapes are given arbitrary names (dax, blick etc.).

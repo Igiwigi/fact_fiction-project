@@ -1,0 +1,13 @@
+Secondly,
+for simplicity, we are going to make the assumption that V, is indeed the restriction of an actual
+connection V. This will allow us to speak more freely of geometric concepts such as the contorsion
+
+
+tensor. In fact this assumption is not critical; if the Poisson tensor in these coordinates is w”, then | 10 |
+we are in most formulae making use only of the combination V“ := w“V,, rather than the full
+
+covariant derivatives V,, themselves. It means that our data have redundant ‘auxiliary modes’ “a
+that do not affect the quantum differential structure at order 4, a situation not unfamiliar from [a
+other situations such as gauge theory. There is also the matter of extending from 2! to forms of is
+
+all degrees but this turns out [27] to impose no further conditions.

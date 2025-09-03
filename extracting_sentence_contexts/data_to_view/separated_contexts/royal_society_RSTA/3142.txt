@@ -1,0 +1,18 @@
+In general, given a family of transition probability matrices P(x, y) with entries
+in xo, if the generalized Markov problem for it has a positive solution, the centre of the associated
+Schwinger algebra will be an abelian extension of ko. The fact that two families of transition
+probability matrices with entries in «9 admit Schwinger algebra models with isomorphic centre
+is an equivalence relation among such families and the common centre « can be considered as a
+statistical invariant of the equivalence class. The name ‘generalized Markov problem’ is justified by the fact that this is the quantum
+probabilistic analogue of the following, well-known, problem in classical probability: given a
+family of (real-valued) transition probability matrices {P(s, t):s <t,s,t}, when does there exist a
+Markov process (A(t)) such that, for each s < t, the transition matrix canonically associated to the
+pair of random variables A(s), A(t) is P(s, t)? It is well known that the classical probabilistic problem has a positive solution if and only if
+the family of transition probability matrices (P(s, t)) satisfies the Chapman-Kolmogorov equation:
+
+P(r,s)- P(s,f)=P(r,t), 1r<s<t. (3.31)
+
+In concrete applications of Markov processes the above equation has a natural interpretation as
+(typically irreversible) time evolution of a classical system. However, from a mathematical point
+of view (3.31) arises only as a compatibility condition for a set of transition probabilities to admit
+a specific probabilistic model (Markov in this case).

@@ -1,0 +1,6 @@
+The maximum sustainable trigger frequency is ~1 KHz. This set-up was developed
+specifically for our first prototype (MU-RAY), and apart from minor improvements, has not been
+changed for the MURAVES project. In fact, we have already produced and tested 48 Slave boards
+(plus spares) for the Vesuvius hodoscopes and the Master boards. In addition, there is a Slow Control Unit that takes care of temperature and humidity readings. This unit also drives a highly efficient Peltier cooling system developed by us (figure 8) that allows
+us to operate the hodoscopes even during the hottest days by keeping the SiPM temperatures
+at manageable levels.

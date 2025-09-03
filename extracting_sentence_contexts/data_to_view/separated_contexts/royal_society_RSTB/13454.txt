@@ -1,0 +1,12 @@
+I use the Mann-Whitney test to means that cooperators do not lose by interacting with defec-
+assess the differences in each control-treatment pair. This is tors. Because of these two assumptions, exclusion does not
+a non-parametric test that does not assume a normal distri- occur when reputation = 0, evidenced by the fact that the net-
+bution for the residuals. It essentially checks against the works have much higher density then [25].
+null hypothesis that a randomly selected value from one con- Regarding the expected positive effect of reputational
+dition would be equally likely to be less than or greater than a information on the correspondence between payoffs and coop-
+randomly selected value from the other condition. erative behaviour, I find supporting evidence that is statistically
+
+Since the experiments were not designed to test group-level significant in BOLT04, SEIN06, STAH13, CUES15 and
+hypotheses, effect sizes and statistical power are not always KAME!I7a (figure 3). The overall results, however, are not stat-
+large enough to provide evidence at the level of a single exper- istically significant for randomly rewired networks (6/8, 1-
+iment.

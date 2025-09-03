@@ -1,0 +1,8 @@
+Nonlinearities only arise in this loading, and the structure reacts
+linearly to it. This can be used to advantage, e.g. using the impulse-response formalism to
+significantly speed up the analysis [3]. In fact, the structural model of the support structure
+can be understood as a system of coupled damped oscillators that are driven by external
+forces. The simplification this allows is a major motivation for decoupling the rotor from the
+support structure. Rotor load models is the generic name for a class of models that provide time series of forces,
+or moments, at an interface node (typically the tower top), in approximation of the true rotor :
+loads that one would obtain from a more comprehensive rotor simulation.

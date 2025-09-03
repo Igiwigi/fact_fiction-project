@@ -1,0 +1,81 @@
+The loading boundary condition
+was considered as a distributed pressure pulse with the temporal distribution obtained from an
+actual experiment [16]. Rather than simulating the whole experimental set-up, the spalling sample
+was modelled by directly applying the loading pulse on the bar—specimen interface based on the
+fact it has been numerically shown that two approaches are fairly similar [58]. This is mainly due
+to the fact that the dispersion effects of the smoothed wave travelling through small diameter
+
+
+spalling test configuration: grid method
+
+— boundary conditions
+— sample geometry
+
+experiential parameters: .
+i displacement
+: field
+— material model =-—>}
+— material stiffness
+explicit FE model
+— simulated camera }—>} virtual fields method:
+frame rate — virtual fields degree
+— acceleration
+window
+— acceleration
+
+temporally resolved .
+displacement fields polynomic degree
+
+|
+
+identified parameters:
+— evaluated Young’s
+synthetic image generation: modulus
+stress-strain response
+(virtual gauge size)
+
+— simulated grid
+pitch phase I:
+— simulated CCD . ,
+camera interpolation of displacements
+
+resolution to positions of fictive pixels
+
+— simulated CCD Phase Hl:
+camera dynamic
+range
+
+— image contrast
+
+— lens blurring =  _
+— superpixel size deformation of reference image
+
+— simulated fixed by grey level interpolation
+
+noise
+
+image sequence
+
+generation of reference image
+
+— simulated
+camera random
+noise
+
+Figure 2. Flow chart of the spalling identification simulator.
+
+(a) (b)
+1.0 —
+
+0.8 , \
+
+> 0.6 / ‘
+load surface
+£04 , \
+
+02 / \
+
+0 10 20 30 40 50 60
+time (Us)
+
+Figure 3. Numerical model: (a) FEM of the spalling test, (b) experimental pulse used as a pressure load.

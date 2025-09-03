@@ -1,0 +1,39 @@
+In particular,
+visible face ‘face visibility’ is ‘small’, ‘away’, ‘direct’ or gaze focus is often strongly attracted to two or three features
+
+within a scene. This multimodality in the spatial distribution of
+
+D ,
+eye contact : cope
+Y gaze focus produces a very large covariance for the overall distri-
+
+prominent face ‘face visibility’ is ‘away’, ‘direct’ or ‘eye bution, despite the fact that gaze focus may be tightly clustered
+contact’ around each mode. In fact, the eigenvalues of the covariance
+
+" 1 yg , matrix are typically larger for this case than for scenes in which
+direct face face visibility’ is ‘direct’ or ‘eye contact there are no strong attractors of gaze, and thus gaze focus is dis-
+eye contact ‘face visibility’ is ‘eye contact’ tributed randomly. Most standard approaches to assessing the
+visible genitals ‘AGA visibility’ is ‘small’, ‘unsexed’, ‘male’, variability of a distribution are directly or indirectly affected by
+
+this issue, and approaches based on directly modelling the multi-
+
+‘female’ or ‘both’ modality of the gaze data (e.g. k-means clustering) proved to
+
+prominent genitals ‘AGA visibility’ is ‘unsexed’, ‘male’, ‘female’ be impractical for this dataset due to long computation times.
+or ‘both’ To address these issues, here we introduce a new metric which
+we term gaze consistency. For a moment in time with n gaze
+D Fir a
+male genitals AGA visibility’ is ‘male’ or ‘both focus observations, gaze consistency is defined as
+female genitals ‘AGA visibility’ is ‘female’ or ‘both’
+2do
+agin ‘forage’ is ‘few’ or ‘many’ 2.2
+foraging 9 y & “itn - ps » mal — xj\|,do)’ (2.2)
+group foraging ‘forage’ is ‘many’
+any aggression ‘aggression level’ is ‘unidirectional’, where x; and x; represent the position vectors for pairs of gaze
+
+focus observations, and do is a constant estimating the smallest
+
+‘bidirectional’, ‘joint’ or ‘intercoalition’ " . .
+distance between two points considered to represent a meaning-
+
+Mutual aggression ‘aggression level’ is ‘bidirectional’, ‘joint’ or fully different focus of gaze.

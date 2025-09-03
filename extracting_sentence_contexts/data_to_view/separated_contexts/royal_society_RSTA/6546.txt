@@ -1,0 +1,12 @@
+If the velocity field is steady, the mixing
+is poor and stretching for long times is linear, as in the case of a simple shear flow;
+i.e. the stretching rate of line elements decays as 1/t (we are restricting ourselves
+to bounded flows, that is were excluding elongational flows here). It is relatively
+straightforward to produce flow fields that can generate stretching and folding and
+hence chaos. In fact the most important lesson that should be learned about kine-
+matics and mixing is encapsulated by the link twist maps (LTMs; see Wiggins &
+Ottino 2004). In rough terms, a necessary condition for chaos is the ‘crossing’ of
+streamlines (this must occur at different times). That is, two successive streamline
+portraits, say at t and t + At for time-periodic two-dimensional flows, or at z and
+z + Az for spatially periodic flows, when superimposed, should show intersecting
+streamlines when projected onto the (x, y)-plane.

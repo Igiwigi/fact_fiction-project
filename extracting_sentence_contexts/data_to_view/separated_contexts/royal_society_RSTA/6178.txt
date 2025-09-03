@@ -1,0 +1,15 @@
+For
+example, both maximum-likelihood estimation and penalized approaches like the lasso are non-Bayesian, but, in contrast
+to confidence intervals and p-values, not inherently frequentist. Of course, one may study the frequency properties of these
+procedures, but one may also study the frequency properties of Bayesian methods.
+
+
+(a) Population structure and clustering
+
+The first example is my work on so-called ‘admixture models’ to infer population structure
+from genetic data [32]. In brief, population structure refers to the fact that some individuals
+are more genetically similar than others. Thus, a typical first attempt to investigate population
+structure might involve applying some kind of clustering method to the genetic data. The main
+contribution of [32] was to extend a standard model-based cluster model to allow that each
+individual could have partial membership in each cluster; that is, in the language of population
+genetics, to allow that individuals may be ‘admixed’.

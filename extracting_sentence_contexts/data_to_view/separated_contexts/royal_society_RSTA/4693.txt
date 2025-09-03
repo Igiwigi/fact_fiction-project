@@ -1,0 +1,20 @@
+In the
+static case, ‘easy shear’ means that one can change the shape of the elastic body with little force
+(while maintaining its volume), whereas one needs significant force to change the volume (while
+maintaining its shape). A corresponding metamaterial structure was suggested theoretically
+a long time ago [50], but has been realized experimentally only recently. This pentamode
+metamaterial illustrated in figure 10 is composed of double-cone elements which touch each
+other around fictitious points that form a diamond lattice, corresponding to an underlying face-
+centred-cubic (FCC) translational lattice with lattice constant a. We have shown that the ratio of
+bulk to shear modulus scales as B/G « (d/a)~* for d/a <1, where d is the diameter of the thin
+end of the cones. This means that one needs small connections d to approximate a liquid by this
+‘meta-liquid’.
+
+
+(a)
+
+<7
+—
+a
+Figure 11. (a) Scheme of an ideal pentamode metamaterial [50] in which double-cone elements of length h and diameter D
+are arranged ona FCC translational lattice with lattice constant a.

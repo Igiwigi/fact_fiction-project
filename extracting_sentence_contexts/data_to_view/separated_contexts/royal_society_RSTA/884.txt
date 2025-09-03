@@ -1,0 +1,35 @@
+Similarly for the operation Pi 1s)
+
+P,, when it is clear which set V is considered.
+
+we will write Py or even
+
+(b) Graph states
+
+A graph state |G) isa quantum state described by a simple unweighted undirected graph G, where
+the vertices of G correspond to the qubits of |G). Formally, let G = (V, E) be a graph, the graph state
+
+|G) is then defined as
+=[[& BH», (2.6)
+
+ecE veV
+
+where ch ) is a controlled phase gate between qubits u and v, ie.
+
+(V\u)
+
+CH”) = 10) ln @ 1) + |1) Ay @ ZN. (2.7)
+
+A graph state is also a stabilizer state [18]. The generators of the stabilizer group of |G) can be
+written as
+
+gv =Xv [] Zu. (2.8)
+ueN,
+
+
+In fact, any stabilizer state can be made into some graph state by only performing single-qubit
+Clifford operations [9]. If two states, |y) and |#) are related by some sequence of single-qubit
+Clifford operations, we denote this by |) ~Lc |¢). Given a stabilizer state |S), one can find a graph
+state |G) such that |S) y ~ic |G)y, by simply performing Gaussian elimination followed by certain
+operations on the columns of a matrix which rows are the symplectic form of the generators
+of S [18].

@@ -1,0 +1,51 @@
+Sharpness
+of the refined estimate (3.6) with respect to the second parameter Ko was then established in [73]
+by analysing solutions of Problem 3.1, although the parameters a, b and c were found to have
+values different from the values given in (3.6). As regards the companion question about sharpness of the finite-time estimate (3.7), in [73],
+it was shown that flow evolutions corresponding to the optimal initial data %x,,p, obtained by
+solving Problem 3.1 for fixed Ko and different Pp saturate the bound in estimate (3.7) with respect
+to Po, in the sense that the maximum attained values of the palinstrophy max;>9 P(w(t)) grow in
+proportion to Py when Ko remains fixed. On the other hand, dependence of the prefactor ®(Reo)
+on Rep, or on Kg, was found to be more nuanced, which can be attributed to the fact that the
+flow trajectories considered correspond to initial data which is optimal in the instantaneous sense
+only. The vortex-dynamics mechanisms realizing the extreme flow behaviour discussed above
+
+
+(a) (b)
+300
+
+1013
+
+0.9
+
+0.8 200 10! Fi
+
+0.7
+
+100 :
+
+06 y) 10? ft
+
+> i
+
+y 05 0 £ i
+04 o 107 fi
+100 :
+
+0.3
+
+02 ~200 105 fi
+
+-300
+
+we L
+0 01 02 03 04 05 06 0.7 08 0.9 104 10° 108
+
+x
+Po
+
+Figure 2. (a) Vorticity field — AWK? solving Problem 3.1 with Ky = 10 and Py = 1.5585 x 10°. (b) Dependence of the
+maximum palinstrophy rate of growth R-p, (Wxc,,p,) on Pp for Ky = 10°, 10' and 10? with the vertical lines representing the
+corresponding Poincaré limits (2sr)*Ko. (Online version in colour.)
+
+were analysed in [10].

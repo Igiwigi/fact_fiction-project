@@ -1,0 +1,12 @@
+We computed numerically the many-body mobility edge of the system in the forward
+approximation, finding that the energy eigenstates of the system indeed localize for small values
+of the transverse field at finite system sizes. When plotted against the equilibrium phase diagram
+of the model, we discovered that the localized region does not coincide with the glassy phase. In particular, evidence points to the fact that the glassy phase is partitioned into a delocalized
+region and a localized one. We conjecture that the glassy, delocalized region will exhibit the same
+clustering of eigenstates observed in [29] for the p-spin model, where the eigenstates were found
+to form clusters inside of which the energies are distributed according to Wigner—Dyson, while
+the global distribution of the energy levels of the model is Poissonian. Moreover, we expect that classical methods that exploit the fine-tuning of thermal relaxation
+(such as simulated annealing) will perform poorly in the entire glassy phase, while quantum
+
+
+annealers will perform poorly only once localization sets in.

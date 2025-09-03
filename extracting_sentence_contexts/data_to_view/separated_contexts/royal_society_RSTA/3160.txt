@@ -1,0 +1,6 @@
+This difficulty is typical for systems with
+no diffusion in some equations. However, linearized stability in % does follow from spectral stability by a recent result of
+Yurov [10], for Xo equal to either L?(R,R3) or H'(R, R°). We postpone a discussion of this fact to
+appendix A. Unfortunately, nonlinear stability of the travelling wave to perturbations in %y does not follow
+from linearized stability using standard results. The essential difficulty is that the weight function
+Ya(&) decays exponentially at the left, so Yq includes functions that grow exponentially at the left.

@@ -1,0 +1,10 @@
+As an example, Barth et al. [16] provide :
+a model for encoding norms appearing in legal standards such as HIPAA. 73
+Normative concepts are often not defined explicitly, and, when they are, they are not expressed : &
+in a formal language that enables a precise analysis. As a result, there is uncertainty with respect .
+to which information flows are in agreement with normative concepts. In many cases, it may
+be difficult to determine with reasonable certainty whether an information flow is appropriate,
+whether it creates a risk of a privacy breach or even whether a privacy breach has in fact occurred. In order to bridge normative and technical concepts, the framework of contextual integrity
+could in the future be equipped with formal mathematical definitions. If defined formally, its
+fundamental concepts, i.e. context, information flow and norm, could provide an interface for
+integrating formal privacy models into the framework.

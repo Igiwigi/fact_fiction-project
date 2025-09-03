@@ -1,0 +1,11 @@
+The seasonal anomaly was calculated for each inversion by first subtracting the multi-annual trend from the data and
+second by averaging each month over the period 2005-2018.
+
+with the prior estimate of 33.0Tg y~!, whereas FLEXINVERT and CTE remain on average closer
+to the prior with 36.0 and 32. Tg y~!, respectively. The similarity of FLEXKF and TM5-4DVAR may
+in part be due to the fact that FLEXKF used output from TM5-4DVAR in the description of the
+background, which is discussed below. Another important difference between the inversions is
+that the global inversions (TM5-4DVar and CTE) find a significant negative trend in the emissions
+from 2005 to 2018 of 0.19 and 0.57Tg y~1, respectively, whereas the regional ones do not. The
+range of mean emission estimates for the EU27 + UK across the inversions is considerable, from
+26.8 to 36.0 Tg y~! or equivalently —11 to +17% of the mean value.

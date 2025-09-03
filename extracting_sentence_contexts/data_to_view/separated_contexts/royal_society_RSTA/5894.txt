@@ -1,0 +1,8 @@
+Indeed,
+the non-adiabatic couplings that are neglected in the Born-Oppenheimer approximation can
+become arbitrarily large close to a CI [2-4] and break the Born—-Oppenheimer approximation. In this case, one may believe that including the missing couplings should be sufficient to recover
+the exact description, but this is not completely true. A first difficulty comes from the fact that the
+non-adiabatic couplings diverge at the CIs. Hence, all the non-adiabatic coupling terms may not
+be integrable over the chosen basis and can lead to numerical instabilities. Another difficulty is
+that an extra geometric phase (GP) attached to the adiabatic states appears upon encircling the
+Cls [5-8].

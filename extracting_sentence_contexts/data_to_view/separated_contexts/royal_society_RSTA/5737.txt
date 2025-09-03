@@ -1,0 +1,16 @@
+Both systems after that were evolving in complete
+harmony. What is remarkable about this result is that the receiver managed somehow to reconstruct the
+remaining signal of the transmitter, that is the y’,z’ part, by using only part of it: the variable
+x’. In some cases, it was later found that sync may in fact proceed exponentially rapidly [51]. By using this method and after the work of [40] for the Lorenz and the Réssler systems, many
+chaotic dynamical systems have been found that allow for synchronization, a truly remarkable
+phenomenon that has since provided the key to many previously unresolved mysteries in
+nonlinear dynamics (for more details, we refer to the books [52,53], and the recent review [41]).
+
+(b) Syncin cosmology
+
+Because of relativistic causality, any two spatial points A,B in an inhomogeneous cosmological
+space-time may influence each other by sending signals in a one-way manner, A can only
+influence B if it lies in B’s causal past, and B can only influence points on or inside its future
+null cone. Inspired by [40], we may think of two Mixmaster points A, B influencing each other as
+a ‘transmitter-receiver pair’ (‘master-slave’, or ‘driving-response’), and examine the possibility of
+whether some form of sync may develop between them.

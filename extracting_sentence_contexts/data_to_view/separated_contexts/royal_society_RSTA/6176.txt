@@ -1,0 +1,19 @@
+What we do not immediately know, of course, is how robust the method will be to deviations 8 |
+from this assumption. Nonetheless, it is a start. Arguably it also suggests a way to select a value
+
+for k: since the ridge estimate (2.17) is optimal under the model (2.14)-(2.19) it seems natural 3
+to use the same modelling assumptions to select k, for example using an EB approach (i.e. by oS
+maximizing the marginal likelihood). [8
+
+(iii) Lasso regression
+
+The lasso regression estimate [30] is obtained by replacing the squared /? penalty of ridge 15
+regression in (2.18) with an fp penalty, |B|1 = va Bj : S
+Bs? = arg min —I() + KiB ht. 220) :8
+It is common to describe B!***° as the Bayesian ‘maximum a posteriori’ (MAP) estimate for 8 under aed
+a Laplace prior (also known as double-exponential prior), a fact that is straightforward to verify. a]
+This description is, in essence, an examination of lasso through a Bayesian lens. =
+However, some cautionary remarks are in order. First, and most importantly, the MAP estimate :s
+is ultimately not a very ‘Bayesian’ quantity, at least not for continuous parameters. Why is this? to
+Well, the MAP estimate is the optimal estimate under 0-1 loss, which is not a natural loss 4)
+function for continuous parameters.

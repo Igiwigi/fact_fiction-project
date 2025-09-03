@@ -1,0 +1,39 @@
+The transition to temporal storage first occurs for the four control kernel
+nodes, which for k= 4 have PE > 0, while others nodes have negative PE (self-loops nodes) or
+PE close to 0. All nodes make the transition to PE > 0 at history length k =5. This suggests that
+the informational architecture of the cell cycle is space (processing) dominated in its early evolution
+and later transitions to being time (storage) dominated with a characteristic time scale.
+
+(b) Inter-level architecture
+
+We pointed out in §3 the fact that the local-level informational architecture picks out a clear
+difference between biological and random networks, whereas the global measures do not. We
+conjecture that this is because in biological systems important information flows occur between
+levels, ie. from local to global and vice versa, rather than being solely characteristic of local or
+
+
+1.0 ek=l
+
+ek=2
+
+@k=3
+
+ek=4
+
+ek=5
+
+k=6
+
+k=7
+
+ek=8
+
+ek=9
+_D
+2.0 woe ee ek=10 :=
+a = 2 £€ &B m2 B Qe =
+3 n Pe n a = 5} s
+ie) 3 =
+R
+Figure 7. PE, quantifying the difference between information storage and transfer for a node, for every node in the fission yeast : =
+network for history lengths k = 1, 2, . . . 10.

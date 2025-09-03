@@ -1,0 +1,15 @@
+We chose to use MIF because it is easy
+to implement, ready to be applied to two-dimensional signals, computationally fast and most
+importantly it has been proved to be convergent under mild conditions, at least when applied to
+one-dimensional signals. The other main result of this paper is the development of a pre-processing algorithm, also
+based on MIF, which allows us to decorrelate and mean-centre a raw hypercube, enabling us
+
+
+to use the naive cosine similarity (COS) measure, also known as the spectral angle mapper, as
+a classification technique. In fact, thanks to such a pre-processing technique, the COS measure
+produces a classification that is always comparable and that sometimes outperforms those
+produced by other commonly used classifiers. The advantage of coupling the COS classifier
+with the proposed pre-processing method is that in this way there is no need to estimate the
+average signature and the covariance matrix of pixels not belonging to the plume, unlike any
+other commonly used classification method. The rest of this paper is organized as follows: in §2, we formalize the problem and briefly
+review some of the most commonly used classification methods.

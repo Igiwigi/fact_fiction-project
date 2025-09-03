@@ -1,0 +1,109 @@
+The in-band gain is
+set by capacitive and resistive dividers according to equation (4.2) in table 3. To maximize the
+gain and reduce distortion (i.e. to widen the flat portion of the TFs by making f,1 small and f,2
+high), Ramp, Ryjseal and Cnano should be large, and Cstray and Camp small according to equations
+(4.4) and (4.5). In fact, a low fy (e.g. for large values of the sealing resistance) filters out the high-
+frequency signal components, thus slowing the Vout transients and making it appear spread out
+
+(4.1)
+
+lH(f)| = Gin-band (
+
+
+Table 3. Approximate expressions of the in-band gain, poles and useful bandwidth of the system transfer functions, 71(F),
+Tepresented in figure 8. Com and Gm are much lower than Cstray -+ Camp for our case study.
+
+passive intracellular
+
+7 Rajseat + Riseat Gano ph
+Gin-band (= FRseat + Prim J \ Grano -F Goad + Gray + Gmp V4 Ri (42)
+fy a (43)
+TG jnRyeal + Pym Roe)
+1
+1 14 1
+ha Trt Rei] [Raym + Brano + Rar) (= ' cate) (45
+1 1 1
+fs & (contre + caw) “e
+1 1 1
+fa iz (at + om) G7
+BW fn <f <fp (48
+passive extracellular
+7 Goim ‘ Gm Real ph
+Gin-band Tay twp TOG tw Bt Byes (IF (49
+1
+fn Trt Gane F Goa + Gay + Gonp Ramp (410)
+1 1 1
+ip) Taxa + Phat + Pane + Pay) (4 y —) (4m)
+1
+hs Ta (Gin + GadRaay a0)
+1 1 1 1
+fs TitRaan (2 + Get &) (8)
+BW f > fp (4.14)
+
+active intracellular
+
+Gin-band (Aa) ImRrecd (4.15)
+
+Rajseal + Riseat + Rojm
+
+if iia Fran (>10 kHz in figure 8) (4.17)
+ha related to the OpAmp GBW (>10 kHz in figure 8) (4.18)
+BW f<fy (4.19)
+active extracellular
+
+Gin-band InRieed (4.20)
+if GES os Towa (>1kHzin figure 8) (4.21)
+ha related to the OpAmp GBW (>10 kHz in figure 8) (4.22)
+
+BW fy <f < fy (4.23)
+
+
+Rjpoat = 900 MQ Rajeoat = 100 MQ
+Sou Soo fot Joe
+T T TT
+oO? | ! 10-2 be intracellular i
+in-band Do ‘cellular G. :
+Gin-band o—sextracellular Gin band G2
+
+in-band
+
+ee intracellular
+o—o extracellular
+
+approx. range
+of AP spectrum
+I L—
+
+approx. range
+of AP spectrum 108 +
+I i
+
+Fou Soi [3B
+
+T T _ it T T T —
+07 fF Gin-bana Gn-band 10? - : [a
+G, G, :
+
+in-band
+
+in-band ~_:] : ~
+o4b
+
+Ss e—e intracellular
+a |. 5—o extracellular
+
+2/S e— intracellular
+ook oo extracellular
+
+approx. range approx. range : : Ss
+of AP spectrum 108+ ‘ of AP spectrum |: Do
+
+< i n > i n a iy
+: ©
+
+104 10? 1 102 104 104 10? 1 102 104 12
+frequency (Hz) frequency (Hz) [8
+
+os Fb
+
+Figure 8.

@@ -1,0 +1,12 @@
+We will do this next but in more generality. :3
+
+The basic idea for the Laplacian can be generalized and used to get properties on the potentials : =
+associated with local minimizers of a larger family of interaction potentials W without resorting DR
+to the local minimizers themselves. Let us review quickly the main strategy in [78]. The key fact : re
+is that if the repulsive strength at zero of the potential is given by |x|°/b, b=2s —Nwith0<s<1, : s
+then one can show that the potential yy = W « w associated with any d-local minimizer ju is a : 3
+continuous function [78]. This allows us to deduce that for any point xp € supp(2) : SI
+
+W(x) = wW(xo) forall x € Be(xo) (4.10)
+
+holds. Here, ¢ is the size of the ball in dz distance where ju is a local minimizer.

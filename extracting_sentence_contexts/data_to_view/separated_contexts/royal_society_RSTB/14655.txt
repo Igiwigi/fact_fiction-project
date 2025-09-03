@@ -1,0 +1,13 @@
+We estab- variation in the age-ranges over which individuals were sampled,
+lished dominance ranks for all females in a given year using we used a within-individual centring approach to capture
+observed win-loss interactions (as per [64,65]). Rank was changes in indirect connectedness across individuals’ lifespans
+
+assigned as ‘high’ (80% or more of other females dominated), [76]. Briefly, following the methodology of van de Pol & Wright
+
+
+[76], we split our age term into a between-individual effect (calcu- transitivity to account for the fact that density can drive variation | 5 |
+
+lated as the mean age of an individual across all observations; in other global network metrics. We included year as a random
+hereafter called average age) and a within-individual effect (calcu- effect to account for yearly variation that might affect network s
+lated as the deviation of an individual's age from their mean age; structure. For the diameter model, we log-transformed the =
+hereafter called within-individual age).

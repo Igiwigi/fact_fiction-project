@@ -1,0 +1,10 @@
+To manage this problem, we use FabSim3 [10] to generate templates for the various pieces
+of this work, from drawing samples and carrying out the simulations to analysing the
+results. In this paper, we implement a comprehensive UQ calibration workflow and manage an
+ensemble of simulations of a dynamic earthquake rupture. Dynamic earthquake rupture is a
+challenging, multi-scale simulation problem, and due to the fact that earthquakes typically occur
+at around 10 km depth, seismologists can usually only rely on seismic waves at the surface to
+constrain the rupture process. Because of this, we do not completely understand the relevant
+physics for modelling frictional failure [11]. However, while simulations have increasingly been
+used to understand ground motions and seismic hazard [12,13], a full calibration approach like
+the one described in this paper has not to our knowledge been previously conducted.

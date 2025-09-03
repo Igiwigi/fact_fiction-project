@@ -1,0 +1,60 @@
+We let
+p be the unique weak solution in L®([0, T]; LR, (R%)) of the transport equation (1.1) with advecting
+field v and initial data p (note that v has compact support). By a scaling computation (as in §3.2 of [9]) and using remark 2.3 we see that
+2 yy
+VC, Dlweray SDL, VE> 0,
+WwrrcRay S > - >0
+n=1
+where
+d
+y=l-r+—>0. P
+
+But, thanks to the bound (2.5) provided by proposition 2.2, for every n € N, we have
+
+at
+Ve, Allp2,) 2 XP (< - #) Mn, Vt>0,
+n
+where we have set
+Mn = |IVAI12(Q,)-
+
+
+Therefore, using the fact that we will select the cubes Qn to be disjoint, it follows that
+
+< at
+IVC, Dlliaewy 2 Do exp (“) Mn, ¥t>0.
+
+qT
+n=1 ”
+
+We conclude that our task is to determine the location of the disjoint cubes Q,, and choose the
+sequences {A,,} and {t,} in such a way that
+
+oo
+Yo el/™Mn =00, VE>0 (3.2)
+n=1
+
+and
+~O yy
+
+x
+yo + <0, Vy >0. (3.3)
+
+Th
+
+n=1
+
+Step 2. Choice of the cubes. We set f = |vpe Li (R), which clearly entails My = Illi. ): We : 8
+
+set a)
+
+fy) dy, :o
+
+1
+A(x) = —— :
+= 3.0 Joa 3
+
+where we denote by Q,(x) the cube of side-length r > 0 centred at x € 4, and we set [8
+
+D={xeR!: lim A,(x) =f(x)}. :g
+
+By the Lebesgue differentiation theorem, we have |R4 \ D|=0.

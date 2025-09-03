@@ -1,0 +1,9 @@
+We denote by D = De
+the set of complex dimensions of L. In light of the definition of the abscissa of convergence of ¢¢
+(§2a), ¢¢ is holomorphic for Re(s) > D. In fact, it can be shown (using well-known results about
+Dirichlet series, see [22, §VI.2.3]) that ¢¢(s) > +oo as s > D*, s ER. Therefore, {Re(s) > D} is the
+largest open right half-plane (of the form {Re(s) > a}, for some a € R U {+00}) to which ¢¢ can be
+holomorphically continued. (Furthermore, {Re(s) > D} is the largest such half-plane in which the
+series an G is convergent or, equivalently, absolutely convergent; e.g. [22, §VI.3].) It follows, in
+particular, that we must always have D C {Re(s) < D}. If, in addition, ¢¢ can be meromorphically
+extended to an open neighbourhood of D, then Dé D and D=max{Re(s):w € D}.

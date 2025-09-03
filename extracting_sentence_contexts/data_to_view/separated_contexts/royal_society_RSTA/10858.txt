@@ -1,0 +1,33 @@
+The equations to be solved are thus reduced
+to others which are linear and homogeneous in the Jacobians, and which do not
+contain the dependent variables. The equations (4) give two of the Jacobians of u,v linearly in terms of the
+others ; if we substitute for these two in the identity
+
+Xu, v)
+du, v) = z Bats 5) Ua xj),
+
+we find that d(u, v) is a linear combination of the determinants of the matrix of tent
+columns.
+
+* This solution will not be a complete primitive unless a certain number of other arbitrary constants are
+involved as well as a, ), a supposition which is neither made nor excluded. It may be well to point out that the solution here assumed consists of two equations, and not of one
+equation involving an arbitrary function; in fact, any solution whatever necessarily consists of two
+equations, and one point of the present method is that these are to be sought together, not successively.
+
++ For » independent variables the number of columns in the matrix will be 4(n + 1)(n + 2), the
+number of rows being still three,
+
+
+PARTIAL DIFFERENTIAL EQUATIONS. 161
+
+| d(x, x»), A(a,, as), . . » A(x, aj). . . Alay, x5) |
+Ads, At PL | pray Man AY
+Nl pesBiiat hectchas titewc PUPA GA A OAT
+
+There are thus eight biditferential expressions, and the problem is to be solved by
+finding such multiples of these as, when added together, will form a complete
+bidifferential.
+
+§ 12. As in the case of Lacraner’s linear equation, this will generally, in practice,
+be done by inspection, and the method will be useful for finding solutions in finite
+terms—when such exist.

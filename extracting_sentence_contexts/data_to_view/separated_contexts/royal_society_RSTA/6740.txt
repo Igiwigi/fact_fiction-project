@@ -1,0 +1,26 @@
+These polynomials play a fundamental part in the theory, and their pro-
+perties have to be studied in some detail. On expanding the determinant (1-17) with respect to the last row and column we obtain
+the recurrence relation
+
+(8) —(E+An +My) Pn—1(E) + Ann Gna) = 0, (1-18)
+
+which is valid for n> 1 if we define
+$-1() =; o(8) =E+A). (1-19)
+We note that Oi (8) = €7+ (Agta, +m) +g Ay. The roots of $,(&) = 0 will be denoted by
+afr), Cie : ag tans
+so that ,(6) = TL Ea").
+r=0
+
+The existence of the recurrence relation (1:18) enables us to establish a number of facts
+about the a” which will be needed later. Our argument is based on the following:
+
+Lemma 1. Let P,(£) (n = 1,2, 38, ...) be a sequence of polynomials defined by
+
+P(g) = 1, ae =€4 y | (1-20)
+BAG (¢ I Jee eile) b,, ee (3) =) (n= 2,3, ...),] .
+where the a, are real and the b,, are positive numbers such that
+P(0)>0. (1-21)
+
+Then the roots of P,(£) = 0(n>1) are distinct and negative and are separated by the roots of
+
+F,-1(6) = 0.

@@ -1,0 +1,12 @@
+However, it is in fact
+useful for such a stable equilibrium to exist when learning
+is considered as a network phenomenon. Other neurons
+(neuron 1 in our case) already are selective and code for a
+given stimulus. Analogously, neuron 2 might in fact code
+for a different stimulus which is not active at the moment,
+in which case we would like to perturb it as little as possible
+while other neurons ‘learn’ (figure 5/). Similar dynamics can
+be achieved in learning models with strong lateral inhibition
+which completely suppresses neuronal activity and thus
+also associative plasticity. In the present scenario, however,
+this is not the case.

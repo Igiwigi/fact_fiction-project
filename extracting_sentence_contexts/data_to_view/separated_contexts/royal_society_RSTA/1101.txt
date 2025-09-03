@@ -1,0 +1,9 @@
+One
+could argue that methods aimed at only network topology are more useful and precise, but such
+methods neglect the entire dynamical nature of many real networks. On the other hand, certain
+methods give excellent results, but are limited to dynamical systems with specific properties. In
+fact, our method belongs to this category, since it assumes the limit cycle nature of the individual
+units. Furthermore, methods can be divided into invasive ones (that interfere with system’s
+ongoing dynamics) and non-invasive ones (that do not). Again, their real merits are hard to
+compare, since invasive methods, although often non practical, will almost always give better
+results.

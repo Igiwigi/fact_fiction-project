@@ -1,0 +1,12 @@
+Clearly, equation (2.22) leads to a
+spectacular improvement over the bare Fsp(q, t) for q < 2qp, i.e. in the regime where the SSF S(q)
+has not yet reached the single-particle limit of S(q + oo) = 1. This finding constitutes one of the
+central observations of the present work, as it implies that the complicated dynamic behaviour of
+the quantum UEG can be accurately approximated by a phenomenologically simple combination
+of static correlations, which can easily be estimated from equilibrium simulations, with the simple
+Gaussian imaginary-time diffusion of a single particle. In fact, we can show that the t-dependence of the single-particle ITCF, AFsp(q, t), does become
+exact in the limit as t > 0 by numerically evaluating the derivative of Fsp(q, t) with respect to t
+around the origin. The results are shown as the black squares in figure 7 and compared to the exact
+f-sum rule (equation (2.18)), which is depicted by the solid red line via equation (2.17). We find
+perfect agreement between the numerical results obtained from the single-particle ITCF and the
+exact sum rule for all q.

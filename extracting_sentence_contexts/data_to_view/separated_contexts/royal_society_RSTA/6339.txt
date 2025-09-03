@@ -1,0 +1,28 @@
+This aspect provides valuable insights into the convergence properties of the Fourier series
+and, consequently, the function spaces in which a solution exists. By examining the behaviour
+of 4 with respect to high frequencies, we can gain a deeper understanding of the convergence
+behaviour and the appropriate function spaces for the solution. The constants cx, C2, and c3x in
+(3.6) depend uniquely upon the initial data Tin, , Trin,ky Tit,ink and satisfy
+
+Crk + 02k + 03k = Tin, ke
+ALCL K + A2,KC2,k + A3,403,k = Think
+d nu 13 perk +23 p03,k = TH i
+an LkCLK HAD (C2, 3,ko3,k = F tt,in,k-
+
+Consequently, we can derive the following expression:
+
+Trrink — Ask + A24)T rink + A2,443,kTink
+(Ark — A2k)(Are — 23,4) ,
+
+A Trrink — Ask + Aa) rink + A143,kTink
+
+" (Azk = A3,e)(A2,k — A1,k) ,
+
+p= Trrink ~ Aa,k + Aan) Tring + Aa,kh2,kTin ke
+
+. (Ark — A3,)(A3,k — A2,k)
+
+Note here that Aj; 4 Aik holds whenever i 4 j (we will guarantee this fact later on, with the result
+of lemma 3.4), hence the above expressions are well defined. The roots A1,, 42, and A3,, are indeed
+distinct for each value of the frequency k. To estimate the Fourier coefficient T;(t) in terms of the frequencies k € Z, we need to establish
+some related estimates for the roots 41,42, and A3.

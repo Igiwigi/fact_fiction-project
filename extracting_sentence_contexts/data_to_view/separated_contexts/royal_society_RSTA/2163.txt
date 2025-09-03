@@ -1,0 +1,15 @@
+Zagier’s definition above exhibits functions which fail to be modular in such a way that precisely
+offsets their failure to be analytic, and vice versa. We offer the following explicit example of a quantum modular form, deliberately chosen for
+reasons revealed in the next subsection. Let
+
+U(q) = Y(ue(n) = wo(n))q" = Yq: na" | (2.2)
+
+n>1 n=0
+
+be a certain weighted combinatorial generating function for strongly unimodal sequence ranks.
+(Precisely, te/o(1) := #{size-n strongly unimodal sequences with even/odd rank}.) Bryson—Ono-
+Pitman—Rhoades [20] proved that U(x) := e7/12U (e271) is in fact a quantum modular form
+of weight 3/2. Interestingly, the authors showed that / simultaneously exhibits mock modular-
+type transformation properties when viewed as a function on H. Generalizations and extensions
+of these results related to U have since been established, some of which we discuss in §3 (see
+also [3]).

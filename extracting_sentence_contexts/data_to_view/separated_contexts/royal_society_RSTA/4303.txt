@@ -1,0 +1,12 @@
+The eight dinucleotides {AA, CC, GA, GC, GG, TA, TC, TT} of G(Y) have no ingoing edges
+and the eight dinucleotides {AC, AG, AT, CA, CT, CG, GT, TG} of G(Y) have no outgoing edges. (Online version in colour.)
+
+Proof. A proof can be found in appendix B. a
+
+In general, the maximal length of a path in a representing graph G(X) of a code has a relation
+to the error correcting window of the code, i.e. the longest number of nucleotides that have to be
+read in an arbitrary sequence of words from the code X in order to retrieve the correct frame. In
+fact, any path in such a graph yields a sequence of nucleotides that can be read in two frames just
+by concatenating the labels of the vertices of the path. Conversely, any sequence (of words from
+the code) that can be read in two frames yields a path in the associated graph. The exact relation
+is not yet clear and has to be investigated in the future but we would like to present an example.

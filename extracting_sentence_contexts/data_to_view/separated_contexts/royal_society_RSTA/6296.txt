@@ -1,0 +1,17 @@
+In the past few years, multiple studies have suggested that these apparently symbolic
+representations do indeed play a causal role in models’ subsequent predictions, each study using
+a different method to arrive at this conclusion. Early studies showed that it is possible to use
+
+
+linear [51,52] or nonlinear [53] updates to a model’s hidden state in order to manipulate the
+model's representation of grammatical role, e.g. causing it to treat a noun as a verb. More recently,
+[54] developed a procedure for aligning individual activations of a neural network to an explicit
+causal graph, and used it to show that language models’ inferences obey abstract syntactic and
+semantic rules. [55] Presents a related study which intervenes on specific parts of the Transformer
+architecture [56] in order to make counterfactual edits to the model’s encoding of factual
+knowledge (what if Pierre Curie’s area of work is medicine?). They then observe that the model’s
+subsequent inferences (e.g. expectations about Pierre Curie’s professional accomplishments)
+are updated accordingly. Our own recent work has shown that it is possible to locate causal
+subnetworks within a model’s weights which encode concepts such as insideness (for vision
+models) or singular nounness (for language models), and that these subnetworks can often be
+turned on and off with the desired effects [57].

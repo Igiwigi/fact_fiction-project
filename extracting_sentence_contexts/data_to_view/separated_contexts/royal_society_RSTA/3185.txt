@@ -1,0 +1,12 @@
+The
+assumption that this dimension is exactly equal to one is generic for the following reason. We
+append the x direction so that the manifolds W*(x) and W"(x) are n + 1-dimensional manifolds
+in a 2n + 1-dimensional ambient space. Then it is a well-known fact of differential topology that
+
+
+the dimension of a transverse intersection of two manifolds X and Z in the ambient space Y is
+given by
+dim(X N Z) = dim(X) + dim(Z) — dim(Y)
+(cf. [35, p. 30]) which in our case gives
+dim(W9(x) N W"(x)) = (1 + 1) + (n +1) — (2n +1) =1. The even symmetry of g*(x) is a straightforward consequence of hypothesis 5.2 and the spatial
+reversibility of (5.1). Proposition 5.4.

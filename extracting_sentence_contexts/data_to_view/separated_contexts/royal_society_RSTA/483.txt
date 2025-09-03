@@ -1,0 +1,27 @@
+These RHEED oscillations provide an in situ
+
+method of monitoring the progress of the growth of ultrathin films with exquisite precision. Note, 3
+though, that as growth proceeds the oscillations damp in amplitude, attributed to an increased :B
+roughening due to nucleation of new layers on the islands of incomplete layers; the number of s
+
+oscillations clearly visible during growth varies from fewer than 10 to many tens depending on
+the system being studied and the conditions of growth, but a smooth surface can generally be
+restored by annealing, allowing strong oscillations to be recovered in subsequent growth. Note
+that in the growth of III-V compounds, such as GaAs, the MBE technique exploits the fact that the
+sticking factor of the different elemental beams (As2 or As4 and Ga) depends on the composition
+
+of the surface, such that the correct stoichiometry is achieved without having to set the fluxes of : 8
+the two beams to exactly the same arrival rate. In the case of Si MBE, it is possible to use true Dos
+molecular beams, most notably exploiting the pyrolysis of silane (SiH4) or disilane (SizHg) at the :=
+surface, although it is now more common to use vacuum evaporation of solid silicon such that : Sy
+the ‘molecular’ beam is actually atomic Si. 2
+
+The second important development has been the increasing use of computational modelling aed
+of crystal growth using Monte Carlo methods, a possibility that did not exist at the time of 22
+BCF due to the lack of suitable computational resources. Such calculations are very intensive : Ss
+users of computer time, but the huge increases in available computational power that have DNS
+occurred in the last few decades make it possible to perform such calculations on larger and : =
+larger model systems (increasingly large numbers of atoms or molecules), and to vary the :&
+
+model parameters to understand the dependence of the kinetics and resulting crystal shapes
+as a function of temperature, supersaturation and binding energy.

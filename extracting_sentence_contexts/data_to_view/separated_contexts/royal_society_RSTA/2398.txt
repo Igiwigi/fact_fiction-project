@@ -1,0 +1,10 @@
+To allow for such a stable period-1 carrier waveform, the band-pass character for h(t)
+is necessary (stable period-1 pattern have been analysed e.g. in [77]), since the low-pass one is
+known to lead to unstable period-1 pattern, as was reported in [25] about the ‘coarsening’ of any
+forced initial pattern in the virtual spatial domain. Last but not least, one could also mention
+that with a fixed t,, the impulse response with ty (band-pass) necessarily exhibits a broader
+width than without the presence of ty (low-pass). This remark is in line with the known fact that
+chimera states are favoured when the coupling range is extended (i.e. beyond the classical case of
+nearest-neighbour coupling only, which does not allow for chimera states). There are also specific requirements on the nonlinear coupling function F(x) for obtaining
+chimera solutions. This is illustrated in figure 9, where both the nonlinear function profile is
+represented, and next to it, with the same vertical scaling, the temporal chimera waveform.

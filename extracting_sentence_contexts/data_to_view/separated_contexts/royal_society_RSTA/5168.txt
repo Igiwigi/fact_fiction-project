@@ -1,0 +1,27 @@
+As pointed out by Simpson et al.
+[13, §3.3], there is too much competition for water vapour in the Abdul-Razzak et al. scheme
+
+
+-e 20 nm
+
++ 30nm
+—e- 45 nm
+3) a 95 nm
+—A- 200 nm
+500 nm
+1000 nm|
+1 0.4 Seee? Spay 0.4
+10-4 10-1? 10"! 10-8 10-6 10" 10-4 10"! 10"! 10-8 10° 10 10-?_ 110? 104 108 108 10!
+total NaCl m-r. (kg kg“) total NaCl mr. (kg ke!) total NaCl cone. (em™)
+Figure 3. Results from different cloud droplet activation parametrizations. (a—c) The Abdul-Razzak et al. scheme; (d—f) the [Nn
+Fountoukis and Nenes scheme. (a,d) The number of activated drops versus the mass mixing ratio of NaCl particles; (b,e) the 8
+albedo versus the mass mixing ratio of NaCI particles; (c,f) the albedo versus the number concentration of added NaCI particles. [3
+pana
+Oo
+
+because it assumes the aerosol particles start at their equilibrium size during the activation
+process, when in fact they need a finite time to grow to these sizes. The converse is true for the Fountoukis and Nenes scheme, which overpredicts the number
+of activated drops (cf. figures 1a and 3d); however, the Fountoukis and Nenes scheme still
+underestimates the albedo because it does not consider the effect of swollen aerosol on the cloud
+radiative properties (cf. figures 1b and 3e). This finding has been discussed by Simpson ef al.
+[13, §3.3].

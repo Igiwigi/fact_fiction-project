@@ -1,0 +1,11 @@
+The development of the theory of divergent series is an interesting instance
+of the progress of mathematical thought. The beginning was purely arithmetic: to
+find some approximation to the value of 7!, where n is a very large integer.* In the
+result it appeared that the value of log 7! could be more and more nearly calculated by
+
+adding on successive terms of a series proceeding by powers of = The error is of the
+a
+
+order of magnitude of the term of the series next after the one at which we stop. And, most important fact of all, the series is divergent. If n! be replaced by T(x + 1), a similar result can be obtained, which holds for all
+real positive values of 7. Finally, there comes the enquiry as to what meaning, if any, can be attached to the
+equality in the case in which 7 is any complex quantity.

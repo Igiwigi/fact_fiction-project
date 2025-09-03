@@ -1,0 +1,20 @@
+Of the two interlacing nets in
+figure 22, the first (shown in full lines) has four nodal
+points in the quadrant for which residual forces have
+to be liquidated by a use of the standard ‘pattern’,
+the second (shown in broken lines) has two. These
+points are indicated by full and open circles re-
+spectively: the remainder are too near the boundary
+to permit relaxation. On both nets liquidation is easy, and could be
+made complete if this were thought worth while: in
+fact it is not worth while until the ‘selvedge values’
+(§22) have been amended, so on these coarse nets
+the work was done in short stages during which,
+alternately, interior points were relaxed in ac-
+cordance with the standard pattern, ‘selvedge
+points’ in the light of rough plottings as described
+in §§ 20-2. Figure 22 records the accepted values, €——
+multiplied by 104 in order to obviate decimals. Figure 23a records accepted values of y at nodal
+points of a finer net comprising both of the inter-
+lacing nets of figure 22, and figure 234 records values for a net which similarly in-
+terlaces the net of figure 23a.

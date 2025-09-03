@@ -1,0 +1,14 @@
+The that each module performs its own independent estimation of
+best performing random systems include more small-scale location (e.g. each receiving independent movement and/or
+grid modules than the poorly performing systems, which location-related signals). This type of spatial noise or uncer-
+are dominated by larger scale grids, and so somewhat tainty will cause shifts in the relative locations represented by
+resemble the geometric series of scales. This reflects the fact different modules, with potentially strong implications for
+that, on the 18 m track with 100 grids per module, ambiguity ambiguity errors. Following the experimental observation of
+errors are unlikely to occur, and so the maximum decoding grid scale expansion in novel environments [13], we examined
+accuracy is obtained by minimizing precision errors—hence whether a uniform expansion of all grid scales might be an opti-
+small grid scales are favoured. mal response to spatial uncertainty in terms of reducing the
+Figure 3i provides an indication of the actual capacity of the decoding error.
+grid system and how this compares to the 18 m track used in the Spatial uncertainty was simulated by adding random off-
+previous simulations. Specifically, decoding error of a geo- sets in the locations represented by different grid modules,
+metric system with scale ratio 1.4 and 100 grids per module is and all grid scales were multiplied by a single expansion
+examined on tracks of increasing length.

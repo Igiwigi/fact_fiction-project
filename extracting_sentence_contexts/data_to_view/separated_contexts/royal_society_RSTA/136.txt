@@ -1,0 +1,7 @@
+Key and L. Massoulié
+
+maximizing the schedulable region, and minimizing network cost. In fact, some
+current P2P applications already implement variants of these controllers. Such
+controllers can work with current TCP; however, the RTT bias inherent in TCP
+can lead to network inefficiencies. The use of flexible routing combined with smart congestion controllers can
+overcome many of the current architectural limitations of the current Internet.

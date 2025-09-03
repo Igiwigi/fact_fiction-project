@@ -1,0 +1,11 @@
+Sy
+
+The main type of steady solution which describes the rotor blade behaviour in the conventional a
+forward flight operating envelope is a periodic orbit (limit cycle solutions). Conventionally, aed
+helicopter rotor models have a constant rotor speed and are written in the non-autonomous 22
+form, in that the independent variable t appears explicitly in the equations. In fact, the blade : Ss
+azimuth angle w is a non-dimensional form of the time variable t. Unlike in helicopters, the rotor : s
+in forward autorotation has a variable rotational speed. Hence the rotor is not forced to rotate at : s
+a fixed frequency and the blade azimuthal angle y would then need to be modelled as a state 23
+
+variable.

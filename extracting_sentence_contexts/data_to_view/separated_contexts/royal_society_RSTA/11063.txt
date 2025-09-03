@@ -1,0 +1,26 @@
+Then, since
+the d’s are all positive, their sum is an absolutely convergent series; therefore the
+same is true when the content of each d, is multiplied by a quantity f, which, for all
+values of 7, lies between finite upper and lower limits, say between +M, as is the case
+in forming our summations.*
+
+If we consider » of these intervals in order d,, d,... d,, these leave over a finite
+number of complementary intervals, say d’;, d’,...d’,,, and we can so choose 7 that
+
+the sum of these latter intervals d’, is less than , while the contribution to our
+
+ae
+2M
+summation over the remaining intervals d,,,, d,,»... is numerically less than $e. If now we form the summation in RreMann’s way over the finite number of
+intervals d,, d,... d,, d';, d’,... d’,, and compare it with the corresponding summation
+over the set of intervals d,, d.... ad inf:, we see that the difference between the two
+summations is less than e. Since ¢ is at our disposal, and we can insure that both
+the intervals d, and d’, are less than any assigned norm, this proves the statement
+embodied again in the following theorem :—
+
+* I take this first opportunity of emphasising the fact that, though it is convenient, indeed necessary,
+in forming the sum of an infinite number of terms to arrange them in some sort of order, in doing so here
+we do not introduce the idea of order into the concept of integration. Indeed, from the definitions it is
+evident that the concept of integration no more of itself involves the idea of order than do the concepts of
+length, area, and volume. ‘The distinction of the two notions has, perhaps, not always been present to
+the miud of some writers. DR.

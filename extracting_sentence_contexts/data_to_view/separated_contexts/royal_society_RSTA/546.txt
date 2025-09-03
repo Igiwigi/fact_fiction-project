@@ -1,0 +1,9 @@
+If the residual errors are too high, another updating loop is
+performed, using a different set of initial conditions. The measured data are usually displayed in the form of FRFs, while—at the present time—
+the evaluation of the system is generally performed in a time-domain framework. Time-domain
+simulations are generally very slow due to the small time steps involved and the fact that they
+must evaluate through all the transient information to get to a steady state. This scales poorly
+with the dimension of the system and results in a difficult correlation process, requiring extensive
+resources and post-processing effort in order to trim the transients and cast numerical data in
+the same domain as experimental data. This heavy post-processing adds to the evaluation time,
+rendering the updating process unacceptably slow.

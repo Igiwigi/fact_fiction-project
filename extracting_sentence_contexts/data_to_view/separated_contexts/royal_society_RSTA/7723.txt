@@ -1,0 +1,11 @@
+Apacs
+
+each factor being a coefficient of the form, and the two suffices of the coefficient
+are its second and third weights. For gradient types we name the coefficients further, say, with a prefix, to define
+which of the 5 quantics has supplied the particular coefficients. For a single
+quantic, this fact is substitutionally expressed by the operator {,A ,A ... ;A}, the
+suffices not being here expressed as the prefixes alone are permuted. Tor binary
+forms, where there is only one suffix, the fact is equally well and more conveniently
+expressed by a permutation of the suffices. In ternary forms where there are two
+suffixes the permutation (,A ,A) is expressed by the compound permutation (p, p,) (4, q,)
+of the suffixes.

@@ -1,0 +1,27 @@
+More specifically, a raiding focal 2
+assume that individuals within groups interact in a way group with an average level of offensive bravery bo is 2
+that can be characterized by the average trait within groups assumed to win the contest against a raided group with =
+(see §2b for details), we do not need to specify the traits of an average level of defensive bravery d with probability =
+each individual in the focal group but rather summarize
+this by 2 =(4o, bo, do, ho), which collects the averages v(bo, d) = —__08(Nbo) (2.3)
+of each trait among all adults of the focal group (thus includ- eg (Nbo) + (1 — #)g(Nd)
+ing the focal individual). Finally, since mutations are rare where g is a positive, increasing function of its argument =>
+with small effects on the phenotype, variation among indi- (g(y) > 0, g’(y) > 0). The parameter 0<@<1 allows us to =
+viduals in the rest of the population will typically be small. tune the advantage of being offensive relative to being defen-
+We can in fact ignore the variation among- and within- sive (e.g. in the extreme case =0, attackers always lose =
+groups other than in the focal group [41], and in effect whereas they always win when = 1). Note that by symmetry =
+consider that the rest of the population is monomorphic for of equation (2.3), v(b, do) gives the probability that a focal a
+the population average, which we denote by z= (a, b, d, h). group with an average level of defensive bravery do loses a =
+In the next section, we specify under these assumptions contest when it is attacked by another group with 8
+how the evolving traits influence common-pool production an average level of offensive bravery b. In the context of con-
+within groups and raiding between groups (stages (1)-(2) flict, equation (2.3) is typically referred to as a ‘contest success SI
+stage of the life cycle in §2a), and in turn how this affects function’, in which the choice of the function g allows us to y
+individual reproduction. model different qualitative types of conflicts [8,10,11,42]. =
+RR
+
+(b) Helping, belligerence and bravery: costs and (iv) Resource distribution and fighting costs
+
+benefits If the attacking group wins the contest, it appropriates all the
+
+. . collectively produced resources of the raided group (which
+(i) Common-pool production thus loses all its collective resources).

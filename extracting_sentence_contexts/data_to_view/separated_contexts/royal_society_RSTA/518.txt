@@ -1,0 +1,14 @@
+Further research is required to understand the relationship between
+different possible decompositions.
+
+(c) Future of heterotic computing
+
+All of our examples in §4 consist of a substrate with interesting computational potential combined
+with a classical control layer provided by a conventional digital computer. One potential
+exception is in quantum computing with ancilla-mediated quantum gates (§7), although there
+are classical controls of one form or another required for most versions of this model. In fact, it is
+not clear that quantum computing without any classical component is possible if ‘whole system’
+analysis is performed. Stepney et al. [38] have proposed a heterotic system combining optical, bacterial and chemical
+computing as a proof-of-concept exploration of the very different time scales in these systems,
+but with direct interfaces that do not require a classical computer to mediate. As we have sought to demonstrate with our examples and discussion, most of our current
+computing is in fact heterotic.

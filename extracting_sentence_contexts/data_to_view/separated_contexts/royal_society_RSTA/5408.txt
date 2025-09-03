@@ -1,0 +1,9 @@
+The massive data size is due to several factors. First of all,
+simulations require cellular decompositions, instead of more compact boundary
+representations. This fact alone accounts for one order of magnitude increase in
+model size. Also, the common factoring of repeated substructures, exploited to a
+great extent by large-scale hierarchical models in computer graphics, cannot be
+benefited from when dealing with large deformations, thus producing an increase of
+several orders of magnitude in the model size. Finally, consider the sheer number
+and complexity of components: there are thousands of atoms in a protein, several
+thousand proteins in a cell, and so on.

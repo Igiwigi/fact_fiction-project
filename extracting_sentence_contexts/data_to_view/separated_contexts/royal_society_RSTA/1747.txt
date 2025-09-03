@@ -1,0 +1,8 @@
+Details of the optimal simulation for all capsule
+sizes and both pulse sequences are given in table 1. The increase in gain between the optimal
+3-pulse and 4-pulse sequence for each capsule size ranged between 42% and 360%. The variance
+in this increase is likely due to the fact that the relationship between input energy and gain varies
+with adiabat. Ignition will occur at lower energies for lower adiabats, and so energies near the
+ignition threshold will see a larger increase in gain between the two pulse sequences (such as that
+observed at 4.2 MJ). It is clear from table 1 that high gain can be achieved in this regime over a range of energy
+scales, despite the stringent restrictions discussed in §2.

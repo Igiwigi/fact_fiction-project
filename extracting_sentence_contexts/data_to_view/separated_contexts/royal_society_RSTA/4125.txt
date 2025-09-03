@@ -1,0 +1,6 @@
+The Berry phase for a cyclically evolving pure state equals half of the solid angle enclosed
+by the curve traced out by the state’s Bloch vector on the Bloch sphere. Using this observation,
+it is fairly easy to calculate the interferometric phase for cyclically evolving qubits, provided
+they do not pass the maximally mixed state. In fact, we believe that the parallelism condition
+in equation (5.2) cannot be extended to include all curves that pass through the maximally mixed
+state. However, this is still under investigation. Figure 6.

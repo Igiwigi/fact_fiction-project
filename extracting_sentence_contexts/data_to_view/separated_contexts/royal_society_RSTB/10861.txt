@@ -1,0 +1,17 @@
+Also, Gorbunova et al. [16,36] have extensively studied
+the inverse association between telomerase activity and body
+mass in rodents, highlighting the fact that telomerase suppres-
+sion might have evolved as a tumour suppressor mechanism in
+larger species. The novelty in our model rests in the formal inte-
+gration of the trade-offs of TL (cancer versus senescence) into a
+fitness model that also takes into account the variability in mor-
+tality and cancer risk due to body size. By taking advantage of
+the fact that tumour suppressor mechanisms can be integrated
+into the Armitage—Doll equation of cancer risk, we offer a
+simple mathematical solution that tailors cancer risk by TL. The equations we develop here allow us to model fitness
+
+
+based on TL across a broad size-range of species, from a 2 g Fourth, we assume that the variables explored here relate to 6 |
+
+shrew to an elephant more than six orders of magnitude one another as determined by a specific set of parameter
+larger. Given this tremendous range of size across mammals, values.

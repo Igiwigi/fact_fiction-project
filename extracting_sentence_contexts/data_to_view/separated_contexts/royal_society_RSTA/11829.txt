@@ -1,0 +1,29 @@
+Digression on the General Theory of Determinants. Art. 51. The foregoing investigation has established the fact that the co-axial
+minors, of a general determinant of Order m, are connected by 2" — n? +n — 2
+relations, or in other words, that but n? — n + 1 of them ean assume given values. Of these relations a certain number are connected in a special manner with the
+determinant of Order n, in that they are not relations merely between the coaxial
+minors of one of the principal coaxial minors of the determinant. Let this number be
+
+Ww (),
+and put
+
+*— a + n—2= $(n)
+Then )
+
+#(0) = (0) + (7) vm — 1) + (3) b(n —2) +. cok (ye:
+
+
+GENERATING FUNCTIONS IN THE THEORY OF NUMBERS. 147
+
+whence
+W (4) = $ (4) =2,
+and
+
+H(n) = $(n) = (1) 6 (a= 1) + (3) 6) —... (HH "bs
+
+and, by summation, we obtain the result
+
+w(n) = 1+(— 1)"; (n# 2)
+shewing that
+(2m) = 2. (m> 1)
+w (2m 4+ 1) = 0.

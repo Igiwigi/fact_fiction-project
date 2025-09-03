@@ -1,0 +1,4 @@
+For a semiflow g=(y;)1+0 on X, we define the corresponding Koopman
+semigroup Ty = (Ty(#))1>0 on Cp(X) by Ty(t)f =f © yt for f ¢ Cp(X) and t > 0. It is evident that each T,(f) is a linear operator on C,(X), Ty(s + t) = Ty(s)T y(t) holds for all
+s,t>0, and Ty(0) = Ide, x). Thus, Jy is in fact a semigroup of linear operators. We now study its
+continuity properties and therefore have to consider a suitable topology on Cp(X). Clearly, C,(X) is a Banach space with respect to the supremum norm || - ||oo.

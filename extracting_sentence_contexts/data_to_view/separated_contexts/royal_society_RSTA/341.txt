@@ -1,0 +1,3 @@
+Computing squares is of course intimately related to computing correlations of squares. The matrix H describes the dependencies of the linear components w/ x. In fact, the nonlinear
+components Yi hij (w) x)? take the place of the estimated maximally independent components
+here. We can thus think of this model as a nonlinear version of ICA as well. The function Z in (6.4) is the normalization constant or partition function of the model.

@@ -1,0 +1,21 @@
+Even-
+tually, however, all the bees that forage outside of the colony
+switch to feeding on complex flowers.
+
+(c) Colony size
+
+Everything else being equal, the total number of bees in the
+colony does not affect the timing of the transition to foraging
+on complex flowers (figure 3). This reflects that, in the model,
+we explicitly took into account a balance between two oppos-
+ing processes: larger colonies have more workers that are
+available to visit complex flowers, but also need more food
+to maintain a positive energy budget (favouring visits to
+simple flowers). This is also due to the fact that the model
+is linear, which means that potential interactions between
+bees are explicitly not considered. With the default parameter
+values, the model predicts all bees in the colony to shift to
+complex flowers at time step 22, regardless of colony size. For small colonies, the model predicts the bees’ optimal pro-
+portions of foraging time on simple and complex flowers,
+rather than the optimal number of foragers on each flower
+type.

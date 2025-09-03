@@ -1,0 +1,15 @@
+A Bonferroni pairwise comparison showed no Note that the bias in perceived peak depth appeared a
+significant effects between any smoothness values on the little lower here than that found in experiment 1 (compare
+observed thresholds (p > 0.1). figures 3b with 4b and 4c). We did use different observers
+
+These results are rather surprising, there are many here, so this effect could be due to individual differences.
+elements in the central area of the stimulus that are located However, the object presented here had only one pair of
+at the peak disparity. The fact that the visual system cannot smooth edges, so the smaller bias might suggest that the
+correctly compare the peak depths of the two objects range of presented disparities is influencing perceived peak
+indicates that it is unable to obtain the peak depth of the depth. In §3c, we implemented a model inspired by this
+object independently from its overall shape. The effect is possibility.
+notable because it takes place over such large length scales Thresholds for this experiment showed variation between
+(over 80 arcmin). participants, but for all smoothness coefficients and both con-
+
+There are two reasons why perceived peak depth might ditions, the thresholds did not vary significantly (repeated-
+be smaller for the smooth-edged object: (i) disparity is aver- measures ANOVA, F;3 = 0.001, p = 0.975).

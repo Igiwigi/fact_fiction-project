@@ -1,0 +1,10 @@
+This choice introduces non-zero elements in the residuals [8
+covariance matrix, (2”);j =(2");i #0, and limits us from using (2.9) to solve the disconnected [3
+model. As done before, we neglect the newly introduced off-diagonal elements and solve the
+model using (2.9) anyway, using (2.7) to evaluate the covariance matrix and then discarding
+the off-diagonal elements. This procedure is justified by the fact that, in this way, we can
+quantify instantaneous causality as the error in prediction we commit when neglecting one of
+the instantaneous couplings. Note that our procedure can be carried out in multivariate systems
+and the corresponding instantaneous causality measure can be conditioned on the other variables
+in the system. We denote the time domain instantaneous causality measure we get from (2.4)
+as Fx;-xjlxi,1 and the frequency domain one as f;;.x; xis) (w).

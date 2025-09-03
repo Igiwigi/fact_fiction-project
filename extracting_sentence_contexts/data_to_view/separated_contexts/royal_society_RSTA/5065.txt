@@ -1,0 +1,19 @@
+The
+total generalized external load vector ({Qext(t)}) on the right-hand side of (2.6) is expressed as
+
+{Qext(t)} = {QL()} + {Qw()} + {Qo(H}. (2.8)
+
+3. Combined active tendon and pitch control
+
+(a) Conventional active pitch control
+
+Pitch control is the most widely used method to regulate the mechanical power generated in wind
+turbines [34]. In fact, commercially available wind turbines are nowadays equipped with pitch
+control systems to enhance the efficiency of wind energy conversion and to improve the safety of
+the plant in case of high wind speeds or emergency situations [35]. Active pitch control is achieved
+by rotating each blade about its axis by means of hydraulic or electric actuators appropriately
+located inside the wind turbine structure, depending upon the configuration of the active pitch
+control system (collective pitch control or individual pitch control). Below rated wind speed, there
+is generally no need to vary the pitch angle, since the wind turbine should produce as much
+power as possible, though some optimization of energy capture below rated wind speed is also
+possible [36].

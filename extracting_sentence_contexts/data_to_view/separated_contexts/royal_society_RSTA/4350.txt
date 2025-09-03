@@ -1,0 +1,20 @@
+In order to increase the per-fibre capacity, we need to be able to increase
+each of these factors, either individually or preferably in combination.
+
+(a) Increasing the optical bandwidth
+
+In terms of B, this essentially means developing combinations of optical amplifier and
+transmission fibre offering increased net bandwidth. In figure 2, we plot the transmission
+bandwidth of silica fibre along with an indication of the approximate usable gain bandwidths
+associated with the various rare earth ions that have been shown to provide good optical amplifier
+performance, and practical device implementations, when incorporated in a silica-based glass
+host. Several things can be taken from this figure: firstly, it confirms the fact that it is the
+bandwidth of the EDFA (approx. 10 THz for the C + L bands) that defines the effective bandwidth
+constraint for current SSMF technology rather than the intrinsic spectral loss profile of SSMF
+itself, which can in principle support reasonable transmission (loss less than 0.4dBkm~') from
+wavelengths just below 1300 nm out to around 1700 nm (corresponding to a potential bandwidth
+of more than 50 THz). In fact, in practice, current commercial systems only use C-band EDFAs
+and thus exploit only approximately 5THz of the available SSMF bandwidth. There currently
+appears to be little interest among operators to use the L-band, although this may well change
+as the economics of building networks evolves as this provides a relatively ready route to an
+additional approximately 3 dB capacity for many existing installed links.

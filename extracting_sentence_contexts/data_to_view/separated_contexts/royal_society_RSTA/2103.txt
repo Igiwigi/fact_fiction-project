@@ -1,0 +1,10 @@
+We consider first diffusively coupled homogeneous fields of oscillators with sufficient spatial
+extension described typically with reaction-diffusion equation X = F(X) + DV?X, where X is
+now a function of spatial coordinate r and time t, and D is a matrix of diffusion coefficients. Mathematically, how to do reduction for such systems may seem desperately difficult as
+
+
+compared with the reduction of a single oscillator. This difficulty could be imagined, e.g. from the
+fact that we do not have a clear concept of infinite-dimensional centre manifold. Incidentally, the
+naming ‘centre-manifold reduction’ commonly used may therefore be inappropriate for many-
+oscillator problems. Instead, we sometimes used the term ‘reductive perturbation’ in the past,
+although this term will not be used in this article.

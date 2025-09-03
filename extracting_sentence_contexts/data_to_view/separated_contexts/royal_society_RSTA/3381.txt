@@ -1,0 +1,7 @@
+In [18], both
+entropies were considered, but only for two specific site-basis vectors, the Néel state and the
+domain wall state. Here, we average the results over 50 different site-basis vectors and also over
+20 realizations of random border defects, so the curves are smoother. The fact that both entropies lead to very similar behaviours suggests that any of the two can
+be equivalently used to study non-equilibrium quantum dynamics. In this context, entanglement Dos
+does not appear to be an essential property [67,75]. The advantage of the Shannon entropy is to =
+be computationally less expensive, because it does not require the partial trace of the system.

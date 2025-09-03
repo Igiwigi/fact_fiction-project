@@ -1,0 +1,9 @@
+Despite a proliferation in papers describing representational models to address the optimal
+operation of power storage facilities in the engineering literature, summaries can be found in [5]
+or [6], there has been relatively little interest in the contemporary economics literature. There is
+a larger body of economic and financial research investigating gas storage, such as [7-12]. An
+explanation for the imbalance in research into gas storage and electricity storage could lie in
+the fact that electricity prices, unlike gas prices, are typically regarded as exhibiting jumps [13]
+and the mathematical theory of the control of jump diffusions is still immature. Jumps in the
+electricity price can be explained as occurring when the load crosses one of the discontinuities in
+the, so-called, merit order curve (MOC). The MOC, or ‘stack’, is a mapping of load to price.

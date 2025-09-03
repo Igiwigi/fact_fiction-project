@@ -1,0 +1,15 @@
+Hence, the Kochen-Specker theorem is
+equivalent to the fact that the spectral presheaf, our quantum state space, has no points. This
+was first observed by Isham & Butterfield [5] and, for the case of the von Neumann algebra B(H),
+by Isham et al. [6]. Mathematically, the fact that © has no points is an expression of its character as a non-
+commutative space. Physically, we see that the lack of points is equivalent to one of the key
+theorems in foundations of quantum theory, the Kochen-Specker theorem.
+
+(b) Previous results on the spectral presheaf as a quantum state space
+
+The interpretation of the spectral presheaf ¥ as a quantum state space is supported by a number
+of further results:
+
+— In classical physics, propositions about the physical world are represented by (Borel)
+subsets of the state space S, and the Borel subsets form a o-complete Boolean algebra. In [8], it was shown that there is a distinguished family of subpresheaves (the presheaf
+analogues of subsets of a set) of the spectral presheaf 2, called clopen subobjects.?

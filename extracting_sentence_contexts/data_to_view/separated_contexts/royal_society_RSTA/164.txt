@@ -1,0 +1,14 @@
+The effort required to convert a program
+is minimal, and the process is well-documented. Since the geometry and resulting
+rasters are generated separately on each node, VR JUGGLER has the advantage of
+greatly reducing network traffic, compared with Curomium. In fact, the minimum
+traffic required with VR JUGGLER is of the order of hundreds of bytes per frame,
+which is unproblematic.
+
+4. Application: histology image viewer
+
+An OpenGL image viewer was created, which can load an image and render it on
+the wall using VR Juccier. Application of compressed textures was also explored
+as a way of reducing memory usage of the graphics cards, although this either
+places a burden on the graphics cards at run-time (causing stuttering) or requires
+a pre-processing step.

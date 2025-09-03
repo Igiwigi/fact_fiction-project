@@ -1,0 +1,17 @@
+The text provides to body or create a new if the inherited controller is =
+numerous examples of how intelligence might arise as a unsuitable. R
+result of the interplay of morphology, materials, interaction 3
+with the environment and control. . . ~
+(c) If it evolves it needs to learn s
+Eiben et al. proposed an evolutionary framework for robotic =
+(b) Co-evolution of morphology and control evolution called the Triangle of Life (TOL) [20]. The three =
+For the evolutionary roboticist, this clearly points to the fact sides of the triangle represent three phases: (i) morphogenesis ~
+that to properly exploit the power of evolution to discover in which the body of a robot is created® from the specification
+appropriate robots for a given task, one must consider the denoted on a genome; (ii) learning in which the new robot
+co-evolution of body and control, rather than use EAs to undergoes training to improve its inherited controller, per-
+either search for controllers for fixed (hand-designed) body- haps following a syllabus of increasingly complex skills in a
+plans [15] or vice-versa, optimize morphology only. This restricted or simplified environment; and (iii) life, i. the
+has the obvious advantage of allowing evolution to discover robot is released into the intended real environment and its
+for itself the appropriate balance between morphological and fitness is measured as its ability to accomplish a task. Deviat-
+neural complexity in response to the particular environment ing from much of the previous work in ER, the TOL adds a
+and task under consideration.

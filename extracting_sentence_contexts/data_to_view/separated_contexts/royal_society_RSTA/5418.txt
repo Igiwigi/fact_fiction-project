@@ -1,0 +1,10 @@
+One can interpret DxL (p,q) as a measure of the : 4
+amount of information lost by approximating p using q. The relative entropy is often used to : 2
+define a ‘distance’ between two distributions, although it is not strictly a metric since it does not : Ss
+satisfy the triangle inequality, DxL (p,q) < Dk(p,r) + DxL(r,q), and is not in general symmetric, : iS
+ares)
+
+Dx(p, 9) # Dxi(q,p). However, when the transformation T, maps D onto itself, so that D=D,
+equation (2.1) is in fact symmetric in and Tap. In practice, since we apply this measure to images, we use pixel intensities as a choice for the
+function jz, making sure that only positive numbers are included in our pixel intensity scale. The
+transformations of interest do not typically map an image entirely onto itself.

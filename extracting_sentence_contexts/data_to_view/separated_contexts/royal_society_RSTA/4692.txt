@@ -1,0 +1,36 @@
+Distorting the original city in (a) on a computer by software, e.g. PHorosHop, leads to an apparently
+inhomogeneous and anisotropic distribution of car velocities in (6). The trick of transformation optics is to turn this fictitious
+velocity distribution into a real one by introducing a corresponding material distribution. Adapted from [3]. (Online version
+in colour.)
+
+material parameter a =a(r) has to be replaced by a generally inhomogeneous and anisotropic
+
+‘o!
+material parameter distribution, ie. by a tensor a which can be derived from the coordinate
+
+transformation via
+© e«6T ]}
+
+a’ =JaJ = (1.3)
+det(J )
+
+with the elements of the Jacobi matrix J given by
+
+Ji= a (1.4)
+
+
+electromagnetism mechanics thermodynamics
+
+electrostatics fluid mechanics particle diffusion
+
+V-€V)=0 V-(pV®)=0 V-(DVn)=0
+
+magnetostatics | linear elasticity heat conduction
+
+V-Vo=0 V-(C¥u)=0  V-(kKVT)=0
+
+electric conduction
+
+V:- (o V6) =0
+
+Figure 2. Differential equations derived from conservation laws in electromagnetism, mechanics and thermodynamics.

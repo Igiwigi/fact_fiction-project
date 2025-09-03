@@ -1,0 +1,14 @@
+Under this model, it was estimated that O(2" N log N) such
+qualitative states, or O(2* N? log N) observed edge directions, are needed before
+he minimal explanation is the correct one. The main difference compared with
+uniform random sampling is the N? log N-dependence of the number of edges
+needed, as opposed to N log N. In fact, there is a continuous spectrum between
+hese two opposites. If data come from a series of qualitative states, where each
+is generated from the last by resetting the states of d of the N species, then
+O(2*(N?/d) log N) edges are needed in expectation. In summary, then, under
+hese simple random-process models of data generation, the expected amount of
+data needed scales approximately as 2“, as suggested by the lower-bound, and as
+something between N log N and N? log N, depending on how similar successive
+samples are in the Hamming distance sense.
+
+5.

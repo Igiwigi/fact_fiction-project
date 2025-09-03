@@ -1,0 +1,37 @@
+The geographic distribution of samples is
+encapsulate the diversity of dispersal dynamics possible—a uneven, with areas with limited or no coverage contrasted
+point thoroughly discussed by Steele [26] but largely forgot- by areas with high-density clusters of dates (figure 1). The
+ten by archaeologists since. Examples include the addition of: differential impact of recent research projects and diverging
+the Allee effect, which takes into account that the low den- sampling strategies is particularly noticeable, with some
+sities of a population at the wavefront increases its risk of studies focusing on extensive sampling of individual sites
+extinction; a greater length of time between birth and disper- in order to achieve local high chronological resolution (e.g.
+sal (e.g. [27]); environmental heterogeneity in space and/or [32]) and others maximizing geographical coverage by seek-
+time (e.g. [28]); or advection, i.e. the fact that movement is ing more restricted numbers of dates across a larger
+
+made along preferential rather than random directions number of sites (e.g. [33]).
+
+
+no help to identify these processes as such, it provides | 3 |
+robust foundations for further modelling and thus we perform
+
+this analysis before proceeding any further. <
+
+If the exponential growth model proves to be a bad fitto =
+the empirical data, we formally and independently identify =
+inflections in the mean of the summed density using a Ss
+change-point analysis, a technique routinely used for time = =
+series such as climate variation (e.g. [41]). This is done S
+because, rather than immediately repeat the statistical signifi- ©
+cance test with more complex models (which, it must be =
+
+stressed, will always yield a result, regardless of whether or = 5
+not it makes sense to do so) we want to independently =
+verify whether the long-term trend in the SPD time series = >
+can justifiably be described with more complex models as
+
+opposed to, for example, when short-time scale wiggles on =
+top of an exponentially increasing background are present. — 5'
+100 200 300m . . : It is also useful to understand how complex a model one | >
+4 ¥ should aim for, and therefore, it is a useful tool to avoid =
+7 . model overfitting. Change-point analysis of the mean of the = &
+Figure 1.

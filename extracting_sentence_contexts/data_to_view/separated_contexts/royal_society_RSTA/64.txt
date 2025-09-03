@@ -1,0 +1,9 @@
+Consequently, it
+
+
+Figure 7. Slippage between yarns of textile reinforcements: (a) glass plain weave prismatic preform, (6) thermoplastic prepreg :s
+and (c) carbon twill fabric. (Online version in colour.) 1S
+
+is not possible to use meshes as fine as in analyses carried out on one or a few unit cells. In fact, to be able to simulate the forming of the whole part, the finite-element model of a woven
+cell has to be simple enough while describing the main phenomena at the mesoscopic scale. Different approaches are developed for the purpose of the simulation of the deformation of a
+whole preform with meso finite-element models [58-60]. In this work, each woven unit cell is modelled as a set of shell elements as shown in figure 8a.

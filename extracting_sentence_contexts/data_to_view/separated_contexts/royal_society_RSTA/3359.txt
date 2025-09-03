@@ -1,0 +1,18 @@
+This (2
+requires storing only (N — H(y) ) non-zero entries instead of N2N of the full transfer matrix T = DA. DA
+
+The vector v; needs to store only (") entries. 1M
+
+(b) Numerical results :s
+
+In this section, we apply the previously described methods to the transverse-field Ising spin
+glass Hamiltonian (2.1). Here, we immediately face an issue: the computation of the forward
+approximation is obstructed by the fact that the spin glass term Hy = — >; Jijojo, has highly
+degenerate energy levels. This gives rise to diverging terms in equation (4.4) when E, = Ej. To
+avoid this problem, we add a weak and random longitudinal field term Hong to the Hamiltonian
+
+Ho:
+Fong = — > hia,
+i
+
+where each h; is distributed uniformly in (—h,h) with h = 0.001 (this has to be < 1/N but > e~*).

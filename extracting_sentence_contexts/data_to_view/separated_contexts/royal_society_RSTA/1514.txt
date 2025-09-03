@@ -1,0 +1,35 @@
+Due to the aberrations, the illumination pattern projected inside the sample becomes
+distorted, which will distort the reconstruction of SR images to misleading results. Dong et al. developed SR fluorescence-assisted diffraction computational tomography (SR-
+FACT), which combines label-free three-dimensional optical diffraction tomography (ODT) with
+
+
+(a) (b) rotation
+=
+
+Uin
+
+ODT
+| —+— illumination
+
+fa
+
+aot < \ 3
+
+Uscatter —
+= => [a
+
+ODT output {a
+
+wavefront :3
+
+. q
+Utot = Uin + Uscatter
+
+SIM SIM :
+excitation emission DG
+
+Figure 1. Schematic diagram of incident light scattering in a thick sample and the SR-FACT optical system. (a) Process in which : s
+incident light scatters and produces aberrations in an inhomogeneous thick sample. (b) Dual-mode SR-FACT optical system ar)
+which can acquire the three-dimensional refractive index distribution of the entire thick sample. (Online version in colour.) a
+
+two-dimensional fluorescence Hessian SIM [21]. The optical path diagram is shown in figure 1b. The dual-mode uses the same detection objective lens to image the same cell at the same location.

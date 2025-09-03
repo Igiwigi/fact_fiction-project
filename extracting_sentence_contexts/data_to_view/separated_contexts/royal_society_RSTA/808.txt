@@ -1,0 +1,8 @@
+These rate coefficients appear to be consistent with reaction (1.1) proceeding with nearly
+every collision between the species. This is indeed the case in the QCT calculations, where
+the capture rate, defined as the rate for entering the ion—molecule well, is essentially the same
+as the overall reaction rate. In fact, the SIFT rate coefficients reported here are slightly larger
+than the parametrized collision rate by Su & Chesnavich [4], which takes into account only the
+polarizability and permanent dipole moment of the neutral species. Despite the fact that our PES has the same long-range terms as in Wei et al. [10], our calculated
+rate coefficients are much larger than the earlier QCT results. The difference can thus be attributed
+to the different level of the ab initio theory.

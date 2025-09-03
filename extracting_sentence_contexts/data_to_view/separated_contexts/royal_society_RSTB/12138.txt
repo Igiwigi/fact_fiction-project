@@ -1,0 +1,10 @@
+Again, we required representation at each of these levels within
+each ecoregion. Because the corridors were more widely spread
+than the refugia, this involved protecting corridors in 21 ecore-
+gions. To account for the fact that corridors often spanned
+more than one site, we forced the reserve-selection algorithm to
+prioritize sites that shared a common corridor. All site selection was done with the conservation planning
+software Marxan [43]. MarxaNn uses simulated annealing to
+find sets of sites that protect the conservation elements—species,
+refugia, corridors, in the present study—while minimizing the
+total cost of the reserve network.

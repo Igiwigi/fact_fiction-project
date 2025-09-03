@@ -1,0 +1,9 @@
+For example, in the Mackey—Glass equation, we have
+f(x, Xr) = Bx, /(1 + x) — yx with the fixed parameters f, 1 and y. To capture the effects of the
+time delay one needs a description which takes the history of the system into account, and
+thus requires a dynamical system with an infinite-dimensional phase space. In fact, it turns
+out that the state of the DDE (1.1) at time f¢ is given by the function x(@), 6 €[t—1,t] (see
+[3,4] for the mathematical theory on DDEs). Therefore, DDEs such as equation (1.1) are able to
+produce extremely complex behaviour and bifurcation scenarios. For example, albeit its relatively
+simple scalar description, the Mackey—Glass equation shows periodic, aperiodic as well as chaotic
+behaviour.

@@ -1,0 +1,10 @@
+An example of a causal network between the variables x; that can be estimated with LiINGAM. The non-zero bj’s are :&
+shown as arrows from x; to.x;, with numerical values attached to them. The network is acyclic, which is seen in the fact that after
+a suitable reordering of the variables (which has been done here), all the arrows go down.
+
+4. Testing of independent components
+
+After estimating ICA, it would be very useful to assess the reliability or statistical significance of
+the components. In fact, in the literature, independent components estimated from various kinds
+of scientific data are often reported without any kind of validation, which seems to be against the
+basic principles of scientific publication.

@@ -1,0 +1,23 @@
+A broad overview of the scaled FOWT tests performed so far can be found in Miiller
+et al. [38].
+
+
+5. AFOSP experimental campaign and results
+
+Particularly during early pre-design of a FOWT, the outlined Froude scaling approach may be
+unnecessarily complex and cost-intensive, as it requires a wind turbine model with redesigned
+blades and access to a large combined wind and wave basin. Owing to the fact that typically
+an existing wind turbine is chosen for a developed floating substructure, the focus of the
+early experiments can be placed on identification of global system behaviour in terms of
+platform eigenfrequencies, RAOs and tower base loads as well as tower top displacements and
+accelerations during typical operational and extreme load cases. To establish these quantities, the
+rotor thrust force may be modelled by simpler approaches ranging from concentrated masses
+with added point forces [50], drag discs with a rotating body [4] to real-time controlled thrust
+actuators (so-called software in the loop (SIL) approaches) [51,52].
+
+(a) AFOSP experimental set-up
+
+The RAO and wind—wave tests for AFOSP were performed at the CIEM (Canal d’Investigacié
+i Experimentaciéd Maritima) wave flume at the Laboratory of Marine Engineering at the
+Universtitat Politécnica de Catalunya, which is 100 m long, 3m wide and up to 7 m deep. Figure 6
+shows a descriptive diagram of the experimental set-up.

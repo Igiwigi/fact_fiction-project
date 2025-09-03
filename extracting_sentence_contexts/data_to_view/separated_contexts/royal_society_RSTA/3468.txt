@@ -1,0 +1,6 @@
+Classical games (without shared constraints) have unique equilibria under fairly .
+mild assumptions. However, in the case of shared constraint games, equilibria are generically
+non-unique. In fact, in many cases there is a manifold of equilibria (see examples and a proof
+in [21]). It turns out that the non-uniqueness is primarily limited to generalized Nash equilibria and is
+not as common with variational equilibria. In particular, one can show the following by applying
+standard results on variational inequalities (e.g. [19]) to VI(C, F).

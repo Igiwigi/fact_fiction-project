@@ -1,0 +1,14 @@
+Thus, they have intuitive appeal
+for a framework that combines sparse, conscious decisions
+with automatic ongoing processes. Again, this approach is complementary to the RL per-
+spective reviewed above [28], which likewise attempts to
+learn a policy that maximizes some set of rewards. In fact,
+many classic RL problems like cart-pole or learning to walk
+are control problems [56,60,61]. Such links have often been
+overlooked in decision neuroscience, where RL actions are
+most frequently associated with decisions [62], but there is
+nothing in the formalism to force this view. Before the
+advent of deep RL, RL methods were often limited to low-
+dimensional, discrete state and action spaces, but modern
+applications now routinely feature complex, continuous pol-
+icies parameterized by deep neural networks [30,63].

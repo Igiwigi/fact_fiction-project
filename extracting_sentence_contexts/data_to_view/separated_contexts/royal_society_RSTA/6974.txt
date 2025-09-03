@@ -1,0 +1,46 @@
+Of these, (a) and (4) cannot usefully be considered until it is known in what form the data
+will be most conveniently expressed for use in (c), and it will be convenient to consider this
+first. It will be understood that the sets of equations are solved in order of z increasing, so
+that in the solution of the equations for the function of any order n, the functions of order
+
+x j<nare known. S The equations (8-23), (9:1), (9:2) have properties similar to the three properties (§ 17 (i)
+8 to (iii)) of the equations for the null-order functions, namely:
+
+(i) the equation for f/ involves only h,, 7, and known functions;
+‘& ~—(ii)_ the equation for I is linear in A‘, and does not involve r;;
+
+(iii) the equation for rf is linear in 7,.
+
+= The fact that the system of equations as a whole is linear in f,, 7, 4, is not important at this
+a stage. These three properties enable a procedure very like that of §17 to be used, with
+5 similar consequences, that the aggregate errors of the results are O(d7)? and that this accuracy
+®& is obtained without successive approximation or estimation.
+
+% — If, to avoid the use of suffixes both to indicate order of function and to distinguish
+‘2 between values at the beginning and end of an interval, we write
+
+3 h,=u, hidy=U, 1,=9, ron=V, fr =¥, $f,0n = V
+[3}
+2 and also for shortness write
+Ss
+£ P = 4(59)? (hn +-foh,,) = n(09)? fo u—(2n+-1) PH—4(59)? D,
+z Q = H(bn)®(Ere-+forn) = (Bn)2,0— (2n+ 1) YR—-¥y—1) HU-¥(61)* Ey
+‘S|
+& the equations are Uy — Uo) = {(1— Fo) } Got For (18-1)
+“s]
+3 My— Yo = {(1— oF) } Vint 70» (18-2
+[s)
+5 yf = A(e—Bo) +0, (18-3
+jo} ‘ ; e
+a Ky — Ko = ere cae Yo) (18-4)
+—Fo
+Ua) ae let R {(Payt Po}, (18-5
+1—oF
+ig (0) [7 -
+Ny TfoRy ot fee {Qt Mo} (18-6
+U1) — M4) = HU y+ Vo}, (18-7
+%y—%) = 4{Nyt+No}- (18-8
+
+Equations (18-1), (18-2) were used for evaluating the uw) and vq) for use in calculating ¥),
+the values derived from (18-7) and (18-8) being carried over as %), %() for the next interval
+of the integration.

@@ -1,0 +1,11 @@
+This is manifested by the heavy tail characteristics of the corresponding
+probability distribution.
+
+2. Extreme events are usually associated with complex tails in the PDF. This complexity
+reflects the fact that there is an underlying dynamical mechanism having the form of
+nonlinear energy transfer, which may not act uniformly for all intensities of the extreme
+event. For example, in an energy conserving system, such as nonlinear waves, although
+instabilities can lead to extreme events, these cannot obtain arbitrarily large magnitudes
+due to finite energy. Therefore, although nonlinearity can induce spatially localized
+extremes, which are reflected as heavy-tailed regimes in the PDE, the latter have bounded
+extent because of bounded energy.

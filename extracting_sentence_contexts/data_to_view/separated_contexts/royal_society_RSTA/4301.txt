@@ -1,0 +1,6 @@
+These components do not have to be connected, as we can see in figure 3. However, quite often
+they are. In fact, G(X); consists exactly of the nodes (and their corresponding edges) that interpret
+the elements of X in two ways: as a pair of a j-nucleotide and an (n — j)-nucleotide and as a
+pair of an (n — j)-nucleotide and a j-nucleotide. Note that by symmetry we have G(X); = G(X)n—;
+for all j <n —1. For instance, in figure 3 the two components of the graph associated with the
+tetranucleotide code are G(X); (=G(X)3) and G(X)2.

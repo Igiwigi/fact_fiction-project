@@ -1,0 +1,13 @@
+S
+high-quality results [30,32], but this is not possible for bulk While ONT sequencers can now sequence RNA directly,
+samples comprising tissues or many cells because highly con- recent studies have shown that this does not overcome RNA
+centrated cell lysates inhibit RT reactions. Current efforts to degradation or length-bias issues. In fact, incomplete transcript
+dissociate, lyse and extract RNA from bulk samples mostly sequences represent the majority of the produced data and this
+rely on physical disruption and trizol or tri-reagent based pro- issue increases with increased transcript length making direct
+tocols. These protocols are either followed by precipitations RNA sequencing currently challenging for transcripts over
+often resulting in phenol and guanidium contamination 2 kb in length (figure 2) [28].
+which can compromise RNA integrity, or require a column- In addition to length biases of sample preparation, both
+based clean-up potentially fragmenting long RNA transcripts PacBio and ONT sequencers themselves have a bias towards
+in a way similar to high molecular weight genomic DNA. shorter molecules. Going forward we will need systematic studies comparing To systematically test the bias of different RNA extraction,
+extraction methods for the integrity for very long transcripts sample preparation and sequencing methods, new approaches
+(greater than 10 kb) which cannot be measured by the frequently will be needed.

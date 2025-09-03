@@ -1,0 +1,10 @@
+The integral F of degree d constructed in [46]
+is irreducible, but one may still imagine that there exists an additional polynomial integral of a
+smaller degree which is independent of both H and F. The point is that the metrics constructed
+in [46] are Zoll metrics, i.e. all of their geodesics are closed. This means that the geodesic flows are
+superintegrable (see the discussion in §3c), which implies that additional integrals exist; it is not
+clear though whether they are polynomial in momenta and, in fact, we conjecture that it is not the
+case. Problem 3.1. Complete table 1: (i) construct new examples of natural Hamiltonian systems
+on closed two-dimensional surfaces admitting polynomial integrals; describe and, if possible,
+classify them; (ii) prove, if possible, the non-existence of such integrals (perhaps under some
+additional assumptions).

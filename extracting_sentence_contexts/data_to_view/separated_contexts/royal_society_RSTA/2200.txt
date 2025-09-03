@@ -1,0 +1,15 @@
+For a Hamiltonian system M =2N, X = (q1,.--,4n/P1,--- Pn)",
+
+F(X) =JVxH(X) and A(X*) =] 5(X*),
+
+where Vx = (0q,,--«, Oqn, Opis + +7 apy), J is the usual co-symplectic matrix J = (So): and S(X*)
+is the Hessian of H evaluated at the equilibrium X*. As a consequence, we can take advantage of
+computing the eigenvalues of S—which by nature is always diagonalizable—to infer Lyapunov
+stability and in some cases also linear stability, when JS has a special structure, as we shall
+see shortly. For Lyapunov stability, given the fact that the Hamiltonian of the vortex system
+is a conserved quantity, Dirichlet’s Theorem provides us with a sufficient criterion to deduce
+Lyapunov stability from the definiteness of the Hessian matrix S:
+
+Theorem 5.2 (Dirichlet). Let X* be an equilibrium of the autonomous system of ordinary differential
+equations equation (5.1) that is, F(X*) =0. If there exists a positive (or negative) definite integral W of the
+system (5.1) in a neighbourhood of the equilibrium X*, then X* is Lyapunov stable.

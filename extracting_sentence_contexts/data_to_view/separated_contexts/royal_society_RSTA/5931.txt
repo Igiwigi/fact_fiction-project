@@ -1,0 +1,35 @@
+The computational results reveal that the
+improvement (i.e. the reduction in the bound) provided by the upper estimate is negligible, i.e. Nucant & Nucan ~0.106Ra°/12. This reflects the fact that the linear-stability constraint is almost
+entirely accommodated by an adjustment of the interior gradient of Tg, rendering it slightly
+unstable, rather than via the anticipated thickening of the thermal boundary layer. The lower
+estimate, however, does successfully capture the classical 1/3 scaling for both stress-free (Nu) ~
+
+
+0.12 f AAA AAA AT
+rs pA
+ial oes
+
+p>
+
+> oo5°90o0omg,
+
+© 0.08 + Pa a p00 8 |
+
+a
+< P px
+& oa
++ o Xe x
+
+= * x
+S E wr * x x J
+0.04 F . g x DNS (Johnston & Doering [58]) 7
+4 % o steady rolls (Wen et al. [27])
+> p> Nu 4) (Present)
+ie} A Nu, ~ 0. 119Ra"’3 (O’Connor et al. [54])
+-> Nu ~ 0.089Ral’3
+103 104 108 106 107 108 10°
+Ra
+
+Figure 5. Dependence of compensated Nu on Ra under no-slip boundary conditions for: the lower heat-flux estimate
+(diamonds), steady QL solutions (triangles) and numerical steady-roll solutions with Nu-maximizing aspect ratios (squares)
+from Wen et al. [27], and DNS results (crosses) from Johnston & Doering [58].

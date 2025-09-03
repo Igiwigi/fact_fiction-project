@@ -1,0 +1,18 @@
+These are solutions in the form
+ew (p) for the profile equation (1.2), which are well understood in the literature. In fact, its
+existence and uniqueness [1-3] in all dimensions and appropriate values, namely p € (1, pn),
+
++00 n=1,2
+
+*
+= 4
+
+Pn I+ n>=3
+n—
+
+was shown in [3]. Furthermore, the stability behavior of these (unique) solutions is also well
+known [4]; this is in fact one of the main classes of examples that was worked out within the
+Grillakis-Shatah-Strauss formalism [4,5]. Concisely, these waves are spectrally /orbitally /linearly
+stable for p € (1,1+4/n) and unstable for p € (1 + 4/n, p*) [6]. It is worth mentioning, however,
+that the ground states conform to our set-up only in the case of n=2, as p there is the global
+radial variable, whereas we are proposing here an ansatz with [1/2] pairs of radial variables.

@@ -1,0 +1,24 @@
+We consider geographical ranges to prior on the probabilities of false presence, thus assigning
+evolve independently across different lineages, thus the likelihood equal prior probabilities to any 4, sp € (0, 1]. This effectively
+ofa dataset of N lineages (O = O1, O2, ..., On) iscalculated as the corresponds to an exponential prior distribution on the preser-
+product of the likelihoods of all lineages: vation rates q4, qg with rate A= 1/At. The posterior probability
+of the DES parameters given a dataset of fossil occurrences O is
+
+N
+P(Oldpa, dap, €a, es, 4a, 9n) = | | P(Oildea, das, ea, €, FA, 9B):
+(O|dga, dap, Ca, eB, Fa, 4B) I (Oj\dpa, dap, €A, €B, 4a, GB) Pldna,dap,e4,eb, qa, qn. g|O) e
+
+Seeger
+
+(2.5) posterior
+P(O|dea, das, ea, es, 4a, qe) P(dea, das, ea, es|g)P(4a, 4p) Ps)
+
+We consider taxa to be independent despite the fact that they Itkelthood Priors hyper—prior
+may be phylogenetically connected with other lineages in the (2.6)
+dataset (as in [40]). However, we emphasize that the recursive
+likelihood calculation starts at the present (f,) and stops at the We used multiplier proposals for dispersal and extinction rates
+first appearance of a lineage (its oldest fossil, to) without attempt- and uniform proposals with reflection at the boundaries 0 and 1
+ing to infer its true origination time and initial ancestral range. [41] for the probabilities s4, sg from which we derived the preser-
+While the range of a lineage at its origin (which most probably vation rates. We implemented posterior sampling using the
+precedes the oldest fossil) is not independent of the distribution standard Metropolis— Hastings algorithm [42,43] based on the pos-
+of its ancestor, the anagenetic geographical evolution following terior ratio and the proposal ratio.

@@ -1,0 +1,8 @@
+In each case, with the increase of N the stability zone shifts towards the right and
+becomes generally wider for a given appropriate value of Ip. Furthermore, the curve which
+delimits the stability region on the left exhibits a corner-like point—i.e. a not regular point—for
+values of N <7 as is shown in the figure for the case N = 3. This is due to the fact that one should
+satisfy the conditions (1) and (2) of corollary 7.2. In figure 10, we show in much greater detail the behaviour of the eigenvalues of the two blocks
+of the Hessian: the completely diagonalized one and the one coming from the matrix G2. We have
+indicated in magenta, blue, green and red the regions where G? has, respectively, two, four, six and
+eight positive eigenvalues.

@@ -1,0 +1,8 @@
+Carl Adam Petri, whose work [24] on causal
+models of information processing and communication using a graphical formalism of condition-
+event nets in the 50s and early 60s had led to a significant amount of research and applications
+in computer science and beyond. Petri nets have a very clear distinction between locality and
+nonlocality. In fact, in Petri nets, one can express cause-effect relationship between discrete events
+in a very succinct form, even if one has many events occurring concurrently and independently
+in space. I spent nearly 40 years studying different types of Petri nets and their semantics and
+applying Petri nets to the analysis and design of electronic systems. What is a Petri net?

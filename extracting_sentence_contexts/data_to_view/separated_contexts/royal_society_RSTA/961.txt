@@ -1,0 +1,6 @@
+We conclude that a front that is too asymmetric may only be observed
+to be propagating in one direction (i.e. one specific sign of c). The delayed feedback then speeds
+up the front in that same direction. Second, the fact that the speed approaches constant values as
+tT — oo implies that we may replace u(z + ct) in equation (3.12) by its asymptotic limit for z large,
+ie. u=1. The reduced problem then becomes an ordinary differential equation which is easier to
+solve. Using (3.12) with u(z + cr) = 1 we found analytically the correct speed limits.

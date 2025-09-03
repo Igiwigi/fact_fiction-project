@@ -1,0 +1,40 @@
+The stretch-receptor current for the SMD-class
+motoneuron sums over contributions from a total of 14
+
+mechanical elements associated with those muscles,
+21
+k > k
+[Sp smp = hy. (2.3)
+s=7
+
+In the repeating neural units of the VNC, the B-class is
+one motoneuron that has been postulated to mediate
+stretch-receptor feedback from the body. The long undifferen-
+tiated processes running posteriorly have led previous
+models to assume stretch receptors covered a wide range of
+muscle cells and that proprioceptive information travelled
+anteriorly. However, more recent experimental work demon-
+strated that the effect has a much shorter range than
+previously assumed and is in fact directed posteriorly, because
+the activity of each VB and DB motoneuron is activated by
+ventral and dorsal bending of a more anterior region, respect-
+ively [6]. In the light of this evidence, we model B-class
+motoneuron stretch receptors as short-range connections
+from the lengths of anterior muscles to the immediately pos-
+terior B-class motoneurons, with the effect that posterior
+body regions are encouraged to bend in the same direction
+and shortly after the bending of a neighbouring anterior
+region (figure 1b(ii)). The stretch-receptor current for the
+B-class motoneuron in unit 1 on the kth side, Ip, sums over
+contributions from the S = 6 mechanical elements anterior to
+the anterior-most muscle that neuron innervates (So ;,):
+
+Son-1
+Ik, -4 SS nk (2.4)
+SRB, ~ § s* .
+
+s=Son—1-S
+
+The proposed mechanosensitive channels in these
+processes respond to the changes in length associated
+with body bending.

@@ -1,0 +1,34 @@
+This law
+has been generalized to include all components of the velocity, to the dynamics of the passive
+scalar and to that of MHD [82] and Hall-MHD [83]. In the helical case, some rewriting of
+second- and third-rank tensors taking into account the fact that vorticity and helicity are pseudo
+(axial) vectors and scalars, was deemed necessary [15,84]. Vectorial versions of these exact laws
+stemming from conservation properties can in fact be derived in a simpler manner [85]. In the
+fluid helical case, the exact relationship for helicity reads, with éy the dissipation rate of Hy
+
+Aéyr
+377
+
+(Sup (x)8ui(2)8en(0)) — (5) (Gor(1)[6ui(0)2) = — iv = Dilly. (42)
+
+For incompressible helical MHD, working on the magnetic induction equation leads to, with
+eturb = y x b the electromotive force (EMF) (see [85] for Hall- MHD):
+
+3([E(x) x a(x + n)],) =FHm 1, Em = DiHM. (4.3)
+
+
+Five remarks are in order. (i) The magnetic helicity law is not in terms of structure functions, 8 |
+but of correlations functions, likely because a large-scale magnetic field cannot be eliminated
+
+from the dynamics (and is the source of Alfvén waves), whereas Galilean invariance allows us 3
+to ignore the mean velocity field. (ii) These exact helical relationships involve cross-correlations, 1S
+e.g. between velocity and vorticity w, or the electromotive force and the magnetic potential. : gS
+(iii) In their vectorial form [85], such laws clearly indicate the relationship between the lack of : 3
+Beltramisation (non-zero Lamb vector, Lorentz force and Ohm’s Law) and the amount of transfer : =
+
+through scales. (iv) These helical expressions have barely been analysed on data, with the notable
+exception of the fluid case for the EDQNM (Eddy Damped Quasi-Normal Markovian) closure
+[86], and for a series of DNS [87]. It would be of interest to see such analyses carried out for MHD,
+both for EDQNM and for DNS, as well as in the context of the solar wind for which more refined
+data is now available, including at small (ionic and even electronic) scales through the recently
+launched MMS (Magnetospheric Multi-Scale) mission and the Parker Solar Probe.

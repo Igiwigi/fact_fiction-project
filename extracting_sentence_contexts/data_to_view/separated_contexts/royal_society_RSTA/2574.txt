@@ -1,0 +1,31 @@
+Some progress in this 1B
+
+direction may proceed from an unexpected source:
+
+(1) Trace explanations: ‘reveal the so-called execution trace, the sequence of inferences that led
+to the conclusion of the reasoning’;
+
+(2) Strategic explanations: ‘place an action in context by revealing the problem-solving strategy
+of the system used to perform a task’;
+
+(3) Deep explanations: ‘the system answers the question by using the knowledge base of the
+
+user, and not just that of the system [...] the explainer must base the explanation on its : S
+understanding of what the explainee fails to understand’ [28, p. 73]. : =
+
+a
+
+This distinction, presumed to be mutually exclusive, originates in the development of software for : =
+medical expert systems (whence it was retrieved by Douglas Walton, and applied to mathematics : =
+by Michel Dufour, [29, p. 6]). Researchers found it useful to distinguish three types of knowledge 1B
+required for ‘understanding physicians’ explanations of their reasoning, as well as being a :2
+foundation for re-representing the knowledge’ [30, p. 221]. These three kinds, structural, strategic 8
+and support knowledge, are distinct from the domain knowledge, such as facts about medicine. if
+Structural knowledge indexes the domain knowledge into rules; strategic knowledge imposes a : x
+plan of how to apply these rules, in pursuit of which goals, and in which order; and support : =
+knowledge comprises the broader background which provides the justification for structural :3
+
+and strategic knowledge. Hence, a request for an explanation could be construed as a request
+for one of these three sorts of knowledge, which the system may meet by outputting a trace,
+strategic or deep explanation, respectively [31, p. 174]. That is, each of the three comprises a
+different contextual constraint on the relevance relation.

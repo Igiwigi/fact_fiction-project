@@ -1,0 +1,15 @@
+For example, in this regard, it is perfectly valid and reasonable to consider
+uncertainty in estimates arising from the Bayes linear model (e.g. Lindley & Smith [5]) obtained
+in the limit of large data, without assuming that the true data generating process is a linear
+model. The conventional Bayesian approach conflates these two issues, that the estimate refers
+to parameters in the predictive model assumed to be true (see §3).
+
+(a) Martingales
+
+In fact, martingales are important for this view of the Bayesian methodology. Consider the
+
+posterior mean conditional on x}.741, Le. J Of Cn41 | 0) 10 | X10) dO
+POn+1 | X1:n)
+
+Ova = | O10 |xinsa) a0
+where x,,41 has been taken from the predictive p(x,41 | X1:n).

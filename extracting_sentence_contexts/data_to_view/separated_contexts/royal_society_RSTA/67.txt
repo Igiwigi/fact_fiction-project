@@ -1,0 +1,19 @@
+Also, all VAR-based GC methods rely on a priori selection of the model lag length (i.e.
+the amount of past information to include in the model for the present observation), which, in
+most VAR applications, coincides with model order selection or, more specifically, the choice
+of AR order. While this choice can have a significant impact on the estimation of GC, and a
+number of criteria exist for this choice [86] (also see [27] for an extensive discussion), no general
+consensus exists on how to estimate AR orders in causality studies. In this context it should
+be noted that, while the development of algorithms for VAR parameter estimation has coaxed
+most published studies towards employing identical orders for the caused and for the causing
+variable, there is no theoretical reason for this choice, which may in fact contradict the basic
+concept underlying the idea of GC (i.e. that, given the restricted model, one should find the best
+possible unrestricted model based on some figure of merit). In this study, we, therefore, moved
+away from this common practice by performing independent, sequential order selection for the
+caused, causing and conditioning variables.
+
+
+6. Limitations and conclusion
+
+Recent evidence points towards the viability of GC analysis in fMRI, provided the data are
+acquired under a high SNR and high temporal-resolution regime.

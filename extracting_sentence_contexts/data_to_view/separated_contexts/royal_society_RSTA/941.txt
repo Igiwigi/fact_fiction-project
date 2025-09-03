@@ -1,0 +1,24 @@
+The following two statements are equivalent.
+(i) Ina tubular neighbourhood of the parabolic orbit yo, there is a (real-analytic) diffeomorphism ®
+such that
+
+— @ preserves H and F;
+— &*(Q)=2.
+
+(ii) There exists a one-parameter family of local diffeomorphisms (x,y) (real-analytic in x, y and
+A) leaving fixed the origin in R?(x,y) at %=0 and such that, for each 2 €R close enough
+
+
+to 0,
+
+— W preserves H(x,y,);
+— VW3@,) =o. Proof. The fact that (i) implies (ii) is almost obvious. Indeed, as 2 and @ are of quite special
+form, 6*(@2) = Q and F=A is preserved, then in local coordinates x,y,4,¢g, the diffeomorphism
+takes the following form:
+
+Y=X(x,y,d),
+y=HOy,A),
+A=d
+
+and G=9+ R(x, y,A). If we consider the first two functions as a family of diffeomorphisms y(x,y), then we will
+immediately see that (ii) holds.

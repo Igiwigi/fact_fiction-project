@@ -1,0 +1,15 @@
+The overlapping representations in CA1 are akin to s
+phase), so that representational similarity and behaviour ‘nodal codings’ that have been observed there, with shared fea- a
+must be caused by the representations in the initial response. tures across events represented by overlapping populations of — 2
+The transitive structure was present without recurrence neurons ([43,44], see also [45]). These representations have been S$
+in CA1, but became stronger throughout the network proposed to support relational memory and generalization =
+with recurrence (figure 4a), indicating that both static rep- [46], consistent with our account. =
+resentational similarity and recurrence contribute to The community structure and associative inference simu- “>
+transitive associations in the model. lations demonstrated that the model is also capable of learning
+Another way to evaluate the role of recurrence is to assess transitive associations. For community structure, CA1 learned = -5
+representations and behaviour very early in training, before to represent the two boundary nodes in the same community = =
+CAT has time to develop overlapping representations for tran- more similarly despite the fact that they were never experienced =
+sitive associations. After just one exposure to each of the direct together. This was possible because they shared overlapping sets -
+pairs, when there was no transitive structure at all in the initial of associates—a principle we previously demonstrated in a 2
+response in CA1 (figure 4b), recurrence could support transi- simpler neural network model of temporal community structure S
+tive behaviour (figure 4c).

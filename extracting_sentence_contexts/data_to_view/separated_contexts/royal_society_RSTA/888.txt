@@ -1,0 +1,15 @@
+Definition 2.7 (cut-rank). Let us assume that A is a subset of the vertices V of some graph G
+with adjacency matrix I”. The cut-rank cutrk,(G) of G with respect to A, is then defined as
+
+cutrk,(G) = rankg, ('[A, V\A]), (2.27)
+
+where rankg, is the rank over the finite field of order two. oO
+Note that the cut-rank is symmetric in the sense that
+
+cutrk,(G) = rankp, (’[A, V\A]) =rankg, ([V\A, A]')= cutrky\,4(G). (2.28)
+
+Interestingly, the cut-rank with respect to A of a graph G is in fact equal to the Schmidt-rank of
+
+the state |G) with respect to the bipartition (A, V\A).4
+Next we define what is called a rank-decomposition of a graph. Definition 2.8 (rank-decomposition). A rank-decomposition of a graph G is a pair R =(T, 4),
+where T is a subcubic tree and yp is a bijection w: V(G) > {1:1 is a leaf of T}.

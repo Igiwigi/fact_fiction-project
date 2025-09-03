@@ -1,0 +1,8 @@
+It would require two models
+which are trained on identical language data, one with access to ‘grounding’ (which could be
+instantiated in countless possible ways) and one without. And training such models assumes
+we know the right way to give the model ‘grounding’, which we certainly do not. In fact, we
+attempted to run such a study in [96]. We reported a null result (ie. no measurable difference
+between the grounded and ungrounded models), but the result was unsatisfying for exactly the
+reasons just stated. In order to train comparable models, we were limited to language from very
+restricted domains (cooking videos).

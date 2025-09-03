@@ -1,0 +1,15 @@
+For example, if a
+solution is strong on [0, T], i.e. once we know that the enstrophy is finite for all t € [0, T], then the
+solution is actually smooth for all t € (0,T], so for all 0 <t < T the equations are satisfied in the
+classical sense (see Theorem 10.6 in [4], Ch. 7 of [5], or Section 6 in [3]). In fact, in the periodic
+case, such a solution is even analytic, see [25]. This motivates the search for other ‘conditional’ regularity results: given a weak solution u
+starting from smooth initial data, what additional properties will ensure that it is in fact a smooth
+solution? The statement that a strong solution is smooth can be interpreted in this light, where the
+‘additional property’ of the weak solution is that its enstrophy is bounded. Here, we give another
+simple example of a conditional regularity result: we show that the assumption that
+
+T
+| \|u(s)|I2, ds < oo, where |l11(£)lloo = sup |u(2x, f)I, (6.1)
+0 xe
+
+is sufficient to ensure that u is a strong solution on [0,T], and hence smooth (and unique).

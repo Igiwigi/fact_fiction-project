@@ -1,0 +1,24 @@
+From these estimates we derived a mean uncertainty for Ate of +0.86%0. Adding
+the (independent) background representativeness uncertainty mentioned above, we obtain a
+total background reference uncertainty for integrated samples of 0.9% and for flask samples of
+1.0%o. The uncertainty of the background CO reference concentration curve is negligible for the
+overall AffCO2 uncertainty, even if an assumed upper-limit CO2 background representativeness
+uncertainty of 5 ppm is added.
+
+
+(iii) Uncertainty of the nuclear and respiration masking corrections a |
+
+In order to estimate the error contributions of the two correction terms in equation (2.3) (masking
+by nuclear 14CO) emissions, second term, and contribution from respiration of M4C-enriched CO, R=}
+third term), we made the following assumptions: we assume 100% uncertainty for the nuclear 18
+contamination estimates; this is justified with a significant transport model error to correctly eB
+simulate the dispersion and location of power plant plumes and by the fact that the significant Ss
+temporal variability of the nuclear emissions (e.g. [30]) is totally ignored when using the currently :
+reported annual mean emissions from RADD for estimating Al‘. (see appendix A.1). The AffCO2
+masking contribution from CO) respiration, Cresp, has also a significant uncertainty because for 16
+daytime situations it has to be estimated using, e.g. a vegetation model that is coupled to an iS
+atmospheric transport model. For night-time situations when photosynthetic uptake of CO is :§
+negligible, Cresp or Cresp / Cer, the latter being the relevant parameter that determines the masking a
+(cf. figure 5), could be estimated in an iterative way as the difference between Cmeas, Cog and :
+
+Cr.

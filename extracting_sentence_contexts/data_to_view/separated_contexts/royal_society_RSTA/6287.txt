@@ -1,0 +1,18 @@
+Models of this size are
+often proprietary, and even when the data is publicly available, determining whether a task or
+concept is ‘unseen’ is not trivial [66]. These claims demand further study. Still, based on what
+we know right now, pretrained LLMs are not obviously incompatible with human-like sample
+efficiency, and in fact may be governed by similar constraints as competitive symbolic models in
+similar settings.
+
+
+(e) Summary and discussion
+
+A common criticism of neural networks as candidate models of the human mind is that neural
+networks lack the abstract symbolic structures and processing algorithms necessary to explain
+human language. Such claims are typically supported by evidence of neural network performance
+failures on tasks that traditionally require symbolic processing. I argue that if we focus instead on
+research which seeks to assess the underlying competence of neural network models—i.e. work
+which characterizes the structure of the representations that models use under the hood—the
+picture is more positive, with neural networks reflecting many characteristic aspects of symbolic
+systems.

@@ -1,0 +1,9 @@
+Since the two different expressions compute to the
+same value 999, we could say that they are literally equivalent. But of course, 27 x 37 and 999
+are different qua arithmetic expressions since they convey different computational contents. The
+use of the symbol = can then be understood as an abuse of notation resulting from the fact
+that the two expressions yield the same numerical value after performing the corresponding
+computation. In other terms, 27 x 37 and 999 are in the same equivalence class defined by the
+equivalence relation ‘two arithmetic expressions a and b are equivalent if they yield the same
+numerical value after computation’. In Frege’s terms, we could say that 27 x 37 and 999 express
+different senses (or modes of presentation) of the same reference.

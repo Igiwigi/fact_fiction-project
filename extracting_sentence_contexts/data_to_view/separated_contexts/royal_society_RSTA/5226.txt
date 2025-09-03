@@ -1,0 +1,7 @@
+We define the ‘success rate’ as the ratio between the number of these
+large responses and the number of perturbations applied to the system. In figure 8b, we show
+the success rate obtained with 20ns long pulses whose average power is 300 \.W. The fact that
+the number of responses increases abruptly from 20% to 100% demonstrates the presence of a
+threshold separating different kinds of responses. The existence of a threshold separating linear from excitable responses is a necessary condition
+for the system to be qualified as ‘excitable’. The second condition is that the excitable orbit should
+be strongly attractive, such that any above-threshold perturbation leads to the same response.

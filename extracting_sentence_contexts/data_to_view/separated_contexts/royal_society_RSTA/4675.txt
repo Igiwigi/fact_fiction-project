@@ -1,0 +1,8 @@
+In addition, we need to ensure that the thickness of the
+coating is small, so that the resultant flat reflector (with coating) has a low profile, which was our
+principal motivation of the flat reflector project to begin with. To the best of our knowledge, a
+systematic procedure for designing such thin coatings has not yet been developed. In fact, such
+surfaces that are also known as reflectarrays, are almost always designed to match only the phase
+of the reflected field, rather than to control the amplitude distribution of this field in its aperture. Incidentally, reflectarrays are inherently narrowband in comparison to the parabolic reflector, at
+least when they are fabricated by using metasurfaces, as they almost always are. We now show that this problem of designing a surface with specific reflection characteristics
+can also be cast in terms of the scattering matrix formulation.

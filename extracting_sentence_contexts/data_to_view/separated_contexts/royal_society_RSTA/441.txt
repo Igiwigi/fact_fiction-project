@@ -1,0 +1,9 @@
+However, nothing prevents the use of a more complicated model valid for thick plates
+(e.g. Mindlin-Reissner plate theory). In fact, the DD strategy is independent of the chosen plate
+
+
+theory. Hence, the mentioned strategy can be applied also in combination with higher order
+plate theories, as long as the plate model gives both the displacement and the displacement
+velocity back to the fluid solver and receives as input from it the fluid pressure on the plate. When the DD strategy is used, and the three-dimensional solver is used in the fluid region
+containing the structure, p is obtained by solving the fluid-structure coupled problem, i.e. it is
+affected by the plate elastic behaviour.

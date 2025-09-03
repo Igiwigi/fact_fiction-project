@@ -1,0 +1,11 @@
+Binary mixture adsorption as function of gas-phase composition
+
+In order to reproduce the Baron and co-workers [37] experimental mixture results, we have
+calculated adsorbed amounts against carbon dioxide gas mole fraction curves at 1 and 7.5 bar
+(figure 5, note the different Y axis/adsorption scales) using the parameters for the pure single
+components and using both models A (lower part) and B (upper part). The agreement of model B (gradual transition approach) results with the experimental data is
+reasonably good. The apparent inconsistency of model A predictions could be simply explained
+by the fact that the LP/NP transition occurs at all mole fractions at pressures above 7.5 bar,
+figure 4(a-e). At 1 bar (figure 5(f)) the LP-to-NP transition occurs at a gas-phase carbon dioxide
+mole fraction of around 0.25. At 0-0.25 mole fractions, the structure exists at LP of low occupation
+and at higher mole fractions 0.25-1 the structure exists at NP.

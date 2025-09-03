@@ -1,0 +1,15 @@
+In their seminal |
+paper, Lasry & Lions [35] on mean-field games also presented a parabolic free boundary problem : S
+modelling the evolution of the price in an economic market with a large number of agents, where : 3
+a single good is traded. This one-dimensional free boundary problem is—strictly speaking—not [&
+
+a mean field game, but it exhibits very remarkable mathematical features which make it difficult
+to treat by standard free boundary techniques. In fact, the Lasry—Lions price formation model
+has attracted a lot of attention so far: preliminary analytical results were given in [57-59] and
+a rather complete existence, uniqueness, regularity and long-time asymptotic analysis based on
+a geometric method can be found in [60,61]. A derivation from a mesoscopic Boltzmann-type
+system using a scaling limit technique (high trading frequency) can be found in [62] and a
+hyperbolic-type scaling limit in [63]. Extensions incorporating stochastically fluctuating markets
+are in progress [64]; however, we remark that significant further steps have to be taken in terms of
+modelling (e.g. incorporating utility functions) before applications to realistic economic markets
+can be tackled.

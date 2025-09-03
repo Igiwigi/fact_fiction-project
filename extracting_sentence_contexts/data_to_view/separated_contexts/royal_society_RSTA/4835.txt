@@ -1,0 +1,12 @@
+Then using the interaction machine notion, when a lifted input symbol a
+corresponding to a € A acts on the machine, all present components are updated according to the
+usual cascade formulation, but those constituents where a value should fall that have not been
+set before come into existence at that moment with the appropriate state value. This continues as
+each input symbol acts, resulting in a growing cascade. a
+
+Remarks on recurrence. Transience of the natural subsystems (X,(X)per) of A is a natural
+consequence of the fact that semigroups allow for irreversible change. However, with the notion
+of an interaction machine as formulated here and an ensemble approach in which new instances of
+A may continually arise, this transience itself becomes a recurring phenomenon, as do instances
+of the natural subsystems given by its permutation groups (X,(X)per). Semigroups such as the
+natural numbers N or real numbers R are taken in physics as models of time.

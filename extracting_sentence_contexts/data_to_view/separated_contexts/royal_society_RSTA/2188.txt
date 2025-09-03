@@ -1,0 +1,15 @@
+Assuming that the
+limit limy_,9+ f(x + it) exists for a given x € Q, let Q(x) := limy_,o+ f(x + it), and consider y € Fin
+the notation of definition 2.3. The y-invariance of the completion f leads to an expression for
+the corresponding modular difference function p,(x) given by the modular difference function
+associated with g*(r). Through the related function (given by t +> —r)
+
+too
+FO= c| (c! — 1)Fg(t') dr’, (2.18)
+fa
+and the fact that the modular difference function associated with g* is again a period integral
+completely analogous to (2.16), it follows that mock modular forms indeed lead to quantum
+modular forms. Moreover, the quantum modular forms arising from a mock modular form and
+the Eichler integral of its shadow are clearly closely related. However, just as Ramanujan already pointed out in his original work [1], mock modular
+forms inevitably encounter infinities when approaching certain rational numbers from within
+the upper-half plane.

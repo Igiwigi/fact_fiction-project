@@ -1,0 +1,42 @@
+Figure 10 is an exact reproduction of Binnie’s figure 1, except that our half-
+length (2-45 units) is a ‘rounding off” of his half-length (47 x external radius = 0-7757 =
+2-435 units). A rectangular net was employed, having 14 mesh-sides in the half-
+length and 4 mesh-sides in the tube thickness: i.e. the assumed value of a was 0-175 unit,
+that of 6 was 0-1525 unit. Since the boundary was rectangular, this example did not
+entail the complexity of ‘irregular stars’ (§§ 21-2).
+
+a/b having the value 70/61 = 1-147,;, equations (28) of §20 become in this instance
+
+0-10041
+
+Fy = 1 +X3—2Xo + 1:3168(xo+X4 — 2X0) 2 (X2—X4) = 9,
+
+010041
+:
+
+| (32)
+
+F, = Vi +¥3—2f9+1:3168(p.+ H4— 2) (Yo—Y¥4) + 2X0 —X1 —Xs = 0,
+
+and the boundary conditions (after elimination of ‘fictitious points’ in the manner of
+§§ 21-2) give relations as under:
+at the internal surface (r = 0-94 unit) \
+
+F, = 2(x2+ Yo) —2°2631X = 0,
+
+at the external surface (r = 1:55 units)
+
+F,, = 2(x4-+ 4) —1-8597 4 +.0-4495779 = 0, (33)
+
+at the plane end (z = —2-45 units)
+0-10041
+r
+
+F, = 1:3168(x2+X4—2Xo) (X2—Xs) +24, = 0. In all of (32) and (33) the points 0, 1, 2, 3, 4 are assumed to have the arrangement shown
+in figure 2. Their representation in ‘ patterns’, and the use of these to liquidate computed
+values of residual ‘forces’, follow on the lines of problems treated earlier.
+
+pz being zero everywhere, according to (29) y has a constant value on the boundary,
+and without loss of generality the constant can be taken as zero (cf. §5).
+
+25.

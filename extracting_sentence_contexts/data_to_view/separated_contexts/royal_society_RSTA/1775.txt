@@ -1,0 +1,47 @@
+Hence, the thickness and location of the wall loss can be derived from the combination of
+amplitude in the short-time domain and decay rate (curve inclination) in the long-time domain. From the depicted results, it is easily derived that the pole extraction can be used for calibration
+of instruments that use PEC for thickness measurements. The fact that the presented model
+describes the exact cylindrical configuration improves the method accuracy since no planar
+geometry simplification is used.
+
+
+(@ 104
+
+—NILT
+© 50 poles
+
+102 * 5 poles
+
+---1 pole
+
+°
+2
+=
+>
+0 100 200 300 400 500
+time (ms)
+() 196
+—-NILT
+© 50 poles
+104 * 5 poles
+[> 1 pole
+10?
+i
+=
+= 1
+z
+>
+
+10-2
+
+104
+
+10-6
+
+0 5 10 15 20 25
+time (ms)
+
+Figure 5. Long-time comparison of NILT to pole extraction method with different number of poles for (a) Carbon and (b)
+Stainless Steel. Nevertheless, as shown in experiments by Ulapane et al. in [4] and [6], if we consider the typical
+PEC waveform the noise ‘destroys’ the response when the signal is a few orders of magnitude
+smaller than the initial value.

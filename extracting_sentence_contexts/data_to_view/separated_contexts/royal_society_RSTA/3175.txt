@@ -1,0 +1,5 @@
+The derivative yy of the steady state is always such a solution. Thus, when n= 1, g* contains all of the information needed to evaluate the Maslov index and
+determine whether or not L has any unstable spectrum. This simple fact is the basis for the Sturm
+oscillation theorem. When n> 1, we cannot compute the Maslov index without knowing the additional n—1
+solutions. However, in the case of a pulse, we can use a geometric argument to give a lower
+bound on the Maslov index, thus proving that at least one unstable eigenvalue exists.

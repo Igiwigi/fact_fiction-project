@@ -1,0 +1,65 @@
+MacMAHON: MEMOIR ON THE
+
+deficient lattice now under consideration is «*L,; hence, if the part magnitude be
+unrestricted, the generating function is
+
+1+97L, +0 L,+...+07*D, |
+
+and if the part magnitude be restricted not to exceed 1,
+
+((+1)...([4-mn—1) + #7 (I)... (U-+mn—2) L,+...+0™ ([—+1)... (I—4-++mn—1) L,
+(1) ... (mn—1) :
+
+A simple example, that may be at once verified, is found by taking m =n = 2 and
+the defective lattice
+
+Here L, = L, = 2 and the generating functions are
+1 ie
+
+1+”
+
+a
+
+(1) (2)(3) (1)? (3)
+(141) (+2) (148) +a (I) (14-1) (1+2).
+(1) (2) (8) ;
+
+putting 7 = 1 we obtain 1+2¢+a*+<*, verified by
+
+ns 1 5 1 1
+its 2 es id
+1 x % x re
+
+Now consider the partitions at the nodes of the complete lattice such that one part
+at least is equal to 7+1 and no part exceeds 1+1. We obtain all such by placing the
+part 7+1 at the node situated at the left-hand top corner and connecting with it all
+of the partitions at the nodes of the incomplete lattice, which are such that the part
+
+magnitude is restricted not to exceed /+1 in magnitude. We thus derive a generating function
+
+gin (U2)... ((+mm)+071((-41)... ((4mn—1) 1,4
+
+(1) ... (mm—1)
+spits U2)... (Lm) +2441)... ((4mn—1) Ly +
+
+voy +a"([—w+2)...([—~-+mn)
+(1)...(mn—1)
+
+and thence the generating function, which enumerates all partitions at the nodes of
+the complete lattice, which are such that each has one or more parts at least as great
+as /+1, is
+
++a7(L—e+2)..(I=ye-tann)
+
+
+THEORY OF THE PARTITIONS OF NUMBERS. 91
+
+and it is easy to verify that this expression added to the expression already found for
+GF (J, m, n) is, in fact, equal-to
+
+L+,4+...+L,
+
+(1)... (mn)
+that is, to GF («, m, 7). Art. 15. This main proposition involves the whole theory of the partitions at the
+nodes of an incomplete lattice; it gives the true generating function without
+redundant terms, and this only needs examination and, where possible, simplification.

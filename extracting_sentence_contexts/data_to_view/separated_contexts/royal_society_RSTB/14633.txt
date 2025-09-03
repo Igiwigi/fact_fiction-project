@@ -1,0 +1,12 @@
+To address this question,
+we focus on landscapes that have more than one peak (46% of
+L=3, K=1 landscapes), since with a single peak, hi is always
+equal to the fitness of that peak. Interestingly, figure 1b
+shows that ft does not always monotonically increase with N. In fact, this expected case occurs only for about 40% of the
+landscapes with more than one peak (e.g. figure 1c), and h
+
+(iii) Impact of the starting set of genotypes have a high peak more accessible than the low peak, and
+So far, we have considered the average /i of h over all possible vice-versa for landscapes displaying overall decreasing beha-
+initial genotypes, assumed to be equally likely. What is the viours. Quantitatively, 99% of the landscapes where both
+impact of restricting the set of possible starting points to measures are positive or 0, but not both 0 (representing
+those with high fitness?

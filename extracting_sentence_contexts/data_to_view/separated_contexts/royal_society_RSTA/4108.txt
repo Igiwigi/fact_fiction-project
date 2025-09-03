@@ -1,0 +1,11 @@
+For the general experimental setting,
+P(0) and P(1) can be taken as the arbitrary non-negative values satisfying P(0) + P(1) =1. In the
+above form, the classical probability law (FTP)
+
+P(x) = P(0)P(x|0) + P(1)P(x|1) (2.3)
+
+is violated, and the term of interference 2,/P(x|0)P(0)P(x|1)P(1) cos @ specifies the violation. The
+violation of the FTP is a consequence of the special contextual structure of the two-slit experiment
+(in fact, a group of experiments). As Feynman pointed out [1], the interference formula (2.2)
+involves three contexts: C;,i= 1,2, only the ith split open, and C12, both slits are open. They are
+represented by corresponding quantum states.

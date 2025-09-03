@@ -1,0 +1,15 @@
+The red areas indicate a reduction in the recognition ability of the model when a particular location is occluded, while the blue areas indicate the
+opposite. The colour bars indicate the appropriate probabilistic scale for each instance. (b) Average of the occlusion analysis in the KDEF dataset projected on the
+relevant AKDEF images. (c) Example of bubbles analysis on three subjects from the test dataset. (d) Example of bubbles analysis on a single subject from the KDEF
+dataset among the three categories. (e) Average bubbles result by category, projected on the relevant AKDEF dataset images (female AKDEF shown).
+
+results from the occlusion analysis and bubble method are The above pattern is almost inverted for sad expressions. In
+highly coherent with both datasets, thus documenting the fact, the view of the eyes and eyebrow region is most useful to
+robustness and reliability of the model (figure 7). the model for correct categorization of faces as sad, while the
+
+Regarding happy expressions, recognition accuracy drops mouth becomes less salient. Neutral expressions fall midway,
+drastically when the mouth is occluded, whereas the occlu- with the strength and reliability of the association between
+sion of other face areas has minimal impact on the model’s facial features and correct recognition depending more on a
+performance. Symmetrically, revealing the mouth region in global scan path that includes both mouth and eye regions.
+the bubble technique drives better discrimination per- Therefore, also in the present case our network model approxi-
+formance than exposure of other face parts.

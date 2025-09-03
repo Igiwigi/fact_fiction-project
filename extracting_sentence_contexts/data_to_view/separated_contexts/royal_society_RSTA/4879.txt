@@ -1,0 +1,8 @@
+It then sets the ground for the
+application of a final lemma [7, lemma 3.4]:
+
+Lemma 6.3. If the square classes 5y(F),...,6x(Fr) are linearly independent, then Fy,...,Fy are
+linearly disjoint over E. Lemma 6.3, together with F being the compositum of Fy,...,F, and with the classical fact that
+Gal (F;/E) = Sn, easily yields proposition 6.1; see [2, §3] for the full details. We note that lemma 6.3 was proved in [7] also in characteristic 2. In this case, 5x(f) needs to
+be defined in terms of Berlekamp’s discriminant, as the residue class [Berl(f)] in E/g(E), where
+@(y) =y? + y.

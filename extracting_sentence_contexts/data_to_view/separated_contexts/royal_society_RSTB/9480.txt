@@ -1,0 +1,11 @@
+They are based on the ‘amalgamation’ idea. Based on a
+sample of gene trees, amalgamation is a dynamic program-
+ming algorithm that allows the exhaustive exploration of a
+large space of gene trees. In fact, based on a limited set of
+gene trees, amalgamation allows consideration of a much
+larger space of gene trees, because it can piece together
+clades from several trees at a time to generate new trees,
+not present in the initial sample of gene trees. This technique
+is found to improve on competing approaches [16,23] in both
+speed and accuracy. Probabilistic gene tree-aware approaches can also be used
+to date trees.

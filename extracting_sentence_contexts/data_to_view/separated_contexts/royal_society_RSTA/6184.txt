@@ -1,0 +1,47 @@
+It remains to show (3.18) and (3.20). Note that both of
+them are consequences of the Minty method. Indeed, it follows from (3.3) that (using the fact that
+div v" = 0 and (3.10))
+
+T T
+lim sup | [ S".Dv" dxdt=limsup— | (a;v",v") dt
+0 Ja 0
+
+n>0o n>00
+
+T T T
+=limsup (-/ (d,(v" — v),v" — v) dt -[ (dpv, v" — v) dt -[ (dpv", v) )
+
+n>00
+
+1 T
+< (lwo — iwenia)= ff s:Dv aver,
+0 JQ
+
+where the last identity follows from (3.17) with setting w := v. Consequently, using this estimate,
+the monotonicity and the growth assumption (1.6), the strong convergence result (3.14), the weak
+convergence (3.10) and the Lebesgue dominated convergence theorem, we deduce that for all
+DeL?(Q;R>*), there holds
+
+T
+0 <limsup [ [ (S" — $*(9",D)): (Dv" — D) dxdt
+0 Je
+
+noo
+T — a
+<[ [ (S — S*(3,D)): (Dv — D) dxdt. (3.21)
+0 Ja
+The classical Minty method then leads to (3.18). Moreover, setting D := Dv in (3.21), we have
+T
+lim sup | [ \(S" — S*(8", Dv)) : (Dv” — Dv)| dxdt=0. (3.22)
+n>oo Jo JQ
+Hence,
+(S" — $*(9", Dv)) :(Dv" — Dv) > 0. strongly in L1(Q). (3.23)
+Since
+
+$*(8", Dv): (Dv" — Dv) +0 weakly in L'(Q),
+
+which follows from (3.10), (3.14) and (1.6b), we see that (3.23) directly implies (3.20).
+
+(b) Limit in entropy equation asn — +-co
+
+In this section, we show the validity of (2.11).

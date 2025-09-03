@@ -1,0 +1,24 @@
+A specially interesting proposal = &
+concerning the phenomenon of symmetry breaking in ants =
+was made in Bonabeau [67], where it was suggested that 3
+flexible behaviour leading to efficient decisions is more likely —
+to occur close to critical points. &
+
+(iii) Task allocation in ant colonies as a parallel distributed
+
+process
+In the previous example, we considered a set of agents
+described as binary variables, thus ignoring the combinatorial
+complexity that should be expected from an insect equipped
+with a brain. Moreover, it is clear that the active/inactive
+dichotomy hides a repertoire of potential activities that can
+be carried out by individuals, associated with the set of tasks
+needed to maintain the colony. DOL is in fact one of the
+most important and widespread phenomenon in nature, and
+very common in social groups [68]. It has been shown that
+the dynamics of subsets of individuals performing specific
+tasks within colonies is an emergent phenomenon [10]. In
+this scenario, a colony that needs to perform a given set of
+tasks under given environmental conditions (and respond to
+changes in flexible ways) must be capable of sensing its internal
+state using some kind of distributed information processing.

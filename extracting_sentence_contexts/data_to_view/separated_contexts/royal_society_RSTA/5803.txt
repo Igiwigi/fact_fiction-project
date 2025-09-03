@@ -1,0 +1,44 @@
+Additional considerations
+
+(a) Asymptotic opinion distributions
+
+The two-against-one model produces mf% = sgn(m)y-), hence, independently of the polarization
+switch, only three values are possible for the asymptotic mean opinion: mj =—1, 0, 1. In
+particular, we observe that my; =0 arises only if mvc =0 and that the latter is an unstable
+equilibrium of the product moment myc, cf. (3.5). As a matter of fact, the relevant physically
+observable cases are therefore mj; = +1, which identify a consensus in the social network with
+asymptotic opinion distribution
+h*(w) = 8(w + 1). Conversely, the Ochrombel-type simplification produces my = mc /mc € [-1, 1], which need
+
+not imply an asymptotic consensus because mj; may be in principle any value in the interval
+[-1, 1]. A simple computation shows that the asymptotic variance owe of the opinion is
+
+O )2
+2,00 (myc)
+ow =l- ee
+mo
+
+and that the asymptotic opinion distribution is in this case
+
+0 0
+h®(w) = ; (: + the) 3(w—1)+ ; (: - he) 8(w +1). (4.1)
+
+mc
+
+
+All in all, the Ochrombel-type simplification produces a less sharp, thus probably more realistic,
+big picture of the possible asymptotic scenarios on the social network while retaining all the
+essential features characterizing the polarization switch.
+
+(b) Statistical independence
+
+An intriguing simplification of the dynamics studied in §3 is obtained by assuming statistical
+independence of the variables W;, C, meaning that
+
+f(w,c, t) = g(c)h(w, t) Vt>0. (4.2)
+
+Plugging this ansatz into (2.8) and choosing the observable quantity of the form ¢(w,c) =
+¢(w)W(c) for arbitrary functions g : {—1, 1} > R and y:R, > R, we obtain that the Boltzmann-
+type equation of the two-against-one model reduces to
+
+Be) +H o-Y = Emep(ngty (HO — 4) (eC) - e-1)).

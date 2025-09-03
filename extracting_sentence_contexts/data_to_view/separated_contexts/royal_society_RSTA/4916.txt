@@ -1,0 +1,6 @@
+Example 3.5. If g is the empty tuple, n > 2 and x is an n-tuple where all components are trivial,
+then it follows immediately from the definition that (x, @) is not Kummer-induced. Thus, the last
+result recovers, for p large enough in terms of n, the fact that the geometric monodromy group of
+Ke, contains SL, if n is odd, and contains either SO, or Sp,, if 1 is even. In order to apply the results of the previous section, it is of course very useful to have some
+information concerning the projective automorphism groups of hypergeometric sheaves. Many
+cases are contained in the following result.

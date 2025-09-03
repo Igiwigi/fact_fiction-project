@@ -1,0 +1,22 @@
+Emission background as well as the dynamic range required to also
+intensities are typically much lower than excitation energies. detect changes in deeper regions. The other effect of this differ-
+It is argued here that reflectance WFOM measurements ence is in the applicability of using diffuse-reflectance
+should always be acquired in parallel with fluorescence measurements to correct for absorption contamination of
+measurements to protect against haemodynamic cross-talk fluorescence measurements as described in more detail below.
+as explained further below. Another slight difference between the spatial sensitivity
+
+Overall, the imaging properties of WFOM for fluorescence of wide-field fluorescence and absorption measurements
+imaging are largely similar to those of haemodynamic comes from the fact that fluorescence emissions are isotropic.
+imaging. However, there are several considerations for fluor- Diffuse-reflectance signals come from photons that have
+escence WFOM that differ from reflectance imaging as repeatedly scattered, usually in a fairly forward direction,
+described below: until they emerge from the tissue (with signal being inferred
+
+from photons that are absorbed, and thus do not emerge). Conversely, a fluorescent absorption event can occur for a
+photon travelling in any direction, and emission of a fluor-
+
+(a) Depth sensitivity of fluorescence wide-field optical
+
+mapping escence photon will be in a random direction, such that
+An important distinction between reflectance and fluorescence photons with effectively shorter paths could feasibly return
+WFOM relates to the effects of fluorophore spatial heterogen- to the detector more efficiently than in diffuse reflectance
+eity on the spatial dependence of imaging.

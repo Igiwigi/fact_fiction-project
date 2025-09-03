@@ -1,0 +1,13 @@
+Formally, use of these priors prevents learning [10], but we .
+consider them as envelopes for a dense set of proper priors. The posterior distribution F;: is
+itself the envelope of the posterior distributions corresponding to the family of proper priors with
+weight s. The derivation is contained in the electronic supplementary material, section S4. (ii)
+Consistency follows from the fact that limy— 4. Fe) = limnoo E, n = FY and limy—o0 Un+s = Idjo,1],
+thus limy—oo Fp = Fy. a
+
+Remark 5.3. In the limits | 0 the upper and lower distributions coalesce into the single random
+distribution
+FE) <b, o By ~ CDP[nFy]. (5.6)
+
+This is the Bayesian Bootstrap method introduced by Rubin [7] as a Bayesian analogue of the
+bootstrap method.

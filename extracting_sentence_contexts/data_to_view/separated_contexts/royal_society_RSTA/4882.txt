@@ -1,0 +1,82 @@
+We have some obvious symmetries from the definition
+S(a, Bry, 5) = S(B, 07 7,5) = Slo, Bi5, 7), (7.10)
+
+and hence to evaluate S(a, B; y,5) it suffices to assume
+
+a<p, yx. (7.11)
+Assuming (7.11), we write
+S@@,B;y,d)= > Hye Mg,we Mg :xy —2u=1). (7.12)
+xeMa
+zeM,
+gcd(x,z)=1
+
+Note that a, y <n/2 (since a+ B =n and a < B) and hence a+y < (a +6+y+5)=n. Thus,
+we may use lemma 7.2 to deduce that
+
+#Hy eMg,ue Ms :xy—zu=1j=q"*” (7.13)
+and therefore
+Sa, By, d)=qh"" Soo. (7.14)
+xeMa
+zeM,
+ged(x,z)=1
+
+Recall the Mobius inversion formula, which says that, for monic f, Lar u(d) equals 1 if f=1,
+and 0 otherwise. Hence, we may write the coprimality condition ged(x,z) = 1 using the Mobius
+function as
+
+1, ged(x,z)=1,
+Dd ua) = (7.18)
+
+d|x, d\z 0, otherwise,
+
+
+and therefore
+
+S(a,Biy,8)=q""” YS > nla)
+xeMy d|x,d|z
+zeM,
+aque’ > wax € Mg :d|x}-#{ze My :d|z}
+
+deg(d)<min(a,y)
+d monic
+
+a py
+=" YO n@t.4
+
+deg(d)<min(«,y) idl \dl
+d monic
+
+_ on ud)
+=" OR
+deg(d)<min(a,y)
+
+d monic
+
+=g! ud)
+“4 » iar’
+deg(d)<min(@,B;7,5)
+d monic
+
+where we have used the fact that w < 6 and y <6. We next claim that
+
+1 n=0,
+> ud) 1
+a
+deg(d)<n idl 1--, n=],
+d monic q
+
+which when we insert into (7.16) proves the lemma. To prove (7.17), we sum over d of fixed degree
+
+AC) 1
+deg(d)<n Osé<n deMe
+d monic
+
+and recall that [19, ch. 2, exercise 12]
+
+1 €=0,
+Yo u@=)-4q, €=1,
+deMe
+
+0, €22,
+
+from which (7.17) follows.

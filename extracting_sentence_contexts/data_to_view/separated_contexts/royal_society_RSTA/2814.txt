@@ -1,0 +1,15 @@
+In fact, in that case the family of convex caustics represented by
+confocal ellipses do not foliate the whole domain (the segment between the two foci is left out),
+and neither set of homotopically non-trivial invariant curves has full @-measure in the phase
+space: the homotopically trivial invariant curves corresponding to orbits tangent to confocal
+hyperbolae, foliate a positive @-measure set (in the phase portrait (figure 4) this set corresponds to
+the area below the separatrix, i.e. the stable/unstable manifold of the hyperbolic 2-periodic orbit
+corresponding to the major semi-axis of the ellipse). What about other notions of integrability? In the study of integrable systems, in fact, in most :23
+of the cases integrals of motion are non-degenerate not everywhere, but either on an open-dense : =
+subset of the phase space (we shall refer to this as global integrability) or just a proper (non-trivial) :§
+open subset (we shall refer to this as local integrability). : =
+
+Remark 4.3. An interesting result* by Innami [30] shows that the existence of caustics with : a
+rotation numbers accumulating to 3 implies that the billiard must be an ellipse. This regime of [4
+integrability is somehow opposite to the one we are interested in, which is concerned with caustics : >
+near the boundary of the billiard table, ie. with small rotation numbers.

@@ -1,0 +1,14 @@
+They were, therefore, different for PETCO2 and HR
+because they were sampled at 1/3 and 4 Hz, respectively, as shown in figure 3. Lastly, it is worth
+mentioning that the choice of basis function did not make a significant difference in our analysis. The results presented were obtained by using the Coiflets wavelet basis [30] (figure 1).
+
+(iv) Correlation coefficients
+
+In each case, we quantified the modulating effect of time-varying physiological signal power
+for both PETCO2 and HR on the time-varying RSN degree by calculating the Spearman rank
+correlation coefficient, which is suitable in our case due to the fact that our results are paired with
+respect to time (network degree versus time-varying physiological signal power). We performed
+the analysis on all 12 subjects (11 for HR analysis, as one subject did not satisfy the SQI mentioned
+above) and then calculated the mean and standard deviation of the resulting correlation
+coefficients over all subjects. This was done both for the mask-based analysis (functional and
+MNI space), seed-based analysis as well as for different wavelet sub-bands.

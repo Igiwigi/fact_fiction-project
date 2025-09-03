@@ -1,0 +1,8 @@
+In that case, the resolution is measured by measuring the spacing between two calibration
+peaks and dividing the spectral value by the number of pixels. The third and final case is when
+the calibration peak is thinner than a pixel. In that case, similarly as for the second case, the
+spacing between two calibration peaks is measured and divided by the number of pixels but the
+uncertainty is increased by the fact that the sensor cannot differentiate between two emission
+peaks that would be on the same pixel. Using the Hg—Ar calibration lamp, the resulting image and spectrum taken with the prototype
+are shown in figure 7. From the spectrum extracted, four different peaks can be identified, two
+single emission peaks and one doublet.

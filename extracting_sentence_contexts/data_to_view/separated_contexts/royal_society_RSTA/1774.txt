@@ -1,0 +1,7 @@
+In the summation of (2.2), we have used 50 terms, and for the Laplace inversion, we only use
+1 pole per eigenvalue (hence 50 poles). The boundary of the truncated domain is set to h = 100rzr
+for carbon and h =20rzr for stainless steel. The fact that we use only 1 pole for each eigenvalue
+is a crude computation that nevertheless gives good results for the long time. For the long-time
+domain, the number of eigenvalues and thus the number of poles can be decreased further. We
+have run a parametric study regarding the number of poles that can be used to reliably compute
+the induced voltage.

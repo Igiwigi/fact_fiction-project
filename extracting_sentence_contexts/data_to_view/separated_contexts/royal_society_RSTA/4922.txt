@@ -1,0 +1,22 @@
+For example, we show in
+§5, for d=3 and any k > 10, that p = i (we restrict in that section to q prime). In §6 we prove, for
+d=4and any k>9, that p= $ (again with q restricted to being prime). Isomorphic hyperelliptic curves
+
+We took advantage, in tabulating zeta functions, and also in deriving the formulae described
+below in §§5 and 6, of the fact that the same zeta functions in Hg arise repeatedly. For D(x) € Hya, let us denote its coefficients as cy = cy(D):
+
+D(x) = ay ca_1xt-! ++++c1x +¢0. (4.1)
+
+If d € Fy is non-zero, i.e. if p, the characteristic of F, does not divide d, then, on binomial expanding
+and rearranging the resulting double sum
+
+D(x + u)= Soult +0)" = ray(" Jw
+
+n=0 n=0  j=0
+
+= yy 6, (." _ ) uw axt xl du tga) +--+. (4.2)
+
+j=0 1
+
+We can choose u = —d~!cq_1 so as to make the coefficient of yal equal to zero. Furthermore, D(x)
+is square-free if and only if D(x + u) is square-free.

@@ -1,0 +1,17 @@
+However in
+this case, the repository consists of GP models rather than
+controller weights. Finally, we also remark that there is an increasing body of
+work that uses novelty search [43] to jointly optimize body and
+control. Although this is rarely cast as cultural evolution in
+the literature, in fact it makes use of an external archive of
+information that is updated over the generations based on
+past experiences, and is used to guide evolution. Hence this
+might be considered as cultural evolution in the sense
+described above that individual evolution is guided by
+experiences of other robots, and in that individuals have
+access to information that does not exist in the current
+population. The notion of novelty-search was first introduced by
+Lehman & Stanley [43]: the idea is to replace objective-
+driven evolution in which selection is driven by a perform-
+ance (fitness) related quantity with a selection mechanism
+that is driven instead by novelty.

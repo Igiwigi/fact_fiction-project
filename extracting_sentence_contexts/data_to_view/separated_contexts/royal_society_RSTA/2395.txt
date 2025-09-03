@@ -1,0 +1,16 @@
+In figure 2a-c, note that increasing yg can be understood as a spectral shifting
+that reduces the time needed for the agents to achieve consensus.
+
+6. Conclusion
+
+In a class of MAS, a PR protocol is designed such that with each agent using this protocol, the
+speed of consensus reaching of agents can be modulated accordingly by means of dominant
+(rightmost) roots of the arising PR-controlled MAS. In contrast with prior work, the PR protocol
+here is based on the fact that the eigenvalues of the graph-Laplacian underlying the network
+are in complex conjugate form. An analytical approach is constructed to tune the PR controller
+based on these eigenvalues, which complements the prior work devoted to the case of real
+eigenvalues. Future work includes finding an analytic solution to the function Fj,,,, in theorem 4.1
+guaranteeing its negativity, establishing a unified framework handling a mix of real and complex
+graph-Laplacian eigenvalues, assessing whether or not real versus complex eigenvalues affect the
+performance of PR controllers in terms of control effort and noise rejection, and studying various
+graphs comprising of directed and/or undirected links.

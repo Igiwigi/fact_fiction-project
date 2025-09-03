@@ -1,0 +1,8 @@
+The classical problem with such model selection is that it is not possible for Gaussian variables. If we assume the data are Gaussian, the two models give equally good fits. In fact, if we assume
+the variables x; and x2 are standardized to unit variance, the regression coefficients are equal,
+
+
+i.e. by = bp; they are equal to the correlation coefficient between x; and x2. The variances of the 6 |
+
+residuals are thus also equal, and the models are completely symmetric with respect to x; and x2. There is no way of distinguishing between the two models. _
+However, if the data are non-Gaussian, the situation is different.

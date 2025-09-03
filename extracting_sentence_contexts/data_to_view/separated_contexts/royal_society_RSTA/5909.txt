@@ -1,0 +1,27 @@
+It suffices to prove that J(s) defined via
+J(s) = UG¢(s)Po — P(s)US(s) (B1)
+
+vanishes for all s. Thus J(s) is the ‘integral of motion’ of the differential equation satisfied by
+Uaa(s)-
+We can find the derivative using equation (6.7):
+
+, ,
+J! = Ug Po — PUG, — PUG, (B2a)
+=G)+[P’, PIUS,;Po — P'US, — PIP’, PIU, (B 2b)
+
+where in the second equality we used [P, G] = 0, which follows from G being block-diagonal (G =
+PGP + QGQ). Using the fact that P’ is block-off-diagonal (equations (2.13) and (2.14)), we simplify
+the last two terms as
+
+P! +P[P’,P]=P' — PP’ =QP’=QP'Q+ QP'P=P'P, (B3)
+
+where in the last equality we used P’P = (PP’Q + QP’P)P = QP’P. Thus,
+
+J’ —GJ=[P’, P\uS,Po — P’PUS, (B 4a)
+=[P", PJUS;Po — (P’P — PP’)PUS, = [P’, PJ, (B4b)
+
+ie. J=(G+([P) Ply. (B5)
+
+Since J(s) = 0 satisfies this equation and by the definition of J(s) (equation (B1)) we have J(0) =
+by uniqueness of the solution of a linear differential equation we obtain that J(s) = 0 is the unique
+solution.

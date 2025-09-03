@@ -1,0 +1,54 @@
+Table 2. Model II notations.
+
+sets
+K set of key influential indexes
+tT set of non-key indexes
+L set of locations of indexes
+A set of types of alters
+parameters
+k indices of key influential indexes
+i indices of non-key indexes
+/ indices of locations of indexes
+a indices of types of alters : =
+(a the number of indexes of / = 1 (i.e. from the same residence city with our organization) : =
+p the number of indexes of / = 2 (i.e. from other cities within the same province) : a
+0 the number of indexes of / = 3 (i.e. from other provinces) : ©
+prt probability of key influential index k at location / distributing an HIVST kit to an alter of type a : 3
+Pri probability of non-key index / at location / distributing an HIVST kit to an alter of type a : =
+fe economic benefit of distributing an HIVST kit to an alter of type a : =
+Sky the number of MSM social network neighbours including stable sexual partners, casual sexual partners and 18
+other MSM community friends of key influential index k at location /
+Sis the number of MSM social network neighbours including stable sexual partners, casual sexual partners and
+other MSM community friends of non-key index / at location /
+M the total number of all HIVST kits for allocation this time
+variables
+Xgl the number of HIVST kits allocating to key influential index k at location /
+Xi the number of HIVST kits allocating to non-key index / at location /
+
+So does the item [Prinz J. The adoption of Gaussian greatest integer function here is also due
+to the fact that we need to ensure the output number of each type of alters is also an integer. Then
+we introduce constraints. Subject to: constraints of integer decision variables, of limited resources settings, of upper or
+lower bound of kits’ number for each index can distribute, and of location consideration
+
+Yom t eo Yous (3.6)
+
+keK leL ieT leL
+
+(Wkex + Vier) Vig) + Xi) < (Chex + Vier) Mie ki + 3,1) (37)
+0 P
+
+(Wrex + Vier) Mie2%e1 + Xi) < (Chex + Vier) Mar) +i) (38)
+Pp c
+
+VREK,WIEL, XK < Sky (3.9)
+
+VieT,VW1EL,Xxj) < Sj) (3.10)
+
+VkEK,WleL, xp) >2 (3.11)
+
+
+VkeEK, WEL, x € N* (3.12)
+and VieZ,VIEL,x €N*. (3.13)
+
+To be specific, constraints (3.6) are the motivation of our study, that is, to consider a limited
+resource situation of HIVST secondary distribution kits’ optimal allocation for indexes.

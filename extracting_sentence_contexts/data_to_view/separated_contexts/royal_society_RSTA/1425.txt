@@ -1,0 +1,9 @@
+In view of operational systems, it should be noted that the proposed algorithm relies on two
+existing DA and NNs training techniques that both scale well to high-dimensions (e.g. [41,42]). In principle, the present algorithm can be applied to larger and more realistic problems. In
+particular, the fact that the method does not rely on the adjoint of the truncated model is an
+advantage in terms of code maintenance. However, we foresee some practical challenges: for
+instance, the computational architecture and the data types used for physics-based numerical
+models and for ML algorithms can be very different (e.g. multi-core supercomputers and graphics
+processing units). Training and running hybrid models efficiently imposes heavy requirements
+on both the hardware and software and may come with an overhead even if some tools are very
+promising [43].

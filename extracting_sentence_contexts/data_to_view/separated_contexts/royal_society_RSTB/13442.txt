@@ -1,0 +1,10 @@
+In economics, in the context of repeated games, the com- Figure 3 explicitly organizes strategies and norms in
+plexity of strategies is often captured by translating them to terms of their order (rows) and complexity (columns). We
+state automata and counting the number of elements (states represent well-known third-order norms, most of them
+or transitions) in such representation [47,97-100]. In fact, already alluded to in §2—standing and judging [27,67], staying
+recent results reveal that state-complexity (ie. number of [68], L4 [44,52] and consistent standing [44]—as well as the
+states in the corresponding automata) translate how difficult most cooperative second-order norms—SS and stern-judging
+it is for humans to use a given strategy [47]. The difficulty of [53,55,57]. We also highlight two fourth-order extensions of
+using a complex strategy is typically operationalized through judging: safe judging, that only assigns G to B donors if they
+complexity costs, associating strategy usage with a cost pro- defect with recipients that are consistently B (by consistent
+portional to its complexity [47,98,100].

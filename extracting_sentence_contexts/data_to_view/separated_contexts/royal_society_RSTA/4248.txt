@@ -1,0 +1,6 @@
+The pixel classification produced by COS applied to the raw hypercube is shown in figure 5a,
+where we reversed the pixel classification values. We needed to do so in order to have meaningful
+results. In fact the corresponding ROC curve, plotted in dashed black in figure 62, would be
+below the random guess curve without the reversion. If we apply the PostP method to the
+reversed COS classification, we can improve the classification performance. This is verified by
+the increase in the area under the ROC curve (plotted in solid black in figure 6a).

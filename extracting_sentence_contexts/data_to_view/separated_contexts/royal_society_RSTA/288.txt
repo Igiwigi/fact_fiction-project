@@ -1,0 +1,10 @@
+The concentration of a given promoter state is the total DNA concentration multiplied by
+the probability of occurrence of that state. If we agree to measure all free energies as differences
+from that of the bare configuration, a comparison of (2.2) and (2.4) shows
+
+K ace SPAT (2.5)
+
+That is, the values of the reaction rate constants are constrained by free-energy differences: their
+ratio must be consistent with the equilibrium prediction. There is in fact a much more basic
+constraint on the kinetic constants. Imagine that the DNA is involved in several complexes. In that case the condition P, =P_, while sufficient to ensure time-invariance of probabilities,
+is certainly not necessary.

@@ -1,0 +1,25 @@
+In particular, the projection step (DSMC >
+LBM) allows one to project the DSMC hydrodynamic moments (fine level of description) onto the
+LBM discrete distributions (coarse level of description). In correspondence of the overlapping
+region, where both descriptions are accessible, the coefficients a” in equation (2.1) are computed
+using the DSMC moments. In fact, because the distribution fN (x, &, f) is completely and uniquely
+determined by its values at a set of discrete velocities, one has
+
+q-l
+a) => Pe Nx, &, HOE, ), (2.2)
+
+0)
+where wy and &, are the weights and abscissae of a Gauss quadrature of algebraic precision of
+degree >2N and q is the total number of discrete velocities. From inspection of equation (2.2)
+and taking into account the classical procedure in which moments are computed in LBM, we
+immediately see that the non-equilibrium discrete distributions to be supplemented to the LBM
+at the coupling nodes are the scaled values of the continuous distribution function evaluated at
+the quadrature abscissae,
+
+waf (%, art)
+En)
+
+It is now possible to define the order N at which the distribution in equation (2.1) is truncated,
+as this is directly related to the algebraic precision of the quadrature. As in this work we
+present results for the D3Q19 lattice only, we set N = 2, because the proposed quadrature is able
+to correctly compute the distribution moments up to the momentum flux tensor, P.

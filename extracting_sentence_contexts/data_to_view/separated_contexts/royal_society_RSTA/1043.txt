@@ -1,0 +1,10 @@
+These two propagation steps (electron and nuclear)
+are computed consistently using a third-order Runge-Kutta algorithm [27,28]. Owing to the
+nature of the process, the ultrafast time scales and the computational costs of the simulation, a
+single Ehrenfest trajectory was computed for each initial condition (nuclear coordinates, velocities
+and pulse shape). In fact, during the time window of the experiments (and corresponding
+simulations), we observe large electronic rearrangements while the nuclear motion, even though
+important because it can couple to the electronic dynamics, is mostly ballistic and therefore well
+approximated by a single trajectory. It is important to note that despite the use of a plane-wave
+basis set, the implementation of the Ehrenfest MD approach does not differ from the ‘traditional’
+one based on a localized basis set. For more technical details, see [28-30].

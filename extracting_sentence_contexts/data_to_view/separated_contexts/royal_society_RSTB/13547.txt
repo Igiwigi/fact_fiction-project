@@ -1,0 +1,10 @@
+How-
+associations are formed randomly with respect to the evolution- ever, it was not possible to find the maximum-likelihood
+ary history of each species. As such, the null hypothesis that this values of d;, and dy.
+method is testing is that the evolution of hosts and parasites are The fourth method we explore is from Krasnov ef al. [31],
+independent. This method was one of the first developed that which first estimates the modularity of the network formed
+could account for the fact that many parasites can infect more by host-parasite associations: in a host-parasite network with
+than one host, and that hosts are often infected by many para- high modularity, one would find clusters of hosts and parasites
+sites. ParaFitGlobal computes a ‘fourth corner’ statistic [24] that interact mainly with one another, and not with other clusters
+based on the product of matrices describing (i) the presence/ of hosts and parasites. Modules are computed using the cluster_
+absence of each host-parasite association; (ii) the parasite phylo- walktrap function in the R package igraph [37].

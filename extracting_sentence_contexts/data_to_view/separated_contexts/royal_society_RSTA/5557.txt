@@ -1,0 +1,68 @@
+Therefore, as in the proof of proposition 3.6, one has, by elliptic Hélder regularity theory
+(cf. chapter 3 of [2] chapter 6 or more precisely theorem 3.4.1 and theorem 4.5.1 of [1]), the estimate
+b
+[Pp Ico (2) < Clu" ® u")||coa¢a)- (3.25)
+
+Denoting by (—Agn)~! the solution operator of the boundary value problem (3.24c), which is
+well defined (due in particular to the homogeneous Dirichlet boundary condition on d(x, 092) = 5). The remaining estimate for Pi is more subtle. A key point in the proof relies on the fact that
+the right-hand side of equation (3.24c) does not involve any second-order derivative terms with
+respect to s. Since the problem is considered in the V3 M @, i.e. in the ‘slab’ (s,@) € (0,5)) x (R/(LZ)), one
+introduces the Green function, k, associated with (—Agn)~! according to the formula:
+
+(oan) 60)=| (s,6;5!,0°)f(6",6"yJ(s,6" dso’. (3.26)
+(0,5) x(R/(LZ))
+
+Applying the representation (3.26) to equation (3.24c), one obtains pt as the sum of three terms:
+PY =h+b+h. (3.27)
+
+and
+
+i =| k(s,0;s',0')bp(s’) (a (Fav w" . ?) — dg" (Farr : iy?)
+(0,8)x(R/(LZ)) J J
++ 20 ((u” (ul - z)))(6',6’) ds’do’. (3.28)
+
+Integrating twice with respect to 6’ the first two terms of the right-hand side of (3.28), one
+time with respect to 6’ and one time with respect to s’ the third (taking in account the fact that
+
+
+(u" - n)(0,6’) =0), we obtain:
+
+1
+L =| ag" (5 1 (bp (s')k(s, 0; 5',0") ) uz —(u"-)*)(s',0’) ds'do"
+' (0,8) x(R/(LZ)) MANIC) (be ) ( )
+
+1
+2 ay ( ——ap-(@p(s")K(s, 0:5", 6” 1 i\(u - 2))(s',0')ds'do’. (3.29
++ Joayxeoy Can or (Hols KS, 638 ») (ew HN(u" E))(6, 81) ds (3.29)
+
+For Ip, we write:
+
+b =| k(S,6;5', 8") ols" v (0')( ay ((u? - 7)? — (w" - 2)°) )(6", 6") ds’ do!
+(0,5) x(R/(LZ))
+
++| k(s,0; 8", 0')bp(s)der (Zo -n)(u" - ’) (s’, 0’) ds'do’.
+(0,8) x(R/(LZ)) J
+
+After integration by parts, one has
+h=h+b
+
+with
+
+b= -| ay (1 (@)6u(8")K(s, 435", 6")) ((u" (6, 0") — (u" - 2)°(6",6")) ds'do"
+(0,5)x(R/(LZ))
+
+-| dp (k(s, 0; 8", 0")bp(s’)) (Zo -niy(u" - ’) (s',0’) ds'do’ (3.30)
+(0,8) (R/(LZ)) J
+and
+5 =| y (0')K(s, 6; 0, 6’)(? - 2)2(0, 6") do’. (3.31)
+(R/(LZ))
+Eventually, we have:
+I= (0)! ((02ds)P + 200(04P") + "Pandy. (.32)
+
+Using the classical Hélder theory (cf. as above chapter 3 of [2] or theorem 6.3.2 of [1]), we prove
+the following:
+
+Proposition 3.10. The terms Ij, for i=1,2,3, in (3.27) satisfy an estimate of the form
+for i=1,2,3, |lTillcoa(ay SCIl(u" @ u7)||coa¢a) + DIIP"IIL~(@)- (3.33)
+
+Proof.

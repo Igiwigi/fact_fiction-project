@@ -1,0 +1,7 @@
+One is
+called the rolling shutter and the other called global shutter. Although both technologies record
+ight within a necessary time interval, not every portion of the image starts and stops receiving
+ight at the same time. As used in popular complementary metal oxide semiconductor (CMOS)
+cameras, a rolling shutter is exposed in a progressive step, in fact line by line from top to bottom. Figure 7 illustrates details of the rolling shutter process in successive image recording. As can
+be seen from this figure, the start and end of exposure on each row or column or individual pixel
+happen sequentially.

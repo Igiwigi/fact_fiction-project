@@ -1,0 +1,6 @@
+For CuX, a CP fictitious mass of 800a.u. and a
+timestep of 0.15-0.2 fs were used. For AgX, a CP fictitious mass of 400 a.u. and a timestep of 0.3 fs
+were used. For rocksalt LiCl, a single vacancy was introduced in the 64-atom supercell to facilitate
+hopping, and a CP fictitious mass of 400 a.u. and a timestep of 0.2 fs were used. All simulations
+were run at 700K except LiCl, which was run at 800 K. The supercell lattice parameters were
+a=15.5A (Agl), 14.3 A (Cul), 13.5 A (CuBr), 8.5 A (CuCl) and 10.3 A (LiCl).

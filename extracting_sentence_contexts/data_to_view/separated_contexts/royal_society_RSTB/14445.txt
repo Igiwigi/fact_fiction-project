@@ -1,0 +1,13 @@
+Evaluated environments and the representations of the ‘mental maps’ that result
+include hiking trails, city roads in Berkeley and Richmond from such abstractions are not geometric, but rather
+in California, suburban neighbourhoods, and office parks. describe the connectivity of the environment in terms of the
+Figure 6 shows one such experiment, where the robot robot's capabilities.
+successfully uses satellite image hints to navigate to a goal Such methods for robotic navigation have a number of
+1.2km away without any human interventions. key advantages. Besides grounding the robot’s inferences
+Note that the information from GPS and overhead maps is about traversability in actual experience, they can benefit
+used merely as heuristics in the high-level planning algorithm, from large and diverse datasets collected over the entirety
+and not directly incorporated in the observation space for the of the robot's lifetime. In fact, they can, in principle, even
+low-level navigational skills. This illustrates an important prin- incorporate data from other robots to further improve gener-
+ciple of the low-level versus high-level decomposition for such alization [85]. Furthermore, and perhaps most importantly,
+learning-based methods: both the low-level and high-level such methods can continue to improve as more data is col-
+components can utilize learning and benefit from patterns in lected.

@@ -1,0 +1,16 @@
+As the Bayesian
+
+framework is computationally intensive and incompatible
+with the size of NGS datasets, a heuristic approach has been
+introduced with no apparent loss in sensitivity. This approach
+is based on neighbour-joining trees and non-parametric boot-
+strapping for an evaluation of node robustness [132]. We
+acknowledge the fact that species absent from the database rep-
+resent an important drawback of this method, as large portions
+of the biodiversity remain uncharacterized. Using a promising
+approach based on fuzzy theory and COI sequence data,
+Zhang et al. [133] have shown that this problem could potentially
+be addressed during the analyses. Despite this, building a good-
+quality reference sequence database, properly curated and even
+including taxonomically validated samples, still represents an
+essential component of all metabarcoding projects [102].

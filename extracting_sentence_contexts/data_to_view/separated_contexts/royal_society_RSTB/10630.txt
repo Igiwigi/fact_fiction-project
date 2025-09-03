@@ -1,0 +1,13 @@
+A standard choice is [88]
+ui
+
+O(t) = *! (3.4)
+where « is the ‘target rate’ to which the moving average of the
+postsynaptic firing rate should converge. Second, 7, cannot
+be ‘too large’ compared with 1, because otherwise oscillations
+or runaway activity occur [17,26,88]. In fact, the ratio 7/7
+determines the stability of the model. Oscillations and instabilities are generic to many non-
+linear systems and not limited to the above models. Control
+theory enables theoreticians to identify parameter ranges
+that lead to stable behaviour and avoid instabilities
+[25,84,89].

@@ -1,0 +1,14 @@
+The authors give a brief overview on the literature in this field and
+review results on a bi-stability between the stable cutting solution and the undesired chattering
+motion. They present measurements which prove the existence of the bistable domain (or unsafe
+zone) and are used to determine the size of these zones.
+
+3. Conclusion
+
+The first two contributions [6,7] already point out the complexity of the topic due to the fact that,
+even after decades of intensive research on time delay systems, there are still open fundamental
+questions for scalar systems with one fixed delay. Other contributions show that the research
+trend goes toward studying systems with multiple delays and distributed delays, and that only
+little is known for systems with time-varying delay or state-dependent delay. However, these
+delays are the most realistic ones because in many systems in engineering and nature the delays
+are not constant but rather variable.

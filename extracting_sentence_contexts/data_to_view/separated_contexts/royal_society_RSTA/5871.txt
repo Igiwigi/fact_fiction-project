@@ -1,0 +1,9 @@
+In contrast to the normal regime, in the inverted regime of an exoergic reaction, the ring-
+polymer instanton corresponds to a saddle point of index Npf + 1.3 In the inverted regime, we
+can also employ the half ring-polymer approach (equation (3.8)), though here the index of the
+required saddle point changes to Npf/2 +1. From figure 2, it can be seen how the half ring
+polymer emerges from the full ring in a configuration typically assumed in the inverted regime. Due to the fact that in the inverted regime one is no longer seeking a single-index saddle point,
+different optimization algorithms are required. Conveniently, we can make use of algorithms
+originally developed for locating higher-index saddle points in Lennard-Jones clusters [91-93]. These algorithms are based on eigenvector following, where uphill steps are taken in the direction
+of the eigenvectors corresponding to the lowest Npf/2 + 1 eigenvalues and downhill steps are
+taken in the remaining degrees of freedom.

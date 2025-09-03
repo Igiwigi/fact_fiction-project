@@ -1,0 +1,11 @@
+Thus, in light of Myhill’s result that IZFr has the EP, clearly collection is implicated in : a
+the failure of EP for IZF. It will turn out, however, that separation for formulae with unrestricted : =
+quantifiers is also responsible for this failure. : =
+
+There is another important intuitionistic set theory for which EP fails. Constructive Zermelo— : S
+Fraenkel set theory (CZF) was singled out by Aczel as a theory distinguished by the fact that : =
+it has canonical interpretation in Martin—-L6f type theory (cf. [13]). While Myhill isolated the :3
+Exponentiation Axiom as the ‘correct’ constructive counterpart of the Power Set Axiom, CZF has : 3S
+an axiom scheme called Subset Collection (cf. [13-15]), which is stronger than exponentiation.! :3
+Subset collection implies exponentiation and is a consequence of powerset. In the presence of the : Ss
+other axioms of CZF, subset collection is equivalent to the fullness axiom (cf. [15, 5.1.2]).

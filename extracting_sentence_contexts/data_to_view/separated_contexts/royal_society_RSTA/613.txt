@@ -1,0 +1,24 @@
+To overcome this problem, we have (i) reduced the volume of the temperature sensor
+effectively sensed by confining the evaluated frequency range and (ii) derived the corresponding
+
+Tif) = Coat, - ij =12,11,22, (4.2)
+
+
+mean conductivity from a fit, which minimizes the variance of )°, Tii(fk). In detail, we perform
+the fit
+Re[Sy if, Vi, Vi]
+var Tij(fk,@) ) > min, Ti(f, a) = Cal ij - - (4.3)
+(x iff ) iGO = Coal SREB pi (f/er oR
+
+based on (arbitrary) oper and obtain the fit result of, = aft - TRe¢- The confined frequency range
+420-3600 Hz used for evaluation corresponds to skin depths 5 = 1/,/x fo between 0.32 mm and
+0.11 mm. The fit procedure benefits from the fact that the evaluated frequencies are above the roll-off
+frequency of the TMEN spectra, which is about 230 Hz. By applying this method, we obtain an
+average conductivity of 5.8706 x 10? (Q x m)~! with a relative uncertainty of 0.6% within the
+examined temperature range 16-670 mK. For the temperature calculation, we use the individual
+fit values ogj¢(T) obtained with T12(f).
+
+(d) Noise and temperature spectra
+
+An example of the spectra, from which the pMFFT temperatures are determined, is shown in
+figure 5 for a dataset taken at the lowest temperature measured, i.e. ~16mK.

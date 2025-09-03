@@ -1,0 +1,7 @@
+Therefore, the probe has a high sensitivity to the variation of eddy current corresponding to the
+waviness and shows the highest performance in both accuracy and precision. On the other hand, even though CirD also has directional eddy current distribution, this probe
+shows a larger RMSE than SymD and UniD. The difference in the error is due to the fact that eddy
+current near the pickup coils is not perfectly directional and has non-uniform distribution even
+in this narrow range. Therefore, the ECT signal cannot follow the change of electric resistance
+faithfully with high spatial resolution, leading to larger errors in the contour map. SymD has
+stronger directional eddy current than CirD.

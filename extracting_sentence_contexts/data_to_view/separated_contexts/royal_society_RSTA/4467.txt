@@ -1,0 +1,7 @@
+The simplest available classification techniques rely only on pixel-wise information, i.e. on
+the observation in each coordinate: isodata, parallelepiped and pointwise maximum-likelihood
+(ML) are examples of these methods. Arguably, the most successful techniques exploit both the
+spectral information and the context. This is mostly due to the fact that images exhibit a great deal
+of spatial redundancy, i.e. spatially neighbouring pixels tend to be alike. As an example of contextual classification one should mention techniques based on Markovian
+models. Geman & Geman [1] posed the classification process as an estimation problem and, as
+such, proposed a number of estimators and algorithms.

@@ -1,0 +1,21 @@
+Further, formulae for the covariance of average pairwise .
+difference terms can also be reduced to functions of individ- (b) Covariance
+ual pairwise terms Let i, i’, j, j' be four individuals sampled from arbitrary
+
+populations. Let T be a local coalescent tree relating the
+four individuals restricted to a non-recombining region. Here, we show that
+
+Cov(dx, dy) = Cov(kii, kj). (2.7)
+
+This simple result is due to the fact that the covariance of
+
+sums can be decomposed into the sums of covariances. Cov(kiz, kIT) = mtirnjy- (3.5)
+As presented in Takahata & Nei (equations 18a-d) [7], — —
+covariance equations involving the cross population can be Consequently, we further derive the unconditional quantity
+expressed as follows: Cov (kin, kip) = wE(tieniy) + 4u2Cov( tii, tins (3.6)
+2 —2
+Cov(dxy, dx) = ay ekki) +o E(kjirky,;) where jj,’ denotes the amount of branch length on T
+- kee Elk 2 shared between the branch connecting pair i, i’ and the
+~ Ei EKy) (2.8) branch connecting pair j, j'. Figure 1 provides an illustra-
+and tive example of this quantity, and electronic supplementary
+material, §E, provides a more technical treatment.

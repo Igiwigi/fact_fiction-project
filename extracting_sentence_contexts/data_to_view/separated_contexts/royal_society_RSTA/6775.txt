@@ -1,0 +1,16 @@
+In that diagram both the
+starting and the final (i.e. accepted) values of w are recorded, together with the loadings
+for which they account. (The specified loading per nodal point, multiplied as above,
+is 15-26.) The accuracy is such that greater residual forces would result from a unit
+change in the last digit of any displacement.
+
+“MATHEMATICAL Prostiem II.’ AN EXTENSIONAL EXAMPLE
+
+35. Our last example concerns extensional stresses due to specified edge tensions,
+a problem of the class to which photo-elastic methods are most commonly applied (§ 1). It has in fact been so treated by Coker and Filon (1931, § 7-06). METHODS APPLIED TO ENGINEERING PROBLEMS 449
+
+Figure 21 records the dimensions of the B.S.I. standard ‘briquette’ for the testing
+of cement, with an indication (shaded) of the ‘jaws’ by which tensile loading is applied. The waisted form is intended to ensure fracture across the minimum section, and (on
+the ground that in this neighbourhood the boundary is not stressed) a definite stress-
+system is assumed to obtain at the waist, notwithstanding that the applied tractions are
+not known with great precision.

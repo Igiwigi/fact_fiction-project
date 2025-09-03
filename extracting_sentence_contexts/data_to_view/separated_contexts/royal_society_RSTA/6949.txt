@@ -1,0 +1,20 @@
+Even if the sign of the kernel
+S were changed, giving a positive A, the decrease in modulus is so rapid that there is still no
+substantial error accumulation.
+
+© Another approach to error analysis, for a kernel of the form k(x—y), is provided by the
+Laplace transformation. The previous analysis is qualitative, in the sense that it examines
+the behaviour of the complementary function, introduced by a single rounding error. In
+fact, such a rounding error is made at every point, and it is more accurate to take for the
+total error propagation the solution of the integral equation obtained from (4) by replacing
+g(x) by a step-function s(x), for which $>5(x) > —4 for all x. The solution of this equation
+is given formally by 1 prtie ef (s)
+
+S (x) eg ~ Oni Ai 1—L(k) dp,
+
+(77)
+
+which is equation (68) with g replaced by s.
+
+
+532 L, FOX AND E. T.

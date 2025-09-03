@@ -1,0 +1,20 @@
+IPSL-CMSA-LR Y Y 19 Z 1.98 x 1.30 55-3000 Treg97
+IPSL-CMSA-MR Y Y 13 Z 1.98 x 1.30 55-3000 Treg97
+IPSL-CMS5B-MR Y Y 13 Z 1.98 x 1.30 55-3000 Treg97
+MIROCS 14 o-Z 141 x 0.78 300 GM95
+MIROC-ESM Y Y 28 o-Z 141 x 0.93 700 GM95
+MIROC-ESM-CHEM = Y 28 o-Z 141 x 0.93 700 GM95
+MPI-ESM-LR Y Y 19 Z 141 x 0.89 100 GM95
+MRI-CGCM3 Y Y 1 Z 1.0 x 0.5 300-1500 ——-Vis98
+NorESM1-M Y 19 o 113 x 053? Eden08
+
+variability and biases tend to be positive (0.3 + 1.0ms™') in the Atlantic and strongly negative
+(—1.4 + 1.0ms~') in the Pacific sectors. It is worth noting that, while there is some uncertainty in
+the accuracy of reanalysis datasets, the variability between three reanalysis products compared by
+Bracegirdle et al. [33] was negligible in comparison with inter-model differences, even taking into
+account the fact that the reanalysis-derived uncertainty is probably slightly smaller than actual
+observational uncertainties [35]. Under the RCP4.5 and RCP8.5 scenarios, there is a clear trend in westerly winds towards
+stronger and more poleward jets, with a directly associated positive trend in the SAM [36]. This
+proceeds in three broad phases: an increase in strength and poleward shift in the late twentieth
+century, a weaker change over the first half of the twenty-first century and then a clear poleward
+shift and strengthening winds in the latter half of the twenty-first century.

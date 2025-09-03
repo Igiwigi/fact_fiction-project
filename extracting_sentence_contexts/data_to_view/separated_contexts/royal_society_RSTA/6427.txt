@@ -1,0 +1,63 @@
+Junction conditions upstream are
+N
+Q=>> QM? and P= PH, for n=1,2,...N. (4.2)
+n=1
+
+At the transmission region, with cross-section area Ar and celerity cr, the transmitted pulse
+propagates rightwards and no reflection occurs. The state variables at the downstream junction
+x=dare
+
+Pr=Te*™4 and Qr=57'Telkr4, (4.3)
+
+where kr =o/cr, Ep=pcr/Ar and T is the transmission coefficient. Junction conditions
+downstream are
+
+N
+Qr=>> Q” and Pp=P for n=1,2,...,N. (4.4)
+
+Applying the junction conditions results in an overall transfer matrix for the Herschel-Quincke
+tube with modulated branches that relate state variables at the upstream and downstream
+junction
+
+Pp. 1 Tu Ti] } Pr Py
+[a ron ol |i (45)
+TY] Spar /Ty2) | Tor = T22 | | iQr iQ
+
+where, using also the fact that det T,, = 1, the diagonal and off-diagonal elements are
+
+N pln) jpn) Nn) jpn)
+Tu =O, Tr /T2), T2 =), Tae Ti (4.62)
+
+
+and
+
+2
+
+It can be verified that det T = 1, and after straightforward calculations
+
+gol )-1 o-l
+—&7 Tu — (Sr 8)) Ti. + Ta + &; Tae aku (47)
+25'Tu — (StS) 'T2 — Ta + 2; Tx
+and
+25,1
+41 ellkin—krd). (4.8)
+8p'Tn — (S781) 'T2-Ta + 8; Tx
+Transmission Loss (TL) is defined as
+o-ly a
+1 85° (8)T — T &/T2 — T
+TL =20log} 7| 20log,9|—= (Br 7 a) _ (8 5 22) (4.9)
+
+It is noted that in the present model losses and higher order mode effects at junctions are not
+considered.
+
+5. Resonance conditions
+
+Equations (4.62) and (4.6b) imply that resonance conditions occur when
+
+on = (=) =0. 6.1)
+
+(n)
+Tip
+
+Element Tv!) of the overall transfer matrix for branch n can be calculated from T;, = Dy;MyUn. For most practical applications the upstream and downstream region properties and length will
+be the same, i.e.

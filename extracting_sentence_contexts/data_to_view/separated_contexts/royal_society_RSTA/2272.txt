@@ -1,0 +1,20 @@
+We will not
+consider this case here.
+
+
+case of sharp measurements, one can always assume that the response functions &(k|A, M) take 6 |
+
+only values 0 or 1, i.e. they are deterministic functions of A [24]. As a consequence, one can restate
+
+the KS conditions of equation (2.1) in the language of measurement-non-contextual ontological 3
+
+models as [3S
+Ei, ME(jIA, M)=0 for ix; :g
+
+and Yella M)=1. (3.4) 2
+
+The situation changes, however, when measurements are not sharp. In fact, it has been proven :2
+that, due to the statistical identification above, one can no longer assume the response functions 18
+are deterministic. A rigorous proof has been provided in [24], the intuitive explanation is the &
+following. Given a POVM effect E, consider its spectral decomposition >; i/7;, where the :§
+eigenvalues j; satisfy 0 < 4; <1.

@@ -1,0 +1,55 @@
+No special symmetry properties are associated with ‘. It is expanded in terms of
+the complete set of eigenfunctions y,,,(r,) of the hydrogen atom; thus
+
+¥(t,,02) = 2 ¥m(F2) F,,(T,)5 (11)
+
+the summation sign including integration over the continuum. By substituting in (7) and
+making use of the fact that y,, satisfies the equation
+
+[¥8+2(En+;)| Yu (ts) = 0, (12)
+
+by then multiplying by y* (r,) and integrating over the spatial co-ordinates of the atomic
+electron it can be shown that
+
+I il
+(WEEE) Ry ry) = 2 (77) Wet) vt (re) are (13)
+Hence using (11) again
+{V}+2(E—E, —Voe()))}F(t1) = 2 5 Vag(F1) Fn (Fr) (14)
+mq
+
+1 ui a
+where Vg(#1) = [(p-— 5.) Bota) YE (Oa) dr (15)
+
+1
+J(j,) ¥nCea) ver) dry for mag, (16)
+
+owing to the orthogonality of , and y,,. To simplify this infinite set of coupled differential equations Born assumes:
+
+(i) that V,,(r,) (which is the electrostatic potential appearing on the left-hand side of
+(14)) can be neglected;
+
+(ii) that V,,,(r,) ¥,,(r,) (on the right-hand side of (14)) can be neglected for m+ (so that
+the coupling terms disappear) ;
+
+(iii) that F,(r,) (again on the right-hand side of (14)) can be replaced by exp (k,n, 1),
+n, being a unit vector in the direction of the incident wave (that is, that /,(r,) is undis-
+torted by the interaction—as follows from (i) and (ii)). These assumptions are, of course, equivalent to representing ‘in (13) by
+
+i exp (tk,M, T)) ¥,(To), (17)
+and lead to the equation
+
+1 y
+(Vi+ 2(E—E,)} Fy (01) = 2 (;) voles) ve (ra) dra exp (ikpm,.1,). (18)
+Following the standard procedure (Mott & Massey 1949) the asymptotic form of the relevant
+solution of this equation can be shown to be
+
+7! exp (tk, 1) Sq, 9; ky), (19)
+1 xp {i(k,n, —A,n,) .r; ' /
+where (8, 5 by) =~ [f =P eae Fi yr) vg ea) dri (20)
+and 1 2
+k= K+2(E,—E,), (21)
+
+and n, is a unit vector in the direction of the scattered wave.
+
+
+98 D.

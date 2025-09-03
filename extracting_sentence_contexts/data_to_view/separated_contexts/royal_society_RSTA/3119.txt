@@ -1,0 +1,9 @@
+In the USA, any map associated with a presidential election makes clear that, while there
+is often local (county, zip code) consensus on a candidate, there is huge spatial variation in
+voting preference. In particular, there are clusters of local communities which will agree on a
+candidate. Governing this clustering phenomena is the fact that opinions within a community
+are not solely governed by the interactions within that same community. Outside voices, e.g.
+the media, scattered friends and family, migrants and tourists, all play a role in the formation
+of opinions at a local level. Therefore, isolated communities can be thought to be connected
+by weighted, directed edges where each incoming edge weight is the probability of interacting
+with individuals from the source community.

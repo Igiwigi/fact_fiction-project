@@ -1,0 +1,11 @@
+If the equations of motion are not linear in the parameters of
+interest, the difficulties multiply. Another issue is concerned with confidence in derived parameter
+estimates. This issue is a result of the fact that measurements or data from a system will, in reality,
+almost always be contaminated by random noise. Given a set of data D = {(xj,y;),i=1,...,N}
+of sampled system inputs x; and outputs y;, if there is no measurement noise, an identification
+algorithm should yield a deterministic estimate of the system parameters 0,
+
+0 =id(D), (2.1)
+
+where the function id represents the application of the identification algorithm to the data D. Now, if noise e(f) is present on the input or output data (or both), 6 will become a random vector
+conditioned on the data.

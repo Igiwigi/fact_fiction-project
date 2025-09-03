@@ -1,0 +1,12 @@
+Most of the diversity comes from insertions. Note that the
+entropy of rearranged sequences is smaller than the entropy of
+
+0.02 recombination events. This is due to convergent recombin-
+ation—the fact that a given sequence can be produced by
+
+0 5 10 15 20 25 30 35 40 different recombination scenarios. Individual B has larger gen-
+length of CDR3 (amino acids) eration entropy than individual A, primarily because it has
+
+more insertions. The entropy of productive sequences is
+further reduced (by two bits) by keeping only the in-frame
+sequences.

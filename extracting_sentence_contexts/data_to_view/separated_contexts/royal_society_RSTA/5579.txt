@@ -1,0 +1,25 @@
+Then, for each t > 0,
+
+3
+lim « | \Vo'(x,y, dx dy = 2. R2
+
+04 t
+
+
+In particular,
+
+lim inf x | |Va" (x,y, BP dx dy > 0. RZ
+
+K> 05
+
+In fact, theorem 5 in [55] establishes a stronger result, namely, that
+
+4 3
+K |VO¥(E)| > bo, asx 0,
+
+in the sense of distributions, for t > 0 fixed , where dg is the Dirac measure at the origin. We modify this construction for the torus T?. We let u be any shear flow, without loss of
+generality we take a horizontal shear flow:
+
+u(x, y, t) = (u(y, #), 0), (4.3)
+
+with u a 1-periodic function in y.

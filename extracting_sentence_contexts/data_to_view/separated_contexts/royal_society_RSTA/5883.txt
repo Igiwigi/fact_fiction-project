@@ -1,0 +1,34 @@
+The key conclusion from these results is that if a significant, let alone unbounded, growth
+of enstrophy is to be achieved in finite time, it must be associated with initial data ug other than
+the extreme vortex states Ug, saturating the upper bound in estimate (1.10) on the instantaneous
+rate of growth of enstrophy, cf. (4.1). More specifically, assuming the instantaneous rate of growth of enstrophy in the form dé/dt =
+CE“ with some prefactor C > 0, any exponent a > 2 will cause €(u(t)) to become unbounded at
+some finite time to = to(@) if this rate of growth is sustained over the interval [0, to). The fact that
+there is no blow-up when 1 < a@ <2 follows from the observation that one factor of € in (1.10) can
+
+
+a, 6, 0,
+
+Figure 4. (ac) Vorticity components of the asymmetric optimal initial condition Up, «, Teg obtained by solving Problem 4.2 for
+
+the initial enstrophy & = 500 and the corresponding optimal lengthTs, = 0.17 of the time interval. The time evolution of the
+flow corresponding to this initial condition is visualized in the electronic supplementary material, movie S2. (Online version in
+colour.)
+
+be bounded in terms of the initial energy Ko using (1.92) as follows:
+
+t
+|, etuonas = =o — K(wtO] < Ko, (42)
+0 v v
+
+which upon applying Grénwall’s lemma to d€/dt = C €* with a = 2 yields the bound
+
+O<t<
+
+T
+max, E(u(t)) < € exp le I, eas] <& exp [5%] . (4.3)
+
+Evidently, as the rate of growth of enstrophy slows down when a — 2*, for blow-up to occur
+this minimum growth rate must be sustained over windows of time with increasing length, i.e.
+ty > co asa — 27. Toassess the feasibility of such a scenario, the following optimization problem
+was considered in [13].

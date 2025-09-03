@@ -1,0 +1,11 @@
+Motivated by the linear stability result, the second author executed a fully nonlinear analysis
+
+assuming a certain smallness condition on the initial data [34]. However, construction of a suitable : =
+Lyapunov functional for the complete Einstein—Euler system that controls the required norm of : =
+the data (contrary to the rescaled volume functional which only controls the minimum regularity 1B
+of (g,k, p,v)) is not straightforward. This is a consequence of the fact that the Euler equations : =
+are not of ‘diagonal’ nature while expressed in our choice of CMCSH gauge.” This problem is ZR
+circumvented by constructing a Lyapunov functional using D. Christodolou’s energy current [3
+[15,35]. Using the monotonic decay property of this Lyapunov functional for sufficiently small :8
+data, it is shown that the perturbed solutions are globally well posed to the future and moreover :8
+that they decay to the nearby solutions with constant negative scalar curvature.

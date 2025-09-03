@@ -1,0 +1,8 @@
+When
+someone hands you such a probability distribution, you may not know what it is conditional
+about. But I assure you that it is conditional. I will state it as a theorem:
+
+All probability distributions that are not uniform are in fact conditional probability distributions. This is not what your standard textbook will tell you, but it is the only interpretation of ‘what
+do we know’ that makes sense to me. ‘Everything is conditional’ thus, as the title of this section
+promised. We can also write down what the average uncertainty for crashing your car is, given your
+texting status.

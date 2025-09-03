@@ -1,0 +1,11 @@
+The specification was not live: the recent
+CakeML can be considered a machine-checked implementation [12] but no prior ML compiler
+adheres to the specification strictly—certainly not provably so. It was also buggy [92]: subtle
+errors were later eliminated in a revised version [93]. Illustrating the importance of two-sided
+evaluation, many mistakes were in fact only uncovered when the specification was subjected
+to an unanticipated use case, namely the development of Extended ML [94]. Nevertheless,
+SML/’89 represented a remarkable achievement: it demonstrated to a wider audience that
+formal language specification that goes beyond syntactic issues is possible and provided
+a point of reference for numerous compilers of the greater ML family, including SML/NJ
+and OCaml. As illustrated by this comparison, core objectives of deep specifications were identified several
+decades ago.

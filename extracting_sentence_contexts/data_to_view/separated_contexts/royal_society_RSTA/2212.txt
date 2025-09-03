@@ -1,0 +1,4 @@
+Here z = x + iy is any local holomorphic coordinate on M, and 4 > 0 is assumed to be a smooth. The Laplacian operator acting on a form @ of any degree p =0,1,2 is Aw = +d *dw+dx*d*a,
+where the star is the Hodge star operator. When acting on 1-forms the Hodge star does not depend
+on the metric (only on the conformal structure), in fact «dx = dy, «dy = —dx. On 0-forms it does
+depend on the metric, for example +1 = (2)? dxdy = vol’, the volume form on M (invariant area). Similarly for 2-forms: *vol” = 1.

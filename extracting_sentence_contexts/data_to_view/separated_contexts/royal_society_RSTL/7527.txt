@@ -1,0 +1,84 @@
+We may imagine the coordinates , 6, c, d, & expressed
+
+coordinates, and 80 reduce the problem from
+ordinary 3-dimensional space.
+
+as linear functions of any four
+a problem in 4-dimensional space to one in
+We have thus a sextic surface, and two quadric surfaces ;
+the sextic is a developable surtace or torse, having for one of its generating lines the
+line a=0, þ=0, and for the tangent plane along this line the plane a=0; the two
+quadric surfaces meet in a quartic curve passing through the two points (4=0, b=0,
+3ce—24*=0), which are points on the torse; it is to be 8hown that each of these points
+
+
+WHICH SATISFY GIVEN CONDITIONS, 133
+
+count three times among the intersections of the torse with the quartic curve, the
+number of the remaining intersections being therefore 24—6, =18; and in order thereto
+it is to be shown that each of the points in question (a=0, b=0, 3ce—20*=0) is situate
+on the nodal line of the torse, and that the quartic curve touches there the sheet which
+is not touched by the tangent plane a=0; for this being s0 the quartic curve touching
+one sheet and simply meeting the other sheet meets the torse in three consecutive points,
+or the two points of intersection each count three times. The torse has the cuspidal line
+
+S=ae—40d+3af=0, T=ace+2bed—ad—be—&=0,
+and the nodal line
+6(ae—t?), 3(ad—dbe), ae+2bd—3&, 3(be—cd), 6(ce—d) ||
+a, b 2 c 5 (: <onds e |
+
+and the equations'of the nodal line are satisfied by the values (4=0, b=0, 3ce—24*=0)
+of the coordinates of the points in question. To find the tangent planes at these points,
+starting from the equation S$*—27'T*=0 of the torse, taking (A, B, C, D, E) as current
+
+coordinates, and writing
+d=Ad,+Bd,+Cd.,+Dd,+Ed.,
+
+then the equation of the tangent plane is in the first instance given in the form
+$9S—18ToT=0, which writing therein (4=0, b=0, 3c&—20d*=0) asxumes, as it
+should do, the form 0=0; the left-hand side is in fact found to be 9&(3ce—24?)A. Proceeding to the second derived equation, this is $9*%S+28(dS)*—18'Td*T—18(dT)*=0,
+or substituting the values of the several terms, the equation is
+9(AE—4BD+3C?)
++ 3e@(eA—4dB+6cC)
++18{e(AC—B?)+24(BC—AD)+c(AE+2BD—3C®)}
+— 9 {(ce—@P)A+20d4B—3f0}*=0 ;
+the terms in BC, BD, C* yanish identically, that in B?* is (48—36=)120%d*—18c%,=
+—6@(3ce—24?)B?, which also vanishes; hence there remain only the terms divisible by A,
+giving first the tangent plane A=0, and secondly the other tangent plane,
+A(— 6&@@+18cd%e— 90)
++B(— 60de+36cd”)
++C(. 108c%—540d*)
++D(— 36d)
++E.27& =
+Taking the equations of the quadric surfaces to be
+(tk, ,%,e,0, TA, Þ, ab, 3ce—24, ae— 80d, ad—12be)=0,
+
+(x, &, Y, e, o', TY 3” 3* 25 ”» J=0;
+U2
+
+
+134 PROFESSOR CAYLEY ON THE CURVES
+
+the equations of the tangent planes are L
+2(3cE+32C—4dD) +5 (oA— 84B)+7(dA—12eB)=0,
+e( ” )+o( » J+*( ” )=0,
+in all which equations we have 3ce—2d*=0 ; and if to satisfy this equation we write
+e:d:e=2: 3B: 3, then the equations of the tangent planes become
+P(AB—8B)+8(308'—4D8+2B)=0,
+2(30B*—4D8+2B)+(oP+r)(AB—8B)=0,
+e( ” )+(sÞ—7( » )=0,
+or the three tangent planes intersect in the line AB—8B=0, 30F—4DB+2E=0,
+which completes the proof. Reverting to the sextic locus,
+(ae +464 —3&Y —27(ace+2bed—ad*—bVe—&)*=0, »
+considered as a locus in 4-dimensional space depending on the five coordinates (@, b, c, d, e),
+this has upon it the twofold locus
+ae—4bd +3&f=0, ace+2bed—atf—be—&=0,
+8ay the cuspidal locus, of the order 6, and the twofold locus
+| 6(ae—tP), 3(ad—be), ae+2bd— 30G, 3(be—cd), 6(ce—@) | ==
+| EEO £ c - a4 Pk. r;
+
+8ay the nodal locus, of the order 4: there is also a threefold locus,
+a,b, e,4 |=0,
+l b, CG, d, e |
+
+say the supercuspidal locus, of the order 4.

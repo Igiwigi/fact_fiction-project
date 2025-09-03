@@ -1,0 +1,14 @@
+Now we look at
+impact of early jumps on errors in two different ways, as fol- whether conclusions might look different when considering
+lows: (a) early jump indices are correlated with relative errors the 95% HPD intervals, extracting these as done in [12].
+across the 1000 cases; (b) following the traditional way of These intervals correspond to geographical ‘swarms’ of dots
+defining outliers in a histogram, taking a larger outlier to that strongly tend to form circular or elliptical shapes. There-
+exceed a value of 1.5 times the interquartile range, we identify fore, one can assess a result by fitting a convex hull to the
+outliers in the early jump indices as well as in the relative swarm and determine whether the true homeland lies
+errors and then compute an agreement index as the percen- inside or outside of this fitted periphery. This test, however,
+tage of large error outliers that pertain to cases that are also is confounded by the fact that the area of the convex hull
+large outliers in terms of their early jump indices. If errors can vary tremendously. For instance, if one method proposes
+are in a large part owing to early jumps, the correlations an area almost corresponding to the extension of the entire
+produced in approach (a) should be high, but the correlations family and the true homeland falls within this area, is it
+are based on all 1000 sets, so factors other than early jumps then fair to say that the result is better than the result of
+affect the results.

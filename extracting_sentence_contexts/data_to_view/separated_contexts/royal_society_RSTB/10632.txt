@@ -1,0 +1,10 @@
+BCM model, for example, explicitly include appropriate
+Several remarks are in order. First, although signatures of mechanisms based on the postsynaptic firing rate as an indi-
+the stereotypical activity dependence of the BCM model cator and driver of stabilizing processes. However, the fact
+(figure 3a) are also present in STDP data and captured by that these processes have to be rapid in absolute terms only
+many modern plasticity models [27,61-63,65,93], the exist- becomes apparent when units of time are fixed to a biologi-
+ence of a sliding threshold mechanisms is still a topic of cally meaningful timescale. Moreover, RCPs need to be
+ongoing debate. However, we have shown analytically, and even more rapid in large recurrent network models, because
+confirmed in simulations, that the instability that arises a large number of plastic synapses tend to amplify instabil-
+through slow feedback in the BCM model is virtually identi- ities unless the learning rate is scaled with the inverse
+cal to the situation in which the sliding threshold in equation number of synapses.

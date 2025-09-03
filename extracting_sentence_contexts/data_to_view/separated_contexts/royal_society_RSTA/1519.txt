@@ -1,0 +1,13 @@
+The green
+dashed line shows the logarithmic slope of increase in the early 2000s. Courtesy Youngrak Cho and Whit Anderson, NOAA/GFDL.
+(Online version in colour.)
+
+of simulated ‘neurons’ to mimic processing in the human brain. The brain does in fact make use
+of massive parallelism but with slow ‘clock speeds’. While the initial excitement around neural
+networks in the 1960s (e.g. the ‘perceptron’ model of [9]) subsided as progress stalled due to the
+computational limitations of the time, these methods have undergone a remarkable resurgence
+in many scientific fields in recent years, as the algorithms underlying learning models are ideally
+suited to today’s hardware for arithmetic. While the meteorological community may have initially
+been somewhat reticent (for reasons outlined in [10]), the last 2 or 3 years have witnessed a great
+efflorescence of the literature applying machine learning (ML)—as it is now called—in Earth system
+science.

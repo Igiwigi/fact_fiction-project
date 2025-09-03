@@ -1,0 +1,5 @@
+We use vations. Crucially, these hidden states include control states
+bold-italic typeface to indicate true states of the world and that prescribe action. Here, the generative model plays a dual
+italic typeface for hidden or fictive states assumed by an role—it is a predictive model over observations and encodes
+agent. The parameters (expectations) of categorical distri- optimal policies (in terms of prior beliefs about control
+butions over discrete states s € {1,..., J} are denoted by J x 1 states). The agent and the environment interact in cycles.

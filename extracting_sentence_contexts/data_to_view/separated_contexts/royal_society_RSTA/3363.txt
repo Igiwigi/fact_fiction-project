@@ -1,0 +1,9 @@
+In general, when conditions for resonant tunnelling are satisfied, one should expect that all the
+configurations reachable by resonant transitions should be represented approximately equally
+in the eigenfunctions. Thus, this picture predicts a sort of ‘thin ergodicity’ out to a distance at
+least r(L), meaning that all configurations within an energy window (whose width decreases
+exponentially with r) should be roughly equally represented in the eigenfunctions. In fact, larger neighbourhoods of the Griffiths region should be affected similarly, with ‘thin
+ergodicity’ extending to arbitrarily large radii, in the idealized case of a single Griffiths bubble
+in the whole of Z4. To see this, we need a bootstrap (or inductive) argument. To match up the
+transition energy to the requisite accuracy for a spin at a large distance r from the bubble, we need
+sufficient ‘digits of precision’ to represent the energy difference.

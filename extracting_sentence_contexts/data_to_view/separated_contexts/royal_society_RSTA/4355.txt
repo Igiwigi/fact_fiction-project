@@ -1,0 +1,16 @@
+The use of the information-theoretic capacity concept for the optical fibre channel dates back to a
+the work of Splett et al. in 1993 [24]. However, it is only recently that this concept became popular [=
+in the optical fibre literature. This was prompted by the slowing in the dramatic capacity growth, :8
+outlined above [25], which had become constrained due to the fact that the optical fibre channel is :
+nonlinear. The channel capacity analysis has turned out to be surprisingly difficult. A good review areal
+is given by Essiambre & Tkach [26]. eae
+
+The optical fibre channel is fundamentally nonlinear, which means that the refractive index of a]
+the propagation medium neg changes in response to the strength of the square of the electric field DN
+E or optical intensity I, as
+
+Nogg = No + NI, (2.2) : FS
+
+where ng and nz are the linear and nonlinear refractive indices, respectively; the normalized time
+averaged electric field E is related to optical intensity as |E| = /P, where P is the optical power
+in the fibre and I = P/Agg with Ags the effective area of the fibre.

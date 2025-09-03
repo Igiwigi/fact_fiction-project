@@ -1,0 +1,44 @@
+Wz =0. (4.6)
+
+With respect to applications in water waves, this equation provides the basis for the method
+introduced by Dean [30] for computing the kinematics of nonlinear waves, albeit specifically for
+
+irrotational motion (2 =0) when (4.6) reduces to V7W =0, matching (4.2). This was extended : =
+by Dalrymple [31] for nonlinear waves interacting with a rotational current. Although it may be : =
+possible to formulate the governing equations in terms of p or W alone, as in (4.6) for W, it should LB
+be noted that the two quantities are in fact related via the dynamic surface boundary condition : =
+(2.1e); we remark that although (2.1e) appears quite innocuous, it transforms to a highly complex, : a
+nonlinear Bernoulli relation when expressed in terms of the streamfunction. 74
+
+In the present approach, attention is directed at the pressure as specified by (2.1b), and it is : >
+assumed that (4.6) can be solved, as required, even for rotational flow. Returning to (2.1b), and : =
+employing (4.1), enables the first equation to be expressed as : S
+
+1 a tc)
+
+1
+aha 5h — a [aM +¥2)— ww] AZ,
+
+and the second equation, following some rearrangement, becomes
+
+1 a afl. 4 5 5
+
+pr =—-f+ —% —- — |= Ww | —wvru,
+
+pres 8+ ae a5 [pe +¥) e
+
+Imposing the quest for wave-like solutions onto these two equations by way of (4.5) finally gives
+the form
+
+lop oH
+=P _wytyy,
+p00 90
+lop oH
+aOR _O  Ow — wy, (4.7)
+poz az ek
+1
+and H(6,2)=-gz + az — 542 +P up) +uvey,
+
+The function H(6,z) here represents a form of integrability in the equations and also contains a
+contribution from the vorticity V2. Those terms on the right-hand side of (4.7) not included in
+H(6,z) are strictly rotational terms.

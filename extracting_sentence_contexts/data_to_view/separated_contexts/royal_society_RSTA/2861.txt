@@ -1,0 +1,16 @@
+These may include more complex or varied network structures, data
+augmentation strategies or the inclusion of post-processing techniques incorporating contextual
+knowledge relevant to the location being examined [46]. It is also important to understand the
+rates of deterioration of results when transferring models to unknown scenarios and geographies. Technical difficulties with regards to computational capacity may be influenced by the fact
+that analyst interaction cycles will need to be integrated with neural network training and
+classification in as close to real time as possible. As an analyst manually detects structures in
+a settlement, a machine learning model, computing in parallel, will use this information to
+automatically detect the remaining structures in the settlement. It is possible that future work will
+include the development of an evolving evaluation framework, incorporating manually tagged
+structures that will inform the stop criteria for the adaptation, i.e. the proportion of adaptation
+
+data for a new location that would be required as input from an analyst to the machine learning : =
+model, so that it would automatically detect the remaining structures. : S
+
+One of the key barriers to the adoption of computer-assisted methods to practical work 2
+flows is related to trust.

@@ -1,0 +1,9 @@
+We do not claim that this whole set of automata
+shown mathematically) that the PDA is less powerful (including FSAs and Turing machines) is the best or the
+than a Turing machine, while being more powerful most insightful way of arranging the different types of
+than an FSA. And as before, the set of patterns recog- neural computations that we ultimately want to under-
+nizable by the PDA is a proper subset of those stand as psychologists, biologists or neuroscientists
+captured by the Turing machine. In fact, a PDA can [22]. Indeed, as our understanding of neural compu-
+recognize the A”B” language discussed earlier, which tation in vertebrates progresses, it seems likely that
+is beyond an FSA. Thus, we now have a nested set different hierarchies will arise, and prove to be more
+of patterns, enclosed one within the other like Russian useful.

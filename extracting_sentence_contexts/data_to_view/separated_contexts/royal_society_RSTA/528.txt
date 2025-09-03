@@ -1,0 +1,11 @@
+Although the addition of reactions in the 03 sub-mechanism does not consider synergistic
+effects, or how the addition of these reactions affects the rates of reactions present in the original
+mechanism, good agreement has been found between experimental results and the simulations
+[19,20,22]. From the one-dimensional simulations, flame speed enhancement with 11000 ppm of O3
+was found to be over 11%, while the experimental enhancement was approximately 7%. This
+difference is partly due to the fact that the one-dimensional simulations fail to capture any
+stretch effects that would be present in these flames as the one-dimensional calculations are at
+zero stretch (figure 4). So while the kinetic processes would be captured, the comparison to the
+stretched flames in the experiments may not be suitable. Therefore, two-dimensional simulations
+were performed using the unsteady ignition and combustion with reactions (UNICORN) model
+[28,33-36].

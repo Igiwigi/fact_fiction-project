@@ -1,0 +1,15 @@
+Since Fo has logarithmic singularities, F} cannot have
+singularities of higher order, while logarithmic singularities in F; are disallowed by requiring
+the vorticity to be entirely at O(1). Hence, as an analytic function bounded at infinity with no
+singularities, F; is a constant that can be taken to be 0 without loss of generality. This means that
+the Rayleigh-Jansen expansion does not in fact have a term at O(M? log M). The term entering
+the matching from (2.8) must therefore come from taking the O(M? log M) time dependence into
+account appropriately, as is done in (3.6) below. Using $0 = (Fo + Fo)/2, (3.2) becomes
+
+92
+
+Vy = 2222 + ccc. = A (Fou + 2FocFou + FoxeFS, + €.¢:), (8.3)
+
+dzdZ 2 2
+where c.c. stands for complex conjugate and we have defined a function F2(t,z,Z) such that
+¢ = (Fo + Fo)/2.

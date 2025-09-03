@@ -1,0 +1,31 @@
+Using Gauss’ identity
+
+I'(c)'(c—a-—b)
+
+cola R(c—-a—
+2F\(a,b;c;1)= Fe-br(enby’ R(c -—a—b)>0, (5.19)
+we thus have, on simplifying,
+x k ji 2-2 P(k-+ E(k + 3/2) (520)
+j=2leven i) G/2=DG/2414 DE Pk= 214 DP k/2 +24 DF(K/24+3/24+) :
+
+Applying the Legendre duplication formula, ['(2z) = 277-!a—-"/? r(z)'(z + 4) we can simplify
+both the numerator (with z=k + 1) and denominator (with z = k/2 + 3 +1) to get
+
+2 2k+1
+——_— : 21
+ae (ta) 6.21)
+
+Returning to (5.15), we thus have the following theorem:
+
+Theorem 5.1. Let p > 3 be prime. Then
+
+1 1 \F 2 foe a) WP! fog a) 21+ 1) trar42(Tp) + 1)
+oe L(= = -2) 5.22)
+1 » ( 1x0) ( _ THI
+PHP Sa, \2 k+2\ k & \k-2) (k + 21+ 2)p
+
+The fact that our final formula for the moments (in the d=3 case) can be expressed so
+cleanly and succinctly suggests that an alternate point of view should exist that produces the
+same formula more directly. Indeed, A Diaconu & V Pasol (2014, personal communication) have
+derived an equivalent formula using multiple Dirichlet series over finite fields, though perhaps a
+simpler approach can be found. We list the first 10 moments in table 22.

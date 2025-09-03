@@ -1,0 +1,64 @@
+In the weak form of trading operators (2.6), we can
+resort to a second order Taylor expansion of the test function g(v*) around v, obtaining
+
+1
+9(0") = (0) = 6"(v) (WF = v) + 5 9") (W* =v?
+1
+= o'(w) [e (jw — Fev) + gv] + 5 9") [e? Fw — Fe? + jv? + 2enjv (Fw — Hw),
+
+where i =@ v + (1 — 6) v* for some suitable 6 ¢ [0, 1]. Bearing in mind that random variables nj;
+have zero mean and variance Aj £, we get
+
+2
+
+1 +00
+lim = YI, gv) Qi(gi, gj)(v) dv
+j=l
+
+2 too
+= Ye xi I, [v’ (v) (Fw — Hv) +24 Fo" "(i)v 2] gi(v) gj(w) dv dw
+j=l
+
+tor ~ ~ Aine
+= > Xij I, [v (v) pi(¥j mj — Viv) + > Pie (d)v | gi(v) dv.
+j=l
+
+The fact that all higher order terms of the Taylor expansion, including the ones involving moments
+of the random variables, are O() and thus vanish in this limit may be rigorously proved [9]. By
+integration by parts, we can pass the derivatives from the test function to the distribution g;(v)
+and, under the assumptions that g;(0,t) =0 (no individuals with zero wealth) and g;(v,0) has
+moments M, bounded for s = 2 + 5 for some 6 > 0 (see [9,19] for further details), we get
+
+2
+
+1 +00
+lim — YI, G(v) Qilgir jv) dv
+1
+
+e>0€
+j=
+
+2 +00 2
+=Dail, ooo 01 [om — Farge] + ZA e(? so) } v.46)
+j=l
+
+Concerning the transfer operators, notice that the interaction rule (2.26) in the present scaling
+implies g(v*) = g(v) + O(e) = y(vs) + Ole). Consequently, taking into account that pr and ph are
+O(e), for the operators relevant to transfer (a) we have
+
++00
+lim “| o(v) Q)(v) dv
+
+208 Jo
+
+~ +00 . +00
+= 6 | (0) (0202) dv devs ~ 27 |] o(v) gi(v) gy(w) dv dev
+
+ay Pt
+=-F | o(u)suto) dv
+. 1 pte (a) =2 +00
+and tim =] 9(v) 2 wav= mf ove) g1(0e 81 (be) doy dbs = BF or | ola)u(o) av
+e
+(4.7)
+The contributions due to operators relevant to transfers (b), (c) and (d) may be analogously
+computed.

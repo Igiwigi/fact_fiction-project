@@ -1,0 +1,18 @@
+Published by the Royal Society under the terms of the
+
+Creative Commons Attribution License http://creativecommons.org/licenses/
+by/4.0/, which permits unrestricted use, provided the original author and
+
+THE ROYAL SOCIETY source are credited. PUBLISHING
+
+
+ridge extraction. A second uses the fact that the STFT of a signal is fully characterized by its
+zeros (and then the particular distribution of these zeros for Gaussian noise) to deduce an
+algorithm to compute the mode domains. For both techniques, mode reconstruction is then
+carried out by simply integrating the information inside these basins of attraction or domains.
+
+]. Introduction
+
+In the signal processing community, the meaning of frequency is well understood, and over
+two centuries, we have developed a series of mathematical tools to enable us to analyse signals
+in terms of the energy distribution in frequency.

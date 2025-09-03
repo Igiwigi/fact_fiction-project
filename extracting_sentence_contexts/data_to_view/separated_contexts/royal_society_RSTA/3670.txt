@@ -1,0 +1,45 @@
+Employing the balance laws for linear and angular momentum, the local forms of the equations 3 |
+governing the dynamics of a constrained Cosserat medium are obtained [8,11]:
+Opqp + Xq = hil (2.2)
+and
+2
+CqpkOpk + Mpq,p + Yq = = Oe (2.3)
+where opq and mpq denote the stress and couple-stress tensors (both asymmetric), and Xq and Yq
+are, respectively, the body force and the body moment, both measured per unit volume. Decomposing the stress tensor opq into a symmetric ty, and antisymmetric a», part and using ts
+equation (2.3), the antisymmetric part of the stress tensor can be written as
+
+1 p . :
+tpg = — 3 opqk(Mrkyr +Yx)+ Goa sOs- (2.4) a
+
+A combination of equations (2.2)-(2.4) yields a single equation of motion for the symmetric part Dp
+of the stress tensor and the deviatoric part of the couple-stress tensor: :s
+
+1 1 ~  p 2. [3
+Tpqp — 5 &pgk rk, rp + Xq- 5 pqk Vk,p = Pilg — Zepgkdk,s,p- (2.5) Dw
+2 2 6 4 :
+
+The traction boundary conditions at any point on a smooth boundary consist of the following : gs
+three reduced force-tractions and two tangential couple-tractions [7,12]: 1S
+
+(7) 1 n)
+Py = Opqlp — 5€qpkMpMnn),k, RS = Mpgnp — Mnn)Nq, (2.6)
+where mp denotes the unit normal to the boundary, and mm) is the normal component of the
+couple-stress tensor ttpq, so that Mnn) = MpkNpNk-
+
+For linear constitutive behaviour, the strain energy density assumes the following general
+quadratic form in the case of centrosymmetric materials:
+
+1 1
+W = 5Cpqmn€pgEmn + zBpgmnkpqkmn, (2.7)
+
+where Epq is the standard infinitesimal strain tensor and Kpq = @qp is the curvature tensor (the
+transpose of the gradient of rotation), which by definition is traceless, xp) =0. The elasticity
+tensors Cpgmn and Bpgmn are equipped with the following symmetries: Cpgmn = Cmnpgq = Capnm,
+Bpqmn = Bmnpq and Bgpmm = 0 (the last equality follows directly from the fact that the curvature
+tensor is purely deviatoric [7]). Therefore, in addition to the 21 independent constants defining
+the classical elasticity tensor Cpgnm, 36 independent constants are needed for defining Bygmn. The corresponding constitutive equations are
+aw aw
+Tq = Dem Cpgmnémn and mpg = Tien = Bpqmnkmn- (2.8)
+
+It is remarked that the Cauchy elastic behaviour is recovered when tensor Bygmn, defining a
+‘purely Cosserat behaviour’, is set to zero.

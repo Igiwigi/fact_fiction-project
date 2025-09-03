@@ -1,0 +1,42 @@
+For instance, take ¢, ¢’ to be ¢(x,a), ¢(x,b) so that p=p', X=, =a"; by
+putting « = a,b in turn we have
+
+(b, a) = —9 (a,b),
+vw (b, a) = & (a,b), W(b,a) = —¥ (a,b),
+Ay (x, a) (x, «)—¢ (wx, a) ¥ (x, a) = 1. Again, taking ¢, 9’ to be ¢(«, a), ¢’ (a, b), we have
+
+and similarly
+
+and
+
+6
+
+(b, a) +9! (a,b) = | {(p=p') P(x, 4) ®! (x, b) + (2! <2 +Np—NJp) olor, a) $e, b)} dae (6)
+which is the formula to be used in the approximation. The right side of (6) is the
+error committed when ¢’(b, a) is taken as equal to #(b,@); in it the term depending
+on o’—¢ turns out to be unimportant, while when ’ = ) the rest is numerically less
+than the square root of
+
+DP (a, a) op’ (x, b)- = p (x,a) y (w,b) “da.
+
+b
+a
+
+| (p—p')* dc x i
+
+ob
+It will be our object to choose p’ so that | (p—p’)’ dx is small, while at the same
+
+time ¢’ can be expressed in terms of known functions, and, in fact, the interval (a, b)
+will be divided into small sub-intervals in each of which p’ will be constant. Thus we
+need the following lemma :—
+
+If f (x) is a function limited and summable in (a,b) this interval can be so divided
+into a finite number of sub-intervals, and a function (x) constant in each sub-
+
+ch
+interval can be so chosen that | (fx—px) dx is arbitrarily small.
+“a
+
+5. To prove the lemma, let U, L be the boundaries of f(w); take 1—1 arithmetic
+means , M2, ».-, Mr-1 between them and let a = L, a, = U.

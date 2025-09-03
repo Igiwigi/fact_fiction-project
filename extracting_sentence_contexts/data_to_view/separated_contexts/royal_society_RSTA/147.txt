@@ -1,0 +1,12 @@
+The linear stability of the laminar profile implies that the exact coherent
+structures have to arise in finite-amplitude saddle-node bifurcations at some finite
+distance from the laminar profile. A sufficiently large perturbation will hence be able
+to trigger turbulence, but not all perturbations are equally effective. The studies of
+Boberg & Brosa (1988) and Trefethen et al. (1993) have highlighted the fact that,
+even when all eigenvalues of the linearized problem indicate decay, there can be
+transient amplification and growth in energy owing to the non-normality of the
+linearized operator. A link between these structures, their amplification and
+nonlinear instabilities as seen in experiments on turbulent puffs is discussed by van
+Doorne & Westerweel (2009). Theoretical approaches to extract perturbations that
+are efficient in triggering turbulence are presented by Biau & Bottaro (2009) and
+Cohen et al. (2009), respectively.

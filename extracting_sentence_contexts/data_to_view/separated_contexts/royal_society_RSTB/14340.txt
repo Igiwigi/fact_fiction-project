@@ -1,0 +1,26 @@
+Rather, the main goal of
+our group-level analysis was methodological: evaluating the
+sensitivity of this new methodology (i.e., the construction of
+two-dimensional maps of conceptual knowledge based on kin-
+ematic measurements gathered from a similarity judgement
+task with varied ambiguity of the response context) to the differ-
+ent ways participants might organize their emotional concepts.
+
+(d) Analysis
+The ‘ImerTest’ package [48] was used to analyse the data. The model included two fixed effects (the Valence of the target
+(positive or negative valence) and its valence Congruency with
+the responses (Cong0: no congruency; Cong1: one congruent
+response; Cong2: two congruent responses)) and the interaction
+between Valence and valence Congruency. We also included as
+random effects the intercept per participant (accounting for their
+variability), the slope per participant (accounting for the possi-
+bility that the effect of the fixed factors is not the same for all
+participants), and the by-item random intercept (accounting for
+the fact that some items might be more difficult than others). The
+MuMiIn R package [60] was used to compute a PseudoR2 (see
+also [61]), which indicates that our statistical model explained
+22% of the variance with a medium to large effect size (f2 = 0.28)
+according to Cohen’s conceptualization [62]. A post hoc power
+calculation test (with the pwr.f2.test function in R, within the pwr
+package) showed that our sample of 30 participants is enough to
+have a statistical power of 0.63 (p < 0.05).

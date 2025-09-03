@@ -1,0 +1,7 @@
+It is now
+easy to verify that, when gp is reduced modulo 2, the obtained polynomial must indeed be equal
+to &(F), as given by the numerator of formula (2.2). In particular, the result of this process is
+independent of the lifting. In fact, in our computations we will use a simpler lifting. We shall always compute the
+discriminants in general settings, where all of the coefficients of F are either 0, 1 or a symbol from
+a set of variables V, never any explicit value in F;. Thus we need only lift the coefficients from
+F,[V] to Z[V], which can be done, for example, by lifting 0,1 € Fz to 0,1 € Z.

@@ -1,0 +1,10 @@
+All of them fix the total volume V, whereas
+H-AdResS and AdResS also fix the total mass as WV. H-AdResS can be made either insulated
+(no heat exchange with exterior), isolated (constant total energy) or isothermal (by a global
+thermostat). AdResS just ensures momentum balance, and does not explicitly treat the heat
+
+1m fact, it is also possible to use A = AN as the extensive quantity and @ = @/N as the intensive one. The work would then be
+@AA. The determination of the best choice will have to wait for a practical implementation on this idea.
+
+
+produced in the hybrid layer.

@@ -1,0 +1,6 @@
+Let K be any cell of G and take C to be the sum of all the cells of G’ whose domain con-
+tains some point of the orthogonal projection K’ of K on the space #' (i.e. the set K’ of all
+points X’ = (x,,...,x,-,) such that for some x, the point X = (x,,...,%,) is in K). Clearly
+Cis a complex on the algebraic grating G’. We eventually prove that C is in fact the closure
+of K’. We first prove that C contains the closure of K’. By our inductive hypothesis G’ has
+only a finite number of cells.

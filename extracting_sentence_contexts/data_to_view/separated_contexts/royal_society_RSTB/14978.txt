@@ -1,0 +1,11 @@
+LLMs are powerful
+tools: users leverage the (approximately) 2.25 billion pages contained in the indexed web and, through ‘prompt engineering’,
+craft their prompts in targeted ways to exact useful responses. The capabilities of LLMs have already been applied to a wide
+range of cases, such as the ability to decode the meaning of perceived and imagined speech and silent video [65]. Results are
+impressive, but they also highlight inherent limitations, particularly the flexibility in transferring knowledge from one set of
+data to another, which also bring about states of ‘artificial hallucinations’ (i.e. generated responses that are either factually
+incorrect, non-sensical or not grounded in reality (e.g. [66-68]). Current LLM systems do not implement forms of active learning and autonomous engagement with the world’s affordances. Even if the system could be able to recover facts about the world’s structure, the recovered facts are explicitly based on the
+4E human experience, hence the depiction of LLMs as ‘stochastic parrots’, due to their pattern-matching approach to the
+language detailed above [69].* Others consider LLMs only an outward display of intelligence: similarly to Searle’s ‘Chinese
+room’, they give the impression of comprehending only because they can match incoming input symbols with specific output
+symbols [74].

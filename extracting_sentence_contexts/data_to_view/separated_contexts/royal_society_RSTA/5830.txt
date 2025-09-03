@@ -1,0 +1,9 @@
+The time T.45 + Ts.4 is the mean non-reactive time. This is the mean time for trajectories starting
+from within A to return to A, conditioned on the fact that they reach S. Similarly, Tas +Tsp is
+the mean reactive time for trajectories starting from within A to reach B, conditioned on the fact
+that they do not return to A. Neither the reactive time nor the non-reactive time is particularly
+large. What makes the mean first passage time large is that on average a trajectory will make
+many failed attempts to reach B so that the mean non-reactive time is multiplied by the large
+factor (1 — p)/p.
+
+3.

@@ -1,0 +1,12 @@
+They imply that a naive interpretation
+of the fluid equations (2.1) as partial differential equations is no longer possible when Re — oo. As in quantum field theory and critical phenomena, the development of a valid dynamical
+description in that limit requires a regularization of these divergences [24]. Regularizing by a
+suitable ‘coarse-graining’ operation, the resulting regularized dynamics in fact corresponds to
+what in mathematics is called a weak formulation of the fluid equations: see [46], §2 or [25]. In this
+formulation, one may pass to the limit Re oo and, under physically reasonable assumptions
+consistent with observations, the limits (along suitable subsequences) exist and are described as
+weak Euler solutions [47], in agreement with the ideas of Taylor and Onsager. In the following
+section, we explain in physical terms the regularization that has been employed in the recent
+mathematical literature on wall-bounded flows [1-4] and explore its consequences.
+
+3.

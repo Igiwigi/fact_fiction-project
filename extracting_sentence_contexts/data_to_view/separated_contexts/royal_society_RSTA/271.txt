@@ -1,0 +1,14 @@
+However, the effect of noise on the likelihood of transitions
+depends on whether noise is multiplied by, or added to, the state variable of a
+system [37]. Overall, the DFA method appears to give the least ambiguous results (table 1). However, this may simply reflect the fact that only the sliding window length
+is varied in the DFA method, whereas for the ACF method and the variance
+calculation, filtering bandwidth is also varied, and this tends to cause greater
+variation in the sign of the Kendall trend statistic.
+
+5. Conclusion
+
+From our results, we can offer some general guidelines for analyses aimed at
+detecting the signal of critical slowing down as an early warning of approaching
+bifurcation. Prior to trying to extract early warning indicators, it is important to consider
+aggregating data where it may be of sufficiently high temporal resolution to be
+sampling fast decay modes in the system in question.

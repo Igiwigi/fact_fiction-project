@@ -1,0 +1,24 @@
+Among the
+consequences of this frustration and the resultant compromise are that optima
+and equilibria are difficult to achieve and that responses to perturbations are
+slow, in part extremely so, and often chaotic. A ‘cartoon’ to illustrate the character of a complex system is of a rugged
+landscape with many hills and valleys and the system’s dynamics imagined
+as movement on the landscape with only local vision, simple moves being
+downward,! becoming stuck in intermediate valleys and unable to surmoun
+ridges, needing a change of rule to overcome them (for example, also allowing
+uphill moves), only to be faced by further barriers. In fact, the space of the
+landscape is very high-dimensional and the difficulty extremely much greater
+than for a mountain range on our three-dimensional Earth. Changing an externa:
+influence parameter, such as temperature, magnetic field or other ‘pressure’, can
+lead to ‘chaotic’ transformation of the whole landscape, removing the option of
+straightfoward iteration to a solution. This paper is organized as follows: §2 introduces the issues and some of the
+concepts derived in the context of spin glasses (in condensed matter physics) and
+compares a related optimization problem that is simple to formulate but difficul
+to solve; §3 considers further hard combinatorial optimization in computer
+science, particularly in the context of satisfiability; §4 is devoted to some examples
+from biology, in the form of neural networks and proteins; §5 addresses problems
+involving speculative agents in finance/economics and opens the way to other
+social sciences; §6 considers growing networks; §7 gives some typical magnitudes;
+and §8 collects some conclusions and hints at the future.
+
+2.

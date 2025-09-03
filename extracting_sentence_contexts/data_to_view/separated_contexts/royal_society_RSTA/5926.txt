@@ -1,0 +1,25 @@
+Proposition 3.1. With 6 and t defined by (3.1) and (3.2), the following identity holds
+
+1
+Nu — — =~—(|VO|*) — 2(r'u26). (3.4)
+26
+Proof. According to proposition 2.1, the decomposition (3.1) and the profile (3.3), we have
+Nu = (|VO|?) + lIe'II72qo,1p + 2(r/d20). (3.5)
+Inserting now the ansatz (3.1) into (1.3), we find the fluctuation @ satisfies
+00 +ugt'+u-Vo—Ad—t”=0 ing, (3.6)
+@=0 on {xz =0} U {x2 = 1}. (3.7)
+
+Integrating (3.6) against 6 and taking the long-time average (using the fact that 6, like T, is
+uniformly bounded in time), we obtain
+
+(t/d20) = —(|VO|?) — (c’u26). (3.8)
+
+This argument can be made rigorous by smooth approximation of the profile t. Inserting this
+equality above yields the claimed identity. a
+
+Similarly to the bound of Doering-Constantin for the no-slip boundary condition [4], we have
+
+Lemma 3.2. For any Ll; > 0, we have Nu < Ral/2,
+
+
+Proof.

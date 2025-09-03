@@ -1,0 +1,16 @@
+In these regards, the proposed model allows one to
+fully capture synergies and competition among different generation, smart and transmission
+technologies so that the truly optimal solution is attained. In contrast, the deterministic planning
+approaches (often in the form of ‘roadmaps’) and relevant planning tools that are currently used
+are bound to deliver solutions that are not only more expensive, but also misleading in terms
+of optimal technology mix (generation, storage, etc.). This is particularly important in the light
+of, for example, setting policy incentives for certain technologies, for which enabling smart grid
+technologies such as FACTS and batteries should also be considered to be optimal complements
+to renewable generation. Following up on the findings highlighted above, we then also presented the state of the art in
+power system planning under uncertainty and discussed the need for new optimization tools
+that can properly value the benefits of flexible, smart grid solutions by embedding detailed
+operational aspects in the planning problem. In particular, important progress is necessary in
+terms of sampling techniques, decomposition methods, parallel and cloud computing, among
+others, to fully unlock the application of mathematical programming to plan investments in
+electricity grids when considering a large number of potential future scenarios in the long term,
+and a detailed representation of system operation in the short term.

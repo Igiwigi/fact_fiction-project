@@ -1,0 +1,18 @@
+In our main results,
+we claim that there exists a time T that is independent of ¢ up to which solutions to the Euler
+equations are close to those of the point vortex system. Here, we make this choice more precise. In
+fact, we choose T as the time at which the distance between the vortex components has decreased
+by a factor of two
+
+6,
+T=sup f € (0, +00) : dist(2;(s), 2;(s)) = a ViA], $< i . (3.1)
+Because the fluid velocity u is continuous, it is clear that the vortex components cannot collide
+instantaneously, thus, T > 0. We will see later that this time is bounded from below uniformly in
+e, that is, T 21. Without loss of generality, we may restrict our attention to time intervals such that
+
+6
+min |Y((t) — Yj(| = 5, (3.2)
+fj 2
+
+
+for any t < T.

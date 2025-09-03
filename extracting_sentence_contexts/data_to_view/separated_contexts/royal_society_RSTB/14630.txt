@@ -1,0 +1,18 @@
+Plasmid pG23A was a gift from Matthias Heinemann
+(Addgene plasmid no. 102884; http://n2t.net/addgene:102884;
+RRID:Addgene_102884). Further downstream, the HPHMX6 cas-
+sette and another BEM1 homology region was added. For primers
+and plasmids see the electronic supplementary material, tables S8
+and S10, respectively.
+
+(b) Fluorescence measurements
+
+Fluorescence data of strains RWS116 [57] and RWS1421 [24] were
+acquired using FlowJo CE software and performed on a BD FACS-
+can flow cytometer. Cells were pregrown in YNB (0.69% w/v,
+Sigma-Aldrich) + CSM -Met (0.77% w/v, Formedium) + 2% dex-
+trose (Sigma-Aldrich), diluted to an optical density (OD)¢00 of 0.1
+and measured after 15h. Gamma fits on gated flow cytometry
+data using maximum likelihood through Matlab’s R2016a built-
+in mle function, were done on the background (RWS116) and
+GFP-Cdc42p data (RWS1421).

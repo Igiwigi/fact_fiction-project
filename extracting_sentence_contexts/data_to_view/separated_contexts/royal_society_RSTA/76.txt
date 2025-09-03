@@ -1,0 +1,20 @@
+If the initial configuration satisfies dy < o_(Vo), then the corresponding solution (p, 1) will blow-up at
+a finite time.
+
+(c) Critical thresholds for the two-dimensional Cucker—Smale model
+We extend our main result to two-space dimensions
+pt + div(pu) =0 (2.5a)
+
+and
+wy fu- Vu =| lic = yDuly, 1) 6x, Doty, dy, xeR?, £20, (2.50)
+R
+
+where the critical threshold is captured in terms of Vo and its initial divergence do :=
+infxesupp(oo) div u(x). The main difficulty here is to control the remaining terms in Vu, beyond
+just div u itself. We measure the size of those additional terms, setting
+
+Bo:= sup max{2|dx,Uo2|,2|4x,Uo1|, |x, 401 — Ax, M02\},
+xesupp(o)
+and we prove that if Bg is sufficiently small then, in fact, all terms of Vu, except for div u, remain
+equally small. Theorem 2.10 (two-dimensional critical thresholds in a non-vacuum region). Consider the two-
+dimensional CS system (2.5).

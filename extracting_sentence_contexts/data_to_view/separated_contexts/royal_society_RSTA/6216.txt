@@ -1,0 +1,13 @@
+Ogden’s model (1.1)
+hence belongs to the group of Valanis—Landel-type materials. The argument of simplicity may have lost significance relative to the argument of robust
+numerical implementation with the advent of computational finite element techniques. In fact, it
+is well known that the computation of derivatives of the eigenvalues with respect to strain tensors
+and thus the determination of tangent tensors pose their own challenges under generic non-
+homogeneous loading conditions when the principal stretches change order and travel through
+coalescing values. However, algorithmic solutions (see e.g. [8], §5.6), closed-form expressions for
+the tangent tensors [9-12] and invariant-based reformulations [13,14] or approximations [15] have
+helped to overcome these problems so that Ogden’s model can efficiently be used with finite
+elements and is available in various software packages for mechanical analysis. In addition to the advantage of compact mathematical form, the use of principal stretches in
+general and the Valanis—Landel hypothesis in particular allows an interpretation of the model
+in terms of the molecular statistical theory of rubber elasticity, which was not in the scope of the
+developments by Ogden [1].

@@ -1,0 +1,7 @@
+However, we can see the motivation for this approach if we look at
+the experimental results in the modal basis (figure 3a). In this basis, most of the motion occurs
+in the second extended mode and in the localized mode. In fact, these modes hold around 90%
+of the system’s energy (figure 3b). Therefore, we can restrict our description to these two modes
+without incurring a significant error. To construct this reduced description, we consider equation
+(5.5) for the indices m = E and m=L, where E and L are the mode numbers corresponding to the
+localized and second extended modes, respectively.

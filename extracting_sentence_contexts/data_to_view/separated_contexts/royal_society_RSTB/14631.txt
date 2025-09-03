@@ -1,0 +1,19 @@
+We use this formula similarly as above to define the Wright-
+Fisher walk, which is also an irreducible, aperiodic, positive
+recurrent and reversible discrete Markov chain converging
+to a unique stationary distribution. Note that we use it for
+all N and fitness values, but that it rigorously holds only
+under the diffusion approximation, ie. under assumptions
+of large population and weak selection. In fact, the complete
+Wright-Fisher model is irreversible for large selection,
+although this does not impact the steady-state distribution
+of populations on fitness landscapes [36]. By contrast, the
+Moran fixation probability is exact within the Moran process.
+
+(b) Quantifying early adaptatio
+
+To investigate early adaptation, and its dependence on popu-
+lation size, we mainly focus on the height / of the walk, which
+is the fitness of the first encountered peak [18]. It depends on
+the initial node i, and also on what happens at each step of the
+walk.

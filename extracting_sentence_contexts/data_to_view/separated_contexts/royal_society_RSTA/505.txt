@@ -1,0 +1,9 @@
+Everything below 4000K (log T < 3.6)
+corresponds to the cold chromospheric bubbles. The minimum temperature achieved is lower
+in the NGOL simulation than in the GOL simulations (enhanced with white circle E in figure 3b). In fact, the coolest temperatures for the NGOL simulation are controlled by an ad hoc heating term
+in the Bifrost code which is introduced to avoid reaching temperatures lower than approximately
+1600K since below this threshold the tabulated equation of state is no longer accurate [139]. While this ad hoc heating is crucial for the NGOL simulation, it is rarely necessary in both
+simulations with ion—neutral interaction effects since the cold chromospheric bubbles are not
+cold enough to reach the temperature at which the ad hoc heating starts. The cold chromospheric
+bubbles in the simulations with partial ionization effects are a few hundred degrees hotter
+than in the NGOL simulation.

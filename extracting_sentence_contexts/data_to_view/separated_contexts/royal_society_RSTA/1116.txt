@@ -1,0 +1,21 @@
+For example, one can take g to be a function
+that also depends on time, or alternatively a finite linear combination of eigenfunctions of the
+linear Stokes operator, see [3] or Ch. 3 of [5], for details. In order to be meaningful all the various
+formulations require u to satisfy (4.3).]
+
+Note that, because we have integrated once by parts in the linear term, a weak solution only
+needs to be smooth enough to make sense of one derivative, and then only in an integrated sense (the
+required smoothness is precisely that in (4.3)). The fact that the formulation involves integration
+is significant: functions can be very bad and still integrable. For example, if (qn)72, is an
+enumeration of the rationals between 0 and 1 and
+
+co 1 rer
+fa):= 027 x— ql, then | forar=> zi] yl 1? < 00;
+0 .
+j=l
+
+j=l —q
+
+while f is integrable (and so finite almost everywhere) it is unbounded in a neighbourhood of
+every rational. To prove rigorously the existence of (weak) solutions of any partial differential equation there
+are two well-established methods.

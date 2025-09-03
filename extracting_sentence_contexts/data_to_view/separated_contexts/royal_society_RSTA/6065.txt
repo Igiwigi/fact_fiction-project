@@ -1,0 +1,12 @@
+However,
+the intermediate UV-terms can be cancelled quite efficiently with DR. If desired, one can obtain the same results with the
+subtraction procedure used to renormalize the EMT. We illustrated already this fact in the appendix B of [57]. The important
+point here is not about regularization but about renormalization: indeed, the subtraction prescription (6.6) involves not just
+the UV-divergences but the full expression obtained from the sum of the first three terms (j = 0, 1,2) in the DeWitt-Schwinger
+expansion (6.4). This is, of course, entirely different from the MS renormalization prescription.
+
+
+result (5.2) and, with it, we end up anew with the renormalized VED as given in equation (5.5)
+(q.e.d.)
+
+Finally, we can derive the RG equation for the VED.

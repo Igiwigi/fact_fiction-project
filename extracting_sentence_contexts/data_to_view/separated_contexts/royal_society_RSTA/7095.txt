@@ -1,0 +1,64 @@
+N. FOX ON THE DIFFRACTION OF
+
+But from equations (26) and (31) we have
+
+af road) Kell yuo hay = (020), |
+= (34)
+Af rola) Ko Ly +H vol dy = (Yo>) |
+= MiX(y.—9o)} (Yo<%1)-
+Hence, assuming that the solution wu is such that the order of integration can be changed
+in equation (33) and applying equation (34), we obtain
+
+J aCyord) [9 MAY —Ho)3] Yo = Wr) (1h 9)- (35)
+
+This integral equation with y, as independent variable can easily be solved by applying
+the Laplace transformation and using the superposition theorem of the operational calculus
+(Jeffreys & Jeffreys 1946, pp. 375-376). Thus we write u(q,A) = [ee n(yisd) dy,
+0
+M,(q,4) = | * avin —M(Ay,)} dy, (36)
+0
+
+Wg) = |e Wd) dn
+
+0
+
+and apply the Laplace transformation to equation (35) to obtain
+
+aN att ee Oe
+oa) = Ey. (31)
+
+By substituting from equation (31) in the second of equations (36) we find in fact that
+
+=; am]fa
+B= ae (38)
+so that equation (37) becomes
+
+aga) =£ (2) Wea,a). (39)
+
+Now it is interesting to note that the corresponding Laplace transform of yo(ly,) as
+defined by
+
+Holga) =f “e-eryo(dyn) dy (40)
+is found, after substitution from equation (27), to integrate out in the simple form
+= 1 /q+a
+whence equation (39) may be written
+2 a7, _
+u(q,2) = £W(q,2) Xo(HA)- (42)
+
+Since W(y,,4) = 0 when y, = 0 from equation (33), gW is the Laplace transform of
+W’(y,,A), where the dash denotes differentiation with respect to y,. Hence by the super-
+
+
+SOUND PULSES BY AN INFINITELY LONG STRIP 79
+
+position theorem of the operational calculus we can interpret equation (42) and then drop
+the suffix unity to obtain a solution of our original equation (30) in the form
+
+u(y) = 555 [WY — md) aay) de (43)
+
+=25
+
+For a given function v(y, A) the right-hand side of this equation (43) is known by virtue of
+equations (27) and (33). As in the special case to be considered, however, it will often be
+simpler to revert to equation (39) and after finding W from equations (33) and (36), to
+interpret direct for u by use of the Bromwich integral.

@@ -1,0 +1,10 @@
+Experiments and suggestions
+
+Being used for imaging subjects containing high attenuation materials, a dual detector CT
+(Discovery CT750 HD, GE Healthcare, USA) is used to see the influence of beam-hardening
+artefacts. For a given polychromatic X-ray source, the absolute value of df¢/dE|g, at an effective
+energy Ep is the major factor of beam hardening. The main difficulty in reducing beam-hardening
+artefacts comes from the fact that the discrepancy between the projection P and fg is related to
+the geometry of D. It is because the intensities of the projection data do not change linearly
+with the thickness of D. Figure 7 illustrates virtual monochromatic images using dual energy
+CT.

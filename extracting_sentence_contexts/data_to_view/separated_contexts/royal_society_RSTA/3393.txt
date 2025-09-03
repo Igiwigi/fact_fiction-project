@@ -1,0 +1,10 @@
+All rights reserved. PUBLISHING
+
+
+application is the design of quantum algorithms [5-8]. As an example, efficient search
+algorithms [6,9,10] were devised exploiting the fact that the spread of a localized initial state
+after t steps is proportional to t, whereas for the classical random walk the spread is proportional
+to s/f. Remarkably, any quantum circuit can be implemented as a QW on a graph, proving that
+QWs can be used for universal quantum computation [11]. Recently, in [12], the authors use QWs in a derivation of quantum field theory from principles,
+from which it follows that the graph of the QW is the Cayley graph of a finitely presented group
+G.

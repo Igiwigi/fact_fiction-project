@@ -1,0 +1,12 @@
+Then we show ¢ preserves weights too. It is worth
+
+
+GieG
+
+Figure 2. Illustration of proposition 4.1.
+
+noting at this point that, even if G were a multi-graph (i.e. with possibly more than one directed
+edge from a node to another node), both G* and G* are merely graphs, and not multi-graphs (this
+is a symptom of the fact that construction of both G" and G* involves taking a line-graph, and
+not augmenting the set of edges after this action). So when showing our claimed isomorphism
+is indeed an isomorphism we know there can be at most a single edge between any two nodes. First, we find a bijection between E\B and V’, as follows.

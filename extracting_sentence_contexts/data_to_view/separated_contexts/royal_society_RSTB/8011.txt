@@ -1,0 +1,14 @@
+The cortex is an extremely complicated non- ition, orientation and scale as we ascend the hierarchy.
+
+linear system whose behaviour can be changed in This raises the question of how such a hierarchy could
+unexpected ways by modifying the strengths of the be learned.
+synaptic connections. Detailed computer simulations
+are therefore required to understand what a synaptic
+learning rule predicts and the simulations usually 2. LEARNING BY BACK-PROPAGATING
+show that the synaptic learning rule can be rejected | ERROR DERIVATIVES
+without even considering the experimental data In the 1980s, the back-propagation algorithm (Werbos
+because it simply does not work well enough to have 1974; Rumelhart et al. 1986) created much excitement
+any chance of explaining obvious facts about people’s because it appeared to solve the problem of learning
+learning abilities. Falsification by simulation has the multiple layers of nonlinear features. Back propagation
+advantage that it is possible to design better learning is a method for computing how to change the connec-
+rules by analysing how naive learning rules fail.

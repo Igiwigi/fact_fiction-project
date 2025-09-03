@@ -1,0 +1,17 @@
+We observe that all row-sums of A”
+are zero, except the last, which is equal to —A,,. The solution of (1-11) with the appropriate initial conditions .Y(0) = 7” can be written
+
+PPro}
+down in the form ‘ etn) f \
+\ exp (tA) F(t) (F(t). (1°13)
+We shall now show that /}/?(¢) >0 when ¢>0. In fact, let
+gq = max (Ap, Ay FAs «+05 Ay Mp)
+
+Then M = tq1 + tam
+
+is a matrix all of whose elements are non-negative. From the definition as a power series
+it is clear that the elements of exp M are likewise non-negative. Hence so also are the
+
+elements of exp (tA) = exp (—tq1™) exp M,
+
+since exp (—/q J) = exp (—tq) I.

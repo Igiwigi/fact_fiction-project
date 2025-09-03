@@ -1,0 +1,15 @@
+There exists a positive number Rx such that the following hold:
+
+(i) if R> R, then the RSSS is asymptotically stable as long as u/y < Mg;
+(ii) if R > Rx then the stationary solution (2.6) with ¢ =2 is linearly asymptotically stable if u/y —
+Mz is positive and small, but linearly asymptotically unstable if 4/y — Mz is negative and small;
+(iii) if R < R,, then the asymptotic stability of the RSSS holds if u/y <M, for some number M, < Mz,
+but ‘Hopf bifurcation’ occurs at u/y = My. The ‘Hopf bifurcation’ is understood in the following sense: If we linearized the free boundary
+problem about the stationary solution at u/y = M,, then any solution of the linearized problem
+approximates a periodic solution as f-> oo. This means that the tumour is oscillating nearly
+periodically as, in fact, has been observed in several tumours [10]. The numbers R,. and M., are given as solutions of some transcendental equations. If we restrict the initial conditions on c and 92(0) to be radially symmetric, then global existence
+and uniqueness of a radially symmetric solution of (2.1)-(2.5) can be established [1], and the
+question arises:
+
+Is the stationary solution globally asymptotically stable when R > R. and pz/y < Mz, or when
+R<R, and pp/y <M?

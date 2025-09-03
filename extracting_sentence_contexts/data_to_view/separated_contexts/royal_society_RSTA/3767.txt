@@ -1,0 +1,37 @@
+Wa 0 uy uz a +as+zn]} | va
+
+We add decoherence into our system model by introducing fluctuations into the system
+Hamiltonian H(t) in equation (4.6). The resulting density matrix equation then takes the form
+6=-iA) +AOk +hOSz +fa2kSz, pl, (4.7)
+
+where f1(t), fa(t) and f3(t) are assumed to be uncorrelated fluctuations such that E[fi(t + t)f()] =
+6,8(t)k;. This captures the fact that various terms contributing to the Hamiltonian fluctuate. This
+leads to the master equation
+
+b= iH), 01+ Littl, ell + tselis:, ol] + Sti2l-$-[2h5-, ol. (48)
+
+iS
+
+L(o)
+
+Now, by choosing the frequency of the radiofrequency field w = a, where « is the resonance
+frequency of spin I, and transforming into a rotating frame described by taking the density matrix
+
+p(t) > exp(iHot)p(#) exp(—iHot),
+we obtain that
+6 =—il2JI-Sz + 01 cos P(t) Ixy + 2 sin b(f) ly, p] + L(p). (4.9)
+See ee
+u(t) v(t)
+
+
+We can rewrite the corresponding density equation as
+
+[241 0 u—-v O 0 0 Zy
+NY —u —-k J 0 oOo 0 y
+dix} |v -J -k 0 0 0 x1
+di}lx.} |0 0 O -k -J v | fx’ (4.10)
+y2 0 oO O J -k -ul ly
+LZ2 0 0 0 -v u 0 Z2
+
+where (x1,Y1,21) is a Bloch vector associated with the two-level system |00) and |10). Similarly,
+(x2, Y2,Z2) is the Bloch vector associated with the two-level system |01) and |11). k = (k, + kg)/2.

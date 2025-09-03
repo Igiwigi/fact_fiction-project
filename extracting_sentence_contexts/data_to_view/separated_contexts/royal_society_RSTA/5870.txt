@@ -1,0 +1,12 @@
+Note that the configuration of beads shown here is typical for an instanton in the
+inverted regime, although the numbering scheme is identical in the normal regime. (Online version in colour.)
+
+which is defined such that 2s, = sO for the instanton configuration and r= {10,...,1N/2} has
+been redefined for the half ring polymer. Note that the bead labelling has changed compared with
+equation (3.2), since cyclic indexing does not apply to the half ring polymer and there is only a
+single hopping bead (figure 2). When optimizing an instanton for a new system, one can use the fact that at high temperatures
+the instanton will be compact and located near the MECP, which can itself be found with standard
+methods [84-90]. A good initial guess for the value of rt is given by the classical, short-time limit
+of the action (see discussion above equation (2.21)) [41]. It is therefore relatively easy to optimize
+an instanton at high temperature, which can then serve as a starting point to slowly cool down
+the system.

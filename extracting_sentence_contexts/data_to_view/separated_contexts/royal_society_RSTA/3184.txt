@@ -1,0 +1,21 @@
+Thus, (0,L;4)D and E%,(0,A) are exp(—o+L)-close, where o+ is the rate of exponential decay of
+solutions at +00, and so the set of cluster points as L > oo of the negative zeros of D, (A) is equal
+to the set of negative zeros of Dp.(A), counting multiplicity, by Rouché’s theorem as in [32, Rmk
+4.3], and by remark 3.5.
+
+(ii) Combining the result from (i) with theorem 3.1(v), we see that
+
+Mor(H) = Mor(H_) = # conjugate points in (—0o, L)
+
+for any L > L4. As Mor(H) does not depend on L, we conclude that there are no conjugate points
+in (Loo, +00), and so Mor(H) is equal to the number of conjugate points in R.
+
+(iii) This is equivalent to (ii), because Hy fails to be invertible precisely when L is a conjugate
+point. a
+
+Remark 4.3. The fact that Mor(H;) converges to Mor(H) as L > +00 has also been shown in
+[33]. Here we used an alternative proof based on the arguments from [32] (see also [16]) where
+the spectrum of the operator on the full line was approximated by the spectra of the operator
+on [—L,L]. Unlike [33], this approach generalizes to operators which are not self-adjoint; this
+is relevant as recent progress has been made in defining Maslov-like indices for such problems
+(e.g. [34]).

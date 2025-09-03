@@ -1,0 +1,18 @@
+Before going on to discuss this important aspect we shall
+make brief comments on an iterative method, for use with Volterra’s equation, analogous
+to that described in § 6 and employed on Fredholm’s equation.
+
+or
+
+18. A CLASSICAL ITERATIVE METHOD
+
+For the solution of the integral equation (56) Friedlander used an iterative method, given
+by the relations
+
+He evaluated f(x) analytically, and computed f, f® and f by numerical integration,
+taking f(x) as an acceptable solution of the integral equation. In fact, his errors in the
+65-3
+
+
+
+530 L. FOX AND E. T.

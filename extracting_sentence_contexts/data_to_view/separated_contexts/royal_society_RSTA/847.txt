@@ -1,0 +1,9 @@
+Further we assume P(t): Q— P
+is a Hilbert-Schmidt operator for t € [0, T]. Technically, as mentioned above, we require Q’ and P
+to exist in appropriate subspaces of the class of Hilbert-Schmidt operators. However, we suppress
+this fact for now to maintain clarity and brevity (explicit details are given in the following
+sections). With this context while they exist, Q’ = Q’(f) and P = P(t) can both be represented by
+integral kernels q’ = q'(x,y;t) and p = p(x, y;t), respectively, where x,y € R and t € [0, T]. Suppose
+that D = 02 and B = 1 so that the base and auxiliary equations have the form
+
+p(x,y;t) = dzp(x,y;t) and aq/(x,y;t) = p(x, yt).

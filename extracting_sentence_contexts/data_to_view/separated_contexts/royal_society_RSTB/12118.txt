@@ -1,0 +1,13 @@
+In scRNA-seq applications,
+FACS is used to select specific populations of interest and col-
+lect single-cells in 96- or 384-well plates [38]. FACS can
+simultaneously record multiple parameters for each sorted
+cell and these metadata can be used together with single-
+cell gene expression. FACS-enabled scRNA-seq offers
+
+The last few years have seen tremendous development of
+single-cell RNA sequencing (scRNA-seq) technologies and a
+rapid increase in the number of studies using this method. Most of these studies sampled vertebrate cells, but the same
+procedures have also been successfully applied to other
+eukaryotes [18-22]. The growing diversity of sCRNA-seq pro-
+tocols and analytical tools can seem overwhelming.

@@ -1,0 +1,6 @@
+Hence, the first
+criterion will be satisfied. Lastly, we need to show that the second criterion is satisfied. In fact, we modify the second
+criterion and demand that the output state differs from a valid codeword by an error which is
+correctable by our ideal decoder (the ideal decoder is our Look-Up Table Decoder assuming no
+further errors). As discussed, this could be an error of weight-2. This modification does not alter
+the use of this condition in deriving fault tolerance [27].

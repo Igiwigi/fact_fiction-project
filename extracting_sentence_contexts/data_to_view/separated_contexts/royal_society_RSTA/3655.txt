@@ -1,0 +1,17 @@
+Generally, we shall be interested in the limit of
+highly pressurized (and hence highly bendable), and highly indented shells, i.e. 1,5 >> 1. These
+limits may seem to be in contradiction with the additional requirements that the typical strains
+be small, pR/Et <1, (for Hooke’s Law to remain valid) and that the lateral scale of deformation
+ty <R (for the shallow shell theory to be valid). For a given indentation depth, shell radius and
+elastic modulus, these restrictions can in fact be satisfied in the limit of vanishing pressure and
+thickness, p,t + 0, provided that p/t > 0 but p/t — oo, as discussed elsewhere [18].
+
+(c) Axisymmetric behaviour
+
+Axisymmetric solutions of (2.11)-(2.17) have been studied in some detail [17,25]. The key
+observation is that as 4 increases, the hoop stress G9 is non-monotonic: close to the indenter the
+stress becomes large, while far away it takes its undisturbed far-field value, G99 ~ 1/2. Between
+these two tensile regions, however, there is an annulus in which the hoop stress becomes relatively
+compressive; this behaviour can be understood as follows: indentation acts to pull material circles
+in to a position where their circumference is too long for their final position and so they become
+relatively compressed.

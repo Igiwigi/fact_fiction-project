@@ -1,0 +1,15 @@
+The threshold margin is required to ensure that the
+portions of the Vy_e waveform shown in figure 3 not contributing to the STDP behaviour, remain below the switching threshold
+even for longer pulsewidths.
+
+deterministic as opposed to stochastic. We also note that pulses with amplitude below 0.45 V have
+almost no chance to switch the MT] (at least up to 10 ns pulse widths). We use these facts to design
+the input and output neuron spikes. This is explained in detail in the next section.
+
+(b) Stochastic spike timing-dependent plasticity learning in magnetoelectric-magnetic
+tunnel junction synapses
+
+We have described how shaping the pulses appropriately and mapping it to switching probability
+characteristics of ME-MTJ synapses can lead to probabilistic potentiation and depression in
+figure 3. We present the results and parameters of pulse shapes that result in stochastic STDP
+learning in ME-MT]J synapses.

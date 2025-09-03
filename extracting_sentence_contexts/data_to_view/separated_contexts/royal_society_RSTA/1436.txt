@@ -1,0 +1,7 @@
+They take a similar
+approach to [10] and simulate a specific scheduler using job run time predictions. However, as
+they assume the Maui scheduler [12] which is not widely used anymore, and as they base their
+work on simulations of the scheduler, their work cannot be applied in our case. Gao et al. [13] use a genetic algorithm to optimize job scheduling, however their approach does
+not apply to us due to the fact that we need to estimate job queue wait time probabilities. Chen
+et al. [14] use Naive Bayes, but in a different context, namely optimizing MapReduce partitioner. In this paper, we propose a novel method based on the well-known technique of Naive Bayes
+classification.

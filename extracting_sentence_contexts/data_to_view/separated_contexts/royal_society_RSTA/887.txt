@@ -1,0 +1,7 @@
+For example,
+the complete graph has very low complexity, due to its highly symmetric nature, but the tree-
+width is in this case maximal. On the other hand, the rank-width is one for both trees and complete
+graphs. In fact, it turns out that the graphs of rank-width one are exactly the distance-hereditary
+graphs, see [23]. We start by defining the cut-rank of a graph. To do this, we will use the following notation
+for a graph G with vertices V and adjacency matrix I and two subsets of the vertices A,B C V;
+IA, B] is the |A| x |B|-matrix describing the connections between the sets A and B.

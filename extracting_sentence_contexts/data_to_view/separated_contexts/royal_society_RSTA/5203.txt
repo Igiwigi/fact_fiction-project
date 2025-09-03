@@ -1,0 +1,18 @@
+We show in the
+following that this connection is not limited to CARL, but applies also to the symmetry-breaking
+transverse instabilities studied in [15,16]. Moreover, the connection made in [7,21] referred to the
+case where strong damping is present in the system (hence the denomination ‘viscous’ CARL),
+which in the Kuramoto analogy translates into the case where the oscillators have zero natural
+frequencies (their distribution is a Dirac delta function). We extend here the Kuramoto analogy
+to the situation analysed in [15,16], where no damping is present and a finite spread exists in the
+natural frequency spread of the fictitious oscillators.
+
+2. Single-mirror optomechanical instabilities
+
+(a) Basic scheme
+
+We consider the single-mirror set-up [23,24] depicted in figure 1, where a cold gas of two-level
+atoms is illuminated by a pump beam of amplitude F, frequency w) and wavenumber ky. The
+pump beam is detuned by 6 = a9 — wat from the atomic transition (frequency wat, linewidth I’),
+and is retroreflected by a mirror of reflectivity R placed at distance d from the cloud to form the
+backward beam (amplitude B).

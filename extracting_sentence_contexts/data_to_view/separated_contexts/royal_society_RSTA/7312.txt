@@ -1,0 +1,45 @@
+WIND
+
+In §5-6 formulae were obtained for the angular deviation, yaw and rate of turn due to
+the wind. In the derivation of these expressions it was assumed that the projectile was
+perfectly launched. In actual fact part of the initial tip-off conditions will be due to the
+action of the wind, but the contribution of these parts to the motion during burning is very
+small and will be neglected. Accordingly, if w,(s) is the complex cross-wind (see (5-6-1),
+we have, by (5-6-7, 8, 9),
+
+By
+
+Th pl mls) —W (Sq) ef ¥5-s0) {eosp(s—s) —27 sin p(s—5o )}]
+
+_ 7 “wi (u) eibrs-») {cos p(s—u ) 2 sin p(s— u)| du
+
+4-10 (50) | eore-sosin p(u —5p) 7 +f" aN w}(v) e47¢- sin p(u—v) dv, (6-8-1)
+
+by
+
+sin p(s— 5) —w,(s)
+
++f w}(u) rete u) isin ps u)} du], (6-82)
+
+a= B= >| mi So) eiBrs—s0) {cos p(s—s0) —45
+
+and
+
+nace p2 ‘Bys—50) «3 prs , esas
+at = wy (59) — ? é sin p(s—Sp) +5 J wily [= sin p(s—u) du. (6-8-3)
+
+
+OF THE MOTION OF ROTATED AND UNROTATED ROCKETS © 521
+
+6°81. The wind structure
+We now assume a particular form for the wind gradient, namely
+
+w,(s) = wy(sy) (1-+elog pI. (681-1)
+0 :
+This is similar to a form proposed by Sutton} (1936), namely,
+logo h/ho
+= 14+ —2107/"o ‘81:
+wy(s) = wy (s,) (1 +e, (681-2)
+
+where A is the height and the constant a is a function of the temperature lapse rate, of the
+local topography, of hy and possibly of the wind speed w,(s)).

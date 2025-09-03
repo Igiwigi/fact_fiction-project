@@ -1,0 +1,12 @@
+Reducing uncertainty way, counterfactual information resolves an important type
+has been posited as the overarching principle guiding percep- of uncertainty and helps us to build better models of the world.
+tion, action and learning because uncertainty reduction is Whether counterfactual information is necessary or
+critical to make good predictions about the world, helping sufficient to determine causation remains a matter of philoso-
+agents to adapt to their environment [47]. phical debate (see [56]), but it is clear that at the very least,
+This principle of uncertainty reduction identified in humans find counterfactual information to be credible sup-
+curiosity research should be applicable to counterfactual port for causal explanations. This function of counterfactual
+information. In fact, even when counterfactual information information has recently been used in the field of machine
+is not directly related to rewards, it still often reduces uncer- learning, where the black-box operations of deep-learning
+tainty. This is because counterfactual thought hinges on the algorithms make important decisions but cannot be easily
+uncertain moments in our existence, those moments where explained. Diverse sectors including healthcare and finance
+alternate events could have transpired.

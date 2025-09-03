@@ -1,0 +1,9 @@
+Here, quantum-like Jeffrey conditioning provides the most consistent scheme of PU and learning. Finally, we
+remark that here PU has to be treated not so straightforwardly as in the classical Bayesian approach where PU is the update
+ofa prior probability to a posterior probability. In the quantum-like model, this ‘update’ is, in fact, the assignment of subjective
+probability to the hypothesis H on the basis of the reference self-measurement on the belief state p.
+
+
+in (5.1) goes to zero. Thus, new Jeffrey conditioning differs from ‘conventional one’ by appearance
+of additional terms (of the interference type) correcting the classical conditioning. We also remark
+that, in contrast to QBist FTP (3.3), our FTP is valid even for infinite-dimensional state spaces.

@@ -1,0 +1,27 @@
+When polynomials of degrees
+exceeding ten are being root-squared it is not uncommon to lose two or three figures ‘ off
+the front’ in each of the early transformations; by the time three or four transformations
+have been completed several coefficients may have disappeared entirely and the work
+must be repeated using more figures. In order to understand this phenomenon, consider the application of the root-squaring
+transformation to the polynomial*
+
+fla) = 3 (—) (| s) arse (3:11)
+
+* For typographical reasons (n|s) is used to denote the binomial coefficient (") i
+
+
+EVALUATION OF ZEROS OF HIGH-DEGREE POLYNOMIALS _ 395
+
+If the coefficients of the transformed polynomial g(x) are denoted by 4,, then from equation
+(2:3) we obtain
+b, = a"-25 (n | s)2—2(n| s—1) (n|s+1)+2(n|s—2) (n|s+2)—...]. (3-12)
+
+Now since the zeros of g(x) are all equal to —a?, the sum of the terms in the squared bracket
+in equation (3-12) must equal (n|s). If—1>s>1, some individual terms are consider-
+ably greater than (n|s), showing that if the process were performed numerically partial
+cancellation would take place; in fact, since (n | s)?>(n|s—r) (n|s+r) ifr>0, the number
+of leading figures which cancel is approximately equal to the number of digits in (n| 5)
+itself. Further transformations produce the same effect. Returning to the general polynomial of the nth degree, there is no reason to suppose that
+Ssystematic cancellation will occur when the zeros are widely separated, and the inference
+Sis that it takes place only when some zeros are either equal or close together in the complex
+plane.

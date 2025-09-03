@@ -1,0 +1,7 @@
+The outcomes of these two different
+choices of iteration were the same. From the same figure, it can be noted that the TBRmax value
+keeps increasing iteration after iteration and the algorithms do not reach a plateau within 10 full
+iterations. This is consistent with all the patients, and is due to the fact that the analysis is based
+on the voxel with the maximum value. The visual comparison in figure 5, for three patients, shows how HKEM is able to provide
+well-defined lesions in the aneurysm compared to the other two algorithms. KEM also shows
+improved definition and higher contrast over OSEM+G.

@@ -1,0 +1,21 @@
+Shannon's n “grams lese finches [57], although there are also many examples of bird
+Shannon [48] introduced, in the slipstream of his major work on song requiring richer models as we discuss below [8,58—60].
+
+information theory, n-grams as a simple model of sequential In music research, numerous variants of n-gram models
+
+structure in language. n-Grams define the probability of have been used predominantly in the context of modelling
+
+
+predictive processing [29]. The perception of tonality and key Table 1. Example sentence, the corresponding context-free grammar and a
+
+has been argued to be governed by pitch distributions that in the derivation showing centre-embedding.
+fact correspond with unigram models [61,62]. Narmour [22] a
+proposed a number of principles that govern melodic struc- s
+ture across cultures, which later work showed can be S
+simplified considerably and put in the form of a handcrafted ‘either language came first or music (1a) S — either S or S 3.
+bigram model over melodic intervals [63-66]. In the domain came first’ (1b) S > NP VP 3
+of harmony, Piston’s [67] table of common root progressions . . =
+and Rameau’s [68] theory (of the basse fondamentale) may be this sentence can be derived from the (2a) NP — language =
+argued to have the structure of a first-order Markov model start symbol S by subsequently (2b) NP — music 2
+(a bigram model) of the root notes of chords [69,70]. applying rules 1a,1b,2a,3,4,5,1b,2b,3, (3) VP — V ADV s
+All of these theoretical approaches constitute variants of 4,5.

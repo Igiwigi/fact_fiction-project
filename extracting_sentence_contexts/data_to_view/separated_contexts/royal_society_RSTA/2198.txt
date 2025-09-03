@@ -1,0 +1,20 @@
+Remark. From the discussion above, it follows that when studying point vortex dynamics on
+an ellipsoid the area form is different from that of the sphere and therefore the canonical variables
+cannot be those of the sphere, as suggested by some authors. In fact for the ellipsoid of revolution
+with p(@) =siné@ and (0) =bcos8, then
+
+x=sin@cosg and y=sin@sing, z=bcos6,
+and consequently the corresponding area form is
+
+dopnipsoid = y 1 + (b? — 1) sin? 6 d(cos 8) A dg. It follows that canonical variables for the ellipsoid of revolution (for b 4 1) are
+
+q=9 and p=[ Vise —1)sin? 6 d(cos 6),
+
+which are quite different from those of the sphere, as inferred by some authors.
+
+3. The equations of motion for S?
+
+(a) Numerical integration & IR? formalism
+
+For numerical integrations to avoid any ambiguity with spherical coordinates near the poles, it is
+convenient to view the sphere S* as embedded in R°.

@@ -1,0 +1,15 @@
+Also, (2.15); gives S in terms of the nested brackets of order 1,2, (2.19) can be rearranged to give
+{I, - VS} in terms of nested brackets of orders < 3. So if the list of constitutive variables includes a dependence on S and 1, - VS, but on no higher
+derivatives of S, then that list of variables can be recast in terms of nested Lie brackets of order
+less than or equal to 3. To proceed, in this case, I follow [10] and make an assumption: it is that
+the nested brackets of orders less than or equal to 2 provides a basis for the nested brackets of
+order 3—this amounts to a constraint on the elastic invariants additional to those that derive
+from (2.13) (in fact it implies that one of those two constraints is satisfied). The assumption
+implies that nested brackets of all orders are determined as linear combinations of {I;}, {La}, so
+we have a Lie algebra with basis included in the set {{J;}, {Lq}}—Elzanowski and Preston call
+this the lattice algebra derived from the lattice vector fields, and note that Palais [9] gives the
+existence of a Lie group G (of dimension higher than the number of lattice vectors in the case
+
+
+VS #0) with corresponding Lie algebra g homomorphic to the lattice algebra. We shall see later
+how the lattice vector fields are related to objects in G.

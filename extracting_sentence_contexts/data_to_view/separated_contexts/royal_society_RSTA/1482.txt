@@ -1,0 +1,30 @@
+However, the overall procedure for fitting an individual emulator remains identical regardless of
+the total number of outputs.
+
+(c) History matching
+
+Once we have predictions for a large number of query points, it is straightforward to compare
+with observations. History matching is one way to perform this comparison [16]—in history
+matching, we compute an implausibility metric I for each query point by determining the number :
+of standard deviations between the observation and the predicted mean from the approximate [3
+model :
+
+lz — m(x")) ea 8
+
+I $
+/o2 + V(x*) +03 :
+where z is the observed quantity and o; is its observational error (as a standard deviation) and og D8
+is the model discrepancy, described below. We can then ‘rule out’ points that are many standard Dw
+deviations from the mean as being implausible given the observation and all sources of error. :
+As noted above, there are three types of uncertainty that we need to account for when :s
+computing implausibility: :s
+
+I(x*) =
+
+(i) Observational error, which is uncertainty in the observed value itself;
+(ii) Uncertainty in the approximate model, which reflects the fact that we cannot query the
+full computational model at all points; and
+(iii) Model discrepancy, which is uncertainty about the model itself, and measures how well
+the computational model represents reality. In practice, (i) and (ii) are straightforward to determine, while (iii) is much trickier [19]. However, studies have shown that not accounting for model discrepancy leads to overconfident
+predictions, so this is essential to consider to give a thorough UQ treatment to a computational
+model.

@@ -1,0 +1,39 @@
+Thus, we can define orthonormal
+
+
+Figure 2. Three points in a sphere. (a) Geometry in the inertial frame and (b) geometry in the body frame. (Online version : S
+in colour.) 1m
+
+frame Fp = {b1, b2,b3} with : 3
+to XT :83
+
+by =b3 x by. 36) iS
+
+b) =19,  b3 = ———
+‘ Ito x rill” [gf
+
+Hence, the configuration space of spherical dumbbell is SO(3, R). In fact, we can consider it as a
+rigid body with tensor of inertia
+
+ms? —msc 0
+I=] —msc mo + myc? 0 , C=ay,s=V1-c2.
+0 0 mo + my
+
+Eigenvalues of I give the following principal moments of inertia:
+
+=m tm+A), b= (mo+m—-A), b=motm, A= (mo = 11)? + 4c? mom. Finally, the spherical dumbbell equations of motion can be written in the following form:
+
+d d A
+—I2=I2x2 —A= i
+di x and at AQ, (3.7)
+
+where 2 = (21, 22, 23) is the angular velocity of the frame Fg projected to the axis of this frame,
+A=[a;;] €SO(,R) is the orientation matrix of frame Fg with respect to the inertial frame with
+entries dj; =e; - bj, for i,j =1,2,3. Matrix @ has the form
+
+0 -23 Q
+Q=| 2 0 -2Q}. (3.8)
+-—2, Q 0
+
+Summarizing, the spherical dumbbell is equivalent to a rigid body with one fixed point and with
+the tensor of inertia satisfying + In — 13 =0.

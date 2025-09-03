@@ -1,0 +1,16 @@
+Indeed, all but one of the 24 super-
+fibroblasts (MEFs). Furthermore, in the differentiated cells, loop anchor points were determined to exist along the
+TADs were retained by both the Xa and the Xi based on Xi-bound CTCF, confirming the factor’s critical role in 3D
+super-resolution 3D DNA-FISH and the deconvolution of conformation of nuclear DNA.
+female MEF 5C data into contributions from each X chromo- In situ DNase Hi-C is a variant of the Hi-C protocol that
+some. However, TADs were attenuated along the Xi uses DNase to digest DNA rather than relying on restriction
+presumably due to the fact that XCI leads to a reduction in endonucleases that depend on specific cut sites, thereby
+these intra-TAD contact frequencies. improving coverage and resolution [46]. Using this method
+
+The Hi-C protocol extends the 5C method and theoreti- on a highly polymorphic F,; hybrid mouse system (BL6 x
+cally permits one to determine the contact frequencies spretus) with skewed XCI both in vivo (whole brain with a
+between all DNA-DNA interactions, at least for mappable spretus Xi) and in vitro (Patski cells with a BL6 Xi), Deng
+regions of the genome, by essentially multiplexing 4C-seq and co-workers produced allelic contact maps that revealed
+across every locus of interest. However, very deep sequen- that the Xi possessed less defined TADs relative to the Xa,
+cing is typically required to obtain reasonable levels of as had also been observed in mouse fibroblasts (figure 1a,b)
+coverage and resolution, especially in the case of mammalian [47,48].

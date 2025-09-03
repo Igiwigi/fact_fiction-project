@@ -1,0 +1,10 @@
+For
+example, even well-designed systems following the pattern above may in some cases err or
+cause negative outcomes for their subjects. For these cases, it is important to develop a theory
+of software malpractice to match malpractice regimes in other fields such as medicine, law
+and professional engineering. Importantly, the mere fact of a mistake is insufficient to define
+malpractice; rather, malpractice involves situations where bad outcomes could have been avoided
+by more responsible behaviour on the part of a system's controllers. As yet, the question of what,
+concretely, constitutes sufficiently responsible behaviour is almost entirely unexplored. Importantly, when dealing with data-driven software systems such as those that make use
+of data analytics, data science and machine learning, it is imperative to maintain the ‘science’
+in data science.

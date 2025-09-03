@@ -1,0 +1,12 @@
+A mapping whose deformation gradient corresponds to Ug is given by 1s |
+
+oO
+
+r=eR, O= z=Z. (7.9) 5
+
+This relaxing map corresponds to a controllable deformation for isotropic materials, meaning iB
+that it can be supported by surface tractions alone at equilibrium. It describes the opening of s
+the initial disc into a circular sector, corresponding to non-homogeneous displacements and :
+homogeneous strains [62,63]. In fact, we remark that (7.9) does not globally map a physically
+compatible configuration even if the Riemann curvature of the underlying metric tensor is zero. This can be easily checked since the curl operator of the deformation tensor corresponding to
+(7.9) is not zero if Ag 41. From (7.7), this condition implies Urr 4 Yoo, or equivalently y 40.

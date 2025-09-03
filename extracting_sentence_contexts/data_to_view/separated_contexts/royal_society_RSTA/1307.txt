@@ -1,0 +1,9 @@
+As our feasible region of the
+QP is compact, we can apply quadratic programming theory (see [31]). It follows that there exists
+a polynomial time algorithm for (3.11) that provides e-exact solutions. As —A has exactly one
+negative eigenvalue, this polynomial time is in fact quadratic. However, to our knowledge, there
+is no algorithm for QPs with EDMs available so far where this property has been proven. Still, it
+is fair to assume that any reasonable algorithm available for solving (3.11) will benefit from the
+aforementioned structure of the problem.
+
+4.

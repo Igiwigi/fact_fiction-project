@@ -1,0 +1,10 @@
+This approach allows using the VO fractional operator as a
+nonlinear switch-like term that determines if existing bonds are broken or new ones are created. While this fractional operator could, potentially, be designed to account for memory effects (as an
+
+
+example, to track the evolution of the rate of stretch in a bond), in this study we did not account
+for it. In fact, we used a steep exponential function to achieve a rapid change of the bond state
+(i.e. to achieve either formation or annihilation). We merely note that the VO can also be crafted
+to account for an irreversible (permanent) bond annihilation. Such a case was explored in [42] in
+the context of classical mechanics, where irreversibility due to plastic deformation was captured
+by using direction-dependent terms in the order variation.

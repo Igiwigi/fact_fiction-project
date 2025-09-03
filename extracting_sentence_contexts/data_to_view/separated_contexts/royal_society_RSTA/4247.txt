@@ -1,0 +1,52 @@
+Regarding the results obtained via MEEMD we point out that, even if the results are
+comparable with that produced with the proposed method, this approach has disadvantages.
+
+
+(b)
+20
+40
+
+60 i
+80 vas “
+100f. «
+100 150 200 250 300 50 100 150 200 250 300
+
+Figure 5. Detection map of the reversed COS classification of the raw data and (6) detection map of the COS classification o
+the pre-processed data. (Online version in colour.)
+
+(2) 10
+
+0.8
+
+() 19
+
+0.8
+
+0.6
+
+0.6
+
+Tandom guess
+== reversed COS
+
+— reversed COS after PostP
+0S with
+DS with PreP and wavelet post-processing 02
+— COS with PreP and Post?
+
+04
+
+‘with PreP and PostP
+
+10-5 104 103 102 10-1 1 10-5 104 103 102 10-1 1
+FPr log scale FPr log scale
+
+Figure 6. (a) ROC curves for the COS classification of the hypercube Location 1 released r134a and (b) ROC curves comparison for
+the hypercube Location 1 released r134a. (Online version in colour.)
+
+First of all it is still an open problem to prove the convergence of this technique even in one
+dimension. In fact, in this case, the method reduces to the so-called EEMD technique, whose
+convergence is not known. Whereas we recall that, even if the convergence of the MIF method
+is still an open problem as well, its one-dimensional version, the iterative filtering technique, has
+been proved to be convergent under mild conditions [4]. Furthermore, the MEEMD has been
+found to be much slower than the proposed method.

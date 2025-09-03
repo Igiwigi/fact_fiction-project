@@ -1,0 +1,13 @@
+Like the large ESD, the small ESD takes the stored energy Q to higher
+levels during the night hours 5-9, but in this case not to saturation. Then, both the large ESD and
+
+the small ESD run Q down during the evening peak hours, 16-19. : =
+
+The intuition here is precisely that the small ESD is so small. On inspection of figure 3b, : a
+the continuous delivery line D is mostly close to (but above) the stepped commitment line C*. 73
+These facts, along with the high level of both D and Q at night, arise because, when using aes
+only a small ESD, the WPG must deliver most of its power during the nightly peak of wind : _
+strength. To minimize the balancing penalties on these low-priced sales, it is optimal for the small : Ss
+ESD to remain unsaturated all of the night, in order to absorb fluctuations in the majority of DN
+its deliveries—which must be made at night. Despite this, at the end of the night the optimal : S
+policy retains a fairly large quantity Q in store.

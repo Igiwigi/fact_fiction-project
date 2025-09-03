@@ -1,0 +1,14 @@
+Impor- By focusing on patterns and their relationship to infor-
+tantly, the main advantage of both pattern classification and mation, rather than focal activation going up or down in
+analysis (referred to as MVPA here) is that they pick up on response to a stimulus, one can avoid problematic interpret-
+both weakly and strongly active voxels, which can move in ations inherent in interpreting BOLD related to baseline, and,
+either direction relative to baseline. perhaps most importantly for our current considerations, the
+By contrast, univariate approaches focus on modelling magnitude of those changes. Such MVPA techniques can also
+changes in the HRF one voxel at a time, typically as the same readily be performed on numerous different types of electro-
+function across the brain, and then determine how well the con- physiological recordings and related to perceptual and
+volution of this function with the behavioural variables of memory processes, including scalp EEG, MEG, ECoG and
+interest fit the observed fMRI patterns across all voxels in the single-neuron activity [84,95,96,103,104]. Some studies in fact
+brain. Subsequent analyses then focus on finding clusters of suggest striking consistencies between MVPA of fMRI and
+activation that exceed some threshold, allowing determination single-neuron recordings in monkeys [105,106]. Since the
+of whether activation in these clusters increased or decreased scale of the patterns of voxels is somewhat arbitrary, one can
+relative to baseline.

@@ -1,0 +1,55 @@
+Note that,
+assuming no load is applied to the structure (p; = 0,p2 = 0), we obtain the dispersion relation
+
+gl 4 RLF 0. (3.5)
+
+In the case where the master body is continuous, whereas the attached structure is discrete, as
+shown for example in figure 1, we have
+
+pLFd = GhFa pha _ QlFd) and QlFd = xe(yLFa _ ulFd) (3.6)
+
+where the discrete transform of the continuous function u is (with attached structure support
+x=an,n=0,+1,...)
+
+00
+uF (y, t) = > u™(an,s) (3.7)
+n=—00
+It follows that
+LFd LFd.,LEd
+x, — xGrrPu
+QlFd _ Pz 0 , (3.8)
+S2
+and equations (3.4) become
+GEE yLF — plF 4 plPd ylfd___plfdyLPd , (LP, Lr
+LFd
+with ira _ _* ~—, MiMi a °°)
+Gd +x Opa + x
+
+Thus, we have coupled both the continuous and discrete Fourier transforms. A procedure for
+continuing with such a coupling is given in Slepyan [39]. Specifically, the combined expressions
+(3.9) can be reduced to a single discrete transform via the following fact. If a function fF (k)
+represents the product of the continuous gt (k) and the discrete hF4(k) transforms,
+
+fF =F nF) and Fa (: + =) =h*4(k), (3.10)
+
+then the corresponding discrete transform of f (an) is
+
+Fd, _ Fd 1< F 2nn
+flan 0, Us («+ ="). (3.11)
+
+
+CN 2 DN a mM
+
+an
+Winkler foundation a
+
+master body master body
+
+DI Xp mM
+* ANA AWA AW ue
+Winkler foundation — -
+master body master body
+Figure 2. Four configurations of the oscillator system considered in this paper, attached to some master bodies: continuously : 2
+distributed oscillators without interconnections (CV), continuously distributed locally interconnected oscillators (CZ), : =
+discretely distributed oscillators not connected to each other (DV) and discretely distributed oscillators connected to each :
+other (DZ).

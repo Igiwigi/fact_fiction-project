@@ -1,0 +1,16 @@
+It has been recognized that, in general, bodies
+need not have natural reference configurations in space, and, as such, they should be represented
+
+mathematically as differentiable manifolds. The notion of a body point makes sense because of the : =
+principle of material impenetrability which implies that the configurations of a body in space are : Sy
+assumed to be embeddings. In fact, as early as [2], the configurations of a body in space were a
+described as charts on the body manifold. We will refer to this point of view of continuum aed
+mechanics as the Lagrangian approach. 22
+
+A basic notion of force theory in continuum mechanics is the concept of the stress tensor. : Sg
+The mathematical proof of existence of stress, the assumptions needed for the proof and the DNS
+mathematical properties of the resulting stress object have been studied since the nineteenth : z
+century, notably by Cauchy in the 1820s, by Piola in the 1840s, and are still the subject of research as)
+
+(e.g. [2-10]. In the standard continuum mechanics literature, the existence of stress is proved on
+the basis of what is referred to as Cauchy’s postulates, or mathematically equivalent assumptions.

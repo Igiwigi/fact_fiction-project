@@ -1,0 +1,15 @@
+Let X be a finite connected undirected (q + 1)-regular graph. Then
+
+(1 — u2)x®
+
+(G1) = Ta Au qe)’
+
+where x(X) is the Euler characteristic of X and A = A(X) is the adjacency operator. Since x(X) < 0, Z(X; 1) is in fact the reciprocal of a polynomial in 1. Similar to the Riemann zeta
+function, Z(X;u) is said to satisfy the Riemann hypothesis if its non-trivial poles, namely, those
+arising from the non-trivial eigenvalues of X in det(I — Au + qu7J), all have the same absolute
+value q~1/?. Hence one obtains another criterion for Ramanujan graphs in terms of zeta functions,
+namely X is a Ramanujan graph if and only if Z(X, u) satisfies the Riemann hypothesis.
+
+4, Ramanujan complexes
+
+Graphs are one-dimensional simplicial complexes.

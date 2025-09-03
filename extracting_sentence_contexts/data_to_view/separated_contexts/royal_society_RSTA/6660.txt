@@ -1,0 +1,15 @@
+For flexure in the yield range F(x) cannot be expressed in a manner
+suitable for differentiation, so that it is necessary to integrate equation (15-3), giving
+
+F(x) S94 2% = Pf (2) (15-4)
+where ke) = eae dd. By considering the end conditions it will be seen that the arbitrary constant of integration
+a assumes the value 0 for the case of a central concentrated load, and 1 for the case of
+acantilever. The utility of equation (15-4) lies in the fact that C/A, is usually small. With the
+numerical values adopted for the case of pure bending, C/A, = 0-023. The term /, (x) is
+therefore small, and can be estimated with sufficient accuracy from a rough guess of the
+mode of ¢.
+
+(b) Solution by finite difference approximations
+
+The eigen-value y in equation (15-4) may readily be determined by using finite difference
+approximations to the first and second derivatives of 6.

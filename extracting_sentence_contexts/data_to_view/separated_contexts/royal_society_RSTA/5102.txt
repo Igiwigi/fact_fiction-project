@@ -1,0 +1,8 @@
+The consequence is that the
+normal velocity and pressure are continuous across the interface, while the tangential velocity
+at the interface is discontinuous. The result is artificial local vorticity on the viscous flow side
+of the intersection. The latter fact was also observed by Greco et al. [24] in their studies with a
+domain decomposition method involving linear potential flow and the Navier-Stokes equations. Figure 9a illustrates that, during forced roll oscillation, we observed artificial vorticity at the
+viscous flow side of the horizontal part of the intersection. However, for the nonlinear hybrid
+method, the advection terms in the Navier-Stokes equations are communicated with the potential
+flow domain (figure 9c).

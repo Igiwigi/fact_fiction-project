@@ -1,0 +1,17 @@
+It should be noted that such dis-
+tortions are not incompatible with MB-HRL, because it is nowhere
+stipulated in the MB-HRL framework that the agent’s internal
+model must necessarily be accurate. At the same time, it should
+
+
+also be noted that, even when the model is inaccurate, it may still be Botvinick et al. [10], again using the same parameter values. | 8 |
+
+of use due to the enormous computational savings that arise from Once again, the set-up was treated as model-based in the
+
+temporal abstraction. . - . P sense that action outcomes were viewed as coming from the = 4
+
+There is, in fact, a fundamental connection between option dis- . . . a
+covery based on prediction and option discovery based on causal agent's internal transition model, rather than from the environ- ©
+dependencies. For a discussion of the relationship between the two, ment itself. In order to implement saltatory MB-HRL, the same a
+see [57]. simulation code was employed, but the count of steps taken = 2
+was not incremented during execution of option policies.

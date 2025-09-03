@@ -1,0 +1,14 @@
+An estimate
+of the statistical weights of different states can be calculated using the normalized eigenvector
+corresponding to the first eigenvalue. The weightages of different states, corresponding to the
+three-macrostate model, are listed in table 3d. We observed the system to rest in an LL-LSC state
+for about 75% of the time of the ensemble runs, a fact also reflected by the PDFs of persistence
+times.
+
+(d) Markov property by eigenvalue spectra
+
+Based on the ensemble run data, we now proceed to test the Markovianity of the macrostate
+evolution. This is done by means of the eigenvalue spectrum of the transition probability matrices
+A; at different lagtimes t as discussed in the last section. To begin with, we calculated the
+ensemble averaged transition probability matrix A; at different lagtimes t >t, where t, = 3t, is
+chosen as a reference time for Markov analysis.

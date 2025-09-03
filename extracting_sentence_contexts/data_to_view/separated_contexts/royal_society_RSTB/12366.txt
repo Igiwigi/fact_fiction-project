@@ -1,0 +1,15 @@
+The important finding, however, was that the
+mation rather than abstract syntactic knowledge), but also on model did better in some (but not all) conditions that required
+nonsense sentences that are grammatical but completely mean- combinatorial generation when the training foils were care-
+ingless (motivated by the classic sentence by Chomsky: fully selected so that the model was forced to learn to
+‘Colorless green ideas sleep furiously’). The authors took encode the relevant relations. The fact that performance con-
+these findings to provide tentative support for the claim that tinued to be poor in conditions requiring extrapolation
+RNNs can construct some abstract grammatical represen- highlights how difficult generalization outside the training
+tations. Nevertheless, when more challenging forms of space can be, but at the same time, the improved performance
+combinatorial generalization are required, current state-of-the with carefully crafted training foils suggests that conventional
+art conventional connectionist systems continue to struggle, connectionist models can be more successful in such tasks than
+as detailed next. critics often assume. The benefits of manipulating the pressure
+
+to learn to encode relations for the sake of combinatorial
+; a : generalization (e.g. [33,34]) provides the motivation of our
+(b) Recent explorations of generalization usin approach which we now introduce.

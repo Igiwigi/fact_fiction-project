@@ -1,0 +1,8 @@
+Ze, > Zo hP Ale. Contravariant, Set-valued functors are traditionally called presheaves, hence the name. As we
+saw above, each Gelfand spectrum Y- = X(C) is, in fact, a compact Hausdorff space, and each
+restriction map X(ic,c,)="c,c, is a continuous map, so the spectral presheaf takes values in
+KHaus, the category of compact Hausdorff spaces and continuous maps. There is an obvious W*-analogue to all these constructions, which gives the spectral presheaf
+of a non-Abelian W*-algebra (or von Neumann algebra, if we implicitly use a representation on
+a Hilbert space, as we usually do). For clarity, we use the notation VV for a W*- or von Neumann
+algebra from now on, and V(N) for the context category, i.e. the poset of Abelian W*- or von
+Neumann subalgebras of V.

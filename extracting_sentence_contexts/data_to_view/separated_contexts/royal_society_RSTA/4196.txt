@@ -1,0 +1,21 @@
+So, let us say
+that if there is a point of the structure at x(0) € R°, there are also points at x(1) and x(—1), where
+the curve {x = x(t); t € R} is the integral curve of I,(-), a=1,2,3:
+
+H(t) = tt) =Ih(x(t)), a=1,2,3. (6.1)
+
+Now it pays to introduce some notation, via (6.2)—(6.4)2. Note that because J,(-) is a right invariant
+field, it is determined by its value at x = 0, by putting x = 0, x (0, y) = y in (2.17). Then if p € Rp =
+pili(0) say, and p(t) represents a point of the integral curve of the right invariant field pjl;(x), with
+arbitrary initial point p(0), one may define the mapping exp(tp) : G > G by
+
+(expltp))(p) =p), po) eG ER’. (62)
+Also introduce the group element e’? via
+e!P = (exp(tp))(0). (6.3)
+It is an important fact that
+(explip))(@) = x(e?,x) =e?x, e'?, x EG, (6.4)
+
+where the juxtaposition of group elements, as in (6.4)2, is to represent group multiplication. In
+other words, the process of exponentiation, defined via the right invariant fields {1,(-)} maps an
+element p of the Lie algebra to the group G. Note that the bracket operation in the algebra can be
+defined in a familiar way.

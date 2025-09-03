@@ -1,0 +1,6 @@
+In the second row, the arrangements op and of
+are shown under a single arrangement of o' for i= 0,1. Given a finite n x n array size, and the initial oR seed arrangement, for any rules ¢p, 6c, the
+arrangement sequence o°,c1,... is eventually periodic. This follows from the fact that there are
+only a finite number of configurations and the transitions between the iterations are deterministic. For the seed o° of figure 2, and the GoL-like system the sequence becomes periodic after the
+first three iterations (figure 3). However, the GoL-like system seems to exhibit quite complicated
+dynamics.

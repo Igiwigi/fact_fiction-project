@@ -1,0 +1,7 @@
+By definition, to be an OS, every pair of atoms of the form (i,j) and
+(k,j) are required to see precisely the same atomic environment up to orthogonal transformation. To see that this is true of the structures above, we superimpose the undistorted lattice of austenite
+on the reference configuration. In fact, the method of visualization used in these figures with
+a fine array of dots is consistent with the OS definition—we simply ensure that the dots are
+points of the reference lattice of austenite. Then, following the Cauchy—Born rule [22], we use the
+calculated zero-energy deformation to transport the atomic positions. This leads to both reference
+and deformed configurations being perfect objective structures.

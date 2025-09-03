@@ -1,0 +1,15 @@
+For the
+case of prediction alone the roll-out policy is, in effect, what
+it is sought to evaluate, and so the prediction tree could
+have been built more aggressively, adding more than just a
+single node per step at the root. With respect to MF methods, we have seen that caching
+quantities that depend on the rewards and transitions
+inside a value function ¥, the successor matrix M or other
+temporally extended representations can cause characteristic
+errors in prediction when the model changes. The fact that
+these quantities are both also policy-dependent (and also
+that the policy itself is cached in methods like the actor—
+critic) is another similar source of error. Thus, if the policy
+changes at a state, this should typically induce value and
+policy changes at other states. However, MF methods may
+not update these all consistently.

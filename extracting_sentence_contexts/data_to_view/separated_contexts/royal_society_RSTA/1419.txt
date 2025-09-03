@@ -1,0 +1,10 @@
+Demonstration of a single example VVUQ analysis: COVID-19
+application
+
+To demonstrate the added value offered by VECMAtk more concretely, we showcase one specific
+VVUQ procedure example, using the Flu And Coronavirus Simulator. We perform sensitivity
+analysis across six different input parameters of FACS! to identify their sensitivity relative to
+our quantity of interest (Qol). In table 3, we provide the default value for each parameter along
+
+See https: / /facs.readthedocs.io. Table 2. The list of modifications and enhancements in the development of each VECMAtk component since the first annual
+release in June 2019.

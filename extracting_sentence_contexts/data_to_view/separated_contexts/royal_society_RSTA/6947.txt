@@ -1,0 +1,47 @@
+TABLE 15
+movable strip
+t ha,k, n C5 F(x) af
+20 0-01020 0 0-00 0-25000 0-08247
+19 0-01097 1 0-25 017443 0-23039
+18 0-01183 2 0-50 012515 0-09595
+17 0-01280 3 0-75 0-09212 0-10146
+a 16 0-01389 4 1-00 0-06941 0-06811
+a 15 0-01512 5 1-25 0-05344 0-05344
+g 14 0-01653 6 1-50 0-04198 :
+5 13 0-01814 7 1-75 0-03359
+2 12 0-02000 8 2-00 0-02733
+& u 0-02216 9 2-25 002257
+S 10 0-02469 10 2-50 0-01891
+a 9 0-02768 ul 2-75 0-01605
+S 8 0-03125 12 3-00 0-01378
+a 7 0-03556 13 3-25 0-01195
+5 6 0-04082 14 3-50 0-01046
+S 5 0-04734 15 3-75 0-00923
+5 4 0-05452 16 4-00 0-00822
+2b 3 0-07282 17 4-25 0-00736
+2 2 0-06133 18 4:50 0-00662
+4 1 0-13045 19 4:75 0-00600 ay
+5 20 5-00 0-00547 0-00547
+
+8 In this example we retained throughout the same interval h = }. This is not always
+
+3 essential, and the chance should not be overlooked of increasing the interval, to reduce the
+
+Snumber of terms in the summation and therefore both the labour and rounding error. Here
+
+Sit is, in fact, possible to use h = } after x = 2, as shown in the indirect method (d). E
+
+€ 16. Drrecr METHOD WITH k(x, y) #k(x—y)
+
+ie)
+
+‘a As an example of an integral equation for which the kernel is not a function of (x—y)
+
+3 only, we transform the equation (56) of the previous example by writing
+
+E B(x) = (x+2)fl2),
+
+jo)
+
+© a substitution suggested by the form of the integral equation and the rate of decrease of f(x)
+with increasing x.

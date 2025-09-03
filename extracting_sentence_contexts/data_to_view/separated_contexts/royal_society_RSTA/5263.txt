@@ -1,0 +1,11 @@
+The key
+motivation for seamless prediction studies is that by developing weather and climate simulators
+that are as similar to one another as possible, insights and constraints from weather time scales
+(where verification data are relatively plentiful) can be brought to bear on the climate time scale
+(where verification data are less plentiful). However, in practice, ‘seams’ are inevitably apparent in
+moving from weather and climate simulators, even though these simulators may share common
+dynamical cores and parametrizations. Not least is the seam arising from the fact that weather and
+climate simulators typically have different resolutions. A way to lessen this ‘resolution seam’ may
+be possible using the ideas presented in this paper. That is to say, instead of changing from high
+to low resolution as one moves from weather to climate prediction, it may be possible instead to
+scale-selectively degrade precision with a single fixed resolution.

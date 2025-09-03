@@ -1,0 +1,16 @@
+We are not the first to suggest that fitness trade-offs might
+have played a key role in shaping the evolution of telomere
+dynamics. For example, Stone ef al. [35] noted that while
+short telomeres protect humans from cancer, they could
+account at least in part for the relatively high rate of heart dis-
+ease. Also, Gorbunova et al. [16,36] have extensively studied
+the inverse association between telomerase activity and body
+mass in rodents, highlighting the fact that telomerase suppres-
+sion might have evolved as a tumour suppressor mechanism in
+larger species. The novelty in our model rests in the formal inte-
+gration of the trade-offs of TL (cancer versus senescence) into a
+fitness model that also takes into account the variability in mor-
+tality and cancer risk due to body size. By taking advantage of
+the fact that tumour suppressor mechanisms can be integrated
+into the Armitage—Doll equation of cancer risk, we offer a
+simple mathematical solution that tailors cancer risk by TL.

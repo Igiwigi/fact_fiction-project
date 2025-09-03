@@ -1,0 +1,26 @@
+When this phase of the analysis is completed, the high-frequency behaviour of the wave has
+been obtained, but the shape and height of the wave’s envelope is still unknown, as illustrated
+in figure 3e.
+
+(ii) Obtaining the shape of the density wave's envelope
+
+Now that we have determined the three parameters that define the shape of the wave’s high-
+frequency components (9, rj, and ¢o), we now accept that shape as given and proceed to fit the
+two remaining parameters (A, and ép) that define the wave envelope (i.e. the amplitude and
+decay of the high-frequency components). In the absence of other effects, the shape of the amplitude modulation (i.e. the location of
+the point of maximum amplitude) is governed by the damping parameter &p. In fact, the non-
+oscillatory components of equation (2.1) are proportional to € e~ 6/5)" Ifa reliable representation
+of the amplitude can be obtained, the best way to fit for &p is to find the dimensionless radial
+
+
+0 20 40 60 80 100 120
+r-r, (km)
+
+Figure 4. (a) The absolute value of Ac (r) (solid line); the same curve, smoothed three times with a 22 km boxcar filter, giving
+the low-frequency shape of the wave envelope (bold solid line); maximum point of the latter (vertical bold dashed line). (b)
+The input synthetic density wave from figure 2a (solid line); the fitted density wave, after the analysis of §4a(ii), but still with
+randomly chosen value of A, (bold solid line). (c) The input synthetic density wave from figure 2a (solid line); the final fitted
+density wave, after the analysis of §4a(iii). Fitted values given in the figure can be compared with the input parameters (table 1)
+used to generate the wave. Figure from Tiscareno et al. [11].
+
+parameter (equation (2.2)) at which its derivative is zero.

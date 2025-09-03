@@ -1,0 +1,13 @@
+This matter is important to discuss, because it will hopefully shed
+light on whether other techniques commonly accepted to be NDE, could usefully be applied to
+SHM problems or elsewhere. The main aim of this paper will be to show that ultrasonic inspection has benefited from the
+use of machine learning or data-based analysis techniques over the last few years. In fact, this :
+observation is true of SHM generally, where the data-based approach is arguably the dominant : =
+paradigm at this time [1]. The main intention of this paper is to inspire the more widespread a
+possibilities of using data-based analysis, alongside physics-based techniques, in other areas of 13
+NDE than ultrasound, e.g. in electromagnetic NDE. This paper will provide illustrations spanning 1
+a range of machine learning applications to NDE, from using compressive sensing to handle the D8
+large quantities of data obtained in ultrasonic inspection, to optimizing robotic scan paths for are
+damage detection, and finally a state-of-the-art application of transfer learning. 5 99
+
+2.

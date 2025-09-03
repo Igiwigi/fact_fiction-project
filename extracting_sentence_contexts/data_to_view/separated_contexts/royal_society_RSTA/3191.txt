@@ -1,0 +1,9 @@
+A parametrized conventional isothermal EOS fit was also made by assuming an ambient
+pressure thermal expansion parameter @, and a temperature dependence of the bulk modulus
+dK/dT [27]. Although such a fit is unphysical (especially in cases where the dK/dT contribution
+can change drastically due to some elastic relaxation, as is certainly expected in ByC and materials
+where dK/dP can deviate appreciably from an empirical value of 4, again shown by B,C). The ease of such a parametric description of the P-V-T behaviour lies in the fact that a ready
+estimate of K(P, T) can be made as input into other measurements such as Brillouin scattering
+or ultrasonic measurements for sound velocity measurements. These parameters are listed in
+table 2 and the fit is summarized in figure 5. The fit to the whole dataset was performed using
+EoSFit7c [18].

@@ -1,0 +1,25 @@
+We begin by defining a model for Tlecal (t) and [imported (f), Let ay denote Dw
+the probability that an imported case is misidentified as local, and a the probability that a local 2
+case is misidentified as imported. Then, a simple model is [8
+
+Flocal py local gy, pimported (4), ayy, ce :s
+~ Bin(E°!(t), 1 — a1) + Bin(™POeS(#), og) (2.6)
+and Fimported (p) — plocalp) 4 jimported py _ Flocal (py,
+
+Under independence, the first relationship in (2.6) is directly obtained by the definition of ag and
+a. And the second equation in (2.6) is due to the fact that the total number of cases reported at
+time t is not affected by the misidentification. By (2.6), the relationship between jolt) and pl?<al(t) is
+
+foal ey = (1 — oy) y1!l(£) + apyimported (yy, (27)
+where pimported (t) — E(fimPorted(#)), Direct computation yields
+
+imported (f)
+
+plocaly,) — [7 _
+R o=(1 a + a9 “aloal(y
+
+) local y) (28)
+when /°°l(t) 40. From (2.8), we can see that the bias of R!°<(t) depends on ag, a, and the
+ratio of pimPorted (t) and j.!°!(t), We will overestimate R!°¢l(t) if ay /ag < imported) /,,!0°l(#) and
+underestimate R!°°(t) if y/o > p'™Pted (ty / pl! (t), The ratio of R!°!(t) to RI°(t) is shown
+below.

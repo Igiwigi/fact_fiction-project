@@ -1,0 +1,4 @@
+Proof. Without loss of generality, we assume that H(P) = F(P) = 0. First of all, we need to kill one
+dimension using the fact that H and F Poisson commute. As dF(P) 4 0 we can choose a canonical
+coordinate system p1,91,p2,q2 such that F =qz. As H and F commute, we conclude that H does
+not depend on py, i.e.

@@ -1,0 +1,13 @@
+Let xj, denote the frequency of an arbi-
+trary allele at the /th SNP in the ith population; and let X;= (xj1,
+
+Xj2, ...Xjs) be a vector collecting all allele frequencies for popu- (b) Geometric interpretation of F-statistics
+lation i. As X; will be the only data summary considered here An implicit assumption in the development of F-statistics in
+for population i, I make no distinction between the population the context of admixture graphs has been that population
+and the allele frequency vector used to represent it. lineages are mostly discrete, and that gene flow is rare. The three F-statistics are defined as Recently, Oteo-Garcia & Oteo [49] showed that this is not,
+s in fact, necessary. Specifically, they interpret the populations
+Fo(X1, X2) = La — xy)" (2.1a) X; as points or vectors in the S-dimensional allele frequency
+SH space R°. In this case, the F-statistics can be thought of as
+13 inner (or dot) products, and they showed that all properties
+F3(X1; Xz, X3) = gu — X21) (X11 — X31) (2.1b) and tests related to treeness can be derived in this larger
+Il s space.

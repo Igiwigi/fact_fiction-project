@@ -1,0 +1,82 @@
+By this means, the free energy of the chain network (2.3) takes the general form
+
+13 Rm 5
+v=nz> | halted a," -], (1)
+3a ja 4
+
+where the abbreviation im, = Wy, has been introduced [16]. Exemplarily, we will derive the
+non-affine three-chain models that are close relatives of the original model and are obtained by
+consideration of Taylor series or rational approximants for the inverse Langevin function, as well
+as an alternative representation of non-Gaussian chain statistics.
+
+(i) Taylor series and Gaussian chains
+Expressing the inverse Langevin function in terms of a Taylor series approximation [19,54] leads
+to strain-energy functions of the Ogden-model family
+
+297
+
+78 3 (26 9 46
+(ab) = kg (20028 -1 nab 4
+Vil) = kx@ (5 & D+ soy Me — D+ zos0Ne
+
+(ap? —1)+- -) (5.2)
+
+with interpretations of the parameters 4; and a@j,i=1,2,.. ., Rt, as
+; 3nkgO 9nkgO 297nkpO
+
+M6" 60N ’ 3150N2 "°°
+
+For example, the Gaussian limit, i.e. the first term in (5.2), gives the free energy
+
+and aj =26,48,6B,.... (5.3)
+
+in a
+ay =D]. (5.4)
+ij
+
+3 Ro
+nkg@ 3.28
+va 50% -)+)
+k=1 j=l
+
+In general, these expressions do not have any advantage over the more general representation
+(3.20). Nevertheless, they have an interesting implication: in fact, they suggest that one could
+approximate the inverse Langevin function 2% —l(x) within a range of interest in terms of a
+weighted sum of powers which are odd multiples of 1/£, i.e. YH wjx2-D/b, so as to obtain an
+Ogden-type model with only integer powers. Such a model would bring advantages in terms
+of the numerical treatment, since its strain-energy function could be represented in terms of
+principal traces of C; see also [15].
+
+(ii) Rational approximants of Zo
+
+Further close relatives are obtained by consideration of some of the various rational function
+approximations proposed for 2 —1 For example, using Cohen’s rounded Padé approximant [81]
+
+3-x7
+Z'\(x)=a 55
+w= 6.5)
+yields the network free energy
+
+>» 3 2B 2p R- i ~
+
+nkg@ ah 1 aye —N ma
+v= —NiIn t (A, '-1)], 5.6
+3 » 2 1-N » aj Or ) 69)
+
+and for later use we also provide the corresponding principal nominal stresses
+
+2p Re -
+nkg® | 26-13 — AC /N aa 4
+Pr BR -—S mir.” —pap, k=1,2,3. (5.7)
+8 “4- ah IN 2 u ‘
+
+
+
+Using more recent rational approximations (see e.g. [58]) clearly leads to various alternative forms
+of the strain-energy function.
+
+(iii) Alternative approximation of non-Gaussian chains
+
+Khiém & Itskov [59] recently deviated from the Langevin statistical approach and used another
+approximation to the non-Gaussian statistics of freely jointed chains, based on the model
+proposed by Ilg [82].

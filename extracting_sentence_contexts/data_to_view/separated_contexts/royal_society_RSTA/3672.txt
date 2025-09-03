@@ -1,0 +1,39 @@
+In the case of material isotropy, the stiffness and inertia moduli become c44 =cs5 = p,
+by =4n + 4n', bo =b4 =4n, b3 =4n’ and bt = bby =H", so that the equation of motion (4.12)
+reduces to
+
+2 4 . pir _y..
+uVew — nV*w + Xz = pb — Vv w, (4.13)
+
+an equation which, in the absence of body forces, was given first by Clebsch [16, p. 797, equation
+(318a)] to describe the motion of a plate, including prestress and rotational inertia effects.
+
+
+(b) Time-harmonic response and ellipticity conditions
+
+According to the time-harmonic assumption, the displacement is represented as
+w(x, y, t) = w(x, y) el", (4.14)
+
+so that the equation of motion becomes now
+
+1 a4w atw atw aw aw
+4 (i + 2bo + by — fs — faa — porw + Xz =0, (4.15)
+
+axt aay |  ay# ax2 ay?
+with
+pot pb5,
+faa = faa() = Cag — ae and f55 = fss(w) =cs55 — Do (4.16)
+
+In order to classify the partial differential equation (4.15), one has to examine only the principal
+(fourth-order) part of the differential operator related with the Cosserat moduli by (see for
+instance Renardy & Rogers [17]). This implies that the classification of equation (4.15) for the
+time-harmonic response remains the same as for the quasi-static case. In fact, the latter case
+was examined in Gourgiotis & Bigoni [4], where the conditions of ellipticity (E) were explicitly
+derived. Here the elliptic regime only is considered, defined through the following conditions [4]:
+
+(E) © bo>0 and bo>—Vbzbi, (4.17)
+
+holding for by > 0 (the bending stiffness in the y-direction is assumed to be always positive). In particular, two regimes of ellipticity (E) can be distinguished:
+
+(i) the elliptic imaginary (EI) regime for bz > 0, bo > /b2b4; and
+(ii) the elliptic complex (EC) regime for bz > 0 and —./bzb4 < bo < /b2b4.

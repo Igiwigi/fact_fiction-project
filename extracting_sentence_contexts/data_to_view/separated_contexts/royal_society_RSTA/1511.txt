@@ -1,0 +1,29 @@
+Since 2 standard deviations correspond to
+95% confidence intervals, we expect 5% of points to be red and outside the error bars. We also
+obtain larger error bars due to more sophisticated behaviour of model for SANDU case. Overall,
+we are happy with the emulators’ representation of the model outputs and proceed to perform
+history matching.
+
+
+stone
+
+Bo
+
+2s
+
+T 11111 T T T T T
+0.0005 0.0010 0.0020 0.0035, 000 005010 S020 Delo 4x10 6x10 Bx10-+ x10 riot Set ett
+
+thermals fact epsilon thermals_ed_dz ld le Ise amin
+
+eg fee @ Ss t4| 2
+
+ol Ayutne § ES
+
+T 1114
+0.0008 0.0010 0.0020 0.0085 0.00 0080.10 04S 020 del 4x10 6x10 B14 x10 baot sto tt
+
+thermals_fact_epsilon thermals_ed_ de ld_le_Ise 20min
+
+Figure 5. Leave-One-Out diagnostics plots against each of the parameters for SANDU (top row) and ARMCU (second row) cases
+on original input scales. The predictions and two standard deviation prediction intervals are in black.

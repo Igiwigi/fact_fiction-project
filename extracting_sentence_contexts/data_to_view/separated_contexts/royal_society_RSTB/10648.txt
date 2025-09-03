@@ -1,0 +1,49 @@
+We can simulate a large sample from the population noise level, which were randomly chosen from the prior. Each
+of measurement channels and compute an RDM prediction simulated dataset comprised 500 simulated voxels, which were
+from that sample. randomly sampled from a population of simulated voxels
+
+obtained by Gaussian smoothing (using the local-averaging
+range parameter to define the FWHM) and random weighting
+
+(i) Implementation of the functional magnetic resonance of feature maps using weights drawn uniformly from the unit
+
+imaging measurement model interval. The MM parameters chosen in the data simulation
+Here the only MM parameter was the local-averaging range, were not available to the statistical inference procedure, reflecting
+which was specified as the full width at half maximum the fact that these are unknown parameters in the analysis of real
+
+(FWHM) of a Gaussian kernel defining the local averaging. The data. The analysis had no information about which BCM
+
+
+g
+52,3 04 0.4
+Zor
+25% 03 03
+ERB o2 0.2
+sae a 0.1
+Ase ° It : be
+Rm ® ’ 5
+RY Re Ramee
+gq Fr Ss se
+0.4 0.4
+0.3 0.3
+0.2 0.2
+0.1 ma 1 0.1
+. ' 1 i]
+0 % 1 oe * 0 1 t
+S s+ & y Re)
+RY
+s se Ss ¥
+. data-generating
+0.4 convX model
+0.3 convY alternative
+model
+0.2
+best-performing
+0.1 1 ' v oa model
+* significantly performing
+3 Re s model
+
+—— significant performance
+difference between models
+
+Figure 4.

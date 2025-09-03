@@ -1,0 +1,14 @@
+We note that by [28, Corollary I.1.7], a set M of linear mappings on C;,(X) is equicontinuous if and
+only if for every norm bounded subset F € C,,(X) the set M|r of restrictions to F is equicontinuous
+with respect to the compact-open topology. But—given to > 0—for the set
+
+Mry = {To(#) | t € [0, tol},
+
+even more is true: it is equicontinuous with respect to the compact-open topology on the whole
+space C),(X). In fact, if KC X is a compact subset, then L :=¢g([0,to] x K) is still compact and
+pK(To(t)f) < pL(f) for every t € [0, to] and every f € C,(X). a
+
+Remark 2.11. When dealing with semigroups on Banach spaces with an additional locally
+convex topology there is a second natural approach besides looking at mixed topologies. Taking
+into account both topologies at once, one can use the concept of the so-called bi-continuous
+sentigroups for which there is a rather rich theory (e.g. [9,37,38]).

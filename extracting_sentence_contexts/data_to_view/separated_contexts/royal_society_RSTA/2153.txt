@@ -1,0 +1,11 @@
+Rademacher
+then expressed the Cauchy integral as a sum over each of these paths, and, under a suitable
+change of variables, then used the modular properties of the eta function to expand the values
+of P(q) on each of these arcs. These expansions of P(q) can then naturally be split up into a main
+term and an error term, the main features being that the main terms become integrals which can
+be evaluated exactly as Bessel functions, and the error terms can be explicitly bounded. After the work of Rademacher, it became apparent that Rademacher’s series were in fact
+Poincaré series in disguise. In particular, there are special functions which, when averaged
+under the slash operator over the modular group, have Fourier expansions which give the same
+expansions. As such Poincaré series are always a basis of the space of all weakly holomorphic
+modular forms up to cusp forms (as one can explicitly match them to any principal part and
+constant term which always determines a modular form up to a cusp form).

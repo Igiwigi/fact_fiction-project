@@ -1,0 +1,13 @@
+Thus, one record contains all the presence/absence
+information for each species and all covariate data. For the bivari-
+ate species model (i.e. associations between any two species),
+we extracted the information for the two focal species plus all
+covariate data. There is a well-documented issue of detectability with camera
+trap studies (e.g. [18,20]), wherein it is important to acknowledge
+that an observed value Y,i;=0 may mean either that a species
+was not present, or that the species was in fact present but could
+not be detected. We call Z,i: the latent (unmeasured) variable for
+the true presence versus absence of species s at location i and
+time t. We assume that detection (Y,i:=1) or non-detection
+(Ycit = 0) depends on the latent presence (Z,j=1) or absence
+(Z.it = 0) and detection probability p.j.

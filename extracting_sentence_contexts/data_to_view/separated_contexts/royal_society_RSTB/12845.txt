@@ -1,0 +1,16 @@
+Using such methods, one
+tional field strengths [21,101], which MVPA naturally can gain insight into what sorts of information a brain region
+captures by considering a spread of voxels. The third advan- codes at the level of fMRI and relate this to what sorts of infor-
+tage of MVPA with regard to better capturing underlying mation the LFP and MUA code. Given that these signals also
+electrophysiological activity relates specifically to the fact exist at different spatial scales (with single neurons being the
+that MVPA considers the distributed patterns of strongly smallest for extracellular electrophysiology), it may be that
+and weakly active voxels and how voxels relate to a behav- one can learn different sorts of information by focusing on
+ioural variable rather than considering whether activation these different scales. Thus, rather than employing a Rosetta
+goes up or down sufficiently at a subset of restricted voxels. Stone to interpret fMRI, one may instead think about what
+For example, LFP responses may also reflect a distributed sorts of complementary and convergent information one can
+signal, particularly for lower frequency bands [102], and obtain from the different spatio-temporal scales provided by
+therefore methods that capture this spatial spread are better fMRI and electrophysiology.
+
+suited to capturing information carried by underlying elec-
+
+trophysiological signals.

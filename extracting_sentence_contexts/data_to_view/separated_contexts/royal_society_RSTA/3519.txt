@@ -1,0 +1,37 @@
+The resulting optimization program is a particular instance of equations (2.1)- : =
+(2.3) that is subsequently applied to a three-node test system. The proposed model allows the : s
+system operator/planner to manage (i) short-term constraints associated with the (in)flexibility : >>
+of conventional plants to cope with uncertainty and fast variability of renewables’ outputs and : =
+(ii) long-term uncertainty associated with the evolution of investment costs of new technologies. : 3
+In this context, the proposed framework provides the system operator/planner with efficient [o
+investment solutions (which we consider here as portfolios of generation, transmission, storage : 8
+and flexible transmission equipment) in order to facilitate the operational management of the 78
+system (especially under high penetration of renewables) and permit a cost-effective adaptation 1G
+
+of the infrastructure even under the realization of unfavourable scenarios in the long term. Importantly, the model also recognizes the prolonged construction times of investments such as
+conventional plants and long transmission lines (that create a lag between the investment decision
+and commissioning time’), as well as the faster installation process of infrastructure such as wind
+and solar power units, batteries and FACTS devices (that are assumed to be installed right after
+investment decisions have been made).
+
+(b) Problem formulation
+
+Using the notation presented in table 1, we formulate our integrated generation and network
+planning problem as a stochastic, mixed-integer linear program. Note that, for unit consistency,
+some variables and parameters are expressed in per unit (pu), and hourly time periods are
+considered in the operation.
+
+(i) Long-term uncertainty
+
+Long-term uncertainty is modelled through a multi-stage scenario tree (figure 1), which describes
+potential evolutions of future investment costs (especially in renewable technologies such as
+solar power generation), albeit further uncertainties can be included in a straightforward manner. Hence, as formulated in equation (3.1), the model minimizes the expected value of the total cost,
+which includes the costs of investments and system operation as shown in equations (3.2) and
+(3.3), respectively:
+
+min > Pmtm(t lin +1°Om) , (3.1)
+meM
+- = I
+In = > {SPS + Do attuk, + om PB, + Do Su, YaeM (3.2)
+geG le beB lef
+and.

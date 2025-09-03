@@ -1,0 +1,22 @@
+This is the
+dimensionality of the feature space for prediction.
+
+(e) Assessment and removal of potential confounds (h) Prediction model
+
+We computed the correlation of the general factor of intelligence We used a univariate feature filtering approach to reduce the
+g with Gender (HCP variable: Gender), Handedness and Age number of features, discarding edges for which the p-value of
+(restricted HCP variables: Handedness, Age_in_Yrs). We also the correlation with the behavioural score is greater than a set
+looked for differences in g in our subject sample with variables threshold, for example, p < 0.01 (as in [46]). We then used Elastic
+that are likely to affect FC matrices, such as brain size (we Net regression to learn the relationship with behaviour; based on
+used FS_BrainSeg_Vol), motion (we computed the sum of frame- our previous work [49] and on the fact that it is unlikely that just
+wise displacement in each run) and the multiband reconstruction a few edges contribute to prediction, we fixed the L1 ratio (which
+algorithm, which changed in the third quarter of HCP data weights the L1- and L2-regularizations) to 0.01, which amounts
+collection (fMRI_3T_ReconVrs). We then used multiple linear to almost pure ridge regression. We used threefold nested
+regression to regress these variables from g scores and remove cross-validation (with balanced ‘classes’, based on a partitioning
+their confounding effects. of the training data into quartiles) to choose the alpha parameter
+
+Note that we did not control for differences in cortical thick- (among 50 possible values) that weighs the penalty term.
+
+ness and other morphometric features, which have been reported
+
+to be correlated with intelligence (e.g. [69]).

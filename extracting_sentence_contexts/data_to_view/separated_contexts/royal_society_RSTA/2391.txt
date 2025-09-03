@@ -1,0 +1,14 @@
+Consistent with [27, theorem 6.2], problem 2.2 can be understood as the problem of minimizing
+the spectral abscissa. It is worthy of mention that addressing this problem for large-scale systems
+is not trivial since expanding (2.4) to study the dominant roots is prohibitive. This is further
+exacerbated by the fact that characteristic equation (2.4) representing the PR-controlled MAS has
+infinitely many roots due to the presence of the delay h. For these reasons, tuning the parameters
+(,kp,kr) in order to attain certain dominant root behaviour and hence to prescribe y-stability
+is challenging.” As a preparatory step to studying y-stability, one can introduce the change of
+variable s — (s — y), which simply shifts to the left the real parts of characteristic roots by an
+amount of y. This change of variable transforms (2.4) into
+
+f(y,s) = det(sIn — yy — A — Be" 8") =0. (2.6)
+
+Analysing the stability transitions of (2.6) along the imaginary axis s=jw is equivalent to
+analysing y-stability transitions of (2.4) along the shifted imaginary axis s=jw —y.

@@ -1,0 +1,40 @@
+Finding minima
+A minimum of a one-variable function f(x) is a point x, where the derivative vanishes, f (x,,) =0, and the second derivative is
+positive, f’(x,) > 0. In several dimensions, the ‘derivative’ of a function F:IR° — R is the gradient vector VF(x), whose components are given
+by the partial derivatives of the function with respect to each component of x: VF(x) = (OF/0x;, OF/0x2, ..., 0F/Oxp). The
+gradient vector points in the direction of maximum variation of F, and is therefore zero (i.e. equal to the null vector 0) when x
+is an extremum, and in particular, a minimum:
+
+Ox, Ox2 Oxp
+
+In principle, to ensure that the extremum is indeed a minimum, one also has to check that the Hessian matrix of second-
+order partial derivatives has only strictly positive eigenvalues, a condition generically satisfied for squared error functions
+like the one considered here.
+
+(6.2)
+
+Differentiating (6.1) with respect to x; gives
+aa MN Moa > M
+aa, = Yon [eiCuiy, — aj) | = 2), EjYj(XKY; — Ij), 6.3)
+
+where we used the fact that XY; does not depend on x, if i#k. Then,
+
+aa Me
+—— = 2x, i _
+dx ah
+
+M
+SS eiyjay, (6.4)
+j=l
+
+and the conditions dA/dx;=0 and 0A/dy;=0 for all i and j can be rewritten as
+
+M. M
+yo ja1 &iYja 5 Xi,
+jai SDF . iat &jXi4ij
+M=Sa OIL UN, WSS
+
+, j=l,...,M. (6.5)
+ys ei; Lia eX
+
+This is a system of N + M equations and unknowns that can be solved with different methods.

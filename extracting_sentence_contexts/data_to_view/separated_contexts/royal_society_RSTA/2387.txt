@@ -1,0 +1,12 @@
+Examples are reservoir computing
+and the experimental realization of chimera states. The authors show how the spatio-temporal
+representation of time-delay systems can be used for an experimental realization of complex delay
+systems via a single oscillator with delayed feedback and time-multiplexing. The advantage of
+this approach lies in the fact that the complexity of the experimental set-up is manageable and the
+virtual nodes of the network representing independent coupled oscillators are truly identical. Whereas in optoelectronic oscillators the feedback is realized by a delayed electrical signal that
+is injected into an electro-optic intensity modulator, the work by Lingnau et al. [13] is about the
+
+
+dynamics of a laser subjected to optical feedback. In such systems, an external mirror is used to
+generate an optical feedback with a significant time delay leading to the so-called external cavity
+modes.

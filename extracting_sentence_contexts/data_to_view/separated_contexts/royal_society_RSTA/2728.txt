@@ -1,0 +1,13 @@
+But, they were
+taken in the following points: (A) across the terminator 75-ohm resistor, (B) 25% to the left of the
+reed switch (4.5m), (C) 50% to the left of the reed switch (9m), (D) 75% to the left of the reed
+switch (13.5 m), (E) at the extreme left of the open end of the cable (figure 6).
+
+
+(d) What if the load is a self-timed digital circuit? When I asked myself a question of what the law of discharging a capacitor via a self-timed
+switching circuit is, I had already suspected that it was not a normal exponential process that
+we see in an RC circuit with a constant R. Clearly the fact that the switching circuit forms a
+voltage-controlled impedance would affect the discharging process. Theoretically, one can try to
+produce a model of resistor R and apply it at every step of the discharging process. But then the
+question arises, what if the dynamics of change of R is not related to the dynamics of the capacitor
+discharge?

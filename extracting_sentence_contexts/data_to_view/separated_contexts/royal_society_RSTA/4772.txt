@@ -1,0 +1,18 @@
+This
+generalization of the Bohr—Courant theorem (from [114]) is due to Voronin in [116] and
+was probably a key motivation for Voronin’s discovery in [117] of the universality of ¢
+(in the right critical strip). The universality theorem was extended to (suitable) compact
+subsets of the right critical strip by Bagchi in [118] and Reich in [119]. We refer, for
+example, to the books [38,115,120] along with [8,11] for many other relevant references
+and extensions of the universality theorem to other L-functions.
+
+(b) The universality of ¢ in the right critical strip roughly means that given any compact
+subset K of G < Re(s) <1} with connected complement in C, and given any nowhere
+vanishing (complex-valued) continuous function g on K that is holomorphic on the
+interior of K (which may be empty), then g can be uniformly approximated by some (and,
+in fact, by infinitely many) vertical translates of ¢ on K.
+
+(c) A quantized (i.e. operator-valued) version of universality is provided in [8,11]. Interestingly, in that context, the natural replacement for the complex variable s is the
+family of truncated spectral operators {IM} reg. The spectral operator a = ac is bounded (and hence invertible, with a compact spectrum o(a)
+not containing the origin), for every c > 1; it is unbounded (and therefore its spectrum o(a) is a
+closed unbounded subset of C) for every c < 1.

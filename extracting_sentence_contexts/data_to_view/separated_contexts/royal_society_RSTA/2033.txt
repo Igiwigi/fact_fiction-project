@@ -1,0 +1,19 @@
+This is a compact model, consisting of the minimal term to
+characterize variations in frequency response of combined increasing and decreasing monotonic
+
+
+values. This model has been shown to be the natural solution of materials with mechanical | 10 |
+properties modelled by combinations of Maxwell, Kelvin and Voigt elements [4,30]. This implies
+also that the model structure and parameters may be suitable for detecting various degrees of 3
+viscoelasticity. :
+
+Looking at the model in (3.1) and considering the fact that the parameter a always has a
+negative value, then it is possible to make some calculation to rearrange the model as
+
+a+, at
+Z(s) = Renee De —2<a,p <2, (3.2)
+
+with D=1/C. Therefore, it is possible to note that for some materials the appropriate model
+may have a pole in the origin and two other fractional-order derivative. However, doing an
+electrical comparison, this impedance could correspond to a circuit which has one resistor and
+two fractional-order capacitors, also known as constant phase elements.

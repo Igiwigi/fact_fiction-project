@@ -1,0 +1,11 @@
+Values shown are bottom shear force (BFX) in wind direction. (a) Reference
+case for thrust loads obtained with a fixed rotor. (b) Response with the dynamic wind turbine model (Standard case). (c,d)
+Response for thrust coefficient models. (e) Response for a realization of the spectral model. (f) Response for a realization of the
+stochastic model. Only parts of the time series are shown. The responses for the stochastic models (e,f) are shown for different
+points in time, to stress the fact that these can only be compared statistically. If one alternatively and naively uses thrust series from a moving turbine as input, the response
+deteriorates strongly, and the fatigue lifetime is reduced to less than 1% of the actual lifetime
+(case FcMoving). The variations in the thrust loads due to aerodynamic damping are exactly at
+the eigenfrequencies of tower motion, and since phase factors are not dynamically stable and
+preserved due to small numerical errors and discrepancies in the integration, the tower response
+will occur at 90° instead of in anti-phase with the damping forces, thereby transferring energy into
+the system instead of out of it.

@@ -1,0 +1,27 @@
+Confounding can occur when the parents (this refers to ‘parent variables’ as defined by
+we are not comparing like with like because of pre-existing Pearl and not [necessarily] to actual human parents) of any
+differences between the treatment groups. For example, sup- variable are supposed to be sufficient to control for confound-
+pose that perhaps, unknown to the analyst, treatment 1 were ing for their child—and these assumptions still require
+given preferentially to individuals predicted to recover and external justification, including judgement of plausibility.
+
+treatment 2 to individuals not so predicted. Then the responses
+would look different between the treatment groups, even if the
+
+treatments were in fact, identical and a face-value analysis of (b) Principles and goals of randomization
+the data would be misleading. (i) Randomization
+
+In such a case, the probability of survival for an individual It is not enough to be aware of randomized experiments and
+observed to have been given a particular treatment (and so other study designs; we must implement them properly,
+having been predicted to survive) would not be the same as understand their effects and interpret them appropriately.
+the probability of survival for a random individual, not so Randomization occupies a critical role in causal inference
+observed, who was assigned to that treatment in an experimental [32]. However, we know that in the field of obesity, as
+setting. This difference between the observational and exper- Vorland et al. [33] have shown, many errors are published
+
+imental settings is seen by some as the essence of confounding. in the actual implementation of what is called random
+
+
+assignment such that what is called random assignment in which influences both body mass index (BMI) and health out-
+
+the literature often is either not random assignment or is comes, or when early stages of the disease process influence
+
+random assignment somehow misapplied.

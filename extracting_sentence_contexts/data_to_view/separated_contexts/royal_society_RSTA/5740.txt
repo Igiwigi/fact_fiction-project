@@ -1,0 +1,31 @@
+This result means that V is a Lyapunov function for the synchronization dynamical equations
+(4.2) and (4.3), and therefore the state 2 = 0 is globally asymptotically stable. We conclude that the two oscillation points A and B must synchronize under the assumption
+(4.1). In fact, using equation (4.7), we find that
+
+dV AV, (4.8)
+dr’ ,
+
+and so we arrive at an exponentially fast decay for V:
+V<Voe*, (4.9)
+
+where Vo is a constant. Therefore, all trajectories Q(t) flow downhill toward the state 2 =0
+exponentially fast, and synchronization is stable asymptotically.
+
+(b) More general shear-magnitudes relations
+
+We may somewhat extend this argument as follows. Suppose that in place of the assumption (4.1),
+we start by assuming a more general form,
+
+p=aq, a constant. (4.10)
+Then introducing the functions
+2% = Ey alls, (4.11)
+the synchronization equations (4.2) and (4.3) become
+Qi, = 224 + q@Ak, (4.12)
+and so introducing the function V as before, we see that its derivative satisfies,
+
+1dv
+
+dp = UME + 22) + (21 2F + 22%), (4.13)
+T
+
+We can now show that this leads to another Lyapunov function for synchronized dynamics.

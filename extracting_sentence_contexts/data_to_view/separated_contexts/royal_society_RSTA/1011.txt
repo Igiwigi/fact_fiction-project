@@ -1,0 +1,32 @@
+If we
+exclude the local non-equilibrium effect of the relaxation of the gradient flow, ie. tg > 0 and
+Vg > 00 in equations (4.7) and (4.8), the square root will yield unity in equation (4.5) and we get
+the velocity as plotted by the dotted line in figure 4. More specifically, it is shown in the insert of
+figure 4 how the predicted velocity lies far from the experimental data if the local non-equilibrium
+effect in the phase field dynamics is not taken into account. The necessity to introduce the gradient flow of the phase field as an additional thermodynamic
+variable (see appendix B) lies in the fact that with the increase of undercooling in glass-forming
+alloy one can find a transition from single atoms and single clusters to chains of connected clusters
+(see data of molecular dynamics simulations in [64]). Such chains represent long molecules
+
+
+0.025 4
+
+a 0.04;
+
+B
+= 0.020 4
+
+~ 0.02
+
+00154 | a7 Ps Tos
+
+3 0 100 200 300
+
+S 0.0104
+
+= 0.005 |
+
+0 100 200 300
+undercooling, AT (K)
+
+Figure 4. Experimental data on the dendrite growth velocity of CusoZrs) measured by Q.

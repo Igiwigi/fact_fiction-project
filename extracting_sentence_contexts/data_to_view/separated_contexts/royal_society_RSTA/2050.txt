@@ -1,0 +1,9 @@
+Among
+others, the approach [26,27] should be noticed, in particular. There, an auxiliary field is introduced
+in order for the construction of the action functional for the Liouville-von Neumann equation,
+and thus this approach is referred to as the auxiliary field formalism. A primary reason for
+the introduction of such an extra field is due to the fact that the Liouville-von Neumann
+equation is a first-order differential equation in time for a density matrix. Although the Liouville—
+von Neumann equation possesses time-reversal invariance (for autonomous isolated systems),
+more general master equations may violate such symmetry. For example, the Lindblad equation
+repeatedly mentioned above describes dissipative dynamics.

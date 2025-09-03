@@ -1,0 +1,8 @@
+Performing a
+linear stability analysis for such orbits is however complex. Indeed, upon buckling, the initially
+straight fibre picks a specific trajectory among an infinite family. The selected trajectory depends
+on the initial perturbation and is very sensitive to fine sub-leading details, such as thermal
+noise [36], fibre or fluid inertia [37,38], or, as in our turbulent settings, the fact that the flow is
+not a pure shear. As we will see in the sequel, a simplified linear stability analysis already fairly describes
+buckling events, meaning that we can avoid delving into the complicated context of Jeffery orbits. Let us consider that the fibre experiences a time-constant compression 7 = p'A p <0 along its
+direction.

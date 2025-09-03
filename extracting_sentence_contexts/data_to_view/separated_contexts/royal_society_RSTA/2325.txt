@@ -1,0 +1,11 @@
+In seismic codes, uncertainties involved in the seismic assessment of existing structures are
+generally treated by simply introducing discrete knowledge levels and associating with each of
+them a value of the so-called confidence factor. The latter is a reduction factor to be applied to
+material strength and stiffness, and is supposed to account for all sources of uncertainty involved
+in the assessment. Despite the simplicity of this approach, several drawbacks are associated with
+it [6], one of which being the fact that it is unable to correctly account for the additional knowledge
+that can be acquired by means of the new experimental data [7]. In recent decades, the Bayesian approach has been proven to be an effective theoretical
+framework for dealing with different sources of uncertainty. The Bayes theorem is commonly
+employed to derive a posterior probability distribution of a set of uncertain parameters according
+to both their prior probability distribution (i.e. an initial knowledge about their possible range
+of values) and the likelihood of the observed data.

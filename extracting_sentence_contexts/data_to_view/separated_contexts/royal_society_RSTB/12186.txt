@@ -1,0 +1,12 @@
+Ten samples were
+excluded from further analysis because they did not meet these
+criteria. The average sequencing depth across all sites was 7807x
+(74-39 314) and across sites with depth less than 1000x was
+498x. In fact, all but one site (in a single individual) had depth
+greater than 200x. This single site had depth of 74x and resulted
+in a MAF of approximately 16%; we included this data point
+because at this site we observed MAF of 41% in cheek and 47%
+in blood, and thus we expected (and observed) relatively high
+MAF also in hair. A MAF of 1% was used as the cut off for a site
+to be considered heteroplasmic, to avoid bias coming from PCR
+and sequencing errors.

@@ -1,0 +1,8 @@
+This second group has a smaller liquidity value for all t. (Online version in colour.)
+
+Finally, figure 11 shows the liquidity L(f), as defined in equation (2.2), for the groups of trained
+and untrained agents. As it can be seen, trained agents have always a lower liquidity value. This is due to the fact
+that they choose not to interact when their wealth is sufficiently low. This result makes it clear that
+even though the mechanism of tax redistribution is very effective at lowering the Gini index of
+the system, when considering just non-rational agents, it does not motivate the agents to interact
+and participate in transactions. The consequence is a stalled economy and higher inequality.

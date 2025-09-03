@@ -1,0 +1,10 @@
+This allows us to vary the spatial resolution
+of the body discretization independently from the number
+
+2. Model of muscles. It also allows us to accommodate the fact that
+
+adjacent body wall muscles overlap one another in C. elegans.
+(a) Environment properties As the model is 2D, we combine right and left bundles into a
+In the laboratory, C. elegans is typically grown and studied in single set of 24 dorsal and 24 ventral muscles, each with twice
+Petri dishes containing a layer of agar gel. The gel is firm the strength. Following previous work [10], muscles are mod-
+and worms tend to lie on the surface.

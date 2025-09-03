@@ -1,0 +1,22 @@
+Here, we study the following equation
+
+K+ y(1—27)k + 2x = € (1), (5.1)
+
+where &(t) is white noise with (&(fé&(t’)) =D4(t — t’). To perform the theoretical analysis, we
+assume damping and noise intensity to be small and write equation (5.1) in the Ito form
+
+dp=- [eva —22)p + ed dt + VeDsw (5.2)
+
+and
+
+dx = pdt, (5.3)
+
+where € < 1 is a bookkeeping parameter. We then introduce the action-angle variables (see [18,23])
+
+2 4 42,2
+pote p
+J yan 0 =—arctan (4) (5.4)
+
+that is motivated by the fact that equations (5.2)-(5.3) for « = 0 describe the Hamiltonian system. The action variable J is then the oscillator energy divided by the natural frequency and the
+corresponding equation of motion is j = 0. For € « 1, damping and noise intensity are small which
+implies that j is also small and J is changing slowly with time.

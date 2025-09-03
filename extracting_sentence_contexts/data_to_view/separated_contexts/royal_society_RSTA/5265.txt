@@ -1,0 +1,13 @@
+Our contribution. In this article, we extend the series of results presented in [8,9] by introducing
+an algorithm that computes all subtree repeats in unrooted unordered labelled trees in linear time and
+space. The importance of our contribution is underlined by the fact that the presented algorithm
+can be easily modified to work on trees that do not satisfy some or any of the above assumptions
+on the tree structure, e.g. it can be applied to rooted, ordered or unlabelled trees. A preliminary
+version of this article appeared in [16].
+
+2. Preliminaries
+
+(a) Basic definitions
+
+An unrooted unordered tree is an undirected unordered acyclic-connected graph T =(V,E),
+where V is the set of nodes and E is the set of edges such that EC V x V with |E| =|V| — 1.

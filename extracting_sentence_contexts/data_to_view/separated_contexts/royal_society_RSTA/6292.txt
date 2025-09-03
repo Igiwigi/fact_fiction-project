@@ -1,0 +1,10 @@
+Thus, relevant insight on this question comes
+primarily from empirical studies. For example, in [86], we investigated the ability of LLMs to map terms for colours (red, navy)
+and spatial directions (right, northwest) to a grounded representation on the basis of a small
+
+
+number of examples. We can make an analogy here to being lost in the woods, and the fact that
+a person, being shown which direction is north and east, can immediately infer south and west. Similarly, for an LLM with a correct (but not yet grounded) representation of these concepts, a
+small number of well-chosen examples should be sufficient to infer the grounded meaning of the
+entire space. We found that the largest LLMs are able to perform such grounding significantly
+above chance (albeit far from perfectly).

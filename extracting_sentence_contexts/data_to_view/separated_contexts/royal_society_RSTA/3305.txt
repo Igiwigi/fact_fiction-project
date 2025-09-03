@@ -1,0 +1,12 @@
+The wave profile decreases from crest to
+trough. Moreover, n, u and P are symmetric with respect to the crest, while v is antisymmetric. In
+the absence of stagnation points in the flow, the symmetry of the free surface (visible in all figures
+presented in the paper) is guaranteed by the fact that the wave profile is monotonic between crests
+and troughs. For irrotational waves the reader will find details in the book by Okamoto & Shoji
+[36], while for rotational waves, details are in the article by Constantin et al. [37]. We take the undisturbed water level to be at y=0 in such a way that the mean-zero (wave
+elevation) condition
+
+a
+| n(x, t) dx =0
+0
+is satisfied.

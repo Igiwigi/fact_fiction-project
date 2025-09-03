@@ -1,0 +1,16 @@
+Just by assuming that each of those cells will phys-
+ically interact once with another cell during its life cycle,
+hundreds of millions of interactions can potentially occur in
+such a small volume. Thus, any attempt to take a snapshot of
+these physical interactions necessitates the detection and profil-
+ing of millions of such associations in a given experiment. In
+contrast to anecdotal observations of physical interactions
+from lower-throughput methods such as fluorescence acti-
+vated cell sorting (FACS) [17] or micromanipulation, epicPCR
+provides throughput that is limited by the sequencing effort
+rather than the laboratory effort. This transforms the scale of
+observations from anecdotal to a level where the ‘big picture’
+of the interaction structure of a system begins to emerge. Nonetheless, such large-scale interaction profiling necess-
+arily leads to detection of certain spurious and random
+
+events.

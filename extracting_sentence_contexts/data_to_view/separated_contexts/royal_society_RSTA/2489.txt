@@ -1,0 +1,6 @@
+There are many ATPs for an interested mathematician to choose from. The most popular ones
+include PROVER9 [6], E [7], WALDMEISTER [8] and VAMPIRE [9]. Most of my own experience has
+been with PROVER9 and in fact, only it and E have the necessary infrastructure to implement
+the proof simplification techniques I will describe later. Another advantage of PROVER9 for
+mathematicians is that its learning curve is less steep and unlike the others, its input language
+is easily readable by humans. ATPs search for proofs by generating and processing inferences much faster than humans can.

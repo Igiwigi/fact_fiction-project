@@ -1,0 +1,14 @@
+If a camera/eye only rotates about its optic centre, these polar angles are
+the only sensible way to describe the relative visual direction of objects in the scene, because they form a coordinate frame that is independent of the direction the
+eye is looking (i.e. independent of the fixated point). (b) When the camera/eye translates (or, equivalently for binocular vision, going from the left to the right eye)
+there are changes in these angles (change retinal eccentricity, App, and change in meridional angle, A@pg). Thus, the 2D coordinates of optic flow and binocular
+disparity are derived from the natural coordinate system (perhaps the only logical coordinate system) used for defining visual direction in a freely rotating camera/
+eye. (Reproduced from [36] with permission from Elsevier.). (Online version in colour.)
+
+this case relative visual direction) is stored in a way that is appro- description may sound radical, it need not be so different in
+priate for the action that might depend on it (in this case a practice from a reconstruction-based representation. In fact,
+saccade) but without the necessity for consistency checks. the psychophysical predictions of the two hypotheses are
+Distinguishing near from far objects using simple heuris- often very similar, so carefully designed experiments are
+tics, as described above, does not require a coordinate frame. required to tease the two apart [4,21,41,50]. Equally, many judgements about surface slant can be made One issue that we have not considered is how a policy
+without using either an ego-centric or a world-based coordi- network for 3D vision might be learned. Most learning by
+nate frame.

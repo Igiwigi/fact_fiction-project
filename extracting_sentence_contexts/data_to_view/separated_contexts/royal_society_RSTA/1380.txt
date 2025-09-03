@@ -1,0 +1,12 @@
+Delong’s test, used to compare whether each : =
+pair of AUC are different, provided a p-value higher than 0.06, meaning that although the 8
+algorithms behave differently for each threshold, their performances are in agreement globally : 4
+(at the 95% CL). 1
+
+The final test was the study of the correlation between the diameter of the aneurysm and the : Ss
+increase of uptake between the aneurysm and the normal aorta. Previous studies have reported : Ss
+non-significant correlation at the 95% CL [4,6] using OSEM+G, and this work is in agreement with 13
+
+these findings as reported in figure 7. In fact, the correlation is not significant for OSEM+G and
+KEM at the 95% CL. For HKEM, in contrast, the two variables are significantly correlated with a
+p-value of 0.045. The correlation is nevertheless moderate with a coefficient of 0.28.

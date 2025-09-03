@@ -1,0 +1,12 @@
+Isolating the volatile fraction for GC-MS can notably be achieved by solid-phase
+microextraction [21,22], simultaneous distillation-extraction [23] or headspace extraction [24]. For complex samples, one of the most popular techniques is solid-phase extraction [25], which
+is often used prior to LC-MS measurement [26-28]. We emphasize the fact that several sample preparation techniques lead to non-quantitative
+recoveries [29]. It is therefore important to evaluate these recoveries and to validate this step,
+either independently or together with the final validation of the quantification method.
+
+(iv) Blanks
+
+Because carry-over issues are frequent in trace analysis, particularly when using an LC injector,
+the recommendation is to optimize the rinsing steps of the autosampler and to run blanks between
+all calibration and sample injections during the development stage. Afterward, the number of
+blanks can be reduced at the application stage, after the absence of carry-over has been observed.

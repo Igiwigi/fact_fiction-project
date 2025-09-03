@@ -1,0 +1,11 @@
+So Eve cannot be in the main lobe of the channel,
+otherwise she can be easily visible, and hence it is reasonable to assume that Eve’s channel can be
+physically bounded. Under such an assumption, one may pursue higher transmission rate than
+that of QKD. In fact, long distance FSO channels are usually very lossy, and a key rate of QKD
+becomes very small. We first review our theory of physical layer security and its implementation
+in FSO communications system [14] and then present our experimental results with a 7.8km
+terrestrial FSO wiretap channel.
+
+2. Theory of physical layer security
+
+In this section, we focus on secret message transmission in a wiretap channel.

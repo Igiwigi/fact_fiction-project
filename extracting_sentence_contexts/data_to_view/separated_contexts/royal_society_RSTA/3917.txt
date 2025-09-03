@@ -1,0 +1,9 @@
+The continuum model accounts for reactions through
+a boundary condition on the outer edge of the boundary layer and further assumes the fluid
+flow field satisfies stick boundary conditions on the surface of the particle. Neither of these
+conditions is fully valid when one examines the particle dynamics within the boundary layer
+in the microscopic simulations of our small motors. This breakdown of the continuum model is
+also reflected in the fact that the continuum and simulation values of the motor velocity differ. The microscopic model accounts for both of these effects through the direct hard intermolecular
+interactions between the fluid particles and the Janus motor. Figure 2b presents quantitative
+comparisons of B particle concentrations and concentration gradients near the boundary layer
+(rR) as a function of 6.

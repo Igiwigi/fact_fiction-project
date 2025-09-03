@@ -1,0 +1,50 @@
+For various reasons (including
+Thereafter, the proposed model should be validated using ethical ones), monkey studies are limited in terms of sample
+lesions and assessing its generalizability. Methods such as size, and consequently, the number of observations per subject
+trans-cranial magnetic stimulation and brain lesions can be is greatly increased in order to increase statistical power and
+used to test the alleged causal relationship between neural cor- reduce measurement noise. In fact, behavioural tasks in mon-
+relates and behavioural processes [46-48]. The model's ability keys display a greater number of trials per subject, collected
+to generalize can be assessed by generating predictions in on a sample size of often less than five subjects (e.g. [52,53]).
+tasks involving different decision problems and behavioural Both parameters (sample size and number of trials) are
+
+processes (out-of-sample validation). roughly a couple of orders of magnitude different compared
+
+
+(a)
+
+sample size no. trials per subject
+
+human
+
+Hertwig et al. [55] @ 100 B50
+behaviour |
+
+Wu & Gonzalez [54] @ 150 ®@ 200
+
+De Martino er al. [25] B20 @ 288
+
+human
+fMRI
+
+Pessiglione er al. [56] Bx» @ 270
+
+Fiorillo et al. [53] 2 6668
+
+Platt & Glimcher [52] 3 1400 S
+
+0 25 50 75 100 125 150 0 1000 2000-3000» 4000-5000 6000-7000 =
+sample size no. trials sz
+
+(b) a]
+
+description experience description + experience =
+
+fixation fixation fixation
+
+stimuli
+
+choice
+
+Figure 2. Methodological differences between description, experience and description—experience studies. (a) Sample size and number of trials listed in two elec-
+trophysiological studies [52,53], two human fMRI studies [25,56] and two human behavioural studies [54,55]. (b) Successive screens of a trial in the different
+behavioural decision-making paradigms.

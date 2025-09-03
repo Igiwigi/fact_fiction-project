@@ -1,0 +1,7 @@
+In figure 10, we can see that the reconstruction is again pretty good even without additional
+regularization. Also, the reconstruction for higher values is better than in the previous case
+with constant technology. This is simply due to the fact that higher values for the capital are
+present in the data (figures 2 and 9a). We can further smoothen the solution by adding Tikhonov
+regularization, but as the original reconstruction is already very good, it does not improve the
+solution too much. The behaviour for noisy data is the same as in the case of constant technology and therefore
+we will not go into detail on this.

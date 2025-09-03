@@ -1,0 +1,13 @@
+The distribution of neurons
+the primate cortex also relies on neurons selectively tuned to across the range of numerosities closely mirrored the empirical
+specific numerosities (for review, see [12]). Numerosity- data [81], especially for the mature network.
+selective neurons respond most strongly to one preferred Though summation coding and numerosity-selective
+number, but they also respond to a lesser extent to adjacent coding might characterize distinct neuronal populations, as
+numbers, thus exhibiting a bell-shaped, nonlinear response assumed in popular computational models (e.g. [41,42]),
+function. These neurons have been observed in numerically one potential caveat is that the response profiles of numeros-
+naive monkeys [81], suggesting that this more sophisticated ity-selective neurons at both extremes of the tested range are
+form of encoding might spontaneously emerge early during in fact monotonic, and might thus be considered as a form of
+development. This way of coding numerical information summation coding. Moreover, computer simulations have
+also seems to have evolved independently in vertebrate shown that a pool of summation coding neurons can exhibit
+brains with very different anatomies [82], thereby supporting numerosity-selectivity at the population level [83]; a more
+the hypothesis of convergent evolution.

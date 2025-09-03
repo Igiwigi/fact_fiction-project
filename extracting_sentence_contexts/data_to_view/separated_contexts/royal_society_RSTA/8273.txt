@@ -1,0 +1,30 @@
+Combination of Several Independent Calibrations.
+
+3 When we come to combine the results of two or more independent calibrations, not
+Sb necessarily each involving the same array of points, the first solution which suggests
+
+% itself is to take any common interval, reduce all the graphs to the basis of this interval
+2 as correct, and take the means of all the observed results for each of the other points, on
+& this basis. This simple procedure, however, is only correct if every calibration involves
+EB the same array of points, for the terminal points of the chosen interval will themselves be
+3 associated with certain observational errors in each of the calibrations, and these errors
+3 will react on the calculated errors of the other points in a manner which depends in part
+ns on the particular terminal points chosen, so that if different common intervals be chosen,
+£ different results will be obtained.
+
+é If, however, we retain the conception of the mechanically linked graphs, each of which,
+
+a as has been shown, may be either tilted, or lifted bodily, in relation to the others, without
+
+8 impairing its own validity as a record of observations, there is one, and only one, ideal
+3 arrangement in which the whole of the graphs can be combined together to give the best
+3 possible mean results. This arrangement is conditioned by the fact that in the adjusted
+es positions of all the graphs the sum of the squares of all the differences taken for all points,
+2 between the values of any point given by any component graph and that given by the
+
+resulting mean graph, shall be a minimum. In the computation the vertical movement and the tilt are provided for by the intro-
+duction of two unknowns A and B for each independent calibration. To keep the
+magnitude of the quantities in the calculation reasonably small, the diagram of each
+calibration is imagined first to be laid down in some position known to be fairly near to
+the correct one, and then to be moved up and down, and tilted, so that each point has
+its final position changed by an amount A+B.

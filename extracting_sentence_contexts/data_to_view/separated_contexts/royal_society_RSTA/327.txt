@@ -1,0 +1,8 @@
+Numerical optimization in the space of
+orthogonal matrices tends to be faster and more stable than in the general space of matrices,
+which is probably the main reason for making this transformation. It is important to point out that whitening is not uniquely defined. In fact, if z is white, then
+any orthogonal transform Uz, with U being an orthogonal matrix, is white as well. This highlights
+the importance of non-Gaussianity: mere information of uncorrelatedness does not lead to a
+unique decomposition. Because, for Gaussian variables, uncorrelatedness implies independence,
+whitening exhausts all the dependence information in the data, and we can estimate the mixing
+matrix only up to an arbitrary orthogonal matrix.

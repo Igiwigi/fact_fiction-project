@@ -1,0 +1,94 @@
+From (3.27),
+
+
+(3.2), (3.14) and (3.20), we obtain
+
+T
+limsup [ [comm omuver? dx dt
+0 JQ ’
+
+n>0o
+
+T
+<[ (80 — TIm,s(90)) art [ fa — Ty,3(9))S: Dv dxdt
+Q 0 Q
+< / Vo dx + / S:Dvdxdt. (3.39)
+{89 >M/2} {|9|>M/2}
+By setting g = Tom? - B) in (3.38) and using (3.39), we obtain
+T* te a
+[ I f K(0)VTu,5(0) dt - VT(0M — 3) dxdt
+0 QIt
+>- [ GoM (T*) — 8) — Ge(o(0) — 8) dx
+QR
+T te n
++[ fe Tii,5(8) S: Dv — V[Tus(0)] - v de) T(0M — 3) dxdt
+0 QR It ”
+
+-«([ ooar+ | S:Dvdxd!).
+{%>M/2} (9>M/2}
+
+Since T* is the Lebesgue point of ¥ and since the initial condition is attained (see e.g. [1,3]), we
+can let e > 04 and obtain
+
+. Lf xcovvtigsto)- VT(Tus(0) ~ 9) dat
+0 Q
+== | GilTisa(oVcT*) ~ 8) — GilTiys(00) — 9) av
+QR
+
+T* .
++[ I (Tu,3(8) S:Dv — V[T,5(9)] - v)Ti(Zu,s(0) — 0) dx dt
+0 Ja
+
+—k ( [ do dx + | S:Dvdx at) . (3.40)
+(9)>M/2) (9>M/2}
+
+For M>k+1+ ||) lloo, we have Tj(Tiy,5(8) — 8) = 79 — 3); thus, one can let M— oo in (3.40). By using integration by parts and the fact that div v = 0 similarly as in (3.35), one obtains
+
+T
+[ I K(O)VO-VI(e8 — 5) dxdt
+0 Q
+
+T*
+> -[ Gi(0(T*) — B) — G99 — 8) dr [ [ (S:Dv — Vd - v)R(0 — 8) dxdt.
+2 0 JQ
+Comparing the result with (3.37), we see that
+
+T* T*
+lim sup A [xonvon. vo" — 5) drat < [ [xorvo-vT00 - 6) dxdt, (3.41)
+
+n—>+00
+
+which is the cornerstone for the strong convergence. Indeed, it follows from (3.13), (3.14) and from
+(3.41) that (using also the Vitali convergence theorem and (1.5))
+
+T* T*
+limsup I K(O")/VI(0" — 3) 7 drat = [ I K(D)|VI(o — 3)? dxdt. (3.42)
+n>+oo JO 2 0 Q
+Since
+Ve O)VT(O" — 3) = e(O)VT(0 — 8) weakly in L?(Q), (3.43)
+
+the inequality (3.42), weak lower semicontinuity of L? norm and uniform convexity of L? imply
+
+Ve O)VT(0" — 3) > Je(”VT(8 — 5) strongly in L?((0,T*) x @). (3.44)
+
+
+Finally, we want to show that
+
+—__ V9" Vo
+VOM > VEO) strongly in L((0,T*) x 2). (3.45)
+We have
+n
+[eo = oy weakly in L?((0,T*) x @) (3.46)
+
+because of the uniform boundedness in L?((0, T*) x 2). To show convergence of norms, we write
+T° ny2
+Ivo"
+| I K(8") np dx dt
+T° vo" vo" — 35) 3) T* vor
+=[ I K(8") a7 a7 dx dt +[ I K(0") pe pT ? axdt
+
+T° Vo" VI(o"- 3b vo" Vo" — 8
+-[ he _ VTE ) deat 4 / — «(8") VOT?) a at
+("3 |>K}
+
+“EL.

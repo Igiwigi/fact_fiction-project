@@ -1,0 +1,8 @@
+These properties, as described in [14], are in many respects
+significantly inferior to those of artificial optical systems. Because of these limitations, the first
+fundamental question was whether structured illumination on a typical eye could be used to
+produce an improved image compared to wide-field imaging. The reconstruction of SIM data is
+usually based on the fact that the point spread function (PSF) of the optical system is known to
+some extent. After separating the frequency-shifted orders of the image and correcting for the
+frequency shift, an individual frequency weighting is applied to each order before summing the
+orders. This weighting is based on the optical transfer function (OTF).

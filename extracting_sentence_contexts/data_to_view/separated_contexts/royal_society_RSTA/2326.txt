@@ -1,0 +1,17 @@
+Eventually, the proposed
+methodology is compared with an optimization-based deterministic approach to show its
+effectiveness. Its major benefit is the rigorous treatment of the uncertainties involved in the
+problem. In fact, while the classical deterministic approach does not allow us to obtain a measure
+of the uncertainty contained in the model updating procedure, by introducing the Bayesian
+paradigm, it is possible to obtain a probability distribution of the results and then the possible
+evaluation of confidence intervals on what has been obtained from the analysis.
+
+2. Methodology
+
+The proposed Bayesian-updated robust fragility curve is derived by calculating the probability of
+failure of the structure for each considered seismic demand, with the latter expressed in terms of
+Peak Ground Acceleration (PGA). Other demand measures have been proposed apart from the
+PGA in literature to characterize the intensity of the seismic hazard, and the interested reader is
+referred to the study by Casolo [15], where a rational discussion of these measures is presented
+analysing their correlation with damage indicators; nevertheless, PGA has been chosen in the
+present study due to its simplicity.

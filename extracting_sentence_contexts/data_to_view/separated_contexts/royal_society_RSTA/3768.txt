@@ -1,0 +1,11 @@
+A popular assumption is that x(0)
+is in thermodynamic equilibrium at temperature T, and follows a Gibbs distribution (x ~
+exp(—(1/2T)x" Kx). Accounting for this, we should update the bath equation to y(t) =ru(t) +
+J/2rTw(t), where w(t) represents a zero-mean unit-intensity Gaussian white noise process (note
+
+
+that we assume units are chosen such that Boltzmann’s constant is kg = 1); see [9]. In fact, the
+added noise term is exactly the so-called Johnson—Nyquist noise [20,23-25]. In the following, we use the equation y(t) =ru(t) + J/2rTw(t) with constant T to model
+infinite heat baths. This is also our first example of how a time-scale separation argument
+applied to a lossless system can be used to derive phenomenological models (Ohm’s law and
+Johnson-Nyquist noise).

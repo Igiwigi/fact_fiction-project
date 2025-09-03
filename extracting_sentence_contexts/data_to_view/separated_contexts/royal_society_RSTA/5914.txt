@@ -1,0 +1,8 @@
+In this model, N agents randomly exchange wealth pairwise keeping the total wealth
+M constant. It is shown that the steady-state (t > 00) wealth there follows a Boltzmann-Gibbs
+distribution: P(m) = (1/T) exp(—m/T); T = M/N [21,22]. A modification to this model considering the fact that agents save a definite fraction of their
+wealth 4 before taking part in any trading, termed as saving propensity, was addressed first by
+Chakraborti & Chakrabarti [20] (CC model). This results in a wealth distribution close to Gamma
+distributions [33,34] and is seen to fit well to empirical data for the low and middle wealth regime
+of an economy [8]. Later, a model was proposed by Chatterjee et al. [35,36] (CCM model) where
+distributed saving propensities were assumed for individuals.

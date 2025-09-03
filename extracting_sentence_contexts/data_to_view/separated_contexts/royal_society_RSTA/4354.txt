@@ -1,0 +1,12 @@
+Adapted from [5]. While low cross-talk and zero net DMGD are aspirational targets in terms of reducing
+the computational cost of MIMO processing, the optimum fibre parameters are likely to be
+defined in practice by other considerations. Indeed, many contend that since MIMO processing
+is almost unavoidable, the optics should be designed to take most advantage of this fact both
+in terms of offering new opportunities for low-loss spatial channel multiplexing, for example,
+allowing the use of photonic lanterns which naturally excite orthogonal groups of modes rather
+than distinct modes for use as spatial channels [37], and to reduce the effects of intermodal
+dispersion/gain/loss to maximum benefit. For example, for a system exhibiting weak mode-
+coupling then a given data symbol carried by multiple modes with different group indices
+will spread in time linearly with fibre length. However, if we use a fibre exhibiting strong
+mode-coupling, the temporal spread follows a random-walk process and this will scale with
+the square-root of fibre length [38].

@@ -1,0 +1,7 @@
+Thus, we define the
+pure, or unrelaxed, state space
+
+P= {0 €L7(2) | (x) € {0,1} for a.a. x € Q}. Obviously, P is a subset of 2, but it is not weakly closed. In fact, Z is the convex hull of P, while P
+contains all extremal points of 2. We may consider the full ERIS (UxP,€,D) or the equivalent reduced ERIS (?,J,D), but it is
+not clear whether this system has any energetic solutions for general loadings via gpir and ¢. However, following the ideas in [8,16,27] (see also [15] for a similar relaxation of a RIS related
+to fracture), one can define upper and lower incremental relaxations [27, def. 4.1].

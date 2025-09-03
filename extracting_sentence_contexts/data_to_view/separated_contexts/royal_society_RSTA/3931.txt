@@ -1,0 +1,13 @@
+For such a condition, it is known that rarefaction effects spread also
+across the bulk of the flow and the classical Navier-Stokes equations can no longer accurately
+reproduce the flow properties found in the bulk. To overcome this limitation, however, the
+kinetic roots of the LBM may help. In fact, whereas LBM was specifically designed to solve
+the Navier-Stokes equations [30,31], in the last decade various groups have begun to explore
+the possibility to extend the LB methodologies towards non-equilibrium flows beyond Navier-
+Stokes hydrodynamics by adopting higher-order lattices [2426] or introducing further modelling
+in order to mimic effects of free particle streaming [44]. This is also equivalent to saying that, if
+a higher-order lattice is adopted, the size of the domain where the DSMC solver is still needed
+can be significantly reduced, thus further improving the overall computational efficiency of the
+simulation. In this view, it should be pointed out that the coupling strategy here proposed can
+be directly applied to any suitable lattice, provided that the discrete speeds are abscissae of a
+Gauss—Hermite quadrature.

@@ -1,0 +1,11 @@
+There are three obstacles one encounters in proving this theorem within the theory of
+semigroups of operators: (a) nonlinearity in the boundary condition, (b) nonlinearity in the
+equation, and (c) explaining in what sense (solutions to) equations in shells should converge
+to (solutions to) an equation on the unit sphere. Problem (a) is taken care of by switching to
+equations for inactive kinases K° = 1 — K. As to (b), the fact that f(0)>0 and f(1) <0 allows
+reducing the problem to the case where f is globally Lipschitz, and then the main result of [25]
+says that convergence of solutions of semi-linear equations can be deduced from convergence
+of semigroups. As to (c), the idea, accomplished by a family of isomorphism, is to look at the
+thinner and thinner shells through a finer and finer magnifying glass. From this perspective,
+all the semigroups of interest act in a single space of continuous functions on a shell of unit
+thickness, and describe diffusion processes with faster and faster radial component.

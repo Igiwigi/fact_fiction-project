@@ -1,0 +1,12 @@
+This is referred to as ‘uncertainty propagation’ or the ‘posterior predictive distribution’. Uncertainty in the prediction of Yy helps provide a more informed comparison to the observed
+validation data (especially if experimental error in Yy is also accounted for). Uncertainty in Yp
+enables a more informed model-based decision-making process.
+
+(c) Model discrepancy
+
+UQ as outlined above does not account for the fact that the model is always an imperfect
+representation of reality, due to limited understanding of the true data-generating mechanism and
+perhaps also any premeditated abstraction of the system. The model discrepancy is the difference
+between the model and the true data-generating mechanism, and its existence has implications
+for model selection, calibration and validation, and CoU simulations. For calibration, the existence of model discrepancy can change the meaning of the estimated
+parameters.

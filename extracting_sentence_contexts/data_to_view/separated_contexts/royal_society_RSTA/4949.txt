@@ -1,0 +1,17 @@
+The inequality (7.1) still holds, of
+course, but it no longer restricts the dispersion of field lines under the joint action of resistivity
+and advection. As is well known, a longer and longer inertial range of power-law spectrum
+E(k) occurs as viscosity v decreases and the maximum velocity gradient ||Vu|| becomes larger
+and larger. In fact, energy dissipation ¢ = v||Vul|* is observed to be non-vanishing as v > 0 in
+turbulent flow, requiring velocity gradients to grow unboundedly. Estimating ||Vul] ~ (e/v)!/2,
+the upper bound (7.1) becomes
+
+(P(t) < 6a y" [ew (2 ()'") - | . (7.2)
+
+This bound allows unlimited diffusion of field lines. Consider first the case 4 =v or Pt =1, for
+simplicity, where Richardson’s theory implies that
+
+(r7(t)) ~ 12at + ef. (7.3)
+
+The rigorous upper bound always lies strictly above Richardson’s prediction and, in fact, goes
+to infinity as v = — 0!

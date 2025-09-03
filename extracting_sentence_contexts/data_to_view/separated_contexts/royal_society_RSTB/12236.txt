@@ -1,0 +1,16 @@
+Third, recent work has behaviourally relevant data but rather encode ‘header infor-
+shown that over the course of sleep, high firing rate neurons mation’ to connote basic firing, while low firing rate cells
+drop their firing rates while low firing rate neurons do not, encode fine-grained behaviourally relevant information. This
+or may even increase their firing rates—all in home is important and may be correct and is consistent with the
+cage sleep situations with no apparent or obvious learning to ideas stated above. However, our ‘backbone’ conception includes
+consolidate [37,75,76]—implying these spike rate changes the fact that backbone sequences cascade from high firing rate
+may be homeostatic. neurons early in the sequence to low firing rate neurons later in
+A specific hypothesis relating this homeostasis to possible the sequence. This important concept enables the inclusion of
+STDP mechanisms in the context of UP state sequences was homeostasis based on STDP acting on this rate-related sequence.
+recently published, stating that UP state activation sequences In the hippocampus, an STDP-based decoupling was
+specifically lead to differential homeostatic pressures on high shown to weaken synaptic strength and desynchronize activity
+and low firing rate neurons (figure 6) [77]. The fact that high during SWR bursts both theoretically and experimentally [78].
+firing rate neurons may have earlier mean first spike times Specifically, during bursts, the coincident spiking of connected
+than low firing rate neurons may combine with STDP to neurons may weaken the synaptic connections between them
+render increased drive (via high rate neuron to low rate because of the conduction delays that fall into the STDP
+neuron potentiation) onto low firing rate neurons and decreased depression time frame [78].

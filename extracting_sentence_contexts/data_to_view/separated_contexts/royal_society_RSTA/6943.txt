@@ -1,0 +1,63 @@
+TABLE 3
+x eae —- —s = 0
+fo 16364 1-7470 1-8365 1-8934 1-9127
+AA 0-0014 0-0027 0-0034 0-0035 0-0035
+
+S 1-6397 1-7520 1-84.24 1-8997 1-9191
+
+
+NON-SINGULAR LINEAR INTEGRAL EQUATIONS 509
+
+6. OTHER METHODS AND COMMENTS
+
+(i) The deferred approach to the limit
+
+For casual computers unused to manipulating differences and finite-difference equations,
+the method used by Richardson & Gaunt (1927) for the solution of ordinary differential
+equations, and applied by Hartree & Womersley (1937) and Fox (1950a) for partial
+differential equations, can be applied also to the solution of integral equations. The theory of the method depends on the fact that, under certain conditions and with the
+use of certain formulae, the difference between the true solution of the integral equation
+and the approximation obtained by using simple quadrature formulae at an interval h can
+
+be written in the form E(h) = Bhe-+Oh*+.... (21)
+
+thus if we compute approximate solutions /, for intervals h,, then the accurate solution f is
+Syelated to the f, by the equations
+N
+
+y ff, = B+ CW+...,
+
+5 S—fe = BIB+CH+..., (22)
+“Taking only two approximations, we ignore the term in h*, eliminate B and find
+le)
+
+= 2
+zB faftgig iH. (23)
+Bf three approximations are available we can eliminate both B and C and find a more
+accurate expression for f. ‘
+
+& The simplest approximate quadrature formula is that given by equation (6) with A
+-Agnored, and this is satisfactory as regards the theory underlying equation (21). The usual
+
+aechnique is to obtain approximate solutions for intervals h, $h, .... If two such solutions
+Bare known, equation (23) reduces to the simple form
+
+col
+
+2 S = S(t) +34) fh}; (24)
+eile for three approximations we have
+
+& S=S(Rh) +33 {F(2h) —fG)} — as 4) —S()}.- (25)
+3
+
+3 For the second example of the last section we find the following approximations:
+
+FE x +1 +4 0
+
+A h=1 15980 1-8400
+
+=4 1-6268 18188 1-8940
+h=+}4 16364 18365 1-9127
+
+If we now extrapolate, using equation (24) for h = 4 and }, we obtain the values 1-6396,
+1-8424 and 1-9189, which agree very closely with those of table 3.

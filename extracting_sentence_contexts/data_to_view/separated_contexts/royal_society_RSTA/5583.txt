@@ -1,0 +1,7 @@
+Following figure 4a,b, the Lorenz attractor may have many separate trajectories
+that could look like connected regions. The (possibly existing) holes between trajectories, which
+are very small relative to the big holes, have been ignored in this paper, because their existence
+is questionable due to the presence of numerical noise. In fact, implementation of persistent
+homology method is also expected to yield 2; ~ Z5 for figure 4a and 1 ~ Z? for figure 4b. Figure 5a shows the bifurcation diagram exhibiting the Poincare section in the (x,dx/dt) phase
+space as a function of the parameter p of the Lorenz attractor. It is noticed here that a phase
+transition occurs around p ~ 166.

@@ -1,0 +1,13 @@
+This automatically reduces the anharmonic constant matrix to a single
+element. In addition, this single anharmonic constant has a different value compared to the one
+used in FD SCTST. Interestingly, the resulting rate constants in fact show a better agreement to the
+corresponding FD results [1,9]. Furthermore, to improve the performance of SCTST, in particular,
+in a low-temperature region, the application of the deep-tunnelling correction proposed by
+Wagner et al. [14] has been applied to both FD and 1D SCTST [1,8,9,13]. In the current study, we use 1D SCTST of the second assumption level described above with
+the deep-tunnelling correction to investigate the reaction rate constants for the following two
+reactions in both the forward and reverse directions:
+
+R1: CH30H +H =CH30 + Hy
+
+and
+R2: CH30H +H=CH)OH + Hp.

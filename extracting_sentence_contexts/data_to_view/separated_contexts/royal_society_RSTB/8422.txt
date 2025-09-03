@@ -1,0 +1,15 @@
+Our model was inspired by early, prelinguistic object categorization, accounting for
+this distinction between hippocampal and cortical processing. data from different experimental paradigms and data from be-
+Furthermore, it was based on the developmental literature havioural and neurophysiological studies. Here, we want to
+which suggests that novelty preferences observed in infant extend this model to simulate the shift from prelinguistic
+looking-time studies are driven by the hippocampal memory to language-mediated categorization.
+system [65,66], whereas categorization behaviour displa- The extended model had the same architecture as the
+yed in imitation and object examination studies depends on original one, but in order to model the transition from pre-
+a later-maturing memory network that involves inferior linguistic perceptual categorization to language-mediated
+temporal regions [65]. The fact that different experimental categorization we extended the model with task/label units
+methods tap into different memory representations can linked to the hidden layer of the cortical memory system
+explain why the results in infant categorization depend on (figure 1). The idea here was that these units could potentially
+the methodology used. encode a variety of functions and object properties that go
+Consequently, the model consisted of two interacting beyond perceptual feature information, such as representing
+components (figure 1): a fast-learning hippocampal /striatal affordances and specific ways of interacting with an object
+system and a slower learning cortical system. Each component or knowledge of an object’s hidden properties.

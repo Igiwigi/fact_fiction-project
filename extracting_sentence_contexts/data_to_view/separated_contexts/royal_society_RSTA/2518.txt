@@ -1,0 +1,38 @@
+For this, consider as a very simple example the following formula
+
+(Aa (A> B)A(-AVC)A(CAB3D))>D. (2.2)
+
+Figure 1 shows two (syntactically) different proofs of that formula in Gentzen’s sequent calculus
+LK [35,46]. The attentive reader might immediately observe that the two proofs only differ in
+the order of the application of inference rules and that one can be transformed into the other by
+a series of simple rule permutation steps. In fact, sequent calculus proofs are often considered
+equal iff they are equivalent modulo rule permutation. However, recently it has been shown that
+equivalence of sequent calculus proofs modulo rule permutation can be PSPACE-complete [47],
+which violates Objective 1 stated above and renders it unfeasible to base proof identity on rule
+permutations (unless P = PSPACE). AN(A> B)A(AAVC)A(CAB>D) 3D Ag \F 6 |
+“A [5A]
+
+i}
+MANA B)ACAYC)A(CAB + D)) , “FL. a IF)
+D °ZAvCe ‘i 7 :
+Ve- = Ee - tS
+A ce A, :
+A 7 CAB = CAB>D 8
+| Sp : 8.
+=(A > B) os D fe
+AK (A> B)A\(AVO)A(CAB > D) 3D :
+
+|
+=(-AVC)
+
+I
+“(CAB D) Goal A /\ (A -> B) /\ ("A \/ C) /\ (C /\ B -> DD) -> DL :3
+—-~ Proof. 18
+A \ intros hi. destruct h1 as [ha h2]. 16
+closed a destruct h2 as [hab h3]. destruct h3 as [hac h4]. :S
+apply h4. split :§
+a apply hab. exact ha. 1B
+Zo™ closed destruct hac as [hnalhc]. elim hna. exact ha : a
+exact he at
+
+closed closed Qed.

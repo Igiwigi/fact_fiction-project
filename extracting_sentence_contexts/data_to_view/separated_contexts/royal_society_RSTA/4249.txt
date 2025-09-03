@@ -1,0 +1,54 @@
+Nevertheless, its performances are worse than those produced by the reversed COS classification
+of the raw dataset—the dashed black curve is clearly above the solid blue one. However, if
+we apply the PostP method to the COS classification of the pre-processed hypercube, we get a
+better performance than any other COS classification with or without post-processing. In fact, the
+solid blue ROC curve is above all the others in figure 6a. We can also try to apply the wavelet
+transform as a denoising post-processing method. If we plot the corresponding ROC curve,
+its performances are slightly worse than those obtained using the proposed method—the solid
+
+
+(a) (d)
+
+20 20
+40 40
+60 . . oe “oe 4 60
+80 80
+100 a 100 @
+120 120
+50. 100. —«150 200-250 = 300 50 100 150 200 250 300
+
+Figure 7. (a) Detection map of the PostP post-processed COS classification of the pre-processed data and (b) detection map o
+the wavelets post-processed COS classification of the pre-processed data. (Online version in colour.)
+
+13
+
+@ o =
+= = a
+
+12 x2 ispl0 3
+1.0 if
+
+10; [= data after PreP : =
+
+0.8 — chemical signature :3
+
+0.6 5 Do
+
+— raw data ad
+
+0.4 — chemical signature 0 [3
+
+0.2 IN
+
+a
+
+5 [a
+
+0 10 20 30 40 50 60 70 0 10 20 30 40 50 60 70 : 3
+
+a
+
+Figure 8. (a) Raw spectral signature of a pixel inside the plume and the chemical 134 signature and (b) pre-processed spectral
+signature of a pixel inside the plume. (Online version in colour.)
+
+magenta curve is slightly lower than the solid blue one in figure 6a.

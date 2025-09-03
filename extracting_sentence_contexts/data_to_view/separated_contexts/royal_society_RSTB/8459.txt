@@ -1,0 +1,34 @@
+Information theoretic metrics to evaluate ae ane and hence a key variable encoded in this
+area [18,36—38].
+
+different codes and reference frames In previous work, we analysed the responses, recorded in
+
+To study internal reference frames for sensory decoding, it anaesthetized animals from barrel cortex neurons, to discrete
+
+is necessary to have quantitative tools to assess the amount single-whisker deflections. We found that spike times
+
+of information carried by different putative coding schemes. measured with resolution of 5 ms or finer allowed the extraction
+
+Shannon information, abbreviated hereafter as informa- of approximately 50% more information about the identity of
+
+tion, offers a rigorous measure to compute single-trial the stimulated whisker than the information obtained when
+
+stimulus discriminability counting spikes over post-stimulus windows of a few tens of
+
+milliseconds [6,39]. Moreover, almost all the information
+
+I(S;R) = dP P(r,s)log, PoP aay a (2.1) about whisker identity provided by the whole train of spikes
+
+emitted after stimulus presentation was carried already by the
+
+
+20 response r (equation (2.1)) as a columnar population spike
+
+18 . count exploits the fact that in the few tens of milliseconds
+e following stimulus onset more spikes are emitted in response
+16 : ° ° to stimulation of the topographically matching whisker than
+14 ° ° to any other [6,42]. This suggests that spike counts regist-
+2 : > ° ered in some post-stimulus window should discriminate the
+_ stimulated whisker well. For the information analysis, we con-
+= 10 ° ° D2 sidered a population of n sequentially recorded neurons in
+8 ° D3 column D2 and varied n parametrically from 1 to 100.

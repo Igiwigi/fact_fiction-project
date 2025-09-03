@@ -1,0 +1,10 @@
+Afferent place cells with adjacent fields compete
+
+(5) Grid cells with different scales should respond differently with each other till only the ones firing at distance approxi-
+to the geometry of the environment. This is owing to the mately rscale remain active. Additionally, boundary cells from
+fact that the shape of the force-tuning curve (equation subiculum or mEC [25,26] project to the local place cell inhibi-
+(2.1); figure 1d) will vary with different grid scales. tory network selectively inhibiting as a function of distance
+
+(6) The insertion of the boundary into a square environment to the boundaries. Alternatively, a new cell type, inhibitory
+should result in the shift and rearrangement of grid fields boundary cells, could send projections to place cells. Indirect
+away from the inserted boundary.

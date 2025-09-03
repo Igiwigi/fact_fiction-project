@@ -1,0 +1,11 @@
+Assuming a given probability distribution of the fibre strength it is possible to
+analyse properties of studied material and its behaviour under loading using advanced methods
+of statistical physics. Among other things one can evaluate the failure strength, critical properties
+of the dynamics for different types of fibre strength distributions and analyse in detail the fracture
+and failure dynamics. From our point of view, the most important fact is that the FBM method is also based on the
+discrete representation of the medium by a set (bundle) of fibres. Additionally, when comparing
+the FBM method to the DEM particles interaction model used, one can easily recognize that the
+FBM fibres are almost direct counterparts of the bonds joining the DEM particles. Almost directly,
+because the fibres in FBM and the bonds in DEM have a stochastic distribution of their strength
+and both can be regarded as ‘springs’ with given, constant in time ‘spring constant’ but they
+are differently arranged.

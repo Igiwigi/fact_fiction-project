@@ -1,0 +1,8 @@
+Given a
+random (intermittent) process v(t), one can study P[t»,L] as a function of the time at which
+v(t) is larger than some level L. In the case discussed in this paper, P[tw,L] does not show any
+scale invariance. In fact, upon changing L, we are also changing our definition of event size. Our
+approach, following [6], is to fix the definition of event and then disregard it in the computation
+of tw events of size larger than some threshold S,: we are looking at some longer time for the
+same set of events. One may argue that this is a minor detail, but we have clearly shown that this
+is not the case in our system and we argue the same is true for other physical systems.

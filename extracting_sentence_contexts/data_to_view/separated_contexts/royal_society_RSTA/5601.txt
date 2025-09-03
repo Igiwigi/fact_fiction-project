@@ -1,0 +1,16 @@
+Here, the item [Pr*xy| means the greatest integer number
+not exceeding Pr‘x, (i.e. the Gaussian greatest integer function). For example, if Pr’ = 0.25 and
+x, =7, then Pr**x, = 1.75, thus [Pr*x,| = [1.75] =1. The adoption of Gaussian greatest integer
+function here is due to the fact that we need to ensure that the output number of each type of
+alters is also an integer. Then we introduce constraints. Subject to: constraints of integer decision variables, of limited resources settings, and of upper
+bound of kits’ number for each index can distribute.
+
+yom <M (3.2)
+
+kek
+
+VKEK, XK S Sx (3.3)
+and Vk eK, x, €N*. (3.4)
+
+To be specific, constraints (3.2) are our kernel constraints that ensure a fixed resource setting
+for the optimal allocation of HIV prevention interventions.

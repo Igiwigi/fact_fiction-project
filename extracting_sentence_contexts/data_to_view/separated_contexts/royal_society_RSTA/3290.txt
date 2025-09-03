@@ -1,0 +1,90 @@
+Hence, from
+equations (2.1), (2.2), (2.5) and (3.8), we have
+
+1 ag
+fy O)= phd 0) - ry >0,
+leading to
+_ 2 — oy. (72 — 1) — _
+a) . 2(u — c)*Uxnx + (u — c) uy 1) —g(u—c) (3.14)
+p (u — (1 + ng)
+on y= n(x). On differentiating the fourth relation in equation (2.9) along the free surface w.rt. the
+x-variable, we also obtain
+
+O=(u—c)lly + (U = C)lyny + Vvy + VUyNy + RNx ON Y=N(xX). Furthermore, from the last equation and equations (2.2), (2.3) and (2.5) we obtain
+(u— c)uy(1 — 2) + 2(u — c)uyny + gnx=0 on y=n(x). (3.15)
+
+Using equations (3.1), (3.14), (3.15) and the fact that nx(x) <0 for x € (0, L/2), we get
+
+L
+—SPae < He MG) + uyle n))neO), O<¥< 5,
+
+which on integration on [0,L/2] leads to
+
+En (3) ~ 00] > w0,n0 ~»(5n(3))- (16)
+
+Evaluating equation (2.8) at the wave crest and the wave trough, and from equation (3.16), we can
+
+deduce
+hoe [wo (0)) — e}? — {x (a (5)) _ 1 > u(0, n(0)) — u (3 (5) , (3.17)
+
+which further yields
+
+(0, n(0)) +0 (a (5)) = 96 < 208, (3.18)
+2 2 ao
+
+
+From equation (3.2), we have u(L/2, n(L/2)) > u(0,(0)) > c. Furthermore, as n(L/2) < 0, we have
+
+L/2 L/2 pn(L/2)
+ML =| Mdx= | |
+-L/2 -L/2
+
+(u — c) dx dy
+-d
+
+L/2 0
+<p| | (u — c) dx dy = p(k — c)Ld.
+-L/2J-d
+Thus
+M < p(k — od. (3.19)
+
+Combining equations (3.10), (3.18) and (3.19), we obtain
+
+L 2pg(k — c)d
+u(0, (0. +u(5, (5)) -2-< . 3.20)
+OM) Forth P(L/2, —dine) + pl(L 2, —dine) — C? — Pat 620)
+On evaluating equation (2.8) at the wave crest/trough and using equation (2.6), we obtain
+_ L) _ [w/2), n(L/2) — cP — [u), n(0) — cP
+H=n0)~n(5) 2g
+— 972
+_ ©), (0) + (L/2), n(L/2) ~ 2c 21)
+28
+Hence, from equations (3.20) and (3.21), we obtain the upper bound
+2o(k — c\2q2
+2p'g(k = cd (3.22)
+
+H<
+[P(L/2, —dint) + p{u(L/2, dint) — ¢}? — Pat]?
+on the wave height. An alternative bound is obtained on using Bernoulli’s law (equation (2.8)) at
+a depth y = —din as follows:
+2pre(k— cP
+* [PO,=dint) + p{u(O, dine) — OF? = Patml?”
+
+If velocity measurements are not available, then the bound in equation (3.22) can be modified
+based on the pressure measurement alone, and can be given as
+
+2pre(k— cP
+
+H
+
+(3.23)
+
+< 3.24
+[P(L/2, —dint) — Pat]? 64)
+
+Equation (3.24) can also be obtained by defining a in equation (3.10) by
+ap = Patel /2-Mo/p) = Patm . 325)
+
+M/p
+and proceeding following a similar approach as before, exploiting maximum principles and the
+governing equations of the water waves.

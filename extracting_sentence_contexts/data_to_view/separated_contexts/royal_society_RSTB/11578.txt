@@ -1,0 +1,15 @@
+We also provide a Docker image in
+the test repository, which implements all tests in all sub-projects
+without the need for local installation of ScilInit, NEURON and
+the NeuroML tool chain. Analogous to an image on a virtual
+machine, a Docker image (http:// www.docker.com) is a compart-
+mentalized operating system which is frozen in a pre-configured
+
+curation and automated tools, yielding curated databases of
+empirical observations (from experiments on the biological
+worm) and structured, machine-readable models at several
+scales. Summaries of observations are extracted from these
+databases, representing stylized facts about experiments. Models are simulated to produce corresponding predictions,
+
+state. Docker removes a large technical burden from the user by and these predictions are compared with observations to
+shifting package management complexity from users to develo- yield test scores.

@@ -1,0 +1,9 @@
+The unfiltered input signal, u(Zw, t), is
+shown at its near-wall position of z}, ~ 4.3, alongside a long-wavelength pass-filtered equivalent
+with 4; > 7000. Per the kernel gain |H|, only the larger scales of the unfiltered input are included
+in the stochastic estimate. In fact, the linear transfer kernel is an inherent scale filter since only
+the scales that are coherent between the input (zw) and output (z) are included in the estimate,
+while the incoherent scales cannot be estimated (|H| ~ 0 for these scales). For one outer-region
+location, za ~ 464, we have shown a comparison of the estimated and measured fluctuations
+(top of figure 4). Visual inspection reveals that the estimate captures the large-scale content of
+the direct measurement reasonably well.

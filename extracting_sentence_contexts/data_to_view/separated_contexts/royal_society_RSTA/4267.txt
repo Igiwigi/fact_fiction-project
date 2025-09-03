@@ -1,0 +1,7 @@
+In
+the case of an AM signal, the Hilbert transform would only compute frequency from the higher
+carrier wave components. In most cases, the Hilbert transform-defined envelopes are also highly
+oscillatory and verge on nonsensical results [3]. In fact, the envelope for an arbitrary time series
+cannot be defined meaningfully as discussed in [11]. The only way a unique envelope can be
+defined is through the IMF [2]. This requires the time series to be decomposed by the EMD first,
+as given in equation (1.3).

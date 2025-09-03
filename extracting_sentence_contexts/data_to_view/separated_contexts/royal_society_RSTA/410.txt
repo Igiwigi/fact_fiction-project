@@ -1,0 +1,7 @@
+Sea ice volume is no longer increased. In
+contrast to the Arctic, the influence of the stochastic sea ice parametrization on the mean climate
+of the Antarctic is relatively small in the uncoupled model. This can be explained by the fact
+that Antarctic sea ice almost completely vanishes during austral summer which inhibits the small
+temporal accumulation of stochastic effects. The impact of the stochastic sea ice parametrization on the mean climate of the coupled model
+ECHAM6-FESOM turns out to be very different. The mean sea ice volume in the Arctic and
+Antarctic remains largely unchanged with the stochastic scheme switched on.

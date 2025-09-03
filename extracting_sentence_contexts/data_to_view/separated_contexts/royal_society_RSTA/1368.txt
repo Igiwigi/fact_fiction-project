@@ -1,0 +1,10 @@
+For example, it is well known that for
+compliance minimization the thickness of the ‘walls’ of the microstructure should be proportional
+to the stress that it has to sustain in its direction. This is rigorously proved for two-dimensional
+rank-2 laminates [11] and it is numerical evidence for rectangular holes in a square cell [31]. Note
+that this fact is different from the optimal orientation of orthotropic materials [22] which is already
+taken into account by taking 012 = 0. Intuitively, the macroscopic optimization algorithm will tend
+to propose large/elongated rectangular holes when dealing with pure traction stresses and more
+symmetric holes when dealing with more hydrostatic loads. Therefore, it is likely that microstructures which have a semi-axis ratio my /m will be favoured
+by the structural optimization process at places where the stress tensor ratio |o11|/|o22| has similar
+values.

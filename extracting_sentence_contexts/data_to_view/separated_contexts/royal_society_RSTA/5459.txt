@@ -1,0 +1,17 @@
+I is an interpretation function that maps a sentence in one
+language to a sentence in a second, potentially the same, language; i.e.
+
+1:Sm > Sn, Sm € Li, Sn € Lj, Li, Lj €L- (5.2)
+
+Definition 5.3 (Explainability). E is an explanation function iff, given a hypothesis S°”*, there
+exists,
+
+E: S07? {$%, SOP, GIF, SHI, SEP} Where R-1(S%) e Kg (5.3)
+
+Definition 5.4 (Predictability). P is a prediction function that takes a subset of axioms and
+facts, and projects them through induction or abduction onto a different set of axioms or facts; i.e. P:S° > S° (5.4)
+
+Definition 5.5 (Transparency). T is a transparency function that decides on the level of
+interpretability, explainability and predictability that will be visible from one agent to another
+agent, then implicitly or explicitly forms the language it will use to communicate this information
+to the other agents; i.e.

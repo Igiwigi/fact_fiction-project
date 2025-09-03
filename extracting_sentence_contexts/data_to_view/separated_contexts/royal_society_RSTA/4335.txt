@@ -1,0 +1,8 @@
+In our evaluation, we consider a certain
+subarea with dense AP deployment depicted in figure 5a, and substitute SBSs for WiFi APs. This
+is a reasonable approximation for pico-cells, since the radius of the latter usually resembles that
+of the WiFi APs (approx. 100 m). Importantly, owing to the fact that operators typically keep the
+datasets of mobility across their base stations confidential, it would be difficult to acquire such
+information. By contrast, the trace we use is publicly available online. In order to model the user
+demand for content, we use a measured trace of YouTube requests from a study performed at
+Amherst campus, University of Massachusetts, in 2008 [52].

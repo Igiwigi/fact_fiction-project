@@ -1,0 +1,11 @@
+Error bars indicate confidence intervals of +2 standard deviations. (b) Energy extraction per row, normalized by first
+row of reference case. From top: G3t0, red line; C3t5, yellow line; C3t30, light-blue line; C2t0, red dashed line; (2t5, yellow dashed
+line; (2130, light-blue dashed line; R, black line. (Online version in colour.)
+
+the comparable case of Goit et al. [4], for which an increase in energy extraction of approximately
+6% was reported. This fact can be attributed to a better convergence of the current results
+due to a judicious choice of optimization parameters as elaborated below and the update to a
+quasi-Newton optimizer discussed previously. In figure 8b, it is shown that energy extraction
+is increased in every downstream row by slightly downrating the first row for all cases except
+C3t30. Moreover, the first row aside, the last row extracts the most energy for all cases, since
+it does not have to take into account any downstream neighbours.

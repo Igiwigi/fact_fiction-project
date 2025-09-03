@@ -1,0 +1,9 @@
+But this
+is restrictive and does not fit well with cases where the different nodes in a given information
+set could be widely separated from one another in space or time. In such cases, it may be more
+appropriate to think of distinct but perfectly correlated signals operating at different nodes within
+the same information set. In fact, other assumptions on signals are possible that still preserve the
+indistinguishability of nodes in an information set. In particular, the signals could be i.i.d., but,
+more generally, we can require them to be exchangeable.> Figure 2 depicts an information set in
+some tree. Figure 3a is the simple case where one coin is tossed at this information set and the
+choices can be pegged on the outcome of the toss.

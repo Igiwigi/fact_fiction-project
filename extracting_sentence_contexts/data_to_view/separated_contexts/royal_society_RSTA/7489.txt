@@ -1,0 +1,49 @@
+Maass and Mennie (1926) published values of the pressure due to various masses of
+water enclosed in a measured volume and heated to various temperatures. It was found
+possible to plot their results and interpolate values to 100°C. The values obtained in
+this way covered the range 316-700 mm. and, when plotted upon the diagram men-
+tioned above, they were found to be in substantial agreement with the curve obtained
+by use of the Massachusetts Institute of Technology formula, particularly in view of
+the fact that Maass and Mennie’s claim to accuracy was not greater than I in 1000 to
+1 in 2000. From this survey of the literature, it appears permissible to assume that the Massa-
+chusetts Institute of Technology formula will give substantially reliable values at
+pressures below atmospheric. The formula, when computed for 100° CG, is as follows:
+
+V =RT/P+B,
+
+where V = specific volume of steam in c.c./g.,
+R = gas constant = 4-55504,
+P = pressure in international atmospheres,
+T = 273-16 +0°C,
+
+B = By + Bi g(t) 1P-+ Bh, go(1) PS — BY gy(r) 72P2,
+
+where css /T,
+By, = 1:89 — 2641-62 x 1080870.72,
+2,(7) = 82-5467 — 1-6246 x 10572,
+22(7) = 0-21828 — 1-2697 x 10572,
+23(7) = 3-635 x 10-*— 6-768 x 1084774,
+
+At 100°C:
+t = 100 and hence 7 = 373-16 and RT = 1699-7587,
+By =—25-071,
+&(7) = —0°945484 and Bj, ¢,(r)r =—1-592584,
+&o(7) = — 0693544 and Bj, g.(r)73 = —0-00527321,
+£3(7) = — 1273-4381 and Bi} g,(r)r!? = 0-0,270064,
+
+whence
+
+y = 1099 7987 _ 95-071 - 1:592584 P - 0-00527321 P* — 0-0,270064 P®,
+
+The last term is obviously negligible for pressures of 1 atm. or less, and, in such cases,
+it is also possible to omit many of the integers in the other terms.
+
+
+[ 213 ]
+
+SUPPLEMENT
+
+THE EXPERIMENTAL DETERMINATION OF THE
+COMPRESSIBILITY OF GASES
+
+By R.

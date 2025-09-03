@@ -1,0 +1,12 @@
+Numerically, we examine the ML closure on a simple test model, the Lorenz ’96 (L-96) system, 3 |
+that was first introduced by Lorenz [26] as an idealization of atmospheric waves in midlatitude. While the model is simple, it carries some properties of realistic turbulent complex systems 3
+[27,28] such as the energy preserving advection-like nonlinear term, and a wide spectrum of oS
+
+unstable modes through the nonlinear coupling between states. Beyond the simplicity, which
+allows us to carry the numerical verification with moderate computational costs, our choice to
+investigate this case is largely motivated by the fact that closure models for a coupled system of
+the mean and covariance statistics have been well developed and improved in [4,9,28]. These
+parametric closure models, developed based on clever physical intuition, have demonstrated
+accurate statistical predictions. In such a configuration, we found that the ML-based model can
+produce accurate statistical responses (comparable to the parametric model) on moderate to large
+forcing amplitudes.

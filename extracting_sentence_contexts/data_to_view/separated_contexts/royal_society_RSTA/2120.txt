@@ -1,0 +1,16 @@
+Considering the cost of a single-item binding
+(equivalent to 8x 1-bit full adder activations) from table 2 is given as ~5.8 pJ (note: this is a worst-
+case result), the cost of the 8-bit multiplication would be in excess of 46 pJ. This excludes the AND
+gates required by the Wallace tree input and any overheads in moving data in between steps. Thus, in the standard holographic approach our energy requirements for executing the example
+problem would be:
+
+E =3(yd)°46 pJ + yd(yd — 1) -5.8p]) © 635.4] (7.1)
+
+We note that this improvement in performance is almost exclusively a result of the choice
+of arithmetic operations used to execute binding (simple modular addition instead of circular
+convolution) and the fact that we operate on compressed representations (we operate on length y
+items, as opposed to full length yd chains). In terms of actual hardware design, we have been conservative and designed the CoPU
+in 65nm technology. The best state-of-art computing system we could find was represented
+by the Google TPU [31], where they quote 40W system power dissipation running at
+92TOPS at 8-bit precision, thus yielding a power figure of just 0.43pJ/FLOP, which would
+be equivalent to 0.43 pJ/binding in our system.

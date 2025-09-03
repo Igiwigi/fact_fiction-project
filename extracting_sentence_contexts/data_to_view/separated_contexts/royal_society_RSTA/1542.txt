@@ -1,0 +1,15 @@
+The best perceived images are
+displayed for the optimal noise intensity y* in subfigures (b—d). (b) image 1 requires y* = 0.39 to achieve C,r(y*) = 0.274.
+(c) Image 2 requires y * = 0.5 to achieve C,7(y*) = 0.322. (d) Image 3 requires y * = 0.59 to achieve C,7(y*) = 0.199. (e)
+Image 4 requires y* = 0.465 to achieve C)7(y*) = 0.208.
+
+figure 6b-d the best image perceived when the noise intensity is tuned to the noise level y* which
+maximizes the cross-covariance. Except for the first image of the Coloseum, SR reveals quite fairly
+the information contained in each subthreshold initial image. In fact, the effect is less pronounced
+for the image of the Coloseum owing to its very low resolution of N? = 64? pixels, which is not
+the most appropriate resolution to observe image details. Note that we have reported in table 1 all
+the necessary features of our SR-detector, that is for each initial image the image size, the optimal
+noise intensity y* and the best value of the cross-covariance C;7 achieved for y = y*. These values
+will be of crucial interest to develop the VR-detectors presented in the next section.
+
+5.

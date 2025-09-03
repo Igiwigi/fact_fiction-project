@@ -1,0 +1,10 @@
+We have also shown that many
+differences between the full nonlinear coupling function and its first-order approximation are
+not so important for determination of the synchronization regions, although the full nonlinear
+function provides better accuracy. Finally, we compare our approach with the analytical technique for strongly perturbed limit
+cycle oscillators of ref. [40]. Except for the trivial fact that our reduction is merely numerical,
+we mention the essential difference: we rely on the unperturbed definition of the phase, ie. we
+remain in the framework of the perturbation theory. On the contrary, the authors of [40] define a
+generalized phase, i.e. a family of phases for different values of a system’s parameter. Next, they
+consider the case when the strong component of the forcing is very slow and then exploit the
+generalized phase to obtain a close equation in the adiabatic limit.

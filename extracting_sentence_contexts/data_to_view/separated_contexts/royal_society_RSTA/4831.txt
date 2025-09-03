@@ -1,0 +1,27 @@
+Its inverse is given by Vtates(9) :=q + W, with w, =t1t by the synthesis of p53 and
+of mdm2. These functions give a one-to-one correspondence between the two state sets X; and X}. Moreover, WGroup(g) = W1gW1 is a homomorphism of groups (g € G1) as, for all g1, g2 € Gi giving
+permutations of {MP,MCP,MCR,MCPR}, then WGroup(gig2) = W1g182W1 = W1g1W1W1g201 =
+
+Wroup(81)WGroup(g2) and is in fact an isomorphism with inverse homomorphism: VEroup(8) = : =
+wigwy. We have wWstates(q) - WGroup(8) = (9 - Wi) - Wigw1 = q - (wiW1)gwi = 4 - W1 = Wetates(q - 8), for :8
+all g€G, and q¢ Xj. (Note: this computation is essentially the proof of theorem 2.2 that :
+R-equivalent permutation groups are isomorphic using appropriate w, and wy.) nee)
+The right-hand side of figure 8 shows three natural subsystems, where each successive one’s eae
+state set is a proper superset of the one below, in a transitive weak control hierarchy with three 7
+levels.** All natural subsystems in the semigroup of the p53-mdm2 capacity 1 automaton are Dy
+equivalent to one of these: G = (a’) = C2 cyclic permutation group (Xj, G{) acting on four states [5
+(with two disjoint orbits) representing 31 isomorphic natural subsystems, G2 ~ $3 the symmetric iB
+permutation group (i.e. all possible permutations) on three states X2 = {C, R, CR} representing ,
+120 isomorphic natural subsystems, and G2 = C2 cyclic permutation group on two states X3 =
+{C, CR}, representing 86 isomorphic natural subsystems.° The sequence of transitions given by
+the word w2 = tytgtstg collapses the state set of the top natural subsystem onto the X2, and event
+sequence w4 = tyf3ts collapses Xp onto X3.26
+Note that the top C2 =G{ does not have any non-trivial elements that permute Xz or X3,
+while G2 has all the permutations in G3. Unlike in the previous examples, here we encounter
+a non-Abelian group $3, i.e. which does not satisfy the commutative law xy = yx.
+
+(i) Weak control in a larger p53—mdm2 model
+
+With increased capacity of mdm2 so that three levels of concentration are distinguished, there
+are 24 possible configurations (states) in the p53-mdm2 Petri net, with the other species still
+limited only to being distinguished in a binary way as above a threshold or not.

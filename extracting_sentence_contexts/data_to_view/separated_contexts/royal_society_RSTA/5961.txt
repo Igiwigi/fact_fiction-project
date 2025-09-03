@@ -1,0 +1,8 @@
+As a consequence of the linearity of q(L), the solution
+q'(L) is, in turn, a linear function of L. A few considerations have to be made about the solvability of the system (3.9). In fact, it is easy
+to show that the matrix Zo'K(P) Zo is always singular, regardless of the specific lattice structure
+under consideration. This is proved by considering a vector q* =t defining a pure rigid-body
+translation and observing that K(P) Zo t =0, which, in turn, implies that the dimension of the
+nullspace of Zo'K(P) Zo is at least 2, as two linearly independent rigid-body translations exist for
+a two-dimensional lattice. Any other deformation mode, possibly contained in ker(Zo'K(P) Zo),
+is therefore a zero-energy mode, called ‘floppy mode’ [37,38].

@@ -1,0 +1,12 @@
+Bistable travelling fronts
+
+(a) Population dynamics
+
+The situation is different if the population growth is damped by a strong Allee effect (after the :
+American zoologist W.C. Allee). The Allee effect has to do with the fact that the fitness of small 72
+
+populations is sometimes negative, i.e. if the population density is too small, the species or group : =
+of individuals will not survive. In other words, the zero steady state is stable (figure 3a). To model Dm
+a)
+
+this effect, an extra factor is added to the reaction term of the FKPP equation.

@@ -1,0 +1,16 @@
+Originally seen as acting on the space of (generalized) fractal strings, it is now viewed
+mathematically (and physically) as a suitable quantization of the Riemann zeta function: a = ¢(d),
+where @ is a suitable version of the differentiation operator d/df, called the infinitesimal shift of
+the real line and acting on the Hilbert space H, = L?(R, e~*"' dé), a weighted L?-space; see §4b. Accordingly, the spectral operator a= ac depends on a parameter c which can be thought of
+
+
+heuristically as providing an upper bound for the Minkowski dimensions of the fractal strings on
+which the operator a acts. In fact, as we shall see in §4a, it is more convenient to replace the fractal
+strings themselves by their associated (geometric and spectral) counting functions. As it turns
+out, the spectral operator, a = ¢(0), which was originally introduced at the semi-heuristic level in
+[7, §6.3.1 and §6.3.2] (see also [7, §6.3.1 and §6.3.2]) satisfies (at the operator theoretic level) most of
+the properties of the classic Riemann zeta function ¢ = ¢(s), including a quantized Dirichlet series,
+a quantized Euler product and an operator-valued ‘analytic continuation’. (See §4c, along with
+([8, ch. 7], [12]).) One of the key motivations of the work in [8-12] is to obtain a rigorous functional
+analytic version of the work of the author and H. Maier in [4] on inverse spectral problems for
+fractal strings and the RH briefly described in §3b.

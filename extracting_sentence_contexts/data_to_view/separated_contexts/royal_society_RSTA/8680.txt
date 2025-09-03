@@ -1,0 +1,18 @@
+In order to specify the drag completely it is necessary to consider with some care
+what are the variables on which the drag for a given shell can depend to an
+appreciable extent. This question is, as yet, by no means settled, and a few of the
+more important considerations are summarised in § 1.01. This fact does not concern
+us here to a very serious extent; an incomplete specification of the variables on
+which the drag (or, in the general case, the complete force system) depends will only
+invalidate the results of observation when an attempt is made to apply them to
+widely different conditions of the state of the resisting medium, or of the motion of
+the shell. The validity is unaffected when the experimental conditions are
+approximately repeated. It may be assumed that, in this case of symmetry, a fairly
+adequate expression for the drag is given by the equation
+
+(1.001) R = pvr*f,. (v/a),
+
+where R is the total drag, p the density of the air (or other medium), 7 the radius of
+the shell, 7 the velocity of the shell, and a the velocity of sound in the undisturbed
+medium ; all these quantities, of course, are to be measured in a consistent set of
+units.

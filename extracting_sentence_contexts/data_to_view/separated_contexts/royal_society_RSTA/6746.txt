@@ -1,0 +1,29 @@
+For a symmetrically heated slab of thickness 2l, the time lag between surface and centre
+is /?/2D, and for a symmetrically heated solid cylinder of radius a it is a’/4D; these values
+follow directly from formulae (15) and (16) of Williamson & Adams (1919). The numbers 2
+and 4 in the formulae for the time lag in these two cases are very closely related to the
+coefficients 2 and 4 in equations (3-5) and (3-8) respectively. In fact, in both these cases the
+distribution of temperature through the slab or cylinder ultimately become parabolic (see
+formulae (15) and (16) of Williamson & Adams 1919), and then the fundamental approxima-
+tions (3-2) of the present method is exact, so equations (3-5) and (3-8) are exact and can be
+used to go from centre to surface in one interval 6x for the plane, and similarly for the cylinder;
+
+and the time-lag property for constant rate of rise of surface temperature can easily be
+deduced from these equations. Now for a substance for which the diffusivity varies with the temperature, it has been
+
+shown in § 9 that if the diffusivity does not vary greatly through the material at any one time
+(though it may vary considerably in the course of time), the heat flow can be reduced
+
+approximately to the heat flow in a substance of constant diffusivity on a distorted scale of
+time which has been called the T-scale. Hence, if the rise of surface tem
+
+‘ perature is constant on the 7-scale, the central temperature
+will follow the surface temperatur
+
+€ with a time lag which is constant on the t-scale (and which
+
+
+THE CALCULATION OF VARIABLE HEAT FLOW IN SOLIDS 33
+
+on this scale has a value of } for a slab and } for a cylinder), and which varies on the ¢-scale
+according to the value of the diffusivity, that is, according to the mean temperature.

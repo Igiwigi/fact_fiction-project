@@ -1,0 +1,20 @@
+In section 6.4.1 of [28], it is also shown that the
+CMS property-checking problem can be reduced to the CMS model-checking problem and can
+therefore equivalently be solved in time as in equation (5.9). Furthermore, in definition 6.1 of [28]
+they show that the CMS model-checking problem can be solved in time
+
+O(F (idl, ewd(G)) - |GI), (5.10)
+
+as there are only finitely many sentences of size bounded by a given integer. The theorem then
+follows since the rank-width is bounded if and only if the clique-with is bounded, which is
+because
+
+rwd(G) < cwd(G) < 2°74)+1 _ 4, (5.11)
+
+as shown by Oum & Seymour in [29]. a
+
+In many cases, it is in fact the quantifier rank, see definition 5.3, which dominates the runtime
+to solve MS problems. For example in [30], it is shown by Langer et al. that the MS model-checking
+problem, i.e. if G — ¢, can be solved in time O(f(qr(¢), cwd(G)) - |G|°)). As discussed with Langer,
+it is probably possible to extend this statement to also the CMS model-checking problem and
+therefore CMS property-checking problem.

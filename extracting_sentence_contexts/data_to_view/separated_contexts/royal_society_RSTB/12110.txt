@@ -1,0 +1,9 @@
+Hybridization-based complexity of eukaryotic transcriptomes. While RNA-seq can
+microarray approaches completely eschewed annotation but interrogate individual transcript features like splice sites,
+simplified the quantification of already annotated genes [7]. TSSs and polyA sites, it fails at determining how these
+The introduction of massively parallel sequencing in the individual features are combined into transcript isoforms.
+mid-to-late 2000s completely changed transcriptome annotation This is owing to the fact that the read length of short-read
+and quantification. When massively parallel sequencing—best sequencers is too short to capture entire transcripts from end-
+represented by the now dominant Illumina technology— to-end (figure 1). Incomplete fragments of transcripts, there-
+became available to research laboratories it could generate fore, have to be computationally assembled into full-length
+millions of sequencing reads at a length of approximately isoforms.

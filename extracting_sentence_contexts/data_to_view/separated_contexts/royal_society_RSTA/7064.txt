@@ -1,0 +1,45 @@
+AITKEN’S PROCESS
+
+t Alt) Z(t) hilt) Z,(t) S(t) Z;(t)
+30 2-11981 5599 16 3-49510 2810 1-05026 8 29 10-46019 1-79 38 96-6
+31 7-40897 3456 16 3-49580 2303 1-09860 0 30 10-47131 1:73 40 17-5
+
+x 32 2-59003 0647 17 3-49640 1787 1-15037 8 31 10-47750 3-02 41 9-5
+SoS 33 9-05578 7782 17 3-49691 5673 1-20530 9 32 10-47939 2-88 42 48
+% 34 3-16673 2623 18 349735 6123 1-26309 0 33 10-4822 1:37 44 40
+5 35 1-10751 9173 19 3-49773 3630 132400 34 10-4859 55 45 24
+& 36 3-87380 7057 19 349805 7227 1:38833 35 10-4886 13 47 17
+ey 1-35507 9877 20 3-49833 4625 145616 36 10-4901 22 48 34
+S 38 4-74052 2854 20 3-49857 2417 152752 37 10-4916 75 49 32
+‘a 39 1-65850 6250 27 3-49877 6257 1-60262 38 10-4933 24 61 21
+5
+
+s TABLE 2. AITKEN’S AUXILIARY SEQUENCES
+
+3 t Z,(t) — Zit) ZP(t) Z,(t) —Z}(t) Z?(t)
+a=] 20 3-47690 1723 3-49940 349896 10-67828 10-167 10-114
+os 21 348027 7325 349832 3-50060 10-28506 10-257 10-447
+za) 22 3-48314 6464 3-49991 350015 10-19442 10-501 10-372
+3 23 3°48555 9304 3°50039 349978 10-39326 10-432 10-405
+& 24 3-48762 4858 349989 3-49986 10-46311 "10-400 10-05
+Ro) 25 348940 2708 3-49980 3-50004 10-40623 10-406 11-06
+
+8 26 3-49092 2930 349997 3-50000 10-40029 10-47 10-46
+ea 27 3-49222 0890 3-50002 3-49998 10-44285 10-46 10-46
+Ss 28 3-49333 2719 3-49998 3-49998 + 10-46103 10-46 10-46
+
+2 29 3-49428 6110 349998 3-50000 10-45659 10-45 10-48
+
+= From these tables it is seen that ten-figure accuracy in the primary sequence {/,(é)}
+
+& produces only the zeros *, and x,. Even allowing for the fact that the zeros of smallest modulus
+
+can be obtained from the reciprocal polynomial, it is clear that something of the order of
+
+3 thirty significant figures would be needed in /,(é) in order to solve f(x) completely. The
+
+- same example has been solved by the methods recommended in §§ 2 to 5, keeping a maximum
+of ten significant figures in the work. Seven root-squaring transformations produced all
+
+A the moduli of the zeros correct to five or more figures, and the phases were then obtained
+without difficulty to the same accuracy.

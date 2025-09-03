@@ -1,0 +1,10 @@
+The choice of the
+threshold in the in vivo experiment was made consciously and in line with current neuroscience
+literature, where the threshold is often imposed arbitrarily in order to ease physiological
+interpretation of the results which survive it. In general, it is important to point out that statistics
+for guiding acceptance/rejection of a link can be easily added to our method either through
+surrogate data generation and analysis [67,68], or possibly through analytical definition of e.g.
+a p-value for the estimated causality strength [1]. Also, situations can arise where separability (i.e. the fact that information in the causative
+signal is independently unique and can therefore be removed by eliminating that signal from
+the model) is not guaranteed. In such cases, general assumptions underlying any GC framework
+will not be met, and in the presence of weak coupling this can lead to erroneous GC estimation. In such cases, convergent cross mapping approaches [69] can provide a valid alternative.

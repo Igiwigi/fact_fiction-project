@@ -1,0 +1,21 @@
+In all models analysing the effects on network structure, the
+effects of DGEs, IGEs, an individual’s genotypic frequency in
+the group, and interactions between these effects were treated as
+fixed factors. Genotypic effects (DGEs and IGEs) were treated as
+fixed factors because genotypes were chosen non-randomly
+based on prior information (see §2b), and because there were
+only three levels of genotype for females. All models also included
+a random effect of the identity of the individuals’ social group, to
+account for the fact that each individual was a sub-sample of its
+social group.
+
+(g) Model fitting
+
+All analyses were conducted in R v.3.6.2 [83]. Network positions
+of instrength and outstrength were analysed using Poisson-dis-
+tributed generalized linear mixed models (GLMMs), as these
+measures of network position are counts; and network positions
+of clustering coefficient and eigenvector centrality were analysed
+using linear mixed models (LMMs) using R package Ime4 1.1
+[84]. Model fits were assessed using the package DHARMa
+0.2.7 [85].

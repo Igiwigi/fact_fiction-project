@@ -1,0 +1,23 @@
+We remark that many structural properties known for the standard Boussinesq
+equation continue to hold for gBouss. For instance, observing that gBouss can be written as the
+pair of equations
+
+Ay = —Ux
+(5.14)
+and Ur = (2@U + H — 3H? + Hyx)x,
+we immediately obtain the conservation laws
+| H;dX=const. and | U; dX = const., (5.15)
+R R
+
+where the first one corresponds to conservation of mass and the second to conservation of
+momentum, cf. [26]. In fact, gBouss (as well as gKdV) can be reduced to its classical versions by
+employing suitable scalings, so that properties like integrability and the existence of infinitely
+many conservation laws carry over. The effect of the Earth’s rotation captured by means of
+the Coriolis parameter does not alter the overall qualitative features of solutions, but modifies
+slightly some specific quantitative aspects, as can be seen from the explicit solutions of gkdV
+and gBouss.
+
+6. Applicability for tsunami modelling
+
+Finally, we comment on the applicability of gkdV and gBouss as models for tsunami wave
+propagation.

@@ -1,0 +1,19 @@
+This problem has been LB
+extensively studied in pattern recognition, where complex models commonly overfit the data, :
+meaning that, while accounting for the existing data, they do not perform well on new data [16]. 8
+The problem is aggravated for small samples, because accurate distribution-free error estimation Dw
+is usually impossible and accuracy can only be assessed with distributional assumptions, which :
+are not present [17]. :3
+
+In the simplified examples shown in figure 1, one can intuitively understand how a random :3
+sample of measurements of height above sea level across a golf course is unlikely to reveal the all- :
+important locations of the holes, and how curve-fitting methods will struggle to map the recursive
+nature of a fractal surface. Deep theory requires deep thinking, for both discovery and validation. Writing with Leopold
+Infeld, Albert Einstein explained how thinking had evolved in their book The Evolution of Physics:
+The Growth of Ideas From Early Concepts to Relativity and Quanta:
+
+In nearly every detective novel since the admirable stories of Conan Doyle there comes a
+time when the investigator has collected all the facts he needs for at least some phase of his
+problem. These facts often seem quite strange, incoherent, and wholly unrelated. The great
+detective, however, realizes that no further investigation is needed at the moment, and that
+only pure thinking will lead to a correlation of the facts collected.

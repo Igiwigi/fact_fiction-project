@@ -1,0 +1,14 @@
+In addition, just as in many other fields of natural language
+processing (and indeed Al), the NLG field is currently moving
+more and more towards data-driven techniques and sophisti-
+cated machine learning methods. The challenge for social
+robotics is to determine how to incorporate such methods
+into the sort of interactions needed for a particular deployment
+context. For example, the current E2E (‘End-to-End’) NLG chal-
+lenge [52] uses data drawn from a restaurant domain,
+where the input consists of a series of facts about a restaurant. Any system trained on this sort of data would perform well
+in a context where the robot must convey similar facts to its
+partner; however, in contexts such as a home companion
+robot, the robot utterances might be very different. In general,
+as with all data-intensive techniques, the issue is obtaining
+sufficient training data.

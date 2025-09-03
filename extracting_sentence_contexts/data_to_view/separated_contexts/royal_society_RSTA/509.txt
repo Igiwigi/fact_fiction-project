@@ -1,0 +1,9 @@
+However, the use of the matrix models has led to better SNR
+figures, especially for the model that combines wavelet row-sparsity with a non-negative matrix
+factorization. For the same constraint, the nonlinear model leads here to worse SNR results
+compared with the linear model. This is due to the fact that the nonlinear model has significantly
+more parameters. But once we start to use some of the constraints that are only available for
+matrix models, such as the non-negative matrix decomposition constraint, we see improvements
+over the linear model. The results for the Shepp—Logan phantom are summarized in figures 6 and 7, where we show
+box plots of the SNR values achieved with the different methods for 10 different random instances
+of the two problem settings.

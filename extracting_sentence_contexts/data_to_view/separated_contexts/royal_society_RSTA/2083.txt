@@ -1,0 +1,19 @@
+However, we want to point out that corrections to this constant
+may become necessary, if one considers extreme changes in the force Ma(t) applied to the piston,
+strong enough to change a(t) on microscopic time scales, so that a(t)At ~ a(t + At)A¥ is no longer
+true on overage.
+
+(a) The adiabatic dilation
+
+Let us assume that we compress (expand) adiabatically, moving the piston from position L; to
+some position L2 in a timespan t. If at position Li the working gas has temperature T;, we may
+ask the question for which piston position Ly < L; (Lz > L;) the working gas will reach a given
+temperature Tz > T; (T2 < T1). It is not difficult to write down the exact equations for the problem,
+in fact it is equation (4.2), but one cannot, in general, solve this equation explicitly as it is of higher
+
+
+order polynomial rank. Fortunately, we can solve it in a linear approximation. By assuming that
+cycle periods are large enough for the piston position Lz = L} + ALz, to vary only by a comparably
+small, AL < |L2 — Li|, where L3 is the would be piston position if the system would undergo a
+reversible adiabatic process ending in temperature T2, one can compute ALy in a perturbative
+manner.

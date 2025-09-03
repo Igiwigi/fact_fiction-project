@@ -1,0 +1,10 @@
+For the purposes
+of the proof (see [15, theorem 7.1.5]), orbital stability is the same as spectral stability plus it
+requires in addition that the linearized operator L, (see proposition 2.4 below for a definition)
+to satisfy Ker[L,] = span[V¢.,m]. We do not verify here this property, sometimes referred to as
+non-degeneracy of dw,m-
+
+In the higher dimensional cases, the statement remains essentially unchanged, except with the
+appropriate dependence of the index p on the dimension. The results here are new, but in fact
+they follow along the ideas of the proof of theorem 1.1. Again, orbital stability will follow, once
+one can establish the non-degeneracy of the waves. Theorem 1.2.

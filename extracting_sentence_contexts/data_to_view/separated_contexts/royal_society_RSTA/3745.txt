@@ -1,0 +1,10 @@
+We first separate the linear terms from the nonlinear terms and consider the latter terms,
+together with unclosed expressions (triple averages), as a generic driving term of the linear
+evolution equation for 7;. This separation precedes our ignoring the driving term, because we
+are principally interested in the parts of 7; responding to the coherent motion i/;. This procedural
+(linearization) step can further be justified by recalling the fact that the portion of 7; which
+responds to a vanishing nonlinear driving term is uncorrelated to i;. Further simplifications can be made by invoking boundary-layer assumptions, thus tailoring
+our analysis to the near-wall region of turbulent flows. In particular, the standard observation
+of the streamwise velocity component dominating over the velocity components along the
+remaining coordinate directions, together with its predominant variation in the wall-normal
+direction, yields u = u(y) and {v, w} = 0.

@@ -1,0 +1,14 @@
+Our assumption led to a Kolmogorov scenario which is consistent with the hypothesis that
+temperature is passive within the inertial range of scales. If one assumes that velocity and
+temperature are scale-by-scale balanced within the inertial range of scales, a new scaling
+behaviour would emerge (scaling a la Bolgiano), which is however not observed in our
+simulations. In conclusion, the fact that temperature behaves passively in the inertial range of
+scales is a work hypothesis which is successively verified via a consistency check.
+
+4. Direct numerical simulations
+
+In order to verify the above phenomenological theory, we rely on fully resolved direct numerical
+simulations. The equations of motion (2.1)-(2.3) are solved numerically within a cubic domain box
+of size L = 84R, R being the radius of the circular opening from which air is injected according
+to the time-varying profile representative of human cough proposed by Gupta et al. [3], with a
+peak Reynolds number of Re = tmax2R/v © 20 000.

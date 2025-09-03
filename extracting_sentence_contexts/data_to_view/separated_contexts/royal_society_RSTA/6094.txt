@@ -1,0 +1,11 @@
+The pressure level at the left (inlet) end of a capillary is always set as
+pi =8L/Re. In a single-phase flow, this pressure difference, (p1 — p2) = 8L/Re, will generate the
+Poiseuille’s flow with the flow rate Q = 2/3. The actual flow rate will in fact be lower due to the
+action of capillary forces. At the walls, for the average velocity, we set the no-slip boundary condition (wu = 0), the absence
+of the diffusion flux through the wall (04/(dy) = 0) for the chemical potential and the condition for
+the concentration field that defines the condition of neutral wetting (the contact line is orthogonal
+to the wall, the molecules of both liquids interact equally with the molecules of the wall), which
+is defined by 8C/(ay) = 0.2
+
+2We would like to note that for displacement flows the choice of the static contact angle is of little significance. The static
+contact angle defines the shape of a static meniscus.

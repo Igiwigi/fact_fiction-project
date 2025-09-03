@@ -1,0 +1,11 @@
+In the last few years, ‘transformer’ deep neural networks, with order 10!! trainable parameters
+and trained on something close to the entire contents of the World Wide Web, have proved to be
+remarkably successful in a wide range of natural language processing tasks, often showing highly
+unexpected emergent behaviour.’ Perhaps most notably, so-called large language models, such a
+GPT-3 from OpenAI [18], have produced some remarkable demonstrations. To give a concrete example, artist Mario Klingemann® gave GPT-3 an author (Jerome K. Jerome), a title (The importance of being on Twitter), and a first word (It) and obtained the
+astonishing first paragraph:
+
+It is a curious fact that the last remaining form of social life in which the people of London
+are still interested is Twitter. I was struck with this curious fact when I went on one of my
+periodical holidays to the sea-side, and found the whole place twittering like a starling-
+cage. I called it an anomaly, and it is.

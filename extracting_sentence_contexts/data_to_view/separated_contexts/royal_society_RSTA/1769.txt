@@ -1,0 +1,13 @@
+Joule heat and
+thermal diffusion work together during the heating stage. This temperature rise of the sample
+is determined by the excitation frequency, the heating time, the high-frequency magnetic field at
+the sample surface and characteristics of the material such as electrical conductivity, magnetic
+permeability, thermal diffusivity and thermal conductivity. In fact, the control loop looks for
+the resonant frequency of the excitation source and the coil current is not an ideal sinusoidal
+expression in the initial stage. This time has an impact on the temperature rise.
+
+(c) Resonant frequency tracking loop
+
+The excitation source for ECPT is actually an induction heating power supply system and the
+schematic diagram of this system is illustrated in figure 2. Since electricity is rectified and filtered,
+a DC voltage Ug is generated and this drives the full bridge converter.

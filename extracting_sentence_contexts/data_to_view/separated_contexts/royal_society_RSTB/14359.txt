@@ -1,0 +1,10 @@
+These are the sensory inputs and
+on the amount of decrease in the distance or convergence motor programmes that will be assigned a higher amount
+between representations in the common space (figure 1). of learning signal. The sensory inputs that are selected by
+The assumption we make in using such a measure of conver- the learning signal and the policy that was executed are
+gence is that when representations of sensory inputs in the then used as the current dataset for updating both sensory
+internal space get closer to the representation of the policy that is and motor topologies. Thus all topologies, including those
+in fact controlling the agent's behaviour, there is a higher chance representing motor programmes or policies, are updated so
+that the current policy is in fact causally responsible for those sen- that they are more aligned in the region where represen-
+sory inputs. In other words, a candidate motor-sensory tations converged. In sum. the same learning process
+contingency or action effect is detected.

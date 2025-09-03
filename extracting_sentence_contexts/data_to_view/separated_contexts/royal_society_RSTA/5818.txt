@@ -1,0 +1,14 @@
+The advantage of this method
+is the fact that it yields the best estimate of the typical extreme event in the limit of it becoming
+increasingly rare, which is the limit we are most interested in, and at the same time also the regime
+that is hardest to reach via DNS. As we will discuss later, instanton techniques not only allow for the computation of the
+limiting most likely path to obtain an extreme event, but further yield estimates for the
+exponential tail scaling of the observable’s probability density function (PDF). A concrete
+prediction of our results is the fact that intuitive rotationally symmetric realizations of extreme
+vorticity outcomes (namely, vortex tubes/filaments) or extreme strain outcomes (namely,
+colliding or contracting vortex rings) are not necessarily the most likely way to reach extreme
+values, even if the observable exhibits rotational symmetry. In fact, we present that the rotationally
+symmetric events become subdominant, particularly for large positive strain values, and are
+dominated in probability by asymmetric field configurations. In other words, the stochastic
+instanton undergoes spontaneous symmetry breaking, and the corresponding action exhibits a
+dynamical phase transition similar to what is observed, e.g. in the KPZ equation [16].

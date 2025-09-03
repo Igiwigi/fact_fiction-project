@@ -1,0 +1,7 @@
+The stable section (a) of the equilibrium branch represents circular trajectories of the aircraft,
+where the radius of the circle decreases as the steering angle is increased. The saddle-node
+bifurcation at 5 * 28° marks the loss of stability of the turn. In fact, as indicated by (b), for
+a steering angle 6 past this point, the aircraft loses control without warning. Analysis of the
+state variables reveals that the tyres of the inner main gear saturate and the load is shifted
+to the outer main gear. The tyres of the outer main gear then saturate with an accompanying
+load redistribution to the nose and inner gears.

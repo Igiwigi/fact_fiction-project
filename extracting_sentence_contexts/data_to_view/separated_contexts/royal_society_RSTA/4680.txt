@@ -1,0 +1,32 @@
+The Floquet theorem allows for expanding these fields in a discrete set of orthogonal
+p,q indexed FWs with wavevectors at the nodes of the reciprocal (spectral) lattice, ie. at kpg =
+k; + (22 p/d)x + (21q/d)¥, (p,q =0, +1, £2,...). We define the average tangential (transverse to z)
+
+field on the MTS as
+E|_ 1 i” ie er(0',ks) | jp’
+== Je) elkve'dx'dy’. 3.1
+lr @ J_aj2J—a/2 | bile’, ki) y 64)
+
+According to this definition, the average field in equation (3.1) coincides with the coefficient of the
+dominant, zero-indexed FW. In fact, the conjugate phase factor in the integrand makes a projection
+of the total field on the dominant FW. The electric and magnetic average fields at z = 0* are related
+through the tensor impedance Z(w, k;) as
+
+Et|z=0+ = Z(w, ky) - [z x He]z=0+- (3.2)
+
+
+@ ., . - (b)
+
+iyTM iV TE ix IM
+=iXo JX Poo" IXTE (ky)
+
+eee | eb = bb
+
+XT= XG + Xe Z™ (ky) ZTE)
+
+Figure 4. (a) Equivalent network reported at the MTS—air interface; the effect of the patch cladding and that of the grounded : G
+slab are incorporated in the ‘opaque’ reactance X. (b) TE/TM-based two-port network representing ‘transparent’ boundary a
+conditions thought the equivalent ‘transparent’ reactance X.. Dy
+
+The impedance Z(w, k;) accounts for the contribution of both the patch cladding and the grounded a
+slab.

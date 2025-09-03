@@ -1,0 +1,20 @@
+A more realistic model of a film bonded to a uniform elastic ball would replace our =
+Winkler term with a non-local expression involving the H'/? norm of the surface displacement : 3
+(see for example [17] or §3 of [18]). This suggests replacing our Winkler term by
+
+2 :
+22 8
+HIP(Q) Da
+
+PR
+
+ea Lt
+
+no}
+Ash OR
+
+(which scales once again like length”). In fact, our analysis of the lower bound would also work : s
+for this non-local substrate term. However, our analysis of the upper bound requires estimating at
+the energy of an explicitly given deformation, which would be much more difficult for a non-
+local model. Moreover, the use of (2.2) would not eliminate another key idealization, namely
+that the sheet is free to slip along the substrate.

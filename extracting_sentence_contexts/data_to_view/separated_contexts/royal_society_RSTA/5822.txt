@@ -1,0 +1,14 @@
+In the tails, though, the axisymmetric
+instanton clearly underestimates the probability, while the symmetry-broken instanton is in good
+agreement. This is particularly clear in the right tail of the right-most panel of figure 4, where
+the axisymmetric instanton depicted by the red line is far too steep to agree anywhere with the
+observed tail scaling. This trend continues in fully developed turbulence at higher Re: the analysis
+of larger DNS, e.g. in [4], shows that the strain PDF tails can in fact be described by stretched
+exponentials « exp{—c+ |a|°+} with exponents #4 < 1, whereas we find that the exponents in both
+tails derived from the vortex-ring instanton increase monotonically with |a| and saturate above
+04 =2.5 in the right tail and above #_ =2 in the left tail. By contrast, while the Sj(a)-curve that
+we obtained for the symmetry-broken instantons is still convex in the observable range that we
+were able to consider at the given resolution, the exponents + are monotonically decreasing in
+|a| for this branch and decay below 1.5 for both positive and negative strain. For the vorticity observable of the same DNS dataset at ¢ € {1,250, 1000}, we observe the same
+qualitative results (not shown): at the lowest Re, the instanton again perfectly describes the PDF,
+whereas the range of validity of the estimate transitions into the tails at higher Re.

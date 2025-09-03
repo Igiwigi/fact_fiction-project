@@ -1,0 +1,16 @@
+When moving to a solution for the upcoming high repetition rate FEL sources like LCLS-II, the
+interaction material becomes a primary concern. X-ray fluence levels of order 50-100 mJ cm~?
+at the sample are typical of 10% AR/R [55] in traditional spatial reflectivitity and spectral
+transmission measurements. This is a level that is uncomfortably close to the materials damage
+threshold and in fact the interaction materials, typically YAG (yttrium aluminum garnet,
+Y3A150 12) or SigN4, already show discoloration and damage during experimental exposure at
+120 Hz operation. Clearly, a much more X-ray dose tolerant material with sufficient thermal
+
+transport is needed as we move to the high average power of the LCLS-II. : =
+
+It has been recently demonstrated that an interference mode of spectral encoding (figure 7) : =
+allows one to measure the induced refractive index change in diamond at X-ray fluence levels 1B
+that are two orders of magnitude lower than that required for the traditional measurements. Not :2
+only does this allow for less energy deposition in the material, it also allows for the use of a 8
+thin diamond transmission window as an interaction medium, which has a large bulk thermal : o
+conductivity [58,59].

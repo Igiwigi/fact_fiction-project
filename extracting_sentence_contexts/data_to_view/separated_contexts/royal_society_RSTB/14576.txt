@@ -1,0 +1,23 @@
+There are see that because var(x)/7 is always non-negative, the deriva-
+alternative ways of transitioning from the fitness function tive alone determines the direction of evolutionary change.
+to an expression for evolutionary change, for example, Using the symbol « for proportionality, we can write Ss
+focusing on population genetics or quantitative genetics aw =
+(see [17-21]). We will use a quantitative genetic approach Ax* ca] (24) 5
+here because it can be presented concisely while illuminating nex a
+some key simplifying assumptions made in evolutionary The equations in this section, therefore, tell us that under i
+game theory. Some of these assumptions could in fact =)
+
+typical assumptions of EGT, variation in fitness and the
+
+be relaxed: for example, there may be an environmental com- evolutionary response to selection are both proportional to — Gy
+ponent to the trait value x [19], and finite populations can be the derivative dw/dx|,_,.. This expression of evolutionary a
+
+considered [17,24] but equations of similar form can still be
+
+change tells us how we can expect a trait value to evolve, Ss
+recovered. given a hypothesis on how it is related to fitness, encapsu-  S
+
+Here we assume that: lated by the fitness function w. When the derivative in Ss
+
+equation (2.4) takes on a positive value, the trait value
+increases and vice versa.

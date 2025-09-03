@@ -1,0 +1,12 @@
+The other approach is to use an integrated, coupled-physics modelling framework, [4
+with new code pieces for each relevant physics area developed inside that framework. This is : ie
+sometimes referred to as a ‘top-down’ framework approach (DUNE [5], MOOSE [6], KARMA [7], : BS
+among several others). The former approach takes advantage of the fact that several man-years 18
+
+invested in these existing verified and validated individual physics modelling codes are reusable,
+but producing a multi-physics capability will then require some intrusive modifications to
+enable appropriate software interfaces. The top-down framework approach avoids such intrusive
+implementations by providing unified physics interface guidelines that simplify the software
+overhead but at the substantial cost of re-writing all the necessary physics models from scratch,
+including their verification and validation (V&V) suites. The implementation of a verified multi-physics solver code also imposes a number of
+requirements on the overall design aspects of the framework.

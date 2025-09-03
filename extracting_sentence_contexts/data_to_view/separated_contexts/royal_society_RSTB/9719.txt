@@ -1,0 +1,15 @@
+Remarks by the referees 6 1
+convinced us that that name would rather produce confusion, | beta(x|1, I)dxdx + | beta(x|1, |)oxdx > 0, (5.1)
+and we changed it here to ‘crowded regime’. In this regime, 0 6
+types A find themselves in groups in which the effect of their where dx = Vx + Q(xvx + (1 — x)v). The integrals in the above
+ancestors in the same group increased the group density equation are relatively simple, since beta(x|1, 1) = 1(1 — yt,
+(made it crowded), so that local regulation now cancels the fit- However, instead of integrating, we will exploit the fact that
+ness effect that they still have at the current time on their group when relatedness R is low, the exponent | — 1 = (1/R) — 2 is
+members. The cancellation that occurs here happens through large (the situation to keep in mind is R < 10%, which implies
+the effects of past types A on the local ecology (crowding), 1 — 1 > 8), so that this density function decreases rapidly with x.
+while in [20] the cancellation is in the computation of the effects This means that the integrals put much more weight on the
+of the behaviour of the current types A on fitness. values of , when x is close to the left end of the integration
+
+The referees recommended that we compare our approach interval than on the values when x is further to the right. To
+with that introduced in [21], and further applied in [22]. use this observation, care has to be taken with the normalization
+There are several distinctions to make.

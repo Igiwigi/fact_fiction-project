@@ -1,0 +1,10 @@
+Some authors track the MGT equation
+until the work of Stokes [22]. Regardless of its first appearance, the use of the MGT equation in
+the viscoelasticity theory seems to produce a model which is considered to be more faithful to
+reality than the usual Kelvin-Voigt (KV) model for the linear deformations of a viscoelastic solid
+[23-25]. In fact, the linear KV viscoelasticity allows the instantaneous propagation of the
+mechanical waves (see [26], p. 39), which contradicts the causality principle. However, the waves
+in the MGT equation propagate with finite velocity [27]. In this work, we study a linear porous-elastic problem including three possible MGT
+dissipation mechanisms: two of them assumed to be on the displacement (leading to the
+viscoelasticity and hyperviscoelasticity cases), and the third one on the porosity (leading to the
+weak viscoporosity case).

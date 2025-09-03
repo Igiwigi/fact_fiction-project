@@ -1,0 +1,51 @@
+Furthermore, solution (3.22) can be used for finding the distance reached
+
+by the front of the permissible contaminant concentration for the entire period of the process. Denoting by Cj the value of permissible solute concentration and by Xq the distance from the
+
+
+fracture inlet to the point where concentration is equal to Cg, from equation (3.22), it follows that
+
+14/144 (A 40a7)
+
+aca) ne (3.23)
+
+Xq=
+
+If the corresponding concentration of the contaminant in the surrounding porous matrix is
+also of interest, then using the system of equations (2.38)-(2.41) and assuming that concentration
+in pores does not depend on time gives
+
+92 l-v
+= oe - a (3.24)
+y=0, cae (3.25)
+and yoo, C=O. (3.26)
+Solution of the problem (3.24)-(3.26) is as follows:
+Cyly) = Clade“ @""*/YPa, (3.27)
+
+where C = (c/Cg) and Cy = cp/Co . From solution (3.27), the maximal distance reached by the front
+of permissible concentration, yq, in the porous matrix can be readily obtained:
+Dm_, C(X)
+
+wom G10<X < Xu (3.28)
+
+Ya =
+
+From (3.28), it follows that the maximal depth of penetration of radioactive solute in the porous
+matrix is attained at X =0, i.e. in the place where it is a constant source of contamination.
+
+(d) Solution of the advection—diffusion problem in the fracture for At = 0(1)
+andy > 1
+
+For the moments of time of the order At=O(1) and y — 1, applying formula (3.17), equation
+(3.12) can be converted to the following form:
+
+ac + ac 1 CC
+dt | aX Pe ax2
+
+AY’y aC
++t AC=—0 | AYC+ ——— }. 29
+‘ ( + oF ) (3.29)
+Owing to the fact that At=O(1), it is reasonable to introduce a new temporal variable T = At
+in equation (3.29). For the values t= T/A, when T = O(1), the concentration front will move to a
+distance greater than | along the fracture. Therefore, a new characteristic scale Xo for the variable
+should be introduced.

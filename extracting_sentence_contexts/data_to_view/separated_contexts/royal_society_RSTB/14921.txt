@@ -1,0 +1,56 @@
+N = 1000, m= 0.05 and f(a) = 1.2. (Online version in colour.)
+
+group is critical to increased success rate (figure 2). However, success takes longer, while failures ‘fail fast,’ which highlights
+we also find that success rate is most sensitive to majority the need for patience and resources once an adaptation
+homophily whether the adaptation is initialized in the min- begins to take hold in a _ minority—majority-structured
+ority group, the majority group or both, which indicates it population (figures 5 and 6).
+
+is important for the majority group to guard its adaptive
+reservoir in case the adaptation is lost among the minority
+
+group through drift (figure 3). To confirm our interpretation (a) Minority-g roup adaptation-incubator effect
+
+that minority groups act as incubators and majority groups as Minorities are critical to better chances of adaptation success,
+reservoirs, we inspected individual simulation time series and in fact smaller minorities do better than larger minorities.
+and observed some cases where majority adaptation adop- First, note that overall success rate was significantly lower on
+tion lagged behind minority adoption (minority incubator), average across all Hin and Nmaj settings when the adaptation
+and some cases where the majority population had accumu- was initialized in the majority group (figure 2), and in many
+lated a large proportion of adopters while the minority settings the success rate is 0 (figure 3). In our sensitivity ana-
+adopter prevalence fell or vanished (figure 4). Finally, we lyses, we set the minority fraction to m=0.2 and observed
+analysed the number of time steps to adaptation success or maximum success rates of 0.6 (electronic supplementary
+
+failure across our simulation trial conditions—adaptation material, figures S4 and S5, top row), whereas in our main
+
+
+1.00 2 1.00
+
+B
+
+= ee
+
+a a
+
+075 success B 075 success success
+g rate g rate
+
+& os & 0.8
+2 050 ae) 06
+o a .
+3 3 04
+& 0.25 & 0.25 02
+2 2 0
+& 6
+
+2 =
+
+Zo z 0
+
+0 025° 050 0.75 1.00 0 025° 050° 0.75 1.00 0 025° 050 0.75 1.00
+
+minority group homophily, Ity;, minority group homophily, hin minority group homophily, fin
+
+@ maximum success rate for given h, @ maximum success rate across all h,,,,, and h, === LOESS-calculated trend line for visualization
+
+min ‘min ‘maj
+
+Figure 3.

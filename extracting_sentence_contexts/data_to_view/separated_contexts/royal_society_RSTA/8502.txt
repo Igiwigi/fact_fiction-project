@@ -1,0 +1,22 @@
+For large values of » the probable error of the determination of the end-point may be
+found approximately by multiplying the probable error of location by
+
+(p—4) V3. As p grows smaller, »’ diminishes until it reaches unity, when p = 1. For values of
+p less than 1 it would appear that the end-point had a smaller probable error than the
+probable error of location, but, as a matter of fact, for these values location is determined
+by the end-point, and as we see from the vanishing of ,, whether or not p and a
+are known, when p = 1, the weight of the determination from this point onwards increases
+more rapidly than », as the sample increases. (See Section 10.)
+
+The above method illustrates how it is possible to calculate the variance of any
+function of the population parameters as estimated from large samples ; by comparing
+this variance with that of the same function estimated by the method of moments, we
+may find the efficiency of that method for any proposed function. The above examina-
+tion, in which the determinations of the locus, the scale, and the form of the curve are
+treated separately, will serve as a general criterion of the application of the method of
+moments to curves of Type III. _ Special combinations of the parameters will, however,
+be of interest in special cases. It may be noted here that by virtue of equation (2) the
+function of m -}-a(p {- 1) is the same, whether determined by moments or by the method
+
+of the optimum :
+m, +, (putl) = m+d(p+1).

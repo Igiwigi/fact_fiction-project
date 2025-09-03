@@ -1,0 +1,22 @@
+The resulting time-heterogeneous models have 20 years that some caution is warranted. After all, the current
+been shown to be more accurate than classical time- picture of eukaryotic evolution is the result of analyses of
+homogeneous and time-reversible models, in the context of supermatrices of tens of thousands of aligned positions,
+several key phylogenetic problems, in particular concerning many of which are mutationally saturated and therefore
+the position of eukaryotes relative to Archaea [51,52]. contain mostly noise—noise whose statistical distribution is
+The time-dependent substitution models mentioned thus poorly described even by the most sophisticated models of
+far proceed from a parametric perspective, in the sense that sequence evolution currently available. In this context, it is dif-
+
+they associate sets of parameters (typically, equilibrium ficult to rule out the possibility that the observed phylogenetic
+
+
+resolution, however consistent across studies, may in fact be Reconciliation approaches represent an example of what 5 |
+
+entirely contributed by the slow build-up, across very large could be called integrative modelling, in the sense that multiple
+datasets, of residual systematic errors. A similar argument layers of evolutionary processes are integrated in the model. a
+can be made concerning many other phylogenetic questions An important practical consequence of this integration is that s
+currently explored using phylogenomic approaches, most multiple levels of parameter estimation are performed simul- a
+notably the deep phylogeny of metazoans [43,44,61,62]. taneously: in the present case, simultaneous estimation of 3
+Critical here, in order to settle these questions in a more gene and species trees [79,80,83]. This is in sharp contrast to 5S
+definitive manner, would be some independent evidence more classical stepwise approaches, such as supertree methods =
+based on shared molecular events other than point substi- (reviewed in [19]) or, in the case of incomplete lineage sorting, =
+tutions.

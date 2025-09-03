@@ -1,0 +1,11 @@
+If f>2 the dominant
+terms are the pair for which Ap, is largest, and since 4, +0, g, is an oscillatory function
+of n, whose order lies between n~! and n'*~!, since (from § 4-1), Ay, <4
+
+Essentially because of (4-39), an improved estimate of g,,(q?) is to be sought by displacing
+the ‘finite parts’ of the paths of integration in (4-29) as far as possible to the right. For the
+first integral the path gets caught on the branch points v = -+-ic, and it is from these that the
+principal part of the integral is contributed. Hence the remainder term in (4:40) can be
+shown to be in fact O{n~! (log n)~3}.
+
+4:7. Calculation of g,(q?). The best method is to use the differential equation (2-8).

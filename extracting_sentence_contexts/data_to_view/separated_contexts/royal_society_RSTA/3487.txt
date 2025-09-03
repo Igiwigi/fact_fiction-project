@@ -1,0 +1,8 @@
+The interval | is partitioned into n +1 closed intervals with boundaries
+at the observed points {x;}'!_,. Each of these intervals is assigned a random weight W;, drawn
+from a Dirichlet distribution. Note that this Dirichlet distribution with n+ 1 unit parameters
+is in fact the uniform distribution on the unit simplex A”, as can be seen from equations (3.1)
+and (3.2). Realizations of the posterior distribution Ff (figure 2b) have a natural interpretation in the
+DS theory of belief functions [11]: a probability mass Wj is assigned to the elementary events
+[x@-1),x(], from which a belief function on IC R can be constructed. This assignment is inherently
+‘imprecise’ in the following sense.

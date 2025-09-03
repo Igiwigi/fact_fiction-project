@@ -1,0 +1,20 @@
+In both cases, the system is analysed in terms of an equivalent linear damper,
+whose value changes with excitation level. Although the focus of this paper is on systems with
+positive values of both linear and nonlinear damping, which are thus stable, it is noted that
+the amplitude response of an unstable system, with negative linear damping, can be limited by
+positive nonlinear damping, as described by Rayleigh [1]. In fact, amplitude stabilization of such : =
+
+instabilities occurs in the human cochlea, where the resulting limit cycle oscillations are known Sy
+as spontaneous otoacoustic emissions [15]. 2
+
+For sinusoidal excitation, it is seen that such an equivalent linear damper can be obtained aed
+by retaining the fundamental term in a harmonic balance analysis, which is equivalent to _
+the describing function approach used in control engineering. Closed-form solutions for the : Ss
+equivalent linear damper can be obtained, in terms of the driving level, for a single-degree-of- DNS
+freedom system will low-order nonlinear damping, but iterative methods need to be used for : =
+higher order nonlinearities or in MDOF systems. For random excitation, it is shown that an error : s
+
+minimization technique, a series truncation approach and an equivalent power method all give
+the same expression for the equivalent linear damper, which is equal to the cross-correlation
+between the damping force and the velocity, divided by the auto-correlation of the velocity, both
+at zero lag.

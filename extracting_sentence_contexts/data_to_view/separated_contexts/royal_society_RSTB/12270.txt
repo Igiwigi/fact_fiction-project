@@ -1,0 +1,19 @@
+Similarly, in environments detes were slightly over-represented in the MetaCyc database
+with heterogeneous resources, adaptations to make use of mul- while Acidobacteria and Planctomycetes were under-rep-
+tiple resources may have a negative impact on growth rates [8]. resented. The under-representation of Acidobacteria (only 24
+It should be borne in mind, however, that the conditions in soil Acidobacteria present in MetaCyc, compared with more than
+may limit the range of life-history strategies that can flourish. 5000 Proteobacteria) was the main difference between the bac-
+
+teria in the database and the dominant phylotypes from across
+the globe. This was probably due to the fact that Acidobacteria
+are notoriously difficult to isolate from soil [48].
+
+(a) Bacterial catabolic breadth, growth rates Having established that the database was reasonably
+
+and phyl ogeny representative, we determined the relationship between degra-
+In order to test whether there were indeed trade-offs between dation/utilization/assimilation pathways and phyla, using
+catabolic breadth, growth rate and carbon use efficiency, we only strains from phyla for which there were at least 10 entries
+analysed the predicted metabolic functions of a number of in our soil bacteria database. The number of pathways varied
+bacterial strains found in soils that were stored in the MetaCyc widely across the strains, ranging from 14 to 139, and there
+database [45]. We determined the relationship between the were significant differences in the average number of pathways
+number of degradation/utilization/assimilation pathways among phyla (between 45 and 70; figure 1).

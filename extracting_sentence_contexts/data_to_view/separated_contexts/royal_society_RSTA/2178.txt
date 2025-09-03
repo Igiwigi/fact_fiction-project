@@ -1,0 +1,6 @@
+Then applying theorem 3.1, we deduce that
+it is a torus. If N has a boundary, it must lie on 0M and since it is invariant under a non-vanishing
+field X, the boundary consists of finitely many periodic orbits. The fact that X is non-vanishing
+and tangent to the boundary of the level set implies that the pullback of # to the boundary is
+non-vanishing as well. By remark 3.7, the first case of theorem 3.4 can be applied. Hence, N is
+an orientable surface with boundary that fibres over S!, thus it is a cylinder.

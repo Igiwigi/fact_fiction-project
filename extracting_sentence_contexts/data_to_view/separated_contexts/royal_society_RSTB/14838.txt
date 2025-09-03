@@ -1,0 +1,12 @@
+The geostatistical alternative
+relevant guideline is the Transmission Assessment Survey, The example summarized in figure 1 may convince the
+or TAS [2]. The key purpose of the TAS is to determine reader, as it does the authors, that location matters. Expressed
+whether the mean antigenaemia prevalence is below 2% in in more formal statistical terms, the fact that observed values
+areas where Anopheles or Culex is the principal vector, or of prevalence are predictive of unobserved values at nearby
+1% where Aedes is the principal vector [2, §7]. locations is a consequence of the existence of spatial correlation. The LF TAS is a 30-site survey, with sites typically selected If P1 and P2 are the (unknown) values of prevalence at two
+by drawing up a list of all potential sites and taking a sys- locations, 0? is the a priori variance of P1 or P2 and p is the
+tematic sample of every kth site from a random starting correlation between P1 and P2, then the variance of P2
+point, where k is chosen to result in a sample of size 30. given P1 is o(1-p?), which is less than o” unless p=0. The
+The total sample size is prescribed, based on the total correlation is spatial if the value of p depends on the corre-
+target population in the EU, as is a corresponding critical sponding locations, typically as a function of the distance
+cut-off of positive cases for measuring the target threshold between them.

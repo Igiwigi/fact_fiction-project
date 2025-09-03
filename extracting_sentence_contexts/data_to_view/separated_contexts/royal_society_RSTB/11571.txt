@@ -1,0 +1,15 @@
+Potential improvements compared to the real connectome structure. Here, we
+
++ . . _ extend the analysis presented in the original paper, finding
+(a) The connectivity data are likely naccurate—how do that the predictions are robust to 420 random weak link
+
+they affect the analysis? deletions (figure 5). The fact that we can delete as many as
+The extraordinary mapping efforts by the authors in White et al. 14% of the weak links and rewire or add as many as 3%
+[16] have still not been rivalled 30 years later, and continue to fuel [12], and still recover our predictions, suggests that the
+new insights on C. elegans [12,30]. Remarkable as this very special control framework employed by the worm is robust to
+dataset is, however, it is naturally imperfect. EM sections were significant differences in the network—ie. its wiring is
+reconstructed from five partial worms—primarily N2U and such that it can maintain controllability even taking into
+JSE (adult hermaphrodites), then N2T for the anterior nerve account a high level of variation in the fine detail of the
+ring (adult hermaphrodite), N2Y (adult male) for the section connectivity patterns.
+between N2U and JSE, and finally JSH (L4 larva) to check con- A small section of the posterior worm body was never
+nectivity in the nerve ring (figure 1).

@@ -1,0 +1,18 @@
+Such neural
+constructions. accumulation and reset activity has been identified within
+
+Having recoded a linear sequence in terms of its dependen- human intracranial recordings in subjects listening to sentences
+cies, it is possible to recover one or more specific items from the containing words that accumulate into phrases [28]. Further-
+representation of hierarchical structure by unbinding using more, representations of constituents might not persist
+keys that specify context-specific position(s). With reference beyond the need to encode the reduced dependency represen-
+to figure 3 and using this method: the key 712 will recover tation, a fact that highlights an interesting property of the
+all position-item bindings of the first chunk; the key 727 model: detectable neural delay activity does not need to persist
+will recover the second item of every chunk (with each still throughout working memory maintenance of the input
+bound to information on the requisite chunk position); sequence, consistent with recently reported findings on the
+and the key 7(2? ® 12) will recover the second item of neurobiology of working memory [115].
+the first chunk. This flexible decoding scheme is important It must be emphasized that the flow diagrams in figure 3
+because it readily supports manipulation of entire chunks only show symbolic information flow. There are likely to be
+and generalization of dependencies to multiple timescales. sub-symbolic influences acting over time to hone the associated
+
+A natural consequence of the above encoding scheme is neural activation patterns, requiring feedback and feedforward
+that the superposition of many dependency representations interactions between neural ensembles in the model.

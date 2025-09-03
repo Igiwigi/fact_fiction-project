@@ -1,0 +1,11 @@
+Both simulated sequences showed some
+variations in the identification results with almost the same standard deviation, making it difficult
+to confirm which grid pattern is most suitable for the method employed. Systematic errors in local phase shifting algorithm can arise from framing a grid signal close
+to binary one, black lines on a white background. Even though a high-contrasted grid pattern
+is desirable regarding a reduction of spatial noise, the high-frequency content caused by a close
+to bimodal grid distribution can locally introduce fictive distortion to framed grid images [15]. A positive effect of blurring was already presented in the case of direct extraction of strain
+
+measurements [72]. Here, the beneficial effect of slight optical blurring of the grid image used : =
+for the identification procedure is demonstrated by simply recreating a deformed sequence of : S
+bimodal grid images and comparing the identification results obtained with a VFM processor 73
+to the same image sequence with applied fast Fourier transform (FFT) blur.

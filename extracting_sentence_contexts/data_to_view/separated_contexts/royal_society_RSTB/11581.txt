@@ -1,0 +1,8 @@
+The panels, buttons and text boxes in the UL are therefore dently and had minimal overlap, there can be a significant
+created from Python and mapped to Geppetto UI components degree of shared infrastructure. Geppetto proposes an
+(figure 7a). These components are then connected to the alternative approach by exploiting this fact, allowing neuro-
+internal Geppetto API to visualize the cells and the networks, science applications to be built from reusable modules—as
+run the simulations and plot the results. The idea behind this illustrated by the overlapping blocks in figures 2-4. This
+approach was to retain backward compatibility with the strategy fits naturally into the open-source model—
+numerous existing NEURON interfaces built with Interviews components and modules are more likely to be reusable
+for various models.

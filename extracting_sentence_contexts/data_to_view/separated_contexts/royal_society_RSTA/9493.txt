@@ -1,0 +1,44 @@
+IiI—Tue Mernop or Vorticiry
+
+4—_Expressions for velocity-components in terms of vorticity
+
+Before proceeding to determine by the method of vorticity the effect of an initial
+disturbance on an assigned steady motion, we shall first develop some expressions
+for the components of velocity in a liquid confined between parallel planes _y = + 4,
+the vorticity being assigned at the instant in question. Tueorem I—Jf a liquid moves irrotationally between the fixed planes y = + b, except for
+the presence of a point-vortex of strength « at (x, ),), and if the liquid is at rest at infinity,
+then the components of velocity at any point (x,y) are given by
+
+yee: we (221) __ n (z—-z1)
+u— v=, ( tanh coat’ San coth i Vive Mba eae toe (AS)
+
+where ; , ;
+z=x+y, aA=Ai+, By — eye eee (4.2)
+
+This is a known result, or immediately deducible from known results*, since the
+system of images of the vortex in the planes _y = + 4 form two collinear rows of
+vortices of strengths x and —«. It is, however, easy to verify directly that (4.1)
+gives a motion satisfying the following conditions :—
+
+(i) The motion is without expansion and irrotational except for z = Z, : this follows from
+the fact that wu — i is an analytic function of z for any point z between the planes
+y= + db except z= %.
+
+(ii) The circulation in a circuit surrounding z, is x: this is seen from the fact that for
+such a circuit
+
+(iii) v = 0 for» = + 6: this follows from the fact that in general
+2 cos 1
+=_ = 9
+tanh SAE St Se ee -(454)
+4 4b sinh a (x + wy — *,) —7 sin aE
+
+and when y = + 4 this becomes
+ny
+2 cos wd
++ ¢ cosh a —isin ye
+a pure imaginary.
+* Lams, “ Hydrodynamics,” p. 224 (1932). VOL, CCXXXIV.—A H
+
+
+52 J. L.

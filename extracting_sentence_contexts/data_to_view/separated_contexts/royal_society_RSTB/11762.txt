@@ -1,0 +1,8 @@
+Intuitively, the Sahni algorithm
+instances do not rely on a particular computational model works as follows. Firstly, it computes all subsets of items of
+or algorithm. The fact that it has been possible to relate com- cardinality k that can be formed from the set of available
+putational resource requirements of instances to particular items. Then it considers each of these subsets and uses the
+properties of instances indicates that computational complex- greedy algorithm to fill the remainder of the knapsack to
+ity may be an inherent feature of instances and, by extension, capacity. The greedy algorithm selects items in the reverse
+classes of computational problems, as opposed to a feature of order of their value-to-weight ratio and terminates once the
+a particular computational model [46]. knapsack has reached capacity.

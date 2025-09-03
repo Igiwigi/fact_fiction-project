@@ -1,0 +1,41 @@
+First observe that for any C! vector functions x+> v(x) and x+ u(x), one has the formula
+(Vx + (u" @ u")) v= Vx (U7 vu) — (UW @u): Vyv. (3.18)
+Then use this formula with v = 71 and v = 7, respectively, to obtain:
+
+(\ -((u" ue) = (wu! @ w"): vs) _ {Fete fi?) + ao((u" Fu" z))
+Vx + ((u Zu) = (U9 @ ull): Vat + (As(U(U" « Z)(w" -Fi)) + da((u" - 2)2))
+
+Zu")
+- (4 “Aw” ‘») er)
+
+For the first term of the right-hand side of (3.19), the divergence formula (2.32) has been used,
+while for the second term (2.1), the gradient formula (2.2) has been used. Then once again one
+uses the divergence formula (2.3) to conclude the proof. a
+
+Combining the result of the Lemma above with the expression of the Laplacian in geodesic
+coordinate (2.3c) to compute Ax((u" (x) - n(x))?) and Ay@y in the right-hand side of (3.15), equation
+(3.15) yields the following basic formula for our purpose:
+
+ols)
+i
+
+- (c2oP" + 2(d6@p)(sP") + rad) . (3.20)
+
+—AP! = ( (jm . 7) + 2a6d9 (" (u - i) + JBM = a (j mw" . i)
+
+Remark 3.8. It is important to underline the fact that by the specific choice of P”, there are no
+terms involving the second-order derivative with respect to s of u” and P” on the right-hand side
+of the formula (3.20). The first consequence of formula (3.20), and the aforementioned remark, is the uniform (with
+respect to 7 and «) continuity of the function asP}, which is the objective of the following ‘trace’:
+
+Proposition 3.9. The function asP} is given by an equation of the following form:
+3
+asP}(s, )=ANs,-)+ | 2"s',-) ds’, (3.21)
+
+s
+
+with A” and &" equal to 0 for s > 6 and satisfy the estimates:
+
+A ||com((0,5,H-(R/(LZ)) S Coll" ® u")||coa¢a) + DplIP" Il-~(ay (3.22)
+and 2" Ico (0,5.H-2¢@/(LZ))) S Colle" ® w")||coa(ay + DollP"Ilt=(ay
+where Cp, Dp and positive constants, which are independent of n and a.

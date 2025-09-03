@@ -1,0 +1,11 @@
+In the OP, the ‘physical properties’ are associated with measurements instead of
+single effects, whereas ‘contexts’ are identified with joint measurements of them. This approach includes, in particular, the Bell scenario [1], in which this structure is clear. In
+fact, in a Bell test, the goal is to measure correlations between different measurements performed
+on two parts of an entangled system and located in two space-like separated regions. The typical example of such correlations is given by the Clauser-Horne-Shimony-Holt
+(CHSH) expression with the corresponding classical bound, i.e. the CHSH inequality [25]
+
+(A1B1) + (A1B2) + (A2Bi) — (A2B2) < 2, (3.5)
+
+where A; is a measurement with +1 outcomes, denoted as a;, and similarly for B;, and one defines
+(AjBj) = aba] a;bjProb(aj, bj). In each round of the experiment, a measurement on Alice’s system, say Aj, and a measurement
+on Bob’s system, say Bj, are performed (figure 2a).

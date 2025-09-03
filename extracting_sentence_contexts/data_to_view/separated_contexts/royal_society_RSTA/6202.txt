@@ -1,0 +1,8 @@
+The entire ordinal
+analysis of the infinitary proof can already be formalized in IKP. As a consequence, IKP proves
+that there is an ordinal a denoted by @ and a set s denoted by s such that Ly  C(s). This is then
+also a fact provable in CZF , and thus, since CZF~ has the numerical EP by the proof of theorem
+6.1 in [5] (just ignore the subset collection part), there are concrete such terms @,s (note that terms
+of IRSg can be assumed to be coded as naturals), which can be described by Y formulae, say
+B,(x) and Bp(x). As a result, we have CZF™ + Ala A!s[Bi(a) A Bo(s) A La ~ C(s)]. The latter being
+a Y formula, it is also provable in IKP by theorem 2.9 (i).

@@ -1,0 +1,41 @@
+Figure 12 shows the sensitivity of convergence rate of C3t0 to m, i.e. the amount of retained
+correction pairs used in the update for the Hessian approximation in the L-BFGS-B algorithm. It
+can be seen from Figure 12 that m = 3 converges more slowly than m = 5,7 or 9. The fact that using
+more Hessian correction pairs, i.e. 1 =9 over m=7, does not always lead to an improvement in
+convergence rate can be attributed to the irrelevance of gradient information from many iterations
+earlier. In the remainder of this work, we choose m = 5, as this proved to be an adequate parameter
+
+
+-17.0
+
+-17.5
+
+-18.0
+&
+
+-18.5
+
+-19.0
+
+-19.5
+
+0 20 40 60 80 100 120 140
+PDE evaluations
+
+Figure 12. Cost functional as a function of PDE evaluations within an optimization for varying amount m of retained correction
+pairs for Hessian approximation. (Online version in colour.)
+
+(@) ()
+“145
+-15/ J
+16 [ho P89SFER OOOO |
+wm 7 ERE E Se Pee ee ee To eo Sy
+
+B00 0-00
+
+3 tt
+19} | NW |) J \
+0 30 60 90 120 150 180 0 60 120 180 240
+BFGS iterations time (s)
+
+Figure 13.

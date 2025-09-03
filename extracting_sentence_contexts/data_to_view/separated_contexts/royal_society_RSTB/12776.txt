@@ -1,0 +1,7 @@
+Since each but it is conceptually the same as drift under stabilizing
+substitution can happen at a different locus, this model allows selection in fitness landscape models (§2a) [25]. The key charac-
+the assumption of an infinitely large number of loci affecting teristic of regulatory networks that allow for this system drift is
+fitness [25]. The phenotype and fitness of any hybrid or back- their redundancy, the fact that multiple genotypic states can
+cross can be computed by combining phenotypic changes lead to the same fit outcome. Schiffman & Ralph [40] show ana-
+experienced by each of the parental populations. A key factor lytically that nearly all gene interaction networks are likely to
+that affects the predictions of FGM is the shape of the fitness share this property.

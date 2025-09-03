@@ -1,0 +1,42 @@
+For this reason, we do not provide here all the details, but we point out which are the main
+differences. First of all, we observe that all the solutions are globally defined. In fact, h, g have at most linear
+growth at infinity, namely, there are constants which bound |h(t,s)|/|s| and |g(s)|/|s| for |s| large. Next, we note that for each ¢ > 0, there is a constant M; > 0 such that, for all t € [0, T],
+
+S(X)H(E) < Goo + €)x()* +Me, H(t, yD) y(t) < (loo + €)y(t)” + Me. (3.7)
+Using again the modified rotation number as in (3.4), we find the following inequality
+
+P_[P AG(t)(go0 + €)x(L? + (Itoo + 8)y(t? Rot? (zo; [a, B]) < my I, xO? + pyr
+
+dt
+
+B
+P dq(t) +1
+=—-M, | ———s dt. 3.8
+
+tae [Sa PF e®)
+Now, for any positive integer k, let us take
+
+* Qnk \? 1
+
+A(k, q) : ( ) . (3.9)
+
+4 B-a}  Scoltoo SUP iefa,p) 19)
+
+Then, for every 0 <A <A(k,q) we can find a sufficiently small ¢ > 0 and a corresponding large
+radius R > 0 (depending on 4 and e), such that for any solution satisfying
+
+x(t)? + py(t? >R, Vvte le, Bl, (3.10)
+it follows that
+
+1/2
+Rot? ((x(0), y(0)); [a, B]) < ve (« + e)(loo + €) sup a) (B—a)+e<k.
+7 te[a.,B]
+
+In this case, the suitable choice of p is given by
+
+Igo + €
+
+ap? sup |q()|=
+
+tea, Soo + &
+and R is chosen to make the second term appearing in the sum (3.8) less than ¢.

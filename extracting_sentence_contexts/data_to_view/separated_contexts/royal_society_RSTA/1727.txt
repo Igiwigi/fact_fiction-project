@@ -1,0 +1,11 @@
+The
+Monge-Ampére solver of Brown et al. [37] was applied to the resulting doses and the result is
+
+
+shown in figure 9. The doses contain large-scale structure due to the intensity modulations of
+the initial proton beam, which are compensated for using a simple high-pass filtering method. If
+this pre-processing step is not used, large fictitious transverse magnetic fields manifest, which are
+attributable to this large-scale beam structure. These large fields can obscure the desired plasma
+fields, but high-pass filtering used prevents this issue. The more statistically rigorous approach
+presented by Kasim et al. [46] would be worth exploring in future work, for comparison to our
+simple filter.

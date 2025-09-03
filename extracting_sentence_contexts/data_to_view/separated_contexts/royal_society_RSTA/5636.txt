@@ -1,0 +1,16 @@
+Therefore, it is
+mandatory to introduce approximations, or cut-offs, to manage numerical simulations of lattice
+QCD or other non-Abelian lattice gauge models [80].
+
+4. Rishons and dressed logical bases
+
+At this stage, the only missing ingredient to enable numerical simulation of the aforementioned
+lattice gauge Hamiltonians via TN methods is the selection of a physically relevant finite-
+dimensional subspace of the lattice gauge field (bond space), to be included in the simulation. We stress that in one-spatial dimension, under open-boundary-conditions, this problem can be
+circumvented by ‘accumulating’ the matter gauge-charges from one edge: this fact is notorious
+for the gauge-Abelian Schwinger model [81], but it has been recently shown to allow non-
+Abelian generalizations [82]. From two spatial dimension, this strategy cannot be exploited,
+and physically relevant cut-offs based on energy-density has to be introduced to access low-
+temperature lattice-gauge physics with TN, as routinely done when studying lattice models of
+interacting soft-core bosons [83]. Asimple, yet meaningful choice of truncation is based on the ‘electrical’ part of the pure lattice-
+gauge Hamiltonian, ie. the first row in equations (3.3) and (3.6).

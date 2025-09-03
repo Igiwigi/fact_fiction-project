@@ -1,0 +1,10 @@
+Discussion
+
+In the past decades, various techniques were developed to accelerate quantitative MRI. One
+very general way is to exploit complementary information from spatially distinct receiver
+coils, called parallel imaging (PI) [55-57]. Others make use of the fact that MR images are
+usually sparse in a certain transform domain and combined with incoherent sampling and
+nonlinear image reconstruction algorithms it is called compressed sensing (CS) [58]. Exploiting
+this prior knowledge about a compressible image, CS can recover MR images from highly
+undersampled data [59,60]. Other approaches combine PI and CS with efficient non-Cartesian
+sampling schemes [60].

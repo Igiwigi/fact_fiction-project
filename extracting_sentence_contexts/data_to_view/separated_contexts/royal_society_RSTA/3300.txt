@@ -1,0 +1,25 @@
+We caution that, even by
+neglecting the Coriolis force, there is only one explicit exact solution for the travelling gravity
+water waves—Gerstner’s wave, which describes (in Lagrangian variables) two-dimensional
+rotational gravity waves in deep-water flow [26-28]. The Gerstner solution is possible if the water
+has constant as well as non-constant density [29,30]. This remarkable fact is due to the special
+character of these waves, namely that, in a frame of reference moving with the waves, the
+streamlines are also the lines of constant pressure, and thus the stratification of the fluid, which
+makes the density different from streamline to streamline but constant on the same streamline,
+does not disturb the main structure of the dynamical equations. By including the Coriolis effects,
+Pollard [10] was able to modify Gerstner’s wave solution to describe, at a fixed latitude, free
+surface waves in a rotating fluid. Pollard’s explicit solution to the governing equations (2.1)-(2.3)
+without the centripetal term, in which @ is given by (2.4) with f and f treated as constants, the
+density of the water is taken constant too and the body force has the components (2.7), together
+
+
+with the kinematic boundary conditions and the dynamic boundary condition P = Patm = const.,
+is provided by specifying at time t the positions
+
+x=Xx9 — = e”0 sin[k(xo — ct)],
+Y=Yo + fia e™ costk(%o ~ ct] (2.8)
+c
+and z=2z9 tae” cos[k(xo — ct)]
+
+of the fluid particles in terms of the labelling variables x9, yo, 20, which do not design their initial
+position.

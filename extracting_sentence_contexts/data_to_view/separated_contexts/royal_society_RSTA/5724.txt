@@ -1,0 +1,42 @@
+Only data for liquidus and solidus
+lines were used for the optimization. For liquidus, the equilibrium phase diagram data from the
+COST507 database [1] with an uncertainty of 0.1 were used. For solidus, the equilibrium phase
+
+
+Al-Cu
+l atm Facts"
+
+1400
+1200
+
+1000
+g Al-fee
+
+= 800F
+600
+
+400
+
+200
+
+0 0.2 0.4 0.6 0.8 1.0
+Cu/(Al + Cu) (mol/mol)
+
+Figure 8. Comparison of the optimized metastable fcc/liquid equilibria with the equilibrium Al-Cu phase diagram. (Online
+
+version in colour.)
+
+Table 2. Phase designations and parameters of the Gibbs energy equations from C0ST507 database [1] and newly assessed fcc
+for Gibbs energy in J/mol and temperature T in K.
+
+(Al, Cu) from [1] Fc; (Al, Cu) from [1] optimized fcc; (Al, Cu)
+Lire, = 61094 + 8.555*70 L056, = —53520 + 2°7 Le, = 24810 — 20.53°7
+IA | = 3248 — 7.187 Ur Sg = 38590 — 2°T Lg = 28284 + 9.2487
+Lard, = 5915 — 5.889°T OFS, = 10 US, = — 11968 + 19.76°T
+3, Liq
+
+Uxy cy = — 8175 + 6.049*T
+
+diagram data from the COST507 database [1] with an uncertainty of 0.1 and the simulation results
+for diffusion-controlled growth down to 691 K (figure 7) with an uncertainty of 0.1 were chosen for
+optimization.

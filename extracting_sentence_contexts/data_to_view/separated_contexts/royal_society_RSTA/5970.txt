@@ -1,0 +1,73 @@
+If we now additionally assume that the growth rates are all equal and in particular—
+since a rescaling of the modulus of r does not affect the feasibility—that they are equal to 1, then
+the steady-state components are randomly distributed with mean and variance given by
+
+1
+E[xi] = dp
+(B8)
+— 1)?
+and Var[x;] = CE = Dor
+a
+B
+This shows that the mean value of x7 is always positive and depends only on dg, the other
+parameters S, C and o being involved only in the spreading around it. In particular, the larger
+the system size S or the connectivity C of the interactions, the more spread are the x7, the more
+likely some components are negative. Indeed, as reported in the main text, a good estimator for
+the probability for the feasibility condition to hold is given by the quantity
+
+[> N(x; | Elxi], Varlx;)dx; = serfe |- a (B9)
+0
+
+This can be seen also considering explicitly the feasibility condition, given by equation (B5),
+which in this case becomes
+
+Ss M;
+ij .
+—_— Vi=1,...,S.
+ae >0 Vi=1,...,S (B10)
+=
+
+Defining the random variable z; as z; = Yea My, we are interested in estimating its probability
+density function p(z;), so that the feasibility condition translates in computing the probability
+
++00
+Prob(z; > —dg) = | p(zi) dz;. (B11)
+d
+
+—aB
+This can be easily computed by mean of the law of total probability
+
+s-1
+
+p(zi) = Y> pilN) pN), (B12)
+N=0
+
+where p(N)-the probability that the i-th row of M has exactly N non-zero distributed entries over
+the S — 1 off-diagonal elements-is a binomial distribution, since the outcome in each entry of M
+
+
+is a Bernoulli trial with probability C
+
+p(N) =CN (1 — C)S-1-N Cx ‘); (B13)
+while
+5(z;) ifN=0
+iIN) = B14
+ptzilN) (e Noz) ifN>0, (B14)
+
+where the factor N in the variance comes from the fact that z; is the sum of N normally distributed
+terms with variance o. Therefore,
++oo S=1
+Prob(z;>—ds) =|” plN)pCailN) de
+~43 N=0
+S-1 S—1 +00
+=(1-9514 Sc = oN( ) [_, NGi10, No*) aa;
+N ~dp
+N=1
+ca s-1\1 d
+=(—-O8 14 cN 108 E8( ) gerte [- B | B15
+a-c) > a-c) n )3 Nop (B15)
+and since this condition should hold for each row i,
+Prob(feasibility|S, d, c, og) = [Prob(z; > —dp)]°. (B 16)
+
+The main advantage of this equation is its closed-form fashion. On the other hand, it becomes
+computationally hard to be computed for large S.

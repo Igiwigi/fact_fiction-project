@@ -1,0 +1,16 @@
+Bars show the mean of the standardized frequency of behaviour. Standardization was done by subtracting the mean from each data point and dividing by the
+standard deviation. Error bars are given by the standard error of the standardized frequency of behaviours. (e) Unrelated helpers (purple) provide more help than
+related ones (green; [22]). (f) After subordinates have been prevented from giving help (dark blue), they compensate by increasing their previous help and sub-
+mission level (light blue), presumably in an attempt to appease the breeder [19,25]. (g) Aggression levels in the group are normally very low (cream), but they
+increase considerably when subordinates are experimentally prevented from helping (red; [25]).
+
+behaviour among animals focus on either one or the other explicitly from the life histories of individuals, inspired by
+explanatory concept, but the two mechanisms are not a well-studied biological system that is very suitable to ana-
+mutually exclusive and, in fact, often act simultaneously lyse how kin selection and responsive strategies interact
+[12,13]. Moreover, the coexistence and collaboration of both when generating cooperation. To complement our simu-
+related and unrelated individuals within breeding groups is lations for this particular model system, we also develop a
+widespread in social animals [13,14]. general mathematical argument to illustrate the formal
+In the theoretical literature, there is a lack of consensus logic behind our main results.
+about the consequences of the simultaneous action of We first present an individual-based simulation model
+relatedness and responsive strategies for the evolution of that is inspired by the cooperatively breeding cichlid
+cooperation.

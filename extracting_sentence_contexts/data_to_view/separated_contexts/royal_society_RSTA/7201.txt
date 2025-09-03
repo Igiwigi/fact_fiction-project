@@ -1,0 +1,23 @@
+Some distinctive features of the analysis
+
+With reference to the foregoing analysis, it is worth emphasizing several points, an
+appreciation of which will help to clarify the subsequent work.
+
+(1) A method of solution which is physically straightforward is to express the incident
+cylindrical field as an angular spectrum of plane waves, choosing a path of integration which
+is such that the individual plane waves are essentially ‘down-coming’, thus avoiding any
+ambiguity in deriving the corresponding reflected field. The resulting integral is con-
+veniently handled by the method of steepest descents.
+
+(2) The mathematics of the problem is characterized by certain poles and branch-points. In distorting the original path of integration to that of steepest descents no pole is ever
+captured; but a complication arises from the fact that one may lie very close to the
+saddle-point.
+
+(3) When the earth is homogeneous there is symmetry about the plane through the line-
+source T and its image 7” (figure 5). This symmetry expresses itself in the analysis by the
+appearance of two relevant pairs of singularities, P,, B, and P,, B, (figures 7, 8). The former
+
+come into play when y =7, the latter when 7 +0.
+
+(4) In Sommerfeld’s method of solution a different complex plane of integration is
+adopted in which the poles P; and P, appear in the upper sheet of the Riemann surface.

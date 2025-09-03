@@ -1,0 +1,16 @@
+That is why it is now widely used. More refined models
+(such as mixture of gamma or Dirichlet processes) might
+nevertheless prove to be useful for solving difficult
+questions.
+
+(3) Heterogeneity of the substitution process across sites. The fact
+that only a few amino acids are possible at a given pos-
+ition (e.g. charged or hydrophobic amino acids) was
+established by biochemists a long time ago, but it has
+attracted the attention of phylogeneticists only recently
+[42,43]. This is surprising because the efficiency of the
+detection of multiple substitutions is much higher
+when the number of possible character states is reduced
+[25]. CAT-like models [43] use a Dirichlet process to affili-
+ate individual sites to different CATegories defined by
+their character state frequencies.

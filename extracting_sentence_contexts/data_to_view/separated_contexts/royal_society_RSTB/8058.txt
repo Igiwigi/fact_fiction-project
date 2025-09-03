@@ -1,0 +1,35 @@
+The flows F; are specified in figure 3. The symbol T is the temperature, R denotes the
+gas constant and yu; are chemical potentials.
+
+transformation constitutive equation thermodynamic force
+
+CR interaction Fer = &crCc(Cr — Cw/Keg) Xcr = —((1 — ger) Mw + IcRMc — MR)/T
+
+P-R interaction For = gprCp(Cr — Cw/Keq) Xpr = —((1 — gpr) Mw + QpRMp — MR) /T
+
+P-—C interaction Fec = gpcCcCp Xpc = —((1 — apc) My + pcb — Mc) /T
+
+C turnover Fac = dcCc Xac = —(bw — Mc)/T
+
+P turnover Fap = dpCp Xap = —(My — Mp) /T
+
+abiotic oxidation Fac = kac(Cr — Cw/Keg) Xac = R In(KegCr/Cw)
+
+R exchange FR = ag(CR — Cr) Xp = R In(CR/CR)
+
+W exchange Fy = ay (CY, — Cw) Xw = R In(Ch,/Cw)
+
+calculated as the product of that flow with a corre- approximation for large reservoirs with a slow relax-
+
+sponding thermodynamical force xX; (Nicolis & ation time. In actual fact, the environment cannot
+
+Prigogine 1977; Kondepudi & Prigogine 1998): reside in a steady state, as can be seen from the entropy
+balance (3.14) of the total set-up. When applying the
+
+a = FX. (3.16) steady-state condition, only the ecosystem term
+
+The expressions for the flows F; were already listed in S,y,/dt vanishes, and so one obtains
+
+table 1. The expressions for the associated forces X; ds .
+
+are listed along side.

@@ -1,0 +1,24 @@
+With these factors identified, instead of computing reconstructions for each
+
+
+problem separately in equations (2.2) and (2.4), we aim to recover both reconstructions jointly
+by minimizing the following joint functional:
+
+WE, y) = IV — Urrr(y 3 + llttm — Ugser(E)Iz + (7, E) + Ally il + AMIEL, (2.5)
+
+where U (and the appropriate subscript) represent the nonlinear forward models, a is the JTV
+weighting parameter and A is the L! regularization parameter. We here included the L'-norm
+as regularizer to first stabilize the inversion process and secondly promote sparse crack-like
+structures. We note that the sum of the total variation and the L!-norm in fact defines the norm
+for functions of bounded variation (BV), thus the penalty in equation (2.5) can be considered as a
+BV-regularization term. Nevertheless, we need to carefully adjust the JTV regularizer to the problem at hand, since a
+primary concern in the joint recovery for EIT-QSEI imaging is to preserve the quantitative values
+for both modalities, while benefiting from shared information on regularity and edge alignment. To achieve this, we first write the JTV functional J in the discrete form as follows:
+
+H 25
+Jv, E) = ° VV vil? + Ie VEnI2 + B, 26) 33
+h=1 .
+
+where h refers to a given element in the discretization, H are the total number of degrees of eal
+freedom in the discretization, V is the finite difference operator, « refers to a crucial scaling ae
+parameter (to be discussed later) and f is a small parameter needed to make J differentiable.

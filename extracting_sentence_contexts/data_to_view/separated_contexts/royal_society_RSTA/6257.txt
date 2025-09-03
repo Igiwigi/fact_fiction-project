@@ -1,0 +1,13 @@
+Even more dramatically, the slab’s surface can induce a
+structure for the monolayer, which does not even correspond to any local minimum structure
+of the substrate-free pure two-dimensional monolayer. Such effects are taken advantage of in
+atom beam epitaxial growth of thin films of specific crystalline structures [47,48], or during
+heterogeneous nucleation of particular phases [49,50], and analogous phenomena are involved
+in stabilizing metastable layered compounds [51,52]. Closely related is the fact that the atom level
+granularity of the substrate surface will move the atoms of the monolayer slightly out of the
+perfect two-dimensional plane, i.e. we would need to describe the atom positions in this layer via
+both the x- and y-coordinates parallel to the substrate surface and the orthogonal z-coordinate. Thus, the monolayer deposit is not perfectly two-dimensional, but exhibits a slight (spatially
+varying) deformation into the third dimension, with non-trivial consequences for the modelling
+of the system and the implementation of the global search for structure candidates, which can no
+longer be restricted to purely two-dimensional atom configurations. A second major difference to the structure prediction in three dimensions concerns the
+moveclass of the search algorithm.

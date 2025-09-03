@@ -1,0 +1,9 @@
+Additional advantages of the method reside in (i) its simplicity (we need few parameters:
+the pattern length/embedding dimension D and the embedding delay r) and (ii) the extremely
+fast nature of the pertinent calculation process [40]. The Bandt and Pompe methodology can be
+applied not only to TS representative of low dimensional dynamical systems, but also to any
+type of TS (regular, chaotic, noisy or reality based). In fact, the existence of an attractor in the
+D-dimensional phase space is not assumed. The only condition for the applicability of the Bandt
+and Pompe method is a very weak stationary assumption: for k < D, the probability for x¢ < x;4
+should not depend on t. For a review of Bandt and Pompe’s methodology and its applications
+to physics, biomedical and econophysics signals, see Zanin et al. [41].

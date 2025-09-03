@@ -1,0 +1,7 @@
+The mix-norm also appears to be a good proxy at larger Pe. As shown in figure 2, for flows
+with Pe = 500, we can see that the optimal perturbation OA(0,5,500) has the steepest decay for
+early times, unlike in the Pe = 50 case where all fields had a similar decay. In fact, we observe that
+the variance-optimal field continues to decay up until at least the time t = 64. This is in contrast
+to what was observed at Pe = 50 where the plot approaches a constant value, indicating purely
+diffusive mixing, with no advection-enhanced homogenization. This is due to the persistence of
+small-scale structures in flows at higher Pe which continue mixing after the chosen target time.

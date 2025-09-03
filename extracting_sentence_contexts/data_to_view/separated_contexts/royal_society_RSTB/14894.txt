@@ -1,0 +1,25 @@
+Figure 2a shows that the weight participants placed on the
+intrinsic-only cue relative to the auditory cue is positively cor-
+related with the optimal prediction (r = 0.536, p = 0.002),
+suggesting participants weight the cues according to their
+
+This formulation is reliant on small discrepancies between
+visual and auditory stimuli (less than 10 visual degrees), for
+large discrepancies subjects might instead rely on a causal
+inference model [40,45]. The empirical weights were determined by modelling
+responses to the incongruent trials as
+
+r = (1 — wp)(@yxy + Wax) + 0.5tp + €,
+
+where wp estimates the strength of the central tendency bias reliabilities. Figure 2d shows that empirical and optimal
+(for this cue pairing), wy estimates the weight placed on weights do not differ significantly (tp = —1.74, p = 0.092),
+the visual cue (the intrinsic-only or intrinsictextrinsic cue: although the Bayes factor (BF) in favour of the null is approxi-
+w, or We), ta = (1 — wy) estimates the weight placed on mately 1, suggesting both the null and alternative hypotheses
+the auditory cue, x, is the centroid of the dot cloud (the are equally good explanations of the data (BFO1 = 1.34).
+same as the visual cue source location for the intrinsic-only Figure 2b shows that the weight participants placed
+cue but not for the intrinsic+extrinsic cue), x, is the source on the intrinsic+extrinsic cue relative to the auditory cue
+location of the auditory cue, and e€ ~ N(0,02) is a noise term. is also positively correlated with the optimal prediction
+To allow for the fact that we assume subjects receive a noisy (r = 0.524, p = 0.003), again suggesting participants weight
+(uncertain) input, the perceptual cues had noise with variance the cues according to their reliabilities. However, most
+of of and 0%, with wy = 03,/(o% + 07). A participant with a points are above the identity line (empirical weight greater
+veridical estimate of their own relative perceptual uncertainties than optimal).

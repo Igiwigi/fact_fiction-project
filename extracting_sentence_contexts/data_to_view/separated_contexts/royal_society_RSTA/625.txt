@@ -1,0 +1,29 @@
+Hence, other optimization techniques can be applied to arrive at the best
+results in terms of image resolution and computation time. One important optimization
+would be to implement this algorithm in high-performance computing such as GPU. In addition to the fact that the level set approach does promise to make an ill-posed problem
+better behaved, it offers other advantages such as the following:
+
+— the level set method allows one to perform numerical computations of a geometrical
+object containing curves and surfaces on a fixed Cartesian grid without the need to
+parametrize such objects;
+
+
+— the level set method has the ability to follow shapes with changing topology (i.e. split in
+to multiregions, develops holes or vice versa);
+
+— the level set method does not require any a priori assumptions about the topology (i.e.
+spatial location) or the nature (i.e. shape and size) of the inclusion;
+
+— the level set method is well suited for high-contrast image reconstruction with sharp
+boundaries, because the high-contrast inclusion is incorporated explicitly in the level set
+model without it dominating the entire region and overshadowing the other low-contrast
+inclusions, unlike traditional regularization-based techniques, which have the limitation
+of oversmoothing the reconstructed image especially when a high-contrast inclusion is
+dominating the region. Because of such advantages, the level set method has a great potential for shape reconstruction i
+applications and thus for multiphase image reconstruction. =
+
+6. Conclusion is
+
+The results in this paper demonstrate the potential and feasibility of the proposed level set iw
+technique for detecting, locating and characterizing all the different phases possibly appearing :
+in a multiphase process.

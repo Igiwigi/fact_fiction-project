@@ -1,0 +1,9 @@
+If, in one population, variation in a marker tends to be correlated with that of a particular gene (i.e. the
+marker and gene are in LD), but in another population LD is lower, a PRS developed using the first population will not be as
+predictive in the second. Point (vi) simply notes the possibility of random errors; while this concern is considerable in GWAS, it is generally thought that
+markers found to be associated at the standard, very strong, statistical significance levels are unlikely to be spurious. The same
+cannot be said of the weaker associations used in PRS, many of which are in fact likely to be mis-estimated or entirely spurious. Note that more than one of these problems may occur in any particular GWAS and that these different issues can interact
+in potentially complex ways. More recently, Mathieson [66] has suggested that the ‘omnigenic model’ (in which many loci contribute indirectly to
+variation in many traits) can explain the failure of polygenic scores developed in one population to be predictive in
+others; he argues further that since PRS likely rely so heavily on loci with only indirect relationships to the trait in question,
+we should not expect them to be ‘robust clinical targets’.

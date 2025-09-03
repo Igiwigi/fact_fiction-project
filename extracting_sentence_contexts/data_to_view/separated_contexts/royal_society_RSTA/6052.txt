@@ -1,0 +1,15 @@
+We introduce the forsion-flexure (wryness or curvature) tensor as the gradient of the rotation field:
+
+xX=gradg, ie. xj =Gi;- (2.3)
+
+In light of the connection (2.2) and recalling that tr grad = div, it is seen that x is purely deviatoric,
+ie. x = x. Here, the divergence operator on rank-2 tensors operates on the second component,
+ie. (div s)j = si;. For a linear elastic CS material, we have the constitutive law
+
+w=CGx,
+
+where ¢ > 0 is a characteristic length related to the microstructure and G is the rank-4 tensor of CS
+moduli possessing the major symmetry property gjjxj = gxj- Immediately it appears that, to any
+effect, 4 may be replaced by zn? and, in fact, the CS theory is said to be indeterminate based on
+the observation that the first invariant of the CS tensor, ie. tru = - 1 = 11 + 22 + 433, remains
+indeterminate. Therefore, we are free to set it equal to zero without any loss of generality, i.e. Siikl = Ski = 0.

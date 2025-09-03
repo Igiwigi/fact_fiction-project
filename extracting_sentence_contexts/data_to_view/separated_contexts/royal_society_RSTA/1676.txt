@@ -1,0 +1,20 @@
+In particular, the famous
+representation theorems of Gelfand for commutative C*-algebras (e.g. [4, Section 1.4]) and
+Kakutani for AM-spaces (e.g. [5, Section IL.7]) imply that the categories of topological dynamical
+systems on compact spaces on one hand, and strongly continuous semigroups of unital algebra or
+lattice homomorphisms on unital commutative C*-algebras or on unital AM-spaces on the other
+hand, are equivalent. :
+
+We are interested in extending the Koopman theory to the more general framework of [gS
+semiflows on completely regular spaces. First results in this direction have been given in [6-10] :
+for dynamics on metric spaces. The interest in this very general class of topological dynamical
+systems stems from the fact that they often arise from the solutions of abstract Cauchy problems
+ona Banach space E of the form
+
+u'(t)=Au(t) fort>0,
+u(0) = uo,
+
+where A: dom(A) > E is a (generally nonlinear) map defined on a subset dom(A) of E and ug €
+dom(A) is a fixed initial value. These, in turn, can be used to give a functional analytic description
+of (nonlinear) evolution equations (e.g. [11-14]). In this article, we describe a Koopman linearization of dynamical systems on completely
+regular spaces (e.g. subsets of Banach spaces).

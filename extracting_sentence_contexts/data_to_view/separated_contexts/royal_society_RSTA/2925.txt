@@ -1,0 +1,42 @@
+Therefore, the function to be minimized (corresponding to minimizing initial delocalization)
+for obtaining correct ICs for a generalized LPT is the term in the parentheses in equation (6.3):
+
+A UA 1 1, 8 f
+EB L4l —— A
+MUL) >, 3 t gto sav Iio, (6.4)
+
+where there is the constraint ti 1,0 € [0,1]. The minimum point of the function in equation (6.4) is
+
+afin 1. 8 & 64
+Io > 9 argmin (Sho = iso) = = © 0.657. (6.5)
+ko 2 ba 1
+hu 1,0€[0,1]
+
+The corresponding finite though small minimum delocalization (coupling) energy (in k units)
+reads:
+1 32
+
+Emin = — + ~ 0.0048. 6.6
+M Koo 3 xt (6.6)
+
+Had we used ginf instead of gy, we would have obtained the result ie Ke 3 * 0.667 instead
+130
+of 0.657. Next, employing equations (3.19)-(3.21), (4.6), (6.3), (6.5) and (6.6), we obtain the IC for the
+averaged Hamiltonian corresponding to the (generalized) LPT:
+
+64 x? 64\?7 1 «16 64\~?
+h ) | No + = 4 N?-
+er(Y > 0. % hoot 16 ( =) 3 4572 ( “)
+
+1 32). m4 (1 32\-
+‘ (5 ~ =) Ker N>1 16. + (5 ~ =) Ker. (67)
+The notation hcr(0,0) was used in equation (6.7) due to the fact that sin?(y/2) =hio /N? =
+(64/24N?) nae 0 and hence yp — 0 (and the choice #9 = 0 was already justified earlier). The value
+>
+
+of N becomes very large for vanishing foundation stiffness because N* = J + fz and the actions
+are both normalized by k; and thus their sum becomes large for k; — 0 because in the impact
+regime at least one of the (non-normalized) actions is at least finite (and positive). The subscript ‘cr’ was used for both the Hamiltonian and the coupling due to the fact that
+some of the assumptions used in the asymptotic derivations presented above are justifiable only
+in the case of considerable energy exchange between the modes, which for the generalized LPT
+corresponds to the critical case.

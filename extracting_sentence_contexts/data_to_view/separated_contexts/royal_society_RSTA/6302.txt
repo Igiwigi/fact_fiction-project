@@ -1,0 +1,45 @@
+These
+
+Specifically, we could allow a backward step when all the produced sub-goals can be expressed with already existing objects. Multiple steps might then be needed to construct the necessary objects to apply a backward step. This would overcome the
+fact that, in proof assistants, backward steps typically allow the immediate, arbitrary instantiation of existential quantifiers as
+long as the result type-checks, thus allowing infinite options.
+
+
+real : type.
++: [real -> real -> real]. - : [real -> real -> real].
+* ; [real -> real -> real]. / : [real -> real -> real].
+
+/* Commutativity */
++_comm : [((+ 'a 'b) : real) -> (= (+ 'a 'b) (+ 'b ‘a))].
+* comm : [((* 'a 'b) : real) -> (= (* ‘a 'b) (* 'b ‘a))].
+
+/* Associativity */
+
++_assoc_l : [((+ (+ 'a 'b) 'c) : real) -> (= (+ (+ 'a 'b) 'c) (+ 'a (+ 'b 'c)))].
++_assoc_r : [((+ 'a (+ 'b 'c)) : real) -> (= (+ 'a (+ 'b 'c)) (+ (+ ‘a 'b) 'c))].
+-+_assoc : [((- (+ 'a 'b) 'c) : real) -> (= (- (+ 'a 'b) 'c) (+ 'a (- 'b 'c)))].
++-_assoc : [((+ (- 'a 'b) 'c) : real) -> (= (+ (- 'a 'b) 'c) (+ 'a (- 'c 'b)))].
+*/_assoc_r : [((/ (* ‘a 'b) 'c) : real) -> (= (/ (* ‘a 'b) 'c) (* 'a (/ 'b 'c)))].
+*/_assoc_l : [((* (/ ‘a 'b) 'c) : real) -> (= (* (/ ‘a 'b) 'c) (* ‘a (/ 'b 'c)))].
+
+/* Distributivity */
+
++*_dist_l : [((+ (* 'a 'c) (* 'b 'c)) : real) -> (= (+ (* 'a 'c) (* 'b 'c)) (* (+ ‘a 'b) 'c))].
+-*_dist_l : [((- (* 'a 'c) (* 'b 'c)) : real) -> (= (- (* 'a 'c) (* 'b 'c)) (* (- ‘a 'b) 'c))].
+
+/* Identity and null elements */
+
++0_id : [((+ 'a 0) : real) -> (= (+ 'a 0) 'a)J. -O_id : [((- 'a 0) : real) -> (= (- 'a 0) 'a)].
+*1_id : [((* 'a 1) : real) -> (= (* 'a 1) 'a)J]. /1_id : [((/ 'a 1) : real) -> (= (/ 'a 1) ‘a)].
+*Q null : [((* 'a @) : real) -> (= (* 'a 0) 0)].
+
+/* Operations on both sides of an equation */
+
+add_eq : [(= 'a 'b) -> ('c : real) -> (= (+ 'a 'c) (+ 'b 'c))].
+sub_eq : [(= 'a 'b) -> ('c : real) -> (= (- 'a 'c) (- 'b 'c))].
+mul_eq : [(= ‘a 'b) -> ('c : real) -> (= (* 'a 'c) (* 'b 'c))].
+div_eq : [(= 'a 'b) -> ('c : real) -> (= (/ 'a 'c) (/ 'b 'c))]. Figure 2. Axioms in Peano used to formalize the sections of Khan Academy that we study.
+
+sections assume a student who starts with the knowledge of how to evaluate the basic operations
+with known real numbers, as well as various properties of these operations (e.g. commutativity
+and associativity).

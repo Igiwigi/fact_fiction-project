@@ -1,0 +1,10 @@
+Additionally, in these figures, we also show the distributions of three measures: the quantity
+5F, mentioned above, and the norms of difference between the consecutive iterative steps
+WRiga — Rn lo, Wy — Zi lz, to provide a fuller picture of the numerical method’s rate of
+convergence. One can observe in figure 3 that the iterative method (3.6) converges faster (in terms of the
+number of iterations) and gives more accurate results for higher values of L,. However, it is
+important to account for the fact that functions Z*(t) and R~(f) oscillate with frequencies that
+grow as we increase L,. and, consequently, a larger number of mesh nodes N are needed to account
+for this. This, in turn, makes each individual iteration more time-consuming. To further clarify this point, and the dependence of the final algorithm on the number of
+integration points N, in figure 4 the same graphs are provided for fixed N = 800 with differing
+values of L,.

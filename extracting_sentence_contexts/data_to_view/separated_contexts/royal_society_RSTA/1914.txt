@@ -1,0 +1,7 @@
+The lower mean sea level measured west of the La Hague Cape (that could be called ‘Goury
+hole’) must be detailed to confirm differences between the measurements and simulation and the
+proposed explanation that involves the mean current facing the La Hague Cape. The observations also provide the opportunity to better account for the bottom friction effect. In fact, in MARS this parameter is represented by the roughness height z0 with the formulation
+of Soulsby (1995). z0 is a calibration parameter which is set constant everywhere in MARS2D
+(0.0035 m). This parametrization could definitely be improved by adjusting this parameter
+with the real space-dependent bottom friction effect. A better representation of this parameter
+governs the reliability of the simulated hydrodynamics.

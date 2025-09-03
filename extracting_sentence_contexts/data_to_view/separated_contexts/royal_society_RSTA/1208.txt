@@ -1,0 +1,10 @@
+Let us show how L/ estimates for the associated parabolic problems follow from the above
+properties, by general theorems. We recall that an analytic semigroup S(-) on a Banach space
+X with generator L has maximal regularity of type L1 (1 <q < oe) if for each f € L1([0,T], X) the
+function t+ u(t) = Jo S(t — s)f(s) ds belongs to w!4((0, T], X) 9 L4((0, T], D(L)). This means that the
+mild solution of the evolution equation
+
+u'(t)=Lu(t)+f(), > 0, u(0) =0,
+
+is in fact a strong solution and has the best regularity one can expect. It is known that this property
+does not depend on 1 <q < oo and T > 0. Let X= Ly, 1<p<o, and denote by || - ||p the operator norm in ub and L=A-—I.

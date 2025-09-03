@@ -1,0 +1,21 @@
+Modular functions and BPS state counting
+
+In supersymmetric quantum field theories and string theories, a special role is played by what
+are called BPS states. The initials BPS stand for Bogomolny, Prasad and Sommerfeld, who did
+early work analysing equations for soliton states that were later understood to be connected to
+supersymmetry. BPS states are in special, ‘short’ representations of the supersymmetry algebra
+due to the fact that some of the supercharges of the theory annihilate these states,
+
+Q*|BPS) =0. (3.1)
+
+One of the simplest contexts where counting half BPS states (meaning they preserve half of the
+supercharges) plays an important role is heterotic string theory on a six-dimensional space-time
+
+
+torus. In this case, the BPS counting function is the inverse of the famous weight 12 cusp form,
+
+1 1
+AG) ne P¥
+In more complicated situations, we have path integrals depending on t and point on the
+elliptic curve z, or path integrals involving genus two Riemann surfaces. These lead to BPS
+state counting functions that involve Jacobi forms and Siegel forms, respectively.

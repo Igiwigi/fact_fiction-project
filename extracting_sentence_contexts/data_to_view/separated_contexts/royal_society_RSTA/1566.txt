@@ -1,0 +1,27 @@
+This graph shows how the instability develops by increasing the noise intensity. Below we
+analytically determine the minimum noise intensity, Dmin, at which the instability occurs. First,
+we rewrite equation (3.1) in the canonical form
+
+dp =(-yp — 2x + Asin @i)dt — /DxsW(), dx = pdt (3.2)
+
+Here, due to the fact that the system features multiplicative noise, we have to decide whether to
+consider this equation in the Ito or Stratonovich sense. We will consider both cases, starting with
+
+
+80
+
+= 60)
+
+= 40
+
+20
+
+o-oo -e— o- ——¢
+
+0 0.05 0.10 0.15 0.20
+noise intensity
+
+Figure 2. The dependency of the spectral density of the output signal of system (3.1) at the frequency 2 for large t on the
+noise intensity D for y = 0.1, A = 0.9,A = 0.1, 2 =1,x(0) = 0.5 and x(0) = 0.1. (Online version in colour.)
+
+the former one.

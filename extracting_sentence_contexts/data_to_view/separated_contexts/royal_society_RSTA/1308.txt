@@ -1,0 +1,6 @@
+For m=5 (figure 3d,h), the picture is clear. The
+energy distance has a better approximation in all considered characteristics. Another fact that
+can be observed for m =5 is that in the last step from t = 4 to t=5, the energy distance captures
+better the path dependency than the Wasserstein distance. In a binary tree, the ratio of branches
+which go upwards and downwards is equally distributed. As 11 =5 is odd this can never be
+perfectly captured in ensemble reduction.

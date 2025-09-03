@@ -1,0 +1,10 @@
+Furthermore, here the assumption has also been
+made that the distribution function of the electrons in the continuum is at all times Maxwellian—
+ie. we have both ignored the fact that the cold metal will have a Fermi-Dirac distribution of the
+electrons, and we have further assumed that thermalization of the electrons is instantaneous. Both of the aforementioned assumptions warrant scrutiny. If, for the sake of argument, we do
+assume instantaneous thermalization, the fact that the current version of the code does not take
+into account the Fermi degeneracy of the initial electrons is unlikely to be significant because the
+electron temperature exceeds the Fermi temperature on exceedingly short time scales. Figure 9
+shows the calculated electron temperature and density as a function of time in the solid-density
+case. The electron temperature rise exceeds the Fermi energy of Mg (4.4eV), justifying classical
+statistics in less than 0.2 fs.

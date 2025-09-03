@@ -1,0 +1,10 @@
+Since a single optical amplifier has sufficient bandwidth to simultaneously
+amplify tens of signals across the entire WDM band (e.g. the C band), considerable savings in
+cost and energy could be achieved. More channels were added at higher data rates without a
+significant change in cost or energy. In fact both the cost per bit and energy per bit scaled down
+at exponential rates [19,20]. In recent years, however, the full band for erbium-doped fibre amplifiers, which are the
+predominant amplifier in commercial systems, has become fully exhausted and the spectral
+density of the transceivers is approaching the Shannon channel capacity limit. Likewise,
+
+
+transmission distances have reached continental scales.

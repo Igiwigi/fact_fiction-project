@@ -1,0 +1,31 @@
+The final
+magnetization +Nmp can be read off, which is the registration of the measurement. Now, the evolution of Dit) is dictated by the Liouville-von Neumann equation of motion,
+
+dD
+dt
+The relevant degrees of freedom are those of the state of SM, i.e. the measured system and the
+pointer. Hence, one is in fact interested in the evolution of the reduced state of SM,
+
+ih— =[H,P]. (2.11)
+
+Db) = trgP(b), (2.12)
+
+where Dit) is the state of SMB. By tracing out the bath, one can obtain a dissipative equation
+for the evolution of SM by using standard open systems techniques owing to the weak coupling
+between M and B. One then obtains the following master equation for the evolution of SM under
+its Hamiltonian Hp = Hs + Hu [5]:
+
+db
+
+t
+7 ath DI = 2| du) (KW) 64 ()B, 6] + K(—-w[6f, BaP) + OY), (2.13)
+
+na
+
+where K(u) is the correlation function of the quasi-Ohmic bath [5] and
+
+84 (£) = elllot/ ng er itlot/n (2.14)
+
+n)
+
+is the time evolution of 6é under Ab.

@@ -1,0 +1,9 @@
+Natural subsystems are generally not immediately evident from either Boolean networks or
+finite-state automaton descriptions. Knowing a model’s generators or transition diagram fully
+describes it, but this gives almost no insight into its structure and no higher level insight into how
+it functions. This is analogous to the fact that writing down a system of differential equations
+does not by itself yield understanding of a system’s orbit and stability structure, local and global
+dynamics, etc. Studying the transformation semigroup of this lac operon model reveals exactly two non-
+trivial natural subsystems. These structures were calculated in a few seconds using our
+computational algebra system SGPDEC [16-18] together with the weak control relationship
+between the two.

@@ -1,0 +1,18 @@
+If there are N units in the material, and a fraction / of the whole range of the distribution
+is sampled, the variance of the number n falling in the sampled parts of the range will be
+made up of two parts, that due to the sampling variance of the total ‘normal’ probability
+P attributable to the sampled part of the range, and that due to the divergence of the actual
+density within the sampled part of the range from the ‘normal’ density. This latter will be
+given by a binomial distribution. We shall in fact have
+
+V(n) = N2V(P)+P(1—P) N. The expectation of P is f, and its variance for the various methods of sampling is given in
+percentage terms by the results already obtained. If N = 1000 and f= 7, for example,
+taking mean value, we have
+P(i—P)N= 90-0
+Systematic sample at spacing o == 0:0)
+N?V(P) }Random sample, 1 from each block of ¢ = 111-9
+Random sample, 2 from each block of 27 = 390-6
+
+Thus in this case the use of a systematic sample, instead of a random sample with one
+point located in each block of ¢, about halves the variance of the estimate of the total number
+of units in the distribution.

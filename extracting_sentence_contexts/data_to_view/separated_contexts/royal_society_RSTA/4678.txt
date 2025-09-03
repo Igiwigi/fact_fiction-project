@@ -1,0 +1,9 @@
+In [1] and in many recent papers ([2,3] and references therein), emphasis is given to the
+effect of reflection/transmission and only in minor part to SW propagation and local impedance
+modulation, which is instead the main focus of this article. In particular, here it is shown how a
+proper impedance modulation allows one to address SWs along desired curvilinear paths. In fact,
+the impedance modulation, obtained by locally changing the sizes of the patches, imposes a local
+modification of the dispersion equation and hence, at constant operating frequency, of the local
+wavevector. The general effects of MTS modulation may be therefore treated in the framework of
+transformation optics (TO) [4,5]. TO establishes a rigorous analytical rule for obtaining a control
+on wave propagation within inhomogeneous anisotropic metamaterials.

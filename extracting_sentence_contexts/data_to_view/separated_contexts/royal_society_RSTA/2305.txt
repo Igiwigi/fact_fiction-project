@@ -1,0 +1,9 @@
+Namely, the stress
+intensity factor, Ky, at the crack tip and the critical opening, u), at the opposite end of the process
+zone. A thorough analysis of the numerical approach used showed the high level of stability
+and accuracy, alongside the rapid rate of convergence, for the entire solution. Of particular note
+was the fact that the values of both Ky and u; stabilize after only a small number of iterations,
+although the required number of iterations is higher for smaller lengths of the process zone L. The fact that the method outlined here is more efficient for larger L is not unexpected, as the
+initial condition (3.8) of the iterative process corresponds to the case L > oo. As such, although
+the iterative method does converge for all positive L > 0, it is clear from the presented results that
+both the solution accuracy and convergence rate improve with the growth of L.

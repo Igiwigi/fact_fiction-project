@@ -1,0 +1,23 @@
+However, in some complex reactions, such as Fischer-Tropsch synthesis and methane
+dry reforming, several tens or even hundreds of energies are involved. Considering the current
+computation capacity, some approximations may be needed to simplify this optimization. Regarding the elements in the energy vector, e, they are in fact not independent of each
+other. Firstly, the energies of transition states are correlated with the enthalpy changes of
+the corresponding steps, known as the BEP relation [21], which can be introduced into the
+optimization to approximately halve the size of the energy vector. Secondly, Nerskov and co-
+workers [22] proposed a linear scaling, which states that the adsorption energies of many species
+
+
+TS2
+
+E(TS2)
+
+E(TS1)
+E(TS3)
+
+E(IS2)
+
+E(P) 8
+
+reaction coordinate 28
+
+Figure 2.

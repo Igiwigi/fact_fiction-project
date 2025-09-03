@@ -1,0 +1,4 @@
+There is exactly one way to do this: The sector angles diagonal to each other are
+directly related by the rules in (iii). Since we know the sector angles around two of four vertices,
+we use this relationship to determine the other two vertices. We then iterate using this basic fact. This iteration leads to the sector angles displayed in the 4 x 4 checkerboard in the figure. Note
+the left boundary and right boundary have the same sector angles.

@@ -1,0 +1,24 @@
+As it is always done
+in investigations of passive scalars subject to white noise velocity fields [1,2,4,6,7,9], which is
+motivated by the Wong-Zakai principle [14], proved also for transport-diffusion equations by
+many authors (see for instance [15]), we interpret the equation (1.1) as a stochastic equation with
+Stratonovich noise (the precise interpretation is in weak form with smooth test functions)
+
+aT =«ATdt+ Do uj- VT odWi. (1.3)
+isd
+Call D(A) the space H?(D)n H}(D) where H}(D) is the set of H!(D)-functions equal to zero at the
+boundary. Define two linear operators A, Ag : D(A) > L?(D) by setting
+
+Af=«Af and Aof =(kA+Lo)f,
+
+where
+1 d
+(Lo) =5 DK (Qua, raf),
+a, p=1
+
+is a second-order differential operator representing the enhanced dissipation due to eddy
+diffusion. Both operators A, Ag generate strongly continuous semigroups, which we denote by
+el, e!Ae (recall that (e'4);~9 is a family of bounded linear maps in L?(D) such that e+9)4 = e!4e4,
+e is the identity operator and (d/df)e!4h = Ae'h for every h € D(A); similarly for e!42); these
+semigroups are moreover analytic (see [16, §2.5]), but strictly speaking we do not need such fact. The generation of these semigroups is proved in [16, §7.2]. We use the semigroups to rewrite the
+stochastic equation in the so-called mild form, essential for the proof of our main theorem.

@@ -1,0 +1,27 @@
+When SM is employed in a system, data is encoded both as spatial and PAM constellation
+symbols. Since only one of the LEDs is activated during transmission, the overall spectral
+efficiency of the system is log,(N;) + log,(M) bits/s/Hz. As noted in [16], a signal constellation
+with zero intensity cannot be used in optical SM, due to the fact that there would not be an active
+transmit element and hence no spatial information exists based on SM principles. In this paper,
+the intensity levels of M-PAM signals for optical SM are given as
+M_—AQm—1), form=1,2,...,M, (2.2)
+
+m
+
+
+LED,, 1
+
+LED,, > S
+:<
+
+LED, Le
+
+uN 2s
+
+SM
+encoder
+
+channel LED 2%
+feedback selection 1S
+
+Figure 1. Multi-user optical SM system model and block diagram.

@@ -1,0 +1,13 @@
+We note that SPNNs
+and GNODEs can only be applied in case 1 and case 2, respectively, while GFINNs cover all the
+cases.
+
+(a) Non-uniqueness
+
+By the multiplicative structure, the GENERIC formalism allows multiple modules resulting in
+the same dynamics. That is, given (E,S,L,M), there are infinitely many (E,S,L,M) satisfying
+L(z)(0E/0z)(z) + M(z)(0S/dz)(z) = L(z)(0E/8z)(z) + M(z)(9S/z)(z). As a matter of fact, if we let
+G be an affine transformation of G with a slope coefficient a, by letting A:=a~'A, we obtain new
+modules resulting in the same dynamics. Because of the non-uniqueness, the inferred quantities
+Enn and Syn may look different from the target quantities. We therefore calibrate the inferred
+quantities to make them look similar to the ground truth values.

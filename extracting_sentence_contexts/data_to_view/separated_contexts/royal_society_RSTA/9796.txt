@@ -1,0 +1,9 @@
+In the first place, if ¢ =F (x,t) is a solution of
+0'h/da*? = dd/ot, then ¢ = F (ax, a’ot) is a solution of the given equation. So we
+need only concern ourselves with 0°¢/0.c* = d¢/dt, and the results will apply to bodies
+of any linear dimensions and any uniform diffusivity. Let us suppose the boundary
+conditions are: ¢ = 0 when « = +4 for all values of t; ¢ = 1 for all values of « when
+t= 0; in fact the familiar case of a uniformly heated slab, the faces of which are
+suddenly cooled. The method of this example is so simple that it can hardly be
+novel. It is introduced to show how easy it sometimes is to obtain approximate
+integrals by arithmetic of equations usually treated by complex analysis.

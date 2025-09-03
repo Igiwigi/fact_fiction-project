@@ -1,0 +1,20 @@
+Setting this w in such a way that w + yuc(t) + u/(t) = v and using (3.7), we arrive at
+(3.6). |
+
+As a result of proposition 3.6, it suffices to solve an equation problem for obtaining we. Furthermore, since it follows from (3.7) that
+
+ov (Ue) = Be(Lyvev + ueyll), or (we) =ae([u.-]) on (0,T) x Iv,
+
+we expect that u< should converge to a solution of the original problem (3.1) as € — 0. Justification
+of this fact, which is actually the idea to prove theorem 3.4, is the task of the next section.
+
+4. Proof of main result
+
+In this section, we establish existence in §4a-d and uniqueness in §4e. Coercivity of a(-,-) in V,
+that is,
+
+a(v,v) > Clo wwev,
+
+2
+H(2.)
+which is justified by Korn’s inequality (e.g. [14]), will be frequently used in the proof.

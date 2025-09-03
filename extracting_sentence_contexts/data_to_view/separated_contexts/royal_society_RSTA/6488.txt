@@ -1,0 +1,28 @@
+Introducing the perpendicular electrostatic field E | (z) = —Vy(z) and the approximate relation
+
+D1 (2) ~e0e1@E.@), (2.2)
+
+which becomes virtually exact in the long-wavelength limit for constant vertical displacement
+field D, (z), we can rewrite the Poisson equation as
+
+coV2W(2) = ~€7!@)p(2) — Di@Veq"). (23)
+
+According to the Boltzmann equation, the charge density is determined by the electrostatic
+potential via
+
+plz) =ecofelev@-H@VkoT — olew)-1-@/kaT y (2.4)
+
+where j14(z) and _(z) are the non-electrostatic contributions to the chemical potential of positive
+and negative ions, respectively. In the following, we set 24(z) = 4—(z) =0. Note that the vertical
+displacement is determined by the charge density via
+
+Di@Zj= I dz'p(z’). (2.5)
+
+In fact, the system of equations (2.3)—(2.5) constitutes a nonlinear integro-differential equation. In
+[3-7], we have solved this differential equation numerically, and in the present communication we
+obtain approximate analytic solutions. For this we choose a simplified box profile for the dielectric
+profile in the form of
+
+@= |? for z <z* (2.6)
+
+e, forz>z*.

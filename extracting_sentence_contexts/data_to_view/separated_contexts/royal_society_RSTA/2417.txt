@@ -1,0 +1,9 @@
+Any such transitions /connections between low and higher aspect ratio confinement
+could have important implications for the ultimate choice of aspect ratio for compact pilot plants. To assess this in a highly approximate way, a hybrid ‘NSTX-Petty08’ scaling is used. This ad
+hoc hybrid scaling accounts for the fact that the NSTX ST scaling has thus far been developed
+for plasmas with A < 1.7 (€ > 0.6). Similarly, the Petty08 scaling has been developed using data
+primarily from conventional aspect ratio plasmas with A> 2.5 (« <0.4). Assuming a linear
+interpolation in € between the two scalings is justified, a combined /hybrid scaling can be defined
+as the weighted sum of the NSTX and Petty08 scalings according to: tg = tg-Nsrx for € > €; = 0.6,
+TE = TE-Pettyos for € <€2=0.4 and te = (€ — €2)/(€1 — €2)tE-NSTX + (€1 — €)/(€1 — €2)TE-Pettyos for
+€)<€<«&.

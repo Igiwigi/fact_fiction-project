@@ -1,0 +1,53 @@
+The / integral in Art. 33 is taken along a path joining z, = which has the point h = 0
+on the left hand side, thus for purely imaginary values of » the path may be placed
+
+Zz
+
+ly
+
+as in the figure, with a semi-cireular portion to avoid the point h = 0; we thus see
+that in the above definite integral there must be a sudden diminution of phase mz in
+the integrand as cos yf passes through the value we ; if this be taken into account
+
+the definite integral will represent the function P, (4) for purely imaginary values
+of 1; there is however nothing in the definite integral itself which decides apart from
+convention what the change of phase in the integrand shall be as it passes through its
+zero value. Next suppose p to cross the imaginary axis, the / integral can then be taken from
+
+1 ‘ !
+~, tozalong a loop round the point = 0, and then along a straight line to the
+
+* ‘Kugelfunetionen.,’ Vol. 1, p. 37. OF UNRESTRICTED DEGREE, ORDER, AND ARGUMENT. 497
+
+point h = z, but cannot be taken directly from ee to z; it thus appears that the
+
+function P,, (1) is no longer represented by the definite integral, but that the value
+
+= of the definite integrals involves Q,, (1) as well as P, (uw); in fact, we have shown in
+(70) that in this case
+
+= Le ft; pose 2 F
+z ca ( + /p =T cos pb)" db = P, (nv) — er e*"™ sin na. Q, (4),
+
+2p where the upper or lower sign is to be taken in the exponential according as the
+‘= imaginary part of p is positive or negative.
+
+ ~=—s The only case in which Heryr’s definition is valid for all values of ys is when 1 is a
+& real integer. -
+
+pO Herve deduces from his definition that for unrestricted values of 1, the function
+2 P, («) is represented when mod p > 1, by the series
+
+F 1 TI (2n) 1
+a sm is a as ees oui
+& - tee \ 2 3 FO ™ a)?
+
+( an l—n
+
+& this result, following from the incorrect definition, is erroneous, the correct expression
+3 being given by (23) and involving two hypergeometric series.
+
+&. It was to be expected d priori that as P,, (u) was defined by means of an integral
+taken along a path containing the singular points » and +- 1, but excluding — 1, the
+Q function so defined would not in general possess any kind of symmetry about the
+imaginary axis.

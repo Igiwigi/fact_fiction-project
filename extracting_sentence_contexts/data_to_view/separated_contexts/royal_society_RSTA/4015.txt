@@ -1,0 +1,17 @@
+As discussed above, we can
+observe that As reaches its upper limit when W = AH - (dT/dH) (=8.3K, in this case), while ATaq
+continues to grow for W tending to zero. It is evident indeed that the transition width W plays a
+key role in changing the Aspeak and ATaq,,,, Values as compared to their upper limit: L/Tp and
+ATmax = AH - (dT/dH), respectively. As a general consideration aimed at future materials’ design, the sole reduction of W should
+not be the main goal of research: in fact, W acts also on the width of the As(T) and AT,q(T),
+enlarging the area where the magnetocaloric effect is sizable and can thus be exploited in
+thermodynamic cycles. A guideline for this analysis comes from a careful consideration of the
+denominator in equation (3.8). Following a straightforward mathematical manipulation, one can
+also rewrite equation (3.8) as
+
+yeak
+
+ATadinax
+
+ATadpeak = TH Wepy,,/L’ (3.10)
+where it is evidenced the combined effect of quantities W and L to determine the AT adpeak value.

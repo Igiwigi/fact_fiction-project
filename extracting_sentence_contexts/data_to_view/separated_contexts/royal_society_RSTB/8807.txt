@@ -1,0 +1,12 @@
+Active inference rests on the tuple (Q, S, A, P, beliefs, an action is sampled from the posterior marginal over
+P,Q,R, S, U) control states. The environment then picks up this action,
+generates a new observation and a new cycle starts.
+— A finite set of observations . The optimization above is that usually portrayed in terms of
+— A finite set of true states and actions S x A. perception (inference about hidden states) and action (a choice
+— A finite set of fictive or hidden states S x U. model in which action is a function of inferred states). Action
+— A generative process over observations, states and action and perception couple the agent to the environment; where
+RG, §, a) = Pr ({00,..., 01} = 6, {80,-.-, $1} = §, expectations depend upon observations—through perception,
+{ao,.--, ar} = 4). whereas observations depend upon expectations—through
+— A generative model over observations and hidden states action. Usually, expectations are associated with neuronal
+POG, §, ti|m) = Pr ({o9,..-, 01} = 0, {50,.--, 8:1} = 8, activity or connection strengths and action is associated with
+{ur,..., Ur} = i). the state of effectors.

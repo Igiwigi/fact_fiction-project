@@ -1,0 +1,16 @@
+Processing of EU-OFDM frames T to extract layers. P indicates a sub-frame carrying the positive parts of the signal;
+N indicates a frame carrying the inverted negative parts (so they are now positive). The fact that the frames of deeper layers
+are repeated allows the deeper layers to be discarded by time domain subtraction of adjacent frames, and also a bipolar signal;
+e.g. subtracting frame T1 from frame TO provides Layer 1's bipolar signal P11-N11. (Online version in colour.)
+
+of the data of the equivalent DCO-OFDM on Layer 1, 25% on Layer 2, 12.5% on Layer 3, etc.,
+which gives diminishing returns in spectral efficiency, at a cost of more processing every time a
+layer is added. The advantage of using multiple layers is that all layers can use power-efficient
+modulation, such as QAM with clipping; this leads to the lowest SNR requirements of all schemes.
+
+(a) Enhanced unipolar orthogonal frequency division multiplexing
+
+Enhanced unipolar orthogonal frequency division multiplexing (EU-OFDM) [29] uses the
+superposition of time domain signals at various layers (called ‘depths’), where each U-OFDM
+symbol (positive frame, P, followed by a negative frame, N, like Flip-OFDM) in the deeper layers
+is transmitted more than once as a simple repeat. This is illustrated in figure 4.

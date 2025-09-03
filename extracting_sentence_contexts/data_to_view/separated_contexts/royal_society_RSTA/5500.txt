@@ -1,0 +1,17 @@
+In order to mitigate such issues, the creation of innovative ML algorithms, capable of
+incorporating the domain knowledge, would facilitate the development of these models (e.g.
+less data-hungry algorithms, faster training, larger interpretability) and the introduction of such
+methodologies in the clinical practice, thus fostering trust in their use.
+
+a) Limitations of the study
+
+The frameworks presented some limitations. First, rhythm-based cardiac abnormalities were
+not properly handled by our methodology. Given the fact that an altered rhythm may or may
+not affect the regularity of the occurrence of any waves, it was not possible to define the one-
+to-one match between the cardiac abnormality and a specific ECG wave. For example, Brady
+
+bradycardia), one of the class detected correctly by the network (recall of 0.53), refers to a
+
+
+very low heart rate. Typically, heart-rate alterations are quantified looking at the time intervals
+between consecutive R peaks because of their ease of detection.

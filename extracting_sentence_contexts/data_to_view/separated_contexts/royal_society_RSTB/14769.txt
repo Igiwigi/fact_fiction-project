@@ -1,0 +1,16 @@
+A process model can be fitted to workflows offer methodological standards for making obser-
+time series data with and without potential causal drivers vations and providing them in usable open data forms [72].
+to support detection and attribution [62]. When such para- The joint observation of drivers (e.g. land cover, climate vari-
+metric dynamical models cannot be built, agent-based ables) that are hypothesized to be important for the
+models may be used for causal inference [63]. When forma attribution step (step 5) with data that are downscaled to
+causal models are not readily available, verbal or graphica the relevant scales of the focal organisms and assemblages
+expressions of directed causal relationships are valuable, should also be made.
+
+and in fact a necessary starting point in this framework. We recommend strong hypothesis tests by comparing
+
+alternative causal network models (fingerprints) to make the (¢) Step 3: estimation
+
+strongest inference possible for attribution in step 4 below Estimation is the process of calculating a biodiversity metric
+[44,53]. Knowing this, the collection of observations in step 2 from an incomplete sample (the observation or set
+should be guided by the hypothesized causal dependence of observations), with the aim of reducing the influence of
+between the drivers and biodiversity variables formalized by sampling bias and imperfect detection of species.

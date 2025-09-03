@@ -1,0 +1,12 @@
+It is worth noting that the expression (5.4), describing the variation of PW, involves the
+Cosserat modulus b3 (the secondary bending stiffness). However, this bending stiffness is not
+involved in the infinite-body Green’s function, equation (4.27), which depends on the parameter
+bo (with bp =b; — b3). In fact, although the relations for continuity of tractions (5.2) hold for
+any value of the Cosserat modulus b3, it is apparent from (4.6)4 that, in order for (PD)® and
+(E) to be lost simultaneously, the parameter b3 must be set to zero, b3 = 0, so that the emerging
+discontinuity line becomes admissible (see also [5]). Additional insight into the circumstances just described is provided by figure 7, where (a)
+the real part of the normalized jump gf and (b) the real part of the dimensionless out-of-plane
+displacement are depicted along the folding line x=0 for a Cosserat material at the (EI/P)
+boundary for loss of (E) with 6 =0, y =1/4, « =1/4 and 4 =1. It is observed that, when the
+microinertia is null (dashed curve) or when 6 < 6* (red curves in figure 7a), the jump, according to
+equation (5.4), is a real-valued exponentially decaying function of y.

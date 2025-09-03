@@ -1,0 +1,36 @@
+This variation between random datasets is the underlying cause of the small differences between the hinge-point dates in each ML model. (Online
+version in colour.)
+
+(a) 3B 265 a
+92 e 260 e 740 . 5010
+90 e 35 5000
+Fy 255 730
+a 88 ee 350 e e e e 4990 °
+2
+86 e e sont 4980 e e
+se} 8 e_____} » $___, — 4970 __—_#
+2823838 E22 BB 8 e233 3 2 2 e232 38
+633 8 8 8 6338 2 8 E28 2 3 2 3 E28 2 3
+SaRRR ES ZRgR RE Sanaa aE BB RRB Ee
+Brad a da Brae da Eta as +4 Elda t
+(b) N=6 N=16 N=47 N=329
+0.003 |
+0.002 |
+0.001 :
+
+0 1 L 1 4
+Tt tt
+§ssesesese8se8se8e8seseese8828288 82838 8 3 2 2 g 3 3
+222 R22 RR Fe SR REE ERE E g ae
+
+cal yrs BP cal yrs BP cal yrs BP cal yrs BP cal yrs BP cal yrs BP
+
+Figure 2. Model selection naturally guards against overfitting with small sample sizes since the lack of information content favours simple models. By contrast, the
+SPDs suggest interesting population dynamics that in fact are merely the artefacts of small sample sizes and calibration wiggles. (a) The best model (red) selected
+using BIC between a uniform distribution and five increasingly complex n-CPL models. (b) SPD (blue) generated from calibrated "“C dates randomly sampled from
+the same true (toy) population curve (black), and best CPL model PDF (red) constructed from ML parameters. Note, the slight bend in black and red lines are merely
+a consequence of the nonlinear y-axis used. (Online version in colour.)
+
+dataset. Figure 1 illustrates the best 3-CPL model for each modelled date range is reduced to only encompass the range
+
+dataset, which are all qualitatively similar to the true popu- of the data (see ‘Avoiding edge effects’).

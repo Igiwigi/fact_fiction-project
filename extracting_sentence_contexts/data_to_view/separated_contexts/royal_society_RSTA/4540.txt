@@ -1,0 +1,14 @@
+Crawford & Mader [41] were
+the first to employ such a hybrid approach by combining CTH hydrocode modelling of crater
+formation with the ZUNI code for wave propagation simulation. Following this approach, Weiss
+et al. [44] coupled iSALE hydrocode modelling with a Boussinesq-type wave propagation code
+and the MOST model, allowing quantitative predictions of inundation and run-up heights. Both
+studies suffer from the fact that wave propagation did not take a realistic bathymetry into account. A critical and difficult part is always the coupling between different models and thorough
+testing is crucial to make sure that no numerical artefacts result from the change from a high-
+resolution computational domain (either full three or two dimensions with cylindrical geometry)
+where the compressible Navier-Stokes equations are solved (region of crater formation) to
+the computational domain where material flow is calculated by shallow-water or Boussinesq
+approximation on a two-dimensional grid (longitude and latitude). In commonly used tsunami
+propagation models, the wave height and water depth are functions of longitude and latitude,
+and the actual thickness of the water column and flow velocities as a function of depth are not
+resolved.

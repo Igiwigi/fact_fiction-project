@@ -1,0 +1,29 @@
+To
+allow for integration, we add a regularization parameter by substituting the square of the energy
+
+
+difference (¢, — €s)? by (€ — &s)° +n where 7 is a small real positive number (see appendix A for
+more details).
+
+(b) The moving crude adiabatic representation
+
+The situation is different in the MCA representation. The electronic states are no more adiabatic
+but instead solve the electronic Schrédinger equation only at one nuclear geometry, which is
+chosen to be the centres of the Gaussian functions {Q,;(£)}:
+
+Fe(Qax(t))1ps(Qsx(#))) = &s(Qax(6))les(Qsx(E)))- (2.7)
+
+The molecular wave function now reads
+Ns
+M(t) => Y° Cu (les(Qex(6)))3(Qsx(H, Pax (6), (2.8)
+s ok
+
+and the molecular Hamiltonian
+
+HYG O=- 5(vs(Qu(0)|pe(Quu(d))¥'V + (gs(Qex(#))| Hels (Qsi(8))). (2.9)
+
+This last Hamiltonian is different from the Hamiltonians using adiabatic states (equations (2.5)—
+(2.6)) in the sense there are no non-adiabatic couplings tss involved. This is due to the fact
+that MCA states do not depend on the nuclear coordinates and are therefore strictly diabatic. Therefore, the non-integrable DBOC terms do not appear and all terms in the Hamiltonian
+are now integrable. Even the non-adiabatic coupling vector t;s(X) does not appear in the
+Hamiltonian, which makes the numerical integration more stable.

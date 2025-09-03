@@ -1,0 +1,11 @@
+Up to this point we have assumed that the motion in yaw is exactly periodic with
+half-period QT. This would be exactly true if the couple M were a function of 4 only,
+OP a fixed straight line, and no other couples existed. In actual fact, M is a function
+of the forward velocity and therefore of the time; OP changes direction under the
+influence of gravity and the cross-wind force, and other couples besides M act on the
+shell, depending on the angular velocity of the shell. All these factors cause progressive
+changes in the curve of yaw from period to period ; for the case of the stable rounds
+they have been discussed at length in (A), where it is shown that they do not appreciably
+affect the determination of M at any velocity for small values of 4. In particular,
+the effect of gravity is almost entirely allowed for by using (as we do) the true yaw
+and not the angle between the axis of the shell and some fized straight line.

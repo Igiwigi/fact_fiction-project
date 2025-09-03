@@ -1,0 +1,56 @@
+However, to allow a classical Stroh formulation,
+one feature is missing: namely, unlike in plate problems, the term 03, + /q is not constitutively
+defined. We proceed with the Lagrangian density (4.3) and, making use of (2.14), obtain the conjugate
+momenta
+
+aL 1
+da = 032 — 5P1 = 032 — 123 = $32 (4.62)
+and
+abs,
+—=¢. ‘4.6b
+IP 2 72 (26)
+In analogy with (3.3), we introduce the symmetric matrix
+Clap = C3036, (4.7)
+whence
+O3q = Usp, (4.8)
+and equation (4.62) may be easily solved for w,2 to get
+w= U5y (832 + 4p1 — Unw,). (4.9)
+For (4.6b) we need to let, in analogy with (3.2),
+Qup=Ceaipi, Rop=Cgaip2 and Tap = l?ga2p2 (4.10)
+so that, paralleling (3.4),
+e_¢ = ~T ~
+4 =Q91+Re2, %=R oi +Toe2 (4.11)
+and we can write 1 r
+o2=T '(q-R'9,)- (4.12)
+
+Furthermore, from (4.4) and the constitutive law (4.11), we get
+
+A a aT A
+p=Qen+ (R +R ) 912 + T22, (4.13)
+
+
+which shows that indeed div2 p = 0, inasmuch as (2.2) holds, as discussed in §2. Recalling (2.14),
+this implies
+731,2 — 732,1 =0, (4.14)
+which is in fact satisfied by eqns (2.14) of [23]. We define the Hamiltonian density function H = H (s32,,1, 9, 9 1,95, P) as
+
+H=sg9wy + 95-92 —L= $U55 (832 + 3p — Uniwy
+
+aT ~—1 aT i
++ 3(q5-R1)-T (4% -R %,) - 20%,
+
+= 391-001 —p- 9 — Zprw,, (4.15)
+whence, using (3.11), we retrieve (4.9),
+dH ony oo.
+3530 Ugy (832 + xp1 — Ur1w1)=w,2,
+and (4.12),
+6H 4-1/4, oT
+ig 7? (Rea) =e. The canonical equation (3.12) gives
+6H [ea sel» aT _ ie
+io [Qe +RT (4 R e)), P=—%22
+
+and
+SH = [i > Usyt (sx2 + spi - Uniw 1) + Unwi+ bp? = —§32,2,
+ow 22 2 p 1+ 2P2) ,
+
+corresponding to (2.13b) and (2.132), respectively.

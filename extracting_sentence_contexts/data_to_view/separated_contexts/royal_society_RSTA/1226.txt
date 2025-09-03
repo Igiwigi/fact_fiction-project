@@ -1,0 +1,14 @@
+Initially, we discuss the origins of electron beam sensitivity of materials and ways to mitigate
+these effects. Electron beam-induced damage has been investigated intermittently over the years
+including key studies in [3-7]. In fact electron irradiation has even been used as a surrogate for
+fast neutron damage in the study of materials for application in nuclear fission and fusion (early
+work is summarized in [8] and more recent works in [9-11]). The electron dose experienced by a sample is the energy absorbed by the specimen during
+electron irradiation and is a function of both the incident energy of the accelerated electrons,
+electron fluence (the number of electrons per unit area) and fluence rate or flux (the number
+of electrons per unit area per second) in the TEM, as well as parameters associated with the
+specimen itself such as the thickness and chemical composition. The absorbed dose is strictly
+measured in Grays (note a Gray (Gy) is 1 Joule of energy deposited per kg of matter), and
+
+
+for 100 keV electrons exposed to a typical organic material an electron fluence of 1 electron/A*
+or ca 1.6x10-3Ccem~ is then equivalent to a total absorbed dose of a few MGy [12].

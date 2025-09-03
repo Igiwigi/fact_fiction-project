@@ -1,0 +1,12 @@
+The network is acyclic, which is seen in the fact that after
+a suitable reordering of the variables (which has been done here), all the arrows go down.
+
+4. Testing of independent components
+
+After estimating ICA, it would be very useful to assess the reliability or statistical significance of
+the components. In fact, in the literature, independent components estimated from various kinds
+of scientific data are often reported without any kind of validation, which seems to be against the
+basic principles of scientific publication. The classical validation of estimation results is statistical significance (also called reliability),
+which assesses if it is likely that the results could be obtained by chance. In the context of ICA,
+we would like to be able to say if a component could be obtained, for example, by inputting just
+pure noise to an ICA algorithm.

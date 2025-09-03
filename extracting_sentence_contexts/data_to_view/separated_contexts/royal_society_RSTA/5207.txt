@@ -1,0 +1,25 @@
+When @ exceeds the critical
+value corresponding to curve 3 (ar = 0.54), the soliton decays under the action of heavy losses
+(figure 1g). The drift and swing of solitons arise as a consequence of the gradient force induced by the
+spatially inhomogeneous loss. In fact, the inhomogeneity of the loss breaks the gain—loss balance
+of the dissipative soliton, causing the soliton to drift to an appropriate position in order to
+maintain its stability. In the course of drifting, the profile of the dissipative soliton keeps changing
+owing to the combined effects of the gain and loss, and of the diffraction and self-focusing
+
+
+0 "900 0 900
+(f) (g)
+20 20
+
+—20
+900 0 10
+
+Zz Zz
+
+Figure 1. (a) The inhomogeneous loss-modulation profile, L(x) = d sin(x/5). (b) Soliton dynamics described by the relation of
+the linear-loss coefficient, a, to the amplitude, d, of the inhomogeneous loss structure.The so represented dynamical regimes
+include spreading out under the action of the excess gain (below curve 1), leftward drift (between curves 1 and 2), persistent
+swing (on curve 2), damped oscillations (between curves 2 and 3), and decay (above curve 3). Examples of the simulated
+evolution of the solitons: (c) spreading out under the excess gain at « = 0.1 and d = 0.2; (d) the leftward drift at = 0.36
+and d = 0.2; (e) persistent swing at w = 0.385 and d = 0.1; (f) damped oscillations at « = 0.45 and d = 0.2; (g) decay at
+a = 0.56 and d = 0.2.

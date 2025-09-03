@@ -1,0 +1,10 @@
+Implicitly, the reversal of m; means
+the kernel associated with the time-reversed process of that with transition dynamics given by m;,
+that begins in stationarity. When (3.6) is satisfied, we can easily check that the evidence estimate
+equation (3.5) simplifies and becomes equal to
+
+V(t)
+This estimate is elegant but it is unfortunately d difficult to obtain a low-variance estimate of the
+gradient of this ELBO. This is due to the fact that the transition kernels m; will typically involve
+accept/reject steps. Consider for example that 1m; is a Metropolis-Hastings type kernel. We follow here the
+derivation by Thin et al. [16].

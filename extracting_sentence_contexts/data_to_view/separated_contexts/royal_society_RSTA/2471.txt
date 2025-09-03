@@ -1,0 +1,5 @@
+A syzygy is an element {a1,...,4n} such that ayf1 + ---anfn =0. Now,
+the set of all syzygies is a submodule of R", called a syzygy module. In fact, it is easy to see that
+this submodule is the kernel of the map that sends the standard bases element e; of R" to fj. In
+addition, one may repeat this process to obtain syzygy of syzygies. We now give a more formal
+treatment of what is a syzygy module.

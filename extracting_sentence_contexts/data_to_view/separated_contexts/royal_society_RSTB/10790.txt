@@ -1,0 +1,9 @@
+The simulation in figure 3b.1-b.5 began with
+illumination, pmf is predominantly composed of Ay. As illus- stromal and lumenal K* concentration of 40 mM, and resulted
+trated in figure 2a, and in the simulations in figure 3a.1-a.5, in Ay: ApH of about 1: 2 in the light. It is also clear from these
+in a simple thylakoid membrane with no counter-ion chan- simulations that, even in this simplified situation, Af: ApH can
+nels, pmf remains predominantly as Ay indefinitely, because change with conditions, as is evident by the fact that Ay: ApH
+Aw by itself is sufficient to force protons deposited in the increases as a result of the build-up of counter-ion gradients at
+lumen back out through the ATP synthase, resulting in only higher pinf (see electronic electronic supplementary material,,
+small net changes in lumen pH. This situation is the predomi- Jupyter notebook in figure S1). The simulations in column C
+nant mode of action for mitochondrial and plasma membrane will be discussed below.

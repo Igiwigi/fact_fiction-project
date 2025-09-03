@@ -1,0 +1,8 @@
+In Section S2 of the electronic supplementary material, we provide
+more details on the data imputation technique and we present an empirical study to quantify the
+impact of data imputation on the results presented in the next section. Figure S2 of the electronic
+supplementary material displays the data after imputation. To account for the fact that T repeated observations are available for each subject and process,
+we need to slightly modify model (2.3). We do so by assuming that the different time points
+are independent of each other, so that repeated observations can be straightforwardly included
+in the proposed model. Let Yj denote the count for the ith subject and the jth process at time
+t, i=1,...,n,j=1,...,d and t=1,...,T.

@@ -1,0 +1,20 @@
+Indeed, given any f € BUC(RN), using the fact that lim;_.9 Jtyiesy gly) dy =0 for every 6 > 0, it is
+easily seen that
+
+Jim ITF — fle JIloo =0 (3.1)
+
+and therefore we have
+
+jim ITF ~filoo =0
+
+if and only if
+lim f(e!B x) —f(x)|=0 uniformly for x € RN, (3.2)
+10
+
+
+see [6, Lemma 3.2]. For N =1 and B = 1, a counterexample to strong continuity is thus provided
+by f(x) =sinx € BUC(R). In fact, f(e'-) does not converge uniformly to f as > 0. As T(t) maps
+Co(RY) into itself and (3.2) is satisfied in Co(RY), it is strongly continuous on Co(RY). Smoothing properties of T(#) in C, (RN) are established as well in [6]: iffe CAR), from (2.6)
+we get
+
+DI (f(x) =e" (gr x Df)(el®x) =e!

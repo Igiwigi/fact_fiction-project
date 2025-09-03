@@ -1,0 +1,9 @@
+A proposed
+move to a larger f value, by contrast, is accepted with a probability which depends on T; (and
+which converges to zero as Tj | 0). The constants T; are chosen to decrease to 0 at an appropriate
+speed. In fact, T, may be called the temperature at time k and the name ‘simulated annealing’ arises
+from an analogy between the algorithm and the controlled cooling used in the annealing process
+in metallurgy. There are two main questions of interest regarding SA:
+
+(i) Does the Markov chain (%;)x<j converge to an optimal parameter 6*?
+(ii) How quickly does this convergence take place? The first question of convergence can be answered theoretically in certain specific cases.

@@ -1,0 +1,10 @@
+In particular, we
+assume that, for each model separately, the total AMV is the sum of the iAMV and fAMV (ie. AMV =iAMV + fAMV). By exploiting the fact that making an ensemble mean should remove
+
+
+the internal variability to reveal the common forced response, we first compute [AMV for each
+model individually by using the ensemble mean SST. To compute the iAMV, we compute the
+relevant AMV index from each member separately, and then make this index relative to the fAMV
+index for that model; in other words, the iAMV for each individual member is defined as the
+residual variability (e.g. AMV} = AMV; — fAMV"™, where n is the ensemble member and m1 is
+the model).

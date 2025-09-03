@@ -1,0 +1,27 @@
+We may give this case a purely literal form by writing 100 = a, 010 = b, 001 = ¢,
+and then we have a lattice of s columns and ¢ rows, such that the products of
+letters in the successive rows are a”b%c", a™b%e", . . . a’b%c" respectively, and in the
+successive columns a*b*c", abc, . . . abc" respectively. Art. 14.—Stated in this form the problem appears to have a close relationship to
+the problem of the Latin Square. It is in fact a new generalization of that problem ;
+for put s = t = 3 and
+
+A=H= 1 =P =B=%=P=hB=%3= 1
+
+AHH Hn = hH=hH=H=S=KB_=Hy=1
+
+so that the operation is Di,, and the function a. One lattice is then
+
+or in literal form
+
+[ale]
+je [fa
+[ale] >|
+
+which is a Latin Square. Hence the numbers of Latin Squares of order 3 is
+
+3 3
+2 Din Ain»
+and in general of order
+D
+
+a very simple solution of the problem.

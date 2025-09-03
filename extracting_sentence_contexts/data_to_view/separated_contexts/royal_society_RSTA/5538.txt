@@ -1,0 +1,5 @@
+The supercell lattice parameters
+were a= 12.78A,b=15.74A and c=12.04A. LGPS: Car-Parrinello AIMD simulations were run for 45 ps of production time using a 2 x
+V2x1 supercell at 700 K. A CP fictitious mass of 400 a.u. and a timestep of 0.15 fs were used. The
+supercell lattice parameters were a = 12.69 A, b=12.45A and c=12.45 A. LLZO: Classical molecular dynamics simulations were run on the cubic phase of
+Lig.25La3Zr2O}2 using the LAMMPS code [172] based on potentials adopted from Ref. [63].

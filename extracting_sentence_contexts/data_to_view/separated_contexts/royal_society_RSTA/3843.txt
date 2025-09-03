@@ -1,0 +1,12 @@
+In all cases, a linear curve fit was used
+in all cases to expand the virtual fields and the second-order polynomial was used to obtain the
+acceleration fields. These results demonstrate that temporal resolution higher than 100kfps provides a more
+reliable identification of material stiffness. This is due to the fact that the higher the acquisition
+speed, the more useful frames are obtained from the simulated sequence that can be exploited
+for reconstruction of the acceleration field (size of the temporal window) which finally results
+in a better temporal discretization of the reconstructed stress response (figure 7c). Nevertheless,
+in the case of a spalling test, the highest frame rate cannot be considered as the best solution
+owing to the limitation of the number of images obtained during one shot with an ultra-high-
+speed camera (180 images with a Kirana model and 128 with an HPV-X2). Thus, this would
+drastically decrease the measurement time and make it impossible to have images for both the
+compression and tension phases of the test.

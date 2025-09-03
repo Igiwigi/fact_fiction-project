@@ -1,0 +1,10 @@
+By their nature, multiscale models are composed of individual at-scale (or single scale) model
+components. Each at-scale component is frequently a complex parallel software developed over
+many years. This fact has motivated a shift away from monolithic approaches to multiscale
+model development and towards more heterogeneous component-based approaches, capable of
+incorporating existing at-scale models with minimal software modifications. One such approach,
+the cooperative parallelism programming model, is a task-based multiple-program multiple-
+
+data approach to parallel programming [9]. In cooperative parallelism, single unit computation : =
+tasks named symponents (a portmanteau of simulation and component) are executed by a : =
+runtime system.

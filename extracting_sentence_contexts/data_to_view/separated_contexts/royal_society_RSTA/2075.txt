@@ -1,0 +1,35 @@
+The Fokker—Planck-like dissipation can be
+seen as derivative of dissipation potential
+
+sy)=5{4 r| av nTf of" a= (3.30)
+
+with respect to f*, where T = de/ds stands for the local temperature field. The irreversible Fokker—
+Planck-like terms can be motivated in two ways: (i) Considering a continuum particle is subject to
+random (Brownian) motion, the Fokker-Planck term appears in the equation for the distribution
+
+
+function as a result of the fluctuations [37]; and (ii) it is anticipated that fast oscillations in the
+v—space develop due to phenomena related to the Landau damping [34,40-42]. Focusing on the leading order solution of the distribution function, we take advantage of the
+fact that its evolution is described by a first order quasi-linear partial differential equation whose
+characteristics (R;(t), V;(t)), parametrized by time t, are given by
+
+d d , a OE
+—R;=«Jf and —V;=-J;'- — (nize) . (3.310)
+dt f dt Fo af VO an;
+
+The leading order solution to this problem is also known as the inner solution (focusing on the fast
+initial transition period) in the singular perturbation method [43], while rescaling of time t = te
+provides the outer problem
+
+0E
+oR, Ip and « a Vis I - 7 (rs am, ) (3.31)
+yielding the large-time (outer) solution. Note that the initial fast transition period yields a fast
+equilibration of V;(t) while characteristics remain almost parallel with v; as R;(t) are essentially
+constant; for larger times (the outer solution) V; are enslaved to the remaining state variables
+(invoking singular perturbation limit with € tending to zero and an analogue of Tikhonov’s
+theorem). Hence here we can see a particular realization of the convergence of the upper vector fields to
+the lower level vector fields corresponding to large time asymptotics of the characteristics, with a
+fixed point being a solution to
+
+o= 2 (r “psi 2) (3.32)
+~ Ov; y du; . .

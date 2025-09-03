@@ -1,0 +1,14 @@
+For the sake of completeness, we recall that spatial development is the addition of stochastic perturbations in
+organization and collective motion of systems of animals individual dynamics. As commented again in [1], a noise
+can be also approached with lattice-based models. This is contribution can be also included in the second-order particle
+the case, for instance, in the series of works by the group of model developed by D’Orsogna and coworkers which, in
+Kamimura (refer to [24,26-29]) and of the so-called swarm its original version, accounts for a self propulsion term, a
+lattice-gas cellular automata introduced by Deutsch in [30]. friction contribution (following Rayleigh’s Law) and a
+The evolution of an animal group is here tackled with a classical Morse potential for attractive/repulsive pairwise
+particle-based approach: it belongs to the family of discrete interactions [33].
+methods being characterized by the fact that each agent is The analysis and classification of the collective motion of
+individually represented by a material point, whose velocity identical interacting particles is also the topic of the well-
+varies according to an ordinary differential equation. Our known Vicsek’s model [34]. In particular, it assumes that
+general model (that is not referred to a particular species) rea- flocking phenomena are owing to alignment mechanisms,
+listically distinguishes between individual speed and with uncertainties arising from a random contribution in
+direction of motion.

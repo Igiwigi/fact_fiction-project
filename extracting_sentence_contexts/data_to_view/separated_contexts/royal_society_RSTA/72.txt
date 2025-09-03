@@ -1,0 +1,29 @@
+For a quadratic c, the previous equation simplifies a lot and, in [12], we
+obtained conditions under which the best-reply map is a contraction for the Wasserstein metric
+
+
+0.4
+
+0.3
+
+0.2
+
+0.1
+
+0 1 2 3 4
+
+Figure 2. The distribution of actions v at equilibrium in the case (x,y) = (x — 1.6)4/4 + (x — y)’/200 and yu is a
+distribution of support [0.5, 0.6] U [3.7, 3.8]. The fact that sx has a disconnected support results in a corner in the density v.
+(Online version in colour.)
+
+f
+
+Figure 3. (a,b) In the case p(x, y) = \ — (1,1)? + |x — y|*/100 and ju is made of two uniform distributions of support
+
+[4,4] x [2,3] U[2, 4] & [4 2 ]:the distribution jz on the left and the distribution of actions v at equilibrium on
+
+the right. (Online version in colour.)
+
+which guarantees uniqueness of the equilibrium and convergence of best-reply iterations. See
+figure 3 for a two-dimensional example. A dynamical extension of this best-reply scheme was
+recently developed in [18].

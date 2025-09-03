@@ -1,0 +1,31 @@
+This includes combining density-based methods with a Bayesian model-
+based approach [81]; Bayesian hierarchical clustering which builds a tree of hierarchical clustering
+solutions based on Bayesian nonparametric (BNP) mixture models [82-85] and Bayesian distance-
+based clustering based on pairwise distances between observations [86-89].
+
+
+(c) Priors
+(i) Number of clusters
+
+One of the most difficult and important questions in clustering regards the choice of the number
+of clusters. In the model-based approach, the distinction between the number of components J
+and the number of clusters k requires emphasis. In fact, there may be no observations allocated
+to some components in the mixture, with possibly very small or even zero weight w; for some
+j€{1,...,J}. Thus, the number of components provides an upper bound, i.e. k < J. In general,
+there are four approaches to infer the number of clusters:
+
+(i) Model selection tools or information criteria can be used to compare the mixture model
+under different choices of J [90]; in this case, penalization for empty clusters is implicitly
+included, so that the number of components corresponds to the number of clusters.
+
+(ii) Mixtures of finite mixtures (MFM) [91-93] extend the hierarchy of the model with a prior :
+on the number of components. —
+(iii) Overfitted mixtures specify J as an upper bound on the number of clusters with a sparsity 1
+promoting prior on the weights, which implicitly defines a prior on the number of clusters : a
+[74,9496]. :=
+(iv) BNP mixtures [97] assume J =0o and can be viewed as a limiting case of overfitted ZR
+mixtures, with the Dirichlet process (DP) mixture [98] being the most widely-used [3
+example. : =
+
+In the first approach, uncertainty on the number of clusters is lost with model fits based on all :g
+other choices of J disregarded.

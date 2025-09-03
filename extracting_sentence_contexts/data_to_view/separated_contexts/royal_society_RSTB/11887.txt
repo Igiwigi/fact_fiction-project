@@ -1,0 +1,26 @@
+Specifically, we compare the fit of a dis-
+crete-time SEIVD model with time-varying transmission
+parameter A(t) [3] to weekly incidence data among the
+(i) combined Freetown and Waterloo (F&W) districts in
+Sierra Leone, (ii) the Port Loko (PL) district in Sierra Leone
+and (iii) Sierra Leone (SL) as a whole. In some cases,
+
+we allow the initial number of exposed individuals E(0) to
+be a fitted parameter, as a way of dealing with the fact that
+we do not know when the first infection actually occurred
+within a particular district. Further, we allow for the fact
+that the actual size of the susceptible group underlying a
+particular set of incidence data is not known by fitting an
+effective-population size Neg, a term borrowed from genetics,
+but used here in a different context. Specifically, Ng answers
+the question: what would the best estimate of the size of
+the underlying population be if the epidemic were taking
+place in a homogeneous population (i.e. homogeneous
+individual hosts from, inter alia, a spatial, behavioural, phys-
+iological and immunological point of view; as well as a single
+homogeneous strain of pathogen)?
+
+2. Model construction
+
+The model we fit is a discrete-time deterministic version of the
+SEIVD model presented in Getz et al. [3].

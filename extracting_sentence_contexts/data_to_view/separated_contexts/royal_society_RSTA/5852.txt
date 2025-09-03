@@ -1,0 +1,14 @@
+Recall that when R, > 140 turbulence is considered developed
+[27] in the sense that the forcing scale significantly 27/ky separates from the Kolmogorov length
+scale n.
+
+(b) Identification of tubular vortices in different scales
+
+It is straightforward to numerically simulate turbulence at high Reynolds numbers by the method
+described in the previous subsection. However, in general, there are two difficulties when we
+analyse coherent vortical structures in different scales in the developed turbulence. The first difficulty stems from the fact that we cannot extract multiple-scale features of coherent
+vortices by vorticity magnitude or the second invariant (i.e. the Q value) of the velocity gradient
+tensor. Since smallest-scale flow structures predominantly determine the velocity gradient
+tensor, we only observe the smallest-scale structures in the visualizations by using the vorticity
+magnitude or the Q value. This is the reason why we need a scale decomposition to capture :
+the multiple-scale structures in turbulence.

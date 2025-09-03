@@ -1,0 +1,27 @@
+The realistic measurement
+
+
+procedure is more complicated than the von Neumann-Liiders scheme and, generally, cannot be
+reduced to the latter even if the involved intervals of time are rather short.
+
+3. Joint quantum probability
+(a) Channel-state duality
+
+As is explained in §2f, the von Neumann-Liiders scheme does not provide a general definition
+of conditional quantum probabilities and therefore does not lead to correct joint quantum
+probabilities. This is due to the fact that a realistic measurement procedure requires the five-
+step convolution channels described in the previous section. This multichannel measurement
+procedure looks quite complicated. Fortunately, there exists the Choi-Jamiolkowski [31,32]
+isomorphism establishing the channel-state duality
+
+C <> {6aB, Has}, (3.1)
+with a state 6,48 defined on the Hilbert space
+Hap =Ha &) He. (3.2)
+
+Thus, instead of dealing with the channel convolution, we can equivalently consider the
+composite state characterized by the space of microstates (3.2).
+
+(b) Prospects as composite events
+
+Using the channel-state duality, we can interpret the measurement of two observables, or the
+occurrence of two events, as a composite event.

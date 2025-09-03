@@ -1,0 +1,18 @@
+To compensate for possible misalignments in
+the scan, the offset between the 0° and the 180° side projections was calculated automatically by
+NRECON software and an optimal overlay between the two projections was obtained prior to
+reconstruction. Ring artefacts, which may appear as a result of imperfections in the detector and
+cause concentric rings superimposed on the image, were minimized by randomly moving the
+object by a few micrometres throughout scanning [29] and by setting the ring artefact correction
+equal to 5 (as automatically set by the NRECON software) in the reconstruction process. To correct
+for beam hardening—which is a result of preferential absorption of low-energy X-rays on the
+surfaces of bone, leaving the inner portions apparently less dense owing to the fact that the
+remaining high-energy X-rays are absorbed less—the NRECON software applies mathematical
+corrections as documented in [30,31]. In this study, beam hardening was reduced both during
+the scans by using an aluminium filter and in the tomogram reconstruction by setting a constant
+beam hardening correction factor of 25% in the NRECON software.
+
+3. Results
+
+Figure 2a shows the strong refraction signal originated by the interface of the mouse AC
+visualized by high-resolution synXPC micro-CT (white arrowheads).

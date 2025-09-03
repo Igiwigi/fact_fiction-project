@@ -1,0 +1,11 @@
+Violating the assumption that a molecule is always in a well-defined state (as in ‘state
+switching’) can be exploited: as described in [8], Rabi oscillations between molecular states can
+be used to cause the wanted nonlinear relationship between excitation and emission. There is
+clearly no ‘switching of states’ involved in such a situation, which clarifies why in my view ‘state
+switching’ does not constitute a common basis or prerequisite for superresolution. Yet, the fact that fluorescence comes in discrete quantities, molecules and molecular states and
+switching between them, is something that is clearly exploited in single-molecule localization
+methods (SMLM). But in SMLM the purpose of switching is separation, to be able to assign
+many emitted photons to the same entity, i.e. to separate individual emitters [24]. In SMLM and
+MINFLUx, the superresolution comes from the fact that multiple detection events (or also ‘not-
+detection’ events in the case of MINFLUX) can be assigned to the same entity (molecule) with
+(hopefully) still the same position.

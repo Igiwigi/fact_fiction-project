@@ -1,0 +1,39 @@
+Define the sequence of maps
+
+(= 2,
+
+which clearly verify
+
+Sent) unt —1))
+un(t)
+
+Let t, € [0, T) be such that v/,(t;) =0 (t; exists since v;, is periodic). Thus,
+
+uy (t) = Onalt un(t), WteR, WneN.
+
+vi (t)=—On | a(s) Sen) Un(s — t)) un(s) ds.
+
+tn Un(s)
+Therefore,
+guint), tin(S = 2)
+Un(s)
+By condition (g2), it follows that |vj,|o0 > 0, as n > oo. This convergence and the fact that |v; |o0 =1
+
+for all n imply that (v;,), converges uniformly to 1. Now, recalling that wu, and consequently u/, are
+periodic and that 6, 40, we have
+
+T
+Iv, loo <[, las)
+
+T
+0 =| a(t)g(un(t), Un(t — t)) dt.
+0
+Thus, we have
+
+T
+0 =| (a()[g(rn, rn) + 9(tnvn(t), trvn(t — T)) — g(n,7n)]) dt,
+
+and hence, since g(7'n,1n) #0, for all n, and applying (g1),
+
+fh PP gtr aun(t),tnvnlt — 2) — (Fata)
+\, a(t) a= | a(t) enn) dt. The first integral above, by (az), is non-zero.

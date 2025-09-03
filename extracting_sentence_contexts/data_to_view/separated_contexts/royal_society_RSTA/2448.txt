@@ -1,0 +1,6 @@
+When the user walks away, the signal strength decreases. On the other hand,
+the spatial distribution of channel gain seen by photodetector D7 is almost flat (i.e. the same
+channel gain for all cells). This is a result of the fact that this detector is oriented towards the floor
+and the detector only captures reflected rays, i.e. there is not LOS component. Table 9 presents the average channel gains and RMS delay spreads (i.e. averaged over 100 cells
+in the room) for D1, D2, D3, D4, D5, Dé and D7. It is observed from table 9 that the best location of
+photodetector (i.e. minimum path loss) is D5.

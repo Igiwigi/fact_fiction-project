@@ -1,0 +1,14 @@
+The bed
+consist of a regular array of cylinders (which appear to be spheres in 2D) and it is simulated
+to study the reactant consumption rate, q, under different control parameters. It is easy to realize
+that the consumption rate, q, depends in principle on many parameters such as, e.g., the inflow
+concentration(s), the flow velocity /pressure drop in the bed, the reaction rate coefficient (which
+is a function of electric field), the bead size and geometry, etc. Here, we want to stress the fact
+that the consumption rate, q, shows a non-trivial dependency from a number of these parameters
+
+
+and, in particular, it has a maximum for intermediate values of some of them, therefore a non- Lo |
+trivial trade-off exists. In this manuscript, we limit our self to study the dependency from three
+
+relevant parameters, i.e. the packed bed porosity, the bead size and the pressure drop through 13
+the bed. The simulated packing geometry of the reactor is the same as that shown in figure 1.

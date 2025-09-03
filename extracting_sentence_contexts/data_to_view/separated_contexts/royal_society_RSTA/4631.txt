@@ -1,0 +1,13 @@
+Wil dur,
+
+where ju; is any solution at time t of (4.6) and y= W * ju; its associated potential. Therefore, the :3
+points on the support of a local minimizer jx of the energy E should correspond to critical points a
+of its associated potential yy. This fact is made rigorous in the following proposition. [3
+
+Proposition 4.1 ([64], theorem 4). Assume that W is a non-negative lower semi-continuous function : a)
+in Li, (RY). If pw is a dg-local minimizer of the energy, then the potential w satisfies the Euler-Lagrange : ~
+conditions given by ig
+
+@) WO) = (W * w(x) = 2E lH] wae. :3
+(ii) W(x) = (W w(x) < 2E[1] for all x € supp(v). 3
+(ili) W(x) = (W * w)(x) = 2E[u] for ae. x € RN.

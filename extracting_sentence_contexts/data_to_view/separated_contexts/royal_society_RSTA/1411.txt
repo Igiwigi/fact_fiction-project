@@ -1,0 +1,11 @@
+Moreover, this approach does not respect the well-understood underlying
+physics. In this study, we describe a machine learning approach for accelerating radiative transfer
+computations that respects the well-understood governing equations, using machine learning
+only to accelerate the data-driven aspects of the calculations. We exploit the fact that radiation
+calculations are composed for two distinct steps: the mapping of the physical and chemical
+state of the atmosphere to a problem in radiative transfer and the subsequent solution of that
+radiative transfer problem. The first step converts temperature, pressure and composition into
+atmospheric optical properties that determine how much radiation is emitted (Planck source
+function), absorbed or scattered (optical depth, single scattering albedo), and the direction of
+scattering (asymmetry parameter). Unlike the solution of the radiative transfer equation, the
+calculation of gas optics relies on empiricism and large amounts of tabulated data.

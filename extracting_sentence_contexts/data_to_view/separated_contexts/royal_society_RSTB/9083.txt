@@ -1,0 +1,19 @@
+This
+below. However, the present state of the art offers no final insight still forms a crucial component in many engineering
+word that may settle the differences between proposals for applications in speech recognition and machine translation [49].
+building blocks and the relations between different choices. n-Gram models (often simple bigrams) have also been fre-
+It remains a matter of future research to explore the extent quently applied to bird song [50-54] and music [55,56] (see
+to which different types of music and animal vocalizations below for further details). For many bird species, bigrams in
+may require different choices of building blocks and to per- fact seem to give a very adequate description of the sequential
+form an empirical comparison of different approaches: structure. Chatfield & Lemon [51] studied the song of the car-
+although it seems natural to want to settle on the question dinal, and reported that a 3-gram (trigram) model modelled
+of what the building blocks are before investigating how song data only marginally better than a bigram model
+these building blocks are combined into sequences, it might (measured by the likelihood of the data under each of these
+be necessary to study both issues at the same time. models). More recent work with birds raised with artificially
+
+constructed songs indicates that transitional probabilities
+between adjacent elements are the most important factor in
+the organization of the songs also in zebra finches and Benga-
+
+1
+3.

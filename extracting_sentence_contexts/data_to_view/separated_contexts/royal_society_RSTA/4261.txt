@@ -1,0 +1,8 @@
+However, these two instantaneous frequencies actually give an equivalent degree of nonlinearity,
+as shown in appendix A. The reason for this is that in the definition of the degree of nonlinearity,
+(5.9), the inter-wave modulation is actually factored out. This fact also shows that the nonlinearity
+is encoded in the shape function, while the amplitude and instantaneous frequency have no
+contribution to the nonlinearity if the definition of the degree of nonlinearity given by Huang
+et al. is adopted. In figure 62,b, we give the instantaneous frequencies recovered from the shape function for the
+solution without and with noise in one wave cycle. As we can see, they both have very strong
+intra-wave modulation.

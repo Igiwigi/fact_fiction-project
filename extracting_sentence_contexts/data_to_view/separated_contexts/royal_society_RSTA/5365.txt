@@ -1,0 +1,12 @@
+Counting curves
+
+Our first example comes from enumerative geometry, a particularly active field
+in the nineteenth century. In classical geometry many problems concern counting
+the number of solutions. Starting with the fact that two straight lines in the plane
+meet in one point (which may be at infinity, in which case the lines are parallel),
+one goes on to show that curves in the plane given by polynomial equations of
+degrees m and n meet in mn points, provided we allow complex solutions, points
+at infinity and count intersections with multiplicity. A slightly more complicated problem is to count the number of curves in the
+plane that satisfy certain constraints. One such problem for curves of degree d,
+which are rational, i.e. can be described parametrically by rational functions of
+one complex variable, is to ask how many such curves go through n general points.

@@ -1,0 +1,13 @@
+Along the fibres, the diffusion coefficient is
+0.001 cm2 ms! ; in all other directions, it is 0.0002 cm? ms). Spiral waves were initiated using a
+cross-field protocol and stacked to produce a scroll wave with a transmural filament.
+
+(b) Data assimilation
+
+Data assimilation is the process of estimating the state of a complex system by combining a prior
+estimate of the system state with new observations of the system to yield a more accurate state
+representation. There are many methods of data assimilation, and, in fact, state estimation has
+been used by other groups for cardiac cells and small one-dimensional tissues [54,55] as well as
+two-dimensional tissue with optical mapping data [56]. Here, we build on our previous work
+using a variation on the ensemble Kalman filter, the local ensemble transform Kalman filter
+(LETKF) [57], which is particularly well suited for large three-dimensional domains. The LETKF is one of the class of ensemble Kalman filters (EnKFs).

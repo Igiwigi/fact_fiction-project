@@ -1,0 +1,8 @@
+However, often we can think of non-parametric models
+as being defined in terms of an infinite-dimensional 6. More formally, the infinite-dimensional
+
+
+6 is often represented as a function. The term non-parametric is therefore a bit of a misnomer;
+it is not that non-parametric models do not have parameters; in fact, they have infinitely many
+parameters. Because of this, non-parametric models cannot be explicitly represented in terms of
+their parameters. From the information channel viewpoint, we have removed the bottleneck.

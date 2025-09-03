@@ -1,0 +1,16 @@
+To couple the agent to its environment, we have &
+to specify how its expectations depend upon observations a
+oo. and how its action depends upon expectations. In active = w
+2. Active inference inference, the expectations minimize free energy and the $
+This section introduces active inference, in which beliefs about ensuing beliefs about control states prescribe action 8
+(hidden or fictive) states of the world maximize model evi- =
+dence or the marginal likelihood of observations. In contrast Mm, = argmin, F(d, ) =>
+
+to classic formulations, active inference makes a distinction Pr (a; = uy) = Q(us| my) (2.1)
+
+between action that is a physical state of the real world and F(o, w) = Dex LQG, iu|)||PG, 7]6)] — In P|).
+
+beliefs about action that we will refer to as control states. This
+changes the problem fundamentally from selecting an optimal
+
+action to making optimal inference about control.

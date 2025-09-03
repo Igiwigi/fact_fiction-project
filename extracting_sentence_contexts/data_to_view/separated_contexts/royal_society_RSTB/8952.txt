@@ -1,0 +1,14 @@
+To mimic such physiological actions in
+the modelled network, we explored variable changes in the dis-
+
+was enabled by the NetStim routines of NEURON. Thus, the charge frequency f of excitatory synaptic inputs to one or more
+output of pyramidal cell activity was represented by a stochastic glu- networked BCs. In the present context, our principal aim was
+tamatergic synaptic currents (V;.t = 0 mV, see §2b for the kinetics) to understand the implications of the fact that individual astro-
+generated at individual BCs with an adjustable frequency fand post- glia occupy non-overlapping, volume-limited tissue domains
+synaptic conductance amplitude g. In baseline conditions, the [32]. We therefore applied the synapse-modifying action to
+stochastic excitatory synaptic input to individual interneurons was variable-size clusters of neighbouring BCs and compared the
+set at the average synaptic discharge frequency of fy = 300 Hz, in outcome with that under a quantitatively identical action dis-
+
+line with earlier estimates, giving a sustained network oscillation
+frequency of 18-22 Hz (close to the gamma-frequency range for
+CA1 or CA3 interneuronal networks).

@@ -1,0 +1,14 @@
+In other words,
+the abundances of extant species are assumed to evolve indepen- Summarizing, equation (2.2) gives a complete description
+dently of each other. Importantly, the resulting mean field of the non-spatial, NZS model that provides a good approxi-
+description collapses nonlinear rates of competitive interaction mation to various neutral predictions in ecology when
+into an increased, linear mortality rate for each species. This diversity is high [18,21,34,42,43].
+approximation of the overlapping generations neutral model is To ensure consistent notation across different scientific
+also known as the ‘non-zero-suny’ or NZS approximation, refer- disciplines, we will refer in the following to species as
+ring to the fact that the total population size may fluctuate over variants, to individuals as instances and to speciation as inno-
+time, i.e. births and deaths do not sum to zero. It has been shown vation. Further, birth and death rates describe the rates at
+that this approach provides only a good approximation in popu- which a cultural variant generates or loses an instance,
+lations with a large number of species, but in a less diverse respectively (see figure 1).
+
+population, where a handful of species are dominant, the
+mean field approximation is no longer a meaningful description.

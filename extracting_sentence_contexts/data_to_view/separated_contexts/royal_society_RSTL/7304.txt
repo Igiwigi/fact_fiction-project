@@ -1,0 +1,65 @@
+It is easy to see that the foregoing envelope
+may be geometrically constructed as follows: viz. if
+from the point Q (coordinates cos, s8in6) on the
+reflecting circle we draw QM perpendicular to the
+line z—m=0, and then from the point M draw MN
+perpendicular to QT, the tangent at T, and produce
+MN to a point P such that PN=NM, then P is a A.
+point of the envelope; and we thence obtain for the »
+coordinates (z, y) of a point P of the envelope the
+values
+
+Y
+
+= m—2(m— cos 9) cos? 0,
+y=s8in {—2(m— cos) cos 0 8in 6,
+or, what is the same thing,
+x=2 cos 6—m(2 cos? 9—1),
+y= in 6(2 cos? +1)—2m sin 6 cos 9,
+or, as these equations may also be written,
+x=23 cos j—m cos 29+F4 cos 39,
+y4=3 8mm 6—msin 26+4 sin 36.
+6. This result may be verified by showing that these values satisfy the equation
+cos 26+4(x—m) cos 9+ 4y 8in 9+21*—1—2(a*+z*)=0,
+and also the derived equation
+
+8n 25+2(z—m) 8in {—2y cos 9=0. We in fact have
+x8nd—ycos/= min 6—4 sin 25,
+a cos {+y 8in 9=Z—m cos 9+ cos 29,
+and thence
+(z—m) 8in 8—y cos = —+ in 26,
+which is one of the equations to be verified; and also
+(x—m) cos 8 +y 8in #=$—2m cos 6+4 cos 28. We have moreover
+2+ = + +m*—4m cos9+$ cos 26;
+MDCCCLXVIL o
+
+
+10 PROFESSOR CAYLEY'S SUPPLEMENTARY MEMOIR ON CAUSTICS.
+
+and, by means of these last equations, the other equation
+cos 26+4(x—m) cos 6+4y 8in v+20—1 —2(a*+4)=0,
+
+is also verified.
+
+7. The foregoing values of (a, y) give
+
+dx=(—$ 8in 9+ 2m sin 26—23 8in 39)49=—sin 26(3 cos 9—2m)ds,
+dy=( $cos9—2m cos 29+3 cos 39)d9= cos 29(3 cos 6—2m1)db,
+or, what is the same thing,
+du: dy=—sin 29 : cos 26,
+
+Hence taking for a moment (X, Y) as the current coordinates of a point in the tangent
+
+of the envelope, the equation of the tangent of the envelope is
+Xdy—Ydr=uady—ydpr,
+or, substituting for a, y, dz, dy their values, this equation takes the very simple form
+X cos 29—Y sin 29—2 cos9+m=0,
+or writing (x, y) in place of (X, Y), that is taking now (, y) as the current coordinates
+of a point in the tangent, the equation of the tangent is
+# cos 259—y 8in 29—2 cos 6+m=0;
+
+whence observing that this equation may be expressed as a rational equation of the
+fourth order in terms of the parameter tan 46 (or cos 9+x/ —1 sin 9), it appears that
+the class of the secondary caustic is=4.
+
+8.

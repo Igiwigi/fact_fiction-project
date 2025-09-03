@@ -1,0 +1,15 @@
+It would certainly be of interest to pursue this study for substantially
+higher numerical resolution at small scale, leading to higher Reynolds numbers Re, in order to
+investigate the role small scales play in the development of inverse cascades in that case. For
+example, does the k~? inverse scaling of Hjyy,c persist at high Re in Hall- MHD?
+
+(b) Exact laws in the presence of helicity
+
+A conservation law, such as that of kinetic energy, is a global volume-integrated property of non-
+dissipative physics. These laws are in fact rather constraining in the sense that they are valid, in
+Fourier space, for each individual (but isolated) triad. They also lead, under a suite of hypotheses
+(homogeneity, isotropy, stationarity, and non-zero dissipation in the limit of high Reynolds
+number), to an exact relationship linking third-order structure functions to the kinetic energy
+dissipation rate ey and the spatial distance r between two points. In the simplest (incompressible)
+case, this leads to the Kolmogorov 4/5th law [81]; with du(r) = u(x + r) — u(x), and with uy the
+longitudinal component of the velocity (along 1), it is written as (suz(r)>) = —(4/5)evr.

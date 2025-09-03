@@ -1,0 +1,31 @@
+It is worth adding that the presence of eSkin on large area brings new opportunities too. For
+example, the large area could also be used to harvest energy (e.g. by integrating photovoltaic
+cells on whole body) to power the sensors and electronics [25]. In fact, the development of
+large area eSkin has revolutionized robotics by allowing new strategies based on simultaneous
+multiple contacts, particularly in the unstructured environments or where vision is blocked
+[2-4,11-14,24,32]. In unstructured environments, the complete world model is not available, and
+robots have to plan and execute the tasks in the presence of environmental uncertainties. In such
+
+
+(a) (b)
+
+memory
+clock
+processors
+
+test object
+
+analogue
+tactile data
+
+IL | neuromorphic
+MI sensors
+analogue t
+= sensors = tactile (111 | spiking neural
+(data 1" network (SNN)
+
+i
+
+___heural interface
+
+Figure 3. (a) Conventional sensor readout and transmission in a robotic hand.

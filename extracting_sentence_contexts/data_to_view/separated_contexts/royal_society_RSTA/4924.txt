@@ -1,0 +1,69 @@
+Here a,(D(x)) is defined by (1.34). Substituting
+u=q~'/?, binomial expanding, and rearranging the resulting double sum, we have
+
+yo iw) == 2+ apg)
+
+D(xjeHag DeHys
+k kj
+k\ 2
+— (1 — qa )/2)k
+=(1-q >(') gama, (6.1)
+j=0
+where
+ma(qij):= > (= agy. (6.2)
+DeHaa
+
+The connection with the moments for d = 3 is through the following relationship. Let
+
+ma(qj):= > (-aq). (6.3)
+
+DeHy3
+We prove, in theorem 6.2, that, for q an odd prime power, not divisible by 3, and for j > 0
+
+qm3(qj) — ifjeven
+
+(6.4)
+m3(q;j +1) ifj odd.
+
+ma4(q;j) =
+
+
+Now, equation (5.12) gives, for prime q = p > 3,
+
+P(Sj2(p) —(p— 1), ifjis even,
+
+. (6.5)
+0, if j is odd.
+
+m3(p;j) = |
+
+The extra factor of p compared with (5.12) is to account for the fact that here our sum is over H
+rather than H. Thus, breaking the sum on the right side of (6.1) into even and odd terms j, we have, for
+
+q=p>3,
+
+K (k\ 2 BG KN
+»(') ye ma(pij) =P > (' i ma(pi))+ > (' pam) +1). (6.6)
+
+j=0 j=0,even j=0,odd
+
+The first sum is precisely the sum that appears in (5.3), and (5.22) gives
+
+ise 2 (raeea\ RF (ae 4) 2+ 1)ltra42(Tp) +1)
+P y (')? amp) (5 (%; )- 2D k—2) e424 2pe0 |
+
+j=0,even
+(6.7)
+Furthermore, substituting j = v — 1, the second sum equals
+12 k+1 k \ 2k-vt1
+pe Sg Ema»). (68)
+v=2,even
+
+Using (6.5), as well as lemma 6.3 (below), and simplifying, the second sum becomes
+
+(yt —p3) ( 4 (2 ' _ (RP 4k +422 4 spores went)
+
+pz \k+3\k- a Pk+7+47(k— 2142p
+(6.9)
+Putting together (6.9) and (6.7), we arrive at the following theorem:
+Theorem 6.1. Let p > 3 be prime.

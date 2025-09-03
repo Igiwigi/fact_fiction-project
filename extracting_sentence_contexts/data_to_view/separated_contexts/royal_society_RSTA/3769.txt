@@ -1,0 +1,11 @@
+This property corresponds to the ‘local
+equilibrium’ assumption in thermodynamics, a paradigm which allows us to write dynamical
+equations for the thermodynamic quantities far from global equilibrium. Nevertheless, one can
+with the formalism presented in this paper interconnect dynamical systems in arbitrary patterns,
+not just those that arise from such a dicretization. In fact, the scope of systems we can model includes those considered in [5], and goes beyond
+their axiomatic approach in that we propose a detailed dynamic description of internal states and
+correlations within and across systems. In particular, we generalize ectropy with meta-energy,
+which accounts for those cross-system correlations, and behaves as a Lyapunov function even as
+heat can momentarily flow from cold to hot systems, a possibility indeed allowed by (4.21). To conclude this section, let us mention that establishing the validity of Fourier’s law even
+in the non-equilibrium stationary case from microscopic dynamics is a notoriously difficult
+problem [36].

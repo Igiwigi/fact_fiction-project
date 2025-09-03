@@ -1,0 +1,57 @@
+First, generate a set of martensite variants
+
+M = {(Uj,Q;,M;) : Uj = Q)U1Q;" and Mj = P~!QvP for Qj € P}. (3.11)
+
+The set M can be divided into n subsets containing the elements with the same U; [3,41,
+42]; that is M =A, U...U A, where n = |P|/|P""|. Each of the subsets
+
+Ae = (Ue, Qe,a), Miva) ford =1,...,|P™ I}, (3.12)
+
+represents a distinct variant of martensite.
+(iii) For each of the subsets Ay, calculate the lattice correspondence matrices
+
+r&) =My a0, ford=1,...,|P™|. (3.13)
+
+Note that the above calculation is equivalent to (3.6) due to the group-subgroup relation
+between austenite and martensite [41]. All lattice correspondence matrices form a set
+V= (CoP) :0=1,...,|PI/[PMd=1,...,/P™, (3.14)
+where the Right Cauchy Green tensor is given by:
+ce’) — (O,r)-TETECO rT). (3.15)
+(k)
+
+(iv) Ina specific martensite sub-region Rx corresponding to orientation matrix O;,;
+the set of rotations
+
+, calculate
+
+S = (RY RO = OY (VCO, Fr)“ for all (Ce, FO) EV}. (3.16)
+
+Given the fact that the relative rotation of the lattice of the martensite to that of austenite
+is near to the identity matrix [44], a pair of labels (¢*, d*) € {1,...,|P|/|P™|} x {1,...,|P™|}
+
+
+minimizes the distance
+dist = |R© — I], for all €=1,...,|P|/|P"|, d=1,...,|P™|. (3.17)
+
+The symbol || - || denotes the L2 norm of a matrix. In this representation, we use the angle
+of rotation
+
+rq) RO) —1
+cos 064) = =. (3.18)
+
+as the measure of rotations. In the case of the cubic to monoclinic phase transformation in Cug5Au39Zngs alloy, we have
+
+asinB 0 0 : ~>
+E’ =(e/,e5,e3) =aol, E=(e1,e2,¢3) 0 b Of. (3.19) :=
+acosp 0 ¢ a)
+
+Equation (3.5) shows that the transformation stretch tensor U; is calculated as the polar nen
+decomposition of E(E°r)—! with d = 1,2 where aa
+
+-l 9 m™ 1 9 —™ i
+2 2 z 2 Dy
+rev=f0 1 OF and r=}o 1 0 |}. 320) 38
+-l 9 —™ 1g m :3
+2 2 2 2 s
+In (3.20), m =9 is an integer that denotes the modulation for long period stacking order structure
+of martensite [34].

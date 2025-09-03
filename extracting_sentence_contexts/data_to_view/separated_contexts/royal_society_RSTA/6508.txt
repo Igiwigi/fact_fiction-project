@@ -1,0 +1,17 @@
+Model components that are identified as equivalent between the two models are indicated with numbers in parentheses.
+(Online version in colour.)
+
+components, such as molecular species, diffusion, types of interactions, boundary conditions,
+and global aspects of the solutions, as vertices, with edges and higher-dimensional simplices
+representing interconnections between the model components, such as an edge between a
+molecular species and its diffusion. It is then possible to construct a distance function between
+pairs of labelled simplicial complexes, corresponding to the total number of simplices that occur
+in only one of the two simplicial complexes, that provides a measure of conceptual similarity
+between the models, so that a larger distance corresponds to a greater conceptual difference. Such
+analysis shows that some of the models previously reported to be TP mechanisms are in fact
+closely related to models proposed as generating PI patterns (and vice versa). Indeed, in figure 4,
+we compare the distances between five PI models and four TP models. The PI models are the
+linear gradient, synthesis-diffusion-degradation, opposing gradients, annihilation, and scaling
+by modulation models, referred to as P1—P5, respectively; and the TP models are the activator-
+inhibitor, substrate depletion, inhibition of an inhibition, and modulation models, referred to as
+T1-T4, respectively.

@@ -1,0 +1,31 @@
+This mismatch is probably due to the fact
+that a in theorem 5.3 cannot be computed at the precise value of dl, in the numerical set-up. The theoretical prediction f; at the first bifurcation at co max is less accurate in comparison to
+the numerical value of f (although it has the same order of magnitude). This is likely caused by
+the fact that the solitary travelling wave is rather wide at the bifurcation (recall that the solitary
+waves delocalize when c approaches the sonic limit c; = 1, as illustrated in figure 2), and Le,
+and £7e9 are not precisely in the kernel of £, causing an error in computing « and therefore
+f;. We note that, although the value /=100 has been fixed for the length of the system in the
+calculations leading to figure 4 and table 1, we used different values of the mesh size Aé (see
+SIV of the electronic supplementary material for details) at the two bifurcations, Ag = 0.025 at the
+
+
+(a) (b)
+
+500 0.6
+400 0.4
+S
+300 0.2
+& g
+= i
+200 =~ 0
+as
+100 -0.2
+0.4 :
+
+0 100 200 300 400 500 600 0 100 200 300 400 500 600 Dos
+>
+n n _—"
+73
+Figure 6. Evolution of the unstable solitary travelling wave with c = 1.034 for the regularized potential whose spectrum is 3
+represented in figure 4. (a) The space-time evolution dynamics of the strains; (b) the strain profile att = 5007, where T = 1/c. : =
+Here ¢ = 0.25, x = 4 andr, = 1.

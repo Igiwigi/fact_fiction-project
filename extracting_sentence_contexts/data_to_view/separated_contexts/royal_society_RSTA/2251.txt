@@ -1,0 +1,8 @@
+But, as in classical physics,
+probabilities require a sample space of mutually exclusive possibilities, one and only one of which
+is thought to take place in a particular run of the experiment. In quantum theory, a sample space
+is always a PDL. The orthogonality of the projectors ensures that only one, and the fact that they
+sum to the identity means at least one, of these possibilities will occur in any particular situation. In classical physics, the choice of a sample space is usually quite straightforward, and if two or
+more spaces are of interest in some situation it causes no difficulty, as one can always combine
+them. But in quantum mechanics one needs to make different choices depending on what aspect
+of a situation one is interested in.

@@ -1,0 +1,7 @@
+The supercell lattice parameters were
+a=15.5A (Agl), 14.3 A (Cul), 13.5 A (CuBr), 8.5 A (CuCl) and 10.3 A (LiCl). Closo-borates: Car-Parrinello AIMD simulations were run for 50-60 ps of production time
+using /2 x /2x1 supercells of FCC phases of o-LiBy2Hi2, B-LigBy2Hi2, LigBygHio and
+NazBioHio. A CP fictitious mass of 400 a.u. and a timestep of 0.15fs were used. The mass
+of hydrogen was set to that of deuterium. The supercell lattice parameters were a= 14.21,
+c=10.05A (B-LiyBy2H12); a= 13.62, c=9.63A (a-LizBy2Hy2); a= 13.23, c=9.36A (Li2ByoHy0);
+a=14.51, c=10.26 A (NapBi2Hyz); and a = 13.96, c=9.87 A (NazB 9H).

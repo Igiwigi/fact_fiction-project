@@ -1,0 +1,11 @@
+While these non-convex constraints do not guarantee globally optimal solutions, we could
+show that when we initialized our method with a good linear reconstruction, then the non-
+convexly constraint nonlinear reconstructions were often better. However, the improvement also :
+comes at the cost of increased computational complexity. For real data, inverting the nonlinear =
+model often took hundreds of iterations to achieve the best performance. =
+
+The fact that TV regularization outperforms even our best nonlinear model-based estimate {8
+shows the power to the TV constraint for objects with uniform material density as we simulated :
+here. It is likely that the inclusion of such a TV regularization term in our nonlinear model aa)
+will offer similar benefits, especially when combined with the non-negative matrix factorization Dw
+constraint. Using joint constraints has also demonstrated clear benefits.

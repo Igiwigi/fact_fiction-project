@@ -1,0 +1,13 @@
+When using a classical turbulence model (one similar
+to what was described in the previous section, but Markovianized), one observes a substantially
+different critical magnetic Reynolds number for the onset of dynamo action whether or not the
+flow is helical [39], a result corroborated by DNS [40]. It has also been realized that, even in the
+absence of helicity but with helicity fluctuations, a dynamo is still at play [41] although it needs a
+larger separation of scales to be established. In fact, the effect on large-scale properties of a turbulent flow in MHD in the helical case
+was first unraveled with a study of statistical mechanics, taking into account all three invariants
+(Kr, Hm, Hc) [42]. In that case, there are values of the Lagrange multipliers (corresponding to the
+
+invariants) that lead to spectra peaking in the large scales, contrary to the pure hydrodynamic : =
+fluid with helicity [43]. It is then not surprising that, in the nonlinear regime, it is now the 1B
+invariance of magnetic helicity and its subsequent inverse cascade to large scales which ultimately : =
+furnishes a saturation mechanism in combination with Alfvén waves [38].

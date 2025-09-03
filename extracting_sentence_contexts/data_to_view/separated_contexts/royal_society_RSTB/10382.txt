@@ -1,0 +1,24 @@
+To test
+the boundary case of infants only having access to the MSP
+(though they may have some limited use of the TSP), we ran
+additional simulations with the TSP lesioned. We found that
+learning and representations were essentially unchanged (elec-
+tronic supplementary material, figure S2). In fact, pairmate
+retrieval was slightly better without versus with the TSP (at
+the end of training, mean A — B retrieval: 0.98 versus 0.94,
+respectively, toog = 6.66, p < 0.001; mean B — A retrieval: 0.90
+versus 0.87, toog = 2.49, p = 0.01). This stands in contrast to
+the very detrimental effects of an MSP lesion (electronic sup-
+plementary material, figure S1b), revealing that the MSP is
+necessary and sufficient for statistical learning and providing
+a possible explanation for intact rapid statistical learning in
+infants despite protracted hippocampal development.
+
+(b) Higher level learning
+
+The structure of the sequences considered so far was simple—it
+could be learned by tracking the strength of transition probabil-
+ities between adjacent items or the joint frequencies of pairs. To examine how the MSP handles higher level, more complex
+statistics, we simulated learning of a ‘community structure’
+sequence that cannot be parsed based on transition probability
+or joint frequency [5,19].

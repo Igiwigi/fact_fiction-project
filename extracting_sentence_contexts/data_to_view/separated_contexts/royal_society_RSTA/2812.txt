@@ -1,0 +1,7 @@
+Remark 3.5. Observe that it is extremely important that @ is strictly convex. In fact, Mather [25]
+proved the non-existence of caustics if the curvature of the boundary vanishes at one point. An
+alternative proof of this result has been provided by Gutkin & Katok [26], where the authors
+also investigate how the shape of the domain determines the location of caustics, establishing the
+existence of open regions which are free of caustics and estimating (from below) the size of these
+regions. The next step consists then in asking in which cases these caustics foliate the whole billiard
+table or an open dense subset of it, as it happens in the circular and elliptic cases.

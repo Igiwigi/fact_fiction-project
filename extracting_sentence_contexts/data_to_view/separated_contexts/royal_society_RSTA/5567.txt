@@ -1,0 +1,11 @@
+By
+contrast, smooth-wall pipe flow may be idealized by taking k = 0 and it is observed that f(Re) > 0
+as Re — oo [31-36]. Roughly, the laminar value f ~ 32/Re is observed for Re < 10%, followed by
+the Blasius law f ~cRe~/* for 10° < Re $ 10°, and then the von Karman-Prandtl Law [37,38]
+given implicitly by 1/,/f =alog(Re,/f) + b for Re = 10°, with suitable constants a, b, c. In fact,
+the above summary only roughly states the most common interpretation of the observations
+and there are many refinements and alternative proposals. In particular, there is an old idea of
+Prandtl and others that the drag may be power-law f(Re) ~ Re~? with an exponent p(Re) that tends
+slowly to 0 as Re — oo; for example, see [23], Ch XXa for the classical literature and [39,40] for a
+modern reincarnation. Despite intense ongoing discussion of the details, the observations support
+unequivocally the fact that f(Re) decays much slower than the laminar rate 1/Re as Re — oo.

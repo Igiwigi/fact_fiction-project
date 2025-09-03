@@ -1,0 +1,17 @@
+Previous work [118] has characterized the image
+blurring in two-dimensional SE EPI and three-dimensional
+GRASE (each acquisition has a worst direction), and the
+data shown in figure 5 recapitulate that. On top of that, the
+blurring in the phase-encode direction for the particular
+two-dimensional GE EPI data shown in figure 5 was exacer-
+bated by the use of PF acquisition. PF acquisition
+undersamples the data, taking advantage of the fact that
+one half of k-space can be inferred from the other half,
+because a real-world image is represented in frequency
+space by a complex-valued matrix with Hermitian symmetry. PF acquisition can, however, degrade image resolution
+because it introduces an asymmetry in k-space that equates
+to a convolution kernel in image space. To mitigate this pro-
+blem, some systems estimate the missing data (using a
+variety of algorithms) when reconstructing PF images, but
+the downside to this approach is the possibility of creating
+image artefacts.

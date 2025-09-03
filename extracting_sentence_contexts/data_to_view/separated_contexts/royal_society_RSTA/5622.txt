@@ -1,0 +1,8 @@
+First, for each day t, we normalized the mobility flows
+from a given origin 0 to a given destination d, dividing by the population of the origin city 0. This
+transformation ensures that our description captures the number of trips per individual, and it
+is not strongly biased towards large cities. In fact, non-negative matrix factorization techniques
+are very sensitive to outliers. In line with previous literature [32,33], we transformed the data to
+reduce heterogeneity and limit the effect of outliers. By comparing the log-transformation and
+the square-root transformation (see electronic supplementary material, figure S2), we found the
+results of the two are comparable, but the latter yielded the most interpretable results.

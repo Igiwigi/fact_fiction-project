@@ -1,0 +1,45 @@
+Here is the formal proof of CBT, where 1(g of) denotes the composition :3
+of f and g, when its co-domain is restricted to the image of its domain: ‘=
+
+1. feinj(a,b) Prem
+2. geinj(b,a) Prem —
+3. (go f)ebij(a.g e fla]) Theorem (Core12) 1, 2 DG
+4. g[b]ca Theorem (Func17) 2 DA
+
+5. goeffalcg[b] Theorem (Comp11) 1, 2 : w
+6. a=glb] Theorem (Fundamental Lemma) 3, 4, 5 [3
+
+7. b=gib] Theorem (Equi4) 2 [3
+
+8. axb Theorem (Equi8) 6, 7 :&
+
+The additional lemmas, appealed to on lines 3, 4, 5, 7 and 8, do not at all touch the central
+considerations that lead to the fundamental lemma. That part begins with proving the structural
+identity for chains c’ =’ U h{c’] of a subset b’ of a, where a is any system and h any function from a
+to a. This general fact can be instantiated for the two chains c and c*; that fact, in turn, allows the
+partitions used in the proofs of the fundamental lemma to define the bijections h* and h**. Here is a
+diagrammatic summary:
+
+Cantor—Bernstein theorem
+|
+fundamental lemma
+
+oO
+
+definition of h* definition of h**
+| |
+partition based on c partition based on c*
+| |
+structural identity for c structural identity for c*
+
+ee
+
+general structural identity
+
+The proofs of the structural identity for the two chains are instances of the same proof presented in
+its general form below. This almost linear proof is not presented for its completed structure, but
+for the possibility of indicating how it was constructed through a sequence of partial proofs with
+gaps that are filled successively by forward and backward moves. (I use the line numbering of
+
+
+the completed proof; the numbering in the sequence of partial proofs is dynamic.

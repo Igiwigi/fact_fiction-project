@@ -1,0 +1,23 @@
+Neve ay < CMU? @ 07)|Icoa¢q) + DIIP"IIL~(2), (3-7)
+
+with positive constants C and D that are independent of n and which depend only on 2
+and a.
+(iv) Taking advantage of the fact that the constants C and D in (3.7) are independent of n, we
+can show that
+IIP"||L(@)
+Iu? ® u)||coa¢ay
+
+remains bounded for small values of 7. This allows us to replace the constant D in (3.7)
+by zero on the expense of a larger constant C. Eventually, insisting on the fact that the
+constant C in (3.7) depends only on a and @ and that D=0, one can let n > 0, which
+allows us to complete the proof.
+
+(a) Adequate regularization of the velocity field
+The regularization process is based on the following (classical):
+
+Lemma 3.4. Let u ¢ C°“() be a divergence free and tangential to the boundary vector field defined
+in a bounded simply connected domain Q with C? boundary. Then, there exists an approximation family
+
+
+u € C%(Q) of divergence free vector fields, which are tangential to the boundary and which converges to
+u in the C°() norm as n — 0.

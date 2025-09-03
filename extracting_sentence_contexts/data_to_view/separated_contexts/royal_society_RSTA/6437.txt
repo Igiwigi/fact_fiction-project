@@ -1,0 +1,49 @@
+Zeros of the function L(p), see (3.8), inside the first quadrant for the discrete (hollow circles) and quasi-continuum
+(filled circles) models. The inset shows the dispersion relation c»(p), for the discrete (red dashed line), see (3.9), and quasi-
+continuum (red solid line), see (4.5), models in relation to the line a» = Vp (black solid line). (Online version in colour.)
+
+(a) (b)
+2.0
+— 0)=0.5
+— H=1 0.5
+15 — o)=2
+-1.0
+é=6,
+& 1.0 pon nS a-15
+-2.0
+0.5
+2.5
+0 -3.0
+-10 5 0 5 10 -10 5 0 5 10
+n n
+
+Figure 5. Strain (a) and velocity (b) profiles at V = 1.5 and different oo. (Online version in colour.)
+
+To specify the function ¢(7), we need to introduce the following sets
+Z* ={p: Lp) =0, tImp>0}. (3.11)
+
+We can then write the explicit solution of the problem in the following form:
+
+2
+0 (P/) —ipin
+et De army oe
+pjeZ
+
+. o0 one*(pj)
++h Lp,
+vet pjeZ* PLP)
+
+e(n)= (3.12)
+
+eh, <0,
+
+where we used the fact that the point p=0 should be passed by the integration contour from
+below, see [19] for more details. The typical strain profiles are shown in figure 5a; these solutions are admissible in the sense
+that the critical strain is passed only once. To find the velocity distribution u(y), we need to solve
+the equation v(7) = —V du(n)/dn, which in the Fourier space reads
+
+v. . 2 xy
+bp= ~v er 2 Ps Pe80) +h (3.13)
+
+
+Figure 6.

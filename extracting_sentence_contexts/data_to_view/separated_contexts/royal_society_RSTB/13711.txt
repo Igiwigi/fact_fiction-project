@@ -1,0 +1,18 @@
+Numbers within each bar show the cost of each plasmid (% reduction in fitness
+relative to plasmid-free MG1655).
+
+machinery, alter the transcriptional profile of their host and should show negative (synergistic) epistasis for fitness. This
+drive the expression of dozens of foreign proteins that can hypothesis is based on the following three premises: (i) the
+negatively interact with host cellular networks [3,5-9]. translation machinery of wild-type E. coli is highly optimized
+
+The universality of these potential sources of plasmid costs to maximize growth rate in different environments and meta-
+is a matter of debate, yet it is generally accepted that the pertur- bolic states [18,19]; (ii) exogenous genes compete with
+bation produced by plasmids (and other forms of HGT) on housekeeping genes for the translational apparatus, and thus
+the translational machinery of the cell leads to a fitness cost the production of plasmid proteins diverts resources from the
+[8,10-13]. This perturbation stems from the fact that plasmids synthesis of essential proteins [20,21]; and (iii) bacterial
+and chromosomes usually present different GC content, and growth rates are proportional to the available ribosomes and
+consequently, plasmid genes typically show a different codon their peptide chain elongation rate [22]. To test this hypothesis,
+usage bias from the host chromosome [14]. This discrepancy we took advantage of a collection of E. coli mutant strains
+creates an imbalance between charged tRNA abundance in that either have reduced ribosomal availability or processivity,
+the cellular pool and the tRNAs specified in the codons of and experimentally measured plasmid fitness costs for six
+plasmid genes.

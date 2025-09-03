@@ -1,0 +1,23 @@
+In order to determine the coefficients Ban numerically, as in [8,9], :2
+we first discretize the boundary of @ into P points p,,...,pp. The resulting linear equations 1B
+are Ab © —uinc, where b € C2™ is a vector with the coefficients Bqn, the matrix A é CPxQM is 1a
+constructed so that (Ab); = Ugey (pz) and —uinc € C? is built by using discrete values of a given : ~>
+incident field, and as such (uinc)x = Uinc(Px). In fact, Uinc is chosen to be an incident plane wave [=
+defined explicitly and in terms of its Jacobi-Anger expansion as : Ss
+oo a)
+
+Line = @iBT 89 — > n(Bye”. (3.2) ae
+
+n=—0o Do
+
+As we work with the fourth-order biharmonic equation, it is necessary to note that the normal a)
+derivative of the total field on the boundary of 2 must be small, and this has been verified [8
+numerically. Also note that, unlike in [8,9], a condition imposed sufficiently far away from the [Ss
+devices to uphold the decay of the radiating fields is not necessary. a)
+
+(a) Simulations
+
+An overdetermined system of equations with P > QM may be solved, in the least-squares sense,
+using the singular value decomposition (SVD) method (see, for example, [18], ch. 12). Using
+SVD we may rewrite the coefficient matrix as A= UZV", where the superscript + denotes the
+Hermitian transpose.

@@ -1,0 +1,13 @@
+For example, it can be observed that multiscale ig
+problems do not typically have a closed solution (except for some idealized situations when a : s
+single-scale model at the finest level, e.g. a solution of the time-dependent Schrédinger equation 1B
+
+in quantum mechanics, can be used as a first-principles direct solution method). To simulate
+a large enough system with multiple scales at the level of detail required, one has to combine
+models at various scale resolutions and invariably deal with different physics. Multiscale systems
+can be characterized by the fact that there is a form of approximation or coarse graining involved
+in the multiscale modelling, corresponding to an error below some threshold scale of interest. The
+specific terminology used for coarse graining and scale bridging in multiscale systems varies in : =
+different subject areas. For instance, terms such as projection, upscaling, model reduction and physical :3
+analogy could be used to describe the procedure of reducing the full complexity of the multiscale
+problem to an insightful, but tractable, representation.

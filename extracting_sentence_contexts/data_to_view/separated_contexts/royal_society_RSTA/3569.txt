@@ -1,0 +1,15 @@
+The synchronization effect is much more pronounced when the cells start from close initial conditions, as indicated by the
+black (blue) tongue-shaped region (d). Parameters corresponding to points A (gin, = 0.0001; g. = 0.0001 (nS)); B Ginn = 0;
+Get = 0.01 (N5)); C (Ginh = 0.01; ge = 0.01 (nS)); D (inh = 0.01; gi = 0 (n5)); E (Ginh = 0.02; ge = 0.01 (nS); and
+F (inh = 0.01; ge: = 0.02 (nS)). (Online version in colour.)
+
+the electrical coupling alone always impedes synchronization but the addition of inhibition
+can yield complete synchrony. The fact that increasing the electrical coupling within the range
+Se € (0,0.02) makes the synchronization solution more unstable is verified via the calculation of
+the largest transversal Lyapunov exponent of the synchronous solution which is positive and
+monotonically increases within the interval ge € (0, 0.02) (figure 3) (the details on the calculation
+of the transversal Lyapunov exponent are given in appendix B). Note that, once the electrical
+coupling becomes stronger and lies beyond this coupling interval, its repulsive force becomes
+attractive and promotes synchrony, ultimately stabilizing complete synchrony at the threshold
+value ge) ~ 0.18. Figure 2c,d also demonstrates that inhibition alone can foster or destabilize complete
+synchrony, depending on the coupling strength and initial conditions.

@@ -1,0 +1,26 @@
+In any case, it seems safe to assume that M = 50 is sufficient to
+accurately evaluate the numerical stability domains of LBMs. In addition, the stability domains
+obtained with the D2Q9-BGK clearly show a dependence on the grid mesh. This translates to
+the fact that the grid mesh acts as a space filter which will automatically prevent the growth of
+(spurious) waves with a particular space frequency. In other words, even if the LSA shows that
+a particular type of LBM should encounter stability issues due to the growth of spurious waves
+for a given set of parameters (Ma, v, etc.), they might not emerge during the simulation because
+of the numerical sampling of the discrete wavenumbers, and the simulation might then remain
+
+
+0.8
+
+0.6
+od 102,
+—e— 201,
+g 0.4 —— 301,
+— 401,
+502,
+
+0.2
+
+0 1 i = i i H
+10° 105 104 10% 107 10! 10° 105 104 103 107 107
+Vv Vv
+
+Figure 8. Isothermal convected vortex.

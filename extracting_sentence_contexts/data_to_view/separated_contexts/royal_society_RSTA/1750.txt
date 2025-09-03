@@ -1,0 +1,6 @@
+Figure 6 shows the fractional laser absorption. It is clear that the simulated absorption is
+typically just outside of the error of the experimental absorption, giving a slightly lower value. This could be improved by increasing the value of the CBET multiplier, but given the reasonable
+agreement between the two (and the fact that high accuracy is not expected or required from this
+1D code) it was decided that this constituted an acceptable level of agreement. Figure 7 shows
+the simulated DT and TT yields, normalized to the experimental data, for each of the 10 shots. The normalized DT yield has a mean of 1.14 and varies between approximately 0.7 and 1.7, while
+the normalized TT yield has a mean of 0.76 and varies between approximately 0.4 and 1.2.

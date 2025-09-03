@@ -1,0 +1,25 @@
+As discussed above, Onsager conjectured [24] that sufficiently rough,
+dissipative weak solutions of the Euler equations are candidate descriptions of high-Reynolds
+number flows exhibiting the behaviour (1.5). Onsager’s vision of weak Euler solutions as a
+framework to study zero-viscosity limits follows from sufficient compactness. Indeed, if a family
+of Leray solutions {u"},.9 is precompact in 13(0,T; L3(T?)), then strong space-time L5limits exist
+u” > u€ L3(0,T; L3(T)) and are weak solutions of the Euler equations.* In fact, this assumption
+
+Such compactness is implied if the family of Leray solutions {u”},~0 is uniformly in v bounded in L3(0,T; B3~(T")) for any
+s > 0 [28,46]. As discussed above, this is robustly observed in experiments and simulations [36-40].
+
+
+also guarantees the existence of a limiting dissipation measure ¢[u],
+D'- lim e*[u"] = e[u] = 0, (2.1)
+v0
+
+where the limit is understood in the sense of distributions (it holds upon pairing with any smooth
+test function and is denoted by D’- lim). Furthermore, Duchon & Robert [2] showed that any weak
+solution of the Euler equations u of class 13(0,T; L3(T*)) satisfies a (weak) energy balance
+
+ay (5?) +V- [(Gm? +r) u] =—D[u], (2.2)
+
+where the ‘inertial dissipation’ D[u] is defined by the distributional limit
+
+D[u]:=D'- im ran (Ve)e(r) - dyu(x, £)|5,u(x, f)|? dr (2.3)
+with g an arbitrary standard mollifier, (V¢)¢(r) =l-4Vg(r/0) and 3,u(x,t) =u(x +1, t) — u(x,t).

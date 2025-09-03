@@ -1,0 +1,28 @@
+Musical examples would exhibit micro-
+differences in pitch corresponding with syntactic function
+(e.g. raised leading notes), complex note features (such as
+slides used in traditional North Indian ragas) or timbre features
+in distorted guitar solos that may correspond with syntactic
+function, such as stress, intonation or timbre cues may be modi-
+fied to direct attention towards elements with important
+syntactic functions (e.g. stability or marking departures at con-
+stituent or phrase boundaries; further empirical research is,
+however, required to examine such connections). Altogether
+vector grammars may constitute a well-suited formalism to
+capture the use of noisy, non-tonal and complex sounds in
+music across cultures that may be challenging for traditional
+symbolic models. One interesting feature of vector grammars is that they are
+computationally more expressive than their symbolic
+counterparts—in fact, they result in an entirely different
+
+
+class of complexity that is not comparable with the models of
+the CH from which the models originated (this is due to the
+large amounts of information that the large real-valued vec-
+tors may carry). For instance, Rodriguez [157] demonstrated
+that a right-branching vector grammar (or, in fact, its special
+case, the Elman network [150]) can generate several context-
+free languages, even though it is well-known that right-
+branching symbolic grammars are finite-state. The reason is,
+Rodriquez argues, that small displacements in a continuous
+vector space can be used to implement a counter.

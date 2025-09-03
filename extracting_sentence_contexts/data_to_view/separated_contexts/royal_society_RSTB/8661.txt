@@ -1,0 +1,14 @@
+The radii q and q’ of the resolution rings are chosen randomly from our range (up to a maximum value gnax = 2770/5 AW, of 5 A resolution)
+to demonstrate that the result is essentially independent of the precise values of g and q’. (Online version in colour.)
+
+particles with a known high degree of symmetry, as for density sought. The linear relationship is specified by a
+example the cases of icosahedral [21] or helical [22] viruses. matrix M, whose elements depend only on quantities calcul-
+Another circumstance in which structure solution is possible able from a knowledge of the dark structure. What is more,
+is when what is sought are small deviations from a known the difference densities sought will be calculated in the frame
+‘dark’ structure of a protein in a time-resolved photoexcitation of reference of the known dark structure, a fact that enables
+experiment. In this case, it is not necessary to assume a priori the difference electron density to be displayed on top of the
+any symmetry of the difference structure. In an earlier paper, known dark structure using widely used crystallographic dis-
+we demonstrated the structural information latent in the quan- play software such as Coor or CuimerA (although Coot,
+tities B,(q, q’), which may be extracted by a systematic variation designed for crystallography, tends to repeat the specified
+of the structural parameters, usually torsional angles, which by difference electron density periodically as if the structure
+and large, specify the differences between the two sets of struc- were a crystal.

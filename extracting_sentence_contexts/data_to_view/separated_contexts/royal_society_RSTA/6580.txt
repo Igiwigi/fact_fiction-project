@@ -1,0 +1,32 @@
+Using the Euler equations, and
+the continuity equation, together with the equation of state for the gas, assumed perfect,
+
+
+AEROFOIL THEORY. PARTS I AND II 329
+
+and the adiabatic condition, we can easily find the equation which must be satisfied by the
+velocity potential from which (u, v, w) can be derived. In fact, for steady motion we have
+
+Ou 1 0p dv «1 Op dw 1 Op
+
+ee pox? dz —py Oy” dz op, dz’
+du dv dw\ , ,,0p (1)
+iar ay 5g) + U ge = 0
+
+blp=RT, pip’ = const.,
+where p, is the undisturbed density of the fluid. If we let
+(u,v, w) = Ugrad ¢,
+it is easily seen from the above equations that, to the first order,
+
+U292
+Vp = ae (2)
+
+where a, = velocity of sound in the undisturbed medium. Also the excess pressure due to the
+velocity disturbance is found from the expression
+
+ad
+Ap = —p, Uw Pi yt, (3)
+
+Zz
+
+As usual, we shall denote the incident Mach number U/a, by M.

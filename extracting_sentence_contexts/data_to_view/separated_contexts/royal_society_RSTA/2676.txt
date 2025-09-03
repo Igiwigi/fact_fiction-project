@@ -1,0 +1,6 @@
+In addition to the
+usual diffusion (assumed to be isotropic here for simplicity), the water flows down the slope. This is represented by the cv; term (positive c assumes the water flows from right to left). In fact
+equations (5.1) are special case of Klausmeier model when water evaporation is assumed small
+(water evaporation is modelled by adding —ev term to the right-hand side of (5.1b)). There are numerous papers studying the transition between homogeneous vegetation,
+vegetation spots and vegetation stripes, as well as self-replication. For a very incomplete list of
+references, see for example [4,14—22] and references therein.

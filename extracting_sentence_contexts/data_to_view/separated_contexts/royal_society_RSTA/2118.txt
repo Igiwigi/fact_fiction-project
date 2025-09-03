@@ -1,0 +1,8 @@
+In this work, we
+provide some cursory answers as these questions merit substantially deeper study in the own
+right. Dealing with uncertainty: the implementation of de-noising will strongly depend on the form
+of the uncertainty present in the system. We may define uncertainty as a probability distribution
+that encodes how likely it is to obtain semantic object x’ when in fact, the ground truth is x. For
+example, if the probability density only depends on the ‘circular distance’ (equation (3.3)) between
+the x and x’ objects® we may use an adaptation of element-wise average for de-noising. The
+average is computed as the mid-point along the geodesic.

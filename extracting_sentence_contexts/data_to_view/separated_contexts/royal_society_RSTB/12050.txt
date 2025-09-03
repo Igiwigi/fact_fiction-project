@@ -1,0 +1,28 @@
+These results
+sequence manipulations, such as at chunk boundaries, as align with the Braaten et al. [64] notion that zebra finches
+adults. Another possibility is that the learned sequential pat- are more sensitive to syllable structure than syllable
+terns in zebra finch motifs are due to a combination of innate sequences during juvenile song learning. But none of these
+predispositions, involving a mechanism like an auditory tem- findings should distract from the fact that the zebra finch
+plate, coupled with some vocal learning and improvisation. does provide an invaluable opportunity to examine the
+For instance, James & Sakata [86] tutored naive juvenile relationship between physiological mechanisms for proces-
+
+zebra finches with randomized sequences of syllables and sing syllable structure and syllable sequences and any
+
+
+changes in those mechanisms that occur over development as
+the sensitive period for song learning ends.
+
+4, Proposed model of zebra finch song sequence
+perception
+
+A number of recent efforts have attempted to model birdsong
+and other animal vocalizations using the formal language hier-
+archy, also known as the Chomsky hierarchy (for review, see
+[24,90]). The formal language hierarchy captures the nested
+levels of complexity of all logically possible patterns and
+describes the computational machinery necessary to recognize
+strings of a formal language. Human syntactic patterns require
+at least context-free machinery, meaning the capacity is needed
+to store symbols in a memory stack from which the symbol can
+later be popped off and compared with an incoming element
+[25,90].

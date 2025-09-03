@@ -1,0 +1,11 @@
+Such approaches | 4 |
+
+reproduce the experimental behaviour of interest in a satisfac- can be split into two classes depending on whether a discrete
+tory way, then one can modify the parameters to investigate lattice is used to describe space or not. Cellular and lattice-gas = S
+what would happen in an experiment if a biological modifi- cellular automaton models are examples of on-lattice models z
+cation is introduced, prior to performing the experiments. [34]. Though on- and off-lattice models operate at the same 3
+Restricted to the collective dynamics this theme issue is focus- spatial scale, the fact that space is described in different “S
+ing on, a key question one can ask the model aims at ways might lead to artefacts that need to be quantified. So, = =
+understanding how many changes at the individual level it is natural to ask whether such models yield similar results S
+one should introduce in order to control the collective behav- and to what extent. This is the aim of the contribution by ©
+iour in the desired manner, how many leaders are necessary Nava-Sedeio et al. [57].

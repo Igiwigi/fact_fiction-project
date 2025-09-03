@@ -1,0 +1,15 @@
+New tools have recently
+emerged to deal with the very large numbers of sequences
+of SARS-CoV-2 genomes [100,101] which are likely to provide
+inspiration for how to improve the future scalability of
+bacterial genome analysis. Perhaps even more importantly, a counterintuitive advan-
+tage of the step-by-step approach is that it is less automatic
+than the integrated approach. Although this may seem like
+a disadvantage, the fact that several software tools have to
+be applied one after the other brings great benefits. It
+allows the user to check after each step that the result
+makes sense before carrying out the next step. For example,
+if a phylogeny is clearly wrong due to contamination
+during sequencing, there is no point trying to apply dating
+of the nodes or interpreting the phylogeny in terms of epide-
+miology.

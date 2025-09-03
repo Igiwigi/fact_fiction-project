@@ -1,0 +1,7 @@
+C+ C=PostP(C). We observe that, since the convergence of this method applied to the decomposition of two-
+dimensional signals is still an open problem, we checked the meaningfulness of the outcome of
+such a post-processing using the one-dimensional convergent MIF method. We consider, in fact,
+the classification scores first along each row and then along each column of the classification
+matrix, and vice versa. The results of these two procedures prove to be close to that obtained
+by post-processing directly the two-dimensional classification using the two-dimensional MIF
+method. The other method we present here is a pre-processing technique.

@@ -1,0 +1,25 @@
+A similar remark befits
+feedback loops. For complex network theory and neuroscience to meet each
+other’s needs a few other adjustments seem desirable. For one
+
+(d) Broadening objectives
+
+While complex network theory provides an impressively rich
+set of tools to characterize brain functional activity, neuro-
+scientists’ objectives go beyond the pure description level
+and would benefit from tools that are able to address some
+of their fundamental demands: classifying patients or exper-
+imental conditions, understanding the aetiology of observed
+connectivity patterns and modelling activity in as complete
+a way as possible, to eventually be able not only to forecast
+and control it, but also to steer it to desirable states.
+
+thing, it would be useful to integrate the fact that the brain pos- (i) From comparison to classification and categorization
+sesses qualitatively different nodes, be they neurons or entire If network properties genuinely describe functional brain
+brain regions. For other basic concepts, e.g. that of distance, activity and its modulations under given conditions, e.g. cog-
+neuroscience should promote alternative definitions, at least nitive tasks or neurological pathologies, then it should be
+when considering a functional space isomorphic to the ana- possible to use them to discriminate various activity regimes
+tomical one (as opposed to a phase space representation). associated with these conditions. Likewise, community structure should be redefined in such a One principled way to overcome this limitation involves
+way as to account for the possibility for a given neural assem- assessing what network properties optimize a given task, for
+bly to pertain to different communities, possibly at different instance classifying experimental samples corresponding to
+spatial and temporal scales. different experimental conditions.

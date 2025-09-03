@@ -1,0 +1,20 @@
+A family of initial conditions and the
+corresponding flows parameterized by € and saturating a certain estimate in the above sense is
+referred to as ‘extreme’. Energy-type estimates similar to (1.10)-(1.11) are also known for the one-
+dimensional viscous Burgers equation and the two-dimensional Navier-Stokes system. While
+
+these two systems are known to be globally well posed [3], the question whether these estimates : =
+are sharp is in fact quite pertinent, because they are established using similar mathematical : =
+techniques as (1.10)-(1.11). These estimates are obtained from the governing equations applying 1B
+different functional inequalities and although each of these inequalities is known to be sharp, : =
+sharpness need not be preserved if they are chained together (because different inequalities are DR
+saturated by different fields). [3
+
+These observations have motivated a research program focused on probing the sharpness :8
+of a number of key estimates, both instantaneous as in (1.10) and finite-time as in (1.11), in the : Ss
+one-dimensional Burgers and two-dimensional Navier-Stokes systems, in addition to examining :s
+estimates (1.10)-(1.11) and more recently the Ladyzhenskaya—Prodi-—Serrin criterion (1.7) in three- 1h
+
+dimensional Navier-Stokes flows. Progress in this research program was largely enabled by the
+development of robust computational approaches for the solution of large-scale PDE-constrained
+optimization problems.

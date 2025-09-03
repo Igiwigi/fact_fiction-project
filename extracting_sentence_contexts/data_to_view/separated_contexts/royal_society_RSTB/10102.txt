@@ -1,0 +1,64 @@
+Second, it has been known
+that oxygen is extracted before the capillary bed [33,34] and
+therefore, the oxygen saturation in the precapillary arterioles
+and the capillaries themselves is much lower than previously
+assumed. Recent microscopy techniques have shown that 50%
+of the total oxygen delivered to the brain tissue is coming from
+the arterials [27]. Taken together, these new findings indicate
+that the parameter a in the Davis model must represent an effec-
+tive compliance parameter that takes into account the fact that
+(i) precapillary arterioles experience a large volume increase
+that contributes weakly to the BOLD response owing to a
+
+
+VAN model
+
+i I in vivo two-photon
+I . . € T angiography
+I baseline brain |
+I hemodynamics u an
+i C l in vivo two-photon
+I I pO, measurements
+i b -
+I I
+I simulation of :
+I hemodynamic response 1
+- 1
+I I
+| increased oxygen 1
+nt OxY8 al dilation I
+consumption in tissue I
+(rCMRO,) I
+I
+I
+I
+changes in brain -
+hemodynamics I
+
+ies Ses <<a
+
+comparison of
+recovered rCMRO, against
+simulated rCMRO,
+
+Monte Carlo simulation of
+optimization of @ and B corresponding BOLD
+to minimize error response
+
+’
+
+BOLD = M(1 -rCBF*# rCMRO,%)
+(free parameters: @ and B)
+
+simulation of a
+hypercapnic calibration
+recovery of rCMRO, from BOLD, rCBF and M, computation of M
+
+assuming and B
+
+Figure 1. Schematic overview of the simulations performed. The VAN model describes oxygen advection and diffusion in real vascular networks in shown in red.
+
+small amount of deoxyhaemoglobin, and (ii) the venous pool oxygen-sensitive two-photon microscopic measurements of the cor-
+experiences a small volume increase but still contributes strongly tical microvasculature [25] to optimize the free parameters of the
+to the BOLD response owing to higher deoxyhaemoglobin Davis model based on ground-truth microvascular physiology.
+compared with the precapillary arterial blood.

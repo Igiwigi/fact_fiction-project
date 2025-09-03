@@ -1,0 +1,17 @@
+In this context, probability distributions are to be understood as epistemic
+
+
+statements used to represent states of limited knowledge, and Shannon's entropy corresponds to 3 |
+a fundamental measure of uncertainty. This perspective leads to principled and broadly applicable interpretations of information- 3
+theoretic quantities. In fact, while information theory was created to solve engineering problems 1S
+2
+
+in data transmission [13], modern approaches cast information quantities as measures of :3
+
+belief-updating in statistical inference [14-16]. In this view, measuring the mutual information
+between parts of a complex system does not require assuming one is ‘sending bits’ to the
+other over some channel—instead, mutual information can be seen as the strength of the
+evidence supporting a statistical model in which the two parts are coupled (although see [17]
+for an alternative discussion). Furthermore, information-theoretic tools are widely applicable
+in practice, spanning categorical, discrete and continuous, as well as linear and nonlinear
+scenarios.

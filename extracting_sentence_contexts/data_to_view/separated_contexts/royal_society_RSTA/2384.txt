@@ -1,0 +1,11 @@
+Figure 4 displays the solution to (6.1) and (6.2)
+for two example functions f and suitable initial conditions. Figure 4a shows a period-1
+solution that switches between two distinct sets of values with opposite sign, along which it
+changes regularly. In fact, it changes exponentially with a small rate, and proposition 6.1(iii)
+determines this rate to be n/(f’(x()) — 1). We remark that for small values of 7, this trend can be
+approximated as
+
+x(E+ At) =x(elt  /FCO-Dds ~ x(t) + O(N AN),
+
+so that along such regular ‘plateaus’ it appears to be linear in n. Here, we assumed that
+f'(x(t)) — lis uniformly bounded away from zero.

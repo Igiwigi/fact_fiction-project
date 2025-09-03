@@ -1,0 +1,22 @@
+For
+TIRF-SIM, the structured illumination pattern has a finer frequency than that permitted by the
+refractive index of the sample, and so Heintzmann says that TIRF-SIM breaks this ‘restricted super
+resolution’ criterion. Hence, the suggestion is that TIRF-SIM is not diffraction-limited even under
+the considerations of this more strict approach. However, the fact remains that the fineness of the illumination pattern is limited by diffraction,
+just in a medium of refractive index n rather than 2. Even in the situation where the sample was
+mounted on a diamond coverslip (ignoring the deleterious effects of the strong dispersion in such
+a material) and we had an objective lens with numerical aperture matching that of the refractive
+index of the material, 2.4, TIRF-SIM of the same sample as Li et al. used could not produce a
+resolution better than
+
+2m sina  2npsina\~' (2x24 2x 1.38\71
+d .onm. 2
+(; + ) 488nm 510nm 65.6nm (32)
+
+illumination emission
+
+Hence, this author would class this as extended resolution, not super resolution or even enhanced
+resolution.
+
+
+4. Can nonlinear SIM become broadly applicable and live-cell compatible?

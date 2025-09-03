@@ -1,0 +1,27 @@
+In this case,
+too, it is possible to calculate + directly, and, in fact, a simple geometrical construction
+is given for it. When this is followed for varying image-positions, it is found that
+outside a certain range of M, the + so obtained becomes irrelevant, and that, in fact,
+if the correct factor 1—é/7* is retained in the denominator of Av, although it
+improves the fit by removing singularities in the range round M = ©, it introduces
+entirely fictitious singularities in other and important parts of the range, and makes
+the formula worthless,
+
+A good deal of light is thrown upon the problem when it is found that, if we
+
+develop 1 in descending powers of M in the neighbourhood of M = , the two
+is
+
+leading terms are discovered to be identical with the two leading terms of the
+cubic B, previously obtained. This makes our B approximate more and more closely
+to = precisely as the effect of the denominator term becomes more important, and it
+ss
+is this fact which is the key to the numerical value of the method. We then proceed to show how the constants for a combination of the two systems
+can be obtained from the corresponding constants of the individual systems. In
+doing this it appears that, so soon as we pass from the single refracting surface to
+
+the lens, a new constant is introduced into the formula, which now takes the form
+
+_, _ At?+Et!
+where A and B are of the same form as before, but E is now a polynomial of
+degree 6 in M.

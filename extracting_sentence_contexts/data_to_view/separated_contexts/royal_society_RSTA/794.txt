@@ -1,0 +1,17 @@
+As :
+a consequence the states can be efficiently represented with controllable error by MPSs which es
+allow efficient computation of desired operator expectation values with controlled errors. This 3
+representability is coupled in practice with findability—which is the existence of efficient algorithms, [8
+such as the original DMRG algorithm, which find the desired representation in a time that scales :
+polynomially—indeed linearly—with system size. While for the DMRG algorithm this scaling is ia
+an empirical fact about some unknown dynamical system,! there now also exists an algorithm Dw
+that provably solves the problem in a time that scales polynomially in system size [8]. DMRG also :
+works very well for critical points, where Sg grows logarithmically with subsystem size which is :g
+modest enough to allow sufficient accuracy. a
+
+For thermalizing systems this cluster of ideas fails when addressed to highly excited :
+eigenstates—eigenstates with a finite energy density corresponding to a non-zero temperature—
+due to the volume law entanglement that is generically present in these states. However, in
+many-body localized (MBL) systems [9-14] even highly excited eigenstates exhibit area law
+entanglement [11,15] which leads to the possibility [16,17] that excited states can be constructed
+efficiently via DMRG-like algorithms in a manner analogous to ground states.

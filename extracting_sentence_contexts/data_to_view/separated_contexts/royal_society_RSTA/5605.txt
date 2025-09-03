@@ -1,0 +1,40 @@
+In this context, the exact form of the
+right-hand side of the dynamical system as given in equation (2.1) is available. In other words,
+the form of f(-, -; 6) is assumed to be known.
+
+(d) Generating forecasts with quantified uncertainty
+
+The Hamiltonian Monte Carlo procedure described in §2b produces a set of samples that
+concentrate in regions of high probability in the posterior distribution p(@|D). Approximating
+this distribution is central to our workflow as it enables the generation of future forecasts x*(t*)
+at time instances t* of size N* with quantified uncertainty via computing the predictive posterior
+distribution
+
+p(x*(t*)|D, t*) = [rcrcene, t*)p(0|D) de. (2.9)
+
+This predictive distribution provides a complete statistical characterization for the forecasted
+states by encapsulating epistemic uncertainty in the inferred dynamics, as well as accounting
+for the fact that the model was trained on a finite set of noisy observations. This allows us
+
+
+to generate GP-NODE-based plausible realizations of x*(t*,@) by sampling from the predictive
+posterior distribution as
+
+dh
+
+ap =f tO),
+
+xi (t°,0) = ha(t®, 6), dV,
+
+x4 (0) ~N (wi(t*, 0), K“(E, 0), deV (2.10)
+and 13(t", 0) =ha(t*, 6) + K(t*, t; 8) (K(t, t; Og)
+
++ Ke(Gg))* (a(t) — halt, 0)),
+where 6¢ ~ p(0¢|D) and 6g ~ p(@g|D) are approximate samples from p(67,0g|D) computed during
+model training via HMC sampling and
+K*(t", 0g) =K(t", t°; 0g) — K(t", t; 8g)(K(t, tg) + Ke(8g)) 'K(E", t; 4)", (2.11)
+
+where K(t*, t*; 0g) and K(t*, t; 0g) are the block diagonal kernel matrices formed with the blocks
+ky(t*, t*, 04), dé V and k,(t*,t, 6,4), d€ V, respectively. More details on the structure of these
+block diagonal kernel matrices can be found in electronic supplementary material, appendix A(a).
+h(t*, 6¢) denotes any numerical integrator that predicts the system’s state at time instances ¢*.

@@ -1,0 +1,11 @@
+The first structure, called a ‘weak-
+admissibility’ blocking, is perhaps the simplest, in which each off-diagonal low-rank block
+touches the diagonal. This simple subdivision of the blocks is convenient and attractive for
+implementation. But, not unexpectedly, it suffers from the fact that very large ranks may be
+needed to achieve acceptable accuracy for many applications, particularly in three-dimensional
+problems. ‘Standard-admissibility’ blocking, also called ‘strong-admissibility’ blocking, further
+refines the blocks using an admissibility criterion for determining whether a block should be
+further refined. When the matrix comes from a spatial discretization, the admissibility condition
+is naturally geometric in nature and depends on the separation between the cluster of nodes
+corresponding to the rows of the block and the cluster corresponding to the columns of the block. If these two clusters are sufficiently far away the interaction between them is smooth and therefore
+representable with a low-rank representation of bounded rank.

@@ -1,0 +1,11 @@
+I address these two limitations in this paper. To be precise regarding (i), though, I do not
+propose any particular averaging process, nor make any presumption regarding the density or
+distribution of defects, rather I consider a ‘converse’ approach—that is, I ask if any discrete set
+of points is ‘naturally’ associated with a given set of lattice vector fields. In fact the question has
+to be more specific than this, if there is to be any mathematical resolution of the issue, and it is
+made specific by constraining the vector fields in a manner that I outline towards the end of this
+Introduction. The final result, regarding (i), is that there is indeed a set of points associated with any set
+of vector fields so constrained and that such sets of points have a regularity that derives from
+a continuous (Lie) group structure. Also, the dimension of the group (i.e. the number of real
+parameters required to specify a general group element) depends on the number of ‘higher
+order quantities’, cf. (ii), involved in defining the set of vector fields.

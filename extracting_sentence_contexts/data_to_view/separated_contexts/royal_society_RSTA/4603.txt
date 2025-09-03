@@ -1,0 +1,13 @@
+Even for higher order methods, these Sy
+methods are invariably only first order near discontinuities or large gradients. The numerical 2
+truncation errors are of the same type and sign as the SGS terms. More serious is the unfortunate aed
+fact that they are typically large and can be larger than the SGS terms. The ultimate factor 22
+contributing to the solution morphology is not only these physical transport terms and the : Ss
+numerically based turbulent transport terms, but their dimensionless ratios, such as the Schmidt : s
+number Sc = v/D, where v is the viscosity and D is the species diffusion, with a similar definition : s
+for the dimensionless Prandtl number Pr governing thermal diffusion. The numerical problem 18
+
+arises from the fact that the dimensionless ratio of combined effects transport (physical, or
+molecular, turbulent or grid dependent; and numerical, or algorithmic dependent) is typically
+perturbed by the numerical truncation error contribution, and due to the sign restriction on the
+SGS turbulent transport term, this error cannot be compensated for by adjusting its coefficient.

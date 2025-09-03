@@ -1,0 +1,8 @@
+Remarkably, at the level of weak solutions of Navier-Stokes, this has been proved by
+Buckmaster & Vicol [33]. However, the solutions produced in [33] are highly irregular and, more
+importantly, do not satisfy the stronger condition ‘a la Leray’ (3.5). A totally open question is thus
+whether any of the chaotic behaviour witnessed by weak solutions of the Euler equations can in
+fact be achieved by limits of Leray solutions of the Navier-Stokes equations with bounded kinetic
+energy. One possible way to phrase the latter question is the following. Consider the right-hand
+sides div R, in the equation (3.16) produced by the iteration scheme described in the previous
+paragraph.

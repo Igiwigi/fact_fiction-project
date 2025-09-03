@@ -1,0 +1,10 @@
+Conclusion
+
+We propose the first mixed-signal (analogue/digital/relative temporal) perceptron design using
+the principles of PWM. Central to our design are a number of parallel inverters that suitably
+transcode the input-weight pairs from the spatial domain to the relative temporal domain. This approach aims to deliver high resilience to amplitude and frequency variations in the
+supply voltage, exploiting the fact that PWM-based solutions are typically agnostic to such
+variations. Another advantage of the proposed design is its simplicity. While conventional
+implementations of the perceptron require complex logic to perform multiplication and addition,
+the proposed approach uses only one gate (either an inverter or a two-input NAND) per
+bit for every input.

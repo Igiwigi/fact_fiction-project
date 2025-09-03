@@ -1,0 +1,25 @@
+The coefficients with true minima are Cp1,
+the downscale spectral transfer coefficient of b, C,; and C,z, both of which govern upscale
+and downscale spectral redistribution of turbulence kinetic energy, and Cip2, which provides a
+mechanism for the break-up of fluid parcels in scale due to turbulence. Using the coefficients
+obtained by optimization at At = 0.05, we proceeded to compute the case of Af = 0.75 and found
+that the quantitative agreement with DNS is fairly good, similar to the low Af case. Thus the
+optimization at low At also holds at high At, which is consistent with the fact that density contract
+(Atwood number) dependence is not explicit in the LWN model.
+
+
+(a) (b)
+
+0.8
+0.30
+0.6
+0.25
+r r
+0.4
+0.20
+0.2
+0.15
+10-3 10-7 107! 103 107 1071
+Cu Cu
+Figure 6. The Pearson's x function for different values of (a) Cy and (b) Ca. The optimum value of each variable occurs at the : 2
+minimum of the x2 function.

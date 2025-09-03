@@ -1,0 +1,16 @@
+The results for mean relative errors in table 1 allow us to
+propose a hierarchy of methods and baselines, as follows:
+
+BTF, md < RBF, BTV, RBV, BRW, Div < rand, centr
+
+To construct this hierarchy, we first ordered the methods and
+
+4, Results baselines, separating them by the less-than symbol. Sub-
+We first look at results for the different methods as distances sequently, we applied a pairwise Wilcoxon rank sum
+in km (as the crow flies) from the true to the inferred home- significance test to assess the differences between neighbours
+lands. For the Bayesian methods, we initially ignore the fact in the hierarchy and replaced the smaller-than sign by a
+that they provide a set of plausible homelands, i.e. inferred comma when neighbours were not significantly different at
+areas rather than single locations—for the purposes of a the 0.05 level. This step caused BTF/md, RBV/BRW /diversity
+quantitative performance comparison it is necessary to oper- method (Div) and rand/centr to merge. We then iterated this
+ate with a single location whose validity can be assessed as a procedure, also replacing the less-than sign with a comma
+number.

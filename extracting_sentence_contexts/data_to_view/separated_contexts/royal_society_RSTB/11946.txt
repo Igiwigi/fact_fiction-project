@@ -1,0 +1,18 @@
+If the biofilm is a channel with reduced conductance and increased basal leak
+sufficiently large, such a perturbation leads to a sudden [7]. This can be modelled with increased ay (to simulate a
+reduction in the glutamate availability and stress increase, leaky channel), and reduced gx (to simulate reduced conduc-
+with the subsequent potassium release and oscillatory onset tance once the channel is open). The model simulations
+(electronic supplementary material, figure S1). predict that oscillations start at the same size as with the
+Moreover, the model predicts that depolarizing any basal parameters, but with a reduced period, in good agree-
+region of the biofilm should be sufficient to trigger a self- ment with the experimental data (last condition in figure 6).
+propagating wave of stress and potassium release, with the The unaffected onset size is consistent with the fact that gluta-
+associated changes in membrane potential. This is repro- mate metabolism is largely unperturbed in this mutant,
+duced experimentally as shown in figure 5c: a short whereas the altered potassium channel leads to less effective
+increase in the concentration of potassium in the media trig- stress relief during wave propagation (electronic supplemen-
+gers a wave in experimental biofilms, which propagates tary material, figure $2), and thus facilitates a subsequent
+inwards from the original (peripheral) depolarization site. cycle. Therefore, the relationship between biofilm size and
+
+oscillation period is not universal, but depends upon the meta-
+bolic and electrical signalling capabilities of the cells and thus
+
+4.

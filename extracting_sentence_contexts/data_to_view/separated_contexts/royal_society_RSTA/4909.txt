@@ -1,0 +1,40 @@
+Given n > 1 even (resp. odd) and a k-tuple (a;) of distinct elements of FF (resp.
+elements distinct modulo +1), we take F; =[xaj]*Kn, where Ké,, is the n-variable Kloosterman
+sheaf with trace function KI;,(x; p) (see §3). Then (J;) is strictly U-generous. This follows from the theory of Kloosterman sheaves, in
+particular the computation of the geometric monodromy groups by Katz [18], and the fact that
+there does not exist a rank 1 sheaf £ and a geometric isomorphism
+
+[xa]}*Ken = Kl, @L or [xa]*Kly ~ D(Ken) @ L,
+
+for a#1 ifn is even, and for a ¢ {+1} if n is odd. (In other words, we have Auto(Ké,) = 1, and for
+r>3 odd, Auti(Ké,) contains the unique special involution x +> —x; see §3 for details.)
+
+
+(2) Given Fo self-dual and lisse on Gm, with geometric monodromy group equal to Sp,, such
+that the projective automorphism group of Fo is trivial, and a k-tuple (a;) of distinct elements of
+F, we may take F; =[xaj]*Fo on U = Gy, and (F;) is then strictly G,,-generous.
+
+(3) Given Fo lisse on G, with geometric monodromy containing SL; for some r > 3, such that
+
+Auto(Fo) AT =1,
+
+where T C PGL)» is the diagonal torus, and a k-tuple a = (a;) of elements of FF distinct modulo +1,
+then the tuple ([xa;]*Fo) is Gm-generous. Indeed, all conditions of the definition are clearly met, except maybe for the non-existence of
+isomorphisms
+
+Doi) ~ 0 ® x
+for ij. But such an isomorphism would imply that there exists a rank 1 lisse sheaf £ on Gj, and =
+a geometric isomorphism : 8
+
+[xai]*DFo) ~ [xaP'F0 @ £, 1
+
+and this implies that Da
+
+(aia; 0 3
+) € Auto(Fo) = 1, Dh
+0 1 :
+
+so that a; = +a;, contradicting our assumption on the tuple a. [3
+(4) Given a U-generous tuple (resp. strictly U-generous tuple), any subtuple is still U-generous
+
+(resp. strictly U-generous).

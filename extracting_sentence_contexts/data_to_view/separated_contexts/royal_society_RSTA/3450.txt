@@ -1,0 +1,8 @@
+But by adhering to the CLtL standard ACL2 users can take advantage of six independent
+implementations (GCL, CCL, SBCL, Allegro, CMU Lisp and LispWorks) that run on a wide
+variety of hardware and OS platforms. These provide a wide range of development, debugging
+and browsing tools, along with a community of compiler implementors who strive (indeed,
+compete) to provide exceptional execution efficiency, robustness and capacity. The fact that ACL2’s logic is ‘just’ a programming language may have an unexpected impact
+on its perceived effectiveness: users do not try to do things that are wildly outside its strengths. Common Lisp is syntactically untyped. But CLtL is riddled with runtime restrictions on the
+domains of the primitives (e.g. the function + ‘requires that its arguments all be numbers’ [1,
+p- 295]); violations of these restrictions result in unspecified behavior.

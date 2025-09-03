@@ -1,0 +1,5 @@
+Accordingly, the relative error € increases with the number of healthy people. This
+relative error might be huge. In fact, it is particularly big in cases of ‘mild’ epidemics characterized
+by s(t) ~ 0. Again, given the finite value of the false positive rate a, mass testing of people who feel
+healthy is not really advised, unless appropriate statistical corrections are done. It might lead to a
+large overestimation of the actual disease rate.

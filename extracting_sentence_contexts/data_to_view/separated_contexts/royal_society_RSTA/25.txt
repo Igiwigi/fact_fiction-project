@@ -1,0 +1,8 @@
+In general, both density
+estimation and clustering may be of interest. Thus, we consider Bayesian model-based clustering
+via mixtures, to retain optimal properties for density estimation, and focus on the comparison
+of different estimates for the number of clusters and clustering solution. In fact, we find that the
+number of clusters can change drastically depending on the estimator used. The literature discussed above estimates the number of clusters via the marginal posterior on
+the number of non-empty components. Alternatively, the full clustering solution can be estimated,
+without conditioning on the number of clusters, thus also implicitly providing an estimate of this
+number.

@@ -1,0 +1,14 @@
+Specifically, the circumference 27r contracts by a factor 4 and
+the in-material radius r extends by 1”, since they are parallel or perpendicular to the director. Then
+the cone angle is given by y =arcsin 4+”, as depicted in figure 4a. This induces the following
+cone deformation that encodes all the facts mentioned above and maps the reference domain to
+a cone:
+
+y,(x) =Ar(ey — cot ves), (3.19)
+
+where x = re; = r(cos 0e; + sine) is the position on the circular pattern in which (r,6) are the
+corresponding polar coordinates, and {e1, 2, e3} is the standard orthonormal basis for R°. As shown in [32], this basic design can be used as a building block for a large class of
+non-isometric origami: Two circular patterns with bisecting straight-line interface can form two
+equal-height cones with parallel axes after actuation, as depicted in figure 4b. Furthermore,
+symmetrically patterned circular patterns with bisecting interfaces can form objective non-isometric
+origami in figure 4c—e.

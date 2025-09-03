@@ -1,0 +1,42 @@
+Using this procedure, they identified two fre- repository: https: //github.com/manuelbohn/RSApes.
+quently occurring gesture types: stretched-arm, consisting of Based on the model and the parameter settings, we gen-
+an extended arm with both the arm and hand stretched, erated predictions for all possible combinations of gestures,
+and bent-arm, with either hand or forearm bent and the facial expression, dominance relationship and social context.
+back of the hand or arm directed at the receiver. Facial We compared these predictions to the observations made
+expressions were coded using a modified version of the by Ofa ef al. [50]. Our model makes predictions about the
+
+human Facial Action Coding Scheme (FACS) [78] developed receiver's interpretation of the utterance in context. The
+
+
+(a) (b)
+
+bared hoot neutral 1.00 T
+1.00 x r=0.84 “
+ow
+0.75 f 2 ° @ T
+0.50 ql :
+g 025 3 “ observations
+3 sl reactiontype 3 10
+eo miye 3 050 bd
+5 100 affiliate x) @ 2
+: avoid of | @ 2
+& 0.75 2 & a“
+g z 0.25 a
+0.50 3 ”
+0.25 x 3 @ @
+0 (ae
+bent stretched bent stretched bent stretched 0 0.25 0.50 0.75 1.00
+gesture type data
+(c) context only face only gesture only relation only
+1.00 | =-0.08 || r=0.43 || r=-0.07 Wd r=0.72 7
+2 0.75 “ “ ° ° ©@-
+£ @Qee® Oo 4 ° Le i a“ observations
+3 “ “ @ 10
+, ° ary . E 050 on e @ °@ 00” od e- mi on
+3 7 4 T ar ° @ 2
+E 0.25 4 4 4 eo e@
+0 025° 050 075 1000 025 050 075 1000 025 050 075 1000 025 050 075 1.00
+
+data
+
+Figure 2.

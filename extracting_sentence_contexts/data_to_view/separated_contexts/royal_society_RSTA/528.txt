@@ -1,11 +1,17 @@
-Although the addition of reactions in the 03 sub-mechanism does not consider synergistic
-effects, or how the addition of these reactions affects the rates of reactions present in the original
-mechanism, good agreement has been found between experimental results and the simulations
-[19,20,22]. From the one-dimensional simulations, flame speed enhancement with 11000 ppm of O3
-was found to be over 11%, while the experimental enhancement was approximately 7%. This
-difference is partly due to the fact that the one-dimensional simulations fail to capture any
-stretch effects that would be present in these flames as the one-dimensional calculations are at
-zero stretch (figure 4). So while the kinetic processes would be captured, the comparison to the
-stretched flames in the experiments may not be suitable. Therefore, two-dimensional simulations
-were performed using the unsteady ignition and combustion with reactions (UNICORN) model
-[28,33-36].
+Let us use @ as independent variable in equations of motion (18-9). The fifth equation gives at once that w’ is of the second order. Noting that x,, /,; %,
+are usually negligible; and taking into account the fact that usually, for normal con-
+dition, x,,/kps Yolk are of zero order, while z,,/kp, Z,/ky are of order —1; then since v’
+is small, while w’ is of the second order, we at once deduce that the first three equations
+
+of (18-9) give
+
+, au
+
+(tee sin, q'Ru' =cos@sing, —q'Qu' = cosdcos¢—u"?. (20-1)
+
+42-2
+
+
+340 S. BRODETSKY ON THE
+To the order of our first approximation, we are in (18-3) putting
+(i) X=0,.

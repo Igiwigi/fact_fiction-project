@@ -1,16 +1,14 @@
-An illustrative comparison of equal-weighted
-BMA and quantile averaging is shown in (figure 5). For the purposes of our framework, we
-found BMA to be unsuitable for the following three reasons: (1) achieving good calibration of
-the combined distribution produced by BMA requires optimization of the intra-model variance,
-i.e. the spread of each individual model’s error profile. In our case, where each model's error
-profile has been learned independently by QRE, and is already well-calibrated, combining these
-through BMA produces an over-dispersed predictive distribution due to the inclusion of the
-inter-model variance in addition to the already calibrated intra~-model variances. (2) In turn, this
-makes BMA rather incompatible with input models that are individually well-calibrated (e.g.
-statistical nowcasts), and therefore incompatible with a general framework like ours. (3) The use
-of BMA across all models and lead times is complicated by the fact that there are not an equal
-number of forecasts available for each lead time. This means that the inter-model variance is
-intrinsically inconsistent across lead times, even dropping to zero at our longest ranges, where
-only a single deterministic forecast is available (e.g. figure 1). This decrease in inter-model
-variance with increasing forecast range trends opposite to the true uncertainty, which intuitively
-should increase with forecast range.
+The point P in fig. 3, shows the resulting
+position of this diameter, and it will be seen that it almost coincides with the point
+representing the normal to the 110 plane. Thus there is additional experimental evidence that the direction of slip was the 110
+direction. (c) Stress Considerations—In view of the fact that the experimental evidence
+indicates that the direction of slip coincides with one of the principal lines of atoms
+in an octahedral plane, an analysis has been made of the shear stress throughout the
+test in each of the three similar crystallographic directions on the four octahedral
+planes. The results are given in Table VIII. It will be seen that the stress on the 111
+plane in the direction of its intersection with the 111 plane (i.e., in the 110 direction)
+was always greater than any of the other eleven components given, until the drawing-
+down stage began, and therefore from stress-considerations if slipping of the nature
+
+
+14 4H, J. GOUGH, D. HANSON AND 8.

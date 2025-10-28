@@ -1,15 +1,29 @@
-As explained in the previous section, by analysing the linearized model (5.1),
-one may conclude that travelling waves of the form (5.3) emerge (with k=1),
-but it is not possible to determine the amplitude v*™? and stability of the small-
-amplitude oscillations that appear. By including nonlinearities up to third order
-in the modelling equations (3.10), (3.12), (6.1), one may perform normal form
-calculations and conclude that these waves are unstable (the Hopf bifurcation is
-subcritical) and derive the amplitudes v°™? ~ /hl! — h* and vam? ~ J/h* — h¥? in
-the vicinity of the Hopf points (Orosz & Stépan 2006). This robustly subcritical
-behaviour is primarily attributed to the fact that the driver reaction time is
-finite—for zero reaction time, one needs to carefully tune other parameters
-to obtain such behaviour. When performing such analytical calculations, the
-nonlinearities of V are only approximated well close to the Hopf points, so
-one needs to use numerical techniques to track the unstable solutions for larger
-|h* — h®"|, e.g. numerical continuation techniques need to be applied (Roose &
-Szalai 2007; Orosz et al. 2009). In figure 4b, the thin curve shows the oscillation amplitude v’™P.
+For a symmetrically heated slab of thickness 2l, the time lag between surface and centre
+is /?/2D, and for a symmetrically heated solid cylinder of radius a it is a’/4D; these values
+follow directly from formulae (15) and (16) of Williamson & Adams (1919). The numbers 2
+and 4 in the formulae for the time lag in these two cases are very closely related to the
+coefficients 2 and 4 in equations (3-5) and (3-8) respectively. In fact, in both these cases the
+distribution of temperature through the slab or cylinder ultimately become parabolic (see
+formulae (15) and (16) of Williamson & Adams 1919), and then the fundamental approxima-
+tions (3-2) of the present method is exact, so equations (3-5) and (3-8) are exact and can be
+used to go from centre to surface in one interval 6x for the plane, and similarly for the cylinder;
+
+and the time-lag property for constant rate of rise of surface temperature can easily be
+deduced from these equations. Now for a substance for which the diffusivity varies with the temperature, it has been
+
+shown in § 9 that if the diffusivity does not vary greatly through the material at any one time
+(though it may vary considerably in the course of time), the heat flow can be reduced
+
+approximately to the heat flow in a substance of constant diffusivity on a distorted scale of
+time which has been called the T-scale. Hence, if the rise of surface tem
+
+‘ perature is constant on the 7-scale, the central temperature
+will follow the surface temperatur
+
+€ with a time lag which is constant on the t-scale (and which
+
+
+THE CALCULATION OF VARIABLE HEAT FLOW IN SOLIDS 33
+
+on this scale has a value of } for a slab and } for a cylinder), and which varies on the ¢-scale
+according to the value of the diffusivity, that is, according to the mean temperature.

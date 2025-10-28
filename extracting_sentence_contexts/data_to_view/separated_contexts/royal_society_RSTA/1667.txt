@@ -1,9 +1,16 @@
-The default frequency set-up is 30-78 MHz for the LBA and
-120-168 MHz for the HBA. The LOFAR EoR project [26,27] uses a slightly different frequency
-range to access higher redshifts, but has to deal with the increasing radio-frequency interference
-(RFI) at the top of the HBA band (the RFI rapidly increases above approx. 168 MHz). The LBA is
-clearly more interesting for studying the Dark Ages, and in fact Gehlot et al. [28] have placed the
-first limits on the power spectrum for z = 19.8-25.2. They use only the Dutch array, which limits
-ky to <0.16Mpce~!, and places a 20 limit of A3, < (approx. 1500 mK)? at k= 0.038 Mpc™! from
-two simultaneously observed fields. They centre their bandwidth on the most sensitive portion
-of the LBA band, setting frequency limits of 39-72 MHz.
+It is found by experiment that the temperature of the platinum wire, when carrying its
+normal safe working current of about 29 milliamperes, is in the neighbourhood of
+600° C., and we know that in these circumstances the energy supplied to the wire in
+
+
+A SELECTIVE HOT-WIRE MICROPHONE. 405
+
+the form of heat is lost mainly by convection. There is in fact above the grid a free
+convection current whose velocity depends on the temperature and diameter of the
+platinum wire. A sound of suitable pitch produces in the neck of the resonator an
+alternating current of air which is superimposed upon the free convection current,
+with the result that the convection of heat from the platinum wire is alternately retarded
+and accelerated. It can easily be seen that if the maximum velocity of the alternating
+air-current does not exceed the velocity of the convection current, the periodic tempera-
+ture change produced in the platinum wire will have the same frequency as that of the
+sound stimulating the resonator.

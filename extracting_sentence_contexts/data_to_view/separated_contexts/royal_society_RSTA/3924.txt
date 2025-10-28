@@ -1,21 +1,11 @@
-The ratio between the two
-time steps, depending on the LBM lattice spacing and the DSMC particle characteristic collision
-time, defines the number of subcycles the DSMC should run for each LBM time step. The LBM
-solution information in proximity of the fine level grid is passed to the DSMC via the imposition
-of proper boundary conditions on the particle simulation domain. At the beginning of each DSMC
-integration step, in fact, particles are generated within the buffer region by sampling Grad’s
-distribution built according to the reconstruction step. The particles, in both the DSMC and the
-buffer regions, are allowed to stream for one fine level time step. If a particle from the DSMC
-region crosses the interface, that particle will contribute to the fluxes of mass and momentum for
-the LBM discrete distributions corresponding to the node where the crossing occurred, so that the
+We can only attribute this to the transformation of the residual y into a
+mixture of Cu,Sn and liquid, a reaction that becomes much more marked in the
+succeeding alloys. If this be the right explanation of the singularity, then the
+reaction occurs at a slightly higher temperature than in the case of alloys
+with more tin. This, again, may be due to the fact that when the change,
+y = Cu,Sn + liquid, takes place in Sn 26, there are already crystals of Cu,Sn in the
+alloy which may serve as nuclei and precipitate the reaction. In order to verify this
+cooling curve we repeated it with a different pyrometer and a fresh sample of alloy,
+and found the same phenomenon.
 
-
-populations will be corrected as
-
-R
-falx, mAtLBM) = fz % mAtLem) + )~ Afa(x,iAtpsmc), (2.5)
-
-i=1
-where f; are the populations before the application of the correction, R is the ratio between the
-LBM and DSMC time-step durations, and the correction contribution, }°; Afa, can be evaluated
-from equation (2.1) for n > 1 (only the fluxes are exchanged).
+Sn 27. 40°8 per cent. of tin.

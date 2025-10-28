@@ -1,35 +1,22 @@
-Equilibrium field fluctuations owing to monopoles
+44 I 2 oil. 2
 
-Consider now the spin-ice state in zero applied magnetic field, where the internal
-field H(r), which originates from the magnetic monopoles, is no longer constrained
-but instead relaxes self-consistently with the magnetization. An approximation to
-the problem is that, close to equilibrium, the field takes the value H(r) = y7'M(r)
-everywhere, and that this relation is maintained for small fluctuations away from
-equilibrium. The internal field therefore costs spin entropy
+Ficure 2
 
-— Thea = wo He)? (8.1)
+With reference to figure 2, it can be shown that at a boundary point such as 0 the derivative
+is given by
 
-and energy 1
-Brea = 5B H= SPL xr); (8.2)
+h(dw/dx), = AL, os ius M,, (A. 8)
 
-but this is offset by the energy gain in magnetizing the sample,
-E! = —moM-H=—pox rH’. (8.3)
 
-Summing these contributions and allowing the magnetic charge density to
-fluctuate along with the field, we find a free energy functional for field fluctuations,
+OF ELLIPTIC DIFFERENTIAL EQUATIONS 351
 
-F(H(r)) = | Male)? + MP iy -H)? dr. (8.4)
-
-This functional is entirely equivalent to that for electric field fluctuations in an
-electrolyte and in fact is equivalent to Debye-Hiickel theory [49]. Thus, we see
-that by suppressing spin fluctuations (i.e. setting H(r) = x7 M()) we recover the
-Debye~Hiickel approximation of Castelnovo et al. [17]. Introducing the Fourier transformed field H(r)= V7! >, H(a) e4™ and
-
-substituting into equation (8.4), we find
-
-V : ;
-F=5— SC H@)(1+ eb), (8.5)
-q
-
-where V is the volume and we have used D/k = Bh and the fact that the field,
-being derived from a scalar potential, is longitudinal to the wavevector.
+and, at a boundary point like 6,
+= 1
+h(@w/08)~V}— 3 a Vi (A.9) If the differences are now written in terms of functional values, an expression can be obtained
+for the fictitious value —1 in terms of the boundary derivative and boundary and internal
+values. Table 1 gives expressions for w_,, together with the error term or difference cor-
+rection, according to the number (r) of differences replaced by pivotal values. TABLE 1
+r w_y error term
+1 —h(dw/8x), + wo
+2 —2h(dw/2x), + w,
+3 — 3h(Gw/Ox)) — $wy +3w, — jw, 3 (-1)"

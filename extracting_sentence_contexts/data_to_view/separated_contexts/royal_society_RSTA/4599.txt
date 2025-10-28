@@ -1,11 +1,9 @@
-If the equations of motion are not linear in the parameters of
-interest, the difficulties multiply. Another issue is concerned with confidence in derived parameter
-estimates. This issue is a result of the fact that measurements or data from a system will, in reality,
-almost always be contaminated by random noise. Given a set of data D = {(xj,y;),i=1,...,N}
-of sampled system inputs x; and outputs y;, if there is no measurement noise, an identification
-algorithm should yield a deterministic estimate of the system parameters 0,
-
-0 =id(D), (2.1)
-
-where the function id represents the application of the identification algorithm to the data D. Now, if noise e(f) is present on the input or output data (or both), 6 will become a random vector
-conditioned on the data.
+The whole apparatus, including the bulb
+containing palladium, was made of boro-silicate glass. In the preparation of the hydrogen, the gas passed through two U tubes containing
+platinised pumice, kept at 400° C., instead of 220° C., to remove any oxygen diffusing
+from the + electrode. The purity of the hydrogen is evidenced by the fact that the residual gases from
+the combustion of all the hydrogen—about 154 grammes—burnt in my eight
+experiments and of the corresponding weight of chlorine yielded less than half a cubic
+centimetre of nitrogen. If it be assumed that all this nitrogen came from the
+hydrogenised palladium bulb (which is not likely), the maximum weight of nitrogen
+present in the hydrogen was 1 part in 25,000. 2.

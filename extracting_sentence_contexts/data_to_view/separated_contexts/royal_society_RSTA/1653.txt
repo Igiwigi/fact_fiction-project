@@ -1,21 +1,24 @@
-The overall duration estimates for tests and tasks, based on the experience with previous
-laboratory and even field tests, were significantly underestimated. Figure 2. (a—c) ROBEX experiments at a Moon analogue site on Mt Etna: autonomous deployment of an array of seismic sensors 16
-housed in modular payload boxes with our Lightweight Rover Unit (LRU) rover prototype [15,16]. (Online version in colour.) SS
+Logically it would seem to be a necessity that that population which is chosen in
+fitting a hypothetical population to data should also appear the best when tested for
+its goodness of fit. The method of the optimum secures this agreement, and at the
+same time provides an extension of the process of testing goodness of fit, to those cases
+for which the ,* test is invalid. The practical value of * lies in the fact that when the conditions are satisfied in
+order that it shall closely approximate to 2L, it is possible to give a general formula
+for its distribution, so that it is possible to calculate the probability, P, that in a random
+sample from the population considered, a worse fit should be obtained ; in such cases
+x* is distributed in a curve of the Pearsonian Type III.,
 
-— Factors contributing to these findings are the unstructured terrain and environmental ia
-factors of the remote site where especially the access time of the personnel on site has :=
-dominant time influences. These factors are also considered as the main reason for Da
-conducting an analogous campaign to identify exploration-like factors in the mission :3
-concept. 1 P
+/ 2) — x? 2
+df « (%) e *d(X)
+or
+df « L? e+ dl,
 
-— Other factors were not of lunar analogue origin and range from unfavourable weather 8
-(sunny and calm scenes obscure the fact that Etna is a high alpine region with rapidly : oe
-changing visibility and wind conditions); furthermore, access of tourists disturbed the ar)
-test runs (the test site is a World Heritage Site and exclusive access to the test teams was 1
-not granted by the authorities). :¢
+where n’ is one more than the number of degrees of freedom in which the sample may
+differ from expectation (17). Tn other cases we are at present faced with the difficulty that the distribution L
+requires a special investigation. This distribution will in general be discontinuous (as
+is that of y*), but it is not impossible that mathematical research will reveal the existence
+of effective graduations for the most important groups of cases to which ,* cannot
+be applied.
 
-Most of the total delays were a mixture of both groups, and some were indirectly caused by
-them (e.g. empty batteries after unplanned dwell times), making it difficult or almost impossible
-to break them down into relevant and irrelevant delays. Although cumbersome, a better event
-and ‘side factor’ tracking could be worthwhile. When planning the field test campaign, a large
-schedule for contingencies should be provided.
+
+FOUNDATIONS OF THEORETICAL STATISTICS.

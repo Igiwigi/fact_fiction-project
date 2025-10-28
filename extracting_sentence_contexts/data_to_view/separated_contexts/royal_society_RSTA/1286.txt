@@ -1,18 +1,8 @@
-The common deadband D is indicated by the dashed central
-line. (Online version in colour.)
+Hence xy = 148.
 
-Thus the battery response is given by
-B= Le[5i](B'G@)) — BP) + (1 — Le [5D (B86) — BP). (25)
-
-Here, the indicator function 1¢[5;] determines whether the local frequency at bus i lies in the
-range € = E€! UV €2, where €! = (—00, —F”] U [F", 00) and €? = (—F", —F"] U [F", F”) (figure 2). The
-terms (B!(5;) — B?) and (B8(3) — B), where the functions B!(4;)) and B8(3)) are defined below, take
-account of the fact that the BESS will in general be responding at a pre-contingency level B? just
-prior to time 0. These terms therefore model the change in power output when the BESS delivers
-its reference response. Since we do not explicitly model the state of the system prior to time 0, the
-values of B? are randomly sampled initial conditions, see §3 for more details.
-
-(i) Battery energy storage systems response to local frequency 6;
-
-According to (2.5), if the local frequency 6; lies in the range € then the BESS response is determined
-by this local frequency deviation.
+is that the decreased ionization consequent on increased pressure may be more than
+compensated by the increased ionization consequent on increased temperature, so that
+on balance the temperature of maximum may be decreased and not increased, as
+observed. Mathematical analysis confirms Miss PAYNE’s conjecture. We have in fact
+an interesting application of the solution to ScuwarzscutLp’s problem. The temperature of maximum is determined by the equation Py) = [ K,], where
+6 varies only slowly with T,,,,.

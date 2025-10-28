@@ -1,47 +1,5 @@
-With (3.20) and (3.21), evaluation of the
-matrix elements reduces to the same integrals as in the relaxation time approximation,
-
-(3.22)
-
-and we get
-1
-Reg = m| [( ~ Wa)(up = up) ~ 38ap(v - | L(MG?) dv = — Coup (3.23)
-and >
-RY =o ic = ta)(v — uP L(MG!) dv = —Fq,. (3.24)
-2 3u
-
-It should be noted that, for Maxwell’s molecules, evaluation of the relaxation rates for
-various moments can be done in closed form without specifying the distribution function,
-also for the nonlinear collision operator [15,20], and relaxation rates (3.23) and (3.24) are
-valid for the full nonlinear case; more on this in §11.
-
-(iv) For other particle collision models such as hard spheres or other power law potentials,
-functions M[CyCg — 35apC"] and M[C,(C? — =) are not eigenfunctions of the linearized
-collision integral any longer, and evaluation of the matrix elements (3.23) and (3.24) gives
-
-instead b
-ROG =o, (3.25)
-ab uo?
-and >
-RE = gy, 3.26
-a 30 Ya ( )
-
-where jug is not an exact viscosity coefficient but rather the first approximation thereof. For hard spheres of diameter d, for example [18],
-
-5 kgTm
-=—> . 3.27)
-0= TRV x (3.27)
-
-It is well known that first approximation jg is reasonably close to the exact value, in
-particular for hard spheres [1,18]. This fact, however, does not imply that corresponding
-eigenfunctions of the linearized Boltzmann collision integral are in any sense ‘close’ to
-those for Maxwell’s molecules, and it is therefore misleading to judge on the quality of
-Grad’s approximation for hard spheres on the basis of viscosity coefficient alone. We shall
-return to this discussion later. We now continue with finalizing Grad’s G13 approximation by writing down closed-form
-equations.
-
-(c) Grad’s system
-
-Substituting Grad’s closure relations for the Q- and T-fluxes (3.8) and (3.11) into balance equations
-(2.17) and (2.18), and also using any of the above realizations of the relaxation terms, one arrives
-at Grad’s equations.
+When first writing out the account of my work, this was the view I took, and it was
+only very gradually that I abandoned it. I am convinced now that it is untenable. To put the reader into possession of all the facts, and to get at a clear view of the
+subject, it seems advisable to state in detail the arguments which seemed to point to
+the conclusion that the 11 years’ period was only of recent origin. In Table XIII. the
+first column contains the times of sunspot maxima as copied from Wo.rFer’s tables.

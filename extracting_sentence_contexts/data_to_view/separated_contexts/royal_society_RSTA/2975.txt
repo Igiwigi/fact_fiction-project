@@ -1,9 +1,16 @@
-Other approaches have further focused on the role of the particular symmetry group G
-which, according to Noether’s theorem, comes with the conservation laws. As a consequence, the
-internal reference frame that one can define following this approach is heavily group dependent. This fact is clearly illustrated by the construction of the ‘model’ reference frame L(G): the square-
-integrable functions on the group G (under the invariant Haar measure) equipped with the left
-regular representation [8]. Hence, while this approach is mathematically very elegant, both in
-its definition and its interaction with the system, the construction is very complex, and so is the
-interaction required to implement the desired unitary on the system. Hence, one might wonder
-what sort of complex physical system this frame actually represents, and how to physically
-implement the necessary interaction.
+The stability or instability depends, in fact, on the sign of a certain function which
+M. Lrarounorr calls A, and which I denote A)+>(B,)’/C’, where A) is equal to
+As ls (72) + 20] —gout (2, s]. M. Lrarounorr tells us that, after having seen my conclusion he repeated all his
+computations and confirmed his former result. He attributes the disagreement
+between us to the fact that I have only computed portion of an infinite series, and
+only used approximate forms for the elliptic integrals in the several terms, He
+believes that the inclusion of the neglected residue of the infinite series would lead to
+an opposite conclusion,
+
+In my computation the function @;[% (ox)’+2,] —yo, is decisively negative, and
+being numerically greater than ¥{(B;)’/C¢+[#, s]}, which is positive, the sum of the
+two is negative. The inclusion of the neglected residue undoubtedly tends to make
+this whole function positive, but after making the revision, explained in the present
+paper, it remains incredible, to me at least, that the neglected residue can amount to
+the total needed to invert the sign. It may be worth mentioning that in revising my work I notice that
+As[4 (o»)’+2¢,] $0, owes its negative sign to the term —}o,.

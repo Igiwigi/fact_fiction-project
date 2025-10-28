@@ -1,15 +1,19 @@
-Although the governing equations of the underlying fluid dynamics are known essentially exactly
-in the continuum limit, an accurate resolution of their solutions down to the smallest energized
-scales is well beyond the capacity of any computers that are available now or foreseeable in the
-future. In addition, many climate-critical processes such as convection and clouds are represented
-only approximately in climate simulations, and perhaps always will be. Such processes may not
-be amenable to a representation by physically based deterministic equations and may in fact be
-inherently stochastic. For all these reasons, uncertainties in climate predictions arise not only from
-uncertainties in initial conditions and forcing scenarios (including future emissions of volcanic
+[Published 17 April 1944
 
-aerosols and greenhouse gases), but also from inherent uncertainties in model formulation. : =
 
-The ability to make predictions of the climate system as a whole is hindered because of a : 3
-lack of accepted physical principles that control the overall behaviour, such as the global-mean : ca
-temperature. Without such principles, it is impossible to estimate the error of a prediction made :f
-with an inevitably imperfect model over a long evolution time.
+368 J. R. GREEN AND R. V. SOUTHWELL ON RELAXATION
+
+was developed only in the last few weeks) it has seemed desirable to record this partial
+ment now, leaving the supersonic regime for discussion later. It has still to be establis
+that the alternative method does in fact converge under supersonic conditions. I. GENERAL THEORY The governing equations
+
+2, Assuming the motion to be irrotational, we can express the component velocities
+
+a
+
+and v as derivatives of a velocity potential ¢. Moreover, the equation of continuity
+
+J (ou) + 55 (o0) = 0 Q)
+
+(which states that there can be no steady accumulation of mass at any point) permits the
+introduction of a ‘mass-flow function’ y.

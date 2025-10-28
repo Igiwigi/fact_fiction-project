@@ -1,13 +1,12 @@
-Even for higher order methods, these Sy
-methods are invariably only first order near discontinuities or large gradients. The numerical 2
-truncation errors are of the same type and sign as the SGS terms. More serious is the unfortunate aed
-fact that they are typically large and can be larger than the SGS terms. The ultimate factor 22
-contributing to the solution morphology is not only these physical transport terms and the : Ss
-numerically based turbulent transport terms, but their dimensionless ratios, such as the Schmidt : s
-number Sc = v/D, where v is the viscosity and D is the species diffusion, with a similar definition : s
-for the dimensionless Prandtl number Pr governing thermal diffusion. The numerical problem 18
+«| 593 547 46
 
-arises from the fact that the dimensionless ratio of combined effects transport (physical, or
-molecular, turbulent or grid dependent; and numerical, or algorithmic dependent) is typically
-perturbed by the numerical truncation error contribution, and due to the sign restriction on the
-SGS turbulent transport term, this error cannot be compensated for by adjusting its coefficient.
+As regards both molecular viscosity and molecular viscosity work, the formates—
+as was to be expected from what has been already stated—give values which are
+much larger than those of other compounds. Of the remaining liquids the general
+mean of the values of ethers and esters as regards molecular viscosity is 62 + 8. The variations of the individual values are no doubt large, arising mainly from the
+fact that in the case of normal isomers the same calculated value is deducted from
+the observed numbers, no regard being paid to the effect of symmetry of the
+molecule, etc., on the viscosity. A quantitative measure of these effects will only
+be possible after a much larger number of compounds has been investigated. There
+can, however, be no question of the large differences which exist between the atomic
+constants of hydroxyl oxygen, carbonyl oxygen, and ether oxygen.

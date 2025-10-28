@@ -1,53 +1,7 @@
-Such constraints can be found
-in the works dedicated to high-order closures based on the MEP for the description of rarefied
-gas dynamics. The latter includes works on both DVMs [39] and moment methods [55,66]. For
-example, the seminal paper by Levermore [39] introduces sets of admissible moments whose
-maximal order is either two or four:
+§ 7. Comparison of Provisional Theory with Observation. The theory described above gives, on the whole, a fairly accurate qualitative descrip-
+tion of the facts observed. When, however, the observations of optical creep came to
+be plotted to time and it was attempted to fit to the curves formule of the type
 
-— 5-moment:
+Arm ae thin ec live) vuiviite Wh lee saw (Dh)
 
-(L, Siees Six Six), (2.17)
-— 10-moment:
-
-(1, Siar Fini), (2.18)
-— 14-moment:
-
-(L, Sia, SiaSip, Six Six Sica, Fix Six Sin Sin), (2.19)
-
-
-— 21-moment:
-
-(CL, bias Siakip, Sia Sipésiy, Six Six SinFin) (2.20)
-— 26-moment:
-
-(1, bias Sia kip, SiakipSiy, Fix Siz ia kip), (2.21)
-— 35-moment:
-
-(L, Sias Siakip, Sia kipSiys FiaSip bi Six)» (2.22)
-
-In fact, the above sets enclose all linear combinations of moments belonging to each set, i.e.
-their raw, Hermite, central and central Hermite version—a fortiori, it does not extend to non-
-linear combinations of moments such as cumulants. In addition to Levermore’s sets of moments, :
-restrictions to third-order moments (and their linear combinations) were proposed in the context :B
-of moment approaches:
-
-— 13-moment:
-(L, Siar SinSip, Six Six Fie), (2.23)
-— 20-moment:
-(1, Siar Sia&ip, Sia Sip§iy), (2.24)
-where Grad’s 13 moments can be obtained from the set (2.23) by considering second- and third- : a
-order moments based on peculiar discrete velocities & jy = fig — Ua [66-68]. : 3
-In the context of LBMs based on the numerical equilibrium (2.13), each set of moments : a
-two
-
-(2.17)-(2.24) leads to a different macroscopic behaviour. Roughly speaking, the asymptotic limit
-recovered by LBMs based on the above sets of moments can be summarized as
-
-dp + dy (puy) =0,
-
-9t(Ptla) + Op(PUattg + Pdap) + A2 = 9p(Tap) + As (2.25)
-and Ap(PE) + Aq((PE + p)ite) + AY = dq(Gy) + AL,
-
-where Ay and Af are errors, respectively, related to equilibrium moments of order 1 and
-their trace, that would emerge if the corresponding constraints are not accounted for in the
-computation of the exponential equilibrium (2.13).
+it rapidly became apparent that no such formula could give even an approximate fit.

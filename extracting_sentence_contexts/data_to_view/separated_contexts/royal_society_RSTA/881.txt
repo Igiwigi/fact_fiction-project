@@ -1,9 +1,13 @@
-Graph states form a strict subclass of stabilizer states, which are
-described by simple undirected unweighted graphs. The vertices in the graph represent qubits
-initialized in the state |+) = (1//2)(|0) + |1) and edges represent controlled phase gates between
-the corresponding qubits. Any stabilizer state is in fact single-qubit Clifford equivalent to some
-graph state [9]. Furthermore, a graph state that is single-qubit Clifford equivalent to a given
-stabilizer state on n qubits can be found efficiently in time O(n>). Thus, if we find an efficient
-algorithm that decides if some graph state |G;) can be reached from |G,) by LC + LPM + CC, we
-also have an efficient algorithm for the more general case where the target and source states are
-stabilizer states.
+The coefficient of friction was also found to be inde-
+pendent of the diameter of the sphere used for the rubbing contact. Table X shows
+the results for a number of new steel balls of different sizes. The fact that the coefficient of friction is independent of the curvature of the
+rubbing contacts also shows that there is no disturbing viscosity effect in the measure-
+ments of boundary lubrication. With all measurements of boundary lubrication,
+some abrasion of the surfaces took place, the spherical contacts were worn, and
+
+
+PHYSICAL PROPERTIES OF SURFACES 347
+
+there were slight marks on the flat bearing surface. This abrasion occurred with
+surfaces which were apparently well lubricated and for which the coefficient of
+friction was considerably lower than that reported for static friction.

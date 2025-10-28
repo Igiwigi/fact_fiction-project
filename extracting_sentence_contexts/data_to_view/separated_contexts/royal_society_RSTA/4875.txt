@@ -1,31 +1,24 @@
-We will see that they are indeed polynomials as a by-product of their computation. Furthermore, in all of
-our applications, F will be monic. Furthermore, the denominator is in fact the discriminant of F, for, in characteristic 2, r + e =
-(r,- ry. Following Berlekamp, we denote the numerator of Berl(F) by &(F), that is,
+Next suppose p to cross the imaginary axis, the / integral can then be taken from
 
-&(F)
-disc F’
+1 ‘ !
+~, tozalong a loop round the point = 0, and then along a straight line to the
 
-Berl(F) = (2.3)
+* ‘Kugelfunetionen.,’ Vol. 1, p. 37.
 
-Note also that, in characteristic 2, disc F = 5(F)*, where
 
-a(F)=ay | i +7)
+OF UNRESTRICTED DEGREE, ORDER, AND ARGUMENT. 497
 
-i<j
+point h = z, but cannot be taken directly from ee to z; it thus appears that the
 
-is a polynomial in the coefficients of F with total degree n—1, and degree at most d(n)=
+function P,, (1) is no longer represented by the definite integral, but that the value
 
-{(n —1)/2] in ap—its leading term, as a polynomial in ao, is al V2 gn D2 for odd n, and
-(2 1 (297 ? for even n. The formulae for Berlekamp’s discriminant for degrees up to 3 are
-0
-Berl(ax + b) = V
-2 ac
-Berl(ax* + bx +c) = B
-Pd? + abcd + Bd S
-and Berl(ax> + bx? + cx + d) = ae + aed + tae
-(ad + bc)?
+= of the definite integrals involves Q,, (1) as well as P, (uw); in fact, we have shown in
+(70) that in this case
 
-(b) Effective computation of Berlekamp’s discriminant
+= Le ft; pose 2 F
+z ca ( + /p =T cos pb)" db = P, (nv) — er e*"™ sin na. Q, (4),
 
-The formulae above do not lend themselves immediately to computations of Berl(F) or &(F)
-in terms of the coefficients of F.
+2p where the upper or lower sign is to be taken in the exponential according as the
+‘= imaginary part of p is positive or negative.
+
+ ~=—s

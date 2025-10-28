@@ -1,6 +1,22 @@
-At the top level of the modified system is a single workflow that operates on every
-available dataset. This workflow then initiates a new execution branch for each dataset that runs
-concurrently to calculate descriptors and, ultimately, to construct and validate a set of models (the
-workflow is shown in figure 2). The opportunities for parallelization in this system arise from the
-fact that each set of data can be treated independently. Thus, when the first workflow completes,
-there are several thousand independent workflow requests in the execution queue. To create this system, a number of additional workflow blocks were developed.
+There are four points A, B, Cand D at which the differential
+equation is satisfied, two internal fictitious points P and Q, three external fictitious points
+L, M and N, and one boundary point S.
+
+Ficure 16
+
+If the radius is taken to be 3 units, the mesh length in figure 16 is one unit, and the finite-
+difference form of (B. 13) is given by
+20wW,)— 8S, +25,+5,—64+A = 0,) (B.15)
+A=—3(88 +68 J+... J
+This equation is to be set up at each of the points A, B, C and D, the fictitious points involved
+being obtained, and eliminated if necessary, by means of equations (B.11) and (B. 12). Taking advantage of symmetry and the known (zero) values of w, dw/dx and dw/dy at every
+boundary point, the following equations are obtained from (B. 15), with A neglected:
+
+20w ,—32w,+ 8wz+4wy— 64 = 0,
+25w,—l16w,— 8w,—8w,+ 6Wp — 64 = 0, (B. 16)
+22w ,— 16wo— 16wWp+ 2w 4+ 4Wp + 2W9+ 2Wyy— 64 = 0,
+
+20wy—16wWp— 8We+4Wp+4Wy+2Wg+ Wy +Wy—64 = 0. From (B. 11) and (B. 12) the fictitious points are involved as follows:
+w, = 2:45874wp—0-93368wp,
+We = 0:11473wp— 0-03343wp,
+Wy = 0:05891w, —0-02943w¢, (B. 17)

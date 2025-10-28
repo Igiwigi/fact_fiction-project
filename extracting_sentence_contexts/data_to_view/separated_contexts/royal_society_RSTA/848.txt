@@ -1,27 +1,8 @@
-By continuity, there exists
-aT’, possibly smaller than the choice above, such that for all t € [0, T’] we know ||Q’(4Il3,(@,q) is
-sufficiently small and the determinant is bounded away from zero. Next, we set ||H||pom(D)nDom(B) = |!DH1I3,(Q;2) + BH |l3,@Q@;2) for any H € Dom(D) N Dom(B),
-while || - |lop denotes the operator norm for bounded operators on Q. We observe that for any
-néN we have
-
-IP(E(Q')" IlDom(DynDom(B) < IP (E)LDom(D) Dom) l(Q’(é))" llop
-IIPOIlDom(DynDomiBy|IQ'(Hllop
-IPO lDom(DynDomiBy IQ’ HII, (a,0)-
-
-Hence we observe that
-
-P(t) (« + Zener")
-n>1 Dom(D)NDom(B)
-
-< IP lIbom(DynDom(B) (: +0 121,00)
-n>1
-
-< IPO libom(DynDom(y (1 = 1Q(H)l3(@:0))" |
-
-Hence using the operator series expansion for (id + Q’(t))~! we observe we have established that
-IP(@Gd + Q'(H)" IDomoynDom(s) < POIlDom(oyrDomB) (1 — IQ’ Hll3a¢@-a))
-
-Hence there exists a T’ > 0 such that for each t € [0, T’] we know G(t) = P(t)(id + Q’(#))~! exists, is
-unique, and in fact G € C™([0, T’]; Dom(D) N Dom(B)). a
-
-Remark 2.5 (Initial data). We have already remarked that we set Q’(0) =O so that Q(0) =id. Consistent with the Riccati relation we hereafter set P(0) = G(0).
+In §2 of the present paper we develop a different method for describing oblique
+propagation of a magneto-ionic component through the ionosphere, avoiding the use
+of a refractive index uv which depends in a complicated way upon an unknown angle of
+refraction y. This method makes the validity of Schekulin’s result almost obvious. The
+explanation of the result depends on the fact that in a doubly refracting medium the
+direction of group-propagation in general differs from that of phase-propagation. Fig. 2 represents only the phase-propagation of a magneto-ionic component, whereas
+it is the group-propagation which yields a cuspless ray of more conventional type. The level of reflexion of a magneto-ionic component is the level where its direction of
+group-propagation becomes horizontal.

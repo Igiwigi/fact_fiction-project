@@ -1,12 +1,22 @@
-By purely accidental circumstances, the facts usually presented as theorems in school textbooks
-are true (in this case, can be deduced from Hilbert’s axioms), but this does not make their
-traditional proofs any more correct. For instance, Euclid’s proof of the fact that the diagonals of
-a parallelogram bisect each other (the one reproduced in Wikipedia) already uses much more
-difficult facts that they intersect inside the parallelogram or, for that matter, that they do intersect
-at all! As was gradually discovered between the third century B.C and the nineteenth century
-A.D., the reason is that Euclid’s text missed a whole bunch of axioms (or, in fact, at least two such
-bunches, betweenness and continuity), necessary to derive his claims.
-
-2Concerning this paragraph, the second anonymous referee commented that ‘Physics is driven by observation and
-measurement, and can therefore live well with incorrect proofs’. For me, Mathematics is also largely driven by observation
-and experiment. In Physics, you can afford speculations, mathematical guesswork usually stays very concrete and specific.
+Experimental evidence shows that when atoms
+enter into chemical reactions at ordinary temperatures, it is rarely (if ever) that the
+accompanying disturbance increases the kinetic energy of any of the electrons
+sufficiently to enable them to escape ; but if the conditions are arranged so that the
+electrons already possess considerable kinetic energy in virtue of their thermal
+agitation, it would seem possible that the stimulus of chemical action should have
+the effect of increasing this energy sufficiently to cause some of the electrons to
+overcome the forces tending to retain them in the substance. It seems, therefore,
+that chemical action at a high temperature might be expected to result in an electron
+emission in cases where the temperature itself is not sufficient to produce this effect,
+or where it produces it only to a much smaller extent. This conclusion is supported
+by the fact that an increased emission occurs when certain chemically active gases
+are allowed to enter the discharge tube, but it must be remembered that there is
+another manner in which these gases may act in aiding the escape of electrons from
+the glowing cathode, namely, by causing an alteration in the surface conditions
+whereby the minimum amount of energy an electron must possess in order to escape
+from the cathode is reduced. Such a reduction might be caused by the formation of
+an electric double layer at the surface of the cathode which would create a force
+tending to drag out the electrons. There is already a considerable amount of
+evidence of the existence of these double layers in certain cases, and this view has
+been put forward to explain the action of hydrogen in increasing the electron
+emission from platinum.

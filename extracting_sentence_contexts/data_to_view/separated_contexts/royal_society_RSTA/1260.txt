@@ -1,19 +1,12 @@
-The L,a,b,c constants are specific to
-the material with L> 0 anda,beR, c>0. If u=0 the Q-tensor equation would simply be a gradient flow of the free energy. For u 4 0,
-the molecules are transported by the flow (as indicated by the convective derivative D;) as well
-as being tumbled and aligned by the flow, a fact described by the term:
-
-def
-
-1 1 1
-S(Vu, Q) = (D+ 2) (2 t si) t (2 t 5) (ED — 2) —2& (2+ si) tr(QVu), (2.3)
-where D def 1/2(Vu + (Vu)") and 2 det 1/2(Vu — (Vu)") are, respectively, the symmetric part and
-the antisymmetric part, of the velocity gradient matrix Vu. The constant é is a material dependent
-constant, the case = 0 being referred to as the co-rotational case. The equations for the flow u resulting out of the linear momentum conservation satisfy the
-forced Navier-Stokes system:
-Ou + (u-Viu=vAu+ Vp+av-T
-(2.4)
-V-u=0,
-
-where v, 4 >0 with 4 measuring the ratio of the elastic effects (produced by the liquid crystal
-molecules) to that of the diffusive effects.
+Commenting on this argument, Orr remarks* : “
+held that neither does it afford a proof of the stability of the motion.” Orr argues
+that the supplementary solution is completely determined by the necessity of neutralising
+at the boundaries the values of ¥ and d¥/éy as given by (19); and that Kenvin has
+assumed without justification that it consequently starts from zero at t= 0. If the
+supplementary solution is in fact to start from zero, solutions of the type (19) must not
+only satisfy both boundary conditions initially, but also be capable of representing any
+arbitrary initial disturbance. Later Orr objects to KeLvin’s assumption, that the supplementary solution will
+come asymptotically to zero as ¢ increases to infinity because this is true of the primary
+solution (19). He says} that this can be asserted only of the bowndary values of the
+supplementary solution ; and he concludes that “ Lord Kevin has not proved stability,
+even for infinitesimal disturbances.’{

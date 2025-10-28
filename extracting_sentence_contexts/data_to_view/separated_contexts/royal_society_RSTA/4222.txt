@@ -1,9 +1,20 @@
-This can deform or even break components, thereby compromising
-the functionality of the device. On the positive side, capillarity can be used in the design of
-microstructures, as illustrated by the development of passive pipetting techniques [5] and by
-alternative approaches to self-assembly [6]. Other applications include the formation of foams by
-evaporating water from a vertical array of multiwalled nanotubes [7], the engineering of highly
-hydrophobic surfaces in the form of coated carbon nanotubes [8], and the fact that locomotion of
-robots and insects on interfaces is facilitated by means of flexible appendages [9,10]. One particular promising aspect of elasto-capillarity is the ability of surface tension to fold
-planar objects, possibly with hinges, into three-dimensional structures [6]. For elastic sheets,
-this process is known as capillary origami [11,12].
+245
+
+content of a plane set containing the set E, and the latter the content of a plane set
+contained in E, so that the common limit must be the content of E. In the case
+when the function is sometimes positive and sometimes negative, the sum of the
+positive terms of the first summation is the content of a set containing E,, and the
+sum of the negative terms, taken with positive sign, is the content of a set contained
+in E,; similarly the second summation is the content of a component of E, minus the
+content of a set containing E,; thus the common limit must be the content of E,
+minus that of E,. Thus the two definitions are identical. *
+
+The second of Lesescur’s definitions enables us without difficulty to identify the
+Lebesgue integral with the generalised integral which I defined in § 24, In fact,
+
+q
+
+comparing LeBEsGUE’s notation with that used by myself in § 21, it is clear that
+ete; = Tin—l_: Whence the former of the two given expressions is equal to
+
+ko (1, —-Ty a) + (Tyr —Te) +.

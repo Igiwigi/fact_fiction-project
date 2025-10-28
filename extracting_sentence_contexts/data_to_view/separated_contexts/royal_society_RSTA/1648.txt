@@ -1,23 +1,18 @@
-Therefore,
+Upon considera-
+tion, therefore, I perceive that the word probability is wrongly used in such a connection :
+probability is a ratio of frequencies, and about the frequencies of such values we can
+know nothing whatever. We must return to the actual fact that one value of p, of
+the frequency of which we know nothing, would yield the observed result three times
+as frequently as would another value of p. If we need a word to characterise this
+relative property of different values of p, I suggest that we may speak without confusion
+of the likelihood of one value of p being thrice the likelihood of another, bearing always
+in mind that likelihood is not here used loosely as a synonym of probability, but simply
+to express the relative frequencies with which such values of the hypothetical quantity
+p would in fact yield the observed sample. The solution of the problems of calculating from a sample the parameters of the
+hypothetical population, which we have put forward in the method of maximum likeli-
 
-T(t)f(x) =E(f(X:)), £20, f € By(X), xe X. (4.7)
 
-If A = —Iand Qis nuclear, setting y :=.N0,2Q, T(t) coincides with the classical Ornstein-Uhlenbeck
-semigroup considered in §3. If A = 0, T(t) may be called heat semigroup. In this case, Q; = tQ so that
-setting y = Viz in the right-hand side of (4.5), we get a simpler representation formula for T(t),
+FOUNDATIONS OF THEORETICAL STATISTICS. 327
 
-THF (x) = I, f(x + Vtz)u(dz), t>0, f € By(X), xe X,
-where ju :=No,-
-
-Going back to the general case, the representation formula (4.5) yields that T(t) is a Feller
-semigroup, namely, it maps C;(X) into itself and, in fact, it maps the subspaces BUC(X), Ch(X),
-
-
-Ch(x) and catk(x) into themselves, for w € (0,1), k € N. In particular, for f € CX), we have
-(VTC) (x), h) = I. (eA ve(elAx + y),h) u(dy), x, heX. (4.8)
-T(t) is strong-Feller (namely, it maps Bj(X) into C,(X)) iff (see [7, Remark 9.20])
-efA(x) CQI7(X), t>0. (4.9)
-In this case, T(t) maps B,(X) into Ci(X) for every k €N, see [2, Ch. 6], and the operators
-Ar=Q,; 7 4, £>0, (4.10)
-
-play an important role in the rest of the theory. First, A; ¢ @(X) for every t > 0.
+hood, consists, then, simply of choosing such values of these parameters as have the
+maximum likelihood.

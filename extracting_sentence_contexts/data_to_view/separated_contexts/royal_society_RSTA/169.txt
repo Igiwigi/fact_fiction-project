@@ -1,10 +1,39 @@
-Titterington
+A modification adopted
+‘3 was as follows. Writing f = }sin 2($—8), and F = —hsin¢, where h is the value for which
+4 ¢ is required, the values of f,, f2, F, and F, were calculated, and with f, = }sin 2(¢,—9),
+2 F, =—hsin4,, etc., the following results are obtained, where differences are indicated by
 
-imited to the ‘small p, large n’ scenario. This scenario also naturally reflected
-he contemporary limitations of computers (the term meant people prior to 1950)
-and graphical display. A natural mode for asymptotic approximation therefore imagines that n— co
-while p remains of smaller order than n, in fact usually fixed. Among the most
-amiliar theoretical results of this type are the Laws of Large Numbers and the
-Central Limit Theorems. The former says that the sample mean of a random
-sample of size n from a population has as a limit, in a well-defined sense, the
-population mean, as n tends to oo.
+ee by fl @ Fe
+
+g (w) (2) (A);
+
+a bo fh () &
+
+3 Since, for the correct value of ¢, say ¢ = $, +70, f= F, nis given by
+
+3 n= yla—P)- (3-2) Although this modification of the usual procedure is formally trivial, practically it effects
+a considerable saving of time, particularly in view of the fact that the values of / are usually
+1 or 2 figure numbers, and that the difference between ¢, and ¢, can usually be made, from
+the first estimate, sufficiently small for the calculation of (3-2) to be made mentally. Numerical integration
+
+For the calculation of the mean magnetization at a given value of h of an assembly of
+ellipsoids orientated at random in the field (see table 6, § 4), the value of the integral in
+
+(2:19) is required, namely
+
+cos ¢ = {""cos¢ sin 0d. (3-3)
+0
+
+76
+Vor. 240. A.
+
+
+616 E. C. STONER AND E. P. WOHLFARTH ON A MECHANISM
+
+From table 2, giving cos ¢ as a function of h at a series of values of @, tables may be drawn up
+giving (cos ¢), for @ = 0 (10°) 90°, and a series of equally spaced values of the integrand
+obtained by multiplying by sin @. Where the integrand is a continuous function of @ over
+the range of integration, that is for | h| <3, for }<h<1, and for | h| >1, the integration can
+in principle be effected numerically, using the Newton-Gregory formula, or, if the con-
+tinuation of the function outside the @ range from 0 to 90° is known and is of a suitable
+character, the more convenient central difference formula.

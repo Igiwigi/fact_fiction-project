@@ -1,7 +1,7 @@
-In those early models, the dependency structure of the v; is fixed a priori (but see the extension
-by Gruber et al. [42]). In more recent work, the dependency structure of the v; has been estimated
-from data. The model in Hyvarinen et al. [40] in fact contains a parameter matrix that describes
-the correlations between the v;, and one can estimate these parameters rather straightforwardly
-[43]. A closely related formalism uses a generative model of the whole covariance structure of x
-[44,45]. Another line of work defines a parametrized pdf that does not have an explicit representation
-of the variance variables v; but attempts to model the same kind of dependencies [46,47].
+and probably considerably less. Their cause must therefore be near the upper
+surface of the crust. Assuming that the inhomogeneity arises from a complex structure in
+which rocks of different density are present, an idea of the order of magnitude can be
+obtained from the fact that two semi-infinite horizontal layers of rock 3 km. thick separated
+by a vertical interface and differing in density by 0-2, would give a gravitational field at a
+level 5 km. above their upper surface, having a maximum gradient of 1 mgal/km. directly
+over the interface and an overall difference of 25 mgals.

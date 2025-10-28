@@ -1,36 +1,21 @@
-Inertia generates well-localized resonant peaks in the three modes (I, II, II). Inertialess conditions
-generate a broader power peak only in mode III (large viscosity) since dissipative modes persist
-with higher frequencies. These facts follow from the fact that the power is proportional to the
-imaginary part of the transfer function P() = Im[Fp(@)]|/2 (see equation (4.9)) and according
-to the asymptotic results of appendix C, only under finite inertia Im[Fp(@)] converges at large
-frequency to its static value. Hence, except for mode III, inertialess conditions do not generate
-power pulses.
+These
 
 
+92 E. N. FOX ON THE DIFFRACTION OF
 
+equations are, however, still linear and can be satisfied simultaneously by assuming a series
+of the form (55) for each of the two unknown functions. The first term in each series is then
+a solution of the half-plane problem corresponding to the upper or lower edge respectively,
+whilst, after application of the Laplace transformation, the (r+1)th term in either series
+is related to the rth term in the other series by an integral equation identical in form with
+equation (29). Much of the analysis is therefore essentially a repetition of the previous
+analysis and can, in fact, be avoided if we make the following direct appeal to the physical
+nature of the problem. First, although the incident field is not necessarily symmetrical, we still have an inherent
+symmetry in the strip itself and this can be used to advantage if we introduce two systems
+of co-ordinates (x,y) and (x,y’) one to each edge, by writing
 
-(a) inertial mechanisms
-
-3
-6x 10 ae
-- 104
-5x 103 first resonance peak 2
-5 103.
-6
-De=10~;a°=1 we
-2 4x 103 9 3
-g I: (LS, LV, FM} 3 104
-Ea 3
-2 ey
-= 4 =104
-= 3x108 ddyy= 10
-g =45,=104 107! Line teat 1100 — eH
-ea} 10 105 1 10 10 10°
-3 2x 103 k=104 dimensionless frequency >
-f=] =
-second resonance peak yy
-9x 102 - al
-=
-S
-DA
--1x 10?
+felt hee toedt: Sama ich (128)
+where y, Y as before are measured from the upper edge as origin and y’, Y’ similarly from
+the lower edge. We can now generalize equation (71) to express the pressure on the back of the strip
+rr ee Po= FY, 4/00), , (129)
+where F, f refer to diffraction effects arriving from the upper and lower edges respectively.

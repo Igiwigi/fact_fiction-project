@@ -1,22 +1,12 @@
-Our use of multidirectional scaling, such as the eigen decomposition of distance matrices, to
-quantify the variances in one or more relevant substructures has been discussed in depth for
-trajectories of folding proteins in [23,24]. In our past work, we showed how the dramatic variances
-of eigenvalues can be associated with rare events in two use cases such as the transformation of
-amino acids from an a-helix into a straight -strand and the swinging of a protein helix with
-respect to the rest of the protein.
+It is possible to effect this adjustment—in a certain
+measure—by the addition of simple elements to each such function ; but the process
+becomes unduly complex, and needs no detailed illustration. A considerably more convenient, if less stringent, procedure, is to proceed with the
+summation of the functions g in the manner prescribed, and to adjust, as completely
+as possible, the behaviour of the final result by the inclusion of appropriate terms. A solution conducted on the latter basis has, in point of fact, the advantage that it
+may cover a somewhat wider problem than would otherwise be embraced. In order
+to complete the solution for the general case of rotation this second treatment will be
+adopted. It appears that all conditions, such as may legitimately be imposed at infinity, can
+be satisfied by incorporating in the solution a simple “ adjusting’ function of the
+following type :
 
-5. Protein variants and protein engineering
-
-The third algorithm builds upon the fact that proteins with similar sequences have similar
-functions. Our algorithms can be used to support the measurement of millions of protein
-variants expressed to produce desired properties (protein engineering). Our mapping transforms
-heterogeneous macromolecules such as proteins to capture and exposure structure (i.e. secondary
-
-
-(a)
-
-Figure 6. (a—c) Visualization of the intermolecular transformation in the 1BDD protein with its swinging Helix 3 [19,23]. (Online
-version in colour.)
-
-— red: ot helix i=
-1.
+¥’ = — Ala, sinh (20 — K)

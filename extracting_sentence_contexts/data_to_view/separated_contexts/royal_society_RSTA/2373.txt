@@ -1,12 +1,11 @@
-Thus, we limit our discussion to delayed PD
-types of feedback, namely, the feedback takes the form
-
-F(t) =—kp0(t — t) — ka(t — 0), (2.2)
-
-where kp and kg are the proportional and the derivative control gains and r is the reaction time
-delay. Figure 1 shows a ‘pinned’ inverted pendulum controlled by time-delayed PD feedback. The
-term ‘pinned’ refers to the fact that the position of the pivot point A of the inverted pendulum
-is fixed and hence the only possible motions are those confined to the anterior-posterior plane
-about the pivot. The fixed point of (2.1) with f(t) = 0 is a saddle. In order to analyse linear stability
-when f(t) 40, it is useful to note that the period of the small-amplitude oscillations that occur
-when the pendulum is hung downwards is Tp = 22/@n [38].
+After maximum pressure, i.e., in effect after the propellant has been completely converted into gas, the
+gas density remains constant, and convection ceases. A modified set of circumstances consequently arises,
+since there is then heat conduction through the gas complex, now at constant density, together with heat
+conduction through the steel, as previously considered. In these conditions, as is well known, resistance
+to flow of heat from the gas hody to the wall surface is very much influenced by the thermal state of the
+layer of gas contiguous to the surface, and allowance has to be made for this fact in any general treatment. From inspection of cooling curves, i.e., pressure-time curves obtained after maximum pressure, it can be
+ascertained that heat losses by cooling take place comparatively slowly, the modifying influence of the
+intervening gas layer being clearly at work. A phenomenon of this nature is likely to come more and
+more into prominence as abstraction of energy by the walls in the form of work, together with convection
+effects, cease, as the densities of loading are diminished, and as the propellant sizes are increased, times
+being more and more prolonged.

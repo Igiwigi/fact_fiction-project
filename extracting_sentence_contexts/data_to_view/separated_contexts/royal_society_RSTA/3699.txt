@@ -1,21 +1,11 @@
-The agreement is particularly good at the lower energies, and slightly worse at higher energies. This is perhaps not an entirely unexpected result, since it is probably the case that non-statistical
-ballistic effects (which have a more accurate physical treatment in the MD simulations) are more
-important at higher energies. The agreement between the MD and EGME results, while not perfect, is certainly surprising
-considering the number of approximations involved in formulating the EGME model, including:
-(i) the statistical approximation that is the basis for microcanonical transition-state theory, which
-neglects ballistic dynamical effects, and assumes that energy within the system is distributed
-ergodically; (ii) the fact that the boundary chosen to divide the system and the bath cuts across
-covalent bonds within the diamond slab; (iii) the fact that the energy transfer function F(E < E’)
-was fitted to a correlation function obtained from linear response theory using MD results from
-a single equilibrium NVE simulation, (iv) the approximate nature of the energy transfer function
-F(E <E’), which is unable to capture the finer dynamical structure of the correlation function
-obtained from MD simulations; and (v) the assumption that the rate at which the bath removes
-energy from the system is independent of where precisely that energy is located—i.e. the system
-is homogeneously coupled to the bath phonon modes.
+I do not think, however, that we can fairly infer anything
+with regard to the variation of the specific heat at constant pressure from that at
+constant volume. The value of the latter can only be deduced by the aid of very
+uncertain data, and we have as yet no sure theoretical guide as to the way in which
 
-
-6. Conclusion
-
-In this work, we have carried out a detailed study of etching kinetics at the diamond surface
-under typical CVD conditions using MD simulations, and also a statistical EGME model. The aim
-of the work was twofold.
+a it ought to vary, apart from experiments on the specific heat at constant pressure. The most remarkable facts about the specific heat of water are its great constancy
+f. over a considerable range, and its high value as compared with that of the solid or
+"g the vapour. The specific heat of liquid mercury is nearly the same as that of the
+= solid, and both are about double that of the vapour at constant volume. The
+& specific heat of water is double that of ice, and nearly three times that of steam at
+constant volume.

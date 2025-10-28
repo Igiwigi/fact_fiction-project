@@ -1,14 +1,4 @@
-Although ACO-
-OFDM provides the lowest SNR cost at low spectral efficiencies, its SNR cost rapidly increases
-with spectral efficiency. This is because ACO-OFDM requires a constellation size of m-squared
-compared with schemes that do not have a loss of half the subcarriers, e.g. 1024 constellation
-points rather than 32 for schemes with full spectral efficiency. This fact makes layered schemes
-very attractive for high spectral efficiencies because the extra data are carried by additional layers
-rather than by increasing 1; however, layered schemes have their own cost per layer, because
-every layer contributes to the mean optical power, so for a constant optical power, each layer
-must be allocated less power as the number of layers is increased. For ease of comparisons, in figure 6, none of the schemes in the figure have diversity combining
-nor noise cancellation as applied to layered systems by Wang et al. [49] and later by Mohammed
-et al. [38], then Wang et al. [50] using soft successive interference cancellation. By taking QPSK
-ACO-OFDM as the reference for SNR cost, Mohammed ef al.’s fig. 5 can be used by subtracting
-approximately 5 dB from their optical energy per bit, Ep(opt)/No, to obtain the electrical SNR cost
-of figure 6.
+W. H. BRAGG ON X-RAYS AND CRYSTAL STRUCTURE. that the intensity of any spectrum is proportional to 1/sin’#, where @ is the glancing
+angle, no matter whether the spectra belong to one or to several spacings of the planes. This involves both the facts just stated. We chose such a form of the density curve for the single atom that we could
+account for the first fact. The important point is that without further hypothesis
+we explain the second.

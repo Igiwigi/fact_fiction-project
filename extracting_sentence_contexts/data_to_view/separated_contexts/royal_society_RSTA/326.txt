@@ -1,13 +1,16 @@
-On the other hand, the third assumption is not necessary and can be relaxed in different ways,
-but most of the theory makes this rather strict assumption for simplicity. So, the real fundamental departure from conventional multi-variate statistics is to assume that
-the components are non-Gaussian. Non-Gaussianity also gives a new meaning to independence:
-for variables with a joint Gaussian distribution, uncorrelatedness and independence are :
-in fact equivalent. Only in the non-Gaussian case is independence something more than :z
-uncorrelatedness. Uncorrelatedness is assumed in other methods such as PCA and factor analysis, [3
-but this non-Gaussian form of independence is usually not. a
+Nevertheless, it is desirable
+to know the rate of the chronometer to at least 1 in 2 x 106 (approximately yy sec./day). By
 
-As a trivial example, consider two-dimensional data that are concentrated on four points: :8
-(—1,0), (1,0), (0, —1), (0,1) with equal probability t The variables x; and x2 are uncorrelated [=
-owing to symmetry with respect to the axes: if you flip the sign of x1, the distribution stays 1
-the same, and thus we must have E{x,x2} = E{(—x,)x2}, which implies their correlation (and :g
-covariance) must be zero.
+
+250 B. C. BROWNE AND R. I. B. COOPER ON THE BRITISH
+
+comparison with the rhythmic time signals transmitted by the Post Office Wireless Station
+at Rugby (G.B.R.), the mean rate can easily be determined with this accuracy, but it
+requires an exceptionally good chronometer to ensure that the rate shall remain constant
+throughout the interval between time signals. In the past mechanical chronometers have
+been used, but the fact that these must operate electrical contacts, and the unfavourable
+conditions on board a submarine, make it difficult to ensure the necessary constancy of rate. Matters may be improved by using two or more chronometers, but it is quite possible that
+the conditions experienced during a dive, such as the change in temperature and pressure
+and the cessation of violent motion, may introduce systematic changes in the rates. A great advance in the accuracy of timing was made by the American submarine gravity
+survey of 1936-1937 on board the U.S.S. Barracuda, by using the ‘crystal chronometer’
+designed and constructed by the Bell Telephone Laboratories in New York (Ewing 1938).

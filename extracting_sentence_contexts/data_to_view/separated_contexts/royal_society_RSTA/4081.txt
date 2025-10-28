@@ -1,25 +1,27 @@
-Note that the refocusing time is expected at 2T, which
-is redefined in the following text as the new time origin. We have to note that that this new wavefield verifies a homogeneous wave equation with the
-time-reversed BCs (the original source is no longer present):
+Keeping p, and p, the same as above, it was found that
+by almost closing the drain pipe valve so that only a very small quantity of steam
 
-1 a gtr(r, t)
-wae 0. (2.2)
-Therefore, it cannot be equal to g(r, —f). In fact, it is not enough to time-reverse the wavefield
-on the boundary S. You also have to time-reverse the source term on equation (2.1) and g(r, —f)
-indeed verifies the following equation deduced from equation (2.1) where f is replaced by —t:
 
-Agu(t, t) —
+THE THERMODYNAMICAL PROPERTIES OF SUPERHEATED STEAM, 19
 
-1 92y(r, —#) =
-
-Ag(r, -t) — —5 ——— =s(r, -#). 2.3 13
-ett) ~ Tage 806 1 Q3) 38
-This means that in order to achieve a perfect time-reversal, both the source has to be transformed into :
-a sink (the time-reversal of a source s(r, —f)) and also the field and its normal derivative on surface aa)
-S have to be time-reversed. Note that if the source is impulsive one writes s(r,t) = S(r)5(f) and as tw
-
-8(t) = 4(—t) we easily find that [13] 3
-gue(t, t) = p(t, -f) — g(t, t). (2.4) : gS
-
-This important result is, in some way, disappointing because it means that reversing a wavefield
-using a closed TRM is not enough to radiate only the advanced wavefield.
+passed with the water from the steam chest, the temperature of the wiredrawn steam
+became lower by nearly 0°35° in about 10 minutes, and remained at this lower value
+so long as the drainage was thus restricted. This decrease of temperature was
+clearly noticeable, and, though its amount was relatively small compared with the
+increase of wetness in the steam in the steam chest, its existence seemed to impair in
+a slight degree the deduction that the condition of the steam was always the same
+just before entering the orifice. There is, however, one point to notice which has not previously been mentioned,
+and which was suggested to the author by Professor REYNoLDs as accounting for this
+peculiar difference observed in the temperature of the wiredrawn steam; the water
+in the boiler is certainly not free from air, and even a small quantity of air in the
+steam entering the steam pipe with the steam, owing to the fact that a large quantity
+of steam leaving the boiler is condensed in the pipe and steam chest, would, if the
+actual steam drained away is very small, represent a much greater percentage of air
+entering the orifice with the steam than in the steam leaving the boiler. With good
+drainage of steam and water from the steam chest, this percentage of air would be
+very much smaller and most of it would be carried away through the drain pipe on
+account of its slightly greater density. In any case, however, this maximum difference of temperature in the wiredrawn
+steam is scarcely sufficient, considering the good drainage usually allowed from the
+steam chest in the experiments and the general accuracy to which the results
+attained, to justify the conclusion that the conditions of the steam just before passing
+the orifice was ever materially altered.

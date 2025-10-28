@@ -1,9 +1,6 @@
-This correlation is found to be
-approximately 80%. This is higher than 65% found in [11] for a canonical turbulent boundary
-layer that was justified as a result of the footprint caused by the superstructure-type events in the
-log region. The fact that the correlation is higher in FST cases supports the direct penetration of
-the FST large scales into the boundary layer and down to the near-wall region (this correlation is
-even higher for case D, approx. 85%). Given the similarities of the scale interactions with that of high Reynolds number canonical
-boundary layers, there is grounds to test the predictive inner-outer model of Marusic et al. [10],
-also detailed in Mathis et al. [11], for the turbulent boundary layers in the presence of FST. This would confirm the analogy between the two flows and validate the applicability of the
-model to this non-canonical case.
+2. Warerston’s Method. Warerston’s investigations take no account of the fact that the molecular
+speeds of the molecules of the gas are distributed about a mean, according to such
+an arrangement as the Borrzmann-MAXxweELt distribution. Hence in dealing with
+planetary atmospheres it is assumed that at any point all the molecules are moving
+with the same speed. On such an assumption the conditions for the existence of an
+atmosphere are very simple, especially if no account is taken of axial rotation.

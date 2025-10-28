@@ -1,12 +1,12 @@
-We perform our numerical studies with the fourth-order Runge-Kutta algorithm
-for stochastic processes developed by Kasdin [45]. Equation (2.1) is integrated over a time long
-enough as N + 1 periods. The time step is h = 0.027 /w, and the initial velocity is x(0) = 0 because
-the particle is at rest at the bottom of the deformable potential.
+Some information will be found on page 351. It is seen that the first two terms in these equations are much more important than
+the following terms, that is to say, the naturalized wind V at any level can be expressed
+nearly in terms of § and d/dL at the same level. This unexpected fact simplifies the
+observer’s work. Finally, to test the error due to the number of layers not being infinite, we may repeat
+the process with layers of a different thickness. Thus, for layers three times as thick
+it is found in a similar way, that
 
-(a) Input energy and input energy distribution of the system
+Vo-¢ = —1°340B,-2,
 
-Input energy is in fact equivalent to work done by the field. In a noise-driven underdamped
-nonlinear oscillator, it mainly depends on the different initial positions taken by the particle
-on an entire space period of the RP potential substrate. In figure 2, we show the variation of
-the input energy averaged over a trajectory for a feedback strength 6 = 0.08, time delay t = 1.5,
-for the temperatures T = 0.001 and T = 0.04, and for the values of r indicated in figure.
+V,.5 = —1°602£8,., + 0°6298,...
+
+To contrast the two solutions, take the simplest case, in which all the $ are equal.

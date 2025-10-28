@@ -1,11 +1,15 @@
-Tl. Back to the periodic table
-
-If we are to believe what the experts on the philosophy of classification and natural kinds have
-to tell us we should renounce the notion that we will ever arrive at a truly optimal periodic table,
-since any system of classification must inevitably remain interest dependent. Of course this state
-of affairs should not negate the attempts to resolve such questions as the membership of group 3
-of the periodic table, but it should remind us of the fact that any resolution must concede a certain
-degree of conventionality, or choice, on the part of the scientific community. For example, another currently debated topic concerning the classification of the elements
-has been the debate concerning the relative virtues of Janet’s left-step periodic table [42]. This
-representation is arrived at by making two simple changes to the 32-column table shown in
-figure 5.
+Unfortunately, it is found in practice that the first order aberrations do not
+give a sufficient approximation for the optician’s requirements. In fact for a certain
+range of object and image positions, they are so badly out that they cannot be
+said to constitute an approximation at all. This fact has long been recognised by
+optical designers, whose practice is invariably to calculate, using the exact trigono-
+metrical equations which involve no approximation at all, the correct paths of a
+number of selected rays, from which they draw conclusions as to the efficiency, or
+otherwise, of the proposed system from the practical point of view. The trigonometrical method, however, from the designer’s point of view, has the
+radical defect that, while it gives partial information about the performance of a given
+system, it gives no direct intimation of the direction in which the elimination of various
+detects is to be looked for, and it entails a long and laborious process of seeking for
+the optimum by trial and error. The object of the authors of the present paper has been to develop a method of
+expressing the aberrations, which, while carrying the algebraic development to a
+stage including the second order, should be free from certain grave troubles involved
+by failure of convergency, troubles which appear to have been hitherto neglected.

@@ -1,45 +1,19 @@
-SYLVESTER ON A NEW METHOD OF FINDING © OOO
-
-for fx with 7,,_,.z must contain the same number of }'s ; but the difference will be;
-that if 0h,.9h4...9h,, is positive an þ will occupy the first place in each scale; or the
-Second place in each scale;. but if negative,/then in one. scale an-(4) will occupy the:
-first place, and in the other scale the second place. Art. (52.). The same process of common measure or residues which serves to furnish
-a rhizoristic series for f(x) or a synrhizoristic series for fx and pz, will serye also to
-furnish superior and inferior limits to the real roots of any proposed equation: Thus
-suppose fi to he any rational integral function of (@),of the degree, (n) and @(z) any
-other function of x, which I shall begin with snpposing to. be,of the degree;(n—1),
-and let the successive quotients resulting from the: process. of, finding the greatest
-common measure of fr, px continued until the last remainder is not a constant but zero,
-be supposed to be (as they may generally be taken, but subject to cases of exception,
-which will hereafter be alluded to) x linear functions q, qz+-+4,z then we. shall have
-
-ae eg Lig pap Fo ones
-fo a+ %+ 41+ 9
-and therefore ex=K.N
-YJo=R1D;
-where N is the numerator and D the denominator of the fraction
-1 1 1
-
-aa FOES
-and K isa constant (the value of which is immaterial to be considered, but in fact equals
-10S 6-4 by:
-+H0,22, 4 ge.
-"LL *
-L,, Li, L,, L,, &c. being the leading coefficients of the last, the last but one, the last
-but two, &e. of the Bezontian secondaries to fr and gx). Accordingly,
-
-if'n=1; let D=q9=/:3
-OS 1
-if n=2, let D=quq+l=m{qtz)=m.;
-
-n 1
-if n=3, let D=9;{q; +1} + q41=t1 wel gta d=i;
-
-and in general let D=p,. aha» (bas
-1 1 Lia ha;
-where = PSP =o, Gay! W=tF i
-
-Now snppose x to be $0 taken that
-4: does not lie between +1 and —1]
-
-Ga a pe a NS 28.
+In article (5) T proceed to
+determine by a direct method these simplified residnes in terms of the coefficients of
+F and @. Beginning with the case where,F and 9 are of the same'dimensions'(1m) in x,
+I obserye that we may deduce from f'and © m linearly independent frtinctions of
+each of the degree (m—1) in a, all of them syzygetic functions of Fand'p (vanishing
+when these two simultaneously vanish), and, with coefficients which.are made up of
+terms, each of which is the product of one coefficient of F and one coefficient of 9. These, in fact, are the very same (m) functions as are employed in the method which
+goes by the name of Bezovur's abridged method to obtain the resultant to (z. e. the
+resnlt of the elimination of x performed upon) Fand'p. As these derived functions are
+of frequent occurrence, I find it necessary to give them a name, and I term them the (m)
+Bezoutics or Bezoutian Primaries ; from these (m) primaries m Bezoutian secondaries
+may be deduced by eliminating linearly between them in the order in which they are
+generated,—first, the highest power of x between two, then the two highest powers of
+x between three, and finally, all the powers of x between them all: along with the
+system thus formed it is necessary to include the first Bezoutian primary, and to con-
+sider it accordingly as being also the first Bezoutian secondary ; the last Bezoutian
+Secondary is a constant identical with the Resultant of Fand . When the m times m
+coeflicients of the Bezoutian primaries are conceived as separated from the powers of z
+and arranged in a square, I term such square the Bezoutic square.

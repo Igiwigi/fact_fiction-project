@@ -1,10 +1,23 @@
-Our main message is simple:
-many types of quantified asymptotic behaviour of operator semigroups can be characterized, or at
-least described very precisely, in terms of simple resolvent bounds for semigroup generators and
-of various related resolvent conditions. Strikingly, the passage from resolvent bounds to decay
-rates can often be achieved without essential loss, so that optimal decay rates are possible as long
-as one has sharp resolvent estimates. In fact, sharp resolvent estimates are (almost) equivalent to
-sharp decay rates. While resolvents have long been used in the study of decay rates, a unified
-approach leading to optimal rates of decay has emerged only relatively recently. The techniques
-outlined in the present survey are intended to serve as a partial remedy, although they too have
-their natural limitations and will not be the optimal tool in all situations.
+In all theories of plastic flow in
+isotropic solids such as that of Levy and von Mises’ it has been assumed without
+experimental test and sometimes without any explicit statement that the directions of
+the principal stresses are identical with those of principal strains. It is difficult to
+imagine any other relationship between these directions, but it is worth while noticing
+that any departure from isotropy in the material might be expected to falsify this
+relationship unless, as in the case of a drawn metal rod or tube under direct load, the
+directions of principal stress are identical with the principal directions of the non-
+isotropic properties. In the work which will be described later, experiments are carried
+out in which the directions of the principal stresses are variable at will and it is proved
+experimentally that the directions of the axes of the stress quadric do in fact coincide
+with those of the strain quadric. Other Relationships between Stress and Strain.—When the directions of the principal
+axes of stress are known the complete specification of stress contains two variables,
+which may be regarded as (1) the absolute magnitude of any one of the principal shear
+stresses or of any homogeneous function of them, and (2) any one ratio between the
+principal shear stresses or between linear combinations of them. The same remarks
+
+* Love's ‘ Elasticity,’ 4th ed., § 11.
+
+
+328 G. I. TAYLOR AND H. QUINNEY ON
+
+apply to the specification of strain.

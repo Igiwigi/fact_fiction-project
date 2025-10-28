@@ -1,45 +1,7 @@
-In addition
-to radiometric calibration, polarimetric demodulation and cross-talk minimization between the
-Stokes parameters was included in the calibration process. This dataset was also studied in
-Stangalini et al. [60], Murabito et al. [61], Houston et al. [62], Murabito et al. [63]
+|v (H, ku) EY (HW. w') ds, . . . (8.00)
 
-In order to ensure the reliability of the results, here we restrict our attention to the intensity and
-CP fluctuations only. This choice is also motivated by the fact that since the Ca II 854.2 nm spectral
-line often goes into emission, the estimation of the Doppler velocity may lead to inconsistencies
-[64]. Inversion techniques may provide a solid context for the reliable estimation of the Doppler
-velocity even in these conditions, but such a technique will be addressed and explored in future
-work on the subject. The focal point of our investigation is the wavelet analysis of the CP and
+the integration being over all space. Limits such as that in (2.458) are unnecessary,
+as the integrals are strongly convergent ; in fact (2.458) reduces to the same form as
+(2.45). The integrations with respect to 0, ¢, and 7, are all separate, and
 
-
-AIA 304 A 2016-05-20 14:00:06
-
-0"
-
-S 50"
-
-= -100"
-
-2 150"
-
-—200" —100" 0" 100"
-helioprojective longitude (Solar-X) [arcsec]
-
-Ca blue wing Ca 854.2 nm core
-1600 0.30
-2000 1400
-0.25
-1750 1200
-1500 2 1000 2 0.20
-_e
-Qa a S
-1250 > 800 = 0.15 %
-1000 2 600 2 a
-= = 0.10
-750 400
-0.05
-500 200
-0
-0 10 20 30 0 10 20 30 0 10 20 30
-(arcsec) (arcsec) (arcsec)
-
-Figure 1.
+(E, h, w|j/r? | B’, &, uw!)

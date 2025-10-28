@@ -1,16 +1,21 @@
-There are numerous inversion algorithms with various advantages and disadvantages
-associated with each based on the rationale for the actual code design. For example, Milne—
-Eddington inversions are fairly common ([1-6]; to name a few) and employ the Milne-Eddington
-assumption that the physical properties that govern line formation are constant with depth to
-solve the radiative transfer equation in the presence of a magnetic field [7-9]. Milne-Eddington
-inversions tend to be quick to obtain a result, computationally speaking, and often give a good
-approximation of field strengths at a given height [4,10] though they do have difficulties dealing
-with asymmetric Stokes profiles due to the assumptions made by the code and the fact that real
-data may have gradients in the velocity and magnetic field components. More complex codes have been developed as well to fill the gap of specific needs for the
-community, such as depth varying Local Thermodynamic Equilibrium (LTE) based inversions
-using response functions of the observed signals [11,12], codes that treat non-LTE conditions
-where the rate equations are not dominated by collisional terms [13,14], codes that account
-for both the Hanle and Zeeman effects [15,16], codes that use archive synthetic spectra
-[17], non-LTE codes with analytical response functions [18] and non-LTE codes that include
-partial redistribution effects [19]. Each of these codes have different pro et contra, with each
-offering a valuable and vital resource to the community for various use cases.
+-
+
+When yw is negative—that is, when the cylinders rotate in opposite directions, only
+one case has been worked out completely, namely, that in which « = —1-5, R, = 3-80,
+R, = 4-035. The characteristic differences revealed by the analysis between the
+motion in this case, and that in the case when ys is positive, are :—
+
+(a) The spacing of the vortices is reduced in the ratio 1-73:1. The predicted
+spacing of the vortices in this case is in fact (4-035 —3-80)/1-73 = 0-136 cm. ;
+and
+
+(b) The vortices in contact with the inner cylinder only extend out about half-way
+to the outer cylinder instead of extending right across the fluid annulus. (a) Spacing of Vortices—To verify the conclusions reached in regard to the spacing
+of the vortices a number of measurements were taken when the radius of the inner
+cylinder was 3-80 em., the values of « ranging from -+-0-65 to —1-78.
+
+
+334 MR. G. I. TAYLOR ON STABILITY OF A VISCOUS LIQUID
+
+The results are given in Table VIII. and they are shown in the form of a curve in
+fig.

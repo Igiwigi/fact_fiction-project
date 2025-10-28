@@ -1,19 +1,14 @@
-The implementation of the scheme is relatively simple
+S
+2p | aed 2a (1—a) SEL Paes > eset oil ob (44) The values of the parameters must of course be such that c > k >—e, and it is clear
+that there is a wide range of values of a, p, g, and \ which permit of this being true. It may be well, in connexion with (44), to recall the fact that ¢ is of the dimensions
+of a length multiplied by a velocity, and that for a given configuration in the z plane
+c[V is independent of V.
 
-
-ee 32-0AM 3
-4
-
-“0 4 8 12 16 20 0 5 10 15 20 25 30 35 40 a
-no. LEDs N, no. subbands ia
-
-Figure 7. (a) Spectral efficiency improvement of spatial CAP (S-CAP) over single-carrier CAP and (b) channel transmission :
-efficiency of subband index CAP (SI-CAP) for different constellation orders M of the QAM scheme employed. Solid lines indicate :3
-the transmission efficiency of m-CAP of the same QAM order M. (Online version in colour.) Dp
-
-and the fact that a single LED is active at any time removes inter-carrier or inter-band interference DN
-(IBI) at the receiver. However, it has been shown that the power efficiency of the scheme is lower :3
-than that of the equivalent CAP scheme, due to the requirements for distinct channel gains for :&
-the different LED sources [76]. Ways to mitigate this issue include the application of the PFI
-technique in a similar manner to MIMO to differentiate the channel gains or the use of multiple
-photodiodes (PDs) at different locations to increase the probability of correct symbol recovery.
+Though the formula (44) does actually contain the law of the dependence of the
+inertia of the ship (having a certain type of shape) upon the angles 2p7 and 2qz7 at
+bow and stern, it must not be assumed that the functional law corresponds to the
+explicit appearance of p and q in the formula. The other parameters are to be
+regarded not as data, but as functions of what ought properly to be the data, for
+example the length and breadth or the length and area of the ship. If \ and eV~
+were expressed in terms of such data the formula would show explicitly the required
+law, and would probably be a much more complicated function of p and q.

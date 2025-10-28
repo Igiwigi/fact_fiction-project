@@ -1,19 +1,14 @@
-The partition 2*1, considered as containing a part zero, gives, when the parts are success-
-ively increased by 1, the partitions 321, 2, 2*1?, in which the indices of the increased
-part (7. e. the original part plus unity) are 1, 3, 2; these numbers are taken as multi-
-co of the coefficient 1 of the partition 2*1, and we thus have the new coefficients
-1, 3, 2 of the partitions 321, 2, 2*1*. In like manner the coefficient 3 of the partition
-21* gives the new coefficients 3, 6, 12 of the partitions 31*, 2*1?, 21*, and the coefficient
-10 of the partition 1* gives the new coefficients 10, 60 of the partitions 21* and 15, and
-finally, the last line is obtained by addition. The process in fact amounts to the multi-
-plication separately of each term of cd=
-1(2?1)+3(21*+10(1*)
+5 13. The line EF Joining a pair of conjugate poles of the cubic is a tangent of the
+- ippian *.
 
-by 6=(1). It would perhaps have been proper to employ an analogous rule for the
-calculation of the combinations &d”.. not containing 6, but instead of doing s0 I ayailed
-myself of the existing Tables (5). But the comparison of the last line of each Table (a)
-(which as corresponding to a combination 4” was always calculated independently of the
-Tables (6)) with such last line as calculated from the corresponding Table (6), seems to
-afford a complete verification of both the Tables; and my process has in fact enabled me
-to detect seyeral numerical errors in the Tables (6), as given in the English translation
-of the work above referred to.
+AQ In fact, the equations (A), by the elimination of «, Þ, y, give
+
+—(P+#f/+£)+(—l+4)Et=0,
+
+which proves the theorem.
+
+14. To find the equation of the pair of lines through F, and to show that these lines
+are tangents of the Pippian. The equation of the pair of lines considered as the first or conic polar of the conjugate
+pole E, is
+
+X(a*+21yz)+Y(4+2w)+Z(2*+20ry)=0.

@@ -1,11 +1,15 @@
-MDCCCXLIX. 3N
+one of the order 7, one of the order 3, and
 
 
-454 MR, W. C. WILLIAMSON ON THE MICROSCOPIC STRUCTURE OP THE
+MR. A. CAYLEY'S SECOND MEMOIR UPON QUANTICS. 115 And these covariants are connected by a single syzygy of the degree 5 and of the
+order 11; in fact, the table shows that there are only two asyzygetic covariants of
+this degree and order ; but we may, with the above-mentioned irreducible covariants
+of the degrees 1, 2, 3 and 4, form three covariants of the degree 5 and the order 11;
+there is therefore a syzygy of this degree and order. 40. I represent the number of ways in which q can be made up as a sum of m terms
+with the elements 0, 1, 2,...m, each element being repeatable an indefinite number
 
-facts is, that Mr. Quzekerr's objection to the arrangement of the Lepidosiren amongst
-fishes, as proposed by Professor Owen, derived from the form of its lacunze, is not a
-valid one. On viewing the variety and complication in the arrangement of the elementary tissues
-combining to form the scale of Megalichthys, it is difficult to resist the conclusion
-that it must have been constructed on a very different plan to that followed in the
-genera previously described.
+of times by the notation
+' P(0, 1,2,..m)*%q,
+and I write for shortness
+
+P(0,1,2,..m)%g=P(0, 1,2..m)%g—P(0, 1,2...m)%q—1.

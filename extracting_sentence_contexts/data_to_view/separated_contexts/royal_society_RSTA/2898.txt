@@ -1,20 +1,21 @@
-The nonlinear restoring force fx, is available as it can be computed from the filtered temporal
-series through
+§12. We have so far confined ourselves to the consideration of functions of positive
+type, but the reader will easily perceive that the results obtained for these functions
+may be made applicable to those of negative type by a simple device. In fact, if
+«(s, t) is of negative type in the square Q, and we suppose that
 
-Ri = ft — mii* — cir* — KE ut, (4.3)
+kK (s, t) = —K (s, t),
 
-and its phase-space representation is given in figure 7a. The two-dimensional section
-corresponding to u* =0 represented in figure 7b highlights the cubic nonlinearity induced by
-the thin lamina: fNL = Kyu. In fact, a one-term harmonic balance approximation u~u* =
-Usin(t + 5,) means that
+it is evident that «’ (s, ¢) is of positive type in Q. Applying then what we have said
+about functions of positive type to «’(s, t), we may deduce the analogous properties of
+x (s, t); for instance, the necessary and sufficient condition that a continuous symmetric
+function «(s,t) defined in the square aSssb, aStSb may be of negative type is
+that the functions
 
-Ro = Kn). (4.4)
+wees &
+\ rs |
 
-A nonlinear coefficient Ky = 2.507 x 10? Nm~$ is then obtained by filtering the signal uw
+should never be negative when the variables s, 82, ..., Sy... each range over the closed
+interval (a, b). We may remark that this result and that of § 10 prove the classes of functions of
 
-and solving equation (4.4) by a least-squares method, which provides an excellent fit with a
-normalized mean-squared error equal to 0.4%. Furthermore, from equation (2.7),
 
-fi (it =0) =P Kui, (4.5)
-
-which is the cubic approximation represented in figure 7a,b.
+AND THEIR CONNECTION WITH THE THEORY OF INTEGRAL EQUATIONS.

@@ -1,11 +1,10 @@
-This is not all: when a single quantum system is measured and one of the possible eigenvalues
-of the corresponding observable is obtained, the quantum system emerges in a special state such
-that repeated measurements of the same kind thereafter will always yield the same eigenvalue. Such a state is therefore called an eigenstate (also ‘basis state’), and one says that the initial state
-of the quantum system has collapsed into, or been reduced to, an eigenstate as the result of the
-first intervention. These experimental facts allow the development of linear algebra algorithms in which the state
-of a quantum system is represented by a (unit) vector in a (complex) Hilbert space; interactions,
-measurements and transformations are represented by specific operators. The axes represent
-eigenstates or basis states, and the squares of the projections of the state vector onto the axes
-represent the probabilities of occurrence of the corresponding eigenvalues. A general quantum
-state (called a pure or superposed state) is thus represented as a linear superposition of basis
-states; a measurement is represented by the rotation of the state vector onto one of the axes.
+Ifa supersonic region is extended far enough, any Mach line that is not a branch line
+must meet a limit line. For simple waves this is a well-known result (Shepherdson 1946, 1947; Courant &
+Friedrichs 1948). That it is true in general follows from the fact that any Mach line that is
+not cusped, and not a branch line, must have a limit point of its family if the Mach line
+extends over a sufficient distance, by virtue of (30) and of the corresponding equation for
+hg, since F(a, «), G(o,2), N, and sin 2u are all positive. It may, of course, be possible to
+consider only a portion of the supersonic field (supposed bounded, at any rate in part,
+
+* In that case h, is discontinuous, since a simple wave is flanked by regions of uniform flow; the centre is an
+isolated limit point of the first order (cf.

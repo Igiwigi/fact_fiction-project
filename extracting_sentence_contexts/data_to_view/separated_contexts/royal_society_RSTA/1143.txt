@@ -1,10 +1,20 @@
-When high-order moments are equilibrated, the
-REG-CHM model recovers the behaviour of the SRT-RR approach. The REG-HM and REG-RR
-further leads to the standard regularized approach. The latter is explained by the fact that this
-configuration (REG) amounts to discarding the non-equilibrium part of populations that are
-computed using recursive formulae. In addition, it is confirmed that none of the collision models are able to remove the Mach
-number limitation, which was obtained in the linear case, and which is imposed by the lattice
-and the equilibrium. In fact, by adopting a different type of equilibrium, e.g. the entropic
-formulation obtained by minimizing the H-functional under the constraint of density and
-momentum conservation [134], this limitation could be alleviated but at the cost of part of the
-physics [76].
+The quantity usually written @ in the first of these three approxi-
+mations (the form in most general use) is in effect equal to
+
+BT,
+
+—_——
+
+iD (i a a -p)
+and it will be seen that this quantity, other things being equal, increases with decreases
+in T and in p. The experimentally derived value of 8, assuming the law of direct
+proportionality to hold, is known in closed vessel observations to increase with increase
+of propellant size and with decrease in the density of loading, in both of which cases the
+mean value of T decreases. The occurrence of the term (T, —T,) in the denominator of B is in accordance with
+
+the known fact that the rate of burning increases with T,}; if T,, closely approaches
+T, a small amount of incident energy only is required to cause breakdown.t It will
+
+be shown later that & increases more rapidly than would be indicated by a law of
+direct proportionality with T,. Ifl.—Analysis of Closed Vessel Pressure-Time Curves. The analytical scheme for obtaining numerical values from pressure-time curves
+under closed vessel conditions rests basically on equations (5), (7) and (8).

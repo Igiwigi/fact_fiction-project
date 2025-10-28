@@ -1,25 +1,12 @@
-Lemma 3.1. For any jx sufficiently small, the vector field f in (3.6) has the following properties.
-(i) The complex-valued map f is of class Ck in a neighbourhood of 0 in C x C x R, for any arbitrary
+The difference between the means of the 26 and the 71 deter-
+minations is 1 in 1,000,000. These results are of considerable importance, as they show very great constancy
+both of current weigher and cell. In fact, the cell and balance proved to be much
+more constant and reliable than the standard resistance, although the latter was very
+earefully made and annealed with a view to ensuring permanency,
 
-but fixed k > 2.
-(ii) There exists a real-valued map g of class CK! defined in a neighbourhood of 0 in R? such that
-
-f(A, A, 2) = A(IAP, 1),
-
-for any A sufficiently small.
-(iii) The coefficients of the leading-order terms in the Taylor expansion of f,
-
-f(A, A, ») = crn + c30AlAP? + OVAI(uI? + IAI), (3.7)
-are given by
-1 4F? (30a — 41)
-c= Q—ay’ C30 (2a)? Proof. (i) This property follows from the fact that the map ” provided by the centre manifold
-theorem is of class C*.
-(ii) Recall that the dynamical system (3.2) is equivariant under the action of the operators T and
-Th, a € R. According to [9, §2.3.3], these equivariances are inherited by the reduced equation (3.6),
-so that f satisfies
-
-f(A,A,u)=f(A,A,u) and f(el@A,e~“A, u) =ef(A, A, w),
-
-for any a€R and A sufficiently small. Applying the result in [9, ch. 1, lemma 2.4], the second
-equality above implies that f is of the form (3.7) with g a complex-valued function, and then
-from the first equality above we conclude that g is a real-valued function.
+The precision of measurement attainable with the new balance exceeds the most
+sanguine expectations of its designers. It was intended to give the ampere to 1 in
+10,000, and an accuracy of 1 in 20,000 was hoped for, but 1 in 50,000 has been
+attained. The instrument itself admits of a far higher accuracy, for a tenth of a
+milligramme can be detected with certainty, and this, in a total of 15 grammes, the
+balancing mass for 1 ampere, means 1 in 300,000 in the value of the current.

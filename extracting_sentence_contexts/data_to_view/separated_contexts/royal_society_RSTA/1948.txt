@@ -1,15 +1,9 @@
-It is distinct from the errors
-
-
-associated with discretization of the traction and numerical quadrature which we will consider
-shortly. Regularization enables a particularly convenient discretization of the single layer boundary
-integral equation; this simplicity however comes at a cost. The Nystrém method (3.2) corresponds
-to using identical discretizations for the traction f<(y) and Sjx(x,y) when considered as functions
-of position y € B (the latter for fixed x), despite the fact that the stokeslet kernel varies much
-more rapidly than the traction, as shown in figure 1, the variability becoming more rapid as ¢ is
-reduced (figure 2). The number of degrees of freedom of the system 3N and hence the 3N x 3N
-matrix size is tied to the discretization for the traction, and so reducing the regularization error
-via reducing ¢ entails rapid growth in memory and computational requirements associated with
-system assembly and solution. Cortez et al. [24] initially suggested a quadrature error O(i?/e3)
-where hi is the discretization length; more recently [42] this estimate has been improved to
-O(h? /e) + O(Pe~V/Ph-?) for any integer P > 3.
+The method may be illustrated by an
+example from KrS. In Kr, e = 3183°35. The value of §, (5) as calculated from the
+formula is 47419°39, which is in the ultra-violet outside the observed region, But
+47419'39—e = 4423604. This is within the observed region, and as a fact the
+corresponding line is found at 44237°61 with dA = —'08 if e is free from error. As
+an individual case this might be due to a coincidence, but when the same effect occurs
+with line after line the cumulative effect becomes convincing. To see this it is
+necessary to get at a glance a survey of all the cases, and for this purpose they are
+exhibited in sets of diagrams in Plate 3.

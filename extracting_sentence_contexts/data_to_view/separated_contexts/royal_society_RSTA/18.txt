@@ -1,20 +1,14 @@
-Wright et al. [43] defined RPCA
-as a decomposition of an 1 x p data matrix X into a sum of two n x p components: a low-rank
-component L and a sparse component S. More precisely, a convex optimization problem was
-defined as identifying the matrix components of X = L + S that minimize a linear combination of
-two different norms of the components:
-
-in ||L A\|S|l1, 3.5
-min Ll]. + AlSllr (3.5)
-where ||L\|, = 5°,0;(L), the sum of the singular values of L, is the nuclear norm of L, and
-
-AWSlh =>; yj |si| is the €;-norm of matrix S. The motivation for such a decomposition is the
-fact that, in many applications, low-rank matrices are associated with a general pattern (e.g.
-
-
-the ‘correct’ data in a corrupted dataset, a face in facial recognition, or a background image in
-video surveillance data), whereas a sparse matrix is associated with disturbances (e.g. corrupted
-data values, effects of light or shading in facial recognition, a moving object or person in the
-foreground of data surveillance images). Sparse components are also called ‘noise’, in what can
-be confusing terminology since in some applications it is precisely the ‘noise’ component that is of
-interest. Problem 3.5 has obvious points of contact with some of the discussion in §3b.
+Where my laboratory is
+$ituated, in South Kensington, the E.N.E., E., and §.E. are quarters in which the
+dpnsest parts of commercial London are sehaaa: and consequently, if a wind from
+‘ny of these quarters prevails, the observations are liable to be marred by smoke ; but
+) the N.N.E., N., N.W., W., and S. there is a comparative freedom from any such
+urce of error; and with a wind blowing from those quarters the sky can be as
+‘Blue as it is in the most uninhabited part of the country. This is important to
+mark, since it may be thought that the neighbourhood of a big city like London is
+an unsuitable one for making sunlight observations. In fact, a comparison of results
+Sbtained at South Kensington with those obtained in what is termed pure country
+Sir, shows that the latter has no perceptible advantage over the former when the
+gvind is in a suitable quarter. & In September, 1886, I took my apparatus to Switzerland, eventually bringing it to
+Say old observing station on the Riffel, Zermatt, at the height of about 8,000 feet. n three different days I made observations under the most favourable circumstances,
+hich will be described later on.

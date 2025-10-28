@@ -1,37 +1,30 @@
-This issue is best demonstrated in figure 1a: when the incident light illuminates the
-sample, scattering occurs and produces aberrations due to the inhomogeneous sample with a
-different RI. Due to the aberrations, the illumination pattern projected inside the sample becomes
-distorted, which will distort the reconstruction of SR images to misleading results. Dong et al. developed SR fluorescence-assisted diffraction computational tomography (SR-
-FACT), which combines label-free three-dimensional optical diffraction tomography (ODT) with
+Although, therefore, the large number of significant figures used in these equations
+results from a series of fine adjustments, and might be reduced by a laborious process
+of readjustment of all the constants simultaneously, we believe that the location of
+the two characteristic wave-lengths 2, and 2, at 1130 and 310 A.U., respectively, is
+substantially correct. Since the characteristic wave-lengths thus deduced are much
+more precise than any of the values that have been available hitherto, we have been
+able to reverse Drupr’s procedure to the extent of deriving from the rotations an
+equation for the refractive dispersion of quartz, which agrees in an exemplary manner
+with the very exact data of Grrrorp* for the refractive indices of the ordinary ray in
+the visible and ultra-violet regions, and which shows only small deviations in the infra-red
+region down to 13070 A.U.
 
+The method of deducing the dispersion-constants from the rotatory powers themselves,
+instead of from cognate data, has also been vindicated in a dramatic manner by the
+discovery} that the characteristic wave-lengths derived from the dispersion-constants
+are generally greater by about 100 Angstrém units than those at which a maximum is
+recorded in the molecular absorption coefficient of an organic compound. This dis-
+crepancy is easily understood if the “selective absorption’ is superposed on a broad
+band of “general absorption,” as is actually the case for many organic compounds ;
+but the discovery of this discrepancy was due entirely to the fact that the dispersion-
+constants were calculated before the absorption-coefficients had been determined,
+instead of being deduced from them,
 
-(a) (b) rotation
-=
+t
 
-Uin
+(d) Validity of Equations. (i) Photographic Region.—The proof of the complete validity of the equations which we
+have used to express the rotatory dispersion of quartz depends on a demonstration that
+there are no marked systematic differences between the observed and calculated rotations. These differences are summarised in the following table :—
 
-ODT
-| —+— illumination
-
-fa
-
-aot < \ 3
-
-Uscatter —
-= => [a
-
-ODT output {a
-
-wavefront :3
-
-. q
-Utot = Uin + Uscatter
-
-SIM SIM :
-excitation emission DG
-
-Figure 1. Schematic diagram of incident light scattering in a thick sample and the SR-FACT optical system. (a) Process in which : s
-incident light scatters and produces aberrations in an inhomogeneous thick sample. (b) Dual-mode SR-FACT optical system ar)
-which can acquire the three-dimensional refractive index distribution of the entire thick sample. (Online version in colour.) a
-
-two-dimensional fluorescence Hessian SIM [21]. The optical path diagram is shown in figure 1b.
+Old series.

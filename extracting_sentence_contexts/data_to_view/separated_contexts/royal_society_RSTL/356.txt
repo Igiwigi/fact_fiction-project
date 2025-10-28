@@ -1,51 +1,13 @@
-Required the solution of the equation
-F {a, va, a, pa} = 0
-Assume 4 = © f Þz, then "x = 0 f* ©, and the equa»
-tion becomes
-F {2,0 fd 2, 0 f*02,..0; mn qo} ='0
-
-for & substitute © x, then
-
-F {o Q, © fw, fn. fo} =o (a)
-which is an equation of the first order relative to © and may
-be solved by the methods in the beginning of this Paper, or,
-by means of the method given by Mr. Herscner, to which
-we have already-alluded,
-
-With respect to the function F it is arbitrary, there. are
-however, some observations respecting it, which require
-notice; as without an attention to them we might fall into
-error, In the first place, it is evident, that we must not
-
-MDCCCXV. zH
-
-
-418 Mr. BABBAGE's essay towards
-
-make fi equal to w, for in this ease we at once determine 4»
-to be equal to », which is not always true;
-
-The same observation may be made with respect to making
-f*@=»x, forin this caze V @=a, Va=myso, Va=n,
-va=vz, and we in fact by assuming this value for f deter-
-mine 4 from the equation
-
-F is, yo, x,wvT, 7, &e. } =0
-
-The same objection does not hold when we make f*v=x,
-though this considerably limits the generality of the solution;
-apparently the most eligible mode of determining F is from the
-equation f"+! zy=w, ſor in this case Supposing we are acquaint-
-ed with a particular solution of (@) containing any number
-of arbitrary constants, such as
-
-on=A {a, a, b, c, &. }
-we may substitute for each of these constants an arbitrary
-function, such as © :
-x {, 14, 7*Þ, ee fon]
-for it is evident this function does not change when we substi-
-tute f" w for x. But this form of F'is not always correct, it may be incon-
-sistent with the original equation. In fact, the only value we
-can assign to f which shall not in some measure limit the
-generality of the Problem, is to suppose a particular solution
-of the given equation.
+These express the second functions; the first taken relative
+to x, the other relative to y. But besides these two there is
+another, which arises from taking the second function simul-
+taneous]y relative to x, and y; it is {(v zy),þ (29) pr This
+ought not to be written 4** (x, y) for it is not the second
+function first taken relative to z and then to y, nor is it the
+converse of this. In fact, the notation is defective ; s0me
+method is wanting of indicating the order in which the suc-
+cessive Substitutions are made. I $hall for the present lay
+aside the consideration of functional equations, involving more
+than one variable. Those of the first order have long been known, but the
+method in which I have treated them is, I believe, entirely
+new.

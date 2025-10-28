@@ -1,17 +1,15 @@
-Objectives for a universal notion of proof identity
-
-The lack of understanding of the nature of proofs has its cause in the very fundamentals of proof
-theory: we study formal proofs as syntactic objects that are represented in some formal proof systent,
-and we cannot consider the proof independently from that system. In that respect, we can say
-that current proof theory is not a theory of proofs, but a theory of proof systems. In fact, most of the
-important theorems of proof theory, like soundness, completeness, cut admissibility, focusing
-or proof complexity results are not about proofs but about proof systems. All notions of proof
-identity that exist are between proofs within the same proof system, as it is not clear what it
-means to compare two formal proofs that are given in two different proof systems.
-
-(a) Existing notions of proof identity
-
-Up to now, there exist only four notions of proof identity, and two of them are trivial: (1) two
-proofs are the same if they prove the same theorem, and (2) two proofs are the same if they are
-syntactically equal. They have already been ruled out by Hilbert, and there is no need to discuss
-them further here.
+The above reasoning applies only to the order of magnitude of the latent
+heat. It is obvious that until we know the disposition of the molecules within the
+crystalline structure the value of a’, is somewhat vague. But the experimental fact
+that the latent heat of transformation of iron from the ferro-magnetic to the para-
+magnetic state is of the same order of magnitude as the latent heat of fusion of many
+diamagnetic crystalline substances is powerful evidence that the local forces and
+local polarization which we have assigned to diamagnetic crystalline structures are
+enormous, comparable, in fact, as the above and preceding calculations have shown,
+with the intense forces and polarization of ferro-magnetic substances. In the crystalline state we must regard the molecules as orientated into definite
+positions with respect to their neighbours by these large intermolecular forces. If at
+the higher temperatures the molecules undergo rotational vibrations about their mean
+positions, then it would be expected that the value of I* will be somewhat lessened
+by these vibrations, and we should therefore expect that a small fraction of the
+energy associated with the grouping would be dissipated as the temperature is raised
+towards the fusion point.

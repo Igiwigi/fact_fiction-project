@@ -1,17 +1,18 @@
-Strengths and weaknesses of ACL2 from an industrial perspective :f
+Wave-length. Intensity. 4488-14 | 2 4098-33 | 1
+4443-545 1 4089-041 1
+4408-095 | i 4065-171 | \
+4343-904 1 4047 +38 1
+4229-015 1 4023-730 3
+| 4199-97 Duta 4017-986 1
+4183-106 2 4010-052 1
+4146-761 1 3960°591 2
 
-In this section, we discuss a few very high-level aspects of ACL2 that are important to industry,
-especially Centaur. :3
+A farther interesting fact in connection with the second spectra of krypton and
+xenon, is to be found in the existence of a number of lines of weak intensity common
+to the two spectra. Since these lines are equally weak in both spectra, it is impossible
+to say whether they in reality belong to krypton or xenon, and I have therefore
+credited them to both. On the other hand it may be that they are due to some
+common impurity, possibly a still heavier element of the same family ; the evidence
 
-As noted, one of the main features making ACL2 suitable for industrial use is that it provides :&
-an integrated programming and verification environment for a competitive ANSI standard :
-programming language, Common Lisp. ACL2 inherits Lisp’s convenience for rapid prototyping,
-implementing other languages and building powerful extensions.!° ACL2 also inherits Lisp’s
-syntax, which we believe is an advantage. Every expression is fundamentally a Lisp object; this
-fact eases the tasks of extending the syntax with powerful macros and of writing other symbolic
-manipulation tools. ACL2 is enormously complicated by the commitment to stay true to the Common Lisp the
-Language specification [1] aka ‘CLtL’. The logic would be simpler if the ACL2 developers could
-change some things about CLtL—the confusion of NIL and false, the difference between ‘it is an
-error’ and ‘an error shall be signaled’ [1, pp. 5-6], the complexity of the symbol package system,
-the restrictions on what can be in a compiled file, and the handling of macros, to name but a
-few.
+
+MR. E. C. C. BALY ON THE SPECTRA OF NEON, KRYPTON AND XENON.

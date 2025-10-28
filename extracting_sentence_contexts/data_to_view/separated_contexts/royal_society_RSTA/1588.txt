@@ -1,28 +1,16 @@
-The case n = 2 has been investigated in [1], where the authors studied the system
-
-1 2
-uj(t) = I, Ki(t, sfi(s, u1(8), un(s)) ds +S v(Hhyl (er, u2)], i= 1,2,
-
-j=l
-
-where the functionals hj; act on the space C[0, 1] x C[0, 1]. We stress that functionals involving higher-order derivatives play an important role in
-applications. In order to illustrate this fact in a simple situation, consider the boundary value
-problem (BVP)
-
-u(t) =f(,u(b), (0) =h[u], u’”(0) = u(1) =u") = 0. (1.4)
-
-When h[u] = 0 the BVP (1.4) can be used to describe the steady-state case of a simply supported
-beam of length 1. When the functional h is non-trivial the BVP (1.4) can be used to model a beam
-with a feedback control; for example, the case
-
-Alu] = h(u'" (€)) (1.5)
-
-models a beam with the right end simply supported and where the displacement in the left end is
-controlled (possibly in a nonlinear manner) by a sensor that measures the shear force in a point &
-placed along of the beam. The perturbed integral equation associated with (1.4) and (1.5) is
-
-1 A
-u(t) = I, Kt s)flsm(s)) ds + (1 — Hhw'"(&)),
-
-a case that cannot be handled with the theory developed in [1-4] due to the third-order term
-occurring in (1.5).
+Now the throw of the Richardson effect, which is in the opposite direction to the
+spin of the electrons after magnetisation, represents a portion of the reaction to this
+spin ; and there was nothing inherently impossible in the idea that another portion might
+pass through a stage of spinning motion in some part or parts of the magnetic molecules
+before being transmitted to the rigid structure of the iron in the form of the couple
+which produces throw. Thus, if for some reason half the reaction appeared at once as such a couple on
+reversing the magnetism, and the remainder only after the dying down of an intermediate
+spin stage, we should expect to find the Ratio tending towards 0-5 when ¢ was increased
+without limit, much as it does in Table III. Further, the fact that Curves 1 are straight lines passing through the origin implies
+that the difference between the momentum ordinates for any two of these lines, measured
+at, the same value of the magnetic moment M, is proportional to M ; and this proportion
+might also be expected on the above hypothesis. It looked, in fact, as though we might have found in this way the explanation of the
+low value of the Ratio, until the application of the two following tests. The first depends
+on the fact that an increase of the moment of inertia of the suspended system decreases
+the relative importance of the initial impulse in producing throw, and should therefore
+increase the Ratio on the above view.

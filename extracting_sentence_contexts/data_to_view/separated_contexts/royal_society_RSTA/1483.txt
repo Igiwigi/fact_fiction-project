@@ -1,9 +1,13 @@
-In general, the initial forces on the fault cannot be determined in the earth [25], and we will
-use a UQ workflow to try and estimate these quantities. A snapshot of the ground shaking from
-one of the simulations is shown in figure 1—the bumpy line is the rough fault surface, and the
-colour scale shows the propagation of elastic waves away from the fault due to the slip on the
-fault. Complicating matters is the fact that earthquake faults are not smooth planes, but instead
-rough bumpy surfaces with a fractal geometry [26]. An important consequence of this is that
-the smallest wavelength bumps have the largest effect on the resulting forces [27]. This is what
-makes earthquake problems challenging to model: at a given model resolution, the simulation
-is omitting details that play an important role.
+D”
+, 1
+
+where the C, D are constants depending on f, g. ‘The solution is of the form
+¢, — ©, (t+ ¢,) = periodic function of (¢ -+ ¢) (period '),
+db, — Cy (t+ es) = periodic function of (t +- <) (period T). Now the existence of the relation (2.3) shows that the arguments C, (¢ + ¢,), Cy (t+ es),
+
+2x (t-+)/T cannot be independent ; in fact, cos (24, — ¢5) is periodic with period T,
+and (¢, — 24) increases by 2x when ¢ increases by T,* so that we must have
+
+C, — 2C, = 25/1). wotge sniee eee eee (2.10) Thus the «,, y, are doubly-periodic functions (period 27) of the two arguments
+Cy(t + e), C(t + €2),
+say,

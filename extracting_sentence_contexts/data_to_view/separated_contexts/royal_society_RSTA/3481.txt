@@ -1,27 +1,14 @@
-The Bellman-optimized control policy C* at each state point simply
-maximizes the probability-weighted (diffused) discounted value of Z along all trajectories from
-that state point. Therefore, we are able to compute the expected and discounted value, under C*(X, Y,Q,f),
-of any event or variable at each state point. To do so it is sufficient: (i) to retain the optimized
-C*(X, Y, Q, t); (ii) to replace the cash flow indicator function Z at each state point with an indicator
+Now, Mr. Parrerson* finds that at ordinary
+temperatures n= 10". The effect of temperature on the resistance of carbon
+indicates that the concentration of the corpuscles would be at least ten times as
+great at 1000° as at 0° C., so that we should expect to find n of the order 10”. As
+a matter of fact, if we take ) = 5°2 x 10* instead of 7°8 x 10%, we find n = 5 x 10?!
+instead of 10*%.
 
+Reasons which might make this method of determining » give values which are too
+large, will be considered at some length after the experiments on sodium have been
+described.
 
-function for the event of interest (e.g. to record the qualitative fact of a physical over-delivery 8 |
-at any state point, set an indicator function 1c. p; to record the size of a physical over-delivery
+IIL. Experiments with Sodiwn.
 
-set C — D; to record its square, set (C — D)?, and so on); and (iii) to run the model to equilibrium 3
-backwards in time using the new Z and unchanged C*. The resulting value in each X, Y, Q,t cell is : o
-the expected discounted value under C* (over the time horizon being evaluated) of the outcome :<
-indicator in question. From this discounted value and the interest rate r, the undiscounted time : Zs
-average of the required qualitative or quantitative variable over all trajectories can be recovered. 13
-
-(b) Effects on annuity returns AR = rV due to varying the energy storage device design
-
-We return to comparing different ESD designs as in the subsection above, and we use the same
-system balancing penalty as before, namely ¢ = 0.5, but we now examine the effects on V due to
-
-continuous variations in some of the important and expensive (design) parameters, namely Qmax : =
-and Lc, Lp. : =
-
-Each solution is a hypercube of V(X, Y, Q,t) values, and £ year! annuity values are given by : a
-the simple formula AR =raV, where ra is the annual interest rate so as to remove the effect of : &
-the interest rate from the valuation of a stochastic stream of cash flows.
+$1. Nature of Problem.

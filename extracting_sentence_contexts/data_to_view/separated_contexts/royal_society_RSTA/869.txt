@@ -1,16 +1,9 @@
-The lesser (<) propagators can be obtained as @< = 5(¢K — g8 + 4). The itinerant electrons
-generate a spin transfer torque which gives a contribution to the torque in equation (2.1) as
-t =f. — ie
-
-The spin independence of §°(¢) and the form of the hopping elements simplify the time-
-dependent problem. This simplification can be made due to the fact that the Keldysh-Nambu
-spin matrices can be factorized in spin space into generalized diagonal matrices, Xa, spin-raising
-
-
-matrices, X, and spin-lowering matrices, x ,. In general, a matrix factorized in this form has the
-time dependence
-
-X(t.) = (22)! [as eX a(e, op) + eX) (e, op) + el! X (e, or). (2.8)
-
-The matrices Xa, Xx} and X y are still Keldysh- Nambu matrices and, in addition, obey the usual
-algebraic rules for spin matrices, i.e.
+For gradient types we name the coefficients further, say, with a prefix, to define
+which of the 5 quantics has supplied the particular coefficients. For a single
+quantic, this fact is substitutionally expressed by the operator {,A ,A ... ;A}, the
+suffices not being here expressed as the prefixes alone are permuted. Tor binary
+forms, where there is only one suffix, the fact is equally well and more conveniently
+expressed by a permutation of the suffices. In ternary forms where there are two
+suffixes the permutation (,A ,A) is expressed by the compound permutation (p, p,) (4, q,)
+of the suffixes. Thus in the ternary case we have to do with the compound
+symmetric group.

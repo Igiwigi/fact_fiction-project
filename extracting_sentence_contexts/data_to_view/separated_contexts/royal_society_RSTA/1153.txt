@@ -1,9 +1,13 @@
-If the semigroup (T(f));>0 is stable but not exponentially stable, then
-one can never expect such an estimate to hold for every initial value x € X. Indeed, having (3.5)
-for every x € X is equivalent to exponential stability by a simple application of the uniform
-boundedness principle, as has already been observed. In fact, for strongly stable semigroups
-which are not exponentially stable we obtain the following statement; see [3,80]. Theorem 3.3.
+Comparison with Plasticity of Glass at High Temperatures. It has already been pointed out that von Misks’ second assumption that p= v
+would be true if the equations of plastic flow were identical with those of a very viscous
+fluid. Tt is known that when glass is heated to such a temperature that it flows slowly
+under a direct load or a bending load, it behaves like a very viscous fluid and in fact
 
-(a) Let (T(t))t>0 be a strongly stable but not exponentially stable Co-semigroup on a Banach space X. Then for every positive r € Co(R4) there exists x € X such that ||T(t)x\| = r(t) for all t = 0.
 
-(b) Let (T(t))t>0 be a weakly stable but not exponentially stable Co-semigroup on a Hilbert space X.
+THE PLASTIC DISTORTION OF METALS. 347
+
+slow plastic distortion of this type is used in order to measure the viscosity of glass at
+temperatures at which it is beginning to soften. As has been mentioned in connection
+with plastic flow in metals, most of these tests have been carried out under conditions
+like that of extension under a direct load, where the type of distortion is determined by
+the condition of symmetry alone.

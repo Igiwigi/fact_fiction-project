@@ -1,6 +1,11 @@
-For r>0 we have, from
-proposition 4.3, Q(r) =cyr* exp(c3r). We will show that (S;) of theorem 7.1 holds. In fact, it is
-clear that f(u,p) < cir® + 63(cyr* exp(c3r))? <mr for 0<u<r and |p| < Q(r) for r>0 sufficiently
-small whatever the value of m. Also, it is clear that f(u,p) > c1 uk> cy RK > MR for R<u<R/y
-and |p| < Q(R/y) for R sufficiently large whatever [a, b] is used and whatever the value of M. This
-shows that there exists at least one positive solution.
+Their difficulty comes mainly from the fact
+that they are not linear, so that the principle of superposition cannot be employed,
+as in many branches of mathematical physics, to construct solutions by the method
+of series or of singularities. For the same reason the flow pattern in the neighbourhood
+of a moving body must alter when the speed of the body is changed, and it follows that
+any exact determination of the pattern will be restricted to some definite speed. ‘As a matter of fact, no precise determination of this kind exists, except in cases where
+the motion is indefinitely slow. But the form of the equations gives no reason for
+doubting the possibility of “ steady ” motion (in which the velocities are functions only
+of position) in every case of flow past fixed and rigid boundaries. Now in experiment
+it is found (unless the velocities are very small) that eddying or periodic motions
+always occur.

@@ -1,45 +1,13 @@
-The constant increase in the workload demand causes a constant increase
+[Published September 22, 1915. 440 DR. J. G. LEATHEM ON SOME APPLICATIONS OF
 
+At the outset something of a suggestion might seem to be found in consideration
+of the fact that, if the intrinsic equation of a curve in the z plane is y = F(s), the
+vectorial element of are dz is the same as ds exp (ix) or ds exp {iF (s)}, where i as
+usual represents ,/(—1). From this it appears that the transformation
 
-@ Bred yellow &green mblue () Bred yellow Zgreen mblue
-& &
-& 100 100
-3 3
-= 80 = 80
-Sp 60 a)
-| |
-2 40 @ 40
-2 20 2 20
-2 2
-3 ° IN SD DP LP O PDP MH s ° S S DP DP LW O ODP OH 18
-BE SCPSHPS PHP EPSPS BF FCPS SES PPE Ss 1S
-data rate per demand (Mbps) data rate per demand (Mbps) : 2
-1B
-a
-©) Bred yellow =green mblue @ Bred yellow #green blue 7B
-S S 18
-a]
-; 5 1 gs 100 =
-nn i 80 1
-4 i || H :§
-1 H 60 aa
-40 is
-i i i H Dt
-2 0 MAT i 20 re
-2 LILLIE LIL :3
-O° S gs > 8 S) ~ ‘) 13
-g €& gs ep seee s SHS SPP ESS :3
-data rate per demand (Mbps) data rate per demand (Mbps) : 3
-aac)
+dz = f’ (w) exp [iF {f(w)}] dw,
 
-Figure 12. Mobile processing utilization per assigned wavelength for the ideal scenario, scenario 1 (S1), scenario 2 ($2) and
-scenario 3 (53) with DRR = 0.6. (a) Mobile processing utilization in the ideal scenario, (b) mobile processing utilization in
-scenario1, (c) mobile processing utilization in scenario 2, (d) mobile processing utilization in scenario 3. (Online version in colour.)
-
-in the mobile unit utilization, which ranges between 60% (at 540 Mbps), and 100% (at the highest
-considered workload demand, 1500 MIPS). The task allocation behaviour with the increase in demands in the other three scenarios in
-figure 12b-d follows the same behaviours described in figure 12a taking into account the fact that
-the varied link capacity and updated wavelength efficiencies affect the task allocation decision. For example, in scenario 1 in figure 12b, the power efficiency of the green wavelength has the best
-values, followed by blue, yellow, and finally red wavelength. This is reflected in the assignment
-decision and therefore giving the mobile units allocated a green wavelength priority when it
-comes to the processing allocation.
+where F and fare functions having real values for all real values of their arguments,
+makes the real axis in the w plane correspond to a curve in the z plane whose intrinsic
+equation is x = F(s), the relation between w and s being s =f(w), where f is
+an arbitrary function.

@@ -1,20 +1,23 @@
-If we assume that the
-monopole density is small, then, following the theory of weak electrolytes, we
-would expect the cross terms Lj with ij to be zero. However, the monopole
-motion should be strongly correlated in the sense that it always acts to maintain
-local charge neutrality:
+The finite-difference expression
+for a derivative at the end-point 0 of a range is given by
 
-Quis + Q5-=0 (4.2)
-and
+h(dw/dx), = AkR—4A3-+4A3—JA$+.... (A.7)
 
-Qec4 + Qc =0. (4.3)
+This formula, however, is rather slowly convergent, and an alternative method is preferable. In this second method the equation (A. 6) is applied at boundary points such as 0 in
+figure 1, as well as at internal points. A ‘fictitious’ point —1 is now introduced, and the
+boundary condition is used to obtain its value, in terms of those at points on and internal to
+the boundary, from a much more rapidly convergent expression. 44 I 2 oil. 2
 
-It is important to emphasize that this thermodynamic force is not the same
-as Ryzhkin’s reaction field m which is a purely spin phenomenon peculiar
-to spin ice. In fact, equation (2.3) does not account for Coulombic correlation
+Ficure 2
 
-4In the temperature range considered here (e.g. 0.4-10.0K for Dy2TigO7), at zero applied field,
-the Debye length is the dominant length scale in the system, and, as shown below, magnetic
-inhomogeneities develop on this length scale. In the lower temperature range, not considered
-here, inhomogeneities on the scale of the Bjerrum length ty =o Q?/8mkT become particularly
-important, and probably dominate (see [11,12,42]). Phil.
+With reference to figure 2, it can be shown that at a boundary point such as 0 the derivative
+is given by
+
+h(dw/dx), = AL, os ius M,, (A. 8)
+
+
+OF ELLIPTIC DIFFERENTIAL EQUATIONS 351
+
+and, at a boundary point like 6,
+= 1
+h(@w/08)~V}— 3 a Vi (A.9)

@@ -1,10 +1,22 @@
-The trouble with making use of the concept of Kolmogorov complexity in
-any application is that it is not a computable quantity; given a set of data, one
-cannot, in general, obtain its Kolmogorov complexity. One cannot compute the
-information content of a given sequence because it is not possible, in general, to
-go backwards from the sequence to the algorithm that produced it. The nature
-of the problem, which is a version of the Berry paradox, and is linked to Gédel’s
-incompleteness theorem [73,74], becomes clear when one reasons that a sequence
-of 100 digits may appear totally random—and so possess maximum Kolmogorov
-complexity—but in fact be 100 consecutive digits taken from, say, 7, and so
-possess considerably less complexity. Phil. Trans.
+There
+
+are two possibilities, according as 8 lies within the boundary (figure 9a) or outside it
+(figure 96). In relation to figure 9@ we have, corresponding with (i),
+
+Xp = Ex + (1—£) Nos (iii)
+
+
+RELAXATION METHODS APPLIED TO ENGINEERING PROBLEMS | 519
+
+a denoting the length of the interrupted arm OP and 1 being a ‘fictitious point’; and
+corresponding with the second of (ii)
+
+also (dy/dr), is related with (0y/dz), by (11) B as before: but now in place of the first
+of (ii) we must employ
+
+oy
+(5 al = &(x1 —Xe) + (1—&) (Xo —Xa)s (v)
+
+as the closest approximation which is practicable. Substituting in (30) we have an
+equation in which 7, & Wp, (v7) ps (v2) p are known, and between this and (28) y, may be
+eliminated in the manner of § 21.

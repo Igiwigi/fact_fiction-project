@@ -1,13 +1,5 @@
-In the inset, : =
-the found extra gain is also shown. At w = 0.2, a 25% extra speed-up is achieved by the hybrid method. : 8
-:s
-S
-&
-
-sum of the times required for DSMC to run over the @ fraction of the domain and for LBM over the
-whole domain, t,gm+psmc- In particular, for a = 0.2, more than a sixfold reduction with respect
-to a full DSMC simulation is achieved. It has also to be noted that the computational overhead,
-due to the fact that the LBM extends over the whole domain and not just over (1 — @), is very
-limited. For the tested conditions, in fact, a full LBM simulation is about 80 times faster than a
-full DSMC simulation, performed over the whole domain. The measured extra speed-up, defined
-as tLBM+DSMC/thybridy Was found to be 25% for a =0.2 and 16% for w = 0.36.
+I look upon this series as a fairly homogeneous one, representing the degree
+of resemblance between leaves on fully developed forest trees. The counting of the
+veins on this series was undertaken by Miss C. D. Fawcerrr, B.Sc., and the
+tabulating and numerical reduction by Dr. Lez. Both these processes involved
+an immense amount of labour, in fact days and days of careful and fatiguing work. * The leaves were all gathered in the autumn, towards the fall.

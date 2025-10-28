@@ -1,17 +1,16 @@
-On the other hand, numerical simulations
-of the mapping procedure (3.5) are very fast, and it is more efficient to perform two-parameter
-scans by finding a stable LB solution for each value of the linewidth enhancement factor and
-then continuing it in go. It is seen from figure 9 that the latter approach fails to find a stable LB
-around ag * 2 (figure 9a) and aq ~ 0.2 (figure 9b), whereas a slower continuation approach based
-on direct numerical integration of equations (2.5)-(2.7) indicates that stable LBs exist in these
-parameter domains (cf. figure 6). This discrepancy is related to the fact that at large differences
-ag — aq it is hardly possible to excite stable LBs from an arbitrary initial condition not only by
-using the functional mapping method, but also by solving numerically the NDDE system on the
-full round trip time interval.
-
-
-0.8 0.9 1.0 0.75 0.80 0.85 0.90 0.95
-8p (arb. units) 8p (arb. units)
-
-Figure 9. Domains of existence of stable two-dimensional LBs obtained with the help of the functional mapping (3.5). Panel a
-(b) is obtained by varying the parameters go and avg (cx,) with fixed a, = 0.5 (a¢g = 1.5).
+‘Thereupon the mean of
+the results found for the two ends of each cut was calculated, and the difference
+between the means from two succeeding cuts, divided by the magnification of the plate,
+was equated to the distance which the jet had moved while the rotation-apparatus
+had made a revolution. The conditions of the correctness of this were partly that
+the cuts moved independently of each other, partly that the ends of the jet contracted
+themselves equally into the respective jet-pieces during the time which a cut took to
+move from the one place where it was photographed to the other. That these
+conditions were satisfied appears, first, from the fact that the part of the jet-pieces
+placed midway between the cuts was completely undisturbed by the cutting of the
+jet (see the photographs), and, secondly, from the symmetrical forms of the ends of
+the jet facing each other. The magnification of the plate was found by taking a photograph of a glass-rule
+placed directly under the jet. The interval of time between the cuts was determined as a mean from the number
+of revolutions per second during the time of exposure; the photographic plate also
+giving a sort of mean of the single exposures, very great accuracy might be obtained
+in this way.

@@ -1,10 +1,10 @@
-By increasing the resolution of the simulation domain, e.g. considering L = 512, these errors are
-further reduced but are still observable. The remaining dissipation error can be explained, in part,
-because v # 0. Interestingly, the fact that LBMs introduce more dispersion than dissipation errors,
-as shown by Marié et al. [67], is further confirmed here by the non-circular shape of the vortex for
-the finest resolution. In the end, taking one step back and looking at the big picture, it seems clear that these collision
-models (SRT-RR, REG-CHM and REG-K) not only lead to stable simulations for non-negligible
-Mach numbers and low-viscosity values but they also allow the resulting LBMs to accurately
-transport information over long distances, even if one must keep in mind dispersion issues. Of
-course, more numerical validations are required to extensively quantify the accuracy of these
-models, for the simulation of finite Mach number flows in the low-viscosity regime.
+This
+temperature was determined for the various substances in the following manner. Small
+strips of the material were touched with a narrow porcelain tube containing a thermo-
+couple, the tube being heated in an electric furnace, the temperature of which was
+maintained at the temperature of the test. The experimental procedure consisted in
+rapidly withdrawing the tube from the furnace and momentarily touching it with the
+edge of the sample under test, the fact being noted whether the sample burst into
+flame or not. The temperature of the furnace was then reduced and the samples
+re-tested. In this way they arrived at a lower limit to the temperature of instantaneous
+decomposition.

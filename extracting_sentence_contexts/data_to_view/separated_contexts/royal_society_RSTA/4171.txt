@@ -1,15 +1,11 @@
-An important question that arises from critical contemplation of the proposed approach is
-whether the obtained PDMs (being singular vectors derived from SVD of the kernel matrix,
-and not statistical estimates) reflect actual physiological entities or they are simply by-products
-of the computational method. This valid concern can be addressed through statistical analysis
-of the ANF coefficient estimates that are associated functionally with the PDMs, because these
-coefficient estimates (obtained via least-squares regression) directly define the contribution of
-each PDM to the model prediction. When we performed the traditional analysis of statistical
-significance (p-values) on the obtained ANF coefficient estimates, only a subset of these
-coefficients were shown to be statistically significant (table 2) despite the fact that nonlinear
-models were found to satisfy the BIC as discussed above. This may imply that a larger sample of
-subjects and/or longer data records may be required to demonstrate the statistical significance of
-some of these coefficient estimates (because the statistical hypothesis testing is a sufficient but not
-necessary condition). It may also indicate that the presence of possible system non-stationarities,
-which has been investigated recently [26,27], may affect the results of traditional hypothesis
-testing (p-values).
+The sodium hydrate (or possibly oxide) so produced would then be deprived of its
+oxygen by reducing gases (hydrogen, hydrocarbon, carbon monoxide) existing in the
+flame. A somewhat similar explanation would have to be applied to the flames of
+hydrogen, carbon monoxide, and cyanogen, though, in the case of the last two gases,
+the steps of the processes are still more hypothetical. It is a noteworthy fact that the coloration of flames by alkali salts extends up to,
+and even beyond, the outer margin of the visible region of combustion, where the
+flame gases are usually considered to be fully oxidised and where free atmospheric
+oxygen exists. In such parts of a flame metals, much less oxidisable than the alkali
+metals, are rapidly oxidised when in the massive state. A copper w.re, for example,
+becomes incrusted with oxide in a region where yellow light is abundantly emitted
+from a salted flame.

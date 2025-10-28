@@ -1,19 +1,20 @@
-These times can be compared with those shown in the bottom half of
-table 3.
-
-answers m Nn m=32 m= 64 :s
-uncontrolled 16971 = 2687 77 + 461 184 + 198 58.3 + 6.0 : a
-k=1 18.3 + 13 22.3 + 0.6 322 41.0 51.6 + 2.6 : s
-k=10 897 + 23 89.4 + 48 65.4 + 2.4 712 + 32 :&
-k=100 TNA + 28.9 716.6 + 20.1 _— _ : Es
-
-k= 1000 7136.0 + 190.0 _— _— — :8
-
-Compared with the times shown in the bottom half of table 3, execution is around 20% faster, [=
-for the same type of source data. A similar 20-30% improvement occurs when count queries iB
-are measured. The difference is accounted for by the fact that the FM-INDEX for English-200 is 2
-171 MB, whereas that for English-2108 is 10 times larger, at 1875 MB. Even though the cache on 78
-the test hardware is only 6 MB, it is big enough that some parts of the index that are frequently [yw
-accessed remain permanently present in cache while English-200 is being searched, but to a lesser :
-extent when English-2108 is being searched. That translates into measurably different execution 73
-times.
+Attached to several of the
+curves are the diameters of the wires expressed in millimetres. These numbers are
+stated to four decimal places, but it would have been better to have given, as in the
+above Table, only three significant figures, this being the probable limit to the
+gecuracy of the measurement of the diameters.
+& Suspecting that some of the results of published experiments on the currents
+®quired to fuse wires had been much influenced by the cooling action of the blocks
+& which the ends of the wires were attached, we started by making a calculation on
+Hie length necessary to give to our wires so that the loss of heat by conduction
+hould not introduce any important error into the determination of the emissivity. Bo do this it was necessary to calculate the distribution of temperature along a wire
+#hrough which a steady current was flowing, and from which heat was lost by
+tadiation, convection, and conduction, and it was further necessary to improve on the
+€leulation one of us had published on this subject in the ‘ Electrician, for 1879, by
+‘Bow taking into account the fact that the emissivity, as well as the thermal and
+Blectric conducting powers of the wire, were different at different points in conse-
+‘quence of the difference of temperature. Such a calculation has not, as far as we are
+ware, been hitherto made, it having been assumed in all previous investigations that
+éhe effect. due to the variation of the thermal and electric conducting power of the
+paterial with temperature, as well as the variation of the emissivity per square
+¥entimetre with temperature and with the diameter of the wire, could be neglected.

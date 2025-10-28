@@ -1,9 +1,15 @@
-The problems in
-d’Alembert’s proof are slightly more serious, but I would assess it as essentially correct, as we
-know the later work of Weierstrass. Unfortunately, the same does not apply to Gauf’s first proof, which if not quite false, is
-severely problematic. In fact, unlike the two preceding proofs that today can be easily patched
-by a first-year undergraduate student, Gauf’s first proof contains a huge gap, that was only
-fixed by Ostrowski [6] in 1920, and that even today would be non-trivial to fill for a professional
-mathematician outside of the field. Smale [7] describes the situation as follows: ‘I wish to point
-out what an immense gap Gauss’s proof contained. It is a subtle point even today that a real
-algebraic plane curve cannot enter a disk without leaving.
+The simplest set of values, obtained by cross multiplication of the coefficients of
+equations (90) and (91), is
+
+a’ = — 0°003710945, 6’ = 0001143630 y’ = 0000595338. 54 MR. J. H. JEANS ON THE POTENTIAL OF ELLIPSOIDAL BODIES, AND
+
+If we substitute these values in equation (92), we find
+
+0'0862266a' + 0°07 9676028’ + 0°3835217y'
+= —0'00031998 +0°00009111 +4 0°00022829 = —0'0000005. The fact that the error occurs only in the seventh place of decimals adequately
+verifies Darwin’s calculations, but the tendency of small errors to accumulate in
+computation is forcibly illustrated by the circumstance that in the above equation
+the final error is as much as one-six-hundredth part of the whole value of the middle
+term. With the values just obtained for «’, ’, y’, I find
+
+la? (3a’/+,’+y')

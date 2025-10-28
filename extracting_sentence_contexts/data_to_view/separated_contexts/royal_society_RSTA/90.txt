@@ -1,25 +1,15 @@
-Let us fix a weakly convergent
-sequence of controls uy — ux in L({0, T],U). As done in the proof of theorem 3.3, we can
-associate with each of these controls a sequence of solutions ¢y(t) = (yn(t), wn(t), MN (E) =
-(yn (t), Wn (t), xn (#), un (E)) of (5.4) uniformly convergent to a solution ¢,(t) = (y.(f),Ws(t), H(t) of
-(5.2) in the sense of definition 3.1 with control u,. and initial datum (y?, w°, 1°). In view of the
-fact that solutions ¢y(t) and ¢,(t) will have supports uniformly bounded with respect to N and
-t €[0, T] and by the uniform convergence of trajectories (yy (t), wn (t)) = (y(t), wx(t)) as well as the
-uniform convergence Wj (jn(t), 2(f)) > 0 for t € [0, T], it follows from condition (L) that
-
-T T
-lim I, Lon), wn (8), nn) = \, L(ye(t),We(t), na()) at. (65)
-
-
-Note that, thanks to remark 3.4, here we are allowed to consider the convergence of the entire
-sequence (¢y))Nen and we do not need to restrict to a subsequence (and this is a crucial issue in
-order to properly derive the I — lim inf condition!). By the assumed weak convergence of (11) Ne
-to u* € L'([0, T],U/), we obtain the lower-semicontinuity of the norm
-
-lim_ inf ae Dimvtoiat= = |, Dieta (5.6)
-
-N->+00
-By combining (5.5) and (5.6), we immediately obtain the  — lim inf condition
-lim inf Fy(un) > F(x). Noo
-
-We need now to address the /’—limsup condition.
+(Added September 23, 1886.) The late Joun ALLAN Brouy, in discussing the Trevandrum observations for the
+ten years 1854 to 1864, came to the conclusion that in the lunar diurnal variations of
+declination in each month of the year the amount of movement is, as in the solar
+diurnal variation, greater during the day than during the night; and the writer of
+this paper has shown in it that in each of four seasons of the year the same holds at
+Bombay with respect both to the declination and horizontal force. Whilst admitting,
+however, that Broun has priority of publication of this fact as regards the declination
+at Trevandrum, the writer avers that he has in no way been guided by Broun’s
+previous investigation, nor was he aware of the existence of Broun’s paper * when
+he made the discovery with respect to the declination at Bombay. Moreover, the
+writer’s line of investigation was that of Sabrne, modified: by himself, and not that of
+Broun; and an account of the first results of its employment was read before the
+Royal Society on the Ist February, 1872, a date antecedent to the reading of Broun’s
+paper before the Royal Society of Edinburgh, which did not take place till the
+6th May, 1872.

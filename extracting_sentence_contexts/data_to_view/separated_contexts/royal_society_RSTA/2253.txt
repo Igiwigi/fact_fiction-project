@@ -1,14 +1,20 @@
-This generalizes in an obvious way to any collection of commuting observables, and allows one
-to define a joint probability distribution Pre for every context C associated with ¥. The collection
-of all these probability distributions, one for each context, constitutes an empirical model for X in
-the terminology of [1]. The fact that these probabilities are all generated using the same initial
-state p means that they satisfy a compatibility condition: If two contexts C and D overlap, both will
-assign exactly the same marginal distribution to the observables in their intersection C ND, which
-itself is a context (or possibly a single observable), even if C and D are incompatible in the sense
-that not all observables in C UD commute. If all the observables in Y commute with each other, ¥ is itself a context, and the probability
-distribution for any context C can be obtained as a marginal, by summing out the observables not
-in C, of the joint probability distribution Pr. However, even if some observables do not commute
-with others, it might still be possible to find a joint global distribution Pry for all the observables
-in ¥ such that for each context C the corresponding marginal of Prg, obtained by summing out
-the observables not in C, is identical to the Pre obtained using the given p and the Born rule
-(5.1).
+The barometric curve was plotted and each of the four observations (front,
+back, front, back) was regarded as corresponding with the barometric height at the
+mean time of the observation. Throughout the work the observations on the resistance
+thermometers were made by the author, while all mercury thermometer readings were
+taken by Mr. J. G. Dura, Senior Observer in the Physics Department. This
+procedure was followed in view of the necessity for securing as high a speed of working
+as possible, and of the-fact that Mr. Duruam’s long experience in mercury thermo-
+meter observation made him peculiarly fitted for this section of the work. As a matter
+of interest, at one temperature observations were made with the observers interchanged,
+and all the values obtained agreed with those found by the normal procedure to
+within 0-008° C. The order of observation of steam points depended on convenience; for example,
+thermometers which would not be required in the water bath for several weeks could be
+
+VOL, CCXXIX.—A. D
+
+
+18 J. A, HALL ON THE INTERNATIONAL
+
+used ; but the majority of the observations were taken after the water bath comparisons
+had been completed.

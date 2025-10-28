@@ -1,11 +1,12 @@
-We find convergence or converging
-trends under mesh refinement, with the order of convergence depending on the supercell size. From this fact, we conclude that the primary error is related to the statistical sample size as an
-approximation to the PDF/CDE, rather than being mesh related. These facts are illustrated with a
-table extracted from Kaman et al. [17] (table 1).
-
-5. An application programming interface for front tracking
-
-Having argued that FT/LES/SGS has desirable properties for the study of turbulent mixing, we
-turn to the question of the availability of this technology to others. Here, we address three issues:
-the application programming interface (API), a conservative version of the API and a graceful
-end to the tracking of the interface in overly complex frontal topologies.
+1, Plate 2. We see the
+initial air discharge extending straight across from pole to pole, and succeeding it the
+streamers, starting from the poles and crossing each other in blurred masses in the
+centre of the spark gap. The streamer corresponding to each oscillation is observed
+to be much more prominent at one pole than at the other; this fact was noted both
+by FrpprErsen and by ScuustTer and Hemsauecu, but they were unable to determine
+from their photographs whether it was the positive or the negative pole from which
+the main streamer started. ScHencK,* who subsequently investigated the spark by
+means of a rotating mirror, observed that the streamers came from the cathode in each
+case. HemMsALECH,f in a later research on the spark in which he separated the
+oscillations by blowing a current of air across them, found that it was from the positive
+pole that the streamers emanated.

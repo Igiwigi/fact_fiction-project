@@ -1,14 +1,11 @@
-In turn, experiments remain as the key to corroborate or
-disprove conclusions drawn from computer simulations. Thus, iteration between
-experimental work and computer simulations is required to arrive at a
-sufficiently complete picture. The advantages of modelling lie in the fact that
-virtual experimentation allows the observation of all quantities of interest at
-almost any desired spatio-temporal resolution, simultaneously or consecutively,
-over the entire domain of interest. For instance, with mapping techniques,
-a trade-off has to be made regarding the choice of spatio-temporal resolution
-and observation domain, where signals are recorded either from a small domain
-such as a small patch at a cardiac surface at a fairly high spatio-temporal
-resolution, or from a larger domain at a lower spatio-temporal resolution
-(Sharifov et al. 2004). Furthermore, although optical mapping sensors pick up
-signals from the tissue depth as well, they are mainly constrained to the
-observation of electrical activity occurring close to the cardiac surfaces.
+723 The second thing to notice is that the E of equation (29) is not what is usually
+known as the electromotive force. The physical fact that is usually stated by saying
+that E = RK, must with the present notation be stated by saying that E = 0, since
+— RK appears on the right of equation (29) as a part of the term — ,Vx. This, of
+course, is due to the fact that E of equation (29) is physically defined as the part of
+the electromotive force not depending on friction,
+
+D. Change of Variables in 1, d, and «x.
+
+51. In what follows with reference to change of variables, we shall always speak as
+if the change had reference only to /.

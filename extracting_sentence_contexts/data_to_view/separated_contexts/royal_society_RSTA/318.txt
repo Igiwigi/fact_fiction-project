@@ -1,15 +1,7 @@
-By construction, as one
-may verify by writing down the master equation, this system always collapses into
-a purely classical mixture of the coarse-grained states. Equivalently, in a quantum
-jump trajectory simulation, after the first quantum jump, the state is always given
-oy a single such state. In fact, in such a trajectory simulation, this system behaves
-exactly like the original Markov jump process. Neglecting for now that our original
-model has three different input conditions € ¢ {HOLD,SET,RESET} and thus
-
-ia
-
-hree different conditional transition matrices p? we first discuss how to move
-from the discrete time Markov chain model to a continuous time Markov jump
-process. Rephrasing this question, we can ask the following: is there a Markov
-jump process with conditional transition probability matrix P(t) that ‘looks like’
-our Markov chain when stroboscopically probed at fixed time intervals 6t?
+The boundary conditions in problems of stretching of plates occur naturally in this form. OF ELLIPTIC DIFFERENTIAL EQUATIONS 365
+and the known derivative at B gives
+hwy = A}+C,A3+.... (B. 10) Expressing differences up to a certain order in terms of pivotal values, (B. 9) and (B. 10)
+provide two equations from which the fictitious points 0 and 1 can be obtained in terms of
+other pivotal values. Retaining fourth differences, for example, (B.9) and (B.10) can be
+expressed in the forms
+wy(1—C,+C,—C,+C,) +w,(C, —2C,+3C,—4C,) = Wp —W>(C,—3C, + 6C,) —ws(Cy—4C,) —wyC,+A,, (B11)

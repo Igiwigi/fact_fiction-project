@@ -1,12 +1,18 @@
-The second term is such that MN’ =0 for constant density and velocity, in which
-case equation (3.3) still holds. This term may be constructed using fluid dynamical
-analogies and usually contains a ‘pressure term’ that is proportional to —0,p/p
-and represents anticipation of drivers to events ahead, and a ‘diffusion term’ that
-is proportional to v,, and represents the averaged effects of noise (Payne 1979;
-Kerner & Konhauser 1994). Despite the fact that pressure and diffusion are abstractions that are difficult to
-interpret in traffic, these models are able to reproduce uniform flow as well as stop-
-and-go waves (without discontinuities). However, they have been criticized for
-predicting non-physical flow motions (negative flux and negative velocities) under
-certain conditions (Daganzo 1995). In response to this criticism N = pP’(p)d,v
-has been proposed by Aw & Rascle (2000), where the function P(p) represents
-anticipation.
+The symmetry of the problem allowed us to confine attention to one-half of the cross-
+section. A square net of side 0-5 unit was employed, and a value 100 was attached to
+7B in (16) A. Corresponding with (28) we have in this problem, as finite-difference
+approximations to the governing equations,
+
+F, = $1 +$2+ $3 +94— o—2 (¢2—$4) +50 = 0, |
+(39)
+
+I, 1 I © =
+Lie = thoths+vs—4Ho a (ve Ws) —($1 +3 — 240) = 0,|
+and corresponding with (33), as boundary conditions obtained by elimination of
+‘fictitious points’ in the manner of §§ 21-2,
+at the internal surface (r = 4)
+Fy, = 2(45 +) —2°1859¢5+ (475 + 7-9702z?) = 0,
+
+at the external surface (7 = 6),
+
+F,, = 2(64-+ 4) — 189306, — (5254+ 4-792z?)

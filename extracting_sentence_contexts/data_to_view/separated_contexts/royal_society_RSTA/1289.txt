@@ -1,13 +1,13 @@
-In the framework of the Hertz contact theory for axisymmetric punches,
-several authors found relations between the radius of the contact region a, the force P and the
-approach between solids 5 for punches whose shape functions f are monomial f(r) = Byr4, where
-r is the polar radius, d is the degree of the monom, and Bj is a positive constant whose physical
-dimension depends on d. In particular, Love [2] obtained a solution for d = 1 (a cone), Shtaerman
-[3] presented a solution for d =2n where n is an arbitrary natural number, and Galin [4] solved
-the problem for an arbitrary d > 1. In fact, Galin [4,5] presented a solution for an arbitrary convex
-punch of revolution. It is important to note that the influence of effects of adhesion between solids increases at
-micro-/nanometre length scales. Assuming that adhesion between points of two rigid spheres
-of radii Ry and R32, respectively, is caused by the London intermolecular forces and that these
-interactions are additive, Bradley [6] calculated the force of adhesion Pg, between the spheres as
-Pagh = 20wR where R is the effective radius of the spheres R1l= Ri! +R51, and w is the work
-of adhesion.
+The details
+of the application of the method are flexible ; the method itself appears to the author to
+remain valid. The advantage of the method of maxima is that it avoids any appeal to
+a knowledge of the exact formula for the atomic scattering coefficient. In fact if the
+chemical composition factors ¢ could be assumed known, the atomic scattering coeflicients
+could themselves be determined from observed line-contours. Probably a complete
+knowledge of all line-contours in a sufficient number of stars of known T and g would
+provide more equations than unknowns—the unknowns being the <’s and the atomic
+s,s. After that the method could be applied to determine g for stars of known T but
+unknown g.
+
+An important need at the moment is a mathematical treatment of the effect of selective
+radiation-pressure in the transition region—the reversing layer.

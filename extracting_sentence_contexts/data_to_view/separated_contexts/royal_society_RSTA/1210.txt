@@ -1,32 +1,17 @@
-The Trotter-Neveu-Kato Approximation Theorem S
-states these semigroups converge to another semigroup, say {T(t),t > 0}, iff their resolvents 1S
-converge to the resolvent of this semigroup. More precisely :<
+The relation between the yard and the metre, as determined non-interferometrically,
+by Szars, Jounson and Jouty, namely 1 yard = 0-91439841 metre, and the mean of
+MicHetson’s and Benorr, Fasry and Prrot’s values of the metre, 1553163-82 wave-
+lengths of Cd,, can be used to calculate the number of wave-lengths of Cd, in the yard. The result afforded by doing so is 1420210-5, a most satisfactory concordance with the
+number now communicated. Perhaps the most interesting fact about this investigation is that the author has been
+able to measure a base-line of ,!; -inch, between Grayson-ruling fiducial limit-marks of
+less than a half wave-length thickness, by direct counting of the interference bands,
+5423 in neon light, which are comprised in this interval. Indeed, as this has been done
 
-lim T-(f)x=T(t)x, t>0, xeX, (2.2) a
-rol :
 
-iff :=
-lim (A-A,) 1 x=(A-A) lx, A>, xEX; (2.3) :8
-role :
+322 A. E. H. TUTTON ON DETERMINATION OF THE YARD IN WAVE-LENGTHS OF LIGHT.
 
-where A, is the generator of {T;(t),t > 0} and A is the generator of {T(f),t > 0}. Recall that the D8
-
-resolvent of the generator is the Laplace transform of the semigroup; because of (2.1) we have Dw
-
-oo :
-(A—A,) 1x =| e“T,(pxdt, A>a,xEX. [3
-o aon
-In particular, the implication (2.2) > (2.3) is immediate by the Lebesgue Dominated Convergence
-Theorem and the real value of the approximation result lies in the fact that it allows deducing
-convergence of semigroups from the convergence of their Laplace transforms. This is particularly
-important because the operators forming the semigroups are rarely given in a manageable
-form but in many cases something substantial can be said about the resolvents. (By contrast,
-unless extra conditions are met, convergence of Laplace transforms of a sequence of vector-
-valued functions does not imply point-wise convergence of these functions, see e.g. [2] p. 42,
-[3] pp. 319-320, or [4] p. 13 and pp. 47-48.)
-
-Three remarks are here in order. The first is that to prove (2.2) it suffices to show (2.3) for just
-one 4 > w; this is handy, as we seem to remember curious situations where proving (2.3) for all
-2. > w was next to impossible because one A > w was particularly uncooperative, despite the fact
-that, as we already said, convergence of the resolvents for just one 4 > @ is known to imply this
-convergence for all A > w.
+in duplicate, on two different sets of rulings, and the second has been transferred by the
+comparator alongside the first, on to the adjacent (second) ,),-inch, the base-line has in
+reality been the 10,846 bands in neon light (and corresponding numbers for hydrogen
+light) contained in the }-inch, all directly counted, without any adventitious aids
+whatever.

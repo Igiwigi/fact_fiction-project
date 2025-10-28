@@ -1,17 +1,12 @@
-However, the results in figure 9a show the limits of the linear shunt, which was tuned in
-order to approximate an equal-peak configuration at low forcing amplitude. In accordance with
-figure 1b, increasing forcing amplitudes generate a strong detuning of the absorber. In fact, the
-detuning is even more significant in the present case because of a slight increase of both the
-piezoelectric capacitance and the inductance value. For the inductance, recall that our passive
-component is made of magnetic material that does not behave purely linearly, as shown in
-equation (3.2). Concerning the piezoelectric capacitance, it was experimentally noticed that it is
+It can
+
+be proved in a similar manner that ¢(s) vanishes everywhere in the interval (8, b). Finally, we can show that, at points of the open interval («, 8) which do not belong
+
+to &, both 0(s) and $(s) vanish. In fact, if a, is any one of these points, there are
 
 
-3-80}
+AND THEIR CONNECTION WITH THE THEORY OF INTEGRAL EQUATIONS, 431
 
--90
-20 25 30 35 40
-
-frequency (Hz)
-
-Figure 8.
+clearly points of % both on its right and on its left. The argument we have just
+employed will then establish that, by reason of the former, (a) is zero, and that,
+by reason of the latter, # (a) is zero. §16.

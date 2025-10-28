@@ -1,18 +1,14 @@
-So, the inner product of two ‘holistic’
-state vectors is
-
-(1,21, 2) y = (11D) (2/12) + (112) (211), (3.7)
-
-where the subscript 7 indicates that it is a symmetrized product. The previous expression
-represents the core of our approach and includes the particle spin-statistics principle. In fact,
-according to the Pauli exclusion principle, the probability amplitude of finding two fermions in
-the same state is zero, so (1',1'|1,2), =(1 + 7)(1|1)(1’|2) requires that n is —1. The choice n = +1
-gives the maximum amplitude of finding two particles in the same state and corresponds to the
-case of bosons. Generalizing the symmetric and antisymmetric expression (3.7) to an arbitrary number N of
-identical particles, we can write
-
-(1,2/,...,N"1,2,...,N)q = > n?P (1'|P1)(2/|Po) -.. (N'IPN), (3.8)
-P
-
-where, in analogy with the 2-particle case, for bosons 7” (P being the parity of the permutation)
-is always 1 and for fermions it is 1 (—1) for even (odd) permutations.
+As RicHarDsoN
+points out, this experiment shows clearly that the very small negative leak given by
+platinum in air is not due to traces of hydrogen in the platinum. In addition,
+measurements of the negative leak from clean platinum wires in air and other gases,
+except hydrogen, give fairly concordant results, so that I think there is now no doubt
+that there is a small negative leak due to the platinum itself. In fact, since traces of
+hydrogen in the surface of the platinum must be burnt up at once when it is heated
+in air, it is almost impossible that such traces could be the cause of the small leak
+given in air, This conclusion, of course, does not apply to the much larger leaks
+which are obtained when an ordinary platinum wire is heated in a vacuum without
+any special precautions. I think there is no doubt that they are due, as I suggested,
+to traces of hydrogen. In the present paper, when the negative leak in hydrogen is
+referred to, it is not intended to imply that there is not a small negative leak due to
+the platinum itself.

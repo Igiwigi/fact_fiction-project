@@ -1,15 +1,13 @@
-We chose to use MIF because it is easy
-to implement, ready to be applied to two-dimensional signals, computationally fast and most
-importantly it has been proved to be convergent under mild conditions, at least when applied to
-one-dimensional signals. The other main result of this paper is the development of a pre-processing algorithm, also
-based on MIF, which allows us to decorrelate and mean-centre a raw hypercube, enabling us
+This has been already mentioned as one of the requisite characters of a
+satisfactory indicator. Imagine naturally slow Cu ions travelling behind naturally
+faster K ions, with Cl ions travelling past both in the opposite direction. If Cu lag
+behind K, or K run away from Cu, a region will be established where cations are
+deficient, a state of affairs that must immediately correct itself by reason of the
+consequent E.M.F. If, on the other hand, they keep pace with one another, as in
+fact they do, it must be by virtue of a steeper potential slope in the blue. If now
+some K ion accidentally lags behind its fellows, it will find itself in this region and
+be at once hurried forward again ; while any ambitious Cu ion, trying to penetrate
 
-
-to use the naive cosine similarity (COS) measure, also known as the spectral angle mapper, as
-a classification technique. In fact, thanks to such a pre-processing technique, the COS measure
-produces a classification that is always comparable and that sometimes outperforms those
-produced by other commonly used classifiers. The advantage of coupling the COS classifier
-with the proposed pre-processing method is that in this way there is no need to estimate the
-average signature and the covariance matrix of pixels not belonging to the plume, unlike any
-other commonly used classification method. The rest of this paper is organized as follows: in §2, we formalize the problem and briefly
-review some of the most commonly used classification methods.
+* The precipitates formed across the tube by the meeting of Cu ions with CrO, ions and Fe(CN), ions
+are of the nature of the semi-permeable membranes used by TRAUBE and PFEFFER in the study of
+osmotic pressure.

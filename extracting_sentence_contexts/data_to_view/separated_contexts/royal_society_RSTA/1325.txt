@@ -1,23 +1,5 @@
-Given the decisions corresponding to the full and relaxed multi-area
-security management problems, (x*,r*) in (3.2) and Com 17,) in (3.4), respectively, the economic
-loss contribution of any area is expressed as,
-
-Ja’
-
-Ig =CA (xj,,r4,,-m) — CA (,2*,m) <0, Va=[1,.../A]. (3.5)
-
-(ii) Economic benefit contribution
-
-To compute the economic benefit contributed by any single area, one needs to quantify the
-cost reduction gained by the multi-area cooperating TSO group thanks to using the intra-area
-grid flexibility resources in a mutually acceptable manner. In other words, the economic benefit
-contributed by any single area is defined as the difference between the optimal objective of (3.2)
-and the system-wide cost computed with the baseline decisions the respective TSO would take if
-it was using its grid flexibility resources independently. To find such what-if decisions, we model a fictitious situation wherein the TSO would be
-deciding autonomously and without any consideration for the physical parameters and security
-domains of all external areas in the interconnected system. We do so for any single area with grid
-flexibility by solving a modified security management problem wherein the area of interest is
-the only intra-area network modelled in full detail and all other intra-area networks are reduced
-to simplified ideal mediums. As an example, figure 2 illustrates the reduction of the multi-area
-system shown in the top part of figure 1 used to identify baseline grid flexibility decisions within
-area A.
+It is
+clear that the other derivatives required to express the stress-components, for the
+assumed law of pressure, could be evaluated by processes similar to those used above. The results would not be of much interest. The fact that the stress at every point would
+be determinate is in accordance with the result of § 1.4. It is important to observe that the breadth ¢ of the border must be finite. It would
+not be possible to pass to a limit by diminishing ¢ indefinitely.

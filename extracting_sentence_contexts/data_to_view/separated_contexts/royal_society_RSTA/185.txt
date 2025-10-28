@@ -1,17 +1,10 @@
-Two
-of these are thermodynamic; the higher, at Te , is to a state known as ‘one-
-step replica symmetry broken’ (1RSB), corresponding to the onset of many
-non-equivalent macrostates {5} that are mutually orthogonal (Parisi 1980),
-followed by a lower temperature transition, at Ta , to ‘full replica symmetry
-oreaking’ (FRSB) (Gardner 1985), at which the non-equivalent macrostates star
-o acquire a continuous range of overlaps (as characterizes the SK spin-glass
-phase). These transitions are, however, pre-empted by a dynamical transition a
-a higher temperature, Tp, again to 1RSB. The fact that Tp > Te means tha
-he system becomes glassy before the thermodynamic limit for paramagnetism
-is reached. The analogue in random K-SAT is that, although, in principle, there is a
-imit a. separating SAT from UNSAT, in practice, computer programs basec
-on local dynamical algorithms are unable to reach this limit but stick at a lower
-Q@p, the analogue of Tp. The recognition of the existence and quantification o
-he resultant intermediate HARD-SAT region came through the application anc
-extension to K-SAT of statistical-physics techniques developed for spin glassses
-(Mézard et al. 2002; Mézard & Montanari 2009).
+The higher value does not agree with the value predicted by equation (47), and we have —
+not yet succeeded in accounting for the discrepancy. Though small (of the order of 6 %), a
+it can hardly be due to errors of computation, in view of the consistency of the plotted points
+in figure 24. In fact quite unusually high standards of accuracy were imposed in these com-
+putations, as is shown by the pairs of numerals appended to the wave profiles in figure 23. (The upper numeral of each pair gives the computed value of 0//dv, the lower gives the
+‘error’ 7 defined in § 36.) Our reasons were (1) the tendency of errors to cancel and so to
+remain undetected near side-boundaries, (2) our desire to determine accurately (and for
+
+the first time) the nature of the variation of J with A. Obviously this last objective would
+have been attained more easily if / had varied more rapidly.

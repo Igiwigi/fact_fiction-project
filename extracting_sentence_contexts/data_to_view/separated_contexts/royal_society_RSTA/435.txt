@@ -1,16 +1,16 @@
-Accordingly, as we then felt that we had gotten the ‘wrong number’, we spent some 5 years
-looking under every experimental rock and stone, checking and rechecking all of our calculations,
-and at the same time we rethought our various assumptions, remeasured and measured anew
-various things, and consulted with ‘experts’—only to uncover nothing that would change our
-result by more than 1 or 2 parts in 10°! What to do? We simply (and finally) published our new
-result which disagreed with CODATA’s recommended value by some parts in 104 but which
-agreed with the Luther-Towler value at the one-sigma level. (I have to confess that early on I
-had not thought carefully through the implications of not correcting the Luther-Towler result
-(had the fibre Qs all been measured) for anelasticity; in fact, given the fibres used, a correction
-would have only slightly lowered the Luther-Towler published value.) I think that CODATA may
-have also rethought the implications of this as they again included the Luther-Towler number
-in their subsequent 2006 and 2010 recommendations. Figure 8 shows the history of CODATA’s
-recommended values for G going back to 1973 where, as plotted, the position of the recommended
-G value moves to the right or to the left proportional to the recommended increase or decrease for
-this number. Note that the accuracy associated with the CODATA-recommended value for this
-constant has not improved in the past 25 years!
+3:2. Solution of integral equation
+
+Equation (25) forms the basic integral equation of our problem and is analogous to the
+simpler equation considered by Magnus (1941) and Copson (1946a) for the half-plane
+subjected to a sinusoidal train of waves. To commence the solution of equation (25) we note that the second integral in it corre-
+sponds to the contribution from CD for a point on AB and if we omit this contribution we
+
+
+SOUND PULSES BY AN INFINITELY LONG STRIP 77
+
+have in fact the integral equation for the half-plane case. Thus, if we denote by y, the solution
+for the half-plane case, then x, will satisfy the integral equation
+
+AP “xoldora) Kult | yo 1} dy = % (26)
+
+and in the known results for the half-plane case as given by Friedlander (1946)

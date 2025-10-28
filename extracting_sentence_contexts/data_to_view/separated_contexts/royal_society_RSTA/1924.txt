@@ -1,10 +1,7 @@
-While the lattice Boltzmann method (LBM) : zB
-displays numerous advantages as a CFD tool, see [3,4], it formulates on an uniform Cartesian 1S
+As already explained in § 7, an exponential formula of type (21), which
+was indicated by a mixed elastic-viscous theory, entirely failed to fit the facts. A
+variety of possible laws connecting 8 and ¢ were tried, with greater or less success. The fact that initially 8 was finite, but S infinite suggested
 
-mesh, by default. Therefore, the task of prescribing boundary conditions over arbitrarily shaped
-surfaces requires particular care in order to avoid the inaccurate staircase discretization. This
-task is further complicated by the fact that LBM’s working variables correspond to mesoscopic 8
-populations, rather than macroscopic fields [5]. Thus, the LBM realization of hydrodynamic :
-boundary conditions tends to be made implicitly, through conditions set at the level of the aaa)
-mesoscopic populations. Such difficulties explain the relentless interest in this topic, which :
-continues an active area of research [3,4,6].
+S = §-bat’,
+n being an exponent less than unity. Tt was found that » = 4 gave a fair fit for the whole range of the curve, a result which
+confirms the observations of Dr. E. N. pa C. ANDRADE on lead wires (* Roy. Soc.

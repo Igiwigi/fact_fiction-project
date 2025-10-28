@@ -1,9 +1,10 @@
-If the residual errors are too high, another updating loop is
-performed, using a different set of initial conditions. The measured data are usually displayed in the form of FRFs, while—at the present time—
-the evaluation of the system is generally performed in a time-domain framework. Time-domain
-simulations are generally very slow due to the small time steps involved and the fact that they
-must evaluate through all the transient information to get to a steady state. This scales poorly
-with the dimension of the system and results in a difficult correlation process, requiring extensive
-resources and post-processing effort in order to trim the transients and cast numerical data in
-the same domain as experimental data. This heavy post-processing adds to the evaluation time,
-rendering the updating process unacceptably slow.
+'= 0. Therefore
+Pa(7) and z(r) are equal when 7 = 0 or 0. From these facts and equation (52) we deduce
+that the equation p,(7) = z?(r) is approximately true for all values of 7. As a matter of fact
+the approximation is very close indeed, and the error involved in assuming that it is exactly
+
+
+DIFFRACTION FROM AN IRREGULAR SCREEN 607
+true can be neglected for all practical purposes. We have done this throughout the foregoing
+
+paper.

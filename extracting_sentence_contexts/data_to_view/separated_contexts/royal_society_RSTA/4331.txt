@@ -1,19 +1,19 @@
-To observe peering links, several groups (e.g. CAIDA,> RIPE® and DIMES’ [4]) have “3
-used tools such as Traceroute [5], which sends a stream of packets to a single destination from a : a
-single observation point, with each successive packet reporting the address it has reached after ig
-an increasing number of hops. As long as the packets all follow the same path, this traces the : s
-actual links along which the message has been routed, and peering links are in fact observed. :&
-The effectiveness of Traceroute observations is difficult to quantify (how to count the links not 2
-
-seen?), but it clearly depends both on the completeness of the set of destinations to which traces
-are sent and on the richness and coverage achieved by the observation points from which they are
-sent. Solutions to the first problem have been worked out by groups from CAIDA, DIMES and
-RIPE in the past, but establishing and maintaining enough points from which to see deep into the
-
-Internet remains the bigger problem, which we will discuss below. A curious difference between : =
-Traceroute-based discovery of the links in the Internet and identifying links by collecting the : yy
-routes advertised by BGP routers is that the two methods appear to discover different sets of links. (3
-In the DIMES studies, Traceroute from several thousand downloaded software clients discovered : S
-fewer ASes and fewer links overall than the BGP data collected by the RouteViews project.® It 22
-added only a few hundred ASes not seen already by RouteViews, but the links discovered by : 8
-DIMES increased the total number of links seen (in either direction) by about 30%.
+But the differences between the values for the same direction of the three salts are
+much smaller ; in the case of the direction of the amis b, the difference is only one per
+cent., und in that of the axis a where the greatest divergence is shown, it is only six
+per cent, of the total amount of expansion. The increment of the coefficient of expansion, per degree of temperature, is about
+twice as large for the direction of the axis c of each salt as for the other two axial
+directions, for which the inerement is nearly identical. Tt is interesting to point out, in connection with the last fact, that it agrees in a
+remarkable manner with the observation previously recorded (‘ Journ. Chem, Soc.,’
+Trans., 1894, p. 715, §14), that the change of optical refractive power brought about
+by rise of temperature is considerably greater for the direction of the axis ¢, than
+for the directions of the a and 6 axes, along which the amount of change is approxi-
+mately the same. The fact that the differences of expansion exhibited by the three salts are so small,
+compared with the differences in the amounts of expansion in the three axial
+directions, would render it probable that if any considerable changes were introduced
+in the relations of the values for these three directions by the replacement of one metal
+by another, particularly if such changes were not simply proportional to the atomic
+weight of the metal but expressed by a higher function of the atomic weight, such
+change would suffice to negative the possibility of a direct progression of the linear
+coeflicients of expansion for each axial direction of the three salts, corresponding
+to the atomic weights of the metals present.

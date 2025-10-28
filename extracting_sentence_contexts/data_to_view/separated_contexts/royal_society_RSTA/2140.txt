@@ -1,11 +1,8 @@
-Method =
-
-This section focuses on the design of the PWM-based perceptron, including the fundamental
-theories, the circuits of its constituent parts, methods of PWM-based arithmetic, leading to the
-construction of NNs. The design methods form the basis of extensive analysis supporting the
-validation of the perceptrons integrated in a NN. A perceptron capable of voltage and frequency elasticity may be constructed by exploiting
-the fact that relative temporal properties, such as a PWM’s duty cycle, are resilient to voltage
-and frequency variations. As the supply voltage reduces, any oscillatory activity, such as a clock
-signal, may show a reduced amplitude and reduced frequency. However, the ratio between the
-time within a period when the clock signal is high and the time within a period when the clock
-signal is low stays the same as both would increase at the same rate.
+If permanently small, there is stability. As simple examples we may quote
+the great circles on a sphere as illustrating stability and the straight lines on a plane as
+illustrating instability. There is anlimportant fact (easily deducible from the calculus of variations) in the case
+where the order of the disturbed curve is infinitesimal. It is that if O*O is perpendicular
+to C, then so also is P*P, where P and P* are any pair of corresponding points. In con-
+sidering stability in the action sense it is in general sufficient to consider only cases
+where O*0 is perpendicular to C ; thus we may say that there is stability in the action
+sense when every point of the disturbed geodesic is adjacent to the undisturbed geodesic.

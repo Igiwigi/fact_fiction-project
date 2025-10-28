@@ -1,25 +1,10 @@
-Proof. (1) For all ack, , the components of x (resp. @) can be recovered from the sheaf
+If the integral factor is @" g'"..., 0,... being functions of ¢, cy... then if in the system of
+arbitrary constants we take 6”.¢" . . . instead of c,, the factor will disappear. Tn fact the ordinary equation
 
-[xa]*Hyp(x,@) as the tame characters occurring in the representation of the inertia group at 0
+y= pr— p’,
+or any other, may be transformed so that its singular solution appears as an integral factor. Put
 
-(resp. at 00) corresponding to this sheaf, and the multiplicity appears as the size of the associated
-
-Jordan block (see [17, Theorem 8.4.2 (6), (7), (8)]). Thus, (3.1) is only possible if x; ~ x2 and @; ~ a2. We assume this is the case now, i.e. that
-
-[xa] Hyp(x, a) = Hyp (x, @)-
-
-We then obtain a = 1 from [17, Lemma 8.5.4] and the fact that the Euler—-Poincaré characteristic
-of a hypergeometric sheaf is —1.
-
-(2) We may assume that 1 > m, using inversion otherwise. Assume that y € PGL)(Fp) is such
-that
-
-y*Hyp(x,@) = Hyp(x,@) @&
-
-for a rank 1 sheaf £. By comparing ramification behaviour, we see that y must be diagonal (if
-
-y—1(0) #0, then £ must be tamely ramified at 0 to have the tensor product tamely ramified at
-
-y~}(0), as y*Hyp(x, @) is; but then the inertia invariants at y~1(0) are zero for the tensor product, a
-
-contradiction to [17, Theorem 8.4.2 (6)], and the case of y—!(00) # 00 gives a similar contradiction).
+y=t@—2)
+and we find
+y— pet p= 42 (22-1). 534 PROFESSOR A. C. DIXON ON THE SINGULAR SOLUTIONS
+Examples.

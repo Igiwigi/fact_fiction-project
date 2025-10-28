@@ -1,14 +1,12 @@
-MH vegetation albedo radiative feedback (W m~2) in the Afro-Asian monsoon region as simulated by (a) IPSL-CMSB-
-LR and (b) IPSL-CM5A-LR. (Online version in colour.)
+The angle A, is positive when the fins are inclined so as to impose clockwise rotation
+when viewed from the rear. When the fins are not offset A, = 0, so that I’, vanishes. If the fins are not too small, nearly all the damping couple is due to the fact that, because
+of the lateral velocity pr of each part of the fins, the true angle of incidence (downwash being
 
-change in precipitation results from the competition between this reduction of precipitation and
-the increase in frequency of deep convective regimes [49]. Also, the comparison of the two
-IPSL model versions shows that drier conditions in the Sahel region induces drier soils that
-prevent the development of vegetation and thereby limits local recycling and the northward
-inland penetration of the monsoon flow in IPSL-CM5B-LR. The changes in precipitation over
-the Sahel are thus smaller in IPSL-CM5B-LR than in IPSL-CM5A-LR, despite the fact that the new
-atmospheric physics tend to produce more intense precipitation in the continental ITCZ. The differences in the location of the vegetation feedback in the different climate models
-and between the two versions of the IPSL model strongly suggest that the improvement of the
-representation of the ITCZ location in the PI control simulation is a prerequisite to properly trigger
-the vegetation feedback. Large-scale circulation and the interhemispheric contrast seem to be key
-factors.
+neglected) is not A, but hel aes (358-5)
+by Assumption Al. At the centre of pressure of a fin this is
+
+Ap—4apr/V.
+Hence in this case we have T,a=T paz, (3-53-6)
+
+approximately. For the purpose of developing the theory, however, we only require
+(3-53-8, 4) and need make no assumptions regarding the coefficients I’, and I’; at this stage.

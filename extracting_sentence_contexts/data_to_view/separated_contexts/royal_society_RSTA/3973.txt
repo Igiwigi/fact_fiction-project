@@ -1,9 +1,10 @@
-Time series of (top to bottom) surface temperature, screen temperature, boundary-layer depth, without eclipse
-(black) and with eclipse (red) at (a) Hampstead, London (51.56009°N, 0.17839°W), (b) South Farnborough, east Hampshire
-(51.27944°N, 0.77107°W), (c) Coton in the Elms, south Derbyshire (52.73673°N, 1.6396° W), and (d) Lake Vyrnwy, Powys, Wales
-(52.75701°N, 3.46411° W). Observed screen temperatures, wind speed and direction at 10 m are shown as blue noisier lines.
-
-represented in the model. This mainly arises from the fact that the model uses an ‘ensemble-
-mean’ boundary-layer parametrization. A true volume-mean would have some turbulent energy
-at the scales represented by the model. A stochastic representation of this is under development,
-but was not available for the experiments reported here.
+In fig. 25, where the
+width of the cylinder remains constant along the direction of the impressed field,
+we notice that the lines inside the cylinder are concave outwards ; in fig. 26, on
+the other hand, where the cylinder tapers rapidly as we proceed along the field, the
+curvature of the lines presents a convexity outwards. This suggests that an inter-
+mediate form between the two might be found for which the lines exhibit neither
+convexity nor concavity, #.¢., are straight ; and, as a matter of fact, we know of one
+such intermediate form—a circular cylinder. Fig. 26 closely corresponds to the
+theoretical case which Dr. C. H. Lens has recently succeeded in working out analyti-
+cally in connection with a problem in heat conduction.

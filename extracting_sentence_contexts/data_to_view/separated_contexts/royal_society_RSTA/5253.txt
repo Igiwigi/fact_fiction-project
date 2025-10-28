@@ -1,9 +1,6 @@
-The slope of free energy is significantly smaller for protein IM9, which has only c-helical
-secondary structure. Snapshots of structures along the PMF profile are also shown. (Online version in colour.)
-
-Because the time scale of the pulling experiment is quite long, atomistic MD simulations tend
-to use pulling speeds and forces which exceed those of experiment by many orders of magnitude. BXD may be easily applied to simulations of AFM due to the fact that the unfolding process is
-reasonably well described using a simple end-to-end distance order parameter (similar to the
-peptide cyclization example considered above). This allows us to investigate events that would
-otherwise be far too expensive to simulate. In what follows, we present the first preliminary
-results of BXD simulations applied to understand AFM unfolding experiments.
+‘2 It took about 100 double strokes with these pumps to bring the pressure down to
+% 1 millim., so the labour involved was great, and want of time alone prevented our
+3 reducing the pressure further than we did. By increasing the number of the platinum
+S tubes we hope to be able in future to work with much better vacua. & The absence of leakage is indicated by the fact that the lapse of a week made no
+- perceptible difference in the reading of the McLeod gauge, although a change of ‘01
+& millim. could have been easily detected. S

@@ -1,7 +1,13 @@
-The simplest available classification techniques rely only on pixel-wise information, i.e. on
-the observation in each coordinate: isodata, parallelepiped and pointwise maximum-likelihood
-(ML) are examples of these methods. Arguably, the most successful techniques exploit both the
-spectral information and the context. This is mostly due to the fact that images exhibit a great deal
-of spatial redundancy, i.e. spatially neighbouring pixels tend to be alike. As an example of contextual classification one should mention techniques based on Markovian
-models. Geman & Geman [1] posed the classification process as an estimation problem and, as
-such, proposed a number of estimators and algorithms.
+18 In the iron spectrum the phenomenon made its appearance in the neighbourhood of
+25 atmospheres, where, because the displacements are not very large, and because of
+the unexpected nature of the occurrence, some doubt was felt about it. But the
+remarkable fact that the displacements of the copper lines measured by HumpHREYS
+at 69 atmospheres are half the values of the displacements at 70 atmospheres in the
+present investigation lends some support to the writer’s original view that at certain
+pressures some lines may have two values of the, displacement : within the limits of
+error of measurement one is twice that of the other. It is true that HumpHreys
+has only measured each line twice and that only six lines have been measured in
+common, but the magnitude of the discrepancy should be quite beyond the limits of
+error of measurement. It must also be remarked that Humpureys and the writer
+
+* DUFFIELD, ‘ Phil.

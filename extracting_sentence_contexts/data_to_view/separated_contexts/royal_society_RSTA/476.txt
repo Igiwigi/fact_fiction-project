@@ -1,11 +1,8 @@
-Besides the considerable empiricism embedded in any of the scale-determining ty
-transport equations, the assumption that the behaviour of turbulent flows could be modelled via : _
-an assumed eddy viscosity was itself a highly limiting concept that became less and less tenable : Ss
-as attention shifted to flows with increasingly complex strain fields. Indeed, in many cases, there : S
-would be the added complication of force-field effects such as buoyancy, too. In fact, from the : Ss
-1930s, physicists had been seeking ways to approximate the turbulent stresses by routes that did :&
+Higgins found that Runge (1908-9) was the first to apply finite
+differences to the partial differential equation of Saint-Venant’s torsion problem. Incident-
+ally, I must protest against Higgins’s suggestion that there is a contrast between iteration
+and what he calls Richardson’s method of ‘normal functions’. For, in fact, I cleaned away
+unwanted normal functions by iteration. A PURIFICATION METHOD FOR COMPUTING 487
 
-not assume a linear connection between strain rate and Reynolds stress. Proposals were advanced
-for determining all relevant second- and third-moment turbulent velocity products directly from
-transport equations, e.g. [24]. There was, however, no prospect (or risk) of these proposals being
-tested: their advocates were purely armchair explorers!
+The present comparison of techniques will, however, relate to my paper of 1910. The
+phraseology of cleaning was not then mentioned, but in retrospect it seems appropriate.

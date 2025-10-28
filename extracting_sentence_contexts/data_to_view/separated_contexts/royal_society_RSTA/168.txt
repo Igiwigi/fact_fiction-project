@@ -1,17 +1,20 @@
-The solution to this problem may be different depending on the choice of the
-adaptive grid methodology, but it is worth referring to the papers by Hubbard &
-Nikiforakis (2003) and Nikiforakis (2005), which successfully addressed this issue.
+As would be anticipated from the character of the contours in figures 4 and 5, the numerical
+evaluation of the integral (2-19), using the numerical tables from which the figures are
+drawn, presents no difficulty for positive values of h not too near to unity, or for negative
+values in the range —}<h<0. For the range —1<h<~—4, the integration is very trouble-
+some, not only owing to the integral being made up of three parts with ‘awkward’ limits,
 
-n those papers, ECMWF re-analysis data sets were used to run a three-
-dimensional off-line hierarchical adaptive mesh refinement model. The model
-refines anisotropically in all three dimensions and even though it is not dynamic,
-he algorithm that initializes the data (and keeps forcing the model) would be
-he same, irrespective of the equations that are solved. In fact, as the model
-adapts in time as well as in space (i.e. every fine mesh patch is integrated
-at its own optimal timestep, all meshes are synchronized at the end of every
-iteration), the ECMWF data had to be manipulated in a rather involved manner. Nevertheless, the algorithm had a very small CPU-time overhead and the model
-yerformed three-dimensional simulations of a stratosphere-troposphere exchange
-event (initialized on 17 June 1996 and final output on 23 June 1996) at an effective
-resolution of 12 million cells, over a few hours on a Sun Ultra 10 workstation. Finally, we remind the reader that an operational piece of software has to
-adhere to additional considerations, if it is to be of practical use; for example,
-it has to be amenable to implementation on modern computer architectures.
+
+OF MAGNETIC HYSTERESIS IN HETEROGENEOUS ALLOYS 613
+
+but also owing to the behaviour of the integrand near these limits. Similar behaviour is
+encountered in connexion with the integration for 4 = 1, associated with the fact that for
+6->+ 90°, dé/d0->co. The method of dealing with these integrations is outlined in § 3, and
+the results, along with others, are given in § 4.
+
+Solutions of equation for stationary energy in special cases
+
+Useful explicit solutions of the stationary energy equation (2-10), treating ¢ as the un-
+known, are obtainable in the forms ¢(h) and ¢() for only a limited number of particular
+values of @ and h respectively. The results obtained for @ = 0, 45 and 90°, and for h = 0
+and +4 are summarized below.

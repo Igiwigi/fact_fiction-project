@@ -1,16 +1,7 @@
-The connection between ICA and deep learning models is a very interesting topic for
-future research.
-
-7. Improvements in the estimation of linear decomposition
-
-Finally, we will review methods for more efficient estimation of the basic linear mixing model
-(2.2) when the components s; are independent as in the basic model assumptions.
-
-(a) Independent component analysis using time-frequency decompositions
-
-The basic ICA model assumes that the s; and x; are random variables, i.e. they have no time
-structure. In the basic theory, it is in fact assumed that the observations are independent and
-identically distribution (i.id.), as is typical in statistical theory. However, it is not at all necessary
-that the components are i.id. for ICA to be meaningful. What the ii.d. assumption means in
-practice is that any time structure of the data is ignored and what is analysed is simply the
-marginal distribution of the data over time.
+“The pendulum period was calculated from the record by the graphical method described
+by Meinesz (1929). Each record lasted for 30 min.; observations of the coincidences be-
+tween the pendulums and chronometer were made between the beginnings of the 2nd and
+2 6th minutes and again between the beginnings of the 26th and 30th minutes. It is estimated
+‘© that the error in the measurement of the period of the fictitious pendulum due to inaccuracy
+§ of reading of the records was only 1 x 10-7 sec. Corrections were applied as follows:
+> (i) Temperature.

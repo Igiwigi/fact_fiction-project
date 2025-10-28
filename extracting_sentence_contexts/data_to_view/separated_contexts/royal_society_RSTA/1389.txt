@@ -1,17 +1,14 @@
-Average DJF maximum 3 h precipitation accumulation. (2) Maximum values calculated on the original 4 km polar
-stereographic mesh and regridded to a 4km latitude-longitude mesh. (6) Maximum values obtained by first regridding
-daily precipitation to a 25 km mesh. (c) Maximum values obtained by first regridding daily precipitation to a 100 km mesh.
-(d) Maximum values obtained by regridding 4 km maxima to a 25 km mesh. (e) Maximum values obtained by regridding 4 km
-maxima to a 100 km mesh. (Coloured areas over coastal ocean regions are an artefact of the plotting scheme and should be
-ignored.) (Online version in colour.)
+{2, 4 (3), 2}. In this transformation quadrics of © touch a given prime Il along a given line | of the
+prime, and contain a conic touching IL at a point of 1—Dxt Pxzzo devotes one of his
 
-However, this order of operation is not always practical, especially for sub-daily extremes
-due to the high computational cost of regridding and/or the availability of the high-frequency
-observational data itself. For instance, high-frequency station data may not be made available
-by the owners but block maxima or other extreme value indices are provided. In fact, this is the
-case for the daily extrema contained in the HadEX3 global land dataset [31] where the stations’
-extrema are gridded rather than the stations’ daily values themselves. In this paper, we refer
-to such model evaluation results as the ‘non-native grid’ since the observational extremes are
-not calculated on the models’ native grid but are calculated either at individual stations or on
-a different grid. For precipitation, it is generally unlikely that the extrema at different locations
-within the same grid cell occur at the same time.
+* We pointed out earlier that any quadrie which contains a line 4 of the surface I touches that surface at
+three points of 2; and if then we make it touch I at a fourth point of 4, it will do so at every point of
+the line.
+
+
+’ -BY MEANS OF QUADRICS, AND THE REVERSE TRANSFORMATIONS, 373
+
+papers entirely to this transformation* which is, in fact, the only one worked out by him
+for four dimensions. It is associated from our point of view with the net of lines of the
+plane w as we remarked above. But from the analytical point of view it is as simple as
+could be.

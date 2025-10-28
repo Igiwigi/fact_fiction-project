@@ -1,15 +1,10 @@
-The multi-attractor nature of nonlinear dynamical systems suggests
-that the instabilities identified above could lead to new attractors that will constitute a more global
-view of the system behaviour than has previously been available.
+S, is also seriously affected by errors of estimation in E,. We therefore reach the conclusion, from the study of the effects of simple disturbances on
+the autoregressive type of variation, that no reliable estimate of the systematic sampling
+variance can be obtained from the values of a single systematic sample. The fact of the
+matter is that it is impossible to predict the behaviour of a sequence or function at inter-
+mediate values from the known values at the equally spaced sampling points, unless the
+mathematical law of variation is already known. The best estimate that is available from
+the values of a single systematic sample appears to be £,. The general relation already
 
-6. Description of rotor model
-
-It is apparent that the rotor behaviour is very nonlinear and that analysing such a system
-numerically necessitates the use of nonlinear analysis methods with a numerical model that
-can capture the fold bifurcation seen in the wind tunnel tests. What makes this type of
-investigation even more difficult is the fact that the number of parameters involved together
-with the different flight manoeuvres and rotor types that need to be considered is large. From an
-engineering perspective, it is important to be able to perform numerous quick analyses in order
-to minimize the problem dimension to a manageable level. For this reason, it was necessary in
-this investigation to create a low-order nonlinear rotor model that nevertheless retains acceptable
-fidelity in the aerodynamic and dynamic representations.
+established
+Sa = $Eyg+ tE y+ hEyyt...

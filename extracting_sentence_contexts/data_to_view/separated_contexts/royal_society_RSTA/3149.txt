@@ -1,23 +1,10 @@
-Next, we observe that (eo,J~teo) =0, where (-,-) denotes the inner product in
-D°({0, 1]). This implies that e9 € (ker(£*))+ = im (L), and thus there exists e; € D'({0,1]) such that
-eo = Lei, so that the algebraic multiplicity of the eigenvalue 4 =0 for L is at least two. In fact,
-differentiating (3.2) in c, we obtain cL(d-Xtw) = 7 Xtw, SO
+For example, suppose that ,"%, @,"*"°**, ... are all different from zero. Then the
+preceding work suggests that a solution may be found in which the first ¢ rows
+proceed according to powers of ¢'", the next €, according to powers of ¢’, and so on. The whole would thus be of normal form with the variable ¢*, k being the least
+common multiple of «, &....
 
-e1 =COcXtw (3.8)
+Tn fact, if we change the independent variable to ¢', k having this value, the matrix
+Ay,-.+1 is identically zero, and the indices 6',,...0%, are the roots of — (4,,)"+0 = 0. These roots are all equal, and the corresponding equations of condition are all
+satisfied owing to the vanishing of the matrices other than A,,+1. If, now, we form the equation for 6',,-1 we have
 
-satisfies Le; =eg and thus represents a generalized eigenvector of £ associated with the zero
-eigenvalue. As we have seen, the spectrum of £ always contains at least a double eigenvalue at zero. Following a similar argument, one finds that the algebraic multiplicity of the eigenvalue 4 = 0 is
-higher than two if and only if there exists e2 € D!({0,1]) such that Ley =e), which is equivalent to
-
-(e1,J~‘e0) =0. (3.9)
-
-We will now prove that this can only happen when the derivative of the c-dependent conserved
-Hamiltonian of the system,
-1
-
-HO= I, xiao At,
-
-0
-
-
-is zero.
+eC ea = Oi) Rt —O ye 0)

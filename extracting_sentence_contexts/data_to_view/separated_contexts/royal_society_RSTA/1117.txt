@@ -1,12 +1,7 @@
-So strong
-solutions” are unique. However, while strong solutions are unique, we cannot in general guarantee that they exist for
-all time, only for a short time that depends on the size of the initial enstrophy. Nevertheless, if the
-initial enstrophy is sufficiently small then we can prove the existence of strong solutions for all
-
-7Note that the solution v does not occur explicitly in the right-hand side of (5.5); this suggests that in fact strong solutions are
-unique in the larger class of all weak solutions. There is currently no proof of the result in this generality; rather, it is known
-that strong solutions are unique in the class of all weak solutions that satisfy the ‘energy inequality’, which is (4.10) allowing
-only s =0 (this result is due to Serrin [22], see also [3] or §6.3 in [5]).
-
-
-t > 0. If we return to (5.2) and use the Poincaré inequality (cf.
+Our next hypothesis is that the membrane is incompressible. * We may justify
+this assumption from the fact that the tissue is largely composed of water, and that
+the only changes in volume arise when variations in pressure draw in extra blood from
+the circulatory system or squeeze it out; but these changes will probably be small
+unless the membrane is in a congested condition. Congestion, with consequent com-
+pressibility, might be expected theoretically to cause a slight loosening of the tooth. There is, however, another way of approaching this question of incompressibility, which
+is of interest.

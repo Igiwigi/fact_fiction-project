@@ -1,19 +1,11 @@
-We create the mode by performing an inner product a
-between the inverse Fourier transformed POD coefficients (a)(m;x,f)) and the azimuthally :=
-Fourier transformed flow field. That is,
-
-w™ (m;&,7) := lim 1 [i lim 1 I. ur(m;r,x +&, Ha (m;x, t) dtdx. (2.6) : a
-
-X?7~% X Jo THOT So a
-
-This procedure generates a conditional structure where the condition is applied at é =0, Dw
-and where the upstream and downstream structure is allowed to evolve without any radial :
-restrictions. In fact, at € =0 the cross-sectional profile of the conditional mode becomes the a
-snapshot POD modes. 1
-
-3. Discussion
-
-The POD modes are insensitive to the streamwise mode number, and we will therefore present
-the energy as integrated over all k. The POD analysis is truncated due to the large amount of data
-and is resolved up to [+k,m,n] = [2 x 128, 64,256], corresponding to azimuthal and streamwise
-wavelengths A49/R=0.098 and A,/R=0.234.
+From the same values of «# and y we could, of course, infer w = ‘125, so the
+theorem may be expressed in words thus—- “In any case where cross-equality* and independence both subsist for the second-
+order frequencies, independence must subsist for two at least of the four positive
+third-order frequencies if either (1) the sum of the remaining two is equal to 4th or
+8ths of the total frequency ; or (2) the difference between the remaining two is equal
+to 4th of the total frequency.” T should, perhaps, note that in the present case the fact that the criterion of
+independence holds for the positive fourth-order class necessitates its holding for all
+the remaining classes of the aggregate. This is not so in general. It may further
+be remarked that the independence of the attributes, pair and pair in the second-
+order classes, does not connote independence for the groups of the third order, I
+hope to return to the logic of independence on a future occasion.

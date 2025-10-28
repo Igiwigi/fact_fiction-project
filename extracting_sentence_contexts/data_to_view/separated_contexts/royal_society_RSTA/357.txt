@@ -1,19 +1,12 @@
-Conjugacy and good coverage suggest that the DP could be a very good general purpose non- a
-parametric density estimator. Unfortunately, the distributions drawn from a DP prior are, with a
-probability one, discrete so they do not have a density. In fact, a draw from a DP prior can be is
-represented in the following way: : 8
-
-~
-C= mdx, 61) 5
-2 =
-
-where the sum is an infinite sum, the z, are masses that sum to one, 6 is the Dirac-delta function :e
-and the x; are locations for those probability masses drawn iid from the base measure H, which
-controls the mean of G. To alleviate the problem of discreteness, the DP is often used as a prior on :=
-the parameters of a mixture model, with the whole model now called a Dirichlet process mixture iB
-(DPM) [20,24~26]. ‘Sp
-
-The particular example of a DPM of Gaussians, also known as an infinite Gaussian mixture :s
-model [27], is widely used for both density estimation and clustering. Clustering refers to the ree
-problem of finding groupings of objects or data points such that similar objects belong to the same :
-group and dissimilar objects belong to different groups.
+All the metals
+dealt with (except possibly Li) have, at liquid oxygen temperature, the property that
+an overlap of Brillouin zones occurs within a few tenths of an eV of the edge. One
+possibility is that this overlap might disappear, or become changed in amount, with
+increasing temperature; and indeed there is a certain amount of evidence, which,
+though not conclusive, points to the fact that this may be the case, at least for Na
+and Al. For a reference to figure 4 will show that the kinks in the observed intensity
+curves which occur near to the edges are obliterated at the highest temperatures,
+and, though one cannot be quite sure, it seems that this obliteration is more than one
+could expect from the mere diffuseness of the edge. In the case of Na, the upturned
+portion near to the edge which represents the Brillouin zone overlap has an area of
+perhaps @y of that of the whole band at 110° A.

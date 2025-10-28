@@ -1,29 +1,21 @@
-These operators and the corresponding abstract
-Cauchy problems
-X(t) =Nax(t), £20,
+it may be noted that—
 
-x(0) =x0
+(XXL) A quantity of the conjugate set, or a l.c. of such quantities, cannot be
+improved by means of the non-corresponding quantities of the original set ; e.g.,
+a Le. of ¢; and o, cannot be improved by using the 0's, other than 4, and 4, as
+auxiliaries. This follows from (IX.) of §6, since the m.p.e. of 6, and o, is 0
+unless 7 = s.
 
-play a crucial role in our treatment of the problems (aP1,,) and (aP2). We recall from [8, Sect. 3.1]
-that (aCPy,) is called (mildly) well-posed if for every x9 € 0X there exists a unique mild solution. By [8, Thm. 3.1.12], this is equivalent to the fact that N; generates a Co-semigroup on dX.
+(vi.) If, as in § 5, there are related conjugate sets of w’s and y’s, and the d's are the
+differences of the w’s, it follows from § 5 (v.) that (=) in (ii.) above is a le. of the
+moments of the y's up to the j. (XIX.) is therefore a generalisation of the
+theorem, for a self-conjugate set, that the improved values are l.cc. of the moments ;
+and, in fact, it explains the appearance of the moments in this connexion,
 
-(aCPn, )
+9. Mean Products of Error of Improved Values.—(i.) We have found, in § 8 (iv.),
+that
 
+(ex); = (Non); Fo+ (Aa adj ort eee + Ajay
 
-(c) Operators with abstract generalized Wentzell boundary conditions
-
-Finally, in order to study the problem (aP2), we need the operator A® : D(A’) c X > X with
-abstract generalized Wentzell boundary conditions given by
-
-A®CAm, D(A®) = {f € D(Am) 0 D(B) : LAmf = Bf}. (3.2)
-
-If B=0, the boundary conditions defined in (3.2) are called pure Wentzell boundary conditions. This
-operator corresponds to the Cauchy problem
-
-i(t)=AP uf, t20,
-
-CP 4B
-u(0) = uo. (@CPav)
-
-In theorem 5.1, we will see that the problems (aP2) and (aCPys) are basically equivalent. In
-particular, this gives an interpretation of ‘Wentzell’ as ‘dynamic boundary conditions’.
+To obtain the \’s, we introduce the condition that this shall differ from d, by a Le.
+of o's after 4,.

@@ -1,18 +1,7 @@
-Thus there are O(Q?) terms in (3.4)
-when compared with the DFT representation which has N terms.
-
-(b) Relation to Ramanujan sums
-
-Recall that the Ramanujan sum is defined as in (1.1). Clearly, the Ramanujan sum cq(n) belongs to the
-Ramanujan space S,. In fact, cg(n) can be used to generate a real, integer, basis for the Ramanujan
-
-2The elements of 8, can either be regarded as length-q vectors or as infinite length vectors with elements repeating with
-period q, depending on what is more convenient in a particular context.
-
-
-space S;. Thus, it can be shown [12] that the $(q) successively shifted signals
-
-Cq(1), Cq(n — 1),...,¢q( — (9) + 1) (3.11)
-
-are linearly independent and form a basis for Sj. Since cq(n) has period q, the sequence c,(n — k)
-is a circularly right-shifted version of cq(n), the amount of shift being k samples.
+‘The maximum falls on day 81 in the
+case of the low spot latitude years, but the excess on day 81 over day 80 is hardly
+convincing. Thus, while a difference appears between the years of low and high spot
+latitude, in the direction opposite to expectations, it is small, only a fraction of a day. The difference, such as it is, tends to be discounted by the fact that the fourth secondary
+pulses from, both groups of years have their crests on day 108. It is the group of years of few sunspots that gives a crest most clearly on day 81,
+and the third secondary pulse is much better developed in this case than in any other. The group of years of many sunspots give very irregular results for both the third and
+fourth secondary pulses.

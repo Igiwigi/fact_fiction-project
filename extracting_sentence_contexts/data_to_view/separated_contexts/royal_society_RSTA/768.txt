@@ -1,14 +1,15 @@
-Discussion and outlook
+Now let us consider the tube S$ as the locus of a point whose coordinates x,y, z, ¢
+are functions of two parameters u,v. The curve C is that line on S for which, say,
+J (u,v) =0. Such a relation between wu and v corresponds to a value of the time in
+some system of coordinates (provided, of course, that Cis a time-like section). What
+we have previously called the epoch, namely, a particular relation between u and v, such
+as f (u, v) = 0, has in fact, to correspond to the time in some system of coordinates. Let C, and C, be two curves on § corresponding to the epochs 4, and 2, specified
+by fq (u, v) = 0 and fy (u, v) = 0 respectively, which in turn correspond to the times
+t, and ft, in two different systems of coordinates. If the parameters w and v are
 
-When we consider information processing in larger-scale quantum devices, it is useful to divide
-that process into two fundamental layers: a physical device layer responsible for control and
-manipulation of the ‘qubits’, and an application level layer to perform the computation/data
-manipulation (this is illustrated in figure 4 for an NV modular device). The physical layer
-can further be divided into a number of sublayers, each responsible for a different part of the
-computational system. Nonetheless, these sublayers are not completely independent of each other :
-due to the fact that we cannot control errors in the computational system with only one sublayer. [=
-This complicates the system’s error management; however, it also gives us the opportunity to 38
-manage errors even when the physical system has weaknesses. Sublayers can work together :
-to compensate weakness in the physical system (as illustrated in our previous example). The aoa)
-interaction between sublayers also complicates our attempt to optimize the overall system. :
-Optimization of one sublayer may be detrimental to another sublayer.
+normalized so that \\ du dv integrated over the uo-plane between the curves 4, and
+
+hg is equal to the area of the tube S between the curves C, and C, in general, {| du dv
+
+is invariant with respect to Lorentz transformations and is a measure of the separation
+of 2, and 2, (cf.

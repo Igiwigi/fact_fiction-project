@@ -1,10 +1,12 @@
-To calculate the minimal
-possible work, we can decompose the composite map into any sequence of thermodynamically
-reversible maps that achieves the same thing. So we can start with a (thermodynamically
-reversible) map (1) taking {a sequence of nucleotides in a DNA string plus a bath of nucleotides}
-— {that same DNA string, plus a specific sequence of nucleotides in an mRNA that is a copy
-of the DNA string, plus the remaining nucleotides in the bath}. We can suppose that after this
-map (1), there is a (many-to-one) thermodynamically reversible map (2) taking the codons in the
-mRNA to a (fictional) sequence of amino acids, formed from the amino acid bath. After this there
-is a map (3) copying that sequence of amino acids to produce our protein. Our analysis above
-considers the minimal work needed to achieve map (3).
+The slope of this straight line is 4, or, since we have seen that the population
+
+is stable, the parental correlation is 3 also. Now these results are of very singular importance. A very general theory of the
+pure gamete type leads to linearity of the regression curve, a result amply verified
+by observations on inheritance in populations ;* and this result is quite independent
+of the number of couplets supposed to form the total character of the parent, or of
+the fact that in this case the arrays of offspring are skew and do not obey the normal
+law.t Further, the value of the correlation reached is numerically identical with the
+value obtained by Francis GALron in his original investigations on the inheritance
+of stature! The generalised theory of the pure gamete is thus shown, whatever the
+number of couplets taken, to lead to precisely the chief results already obtained by those
+who have studied heredity statistically.

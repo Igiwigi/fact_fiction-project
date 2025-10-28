@@ -1,15 +1,7 @@
-The numerous simplifying assumptions used in the creation of the trusswork
-rule out any predictive capacity of the model, that cannot be used directly for quantitative
-estimates. In particular, the collagen structure here presented fully disregards the elastin and
-proteoglycan matrix, and therefore it fails to be representative of the actual behaviour
-of the stroma. As a matter of fact, the collagen structure is immersed in a deformable
-medium and connected to it by chemical bonds that allow the interaction between fibrils and
-matrix. In the view of the creation of a predictive model of the human stroma, the collagen structure
-should be connected to the elastic matrix by classical methods of computational mechanics;
-for example, (i) adopting homogenization techniques, where the structure is embedded into
-a homogenized material that preserves the features of the microstructure, making use of
-generalized tensors or pseudo-invariants [26]; or (ii) using superposition techniques where
-structural and continuum elements are combined as it is done in modelling steel bars in
-reinforced concrete. A more challenging task is the direct inclusion of the collagen structure in
-micromechanical models of the cornea, which opens the possibility to account for other physics
-to describe the material degradation and explain the weakening of the bond stiffness [39].
+Using these values of the constants, the calculated contraction in the length of an
+X-gauge when taken from vacuum to one atmosphere amounted to 0-000,000,219 of
+its length. It was estimated that the error associated with this value of the corrective
+term, due to the variations of the elastic constants quoted above, was + 0-000,000,004
+of the length concerned. The other correction was due to the fact that the vacuum
+determinations were made at an average residual air pressure of 0-020 mm. Since
+the residual pressure was the same for all vacuum determinations to within -— 0-003 mm. a flat correction was calculated and applied to the mean values of the X-gauges.

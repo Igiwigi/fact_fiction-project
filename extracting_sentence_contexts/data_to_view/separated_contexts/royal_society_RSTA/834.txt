@@ -1,12 +1,12 @@
-Then we show ¢ preserves weights too. It is worth
+In this case we have
+{{. (U'u, + m'v, + n'w,) d= = — {[. 2 as ie 8 ss ed)
 
+It is now necessary to consider at some length the contribution of the special solutions
+to F. This part of the work is complicated by the fact that the functions R,” (cos 6)
+become infinite when 6 = 0. Consider first the contribution of these solutions to i{, lu, d=. Corresponding to
 
-GieG
-
-Figure 2. Illustration of proposition 4.1.
-
-noting at this point that, even if G were a multi-graph (i.e. with possibly more than one directed
-edge from a node to another node), both G* and G* are merely graphs, and not multi-graphs (this
-is a symptom of the fact that construction of both G" and G* involves taking a line-graph, and
-not augmenting the set of edges after this action). So when showing our claimed isomorphism
-is indeed an isomorphism we know there can be at most a single edge between any two nodes. First, we find a bijection between E\B and V’, as follows.
+the value
+== CA ieee ae ne . . (8.50)
+we have, making use of (6.43),
+eae oC + us
+= C," + us.

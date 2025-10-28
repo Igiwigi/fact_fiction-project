@@ -1,9 +1,13 @@
-In
-particular, the dendritic morphologies disappeared. Nagashio & Kuribayashi [28] explained this
-finding by the fragmentation of dendrites during recalescence. In fact, microstructures of samples
-solidified at large undercoolings exhibit an equiaxed grain refined microstructure. Fragmentation
-of dendrites by a Rayleigh type instability has been found in metallic systems [36]. Karma worked
-out a model of dendrite fragmentation by a Rayleigh type instability that explains microstructural
-double transitions from equiaxed grain refined to coarse-grained dendritic at a smaller critical
-undercooling and from coarse-grained dendritic to equiaxed grain refined microstructure at a
-higher critical undercooling in alloys [37].
+As the 4(y) entries were much smaller than the /(x)
+entries in the 7<3-0 calculations, larger intervals in y were used (0-05, 0-1 or 0-2—
+an interval of 0-2 was used throughout the integration for 7> 8-0), the range of inte-
+gration being subdivided into parts so chosen that contributions to the integral sum
+from fourth and higher order differences were small and negligible respectively. No
+difficulty arises in the application of the central difference formula (3-1) in the y — 0
+region, as the table of 4(y) entries can be extended to negative values of y; but in the
+y — 7 region, the second and higher differences of ¢(y) increase rapidly, and equation
+(3-1) cannot be applied without error. This is due to the fact that when y — 7 and
+x — 2n the two functions ¢(y) and f(x) (¢(7) =f(2y)) do not join smoothly; for (y—y)#
+behaves near y = 7 like xt near x — 0, and the ¢(y) curve shows a “spur” in the neigh-
+bourhood of y — 7. This spur is apparent in curve 38a of fig. 1, and is shown on a larger
+scale in curve 3b.

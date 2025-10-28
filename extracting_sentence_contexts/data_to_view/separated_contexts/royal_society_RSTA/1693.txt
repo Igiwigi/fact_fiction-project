@@ -1,13 +1,11 @@
-To achieve the objective of stabilization we need to find conditions for which the operator
-of generates an exponentially stable semigroup on X. The ideal technique is to reformulate the
-system (2.1) into a distributed system. In fact, the above conditions on A, and G allow us to define
-the following operators:
+(3) The breaking load of a thin plate of glass having in it a sufficiently long straight
+crack normal to the applied stress, is inversely proportional to the square root of the
+length of the crack. The maximum tensile stress in the corners of the crack is more
+than ten times as great as the tensile strength of the material, as measured in an ordinary
+test. (4) The foregoing observation is in agreement with the known fact that the observed
+strength of materials is less than one-tenth of the strength deduced indirectly from
+physical data, on the assumption that the materials are isotropic. The observed
 
-Di. =(Gkern—4,))  €L(LZ), B= (&@— A-1)D, € (UW X-1),
+* W. Rosewnarn and D. Ewen, “ Intercrystalline Cohesion in Metals,” ‘ J. Inst. Metals,’ vol. 8 (1912) ;
 
-for A € p(A), respectively called Dirichlet and control operators where X_, is the extrapolation
-space defined in the introductory section and A_; : X — X is the generator of the extrapolation
-semigroup (T_1()):>0 on X_1, the extension of the semigroup (T(f));>0) to X-1. We mention that
-the operator B is independent of 1, due to the resolvent equation. Now we can write
-
-Am=A1+BG onZ.
+and W. Rosennarn and §.

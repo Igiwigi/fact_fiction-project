@@ -1,46 +1,12 @@
-Consider now an operator on C([0, T], Xo,m) given by
+|
+(10) R, =x 44 | 1 8 as ae ee ta i) +f n(n +1) n(w +1) aie
 
-t
-Qu(t) = ging(t) + I, S(t — s)P(s)u(s) ds. The argument used in theorem 3.1 to prove the continuity of the operator T can be applied again
-to establish the continuity of Q. Then, for u,v € C([0, T], Xom) we obtain
+when @, defined by
+(11) ere eee
 
-]Qu(t) — Qv(E)Ilfomj <MrLr sup |lu(s) — v(s)lltomjB — «,1) O*,
-se[0,T]
+24.60. 60
 
-and, again by induction,
-
-k-1
-Kult) — Pv(lltony MPL sup lle(s) — v(s)lltom |] BG — «i+ 1 — ieee.
-se[0,T] i-0
-
-Now, using the fact that B(x, y) = (x) "(y)/P'(x + y) and F'(y)/T'(x + y) < cyy*, x > 0, y > 00, [25,
-Inequality 6.1.47], we see, on account of i+ 1 — ik =i(1—«)+1>1 fori>0, that
-
-k-1
-
-[] 80 -«,i+1- ix) < Phd — Wek (2) (ea)
-. ~ ee Tok (k—D! .
-
-i=0
-
-Hence, for some constant Cr,
-
-l-K
-sup |Q*u(t) — Qv()llom) < | zs sup |lu(s) — v(s)lltomy-
-(k-)! se[0,T]
-
-te[0,T]
-
-
-and therefore there exists k such that Q is a contraction. Thus, the equation u = Qu has a unique
-solution u € C([0,T], Xo,m) (the uniqueness follows from the Gronwall—Henry inequality, see [16,
-Lemma 3.2]) and
-
-no—1
-
-f=u) + YS gilt)
-
-i=0
-
-is a unique solution to (3.19) satisfying the stipulated growth condition at t = 0. a
-We now give the following lemma which seems to belong to mathematical folklore. Lemma 3.4.
+is large; (10) is, in fact, an asymptotic expansion. The values of I,/H, derived from observation (§ 2.4) indicate* that, if » = 1, 8 must
+be about 8\/p, while if » > 1, « and % must be increased nearly in the ratio yw: 1.
+Computations were made for the two harmonics P,! and P,*, and values of » from 1
+to 100 were considered.t

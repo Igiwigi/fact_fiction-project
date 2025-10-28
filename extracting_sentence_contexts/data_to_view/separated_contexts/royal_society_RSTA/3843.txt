@@ -1,12 +1,10 @@
-In all cases, a linear curve fit was used
-in all cases to expand the virtual fields and the second-order polynomial was used to obtain the
-acceleration fields. These results demonstrate that temporal resolution higher than 100kfps provides a more
-reliable identification of material stiffness. This is due to the fact that the higher the acquisition
-speed, the more useful frames are obtained from the simulated sequence that can be exploited
-for reconstruction of the acceleration field (size of the temporal window) which finally results
-in a better temporal discretization of the reconstructed stress response (figure 7c). Nevertheless,
-in the case of a spalling test, the highest frame rate cannot be considered as the best solution
-owing to the limitation of the number of images obtained during one shot with an ultra-high-
-speed camera (180 images with a Kirana model and 128 with an HPV-X2). Thus, this would
-drastically decrease the measurement time and make it impossible to have images for both the
-compression and tension phases of the test.
+:
+
+Fine sand with little lapilli had formed the greater part of the material which lay
+upon the slopes. Stones of any size were very few, for when they fell they could not
+rest unless they buried themselves in the hot sand, but rolled down into the ravines. This was, in fact, one of the dangers of the ascent, as the rains had loosened many
+stones in the old agglomerates, and when once they were set in motion nothing could
+stop them till they landed in the stream hundreds of feet below. The ash, as a rule,
+held together very well when it was wet, but every now and then the pressure of the
+foot started small landslips, which tumbled down the slopes. In the deep narrow valleys which score this side of the mountain little of the new
+ash was left (see Plate 30, fig. 2).

@@ -1,18 +1,10 @@
-Note further that in the
-special case where bz = 0, so that (E) is lost at the (EI/P) boundary, the phase velocity (4.19) of a
-wave propagating in the direction n = (+1,0) becomes inversely proportional to the wavenumber
-k. The latter observation suggests that the presence of microinertia will cause high-frequency
-(large-wavenumber) disturbances to ‘almost’ stop propagating in this direction. In fact, in this
-direction the medium behaves as a Cauchy material without Cosserat effects but with non-zero
-microinertia, having a phase velocity of the form v2 =12p7lcssh po k?. An analogous conclusion
-is reached in the case where (E) is lost at the (EC/H) boundary.
+This fraction comes to be “74 for uni-con-
+stant isotropy. If we assume what I have called Love's fixing condition, the shearing deflection
+disappears entirely. The true solution shows us, therefore, that it is permissible in this case to use the
+double cantilever as an artifice to obtain the solution, provided we adopt, at the
+section of fictitious severance, a fixing condition intermediate between those of Love
+and pE SAINT-VENANT, but nearer to the latter. In other words, a central isolated
+load does actually introduce a sharp bend,
 
-(d) Time-harmonic Green’s function
-
-A time-harmonic concentrated body force Xz = S8(x)5(y) e' is applied in an infinite orthotropic
-constrained Cosserat material with microinertia subjected to antiplane deformation. This problem
-
-
-set-up allows one to determine the Green’s function for the out-of-plane displacement, which
-is derived below by employing a Fourier transformation technique sharing analogies with the
-standard technique in classical Cauchy elasticity [20].
+§ 13. Value of the Deflection when b is not small and the Beam is Doubly
+Supported.

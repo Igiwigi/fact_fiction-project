@@ -1,16 +1,11 @@
-Owing to the time-ordering of the measurement, some constraints will be satisfied in both
-classical and quantum models (or in any generalized probability theory, GPT) simply due to
-causality. Such constraints correspond to non-signalling constraints [40], but only in one direction,
-namely from the future to the past; they are sometimes called arrow of time (AoT) constraints [41]. For instance, for the case of sequences of length three, p(abc|xyz), we have
-
-> p(abe|xyz) = > pabe|xyz'), forall a,beA andall x,y,z,z/EX (4.1)
-c c
-and
-> plabe|xyz) = Y plabelxy’z’), forall ae Aandall x,y,y',z,z'€X. (4.2)
-be be
-
-These constraints encode the fact that a future choice of an input, e.g. z or z’, must not influence
-previous outputs of the box, e.g. a or b. Representing the above values as a vector (p(abc|xyz))abexyz, the set of valid correlations will be
-defined by a set of linear equalities, i.e. the AoT constraints and the normalization conditions for
-fixed inputs, together with linear inequalities, i.e. the positivity of probability. As a consequence,
-the set of valid correlations (p(abc|xyz))abcxyz forms a polytope, called the AoT polytope.
+In the present paper it is shown that there is a
+close relation between the anatomical structure of wood and the anisotropy of its
+elasticity, and that at least a partial explanation of most of its elastic properties can be
+obtained by studying this relation. It may be added that the word elastic is used here
+in its wider sense. Wood is not truly elastic in the restricted mathematical sense of
+the term, for it exhibits considerable plasticity for certain types of deformation, a fact
+which will have to be taken into account when the so-called moduli of rigidity are
+discussed. § 3. Anatomical Structure of Wood.—Microscopic examination of wood material shows
+that the structural units of wood are various types of wood-cells, the more conspicuous
+features of its structure, such as the annual layers and the medullary rays, bemg due to
+the gross arrangement of these cells.

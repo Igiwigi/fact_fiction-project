@@ -1,12 +1,17 @@
-A. Tass
+Ina similar manner it can be shown that the remaining two boundary conditions given in
+equations (16-1) are equivalent to the remaining two boundary conditions given in
+equations (14-1). 19. EQUATIONS OF MOTION AND BOUNDARY CONDITIONS FOR AN INCOMPRESSIBLE MATERIAL
 
-we use in many areas of physics to separate processes on different time scales is
-clearly much more problematic in the biological realm where the integration and
-mutual interaction among the various processes often play an essential role. A third contribution to the complexity that we observe in living systems derives
-from the fact that such systems operate at far-from-equilibrium conditions. This
-is, perhaps, most clearly demonstrated through the significant differences in the
-concentrations of different ions that the cells maintain across their plasma
-membranes. These differences allow the cells to produce the often complicated
-electrophysiological signals they need to regulate their internal processes and
+In deducing the equations of motion and boundary conditions for an incompressible
+material, we must again take account of the fact discussed in § 8, that the allowable choice
+of the components du, dv, dw of the virtual displacements is restricted by the incompressibility. If dr is a small volume element, measured in the undeformed state, we have
 
-o communicate with neighbouring cells.
+S (7) 8 =f(1) or,
+
+60-2
+
+
+486 R. 8S. RIVLIN ON LARGE ELASTIC
+
+where /(7) is an arbitrary function of 7, which may vary in form from point to point of the
+material in a continuous manner.

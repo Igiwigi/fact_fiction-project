@@ -1,15 +1,22 @@
-With the approach imagined here, we can state a much more usable property, composing
-race-free and concurrency-feature-restricted component P with a context that is not restricted, C,
-while maintaining the ability to reason about P using SC verification tools. We call this property
-component SC,
+Frequency is plotted along the vertical lines. The
 
-[P-C]c++ E [Plsc # [C]o++-
+variables YJ, }, along the other two axes. It is necessary to emphasize here that the fact that an =
+Y1
 
-Component SC strengthens the memory model that underlies P, so that with some adaptation
-we may now use SC logics like CoLoSL [32] for validating properties of P. In fact, there is a range
-of state-of-the-art concurrent logics with weaker underlying memory models (e.g. OGRA [33],
-RSL [34], FSL [35], GPS [36]). Our imagined denotational approach allows one to choose the ideal
-model for each component: strong enough to use a less intricate logic, yet weak enough to admit
-a high-performance implementation.
+that the surface runs * flat” at a certain point, and not necessarily that the density
+of the normal vibrations is a maximum at that point.t It may as often indicate a
+minimum, Nevertheless, these points form a very useful starting point for the
+consideration of where the maxima are likely to be, and are certainly associated
+with maxima in some cases, e.g., the maximum in the lower frequency branch in
+the case of one particle per cell discussed in § 2.
 
-6.
+ov
+—— = 0, means merely
+
+t Lam greatly indebted to Dr, R. Peters for some helpful discussions on this point. VOL. CCXXXVI.—A. R
+
+
+120 M. BLACKMAN
+
+For the two-dimensional lattice with two particles per cel! ($3), there are new
+points of zero gradient as compared with the simpler case (§ 2).

@@ -1,35 +1,9 @@
-Due to the aberrations, the illumination pattern projected inside the sample becomes
-distorted, which will distort the reconstruction of SR images to misleading results. Dong et al. developed SR fluorescence-assisted diffraction computational tomography (SR-
-FACT), which combines label-free three-dimensional optical diffraction tomography (ODT) with
+Thus the 13 galvanometric readings with
+a glass prism, and 6 readings with a quartz prism, in the infra-red spectrometer, gave
+the following differences between the observed and calculated rotations :—
 
-
-(a) (b) rotation
-=
-
-Uin
-
-ODT
-| —+— illumination
-
-fa
-
-aot < \ 3
-
-Uscatter —
-= => [a
-
-ODT output {a
-
-wavefront :3
-
-. q
-Utot = Uin + Uscatter
-
-SIM SIM :
-excitation emission DG
-
-Figure 1. Schematic diagram of incident light scattering in a thick sample and the SR-FACT optical system. (a) Process in which : s
-incident light scatters and produces aberrations in an inhomogeneous thick sample. (b) Dual-mode SR-FACT optical system ar)
-which can acquire the three-dimensional refractive index distribution of the entire thick sample. (Online version in colour.) a
-
-two-dimensional fluorescence Hessian SIM [21]. The optical path diagram is shown in figure 1b. The dual-mode uses the same detection objective lens to image the same cell at the same location.
+Casual errors + moe = + 0-012°/mm. Systematic error .. mous = — 0:0005°/mm. More important is the fact that, in the region of maximum sensitiveness, four readings
+with the glass prism showed a casual error of -+ 0-001°/mm. and a systematic error of
++ 0-001°/mm. at wave-lengths ranging from 16,600 to 18,600 A.U., whilst four similar
+readings with the quartz prism showed a casual error of + 0-005°/mm., and a systematic
+error of — 0-002°/mm.

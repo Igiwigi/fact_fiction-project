@@ -1,15 +1,7 @@
-Except for the
-qs006023_t007 model (which has a different lower boundary condition), the subphotospheric
-layers are dominated by ‘ridges’ of constant, strongly positive phase values (red features in
-figure 12) on a background of only slightly positive phase values (green areas). We cannot offer
-an explanation for this striking behaviour yet, merely some speculative ideas: assuming that
-the sound waves are created near the upper boundary of the convection zone, one would have
-expected a similar behaviour as in the atmosphere, just with the opposite sign, i.e. downward
-propagating acoustic waves, showing up as positive phase differences, increasing with frequency
-(from green over yellow to red). The fact that we see phase ‘ridges’ suggests an interference
-pattern, possibly caused by the reflection of the downward propagating sound waves at the
-lower boundary. These ‘ridges’ may therefore be related to the pseudo-modes [33] observed in
-the atmosphere (see also figure 11, where the modal structure of the p-modes can be followed
-beyond the acoustic cutoff frequency of about 5.5 mHz). These high-frequency pseudo-modes are
-caused by the interference of waves coming directly from the source and those being reflected
-in the solar interior [33].
+319
+
+This, together with the definition of P, (5.43), forms the criterion for stability. The
+expression (7.11) may be expected to hold for positive values of » from 0 to 1, but it
+holds over a greater range than this. It holds in fact till the second term ceases to be a
+small correction. In calculating numerical values for P it was found that this occurred,
+in the cases considered, at about the value » = — 0-5. Evaluation of the Root of As = 0 when yu is Negative.

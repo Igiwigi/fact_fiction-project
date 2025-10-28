@@ -1,35 +1,28 @@
-A state w on A(M,J) is said to be Hadamard if the corresponding two-
-point function W2) :C%°(M) x C%(M) + C defined by WO(E,f) =o(arpy(fOarp(f')) is a
-distribution in Z'(M x M) with wavefront set
-
-WE(W) CN- x Nt, @.3)
-where V+/~ is the bundle of future/past-directed null covectors on M. The set of all Hadamard
-states on A(M, J) will be denoted S(M, J). It would take us too far from our main purpose to give the definition of the wavefront set here
-(see [15] for details) but the main points are that:
-
-— the wavefront set WF(u) of a distribution u € Y’(X) on manifold X is a subset of
-the cotangent bundle T*X encoding the singular structure of u—in particular smooth [=
-distributions have empty wavefront sets; :3
-
-— under pull-backs by smooth functions the wavefront set obeys 13
-
-WE (x *u) CK*WE (ul); is
-
-— in the QFT context, the wavefront set condition (3.3) on the two-point function is sufficient : 4
-to fix the wavefront sets of all 1-point functions exactly (combining [16, Prop. 6.1] and DN
-[17]) and also ensures that the two-point function differs from the ‘Hadamard parametrix’ [sz
-by a smooth function [18]; and :B
-
-— the form of the wavefront set condition recalls the fact that Minkowski two-point .
-functions are positive frequency in the first variable and negative frequency in the
-second.*
-
-It is easily seen that S(M, J) is a state space for A(M, J). Now consider a morphism yw : (M, J) >
-(M’, J’) and a Hadamard state w € S(M’, J’). Then the n-point functions of and &/(y)*w are
-related by
-
-WO raf fn) = (AW oP (fd: Pay (fn))
-= a(S WOupyf) (LAW) Pury fo)
-= 0( Per py(Woh) <= Povey Wf) = WE haf Wohin),
-
-ie.
+We may compare the two states of the gas, as it would exist free with these
+two different volumes, and then suppose that by an ideal process the fluid environ-
+ment of the molecules is directly brought about in each case: that process will, as
+regards change of intimate molecular configuration, be essentially the same for both
+states of the gas, therefore the change of free energy due to the dilution of the solu-
+tion is simply that which corresponds to the free gaseous expansion of the dissolved
+gas.* This conclusion carries with it, by the thermodynamic principle of free or
+available energy, a theoretical proof of van’t Horr's generalization that the osmotic
+pressure of a very dilute solution is equal to the gaseous pressure of the dissolved
+molecules when they are supposed to occupy the same volume in the gaseous state. The extension of this proof to dissolved liquids and solids, which form the practically
+important case, is at first sight barred (unless it is formulated as in the footnote) by
+the fact that we cannot then actually have the molecules existing free at the same
+volume as they occupy in the dilute solution. But when the ANDREws isothermal
+for the dissolved substance is made into a continuous curve by inserting a super-
+saturated wavy part, there will always be a real point on it corresponding to the
+volume occupied by the substance thus existing in a homogeneous condition, and also
+a corresponding pressure which at the small density under consideration would prac-
+tically be that of the gaseous state: thus there would be no difficulty in the exten-
+sion to dissolved solids and liquids, were it not that this point on the isothermal
+might be on the thoroughly unstable reach, along which rise of density corresponds
+to fall of pressure, so that any slight accidental inequality of density would be spon-
+taneously increased. The successful use made of the ANDREWS diagram for numerical
+calculation of the properties of substances by Van per WAALS shows however that
+its physical reality is not destroyed by this instability : and when it is remembered
+that instability can be theoretically removed by slight constraint which does not
+sensibly affect the material transformations and does not affect the energy relations
+at all, it will appear that there is good reason for generalizing the law of osmotic
+pressure above demonstrated for gases.

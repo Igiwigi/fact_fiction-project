@@ -1,18 +1,13 @@
-The dashed lines in each plot represent the synthetic profiles output by SIR
-upon inversion for each profile. Visual inspection of the profiles with the R? and NSE values
-suggests that the spectra are reproduced accurately by SIR even in the scenario were significant
-asymmetries are introduced by the effect of wave propagation on the spectra.
+1 dx
+A sai) sail peaeg eS ot tameeTas
 
-(c) Comparison of model parameters
+Bee et eae ae ee ge
 
-When we were confident that SIR is able to return accurate synthetic profiles for the Stokes-I
-and -V spectra for both the 1000G and 1600G simulations, we turned our attention to the
-success of the output models from SIR with respect to the original simulations. A well-fit profile
-from inversions does not necessarily mean that the output model atmosphere is an accurate
-representation of the actual solar atmosphere, as this can be affected by the choice of initial guess
-model and node values for the various parameters being fit and the fact that the inversion problem
-does not need to have a unique solution. We are in a unique position here, as we have the original
-simulations to compare with the output model from the inversions, however, we wished to treat
-this test as an observer would, which is why we matched common inversion regimes in inverting
-the data. In analysing the outputs, we used similar techniques in comparing the inversion output
-to the original simulation in each time-step.
+By the method of moments, this should be given by the first moment, that is by the
+mean of the observations: such would seem to be at least a good estimate. It is,
+however, entirely valueless. he distribution of the mean of such samples is in fact the
+same, identically, as that of a single observation. In taking the mean of 100 values of
+x, we are no nearer obtaining the value of m than if we had chosen any value of « out
+of the 100. The problem, however, is not in the least an impracticable one: clearly
+from a large sample we ought to be able to estimate the centre of the distribution with
+some precision ; the mean, however, is an entirely useless statistic for the purpose.

@@ -1,19 +1,14 @@
-Sound pressure level, relative to free-field sound propagation (in dB), over flat rigid ground in a dense receiver grid. : ~
-(a) GFPE results using an analytical starting field are depicted and (6) the (full) analytical solution (validation case ). (Online =
-version in colour.)
-
-100 »=6150 «200s 250's300'—«i350'—«‘«d0-—“(ié‘édSsC(ié‘SOS«*SS;OV
-r(m)
-
-Figure 7. Sound pressure level difference (in dB) between GFPE predictions starting from an analytically constructed starting
-field and the full analytical solution for sound propagation over flat rigid ground (validation case C). (Online version in colour.)
-
-similar remarks as for validation case A could be made regarding the angle limitation in PE
-close to the source, and regarding the magnitude of the destructive interferences. Other (small)
-differences might come from the fact that the FDTD is a full-wave technique, including backward
-scattering which is fully neglected in the forward-stepping GFPE approach, from the stair-step
-approach in FDTD, and from the fact that there will be small phase errors that are inherent to
-the FDTD technique [34]. Validation cases A and B further show the accuracy of the equivalence
-between a point source and coherent line source solutions in such complex geometries when
-expressing results relative to free-field sound propagation (see §2a). Validation case C (figures 6 and 7) shows excellent agreement between the analytical solution
-applied to a dense receiver grid and the analytical starter propagated further with GFPE.
+As these cells are the originals from which
+=the temperature formulz already given were obtained, the constancy of the E.M.F.
+aintained to the present time is a matter of some surprise, considering the severe
+treatment they were subjected to during our earlier experiments. They were made
+Zin the generally accepted way in a test-tube, and sealed by means of a cork, on the
+top of which marine glue was melted. The life of such a cell is necessarily dependent
+Son the speed with which the crystals commence to dry, and this fact has been raised
+Bagainst the use of moist crystals in place of a saturated solution. I have found
+“S however, that in point of usefulness our crystal cells have outlived several cells with
+gsaturated solution which were made at the same time. It appears that the crystals
+‘Bretain the moisture more tenaciously than the saturated solution does, so that whereas
+‘Ba solution may be reduced to one-third of its original bulk, with deposition of
+Eerystals, a mass of crystals retains its moisture without diminishing in bulk or
+A uncovering the zinc rod.

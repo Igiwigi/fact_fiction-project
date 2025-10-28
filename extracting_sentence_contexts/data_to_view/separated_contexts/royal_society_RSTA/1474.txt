@@ -1,14 +1,13 @@
-N controls the number of features available for the linear regression used to solve for
-Wout, Where the features come from the projected inputs Winx, further compounded with A every
-update. Thus, we expect that below a critical N the span of the features will be insufficient to
-fit the dynamics at all, with the span of the features saturating with large N (as all features
-originally come from inputs x). This is in fact exactly what we see in figure 3a: performance
-quickly improves up until about N = 50, and then improvement asymptotes as N continues to get
-larger.
+‘The tube was laid along the arm, and was connected to the manometer
+through a double mercury seal placed at the upper end of the central shaft. As in the
+spinning experiment, it was necessary to take observations of temperature and barometric
+pressure in order to determine p. ‘The temperature variations in this case were of some
 
-(iii) Reservoir unit nonlinearity o is not necessary for good generalization
+importance owing to seasonal effects, which were accentuated by the fact that the arm
+is housed in a corrugated iron building. It was found, after a complete investigation
 
-Next, we examine the effect of changing the unit activation function o = tanh which is applied
-to units at every update. The activation function (compounded throughout each time step)
-is supposed to provide a critical nonlinearity to the reservoir’s features. This nonlinearity is
-proposed to be the key reason why ESNs are able to model a wide variety of systems well.
+
+244 R. JONES ON THE DISTRIBUTION OF
+
+with and without the spheroid in position, that the speed of the arm through the air was
+approximately 7 per cent. less than the speed over the ground.

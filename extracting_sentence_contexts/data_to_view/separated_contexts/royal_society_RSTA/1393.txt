@@ -1,9 +1,8 @@
-Fortunately, the mechanical part of the problem admitted extreme mass scaling of
-using 10000-fold density (even 100 000-fold with a minor error), which increased the critical time
-step to 100-fold allowing practically convenient solution times. It is the relatively low loading rate
-nature of the thermal loading that renders the mechanical part amenable to mass scaling. The 3D simulations of the thermal jet drilling corroborated the already experimentally
-established fact that this method is a viable one with granite rock. Rock heterogeneity has a
-significant effect in facilitating the underlying thermal spallation phenomenon. More precisely, a
-test simulation using a heat flux, modelling a thermal jet with 10 mm of radius, with an intensity
-of 3 MWm~ and a duration of 0.1s, followed by 0.1s natural cooling phase, showed that
-the significant rate of penetration, approximately 300mm min~!, can be theoretically achieved.
+We shall therefore have to bear the faults
+of the classification in mind in deciding what transformations are the most general. We proceed now to an individual discussion of all the most general transformations
+and of some specially interesting particular cases besides ; and we shall find the reverse
+transformation in each case. In addition we shall illustrate the usefulness of the work
+by deriving some geometrical facts of quite general interest. Notation.—For purposes of reference we introduce a more systematic notation for
+the transformations. We shall use the symbol {2, 7, n} to denote a quadric transforma-
+tion in which the ®-surfaces and ’-surfaces are of order r, and of which the reverse
+transformation is of order x.

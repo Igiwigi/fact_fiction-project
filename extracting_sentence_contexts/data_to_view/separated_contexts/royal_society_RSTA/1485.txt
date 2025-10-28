@@ -1,11 +1,19 @@
-Images were recorded with a CCD camera (ORCA R2,
-Hamamatsu). Advance of bitplanes in the SLM running order was again initiated by TTL signals
-from the camera, but in this case repeated through a microcontroller (Arduino Mega 2560) to
-improve the fast-switching TTL signal at high frame rates. One limitation of this system stems
-from the reduced triggering functionality of the camera and the fact that the camera controller
-continually emitted a heartbeat of HIGH to LOW TTL signals independently of image acquisition. This meant it was not possible to reset the running order of SLM bitplanes at the start of each
-image acquisition resulting in a variable ordering of raw images in each SIM image sequence. To
-accommodate this, each image sequence was reordered post-capture as a first step in the image
-reconstruction process.
+145
 
-6.
+Ff, the characteristic ratio of H being real and rational ; then, in general, there branches
+from the family JF at S a family of ordinary periodic solutions, for which the period
+tends continuously in the neighbourhood of & to an integral multiple of the period of S.
+Exceptionally, however—i.e., at isolated members of the family S*—there may branch
+a finite number of singly-infinite families of singular periodic solutions instead of one
+doubly-infinite family of ordinary periodic solutions. The most striking result of the investigation which follows is that for fourth order
+Hamiltonian systems in general, the periodic solutions are in general “ singular” : they
+satisfy in general the above definition in that they occur in singly-infinite families and
+have their characteristic ratio in general non-zero. We show, in fact, that any periodic
+solution & belongs in general to a singly-infinite family J, along which the period and
+the characteristic ratio vary continuously, and that if & has its characteristic ratio
+real and rational, there branch in general from JF at S a finite number of singly-
+infinite families (in general two) of periodic solutions, along which also the period and
+the characteristic ratio vary continuously. This result indicates that Hamiltonian systems of equations may be divided into two
+categories according to the nature of their periodic solutions. For systems of the first
+category the periodic solutions are in general “ ordinary”: such systems may be appro-
+priately described as soluble since apparently all readily soluble systems are here included.

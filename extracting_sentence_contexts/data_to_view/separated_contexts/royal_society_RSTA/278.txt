@@ -1,9 +1,22 @@
-By exploiting a fine pulse
-control and free evolution with J-coupling, a universal set of quantum logic gates
-can be designed. Particularly important are pulse sequences that implement the
-QST, for both spin 1/2 and quadrupole nuclei [1]. The two earlier-mentioned facts are the very basis of NMR-QIP, and work
-extremely well for two-qubit quantum computers. But as the number of qubits
-increases, things rapidly become complicated. One of the main challenges in
-current research on NMR-QIP concerns the design of special pulse sequences
-and, for that, powerful techniques have been developed: strong modulating pulses
-and gradient ascent pulse engineering (GRAPE).
+It may be noticed that in tensor calculus (Eddington 1923, p. 111), when a tensor is
+converted into a tensor density, a factor 1/ Vg is introduced, and a factor /g is alwz vys intro-
+duced when a tensor is integrated diecuah a volume. The necessity for the introduction of
+such an irrational expression as ,/g would be otherwise difficult to explain, but it is clear that
+the presence of this factor is really indicative of the presence of the alternating tensor. In fact, if the element of volume is a generalized parallelepiped with edges 4, x,, 3, ,,
+6%; then the volume dV of this element is given by
+
+BV = Bim ind x, dy,
+
+which shows the appropriate position of the alternating tensor in an integration formula. It is a characteristic property of the alte rnating tensor when taken over the orthogonal
+
+group, i.e. the group of transformations which leave the metric tensor invariant, that it is
+
+invariant for a proper rotation, but is changed in sign by an improper rotation, i.e. an
+
+
+320 : D. E. LITTLEWOOD ON
+
+orthogonal transformation of negative determinant. This property is shared by any expres-
+sion giving the volume ofa region, and this confirms that the integration over a volume should
+
+properly involve the alternating tensor.

@@ -1,15 +1,19 @@
-Any p x p real symmetric matrix, such as a covariance matrix S, has exactly p real eigenvalues,
-Ax (k=1,...,p), and their corresponding eigenvectors can be defined to form an orthonormal set
-of vectors, ie. a,ay =1 if k=’ and zero otherwise. A Lagrange multipliers approach, with the
-added restrictions of orthogonality of different coefficient vectors, can also be used to show that
-the full set of eigenvectors of S are the solutions to the problem of obtaining up to p new linear
-combinations Xa, = a kX, which successively maximize variance, subject to uncorrelatedness :
-with previous linear combinations [4]. Uncorrelatedness results from the fact that the covariance :=
-
-between two such linear combinations, Xax and Xay,, is given by aj, Sax = Agaj,ay = O if k’ Ak. Sy
-
-It is these linear combinations Xa, that are called the principal components of the dataset, 2
-although some authors confusingly also use the term ‘principal components’ when referring aed
-to the eigenvectors ax. In standard PCA terminology, the elements of the eigenvectors ax are _
-commonly called the PC loadings, whereas the elements of the linear combinations Xa, are called : 8
-the PC scores, as they are the values that each individual would score on a given PC.
+i, INTRODUCTION. a
+Py the year 1786 Ertanp Samuet Brine, Professor at the University of Lund in
+Sweden, showed how by an extension of the method of TscHiRNHAUSEN it was
+PPssible to deprive the general algebraical equation of the 5th degree of three of its
+terms without solving an equation higher than the 3rd degree. By a well-understood,
+‘However singular, academical fiction, this discovery was ascribed by him to one of his
+‘own pupils, a certain SVEN Gustar SomMe.tus, and embodied in a thesis humbly
+Submitted to himself for approval by that pupil, as a preliminary to his obtaining his
+‘degree of Doctor of Philosophy in the University.* The process for effecting this
+Seduction seems to have been overlooked or forgotten, and was subsequently re-dis-
+govered many years later by Mr. Jerrarp. In a report contained in the ‘ Proceedings
+of the British Association’ for 1836, Sir Wrnt1Am Haminron showed that Mr. JerrarD
+Has mistaken in supposing that the method was adequate to taking away more than
+three terms of the equation of the 5th degree, but supplemented this somewhat
+‘dannecessary refutation of a result, known & priori to be impossible, by an extremely
+Baluable discussion of a question raised by Mr. Jerrarp as to the number of
+Sariables required in order that any system of equations of given degrees in those
+Zriables shall admit of being satisfied without solving any equation of a degree
+Ghigher than the highest of the given degrees.

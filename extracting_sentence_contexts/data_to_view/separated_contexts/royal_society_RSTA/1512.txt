@@ -1,11 +1,18 @@
-To compare different reconstruction methods to classical widefield fluorescence data :8
-(figure 4e), we use three different reconstruction algorithms: : S
+The wave-lengths given by Huprers for the three other cadmium lines which are
+included in our new series of readings lead to differences of +7, +9 and +2
 
-1. Super confocal imaging [28]: Here, the stack is processed by applying maxz(Istack(Z)) +
-minz(Istack(Z)) — 2*meanz(Istack(Z)). It exploits the fact that a sample position in ISM is
-most of the time not illuminated when in focus in this sparse illumination scheme. This
-successfully reduces background contributions and offers a fast and simple way to obtain
-good sectioning (figure 4f).
+between the observed and calculated rotations; these differences are larger than
+those recorded for the corresponding section of the iron-arc spectrum, but they are
+small enough to indicate that the wave-lengths given by Huppers are again
+substantially correct. (iii) Silver.—The six silver lines of the old series of readings are all beyond the limits
+covered by the standard interferometer readings of the iron arc, and the published
+wave-lengths are grossly divergent. We have, therefore, again been unable to use them
+to check the validity of our formule ; but, in view of the fact that these formule have been
+proved to be valid over the whole range from 25,000 to 2373 A.U., there did not appear to
+be any serious risk in using them for extrapolation over a further range of 100 A.U. The
+wave-lengths which we have calculated on this basis agree very well with the values of
+Hupprrs, when these are diminished by 0-08 A.U., in accord with the known correction
+on Rowxanps’ wave-lengths in this part of the spectrum. We, therefore, conclude that
+these wave-lengths (which are approximately the mean of the values given by Frrines
 
-2. Classical ISM photon reassignment: We base our algorithm on work by McGregor eft al.
-[20].
+and by Huppsrs) are substantially correct. * ° Bur.

@@ -1,6 +1,15 @@
-A classic example is the lac operon, which is regulated by both a repressor and an activator [20]. In eukaryotes, a single gene could be regulated by dozens of proteins. It is a remarkable fact that,
-using only thermodynamic constraints of the type we have considered, a promoter can be made to
-perform a variety of mathematical operations on its regulatory inputs. Specifically, the probability
-of occurrence of the transcriptionally active promoter configuration can be a complicated function
-of the concentration of various transcription factors [21-26]. These concentrations can themselves
-change over time owing to regulation of the genes encoding the transcription factors.
+The next two sections
+describe and illustrate methods of obtaining and using the necessary finite-difference
+equations for boundary conditions of the type (I.4) or (I.5), when the boundaries are
+rectangular. There is at present no completely satisfactory method of dealing with curved
+boundaries; some possibilities are discussed in § 4.
+
+2. Rectangular boundaries
+
+The importance of rectangular boundaries lies in the fact that the normal to the boundary
+is always in the direction of one of the mesh lines. In this case only is it possible to establish
+without difficulty finite-difference formulae, for points on or adjacent to the boundary,
+which will satisfy both the differential equation (of type I.2) and the boundary condition
+(of type I. 4 or I.5). Ficure 1
+
+Consider, for example, the mesh of figure 1, in which the boundary is a line of nodal points.

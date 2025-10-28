@@ -1,12 +1,15 @@
-The DP mixture of Gaussians is considered for model-
-based clustering with different choices of the concentration parameter a. The box plots display variability in the estimates across
-the 50 replicated datasets, with colour corresponding to a sample size of n = 100, 200 or 500. (a) Marginal mode of k. (6) MAP
-clustering. (c) Binder clustering. (d) VI clustering. (Online version in colour.)
+For, while it is clear that d A2z/dx must exceed Az in the
+ratio 1/6 at least, it is easily seen that the ratio may be greater if the terms in the
 
-we, however, empirically observe a different behaviour when incorporating uncertainty on the
-within cluster variance. In fact, the MAP clustering (figure 4b) contains only a single cluster in
-almost all replicates and is robust to the choice of a. Again, the marginal posterior on k (figure 4a)
-and the Binder clustering (figure 4c) are quite sensitive to the value of a, with the Binder clustering
-extremely overestimating the number of clusters for larger n and w. The VI clustering (figure 4d)
-contains only a single clustering in some replications, and in others contains two to four clusters,
-particularly for larger sample sizes.
+
+MINIMA SOLUTIONS IN THE CALCULUS OF VARIATIONS. 125
+
+integral change sign rapidly. In fact, if the order of dAz/dx, is unity, and its
+fluctuations recur at intervals of order 8", then the terms in the integral
+ma dAz
+
+will cancel, provided «, — x,’= mB", m being any integer ; and so the integration up
+to any point can only contain terms of the order 6". Moreover, since, if any function
+is periodic with respect to any variable, all its fluxions with respect to that variable
+are of the same period, it follows that, if one differentiation introduces a coefficient of
+athe order B~", two will bring in B~™*, and so on. S

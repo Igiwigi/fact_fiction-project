@@ -1,10 +1,11 @@
-These norm differences, one for each supercell, are compared (in Ly
-or Lo), to give an overall norm of the difference of PDF/CDF. We find convergence or converging
-trends under mesh refinement, with the order of convergence depending on the supercell size. From this fact, we conclude that the primary error is related to the statistical sample size as an
-approximation to the PDF/CDE, rather than being mesh related. These facts are illustrated with a
-table extracted from Kaman et al. [17] (table 1).
+It follows from their results that
+the light of the streamers in the spark is entirely produced by the glowing of the
+metallic vapour of the electrodes, and that, while the luminosity of the air is practically
+instantaneous in its occurrence, that due to the metal vapour occurs in the centre of
+the spark gap an appreciable time later than near the poles. The actual process which goes on in the spark and gives rise to this delay in the
+arrival of the metallic vapour at the centre of the gap is not yet thoroughly
+understood. Scnuster and Hemsatecu make the natural supposition that it is due
+to the fact that the metal of the electrode is vaporised and rendered incandescent by
+the heat of the spark, and that the vapour takes an appreciable time to diffuse from
 
-5. An application programming interface for front tracking
-
-Having argued that FT/LES/SGS has desirable properties for the study of turbulent mixing, we
-turn to the question of the availability of this technology to others.
+* ©Pogg. Ann.,’ vol. 116, p. 132 (1862). t ‘Phil.

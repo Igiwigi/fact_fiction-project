@@ -1,11 +1,8 @@
-However, as for the liver dataset, the differences between KIGAN and RefineGAN has not been : 3
-found significant. This might be attributed to the fact that the thickness of the liver dataset was : s
-different, i.e. thicker compared to other datasets. : S
+Generators of Q of one system correspond to trisecant planes of ¢, which pass through P.
+Such generators are projections of @-planes of 2 which pass through P’. Each of the
+corresponding trisecant planes contains four base points of ®, and conics through these
 
-As shown in electronic supplementary material, figure S4, the PSNR loss curve can represent Ff
-the convergence speed. DAGAN has converged quickly, which is related to the fact that the : a
-calculation of its loss function is the simplest compared to other three GAN-based methods. : =
-RefineGAN has converged slowly but has demonstrated the best results. We analysed the size : =
-of each generator of the four GAN models to understand the potential cost to apply well- 1B
-trained models in practice. Note that the discriminators and pre-trained VGG was not counted : =
-in the model size, because they were only required for training.
+* A general @’-surface can, in fact, be represented on the plane @ by cubic curves through A,, ..., As
+and we can take c, to be represented by a quartic curve with double points at A,, Ao, A, and passing through
+A,and A,. The points A,, Ay and A, and the line A,A, will then represent lines of the ’-surface which
+are chords of ¢,.

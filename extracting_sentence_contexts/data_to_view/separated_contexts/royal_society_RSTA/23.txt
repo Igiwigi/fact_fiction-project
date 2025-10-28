@@ -1,17 +1,12 @@
-Genes above the red horizontal line are identified
-as differentially expressed across the clusters. (b) Visualization of the clustering estimate in the two-dimensional space obtained
-through t-distributed stochastic neighbour embedding (t-SNE [139]) of the high-dimensional data. (c) Uncertainty in clustering
-characterized by the posterior similarity matrix. (Online version in colour.)
+Hence,
+a )
+— | de\yy
+ae) dn) |
+dar \y,/_I
 
-properties and developments have led to the huge growth and adoption of BNP mixtures,
-especially DP mixtures, for a variety of applications in statistics and machine learning in the
-twenty-first century. However, this enthusiasm was dampened by the negative results of Miller & Harrison
-[145,146] that provided a simple example in which the posterior on the number of non-empty
-components in DP mixtures is inconsistent when true number is finite. In fact, the posterior
-is demonstrated to be severely inconsistent, as the posterior probability that the number of
-non-empty components equals the truth asymptotically tends to zero. This is in contrast to
-overfitted mixtures, which asymptotically prune extra components [95,118], and MFM which
-yield consistent estimates for the number of components [147,148]. While overfitted mixtures can
-be viewed as truncated approximations to DP mixtures, this seemingly contradictory result can
-be explained by noting that BNP mixtures are misspecified when the true number of components.
-is finite, and in this case, the true density lies at the boundary of the prior support [147].
+and similarly for the remainder. As nothing hangs on the discussion of these quantities, it is not worth
+writing out any more. In fact, the only application of the investigation to the present case would be to
+show that the transformations in Art. 9 are always possible, provided a sufficiently short length of the curve
+be taken ; that is, to show that it is always possible to choose %» %9, 23, &c., so that none of them vanish
+for any value of x between the limits of integration. But it is easier to see that this is, in general, the
+case from the equations obtained for 1) 2a) #3, &e., in the course of the transformations themselves.

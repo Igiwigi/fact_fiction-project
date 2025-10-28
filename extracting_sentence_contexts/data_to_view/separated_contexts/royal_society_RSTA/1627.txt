@@ -1,10 +1,12 @@
-Since the
-action of the non-ideal effects, such as ambipolar diffusion, is supposed to increase toward small
-scales, the observed behaviour must be related to the dissipation of small-scale vorticity motions. Unlike that, the absorption bands at heights above 500 km peak at lower frequencies. This fact is
-indicative of the overall reorganization of the magnetic structure being responsible for the lack of
-the vorticity in the AMBI simulations. The simulations with the Hall effect show an excess of vorticity above 500 km both relative to
-the BATT and AMBI simulations up to a factor 2. The dependence of this excess on frequency
+Q,R? is approximately satisfied in a viscous fluid, but that Ray ercu’s
+result is not true for the case when the two cylinders are rotating in opposite directions. The experiments also indicated that the type of disturbance which is formed when
+instability occurs is symmetrical. These results encouraged me to embark on the
+complicated problem of trying to calculate the possible symmetrical disturbances of a
+viscous liquid contained between two rotating cylinders, and at the same time I started
+to construct an apparatus for observing as accurately as possible the conditions under
+which instability arises,
 
-
-shows a weak maximum at low frequencies, and therefore is indicative of global magnetic
-structure changes.
+The complexity of the mathematical problem arises from the fact that it is necessary
+to obtain a three-dimensional solution of the equations of motion in which all three
+components of velocity vanish at both the cylindrical boundaries. Stability for Symmetrical Disturbances. Before proceeding to the details of the solution of the problem it may be helpful to
+readers to give a list of the symbols employed.

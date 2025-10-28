@@ -1,9 +1,11 @@
-In view of operational systems, it should be noted that the proposed algorithm relies on two
-existing DA and NNs training techniques that both scale well to high-dimensions (e.g. [41,42]). In principle, the present algorithm can be applied to larger and more realistic problems. In
-particular, the fact that the method does not rely on the adjoint of the truncated model is an
-advantage in terms of code maintenance. However, we foresee some practical challenges: for
-instance, the computational architecture and the data types used for physics-based numerical
-models and for ML algorithms can be very different (e.g. multi-core supercomputers and graphics
-processing units). Training and running hybrid models efficiently imposes heavy requirements
-on both the hardware and software and may come with an overhead even if some tools are very
-promising [43].
+‘This involved much repetition of observations in order to establish
+results, and further complications were introduced, first by Ni 16, which in the early
+stages gave one discordant result out of a number of very concordant ones, and later
+manifested curious and unexplained changes in length, and secondly by changes in the
+basic values accepted for the B.I.P.M. standards. A description of this work, showing how the divergence was eventually reduced to
+small but not entirely negligible proportions is given below , the facts being recorded for
+convenience in chronological order. Tasie I1.—The Lengths of the Metre Intervals of Ni 184. |
+
+Length at 62° F.
+
+| OM35

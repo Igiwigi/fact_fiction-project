@@ -1,27 +1,20 @@
-In meteorology, Q 4 0 would be 4D-VAR with a weak constraint
-[9,10]. ‘Weak’ here indicates that the drift model is not treated as correct. In this case, we have to proceed in an explicitly Bayesian fashion, because (2.12) is effectively a
-highly structured prior on X, and the posterior distribution will be a conjunction of the constraints
-in the likelihood and the prior,
+But in the Mediter-
+ranean area volcanic action has introduced .a disturbing element, which no longer
+allows of uniformity of level being accepted as contributory evidence of contemporaneity
+of upheaval ; and where we have no other evidence, altitude alone cannot be taken as
+a proof of age. This renders the age of some of the beaches in Sardinia and Corsica
+uncertain,
 
-r(x | 2°PS) oc w(x, 295) = L(x) (x | x0) 1 (X0)- (3.5) : a)
+In Sicily there is, in fact, proof of considerable uplifts in recent times, According
+to Signor Gzmmxnaro,t there are on the coast of Catania several zones of sea-levels
+on lava-streams of known date. In one case, the lava-stream of the year 1169 has |
+* adhering to it a coarse shelly sand, in which may be distinguished, almost ina normal
+position, Cyprea lucida” and other shells, at a height of 6 to 7 feet above the sea-
+level, At another spot he found blocks of lava encrusted by Serpule, at a height
+of 45 feet.{ This he considered to be the greatest elevation the coast had undergone t
+during the present period,
 
-This is a generalization of the Q = 0 case in the sense that as Q > 0, so x becomes a deterministic : a
-function of xg, and (x | x9) becomes a Dirac 5-function. : 2
-It is easy to see that the problem becomes harder when we allow for structural uncertainty, 8
-
-in situations where there is sensitive dependence on initial conditions and an attractor (now a : &
-random attractor). This is implicit in the fact that this case is a generalization of the previous case, 1S
-but with many more uncertain quantities. 3
-For ease of comparison, continue to focus on learning Xo, using the integrated likelihood : =
-
-K(xo) =| Le m(x |X) dx. (3.6a)
-
-In the simplest treatment, this integral can be approximated with a finite sample of size m,
-
-m . K(xo) © K(xo) = m7! > Lae?), x ig m(x| Xo). (3.6b)
-j=l
-
-For each xo, each candidate trajectory x” will typically approach the attractor, which also contains
-the measurements. Therefore, each candidate will run into some of the measurements by chance,
-exactly as before (with the problem being more acute if not all components of the state vector
-are measured).
+Of bone caves there is one with traces of a Raised Beach 70 feet above sea-level log
+two miles north of Syracuse, The cave contained remains of Elephant, Hippo-
+potamus, &e. A bone breccia, which Dr, Curistre classed with that of San Ciro,
+extended from the entrance to some distance at the base of the cliff.

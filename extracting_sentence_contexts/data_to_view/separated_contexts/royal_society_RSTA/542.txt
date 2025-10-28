@@ -1,10 +1,16 @@
-Another reason could be that when
-bubbles are released as large streams, they might interact with each other creating acoustical
-coupling; this could potentially decrease the sonar return signal (backscatter) [32]. A number of
-uncertainties exist in the quantitative assessment of bubble-transported CH, fluxes, because the
-gas exchange between bubbles and water depends on bubble size, shape, bubble rise velocity as
-well as on varying properties of seawater [33]. One such uncertainty springs from the fact that the
-ability of single-beam sonar to capture seeps outside the area covered by the beam is limited. To
-minimize this uncertainty, coverage of 13-40% was achieved during in-depth studies of chosen
-seep fields (electronic supplementary material, figure 54). Another uncertainty is related to the
-sporadic nature of seeps and flares, which causes high temporal variability of CHg fluxes [23,24].
+represents the distribution of illumination over the diffracting screen, averaged
+over systems; in the case we have previously considered, where the screen was delimited
+
+by a stop, | E(x) |? is uniform inside the stop and zero outside, in other cases | E(x) |? might
+76-2
+
+
+590 H. G. BOOKER, J. A. RATCLIFFE AND D. H. SHINN ON THE
+
+be a function representing the fact that all systems were illuminated by a non-uniform beam
+of parallel light. Equation (20) then tells us that the average auto-correlation function p,(c) within
+the angular spectrum is proportional to the Fourier transform of the average distribution | E(x) \* over the
+diffracting screens. But the Fourier transform of | E(x) |? also represents the angular spectrum produced by
+a distribution of field which has this same form, and we therefore deduce that the auto-
+correlation function within the angular spectrum has the same form as the angular spectrum
+which would be produced by the distribution of illumination given by | E(x) |*.

@@ -1,12 +1,13 @@
-A central configuration is an arrangement of the n-point masses whose
-configuration vector satisfies VU(q) + AMq = 0 for some real constant A. This is clearly a special case of the relative equilibrium condition (4.11), with @* = Aly. In fact,
-as we note below, for @ = (@1,@2) € SO(2)xy x SO(2)zw, we have = diag(—ot, -o, -0, —w%). Thus, qo is a central configuration if and only if qo is a relative equilibrium with group velocity
-@ = (,) with —w? =A.
-
-(c) Collinear relative equilibria
-An n-point collinear configuration, for some n > 1, is one satisfying
-qj =Aj40, (4.12)
-
-for some Aj #0 for every j =1,2,...,n, all distinct, and qo € R}, qo £0. Recall the relative equilibrium condition (4.11):
-
-Vvj;U(q) = = mje qj for allj=1...n.
+It has been the custom to record the intensities of spectrum lines on an arbitrary
+scale, ranging generally from 10 for the strongest lines to 1 or 0 for the weakest. The intensities have usually been assigned purely at the discretion of the observer,
+and without much regard to the conditions of observation, whether visual or
+photographic. In any case, the apparent intensities are affected by the optical
+system by means of which the spectrum is produced, and whereas in visual
+observations the sensitiveness of the eye to different wave-lengths should be taken
+into account, matters are even more complicated in the case of photographs of spectra,
+where the sensibility of the photographic plate varies very considerably with the
+wave-length in a manner which is not precisely defined, and which appears in fact to
+be toa great extent irregular. These remarks apply to the visible and ultra-violet
+regions of the spectrum. Measurements in the infra-red are usually carried out with
+the thermopile or bolometer, and in this case quantitative measurements of the
+intensities of lines are obtained.

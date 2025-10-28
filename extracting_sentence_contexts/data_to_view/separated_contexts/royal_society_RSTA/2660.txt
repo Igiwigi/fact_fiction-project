@@ -1,25 +1,17 @@
-The whole system is then divided up into 100 different grid cells, each
-containing 20 x 20 elements, and the scaling coefficient B is calculated for the activity on each
-different grid cell, by a least-squares fit to the rank size distribution. Similar results are also found
-if the maximum-likelihood estimator (MLE) method [31] is used. The limitations in the resolution (both spatial and temporal) come from the facts that (i) the
-locations of individual avalanches are imprecisely known, as the exact locations are convolved
-with a mask of size ¢, and (ii) the system is divided into several (in this case 100) observation
-boxes. It is important to note that the observation of a ‘subsample’ within the whole sample is not
+*
 
-
-(b)
-
-2.1 $
-$
-19 $
-$
-Bia é
->
-1.5
-o
-1 1.3
-107! 1 10 0.5 0.6 0.7 0.8 0.9 1.0
-size of avalanche, Si, S
-a=)
-Figure 2. Avalanche statistics for uniform systems, where s; = s) = 5, show scale-free behaviour. (a) When arranged in rank [=
-by size, the distribution of avalanches shows a power-law tail.
+A more serious weakness in the existing theory of elastic stability, when regarded
+from the mathematical standpoint, is the fact that the methods which it employs are
+admittedly only approximate. The higher the elastic limit} of the material under
+consideration, the less adequate are these methods to deal with the whole range of
+problems which should come within its scope. In fact, we are faced with the
+anomaly that, while in its ordinary applications the theory of elasticity is not
+concerned with the conception of an elastic limit, in questions of stability the
+existence of finite limits is an essential condition for the adequacy of its results. In
+an ideal material, possessing perfect elasticity combined with unlimited strength,
+types of instability could occur with which existing methods would be quite
+insuflicient to deal. The theory of elastic stability is thus in much the same position as that of the
+ordinary theory of elasticity before the discovery of the general equations, and one
+aim of the present paper is to remedy its defects by the investigation of general
+equations, which may be termed “ Equations of Neutral Equilibrium,” and which
+express the condition that a given configuration may be one of limiting equilibrium.

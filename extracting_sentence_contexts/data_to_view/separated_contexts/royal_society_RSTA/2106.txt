@@ -1,24 +1,14 @@
-By choosing the zero phase ¢ =0 as the reference phase, uj(¢) is given by a
-transformation of uj(0) with the matrix 5) common to all /:
+‘The effect of confining the sound-wave to a conical trumpet
+tends to enhance the formation of a discontinuity. The superiority of the short
+trumpets employed in practice would seem to be due to the fact that conditions are
+so adjusted that, while the advantage of resonance is obtained, discontinuity does not
+form before the wave has emerged into the free atmosphere, when more rapid
+divergence precludes the further possibility of discontinuity taking place. The fact
+that in a siren the wave is carried forward by air moving with considerable velocity
+would tend to retard the formation of the discontinuity and probably increase the
 
-u(¢) = $(¢)u;(0). (3.15)
 
-Clearly, there is also a corresponding relation for the left-eigenvectors:
+ATMOSPHERE AND THE ACOUSTIC EFFICIENCY OF FOG-SIGNAL MACHINERY. 245
 
-uf (¢) = uj (0)S-"(¢). (3.16)
-
-
-It can also be shown by differentiating the solution p(¢) that the Jacobian L@) is related to A(0)
-through
-
-~ a d\.
-4) =8"'@) (10) - 0%) 5(@). @.17)
-
-In the past, Method II was not formulated for multi-oscillator systems except for oscillatory
-reaction—diffusion systems; space-discrete systems such as networks and populations of
-oscillators were carefully avoided [7]. In discrete systems, the pair coupling, which has to be
-treated as a perturbation, depends on the two-state vectors of the coupled pair like V(X, X’). This
-fact seemed to make it difficult to treat the problem formally as a one-oscillator problem. As we
-see later in this section, this seeming difficulty can be circumvented easily. However, before going
-into this problem, we begin with an easier case to treat, because the formulation is almost the
-same as for discrete systems except for one essential point.
+power delivered to the free atmosphere. All these questions are of great importance
+in practice and constitute a practically unexplored field for future investigation.

@@ -1,9 +1,34 @@
-Their model (‘BACCUS’) essentially assumes that each probe is receiving an unknown systematic
-error sampled from a distribution with unknown parameters. It then uses Bayesian inference
-to simultaneously estimate both the parameters of interest, as well as the ‘nuisance’ parameters
-that describe the possible unknown systematics. Markov chain Monte Carlo is used to first draw
-samples from the resulting posterior, and then marginalize over all the nuisance parameters, to
-get a final conservative posterior for the parameters of interest, that accounts for the fact that there
-are likely unknown systematics. In particular, this approach is able to give realistic long thick tail
-probabilities, to account in a systematic way for the fact that there may be ‘unknown unknowns’. We show in figure 3 a simple implementation of the methodology, in the context of
-estimating how energetic a laser system must be to achieve ignition.
+In addition we have the variational equation for the internal energy which can be
+left as it stands in the form
+
+- (E++[+,B) sp) +(B- 1b, E+E,} dl):
+, / ,
+Interpreted in terms of the language of ordinary dynamics these equations imply
+
+that
+(PV) E,+(IV) B,+4 (pr paBhia 1 (te, 43 2(B+ E,)
++3[@ +0, w] 2B, wen] sedan)
+
+is the force per unit volume at each place tending to accelerate the motion of the
+matter, whilst
+
+é (E+ ! [-B))
+
+is the force tending to accelerate the motion of the element of electricity e.
+
+The electrical terms in the first of these results are consistent with those obtained
+by Larmor* and others, but the magnetic terms, which are in fact analogous with
+the electrical terms depending on the dielectric polarisation, are fundamentally
+different from those obtained by these authors. Further, since
+
+1dA
+
+= 1
+Lage
+it follows that
+Curl E = —- id Curl A, c dt
+ae OBS
+~ ¢ dt
+
+so that our equations are in complete agreement with the most general form of
+MAXweELv’s theory.

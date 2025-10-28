@@ -1,13 +1,17 @@
-As the supply voltage reduces, any oscillatory activity, such as a clock
-signal, may show a reduced amplitude and reduced frequency. However, the ratio between the
-time within a period when the clock signal is high and the time within a period when the clock
-signal is low stays the same as both would increase at the same rate. Our method, therefore, is dedicated to finding ways of exploiting this fact by transferring
-computation from the digital domain, which is affected by voltage and frequency variations, to
-the relative temporal domain, which is not. This means making use of PWM-based techniques.
+Ray + Mean Klar) Thus F i
+=m Pe
+(7.63) G41" Ny = a : a1) Xan Ap) se Mis i a1) GRC) Alp)
+N-1
 
-(a) Principles of duty cycle to voltage conversion
++E can Gre Kan AMP,
+M=0
+(P=0, 1, ..., N—1). Hence, using the fact that
 
-Figure 2 shows an inverter-based PWM to voltage converter, which produces an output voltage
-whose value represents the value carried by the input PWM signal, i.e. its duty cycle. Here we
-exploit the principle that if the input of an inverter is a periodic signal, such as a clock, the average
-voltage on its output is inversely proportional to the duty cycle of the input signal.
+(7.631) wath lif P= M,
+a Ora hy Mp) = ;
+(a) ACP) Oat P 4M,
+
+we have the kinematical equations
+(7.632) Asp) = Op) + 2 [a¢p_1) Or) — P41) O41]
+
++ &(p—2) Op) Op) + %P_1)

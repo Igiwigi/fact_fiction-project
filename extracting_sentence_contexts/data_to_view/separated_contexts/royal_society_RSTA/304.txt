@@ -1,14 +1,14 @@
-Of course, it is natural to look
-to atomic physics, as that field has so amply supplied metrology specialists
-with atomic frequency, and two quantum relationships concerning electrical
-quantities [2]. Collectively, one can thus arrive at a reliable reference for
-time (for 40+ years the Cs hyperfine transition), and for electrical resistance
-(von Klitzing’s effect) and electrical potential (Josephson’s effect). These two
-latter quantum effects, in fact, are the basis for modern electrical standards,
-with reproducibility approximately two orders better than their connection
-with SI units, which is provided in the 3E-8 domain by the ‘watt balance’
-experiments. So, in addition to the kg issue, the coming task of reworking the
-SI still also requires to fully rationalize the situation between the electrical
-units as maintained, and the existing SI. Also, as we will see, there are new
-inputs from time to time which may be directly of interest and utility with
-regard to reworking the SI.
+First, approximate solutions must be close enough to the accurate result to ensure
+
+
+OF ELLIPTIC DIFFERENTIAL EQUATIONS 355
+
+that the iterative process converges; this usually presents no difficulty. Secondly, it must be
+possible to calculate the errors of an approximate solution; this is the crux of the matter. Is it possible, given a differential equation like (I.2), with boundary conditions like
+(I.4) or (1.5), to compute accurate values of their left-hand sides, at mesh points and at
+a representative number of boundary points, for a function given numerically at the mesh
+points, including possibly some fictitious external points? With regard to the differential
+equation there is clearly no worry, but the boundary condition presents great technical
+difficulties. The difficulty can be seen with reference to figure 7, in which it is required to establish
+finite-difference equations at points adjacent to the curved boundary, and to satisfy a boun-
+dary condition involving a normal derivative.

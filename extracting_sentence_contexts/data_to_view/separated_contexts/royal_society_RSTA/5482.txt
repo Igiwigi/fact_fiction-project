@@ -1,28 +1,4 @@
-In a recent work [26], we have shown how the PID performed defining
-redundancy as the minimum information contributed by each source to the target [35] ascribes
-redundancy to the indirect mechanism R — S— H, the unique cardiorespiratory transfer to
-the direct mechanism R > H and synergy to the simultaneous activation of both pathways. According to this interpretation, the dominance of redundancy R{s];4(HF) suggests that in
-our data respiratory sinus arrhythmia is mostly due to the baroreflex-mediated mechanism, and
-the decrease of both Rispy,7(HF) and Up;7,(HF) with tilt suggests that the cardiorespiratory
-interaction is dampened with tilt in parallel with the physiological mechanisms associated with
-decreased HRV in this condition; such mechanisms can be of autonomic origin (i.e. related to
-parasympathetic withdrawal concomitant with orthostasis [9,13]) or arising from the pacemaker
-dynamics of the cardiac system (i.e. related to the increasing mean heart rate which is intrinsically
-associated with decreased variability [41]). While the prevalence of baroreflex over central
-mechanisms of RSA was observed also in [26], a different interpretation was given to the response
-to tilt; we ascribe the difference to the fact that the analysis performed here can be focused
-on the HF band, and thus allows us to exclude more safely the strong variations induced by
-tilt in the LF band which are otherwise incorporated in non-frequency-specific analyses such as
-that in [26].
+§ 10. Reference to the Moon's True Transit. The intervals have been referred to the transits of a fictitious satellite whose R. A.
+is equal to 7, and we now require corrections so as to refer to the moon’s true transit. PROFESSOR G. H. DARWIN ON TIDAL PREDICTION. 185
 
-6. Conclusion
-
-The aim of this study was to introduce a spectral representation of information decomposition
-able to quantify, within predefined frequency bands associated with specific oscillatory rhythms,
-the unique, redundant and synergistic information shared by two source processes and one target
-process describing the activity of a multivariate dynamical system. The proposed framework
-was designed building upon long known but not extensively developed relations between
-information measures and spectral measures valid for Gaussian systems [31,32]; note that our
-analysis can be performed also for processes without joint Gaussian distribution, even though in
-this case, the tight relation with information theory is lost and nonlinearities possibly underlying
-the measured time series may be missed.
+Let T, T’ be the times of true and fictitious transits, and let # be the moon’s R. A

@@ -1,8 +1,20 @@
-In addition, we need to ensure that the thickness of the
-coating is small, so that the resultant flat reflector (with coating) has a low profile, which was our
-principal motivation of the flat reflector project to begin with. To the best of our knowledge, a
-systematic procedure for designing such thin coatings has not yet been developed. In fact, such
-surfaces that are also known as reflectarrays, are almost always designed to match only the phase
-of the reflected field, rather than to control the amplitude distribution of this field in its aperture. Incidentally, reflectarrays are inherently narrowband in comparison to the parabolic reflector, at
-least when they are fabricated by using metasurfaces, as they almost always are. We now show that this problem of designing a surface with specific reflection characteristics
-can also be cast in terms of the scattering matrix formulation.
+The effect tends in the opposite direction to
+that discussed on pp. 211-214, but the conduction of heat to the walls of the tube
+by the dises of copper gauze tends to make the value of the correction much smaller
+than that above deduced, so that it is safe to assume that entire neglect of it does
+not produce an error of more than 3 or 4 parts in 10,000 on the values of the specific
+heats, In the foregoing discussions no account has been taken of the difference in
+temperature between the external and internal surfaces of the wall of the calorimeter
+proper. Assuming 0°002 for the thermal conductivity of glass, and taking 0°01 calorie
+for the average heat loss per second per degree rise in temperature during the
+experiments, it is easy to calculate from the dimensions of the calorimeter proper
+that the average difference in temperature between the surfaces of the calorimeter
+wall for a rise in temperature of 5° C. was about 0°05 C. Since the heat loss
+remained constant in the two flows to the first order of its value, the ditterence
+in temperature between the surfaces of the wall of the calorimeter proper would
+remain constant to the first order; in fact, it is easy to see, making use of the
+investigation given on pp. 211-214, that it would remain constant even in the
+case of the experiments at steam temperature to about 0°:001 C., so that the effect
+due to it would eliminate on the two flows certainly to 1 part in 10,000. In the case
+of the experiments at air temperature the effect would be even less than for steam
+temperature. (14)

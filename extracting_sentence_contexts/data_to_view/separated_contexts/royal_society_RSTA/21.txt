@@ -1,8 +1,27 @@
-In order to obtain clusters of practical relevance, the kernel f(-|@, 7) should be carefully selected
-to reflect the shape and properties of a cluster for the application at hand. A standard choice is
-the multivariate Gaussian distribution, f(-|0, ~) = N(- | 4j, 4j). In fact, the widely used k-means
-algorithm can be seen as a limiting case of the EM algorithm for Gaussian mixture models, where
-the kernel is N(- | Mj, 071) [40,41]. This highlights that k-means imposes restrictive cluster shapes,
-specifically, all clusters have the same spherical shape of equal size in all dimensions, with only
-the centres j4; allowed to differ across clusters. More generally, Gaussian mixture models relax
-this assumption by allowing different ellipsoidal shapes and sizes across clusters.
+The optical values were next observed, from which y’="306 when p/p’ = 2°21,
+gwhich agrees with the foregoing example. |
+
+3 XVIII. The Measurement of the Photographic and Optical Values of Total Intensit
+grep: Pp 7]
+3 equivalent to the Measurement of a Single Ray.
+
+o
+
+8 A remarkable deduction now presents itself from the fact that, if we divide» and p’
+‘Sy k in the results given by plotting the areas, we find that the results are numbers
+Svhich are about 105 and 235, and these represent wave-lengths 5570 and 4540
+@espectively ; so that, if we observe the total value of light optically, it is
+Squivalent to observing monochromatic light of \ 5570, and if we use bromoiodide of
+Bilver for registering the intensity it is equivalent to measuring a ray of d 4540.
+
+~g We may apply any of the results obtained by astronomers to find the value of &.
+
+3
+3
+s ;
+E Coefficient
+B of atmospheric # k
+a transmission.
+:
+Lanciey (on Etna) . . . . «| “880 1:274 00122
+*PrivcnarD (at Cairo). . . . .

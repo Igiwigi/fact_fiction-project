@@ -1,41 +1,13 @@
-However, the highlight of
-this section might be given as the behaviour of vortex-shedding changes close to the bottom due
-to the bottom shear effect. One final note with regard to the vortex-shedding frequency is that the
-values of the Strouhal number are apparently different from the familiar value 0.2. This is linked
-with the fact that the mean flow velocity U is used when normalizing the frequency, rather than
-the ‘local’ approach velocity.
+5. In illustration of some of these principles, and as a help towards the realization of
+i validity of some parts of the subsequent analysis, a dynamical question of sufli-
+ent complexity, which has recently occupied the attention of several mathematicians,
+y be briefly referred to. The problem of the deformation and vibrations of a thin
+en shell of elastic material has been reduced to mathematical analysis by Lord
 
+pear in the energy-function from which its vibrations in which bending plays a pro-
+nent part are to be determined,—that in fact the shell might be treated as inexten-
+le. But a subsequent direct analysis of the problem, of a more minute character,t
+to the result that the conditions at the boundary of the shell could not all be
+sfied unless stretching is taken into account. The reason of the discrepancy is
 
-100;
-100
-100; }
-100- 50r
-50
-a > 50¢ t
-or) fi t t
-S50. | 0 0, 04 05 dh=1.0
-Ss / 0 , . . 0.4 0.5 vh=0.26
-0 05 h=0.14
-0 0. 02 05 zh=0
-
-St=/D/U
-
-Figure 5. Power spectra of lift at various heights of the computational domain with h = 2D. The quantity o? is the variance
-of the lift fluctuations.
-
-200;
-200
-200
-200 - 100;
-> | 100
-Q - 100
-Cc t 1
-5 100- 0 ps 0.2 J\_ 93 0.4 0.5 zh=1.0
-5 [
-. 0 ll 0.2 k 03 04 0.5 2/h=0.32
-II
-- 0 Hp 02. 03 04 0.5 h=0.15
-0 0.1 0.2 03 0.4 0.5 dh=0
-St=/DIU
-
-Figure 6.
+t Lord Ray.etan, “On the Infinitesimal Bending of Surfaces of Revolution,” ‘Proc.

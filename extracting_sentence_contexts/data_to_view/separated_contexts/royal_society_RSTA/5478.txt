@@ -1,24 +1,26 @@
-We now want to replace
-the column index (k + 1)j, but in order to do that we need to rewrite the constraints in a different
-way. First, we fix the row index i and define the set
+Tn the application of the formule 7’ + 7 will be the time for which the mean solar
+hour angle is ¢, and we shall have
 
-Q={nEN| ik: Gje dx A n=(k+1j], (A4)
-then we can write
-(p+1)N
-Vi=1...,N, VneQi, D> Adin(Y)mn— (Cin =0, (A5)
-m=1
+Km
 
-where the summations over / and r have been replaced by the summation over m=(I+1)r. We
-. . . . 1)N
-note that for m ¢ Q; the corresponding term in the sum vanishes, so we can write rer
-Ymeg, The fact that we are only considering m,n € 2; suggests that we may consider the new
-matrices Aj, Jj, 4% where the rows/columns corresponding to indices not in Q; are removed and
+et F
 
-rewrite the previous equation as
+h tie) Eo et,
 
-Aw; — F,=0, (A6)
+T=—-
+2(y — 4) The first of these terms is obviously the interval from fictitious transit to the mean
+lunar H. W., and the second is the interval from lunar H. W. to the time ¢,
 
-which can be readily solved by matrix inversion Aj = Kee. The elements in the row vector Aj
-can then be remapped to corresponding non-zero values of (Ax); ;. We can informally say that we
-are solving the Yule-Walker equations row-by-row and that, for each row, we are removing all
-the columns corresponding to couplings that should be forced to zero.
+When we wish to discuss low waters it is convenient to put A equal to § — x, and
+in this case we shall have
+- 6
+T==—* —* ow lett sisi ge RL: a(y— i) * By —) sa
+
+The first of these terms is the interval from transit to the mean lunar L. W., which
+
+precedes the H. W. given by (22), and the second is the interval after lunar L, W. to
+the time ¢.
+
+We shall proceed to consider H. W., and deduce therefrom the formule for L. W.
+
+§ 5.

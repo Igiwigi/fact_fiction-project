@@ -1,14 +1,8 @@
-In particular, the : 4
-MDPs that are used by MPC at each decision epoch do not explicitly model, within the MDP, De
-the fact that the decision-maker will have available a new set of forecasts at each future decision : 3
-epoch within the decision horizon associated with the MDP. This is also the case in adaptations : 3
-of standard MPC to the setting where the forecasts contain probabilistic information [16]. By 8
-
-contrast, the MDPs introduced by this paper model the fact that the forecasts are continually
-‘refreshed’ over the MDP’s decision horizon, and do so via a formulation that preserves the
-computational tractability of the MDP. In §7, we introduce a simple energy system control model that controls interior building
-temperatures in an external weather environment for which forecasts are available. In the
-presence of a quadratic cost structure, we are able to use the existing linear-quadratic stochastic
-control theory to compute the optimal value associated with MDPs for the energy system in which
-no forecast information is available and also the optimal value for the dynamic forecasting MDP
-of §5.
+Quenching thus played a prominent
+part in Farapay’s experimental work. Light of these hardened specimens are found
+in Groups E.1 and 2, thus pointing to these specimens of specially prepared form being
+intended for heat treatment experiments. The hardness figures obtained on these
+groups in fact seem to provide some further clue in this connection, although still not
+a complete one. Thus it will be seen that it is the first four specimens only of each
+group, E.1 and E.2, which are of over 600 hardness. These are the ones having three
+nicks cut in them.

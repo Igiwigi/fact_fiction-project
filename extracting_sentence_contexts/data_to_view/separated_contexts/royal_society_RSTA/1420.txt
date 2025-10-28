@@ -1,38 +1,9 @@
-However, as the simulation progresses, the number of deaths is mainly sensitive to the
-
-20See https:/ /pypi.org/project/chaospy. Table 3. Defining parameter space for the uncertain parameters of the Flu And Coronavirus Simulations (FACS).
-
-parameters type default value uniform range
-infection rate float 0.07 (0.0035, 0.14)
-mortality period float 8.0 (4.0, 16.0)
-recovery period float 8.0 (4.0, 16.0)
-mild recovery period float 8.05 (4.5, 12.5)
-incubation period float 3.0 (2.0, 6.0)
-period to hospitalization float 12.0 (8.0, 16.0)
-1.0% —— infection rate
-
-— mortality period
-
-08: — recovery period
-
-BE — mild recovery period
-a —— incubation period
-g 06 period to hospitalization
 a
-5
-goa
-E
-= 02
-we
-0 n =
 
-0 20 40 60 80 100 120 140 160 180
-days
+RATIO OF IMPERIAL STANDARD YARD. TO INTERNATIONAL PROTOTYPE METRE. 305
 
-Figure 10. The first-order Sobol indices for each of the uncertain parameters of the Flu And Coronavirus Simulations (FACS) for
-the London Borough of Brent. (Online version in colour.)
-
-infection rate (which describes how quickly the infection spreads) and the mild recovery period
-(which describes how long people with mild COVID remain ill and infectious). References
-
-1.
+These equations express the fact that the provisional value nx for the point » in this
+calibration has theoretically been brought into coincidence with the unknown ideal
+value , by the vertical movement Ax and the tilt By of the whole of the graph to which
+the value ny belongs. In these equations as applied to one calibration only there are py +2 unknowns,
+namely 09, 1), 29---%-++(px Of these) and the two quantities A, and By.

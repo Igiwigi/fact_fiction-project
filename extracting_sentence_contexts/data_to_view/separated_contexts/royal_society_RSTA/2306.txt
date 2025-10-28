@@ -1,8 +1,20 @@
-A thorough analysis of the numerical approach used showed the high level of stability
-and accuracy, alongside the rapid rate of convergence, for the entire solution. Of particular note
-was the fact that the values of both Ky and u; stabilize after only a small number of iterations,
-although the required number of iterations is higher for smaller lengths of the process zone L. The fact that the method outlined here is more efficient for larger L is not unexpected, as the
-initial condition (3.8) of the iterative process corresponds to the case L > oo. As such, although
-the iterative method does converge for all positive L > 0, it is clear from the presented results that
-both the solution accuracy and convergence rate improve with the growth of L. There are however
-solutions to this issue.
+'= BE (=1) Cu. Came
+
+In the case of determinants which are infinite in both directions, the operation of
+continued differencing by rows and columns is effected by applying the process
+described above to each separate quadrant ; thus the differencing by rows is performed
+by differencing outwards from the centre row in both directions (above and below),
+and likewise, by columns, both to right and left of the centre column. Neither of
+these partial operations, nor the complete process, alters the value of the determinant,
+a fact which we may express by the equation
+
+(5°30) V (Sr) = V (Ssofra) = V (Suhre) = V (Srafre)s
+
+where the notation is similar to that used in the former case. There, however, 7, s,
+and consequently also m, n, were necessarily positive or zero, while our convenient
+notation for determinants of the present type involves also negative values of r and s.
+
+«
+
+
+MONATOMIC GAS: DIFFUSION, VISCOSITY, AND THERMAL CONDUCTION. 141

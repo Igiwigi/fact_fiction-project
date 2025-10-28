@@ -1,13 +1,9 @@
-Note that throughout this process of the change of y(0), the function fr satisfies (H1) and
-(H2), and as a result fy satisfies (H3). It is now intuitively clear that close to the balance point
-system (1.1) and (1.2), as a (small) perturbation of (2.2), exhibits a long transient solution with
-initial conditions close to the balance point. In fact, in the next section, we provide strong
-arguments in favour of these solutions not being mere transients any more, but delay-induced
-switched states. We conjecture that conditions (H1)-(H3) are necessary conditions on f to allow
-for such states.
-
-3. Main result: balance point and delay-induced switched states
-
-As we will show in §4, all solutions of (1.1) and (1.2) for 7 >0 that are not converging to or
-identically zero are oscillating, i.e. its first component possesses infinitely many sign changes for
-t > 0 (propositions 4.1 and 4.2).
+In obtaining his result Lord Rayierau assumes that, if there are no bounding planes,
+w = 0 at infinity ;{ it does not apply therefore to the case just considered. The conclusion arrived at is that the discrepancy between RAy. LerGcH’s and
+Reynotps’ results is due to the fact that the perfect slipping at the boundaries
+assumed in Ray1ercH’s work prevents the escape of the momentum which is a
+necessary accompaniment of a disturbance of a fluid for which d?U/dz is everywhere
+negative. The complete absence of slipping assumed in Reynoups’ work enables
+the necessary amount of momentum to escape, and so a type of disturbance may be
+produced which is dynamically impossible under the condition of perfect slipping at
+the boundaries. * See “Conditions Necessary for Discontinuous Motion in Gases,” Taytor, ‘Roy.

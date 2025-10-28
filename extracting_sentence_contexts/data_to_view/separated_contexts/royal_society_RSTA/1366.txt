@@ -1,46 +1,10 @@
-We run PDHG for 2000 iterations = epochs and SPDHG for 1000 iterations = 50 epochs. We observe that even after five epochs, a meaningful reconstruction is obtained using the
-SPDHG algorithm, whereas in PDHG no structures of the rock are observed. In fact, the SPDHG
-reconstruction after five epochs is visually closer to the PDHG reconstruction after 50 epochs. This
+Another test applicable to the multiple base
 
+* When a surface is represented on a plane, any point of the plane which corresponds to a line of the
+surface is called a “ fundamental ” point of the plane.
 
-5 epochs 20 epochs 50 epochs
-
-1S)
-
-=
-
-Qa
-
-a
-
-: =
-a
-
-im 7s
-
-an 1B
-tA
-1s
-aa
-Do
-Dw
-2S
-
-PDHG 2000 epochs —~ 70 H | H [8
-
-2 60
-
-Ri 55
-
-250 | --: PDHG
-
-B 4s | SPDHG
-
-> 40
-HB 35
-
-0 5 10 15 20 25 30 35 40 45 50
-epochs
-
-Figure 11. PDHG and SPDHG reconstructions of (5.1) with @ = 0.001 for different epochs using only five channels and five
-vertical slices.
+} In fact the tangent cone to a ‘Y-primal at a point P of a base curve k will be composed of planes through
+the tangent to k at P; so that all the points of the neighbourhood of P which lie in one of these planes
+through the tangent will impose the same condition on V’-primals to contain them and will be represented
+by the same point P’ of 8. Corresponding to the «2 planes through the tangent, then, we get » * points
+forming an E-surface of S. Cf. Berrrt as quoted already.

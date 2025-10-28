@@ -1,29 +1,20 @@
-Unfortunately, the Surface-
-17 code has a pseudo-threshold which is about 19 times larger than the dodecahedron code
-((3.32 + 0.01) x 10-5 compared to (1.77 + 0.01) x 10-6). Note that the pseudo-threshold values
-were obtained by the intersection between the curve p/10 (because we are considering a noise
-model where idle qubits fail with probability p/10 and are concerned about quantum memories)
-and the logical failure rate curve of the exRec. The differences in pseudo-thresholds are primarily
-due to the larger number of locations in the fault-tolerant circuits of the dodecahedron code
-compared to the surface-17 code circuits as well as the fact that both codes have the same distance. In fact, just by counting the number of pairs of CNOT gates in an EC unit, one can get an indication
-of the pseudo-threshold. For the small stellated dodecahedron code the number of CNOT gates
-is 3 x 5 x 22 =330 so that 7) = 54285, while for Surface-17 the number of CNOT gates in an
-EC-unit is 3 x 4 x 8 = 96 so that (%) = 4560, in rough correspondence with the c’s in pi (p) = cp”
-observed in figure 10.
+Fig. 4 shows the inequalities for the three seasons on different
+
+scales, so related that the mean of the 24-hourly ordinates is the same for each. This brings out very clearly the fact that the difference in type is mainly between
+7 pm. and 9 am., ze. during the hours when the diurnal movement is least
+
+conspicuous.
+VOL, CCVIIL —A. ee
 
 
-— dodecahedron
-rotated surface code d = 3 8 logicals
+218
 
-10+
+9
 
-o 1054
+<
 
-3 106
+4
 
-107 |
+4
 
-1x 10° 5x10 1x 10> 5x10° 1x 10+
-Pp
-
-Figure 12.
+DR. ©. CHREE:

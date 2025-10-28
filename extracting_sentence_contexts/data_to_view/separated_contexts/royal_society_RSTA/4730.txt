@@ -1,14 +1,16 @@
-In the model, all three rates are those suggested in
-[67]. If (4.11) is decreased, the reaction flux shifts towards the production of methoxy radical,
-which will increase the relative concentration of formaldehyde when compared with methanol. The model was recomputed with a factor of 5 decrease in (4.11), but the relative concentration
-of formaldehyde to methanol was minimally affected owing to the fact that most of the methoxy
+It seems to me necessary to make
+(X, Y, Z) and (a, 8, y) vanish, although from one point of view it might suffice to
+make (X’, Y’, Z’) vanish throughout the conductor. We have next to determine how these quantities inside are related to the similar
+quantities outside the surface. The fundamental equations integrated through a thin
+shell in the usual way show that the tangential component of (X’, Y’, Z’) is continuous,
+but the fact that we have no right to assign the fundamental equations or the above
+form of (X’, Y’, Z’) to the inside of a conductor raises a doubt. If (X’, Y’, Z’) is
+continuous as regards tangential components, then the tangential component ot
 
 
-is recycled to methyl radical, which loops back to the production of methanol (figure 7). Thus,
-changing (4.11) has a non-monotonic effect on the formaldehyde to methanol ratio. In the original
-paper measuring (4.12) by Slemr & Warneck [69], the reaction is suggested to proceed through an
-alternative reaction pathway that results in the direct formation of formaldehyde
+150 MR. GEORGE W. WALKER ON THE INITIAL ACCELERATED
 
-CH30) + H—> CHO + H,O (4.15)
-
-which is dominant over the channel recommended by Tsang ef al. [67].
+(X, Y, Z) is discontinuous because the tangential component of («, 8, y) is discontinuous
+and measures the surface current. To avoid this discontinuity of zther strain
+tangentially, I consider the possibility that the tangential component of (X, Y, Z) is
+continuous.

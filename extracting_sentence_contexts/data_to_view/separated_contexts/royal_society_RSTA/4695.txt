@@ -1,9 +1,14 @@
-At these conditions, typical energy per one streamer/filament, that is for one
-combustion kernel, was estimated as 5-20 J for stoichiometric mixtures [9]. It should be noted
-that deposited energy measured for methane-containing mixtures with different stoichiometries
-is visibly (more than one order of magnitude) different, although theoretically calculated energy
-branching in the discharge is practically the same. This fact confirms that the experimental study
-of the discharges in combustible mixtures at elevated pressures is a very important issue for
-understanding of physics and chemistry of PAC. At the same time, the current knowledge about the nSDBD development in non-combustible
-mixtures is scarce. This section summarizes the information about the nanosecond surface DBD
-discharge in air at P = 1-6 atm at voltage amplitude 20-60 kV on the electrode.
+(dW,/dn, + dv,/dn,),
+where dn, dn, are both measured towards the surface, the outside medium being
+air for which K is unity. The value of the constant A is determined by the cireum-
+stance that the aggregate of this volume and surface charge shall be null when the
+conductor is insulated and unelectrified, or equal to the given total charge when it is
+insulated and charged: when it is uninsulated, the constant is determined by the
+position of the point on it that is connected to Earth, and therefore at zero potential. The procedure of Part II., § 25 is thus justified, because there is in fact no dielectric
+polarization in the conductor, but only ethereal displacement. It remains to consider whether the parts of this volume density p and surface
+density o of electrification are carried round with the conductor in its motion, or slip
+back through its volume and over its surface so as to maintain fixed positions in
+space. It is clear (as in Part II., § 27) that the same cause, namely, viscous diffusion
+of momentum among moving ions and molecules, which produces OHMIC resistance
+to a steady current, will lead to the electrons constituting electric densities being
+wholly carried on by the matter whenever a steady state is attained.

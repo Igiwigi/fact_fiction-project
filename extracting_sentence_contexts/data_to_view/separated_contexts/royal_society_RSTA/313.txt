@@ -1,20 +1,13 @@
-Classical feedback diagram: the junctions circled are not implementable in the quantum
-setting as they correspond to copying of information. Instead, they must be replaced by unitary
-junctions such as a beam splitter. (Online version in colour.)
+The remaining problems are purely practical ones, arising from the
+relatively complicated nature of the finite-difference form of the biharmonic equation. Consider the mesh of figure 14, on the curved boundary of which the function w and its
+derivatives dw/dx, dw/dy are specified at every point. If the differential equation were of
+the second order (with only one boundary condition to satisfy), finite-difference equations
+would be set up at all internal points, external (fictitious) points being eliminated. The
+finite-difference form of the biharmonic equation, however, involves more pivotal points,
+and in particular its satisfaction at internal points adjacent to the boundary would involve
+the elimination of many fictitious points, at least one of which is more than one mesh length
+distant from the boundary. Ficure 14
 
-plant 2 plant 1
-
-Figure 7. Two systems in cascade. (Online version in colour.)
-
-(c) Quantum feedback networks
-
-The efficacy of input-state-output models in classical control theory lies in the
-fact that one can represent them by block diagrams, as in figure 4, and then
-connect them up to form networks. The diagram in figure 6 illustrates the
-feedback set-up found in standard engineering textbooks. However, quantum
-mechanically we cannot proceed this way!
-
-(i) Cascaded systems
-
-The simplest form of a network consists of a pair of cascaded systems,
-as shown in figure 7.
+Fox & Southwell (1941) therefore proposed to satisfy the differential equation only at
+those internal points, marked with a cross in figure 14, which involve only those fictitious
+points, marked with an open circle, less than one mesh length outside the boundary.

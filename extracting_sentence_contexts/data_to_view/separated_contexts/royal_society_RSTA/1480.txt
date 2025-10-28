@@ -1,8 +1,11 @@
-The
-graph is sparse because only those similarities that are above a certain similarity threshold are
-retained. MCL performs random walks from every vertex (protein) in the graph. It exploits the
-fact that most of these walks will be trapped within tightly connected clusters, hence driving up
-the probability mass that is accumulated within each cluster. In order to avoid densifying the
-intermediate matrices and making the computation infeasible, MCL performs various pruning
-strategies that are shown to not hurt the quality of the final clusters [39]. The simultaneous random walks directly map to a sparse matrix primitive that is commonly
-known as SpGEMM, which computes the product of two sparse matrices.
+The theory as thus outlined is similar to that developed by Barrour Srewarr and
+Scuuster to explain the solar diurnal magnetic variation 8. It is probable that the
+convective motion responsible for § is semidiurnal also, being associated with the well-
+known semidiurnal variation of the barometer. Both L and § are more intense during the hours of daylight than during the dark
+hours, a fact which is readily explained as due to the conductivity of the atmosphere,
+at the level where the currents flow, being the greater when the air is exposed to some
+ionising ultra-violet component of the solar radiation. The marked differences between L and S.
+
+§ 25. A discussion* of L and S along the lines indicated in § 24 showed that the theory
+was capable of accounting for a great many features of the two phenomena ; never-
+theless, some serious difficulties (loc.

@@ -1,19 +1,17 @@
-Its cellular counterpart, the slow (<1 Hz) sleep
-oscillation, occurs quasi-synchronously in all types of cortical neurons, in the
-glutamatergic thalamocortical (TC) neurons of various sensory and intralaminar
-thalamic nuclei and in the GABAergic cells of the nucleus reticularis thalami
-(NRT), and consists of regularly repeating depolarizing sequences (most often
-with firing) interspersed with hyperpolarizations (with no firing) at a low (0.2
-0.9 Hz) frequency [5-7], nowadays commonly referred to as UP and DOWN states,
-respectively (figure 1). The physiological importance of the slow (<1 Hz) oscillation is highlighted by
-its presence throughout all stages of NREM sleep both in humans [1,3,4,8,9] and
-in animals [10-13]. In fact, the electroencephalogram (EEG) K-complex (of stage
-2 sleep) represents a single cycle of the slow oscillation, with its surface EEG-
-negative and -positive phases (corresponding to depth EEG-positive and -nega-
+Biharmonic finite-difference equations for rectangular boundaries
 
-ive) simply reflecting the DOWN state and the start of the UP state, respectively,
-of the oscillation [14-16]. Sleep spindles (of stage 2-3 sleep) frequently occur
-immediately after, or are superimposed on, the depth-negative peak of the EEG
-wave, i.e. at the start the slow oscillation UP state [17-19]. As sleep deepens, the
-‘requency of the slow oscillation, and thus that of K-complexes, increases until
-it develops into the slow waves of deep NREM sleep [19].
+The usual finite-difference equation for the numerical solution of equations of the type
+(I. 7) is that given as equation (B. 1). For all points except those adjacent to the rectangular
+boundary, this equation involves only points on and internal to the boundary, while at points
+adjacent to the boundary one line of external (fictitious) points is involved. The most usual
+and important pair of boundary conditions is given by
+
+dw/dv = g(x,);
+
+and the second of these enables the fictitious points to be obtained in terms of internal and
+boundary points. In previous applications of relaxation methods to the biharmonic equation
+(Fox & Southwell 1941), the simplest possible approximation, involving the neglect of third
+differences, has been used for the derivative condition, and no attempt has been made to
+assess the error of equation (B. 1). The second source of error, starting with the sixth differ-
+ence, is usually small compared with the neglect of third and higher differences at the
+boundary.

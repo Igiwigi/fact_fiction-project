@@ -1,16 +1,13 @@
-The expressions
-reported in reference [40] for the Py line-strength factors are incompatible with the concomitance
-of linearly polarized light and AJ =0 transitions. For a two-photon dipole transition from an
-initial i state to a final f state, the virtual states accessed by the first photon are not unique
-and the intensity must be calculated taking into account all possible paths with different
-magnetic quantum numbers. As Mo and Suzuki showed, however, the fact that the relative ratios
-between the geometrical factors in two-photon transitions are invariant to the character of the
-virtual states, simplifies considerably the problem and, therefore, the intricate expression for the
-Px, Ji) developed by Zare and co-workers (KSZ) [43]. In the early years of the photofragment
-polarization analysis, KSZ had already underlined that the radial integrals of the transition dipole
-moments (between the initial and virtual states, and between the virtual and final states), which
-are unknown, can be usually included in the detection constant [43]. The exception to KSZ’s
+4—ANALYSIS OF THE CIRCUIT
 
-and Mo and Suzuki's studies are the AJ=0 transitions excited with linearly polarized light. : =
-In those cases, the branching ratio between the different intermediate states of the two-photon : S
-processes must be known.
+We have seen that departures from the ideal network due to eddy currents,
+displacement currents, and stray inductance are to be dealt with by replacing the
+simple inductances and resistances of the ideal circuit by impedance operators,
+each referring to some portion of the actual network between specified points. The
+zero adjuster already mentioned is essentially a device for adding an eddy-current
+effect of controllable magnitude to mesh (2). Its presence will modify the impedance
+operators of the three meshes, and, provided these impedance operators are measured
+with the adjuster set in its proper position, the fact that it constitutes a fourth mesh
+may be ignored in practice. This procedure is justified by the following analysis
+of the network. Fig. 3 represents the Campbell circuit including the zero-adjusting circuit,
+indicated as mesh (4), and the various associated capacities.

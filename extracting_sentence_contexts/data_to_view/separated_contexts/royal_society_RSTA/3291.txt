@@ -1,46 +1,6 @@
-An alternative bound is obtained on using Bernoulli’s law (equation (2.8)) at
-a depth y = —din as follows:
-2pre(k— cP
-* [PO,=dint) + p{u(O, dine) — OF? = Patml?”
+u = Kau cogrdy,‘a} Df
 
-If velocity measurements are not available, then the bound in equation (3.22) can be modified
-based on the pressure measurement alone, and can be given as
-
-2pre(k— cP
-
-H
-
-(3.23)
-
-< 3.24
-[P(L/2, —dint) — Pat]? 64)
-
-Equation (3.24) can also be obtained by defining a in equation (3.10) by
-ap = Patel /2-Mo/p) = Patm . 325)
-
-M/p
-and proceeding following a similar approach as before, exploiting maximum principles and the
-governing equations of the water waves. Equation (3.24) provides a bound less sharper than the one given by equation (3.23). In fact,
-a sharper bound is obtained from equation (3.23) and is given by
-
-2p?9(k —c)*d*
-[P(0, —dint) — Patm]?’
-if velocity measurements are not available and cannot be used. If pressure measurements are not available and only velocity measurements are available
-instead, then the following bound is obtained from equation (3.22) (since P(L/2,—dint) > Patm;
-see [14])
-
-H< (3.26)
-
-2g(k — c)*a*
-* TH /2, ding) —
-It may be noted that if measurements at the flat bed are available, then bounds based on
-pressure measurements become sharper than those based on velocity measurements, while
-velocity measurements should be used to arrive at sharper bounds when measurements are taken
-closer to the free surface.
-
-(3.27)
-
-
-Another interesting point to note, as was also observed in [14], is that, when k = c, the bounds in
-equations (3.22)-(3.24) and equations (3.26)-(3.27) all lead to a Stokes wave of trivial amplitude. This is equivalent to the fact that a Stokes wave of the same speed as an underlying uniform
-current can only coexist if the top surface is flat.
+Note.—In the case of Euclidean geometry, which is the only case considered here,
+each cogredient point is a point according to the definition of *3:42. The present
+definition would be very inconvenient, unless this were the case. The symbol oy, is
+reminiscent of the fact that the cogredient points are the points at infinity. *20°51. Definition.—The

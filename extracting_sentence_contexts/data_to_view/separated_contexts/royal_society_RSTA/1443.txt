@@ -1,17 +1,11 @@
-So, there can be no excuse for ignoring them.
-
-
-3. Complex systems do not (generally) obey Gaussian statistics
-
-BD radicalism draws heavily upon a fairly general fact of life: the Law of Large Numbers, the
-main content of which is that, with enough samples, call it N, errors (uncertainty) are bound
-to surrender to certainty. The most famous aspect of this fact is the square-root law of the
-noise /signal ratio:
-
-o 1
-
-in * UN’
-where mm is the mean value and o its root-mean-square associated with a given stochastic process : >
-X. In other words, let ny = (x1 + ---xNn)/N be the mean value of a given quantity X as obtained —
-from N measurements, i.e. the data. It is well known that my approaches the correct mean, m, a
-in the limit of N — oo.
+The graph of such a movement presents the principal features of the graph of sunspot
+numbers, viz., a surprising degree of smoothness accompanied by a continual change of
+amplitude and shift of phase. It is suggested that in this case the application of the periodogram method gives results
+subject to a large margin of error, and may be misleading. Trial on an empirical
+disturbed series (Section IV) showed, in fact, that with only 7 or 8 periods results are
+highly erratic ; with a larger number of periods, about 30, the main effect is a broadening
+of the band due to the fundamental and a reduction of the apparent intensity. The problem of determining the period and the disturbances, in the case of the sunspot
+numbers, was attacked in the first instance (Section I) by finding the best (least square)
+linear equation relating w, +- u,-, to u,-1, this giving the form of difference equation
+required for a simple harmonic function. The equation gave a period which was
+obviously too low.

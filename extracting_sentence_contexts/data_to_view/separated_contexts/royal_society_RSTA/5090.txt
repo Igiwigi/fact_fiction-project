@@ -1,17 +1,25 @@
-A typical test matrix therefore contains system identification cases
-(i.e. free decay, white noise wave, fixed displacement and mooring line force identification cases)
-and deterministic and stochastic separate and combined wind and wave cases. Table 1. Important dimensionless numbers for FOWT testing.
+527
 
-f= —_ (41) pea ta) r= 8 43) kca om tgay
-val “ v i
-2
-a=2" (45) y= pack (4.6) Ma=~ (47) =" (4g)
-m |, G v
-z
-The particular challenge of FOWT experimental testing is due to the fact that the system : =
-dynamics are governed by both aero- and hydrodynamic loads, which are dominated by different :s
-physical properties. To ensure similitude of platform hydrodynamics, the platform properties are !
-typically scaled by the dimensionless Froude number (4.1) (see table 1). It describes the ratio : <
-of inertial forces to gravitational forces in a fluid, assuming that the influence of viscous effects : 3
-present in the thin boundary layer is small compared with the dominant factors, i.e. gravity and 13
-inertia.
+of different conductivity from the liquid in mass, bounded by pellicles of
+different conductivity from itself, and that when it becomes thin (about
+300 y.p.), new forces (presumably surface forces) modify the conductivity in
+a way which can be approximately represented by supposing that the con-
+duetivity of the interior alone alters. We do not, however, at present wish to draw from these observations any but two
+sonclusions —
+
+a (1) The theory of the formation of a pellicle of different conductivity from the
+
+a rest of the film will not by itself explain all the facts. 2 (2) Something in the nature of a discontinuity appears to occur at a thickness of
+a about 100 p.u., which is but little greater than that which we have already
+BS) fixed as the upper limit of the range of unstable thicknesses to which we
+i attribute the discontinuity at the edge of the black part of a film. oD
+
+=]
+
+3p On the whole, then, we think it most likely that the changes observed at the
+
+‘gmaller thickness are in part at all events due to the direct action of the surface
+
+‘Forces, but that their action is complicated by some cause which at greater thicknesses
+
+a pellicle and also affects the interior of the film.

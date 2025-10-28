@@ -1,33 +1,17 @@
-The «2 turbulence conforms to its own expectations. At the end of this exercise, it is somewhat disappointing that the results are not more closely
-aligned with theoretical arguments. We believe that this is due to the fact that the «* and x?
-behaviours at the origin do not persist for long periods of time; at least for the conditions of
+If the aerofoil is of chord c, then the decrement of drag due to the pressure
+defect (53) may be written
 
+hia (ae iat ‘ ACE, rz—ox a8
+AD =f (z) def a \n (0) cos = i cos~ aan n(G ae
 
-(a) (b)
+Introducing ex/z = ¢ in the first integral, and ax/(z—¢) = o in the second, we find
 
-—1.6 ——26
-—17 2.7
-—1.14 2.14
-= ==(0/T, = tyig/T ---(t/T,-1,,,/T,)°
-e 107 F é 107! S) Q
-i i i Li i i i
-o! 1 10 102 108 10"! 1 10 102 108
-VT, VT,
+ADS =), cos! edo| f1'(2) dz (n'(0) +f9"© (2-0) de}
+= =a," odo { 1'(2) az)" =
 
-Figure 9. Scaling of integral length with time for (a) «4 and (b) «2; tyir/Te = 3, but other nearby choices for it do not make
-a huge difference to our conclusions. (Online version in colour.)
-
-(@) (b)
-
-ray ay
-S S
-= =
-+ me
-S -—1.6 5
-cs) —17 7
-—1.14
-0 1 i 1 i T 0 i 1 i 1 i
-0 250 500 750 1000 1250 1500 0 250 500 750 1000 1250 1500
-wT, VT,
-
-Figure 10.
+The result depends essentially on the fact that the excess pressure given in (51) is of the
+cone-field type depending not on the distance of the point of measurement from the corner,
+but on its angular position with reference to it. It will cease to hold when the aspect ratio is
+less than 1/z. Some calculations have been made for this case, and it is found, for example,
+that for a double-wedge aerofoil, aspect ratio 1/2, the drag is about two-thirds of that given
+by the two-dimensional theory.

@@ -1,15 +1,10 @@
-In :
-the case of neuroimaging, for example, one typically measures brain activities of many subjects, —
-and tries to find components that the subjects have in common [27]. In general, even if one only ia
-measures a single dataset, one can just divide it into two or more parts. : Se
+At present, therefore, there is no theory
+which accounts satisfactorily for the observed facts. The widespread fields of positive
+anomalies indicate excess mass, but whether this is supported by the static strength of the
+crust or by a dynamical process, such as convection currents, is still an open question. The
+latter hypothesis appears to be the more attractive, since the assumption of a semi-plastic
+substratum provides a simple explanation of the fact that the sediments which form the
+outer margin of the continental shelf are very nearly in isostatic equilibrium. The evidence
+for this will be considered in the next section.
 
-Using this idea of analysing different datasets, it is actually possible to formulate a proper is
-statistical testing procedure, based ona null hypothesis, which gives p-values for each component. i=
-The key idea is to consider the baseline where the orthogonal transformation A estimated after al
-whitening is completely random, this gives the null distribution that models the chance level :g
-[26]. In the space of orthogonal matrices, it is in fact possible to define ‘complete randomness’ :§
-as the uniform distribution in the set of orthogonal matrices owing to the compactness of that :
-set. To see whether a component is significantly similar in the different datasets, one computes
-the distribution of the similarities of the components under this null distribution and compares its
-quantiles with the similarities obtained for the real data. This gives a statistically rigorous method
-for assessing the reliability of the components.
+4:32. Ailantic section (stations 4 to 16 and 50)

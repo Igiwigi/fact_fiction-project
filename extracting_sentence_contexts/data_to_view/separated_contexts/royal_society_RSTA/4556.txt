@@ -1,25 +1,9 @@
-We note that these arguments rely on cloud fraction at a given level being a useful proxy
-for condensation rate and precipitation efficiency; although these quantities are not necessarily
-exactly equivalent, a relationship between them is clearly plausible in that a model with a
-larger cloud fraction for a given in-cloud condensation rate will have a larger grid-box mean
-condensation rate, and hence a stronger condensate source term to support precipitation. We
-also note that inter-model differences in mid-level cloud fraction and precipitation efficiency may
-ultimately be due to a range of model formulation differences, including model representations
-of turbulent mixing and entrainment, which can have effects in the free troposphere as well : =
-
-as the boundary layer, as demonstrated by Tsushima et al. [91]. The depth of the shallow Sy
-circulation discussed by Sherwood et al. [21] could also influence the amount of mid-level cloud 2
-and the bulk precipitation efficiency; for example, a model with a shallow circulation with a aed
-maximum divergence below 700 hPa might form less mid-level cloud than a model with a shallow 22
-circulation and a peak divergence at 500 hPa. [4
-
-If the overall strength of lower-tropospheric mixing is, in fact, regulated by bulk precipitation : ie
-efficiency arguments such as those outlined above, then this raises the intriguing possibility that : =
-the lower-tropospheric mixing and the cloud feedback in a given model might be quite similar :3
-
-in magnitude in the standard and ConvOff configurations, even if much of the mixing is done
-by the convective parametrization in the standard configuration. A large-scale constraint on
-lower-tropospheric mixing could mean that resolved and parametrized turbulent mixing adjust
-to compensate for an absence of parametrized convective mixing in the ConvOff experiments. This question could be investigated in future work by directly quantifying the lower-tropospheric
-mixing associated with parametrized convection, turbulent and resolved mixing, for example by
-using temperature and humidity budget terms as in Zhang et al. [10] and Webb & Lock [7].
+The writer does not wish to create the impression that
+hydrogen never exerts a direct influence on the magnitude of the negative leak. The numbers on
+p. 53 show that the value of the ionisation, at constant temperature, increases with the pressure of
+the hydrogen at high pressures; so that it is probable that at high pressures there is a negative leak
+which is a definite function of the pressure of the hydrogen. This is also demanded by the fact that the
+constant _, which enters into the temperature formula, is dependent on the pressure. A comparison of the table at the top of page 53 with that on page 52 would seem to indicate that the
+ionisation in hydrogen at 1:9 millims. pressure is much greater than in a hydrogen vacuum, The writer
+considers, however, that these experiments are not comparable with one another, owing to the wires having
+been differently treated before the two experiments.

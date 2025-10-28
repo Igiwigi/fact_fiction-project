@@ -1,10 +1,16 @@
-Xu et al. [29] consider travelling wave solutions to lattice Hamiltonian systems and study a
-condition for a pair of eigenvalues associated with the PDE system to cross zero and emerge on
-the real axis, thus leading to spectral instability. The authors perform their study following two
-different approaches: one based on Floquet multipliers, and one that is Hamiltonian-based. The
-article [29] and a previous one from the same authors [31] distinguish themselves from other
-works on lattice equations by the fact that no tools from integrability are used for the stability
-analysis. Two examples of lattice dynamical system problems that have solitary wave solutions
-that change stability are considered. One of the examples involves the a-FPU (Fermi—Pasta—Ulam)
-lattice with exponentially decaying long-range Kac-Baker interactions, while the other example
-concerns a smooth regularization of the FPU problem.
+with k =n.
+
+We know from the foregoing investigation that @',, is given as the root of an
+equation of degree 7, and that, if the roots of this equation are all different, no more
+conditions than those just mentioned as satisfied are necessary to ensure the existence
+of the subnormal solution. But in this case the equation for 6", is particularly easy
+to construct. We have, in fact,
+
+nx —O,, = 0, v=o =... =2,"=0,
+
+nte—O,p° = 0, tee es en
+3 i" 3 5
+
+Nitg —O yyilo —P yp)” = O, oo =... = a= 10;
+
+2-1 — P yglp— a” —Pygilgg” see = 0,

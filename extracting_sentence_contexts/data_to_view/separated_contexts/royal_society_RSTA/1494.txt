@@ -1,11 +1,10 @@
-Exploiting data sparsity
-
-In this section, we address the problem of dealing with large volumes of data by exploiting ‘data
-sparsity’. This problem arises in many applications, ranging from scientific computing where
-complex phenomena are simulated over large domains and long periods of time, to machine
-learning where large volumes of data are processed. Data sparsity refers to the fact that, due to
-redundancy, the data can be efficiently compressed while controlling the loss of information. A classic example in this context is the n-body problem in physics for which some forces
-between all pairs of n particles are computed with O(n) flops by using the fast multipole method
-(FMM) [69], while a direct evaluation of these forces requires O(n?) flops. This method relies
-on treating separately the contributions from near particles, which are computed directly, from
-contributions from distant particles, which are evaluated by using multipole expansions.
+(p. 170 above). We there saw that in special cases there may branch from Family I
+at the generating solution a doubly-infinite family of periodic solutions instead of a
+finite number of singly-infinite families: the cases in question are, of course, those in
+which the system (5.1) is “soluble.” There is, then, an obvious connection between
+the statement just italicised and the fact that in § 7 the general case is that in which
+there branch from the generating solution two singly-infinite families of periodic solutions
+and not a doubly-infinite family. We may sum up by saying that for an arbitrary
+Hamiltonian system the periodic solutions are in general “ singular.” It is easily shown that the theorems italicised on p. 212 above are true of a periodic
+solution of zero characteristic ratio which belongs to a singly- but not a doubly-infinite
+family of periodic solutions.

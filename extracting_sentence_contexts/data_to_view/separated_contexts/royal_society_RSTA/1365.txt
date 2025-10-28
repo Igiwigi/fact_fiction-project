@@ -1,27 +1,20 @@
-The vectorial (channelwise) total variation (VTV), see [20] for more
-definitions of VTV, is defined as
+however it happens that there exists in §, a simply
+infinite system of H-surfaces, i.e., of surfaces to each of which corresponds only one point
+of 2 ; and to such a system there corresponds in general a base curve of Y. Conversely,
+to the neighbourhood of any point of an isolated base curve of Y there must
+correspond in general an Hi-surface of St; so that the existence of any such base curve
+of ¥' will be indicated very obviously by the corresponding system of E-surfaces in 8.+
 
-3 MN
-VTV(u) := [|Dulloa => Yo ((Dugl2)ij
-k=1 ij
-3 MN
-= > > ( [(Dytt)? + (Ds?) = (3.3)
-k=1 ij uj
+Isolated Base Point.—In only one case does it happen that has an isolated base
+point ; and then the existence of such a point in ¥ is easily inferred from the existence
+of an E-prime in 8. Lests for Completeness.—Vhere is a simple and decisive way of testing in any given
+case whether all the base surfaces of ¥ have been found. For as previously pointed out,
+the residual surface of intersection of any two Y-primals is a V-surface, and this has
+known order—equal in fact to that of the ®-surfaces; so that the complete system of
+base surfaces of ‘’ must be such as to make the order of the general residual surface of inter-
+section equal to that of the ®-surfaces. Another test applicable to the multiple base
 
-For both greyscale and coloured images, we can set up the regularizers (3.2) and (3.3) using the
-TotalVariation function in CIL. The optimization problem that we solve for the colour denoising
-is similar to (3.1) but using the VTV regularizer, i.e.
+* When a surface is represented on a plane, any point of the plane which corresponds to a line of the
+surface is called a “ fundamental ” point of the plane.
 
-1
-u* =argmin 5llb- uli} +aVTV(u), (3.4)
-wu
-
-
-where b is shown in figure 1b. One can observe that (3.4) is in fact the proximal operator (2.2) with
-t =1.0 evaluated at b. We solve (3.4), using the fast gradient projection (FGP) algorithm that is
-contained in the proximal method of the TotalVariation function. Proximal TV Denoising
-
-VIV = 0.15*TotalVariation (max_iteration=500)
-proximalVTV = VIV.proximal (noisy_data, tau=1.0)
-
-It is clear from figure 1 that noise is reduced, while preserving the edges of the image.
+}

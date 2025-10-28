@@ -1,13 +1,25 @@
-We see from figure 6a that the negative-
-feedback system settles into a steady state intermediate between 0 and A (something that cannot
-be captured in a pure binary description). If the expression level of the system is transiently
-increased above this steady state, the resulting drop in the creation rate quickly restores
-equilibrium. In fact, the auto-repressed system equilibrates more rapidly than an unregulated
-system with the same steady state, as shown in figure 6a; this has the effect of suppressing
-stochastic fluctuations [45]. Memory and bistability by positive feedback: we next allow the gene to positively regulate its
-own expression (figure 5b). This can be achieved by closing the loop in (4.1):
-n
-OAD, ~ x= fe) — 900. (4.4)
-We see from the binary model that this system can have multiple steady states: a gene that is
-active will sustain its own expression, whereas one that is inactive will never become activated
-(figure 5b).
+Vol. 242. A. 46
+
+
+354 L. FOX ON THE NUMERICAL SOLUTION
+
+It may be remarked that the maximum error of the first approximation was less in the
+first method than in the second, in spite of the fact that a more accurate derivative formula
+was used in the latter. The reason lies in the fact that in this example neglected terms in the
+differential equation are of opposite sign to those in the boundary condition, and the two
+sources of error cancel each other to some extent. As pointed out in previous papers, this is
+not a circumstance to be relied on, and, indeed, the corrections are not negligible even at
+the smaller interval h = 0-1.
+
+14 74 3I 8
+6232 587) 24, 3694, 2416) 136) | 1 ! |
+
+Ficure 4 Ficure 5
+
+5 +6 5S +13 1+2
+
+oO -;
+
+Ficure 6
+
+4.

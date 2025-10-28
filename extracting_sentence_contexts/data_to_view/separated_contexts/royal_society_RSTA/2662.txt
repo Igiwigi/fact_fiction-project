@@ -1,7 +1,11 @@
-The crossover
-velocity v* is hard to estimate, though it should be much smaller than unity, and we take it as
-a parameter. In our simulations, for the sake of computational feasibility, we concentrate on the strong
-frictional instability regime where the b parameter is greater than a critical value b,. In fact, b,
-is determined solely by the elastic parameter ¢ [40-42]. In 1D, it is given by b, = 2¢? + 1, while in
-2D it is given by bp = 4¢? + 1. In the following, we put ¢ =3 corresponding to b, = 37, and vary b
-in the range of b > bc, ie. 40 < b < 80.
+0
+
+Stability of Tubes under Combined End and Surface Pressure. We shall not treat this case in any detail, but it requires notice in connection with
+the “localization of collapse” which is observed in experiments conducted upon long
+tubes tested under hydrostatic pressure, the permanent distortion being generally
+confined to a portion only of the length of the tube. This result is not predicted by
+the theoretical formula (83), which suggests a steady fall in the value of the collapsing
+pressure as the wave-length increases; and a partial explanation may possibly be
+found in the fact that the method of test has generally left a wholly or partially
+
+* Cf. footnote, p. 209. + For a similar omission in a solution of the boiler-flue problem ¢f.

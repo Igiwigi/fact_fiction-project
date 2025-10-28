@@ -1,15 +1,11 @@
-MacPDM has been run offline and therefore any feedbacks into the climate
-system have not been included. It has also not been calibrated and_ its
-yarametrizations have not been explored, although previous studies on smal
-river catchments [44,45] find that climate model uncertainty is greater than
-rydrological modelling uncertainty. In fact, we have found that as we move from
-he PPE model data (temperature and precipitation) to MacPDM output (run-
-off), the spatial correlation appears to increase pointing to the importance o
-he model input parameters, such as soil type and land cover, in controlling
-he resulting run-off, which may themselves change in the future owing to
-direct impacts of climate change, adaptation responses and COz effects on plan’
-water-use efficiency. The calculation of PE is included within MacPDM and is based on the
-Penman-Monteith equation; as shown in recent studies [46,47], this coulc
-ye another source of uncertainty. This issue may need to be explored in
-future studies to determine the sensitivity of the CPDN ensemble to the PE
-calculations.
+These applications are the subject of F.D.
+Chapters m and tv. But sometimes, for instance if heat sources are present, a knowledge of
+the temperature is needed, and the existence of a ‘temperature (boundary) layer’ as well
+as a ‘velocity (boundary) layer’ must be recognized and the energy equation used. These
+applications, which are the subject of F.D, Chapter xrv, require an apparently illogical
+system of equations in which the energy equation has been added to the incompressible
+forms of the mass and momentum equations, and in which, (i) the velocity of sound is in-
+finite in spite of the fact that (small) variations of pressure density and temperature are
+permitted and (ii) the physical properties of the fluid (such as viscosity) are constant. The
+underlying rationale of this system and its justification is discussed with the aid of the
+equations in reduced non-dimensional form in § 7. Cope and Hartree Phil.

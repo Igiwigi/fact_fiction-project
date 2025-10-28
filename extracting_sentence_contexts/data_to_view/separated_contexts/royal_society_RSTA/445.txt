@@ -1,9 +1,14 @@
-As already pointed out, the values of a; and az differ from those determined by Vittori &
-Blondeaux [17] of an amount of O(5). Because the value of the parameter 4 is usually quite small,
-we argue that the investigation of O(5) effects on the coefficients a1, a2 and the solution (3.13) of
-equation (3.11) is not useful. In fact, the results concerning the region of existence of rolling-grain
-ripples and vortex ripples in the parameter space are only marginally affected by the uniform
-steady streaming. On the other hand, it is interesting to look at the O(8) correction of the value of
-ow predicted by Vittori & Blondeaux [17], because O(5) terms in ow cause qualitative changes
-in the bottom profile. In fact, 7 is no longer symmetric with respect to the crests and the troughs,
-because co) has an imaginary part of O(5).
+The incident pressure cannot then arrive at any point on AB (figure 6) earlier than
+time —y so that
+
+bily,t) =0 (t+y<0), (162)
+whence equation (161) indicates that
+F(Y¥,t)=0 (t<Y), (163)
+
+corresponding to the propagation of a diffraction wave down the back of the half-plane. Further, it will be realized that the form of solution given by equation (161) remains
+unchanged if we proceed from a source at a finite distance in the region x>0, y>0 to the
+limiting case of infinite distance corresponding to a plane wave arriving obliquely from
+above. For this case it can, in fact, be easily checked that equation (161) gives the known
+solution in the form given by Friedlander (1946). As discussed in §2 the general solution for the pressure anywhere can be expressed in
+terms of F, by means of equations (1) and (9). Alternatively, we can use equations (1) and
+(7) if we know the solution for ¥.

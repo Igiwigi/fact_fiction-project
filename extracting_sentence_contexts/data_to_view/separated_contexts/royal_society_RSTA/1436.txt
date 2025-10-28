@@ -1,7 +1,12 @@
-They take a similar
-approach to [10] and simulate a specific scheduler using job run time predictions. However, as
-they assume the Maui scheduler [12] which is not widely used anymore, and as they base their
-work on simulations of the scheduler, their work cannot be applied in our case. Gao et al. [13] use a genetic algorithm to optimize job scheduling, however their approach does
-not apply to us due to the fact that we need to estimate job queue wait time probabilities. Chen
-et al. [14] use Naive Bayes, but in a different context, namely optimizing MapReduce partitioner. In this paper, we propose a novel method based on the well-known technique of Naive Bayes
-classification.
+‘To put it moderately, there is
+at least no evidence that any secondary period exists—a conclusion in entire accord with
+that of Larmor and Yamaga (loc. cit.). The result also bears out the assumption that
+it is disturbances rather than superposed fluctuations which are the main cause of the
+irregularity, the element of unpredictability, in the data. The fact that we get a worse and not a better estimate, although that estimate is
+based on a larger number of variables, will naturally seem paradoxical to those who are
+accustomed to the ordinary theory of correlation. It is simply due to the fact that we
+have insisted on the regression equation being of a particular form, the coefficients of
+U,—1 and u,-3 being identical, and the coefficient-of u,-, unity. The result tells us merely
+that, if we insist on this, such and such values of the coefficients are the best, but even so
+they cannot give as good a result as the equation of form (13) with only two terms on
+the right.

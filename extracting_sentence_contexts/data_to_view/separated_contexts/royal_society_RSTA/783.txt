@@ -1,24 +1,8 @@
-As a distribution is uniquely determined by all of its moments under
-the Hamburger moment problem conditions, hydrodynamics for all the conserved charges is, at
-least possibly, equivalent to a kinetic theory description of the evolution of p(k, x, t). What form would we expect such an evolution equation for the pseudomomentum to take? In
-an integrable model, quasi-particles interact with each other through phase shifts: the initial and
-final momenta of two particles going through a collision are preserved, but there is a scattering
-phase shift. (In fact the Yang—Baxter equation, which we have used to name a class of integrable
-models, is an expression of how scattering phase shifts for three particles are determined by the
-two-particle scatterings and independent of their sequence.) According to Wigner, an energy-
-dependent phase shift can be interpreted as a time delay, i.e. particles of one momentum k are
-delayed by passing through particles of another momentum k’. [=
++8D(K+9)*+ oR aka) ey
+It is shown later that ¢ = 0:1487 cm.~! and y = —0-00033 cm.~!, so that, except for
 
-We thus should expect a Boltzmann-like equation with no collisions that rearrange momentum : 3
-but with a velocity at each point that depends on the distribution of other particles,
+the very lowest values of K, the sum of the third and fourth terms in these expressions
+can be neglected. Inspection of Tables XIII—XV shows that the four values of A, F/ (J)
+which correspond to the same value of K are in fact equal when K is greater than four. Accordingly we can write
 
-d:o(k, x, t) + dx(u[{o(k, x, H}lo(k, x, #)) = 0. (3.10) S
-
-The only part of this ‘Bethe-Boltzmann’ equation requiring Bethe ansatz methods is the a]
-calculation of the self-consistent backflow that determines the velocity functional v[] (for the case DNS
-of the XXZ model, this was done in [6]). Hydrodynamic solutions (ignoring previous attempts that aon
-did not correctly capture the self-consistency) and derivations of (3.10) or closely related forms as)
-have been investigated for the two-reservoir quench for Lieb-Liniger [5] and XXZ [6,10,47,48] .
-and shown to work exactly in the scaling limit. More recently, solutions have been investigated for
-general initial conditions in these models [7,8], including at T = 0, where interesting connections
-to normal hydrodynamics appear [49].
+A, F'(K) = 4Bi(K+}) +8D,(K+ 3)?.

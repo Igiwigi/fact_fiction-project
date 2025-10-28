@@ -1,33 +1,13 @@
-We see that the
-Griffith equation used in the Liberty ship disaster analysis does not emerge because the lap joint
-crack is essentially a low angle peeling delamination rather than a tensile stress-driven Griffith
-crack in a stretched sheet. Thus, the following analysis can confuse Fracture Mechanics students
-who understand only the Griffith equation, since the final equation for lap joint interface crack
-equilibrium, based on the Griffith Principle, is quite different from equation (2.1) though it has
-similar dimensions.
-
-
-(a) (b)
-
-+—~_ welded
-rivetted
-« =a
-
-Figure 5. (a) Tensile tests comparing welded and riveted CFRP lap joints; (b) schematic plots of force/extension results showing
-the brittleness of the welded structure; (c) large aircraft panel made by welding CFRP components. (Online version in colour.)
-
-load F
-
-extension
-
-5. Theoretical analysis
-
-One of the deficiencies of fracture mechanics textbooks [23] is that peeling fracture is not normally
-described, despite the fact that peeling gives the simplest crack equilibrium equation as first
-discovered by Rivlin in 1944 [9], while also giving failure at the lowest force possible, making
-it mechanically easy. Additionally, the peel crack propagates at constant speed under steady load,
-so does not accelerate catastrophically as in the Griffith crack, giving easier observations of crack
-speed. The same is true for the lap joint crack, showing its relation to peeling and bending cracks,
-which are also absent from most fracture mechanics courses, possibly because solutions produced
-by the Griffith Principle do not produce the Griffith equation for peeling, bending, double torsion,
-compression, JKR, compact tension and almost every practical cracking test.
+He describes his investigation as “ very incomplete and unsatisfac-
+tory,”* and found himself unable to perform the expansion. In regard to Rayteicn’s remark it may be contended that solutions applicable to
+an infinite field (e.g., in the theory of elasticity or of the conduction of heat) have very
+little bearing on the question of expansion in normal co-ordinates when the field is
+limited and boundary conditions are imposed. In regard to the standpoint adopted
+by Orr it may be remarked that we have succeeded in finding a method of expansion,}
+but that this result does not seem to have much bearing on the question whether the
+expansion is in fact valid. In ordinary harmonic analysis, for example, there is no
+difficulty in determining values for the coefficients, but a relatively elaborate argument
+has to be employed to justify the expansion. In many physical problems for which the
+method of normal co-ordinates is employed, the validity of the expansion cannot be
+established rigorously, but is asswmed.—presumably on the grounds of an argument
+by induction, of the kind which has been given in§2.

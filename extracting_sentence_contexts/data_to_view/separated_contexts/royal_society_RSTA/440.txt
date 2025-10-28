@@ -1,15 +1,17 @@
-Finally, §5 is devoted to various
-numerical experiments, which allow one to recover the steady distribution of wealth and
-knowledge in the population for various choices of the relevant parameters.
+By a similar argument it can be shown that our first form of solution, involving the pressure
+‘opradient y(y, t) is also unique. In either form, once y or F is determined uniquely, the field
+everywhere is then determined uniquely by equations (1) and either (7) or (9). ‘w Essentially, although the basic integral equation (15) and the resulting equation (25)
+sao not have unique solutions, our solution is made unique by satisfying the condition that
+-Bthere is no incident field from the left and using the fact that effects cannot be propagated
 
-2. An evolutionary model for knowledge
+Zround the edges faster than the velocity of sound. 3
+5 3-6. Average pressure on strip
 
-Even if a well-established definition of knowledge does not exist, and there are numerous
-theories to explain it, one can agree on certain universal aspects about it. Knowledge can be
-described as familiarity with someone or something unknown, which can include information,
-facts, descriptions or skills acquired through experience or education. It is commonly accepted
-that knowledge is in part influenced strongly by ones parents, but it is evident that the main
-factor that can influence knowledge is the environment in which an individual grows up and
-lives [43]. Indeed, the experiences that produce knowledge cannot be fully inherited from ones
-parents, such as the genome, but rather are acquired over a lifetime from several elements of the
-environment.
+o 5
+‘2 A quantity of physical interest is the force on the strip due to the pulse, which per unit area
+
+“ais the average net pressure f given by
+> ES adel
+£ D=| (by-h) a, (93)
+
+E\where the suffixes refer as before to the front and back of the strip.

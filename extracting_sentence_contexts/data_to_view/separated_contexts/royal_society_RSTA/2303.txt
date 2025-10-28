@@ -1,10 +1,12 @@
-Additionally, in these figures, we also show the distributions of three measures: the quantity
-5F, mentioned above, and the norms of difference between the consecutive iterative steps
-WRiga — Rn lo, Wy — Zi lz, to provide a fuller picture of the numerical method’s rate of
-convergence. One can observe in figure 3 that the iterative method (3.6) converges faster (in terms of the
-number of iterations) and gives more accurate results for higher values of L,. However, it is
-important to account for the fact that functions Z*(t) and R~(f) oscillate with frequencies that
-grow as we increase L,. and, consequently, a larger number of mesh nodes N are needed to account
-for this. This, in turn, makes each individual iteration more time-consuming. To further clarify this point, and the dependence of the final algorithm on the number of
-integration points N, in figure 4 the same graphs are provided for fixed N = 800 with differing
-values of L,.
+387
+
+tests may be considered crucial. Curiously, it was found that though these were the
+purest silver obtainable from Messrs. Johnson, Matthey and Co., they were both in
+slight degree permanently magnetised. This is in itself an interesting fact. The
+torsion system used here is, in this case, a most sensitive magnetometer and when a
+N. pole of a bar magnet was brought outside the vacuum, slightly above one silver
+sphere, it repelled it, the corresponding scale reading being 4 mm.; whereas when
+the N. pole was below, there was a like attraction. This permanent magnetism was °
+removed with some difficulty by the passage of a current through a coil round the
+yacuum tube, until at last the scale reading was reduced to the small amount of
+0°2 mm.

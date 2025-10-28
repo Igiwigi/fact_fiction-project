@@ -1,13 +1,20 @@
-Soc. A (2009)
+Interpolation is necessary when the
 
 
-Introduction. Statistical challenges 4247
+OF MAGNETIC HYSTERESIS IN HETEROGENEOUS ALLOYS 617
 
-(corresponding to the number of pixels in each image), but in fact potentially
-described by the variation of a much smaller number of parameters. Some
-influential approaches to this problem include ISOMAP (Tenenbaum et al. 2000),
-local linear embedding (Roweis & Saul 2000), Laplacian eigenmaps (Belkin &
-Niyogi 2003) and Hessian eigenmaps (Donoho & Grimes 2003). These nonlinear representations can also be described as spectral methods for
-dimension reduction, because each involves finding a small number of extreme
-eigenvalue/vector pairs for a suitable matrix derived from the local characteristics
-of the data (a;).
+limits, such as those imposed by the critical values of @ or 4, do not coincide with tabular
+entries. The standard tables (tables 2, 3) give ¢ or cos¢ as a function of 0 for given hf, and in
+carrying out integrations using the forms (3-5) or (3-6), direct or inverse interpolation is
+necessary in drawing up the requisite tables of cos¢ as a function of cos@ or of cos@ as a
+function of cos ¢. Since the intervals are small, however, once the first few entries have been
+obtained by the method indicated above, subsequent estimates may be readily made with
+considerable accuracy by forward extrapolation using the part of the table already con-
+structed. It will be apparent that the labour entailed in computing the integrals corresponding to
+the mean magnetization for ellipsoids orientated at random for the four 4 values from
+—0-6 to —0-9 (table 6, § 4) is quite formidable, even allowing for the fact that the integrals
+for the corresponding positive values of h are obtained incidentally. It must be stressed,
+however, that a procedure similar to that outlined is necessary if uncertainties are to be
+avoided. Even if an accuracy of 0-001 rather than of 0-0001 in cos¢ had been aimed at, it
+is doubtful whether a direct attack on the integrals (using the form (3-4) exclusively) would
+have been satisfactory.

@@ -1,16 +1,14 @@
-PUBLISHING
+The stress acts in the direction at right angles to the principal stress axis which lies in
+the plane concerned. If 6, 6a, ¢3 are the principal stresses then
 
+™% = $ (a, — 53), tT: =} (53 — 9), Tt =3(4 = Ga). The importance of the principal shear stresses lies in the fact that it is found experi-
+mentally that the addition of a total hydrostatic pressure to any stress system does not
+produce any plastic strain. This depends only on the shear stresses. The addition of
+a constant pressure to o,, o, and cy leaves 7, +, and 73 unaffected so that >,
 
-This article is part of the theme issue ‘Fluid dynamics, soft matter and complex systems:
-recent results and new methods’.
+Ta, Ts are
+sufficient to define the stress system so far
 
-]. Introduction
+as plastic distortion is concerned ; and since
 
-The lattice Boltzmann method (LBM) is an efficient numerical solver used to simulate various
-types of flows and physical phenomena [1]. It gives the space and time evolution of fictive particles
-gathered in V different groups fj(x,&;,t) with respect to their propagating speed &;, where i¢€
-{0,...,V — 1}, and which are located at point (x,t). By computing statistical moments of fj, one
-then recovers macroscopic quantities of interest for computational fluid mechanics (CFD), namely,
-density p, momentum pu and total energy pE. Going into more detail, the evolution of these populations f; is most commonly described
-through two steps (propagation and collision) that are combined in the widely used stream-and-
-collide algorithm [2].
+* Love's * Elasticity,’ 4th ed., § 50.

@@ -1,14 +1,12 @@
-This condition ensures that i) the maps § > LMP 2. (&),
-for k=1,...,M, are affine and hence continuous, and ii) for any & belonging to the intersection
-between two regions 3;’s the corresponding LMP vector is unique, so that the affine maps agree
-on the intersections resulting in an overall continuous map.° We now proceed to relax ii), allowing
-jump discontinuities in LMPs.
+Since A is
+found to oscillate with diminishing amplitude as Q increases. a higher degree of
+accuracy is required in determining ’, ete., in order to obtain satisfactory approxima-
+tion in A.
 
-5In particular, active constraints can change without causing a jump discontinuity in the LMPs. Consider two neighbouring regions, which we denote as Z; and = ;, and let H be the
-hyperplance separating =; and Ej. The fact that LICQ holds at =; implies that, if {i1,...,iq} are
-the binding constraints at optimality in the OPF for & € = i, then in view of equation (3.4) we have
-qSNg, where we recall that Ng is the number of decision variables in the OPF (i.e. the number
-of controllable generators). As we move from = x on to the common facet F = 2; H between
-regions ©; and = jr which has dimension n; — 1, there could be an additional constraint becoming
-active (coming from the neighbouring region £j), and since LICQ holds on F we get q+ 1<ng. In general, critical regions can intersect in faces of dimensions 1,...,ng — 1, and enforcing LICQ
-to hold on all these faces could imply the overly-conservative assumption q + ng — 1<ng.
+For this reason the method becomes impracticable when Q and B are large, and the
+range of our exploration is accordingly very limited. In fact, as fig. 1 makes clear, our
+curves are confined in the main within a range of ReyNotps’ number which is less than
+Orr’s figure (177) for the lowest value at which instability can possibly occur. Thus
+we could have foretold that Q would be positive throughout the greater part of our
+diagrams, and the actual determination of the loops has accordingly thrown little new
+light on the question of stability or instability.

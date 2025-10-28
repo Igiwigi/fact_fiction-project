@@ -1,44 +1,18 @@
-Configurations in response to triggers.
+The 0! directrix curves
+meeting Ay, are conics except for a unique straight line y', the generating line ayc, of 2
 
-hour (H) trigger nature node1 node 2 node 3 node 4 node 5
-1 AR, at EPN, = 500 PN;
-2 AR at EPN) = 500 PN;
-PN,
-3 AR, at EPN, = 1000 PN; PN,
-AR at EPN> = 1000 PN, PNy
+in fact. ‘ bi Wy ; ae a
+Had ¥Y’ been A 3] with an extra 9th point its tableaux would have been
+Vi Yo
+1h 5 ss = T\ and all the directrix curves would be conics with no distinctive points
 
-AR, at EPN; = 1000
-AR, at EPN, = 500
+on the line Ay, which they all meet. Incidentally the above geometrical process throws light on the somewhat obscure
+algebraical fact that in reducing a matrix pencil to canonical form it is the minimal
+index of lowest value which first presents itself. When D has a single minimal index , and therefore a single curve .1°, of order 7),
+the canonical form of the corresponding space Y/ is explicable as follows: This curve
 
-4 AR, at EPNy = 1000 PN; PN EPNs
-ARs at EPNs = 1000 PN) PNy
-5 AR, at EPN) = 2000 PN; PN EPNs EPN, EPNa
-6 ARs at EPNs = 0 PN; PN
-AR, at EPN, = 500 PN, PN,
-AR at EPN> = 1000
-7 AR, at EPN; = 500 PN; PN
-AR at EPN) = 500 PN) PNy
-AR; at EPN3 = 500
-8 AR, at EPN> = 0 PN;
-AR, at EPNy = 0
-AR; at EPN3 = 0
+meets two strata A and C in single points a, and ¢; say. The osculating systems of these
 
-Figure 4 plots, for each node, the maximum of 5™ of the EPNs hosted locally at H = 1,2,...,8,9.
-(At H=9, AR; was set to 0, bringing the system to an idle state.) We observe that HW (set
-to 20%) was exceeded during 4.3<H <6, the period when EPNs were receiving events at
-peak rates. This observation leads to two inferences: an intelligent system such as CS is vital to ensure that
-RT meets T when EPNs are faced with the possibilities of event arrival rates fluctuating; secondly,
-nodes must report both RT and AR to CS in a proactive manner as proposed in §4, not just in
-response to significant changes they observe in AR. The latter arises owing to the fact that W
-tends to underestimate RT at large values of RT and hence adjustments to existing configuration
-are necessary even if a large AR remains constant for nearly an hour.
+points interlock and at once give rise to chains @, dy ..., ¢{¢3 ... of index n,, where the set
 
-
-8. Conclusions
-
-We have described a novel approach to deploying a collection of EPNs on cloud platforms in a
-manner such that the response times can be ensured to meet specified targets even when event
-arrival rates can fluctuate over time. Novelty of our approach lies in predicting response times
-based only on prior calibration and periodic measurements of event arrival rates and end-to-
-end latencies of EPNs; there is no need for intrusive, low-level measurements at operator level
-within EPNs.
+c, is the set ¢,¢c, ... in reversed order.

@@ -1,12 +1,13 @@
-The DVV method
-is explained and further elaborated and tested in Gautama et al. [28-30] and Mandic et al. [31]. A
-separate paper in this Theme Issue tests DVV for floating platforms and the potential of its use for
-tracking changes in structural properties is identified there [32]. Advantages of using this method
+This will appear on
+igferring to Plate 6, Crewe, and comparing the measurements of the first, second, and
+&tird spectra. Although there is some difficulty in obtaining measurements of bands
+2 precise as we are accustomed to in line-spectra, this does not account for the
+discrepancy. It is, in point of fact, due to the bands altering in width, or, in some
+ses, becoming less distinct at the edges ; the bands are also much obscured on some
+®ectra by the continuous rays being strong. ‘There is some difficulty also, it may be
+fEmarked, in measuring the broad lines visible in some of the banded metallic spectra
+Phil Trans.,’ Part I., 1894). E Observations made at Crewe and at Dowluis in 1893.
+jo)
 
-
-relate to the facts that it does not require any prior knowledge about the system or the excitation,
-it is robust to the presence of noise, it is straightforward to interpret and typically exhibits
-improved performance over other traditionally available methods [30]. Numerical analyses were
-performed using the DVV toolbox [33]. The output of the method is one number for each
-response signal recorded, shown by the root mean square error (RMSE), and represents the degree
-of nonlinearity of the response [30].
+at am much indebted to Mr. F. W. Wexp, of the Locomotive Department of the
+London and North-Western Railway, and to Mr. KE.

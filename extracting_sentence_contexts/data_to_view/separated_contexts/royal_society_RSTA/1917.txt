@@ -1,17 +1,18 @@
-Further,
-a numerical comparison between LBM with the herein given equilibrium population and LBM
-with an extended Navier-Stokes equilibrium is given in [31]. From a formal point of view, the
-inclusion of extended equilibria into the current framework would require extended perturbation
-terms for the steps AP in the proposed ansatz (§3), effecting additional terms on the right-hand
-side of (3.7).
+The principle that the lines of movement and the structures in newer rocks often
+follow (“posthumously”) lines and structures existing in underlying rocks as the
+result of earlier movement is well known, and has been applied with success in
+many cases even though definite exceptions are known. If, now, we review the
+evidence that favours the application of this principle to the area now under
+consideration we obtain many clear indications that the post-Triassie movements
+followed the lines of earlier pre-Permian movements. There is firstly the evidence
+of the faults with a small throw in the Triassic rocks, and a much greater throw in
+the underlying Carboniferous rocks, Secondly, there is the fact that where the
+Paleozoic rocks in the concealed coalfield are twisted round to the south-east, the
+overlying Mesozoic rocks also suffer a local south-eastward twist, but to a lesser
+degree than in the case of the older rocks below. There is then a definite
 
-5. Lattice Boltzmann equation—numerical examples
 
-The generality of the herein presented ansatz is reflected in the fact that by varying model
-parameters in the constructed DVBE, we can reach either an advection-diffusion equation, a
-diffusion equation, or a hyperbolic conservation law. The following numerical tests investigate
-the applicability of the stability constraints derived above and suggest approximation orders to
+AND LEICESTERSHIRE AND THEIR RELATIONS TO GEOLOGICAL STRUCTURE. 123
 
-
-the TEQ. An in-depth analysis of accuracy and consistency in each step from TEQ to LBE is not
-carried out, though subject to follow-up research.
+correspondence between the structures in the Mesozoic rocks and those in the
+Paleozoic rocks.

@@ -1,16 +1,11 @@
-Any single-qubit Pauli measurement on a qubit u gives a product states between qubit u and
-the rest of the qubits, see equations (2.15)-(2.17). The sequence W cannot therefore contain a
-single-qubit Pauli measurement on a qubit u, different from v, since u has non-zero degree in the
-graph G’ by assumption. Without loss of generality, we can in fact assume that W is a sequence
-of single-qubit Clifford operations followed by a measurement of v in the standard basis and
-then by another sequence of single-qubit Clifford operations. The reason why it is sufficient
-to consider a measurement in the standard basis is that any other Pauli measurement can be
-simulated by performing some single-qubit Clifford operation followed by a measurement in the
-standard basis. Assume that the sequence of single-qubit Clifford operations before (after) the
+'= 0697(AS Bi eo (2005) These equations have been derived from areas of 2° square and greater and we shall
+have need to estimate errors of much smaller areas. According to (29.4), (29.5),
+the error would vanish when « and are reduced to zero ; but in fact we must find
+that an observed value still had an error of representation of the very point at which
+it was observed, namely, the error of observation, é. Obviously, so long as this is
+small compared with the errors which we have just considered, we can modify our
+empirical formule as follows. Thus
 
-3For the special case when |N,,| =0, a measurement in the X-basis does not change the graph state since this is then |G) =
-|+)» ® |G\v).
+Root-mean-square error of representation = E, = [¢0? + {0-7 (a + p#)}2]# (29.6)
 
-
-measurement is described by the sequences of local complementations m (m'), which exists due
-to theorem 2.2.
+Probable error of representation = P,

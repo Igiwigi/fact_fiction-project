@@ -1,12 +1,7 @@
-When it comes to dissipation rates, they fit a quadratic trend 13
-with respect to the wavenumber [Im()/v « K]and they are always negative. This means that the [3
-dissipation of waves is even more important when their spatial frequency k is high. This translates 78
-to the fact that viscosity impacts more small vortical structures than bigger ones. :3
+The fixed platinum resistance N (about 20 ohms), wound as a thermometer, but exactly
+compensated for change of temperature, was inserted in the case of the resistance box
+for convenience. The fundamental interval of each thermometer was about 5 ohms,
+so that the unit bridge coil (approx. 0-1 ) corresponded to 2° on the platinum scale. Each resistance coil of the box was compensated as described by CaLLenpary,
+in fact, the same bridge was used. All contacts were either copper to copper soldered
 
-(c) Linear behaviour of the D209 discrete velocity Boltzmann equation
-
-In what follows, the linear behaviour of the D2Q9-DVBE is investigated by solving the eigenvalue
-problem related to the perturbed equation (A 3). Hence, it is important to understand that V
-waves will be evolving in the Fourier space, instead of the D + 1 waves encountered with the
-isothermal NS equations. This is because the DVBE, and a fortiori the LBM, is a set of V equations
-whose linear behaviour is entirely linked to V waves.
+* * Phil. Trans.,’ A, vol. 212, p. 17 (1912).

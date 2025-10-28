@@ -1,88 +1,20 @@
-The commissioning
-time minus the decision time is equal to the construction time of an asset. Table 1. Nomenclature (pu = per unit).
+CHREE: ANALYSIS OF RESULTS FROM THE KEW MAGNETOGRAPHS
 
-symbol Meaning unit
-variables
+a an Ge ”
 
-C expected total cost across all scenarios $
+Bivins
+oo Sian
+ae en a
+Mime) a Cee
+|) ee
 
-C maximum total cost across all scenarios $
-fmt power flow of line / in scenario tree node m in time period (hour) t MW
-fine power flow of line / in scenario tree node m in time period (hour) t (without the MW
-
-contribution from the FACTS device)
-
-fa power flow contribution of the FACTS device in line / in scenario tree node m in time period MW :
-- (hour) t : =
-In investment cost of scenario tree node m $ : Sy
-a
-Om operational cost of scenario tree node m $ a]
-Bn capacity of battery storage plant b in scenario tree node m MW S
-Peat power output of battery storage plant b in scenario tree node m in time period (hour) t MW g
-Pere discharge power of battery storage plant b in scenario tree node m in time period (hour)t © MW : SS
-Pont charge power of battery storage plant b in scenario tree node m in time period (hour) t MW : s
-Pre energy stored in battery storage plant b in scenario tree node m in time period (hour) t MWh a
-Pn capacity of generator g in scenario tree node m MW
-Po at power output of generator g in scenario tree node m in time period (hour) t MW
-gen voltage angle in From/To node of line / in scenario tree node m in time period (hour) t rad
-Him installation of line / in scenario tree node m {0,1}
-Hin installation of the FACTS device in line / in scenario tree node m {0,1}
-parameters
-AS availability factor of generator g in time period (hour) t pu
-Dams demand in node n in scenario tree node m in time period (hour) t MW
-fi capacity of line / MW
-fp maximum capability to shift power of the FACTS device in line / MW
-im discount factor of scenario tree node m pu
-RM downward ramp rate limit of generator g as a percentage of its capacity per hour %h-
-Re upward ramp rate limit of generator g as a percentage of its capacity per hour %h"
-x reactance of line/ Q
-Nb round-trip efficiency of battery storage plant b pu
-r risk-aversion factor pu
-xf unitary investment cost of battery storage plant b (annuitized) SMW yr
-ny unitary investment cost of generator g (annuitized) SMW yr
-mt investment cost of line / (annuitized) Sy
-n° investment cost of the FACTS device in line / (annuitized) Sy
-m8 variable cost of generator g $MWh7"
-
-(Continued.)
+o S
++ + i rf r
 
 
-Table 1. (Continued.) | |
+ON “QUIET” DAYS DURING THE ELEVEN YEARS 1890 TO 1900, ETC. 375
 
-symbol meaning unit
-Pm probability of scenario tree node m pu
-TP energy capacity of battery storage plant b measured in hours at full power capacity h
-t! scaling factor to transform annuitized investment cost into investment cost in an epoch pu
-ia scaling factor to transform operational cost in representative days into operational cost in pu
-an epoch
-wy sufficiently large positive constant MW
-set-related symbols
-B set of battery storage plants : =
-B set of candidate battery storage plants 3
-Bn set of battery storage plants in node n 1
-From, set of lines that start from node n : x
-G set of generators : Sg
-G set of candidate generators : SS
-6 set of conventional generators : s
-é set of candidate conventional generators -
-Gn set of generators in node n
-L set of lines
-i set of candidate lines
-i set of candidate FACTS devices
-M set of scenario tree nodes
-Ms set of the scenario tree nodes that contains one child node of each parent node in the
-scenario tree
-N set of nodes
-p(m) parent node of scenario tree node m
-Sin set of sibling nodes of scenario tree node m
-SC set of uncertain scenarios
-SG set of scenario tree nodes in scenario j
-T set of time periods (hours)
-Ton set of lines that go to node n
-
-As formulated in equation (3.2), investment costs include terms related to new conventional
-and renewable generation, new lines, new storage plants and new FACTS devices (shown in this
-order in equation (3.2)). Equation (3.3) models the fuel costs of thermal power units across all time
-periods. As per equations (3.4) and (3.5), we assume that investments are irreversible and that some of
-them feature a lag of one epoch (i.e. several years) between decision and commissioning times,
-respectively.
+mean inequality for the year. In fact, the data from March give a better general
+idea of the phenomena than those from any other month. § 28. To facilitate comparison of the law of variation throughout the year of the
+range and the sum of the 24 differences in the diurnal inequalities of D, 1, H, and V,
+T give a synopsis of the whole of the data in Table XVIII.

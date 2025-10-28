@@ -1,10 +1,11 @@
-Consensus for WSI across each ensemble (figure 2d) is stronger than for MAR. This suggests that for the majority of river basins, the direction of change in
-WSI is very much dependent on the population in the basin, at least for the
-2060s population scenario, i.e. depending on the basin, the population numbers
-are more important in determining the change in WSI than the spread of values
-across the climate ensembles. In fact, for 64 per cent of the river basins driven by
-the CPDN ensemble, there is greater than 99 per cent consensus in the direction
-of change in WSI for both temperature regimes. This also follows for the CMIP3
-ensemble where 74 per cent of the ensemble shows consensus in the direction
-of change in WSI for the +2°C world. However, in a small number of river
-basins, there is little consensus at either +2°C or +4°C.
+In none of the references cited above is this equation given in its most general terms. Careful examination of its derivation shows that (3-3) is restricted neither to a perfect gas
+nor to one whose specific heats are constant, but is applicable to any fluid provided E is
+a function of T only. The dissipation function is given by
+
+& = wl2V{(9V) 93+ 0 —29V4 —§4?], (3-4)
+and is unaffected in form by the fact that viscosity is a variable. An alternative form of the energy equation can be obtained in terms of the enthalpy; it is
+
+pa —# = 6+. V{(KV) T}, (3:5)
+but since in this form it is now assumed that both EF and Jare functions of T only this equation
+is necessarily restricted to a perfect gas, but no restriction to constant specific heats is as
+yet implied.

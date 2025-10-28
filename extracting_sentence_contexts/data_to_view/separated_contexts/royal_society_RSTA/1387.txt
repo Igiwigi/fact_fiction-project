@@ -1,11 +1,14 @@
-More generally,
-scale-aware convection schemes that correctly handover between resolved updrafts and sub-
-grid convective plumes may help to address this issue (see below), although we note that in
-some cases running without a convection scheme can perform better than using scale aware
-schemes [69,70]. The challenge for climate change studies is to understand to what extent the
-inherent deficiency of CPMs to overestimate heavy rainfall intensity impacts on the reliability
-of future changes. Does the fact that heavy rainfall tends to be too intense in the present day
-make the model likely to overestimate or underestimate future changes? The likelihood is that
-model updrafts will be too strong in future storms as they are in present-day storms, but changes
-may still be reasonably captured. Looking at how extreme rainfall values increase with the rarity
-of event (i.e. return period) provides some support for this.
+Special Base Surfaces of ’.—When we proceed to find the base surfaces of V in the
+usual way, it soon becomes clear that for some of the transformations under consideration
+there must be special base surfaces of Y, not arising from doubly infinite systems of
+E-curves in §. The existence of such is in fact revealed by applying the test for complete-
+ness to those base surfaces which arise in the ordinary way. It is usually easy enough
+to find the origin of the missing ones, and without wishing to enter into further detail,
+we shall explain three ways in which they may be accounted for :—
+
+(a) Primals of ¥ may have a surface of contact—VThe quadric-cubic transformation of
+class I, for example, is just a special case of {2, 4, 3} ; but the usual procedure
+gives instead of a quintic base surface, only a base plane and the base quadric Q
+corresponding to the neighbourhood of the line /. One would expect then, and
+
+*

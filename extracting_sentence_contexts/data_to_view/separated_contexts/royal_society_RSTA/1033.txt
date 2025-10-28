@@ -1,12 +1,8 @@
-The distance between
-the anterior and posterior surface of the model is taken to be 0.3mm, inferior to the average
-thickness of the cornea (0.5mm). We remark that the model is statically stable also for zero
-thickness, and the distance between the anterior and posterior surface is considered only to
-obtain a more realistic shape in the keratoconus case. In fact, it is commonly observed that
-keratoconus corneas are much thinner in the zone of the conus, and the possibility to fold
-into an acute cone shape is also dependent on the reduced thickness. Clearly, an increase of
-the thickness increases the global stiffness of the model; therefore, to maintain the number
-of parameters at the minimum, we decided to use the same thickness also for the normal
-corneas. Preliminary calculations showed that, for a fixed thickness, the solution of the simplified model
-in terms of displacements corresponds to the solution of the corresponding three-dimensional
-finite-element model, with an error less than 1%.
+1)
+It is remarkable that, when « lies close to the value 5, both the coefficient of y? and
+the term independent of p in (121) very nearly vanish. In this case, therefore, H,
+varies very nearly as yp‘, in marked contrast to its value when « is small, viz., unity. This fact has an interesting application later. The Oscillations of a Gas within a Rigid Ellipsoidal Envelope. The most interesting elementary solutions of the wave equation are those denoted
+by
+¢ = H,E,
+and
+d card fe

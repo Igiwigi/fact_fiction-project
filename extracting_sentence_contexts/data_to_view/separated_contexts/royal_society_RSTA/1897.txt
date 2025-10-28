@@ -1,59 +1,6 @@
-The Poisson equation is the partial differential equation. From which, the electrical
-field can be derived [18,19,22,23,27]
-
-vw =f (2.7)
-€
-
-where W is the electric potential, pz is the volumetric charge density and ¢ is the dielectric constant
-of the material. To solve the Poison equation with the LBM, a fictive time-dependent term is added
-and the equation becomes
-
-ow
-
-ave 4 2, (2.8)
-ot €
-
-Introducing a parameter x, which depends on the dielectric constant of the material, different
-dielectric material can be simulated. The evolution equation for equation (2.8) in a D2Q9 LBM
-can be written as
-
-1
-h(x + ¢j,t +1) — hj(x,t) = — 5 thule, ) We, H+ oe (2.9)
-
-and
-
-nso’, Y= yh, w =3x +05. (2.10)
-
-i
-
-The distribution of electric field, E, can be computed either via the finite-difference discretization
-method [28] or directly via the distribution functions [29,30]. Here, the isotropic finite-difference
-discretization method is applied
-
-1 1
-Ex = Vill = 5 (Yin — Vina) + Tagg Mitre — Minajer + Minnja — Yi-nj-a) (2.11)
-
-and
-
-1 1
-Ey =Vy¥ = 35x Mit —Wija)t+ Dox Pit i41 + Yaa ju — Yigaja — Yi-rj-1)- (2.12)
-
-
-(c) Lattice Boltzmann method for the electrokinetic concentration field
-
-Advection—diffusion equation (2.13) and Nernst-Planck equations (2.14) and (2.15) are used to
-describe the electrokenitic concentration field, C(x, f) [22,31,32]
-
-ac
-
-at V- (Cu) =DV*C+R, (2.13)
-where R is the reaction source and C is the concentration.
-aG
-ICion + Vion =0 (2.14)
-at
-and
-ezD
-Jion = — iT cin” — DVCion + Cionttion, (2.15)
-
-where Cjon is the concentration of ions, Jion is the flux of ions, e is the unit charge, kg is the
-Boltzmann’s constant, T is the temperature and ton is the velocity of the ions.
+4, but it may be masked by the errors of observation. In fact, the experimental data
+which look most reliable for this part of the curve point to a rising current with rising
+negative voltages in those experiments. On the other hand, although the matter was
+not explicitly tested at the time the experiments were made, the chlorine data which
+form the basis of fig. 7 show, on re-examination, a distinct drooping tendency towards
+higher voltages.

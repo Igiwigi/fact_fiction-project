@@ -1,13 +1,17 @@
-While the evaluation of the phenomenological RET structure
-proceeds quite differently from the kinetic theory approach—where one has to integrate a
-distribution function—it is also quite challenging, and for classical monatomic gases there is
-no RET system above the 10 moment case that has the full structure as outlined above. Further
-examples, including chemical reactions, radiation and viscoelasticity, can be found in [37]. All RET systems with 13, 14 and more moments discussed, e.g. in [9,38], are, in fact, : =
-approximations and do not have the full RET structure. Rather, these approximations are similar, : =
-if not identical, to Grad-type moment systems, with the same limitations as these, in particular 1B
-only the linearized equations have an entropy, and hyperbolicity is lost for larger deviations from :2
-equilibrium states. 8
+(s = integer),
 
-The equivalence between RET for the ideal gas and maximum entropy closure was never fully : o
-exploited to discuss feasibility of the macroscopic approach. For instance, a MaxEnt system with 5 99
-13 variables is impossible due to blow up of the distribution function as discussed above.
+giving a periodicity in log r for a given value of 0,
+
+The complete solution for Zp will be obtained by adding such solutions, corresponding
+erp a a -P P-1
+
+Z, will give the vorticity in the case « = 0, that is, for an infinitely slow stream or an
+infinitely high viscosity. ‘The successive terms Z,, Z,, etc., obtained from (23.51), etc.,
+will, of course, modify this solution, but it seems possible that a certain periodicity in
+log r may persist. ‘This appears suggestive in view of the known fact that a sequence of
+more or less discrete vortices are known to be formed behind such a cylinder, although
+the motion in the actual case is, of course, not steady. In any case it is suggested that the functions defined by the differential equation
+(23.2) should be examined and studied by the pure mathematician, and that this differ-
+ential equation might eventually replace OSEEN’s equation as the basis of an approximate
+treatment of the problem of motion of a stream of viscous fluid, slightly disturbed by a
+cylindrical obstacle.

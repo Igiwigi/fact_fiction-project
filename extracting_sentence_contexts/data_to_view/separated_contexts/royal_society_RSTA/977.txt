@@ -1,14 +1,14 @@
-As the box size increases, the differences for these weakly bound states will be smaller. =
-The number of solutions will formally be equal to the number of basis functions used; however, :8
-we will only need to consider solutions with energies close to the scattering energy (often just : =
-above the dissociation energy of the reactant channel). 1S
-The Bloch terms and finite region introduce substantial requirements for the basis set, which Do
-must now ideally consist of basis functions with finite domain in three non-orthogonal scattering 7
-coordinates rg, rB and rs, with tractable resulting integrals. Furthermore, for each scattering : N
-boundary, at least one basis function must have a non-zero value but zero derivatives. The [8
-zero-derivative boundary condition introduced by necessity by the Bloch operator is a non- :3
-trivial and not often understood condition that has become obvious in our considerations of
-wave functions for RmatReact but has been obscured in electron—molecule collision problems
-due to their far inferior basis sets: this fact is demonstrated in a simple system in appendix A. These multiple boundary conditions are unusual and non-trivial constraints on the design of the
-basis set that are not yet fully understood, and will be the most challenging part of using the
-RmatReact methodology for reactive collisions. We will thus defer its consideration to §3.
+The C,S — C,A — C,AF plane is drawn slightly displaced to the right of its true position for
+illustration purposes. For point T, to be a eutectic it should fall within region (ii). In fact, however, it
+
+may lie just within region (ii) or (iii). The composition given (CaO 54-8%, Al,O,
+22-7%, SiO, 6-0%, Fe,O, 16-5%) is within region (ii) but the position is such
+
+
+QUATERNARY SYSTEM CaOQ—Al,0,—SiO,—Fe,O, 39
+
+that if the point had the composition (CaO 54-9, Al,O; 23-1%, SiO, 6-0%,
+Fe,O, 16-0°), which is within the experimental error of determination, the point
+would lie practically on the C,S—C,d—C,AF plane and a little lower iron
+content would bring it into region (iii). It is, therefore, not possible definitely to
+assess T, as a quaternary eutectic.

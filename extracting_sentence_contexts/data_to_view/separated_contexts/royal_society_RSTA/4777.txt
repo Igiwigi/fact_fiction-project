@@ -1,11 +1,11 @@
-The four-field case was taken far enough to show new interesting features,
-with a connection to string theory noticed [7]. In retrospect, these investigations were over-influenced by the objective of finding explicit
-compact contours for all channels, defined for finite-normed external fields. It would have been
-more productive to concentrate on the formal momentum-space expressions, independent of
-channel, which had in fact been introduced in Penrose’s original discussion of twistor diagrams
+§18. After what was said in the preceding paragraph, it will be clear that,
+when lim s,(s) exists as a finite number at a point of the open interval (0; 7), all
 
+a>o
 
-[5]. These expressions embodied a vital feature—that of manifest gauge invariance. Penrose’s
-original Compton scattering diagram showed strikingly that a single diagram could embody a
-gauge-invariant expression requiring the summation of two Feynman diagrams in the normal
-representation.
+the canonical Sturm-Liouville series corresponding to f(s) converge at this point, and
+have the value of this limit for their common sum. We may employ this fact to
+obtain conditions under which these series converge. Let (s), the bilateral limit of f(s) at the point s, exist as a finite number. In
+virtue of (35), it is easily seen that
+
+s.(8)-o (8) 2+

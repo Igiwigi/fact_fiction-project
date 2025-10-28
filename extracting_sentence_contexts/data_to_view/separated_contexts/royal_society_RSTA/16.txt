@@ -1,22 +1,23 @@
-Biplot for the fossil teeth data (correlation matrix PCA), obtained using R's b ip Lot command. (Online version in
-colour.)
+MDCCCLXXXVII,—A. M
 
-defined on a low-rank approximation (usually q = 2), enabling a graphical representation of the
-markers. When q = p the biplot has the following properties:
 
-— The cosine of the angle between any two vectors representing variables is the coefficient
-of correlation between those variables; this is a direct result of the fact that the matrix
-of inner products between those markers is HH’ = AL?A’ = (n — 1)S (2.4), so that inner
-products between vectors are proportional to covariances (variances for a common
-vector).
+82 PROFESSOR W. RAMSAY AND DR. 8. YOUNG
 
-— Similarly, the cosine of the angle between any vector representing a variable and the axis
-representing a given PC is the coefficient of correlation between those two variables.
+The formula which RecNautt employed in his extensive research on vapour-
+pressures was suggested by Brot, It is
 
-— The inner product between the markers for individual i and variable j gives the (centred)
-value of individual i on variable j. This is a direct result of the fact that GH’ = X*. The
-practical implication of this result is that orthogonally projecting the point representing
-individual i onto the vector representing variable j recovers the (centred) value xj; — X;-
+log p = a-+ba'+c*. The concordance between the found and calculated pressures through a range of —
+temperatures so great as from —20° to 180° shows how well this formula interprets
+the facts. The constants employed were calculated from the observations at 0°, 45°,
+90°, 135°, and 180°. The numbers directly read were, however, not taken; but small
+portions of the curve about these points were previously smoothed by means of the’
+simpler formula
 
-— The Euclidean distance between the markers for individuals i and 7’ is proportional to the
-Mahalanobis distance between them (see [4] for more details). As stated above, these results are only exact if all q = p dimensions are used.
+log p = a+ba',
+The constants for the larger formula are
+
+a = 5'9834771, log « = 1:99827459,
+log b = 0°5240258, log B = 1:99130336 ;
+log ¢ = 1:5733238,
+
+b and c are both negative.

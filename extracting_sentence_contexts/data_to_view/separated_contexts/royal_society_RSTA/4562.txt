@@ -1,8 +1,16 @@
-There are so many versions of the generalized Boussinesq equations that
-there is no point trying to write them down in this short review. There are also the fully nonlinear
-
-
-shallow-water generalized Serre equations [37]. They have been rediscovered several times and
-are in fact used in FUNWAVE [38,39]. Implementations of these dispersive wave models are
-in-house models or available as standard codes, open-source or commercial. The majority of codes
-use finite-difference schemes.
+THE principal objects of this investigation have been to examine the part played by
+the surrounding gas in the production of ions by hot metals and to discover, if
+possible, the mechanism by which the positive ions originate. In what follows,
+previous work on ionisation by hot metals will not be described, except in so far as it
+bears directly on the questions investigated, since the historical part of the subject
+has been fully treated in previous papers by the writer,* and others. The present communication deals chiefly with the emission of positive ions from hot
+platinum, as earlier work has yielded much more information concerning the negative
+ionisation, In 1901 the writer+ showed that a great number of facts in connection
+with the negative ionisation from hot metals could be explained by supposing that
+the electrons, of which the ions consist, were produced in the metal itself, from which
+they escaped by virtue of their kinetic energy. This theory makes the negative
+ionisation a function only of the metal surface and its temperature, and therefore
+independent of the nature and pressure of the surrounding gas, except in so
+far as this may have the effect of modifying the nature of the metallic surface. H. A. Wusont has confirmed this part of the theory by showing that the negative
+leak, except when ionisation by collision occurs, has the same value in air, nitrogen,
+and water vapour over a wide range of pressures.

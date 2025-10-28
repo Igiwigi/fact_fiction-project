@@ -1,7 +1,17 @@
-Therefore, the probe has a high sensitivity to the variation of eddy current corresponding to the
-waviness and shows the highest performance in both accuracy and precision. On the other hand, even though CirD also has directional eddy current distribution, this probe
-shows a larger RMSE than SymD and UniD. The difference in the error is due to the fact that eddy
-current near the pickup coils is not perfectly directional and has non-uniform distribution even
-in this narrow range. Therefore, the ECT signal cannot follow the change of electric resistance
-faithfully with high spatial resolution, leading to larger errors in the contour map. SymD has
-stronger directional eddy current than CirD.
+[E, H’]
+-and that determining the momentum is
+
+lL
+M =; [EH],
+
+In the absence of magnetic media and convective dielectric polarisations these two
+expressions satisfy the equation
+i
+M=-S, Cc
+
+but under the most general circumstances this relation is not satisfied. We have so far conducted the discussions as though the quantity derived as a
+momentum is unique and definite, whereas, as a matter of fact, this is far from being
+the case. We saw that the idea of the momentum arose from certain outstanding
+terms which remained when attempting to reduce the electromotive forces to a
+’ representation by a stress system. Now we can give a number of different forms to
+this reduction and.

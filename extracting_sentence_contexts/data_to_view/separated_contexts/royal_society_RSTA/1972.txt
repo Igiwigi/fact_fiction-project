@@ -1,13 +1,18 @@
-After
-the mass redistribution process the flag of emptied /filled interface cells has to be updated before
-starting a new time-step. It is worth noting that through the mass redistribution subroutine the
-mass can be conserved over time. In fact, in the case of an emptied cell, characterized by a
-mass value slightly below 0, mass contribution is ‘absorbed’ from neighbour fluid/interface cell,
-according to the weighting procedure described above. Similarly, in the case of a filled cell, with
-a small excess of mass, this is spread to the surrounding cells. The basic principles of free-surface
-algorithm are synthetically depicted in figure 2.
+These have given (p. 346) for
 
-(d) Porous media modelling approach
+a first approximation to 6, the value 249°30 from », and 249°6 from the two alternative
 
-In this work, the porous medium generation is based on the random packing spheres approach
-proposed by Al-Raoush & Alsaleh [38] and already analysed for thermal simulations in [69].
+v's, . The vs are so ill-determined that these might possibly refer to values giving
+
+the same 6. But the fact that the value of ¢ calculated from A, agrees so closely
+
+with the maximum ordinate in the corresponding oceurrency curve (Plate 2, fig. 1)
+
+shows that A, must be exceedingly close to the true value, in which case it is
+3 F2
+
+
+378 DR. W. M. HICKS: A CRITICAL STUDY OF SPECTRAL SERIES.
+
+improbable that the °3 difference in é could be attributed to a single observation error
+on each of A’,

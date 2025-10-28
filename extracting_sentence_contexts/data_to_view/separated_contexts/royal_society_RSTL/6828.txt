@@ -1,16 +1,24 @@
-There is, however, one of the three metal alloys which we cannot pass over unnoticed,
-namely, that of copper-nickel-zinc or argentan (german silver). This alloy has long
-been used, on account of the small effect which temperature has on its conducting-power,
-for making resistance coils, &c. It is a somewhat curious fact, that the conducting-
-power of this commercial alloy decreases less between 0? and 100? than almost any other
-alloy yet known, for in the course of this investigation we have only found the following
-which show a smaller percentage decrement in their conducting-power than argentan.
+Z 44. We ee, @ priori, that the scroll generated as above will be of the order 4, that
 
-'The conducting-power of the platinum-silver alloy, containing 19:65 volumes per cent.
-platinum, decreases between 0* and 100” 3:10 per cent. The conducting-power of the palladium-silyer alloy, containing 23-38 yolumes per cent.
-palladium, decreases between 0* and 100* 3:40 per cent. |
+S1s, a quartic scroll. In fact using the formula (ante, No. 5),
+N
 
-The conducting-power of the iron-gold alloy, containing 10-96 yolumes per cent. iron,
-decreases between 0* and 100? 3:84 per cent.
+i Order =2mnp—am—ſpn—yp,
+E we have here
 
-'The conducting-power of the argentan decreases between 0* and 100* 4-39 per cent. II.
+2 Nodal conic, m=2, «=0,
+SZ Simple conic, n =2, B=1,
+S Line , p=1l, y=2,
+S and hence
+
+= Order =8—2—2, =4.
+
+45. Take (x=0, y=0) for the equations of the directrix line, z=0 for the equation of
+the plane of the simple conic, w=0 for that of the plane of the nodal conic; since the
+conics intersect in two points, they lie on a quadric surface, say the surface U=0; the
+equations of the simple conic thus are z=0, U=0; those of the nodal conic are w=0,
+U=0. The directrix line &=0, y=0 meets the nodal conic; that is, U must vanish iden-
+tically for &=0, y=0, w=0; and this will be the case if only the term in 2* is wanting;
+
+that i
+ES Fre Have U=(a, 4, 0, d, f, 9, h, I, m, nXe, y, 2, wY.

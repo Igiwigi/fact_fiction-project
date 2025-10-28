@@ -1,13 +1,18 @@
-This approach does not need any preliminary hypothesis on
-the morphology, an obvious advantage, although the final interpretation needs complementary
-data. The model-dependent analysis requires a hypothesis on the morphology, and it eventually
-provides quantitative pieces of information on the structure (e.g. core-shell structure, size,
-thickness, density ...). For the latter, we base our hypotheses on the data collected on similar
-systems [33,37,59,60] and on the fact that the low-q scattering could be associated with aggregated
-objects of ill-defined nature (aggregation of micelles or other morphologies, like platelets, as
-found elsewhere) [37,60]. The region below q less than 0.03 A~! is informative on the type of morphology at typical
-scales larger than about 200 A. The q dependence of the intensity in the log-log scale, referred
-to as the slope, provides the fractal dimension, Df, a model-independent parameter which is
-either related to a specific morphology (e.g. —4 for spheres or sharp interfaces, —1 for cylinders,
-rods and elongated objects, —2 for lamellar and flat objects) [61] or describing the presence of
-bulk, or surface, fractal objects for intermediate values [62].
+By W. G. Bicxuny, M.Sc., Lecturer in Mathematics, Battersea Polytechnic.
+(Communicated by Prof. E. G. Coxer, F.R.S.)
+
+(Received March 28,—Read June 7, 1928.)
+
+(1) Introduction. The study of stress distributions in elastic plates would seem to have many important
+applications in engineering practice, and from this point of view it is, at first sight,
+surprising that our knowledge of the subject is not more detailed than it is at present. True, the fact that the stresses are derivable from a stress-function, and the equation
+satisfied by this stress-function, have long been known* ; particular solutions, satisfying
+the types of boundary condition met with in practice are, however, rare. JEFFERY,
+in his paper, “ Plane Stress and Plane Strain in Bipolar Co-ordinates,”’} says that in
+the problem of the equilibrium of an elastic solid “* knowledge comes by patient accumu-
+lation of special solutions rather than by the establishment of great general propositions ” }
+and later, that “it is of considerable importance that the two-dimensional problems
+should be worked out more thoroughly.” The present paper is an attempt to fill one
+gap by a fairly full examination of the stresses round a circular hole in an otherwise
+infinite elastic plate of uniform thickness, due to prescribed tractions in the plane of
+the plate, acting on the circular boundary.

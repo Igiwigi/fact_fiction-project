@@ -1,32 +1,13 @@
-Quantum : =
-modular forms, which we more precisely define below, transform like modular forms but with : Ed
-some notable differences: they are defined on Q as opposed to H, and they transform only up to : 2
-additive error terms, which are required to extend to suitably analytic or continuous functions in : >
-R. It may be unclear from this terse description why we imagined quantum modular forms may : 8
-be at play in Ramanujan’s asymptotic claim. In fact, we saw potential hints in the transformation Los
-exhibited by f(q) on H (see Watson’s theorem in §1), and also in Ramanujan’s asymptotic claim: if : <
-we rewrite q =e!" where t € H, then q > ¢ (a root of unity) radially is equivalent to t > x €Q, : >
-a rational number, vertically. ia
-More precisely, we have the following definition of a quantum modular form, which we Dy
-attribute to Zagier [19], noting that his original definition was slightly more restrictive. : 8
-&
+The similarity between the primary radiation
+and the secondary radiation of this type, while perhaps tending rather to mask the
+full importance of the phenomenon in reality enhances the value of the results
+obtained. The simplicity of necessity permits of less ambiguity in the interpretation
+of the experimental results. The established facts which have an obvious bearing on the theory of radiation may
+be briefly stated. 1. Slight polarization of the primary radiation—as shown by the variation in
+intensity of radiation scattered around such a primary beam,f
 
-&
+2, Polarization of the scattered X-radiation, proceeding in a direction perpendicular
+to that of propagation of the primary radiation{ (such as is shown in light
+scattered from the sky), and
 
-Definition 2.2. A quantum modular form of weight k € 32 is a function g : Q\S > C, for some
-discrete subset S, such that for all y = (4 +) € I’, an appropriate subgroup of SL2(Z), the functions
-
-+b
-by (2) = ig) = wl) — Meyer + d)-Kp (SEE) @)
-
-satisfy a suitable property of continuity or analyticity in R.
-
-(The multiplier systems ¢(y) which appear satisfy |e(y)| = 1, in accordance with the theory of
-ordinary modular forms.)
-
-To elaborate on this definition, in which the analytic property required to hold in R is left
-intentionally a bit vague by Zagier, a typical example of a quantum modular form may be
-(but is not necessarily required to be) such that the corresponding functions h, are defined on
-Q\{y~!(ico)}, and extend to functions which are C®, or perhaps analytic in R\{y~!(ioe)}. Given
-the nature of the modular action of SL2(Z), it does not quite make sense to define quantum
-modular forms exactly analogously to ordinary modular forms with only a change in domain.
+3.

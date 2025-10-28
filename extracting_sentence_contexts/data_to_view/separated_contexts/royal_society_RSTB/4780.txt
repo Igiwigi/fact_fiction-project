@@ -1,20 +1,17 @@
-At first, as the species
-spreads, the number of individuals must tend to increase. But over the very long
-periods which have to be considered there must be a countervailing tendency to ultimate
-decrease in the number of individuals, owing to the increase in the number of species. The area available being limited, the tendency, as it seems to me, must be towards greater
-and greater numbers of species and fewer individuals in each.* Possibly the fact that
-ignoration of the number of individuals leads to results in close accordance with the data
-may only indicate this tendency first to increase and then to decrease in the size of the
-species.
-
-(c) The possible effect of size of genus (number of species in the genus) on the chance
-of a generic mutation is also ignored. This assumption may or may not be correct, but
-was deliberate. The generic characters are regarded as representing a main position
-of stability, and the chance of occurrence of a transfer from one main position of stability
-to another is regarded as independent of the number of minor positions of stability
-(species) which may: have been taken up within the main position (genus).
-
-(d) If A, B, C, D are the existing genera and one of them throws a generic mutation,
-it is assumed that this will represent a new genus E. ‘The possibility is ignored that A,
-for example, may throw a generic mutation which will be classed under the already
-existing genus B.
+This consideration suggests that a finer subdivision of the year is necessary ; that
+months or even weeks should be treated separately. From the agricultural and meteoro-
+logical point of view there is everything to be said for such subdivision ; it raises, how-
+ever, new mathematical difficulties ; for whereas the evaluation of determinants of 6 rows
+and columns, or the solution of simultaneous linear equations in 6 unknowns is sufficiently
+rapid, disproportionate labour is involved in increasing the 6 to 12, and if 52 unknowns
+were attempted the labour involved would become fantastic. A consideration which has been still more influential in framing our method is that
+even if we were to calculate the 52 partial regression coefficients showing the average
+effect in bushels per acre of an extra inch of rainfall, for each week of the year, such a
+calculation would leave out of consideration the all-important fact that this effect
+may be expected to change continuously during the year. The true partial regression
+coefficients for neighbouring periods must be relatively alike. The method of partial
+correlation as hitherto developed, takes no account of the serial character of our weather
+variates ; after calculating the partial regression coefficients, we should still be far from
+the facts, if we did not smooth the series so obtained by a continuous curve, which
+should average out the independent errors in the values obtained for the successive
+weeks.

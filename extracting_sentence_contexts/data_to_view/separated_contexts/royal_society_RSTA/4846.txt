@@ -1,16 +1,13 @@
-That the discrepancies between reconstruction and phantom are so small emphasizes
-the challenge for the large-scale optimization algorithms; for actual application where images are
-presented for visual inspection, such accurate solution to equation (1.1) would not be necessary. The results for the texture phantom are also quite interesting in that we see the reconstructed
-image is visually accurate for as few views as Ny = 80. That there is no sharp recovery transition
-for the texture phantom is probably due to the fact that the object variations occur on two scales:
-the jumps of the structure borders, and the splotches of the walnut meat texture. It also cannot be
-ruled out that a sharper recovery transition will occur if the accuracy of the computed solutions
-is improved even further.
+She recommends that Experiment No. 8 should be
+discarded, on the ground of the point of commencement not haying been so sharply
+marked. It will be noticed that the above tables indicate two things: firstly, that on the
+whole the melting-point is lower when the sulphur is raised to it suddenly ; and
+secondly, that all the melting-points are considerably above those given by Bropte. The reason probably is to be found either in the fact that Bropin used imperfectly
 
-(e) Conclusion on Study C
 
-In this study, we have taken first steps towards phase-diagram analysis for prediction of critical
-sampling levels for realistic CT systems. Both test phantom design and accurate large-scale
-optimization are more difficult than for small-scale studies, and we have demonstrated how
-phantom appearance as well as parameters and convergence of the algorithm can affect recovery
-studies.
+ON THE ELECTRICAL PROPERTIES OF PURE SULPHUR. 71
+
+purified sulphur, or that there is a constant evror in our thermometers, which we have
+no reason to believe. The fact probably is that Bropre did not sufficiently purify
+his crystals from the evil-smelling compounds which they carry with them from the
+bisulphide.

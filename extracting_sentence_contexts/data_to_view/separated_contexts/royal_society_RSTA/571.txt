@@ -1,10 +1,10 @@
-Further, no BT models have been shown to model
-flooding from real tsunamis any better or as consistently as NSWE models, not to mention that
-many BT models de-facto become NWSE near or post breaking [82]. Despite this inconvenient
-truth, BT models have been peddled as panacea, not by mathematicians who are the most likely
-to understand their convergence and appreciate their advantages, but by engineers with no prior
-experience in tsunamis. The fact that the imagined benefits of BT simulations compared to the
-NSWEs are lost when done at inappropriate resolution somehow escapes many modelers, who
-don’t even check the convergence of their schemes for their specific application. BT codes may have substantial benefits when simulating near-shore storm waves or swell
-entering ports [64], but their benefits for studying tsunamis in ports remain unproved. One basic
-issue here is the duration of the event.
+We now consider Condition B of § 8-41. The expression (8-41-13) is of the order of magni-
+tude of the angular deviation due to gravity,t and is therefore small during burning, by
+our assumptions. Accordingly Condition B does not apply to the motion of a rocket during
+burning, and, in fact, will only be of importance over arcs of the trajectory over which the
+gravity drop is appreciable. For such arcs the assumptions regarding the smallness of Z
+are, of course, not valid, and we are therefore not strictly justified in applying the formulae
+of §8-2 in order to examine stability. The modifications which are necessary in order to
+make the theory applicable to the whole trajectory have, however, only a minor effect upon
+the stability conditions, since the yaw will still be expressible as a sum of parts 3, 5 and
+=i?, and S\ will still be of the form (8-41-11).

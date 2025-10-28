@@ -1,38 +1,9 @@
-In terms of the thermal impulse w,,
-equation (2.25) reads
-w(V,Wp — Vypwa) + W Qu =0, (2.33)
+-The
+dotted curves show the values given by the approximate solution. maximum shear is almost three times that given by the approximate solution. Part
+of this discrepancy is accounted for by the fact that the approximate solution only
+allows for a fraction of the shear across the diminished section. The whole shear across
+the section « = 0 is given by
 
-where Qy := VuT + Tu*V),u, is the auxiliary temperature gradient vector, see [3,59]. However, in
-the numerical simulation, it is more convenient to use equation (2.25) for J,, and then compute
-Wy using (2.27) because, after the 3 + 1 split, (2.25)2 has the same structure as the non-relativistic
-SHTC heat conduction equation [8,9].
-
-(v) The symmetry of the thermal stress
-
-Let us now consider the question of symmetry of the energy-momentum. Thus, in new terms, the
-thermal stress can be written as
-
-Ju Ej, = —(Wy + Tuyp)(su” + Eo,) = —Wp Ew, + Tsuyu” + swyu? + TE, Up), (2.34)
-
-which is symmetric if and only if =
-sw” =T&,. (2.35) 13
-
-This, in fact, implies that Er =Er + 2TEw =s — 2T&» =0, that is E(T, J) =E(J) does not depend [=
-explicitly on T and we can identify E = E in (2.28). [2
-
-(vi) Heat flux 3
-Recall that, in the SHTC theory [8,9,16], the heat flux is introduced as : 3
-q' := &&w, =TEw,, (2.36) cal
-hence, if condition (2.35) holds, the thermal stress (2.34) can be equivalently rewritten as
-JM Ej, =—(sésulu? + wh Sy, + grub + ug), (2.37)
-
-which is manifestly symmetric. Hence, the total energy-momentum for a relativistic heat-
-conducting fluid (anisotropic shear stress is omitted) reads
-
-—T/ =(s& — €)uPup + (—pS — s& + E)h", — sw" up — We Ew, — Guy — U qu, (2.38)
-
-so that we have
-T= Euruy + ph, + Wpeo, +O Up + udu, (2.39)
-
-with p := p&, + sé — & being the pressure. Here, the last two terms are conventional [3,58], while
-the term w, &», is due to the non-equilibrium nature of the theory.
+2 yb de
+which is easily found to be é
+HP (1 — 0°)? (4 — 492 — 804).

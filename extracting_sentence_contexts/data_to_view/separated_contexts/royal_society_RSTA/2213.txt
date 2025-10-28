@@ -1,11 +1,10 @@
-In order to clarify the notion of a half-order differential, recall that a differential of order k
-(or more exactly, bi-degree (k,0), if also dz is allowed) on a Riemann surface is an object which
-in each coordinate patch (with coordinate function denoted z, Z,... above) is represented by a
-function (¢, ¢,...) in such a way that ¢= $((dz)/dz)* holds wherever the patches overlap. This
-certainly makes sense for any integer k, but it can be shown, see [30,37], that also half integer
-values of k are good enough. The crucial fact here is that it is possible to select branches of the
-fractional powers (dz/ dz)k in a consistent way all over the surface. This can be understood in a
-convenient way by passing to the universal covering surface, the unit disc in most cases, on which
-a differential of order k is represented by a function ¢ which is automorphic in the sense that
-(2) = o(T(z))(cz + d)~* for any Mobius map T(z) = (az + b)/(cz + d), ad — bc = 1, in the covering
-group of the surface. In this picture, it is clear that 2k € Z is the appropriate condition.
+His method of
+dealing with these terms does certainly give a complete, though only formal, solution. Unfortunately the results involve series of terms each of which is a complicated Hankel
+function, and it is extremely difficult to check results by numerical data. We shall,
+however, follow his methods and obtain results slightly more general than his, and
+establish only qualitative agreement with experimental facts. [13] The principle of DE Waarn’s method.—For the sake of generality we shall not
+
+
+THE THEORY OF FERROMAGNETIC CRYSTALS. 85
+
+assume at first that there is saturation.

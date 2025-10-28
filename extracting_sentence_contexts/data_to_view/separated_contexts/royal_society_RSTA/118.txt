@@ -1,16 +1,10 @@
-When the laser
-kills all the xanthophores in a large area, cell death also occurs in the melanophores, indicating
-that xanthophores located at a distance are necessary for the survival of melanophores [25]. Mathematically, the network of interactions shown in figure 2a has similar properties to that of
-the original Turing’s model, as it includes both activation loops working at short distances and
-inhibition loops working at long distances [15]. In fact, a simple ABM created using this network
-can form stripes from random patterns. [21-24]. A three-cell network model with iridophores is
-shown in figure 2b. Xanthophore
-stripe region
+In particular cases, more in-
+formation can be obtained by direct application of lemmas 1, 2 or 3. We return to this point
+in §4.
 
-Melanophore
-stripe region
+3. SOME FULLY REDUCIBLE STAR BODIES
 
-Xanrhophore
-stripe region
-
-Figure 3.
+All the star bodies which we mentioned on p. 313 as being bounded ly reducible are in
+fact fully reducible. The method which will be used to prove this is a straightforward modi-
+fication of that of Mahler, and rests on modified forms of theorems K and L, and definition
+D of Mahler (19464). We denote these modified forms by accented letters.

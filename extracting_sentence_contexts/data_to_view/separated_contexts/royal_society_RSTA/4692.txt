@@ -1,36 +1,23 @@
-Distorting the original city in (a) on a computer by software, e.g. PHorosHop, leads to an apparently
-inhomogeneous and anisotropic distribution of car velocities in (6). The trick of transformation optics is to turn this fictitious
-velocity distribution into a real one by introducing a corresponding material distribution. Adapted from [3]. (Online version
-in colour.)
-
-material parameter a =a(r) has to be replaced by a generally inhomogeneous and anisotropic
-
-‘o!
-material parameter distribution, ie. by a tensor a which can be derived from the coordinate
-
-transformation via
-© e«6T ]}
-
-a’ =JaJ = (1.3)
-det(J )
-
-with the elements of the Jacobi matrix J given by
-
-Ji= a (1.4)
+VOL, CXC.—A. : 27
 
 
-electromagnetism mechanics thermodynamics
+218 MR. J, LARMOR ON A DYNAMICAL THEORY OF
 
-electrostatics fluid mechanics particle diffusion
+material bodies on one another, and the material stresses and physical changes
+thereby produced. As in the preceding papers, the quantitative results are to a
+large extent independent of any special theory of the constitution of matter, such as
+is here employed to bind together and harmonize the separate groups of phenomena,
+and to form a mental picture of their mutual relations; so far as they are electric
+they may be based directly on MaxweEtt’s equations of the electric field in free
+space, which form a sufficient description of the free eether, and have been verified by
+experiment. In the FarapAy-MAxwe t theory, however, as usually expounded, an
+explanation of these equations is found, explicitly or tacitly, in an assumption that the
+wether is itself polarizable in the same manner as a material medium, and ether is in
+fact virtually considered to be matter ; on the present theory the equations for free
+space are an analytical statement of the ultimate dynamical definition of the
+continuous «ethereal medium, and the polarization of material bodies with the
+resulting forcive are deduced from the relation of their molecules to this medium in
+which they have their being. f
 
-V-€V)=0 V-(pV®)=0 V-(DVn)=0
-
-magnetostatics | linear elasticity heat conduction
-
-V-Vo=0 V-(C¥u)=0  V-(kKVT)=0
-
-electric conduction
-
-V:- (o V6) =0
-
-Figure 2. Differential equations derived from conservation laws in electromagnetism, mechanics and thermodynamics.
+10. In the modern treatment of material dynamics, as based on the principle
+of energy, the notion of configuration is, as above explained, fundamental.

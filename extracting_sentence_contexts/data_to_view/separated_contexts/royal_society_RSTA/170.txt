@@ -1,14 +1,28 @@
-We leave the regression setting and turn to some other traditional areas
-of multi-variate statistical analysis. We describe briefly two active areas of
-development: investigation of the properties of classical methods when the number
-of variables is large, and development of new, typically nonlinear variants of these
-methods that respond to high dimension. In the first direction, it is a striking fact that most of the standard techniques
-of classical multi-variate analysis—principal components analysis, canonical
-correlation analysis, multi-variate analysis of variance, discriminant analysis
-and so forth—are based on the eigenanalysis of sample covariance matrices. Under Gaussian assumptions for the distributions of the sampled data, and
-under the symmetry assumptions characteristic of null hypotheses, the sampling
-densities of the eigenvalues of these matrices have precisely the laws arising in
-the classical orthogonal polynomial ensembles of random matrix theory. The
-natural asymptotics in random matrix theory—reflecting its origins in the many-
-particle models of statistical and nuclear physics—allow the number of variables
-to become large.
+Numerical integration
+
+For the calculation of the mean magnetization at a given value of h of an assembly of
+ellipsoids orientated at random in the field (see table 6, § 4), the value of the integral in
+
+(2:19) is required, namely
+
+cos ¢ = {""cos¢ sin 0d. (3-3)
+0
+
+76
+Vor. 240. A.
+
+
+616 E. C. STONER AND E. P. WOHLFARTH ON A MECHANISM
+
+From table 2, giving cos ¢ as a function of h at a series of values of @, tables may be drawn up
+giving (cos ¢), for @ = 0 (10°) 90°, and a series of equally spaced values of the integrand
+obtained by multiplying by sin @. Where the integrand is a continuous function of @ over
+the range of integration, that is for | h| <3, for }<h<1, and for | h| >1, the integration can
+in principle be effected numerically, using the Newton-Gregory formula, or, if the con-
+tinuation of the function outside the @ range from 0 to 90° is known and is of a suitable
+character, the more convenient central difference formula. For |h| <4, the integration can in
+fact be effected with the required accuracy with the intervals in 0 as large as 10°, but smaller
+intervals (5 or 25°) are required for }<h<1, and also for | 4| greater than, and close to 1. (The difficulties arise from the behaviour of the differences of the integrand as # approaches
+90°, the general character of which can be appreciated, without detailed description, from
+the forms of the curves in figures 4 and 5.) For || = 1, accurate integration by this method
+is virtually impracticable, since for 690°, (d$/d0) >—oo.

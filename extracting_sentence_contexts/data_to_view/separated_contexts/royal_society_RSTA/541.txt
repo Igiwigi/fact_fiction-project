@@ -1,7 +1,12 @@
-The resulting effective permittivity distribution is shown in figure 6a. The background permittivity when extracting the material tensors is appropriately selected to
-provide a desired range of graphene conductivity values. From the effective permittivity (or
-impedance), the corresponding imaginary conductivity values can be calculated, as shown in
-figure 6b, using the fact that ngpp = €eq. The chemical potential is then computed assuming that
-Ir =0.43 meV, T = 300K and f =30THz. Then, from the chemical potential, designers have the
-choice of numerically solving for the required substrate permittivity, thickness or bias voltage
-using equations (7.6) and (7.7) to achieve the desired GRIN profile.
+But this is also the change in s required to take
+us from a maximum to a minimum in the diffraction pattern produced by the optical stop
+itself when it is illuminated uniformly. We therefore conclude that when s is varied the
+change in P(s) is related to the angular diffraction pattern of the optical stop which bounds
+the original diffracting screen. In fact, we do not expect P(s) to change much until we have
+moved through an angle equal to that which separates a maximum from the neighbouring
+minimum in the angular spectrum of the stop. We shall now deduce this same result more rigorously, and it will be convenient,
+at the same time, to make the discussion more general. Up to now we have assumed
+that the series of screens, in whose properties we are interested, are all illuminated by
+a uniform beam of radiation limited by a straight-sided ‘stop’, so that the ‘system average’
+of the intensity over the screens, given by | £,(x, 0) |?, is constant within the region of the
+stop and zero outside.

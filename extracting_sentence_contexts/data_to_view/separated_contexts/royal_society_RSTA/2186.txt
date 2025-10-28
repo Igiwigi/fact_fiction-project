@@ -1,31 +1,16 @@
-In this section, we will illustrate the computation of the quantum invariant and in
-particular proposition 2.2, with the example of the Brieskorn sphere M3 = ¥(2,3,7), which can be
-described as the intersection between the algebraic surface {x? + y> + z” = 0} and the five sphere
-{Ix + ly? + |z|? = 1}. It can be obtained as a plumbed manifold with the plumbing graph shown
-in figure 3. Note that M is indeed unimodular, consistent with the fact that Brieskorn sphere is a
-integral homology sphere with trivial Hj(M3;Z) = Z4/MZ and there is hence just one quantum
-invariant Zo(M3 37). Plugging the adjacency matrix in (2.5) one obtains
+It cannot be said that spectroscopy has
+already passed from the descriptive to the rational state. We do not propose to discuss
+in detail the bearing of our results on the application of the quantum theory to the origin
+of spectra, but attention may be drawn to certain considerations. It would appear
+from the well-known relation Ve = hy that the distribution of intensity in a spectrum
+should be a simple function of the distribution of velocity among the electrons in the
+discharge tube, but this view appears to be negatived by the fact that different series
+behave in different ways, and we may probably conclude from this that the range of
+velocities of the electrons is not the sole factor which determines the emission in line
+spectra ; this view appears to be strengthened by such phenomena as the apparently
+anomalous effect of Neon on the distribution of intensity in the Balmer series. *
 
-m=42, (bj, 4c) = (1,1), (-13, 5), (—29, 21), (41,41) for j= 0,1, 2,3. (2.8)
-Using definition 1.1 (or (2.6)), one obtains that
-~ k y2
-. 2) — 7(83/168) (2/168)
-Zo(E(2,3,7);2) =4 > (3)4
-R=! (42)
-83/168) (gl _ pl. _ pl. sol.
-= 89/168) (sh - O13 - Oh 99 + asa) (t)
-= 4) (1 -q-P+go gis. ) (2.9)
-
-which is indeed a false theta function of weight 1/2. The fact that Zcs((2,3,7)) is given by the
-above function by taking the limit
-
-1 fs 1
-Zcs(¥ (2,3,7);k) = Wik jim, (2020, 3,7); zt ») , (2.10)
-
-was first established by Lawrence & Zagier [19].
-
-(b) False, mock and quantum
-
-As we have seen, a pre-requisite for a q-series to play the role of the quantum invariants Z,(M3)
-is to have a specific behaviour when taking the radial limit, so that it gives the WRT invariants
-via (1.4).
+As regards the Balmer series, the separations of the components which we have
+found indicate that it is of the Principal type, and lend no direct support to the
+theoretical considerations advanced by SommeRFELD. In any case it can no longer be
+regarded as a Diffuse or Sharp series.

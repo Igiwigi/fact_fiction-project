@@ -1,20 +1,14 @@
-Impact of shifted lattices on numerical equilibria-based LBMs
-(a) DVMs and adaptive LBMs
+The formule given by these observers were
 
-In the framework of DVMs, discrete velocities are chosen according to the flow conditions in
-order to ensure the stability of the method. This is done by satisfying the following requirements
-in terms of flow velocity ug [29]
+vy = 41223-86 —125229n-* —1377549n-'; (Diffuse series) Ay, = 172-07; Avy = 129-14;
 
-min(§ig) < Ue < max(Eq), (C1)
+v = 41222-15 —119890n-* —580770n-*; (Sharp series) Ay, = 173-78; Avo = 129°14;
 
-and temperature T
-min |tly — Sal? SDT < max lta — fia. (C2)
-i i
+An attempt has been made to extend these series, but a considerable difficulty arose
+from the fact that the manganese spectrum is very rich in lines and that such expected
+triplets would probably be very faint. Additional triplets, however, have been
+recognised, as shown in Table I.
 
-Interestingly, the condition (C 1) translates to the fact that information cannot propagate at a speed
-below the smallest discrete velocity of the lattice, and above the maximal one—this condition
-is more commonly known as the (Courant, Friedrichs et Lewy) CFL condition. Similarly, the
-condition (C 2) translates to the fact that the temperature is bounded by the minimal and maximal
-internal energies of discrete velocities. Observing a lower limit for the temperature might be
-surprising at first, but in fact, this is exactly what is observed during simulations of both DVMs
-and LBMs (figures 1 and 2).
+Sharp series, 1\p—ms.—The first two triplets of this series were traced by Kayser
+and Runer. The observations of JanicKrt on the structure of the manganese lines
+show the lines of the first triplet to be quite simple and sharp (see Plate 1, fig. 5).

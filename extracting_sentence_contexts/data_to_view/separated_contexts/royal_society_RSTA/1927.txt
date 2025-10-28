@@ -1,28 +1,8 @@
-It is finally worth noting that the above methodology allows us to recover the behaviour of
-monatomic gases (C, = D/2) with a Prandtl number fixed to Pr=1. The former limitation can
-be overcome through the use of a second population [52], while the latter problem is usually
-corrected by changing the collision model [53,54].
+4.
 
-
-(b) From discrete velocity models to lattice Boltzmann method
-
-A common, deterministic and efficient way to solve the (force-free) BGK-BE
-
-inf + dala) = =F f°), 28)
-
-is to rely on a discretization of the velocity space, which leads to the discrete velocity Boltzmann
-equation (DVBE) based on the BGK operator [37]
-
-Vie{1,...,V), difi + dalfia) = ~ 26 — 3). (2.9)
-
-If the above velocity discretization is done in such a way that the matching conditions between
-discrete and continuous moments
-
-> fe Tev Eg EL = Mae (2.10)
-
-are satisfied up to the order p+q+r=n, then the macroscopic behaviour of interest is
-automatically satisfied up to the same order n [2,14]. In fact, there are several ways to enforce
-them. The most popular ones rely on the maximum entropy principle (MEP), the moment-
-matching approach or the (Gauss-Hermite) quadrature-based methodology. For the latter two
-approaches, strict conditions must be satisfied by the velocity discretization in order to obtain an
-analytical formulation of the discrete equilibrium. f. ‘4 [3-5].
+§ 5. General Description of Optical Creep in Celluloid. On trying the very first experiment with celluloid, two facts immediately became
+apparent. (1) After applying the load the retardation at once attained a certain initial value,
+which, however, was very difficult to determine directly with precision, as it was impos-
+sible to apply the load suddenly enough without starting vibrations and, in addition, to
+observe the band at the same instant. The retardation, however, increased with the time, the load now remaining constant
+throughout.

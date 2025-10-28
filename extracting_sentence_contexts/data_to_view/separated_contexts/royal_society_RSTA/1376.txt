@@ -1,11 +1,13 @@
-However, parallel imaging is usually affected by the coil geometry factor (g-factor) [4,5]
-under higher acceleration factors resulting in a decrease in the signal-to-noise ratio. By contrast,
-CS algorithms can restore original data from undersampled k-space by exploiting the sparsity
-of an unknown image in the total variation (TV) [6,7] or wavelet [8] transform domains, and
-incoherent sampling schemes such as Gaussian random or Poisson disc sampling are usually
-required. These CS studies focused on designing new objective functions and optimization
-algorithms, but they ignored the fact that the reconstruction process was computationally
-inefficient and required a significant amount of iterations to converge. Recently, deep learning has been widely used in medical image processing, such as
-disease classification [9-13], anatomic segmentation [14-19], organ registration [20-22] and
-lesion detection [23-25]. Besides, emerging studies based on deep learning have reported
-promising results to reconstruct high-quality MRI images from the undersampled acquisition.
+Now has two triply infinite systems of planes, say
+a-planes and @-planes} ; and we take it that the planes of V,° are «-planes. To the
+chords of ¢, there correspond as usual only points of 2 ; and these points form a surface
+¢@ which is the double surface of V,°. To trisecant planes of ¢, there correspond in fact the «»* 8-planes of Q ; and in particular,
+to the trisecant plane joining the three points P, Q, R of c, there corresponds the unique
+plane which meets the three planes of V,*, which correspond to P, Q, R, in lines. To cubic ruled surfaces T which pass through cy there correspond then the «* «-planes
+of 2.—For any such «-plane forms a [3]-section of Q with each of «* @-planes ; and to
+any such [3]-section of Q there must correspond a ’-surface breaking up into a plane
+and a cubic ruled surface I’.
+
+* Analytically, we take coordinates of a [5] 8, to be proportional to six independent quadrics of ®’,
+so that to any point of S corresponds a point of 8; which describes the quadric Q.
+T See e.g. ‘ Principles of Geometry,’ by Prof. Baxrr, vol. 4,’p.

@@ -1,15 +1,8 @@
-The threshold margin is required to ensure that the
-portions of the Vy_e waveform shown in figure 3 not contributing to the STDP behaviour, remain below the switching threshold
-even for longer pulsewidths.
+To reduce this source of trouble as much as possible the air current was altered so
+that there were no pulses of any kind either from the atmosphere or from the Fleuss
+pump, and the two experiments of June 24 and July 13, 1916, were carried out on the
+most dilute solution. The results show a satisfactory agreement and differ but little
+from previous experiments. One interesting fact requires mention. Tt was noticed
 
-deterministic as opposed to stochastic. We also note that pulses with amplitude below 0.45 V have
-almost no chance to switch the MT] (at least up to 10 ns pulse widths). We use these facts to design
-the input and output neuron spikes. This is explained in detail in the next section.
-
-(b) Stochastic spike timing-dependent plasticity learning in magnetoelectric-magnetic
-tunnel junction synapses
-
-We have described how shaping the pulses appropriately and mapping it to switching probability
-characteristics of ME-MTJ synapses can lead to probabilistic potentiation and depression in
-figure 3. We present the results and parameters of pulse shapes that result in stochastic STDP
-learning in ME-MT]J synapses.
+* We were unable to test this hypothesis as the only suitable records of air pulses, those of Mr. Dives,
+are kept at the Meteorological Office and Sir N, SHaw would not let us have them for reference.

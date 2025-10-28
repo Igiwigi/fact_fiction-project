@@ -1,64 +1,14 @@
-The remaining estimate for Pi is more subtle. A key point in the proof relies on the fact that
-the right-hand side of equation (3.24c) does not involve any second-order derivative terms with
-respect to s. Since the problem is considered in the V3 M @, i.e. in the ‘slab’ (s,@) € (0,5)) x (R/(LZ)), one
-introduces the Green function, k, associated with (—Agn)~! according to the formula:
-
-(oan) 60)=| (s,6;5!,0°)f(6",6"yJ(s,6" dso’. (3.26)
-(0,5) x(R/(LZ))
-
-Applying the representation (3.26) to equation (3.24c), one obtains pt as the sum of three terms:
-PY =h+b+h. (3.27)
-
-and
-
-i =| k(s,0;s',0')bp(s’) (a (Fav w" . ?) — dg" (Farr : iy?)
-(0,8)x(R/(LZ)) J J
-+ 20 ((u” (ul - z)))(6',6’) ds’do’. (3.28)
-
-Integrating twice with respect to 6’ the first two terms of the right-hand side of (3.28), one
-time with respect to 6’ and one time with respect to s’ the third (taking in account the fact that
-
-
-(u" - n)(0,6’) =0), we obtain:
-
-1
-L =| ag" (5 1 (bp (s')k(s, 0; 5',0") ) uz —(u"-)*)(s',0’) ds'do"
-' (0,8) x(R/(LZ)) MANIC) (be ) ( )
-
-1
-2 ay ( ——ap-(@p(s")K(s, 0:5", 6” 1 i\(u - 2))(s',0')ds'do’. (3.29
-+ Joayxeoy Can or (Hols KS, 638 ») (ew HN(u" E))(6, 81) ds (3.29)
-
-For Ip, we write:
-
-b =| k(S,6;5', 8") ols" v (0')( ay ((u? - 7)? — (w" - 2)°) )(6", 6") ds’ do!
-(0,5) x(R/(LZ))
-
-+| k(s,0; 8", 0')bp(s)der (Zo -n)(u" - ’) (s’, 0’) ds'do’.
-(0,8) x(R/(LZ)) J
-
-After integration by parts, one has
-h=h+b
-
-with
-
-b= -| ay (1 (@)6u(8")K(s, 435", 6")) ((u" (6, 0") — (u" - 2)°(6",6")) ds'do"
-(0,5)x(R/(LZ))
-
--| dp (k(s, 0; 8", 0")bp(s’)) (Zo -niy(u" - ’) (s',0’) ds'do’ (3.30)
-(0,8) (R/(LZ)) J
-and
-5 =| y (0')K(s, 6; 0, 6’)(? - 2)2(0, 6") do’. (3.31)
-(R/(LZ))
-Eventually, we have:
-I= (0)! ((02ds)P + 200(04P") + "Pandy. (.32)
-
-Using the classical Hélder theory (cf. as above chapter 3 of [2] or theorem 6.3.2 of [1]), we prove
-the following:
-
-Proposition 3.10. The terms Ij, for i=1,2,3, in (3.27) satisfy an estimate of the form
-for i=1,2,3, |lTillcoa(ay SCIl(u" @ u7)||coa¢a) + DIIP"IIL~(@)- (3.33)
-
-Proof. To estimate I; we use the expression (3.29) and follow similar steps for those showing
-the continuity of the linear operator (—Agn)~!, defined by the formula (3.26), as a map from Coe
-to C?” (cf. once again chapter 3 of [2] or more precisely theorem 6.3.2 of [1]).
+more disturbed days than the group of days of smallest spot
+area. §5. The fact that this second investigation gives at least a suggestion of the
+relationship sought for, while the first investigation gave a purely negative result,
+was at first very puzzling ; but it began to dawn on me that the difference might
+have something to do with the fact that days of large spot area, and days of small
+spot area both tend to congregate in groups, and not to be isolated. Influenced
+partly by this idea, and partly by the desirability of testing a theory of ARRHENIUS,
+who suggested that the magnetic disturbance effects visible on the earth, are due to
+the discharge from the sun of electrified particles likely to take some 48 hours to
+travel to the earth, I next investigated (in the same paper) whether the association
+was not between magnetic phenomena on the earth and phenomena existing on the
+sun, 1, 2, 3, or 4 days previously. In one investigation the 10 days of each month
+were taken for which the absolute D range (7.e., the excess of the daily maximum over
+the daily minimum declination) was greatest.

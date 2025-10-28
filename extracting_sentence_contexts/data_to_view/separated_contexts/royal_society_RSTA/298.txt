@@ -1,11 +1,11 @@
-The circadian and homeostatic processes were
-formalized phenomenologically in the two-process model of sleep regulation
-51,52]. According to this model, a homeostatic process (process S; relaxation
-oscillator) and a circadian process (process C) interact to generate sleep-awake
-patterns (on a time scale of hours to days in humans and minutes in rodents). In recent years, more and more facts about the underlying neurophysiological
-mechanisms have been uncovered by experimental work [53]. Based on these
-findings, several attempts have been made to develop mathematical models
-of the neural dynamics underlying sleep regulation. There the activity of the
-specific neural populations involved in sleep regulation is modelled by coupled
-nonlinear ordinary differential equations that can produce limit cycles, show
-1ysteresis effects and undergo bifurcations.
+No boundary derivative is
+specified, so that this problem is not strictly within the scope of this paper, but it is men-
+tioned here as belonging to the biharmonic type of problem, and as an introduction to the
+next section. There are no difficulties as regards the relaxation of the finite-difference equations
+resulting from (C.2). Both functions u and v are recorded, with their associated residuals,
+at every mesh point, and the relaxation is in fact quite easy and much more convergent than
+the corresponding treatment of equation (C.1). The method of Fox (1947a) for the treat-
+ment of curved boundaries is still applicable, and the only new problem is presented by the
+occurrence of the terms 0?u/dx dy, 0°v/0x dy in the differential equations. The usual approximation is given, with reference to figure 20, in the form
+
+4h?

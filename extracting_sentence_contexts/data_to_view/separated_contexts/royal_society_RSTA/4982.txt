@@ -1,10 +1,20 @@
-Unloading begins between frames 4 and 5
-and several radial and lateral cracks form (see frame 5), which continue to grow for another
-microsecond after the sphere has left the surface of the glass block (see L in frame 6). It will
-also be seen that in frame 5, a dark protrusion has just appeared on the glass surface around
-the contact during the unloading (i.e. rebound) of the sphere. This dark protrusion is, in fact, a
-ring of detached B03, which leaves the impact surface in a direction normal to it at a velocity
-of 135ms~! and a dent is left behind in the glass surface. This rebound velocity of the sphere is
-relatively high, being about 85% of the incident velocity. This relatively high rebound velocity
-is reasonable, as little or no loss of energy occurs because of the absence of any cracking during
-the loading part of the impact.
+The general form of V,, is such that the equation
+
+V,=0
+
+gives each quantity #, as a homographic function of the remaining 7 — 1 quantities,
+and it is interesting to enquire whether, assuming the coefticients of V,, arbitrarily,
+it is possible to pass to a corresponding redundant generating function. I find that the coefficients of V,, must satisfy
+
+2—nWtn—2
+
+conditions, and, assuming the satisfaction of these conditions, a redundant form can
+
+be constructed which involves
+nuw—1
+
+undetermined quantities. In fact, when a redundant form exists at all, it is
+necessarily of a (7 — 1)-tuply infinite character. We are now able to pass from any particular redundant generating function to an
+equivalent generating function which involves n—1 undetermined quantities. Assuming these quantities at pleasure, we obtain a number of different algebraic
+products, each of which may have its own meaning in arithmetic, and thus the number
+of arithmetical correspondences obtainable is subject to no finite limit.

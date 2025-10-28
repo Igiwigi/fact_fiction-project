@@ -1,21 +1,18 @@
-Minimizing the elastic strain energy of the surface
-by reducing its modulus lowers the equilibrium barrier for fracture of the adhesive interface
-[21]. Therefore, by lowering the modulus of the surface material, the adhesion of solid fouling
-materials can be reduced dramatically. In fact, while the interfacial free energy difference between
-smooth surfaces of a high energy metal such as iron (2.4J m~*) [22] and the lowest energy material
-Coo Faz (0.0067 J m=?) [23] is only a factor of 100, the modulus between a hard and soft surface
-can vary over as many as 5 orders of magnitude [24,25]. Thus, when bulk deformation occurs,
+The extra terms depending
+2
+on d,— a give the effect of the term cos’ w in p. ‘0
+
+§22. Finally, a word must be said with regard to the legitimacy of our analysis,
+considering the fact that if p falls to zero, «’, the resistivity, must become infinite. Regarding the matter physically, it is evident that an infinite resistivity is not likely
+to introduce spurious terms into the current potential, and an examination of the
+equation (1) for R will show that an actual infinity in «’ would only lead to a
+zero term in R. But such an infinite term should not occur in the analysis, and it
 
 
+302 DR. 8S. CHAPMAN ON THE DIURNAL VARIATIONS OF THE
 
-marine algae barnacles
-
-modulus (Pa)
-
-bacterial biofilm
-
-. clathrates scale deposition
-soft fouling hard fouling
-materials materials
-
-Figure 1. Fouling materials classified on the basis of modulus.
+is clear that by altering the constant term in p, so that p never falls to zero, the
+above calculations become formally and really legitimate ; when we wish to return to
+the actual case we must appeal to the “law of continuity,” and the fact that our
+mathematics is applied to an ordinary physical problem, to allow us to pass to the
+limiting value of d, in the final result.

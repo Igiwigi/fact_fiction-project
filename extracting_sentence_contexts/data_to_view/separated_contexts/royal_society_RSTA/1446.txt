@@ -1,15 +1,11 @@
-Reproduced from Coveney
-etal. [7].
+10.2. Such in essence is BOrGEN’s method, but the daily multipliers are replaced
+by +1, and so the principles of the Least Square Rule are still further ignored. There
+is probably no real objection to this simplification, and, in fact, the author has supplied
+the Hydrographer with a method of analysis of tidal observations extending over 29
+days, in which the multipliers for both daily and hourly processes are +1.
 
-of data, but fails grossly as soon as the dataset is enlarged, if only slightly. Although well known
-to the machine-learning community, these problems are typically swept under the carpet by the
-most ardent BD aficionados.
-
-5. The two distant sisters: correlation and causation
-
-The fact that correlation does not imply causation is such a well-known topic that we only
-mention it for completeness. It is indeed well recognized that even if two signals manage to register a very high correlation
-coefficient C (close to 1), this does not necessarily imply that they are mechanistically related. They may be false correlations (FC), as opposed to true correlations (TC), the latter signalling a
-
-
-true causal connection.
+10.3. The instructions by Dr. Hessen,* however, imply that only one out of the
+two possible sets of 24 hourly sums is evaluated except when known conjugate con-
+stituents with equal and opposite values of 9 necessitate both. This simplification is
+equivalent to the arbitrary choice of half the functions X,,, provided by the T.I.
+method.

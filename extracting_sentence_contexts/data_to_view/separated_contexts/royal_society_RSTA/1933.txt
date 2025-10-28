@@ -1,31 +1,16 @@
-Hence, it can be shown that the minimization of H under constraints Gp = Gpu, =
+The following will, I think, show that no error need be feared in the solution which
+has just been obtained. The value of V,, if obtained accurately, ought to satisfy V’°V; = —4zp, and the term
+—4rp must come entirely from the terms independent of ¢ in V, Thus the terms in
+V, which are multiplied by e, ¢? and e* ought separately to be spherical harmonics. It was verified in the previous paper that the terms in e and e* were in actual
+fact of this form, The terms in e* will be harmonic if the quantity on the right of
+equation (57) is harmonic, and the conditions for this are expressed by the equations
 
+LOG; seinsctibis = On 4 o -- \e cctioa ee omen ee CED
+Clg Biot beg = OF GAS ss wk tails oka OOD
+Cleef Blin tle 00s does eee (70)
 
-Gye = 0 is equivalent to the minimization of the Lagrange function, i.e. Vi(H + ApGp + Apug Gpuy + ApEGpE) =0
+SUED By en0-2 a, see we Dee ah eee
 
-Val" =0, A6
-Gp =Gpu, = Gpz =0 Mik ° (A6)
-
-since
-
-a,L4=G,=0, ,,,L4%=Gou, =0, a
-
-roe Gor =0. Interestingly, the condition Vv, LH =0 leads to the following exponential form of the
-equilibrium state:
-
-fr) =aexp[-( + dp + Apu Cia + ApECr I, (A7)
-
-due to the fact that V,H =Infj +1. Applying the same steps with the general set of constraints (2.12), one obtains the following
-(generalized) Lagrange function:
-
-Lip =H + > Ave Gpgr- (A8)
-par
-
-The condition Vy Lie =0 eventually leads to
-
-f; 1 =aexp - (: “Zagat | (A9)
-Par
-
-It is worth noting that the above form of the numerical equilibrium is not unique and,
-obviously, depends on the scaling factor a. To the best of our knowledge, the latter cannot
-depend on the velocity discretization but it can be space- and/or time-dependent [55].
+I have inserted the values just obtained for ty, t», ...0;, ... in these equations, and
+have verified that they are all satisfied. (The necessary transformations of the various
+integrals are tedious, but involve no special difficulties.)

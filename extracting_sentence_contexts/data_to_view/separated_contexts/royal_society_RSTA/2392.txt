@@ -1,21 +1,19 @@
-Differentiating y with
-respect to time and using (2.3) into the result yield
-HW) = (In + Ay t) + Be”"'y(y, t= hy, (2.8)
+One direction in which this result can be amplified is by extending the assumption
+Swe have made that the matrix Q,"(w) has linear invariant factors. It is well enough
+understood what is the character of the modifications thereby introduced. A more
+important generalisation appears to be that the factorisation of the matrix Q(u)
+‘odoes not in fact require that u be a periodic matrix. As an indication of the theorem
 
-whose characteristic equation coincides with (2.6). Furthermore, the Schur’s theorem [29]
-guarantees the existence of a unitary matrix U € R’*", such that L= UuTU# holds, where T is
-an upper triangular matrix whose diagonal entries are the eigenvalues of L. Under this unitary
-transformation, and recalling that A = —kpL and B = k;L, we introduce the change of coordinates
-y(y,t) = UE (y, t), which transforms system (2.8) into
+consider an equation
 
-E07 t) = (vIn — kpT)E(y, #) + br T e”"E(y, t - h). (2.9)
+~ ax
+=
 
-The fact that the coefficient matrices in (2.9) are upper triangular implies that the characteristic
-equation of system (2.8) is equivalent to the product of n factors of the form
+S dt
+2
 
-FinlV8,h, kp) =8 — y + dmkp — Amkpe’ eS", m=Tyn, (2.10)
-which is the right-hand side of f(y,s) in (2.7). a
++o°x = x (ae™+be™ +ce™),
 
-Remark 2.4. On the one hand, analytical treatment of ‘sheer’ stability in (2.10) is relatively
-easy since in this case one must set y =0. A large body of the literature can guide one in this
-effort, see [27,30-38].
+“An which the constants x, A, « are such that «+A+ = 0, but the ratio of two of them
+‘Sat least is irrational. For example, we might have «= /2+1, w= —\/2+1,
+= —2.

@@ -1,12 +1,15 @@
-However, severe limitations to this strategy
-arise when the signal can change abruptly, rather than smoothly: in fact, this is not a problem for
-which classical linear DSP is suited. To illustrate why classical linear filtering is problematic in this situation, consider the
-archetypal, step-like signal: the square wave—periodic with instantaneous transitions between two
-different amplitudes—which is obscured by serially uncorrelated (white) noise. A fundamental
-fact about linear, time-invariant (LTI) systems is the existence of a unique spectral description,
-so it is instructive to describe the situation in the Fourier domain. The only Fourier coefficients
-of the square wave that are non-zero are odd, integer multiples of the frequency of the wave,
-and are proportional to 1/n, where n is the index of the Fourier component. Thus, the Fourier :
-series has an infinite number of non-zero terms (infinite bandwidth), and truncating the series 7
-introduces spurious oscillations (Gibbs phenomena) near the edges of the square wave, with the is
-amplitude of these oscillations increasing as the truncation becomes more drastic.
+Thus for the alternating
+invariant of 10 quaternary quadrics the tableau is
+
+aapyd
+BEEnC yy Adu
+OCuvey
+
+The product of five determinants corresponding to this tableau gives only one term in
+the required invariant. With concomitants of a single ground form one term is sufficient,
+for the fact that the ground forms are made identical is equivalent to the operation of the
+symmetric group of permutations on the ground forms. If instead of a concomitant of
+degree nin one ground form we sought a concomitant which was linear in each of » ground
+forms and symmetric in these ground forms, it would be necessary to operate with the
+symmetric group of permutations on these ground forms. Similarly, to obtain the alternating invariant of 10 quaternary quadrics we must operate
+on the term given above with the negative symmetric group on the LO quadrics.

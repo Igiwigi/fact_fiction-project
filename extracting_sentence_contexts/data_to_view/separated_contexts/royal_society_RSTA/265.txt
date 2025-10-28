@@ -1,18 +1,11 @@
-Extracts from David’s letter are reproduced [in figure 2], and in the ae
-body of the letter, he recounted in his elegant script and with his usual clarity of expression 2S
-the essentials of catastrophe theory, and how they related to our work at UCL on the : %
-buckling of elastic structures. :B
-limmediately invited David to come to UCL for a chat about this seminal collision of ideas. :&
+Two medials A and C, which have no point in common, form a basis, in the sense
+that every point of space [2k—1] either belongs to A or C, or else is in line with a point
+aofA and cof C. In fact the k-fold space containing A and any external point d intersects
+the (k—1)-fold C in one point c: and the straight line cd, lying in the space Ac, must
+meet A in a point a.
 
-Quite remarkably, Giles had just computed the imperfection sensitivity characteristics for
-a stiffened elastic plate and drawn a beautiful three-dimensional representation of the
-singularity (see fig. 6 of my ‘advice article’ in this Theme Issue). David immediately
-identified this as a hyperbolic umbilic catastrophe, seemingly the first known practical
-example of this important interactive phenomenon. The galvanizing impact of this meeting is well testified by the fact that within two months
-Giles and I had submitted a major article to the Journal of Applied Mathematics and Physics
-(ZAMP) [60] entitled Towards a unified bifurcation theory, in which we laid out in full the
-relationships between the two lines of research, and including, of course, Giles’ hyperbolic
-umbilic picture. This turned out to be an influential and highly cited paper. It appeared
-in 1975, as did David’s insightful introduction to catastrophe theory in the IMA Bulletin
-[61], which served as an excellent and accessible guide to many of my subsequent research
-students.
+Analytically let te U te amaston es es Hin Yoseees Ved (1)
+
+be the homogeneous co-ordinates of a point of [2k —1], referred to the medials A and C
+as basis: that is to say, let any point of A be given by {x, 0}, and any point of C by {0, y}. Here x is to be regarded as a column vector of k components, as also y, while {x, y}
+denotes a column vector of all 2k components in the above order.

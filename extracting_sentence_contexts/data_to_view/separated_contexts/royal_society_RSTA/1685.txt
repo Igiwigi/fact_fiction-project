@@ -1,18 +1,10 @@
-The last affirmation
-follows since by [9, Cor. 4.2.2] the inhomogeneous Cauchy problem (iaCPy,) has at most one
-solution which, if it exists, is given by (4.2). a
-
-5. The problems (aP2) and (iaP2)
-
-In this section, we show equivalence of the homogeneous problem (aP2) and the abstract Cauchy
-problem (aCP,») for the operator A? with abstract generalized Wentzell boundary conditions. This fact is then used to characterize the well-posedness of the associated inhomogeneous
-problem (iaP2). In the remaining two subsections, we then ‘decouple’ (aP2) into two independent
-simpler abstract Cauchy problems on Xo and @X, respectively.
-
-(a) The homogeneous case
-
-Theorem 5.1. The following assertions are equivalent:
-
-(a) The homogeneous problem (aP2) with dynamic boundary conditions is wellposed.
-(b) The abstract Cauchy problem (aCP 4s) is well-posed.
-(c) The operator A® defined in (3.2) generates a Co-semigroup on X.
+The theoretical deduction—that rupture of an isotropic elastic material always
+occurs at a certain maximum tension—is doubtless correct ; but in ordinary tensile
+and other tests designed to secure uniform stress, the stress is actually far from uniform
+so that the average stress at rupture is much below the true strength of the material. Now it may be shown, with the help of elastic theory, that the stress must be
+substantially uniform, in such tests, unless the material of the test-pieces is heterogeneous
+or discontinuous. It is known that all substances are in fact discontinuous, in that
+they are composed of molecules of finite size, and it may be asked whether this type
+of discontinuity is sufficient to account for the observed phenomena. With the help of formula (13) above, this question may be answered in the negative. Formula (13) shows that a thin plate of glass, having in it the weakest possible crack of
+length 2c¢ inch, will break at a tension, normal to the crack, of not less than 266)./c Ibs.
+per sq. inch.

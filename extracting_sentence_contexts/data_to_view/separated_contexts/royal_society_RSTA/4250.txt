@@ -1,32 +1,3 @@
-Using the
-proposed PostP technique (figure 11b) we were able to clean the classification in a more effective
-way than with a standard technique (figure 12a).
-
-
-(a) (b)
-
-20 20
-40 : 40
-80 80
-tt a in a
-120 : 120
-50. 100 150 200 250 300 50. 100 150 200 250 300
-
-Figure 13. (a) Detection map of the COS classification of the pre-processed data and (b) detection map of the post-processed
-COS classification of the pre-processed data. (Online version in colour.)
-
-=
-
-With the plain COS classifier, as for the previous dataset, we needed to reverse the classification : 7
-
-in order to produce meaningful results (figure 12b). If we apply the proposed PreP pre-processing : 3s
-method to the hypercube, we can remarkably increase the performance of the classifier, as shown 1
-in figure 13a, so that there is no need to reverse the classification and its performance is better : EY
-than that of the other classifier tested. In fact, the COS method equipped with the proposed : 3
-pre-processing method is producing a more natural plume shape than the one produced by any [3
-other classification technique tested. So the pre-processing technique allows us to transform a :8
-known failing classification method into what appears to be an extremely successful classification 8
-algorithm. We observe that the numerical range of the COS classification of the raw hypercube :&
-
-spans approximately the interval 0.92 and 0.94, while that of the pre-processed hypercube is
-between 0 and 0.5.
+3; and in fig. 4 it may be noticed that the later readings of the
+yellow boundary were slightly inaccurate, this being due to the fact that the
+experiment, which was a long one, had to be finished by gas light. In conclusion, the author desires to express his great obligation to his colleague. Professor T. R. Lyte, for much kindly suggestion and practical aid.

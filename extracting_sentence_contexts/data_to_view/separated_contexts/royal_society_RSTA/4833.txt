@@ -1,19 +1,21 @@
-Moreover, there are also many ways to employ direct product ensembles, independent copies
-of the cell or system, by using multiple independent copies of (X,S) for any semigroup S acting
-faithfully on a set X. In particular, this is true when X C Q and S = (X)per divides S(A), with
-Sa SNAG. A useful fact via ‘computing in parallel’ is related to the interpretation of groups
-in Gibbs’s viewpoint on ensembles. For any faithful permutation group (X,G), the right regular
+In this way I obtain a permutation of the letters in «**y, where the exponents
+8, 2, 1 enumerate the nodes in the successive rows of the lattice. This permutation
+possesses the property :—
 
-This restriction might be removable also if the sequences produced would vary in time in response to state that changes
-more quickly, but details of conditions that make this possible have not been characterized yet.
+“Tf a dividing line be made between any two adjacent letters of the permutation,
+the succession of letters to the left of the dividing line is like the whole
+permutation, such that « occurs at least as often as 8, 8 at least as often
+as y; in other words, the numbers which specify the occurrences of «, B, y,
+are in descending order of magnitude.” In fact, if the process of forming the Greek letter succession (or permutation) be
+arrested at any point, the lattice numbers that have been dealt with occupy a set of
+nodes which also constitute a lattice, complete or incomplete. It follows, of course, that the first letter of the permutation must be a. The lattice
+arrangement of numbers is recoverable from the permutation, for it is merely
+necessary to write the numbers in descending order underneath the letters when we
+see that the successive lattice rows are indicated by the letters «, B, y, respectively,
 
-31F must separate points of X up to cosets and contain enough constants up to cosets: for the first, distinct points should map
-to different cosets of N and, for the second, there must exist functions approximating constants for generators of G, i.e. values
-must be in the same coset of G/N rather than strictly constant.
+aByaBa
+654321"
 
-
-representation (G, G) with action gi - g = gig can be realized as a substructure of the direct product
-of X-many copies of (X,G). That is, |X| instances of a regulatory network within a cell, or |X|
-instances of the cell, allow one to embed (G,G) into the ensemble: let X = {x1,...,Xm} denote
-the m distinct elements of X, then a state g; € G can be uniquely encoded as (x1 - 81,...,%m * 81)
-as the action is faithful.
+The process is thus unique, and there will be as many different Greek letter
+permutations having the properties above specified as of arrangements of unequal
+numbers at the nodes of the lattice having the specified descending orders.

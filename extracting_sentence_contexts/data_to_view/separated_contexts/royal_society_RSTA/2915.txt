@@ -1,26 +1,15 @@
-The SST on which this ConceFT
-representation is based is calculated using a Battle-Lemarié mother wavelet basis BL3 [30], and
-20 realizations of the SST. A Morlet mother wavelet provides less clear results in this case. This
-could be due to the fact that the ConceFT method is based on averaging semi-independent
-SST outcomes; thus, orthogonality of the Battle-Lemarié mother wavelet helps reducing noise
+61
 
-
-LIGO signal HI fa |
-300 300 \
-ConceFT SsT <- ib
-
-250 250 .
-pas
-= 78
-= 200 i 200 13
-e Ss
-150 150 1S
-2 df xg x : 3
-2 100 Y 100 > >, a :8
-wv
-50 cae ——— 50 ee E
-0 0.02 0.04 0.06 0.08 0.10 0.12 0.14 0 0.02 0.04 0.06 0.08 0.10 0.12 014 1B
-time (s) time (s) 1S
-:3
-Figure 7. LIGO signal H1 presented in figure 1 analysed using the ConceFT and the SST techniques. A total of 20 realizations [=
-of the SST with a Battle—Lemarié mother wavelet basis BL3 [30] are used to run the ConceFT algorithm.
+may be a positive or negative fraction, or may be > 1. If we know that the first
+observed line of a series is actually the first member m= 1 for that line and p is
+definite. If we assume, for instance, that the first doublet of a principal series has
+the same separation as those of the associated series, the question is settled ; or if
+such a line has not been observed, then the degree of convergence of the separation of
+any P doublet will give its order at once, e.g., the fact that the D lines in Na have
+the same separation 17°21 as the sharp series, would show that the D lines are
+actually the first members of the series. If these had happened to have been outside
+the region of observation, however, and the doublet (3302, 3303) had been the first
+observed lines of the P series, their separation (5°50) would have at once shown that
+for them m = 2, and again p would be definitely determined. In spectra with no
+doublets or triplets, as in the singlet series of He or O, this criterion would not be
+available.

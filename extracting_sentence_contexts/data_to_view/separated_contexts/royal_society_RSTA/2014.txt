@@ -1,109 +1,21 @@
-Asymptotics of models originating from the distributed-order model (1.3). Power-type
+Let x denote the correction required on this value
+of A, Then
 
-Case | ~t ~2 ~e
+36A,+ 1643 = 9880°057 —"4653£+ 36'90x
+42A,+240 = 11280°123—"5306£+ 42'13x
+150A, +96 = 40287°19—1°896¢+4 150°48x
 
-Case Il ~ a ~ fa Rhee ~o
+Supposing that the true multiples of the oun are y greater, and putting
+dy, = —'0031+dy,
+36°90x2—0172 +27 (dvj—dy,)—"40+3°62y, = 0
+42°182—"025€—27dy,.+118+3°62y, = 0
+150°48a—"040€—27dy,+'75+3'62y, = 0
+i x = 010+ '00046¢—"73dr,— 097,
+x = —'027 +'00057é+ 64dy.—"086y,
+x = —'0050+'00026¢+ 18dr,—"024y,
 
-Case lll ~ z ~ % ~ i —_
-Case IV ~ Pe ~ fa Rhee ~E
-
-modulus is a completely monotonic function. Similarly, the energy estimate involving the creep
-compliance is based on the fact that the creep compliance is the Bernstein function.
-
-(a) Materials having finite glass modulus
-
-The energy estimate for the fractional wave equation expressed in terms of relaxation modulus
-(2.14) corresponds to materials that have finite glass modulus and thus finite wave speed as
-well, i.e. materials described by the power-type distributed-order model (1.14), Case I (A 1), and
-Case III (A 3) of the linear constitutive model (1.13), as well as materials described by the fractional
-Burgers models VI-VIII (B 6), (B 7), (B8). Namely, by multiplying the fractional wave equation (2.14) by 3u and by subsequent
-integration with respect to the spatial coordinate along the whole domain R and with respect
-to time over interval [0, t], where t > 0 is the arbitrary time-instant, one has
-
-1 1
-5 Pld, Baga) + 5088 lax, lZscey
-
-t
-
-1
-= pPllvo 72 +| [Cet xp Oxxtl(x, FO u(x,t’) dx dt’, (4.1)
-
-0
-
-where the change of kinetic energy (per unit square) of a viscoelastic (infinite) body is obtained as
-
-t t t
-| | appx, Opu(x, 1) dedi’ = 50 | ap (Opu(x, f))2 dxdt! = 3 | ae llBeu, P)Iagay al!
-oJR 2° JoJr 2° Jo
-
-1 1
-= sr llaru(-)lifagey — 5 lleva) Itageyy (4.2)
-
-using the initial condition (1.10)2, while the potential energy (per unit square) of a viscoelastic
-(infinite) body follows from
-
-t
-| | Oxy u(x, UY dp u(x, U') dx dt’
-oJR
-t
-=| (to.uts, #) dpu(x, EVR - i Acu(x, tf) Av u(x, t') ar) df’
-=-3{'{ Ap (Oy-t4(x rp drat =—F | aya u(-, L)I|22q) dt!
-= 5 |, Jy OU =a 5 |, Olle Ollie)
-
-1 1 1
-== 5 lu, Dlfage) + 5 le, Ollfaqa = — 5 lx, Diz (4.3)
-
-using the initial condition (1.11)2 and integration by parts along with the boundary
-conditions (1.12)2 combined with the constitutive equation (2.9) and strain (1.2) yielding
-limy-. +00 0xu(x, ft) = 0. The last term on the right-hand side of (4.1) is transformed as
-
-t
-| | (Gop(E’) *p Oxxtt(x, t'))Op u(x, ) dx dt’
-oJR
-
-a
-= | Ox(Ger(t’) py AxU(x, ))Opru(x, H') dx dt!
-oJR
-
-Ix>—00
-
-= “(ae ey Oyu(x, F))Opu(x, Eo — | (Gsr(t’) #y Oxu(x, E))dpxu(x, t') dx) de’
-0 R
-= | ((—Gsr(t’)) #7 Oxt(x, 1) Oe (Oxu(x, t')) dx de!
-oJR
-t
-= lle) sey Oyu(x, E)Oyu(x, Epp — I, By ((—Ger(t’)) er Axor, t')) Ayte(x, F') dt’) dx
-
-t
-= | (att) ays, cuts 8) dx — [| dealt) raat) Aga, a
-R oJR
-after the partial integration with respect to spatial coordinate and time, using previously derived
-
-boundary condition limy_, +9 d,u(x, t) = 0, so that (4.1) reads
-
-1 1 ' . '
-5 Pld, Rage, + 5088 lax, Zs ey +| | By ((—Ger(')) sv Axtx, FOU, dx dt
-OJR
-1 : ,
-= sPllvoC aga) + [ca sy Ogt(x, P)xu(x,f) dx. (4.4)
-
-Using lemma 1.7.2 in [40], see also [41, eq. (9)], stating that
-
-t , 1 t
-Jo fo Bred me Pom # ee > SHH AC, Dac +f EDI, PDIP), 5)
-
-provided that k is a positive decreasing function for t > 0, the third term on the left-hand side of
-(4.4) is estimated by
-
-in Op ((—Ger(t’)) ey Oyu(x, t'))Oxu(x, ) dx dt’
-oJR
-
-1, 1h, ,
-2 5 (-Fen(t) #1 lst Dlfagey + 5 | (aoe AUC, Plage ae,
-
-2
-
-since —dsr is completely monotonic and thus positive decreasing function for t > 0, while the
-second term on the right-hand side of (4.4) is estimated by
-
-| ((—Gsr(t)) *¢ AxU(x, B))Oxu(x, t) dx = ‘(Céar(t =) | deux, t)dxu(x, t) dxdt!
+In these ¢ cannot be more than a few units, dy <‘02 and # <‘01. This can only
+happen if all the y= 0. Thus again there is the very important fact that the oun
+multiples are quite definite and are those used in the actual calculations. ¢ is not large
+enough to affect the limits of accuracy in «. The separation 1070 is not so well
+determined as the others and dy, may well be >‘01.

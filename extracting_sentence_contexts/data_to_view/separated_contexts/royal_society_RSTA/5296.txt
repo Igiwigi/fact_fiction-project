@@ -1,52 +1,24 @@
-Hence, by first-order differentiation with respect to A of both sides of equation (3.20), and by
-using equation (3.8), the following fractional order partial differential equation is achieved:
-a b ae? 1
-—H(t,a) = -——H (td) + —H(t,d). 21
-ay Hl) = J apapHl a) + PHA) 21)
-By applying the right-hand side of equation (3.20), we obtain a fractional order partial
-differential equation of the following form:
+901'1
 
-a2 b\? ae b ae/2 1
-Tt, ray=(2 T(t,4) +2 T(t,a T(t,a). 22
-Ta) (Z) Tha) +20 2579) + ST) (3.22)
+Maximum difference in the gold between centre and mean of outside, 7°5 per thousand. ©
 
-To obtain the solution of this equation in the transfer function domain, let us apply the Laplace
-transform with respect to time to equation (3.21),
-9 is aya (Pse2 41) Hs ((a/2)-1)
-—H(s,A) =| ~s*/* + — } H(s,A) -o D; H(0,A). (3.23)
-an k k
-The solution of this equation (for H(0,4) = 0) is given as follows:
-H(s,4) =e7* G/N"? +0) FH(s, 0). (3.24)
+Au 901-6 Au 902
 
-By applying the Laplace transform to equation (3.20), we obtain the following relation:
-H(s,a) = PH? TG, N+ rT 2) - DI) HO, a), (3.25)
+Au 900-3 Au 900-4
+. . Au 893-6 Au 901-4
+Au 901-6 d
 
-from which we can obtain the transfer function describing the dynamics between the heat flux
-and the temperature in the desired point 4 in the form:
+Au 809°5
 
-T(s,a) = H(s,4). (3.26)
+Au 809-5
 
-k
-bs*/? +1
-From this transfer function, the following relation describing the temperature at point 41 with
-respect to the heat flux at the beginning of the beam is obtained:
+It seems therefore clearly demonstrated by these experiments that the metal
+palladium is driven towards the centre of the mass in alloys of gold and palladium
+in a similar manner, though not perhaps to the same extent, as platinum-gold alloys,
+and the experiments shown by the diagrams given prove this fact incontestably. The methods adopted for the determination of the gold in the respective platinum
+and palladium alloys were the following :—
 
-T(s,a1) = eMUK(b" +1) FIs, Q), (3.27)
-
-bso/2 +1
-(b) Implementation of exp(—7s)
-—Ts*
-
-For ease of analysis in practical implementation of e
-expansion is frequently used:
-
-, the following well-known power series
-
-ok
-x
-= » ar (3.28)
-=0
-
-The power series is fast converging, thus the number of terms does not have to be too big. In fact, it can be reduced to just a few first terms. This reduction affects the accuracy of the
-implementation but makes the implementation and analysis easier and faster. We consider two
-examples of the approximation of the exponential transfer function.
+In the alloys of gold, 10 per cent., and platinum, 90 per cent. Two carefully
+weighed portions of the alloys to be analysed were weighed and cupelled with two and
+three-quarter times their weight of fine silver—in identically the same manner as in
+conducting.

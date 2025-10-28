@@ -1,15 +1,7 @@
-For instance, the high-frequency power
-in the convection zone of the MURaM simulation is about two orders of magnitude larger than
-that in the Bifrost simulation. In the latter one, the high-frequency power increases very steeply
-in the photosphere, such that it becomes even bigger than in the MURaM simulation at about
-800 km in height. Noteworthy is also the fact that the increase of the high-frequency power seems
-to flatten for all models near 1000 km (the exception being the MURaM simulation, where the
-flattening is less pronounced). The CO5BOLD simulation is the only one which shows a steady
-increase of the high-frequency power, whereas the other models reveal local minima between 200
-and 500 km. Given the significant differences in the power distribution between the various models, in
-particular at high frequencies, caution is advised when using them for energy flux studies.
-
-(b) Phase difference spectra between selected heights
-
-We now turn our attention to the phase difference spectra between selected heights in the various
-models, i.e. the measured dispersion relation between these heights.
+815
+Determination of Roots of A; = 0. To determine the roots of the equation A, = 0 it is necessary to assume a value
+for 6 and a value for P, and to calculate the values of the determinant formed by
+taking the first 1, 2, 3, 4,..., rows and columns of A;. Owing to the fact that
+all the diagonal terms after the first two are equal to 1 the actual numerical value of
+the determinant converges to a definite limit. Taking a value of 4 and a series of
+suitable values of P, the value of P for which A; changes sign is found by interpolation. This is the root of A; = 0 which corresponds with the particular value of 4 chosen.

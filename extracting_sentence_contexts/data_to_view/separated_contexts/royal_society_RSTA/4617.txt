@@ -1,29 +1,25 @@
-A straightforward calculation shows that
-(8) = a,j; — 0:0) F
-=K,e7 8/2)ty_ lag, 34, — (a; — 8; _ —b-(Vo, — KV 411
-=Ke [-zAg1 — ko + 5 Ako — (aij — 5i)(G1 — Ko) (Vo, — mV). (4.11)
+The lunar-fortnightly tides therefore differ only very slightly from tides whose
+period is infinitely long. The difference between these latter and the solar semi-
 
-Note that the first and the second terms in the square brackets on the right-hand side of (4.11) are
-negative, while the fourth and the fifth terms are small, being of order e. If x is close to I”, then the
-second term dominates the third term and if x is away from the boundary /”, then one can choose
-«2 > 0 so that the first term dominates the third term. Thereby we use the fact that both g; and y
-vanish at I”, they are both non-negative (by the maximum principle), and both satisfy the Hopf
-lemma (since they are both supersolutions). It follows, then, that there exists a «2 > 0 and some
-constant C; such that
+* Several of the conclusions of the present section have been previously arrived at by Professor
+Lame (‘ Hydrodynamics,’ chapter viii.); but, on account of the important light which they throw on the
+later sections, I have thought it desirable to treat the questions in some detail, even at the risk o
+repeating what is already well known,
 
-(1 = aijdjj — b;9;)F < —Cyx e 8, (4.12)
-It then follows from (4.12) and (3.2) that
-(At = aij — bi9;)(—4r — F) > —(ragquij +Orbiqi + BANG, w! + Akqa w}) + Cree C2, (4.13)
 
-Note, however, that the term in parentheses on the right-hand side above is a quadratic
-nonlinearity and as such decays at least as fast as e~*!:
+246 MR. S. 8S. HOUGH ON THE APPLICATION OF HARMONIC
 
-| 109, +d:biqi + WAG x w! + Age will <Cociee
+annual tides will be quite inappreciable, and we may take the above series as giving
+a good representation of the solar long-period tides, unless the effects of friction
+become important for such tides. The fact that when the period of the disturbing force is increased without limit
+the free surface does not tend to approach its equilibrium form appears at first
+sight to be at variance with the general laws of oscillating systems. The explanation
+of this apparent anomaly may perhaps be made clear by considering a simple form
+of “ gyrostatic” system which possesses only two degrees of freedom. In the absence
+of frictional forces, the general equations of motion of such a ays may; by a proper
+choice of coordinates, be expressed in the form
 
-Now, using (4.13) and the above bound, we note that by choosing the constant «1 detcy/ Ci)cie,
-we have that
+a — oy + nx = X,
+y + wx + my = Y*
 
-(81 — aij — b;9;)(—qu — F) > Cocre eG — Cocye oF! > 0,
-
-since B =24 —n> Ba. The previous bound implies that —q—F is a supersolution for the
-operator 0; — 49; — bj0;.
+Here x, y denote the generalized coordinates of the system.

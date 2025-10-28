@@ -1,25 +1,20 @@
-SensorML, NumSim
+We have
+first to calculate the distribution of R, magnetic force, in both media due to the
+pole m, as disturbed by the change of inductivity. We have div y,R, =m in the
+first medium, and div ~,R, = 0 in the second, therefore R has divergence only on
+the interface. Let o be the surface density of the fictitious interfacial matter to
+correspond ; its force goes symmetrically both ways; the continuity of the normal
+induction therefore gives, at distance 7 from A, the condition
 
-NS aN
 
-Figure 2. Dataset metadata taxonomy.
+FLUXES OF ENERGY IN THE ELECTROMAGNETIC FIELD. 471
+ma 5 Feely NO
 
-a
+because m/4p,7° is the tensor of the magnetic force due to m in the jz, medium when
 
-— B-browse metadata supports understanding the context of data and choosing
-between similar datasets. This concept is further described below in §2a.
+of infinite extent. Therefore
+—h— 2 ma
 
-— C-character metadata includes citations of the data itself, and post-fact
-assertions as to the quality of the data. Typically, such metadata does not always
-exist packaged with the data itself, but may exist in third party repositories (e.g.
-journal archives), etc. (Note that C-metadata itself may be discoverable by
-D-metadata.
-
-— D-discovery metadata is a subset of the browse and archive metadata, which
-is selected to aid finding data for evaluation or visualization and/or other
-uses. Typically discovery metadata is harvested and/or submitted to other
-organizations to aid data discovery.
-
-— E-extra metadata is the core discipline- or instrument-specific metadata, which
-may be strongly typed (i.e. conforms to schema such as SensorML*) or consist
-of arbitrary documents.
+ee a oO
+The magnetic potential ©, such that R = — VQ is the polar force in either region, is
+therefore the potential of m/p, at A and of o over the interface.

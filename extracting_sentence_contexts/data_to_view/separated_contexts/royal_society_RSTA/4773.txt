@@ -1,6 +1,9 @@
-In the second row, the arrangements op and of
-are shown under a single arrangement of o' for i= 0,1. Given a finite n x n array size, and the initial oR seed arrangement, for any rules ¢p, 6c, the
-arrangement sequence o°,c1,... is eventually periodic. This follows from the fact that there are
-only a finite number of configurations and the transitions between the iterations are deterministic. For the seed o° of figure 2, and the GoL-like system the sequence becomes periodic after the
-first three iterations (figure 3). However, the GoL-like system seems to exhibit quite complicated
-dynamics.
+dt
+| K.(s, fd = & as tO
+Ja n=1 3
+
+and that the series on the right converges uniformly for values of s in (a, 6). It is easy to show directly that the series on the right of (2) is absolutely
+convergent. The result, however, follows at once from the fact that we have
+throughout left the order of the terms of the series arbitrary, which would otherwise
+have been impossible, by RreEMANN’s theorem on derangement. §2. We may here digress to prove a slight extension of the Hilbert-Schmidt
+expansion theorem,* applicable when «(s,t) has the properties mentioned above.

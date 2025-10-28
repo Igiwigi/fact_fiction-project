@@ -1,18 +1,10 @@
-The auto-correlation function 8
+Zev nL )epln*’, n(" a T(n*’ +n*"+1—p'—p"). (as)
+This series terminates ifn*’ and n*” are integers, but in general is of the form of an asymptotic
+expansion. It can, however, be evaluated with sufficient accuracy by ignoring terms for
 
-for single commodities is modelled using the action functional and Feynman path integral. The auto-correlation also provides a stringent test of the accuracy of the model. The view taken in statistical microeconomics [1] is that supply and demand are inseparable
-and in fact are two facets of a single entity, namely the microeconomics potential function V[p]. The
-potential can be chosen to be the sum of supply and demand [1]
+which p +p" <1 nT. (19)f
 
-Vip] = Pip] + Sip], (1.1)
-
-but can be more general, as discussed later. : =
-
-The potential function V[p], similar to mechanics, drives the evolution of market prices. For the [=
-special case when the prices are constant (time independent)—given by the constant prices : yy
-Po = (P01, Po2,---,Pon)—the prices minimize the value of the potential; namely that V[pp] is a : 2
-minimum of V[p]. aes
-
-The break-up of the microeconomic potential into a sum of supply and demand need not hold if
-in general for all values of the price as the break-up is essentially an asymptotic property of the : 8
-microeconomic potential.
+The first omitted term is in fact unimportant, except when the sum of the others is passing
+through a zero. The significance of condition (19) can perhaps most clearly be visualized by
+noting that it corresponds to neglecting in the integrals of (17) powers of r less than 2. The
+main contribution from these comes from the region close to the origin.

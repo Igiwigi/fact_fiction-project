@@ -1,13 +1,6 @@
-QCG-PJ has been shown to efficiently execute
-10000 jobs with less than 10% overhead, even if those jobs only last for one second each.!®
+Section I.—Notes on Calibration of Scales. A. Notation. ,
 
-To improve the FabSim3 ensemble submission performance, we integrated it with QCG-PJ
-and enabled multi-threaded job submission from the local machine. To demonstrate the benefit
-of this, we measured the total elapsed time of the job submission to a remote machine for the
-epidemiology” application. Owing to limitation of maximum number of submitted job per user!®
-
-MSee http:/ /hidalgo-project.eu.
-15See https: / /facs.readthedocs.io. See VECMA Deliverable 5.2: https://www.vecma.eu/wp-content/uploads/2019/12/VECMA_D8.2_First-Report-Infra
-structure_PSNC_20191208.pdf. See https: / /github.com/djgroen/FabCovid19.
-
-18The maximum number of jobs a user can have running and pending at a given time is 5000.
+1. m,n, p, q, ete., are integral numbers representing the theoretical distances of certain
+graduations from the zero of the scale in appropriate units. They are, in fact, the labels
+of these graduations. 2. m/n means the actual distance between the graduations marked m and n. For
+convenience m is taken as the smaller number of the pair.

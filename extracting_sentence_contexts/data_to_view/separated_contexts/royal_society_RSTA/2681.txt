@@ -1,22 +1,12 @@
-At this point, it would be
-tempting to substitute equations (3.2)-(3.5) in (4.4) to test which types of porosity functions
-would satisfy it, but should we adopt this straightforward approach, we would quickly encounter
-difficulties. The problem is that the porosity that enters (4.4) is evaluated at the steady state, but
-the steady state value of o explicitly depends on ot, which is in turn expressed as a function of
-the porosity, leading to self-recursive definitions, which may greatly complicate the mathematical
-treatment. Since the source of this self-recursiveness is the fact that the steady state value of o
-depends on ot, we can overcome the problem by switching to the formulation in terms of the
-fractional coverage 0, whose steady state value according to equations (4.1) and (4.2) is p=
-KegCo/(KeqCo + 1). The 6 framework also offers the advantages of a more intuitive interpretation
-of the microscopic properties of the solid matrix in relation to its adsorption-induced swelling,
-and of working with a variable that is normalized between 0 and 1.
+On re-
+establishing the system, small consequential changes in the balancing point on the
+bridge might have occurred, or, at all events, the absence of any such changes had to
+be ascertained. Thus, it was necessary to allow time for the newly inserted block to
+settle to the tank temperature, and, as its approach to that temperature was slow and
+asymptotic, at least a day or two had to elapse before the “zero” point could be
+ascertained with certainty. The importance of this matter is indicated by the fact
+
+* For this suggestion we are indebted to Mr. G. M. CLARKE, M.A.
 
 
-1.0
-
-0.8
-
-0 0.2 0.4 0.6 0.8 1.0
-6
-
-Figure 1. Porosity as a function of @.
+152 DR. E. H. GRIFFITHS AND MR.

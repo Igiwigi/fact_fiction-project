@@ -1,44 +1,17 @@
-Furthermore, the window-averaged power extraction for each
-optimization window i is
-oT 1 pG+DTs
-Pea | P(t)dt fori=1,...,N. (C2)
-Ta Jit,
-Using a Taylor series approximation for the ratio Po /Pr, the variance thereof can be expressed in
-terms of statistical quantities of its numerator and denominator (e.g. [32]) as
+When
+r’,,17,, and r are expressed in cylindrical coordinates (g, z) it is easily seen from the
+first of equations (4) that E, = 0 over the plane z = 0 taken as a perfectly con-
+ducting earth in the antenna problem. If we place P at any point on the positive
+part of the z-axis such that z> 4 it is easily seen that | = 0, while if z << 4 we
 
-var (72) ~ E(Po)? see _ ycov(Po, Pr) + ee (C3)
+find that
+ite =Sksme eS. ne. 8
 
-Pr)  E(Pr)* | E(Po)? ~— E(Pr)E(Po)~—-E(Pr)?
+It thus follows from (5) that (7) is the solution appropriate to a sine-wave antenna
+of height / when a- 0, and in fact on making use of equations (3) all the properties
+of the sine-wave antenna may be deduced from it. The results thus obtained are
+identical with those derived from the integration of Hertz’s expression for the
+radiation field due to a current element assuming the sinusoidal distribution
+implied in equation (8). It is now readily seen that the expression
 
-where var, cov and E denote the variance, covariance and expected values respectively. Since P= (oN, PIA)/N, the variances in equation (C3) can be written as var(P) = var(P™)/N. Furthermore, combining properties of the covariance operator with the fact that mean powers in
-different optimization windows can be assumed to be statistically independent, the covariance in
-equation (C3) can be rewritten as
-
-(ox Po) oe 1? Pei)
-
-cov(Po, Pr) = cov N N (C4)
-m ys x cov(PG', PR’) (C5)
-i= j=1
-1 Ta
-= cov(PG! , PR ) (C6)
-
-i=l
-
-1 - -
-= NicovlPo' PR’): (C7)
-
-
-Finally, since E(P) =P, equation (C3) can be readily evaluated in terms of quantities that can
-either be directly obtained from total time-averaged powers Po and Pk, or calculated from the
-distribution of window-averaged powers PY and Pi as
-
-(C8)
-
-PB 1 PA ar(PM cov(PM, pl’ ar(PlA
-var(F2) = p | ee ars my var’) |
-R
-
-Pp) NPR | PB PePo ia
-
-leading to a standard deviation o = (var(Po/P))!/2. Note that, even though Po and Pp are
-normally distributed, the ratio between them is not.
+y=

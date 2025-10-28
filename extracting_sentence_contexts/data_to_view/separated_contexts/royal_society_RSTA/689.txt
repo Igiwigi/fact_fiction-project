@@ -1,28 +1,17 @@
-Micro-SORS can, however, become relevant
-in situations where OCT is not applicable. For example, where real-layer thickness exceeds the
-maximum accessible depth of OCT. The higher accessible depth of micro-SORS is facilitated
-by the fact that the method relies on the diffuse component of light and can, in principle,
-therefore, achieve large penetration depths in turbid samples as demonstrated, for example,
-in this study. By contrast, OCT by its nature relies on direct imaging within the sample and
-
-
-1405
-* micro-SORS
-
-1204 ° OCT
-= 1004
-& 804 t
-=~ 607 =
-3
-3s 404 ‘
-
-20 4
-
-0 20 40 60 80 100 120 140
-actual thickness (um)
-Figure 6. Comparative OCT (R’ = 0.952, RMSEP = 4.30 jm) and defocusing micro-SORS predicted thicknesses plotted as
-
-a function of thickness measured using optical microscopy on sample cross-sections. (The straight line represents a 1:1
-correspondence with optical measured thickness).
-
-therefore on transparency, or at least partial transparency, of sample at the probe wavelength.
+The value of the correction due to (i) can be obtained by means of a separate experi-
+ment in which the distances between the semi-reflecting surfaces of A are optically
+compared before and after filling it with air by measuring the separations of these
+surfaces with reference to two fixed semi-transparent surfaces external to the étalon. The effect of (ii) may be reduced to almost negligible proportions by using invar étalons
+mounted inside a constant temperature enclosure. A further temperature effect, due to the fact that the changes taking place in the air
+when it is being admitted to étalon A may not be isothermal, can be guarded against by
+reversing, in practice, the procedure which has been outlined above for convenience
+in explanation, The experiment is started with étalon A filled with air under the desired
+conditions of temperature, pressure and composition, the air having been admitted
+several hours previously and the air-filled étalon allowed to attain the temperature
+conditions of the surrounding enclosure. Etalon B being evacuated, the position of the
+fringes with respect to the reference point is observed; then the air is withdrawn from A
+as quickly as possible by connecting the étalon to a powerful vacuum pump, and the
+position of the fringes for the condition when both étalons are evacuated is observed. Although sudden expansion of air in the manner described is likely to be an adiabatic
+process, so little time is allowed for the comparatively massive wall of the étalon to
+be affected by the temperature changes in the air, which is being rapidly withdrawn
+from it, that an important source of error is thus eliminated.

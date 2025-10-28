@@ -1,38 +1,8 @@
-Section 4 reports results from numerical simulations of our simplified reactive plasma flow in a
-packed bed reactor and introduces a preliminary phenomenological model that could be further
-extended to predict the reaction consumption rate as a function of the flow and reaction-rate
-control parameters.
-
-2. Mathematical and numerical models
-
-Here, we introduce the model based on the LBM that we will use to study simplified weakly
-ionized plasma fluid. The model describes momentum, electric charge and species concentration
-fields, taking into account electric breakdown reactions and the interaction between charged
-species and the electric field.
-
-(a) Lattice Boltzmann method for the momentum field
-
-LBM models the fluid via probability distribution function of fictive gas particles. Such particles
-perform consecutive propagation and collision processes over a discrete lattice mesh. The
-governing equation for the D2Q9 model is [26]
-
-file tei,t+1) —filx,) = — thle, 1) fx, )] + oF; (2.1)
-
-ciew | (ci uP “| (2.2)
-
-f; (p,u) ono {4 zt tae
-2 d 2
-
-
-g, i=0
-wis yg, I=L. 4 (23)
-x, i=5,...,8
-and p=>-fir pu=)cifi, t=3v +05, (2.4)
-i
-
-i
-
-where f;(x, t) is the particle distribution function for direction ith associated with velocity ¢;, t is
-the relaxation time, fo, t) is the local equilibrium distribution function, F; is the external force, cs
-is the speed of sound, c3 =1/3, wis the velocity field, p is the density, «; is the lattice weights and
-v is the kinematic viscosity.
+Unfortunately, those which might have been useful cut down
+the working radiation too much. For monochromatism the dispersion of the illumi-
+nator has therefore alone been relied on. As a matter of fact, the lines were all sharp
+and widely separated, and no trouble has been experienced, owing either to overlapping
+or to stray light of other wave-lengths. The lamp was run at the maximum brightness
+at which it could be depended on to run smoothly and remain constant. To prevent
+trouble due to stray light it was necessary to enclose the lamp in a large tin box, and
+to prevent over-heating a water-cooling system had to be provided.

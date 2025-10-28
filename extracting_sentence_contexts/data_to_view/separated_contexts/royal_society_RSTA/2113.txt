@@ -1,18 +1,20 @@
-Impact of permanent faults in the proposed systolic array designs on the accuracy of the VGG-11 network trained
-on the Cifar-10 dataset. (a) 256 x 256 array with C_PEs, (b) 8 x 8 array with C_PEs, (c) 256 x 256 array with BNC_PEs, (d)
-8 x 8array with BNC_PEs, (e) 256 x 256 array with DBNC_PEs and (f)8 x 8 array with DBNC_PEs. (Online version in colour.)
+9-93712 |—0-77471 +0°63710 |+1:07192 |-0°25637 |—0°93614 |—0-80188 | 0-00000
+Ss 6) + 1°39730 |4+0°14262 |—0°74187 -0°29442 +0°64115 (+0°41430 |—0°26206 |-0-61984
+27 /— 8-10718 |+1-41020 |4+5-39448 |-1-67101 |—2-93474 |+1:95346 |+3-72821 | 0°00000
+8 + 8°01235 —3°86670 |—5°20152 +4:58070 |-1-13066 |—4-26866 | +0°35787 +4-19840
+o9 — 3°55304 |4+2°95556 |+1°59313 —2°39955 |+2-25133 |+0°39989 |—2-°18183 | 0-00000
+Ai0 ‘4 083075 |—1-03705 —0:01819 |+0°29750 |—0°48648 |+0°56675 |+0°16717 |—0°63602
+ll — 0:10061 |+0-18302 —0:07350 +0:04765 —0°02921 -—0-08527 /+0°09815 — 0-00000
+12 + 0°00552 |—0-01615 +0-01251 —0-01129 +0-01070 —0-00361 |—0°00598 +0°01033
+13 — 0°00007 |+0-00071 —0-00081 +0-00063 |—0-00044 |+0-00059 |—0:00041 — 000000
+14 — 0-00001 |—0-00001 | +0-00002 |—0-00001 |-0-00001 |—0-00001 +0-00002 -—0-00002
+1b
+16 |
+2, I— see
+D ~16°73288 |+1-37436 |+5°63354 |— 4°06224 |—1°43516 | +1-13060 |+0°77838  0-00000 |
+Dz (+ 20°73644 | +1-92603 |— 3+89662 +1°65365 |—3°93461 |-4°28164 pee | +4:85392
 
-multiplexer units for injecting faults. By analysing the figure, the following observations can be
-made:
+Note.—The gaps in Tables V. to VIII. corresponding to 0 = 0 are left owing to the fact that the entries pease “
+just double the corresponding entries in Tables I, to IV. respectively, as is shown at the end of §2.
 
-— SalvageDNN outperforms the state-of-the-art FAP approach in all the cases;
-
-— the accuracy of the systolic arrays containing only C_PEs drops significantly, even at
-lower fault rates, as shown in figures 16a,b. This is due to the fact that a PE can
-get disconnected due to a fault in its downstream neighbours. Therefore, the average
-probability of a PE getting disconnected at a specific fault rate is significantly high in the
-arrays composed of C_PEs;
-
-— with an increase in the number of bypass connections in a PE for fault tolerance, the
-average DNN accuracy at a specific fault rate increases. For example, this can be observed
-by analysing the DNN accuracy in figures 16a,c,e at where 2% of the MAC units are faulty.
+VOL. COXVII.—A. .

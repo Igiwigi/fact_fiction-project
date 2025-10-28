@@ -1,40 +1,21 @@
-Time series of inboard TE rake (a) velocity magnitude, at distances of 10 mm and 52 mm from the suction surface,
-and (6) velocity magnitude gradient, at distances of 15.25 mm and 47.5 mm from the suction surface. (Online version in
-colour.)
-
-
-(a) 108
-
-106
-~ 104
->
-S10
-1
-10?
-102 1071 1
-f (Az)
-(b) 108 (c) 108
-106 106
-4
-sl 104
-S102 102
-1 1
-102 102
-102 107! 1 102 107! 1
-(Hz) (Hz)
-
-Figure 11. Comparison of the spectra of inboard LE probe w, (grey) and velocity magnitude from inboard TE rake probe (black):
-(a) 10 mm from the suction surface, (b) 31 mm from the suction surface and (c) 52 mm from the suction surface. The solid and
-the dashed white lines represent the slopes of the high-frequency region, for the LE probe wp and velocity magnitude from the
-TE rake probes, respectively.
-
-can be attributed to the fact that the innermost probe, being well inside the boundary layer, is
-strongly modulated by the local angle of attack (for which @ is a surrogate), which is in turn
-driven by the atmospheric horizontal fluctuations quantified by wp, whereas the outermost probe,
-located in the nearly irrotational flow in the outer part or outside the boundary layer, primarily
-responds to the temporal fluctuations in the potential flow velocity magnitude Vp. Interestingly,
-it can be observed that the time series of the gradient of the velocity magnitude (approximately
-equal to the vorticity magnitude) estimated from the two outermost probes (figure 10b) shows
-qualitative similarity with the velocity magnitude from the innermost probe and blade inflow
-a and wp. Conversely, the gradient estimated from the two innermost probes shows relatively
-non-coherent time variation.
+The tuning-fork oscillator and amplifiers providing the supply current are housed
+in a metal cabinet some 50 ft. from the bridge, and are connected to it by twinned
+cable enclosed in an earth-connected sheath of copper braid. The amplifier is
+actually housed in an outbuilding of the Laboratory some 150 metres from the room
+in which the bridge stands, and is connected to the bridge through a toroidal
+transformer, the windings of which are electrostatically screened from one another,
+The purpose of this transformer is to avoid imposing on the detector points of the
+bridge the very large earth-capacitances of the long leads to the amplifier, for,
+although the use of the Wagner earthing-arm renders the effect of these capacitances
+nugatory, the ease with which the necessary conditions of balance, both on the main
+bridge and on the Wagner arm, can be approached is largely influenced by the
+magnitude of the earth-capacitances of the detector arm. In fact, if these
+capacitances are so large that their impedances become comparable with those in
+the bridge network, the adjustments on the bridge and on the Wagner arm cease
+to be independent and the approach to the final balances can be made only by a
+great number of very small adjustments. By having an isolating transformer near
+the bridge, all this trouble is avoided, as the earth capacitances which are effective
+are only those associated with the leads between bridge and transformer, which can
+be kept very short. The return leads from the amplifier to the galvanometer are
+in any case isolated from the bridge and their length and associated capacitances
+are of no very great significance.

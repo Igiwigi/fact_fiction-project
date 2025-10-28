@@ -1,6 +1,11 @@
-Periodic boundary conditions are assumed in both directions. Concerning the initial conditions, all blocks are assumed to be at rest, i.e. vj; =0 (1 <i,j <L)att=
-0, and the state variable is set to 4; =10!2. This large number comes from the fact that the interval
-time of large events of the model tends to be extremely long reflecting the very slow loading
-velocity of v =10-®. The displacement of each block is taken to be random uniformly distributed
-between [—500, 500] from block to block. Events at earlier times are transient and are affected in
-a non-stationary manner by the initial conditions.
+<< These “curves of distortion” are of considerable utility for the study oc problems
+Sin elastic stability, even though their true form can only be guessed. hey help us,
+Bfor example, to explain, and in some degree to remedy, the serious discrepancy
+sexisting between Evuer’s theory and the results of experiments on short struts. ‘The discrepancy has often been attributed to practical imperfections of form ; but it
+‘sshould hardly be necessary to point out that practical imperfections are likely to
+iminish rather than to increase in importance, as the dimensions of an elastic solid
+-2become more nearly comparable, so that they will never be more effective as causes of
+weakness than in struts of great length, which, as a matter of fact, give results in
+Belose agreement with Euer’s formula. S A more satisfactory explanation of this, and of similar discrepancies in other
+Eproblems, may be found in the fact that the ordinary theory of elastic stability
+“gheglects the possibility of elastic break-down.

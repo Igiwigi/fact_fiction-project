@@ -1,10 +1,17 @@
-This results in 10 possible trends for each individual model simulation. I then assume
-that a plausible range for any observable is given by the range of simulation results from those
-models that capture the observed value in their range of simulations. This reasoning is based
-on the fact that we cannot exclude the possibility that the observed evolution of the climate
-system follows a rather unlikely extreme trajectory for the given change in forcing. Hence, for
-any observable those models that have the observed trajectory at the extreme upper end of their
-simulated trajectories must currently be assumed to be equally likely to be correct as those that
-have the observed trajectory at the extreme lower end of their simulated trajectories. Unless we
-obtain an independent estimate of internal variability, the range obtained is the possible range
-of climate trajectories.
+With a large amount of time and labour
+it might be possible to find a formula for f(v) simpler in character, and more exact
+in its results, but it did not seem worth while to undertake the amount of trouble
+involved in such a search, The formula can be successfully used for the purposes of
+interpolation within the field of observation, but any use cf it for extrapolation would
+be hazardous. We may now write the equation for V* as
+
+V? = 1681 pu — 785,300,000 , 317,700,000 | 3,114,000,000
+
+Py) yi 2
+
+This formula has been obtained as the result of four consecutive approximations,
+and it is possible that each succeeding approximation has led us further from the
+facts. On the other hand, it is conceivable that the errors of the various approxi-
+mations have to a large extent neutralised one another. It was thought advisable
+therefore to test the above formula by calculating out the isothermals, and comparing
+them with the observed measurements.

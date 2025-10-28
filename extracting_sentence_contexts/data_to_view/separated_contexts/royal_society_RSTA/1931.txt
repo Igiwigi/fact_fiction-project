@@ -1,15 +1,11 @@
-The latter quantity is studied in more detail in figure 11
-where it is compared against a large set of data based on experiments (Sugimoto ef al. compiled
-by Hida [91] and Heberle et al. [92]), models [93] and numerical simulations [90]. Despite a slight
-overestimation, the right tendency is obtained with the present method. This is very promising
-considering the fact that a relatively coarse mesh and the very simple halfway bounce back rule
-were used.
-
-5. Implementation and efficiency
-
-Common LB schemes are characterized by a separation between a local collision step, which
-characterizes the physical properties of the model, and a generic, non-local streaming step. The collision step is usually carried out by manipulating the component of the populations that
+This has proved one of the most troublesome parts of the whole
 
 
-deviates from equilibrium, through a linear term, as in the straightforward BGK model [49], or
-a more general expression, as in multiple-relaxation-time approaches [4].
+EFFECT IN TRANSPARENT SOLIDS STRAINED BEYOND THE ELASTIC LIMIT. 113
+
+investigation. As already explained in § 7, an exponential formula of type (21), which
+was indicated by a mixed elastic-viscous theory, entirely failed to fit the facts. A
+variety of possible laws connecting 8 and ¢ were tried, with greater or less success. The fact that initially 8 was finite, but S infinite suggested
+
+S = §-bat’,
+n being an exponent less than unity.

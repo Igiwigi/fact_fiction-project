@@ -1,14 +1,6 @@
-While
-the components are assumed to be independent in the model, the model does not have enough
-parameters to actually make the components independent for any given random vector x. This is
-because statistical independence is a very strong property with potentially an infinite number of
-degrees of freedom. In fact, independence of two random variables s; and sp is equivalent to any
-nonlinear transformations being uncorrelated, i.e.
-
-cov(fi (s1),f2(s2)) = Effi (s1)f (s2)} — Effi (si) }E{f(s2)} = 0, (6.1)
-
-for any nonlinear functions f, and fy, with E{.} denoting mathematical expectation. This is
-in stark contrast to uncorrelatedness, which means that (6.1) holds for the identity function
-fils) =f2(s) =s. This equation suggests that to find a transformation that is guaranteed to give
-independent components, we need an infinite number of parameters, i.e. a class of rather
-arbitrary nonlinear transformations.
+The submarine observations indicate that this trend does not
+extend much beyond St Kilda. It is not easy to account for the positive field found in this area. The only relevant geo-
+logical fact is that the islands have apparently undergone continuous submergence since
+the ice age. This indicates a return towards isostatic equilibrium but does nothing to explain
+why the original uplift occurred. A possible explanation would be that at one time an
+upward convection current existed below this region.

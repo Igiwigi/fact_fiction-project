@@ -1,9 +1,8 @@
-To be physically meaningful, the ‘frequency’ variable f takes on only positive,
-integer values (although to fully invert this transformation and recover the density in the original
-random variable, both positive and negative frequencies are needed). In the ECF domain indexed
-by frequency f, the representation of the density is much more compact than the density in the
-domain of the state variable x. This economy originates in the fact that the Fourier representation
-for highly periodic or close to periodic functions is sparse, that is, few of the Fourier coefficients
-are large in magnitude [42]. By contrast, the density in the domain of the original, untransformed
-variable will typically have no small values at all. Given the typical sparsity of the ECF domain, we can simplify this by only retaining those
-coefficients that are larger in magnitude than a given threshold 4; the rest can be set to zero.
+(2s)? (2f)*3s configuration, the
+phenomenon will involve capture of a / electron. For such a case the attachment coefficient
+behaves like £ for small electron energies} (Massey & Smith 1936), and this, together with
+the fact that the frequency of the radiation emitted (which will be very small for slow elec-
+trons) enters the transition probability as v3, renders the process most infrequent for such
+electrons, even allowing for possible radiative stimulation. On the other hand, if the excited
+state belongs to the (1s)? (2s) (26)® configuration a radiative transition involving two
+electrons would be concerned in the attachment process.

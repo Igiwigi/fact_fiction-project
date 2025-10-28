@@ -1,7 +1,15 @@
-This occurs at a distance R* ~R+ A+ 1. from the cylinder centre, where R is the
-cylinder radius, A is the thickness of the shell surrounding the cylinder and /, is the edge length
-of the fluid-mesh elements around the shell. This is only an estimation of R*, because it further
-depends on where the shell and fluid meshes intersect one another within one fluid element. As a result, the aerodynamic forces in the IS results are obtained by integrating the pressure
-and viscous forces on the surface of the fictitious cylinder of diameter D* = 2R*. Table 1 shows
-the drag coefficient obtained using the DB and IS approaches. The results obtained by the two
-methods are very close, and also match the values reported in the literature [24,25].
+Before proceeding to discuss these results further, it may be well to ask whet
+the large changes in specific conductivity affect the black films only, or whet
+similar phenomena can be detected when the thickness is greater. On this point
+have made numerous observations, which have led us to the following conclusion :
+
+Proposition IX.—The specific conductivity of a soap film increases as the thi
+decreases, but this increase is less in the case of a film formed of a solutio
+which a salt has been added, and cannot be detected in the case of a “lig
+glycérique” such as that we have employed. To justify this statement we adduce the following facts which are only sample
+the results of a large number of experiments. Perhaps the most convenient wai
+testing the constancy of the specific conductivity of a film is to calculate the
+from observations on the electrical resistance, assuming that the specific resistant
+the same as that of the liquid in mass, and to compare the number so obtained |
+the thickness given by a direct optical measurement based on the colour. ratio of the electrical thickness to the optical thickness is unity there is no
+suspect a change in the specific conductivity.

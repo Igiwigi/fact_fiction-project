@@ -1,61 +1,10 @@
-One may write (we consider only three genuine
-evolution equations, but not the spatial constraints 0,J, — d,J; =0)
+217
 
-Ie Jb — plo = Ie (xh Iu.) — Op(u"' Tu.) = uO, (X4 Tu) — Xf O.(u"Ty)- (2.21)
-Then, using (2.18) and that anh = —x]} xha,€" , we can write (2.21) as
-WJ — WI uxe 4, + aT =0, (2.22)
+The last row in this table shows the shear on the boundary at the mid-section, which
+should be zero, and gives an idea of the magnitude of the residual stresses neglected. Tn the face of this, close agreement with the exact values cannot be expected. In fact,
+as fig. 7 shows, the errors increase rapidly after 4 = 0-2, until for 4 = 0-5 the actual
 
-2Note that within (2.16), there are only four evolution equations for four unknowns J, and three pure spatial constraints
-apa — dag =0.
+Is Pp, (Pe 15
+pee
 
-
-
-which using the evolution equation for the configuration gradient wan “+68, d,u* =0 (see [44]),
-can be rewritten as
-uw d,Jv + Jndyu" = —ayT. (2.23)
-
-Because the left-hand side is the Lie derivative of J,, along the 4-velocity, while the right-hand side
-is the derivative of the proper scalar T = —u"J,,, we may replace the ordinary derivatives with the
-covariant ones:
-
-wWViJy + JuVyut = -VyT. (2.24)
-
-Using (2.18), this equation can be equivalently written as u*(V,J, — VvJa) =0. Thus, the Eulerian 6
-form of the relativistic heat conduction equations (in the absence of the irreversible processes) —
-reads :§
-
-Vulj,=0 and u*(VaJy — Von) =0. (225) 28
-
-(iii) Energy-momentum and thermal stress =~
-
-We now demonstrate that the energy-momentum tensor has a contribution due to thermal 15
-impulse J,,. Thus, during the Lagrange-to-Euler transformation the energy-momentum tensor aia
-density zy, = /-8T (2.10) transforms as nen
-
-BY, = 1615 (ACS, Jo)) 4 = HELE (IEICE Ed), = LK — Let, — Jnl, 'g
-
-xe
-Therefore, in the presence of heat conduction, the energy-momentum tensor T/? = Z”,,/,/=8 is : gS
-~T) = 84,840, + Iu, — EB, 22) 3S
-
-where the term J,,4j, can be called the thermal stress.
-
-(iv) Entropy
-
-In this section, we introduce an entropy of our theory and rewrite the conservation law (2.25)1,
-which is, in fact, the entropy conservation law, in a conventional form. For brevity, we shall not
-consider the dependence of the energy potential on &“, in this section. First, we introduce the spatial projection w,, of the thermal impulse J,
-
-y= Mf, = Jy — Tey. (2.27)
-
-Let us also define total energy potentials (at the moment we use symbol E, while symbol &
-will appear later on, after a Legendre transform in (2.30))
-
-EUu) =E(T, J) =E(T, w), (2.28)
-where E = £L/,/=g, T= —u"Ju, J = Jus“, w= wy,w" =] + T?, and, in particular,
-
-Ey, =—Eru’ + Ew, a =—E pu’ +Ey,h? =—Eru’ + Ey,. (2.29)
-D
-
-Eventually, the entropy s can be introduced conventionally, i.e. as the Legendre conjugate to
-the temperature T.
+Fic. 7.—Solution for Bending-Moment with Shear—Values of the shear bay/P on the mid-section.

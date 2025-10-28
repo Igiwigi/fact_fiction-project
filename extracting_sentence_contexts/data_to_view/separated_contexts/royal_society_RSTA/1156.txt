@@ -1,23 +1,15 @@
-For the remainder of this section, let A and B be self-adjoint positive semi-definite operators on
-a Hilbert space X. Assume that A has compact resolvent, and that B is bounded. Assume further
-that
-||Bx\| > 0 for every (non-zero) eigenvector x of A. (4.1)
+11 and the
 
-The general approach given below in fact works under much milder assumptions on A and B, but
-in view of our applications to damped wave equations, it is reasonable to restrict our attention to
-this particular setting. Consider then the following second-order Cauchy problem in X:
-
-it+Biu+Au=0, u(0)=u0, i(0)=1, (4.2)
-
-for certain initial values uo, u; € X. Setting U =(u,1), this second-order Cauchy problem can be
-rewritten on the space ¥ := D(A‘) x X asa first-order Cauchy problem
-
-U=AU, U(0)=(uo,11) € X, (4.3)
+VOL. CCXXX.—A. 3A
 
 
-where
+348 G. I. TAYLOR AND H. QUINNEY ON
+results are marked on fig. 10, but in view of the fact that the early parts of the curve
+were not horizontal we are not inclined to place much confidence in the accuracy of the
+] lr Sp ache ons
 
-A= ( 0 |) , with D(A) = D(A) x D(A). (4.4)
+et
 
-The operator A generates a Co-semigroup of contractions (T(t)))>9 on 4 by the Lumer-—
-Phillips theorem and a simple perturbation argument.
+Fre. 11.
+
+result.

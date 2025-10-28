@@ -1,14 +1,13 @@
-Crawford & Mader [41] were
-the first to employ such a hybrid approach by combining CTH hydrocode modelling of crater
-formation with the ZUNI code for wave propagation simulation. Following this approach, Weiss
-et al. [44] coupled iSALE hydrocode modelling with a Boussinesq-type wave propagation code
-and the MOST model, allowing quantitative predictions of inundation and run-up heights. Both
-studies suffer from the fact that wave propagation did not take a realistic bathymetry into account. A critical and difficult part is always the coupling between different models and thorough
-testing is crucial to make sure that no numerical artefacts result from the change from a high-
-resolution computational domain (either full three or two dimensions with cylindrical geometry)
-where the compressible Navier-Stokes equations are solved (region of crater formation) to
-the computational domain where material flow is calculated by shallow-water or Boussinesq
-approximation on a two-dimensional grid (longitude and latitude). In commonly used tsunami
-propagation models, the wave height and water depth are functions of longitude and latitude,
-and the actual thickness of the water column and flow velocities as a function of depth are not
-resolved.
+It was found that a better way to make use of this optical method of obtaining a
+constant temperature was to determine the change of resistance required to keep the
+filaments equally bright when the pressure was varied, and to use the results thus
+got to correct the readings for the leak at constant resistance to what they would be
+at constant temperature according to the optical criterion. This procedure may
+appear pointless at first sight, but it is not. The advantage of it lies in the fact that
+it separates the difficulties of the optical regulation process from those which are due
+to the vagaries of the leak itself. The leak then was measured with the wire heated
+so that its resistance remained constant; this is done by the purely mechanical
+process of keeping a galvanometer spot at the middle of a scale, so that all the
+attention of the observer could be devoted to the actual measurement of the leak
+itself. Similarly, in finding the way the resistance changed for the same brightness,
+all the attention could be devoted to seeing when the two wires were equally bright.

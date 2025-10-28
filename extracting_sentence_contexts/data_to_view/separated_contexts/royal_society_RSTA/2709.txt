@@ -1,15 +1,22 @@
-Now, before we get down to business, let me end this opening section with the comment
-that Heaviside has reminded some of his admirers of the eccentric, fictional scientist Haskel van
-Manderpootz, professor of the ‘new physics’ (that is, relativity), who appeared in an hilarious
-science fiction tale published 10 years after Heaviside’s death [4]. Compared to the ‘modest’ Van
-Manderpootz (read Heaviside), all other physicists in the world are a mere ‘pack of jackals, eating
-the crumbs of ideas that drop from [his] feast of thoughts’. This view might seem to cast Heaviside
-in a less-than-flattering light, but in fact I do not believe he held that image of himself; rather, it
-is a hagiographic view of the man that has gained some traction among his more enthusiastic
-contemporary fans. I think a proper view of Heaviside is somewhat less grand (although perhaps
-not by much).
+In the form (8) each of the » elements on the
+right-hand side corresponds to a different one of the n branches. In the », elements
+corresponding to the conjugate branches of the cycle of order », substitute for the
+coeflicients @ corresponding conjugate series beginning with a term in (z—a)”™, or 2-™™,
+Do this for each of the 7 cycles and the resulting function H (z, ~) will have precisely
+the set of orders of coincidence 7,, ..., 7, here in question, and will at the same time
+evidently be of rational character for the value z = a (or z = ©),
 
-2. Electric current and moving charges
-
-We are, today, so used to thinking of electricity as coming in tiny little lumps called electrons that
-it is difficult to realize that, not much more than 125 years ago, there was no such concept.
+Not only can we construct a function H (z,~) of rational character for the value
+z =a (or z=), which possesses the arbitrary set of orders of coincidence 7, ..., tT,
+but we can in particular construct a rational function of (z,w) which’ possesses
+precisely this set of orders of coincidence for the value of the variable in question. To obtain such a rational function, in fact, it evidently suffices in the function H (z, u),
+already constructed, to cut off in the series in powers of z—a (or 1/z), which constitute
+the coeflicients of the powers of ~, terms of order sufficiently high to be unaffected by
+the orders of coincidence 7,, ..., 7,, required of the function. Let us now suppose for the moment that the equation (1) has reference to the
+value z=, so that the coefficients f,_,, ...,,f are series in powers of 1/z involving,
+it may be, a finite number of positive powers of z. The aggregate degree of the
+equation in (z,) we shall indicate by the letter N. Referring to the identities (7),
+then, we see that the degrees of the functions Q,(z,) can in no case exceed N—1,
+If now the function H(z,w) in (8) be adjomt for the value z=, the lowest
+exponents in the series 6,(1/z) must, as we have already noted, be >—1, and the
+degrees in z of these series must therefore all be <1.

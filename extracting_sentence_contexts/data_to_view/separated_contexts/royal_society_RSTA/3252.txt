@@ -1,20 +1,10 @@
-Therefore, our experimental and analytical approach strenuously
-aimed at minimizing atmospheric moisture absorption during pre- and post-experimental
-sample preparation, which ultimately allowed determining the closest possible experimental
-approximation of the ‘dry’ glass transition temperature (245°C at 0.02wt% HO, sample
-KMG6-2). Furthermore, presumably undetected water contents of previous reported nominally
-anhydrous carbonate glasses [21,29,31,32,43-46] can now be reconstructed through equation
-(4.1) using the one-parametric GT fit to our obtained Tg—H2O relationship (figure 4). According
-to the established T,-H2O relationship, the recently nominally anhydrous T,, peak of 230.5°C
-(Tg, fictive = 216.5°C; 490 K) reported by Dingwell et al. [21] for carbonate glasses quenched from
+I divide y into 10 or 12 equal parts—say 10 for brevity—and let 6 = yoy. I then compute eleven equidistant values of the subject of integration, say 1%, wm,
+«++ Uo, Corresponding to y = 0, 28, 38, ...108. As a fact it is unnecessary to compute
+the first four of these, because they are practically zero. The equidistant values increase so rapidly that they are very inappropriate for the
+application of the rules of numerical quadratures. Accordingly I take an empirical
+and integrable function, say v, such that 1%, = %42 and % = Uy, and apply the rules
 
-melts of near-eutectic composition (55 mol% K2CO3 — 45 mol% MgCOs3) suggest the presence of : SB
-approximately 0.5 wt% HO during their glass synthesis at 0.1 GPa. os
 
-(c) The water content of amorphous carbonates
+222 SIR G. H. DARWIN ON THE
 
-The water content of amorphous carbonates strongly influences their crystallization. The
-distinction between glass and amorphous materials is becoming increasingly blurred (see [33])
-when thermal analysis using rapid heating rates is used, and there is a complex relationship
-between dehydration reactions, glass transition onset and crystallization. As noted above, the
-rare amorphous, copper hydroxycarbonate georgeite is an important catalyst precursor [49].
+of quadrature only to the differences u,—v,.

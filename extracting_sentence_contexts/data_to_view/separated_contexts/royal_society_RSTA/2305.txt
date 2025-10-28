@@ -1,9 +1,13 @@
-Namely, the stress
-intensity factor, Ky, at the crack tip and the critical opening, u), at the opposite end of the process
-zone. A thorough analysis of the numerical approach used showed the high level of stability
-and accuracy, alongside the rapid rate of convergence, for the entire solution. Of particular note
-was the fact that the values of both Ky and u; stabilize after only a small number of iterations,
-although the required number of iterations is higher for smaller lengths of the process zone L. The fact that the method outlined here is more efficient for larger L is not unexpected, as the
-initial condition (3.8) of the iterative process corresponds to the case L > oo. As such, although
-the iterative method does converge for all positive L > 0, it is clear from the presented results that
-both the solution accuracy and convergence rate improve with the growth of L.
+5 3B 2
+
+
+
+352 Dk. P. E. SHAW ON THE NEWTONIAN CONSTANT OF
+
+k being any number and f any function expansible by Taynor’s theorem which
+vanishes with m/M. For on expanding by Maciaurtin’s theorem we have
+
+acceleration = M**f" (0) > This is independent of m and therefore satisfies the experimental facts. There is
+an application of Vicarre’s principle to the present subject; for k might vary
+according to the temperature of the large attracting body. It need only be constant
+as long as all the physical conditions (other than mass) are constant.

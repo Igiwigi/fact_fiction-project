@@ -1,16 +1,25 @@
-MPI excitation has,
-however, an unexpected advantage over the VUV detection related to the Franck—Condon factors. As Pratt and co-workers state, the vibrational frequency of the v2 umbrella mode in the ion
-is nearly double than that in the neutral. This fact implies that the Franck-Condon envelope
-spreads over a broad range of vibrational levels in the ion, and that the range will increase as the
-vibrational excitation in the neutral is increased. Because the VUV photon energy is only approx. :
-5170cm~! above the ionization threshold for CH3, as the vibrational excitation is increased, an [=
-increasing fraction of the Franck-Condon envelope will become energetically inaccessible, which 5
-will reduce in turn the total photoionization cross-section. MPI excitation provides, in principle, :
-as much energy above the ionization threshold as needed—either through the photon energy or Da
-through the number of photons—and, therefore, selection of favoured ro-vibrational states should :
-not be limited by energetic arguments. 74
+The necessary second adjustment is therefore obtained by
+coupling to circuit 1 a copper ring in which current is induced. This ring is then
+used as a small potentiometer for the purpose of introducing into circuit 3 a variable
+p.d. which possesses a component in phase with the current in circuit 1. This
+‘* zero adjuster ” is described in detail in a later section, and it is shown analytically
+below that its presence need have no other effect on the working of the apparatus
+provided that it remains unaltered throughout all the measurements.
 
-(b) CH3 angular distributions S
+(c) Effect of Harmonies
 
-Radial integration of a selected range of pixels on the images depicted in figure 3 leads to the
-angular distribution for each channel observed in the TEDs.
+Finally, we come to a curious practical point arising from the fact that the balance
+of the bridge is dependent on the frequency of the supply current and that, in order
+to obtain the required sensitivity of balance, it is necessary to use a thermionic
+amplifier. If the supply current is not perfectly sinusoidal, then there will be other
+
+
+ABSOLUTE MEASUREMENT OF RESISTANCE 431
+
+“harmonic ” frequencies present and the bridge circuit will act as a species of filter
+for the one frequency, », which we will call the “ fundamental’, satisfying the
+equation »?M,M, = Rr, and currents at the harmonic frequencies nw (n = 2, 3,
+etc.) will pass practically without attenuation into the detector circuit. In the
+first place this gives rise to a complex response of the detecting instrument (in our
+case a vibration galvanometer), which makes the true balance position extremely
+difficult to detect.

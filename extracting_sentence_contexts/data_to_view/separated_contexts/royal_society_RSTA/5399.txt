@@ -1,28 +1,12 @@
-Normally generated from A
-internal metadata -*
+Calculate the attraction between the magnet and a large solid
+mass of different inductivity p, Here it is only needful to calculate the force on a
+single pole, so let the magnet be infinitely thin and long, with one pole of strength m
+at distance a from the medium pz, which may have an infinitely extended plane
+boundary. By placing a fictitious pole of suitable strength at the optical image in
+the second medium of the real pole in the first, we may readily obtain the solution,
 
-B: browse. Context, generic, XML
-semantic, including a summary
-
-of A-type, links to or embeds B
-discipline specific (E-type)
-
-C: character and citation. Post- | [KML\
-fact annotations and citations
-
-both internal and external E
-
-(trackback, comments) =
-
-D: discovery. Metadata suitable ] [KML
-for harvesting into catalogues | |___—
-and federations. Dublin-Core, p
-NASA DIF, ISO 19115/19139_| |===—
-
-Q: defined and
-supported textual,
-semantic and
-spatio-temporal
-queries
-
-E: extra.
+Let PQ be the interface and the real pole be at A and its image at B. We have
+first to calculate the distribution of R, magnetic force, in both media due to the
+pole m, as disturbed by the change of inductivity. We have div y,R, =m in the
+first medium, and div ~,R, = 0 in the second, therefore R has divergence only on
+the interface.

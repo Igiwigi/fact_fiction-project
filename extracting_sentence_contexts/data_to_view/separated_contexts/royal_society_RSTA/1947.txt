@@ -1,42 +1,10 @@
-Px, where
+A tentative law of diminution of amplitude
+suggests itself, viz., Ste’, where 8 is tlie length of the path. The factor would
 
-5 (xj = YX = Ye)
+then be Se ‘9, The numerical labour of testing this is rather serious, and from
+LS
 
-Six(xy) ew ix—yB (2.5)
-and
-Xk —-Y
-Py (x,y) = x ra (2.6)
-
-This Oseen tensor [35] or stokeslet [3] forms the basis for slender body theory [3,4], along with the
-boundary integral method [36-38]. The boundary integral method enables the flow exterior to or
-bounded by a smooth surface B to be expressed as
-
-1
-u(y) = = [], Seceavientss + 5 [Trea formes, 27)
-
-where f is the traction, i.e. the force per unit area exerted by the fluid on the surface, n is the
-unit normal pointing into the fluid, and Tixe is the stress tensor —P,dj¢ + W(deSjx + djSex)- The
-summation convention over repeated Cartesian indices is assumed above and throughout. For problems satisfying [fu -ndSy =0, i.e. no change in volume, the second integral term
-(‘double layer potential’) in equation (2.7) can be eliminated (see for example [39]), motivating
-focus on the single layer boundary integral equation
-
-uly) =— in Saleen fo. (28)
-
-Using the fact that Six(x, y) = Sxj(y, x) and relabelling, equation (2.8) may be rewritten [38]
-
-uj(x) =— in : Si(x, yfcly) dSy. (2.9)
-
-The well-known advantages of the boundary integral are (1) reducing the computational
-domain from a three-dimensional (3D) volume to a two-dimensional surface (or possibly one-
-dimensional line) B, and (2) the natural treatment of open boundaries without the need to make
-artificial truncations, enabling excellent computational accuracy and efficiency. For example,
-Phan-Thien et al. were able to model propulsion of a physiologically shaped bull sperm cell in
-the mid-1980s, making use of machines with the order of 1 MB memory [37]. The standard numerical approach to the solution of equation (2.9) is to discretize the traction as
-
-N
-fy) = Yflaldon), (2.10)
-
-n=1
-
-where f[1],...,f[N] are vector constants and ¢)(y),..., @n(y) are basis functions (see figure 1 for
-a sketch of the discretization over a rigid sphere).
+some rough trials I do not think it contains much promise of explaining the
+observations. Accordingly, I pass to the second factor, which is within our powers and which
+goes a considerable way to explaining the facts. In so far as it fails it may give a
+clue to the proper form of the first factor. Starting with epicentral distance A, Table III.

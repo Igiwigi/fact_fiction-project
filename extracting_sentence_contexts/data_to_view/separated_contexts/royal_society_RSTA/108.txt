@@ -1,8 +1,10 @@
-The above results shows that for any y € Hx, the magnitude of its Fourier transform |F[y]()|
-decays exponential fast as || > oo and the speed of decay increases with 2. Analogous results
-exist for the case of Matérn kernels [21]. A fundamental property of GPR schemes is the fact that one can obtain a priori estimates for the
-accuracy of the surrogate model. In particular, for the case of GPR schemes, we have the following
-error estimate:
-
-Proposition 2.3 (Stuart & Teckentrup [22], proposition 3.5). Suppose that 9(x) and k(x, x’) are given
-by the GPR scheme (2.5).
+So far we have been dealing with the case of a symmetrical aerofoil at zero incidence, which
+is of interest only in giving the magnitude of wave drag for this case. Before proceeding to
+the detailed consideration of this drag it will be advantageous to consider the extension of
+our methods, necessary to deal with the antisymmetrical case, from which the lift on a thin
+aerofoil at incidence may be calculated. Mathematically the simplicity of the zero incidence case arises from the fact that 04/dy
+can be specified over the plane in which the aerofoil lies. When we take the Laplace trans-
+form, then in the consequent two-dimensional equation for ¢, 04/dy is known along the whole
+of the x-axis. Thus, when we represent ¢ by a Fourier integral, the consequent integral
+equation to determine the coefficients is an easy one, involving only the inversion of the
+Fourier integral.

@@ -1,16 +1,17 @@
-Points that are not coloured correspond to combinations of excitation frequency and amplitude for which the
-system does not have a steady-state solution. In this figure, all parameters are identical to those in figure 3f unless otherwise
-indicated. (Online version in colour.)
+The correspondence being given by
+da = 2— Me. ap. — x — M,’
 
+As corollary we have the explicit formula
 
-persists for a period of time that is much longer than any of the system’s time constants. This
-can be observed from the fact that the phase difference between perturbed and unperturbed
-systems does not change significantly if we wait an additional 1000s until t= 1790 s (figure 6c). In
-the experimental system, this phase stability would be limited by the presence of external noise
-sources and Brownian motion.
+N» (7) = Max Min 2— 4 for y « (M,,
+x<m X—a
+where a ranges through all complex numbers. The proof follows at once from Theorems 15, 16, 13, 13’ and the fact that for a
+circle © and_y « € the number Ng (7) is a function of the angle between the tangents
+from _y to ©, which increases when this angle decreases. Theorem 17’ represents the complete solution of the problem of the calculus of
+variations corresponding to the definition of N*,, (7). As corollary of Theorem 17 we have the following geometrical interpretation of
+(My,
 
-8. Frequency tunability
+Theorem 17’’—If is bounded, (M)x, is the common part of all circles
 
-A remarkable feature of our frequency-converting system is the possibility of tuning the input and
-output frequencies over a broad range, both during the design phase and dynamically once the
-system has been built.
+which have the property that the circle
+d= MA]

@@ -1,11 +1,8 @@
-By replacing the batched dense DA
-matrix-vector routines by corresponding batched dense matrix matrix (GEMM) routines, the
-hierarchical matrix multiplication operation inherits all the performance benefits of the latter. This effect is more pronounced on GPUs because of their deeper memory hierarchies, and the
-high parallelism and coalesced memory accesses of the compute-bound GEMMs. In fact, the
-multiple vector operation can achieve a substantial portion (greater than 90%) of the batched
-GEMM performance, which on the P100 is about 1.6 TFLOP/s in double and 2.8 TFLOP/s in
-single precision. Next, we consider a low-rank update operation, since a number of algorithms in the library
-use an operation of the form A= A+ XY as a building block. The low-rank update could be
-a global update where X and Y are dense matrices of size n x r, or could be a set of local
-low-rank updates affecting only a portion of the matrix A, where rows of X and Y represent
-a subset of the n matrix rows.
+Av — Jadg?/e.? + ...
+
+= K’ (4, 0,6 — v) say. * That M is an integral may be shown directly as a consequence of the fact that the transformation (5.20)
+gives for F and M functions of the 2, u, not involving t. For
+o— OF Gm mt) _ @ Om , OF oy) “ue (Se Oye _ Ye *) ot TN ay Oe OY OE ze d ot dt a
+
+d ‘OMda, OM du,\ dM
+=(eeisee {te G8 + im 1} = 2 (SE at Pd a)=

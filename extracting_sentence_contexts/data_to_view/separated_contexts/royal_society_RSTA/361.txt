@@ -1,15 +1,7 @@
-Method of ‘large steps’ and the problem of initialization of fractional
-derivatives
-
-Lorenzo & Hartley [12,13] raised the question about initialization of fractional derivatives. Their
-motivation was to use or recover the information about the process y(t) in the interval (0, a), if we
-consider fractional derivatives of y(t) in (a,b). It is worth noting that in the second ‘large step’ in the considered sample problem we used, in
-fact, the proper initialization of the fractional derivative in the interval (1,2) based on the known
-behaviour of y(f) in (0,1). In other words, proper initialization in the interval (a,b) can be done only when we know all
-values of y(t) in the preceding interval (0, a).
-
-9. Concluding remarks
-
-The presented extension of the matrix approach to discretization of non-integer order derivatives
-and integrals of constant and distributed order allows numerical solution of differential equations
-with such derivatives on non-equidistant grids.
+of the order of } eV. However, this method cannot give a? accurately because, for large negative values
+of E, the theoretical curve is rather sensitive to the limit Z,,, and, owing to the fact that
+a really decreases with increasing £, it is hard to estimate what value of E,, one should
+take in equation (11) to obtain the best approximation. A comparison with the actual
+curves for positive values of £, using a rather naive extrapolation of that part which
+seems to conform to the E! law, probably gives better values. These are tabulated in
+table 7.

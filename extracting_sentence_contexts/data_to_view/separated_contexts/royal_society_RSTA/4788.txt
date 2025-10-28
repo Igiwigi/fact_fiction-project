@@ -1,14 +1,16 @@
-There is an arrow from B to A if A
-contains B with respect to simulation: that is, for each tile assembly system B € B there is a tile assembly system Ay € A that
-simulates B. Dashed arrows denote containment, solid arrows denote strict containment and a self-loop denotes the existence
-of an intrinsically universal tile set for a class and its omission implies that the existence of such a tile set is an open problem.
-aTAM: abstract Tile Assembly Model (growth from a seed assembly by single tile addition in 2D), r denotes ‘temperature. 2HAM:
-Two-Handed Tile Assembly Model (assemblies of tiles stick together in 2D). A 2HAM temperature hierarchy is shown for some
-ce {2,3,4,.. .} and, in fact, for each such c the set of temperatures {c'|/ € {2, 3, . . .}} gives an infinite hierarchy of classes
-of strictly increasing simulation power in the 2HAM. Citations proving the results are given in square brackets. Simulation results
-for a number of other models are described in the main text.
+(a* +7) — p/p =, these equations take the form
 
-the study of intrinsic universality in self-assembly, some previous self-assembly papers [17,38]
-made use of notions that can be seen as precursors to the definitions and results discussed here
-which perhaps lends weight to the intuition that spatially scaled dynamics-preserving simulation
-is a natural way to compare self-assembly systems.
+a nVu + dp/de = u — Qwv,
+3b nV2v + dy/dy =U +20u, Fe > > > + + + + (4)
+2 nV2w + dy/dz = w. 3]
+
+3 We must in addition express the fact that the material is incompressible ; this
+iFdone by the equation
+3 Ou/da + dvfoy + ow/dz=0...... =. . (5)
+
+lo}
+Dn
+
+the equations (4), (5), which are the rigorous equations for the vibrations of a
+THtating, incompressible, elastic solid, are theoretically sufficient to determine w, v, w, wf,
+yject to certain boundary conditions.

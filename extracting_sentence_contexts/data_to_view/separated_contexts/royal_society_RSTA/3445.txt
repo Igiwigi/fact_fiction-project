@@ -1,20 +1,16 @@
-There has
-been great support by the Coq team (i.e. continued development, maintenance and improvement : =
-of the Cog tools) and a continuously increasing user base even aside from the DeepSpec project. 23
-This lively user community is important for recruiting personnel to our own efforts (there is a
-growing pipeline of Coq experts), for disseminating our results to a large community that can mea)
-appreciate and re-use them, and for making our students employable upon PhD graduation. :
+that the
+= three sets of readings practically coincide at every pressure, and, since it is not
+EB possible that the same impurity could be present in each of these specimens to the
+2 same degree, it does not seem reasonable that the irregularity in oxygen could be
+$ traced to impurities arising from any lack of precaution in the preparation of the
 
-(iv) Prior work on pervasive system verification :B
-
-At the opposite end of the technical feasibility spectrum is the question of novelty. In 5&8
-1989, Computational Logic, Inc. verified a hardware/software stack that included a gate- .
-level description of a microprocessor, an assembler, linker, loader, two verified compilers, a
-(highly idealized) operating system and some applications, with theorems connecting all these
-components formulated and proven in Nqthm [37]. Obviously, system stacks in 2017 are orders
-of magnitude more complex than those in 1989, and the need to modernize or re-examine many
-of the formalizations was in fact proposed by Moore himself [38]. Although it is not entirely
-inconceivable that such complexity could still be handled by a modern Boyer-Moore theorem
-prover such as ACL2, we believe that the above-discussed features make Coq better suited to
-manage these complexities. More recently, the VERISOFT project combined proofs of processor and compiler correctness to
-a verified stack linking a sequential subset of C to a gate-level description of the VAMP processor.
+S
+> gases. = Tt is well known, however, that when an electric discharge is passed through
+£& oxygen, a considerable quantity of ozone is produced. It is in fact by this method
+E that ozone in its purest form can be obtained. It is highly probable, then, that
+© after the first discharge had passed between the electrodes, in the experiments on
+%B oxygen, a considerable percentage of ozone was present in the gas, and it may be that
+$ the discrepancy noted above is due to this cause. The experimental value of
+& 455 volts found for oxygen seems to bear out this conclusion, for, ascribing the
+A value of 161 volts to the atom of oxygen, we get by addition 483 volts as the caleu-
+lated value of the minimum spark potential for ozone.

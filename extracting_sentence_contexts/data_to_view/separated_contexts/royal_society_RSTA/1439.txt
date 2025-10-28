@@ -1,12 +1,13 @@
-Yet it often is the temporal behaviour that one is really interested in, and that
-behaviour is not extended by adopting larger computers of this nature, or by making the problem
-physically larger. Since the scientific problems of interest usually have time scales which scale
-as a nonlinear function of the volume of the system under investigation, each temporal update
-requires more wall clock time for larger physical problems. This is in fact a recipe for disaster: we
-are not getting closer to studying large space and long time behaviour with monolithic codes’. We
-consider this to be a cogent argument to suggest that monolithic codes could be the exception on
-exascale machines, as weak scaling may not produce the desired results. If so, we should invest
-in developing other scenarios, including high-performance multiscale computing, or scenarios
-where monolithic codes (or coupled multiscale codes for that matter) are repeated over and over
-again in ensembles, e.g. in parameter sweeping scenarios or for uncertainty quantification (see
-also Portegies Zwart, who recently made a similar argument [27]).
+If we take
+two damped sine curves with the above respective values of 4, but, for fair comparison,
+the same period—say, 11-164 years—the first with the greater damping factor would have
+its first maximum at 2°15 years, the second with the lower damping factor at 2°44 years—
+i.e., the maximum would be advanced by roundly 0-3 of a year. The graduation seems
+to have had, unintentionally, the effect of producing an average advance of this order
+of magnitude, and therefore of reducing the apparent damping. The question whether in fact the damping factor represents a physical reality or merely
+an attempt of the empirical formula to adjust itself to the asymmetry of the waves is
+for the present postponed. In the first place, a more detailed examination of the
+disturbances is desirable. First let us examine more closely the apparent alternation of disturbed and quiet
+periods, each some 40 to 42 years in duration, which was already noted in the graph of
+the disturbances as calculated from the harmonic formula and is equally evident in the
+present graphs.

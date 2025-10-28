@@ -1,17 +1,10 @@
-PUBLISHING
-
-
-]. Introduction
-
-Wind farms over complex terrains are still far from being fully understood as wind-turbine
-wakes are expected to be affected by the terrain morphology. Despite the fact that many wind-
-farm designers are aware of this effect [1], the industrial community keeps using simplified
-tools such as wake models [2,3], where the velocity deficits due to the turbines’ presence are
-introduced in post-processing to the flow field computed (or even measured) over the terrain
-without the turbines. This approach is widely used for offshore farms with good results, while it
-is questionable for onshore farms over complex terrain because the velocity deficit of the farm
-might be strongly affected by the displacement of a hill, or might even have a faster decay due
-to the presence of forestry, for instance. One of the strongest points of wake models is their
-low computational cost, which is negligible when compared with computational fluid dynamics :
-(CFD) based on Reynolds-averaged Navier-Stokes (RANS) simulations that take a much longer =
-time.
+The fact that there are such large changes in the
+distribution of amplitude among the different stations suggests both that the foci of
+individual earthquakes are regions of limited extent and that they are in many
+instances close to the surface of the earth compared with the distance between stations,
+i.e. within 1 or 2 km. of the surface. Otherwise, if the foci were all deep seated, we
+should expect to find the amplitude for all stations nearly equal for all shocks. These
+conclusions are strengthened by the fact that in estimating the position of the foci it
+has been necessary in some instances to assume that the distribution in amplitude is
+affected markedly by certain surface features (cf. § 9). In some volcanic regions, notably in Hawaii, earthquakes occur most frequently
+when magma is falling in the volcanic crater.

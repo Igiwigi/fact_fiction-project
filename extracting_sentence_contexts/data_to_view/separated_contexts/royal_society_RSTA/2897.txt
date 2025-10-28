@@ -1,12 +1,18 @@
-While & = L@ ina linear case, as
-a more general rule
+It appears, therefore, that, when «(s,¢) is of positive type, the determinant of the
+integral equation (7) is either an infinite power series in \ whose coefficients are
+alternately positive and negative numbers, or else it is a polynomial whose coefficients
+obey the same law. Another property which is worth noticing is that, if L is the upper limit of the
+function « (s, s) in the interval (a, b), then
 
-P (i max) = Lo(Gmax)q + Log? + Lag? +--+ - (3.1)
-The constants L; are used to build an odd Taylor series approximating the nonlinear behaviour : =
-of a magnetic field subjected to saturation. Also note, in Lo(Gmax), the dependence on qmax, which : =
-refers to the maximum amplitude of the current q. This represents the fact that, even before 1B
-saturation, we observe a variation of the inductance that does not directly depend on q but on its : =
-maximum value. In practice, inductors made of ferrite magnetic material generate an equivalent : a
-inductance which first increases before saturation occurs. At such a low current, the relationship Dy
-between © and q remains linear but the slope increases with the amplitude of the electrical : 2
-current [28].
+-LSx«(s,t) SL
+
+in the whole of the square Q. This follows immediately from the fact that, since
+
+st
+K ‘ =0,
+
+we have
+
+L?= (s,s) x(t, t) =[«(s, t)f. §12. We have so far confined ourselves to the consideration of functions of positive
+type, but the reader will easily perceive that the results obtained for these functions
+may be made applicable to those of negative type by a simple device.

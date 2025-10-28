@@ -1,8 +1,15 @@
-As the Web grows, changes and expands, researchers must seek novel ways to explore,
-navigate and search its content. Karger’s [8] paper discusses the challenge of exploring the vast
-information spaces that are continuously emerging on the Web. The problem is compounded by
-the fact that, to date, most data authoring and management tools have been oriented towards
-programmers and Web developers. Users have been unable to really harness structured data for
-information management and communication. He describes research that enables end users to
-define their own schemas (without even knowing what a schema is), manage data and author (not
-program) interactive Web visualizations using the Web tools with which they are already familiar.
+J
+This equation is to be set up at each of the points A, B, C and D, the fictitious points involved
+being obtained, and eliminated if necessary, by means of equations (B.11) and (B. 12). Taking advantage of symmetry and the known (zero) values of w, dw/dx and dw/dy at every
+boundary point, the following equations are obtained from (B. 15), with A neglected:
+
+20w ,—32w,+ 8wz+4wy— 64 = 0,
+25w,—l16w,— 8w,—8w,+ 6Wp — 64 = 0, (B. 16)
+22w ,— 16wo— 16wWp+ 2w 4+ 4Wp + 2W9+ 2Wyy— 64 = 0,
+
+20wy—16wWp— 8We+4Wp+4Wy+2Wg+ Wy +Wy—64 = 0. From (B. 11) and (B. 12) the fictitious points are involved as follows:
+w, = 2:45874wp—0-93368wp,
+We = 0:11473wp— 0-03343wp,
+Wy = 0:05891w, —0-02943w¢, (B. 17) Wp = 0-66262w,—0-25731w¢,
+Wy = bwyp— 2W_+0°33333w,. There are several possible methods of solving these equations, the chosen one depending
+on the skill and experience of the computer.

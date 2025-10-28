@@ -1,14 +1,20 @@
-A framework modelling dependencies in the form of trees and clusters was proposed by Bach &
+It took only a few minutes to check the rate of both frequency standards. Except at
+one or two of the most remote stations, where the signal strength was insufficient to operate
+the counter, the system worked most satisfactorily throughout the entire voyage.
 
-Jordan [60]. A related approach was proposed by Zoran & Weiss [61]. 13
+2:5. ACCELEROMETERS
 
-A recent trend in machine learning is ‘deep learning’, which means learning multi-layer : =
-models, where each ‘layer’ is a linear transformation followed by a nonlinear function taken : ca
-separately of each linear component, like in a neural network [62-64]. In fact, many such models : go
-can be considered to be related to ICA: ICA essentially estimates one layer of such a ae
-representation. This may lead to the idea that we might just estimate ICA many times, i.e. : Ss
-model the independent components by another ICA, and repeat the procedure. However, this : 8
-is meaningless because a linear transform of a linear transform is still a linear transform, and : S
-thus no new information can be obtained (after the first ICA, any subsequent ICA would just if
+When a Vening Meinesz pendulum apparatus is used the quantity which is directly
+determined is the mean phase velocity of the fictitious pendulum. Since the period of a
+pendulum depends on the inverse square root of the resultant acceleration acting on it, the
+mean phase velocity observed when the resultant acceleration fluctuates will in general
+differ from the value that would have been observed had the acceleration remained con-
+stant at its mean value. It has been shown (Browne 1937) that if the period of the fluctua-
 
-return exactly the same components).
+
+SUBMARINE GRAVITY SURVEYS OF 1938 AND 1946 253
+
+tions is long compared with the pendulum period, a correction must be subtracted from the
+value of gravity calculated from the observed mean phase velocity given by
+
+§g= (7 +2 —4#) /2

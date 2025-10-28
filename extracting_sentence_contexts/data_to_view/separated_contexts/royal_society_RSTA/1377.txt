@@ -1,10 +1,8 @@
-For the brain and knee datasets, KIGAN has underperformed ReconGAN and RefineGAN. However, as for the liver dataset, the differences between KIGAN and RefineGAN has not been : 3
-found significant. This might be attributed to the fact that the thickness of the liver dataset was : s
-different, i.e. thicker compared to other datasets. : S
-
-As shown in electronic supplementary material, figure S4, the PSNR loss curve can represent Ff
-the convergence speed. DAGAN has converged quickly, which is related to the fact that the : a
-calculation of its loss function is the simplest compared to other three GAN-based methods. : =
-RefineGAN has converged slowly but has demonstrated the best results. We analysed the size : =
-of each generator of the four GAN models to understand the potential cost to apply well- 1B
-trained models in practice.
+For it is easy to calculate that there are three independent quadrics through the
+first four planes of the double four on V,*, and these quadrics necessarily contain the
+second four planes and meet V;* in just these eight planes. Hence there must be two
+independent quadrics which contain V,‘ entirely, 7.e., 2 and one other, 2’, as stated. It is known in fact, that there are ~* quadrics through a Veronese surface§ : and these
+meet Q in the »* V5"’s corresponding to the primes of 8. To the point P of § there corresponds some point P’ of 2; and we now project Q
+from P’ on to a [4]. S then is in bi-rational correspondence with = ; and to quadrics
+of ® there correspond prime sections of 2 which pass through P’ and project into
+the primes of .

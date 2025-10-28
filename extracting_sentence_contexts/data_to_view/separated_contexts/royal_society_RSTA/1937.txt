@@ -1,13 +1,8 @@
-SDT < max lta — fia. (C2)
-i i
-
-Interestingly, the condition (C 1) translates to the fact that information cannot propagate at a speed
-below the smallest discrete velocity of the lattice, and above the maximal one—this condition
-is more commonly known as the (Courant, Friedrichs et Lewy) CFL condition. Similarly, the
-condition (C 2) translates to the fact that the temperature is bounded by the minimal and maximal
-internal energies of discrete velocities. Observing a lower limit for the temperature might be
-surprising at first, but in fact, this is exactly what is observed during simulations of both DVMs
-and LBMs (figures 1 and 2). Consequently, by choosing the minimal and maximal norm of discrete velocities, and by
-centring the velocity discretization accordingly, researchers from the DVM community are able to
-obtain stable simulations that lead to accurate results even for very large velocity and temperature
-variations. In this context, the lattice can either be adjusted in a static [29] or dynamic [35] manner.
+There are in fact six other lines close to these three which
+must certainly be considered to form part of the diffuse triplet. The wave-lengths
+given for these lines by different observers differ considerably, as will be seen from
+Table II. A difficulty is caused by the fact that the lines are grouped together in sets
+of three, and in each set the lines are very close together ; also the lines are very diffuse . and with a strong tendency to reversal, so that their resolution is difficult. In a further
+attempt to improve the measures the best results were obtained in the third order
+spectrum, using the are between carbon poles with a small quantity of manganese
+salt in order to prevent the reversal of the lines by the vapour round the crater.

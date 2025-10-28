@@ -1,21 +1,11 @@
-A (2010)
-
-
-Review. Physics and complexity 1181
-
-Random K-SAT corresponds to an extension of the SK model with spins
-interacting in a combination of terms of the form Gin, ++ +5 Fi, where 1<p<
-K and the i are chosen from 1,...,N; this yields a graph structure that
-is a ‘cactus’ extension of the random graphs of Erdés & Rényi (1960).'°
-Already, therefore, one can expect analogous glassy effects in an attempt to
-solve the random K-SAT problem using a computer algorithm based on local
-operations. In fact, however, the p-spin version of the SK model exhibits further
-interesting behaviour beyond the p=2 SK original. In particular, there are
-several transitions as the temperature of this p-spin model is reduced. Two
-of these are thermodynamic; the higher, at Te , is to a state known as ‘one-
-step replica symmetry broken’ (1RSB), corresponding to the onset of many
-non-equivalent macrostates {5} that are mutually orthogonal (Parisi 1980),
-followed by a lower temperature transition, at Ta , to ‘full replica symmetry
-oreaking’ (FRSB) (Gardner 1985), at which the non-equivalent macrostates star
-o acquire a continuous range of overlaps (as characterizes the SK spin-glass
-phase).
+The nature of the requisite modification was never in doubt; for an
+increase in the assumed value of k, unaccompanied by any change in the assumed shape,
+decreases 7 everywhere according to (33), while an increase given at some point to the radius
+of the jet entails a reduction at that point of 4é and therefore of 1 - and 7. At neighbouring
+points it increases 7 by rendering the jet more concave: consequently errors of opposite
+sign could be eliminated by changing the shape of the free stream-line, errors all of like sign
+by changing k. In fact only two changes of k were necessary, since the second (by good fortune) led to
+negligible errors at all points. Initially p was assumed to have the value 0-71, and sub-
+sequently this was altered to 0-75 and 0-78 (the accepted figure). Our first attempts were
+made on a net fairly coarse in all parts, since it was apparent that a finer mesh near B would
+yield for that point a value of dy/dv higher by an amount fairly easy to estimate.

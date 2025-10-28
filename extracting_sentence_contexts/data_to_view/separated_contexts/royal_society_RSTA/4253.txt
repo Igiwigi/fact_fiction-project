@@ -1,10 +1,10 @@
-From the spectra, we can see that, after the removal of the outliers, the spectrum of
-the cleansed data generally follows the Kolmogorov spectral line up to near 10 Hz before finally
-levelling off. Ideally, the higher the frequency, the more isotropic the turbulence should be. The
-levelling off, however, indicated otherwise; the higher-frequency turbulence seen here actually
-approaches white noise, a fact that can only be explained by the insufficient accuracy of the ADV
-instrument used in this experiment. The overall spectral shape is similar to those obtained either
-in the laboratory [18] or in the field [20], all showing a prominent peak of the surface wave, near
-0.2 Hz in this case, and a long tail. Of note here is that the spectral tail, covering nearly two
-decades in frequency, indicates that the large-scale waves in the open ocean data indeed offer, for
-the first time, a possibility to have a scale separation between waves and turbulence.
+It has, however, very little, if any, effect on the velocities of the
+boundaries ; and the ratio of these (u/c) is absolutely unaffected. It is indeed striking to watch the calm
+indifference with which these flaws are treated by the travelling colour boundaries, and to contrast the
+behaviour of the latter with that of the galvanometer needle. The facts are explicable on the assumption
+that the flaws reduce the current by reducing the value of A, leaving the current density (C/A), and
+therefore the actual velocities, as well as their ratio, unaffected. It is obvious that, in such a case, the
+experiment must be regarded as finished as soon as flaws appear, where the object is to test the truth of
+the equation involving the original, and only known, value of A; but that, for the determination of u/v
+(or of p), the experiment may be continued as usual till the boundaries meet. These rules haye been
+observed in all cases.

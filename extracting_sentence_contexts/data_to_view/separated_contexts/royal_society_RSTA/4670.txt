@@ -1,13 +1,22 @@
-The metasurface design can be summarized as the synthesis
-of an inhomogeneous surface admittance profile in (2.3) that transforms the impinging wavefront
-into the desired scattered one. As noted above, the required admittance is generally complex,
-and therefore loss and gain elements may be required to synthesize the required real portion
-of Veg: As intuitively expected, this condition becomes extreme if the incident and scattered
-wavefronts do not sufficiently overlap on the surface, and the surface properties are desired to be
-maintained local. In this scenario, in fact, the metasurface would necessarily be required to absorb
-energy in one location, and re-radiate it from somewhere else to generate the desired scattering
-profile. Fortunately, in many practical applications impinging and scattered beams overlap, and
-passive metasurfaces may be sufficient. In order to facilitate the physical implementation of the
-structure and avoid incorporation of active elements [43], the required surface profile in these
-cases may be approximated as purely imaginary (i.e. lossless), while allowing a high conversion
-efficiency [44] to the desired scattering profile.
+On
+traversing the microscope which carried the black-glass interference plate, from the
+position in which the first ruling of one of these location signals was adjusted between
+the parallel pair of spider-lines to that in which the fifth ruling was similarly
+adjusted—the microscope having thus travelled over four wave-length spaces— exactly
+eight interference bands (each corresponding to half a wave-length, 77479 inch) in
+red hydrogen light passed over the reference spot; this was true however many
+times, and in whichever direction, the traverse was performed, and was precisely the
+number expected within a very small fraction, if the rulings were truly spaced zodo0
+of an inch apart. Thus the interval between two lines ruled ggtpp inch apart corresponds to the
+passage of two interference bands in red hydrogen or cadmium light, past the reference
+spot in the centre of the field of view of the interferometer telescope, a very con-
+venient fact. The lines themselves are almost as sharp as the spider-lines of the eye-
+piece micrometer, and there is no trace of roughness of edge; they are also narrower
+than the white interspaces between the lines, so that the width of a line is less than
+half a wave-length,
+
+With the j;-inch dry objectives, specially constructed under the direction of
+Mr. Conrad Beck, the resolution is excellent, and the working distance so relatively
+great for so high a power as to leave a clearly visible air film between the cover glass
+and the objective, quite a safe working distance, in fact, for all traversing and . adjusting purposes. With an oil immersion objective of the same power the definition
+is simply surprising.

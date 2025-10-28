@@ -1,67 +1,22 @@
-The equations of a generating line (since it meets the directrix line z=0, y=0)
-may be taken to be
++ +» » (10)
 
-a=0y, :=þ(y—7)5
-the condition in order to the intersection of the generating line with the nodal conic is
-at once found to be '
+and this, when n is greater than 2, is satisfied by
+u=Cy7'+Cayg"- +C.ye"s
 
-as*+2hs+b+2B(f+9e) +e*=0,
-and that for its intersection with the simple conic
-ag? +2hs+b+20(m+le) +df=0;
+which in effect contains n—1 arbitrary constants, and 80 constitutes the complete inte-
 
-and writing the equations of the generating line in the form
+gral of the differential equation. If n=2, the differential equation becomes
 
-—! 2
-=" =
-
-7
-
-the elimination of «, B, 0 from these four equations gives the required equation of the
-scroll. Writing for a moment
-
-© =a&*+2ha +,
-F =gu +f >,
-M=lsz +m -
-eB* +2FB  +0=0,
-(94*+2Myw+du?)B*—2(0y2+Mwz)B+02*=0;
-or, introducing at this place the condition c=0, the first equation gives 3= £5. and
-
-we find
-
-we thence obtain
-(04% +2Myw+ du?) +4F(0yz+Mwz)+4F%*=0,
-or, what is the same thing,
-(0y+2F2)*+2Mw(0y+2F2z)+©du*=0;
-
-whence, observing that we have
-
-9= + Ip Wy Fat, jt id
-
-y y y
-the equation of the scroll is
-(aa*+2hay +by* +2920 + 2fy2)*
-
-+2(a93*+2hay + by*+ 29zx + 2fy2)(lz+my)w
-
-+ (aa*+2hay+0b)du*=0. And we see from the equation that the surface contains the line (y=0, y=0) as a double
-line, the conic
-
-w=z0, aa*+2hay+by*+ 2gzx + 2fyz=0
-as a double curve, also the conic
-
-2=0, aa*+2hay+by* + 21aw+2myw+du*=0
+Du+3}(4D—$)&u="7"O, (11)
 
 
-PROFESSOR CAYLEY ON SKEW SURFACES, OTHERWISE SCROLLS. | 575
+738 PROFESSOR BOOLE ON THE DIFFERENTIAL EQUATIONS WHICH
 
--as a simple curve on the surface,—the complete intersection by the plane 2=0 being in
-"fact the last-mentioned conic, and the pair of lines
+which is satisfied by u=y7" and by u=y7', but, as is evident from its unhomogeneous
+form, not by u=C,y7'+C,y77%. In this case, in fact, the condition y7"+y7"=0 not
+being fulfilled, the primary differential equation (TI) suffers no change in the form of its
+general solution. Mr. Harrer's reults are in effect transformations of (10) and (11). Since wy,
 
-2=0, aa*+2hay+by*=0. Quartic Scroll, Eighth Species, $(1, 3*), with a directris line, and a directriz skew
-: eubic met twice by each generating line.
+it is scen that v will satisfy the algebraic equation
 
-47. We 8ee, & priori, that the scroll is of the order 4, that is, a quartic scroll; in fact
-for the scroll $(1, 1?) the order is =[m]+M (firs: memoir, p. 457), and we have here
-m=3, M=h—4[mP=1—3=—2; that is, order =6—2, =4.
-
-< #48.
+wha —1l=0.

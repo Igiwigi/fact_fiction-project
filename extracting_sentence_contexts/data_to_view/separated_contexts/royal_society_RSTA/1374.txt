@@ -1,14 +1,14 @@
-Statistical
-iterative reconstruction (SIR) techniques provide a data consistent approach to obtaining material
-selective images using a statistical model of the projection measurements and incorporating prior
-knowledge about the reconstructed material images. Unfortunately, the loss function induced
-by the forward model which directly maps the expected spectral projection measurements and
-the material images is non-convex and difficult to minimize; convex approximations of the loss
-function such as convex-concave techniques [14-16] or semi-empirical models [17,18] have been
-proposed but suffer from high computational cost because of the double-loop nature of the solver. The main challenges which are attracting considerable interest are related to the fact that the
-image to be recovered lies in a high-dimensional space and to leverage more sophisticated or
-learned data-dependent priors are needed since the estimation problem is generally ill-posed. Regarding the issue of reducing the per-iteration computational cost to solve the reconstruction
-in the high-dimensional setting, numerous first-order solvers which leverage random numerical
-linear algebra have been deployed in different machine learning and imaging applications. Well-established algorithms like Stochastic Gradient Descent (SGD) [19,20], order subsets [21]
-and Alternating Direction Method of Multiplier (ADMM) have gained considerable attention
-in spectral CT [22,23].
+Cubic Primals through F,‘.—Applying this formula, now, to the particular case of
+cubic primals through F,*, we find that all such primals are transformed to quadrics
+through c,, and conversely, Any one of these quadrics Q meets ¢c, in two free points
+P, P’; and to these points will correspond two planes of V,* which must lie on the cubic
+primal through F,* to which Q corresponds. Now any line through O corresponds to
+a line of S meeting c, and « ; and using this fact we see that the cubic primal has a node
+at O. It has three additional nodes in each of its two planes, and these correspond, as
+we shall show, to the three E-lines through each of P, P’ which meet ¢, and lie on Q.
+Consider, in fact, any one of these H-lines, /, say, and let the point of F corresponding to
+it be L,. The cubic ®-curve corresponding to any line through L, breaks up into i,
+and a conic fy which meets |, once, c, once, and ¢, twice and which therefore meets Q
+in only one free point. It follows then in the usual way that L, is a node of the cubic
+
+* Le., — to neighbourhoods of points of ¢. Cf.

@@ -1,11 +1,13 @@
-A popular assumption is that x(0)
-is in thermodynamic equilibrium at temperature T, and follows a Gibbs distribution (x ~
-exp(—(1/2T)x" Kx). Accounting for this, we should update the bath equation to y(t) =ru(t) +
-J/2rTw(t), where w(t) represents a zero-mean unit-intensity Gaussian white noise process (note
+3 The plan adopted, therefore, was to determine the pressure corresponding to certain
+known temperatures, and then by means of the formula suggested by Ramsay and
+Youne,* the accuracy of which has been demonstrated in a great number of instances,
+to ascertain the vapour-pressures at intermediate temperatures. This method
+depends on the fact that the ratios of the absolute temperatures of two liquids
+corresponding toa series of pressures are a linear function for one of them corre-
+sponding to the same pressures. It therefore becomes possible to calculate a whole
+series of vapour-pressures of any substance, if the pressures are corresponding to two
+or more temperatures accurately known ; the application is briefly as follows :—
 
+The vapour-pressures of the substances are determined at absolute temperatures
 
-that we assume units are chosen such that Boltzmann’s constant is kg = 1); see [9]. In fact, the
-added noise term is exactly the so-called Johnson—Nyquist noise [20,23-25]. In the following, we use the equation y(t) =ru(t) + J/2rTw(t) with constant T to model
-infinite heat baths. This is also our first example of how a time-scale separation argument
-applied to a lossless system can be used to derive phenomenological models (Ohm’s law and
-Johnson-Nyquist noise).
+* © Phil. Mag.,’ vol. 21, p. 33, 1886 ; vol. 22, p. 37, 1886.

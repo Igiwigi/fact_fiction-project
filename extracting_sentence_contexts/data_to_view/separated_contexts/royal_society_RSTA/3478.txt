@@ -1,8 +1,11 @@
-These four permutations were returned in 82 out of 100 runs (seven returns of the top left,
-19 of the bottom left, 27 of the top right and 29 of the bottom right). They have the same initial
-three choices of customer, namely (3,2,1). In fact, the returned permutation started with (3, 2,1) in
-98 out of 100 runs. By the heuristics discussed in the running example, part 6, variations at the beginning of
-the permutation are likely to have the greatest effect on the objective function, and hence on
-the accept-reject step of the SA algorithm. The random walk should therefore provide a clear
-indication of the optimal initial order in which customers should be approached, and this heuristic
-is clearly borne out in figure 1.
+The curves show that the negative ionisation increases very rapidly with the
+temperature of the wire (in fact the saturation current varies roughly as the 70th
+power of the absolute temperature). It will be seen that the current never vanishes
+absolutely, but only in an asymptotic manner, so that it should be observable at any
+temperature provided sensitive enough instruments are employed. As a matter of
+fact at low temperatures it would of course be masked by other effects, which become
+large by comparison. The curves seem also to tend continuously to an infinite value
+of the saturation current ; but the theory indicates that at higher temperatures the
+current would increase much more slowly with the temperature. This falling off of
+the rate of increase has not yet been observed with any of the conductors which have
+been examined.

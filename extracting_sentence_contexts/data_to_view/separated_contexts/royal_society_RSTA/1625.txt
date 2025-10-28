@@ -1,8 +1,9 @@
-The change in behaviour around z = 0.4Mm can be understood by looking again at figure 3. We see here that the magnetic fields in the two models are quite similar in regions between the
-average tr = 1 surface and average 6 = 1 surface which is around z = 0.5 Mm. We believe that the
-similarity in both simulations in terms of wave propagation is due to the fact that the dynamics
-of the waves below the plasma f = 1 surface is not dominated by the magnetic fields, but by the
-thermodynamic properties of the atmosphere. The thermal properties of the atmosphere in the
-near-surface layers are similar in the two cases of Sun-v100 and Sun-h100. In the low plasma £
-layers, however, the waves see a different magnetic field orientation between the two magnetic
-models as they propagate.
+It does not determine an upper limit to the speed
+of flow which must be stable because some other type of disturbance might exist which
+would increase initially at a lower speed of the fluid. Neither does it determine a lower
+limit to the speeds at which the flow must be unstable, because the assumed disturbance
+which initially increases might decrease indefinitely at some later stage of the motion. It has been shown in fact that certain types of initial disturbance exist for which this
+actually is the case. *
+
+The method of OssornE ReyNo.ps has been modified by Orr, who has determined
+in two cases} the highest speed of flow at which all small disturbances initially decrease. At this speed evidently any initial small disturbance will decrease indefinitely.

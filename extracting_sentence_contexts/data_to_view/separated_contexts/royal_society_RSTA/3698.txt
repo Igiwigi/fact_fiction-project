@@ -1,21 +1,11 @@
-Equation (5.1) represents a set of coupled differential equations which is typically discretized
-into a set of contiguous intervals or ‘grains’ with energy spacing AE and written as a matrix
-equation:
+The usual method of representing the results of a series of observations like the
+present is to adopt an empirical formula of the type,
 
-d :
-aP= Mp. (5.5) :2
-Diagonalizing the matrix M provides a solution for p, the population vector p(E), i.e. 3
-p(t) =Uexp(At)U~!p(0), 66) 2 >
+s=1+ai+ bP +e +dtit+&k&e, . ... . . (8),
 
-where U is the matrix of eigenvectors of M, and A a diagonal matrix of the corresponding
-eigenvalues. The EGME has advanced to the point that it is routinely able to provide near- 74
-quantitative predictions of gas-phase kinetics for reactive systems comprising multiple wells and ae
-transition states. Part of the reason for its success in the gas phase arises from the fact that the [ae
-system/bath boundary is relatively well defined: the system comprises the reactive molecule 8
-of interest (which has available to it a range of reactive pathways), and the bath comprises .
-third bodies which undergo collisions with the reactive system of interest. For example, the
-atmospheric bath is made up of Nz and Oz, both of which can undergo elastic and inelastic
-collisions with the reacting species. Third-body collisions of this sort can be treated (often to
-a relatively high degree of accuracy) using standard functional forms that have their origins
-in isolated binary collision models, quantum mechanical scattering calculations and classical
-trajectory simulations.
+and to calculate the values of the coefficients a, b, c, d, &e., by the method of least
+squares. This was, in fact, the method adopted by Liipry. ‘It has the advantage of
+providing a simple and ready rule, which is very generally recognized and applied ;
+but it appears to me that it is in reality liable to several objections. Too much
+weight is given to the observations at higher temperatures, which are necessarily less
+accurate than the rest.

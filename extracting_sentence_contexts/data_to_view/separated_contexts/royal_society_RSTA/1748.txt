@@ -1,12 +1,20 @@
-The hotspot areal density
-in the LMJ-scale simulation is notable, as 0.3 gcm~? is sufficient for ignition and matches the
-target areal density for the NIC ignition design [24]. However, actually igniting such a capsule
-requires higher temperatures; the analytic model discussed in §2 estimates that such an areal
-density would require an ion temperature of around 5.5 keV to ignite, which is in agreement with
-the temperatures targeted during the NIC from hydrodynamic assembly (it was expected that the
-ultimate temperature for such a capsule would then reach 10-12 keV, since significant self-heating
-would occur once ignition took place) [1]. These specific results themselves are not particularly impressive—it is the fact that such results
-have been achieved in this new low-instability regime which is of note. Much higher gains than
-those quoted here have been reported at lower energies in previous simulation work. The novel
-aspect of this work is that such results have been achieved in this new regime, where instabilities
-are expected to be minimized.
+When the point under consideration is inside the matter in the field there exists the
+possibility of an additional contribution to this force due to local conditions of the
+matter in the neighbourhood of the point, but for the present we shall disregard any
+complication of this kind.
+
+(b) C, the complete electric current; in the most general case this consists of
+several distinct parts. Firstly, there is the differential drift of free ions constituting the
+true conduction current and the material dielectric displacement current ; then there
+is a part due to the convection of charged and electrically polarised media, and finally
+the sethereal constituent essential and peculiar to MAXWELL’s theory. It has been definitely established that all but the last constituent of the current
+are in themselves true movements of electricity, or at least effectively equivalent to
+such, so that so long as we retain the definite concept of an electrical entity the
+origin of these different constituents merely remains a matter of kinematics, and they
+have, in fact, been fully dealt with on this basis. *
+
+(c) H, the magnetic force, defined in a similar manner to the electric force, with
+the aid of the concept of a magnetic pole, but now without the possibility of a local
+contribution due to surrounding magnetic polarity if the point is inside the matter. It is perhaps as well to emphasise the fact that both the electric and magnetic
+forces are defined in a theoretical manner which almost excludes the possibility of
+direct experimental verification.

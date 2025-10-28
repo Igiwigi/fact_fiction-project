@@ -1,21 +1,18 @@
-Rather, as approaches to the discrete simulation of fluid now enter a
-vigorous maturity, we believe that a new synthesis best describes their place
-in computational fluid dynamics. Despite their many merits, discrete simulation
-methods are obviously not a panacea. In fact, many notions and concepts from
+For example, the present case would present, as the complete boundary, two straight
+lines intersecting at the apex of the curve, and inclined at an angle closely given
+by 2pa/q, where « is the small angle of the wedge. If the law were partly exponential and partly of the probability type, or
+I = I, exp(—/’x’?—qz), where # and g are positive constants, the graph on the plate
+would become
 
-One contribution of 25 to a Theme Issue ‘Discrete simulation of fluid dynamics: applications’.
+key’ +qy = px tan a,
 
-2384 This journal is © 2011 The Royal Society
-
-
-Preface 2385
-
-PDE discretization have proven extremely valuable in boosting their quality
-and overall performance, a statement that is particularly true for the widely
-popular Lattice Boltzmann (LB) method, de facto a powerful blend of particle
-and grid methods. This Theme Issue provides the reader with a record of the state of the art
-in the field and contains a wide range of contributions, covering many aspects
-relevant to the physics of complex flows, across many scales of motion and type
-of applications. This Theme Issue is specifically devoted to applications of discrete simulation
-
-methodologies.
+and it is easily demonstrated that this is a parabola exactly similar—and, in fact,
+equal—to the parabola obtained when g = 0, but shifted on the plate so that its axis
+has moved parallel to itself. The curve is therefore still symmetrical about its axis
+and curved towards it, so that this mixed law is incapable of explaining the
+characteristics of the photographs even on general grounds, In fact, the constant ¢
+has no influence on the radius of curvature. It would, however, have an influence
+if the law with which the simple exponential is combined were anything other than
+the law of probability. This lack of influence of g, however, only applies to corresponding points, and
+in order to avoid misconception, a more complete account is necessary, for the curve
+as seen on the plate would actually appear flatter and be of smaller extent.

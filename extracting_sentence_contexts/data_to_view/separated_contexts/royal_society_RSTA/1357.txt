@@ -1,28 +1,16 @@
-If f is
-proximable, then the linearized ADMM method [30] can be used; available as LADMM in CIL. If the
-so-called convex conjugate, f*, of f is proximable, then the primal dual hybrid gradient (PDHG)
-method [31-33], also known as the Chambolle-Pock method, may be used; this is known as PDHG
-in CIL. In fact, an even wider class of problems can be handled using this formulation, namely
-
-u* =arg min | Yo fi(Kiu) + «| , (3.13)
+Kw Aa lHaAlP we &
 
 
-(a) (d) (©)
 
-105
-\ — Fista
-10+ — PDHG dual
-— PDHG gap
-2
-2
-_ 3 103
-8
-10
-1
-1 10 107 103
+274. W. G. BICKLEY ON TWO-DIMENSIONAL POTENTIAL PROBLEMS, ETC.
 
-no. iterations
+Aprrnpix II. Standard Graphs for Plotting Stream-Lines.—Vhe fact that the solution of the problem
+of flow past an obstacle (equation (3.22) ) is expressible in such general terms enables
+us to construct tables or graphs for the plotting of the equipotentials and stream-lines
+in all such cases, provided that the “‘ fundamental net ” has first been obtained. We
+give, in figs. 7 and 8, graphs of
 
-Figure 7. PDHG reconstruction of 15-projection three-dimensional steel-wire dataset. (a,b) TV-regularization with a = 0.02,
-reproduces the same result as FISTA in figure 6 on the same case and parameter choice, thus validating algorithms against each
-other. Colour range [—0.01, 0.11]. (c) Objective value histories (log-log) for FISTA and PDHG on TV-regularization problem.
+cosh s cosr = ¢ (fig. 7)
+
+and ; -
+st sinh s snr = (fig.

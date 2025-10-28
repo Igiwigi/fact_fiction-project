@@ -1,50 +1,25 @@
-The reason behind the
+Also it
+may be noted that during magnetic activity the “no-echo” condition is often
+interrupted (for example, during the day-time) by the sudden occurrence of abnormal
+Region E reflexions, even though the frequency used is such as would normally be
+penetrating to Region F at that time ofthe day. In this connexion it is quite possible
+that the reappearance of abnormal reflexions may be associated with temporary
 
 
-(a) (d)
+RADIO OBSERVATIONS DURING THE POLAR YEAR 1932-33 251
 
-0 18
-=4
-2b —— 16} EX |
-= 144 4
-o
-4 N12 7
-=a a
-<r OSS J £104 |
-& -st & sh |
-5
-7 6F 4
--10+ i 5
-g 4} ;
--124 5 aL |
-_14 1 1 \ ! ! 1 —— Do
-0 05 10 15 20 25 3.0 0 05 #10 15 20 25 3.0 a
-w w Ds
-a)
-iB
-Figure 5. (a) Typical value of 5 for I-bits in a system of size L = 32, averaged over roughly 1000 disorder samples, with one D>
-eigenstate per sample. (b) Average number of |-bits with 5 > 0.1in a system of size L = 32. 1S
-1S
-a
-Nw
-Ss
-ex
-Ss
-&
+abatement of the magnetic activity, for the evidence as a whole appears to suggest
+the general rule that slight magnetic activity is associated with abnormal reflexions,
+while intense magnetic activity brings about the “ no-echo”’ condition. The fact
+that the frequency to which abnormal Region E reflexion persists has its highest
+value, as distinct from its most frequent occurrence, at midnight, is illustrated in
+fig. 37 where are plotted the highest frequencies on which nocturnal abnormal Region
 
-20730100,
+Ee Ea pagel Re Oe in
 
--16
-20 30 40 50 60 70 80 90100 20 30 40 50 60 70 80 90100
-L L
+17 18 19 20 2i 22 23 24 ~<Ol O02; 03) 04
+M.E.T.
+Tromsé, 22/23 March, 1935
 
-Figure 6. (a) Typical variance scaling with system size L at fixed bond dimension x = 32. The inset shows the same plot for
-W = 5 with fixed error density, truncating the Schmidt spectrum at a variable bond dimension such that the total cut-off error
-is less than 10~", which shows a linear scaling as expected. (b) Typical 5 of I-bits scaling with system size L at fixed bond
-dimension x = 32. For high W, the typical -bit is captured to machine precision, flattening out at (log; 5) + 10-®.
-
-superlinear growth in variance is that our states are in fact not of constant error density, as we are
-simply truncating each bond at x singular values. To construct a state of constant error density,
-one would have to consider a variable x on each bond such that the total discarded Schmidt
-weight is below an error threshold. In such a scheme, one would still need to define a maximum
-allowable x, Xmax, Such that the computation completes within a reasonable time frame.
+Fic. 38—Graph showing the variation of abnormal Region E at Tromsé during a small magnetic
+disturbance.

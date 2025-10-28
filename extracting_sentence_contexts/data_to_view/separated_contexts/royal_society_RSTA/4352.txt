@@ -1,12 +1,15 @@
-SE benefits of optimizing different transmission fibre parameters: theoretical spectral efficiency curves as a
-function of launched signal power limits for a representative communication system. (1-black line) Baseline parameters
-of system length = 2000 km, amplifier spacing = 80 km, amplifier noise figure = 4.5 dB, channel spacing = 50 GHz,
-baud rate=50Gbaud, fibre loss=0.22dBkm~', nonlinearity = 1.4(Wkm)~', dispersion = 16 psnm~' km~',
-wavelength = 1550 nm, bandwidth = 5 THz, number of WDM channels = 101. In the additional plots, all other parameters
-were kept the same as for the black curve other than (2-indigo line) nonlinearity = 0 (Wkm)~" (conventional Shannon
-Limit for a SMF system); (3-blue line) loss reduced by a factor of 2-0.11 dB km~"; (4-dark green line) nonlinearity reduced by
-1/1000; (5-orange line) dispersion increased by a factor of 2 to D = 32 ps nm~' km~"; (6-light green curve) amplifier noise
-figure reduced to 1 dB; (7-red line) simultaneous changes (3—-6) to the baseline parameters as above. The figure highlights the
-fact that even by radically improving fibre amplifier properties, then only relatively modest improvements in spectral efficiency
-can be achieved. It should though be appreciated that the financial benefits of such radical property improvements could be
-significant. (Figure courtesy of Prof. Andrew Ellis of Aston University, UK).
+4 + } observations. R2
+
+
+124 MR. W. F. SHEPPARD ON THE APPLICATION OF THE THEORY OF
+
+If m values of X were observed, and if the discrepancies were independent, it
+would be an even chance that in one case at least the ratio of the discrepancy to the
+probable discrepancy would exceed the value given by the above table. As a
+matter of fact, the discrepancies are usually correlated ; but, if we bear this in mind,
+the table may be used to decide whether the greatest value of the ratio is such as to
+negative the hypothesis under consideration. For calculating Qo/V/n, in either class of cases, it will not always be necessary to
+express o” in terms of a, B, y,... If the value of X depends solely on the values of
+certain frequency-constants, and if s, y, 6,... are the errors in these frequency-
+constants, then f(e’, B’, y',...) — f(a, B, y,...) may be written in the form
+ks +n 4+ m0+...

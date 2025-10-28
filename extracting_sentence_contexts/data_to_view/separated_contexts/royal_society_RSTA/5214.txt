@@ -1,9 +1,12 @@
-Proof of proposition 2.2. The proof of proposition 2.2 is classical, except for the new term u(x, ft) —
-u(—x,t). In fact, Barles and Imbert give a related definition of viscosity solution and established
-stability results for a general class of non-local operators in [9]. Here, we simply check this
-property, proving that if for all functions v € F,, we have
+Again, it is a matter of frequent observation in the analysis of coal gas, when the
+residue of marsh gas, hydrogen, and carbonic oxide is exploded in an eudiometer,
+with a large excess of oxygen, that carbon is deposited towards the bottom of the
+tube. When, however, the mixture is sufficiently diluted with air, the marsh gas is
+completely burnt. This fact is easily explained on the assumption that in the
+explosion-wave (which is set up in marsh gas with oxygen but not with air) the
+marsh gas is more or less decomposed in the wave-front, and some of the liberated
+carbon escapes combustion by cooling. {
 
-v(x, f) — v(x, £) — w(x, 6) <0 (2.1)
-
-in the viscosity sense, then u still satisfies (2.1) (the proof being similar for i). Indeed, by definition of u, there exists (Ye,Se,e) > (x,t,0) and ve €F, such that u(x,t)=
-lime. ve(Ye, Se) aNd ve(Ye, Se) — Ve(—Ye, Se) — W(Ye, Se) < 0.
+I do not forget that the question raised concerning the breaking up of yet unburnt
+compounds in the explosion-wave, may also be asked concerning the elementary mole-
+cules. What happens, for instance, to the molecules of oxygen in the wave?

@@ -1,5 +1,14 @@
-It is almost as if different points of view have developed different languages. As a result, one may find it difficult to understand the ideas, as one often has to learn ‘the other
-language’ used to discuss the same problem. This is further complicated by the fact that all of these
-languages use essentially the same words, but charged with very different meanings. Concepts
-like ‘existence’, ‘reality’ or ‘state’ are good examples. The aim of this section is to acknowledge this problem and to deal with it to the extent possible
-within the framework of a brief guide.
+These reduce to
+the values given by Samnt-VENANT if we take 8 = 1 and «= 0. But on calculation,
+after using the values of the strain components given by (1), we find that the body-stress
+equations are not satisfied if we take Satnt-VENANT’s values. In fact, we get
+
+Oxx oxy Oxz
+
+are + a rAr2x,
+Cx ey eZ
+
+oxy opp Oyz ‘
+peice Rhee ot A Ny
+Ox cy 0z Fi
+ox ay 0z .

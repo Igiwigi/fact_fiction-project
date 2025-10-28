@@ -1,10 +1,13 @@
-For this computation, we have used a grid of 4000 points in
-the interval z,, € [26.8, 30.8], so the grid resolution is 0.001. The safe set computed ensures for any starting point qn in the safe set and any allowable én,
-there is a wu, that puts f(qn) + &n + Un back in the safe set. This is true for the map; however, the
-control is applied in the phase space so we must take into account of the fact that as each local
-maximum of z is described by three coordinates (Xin, Ym,Zm), the total distance to the safe set
-
-isd= J (Xm = Xmsafe)? + (Ym — Ymnsate)* + (Zm — Zmsafe)*, Where (Xmsafer Ymsafer Zmsafe) iS the closest
-point belonging to the safe set. In figure 7, we show a controlled time series of the z variable in
-contrast with an uncontrolled trajectory. We can see that chaos is sustained by applying small
-perturbations in the maxima of the variable z.
+An example of two
+records obtained at Olveston with this instrument is included in fig. 4, and it will be
+seen that the distance between the successive lines of the spiral has been much reduced
+in comparison with that in the other instruments, from 3-0 to 0-7 mm., by altering the
+diameter of the driving rollers which provide the lateral movement of the clock. It
+will be seen that the deflected trace described by the pen during an earthquake has a
+slight wavering appearance, and this is due in some measure to the fact that the hour
+spindle of the clock does not move smoothly, but in jerks as a consequence of the
+escapement mechanism. It’should be noticed that the recording is unaffected by the
+closeness of the lines. In some circumstances it might be of great advantage to have
+recording of this type, either for obtaining a more extended time scale as in the present
+instance, or alternatively, using the more usual time scale, to provide an instrument in
+which the record needs to be changed only once in 4 or 5 days.

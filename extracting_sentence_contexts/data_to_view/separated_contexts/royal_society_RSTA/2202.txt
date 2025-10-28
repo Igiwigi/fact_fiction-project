@@ -1,15 +1,7 @@
-For example, the case of polygonal zonal jets of potential vorticity present
-in the Southern Hemisphere when the southern polar vortex is active, during the months
-of July-August. In figure 7, we see an example of an hexagonal jet which occurred in
-1998.
-
-(b) Non-fixed polar vortices
-
-As previously commented, this case has a system of a higher number of degrees of freedom with
-respect to the case of fixed polar vortices and has been summarized in proposition 6.3. Due to the
-fact that the Hessian now has non-diagonal terms we cannot fully diagonalize the Hamiltonian
-as before using only the properties of circulant matrices. From proposition 6.3 and corollary 7.1,
-by taking Tsp = —N-TI, np, We can immediately infer the following corollary to deduce stability
-zones. PV, 350 K, 15 July 1998 16 July 1998
-
-Figure 7.
+The form of the spin-energies given by (7.31) for large Z suggests that the three
+terms I, I, II, have (ordinary) j’s respectively equal to k +1, k, k—1. In this
+section we verify that the weights of the terms are 2k + 3, 2k 4-1, 2k—1, in
+accordance with the usual formula 2j 4-1; and also that the selection rules Ak = + 1,
+Aj = + 1, 0, are valid to a first approximation. The weights are governed by the fact that for certain values of w the four wave-
+functions in the group (4.10) reduce to three or one. In the preceding sections
+we have tacitly assumed that # = 1, |u| < k.

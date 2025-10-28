@@ -1,19 +1,17 @@
-PUBLISHING
+The enumerating generating functions that are met with at the outset in
+the theory of the partitions of numbers are such as are formed by factors of the forms
 
+(n + 8)
 
-canonical ensemble and comment on the validity of the Boltzmann weight factor. We conclude
-by addressing open mathematical problems that arise for systems with discrete energy spectra.
+written for brevity All those which appear in connection with regular graphs
 
-]. Introduction
-
-The fundamental differential relation [1]
-
-1 as
-
-7-(3), a)
-connects the thermodynamic state functions temperature T, internal energy E and entropy S. :B
-Given S as a function of E, and possibly other constant control parameters Z =(Z},...) in the : =
-Hamiltonian such as volume or an external magnetic field, equation (1.1) in fact defines the : 5
-thermodynamic temperature. The concept of entropy was introduced by Rudolf Clausius [2] in >
-1865. Clausius chose the symbol S in honour of (Nicolas Léonard) Sadi Carnot, who laid the : <
-groundwork for the second law of thermodynamics.
+in two and three dimensions are so expressible, and the mere fact of such expression
+proves beyond question that the numerator of the generating function is exactly
+divisible by the denominator ; in other words, it proves that the function can be put
+into a finite integral form. It is quite natural therefore to seek the general expression
+of functions of this form, which possesses this property of competency to generate
+a finite number of terms. Moreover, it is conceivable that such a determination will
+indicate the paths of future research in these matters: will be in fact a sign-post at
+the cross-ways. This is the reason why I undertook the investigation ; but, as
+frequently happens in similar cases, the problem proves @ posterior to be per se of
+great interest and to involve in itself a notable theorem in partitions. Art.

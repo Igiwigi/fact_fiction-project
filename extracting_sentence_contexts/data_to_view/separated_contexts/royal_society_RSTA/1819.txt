@@ -1,18 +1,13 @@
-We may, therefore, synthesize these findings to suggest that a history of frequent fast-sinking
-diatom blooms justifies greater megafaunal biomass in northern sites, and that the Atlantification
-of these waters, and a switch to Phaeocystis predominance, will result in a poorer nourishment of
-the benthos and a shift in the long term to lower megafaunal biomass. We must also consider that,
-during mid and late summer, phytoplankton blooms in the BS descend toward the nutricline to
-form subsurface chlorophyll maxima (SCMs) [56], meaning some production is missed by remote-
-sensing approaches. In this study, this may have the effect of giving us the false impression that
-phytoplankton communities north of the PF are resistant to environmental change (figure 5),
-when communities residing at depth here may, in fact, be changing. As there is currently much
-debate in the literature as to the effects of neglecting the SCM on production estimates (e.g.
-[57-59]), Arctic shelf SCMs clearly warrant further investigation.
+'= 0; . . . (18)
 
-(c) Limitations to our experimental bio-optical algorithm
+this is a quadratic for g*, whose solution may be written
 
-Overall, much greater confidence can be invested in the detection of coccolithophore blooms,
-which are clearly defined by the characteristic light-scattering properties of their shed coccoliths. Our approach is also necessarily limited by the available spectral resolution of the MODIS-Aqua
-sensor and by the underlying assumption in our bio-optical algorithm’s construction that CDOM
-is invariant.
+1
+g° =sin® $a (1 - a ; ici =i oe ena (1)
+where @ is given by
+cot 6 = AK’ cot? a—(tan’$a)/40. . . . . . . « (20)
+
+The ambiguity is settled in practice by the fact that g? must be small if equation (14)
+is to be taken as a first approximation to the solution. In practice, as we have said,
+bissmall. Valuable information as to the nature of the solution is, therefore, obtainable
+by considering its limit as b>0.

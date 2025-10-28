@@ -1,20 +1,11 @@
-If the initial configuration satisfies dy < o_(Vo), then the corresponding solution (p, 1) will blow-up at
-a finite time.
+PARTS I AND II 357
 
-(c) Critical thresholds for the two-dimensional Cucker—Smale model
-We extend our main result to two-space dimensions
-pt + div(pu) =0 (2.5a)
+. €COST
+and the excess pressure Apy = pu? Varese iy
 
-and
-wy fu- Vu =| lic = yDuly, 1) 6x, Doty, dy, xeR?, £20, (2.50)
-R
-
-where the critical threshold is captured in terms of Vo and its initial divergence do :=
-infxesupp(oo) div u(x). The main difficulty here is to control the remaining terms in Vu, beyond
-just div u itself. We measure the size of those additional terms, setting
-
-Bo:= sup max{2|dx,Uo2|,2|4x,Uo1|, |x, 401 — Ax, M02\},
-xesupp(o)
-and we prove that if Bg is sufficiently small then, in fact, all terms of Vu, except for div u, remain
-equally small. Theorem 2.10 (two-dimensional critical thresholds in a non-vacuum region). Consider the two-
-dimensional CS system (2.5).
+On the other hand, if7> (47—), then the corresponding two-dimensional problem, in fact,
+becomes a subsonic one. For our three-dimensional problem, however, there is still a wave
+drag, as is physically evident from the hydrodynamic analogue of the long gravity waves
+produced by a plank of constantly increasing length, the two surfaces of which are pushed
+apart with constant velocity. It will be our object to investigate how the wave drag varies
+as the angle 7 is increased.

@@ -1,11 +1,28 @@
-So Eve cannot be in the main lobe of the channel,
-otherwise she can be easily visible, and hence it is reasonable to assume that Eve’s channel can be
-physically bounded. Under such an assumption, one may pursue higher transmission rate than
-that of QKD. In fact, long distance FSO channels are usually very lossy, and a key rate of QKD
-becomes very small. We first review our theory of physical layer security and its implementation
-in FSO communications system [14] and then present our experimental results with a 7.8km
-terrestrial FSO wiretap channel.
+Once 6 (E) and 6 (E) are determined corresponding to a value of « close
 
-2. Theory of physical layer security
+8 to unity, say « = 0-99, the statistician desiring to estimate 6, may be recommended
 
-In this section, we focus on secret message transmission in a wiretap channel.
+4 (1) to observe the values of the random variables %, . . . %,, (2) to calculate the
+
+S corresponding values of @ (E) and 6 (E), and (3) to state that the value of the para-
+
+meter 0, is within the limits @ (E) = 0, = 9 (E). The justification of this recommendation lies in the fact that the three steps
+
+g described are equivalent to a random experiment which may result either in a correct
+
+& or in an erroneous statement concerning the value of 6,, the probability of a correct
+
+8 statement being equal tox = 0-99. Thus the statistician following the above recom-
+
+2 mendation is in a position comparable with that of a game of chance with the
+
+g probability of winning being equal to « = 0-99. 3 ;
+
+& The method followed to determine the confidence limits for a single parameter
+permits an obvious generalization for the case where the number of parameters to be
+estimated simultaneously is greater than one. E I
+
+Three previous publications concerning the confidence intervals for which I am
+either partly or wholly responsible (Nryman, 1934, Maruszewski, NeyMan, and
+SupiNska, 1935, Nevman, 1935, c) refer to the simplest case where the number of ran-
+dom variables and that of the parameters to be estimated are equal to unity.

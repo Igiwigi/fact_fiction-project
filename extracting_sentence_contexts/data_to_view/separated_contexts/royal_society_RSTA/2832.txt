@@ -1,8 +1,10 @@
-Modifications in RDGE and CINE are algebraically synonymous with the CICE6 baseline, but
-slightly alter the numerics of the continuity and momentum equations, respectively. The KSNO
-case results in a Category III climate change owing to the model’s strong sensitivity to the
-thermal conductivity of snow [43]. In fact, we define any parameter change in an existing CICE
-configuration as a Category III change that would first be detected during maintenance of the code
-repository, rather than by the 2SPT and QSC tests. Nevertheless, KSNO serves as a benchmark
-against which RDGE and C1NE may be compared. We seek to answer three questions using the RDGE-C1NE-KSNO suite: First, are the combined
-2SPT and QSC tests sufficiently sensitive to differentiate Category I, II and III code modifications?
+In fact, in the case of the alkalies, the a
+are not far from being proportional to v, 2v, 2v, 3v, for the four elements considered,
+but the data are so inexact and uncertain that it seems not worth while to undertake
+an exhaustive numerical discussion. We do not know that the chief lines of these sets are those depending on m = 3. Tf lines exist depending on m = 2 they would all be in extremest red, in fact with
+wave-lengths comparable with those of electro-magnetic waves capable of being
+experimentally excited, and it is possible that VF (2) might be the same for all low
+melting-point elements and as for He (see [I.]). For m= 1 we should expect the
+lines of negative wave number in regions which have been observed and in which no
+such lines have been seen. The F series in the high melting-point elements, on the contrary, are profoundly
+influenced by the atomic weight term.

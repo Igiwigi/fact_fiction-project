@@ -1,14 +1,7 @@
-The expected test lengths are approximately given by
+LT wo
 
-Eolt] © D(follfi) (1 — Pra) log(y ') — Pra log(y1)) (2.12)
-Ex[t] © D(fillfo)” ‘(Pp log(1) — (1 — Pp) log(yp ')).- (2.13)
+There are several points to be noted here. Firstly, this differs from the result
+given in the previous paper, where w replaced w, in the damping factor. Secondly, it differs from the usual form given by Drupe’s theory of dispersion,
+as can be seen from the fact that
 
-(i) Signal-to-noise ratio
-
-In the case where the observed data are normally distributed as in (2.4) and (2.5) we have that
-D(follft) = D(fillfo) = 27/207. The ratio 2/0? is often referred to as the SNR and it follows from (2.12) and (2.13) that in
-the Gaussian case, increasing the SNR decreases the average test length under both hypotheses. A practical consequence of this fact is that if the SNR can be increased (e.g. using signal processing
-techniques—see, for example, [18]) while preserving the Gaussian data output, then this will
-increase the average speed of detection. This ratio is also important in continuous-time sequential
-analysis due to the Gaussian nature of the Brownian motion (see §4). More generally, it can be seen that the relative entropies, or Kullback—Leibler distances,
-between the densities f; and fo are inversely proportional to the expected detection delays.
+(w) — w?)? + 41 2w) Here «, replaces in the numerator and denominator.

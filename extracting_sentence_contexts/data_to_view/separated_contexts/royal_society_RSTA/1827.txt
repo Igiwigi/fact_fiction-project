@@ -1,21 +1,13 @@
-This process began when
+In order to specify the drag completely it is necessary to consider with some care
+what are the variables on which the drag for a given shell can depend to an
+appreciable extent. This question is, as yet, by no means settled, and a few of the
+more important considerations are summarised in § 1.01. This fact does not concern
+us here to a very serious extent; an incomplete specification of the variables on
+which the drag (or, in the general case, the complete force system) depends will only
+invalidate the results of observation when an attempt is made to apply them to
+widely different conditions of the state of the resisting medium, or of the motion of
+the shell. The validity is unaffected when the experimental conditions are
+approximately repeated. It may be assumed that, in this case of symmetry, a fairly
+adequate expression for the drag is given by the equation
 
-
-
-Figure 5. The 32-column periodic table. : =
-=
-
-Bohr assigned particular numbers of electrons to each electron shell, thus using just one quantum : =
-number [7]. :3
-Soon afterwards a second and third quantum number were introduced to give more detailed : =
-electronic structures [8], a process that culminated with Pauli proposing the need for a fourth :8
-quantum number. Considering the possible values of these various quantum numbers, as well as [3
-the relationships established among them, made it possible to predict the fact that the first few 3
-shells contain, 2, 8 and 18 electrons, respectively. This understanding lent further support for the 18
-18-column table in which the s-block (2 elements wide) was followed by the d-block (10 elements : 3
-wide), followed by the p-block (6 elements wide) to make a total of 18 columns. The question of ‘Ss
-
-how to label the groups in the periodic table was decided by IUPAC amid much controversy in
-1990, although this episode will not be reviewed here [9].
-
-4.
+(1.001) R = pvr*f,.

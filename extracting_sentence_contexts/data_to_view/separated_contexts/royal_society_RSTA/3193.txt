@@ -1,22 +1,19 @@
-The two-body cusp ratios were determined using [32,33]
+103
 
-ae (3.3)
+ionisation, which made Van ’r Horr’s law (in a slightly modified form) an accurate
+expression of the relation between ionisation and dilution, down to twice decinormal
+solutions of KCl. This method of procedure gave for the radius of the hydrated ion
+an expression of the form
 
-(5(ri))
+n= r_(1+Bh-*)-,
 
-The exact value of the nucleus-electron cusp v31 is —Z for the infinite nuclear mass systems, and
-the exact value of the electron-electron cusp vj is 0.5, but for HF calculations vj is zero [34]. The
-data presented in table 5 demonstrate that the HF Laguerre-based wave function is capable of
-producing accurate nucleus-electron cusps.
-
-vig = (Vij) =
-
-(e) Behaviour near critical Z
-
-For Z < ZHF, the ground state becomes unstable against electron detachment. The convergence
-of the variational atomic energy as a function of the number of terms degrades only slowly as
-the nuclear charge approaches ZHF, In fact, at Z = 0.85 the HF energy is still converged to seven
-or eight significant figures, but as Z decreases further the convergence deteriorates rapidly as
-shown in table 6. Furthermore, the convergence of the bound state properties deteriorates much
-more rapidly than the energy, to the extent that for Z = 0.80 the expectation values are erratic and
-basis-size-dependent. However, for Z > 0.85 the data appear to converge.
+which indicated that the average radius of the ion steadily increased with dilution,
+owing to increasing hydration of the ion, up to “infinite dilution.” Whether the
+resulting expression for 7 did in fact represent the average radius of the ion was
+tested by a consideration of the density law which would thence result. The volumes
+of the ions would be proportional to 7*, and it was found that a rational density
+formula could be constructed upon this basis which accurately corresponded with the
+observed densities of the solutions. In the present paper the necessary experimental determinations for applying the
+method to solutions of NaCl are given, together with some other determinations for
+collateral purposes, and the hypothesis is further tested by reference to other physical
+properties of solutions.

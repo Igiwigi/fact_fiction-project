@@ -1,12 +1,5 @@
-Usually, the LSA is used to determine the linear
-stability properties of a given numerical scheme for uniform base flows and assuming a periodic
-simulation domain. To further include the impact of boundary conditions or grid mesh refinement
-techniques, one must use more complicated methods [55,56]. In the CFD community, the LSA
-is most commonly called a von Neumann (or Fourier) analysis owing to the fact that von
-Neumann was among the first to study the linear stability of numerical schemes used to solve
-partial differential equations [57]. Even if this analysis cannot quantify the impact of nonlinear
-(de)stabilization mechanisms, it is a mandatory step to assess the good behaviour of a numerical
-scheme in terms of both accuracy and robustness [57,58]. When it comes to the LBM community,
+in (a) a 4C,N, + O, and (6) a N,O
+Medium, respectively, in a Tube 1-3 ems. internal diameter. The interest of these two photographs lies in the fact of their both showing signs of
 
-despite the tremendous number of numerical validations of collision models that have been : =
-published up to now, only a few of them rely on the LSA [7-9,11,16,59-78].
+a “spinning head” in the flame-front just before the latter ceased to be visible at forward
+flame-speeds of approximately 1,400 metres per second. No. 31.—Bursting of a Detonator (d.) in Air in a Tube of 1-3 ems. internal diameter.

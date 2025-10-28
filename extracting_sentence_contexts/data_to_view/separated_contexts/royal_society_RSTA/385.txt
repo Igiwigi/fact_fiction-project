@@ -1,31 +1,13 @@
-Stafford Smith et al. Table 1. An analysis of psychological strategies for responding to the prospects of severe climate
-change (after [26]).
-
-types strategies brief description
-denial active denial resolves cognitive dissonance by actively rejecting
-strategies scientific claims
-casual denial avoiding exposure to and dismissing uncomfortable
-
-facts with the assistance of narratives about
-
-scientific uncertainty or errors
-
-maladaptive reinterpreting the threat by making its scale seem smaller or its timeframe
-coping distant, people ‘de-problematize’ the threat
-strategies diversionary strategies appropriate thoughts and actions are displaced by
-positive but trivial actions (such as installing
-low-energy light bulbs) or by pleasure-seeking
-blame-shifting responsibility is disavowed by blaming others for the
-problem. For example, China has become a popular
-scapegoat for global warming
-indifference strategies deliberate apathy can reduce short-term pressures but
-may exact a heavy psychological toll
-‘benign fictions’ lead us to predict what we would
-optimism/wishful prefer to see. Such unrealistic optimism becomes
-thinking maladaptive when healthy illusions refuse to
-respond to external evidence and become delusions
-
-unrealist:
-
-adaptive expressing and feelings of anger, despair and hopelessness are natural
-coping controlling emotions in the circumstances.
+polated linearly in .@} for other values. This is certainly not accurate, but even if slightly
+incorrect values of the quantities (16-4) are used the only result is that a few more trial
+solutions have to be made before the criterion given by the sign of (16-3) is satisfied, and even
+ifsix trials have to be made instead of two, this only adds 2 min. to the total time of obtaining
+a final solution, whereas evaluating the quantities (16-4) from three (or five) preliminary
+solutions for each value of .@?, and punching and verifying a card for supplying these data
+to the machine would take longer than this, and the alternative process of working out an
+addition to the machine set-up to evaluate the quantities (16-4) from such a set of solutions
+would take longer than the aggregate time taken by the few additional solutions needed on
+account of the use of inaccurate values of the quantities (16-4). So the apparently crude use
+of approximate values of the quantities (16-4) is in fact the most efficient. This, of course,
+is a result of the high computing speed of the ENIAC and the short time which it takes to
+evaluate a single trial solution. An example of the results of this process is shown in table 1.

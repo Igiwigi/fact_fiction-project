@@ -1,31 +1,10 @@
-Using Gauss’ identity
+This figure is of use for observing what lines intersect, or do not intersect, the
+sides of.a closed quadrilateral, pentagon, or hexagon, such as are formed by the
+lines numbered 26, 17, 1, 19; 16, 23, 26, 17, 1, and 2, 3, 10, 11, 9, 4 respectively. * It has been remarked as an omission in this paper that the fact that these twelve lines form a
+“double six” is nowhere stated. GENERAL EQUATION OF A CUBIC SURFACE
 
-I'(c)'(c—a-—b)
+39
 
-cola R(c—-a—
-2F\(a,b;c;1)= Fe-br(enby’ R(c -—a—b)>0, (5.19)
-we thus have, on simplifying,
-x k ji 2-2 P(k-+ E(k + 3/2) (520)
-j=2leven i) G/2=DG/2414 DE Pk= 214 DP k/2 +24 DF(K/24+3/24+) :
-
-Applying the Legendre duplication formula, ['(2z) = 277-!a—-"/? r(z)'(z + 4) we can simplify
-both the numerator (with z=k + 1) and denominator (with z = k/2 + 3 +1) to get
-
-2 2k+1
-——_— : 21
-ae (ta) 6.21)
-
-Returning to (5.15), we thus have the following theorem:
-
-Theorem 5.1. Let p > 3 be prime. Then
-
-1 1 \F 2 foe a) WP! fog a) 21+ 1) trar42(Tp) + 1)
-oe L(= = -2) 5.22)
-1 » ( 1x0) ( _ THI
-PHP Sa, \2 k+2\ k & \k-2) (k + 21+ 2)p
-
-The fact that our final formula for the moments (in the d=3 case) can be expressed so
-cleanly and succinctly suggests that an alternate point of view should exist that produces the
-same formula more directly. Indeed, A Diaconu & V Pasol (2014, personal communication) have
-derived an equivalent formula using multiple Dirichlet series over finite fields, though perhaps a
-simpler approach can be found. We list the first 10 moments in table 22.
+Ficure A.
+2 aes +46 7 8 9 1011 1218 14 15 16 1718 19 20 2122 23 24 25 26 27
+* * * . " * - » bs *

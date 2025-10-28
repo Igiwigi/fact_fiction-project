@@ -1,27 +1,14 @@
-To ease notation in the subsequent computations, we define the mean depth (cf. [2]) of system
-(3.4) as the ratio between the mass flux and the wave speed,
-
-m
-hes z (3.6)
-and the wavenumber as
-20
-kis TT (3.7)
-
-for the wave period L. Equation (3.4a) is equivalent to the incompressible Euler equations for an irrotational fluid,
-while equation (3.4b) expresses that the velocity field at the free surface is purely tangential
-(kinematic boundary condition). Equation (3.4c) is equivalent to the constant pressure constraint
-at the free surface (dynamic boundary condition), while equation (3.4d) reflects the fact that the
-velocity field is purely tangential at the flat bed. In [2], it has been proved that system (3.4) is equivalent to the following one-dimensional
-pseudo-differential equation:
-
-w I
-MC (w") = Zt Polwei(w’)] + Cynlwr'), (3.8)
-
-for an unknown function w€ im o” as well as an unknown constant h. Here, Cy, is the Fourier
-
-multiplier defined in (2.23), h is the mean depth (3.6), k is the wavenumber (3.7) and
-
-—2gh
-pi 28h (3.9)
-&
-is a parameter measuring the total energy of the wave.
+Slight variants (not considered here) can
+be given to the concept by varying the properties of the essential relation, so as to
+make the geometry non-Euclidean, or, retaining Euclidean geometry, so as to give
+various forms to the essential relation and the resulting axioms. In the exposition of
+a system of geometrical axioms for Concept I., VEBLEN’s memoir (ef. loc. cit.), to
+which I am largely indebted, will be followed. The changes which are made from
+VeBLEN’s treatment are (i) in the addition of the symbolism which emphasizes the
+idea of the essential relation, and (ii) in the fact that the question of the independence
+of axioms is here ignored, through a desire not to overload this memoir with
+difficulties (both for the author and reader) belonging to another part of the subject. As the result of (ii), some of VEBLEN’s definitions and axioms have been simplified
+(and, in a sense, spoiled). The axioms thus obtained for Concept I. will shorten our
+investigations of other concepts by serving as a standard of comparison to determine
+whether the axioms of the other concepts are sufficient to yield three-dimensional
+Euclidean geometry.

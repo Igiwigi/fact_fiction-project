@@ -1,18 +1,9 @@
-A particularly simple way to estimate the model
-is to first compute the innovation process of x(f) by fitting a VAR on it, and then do basic ICA on
-those innovations, i.e. the residuals [54]. (See also HyWarinen et al. [19] for a related method based
-on fitting ICA on the residuals of a VAR model.)
-
-Alternatively, we can assume that the components s;(t) are independent in a certain frequency
-band only. If the frequency band is known a priori, we can just temporally filter the data to
-concentrate on that frequency band. In fact, linear temporal filtering does not change the validity
-of the linear mixing model, nor does it change the mixing matrix. Furthermore, an optimal
-frequency band can be estimated from the data as well [57]. A different framework of dependent components in time series was proposed by Lahat
-et al. [58], combining the idea of independent subspaces discussed earlier with suitable
-non-stationarities.
-
-
-(d) Further models of dependencies
-
-A model in which the components are linearly correlated (without considering any time structure)
-was proposed by Sasaki et al. [59].
+They there-
+fore appear as a load on the crust, and the calculated value of gravity is increased by nearly
+100 mgals locally. Since no such anomalies are observed the region must be very nearly in
+isostatic equilibrium. This agrees well with the known facts concerning the Fennoscandian
+uplift. Niskanen (1939, 1943) and Meinesz (1937) have reviewed the available data, and the
+latter concludes that for a linear structure such as the continental shelf, 7, the time taken to
+return half-way to the equilibrium position, and /, the linear dimensions perpendicular to
+the axis, are connected by the relation Jr=15 x 106 km, years. Taking /=100 km., this gives
+T=1+5 x 10° years.

@@ -1,26 +1,19 @@
-It has been often urged that any objection which may have arisen as to the jden-
-tity of electricity and galvanism, was at once removed by the fact of a spark of the
-latter being capable of passing through space, or what is usually denominated the
-striking distance; and it argues little for the correctness of our experimental investi-
-gations, that such an important fact, (although perhaps until it is more satisfactorily
-proved it can scarcely be assumed as a fact,) one apparently s0 easy of confirmation,
-Sshould rest on one or two doubtful and isolated experiments. Although I must con-
-sider that Professor DaxigLL laboured under some error when he describes the dis-
-charge passing in the form of a spark (8.) when the cells were approximated, yet I
-cannot but feel that it will be with the aid, and through the principles of this philo-
-sopher's scientific apparatus, which he has so appropriately denominated the constant
-battery, that the true principles of voltaic action will be correctly ascertained. There
-is already one fact which was obtained with the 160 pairs (10.) which cannot, I be-
-lieve, be satisfactorily accounted for by any of the existing theories. TI allude to the
-remarkable heating of the positive electrode two inches beyond the part where the
-circuit was completed*,
++1908 | +0092 | —0:321 | 55 | +2-070 | —0-070 | —0:150
+2-7 | +1:719 | +0-281 | —0-120 ||
+28 | +1-744 | +0-256 | +0-153 | & |+2-000 | 0-000 | 0-000
 
-Before I conclude, I should wish it to be distinctly understood that I offer no opinion
-as to the possibility of obtaining the striking distance or spark before contact ; I
-merely present an account of those experiments which have been made by me to ob-
-tain it. That according to the present theoretical views of the action of the voltaic
-battery, with the apparatus I used, it onght to have taken place, I think most persons
-will acknowledge ; and also, that if by still more powerful apparatus it cannot be pro-
-dnced, the theory must in s0me way or other be incorrect.
+|
 
-* Transactions of the Electrical Society, Part I. p. 65.
+For negative values of s, the numerical values of A(s), D(s), and
+E(s) are the same as for the equal positive values of 8: the signs of
+A(s) and D(s) are the same for the positiye and negative values of s,
+but the signs of E (s) are different. AN APPARENT NEW POLARITY IN LIGHT, 233
+
+The first remark which presents itself, in looking at this table, is, that the numbers
+D (s) and E (s) increase and diminish, and then change signs and increase and
+diminish, with increasing values of s; that the maximum of one always coincides
+nearly with the vanishing point of the other ; and that the maximum values are nearly
+equal in both series (regard being had to the general diminution of the numbers as
+5 increases) ; in fact, that these numbers may be represented as the cosine and sine
+of the same arc, the radius being slowly variable. To prove this, let ns make D (s) = G(s).cos © (s), E(s) = G(s) sin © (s), and investigate the values of G (s) and
+© (s) for every value of s in the Table.

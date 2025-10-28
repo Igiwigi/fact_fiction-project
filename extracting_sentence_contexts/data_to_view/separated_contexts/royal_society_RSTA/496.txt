@@ -1,20 +1,26 @@
-The (Doppler-shifted) physical frequencies
-are indicated as coloured vertical lines on the frequency scale. Here f(res) = Vsw.S2q/(V_ + Vin) (purple) is the parallel (to B)
-cyclotron wave resonance as described in Bruno & Trenchi [42], where £2, is the proton cyclotron frequency, Va is the Alfvén
-speed and Vj is the thermal speed parallel to B; f(d) = Vsw S2pi /c (blue) is the proton inertial length, where S2,; is the proton
-plasma frequency; toy = Vsw 2a /Vin (red) is the proton gyroradius; and f(cy) = S2<(1 + Vsw/Va) (green) is the Doppler-
-shifted proton cyclotron frequency.
+F Cr, —#)s)
+D(r,+4)—El,—n) and E(r,+4)—D(r,—p), |
+and the further condition that the last two of the coefficients (145) are equal require that
+Di=£.
+Now the condition that X,; be symmetrical in its indices is (cf. equation (47))
 
-spacecraft (cf. figure 1). The dissipation range should be characterized by a steepening of the
-power spectrum and, often, a change in the polarization or magnetic helicity spectrum of the
-magnetic fluctuations [43].3 Whether or not the break seen at these proton scales actually reflects
-dissipation is difficult to determine despite the fact that, at these scales and smaller, kinetic effects
-are expected to couple the fluctuations to the background plasma, removing magnetic energy and
-thus heating the background plasma. Cyclotron damping and/or Landau damping may well be
-important, but dispersion due to finite Larmor radius effects, as reflected in either Hall MHD or
-gyrokinetic treatments [45], also leads to spectral breaks at these same ion scales. (For related ideas
-on the relationship between plasma distribution functions and dissipation, the reader is referred
-to [46-48].) It is clear, however, that to determine the physics of what is actually happening will
-require more and higher-time-resolution data in addition to detailed analyses. Analysis of Wind data by Leamon et al. [40] showed that interplanetary turbulence
-consisting solely of parallel-propagating waves, such as Alfvén waves, was inconsistent with
-the observations.
+(145)
+
+in D,o;. (146)
+Substituting for , and 7; according to equations (139) in equation (146), we find that
+(°D,-+- ED, +4) 55+ (uD, +-D,) 5 = D,s—D, sy (147)
+
+With equation (147) satisfied, the two defining scalars of X;; are o, and o; and the defining
+scalars of S;., then, are Sy = 0,(r, +4) +0,(r,—p)
+
+ij?
+; (148)
+and Sy = 0(7, +4) +09(7,—p). THEORY OF AXISYMMETRIC TURBULENCE 577
+
+The vanishing of the trace of §,;, which was assumed in § 9 (equation (127)), follows from
+
+the fact that in any homogeneous turbulence 7;, must vanish at the origin and that, therefore, [Sil--0 = 2LPil-=05 (149)
+and that this last vanishes, follows directly from the representation of P, in terms of a.
+
+It is worthy of notice here that according to the formulae we have given for the defining
+scalars of S;; (cf. equations (122)) (Si)-=0 = 00

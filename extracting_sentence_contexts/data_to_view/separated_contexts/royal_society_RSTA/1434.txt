@@ -1,10 +1,13 @@
-By their nature, multiscale models are composed of individual at-scale (or single scale) model
-components. Each at-scale component is frequently a complex parallel software developed over
-many years. This fact has motivated a shift away from monolithic approaches to multiscale
-model development and towards more heterogeneous component-based approaches, capable of
-incorporating existing at-scale models with minimal software modifications. One such approach,
-the cooperative parallelism programming model, is a task-based multiple-program multiple-
+This gave my second method. As the results of the first method were interesting, I give
+both methods below. On doing the work I was puzzled by the fact that the equation first found suggested a
+period obviously too short. A little consideration suggested that this was probably
+due to the presence of superposed fluctuations: as already noted, the graph of sunspot
+numbers suggests the presence of minor irregularities due to this cause, notwithstanding
 
-data approach to parallel programming [9]. In cooperative parallelism, single unit computation : =
-tasks named symponents (a portmanteau of simulation and component) are executed by a : =
-runtime system.
+2-1)
+
+
+274 G. UDNY YULE: METHOD OF INVESTIGATING PERIODICITIES IN DISTURBED
+
+that a certain amount of smoothing has already been introduced by employing the
+annual average and not the monthly numbers.

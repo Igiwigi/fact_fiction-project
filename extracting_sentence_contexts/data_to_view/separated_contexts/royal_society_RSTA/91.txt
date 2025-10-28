@@ -1,25 +1,10 @@
-Moreover, as done in the proof of theorem 3.3, we can associate with each
-of these controls a sequence of solutions ¢y(t) = (yn(t), wn (6), MN (E)) == (Yn (t), WN (E), Xn (b), UN (E))
-
-of (5.4) uniformly convergent to a solution ¢,(t) = (y.(t),w.(#), ux(#)) of (5.2) in the sense of : >
-definition 3.1 with control u*. In order to conclude that u* is an optimal control for (5.4), we |
-need to show that it is actually a minimizer of F. For that, we use the fact that F is the -limit of : S
-the sequence (Fy)Newn as proved in theorem 5.3. Let u € X be an arbitrary control and let (11y)Nen : 3
-be a recovery sequence given by the I’ — limsup condition, so that a
-F(u) = lim sup Fy (un). (5.13)
-N00
-
-By using now the optimality of (uy))Nen
-
-lim sup Fy (uy) = lim sup Fy (uy) = lim inf Fy (uy). (5.14)
-N00 N00 N-0o
-
-Applying the  — lim inf condition yields
-lim inf Fy(uyy) = F(u*). (5.15)
-Noo
-By chaining the inequalities (5.13)-(5.15), we eventually obtain that
-F(u)>F(u*), for allue xX,
-or that u* is an optimal control. a
-
-Remark 5.5. Observe that the previous result does not state uniqueness of the optimal control
-for the infinite-dimensional problem.
+This effect may be explained on the basis of the range-
+velocity relation for heavy ions derived by Bohr (1941) ; this shows that the specific ionization
+decreases with decreasing velocity over the greater part of the trajectory before rising to
+a sharp maximum at very low velocities. This maximum, however, is concentrated within
+a very short distance, of the order of the mean diameter of the grains in a photographic plate,
+and its effect is therefore not normally evident in the Ilford plates. The general decrease of
+specific ionization with decreasing velocity does, on the other hand, account for the fact
+that, in strongly desensitized plates, the latter parts of the fragment tracks are not recorded,
+since the density of ionization is insufficient to render the grains developable. The observed
+mean range under these conditions is, therefore, less than the true mean range of the fragments. 3.

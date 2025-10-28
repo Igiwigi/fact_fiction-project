@@ -1,20 +1,6 @@
-A (2010)
+om)
 
-
-Supporting the eep via text mining 3837
-
-In figure 2, the numbers shown on branches other than Teachers and staff
-correspond to documents that are assigned multiple labels, i.e. a label from the
-Teachers and staff branch as well as a label from one or more other branches of
-the taxonomy. This facilitates rapid location of very specific sets of documents. For example, documents that concern behavioural problems in the classroom can
-easily be located by selecting those documents that are classified under both Care,
-welfare and behaviour and Teachers and staff.
-
-(b) Machine-learning methods for document classification
-
-Owing to the large number of documents in the eep database, and the fact that
-more documents are being added all the time, it is not a practical solution for
-all documents to be classified manually. Rather, we have used machine-learning
-methods to perform automatic classification of the documents in the database. As a starting point, domain experts assigned appropriate (and mostly multiple)
-categories to 2157 documents, thus providing a gold-standard corpus by which
-to evaluate the performance of machine-learned classifiers.
+which—in conjunction with the boundary conditions imposed on w—would serve to
+determine w if y were known. 4. In fact neither y nor w is known initially, so both must be deduced from (6)
+and (10) combined with the imposed boundary conditions. These are von Karman’s
+equations (§ 2). When the boundary values of u and v are specified, introduction of y is less convenient.

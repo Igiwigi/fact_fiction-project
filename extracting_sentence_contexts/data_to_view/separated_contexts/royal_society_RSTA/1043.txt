@@ -1,10 +1,12 @@
-These two propagation steps (electron and nuclear)
-are computed consistently using a third-order Runge-Kutta algorithm [27,28]. Owing to the
-nature of the process, the ultrafast time scales and the computational costs of the simulation, a
-single Ehrenfest trajectory was computed for each initial condition (nuclear coordinates, velocities
-and pulse shape). In fact, during the time window of the experiments (and corresponding
-simulations), we observe large electronic rearrangements while the nuclear motion, even though
-important because it can couple to the electronic dynamics, is mostly ballistic and therefore well
-approximated by a single trajectory. It is important to note that despite the use of a plane-wave
-basis set, the implementation of the Ehrenfest MD approach does not differ from the ‘traditional’
-one based on a localized basis set. For more technical details, see [28-30].
+The platinum temperatures
+obtained from the readings of T, and T, had to be corrected by — 0-012° Pt., of which
+—0-010° Pt. was due to the difference in the heating effect of a current of 0-004-amp. on the thermometer wire under the conditions of calibration in the bath of stirred
+water and under the conditions of use in the stirred air of the apparatus enclosure. The additional correction of — 0-002° Pt. arises from the fact that a comparison at
+50° C. of the indications of T, and T, with those of standard thermometers of known 3
+showed that the value of 5 for T, and T, was somewhat higher than that for 0. A
+correction of — 0-002° Pt. is sufficient to adjust this difference at 20° C. Platinum
+temperatures were corrected to values in terms of degrees Centigrade on the Inter-
+national Temperature Scale by means of a conversion table, based on the usual formula
+(t — ty) = 5.t ((— 100) 104 for a value of 3 = 1-500, which was supplied by the
+Physics Department of the Laboratory. Readings of the barometer gauge and its associated thermometers are shown in the
+section of Table XIX devoted to pressure measurements.

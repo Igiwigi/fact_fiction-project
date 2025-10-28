@@ -1,54 +1,19 @@
-We have the following:
+An empirical formula representing the first two series was calculated in the first
+instance by the method of least squares. This method was adopted by WOLLNER
+and Brocu in reducing ReGNautt’s observations, and was fairly appropriate in that
+case, because the main source of error lay in measuring the small difference of level
+in the gauge. In the present series of experiments, the fact that the difference of
 
-a) limg-o0 g~ 4s" Tstable — HSp (q-1/2
-& q nq in J
-(b) limg+oo qe Tunstable =0. Proof. For the first statement, we compute > ay
 
-L(2g—2)/3] oi Lo
-i gn—i :
+ON THE ABSOLUTE EXPANSION OF MERCURY, 23
 
-lim qu’se > (-1)'Tr(Frob, Rect’ (Mg nz, Qe) 1S
-
-i=0 aS
-
-Ug-1)/3} 5 3
-
-= li -i. di ae)
-
-im > q/-dimR; 8
-
-j=0 [5
-
-lim qndenTstable —
-goood ging = A
-
-boss .
-= Ya dim R7.
-j=0
-
-Using the Hilbert series of Rn, we may then rewrite the above sum as
-
-=HSr,(q_“)
-
-Note that we use the fact (from theorem 3.3) that for 0 <i < (2g — 2)/3, we have
-
-i w prden-i
-in = Ry @Q Qe = Reet” (My n,z,7 Qe)-
-
-For the second part, we let P(z) be the generating function for the partition numbers p(j), and
-let Q(z) :=>¢ (ai be the generating function whose jth coefficient is the number of multisets
-of size j on n elements. Then
-
-HS, (2) = Qn(2*)P(2’). In particular
-
-dim R2 = y (" + dz ) pli —j) <exp (envi). (4.2)
-
-jo \ J
-
-Since Root Ment, Qo) is defined in terms of the image of a map from R, to cohomology, we
-further obtain
-
-«den —2i ;
-dim Reet (Mgng Qe) < exp (envi). (4.3)
-
-Of course, when i is odd this group is zero-dimensional.
+level in the gauge could not be read nearer than 0°001 em. was an important limitation
+of accuracy at low temperatures, when the difference of level was small. But at
+temperatures between 200° C. and 300° C., where the difference of level was 40 to
+60 em., the possible errors in the measurement of the length and temperature of the
+hot columns became more important, and the order of accuracy was limited in a
+different way, namely, as a fraction of the whole quantity measured. For low
+temperatures, the differences between the observed and calculated values of the
+expansion itself were the best criterion of accuracy ; but for high temperatures, the
+corresponding differences between the observed and calculated values of the coefficient
+of expansion appeared to be a better guide in the selection of an equation.

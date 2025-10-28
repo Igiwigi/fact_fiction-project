@@ -1,11 +1,12 @@
-In the OP, the ‘physical properties’ are associated with measurements instead of
-single effects, whereas ‘contexts’ are identified with joint measurements of them. This approach includes, in particular, the Bell scenario [1], in which this structure is clear. In
-fact, in a Bell test, the goal is to measure correlations between different measurements performed
-on two parts of an entangled system and located in two space-like separated regions. The typical example of such correlations is given by the Clauser-Horne-Shimony-Holt
-(CHSH) expression with the corresponding classical bound, i.e. the CHSH inequality [25]
+This is easily done in a few trials by successive
+approximation, and values for Lp: Lg:Ly, are obtained in the process which give
+an exact luminosity summation to the assumed visibility curve. But these luminosity
+factors may be quite fictitious, and may not represent the proportions by luminosity,
+in which the three primaries have to be combined to match white. ‘This is especially
 
-(A1B1) + (A1B2) + (A2Bi) — (A2B2) < 2, (3.5)
-
-where A; is a measurement with +1 outcomes, denoted as a;, and similarly for B;, and one defines
-(AjBj) = aba] a;bjProb(aj, bj). In each round of the experiment, a measurement on Alice’s system, say Aj, and a measurement
-on Bob’s system, say Bj, are performed (figure 2a).
+the case with the blue primary. Owing to the relatively low luminosity of this primary
+as compared with the red and green, and the manner in which the positive and negative
+values of these two primaries appear in the blue and violet region of the spectrum, a
+small error, either in the trichromatic coefficients in this neighbourhood, or in the
+assumed visibility curve in the neighbourhood, may make a large difference in the value
+of Ly which is required to give the desired luminosity summation.

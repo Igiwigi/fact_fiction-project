@@ -1,10 +1,15 @@
-Both topologies have their disadvantages: On one hand, the norm topology is too
-strong to reflect the properties of X. On the other hand, equipping C,(X) with the compact-open
-topology generally does not yield a complete topological vector space. In fact, C},(X) is dense in
-the space C(X) of all continuous complex-valued functions on X with respect to the compact-open
+In order that a lightning discharge may begin, it is clear that the electric force
+must somewhere exceed the sparking limit, which amounts at the ordinary
+atmospheric pressure to about 100 electro-static units or 3,000,000 volts per metre ; it
+is not necessary that the electric force along the whole length of the path of discharge
+should previously have approached the sparking limit. As Larmor has pointed out,*
+if we suppose that an initial discharge occurs along a narrow line of length
+equal to the distance (possibly very small) over which the sparking value of the
+electric force was originally exceeded, and that this approximately equalises the
+potential along its path, there will be concentration of charge and intense local fields
+at the ends of this line; the discharge will thus be lengthened. The conditions are
+in fact momentarily much the same as if a conducting wire were placed along the
+path of this initial discharge. ‘The maximum value of the electric force at the ends
+of the conducting track of the initial discharge will thus greatly exceed the critical
 
-1Some authors use the term semi-dynamical system for obvious reasons.
-
-
-topology. In order to circumvent these problems we ‘mix’ the two topologies. We refer to [24,25]
-for an introduction to locally convex topologies.
+* Sir Joseru Larmor and J. 8.

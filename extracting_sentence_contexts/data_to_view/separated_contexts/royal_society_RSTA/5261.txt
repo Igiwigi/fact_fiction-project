@@ -1,10 +1,7 @@
-Also shown in figure 1 is the value of the steady-state dissipation rate h - fr, which is also the
-upper bound for the dissipation rate in any flow, and the numerical estimate of & computed
-by simulating the system (3.2) from random initial conditions and taking the time average of &
-over a suitably long interval. The numerical estimates use the average of 20 simulations at each
-Reynolds number. While the background-flow method introduced in [40] appears to be rather different from
-the analysis here, in fact it is equivalent, up to the reduction to a finite-dimensional case, to
-selecting in our approach V = p2. Because every positive-definite polynomial of a second degree
-can be represented as an SOS, our result for a second-degree polynomial V produces the best
-bound obtainable by the background-flow method applied to this finite-dimensional system. Comparing the results for the second-degree and higher-degree polynomials, one can judge the
-potential improvement in the bound owing to the change in degree.
+246 MR. G. T. BENNETT ON THE RESIDUES OF POWERS OF NUMBERS
+
+PART IL—ON THE RESIDUES OF POWERS OF NUMBERS FOR ANY MODULUS,
+COMPOSITE AND COMPLEX. In order to maintain as far as possible the parallelism of Parts I. and II. a number
+of facts and relations peculiar to complex numbers are noted (most without proof) in
+the following Preface to Part II. Prerace To Part II. Complex primes.—i.c., numbers either real or complex which have no real or complex
+factors.

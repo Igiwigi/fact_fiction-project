@@ -1,10 +1,8 @@
-Conditional regularity
-
-Strong solutions have many good properties in addition to their uniqueness. For example, if a
-solution is strong on [0, T], i.e. once we know that the enstrophy is finite for all t € [0, T], then the
-solution is actually smooth for all t € (0,T], so for all 0 <t < T the equations are satisfied in the
-classical sense (see Theorem 10.6 in [4], Ch. 7 of [5], or Section 6 in [3]). In fact, in the periodic
-case, such a solution is even analytic, see [25]. This motivates the search for other ‘conditional’ regularity results: given a weak solution u
-starting from smooth initial data, what additional properties will ensure that it is in fact a smooth
-solution? The statement that a strong solution is smooth can be interpreted in this light, where the
-‘additional property’ of the weak solution is that its enstrophy is bounded.
+As we pass over the surface of
+the root, the pressure undergoes finite variations and these variations yield a finite
+resultant, capable of balancing finite applied forces. We find, in the course of the
+investigation, that the displacement of the tooth, as a result of the application of finite
+forces, is very small indeed, varying as the cube of the thickness of the membrane. This fact gives additional weight to the present theory, as explaining the tightness of
+the teeth, for, if the membrane were a compressible elastic body. we would find the
+displacement of the tooth directly proportional to the thickness of the membrane. Moreover, the present theory assigns a rapid increase in looseness with increase in the
+thickness of the membrane.

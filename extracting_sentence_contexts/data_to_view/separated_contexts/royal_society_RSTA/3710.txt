@@ -1,16 +1,11 @@
-The
-frequency range considered includes the octave band with centre frequency 2 kHz. For reasons of
-computational efficiency, the very time-consuming sound propagation calculations for the 2kHz
-octave band were not performed (and the 1 kHz band results were recycled). This is justified by
-the fact that atmospheric absorption becomes pronounced at these higher frequencies and source
-power levels start to drop; a more accurate assessment of the propagation at this band would,
-therefore, only slightly increase accuracy when assessing total noise exposure levels from the
-wind turbine.
-
-
-6. Conclusion
-
-A hybrid analytical-CM-GFPE methodology is presented to model sound propagation from a
-ridge-mounted wind turbine, represented here by an elevated point source above the ridge, across
-an adjacent valley. The hybrid method relies on an analytical solution for sound diffraction around
-an impedance cylinder and the CM-GFPE technique.
+| [Added May 28th, 1902.—H.T.B. The comparative failure of my attempts to
+obtain consistent results in the experiments carried out previous to my discovery of
+the effect of stream-line motion on the distribution of heat in the fine bore flow-tube,
+appears to me to have been largely due to the fact that the stranded conductor was
+in nearly all cases annealed before being inserted in the calorimeter. This caused
+the different strands to lie together more in the nature of a solid conductor. It is
+probable that better results would have been obtained in these early experiments
+had the wires been stiffer, the flow-tube smaller, and had it been possible to
+distribute the strands more thoroughly in the water column, and at the same time to
+prevent them from changing their relative position in the tube between the
+experiments.

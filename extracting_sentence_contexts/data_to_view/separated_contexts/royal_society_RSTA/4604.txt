@@ -1,13 +1,14 @@
-More serious is the unfortunate aed
-fact that they are typically large and can be larger than the SGS terms. The ultimate factor 22
-contributing to the solution morphology is not only these physical transport terms and the : Ss
-numerically based turbulent transport terms, but their dimensionless ratios, such as the Schmidt : s
-number Sc = v/D, where v is the viscosity and D is the species diffusion, with a similar definition : s
-for the dimensionless Prandtl number Pr governing thermal diffusion. The numerical problem 18
+Methyl isobutyrate follows the general rule
+in giving a smaller value than the methyl butyrate. Values for ether oxygen at temperatures of equal slope have been calculated using
+the values given in our previous paper for CH, and carbonyl oxygen, but it is evident
+that the values afforded by the esters are not independent of molecular weight, as
+they diminish, without exception, as any series of esters is ascended. Moreover, it
+is not possible to allow for the fact already noted that the molecular viscosity of an
+isomeric ester is the smaller the more nearly the number of carbon atoms in the
+acid radicle approximates to the number in the alcohol radicle. The main result,
+however, comes out as clearly as in the first condition of comparison that ether
+oxygen has invariably an effect on molecular viscosity widely different from the
+effects of hydroxyl oxygen and carbonyl oxygen. ‘Thus, in the case of molecular
+viscosity, the values obtained were—
 
-arises from the fact that the dimensionless ratio of combined effects transport (physical, or
-molecular, turbulent or grid dependent; and numerical, or algorithmic dependent) is typically
-perturbed by the numerical truncation error contribution, and due to the sign restriction on the
-SGS turbulent transport term, this error cannot be compensated for by adjusting its coefficient. Thus, we see that the SGS terms only address one half of the physics-based non-uniqueness. The other half is addressed by a high-quality numerical algorithm, which minimizes numerical
-error, especially in the equations where it is typically the largest: thermal and concentration
-diffusion.
+Hydroxyl oxygen . . . . .

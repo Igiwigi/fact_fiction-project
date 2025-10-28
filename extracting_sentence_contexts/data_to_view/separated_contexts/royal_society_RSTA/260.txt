@@ -1,7 +1,42 @@
-But the
-reliability steadily decreases in this scenario as this type of additive DBS increases in the model,
-as too much inhibition shuts off the TC cells. We find no inference that such open-loop stimulation
-is going to be as effective as an intelligent adaptive approach as illustrated in figure 15a. MT fact, Julier & Uhlmann (1997a) had an adjustable inflation parameter that they required to
-tune their original unscented filter. As in so many of these recursive filter designs, there is a trade-off
-between tracking accuracy versus stability with greater uncertainty. One also needs to counter the
-tendency of these filters to recursively drive the uncertainty to zero, which ruins tracking ability.
+we reduce the governing
+equation to
+
+Viw = 1, (48)
+and the boundary conditions to
+dw 0
+55 = % 5p on the edgesx =+4, y=+4, (49)
+
+when the origin is situated at the centre of the plate. x, y and w are now purely numerical
+(they are the quantities which in (28) and (3 A) were denoted by x’, y’, w’).
+
+34. On account of symmetry only one quarter of the plate need be considered, and
+further simplification comes from the fact that the boundaries are straight lines
+containing rows of nodal points. By displacing simultaneously, and through equal
+distances, a nodal point adjacent to the straight boundary and its image point with respect
+to that boundary we automatically satisfy the condition dw/dv = 0.
+
+
+METHODS APPLIED
+
+TO ENGINEERING PROBLEMS
+
+¢ ls4 . ral
+
+101d
+
+S55
+xKKS
+
+Ficure 18
+
+Ce,
+KES
+
+Ficure 19
+
+447
+
+
+448 L. FOX AND R. V. SOUTHWELL ON RELAXATION
+
+To eliminate decimals all forces and displacements were multiplied by 10°.

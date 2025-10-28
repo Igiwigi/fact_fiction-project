@@ -1,22 +1,10 @@
-By convexity, we can ignore the convex mixture of different machines, i.e.
-on yz in equation (5.8), and choose a fixed pure state 7, e.g. xt =(1,0,...,0). Moreover, since we
-are limited to sequences of length two, for any strategy, i.e. initial state 7 and transition matrices
-{T(a|x)}a,x, one can obtain the same value of Bs with a measure-and-prepare strategy. In fact, T(a|x)
-can be substitute with the measurement of the effect vector fa) = T(a|x)n and a preparation of the
-state m*T(a|x)/(2*falx). The expression can, then, be further simplified to depend quadratically
-only on two parameters, corresponding to the effect fojo and finally solved analytically (cf. the
-study of Budroni et al. [17] for details). We obtain
-
-Qrit = F- (5.20)
-
-Moreover, an optimal machine is given by the initial state xt* = (1,0) and the transition matrices
-
-_ {3 0 _({% 0 _ (0 1\_ +
-ro0=(} :): ra=(§ ) and ran=(j \) =Tow. (5.21)
-
-Notice that the solution is not unique.
-
-
-(ii) Qubit
-The quantum case can be similarly simplified by using AoT conditions, convexity arguments and
-measure-and-prepare strategies.
+An examination of the table in § 2 shows that these predictions are largely confirmed
+by the experimental values. ‘Two notable exceptions occur, however: these are
+(1) while the values of yy are, as we expected, rather large (in one case 0-836), the
+values of oyy are considerably smaller ; (2) the values of o;», which according to our
+model should be nearly equal to o for an isotropic substance, are generally somewhat
+larger. Another fact which the model does not explain is that Ey, is always greater than Ey,
+We shallnow attempt to show that a reason for these facts is to be found in the existence
+of the medullary rays. §5. The Medullary Rays.—We have already remarked that those wood-cells which
+are not arranged longitudinally are grouped into bundles extending radially, called the
+medullary rays.

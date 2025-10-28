@@ -1,6 +1,11 @@
-Figure 8 shows two SPAD
-implementations, where the guard ring was ineffective (figure 8a,c) and effective (figure 8b,d)
-to prevent PEB. A technique called light emission test (LET) enables one to visualize the location of avalanches
-occurring in a period of time. The technique uses the fact that impact ionization generates
-photons, with a certain probability, and thus avalanche discharges can be optically identified. Figure 8 shows an LET on two different devices in which PEB suppression was, respectively,
-unsuccessful and successful. Several techniques exist to implement PEB prevention.
+Their values for the electric part of the
+coefficients agree with ours, but there is a difference in the constants A and B which is
+due to the repulsive forces. These authors obtain for A: 10-606, B: 1-073 (cf. (6-4)). This is due to the fact that they use the repulsive potential of Born and Mayer (1932)
+for the calculation of these constants, thus neglecting the Van der Waals (London)
+forces, which are roughly included in our general expression:
+
+(3) p= (Pes py bz) bs =p; ok a (A Pos Ps)3 p = bo = bs
+
+Clearly, variation of the p; means moving along the main diagonal of the phase space. The following identities hold:
+
+=|, \={i 11) a be qe

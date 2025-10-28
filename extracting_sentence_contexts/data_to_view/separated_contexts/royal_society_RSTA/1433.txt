@@ -1,14 +1,10 @@
-Most of these forces display short-range singularities which
-are, in principle, a source of concern for the LB representation. However, for deformable particles, such singularities are allegedly regulated at the scale
-defined by the typical deformation length of the droplet, namely
-
-DZ
-
-6~
-E’
-
-where ¥ is the normal stress and E is the Young modulus of the droplet. In fact, most formal coarse-graining procedures would turn the singular lubrication force
-F(g) ~ 1/g into a smoothed version F5(g), recovering the 1/¢ decay at large separations g/5 >> 1
-and turning into a constant of order 1/6 in the short-range limit g/5 « 1. It is important to note that, regardless of the details of the coarse-graining procedure, for
-droplet diameters of the order of D ~ 100 1m, a mere 10% relative deformation implies 6 ~ 10 1m,
-hence well within the mesoscale regime suitable for LB modelling. Figure 2.
+But
+in the main the graph is wonderfully smooth, and its departures from true periodicity,
+which have troubled all previous analysts of the data, are precisely those found in fig. 2—
+great variation in amplitude and continual changes of phase. If this interpretation is correct, it seems desirable to break away from the periodogram
+method: the problem is, in fact, no longer one merely of determining the period, but
+also of determining the values of ¢, the “ disturbances,” as I term them for short. It is
+natural, then, to approach the problem from the standpoint of the equation relating
+U, tO U,_1, Uz», ete. Starting also, as I did, with the conception of periodogram analysis
+and harmonic periodicities in my mind, it was natural to assume an equation of the
+form (6), and an equation of corresponding form for two periodicities.

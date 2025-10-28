@@ -1,16 +1,16 @@
-The number of meteorological elements might be made to exceed even
-the longest series of crop records available, for the Rothamsted wheat records provide,
-after necessary deductions, only 60 yields. Consequently, if the computer were pro-
-vided not with yield data at all, but with an equal number of values composed at random,
-he would still be able to express them with perfect accuracy in terms of the weather
-records, for the number of unknowns available would exceed the number of equations
-for them to satisfy. It is of more practical importance that even when we have selected a number of
-meteorological variables which is less than the number of crops recorded, a strong
-semblance of dependence may be produced, even when fictitious data, unrelated to the
-weather, are substituted for the true crops. For let there be » values of the dependent
-variate y and n each of the q meteorological variates ,, #,, ...,2,. If now we obtain
-a partial regression equation
+The general distribution of rain through the year could, indeed, be roughly
+represented by dividing the period up into say 6 sections and recording the total rainfall
+in each period. If the rainfall were approximately evenly distributed in successive days
+or weeks, this method might indeed give a fairly accurate picture of the sequence of
+rainfall. But notoriously the rain is in fact often concentrated in short spells, with
 
-showing the apparent dependence of y upon a, ..., a,, then the correlation between
-y and Y, namely R, will be the multiple correlation of y with a, ... , x,, and will be
-greater than the correlation of y with any other linear function of 2,,...,a,.
+rainless periods intervening, consequently if March and April formed one section, a
+great part of the rain ascribed to that section might fall early in March in one year, and
+late in April in another, and it would be impossible to regard such falls as equivalent
+
+
+96 MR. R, A. FISHER ON THE INFLUENCE OF RAINFALL
+
+in their effects on the crop. . Whereas a late April fall might well be nearly equivalent
+to one occurring early in May. This consideration suggests that a finer subdivision of the year is necessary ; that
+months or even weeks should be treated separately.

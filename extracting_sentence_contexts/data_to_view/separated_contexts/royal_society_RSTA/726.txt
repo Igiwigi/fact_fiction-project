@@ -1,24 +1,18 @@
-Note that this overprediction is not unique to actuator disc |
+On the basis of the information which
+has been accumulated, however, I am of the opinion that the continued decline in the
+seismic activity and the simultaneous decrease in the rate of emission of gas from the
+Gages soufriére following the severe earthquake of 10 November 1935 suggest that
+the seismo-volcanic episode which has occurred in Montserrat in the past few years
+is now drawing to a close. The results strongly suggest that the dangerous strains in
+the earth’s crust in this region were relieved at least temporarily by the occurrence
+of this earthquake. These facts should not, however, be allowed to lead to a too easy optimism. On
+several occasions in the past, scientific expeditions have been made to the scene of
+disasters in these islands and reassuring reports have subsequently been issued on the
 
-models; also in actuator line models overpredictions in turbine power are observed, for which a as)
 
-heuristic blade tip correction is often applied [10,11]. :s
-Figure 14 illustrates Cp as a function of Ch, obtained from a steady-state actuator disc aS
+30 C. F. POWELL: ROYAL SOCIETY EXPEDITION
 
-under uniform inflow. The circle markers indicate simulation results with Cp = Ch for the same : a
-
-resolution employed for the cases in §3, and illustrate an overpredicted Cp. Consistent with the [8g
-
-fact that the overprediction in power is caused by an overestimation in disc velocity due to the :8
-
-diffuse rotor representation, the error increases for increasing Ch, since velocity gradients are :s
-
-higher for larger thrust forces. Although it is shown that this overprediction is diminished for
-
-higher grid resolutions (triangles), this is not a practical solution since present-day computational
-
-constraints do not allow optimal control simulations on finer grids. Therefore, a solution to this
-
-problem is to calibrate Cp based on a least-squares fit to results obtained from 1D momentum
-
-theory, yielding Cp = aC, with a = 0.9.
+basis of insufficient knowledge, with serious consequences. The earth’s crust in these
+regions should be regarded as a very delicately balanced structure, and a knowledge
+of those factors which determine its history will only be obtained by long-continued
+observations at a number of points in the island chain.

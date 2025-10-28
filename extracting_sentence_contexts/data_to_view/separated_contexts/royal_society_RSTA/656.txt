@@ -1,29 +1,16 @@
-Figure 4b shows a plot of the peak directionality as a function of the frequency, and for our glide
-waveguide the directionality peaks at 0.72 in the multi-mode region. Thus, the multi-mode slow-
-light regime of our glide waveguide design is not suitable for the exploitation of directional effects
+Exact wave functions for complex atoms cannot be derived, and the necessity of employing
+approximations such as those of Slater (1932), Hartree (1946~7) or Fock (1930) introduces
+uncertainties distinct from those inherent in the Born treatment. If y, and y, (in (26)) overlap considerably and are not too crudely represented, the
+additional error will in general be relatively unimportant. In some cases it may be worth
+taking advantage of the fact that by making use of the equations satisfied by the y’s the
+original formula may be transformed to
 
-n@) = (6.1)
+Iyg( Ky hy) AK = Fy | [exp (—iKe2) {yy () “PEED — yg (xy HO)
 
-SThis transition is complicated by the presence of an (anti)-crossing between the two guided modes at ka/2 ~ 0.476, before
-they come back together for a degeneracy at ka/2 =0.5. It is also made more complicated by the fact that at the bandedge
-itself any linear combination of modes is itself a mode. The modes found by the eigensolver were not in fact a time-reversal
-pair. However, we found such a pair by taking linear complex combinations of the eignesolver’s solutions.
+3 } | xe Ey (0)t
 
+} This transformation is closely analogous to that introduced by Chandrasekhar (1945) in his work on
+the calculation of the cross-section associated with photo-detachment from H™. EXCITATION AND IONIZATION OF ATOMS 99
 
-(a)
-
-0.285
-
-0.280
-
-0.4 0.6 0.8
-2 0.275
-
-0.270
-
-07605 0.3 0.4 0.5 hoy yan O ‘O
-
-kala) —_— >
-ow |
-
-Figure 4.
+While (26) and (30) are formally equivalent they are not necessarily the same in practical
+computations, since they weight the various regions of co-ordinate space differently.

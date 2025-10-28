@@ -1,14 +1,11 @@
-Thus, the process is variable or resource independent. Similarly, equipment
-options are installed for control and heat treatment operations. It is important to reinforce here the fact that all product information related to the UTP
-(material, operating modes, list of alternative equipment) is stored in cyber space at the second
+The answer is, that the equation [(30), § 55] from which it is
+derived, and which actually must, in every exact discussion, be taken in its place, is a
+wholly unsuitable one for a solid, while equation (27), § 55, is a suitable one. Again it may be asked, Why not retain the stress equation in its original form
+$ = — 2m7!Mly, for solids? The answer to this is, that the important fact that
+the great majority of solids behave magnetically like a vacuum is not thereby readily
+taken account of.
 
-
-level depicted in figure 1. The history of the workpiece in accordance with the WTP is also
-accumulated in this level.
-
-(b) Integrated multiscale modelling and simulation for the injection moulding process
-
-In the development of the simulation model of the injection moulding process, the production
-system is considered on three levels: technological operation level, manufacturing process level
-and production process level [15]. On the level of technological operations, CAD, CAM and CAE class systems are used for the
-digital manufacturing preparation.
+69. To compare these stresses and their effects with Maxwetv’s, it must first
+be noted that Maxwett has only investigated the electrostatic part of his stress
+for the case of a series of charged conductors surrounded by a dielectric that behaves
+electrostatically like a vacuum. _

@@ -1,16 +1,18 @@
-A (2008)
+AIl thermal phenomena not determined by F, and all forces of the
+nature of friction, will be supposed given by a third function X, given by
 
+where x, 2, unlike f, f,, do not in any way depend upon L. The way in which these
+forces and the thermal phenomena depend upon X will be explained later. We shall
+call X the dissipation function. It is, in fact, a generalisation of Lord RayLeicu’s
+dissipation function (‘Theory of Sound,’ Ist ed., § 81).
 
-3060 C. Bajaj et al.
+24. The absolute temperature of any element of matter will be denoted by @. The
+vector ® (assumed an intensity—S 7 above) is defined by the equation
 
-(b) Generating patient-specific heart models
+me reer sie te
+Since both © and V are intensities, we have
+ee Se Oe
 
-Bajaj & Goswami (2008) explore a solution to the problem of constructing
-good finite-element and boundary-element models of the human heart from high-
-resolution computer tomography (CT) imaging data. In fact, the quality of
-patient data, even if acquired with state-of-the-art CT hardware, is not sufficient
-to produce satisfactorily meshed models of the anatomy and to perform further
-simulation for diagnostic purposes. Imaging is therefore only the initial step of
-a complex computational pipeline, needed to generate a robust and spatially
-realistic mesh model of a patient’s heart (figure 8). Rough imaging data are first put through an image processing pipeline to
-enhance their quality.
+All electric and magnetic phenomena are supposed ultimately to depend upon the
+magnitudes and rates of variation of two fluxes (§7), d, k, called respectively the
+dielectric displacement and the conduction displacement.

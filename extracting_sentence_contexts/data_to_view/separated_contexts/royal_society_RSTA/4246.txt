@@ -1,53 +1,12 @@
-This is due to two reasons: these kinds of signals are in general non-stationary,
-and the standard transformations often use bases that are determined a priori. Both limitations
-are overcome by the use of the MIF method as a post-processing technique. In fact, the MIF
-technique can handle a non-stationary signal and does not require any a priori assumption or
-knowledge of it, as confirmed in this example by the shape of the plume and its boundary after
-MIF post-processing (figure 2b). Regarding the results obtained via MEEMD we point out that, even if the results are
-comparable with that produced with the proposed method, this approach has disadvantages.
+These are now on the wrong side; so that when the current is
+again reversed, it is some time before the original state of affairs is restored and the current again cut
+down. If, after the membrane is first completely formed, the circuit be broken and everything left
+in situ for 24 hours or so, it is found that, on re-connecting without reversal, a very fair current will pass;
+but it does not last long. In all probability this is due to simple diffusion through the membrane, by
+which a little K and a little Cl find their way across to the parts of the tube previously free from them,
 
-
-(b)
-20
-40
-
-60 i
-80 vas “
-100f. «
-100 150 200 250 300 50 100 150 200 250 300
-
-Figure 5. Detection map of the reversed COS classification of the raw data and (6) detection map of the COS classification o
-the pre-processed data. (Online version in colour.)
-
-(2) 10
-
-0.8
-
-() 19
-
-0.8
-
-0.6
-
-0.6
-
-Tandom guess
-== reversed COS
-
-— reversed COS after PostP
-0S with
-DS with PreP and wavelet post-processing 02
-— COS with PreP and Post?
-
-04
-
-‘with PreP and PostP
-
-10-5 104 103 102 10-1 1 10-5 104 103 102 10-1 1
-FPr log scale FPr log scale
-
-Figure 6. (a) ROC curves for the COS classification of the hypercube Location 1 released r134a and (b) ROC curves comparison for
-the hypercube Location 1 released r134a. (Online version in colour.)
-
-First of all it is still an open problem to prove the convergence of this technique even in one
-dimension.
+It is a curious fact, no certain explanation of which has yet been arrived at, that when the intermediate
+salt is a sulphate instead of a chloride, the copper and chrome ions do not form a membrane on meeting,
+but simply intermix with production of a greenish colour ; nor is the current cut down. This difference of
+behaviour has been consistently manifested in all the experiments recorded in this paper. Yet copper
+sulphate and potassium chromate solutions precipitate copper chromate when mixed.

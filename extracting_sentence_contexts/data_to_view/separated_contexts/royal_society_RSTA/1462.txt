@@ -1,17 +1,11 @@
-Yet for imaging modalities that just directly observe the
-obtained image one may want to replace NAjj, with min(NA get, NAjny) in equation (1.2) as a
-practical limit for the imaging of elastically scattered light. It has been suggested [5] to define
-the ‘n-line resolution’ as ‘the minimum spacing between successive elements of an infinite array
-of line objects such that the lowest spatial frequency component other than the constant term
-appears in the image’. However, I prefer equation (1.2) over this n-line limit for ‘direct inspection’,
-as the n-line resolution may obscure the fact that a grating outside this limit may still be resolved
-if the object possesses multiple features, some of which provide the wanted reference wave at
-least for computational reconstruction, or if a separate reference path from the light-source is
-present. One just has to remember that equation (1.2) refers to which information can in principle
-be obtained, meaning with the appropriate method, that may require a separate (holographic)
-reference beam path from the illumination source. Abbe’s equations are, in contrast to many other definitions of resolution limits such as the
-Full Width at Half Maximum (FWHM) of the PSF, the Rayleigh or the Sparrow limit, see also [2],
-concerned with a simple question requiring the answer to be ‘yes’ or ‘no’: Can a structure with
+'
 
-
-periodicity d be observed in its image?
+9. With regard to circulation in the rear of the aérofoil, it was found that the vorticity
+was mainly confined to a comparatively narrow wake, but tended to diffuse fairly rapidly. This was shown by the fact that there was quite distinct evidence of a certain amount of
+circulation around a contour entirely above or entirely below the core of the wake
+within certain limits, although a contour extending well above and below the wake, and
+drawn so as to cut the wake at an angle not too far from 90°, would give zero circulation. In this connection it is interesting to note that the experimental results bear out Prof.
+Taytor’s argument* that a contour enclosing the aérofoil, but including unequal
+amounts of the positive and negative vorticity in the wake, would not give the circu-
+lation corresponding to the lift. The discrepancy is not usually appreciable unless the
+contour cuts the wake at an angle very considerably less than 45°.

@@ -1,18 +1,16 @@
-This (2
-requires storing only (N — H(y) ) non-zero entries instead of N2N of the full transfer matrix T = DA. DA
+In the case of the principal
+gases « is so small that its correction for temperature was not likely to be important
+for the purpose in hand, but when we come to CO, and N,O the situation might well
+be altered. If we know the pressure-equation of the gas, there is no difficulty in
+calculating a correction to « in terms of the critical constants. I had, in fact,
+caleulated such a correction for carbonic acid after VAN DER WAALS, when I became
+acquainted with the memoir of D, BerruEtor,t in which this and related questions
+are admirably discussed. The “reduced” form of VAN DER WAALS’ equation is
 
-The vector v; needs to store only (") entries. 1M
+(7+5) (0-8) = 80;
 
-(b) Numerical results :s
+pressure, volume and temperature being expressed in terms of the critical values. From this we find
+ld (mv) _ 4 (1- _37 5) :
+av da “Poh:
 
-In this section, we apply the previously described methods to the transverse-field Ising spin
-glass Hamiltonian (2.1). Here, we immediately face an issue: the computation of the forward
-approximation is obstructed by the fact that the spin glass term Hy = — >; Jijojo, has highly
-degenerate energy levels. This gives rise to diverging terms in equation (4.4) when E, = Ej. To
-avoid this problem, we add a weak and random longitudinal field term Hong to the Hamiltonian
-
-Ho:
-Fong = — > hia,
-i
-
-where each h; is distributed uniformly in (—h,h) with h = 0.001 (this has to be < 1/N but > e~*).
+and the effect of a change of temperature upon the value ot @ is readily deduced.

@@ -1,51 +1,19 @@
-As discussed in detail in [10] when viewed in the intrinsic geometry of the surface where
-the motion is taking place, the dynamics of a system of N-point vortices is described by the
-autonomous Hamiltonian system of equations
-
-dq; aH dp; dH
-- and -—,j
-dt = ap; dt aq;
-
-where in cases of surfaces with constant curvature and no boundary the Hamiltonian is
-N-1
-=D DFG pn
-j=l kj
-
-with rj = (xj, yj) being the position of the jth vortex and the coordinates are related to the area form
-do; = dx; A dy;, see below. The corresponding canonical variables are chosen to be
-
-qg=Ty and Pj =Xjr j=1,...,N. The phase space of the system is the product manifold MN endowed with the symplectic form
-
-doy = DL Fj dxy A dy.
-
-(d) A geometrical point of view: a surface as a symplectic manifold
-
-Summarizing what we have discussed above: to do point-vortex dynamics on a Riemannian
-surface M one needs:
-
-— the metric g, to define the Laplace-Beltrami operator Ag which is necessary to find the
-corresponding Green function G(r, r’);
-
-?This can be easily proved by using integration by parts,
-
-iH |VOP do =-]] PAPdo,
-g2 s2
-
-Gauss’s theorem and the fact that the surface has no boundaries.
-
-
-— a Hamiltonian formalism,
-d :
-q _ 9H an dp _oH
-dt ap dt oq
-
-which is naturally defined when using coordinates of the area form do = dr; A dry of the
-given surface M, by setting q = rz, p =11. In the case of the plane and of the unit sphere
-S*, the corresponding area forms can be written as
-
-doge = dx A dy and dog: = d(cos 0) A dg, (2.9)
-
-where g and @ are, respectively, the longitude and the co-latitude coordinates. Notice that
-by using z € [—1, 1], the vertical distance to the equatorial plane (z = cos @), the area form
-of S? can be also be written as dog: = dz A dg, and this is why the cylindrical coordinates
-constitute a natural pair of canonical variables for vortex dynamics on a sphere.
+It
+has always been difficult to see why mere atomic weight should wield the influence
+which has been pointed out by the author, and the author has been careful to
+emphasise that he regarded atomic weight as only another progressively changing
+property, very convenient, however, for purposes of reference as regards the chemical
+position of the element, but equally with all the other progressing properties dependent
+on some hitherto unknown fundamental difference in the chemical elementary atoms. This fundamental difference is now proved by Mosetxry to be the positive electric
+3 charge on the atomic nucleus, and as this determines the atomic electronic com-
+plexity and the atomic number is its measure, there is a logical reason why
+increase in the atomic number, in the case of a regularly ascending series of family
+group elements, should be effective in similarly progressively modifying the crystallo-
+graphic and physical properties of isomorphous salts containing those elements. Moreover, the fact that both atomic weight and atomic number have been shown
+above to be similarly related, in the case of the alkali metals, rubidium standing
+exactly midway between potassium and cesium in both respects, affords full
+explanation for the progression according to atomic weight which has been pointed
+out by the author to occur in the eutropically isomorphous series, both the rhombic
+simple salts and the monoclinic double salts, which have been described and
+compared in this and the author’s former communications. * «Phil. Mag.,’ series 6, vol. 26, p. 1024 (1913), and vol. 27, p. 703 (1914) ; see also “ Obituary Notice,”
+by Sir E, Rurwerrorp, ‘ Roy.

@@ -1,12 +1,17 @@
-With reference to the maximum pressure,
-as expected, the two predictions are identical at r= 0.0895 m while the present solution tends to
-underestimate more and more the empirical pmax for increasing distances from the charge. This
-does not mean that the numerical solution necessarily provides a less accurate pressure prediction
-moving far from the initial explosion. In fact, the good comparison with the incident-wave
-pressure observed at r= 0.7m, which corresponds to the radial distance of the plate, highlights
-the good performances of the model. In more detail, figure 3 reveals that, once the rising times
-of the two solutions are synchronized (this involving a shift of 0.018 ms), the time history of the
-numerical pressure reproduces very well the experimental one of Hung ef al. [14]. This means that
-the numerical explosion has a small error in terms of propagation speed, i.e. it is slightly faster
-than the physical one, but it can capture better the maximum experimental pressure than the
-empirical formula proposed in [14] and behaves similarly to such a formula in terms of time decay.
+First, we can
+cal form of solution with subsequent numerical evaluation, or
+
+apply it to our mathemati
+directly to our final numerical values for py using numerical
+
+secondly, we can apply it
+integration of equation (125). The first method reduces to the application of equation (125) to the first term G,in equation
+
+‘g8) to obtain a new G, from which the subsequent terms are obtained by equation (86)
+as before. Physically, this corresponds to the fact that the incident field enters directly only
+into the production of the first diffraction wave from each edge and we can therefore
+consider any shape of pulse by using the appropriate solution of the half-plane problem to
+replace equation (85). This first method has advantages if the shape of incident pulse is
+such that the new G, can be expressed simply in terms of known tabulated functions. On
+the other hand, if the new G, has to be evaluated by numerical integration it would appear
+easier to use the second method of direct numerical integration of equation (125).

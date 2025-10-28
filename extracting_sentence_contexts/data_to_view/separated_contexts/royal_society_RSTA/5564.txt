@@ -1,15 +1,21 @@
-Many works have shown
-success in predicting the Lorenz system; however, the tasks considered are different from that
-explored in this work, and they usually fall into the following categories:
+The character
+figures assigned by the co-operating stations are summed at de Bilt, as if they were
+ordinary numerical quantities, and the final order assigned to the days in the scale of
+disturbance is based on these sums (or their arithmetic means). If, for instance,
 
-— The model is trained with data from a single trajectory and then tested with the same
-initial state [30,31].
+767” eo”
+rid 2
 
-— The resulting model offers accurate short-term predictions while generating similar
-dynamical statistics for long times [46,79].
+or to each
 
-— The model predicts the Lorenz system with regular adjustments or intermittent external
-forcing or under a data assimilation framework [51,80]. By contrast, we train the model with batches of trajectories and test with unseen initial conditions;
-we also test long-term predictions without any external inputs. In fact, almost all previous models
-belong to single-scaled models in our discussion. The trade-off between computational accuracy and efficiency are visualized in figure 5a. Here,
-we report the £2 error, averaged over all time steps and test trajectories.
+30 stations send in results, and all assign character ‘‘ 2” to one particular day, while
+half the stations assign “2,” and half assign “1” to a second day, the total character
+sums obtained at de Bilt for the two days would be respectively 60 and 45, giving as
+the mean estimates 2 and 1°5. The principles followed in assigning character figures at different stations vary, and
+the fact that the scale of values is so narrow necessitates grouping together at any
+one station days which differ widely in disturbance. It is also very difficult to
+maintain even a roughly uniform standard throughout a series of years. One naturally
+wishes to discriminate between the days of each year, and if one adopts a standard
+which gives fairly similar numbers of days of characters “0,” “1,” and “2” in a highly
+disturbed year, one has in a quiet year hardly any “2's,” and a wholly extravagant
+number of “0's.”

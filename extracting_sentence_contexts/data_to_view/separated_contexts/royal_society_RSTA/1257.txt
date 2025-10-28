@@ -1,8 +1,17 @@
-Typically,
-the design implies that the rotors rotate uniformly with a certain frequency of w and the body
-performs forced small harmonic oscillations with the same frequency. In this work, we draw the reader’s attention to the fact that this is true only in the first
-approximation. In fact, the rotor rotation rate changes periodically, which leads to the emergence
-of higher harmonics in the driving force and in the device oscillations. We obtain these oscillations
-in the second approximation when solving the system of nonlinear equations of the joint motion
-of the exciter rotor and the oscillating body. These oscillations may be essential and yield in
-some undesirable effects, in particular, for devices with self-synchronization vibration exciters.
+Tt should be explained at the outset that we have con-
+centrated attention on this particular problem solely because our interest is centred for
+the present in methods rather than in results, Our.aim has been to develop a general
+theory, of the kind which RayLeran employed so successfully in relation to problems
+of vibration, whereby the critical velocity of steady flow might be estimated approximately
+in cases where exact solutions are not obtainable, and in order to test the practical accuracy
+of such a theory when found, it will evidently be necessary to compare its results with
+those of more exact analysis. Now although the motion (B) is not of any particular
+interest in itself, it offers what would appear, a priori, to be the simplest case for
+theoretical investigation, because the formal solution is expressible in terms of known
+functions. Thus it is for the moment the obvious test case.t
+
+We have not yet succeeded in our attempt to answer the question, whether the
+steady motion is in fact stable or unstable. This paper is presented (1) as a critical
+review of previous work, indicating reasons why we regard the question as still
+awaiting a really satisfactory answer, and (2) as an interim report giving certain
+preliminary results which seem to have an interest of their own. 5.

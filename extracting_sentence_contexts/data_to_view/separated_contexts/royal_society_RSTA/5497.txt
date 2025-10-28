@@ -1,13 +1,11 @@
-First, both versions of the framework were
-capable of providing a local interpretation for a given ECG signal classified by the network,
-by suggesting which ECG wave was involved in the decision. Depending on the class-wise
-recognition accuracy (recall) achieved and the ECG wave highlighted by the framework, our
-understanding of the decision process in place by the network may change. In fact, when the
-
-recall is low and the framework points to the right ECG wave for the diagnosis of the cardiac ‘=
-abnormality, the network is likely confounding its decisions with other abnormalities involving : =
-the same wave. For example, high RV values regarding the T-wave may mean that the network :B
-did not learn the correct pattern to distinguish between T-wave abnormality or T-wave inversion, : =
-but was understood to focus on the correct wave. On the other hand, when the recall is high :g
-and the RV value is low, the network might be overfitting on the given dataset, or the cardiac 3
-abnormality is not uniquely related to a specific ECG wave (e.g.
+The answer is easy: in those small meteoric masses
+which an ever-increasing mass of evidence tends to show, occupy all the realms
+of space. “The Nova now exists as a nebula, so far as its spectrum goes, and the fact
+not only goes far to support the view I have suggested as against that of ZOLLNER,
+but it affords collateral evidence of the truth of THomson and Tatt’s hypothesis of the
+true nature of nebule. “The nebular hypothesis in its grandeur and simplicity remains untouched by
+these observations, the facts, so far from being in direct opposition to it, help us, I
+think, all the better to know exactly what a nebula is. “There is another point of extreme interest to the spectroscopist, if we accept the
+bright line observed in the star by Dr. CopELanp and others to be veritably the chief
+nebula line. “Tt is clear from Dr. Vocet’s diagram, that this line brightened relatively with
+each decrease in the brilliancy of the hydrogen lines.

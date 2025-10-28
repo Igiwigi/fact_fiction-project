@@ -1,33 +1,16 @@
-So it remains to show that
+Now the coefficients of linear expansion as obtained from Sir W. THom-
+pson’s ‘Collected Papers’ (vol. 3, p. 209), which numbers were taken from ‘“ CLARK’s
+‘Constants of Nature,” are for sulphur, say, ‘000063, and for aluminium, 000022. To
+pe quite satisfactory, of course, the linear expansion of this particular kind of sulphur
+Bught to be observed, but the values given (mean of those of Fizzau and Kopp) are
+caese not very far wrong. It is probable that when the aluminium plates are heated they are quite free to
+‘expand laterally and also vertically ; in fact, the gold dish is so weak and soft, it may
+Ev set on one side, and the sulphur round the aluminium plates will, if anything, tend
+Sto drag them outwards. We may assume, therefore, that when the condenser is
 
-> x2,8,(x" +ax +b) =0.
-(a,b)eA2(F,)|A(a,b)=0,xeF,
+eated the aluminium plates increase in area, and are subject to some little stress,
 
-The condition A(a, b) = 0 is the condition
+hile the sulphur film increases freely in thickness, but is prevented, by sticking to
 
-(n —1)""1a" + nb"! =0,
-
-This means precisely that (—a/n, b/(n — 1)) is of the form ("1 t”) fora unique f € Fy. So our sum is
-
-which we rewrite as
-
-> X2,8, x" — nt"1x + (n — 1").
-teF, ,xeF,
-
-For t=0, the inner sum becomes Dxer, X28, (X"), which vanishes because n is odd. For t 40,
-
-we use the fact that x” — nt"~!x + (n — 1)t” is homogeneous in x,t of degree n, so we write it as
-8 8
-
-
-t"(X" —nX +n —1) with X := x/t. The sum over t 4 0 becomes
-
-YS x28, (¢'(X" —nX +01),
-
-teFy .XeF,
-which is the product
-YY x22, (t") (= X28, (X" —nX +n — »} ,
-teFy XeFy
-in which the first factor vanishes (again because n is odd). a
-
-In fact, we have the following explanation of this vanishing. Lemma 7.2.
+the plates, from expanding beyond their limits. The film being thin and weak,
+compared to the plates, nearly the whole of the resulting strain is borne by it.

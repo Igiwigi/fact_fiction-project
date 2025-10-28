@@ -1,31 +1,22 @@
-This includes combining density-based methods with a Bayesian model-
-based approach [81]; Bayesian hierarchical clustering which builds a tree of hierarchical clustering
-solutions based on Bayesian nonparametric (BNP) mixture models [82-85] and Bayesian distance-
-based clustering based on pairwise distances between observations [86-89].
+Jacost’s method appears to me open to the serious objection that it is necessary
+to its validity that the first (2n—1) fluxion of Sy should be continuous ; so that the
+discussion only proves that a curve AB fuifilling the synclastie condition gives a
+better result than any infinitely near curve fulfilling the same limiting conditions, and
+which is continuous to the 2n* flusion of y. And it would not show that it was not
+possible to find other broken curves fulfilling the same limiting conditions, and giving,
+at our pleasure, a value to the integral either greater or less than that given by the
+curve AB. Thus, for instance, in the case of least action, it would not show that the
+action in the free trajectory was less than in any constrained path (which it is, in fact),
+but only that it was less than that in any path for which the tangent deauk bert oan
+position at every point. To show for the general case that Jacozr’s proof assumes
 
 
-(c) Priors
-(i) Number of clusters
+MINIMA SOLUTIONS IN THE CALCULUS OF VARIATIONS. 101
 
-One of the most difficult and important questions in clustering regards the choice of the number
-of clusters. In the model-based approach, the distinction between the number of components J
-and the number of clusters k requires emphasis. In fact, there may be no observations allocated
-to some components in the mixture, with possibly very small or even zero weight w; for some
-j€{1,...,J}. Thus, the number of components provides an upper bound, i.e. k < J. In general,
-there are four approaches to infer the number of clusters:
+this continuity of $y Would require a large amount of work, but it will be sufficient for
+our purpose to take the simple case where the function to be made synclastic contains
+only «, y, and y.
 
-(i) Model selection tools or information criteria can be used to compare the mixture model
-under different choices of J [90]; in this case, penalization for empty clusters is implicitly
-included, so that the number of components corresponds to the number of clusters.
+Let us apply his general method to the integral *
 
-(ii) Mixtures of finite mixtures (MFM) [91-93] extend the hierarchy of the model with a prior :
-on the number of components. —
-(iii) Overfitted mixtures specify J as an upper bound on the number of clusters with a sparsity 1
-promoting prior on the weights, which implicitly defines a prior on the number of clusters : a
-[74,9496]. :=
-(iv) BNP mixtures [97] assume J =0o and can be viewed as a limiting case of overfitted ZR
-mixtures, with the Dirichlet process (DP) mixture [98] being the most widely-used [3
-example. : =
-
-In the first approach, uncertainty on the number of clusters is lost with model fits based on all :g
-other choices of J disregarded.
+.

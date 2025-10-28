@@ -1,27 +1,11 @@
-This graph shows how the instability develops by increasing the noise intensity. Below we
-analytically determine the minimum noise intensity, Dmin, at which the instability occurs. First,
-we rewrite equation (3.1) in the canonical form
-
-dp =(-yp — 2x + Asin @i)dt — /DxsW(), dx = pdt (3.2)
-
-Here, due to the fact that the system features multiplicative noise, we have to decide whether to
-consider this equation in the Ito or Stratonovich sense. We will consider both cases, starting with
-
-
-80
-
-= 60)
-
-= 40
-
-20
-
-o-oo -e— o- ——¢
-
-0 0.05 0.10 0.15 0.20
-noise intensity
-
-Figure 2. The dependency of the spectral density of the output signal of system (3.1) at the frequency 2 for large t on the
-noise intensity D for y = 0.1, A = 0.9,A = 0.1, 2 =1,x(0) = 0.5 and x(0) = 0.1. (Online version in colour.)
-
-the former one.
+With the
+small coil, these revealed no inconsistency, but with the large coil a different value of
+E was obtained when the coil was rotated through 180° although the method cancels
+out the effect of stray flux through the search coil in each position. The effect was
+attributed to a capacity current flowing from the search coil to the sheet which altered
+its path and presumably its value as the switch was thrown over from position 1 to
+position 2. In fact a condenser connected from search coil to sheet increased the dis-
+crepancy. Since this capacity current produces an effect in the same direction when
+the coil is rotated through 180°, while the field due to the cable is reversed, the difference
+between the results in the two positions should separate out an effect of this kind. This was found to be the case when an artificial capacity effect was introduced, so the
+procedure was adopted in all readings with the large coil.

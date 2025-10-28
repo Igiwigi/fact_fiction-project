@@ -1,30 +1,15 @@
-Now, we turn to simplify the optimization problem. First, we replace the standard L? norm by
-a weighted L? norm which gives the following approximation:
+By analogy with the lattice in plano one might have conjectured that the
+Sesult would have been
+g 1
+2 (1) @2P BFA)? Sut this is not so, although the two functions do coincide as far as the coefficient of
+& inclusive. In fact, the two expansions yield respectively
+&
+‘S| Lat 4a? + 7a + 140 + 230° + 410° + 6327 4+...,
+oa Lat 4a* + 7a + 14x! + 230° + 420° + 632'+...,
 
-k
+he suceceding coetlicients becoming widely divergent. This at first seemed sur-
 
-k+1 « lad q 2
+rising, but observe that analogy might also lead us to expect that, if the part-
+Anagnitude be limited to /, the result would be
 
-Pi =argmmin [pill + Zit, + 7 — O6P;llao,, (4.1)
-;
-
-where iIgl3, =>; a(ti)°Oi(ti), 9; is the derivative of 6) which is computed by a central difference
-scheme, gi(ti) is the ith element of vector g. Using the fact that supp(?) = (—sy, Sy), it is easy to check that the columns of the matrix @¢ are
-orthonormal under the weighted discrete inner product
-
-N
-(g, hyo = >> g(ti)R(1,)0'(t) =" - ' *h). (4.2)
-i=l
-Using this property, it is easy to derive the following equality:
-109 - Xlla0 = [Ixll2- (4.3)
-
-We can also define the projection operator Py) to the V(@) space. Here, V(@) is the linear space
-spanned by the columns of the matrix @g and Py) is the projection operator to V(@). Since the
-columns of the matrix @g are orthonormal under the weighted inner product (4.2), the projection
-Py) can be calculated as follows:
-
-Pyy(t)=O9-%, 2=O} - (0! xr]. (4.4)
-
-
-Now, we are ready to show that the optimization problem (4.1) can be solved explicitly by the
-shrinkage operator.
+G+ 1+ 2° + 3% @+ 4).

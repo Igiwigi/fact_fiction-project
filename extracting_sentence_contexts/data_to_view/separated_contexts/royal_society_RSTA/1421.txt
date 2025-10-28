@@ -1,37 +1,9 @@
-Table 3. Defining parameter space for the uncertain parameters of the Flu And Coronavirus Simulations (FACS).
-
-parameters type default value uniform range
-infection rate float 0.07 (0.0035, 0.14)
-mortality period float 8.0 (4.0, 16.0)
-recovery period float 8.0 (4.0, 16.0)
-mild recovery period float 8.05 (4.5, 12.5)
-incubation period float 3.0 (2.0, 6.0)
-period to hospitalization float 12.0 (8.0, 16.0)
-1.0% —— infection rate
-
-— mortality period
-
-08: — recovery period
-
-BE — mild recovery period
-a —— incubation period
-g 06 period to hospitalization
-a
-5
-goa
-E
-= 02
-we
-0 n =
-
-0 20 40 60 80 100 120 140 160 180
-days
-
-Figure 10. The first-order Sobol indices for each of the uncertain parameters of the Flu And Coronavirus Simulations (FACS) for
-the London Borough of Brent. (Online version in colour.)
-
-infection rate (which describes how quickly the infection spreads) and the mild recovery period
-(which describes how long people with mild COVID remain ill and infectious). References
-
-1. Groen D et al. 2019 Introducing vecmatk-verification, validation and uncertainty
-quantification for multiscale and hpc simulations.
+In these equations as applied to one calibration only there are py +2 unknowns,
+namely 09, 1), 29---%-++(px Of these) and the two quantities A, and By. Thus
+there are two more unknowns than equations. This is in accordance with the fact that
+the graph possesses two degrees of freedom whilst still expressing the same relative
+positions of the points. The introduction of the equations resulting from another calibration, however (say
+the Mth), in general only adds few or no unknowns of the type 2, i plus the two
+unknowns Ay and By, while the total number of equations is now py + py. With a
+number of different calibrations the total number of equations is likely to be greatly in
+excess of the total number of unknowns.

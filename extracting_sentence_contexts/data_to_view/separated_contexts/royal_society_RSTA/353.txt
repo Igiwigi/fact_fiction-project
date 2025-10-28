@@ -1,11 +1,14 @@
-The first stage of the Bayesian modelling framework is to explicitly state all assumptions using
-the language of probability theory. Specifying both the prior and likelihood is a necessary
-requirement so that the model is well defined. In fact, the distinction between prior and likelihood
-is arbitrary?; both are essential parts of the model. People also object to the use of priors on the parameters on the grounds that they do not
-think of the parameters as being ‘random’ variables. For example, if one is estimating the mass
-of a planet from astronomical data, the mass of the planet is not ‘random’ in the colloquial
-sense of the word.’ This is a misunderstanding of the semantics of probabilities in Bayesian
+In the case of liquid lithium (for which the melting-point could be accurately
+gauged by the flowing of the surface of the anticathode) it will be seen that there is
+no marked difference in the shape of the curve from that emitted by solid lithium at
+a slightly lower temperature. However, a very careful study of many photometer
+traces has convinced us that the slight difference to be observed in figure 4 is genuine. This consists in the fact that the curve for liquid lithium is more smoothly rounded
 
-2Of course, our model may have a fixed value of 0, e.g. 7.213, which corresponds to a delta function prior.
+(and that in consequence its maximum occurs at a shorter wave-length) than for solid
+lithium. THE SOFT X-RAY SPECTROSCOPY OF SOLIDS 113
 
-3Consider, for example, a model that defines the probability of the data (ie. the likelihood) using a student f-distribution.
+In the case of insulators and semi-conductors, the considerable diffuseness of the
+false edge, and the low intensity of the sharp short wave-length limit makes the bands
+relatively insensitive to temperature effects from a practical point of view. In the
+case of Si, experiments with the anticathode temperature varying between 110 and
+600° K failed to show any noticeable difference in the band shape.

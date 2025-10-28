@@ -1,21 +1,15 @@
-Table 1 shows the different values of yo and d for the various rough surfaces
-examined in this study, while the reader is referred to [10] for further details on the evaluation
-of the aerodynamic parameters. It must be noted, when consulting table 1, that the height of the
-roughness is fixed for all surfaces at H = 11.4 mm (which includes the connecting pins on the top
-of the Lego bricks).
-
-(b) Wind resource availability
-
-The differences in yo and d for different surface morphologies have ramifications for estimating
-the wind power output. The fact that yo changes dramatically with the local terrain means that the
-shape of the velocity profile also changes, which affects the equivalent wind velocity experienced
-by a wind turbine. This is defined as [31]
-
-N A 1/3
-Ueg © (> ur) , (3.1)
-i=1
-
-where N is the number of discretized levels within the rotor layer, Uj and A; are the wind speed
-and fractional area for the ith level, respectively, and A is the total area of the rotor disc. Each
-fractional area is assumed to be the sector of the rotor disc circle bounded by the midpoints
-between the levels above and below the ith level, as shown in figure 4a.
+In the first place in regard to the question, which arises in all experiments
+where a quantity of water is heated by an electric current conveyed in a wire, of the
+excess temperature of the wire over the water, it may be said that in the present
+method the measurement of the electrical energy is completely independent of any
+value to be assumed for the resistance of the heating-wire, and not only that, but
+owing to the steady temperature conditions inside the apparatus, no uncertainty of a
+change in resistance in the wire with a change in temperature is introduced. When
+the temperature inside the calorimeter has arrived at a steady state, only such
+energy is used in warming the water as is supplied to the calorimeter by the electric-
+heating current. The fact that the results were completely independent of the
+resistance of the heating-wire was shown by using heat-wires of very difterent
+resistances. In regard to the insulation of the platinum heating-wire and of polarization and
+similar effects, it was considered that these played no part in the results. The
+resistance of the water column through which the heating-wire passed was
+enormously high and equal to a column of water 50 centims.

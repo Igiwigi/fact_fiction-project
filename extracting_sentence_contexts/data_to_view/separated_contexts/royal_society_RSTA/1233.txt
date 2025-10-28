@@ -1,42 +1,15 @@
-Then we can use (3.39)
-to proceed inductively to establish the boundedness of t +> M,(t) for any integer i (for the chosen
-initial condition) and, for non-integer i > 1 we use the estimate || fli < Illy] + Wf lltuij+ay-
-It remains to prove that ft» Mo(t) is bounded on [0, tmax) (in case (b)). Let us fix an integer
-i> max{1,/}. Using the fact that So Hf (x, t) dx < 0 and, by (2.24),
+This can be done by considering one or more limited oceans of
+simple form, bounded, say, by meridians across which current cannot flow.7
 
-x
+1.8. It is desirable also to make a detailed examination of the induced part of the
+field of magnetic storms, to determine whether it is really consistent with the properties
+of the conducting core as deduced from the daily magnetic variations. It is hardly to
+be expected that this will be the case, because the supposed uniformly conducting core
+can only be regarded as a convenient mathematical model consistent with certain
+observed facts ; it may suffice, with certain values of « and the radius, for one type
+of magnetic variation, while for another type different values may be necessary. If so,
+the difference between the two sets of values may indicate how the actual core differs
+from the simple model.
 
-|, Sf (x, t) dx < 2b if aly)f(y, thw;i(y) dy <a ic t) dy + 2boR(t), (3.40)
-
-on [0, tmax), where @ = 2bpess SUP yc{0,x0] a(y)w;(y), for the zeroth moment we have
-
-d
-qo) <aMo(t) + 2boR(t),
-
-where we denoted R(t) = J a(x)f (x, t)w;(x) dx. Hence
-
-ar t
-Mo(t) <e” (wi fo) + 2bo [, R(s) ds) . (3.41)
-We have the estimate
-t t oo _ pt roo .
-| R(s) ds=| | a(x)f (x, s)w;(x) dxds < (1 +x) | a(x)f (x, s)x' dxds. (3.42)
-0 0 Jxo OI x0
-
-Now, similarly to (3.31), we can write,
-
-1
-
-[, tanto <i I a(x)f(x)x! dx — a in a(x)f (x)x! dx + a if a(x)xif (x) dx
-0 "2 wae a. 2 .
-
-xo 2 Jo 0
-5 i i
-<—F | ateyftoy! de — Si flea + vl (43)
-Xo
-where 4; and v; were defined previously. Now, by selecting € so that (a/yo) €”°/*K;(Mj,,,,,, +1) <
-6;/2 and knowing that all lower-order moments are finite on [0, tmax), we can write (3.39) as
-
-d 5 pe
-qm < > | a(x)f (x, Ax! dx + Doi + Di iMi(t) + Of), (3.44)
-Xo
-where @ is bounded on f € [0, tmax).
+1.9. This question forms the main subject of the present paper, which is a further
+development of that by Cuapman and Wurrenean, already referred to.

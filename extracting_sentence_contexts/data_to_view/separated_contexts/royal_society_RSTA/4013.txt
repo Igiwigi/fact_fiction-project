@@ -1,10 +1,25 @@
-Furthermore, figure 9 shows that ECE increases with increasing film thickness. This may be explained by considering that, by increasing the film thickness, the effect of the
-substrate constraint throughout the film diminishes. This corroborates the findings of previous
-works reporting that ECE is, in fact, strongly affected by a misfit-strain effect, which can, in turn,
-be tailored by adjusting the film thickness [18-21].
+'= 0
 
-4. Conclusion
+where J(_) denotes the Jacobian of any four of the functions f, fi, fy,f,,ff4 with
+respect to the variables specified in the bracket. Of these equations there are thirty,
+but since they are given by the elimination of six quantities from twelve equations
+only six of the thirty can be independent.
 
-Full-perovskite PBLZST thin films were fabricated by a sol-gel method. These films were
-characterized by tetragonal and rhombohedral phases, as opposed to the tetragonal phase
-observed in PBLZST ceramic.
+$15. One pair of these auxiliary equations will contain Jacobians of f, fi, fy Ay
+and will in fact express the conditions that the equations
+
+dy = pda, + prday
+dz = qda, + qn
+
+shall be integrable without restriction when p,, P2, qj, q2 have the values given by
+the equations f, = 0 = fi, fg = %, fy = dy
+
+Thus, if a pair of functions fj, f, can be found satisfying these two auxiliary
+equations, the solution can be completed by solving a pair of simultaneous ordinary
+equations. (See Mayer’s method, Forsytn, ‘ Theory of Differential Equations,’ pp.
+59-62.) The two auxiliary equations that f,, f, must satisfy are linear and homogeneous in
+their Jacobians, the coefficients of the Jacobians not involving the functions f;, /,;
+the number of independent variables is apparently eight, but it may be taken as six,
+since two of the eight variables 2,, x2, y, 2, P|, Ps Vis J ave given as functions of the
+other six by the relations f, = 0, 4, = 0, and may be supposed eliminated from /;, f,,
+if that is desirable.

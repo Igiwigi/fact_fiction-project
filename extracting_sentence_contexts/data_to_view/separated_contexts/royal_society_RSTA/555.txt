@@ -1,21 +1,23 @@
-The relationship between the vegetation feedback
-and model physics or biases in the model’s modern climatology is discussed in §5 before a rapid
-discussion (§6).
+This, however, is not the case, because with
+amore accurate type of sampling a lower intensity will be required to attain a given accuracy,
+and consequently the block size or sampling interval will be increased. If, for example,
+random sampling with one point per block is twice as precise, for a given intensity of sam-
+pling, as random sampling with two points per block (R,,/R, = 2), halving the number of
+sampling points with change from random sampling from two points per block to one point
+per block would result in doubling the block size, in which case the variance per point would
+be the same as that for the original sampling. The intensity of sampling required to give the
+same accuracy with random sampling of one per block is in fact 1/,/2 that required for
+random sampling with two points per block. In general terms, if the ratio R,,/R, = ¢ remains constant over the relevant range, so that
 
-2. Forcing and feedbacks at the global scale for the LGM
+Khe",
 
-(a) The simplified framework
+where b = log ¢/log 2, the ratio i,/z, of the intensities of sampling required to give the same
+accuracy in the final results with random sampling of two points per block and one point
 
-We use the Taylor et al. [37] simplified approach to quantify the forcing and feedbacks in the SW
-domain. It uses the fact that the variation of the planetary albedo (@) can be decomposed so as to
-reflect the individual contributions from the surface albedo (ag), the bulk atmospheric absorption
-(1) and the atmospheric scattering (y):
+block tively is given b :
+per block respectively is given y 7 i, _log¢ log 2
 
-da da da
-Aa = —— Aas + ——Ay + >—Apu +e,
-das oy Ou
-
-where e represents the nonlinear contribution of the different parameters and is negligible here,
-and A represents the difference between two climatic periods. The first two terms of the right-
-hand side of this equation are the ones we focus on. Changes in atmospheric absorption are small
-for the MH.
+a log 2¢ The situation with systematic sampling is somewhat more complicated, since, in addition
+to the ratio R,/S, = w of the precision of systematic sampling to that of random sampling
+of one point per block with a given intensity of sampling, the change in R, with change in
+block size is involved.

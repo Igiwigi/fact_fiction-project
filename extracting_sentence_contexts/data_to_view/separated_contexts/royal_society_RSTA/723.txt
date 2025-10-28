@@ -1,15 +1,10 @@
-The boundary conditions are that on the symmetry line (s=0) 6 =0 and x=0; whereas at
-the contact point (s = 1) 6 =a and y= ~—r cosa, where r is the radius of the bounding circle. The
-values P and Q are constant from the equilibrium of forces, but their values are unknown, as is
-the length L. To determine the unknown tension components, we use the facts that the curvature
-of the beam must match the curvature at the contact point, 00/08 =L/r at s=1; and that the
-symmetry condition at s = 0 means that the vertical component of the tension must be zero. (Note
-that it is easier to locate the buckled solution branch numerically if the vertical position of the
-beam at s=0 is treated as an additional unknown Y with the associated equation that Q = 0.)
-The unknown length L is found from the constraint that at s=1, x =rsina. Solving this set of
-equations and constraints using quadratic finite elements via oomph-1 ib, we find a post-buckled
-solution for given a if we insist that Y > —r. To link this constructed solution to the undeformed ring, we treat a as an unknown with
-the constraint that the length change due to axial strain induced by the tension (assuming a
-
-
-linear constitutive law) is consistent with the actual length of the buckled solution.
+For
+the latter purpose two methods have been developed: The first depends on measuring
+the amplitude of the horizontal movements produced by the various shocks at a
+number of points distributed throughout the island. The second method depends on
+the fact that the earth movements following the first arrival of the shock at any station
+die away more rapidly the closer the focus to the observing station. This decay in
+the amplitude of the earth movements with time has been analysed algebraically,
+and from the results the relative distances of the different foci from the station can be
+estimated. The two methods give results which are in reasonable agreement with one
+another.

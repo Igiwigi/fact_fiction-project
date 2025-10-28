@@ -1,31 +1,11 @@
-The reason
-for assuming that CHy flux changes are proportional to anoxic respiration changes rather than
+This was tried with several metals, but always
 
-
-Table 2. List of models used for soil thermal calculations, as well as key aspects of the models and what atmospheric conditions
-were specified as their current-climate upper boundary conditions.
-
-no. maximum soil organic soils reanalysis
-model name key reference soil layers depth (m) included? forcing
-CLM4.5 36 30 451 yes CRU-NC
-GIPL2 37,38] 300 200 yes CRU-NC
-JULES v3.4.1 39 16 20.8 no WATCH
-ORCHIDEE-MICTV3 40,41] 32 474 yes WEDEI (1978-2009)
-SiBCASA 42,43] 25 15.0 yes CRU-NC
-TEM6 44 8 36 m, but reports yes CRU-NC
-only to 3 m here
-
-UVic 45, 4 250 no CRU-NC
-UW-VIC 46) 25 267 no [47]
-
-anoxic soil C changes is that plant inputs account for a large fraction of the substrate fuelling CH4
-emissions [32]; because we include these plant fluxes as inputs to the decomposition model, most
-of which turn over quickly, they constitute a large fraction of the respiration flux. Instead of using
-the CH, production rates from anoxic incubations as the basis for calculating CH4 emissions due
-to the differences between methane production and flux and the fact that incubations exclude the
-plant C inputs, we can use top-down estimates of current CHy fluxes [33] as the absolute flux
-against which the proportional change in CH4 emissions is applied. Finally, we use the resulting
-absolute changes in CH4 from the top-down approach to compare the CO2:CHy flux ratios
-inferred for anoxic soils in the scaling approach to incubation CO} : CH, ratios as an independent
-though imperfectly corresponding constraint on the validity of the approach. Note that this approach for calculating CH, emissions differs from the more typical method of
-multiplying CHy flux density and wetland extent (e.g. [31,34]).
+with the same result. Beyond small changes in the gradients no alteration in the
+Eshape of the curve was produced, and the kink still remained. In fact, if one
+vradually builds up a composite screen of a number of different metals, the logarithmic
+‘curve of transmission consists of a series of discontinuous steps made up of an initially
+“Bsteep and a subsequently flatter portion for each metal. It is clear that the results are not due to the presence of any soft radiation, but we
+‘Bean find a ready explanation of the earlier steepness in the curves if we consider the
+“geffects of secondary radiation. At every stage the primary radiation transmitted by
+Ba screen is augmented by a certain amount of secondary radiation (in part softer
+than the primary) from the screen itself.

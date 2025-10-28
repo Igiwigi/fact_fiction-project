@@ -1,23 +1,11 @@
-The fact that the neopentane fits in figure 4a can produce reasonable dissociation
-curves at the diamond surface (figure 4b) indicates that the fitted EVB parameters have some
-degree of transferability.
+bore flow-tubes ; but these were found to be less suitable, and were employed in very
+few of the tests.
 
-4. Molecular dynamics simulations of —CH3 dissociation at the diamond surface
+(28.) Improvements in the Design of the Culorimeter,
 
-(a) NVE simulations
-
-Having obtained an accurate and efficient -CH3 dissociation potential at the diamond surface,
-we investigated the relative rates of processes (R2a) and (R2b) using non-equilibrium NVE MD
-simulations. Here, ‘non-equilibrium’ refers to the fact that the initial conditions of each NVE
-trajectory were modified from coordinates and velocities selected from an NVT ensemble (details
-below), in order to emulate the nascent vibrationally excited SCH3* species that we expect would
-be formed upon hydrogen atom addition to SCH)p. (In the canonical (NVT) ensemble, amount of
-substance (N), volume (V) and temperature (T) are conserved.) MD trajectories were propagated
-in order to observe the fraction of trajectories in which prompt methyl formation was observed
-prior to the establishment of thermal equilibrium. The procedure we used to carry out these MD simulations was as follows: A 1.6 us (1 fs
-time step) NVT simulation of SCH3 was carried out using a Langevin thermostat with a
-friction coefficient of 10ps! and heat bath of 1300K (a typical temperature at which carbon
-etching is observed experimentally under [8] CVD growth conditions). Temperature equilibration
-was achieved within a few picoseconds, after which time coordinates and velocities from this
-trajectory were sampled every 10 ps (our tests showed this time to be a sufficiently long interval to
-ensure that the initial conditions were not significantly correlated to one another).
+Although Dr. Barnes was naturally unwilling to introduce any radical changes in
+the original pattern, which had proved to be capable of giving very good results. there
+can be no doubt that it was capable of improvement, and I had in fact already noted
+several points in which alterations were desirable. The importance of uniformity of bore in the flow-tube, and particularly in the out-
+flow-tube, has already been referred to (§ 26). This was remedied in the later
+apparatus.

@@ -1,27 +1,11 @@
-FISHER ON THE INFLUENCE OF RAINFALL
-
-Then we shall have from equation (II)
-(Tt
-®=c-+ \ ar dt = C-+ a) + op, + %6,-+ ...-
-
-Now the values of 9, 9, @2,..., may be obtained for each year from the rain
-record, and by correlating them with the crop data, we can obtain the values of
-%, %, %g, ... , a8 partial regression coefficients of the crop on the coefficients of the rainfall
-distribution ; then from (IV) we can evaluate the expansion of a@ to as many terms as
-we have obtained. It is easy to verify that in the same manner the double regression
-integral may be expressed as a quadratic regression formula for the crop in terms of the
-rainfall distribution values. The advantage of this indirect method of attack lies not only in the facts that for a
-fine division of the year, the arithmetical difficulties of a direct attack are insurmountable,
-and that no existing crop record is sufficiently long to justify the calculation from it of
-50 or 60 independent regression coefficients, for the probable error of such determinations
-depends on the excess of the number of observations over that of the coefficients evaluated
-(9), but also in the increased accuracy attained through utilising our knowledge that the
-regression function must in fact vary relatively slowly. This advantage is analogous to
-that obtained by the author in collaboration with Miss Mackenzie, who found that using
-the correlations of weekly rainfall between different stations in Great Britain from a
-record of about 40 years, it is possible to estimate the correlation, for any one week
-of the year, with an accuracy which, for any single week, would have required records
-for over 1,000 years ; this was due to the fact that the sequence of correlations could be
-well represented by a harmonic curve of only the second order, so that use could be made
-of some 2,000 actual simultaneous observations of weekly rainfall to eliminate errors of
-random sampling (8. Fisher and Mackenzin, 1922).
+It will be seen that the chance of obtaining a value R> 0-9 is only one in 180 for
+q =4; it rises to one in twenty for q = 6, and about one in four forg = 8. For gq =8,
+therefore, an observed multiple correlation 0-9 cannot be regarded as significant, that
+is as convincing evidence that the ‘* crop ” is in any way influenced by the meteorological
+variates. The only value, in fact, in the above table which could be regarded as definitely
+significant is the value 0-9 for q = 4, while for g = 6 this is suggestive only of real
+influence. A still more insidious source of illusory high correlations lies in the fact that the
+particular variates chosen for correlation with the crop figures, are often chosen because
+they appear in fact to be associated with the crop. It is a common practice, as a pre-
+liminary to the study of weather correlations, to search for the so-called critical periods
+by such methods as the following.

@@ -1,24 +1,21 @@
-With these factors identified, instead of computing reconstructions for each
+In the applications, one
+function alone is usually sufficient, and it is customary to write
+
+w= ¢-+ip=f(e) .........2...~ (122)
+
+with z= « -- ty, when ¢ and 4 usually have each some physical significance. More-
+over, in most cases, the boundary conditions which have to be satisfied either are, or
+can be reduced to, the prescription of the boundary values of ¢ or $, or of their
+derivatives. The fact that a solution of (1.12) is obtained from functions of a complex variable
+implies a conformal representation of the ¢ — 4 plane on the « — y plane, the resulting
+net on the «—y plane being equipotentials and stream-lines (or their analogues). Methods based on conformal representation for solving one class of hydrodynamical
+problem, that of free stream-lines first examined by Krrcuorr and He_MHourz, have
+been developed into a technique which can be applied to any obstacle having, in the
+two-dimensional trace, straight boundaries, and some progress has been made with
+
+VOL. CCOXXvilI.—A 664 2k Published June 5, 1929,
 
 
-problem separately in equations (2.2) and (2.4), we aim to recover both reconstructions jointly
-by minimizing the following joint functional:
+236 W. G. BICKLEY ON TWO-DIMENSIONAL POTENTIAL
 
-WE, y) = IV — Urrr(y 3 + llttm — Ugser(E)Iz + (7, E) + Ally il + AMIEL, (2.5)
-
-where U (and the appropriate subscript) represent the nonlinear forward models, a is the JTV
-weighting parameter and A is the L! regularization parameter. We here included the L'-norm
-as regularizer to first stabilize the inversion process and secondly promote sparse crack-like
-structures. We note that the sum of the total variation and the L!-norm in fact defines the norm
-for functions of bounded variation (BV), thus the penalty in equation (2.5) can be considered as a
-BV-regularization term. Nevertheless, we need to carefully adjust the JTV regularizer to the problem at hand, since a
-primary concern in the joint recovery for EIT-QSEI imaging is to preserve the quantitative values
-for both modalities, while benefiting from shared information on regularity and edge alignment. To achieve this, we first write the JTV functional J in the discrete form as follows:
-
-H 25
-Jv, E) = ° VV vil? + Ie VEnI2 + B, 26) 33
-h=1 .
-
-where h refers to a given element in the discretization, H are the total number of degrees of eal
-freedom in the discretization, V is the finite difference operator, « refers to a crucial scaling ae
-parameter (to be discussed later) and f is a small parameter needed to make J differentiable.
+curved boundaries.

@@ -1,5 +1,20 @@
-As we are interested in propagating waves, only real-valued entries of q are considered. Moreover, by periodicity, it suffices to consider values of q in the so-called first Brillouin zone
-{qW|qWe [-7,7)*}. In fact, owing to the symmetry of the C-shapes about the x-axis, q2 is
-symmetric about the q1-axis and, by a time-reversal argument, the eigenvalue also does not
-change if q is swapped for —q. The full picture is thus given by {q W | q W € [0,)?}, which makes
-up the so-called irreducible Brillouin zone in this case. We solve the Bloch problem using the finite-element method.
+Zr (nya, + vyft_») = a V (Sun Ch Ey
+
+where V,(dnx%mn) differs from V(d,.4m,) Only in the central row, all the elements
+of which are zero save those on either side the centre (7 = 1 and r = —1), which are
+respectively equal to », and ». This follows from the fact that
+
+sor =0 (r ¥ 1), agr-=1\(r= 1). Again, from (5°21), we may prove in the usual way that
+
+IV (te Omn
+~ F(nlmn)
+
+_)
+
+where V, and V are the same, except that in the 7 column of V, all the elements are
+zero save those on either side the centre (7.¢., » = + 0) which are unity. If in
+V and V, we add half of each of the rows n = + 0 to the centre row; and subtract
+this new centre row from the rows n = + 0, V becomes transformed into V (,,b'nn),
+where U’,,, = b,,,, except when n = + 0, while
+
+(5°38) B’no = 4(Bmo—On—0)

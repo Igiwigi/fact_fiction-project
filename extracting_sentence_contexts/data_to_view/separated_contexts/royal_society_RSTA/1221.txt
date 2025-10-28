@@ -1,21 +1,25 @@
-It may be shown that in
+ao ro Ps | Sé.3 +p (= - ¢,) S0=0; (1-71) The variations 5x, da,, 5¢,;, 50 in this relation are the variations of the values of
+Us: By, @g, 9 at the point P in the virtual change of configuration which has been con-
+sidered. Though e,, and w, are dependent on the gradient of u,, it is readily seen that
+(apart from the fact that e,, = é,,) there exist a set of virtual changes of configuration
+in which any one alone of all the variations involved in (1-71) is different from its value
+in the change of configuration already considered.
 
+' Suppose, for instance, that the variations 5w, in the virtual change already considered
+have values 32, (3, % 2), Sey (1, Lp 2g), dug (7, 72 Xs), throughout the solid, de,, and
+Sw, being determined from the gradient of 3%,, Su. 3u3, according to the formule
+(1-22) and (1-23). Let us denote the values of the variations in the above virtual
+change by the superscript 0, and the current co-ordinates by X,, X., X, while the
+co-ordinates of P are 2, £2, 73. In a virtual change in which the displacement variations are
 
-such a case it is uniform for f in compact subsets of the open right half-axis (0,00). For singular
-perturbation theorists, the reason for that is clear: there are initial (and possibly other) layers
-involved here, and the convergence simply cannot be uniform around f = 0. In fact, quite often singular perturbation theorems have the form
+(30) +k, (Bug)% (Bus),
 
-Jim T,(t)x =T(t)Px, t>0,xeEX, (5.1)
-ro1-
+of all the variations 5w, alone is different at P.
+In a virtual change in which the displacement variations are
 
-where {T(t), t = 0} is a strongly continuous semigroup on a subspace Xq of X and P is a projection
-onto Xo (in the sense that P* = P and Px = x,x € Xo). To repeat, in this case, the classical theory
-does not work and, in particular, condition
+(82 )° + 1(X,— ay), (Bug)®,  (Bus)*,
 
-lim (A—A,)-1x=(4-B)-!Px, = xeX, (5.2)
-rol
+of all the variations e,, alone is different at P.
+In a virtual change in which the displacement variations are
 
-(where B is the generator of {T(f), t > 0}) for all (some) 4 > 0 is necessary but not sufficient for (5.1). Condition (5.2) may imply (5.1) provided that the semigroups involved possess additional
-regularity properties (like uniform analyticity; see e.g. [4], Ch. 31 and 41 for details; the latter
-condition can be for example efficiently checked if we are working in a Hilbert space and
-the semigroups are related to forms, see [18]).
+(5x4),  (8%g)°

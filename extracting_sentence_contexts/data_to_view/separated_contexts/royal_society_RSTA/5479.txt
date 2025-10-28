@@ -1,12 +1,30 @@
-We denote the target variable index as t. First, we observe that each component of the matrix can written as
+a(y— i) * By —) sa
 
-P P P P
-(S)j=(%-Lan') -L yp m-Vain | @ode-DO Vo [i - VeAa] Apia.
-1=0 gj oA 1=0 ia axj k=1 1=0 ia
-(B1)
-The Yule—-Walker-like terms can be set to zero using (2.9) if they correspond to an unconstrained
-coupling coefficient and, at the same time, we can use the instantaneous matrix Ao’ to cancel the
-last two terms in the equation. We note that, given the fact that X’ is a symmetric matrix, we need
-only to force half of the elements to zero. In particular, we set Xj; =0 for j>i, i#t and at the
-same time Z;, =0 for i> t. This choice ensures that all the off-diagonal elements are vanishing
-and, at the same time, that the row index i is never equal to the target index r.
+The first of these terms is the interval from transit to the mean lunar L. W., which
+
+precedes the H. W. given by (22), and the second is the interval after lunar L, W. to
+the time ¢.
+
+We shall proceed to consider H. W., and deduce therefrom the formule for L. W.
+
+§ 5. Reduction of Longitudes of Moon and Sun to time of Fictitious Transit. We have seen in (22) that the interval, from fictitious moon’s transit to the
+time ¢, is
+
+pa Ath ;
+2(y—2)
+
+Now the equation of conservation of areas for the moon’s motion gives
+rl = oc? WAC ro e*),
+
+but since c'/r§ = 1 + P, and since P is small, we have
+
+j=o(1+ 3), very nearly,
+Therefore
+
+or cs (1 + =)
+
+ppp — (A + kn) yo
+
+
+
+PROFESSOR G. H. DARWIN ON TIDAL PREDICTION.

@@ -1,13 +1,14 @@
-T(t)x = 0 for x > 0. From : 3
-both conditions (P) and (I), it follows that there are: a constant r € R and vectors x* > 0 and y* > 0 : &
-such that 7
+From the condition of stability of the standard configuration (1-841) we obtain the
+well-known conditions
 
-lim e"T(x =x" (y*,x) for x eX, (7.1)
+AEE 0! pO er a)
 
-t00
+for the Lamé elastic constants, 4 and yp. From the fact that the dissipation function F (=a
 
-and the convergence in (7.1) is exponential. The fact that the limit projection has rank 1 is a
-consequence of the irreducibility assumption (I). A semigroup {T(t),t = 0} satisfying condition
-(7.1) is said to have asynchronous exponential growth. It should be mentioned that one can find
-in the literature, e.g. [28], a more general definition of asynchronous exponential growth, where
-it is only assumed that e~"T(#)x converges to a non-zero finite rank operator.
+e8nn€a8€nn) MUSt be positive, we
+obtain the conditions
+N+P eS O. EO ws oo oe ge
+
+between the corresponding viscous coefficients, 4’ and yp’. §2. Tue Viprations or a Visco-Exastic Soup: Some GENERAL THEOREMS.
+
+2-1. Lhe general mathematical problem.

@@ -1,16 +1,13 @@
-In [8, §5], this step was done under the restrictive
-assumption of convexity of E(t,-). Here, we show that the proof via the construction of
-MRS is more flexible. Of course, we still need a fine tool from weak convergence theory,
-namely H-measure or microlocal defect measures; see [40-42] for the more general microlocal
-compactness forms.
-
-(c) Pseudo-differential operators and H-measures
-
-To understand the set of stable states a little better, we can use the facts that E(t,-) is quadratic,
-that E(t, -,@) is uniformly convex (by Korn’s inequality and J, da > 0), and that D depends on 6
-only. Thus,
-
-q=(u,0) € S(t) => uminimizes E(t,-,0) > U=Uelast + BO,
-
-where the minimizer Uelast(t) of E(t,-,0) satisfies Uelast(-) € gpir + C!([0, T]; U). The linear
-operator satisfies Be Lin(L7(@); U).
+This, as indicated by the quotation given
+above, may be ascribed to a greater facility given by slight warming, to the breaking
+up of the less stable groups, and possibly to the re-formation of more stable groups. Violent mechanical vibration, however, seems to break up the rather more stable
+groups, rendering the material more semi-plastic and hindering the recovery process. That recovery from overstrain, or more generally, that the phenomenon of “ elastic
+after-action,” is associated with complexity in the physical structure of the material,
+is further borne out by the fact that a crystalline body, such as a quartz torsion
+fibre, exhibits little or no after-action (in the form of zero-creeping) ; while a complex
+body like glass shows such action in marked degree. An analogy to this difference
+in the behaviour of material, according as it is simple or complex, is found in the
+phenomenon of the residual charge in the Leyden jar. Condensers with pure dielec-
+tries such as sulphur, quartz, air, exhibit little or no residual charges ; while with
+complex suhstances like glass, gutta-percha, caoutchouc, the phenomenon is par-
+ticularly observable.

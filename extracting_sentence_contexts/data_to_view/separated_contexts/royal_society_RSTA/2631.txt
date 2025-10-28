@@ -1,6 +1,17 @@
-The maximum sustainable trigger frequency is ~1 KHz. This set-up was developed
-specifically for our first prototype (MU-RAY), and apart from minor improvements, has not been
-changed for the MURAVES project. In fact, we have already produced and tested 48 Slave boards
-(plus spares) for the Vesuvius hodoscopes and the Master boards. In addition, there is a Slow Control Unit that takes care of temperature and humidity readings. This unit also drives a highly efficient Peltier cooling system developed by us (figure 8) that allows
-us to operate the hodoscopes even during the hottest days by keeping the SiPM temperatures
-at manageable levels.
+The fact that in these experiments only
+one side of the filament is being bombarded and that the peak current is one half
+that obtained in the non-equilibrium experiments when both faces of the filament are
+covered with adsorbed atoms shows quite definitely that in the non-equilibrium
+experiments also the adsorbed layer does not split up into two phases as it does with
+caesium on tungsten. In the results published by Taytor and Lanemurr, the
+maximum positive ion current from a tungsten filament at a certain temperature
+when the whole of the emitting surface is bombarded continuously by caesium atoms
+is four times that observed when caesium is deposited and the filament is subsequently
+heated to the same temperature. The fact that the emission curves, fig. 4, all rise to the same peak value shows that the
+thickness of the oxide is uniform to a high degree of accuracy, for otherwise we should
+expect that as the emission proceeded, different elements of the surface, covering
+different thicknesses of oxide, would reach the value of the surface concentration
+corresponding to the maximum rate of positive ion emission per sq cm at different
+times. In these circumstances, which actually arise if the oxidation is not carried
+out in appropriate conditions, the peak in the positive ion current is found to be lower
+and more diffuse the larger the number of atoms deposited on the filament.

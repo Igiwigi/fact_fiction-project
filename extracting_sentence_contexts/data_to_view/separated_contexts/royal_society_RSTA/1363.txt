@@ -1,10 +1,10 @@
-Furthermore, it degrades
-quantification, which is an important issue when used for disease grading and may directly
-impact treatment planning and response assessment. All these limitations can be controlled by
-addressing each type of motion properly and many strategies have been implemented for this
-purpose as shown in figure 1. Moreover, it is worth highlighting a somewhat counterintuitive
-fact: motion can improve the imaging system resolution because it increases spatial sampling. For
-example, a tiny rotation (equal to half the size of the crystal) of PET scanners was commonly
-applied in the past for increasing the spatial sampling and consequently the resolution [17]. Therefore, proper motion management can help increase the resolution of the imaging system
-due to improved sampling, compared to motion-less acquisitions, an effect also referred to as
-super-resolution [18].
+These include the quadric surface, the ruled cubic surface, and some of the quartic
+surfaces of intersection of two quadrics. We set out now to show that given any possible ®-surface F, we can find all H-systems
+of quadrics ® in which F is a general ®-surface. Let F, in fact, be the partial or complete intersection of two quadrics Q;, Q. It will
+clearly be sufficient, then, if we find all H-systems of quadrics which contain Q,, Qe,
+and in which, also, F is a general ®-surface ; and this we now proceed to do. The first step is to determine a certain system of quadrics ®,, where ©, is defined
+as the most general linear system of quadrics, which contains Q,, Qe, and in which the
+general variable surface of intersection is of the same type as ¥. Now there are only three
+kinds of restriction that we can impose on a linear system of quadrics, which will affect
+the type of the general surface of intersection and yet leave the system linear and of
+freedom 7 => 4.

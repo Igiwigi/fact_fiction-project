@@ -1,24 +1,10 @@
-Colour range [—0.01, 0.11]. BlockOperator and BlockDataContainer of CIL:
+This can be shown quite generally as follows. Since w, as obtained refers to axes
+moving with the body, the o¢/ot term will be present in the pressure equation. In
 
-Set up Tikhonov regularization for CGLS using BlockOperator and BlockDataContainer
+fact, :
+47-33 = o (yt st), a 3-2 hee (5.61)
+and so
 
-alpha = 1.0
+p= ela(vas—o5s)— a(t) ay}. an
 
-D = IdentityOperator (ig)
-
-Atilde = BlockOperator(A, alpha*D)
-z = D.range.allocate (0.0)
-
-btilde = BlockDataContainer(b, z)
-
-If instead, we want the discrete gradient as D we simply replace the second line by:
-
-Set up GradientOperator for use in regularization
-
-GradientOperator (ig)
-
-GradientOperator automatically works out from the ImageGeometry ig which dimensions
-are available and sets up finite differencing in all dimensions. If two or more dimensions are
-present, D will in fact be a BlockOperator with a finite-differencing block for each dimension. CIL supports nesting of a BlockOperator inside another, so that Tikhonov regularization with
-a Gradient operator can be conveniently expressed. In figure 5a,b Tikhonov regularization with the GradientOperator is demonstrated on
-the steel-wire sample.
+** Phil. Trans.,’ A, vol. 215, pp.

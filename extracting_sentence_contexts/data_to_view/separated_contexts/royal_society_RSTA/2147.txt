@@ -1,10 +1,16 @@
-As
-the convolution layer number increases, the level of detail in a feature map decreases as the
-number of convolution and pool layers increases, i.e. successive feature maps are blurred by
-their predecessor convolution and pooling steps. The feature maps reveal aspects of the images
-of interest, including the hole, and edge features. The fact that edge features have been learned
-by the feature maps in this example raises a concern as to what the corresponding convolution
-filters are learning. While the assumption is that labelled example images are presented to the
-CNN in order for the model to learn the difference between signal and noise, there is a potential
-disconnect as to what in the images is being used to learn that difference. It is important to check
-that the model has learned to address the intended problem.
+Slight polarization of the primary radiation—as shown by the variation in
+intensity of radiation scattered around such a primary beam,f
+
+2, Polarization of the scattered X-radiation, proceeding in a direction perpendicular
+to that of propagation of the primary radiation{ (such as is shown in light
+scattered from the sky), and
+
+3. The close agreement between wide limits, of the theoretical and experimental
+distribution of radiation scattered in a plane containing the direction of pro-
+pagation of the primary beam,$
+
+are inexplicable except on the transverse wave theory. These experimental results were, in fact, looked for as necessarily following from
+such a theory. Similar results may, however, be obtained by transverse waves along
+strings or flexible tubes. An arrangement of flexible tubes may be used in lecture
+demonstrations illustrating mechanical phenomena exactly analogous to the three
+above-mentioned X-radiation phenomena.

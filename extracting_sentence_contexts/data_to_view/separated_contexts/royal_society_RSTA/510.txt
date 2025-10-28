@@ -1,14 +1,13 @@
-The seven methods shown in red (light grey in print version)
-(lower case labels) use the nonlinear model in the reconstruction, while the other five methods (upper case labels) use the
-linear model. From top to bottom, the methods are constraint using (1) non-negative matrix factorization projections, (2) mixed
-wavelet sparsity and non-negative matrix factorization projections, (3) mixed wavelet sparsity and low-rank matrix factorization
-projections, (4) wavelet tree sparsity, (5) wavelet sparsity, (6) low-rank matrix projections, (7) positivity, (8) total variation
-regularization, (9) wavelet tree sparsity and (10) wavelet sparsity. The second to last results are those achieved with ART [1]
-and the last results are those for FBP. (Online version in colour.)
+Since
 
-results in the light of the fact that we are unable to calculate exact projections onto the union
-of these two constraints and the fact that our algorithm is primarily designed for subspace
-models (which the non-negative factorization is not) shows that the two constraints are capturing
-important complementary properties of the data. This demonstrates that there is a need to study
-these joint constraints in more detail in the future. The only linear cost function-based result that is not matched by the nonlinear methods is
-the linear approach with the TV constraint.
+the X-ray ionic yield (7 ~3) is independent of enzyme concentration above 0:003%
+
+weight of enzyme in solution (figure 4) we conclude that at these concentrations virtually
+the whole of the ions or radicals formed by X-rays are eliminated by collision with
+carboxypeptidase and only a negligible proportion by the alternative reaction. If the fact
+that the a-ray yield is only one-twentieth of the X-ray yield is taken to indicate that, on
+account of the high ion density within the a-ray column, only one-twentieth of the ions or
+radicals make collisions with enzyme molecules before they are eliminated, the probability
+of encounter between radicals and enzyme molecules must be correspondingly low. That
+probability should therefore be proportional to the concentration of enzyme molecules. It was with this point specially in mind that the influence of enzyme concentrations on
+a-particle ionic yield was studied.

@@ -1,9 +1,18 @@
-Each cell is assigned
-healthy /infected or dead flag depending on the interactions with its neighbours
+The quantitative applicability of the basic ideas
+to the interpretation of the effect of uniform stress on magnetization curves has been
+abundantly confirmed. Uncertainties arise, however, in the extension of these ideas to the
+explanation of the low and moderate field behaviour of (unstressed) materials generally in
+terms of localized internal stress variations. By postulating a particular type of variation,
+a qualitative co-ordination of various magnetic characteristics of a particular material can,
+indeed, be obtained; but there is, in general, no independent evidence that the actual internal
+stress variations are, in fact, of the type required to account for the magnetic behaviour. It cannot be too strongly emphasized that the variations required are not of the type corre-
 
-for more details see Sloot et al. 2002). Different drug therapies can be modelled by differences in a response
-distribution function over time. The function is chosen to model the fact that
-he drug therapy will not immediately influence all of the infected cells, but
-rather it will affect part of them at each time step. At the same time, the function
-accounts for the concept of drug-resistant virus strains emerging. The simulation result for treatment naive individual dynamics is shown in
-figure 5.
+
+OF MAGNETIC HYSTERESIS IN HETEROGENEOUS ALLOYS 603
+
+sponding to local fluctuations of density, such as might be associated with variations of
+stress having the character of ‘hydrostatic’ pressure, but are variations in spacing such as
+would arise from variations in tension along a particular direction. For well-annealed materials containing small amounts of ‘impurities’ the interpretation
+of the magnetic properties in terms of changes in the effective area of domain boundaries,
+as suggested by Kersten in his later work, seems very convincing, and the stress variation
+mechanism, here highly improbable, need not be invoked.

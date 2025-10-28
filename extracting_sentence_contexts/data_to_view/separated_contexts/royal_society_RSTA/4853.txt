@@ -1,26 +1,16 @@
-We believe (4.1) holds uniformly when the real parts of the shifts are < 1/log T
-but the imaginary parts of the shifts can be large, as large as T!~¢ and even larger. This has not
-been proved to hold for (4.1), but has been proved, as mentioned above, by Bettin [7] in the case
-of the second moment. Now we use the fact that
-
-Da p(s + 2) = Da+z,p+2(8)
-
-and, assuming the uniform version of (4.1), replace [>° W(t/T)Da,a(s + 2)D),s(1 — s + w) dt in the
-above by
-
-0
-| Wh) Zir(a+z,B+z,y +w,d +w) dt.
-0
-
-Next, note that
-
-Zi(a+zB+zy+u,d+w)=Z(a+z+u,bB+z+u,y,8)
-
-follows just from the symmetries of Z;. We now change variables with s =z + w and have
-
-1 xs co
-I(T; X) = ~—, —"*_T HZr(a +s,B +s;y,5)dtdwds + O(T7/3**).
-a) (2xi? Wrocs Dons w(s — w) I, WO Zr(a +58 +s:7-3) ¢ )
-
-We move the path of integration in the w-variable off to the left, to —oo, and collect the residue
-from the pole at w = 0.
+Eery fine, and, consequently, the suspended apparatus very light. In order to go
+jeyond this, it becomes necessary to determine to what point the optical sensitiveness
+nn profitably be carried—or, what comes to the same thing, the limit of the angular
+Salue of the fluctuations of the zero, Under fixed conditions, the weight of the
+Shirror will simply depend on the defining power required. The maker must take
+Bito account (1) the optical limit as to smallness, depending on the wave-length of
+ght; and (2) the fact that the mirror must be thick enough neither to deform under
+own weight, nor to deform owing to the freeing of internal stresses during its
+Fhanufacture. Before exact theory can be applied to the construction of a galvano-
+meter it is, therefore, necessary to fix on the weight of the mirror, and though, with
+the experience we have now acquired with magnetically and thermally seveened
+instruments, we can form an estimate of the minimum weight of the mirror,
+we could not do so before the instrument was constructed. It was necessary, there-
+fore, to proceed along the lines indicated by the general principles involved, and to
+make such alterations from time to time in the design as increased knowledge
+suggested.

@@ -1,12 +1,14 @@
-Motivated by oscillations in the hippocampus, the effect : o
-of the synaptic depression and inhibitory time delay on synchronization and cluster formation in : x
-a network of excitatory cells and inhibitory cells was studied in the case where both cell types [34] : =
-or only the excitatory cells [44] are inherently oscillatory. :3
++4Bv = 0 where 2B? = 2#e S10 A
+ia
 
-Here we consider a model for a global inhibitory network, where both the excitatory and
-inhibitory cells are excitable. We include an explicit representation of delays in the model
-equations, which allows for a systematic study of the role of delays in producing network-induced
-oscillations. Motivated by the fact that many inhibitory networks in the brain have gap junctional
-coupling, we assume the inhibitory cells are synchronized and represent them with a single cell. Our work can be considered an extension of the previous work [9,51,52] to include the effect of
-explicit time delays. Our work is complementary to that by Bose and co-workers [34,44] as we
-consider networks where both cell types are non-oscillatory.
+Taking into consideration the fact that v does not become infinite for infinite values
+of z, the solution of this is
+Pawnee sin bedaye- COB EZ, . «<2 se we (12)
+Differentiating this twice with respect to z we find
+
+dy
+dz
+
+Substituting this value in (11) we find
+
+= 2B*(—A,e-™ cos Be+Ae™ sin Bz).

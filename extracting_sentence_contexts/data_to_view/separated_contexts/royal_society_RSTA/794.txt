@@ -1,17 +1,18 @@
-As :
-a consequence the states can be efficiently represented with controllable error by MPSs which es
-allow efficient computation of desired operator expectation values with controlled errors. This 3
-representability is coupled in practice with findability—which is the existence of efficient algorithms, [8
-such as the original DMRG algorithm, which find the desired representation in a time that scales :
-polynomially—indeed linearly—with system size. While for the DMRG algorithm this scaling is ia
-an empirical fact about some unknown dynamical system,! there now also exists an algorithm Dw
-that provably solves the problem in a time that scales polynomially in system size [8]. DMRG also :
-works very well for critical points, where Sg grows logarithmically with subsystem size which is :g
-modest enough to allow sufficient accuracy. a
-
-For thermalizing systems this cluster of ideas fails when addressed to highly excited :
-eigenstates—eigenstates with a finite energy density corresponding to a non-zero temperature—
-due to the volume law entanglement that is generically present in these states. However, in
-many-body localized (MBL) systems [9-14] even highly excited eigenstates exhibit area law
-entanglement [11,15] which leads to the possibility [16,17] that excited states can be constructed
-efficiently via DMRG-like algorithms in a manner analogous to ground states.
+On the
+days on which noon penetration frequencies for Region E were available the peak
+amplitudes of all atmospherics recorded in this operation as coming from sources
+within 3000 km. were summed to form the ‘ thunderstorm index figure ’’. The
+relation between the penetration frequency and the “‘ thunderstorm index figure ”
+was found to be represented by a correlation coefficient as high as +0-75. It has,
+however, since been found that the occurrence of abnormal Region E reflexion is
+usually accompanied with improved short-wave communication, so that the
+question arises whether the value of the ‘‘ thunderstorm index figure ”’ as defined
+above would be influenced at all by transmission conditions and whether the high
+correlation observed is merely the expression of the fact that the intensity of atmo-
+spherics is increased, by way of improved transmission, when abnormal Region E
+reflexion is present. Our knowledge of long-wave transmissions under these
+abnormal conditions is so slight, however, that we are unable to give a definite
+answer on this point. A further contribution to this subject was made by Ratcurre and WuirteE in
+1934 who, from a rigorous statistical examination of (P’, ¢) data, confirmed earlier
+work concerning the connexion between abnormal Region E reflexion and magnetic
+activity.

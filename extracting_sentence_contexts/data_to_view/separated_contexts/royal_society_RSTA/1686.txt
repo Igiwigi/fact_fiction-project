@@ -1,14 +1,9 @@
-Uniqueness of the solution follows since the difference of two solutions of (iaCP 4s)
-solves the homogeneous problem (aCP 4s) for the initial value up = 0. In case Lf =g the function
-u defined in (5.1) gives a solution of (iaCPy4s). This follows immediately from the fact that
-u(t) € D(A®) implies that LA,,u(t) = Bu(t) for all t > 0. a
-
-(c) Decoupling for analytic semigroups
-
-The problem (aP2) consists of two differential equations where the second one describes, by
-means of the boundary operator B : D(B) Cc X > 3X, an interaction between the state space X and
-the boundary space dX. The aim of this section is to ‘decouple’ this problem, i.e. we show its equivalence to a
-system consisting of two independent Cauchy problems: the first one on the space Xo = ker(L)
-of functions having zero trace governed by the operator Ag with abstract Dirichlet boundary
-conditions. The second one on the boundary space 0X governed by a Dirichlet-to-Neumann
-operator N.
+The Strength of Thin Fibres. Consideration of the consequences of the foregoing general deduction indicated that
+very small solids of given form, e.g., wires or fibres, might be expected to be stronger
+than large ones, as there must in such cases be some additional restriction on the size
+of the flaws. In the limit, in fact, a fibre consisting of a single line of molecules must
+possess the theoretical molecular tensile strength. In this connection it is, of course,
+well known that fine wires are stronger than thick ones, but the present view suggests
+that in sufficiently fine wires the effect should be enormously greater than is observed
+in ordinary cases. This conclusion has been verified experimentally for the glass used in the previous
+tests, strengths of the same order as the theoretical tenacity having been observed.

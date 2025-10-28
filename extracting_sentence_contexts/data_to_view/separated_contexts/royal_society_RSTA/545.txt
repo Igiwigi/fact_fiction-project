@@ -1,20 +1,15 @@
-These methods are included here primarily
-as additional means to confirm the character of the nonlinearity (typically, by looking back at
-the Characterization step from the later Location and Quantification steps which demand such
-methods). The exception to this category is restoring force surfaces, which can give significant
-(and, notably, non-parametric) insight into the character of the nonlinearity, but is a typically
-single DOF analysis.
+Therefore
+Pa(7) and z(r) are equal when 7 = 0 or 0. From these facts and equation (52) we deduce
+that the equation p,(7) = z?(r) is approximately true for all values of 7. As a matter of fact
+the approximation is very close indeed, and the error involved in assuming that it is exactly
 
-(iii) Location and quantification (Steps 6 and 7)
 
-The existing methods for Location and Quantification of nonlinear features are essentially those
-first mentioned as ‘other methods’ for Detection and Characterization of nonlinearities in the
-previous sections. This follows from the fact that these methods are typically based on the trialled
-parameters or the closest fit to an a priori analytic form. However, methods based on FRFs, time-
-domain or time-frequency representations are of limited use for Location and Quantification
-given that all DOFs will tend to exhibit some effects from the nonlinearity, and not necessarily
-in an obvious or intuitive way. We perceive location of hidden/previously unknown nonlinear features as a greater challenge
-than the previous steps of Detection and Characterization, largely because the act of trying
-to locate infers analysis of a multi-DOF system, and any nonlinear system which passed the
-Detection stage will typically exhibit an influence of the nonlinearity at all DOFs—making
-standard FRF, time-domain and time-frequency plots of limited use.
+DIFFRACTION FROM AN IRREGULAR SCREEN 607
+true can be neglected for all practical purposes. We have done this throughout the foregoing
+
+paper. The approximate (almost exact) equation can be written
+
+}
+
+(| [Ws 4/) exp (enipny af
+Px(7)

@@ -1,9 +1,5 @@
-Inall our applications, 2 will be a (non-empty) open subset of R¢ (with the Lebesgue measure)
-and V will be a subspace of the first Sobolev space
-
-H}(Q):= (ue L?(Q): du €L*(Q) for all j=1,...,d},
-
-where we understand the derivative oyu in the sense of distributions. The space H}(Q) is a
-sublattice of L?(2), which means that u+,u~ € H!(@) whenever u € H'(Q). In fact, we have
-aj(ut) = Lwee:u(w)>0) 9; for each u € H1(Q) [46, Proposition 4.4]. The following lemma, which we quote from [47, Lemma 11.1.1], is the key to apply
-Proposition 5.5(b) to forms defined on subspaces of H1(Q). Lemma 5.6.
+cit., pp. 120-122. The cause of the difficulty is to be found in the fact
+that now the stationary value may be expected to arise from values of n for which « is small. Then n is
+nearly equal to z, and in all such cases more complicated analysis is inevitable. In fact the approximations
+to S, (2) and E, (2) require to be modified by different formule corresponding to the cases n > 2, <2
+and to the cases in which |n —2| is of order 2/s or of lower order.

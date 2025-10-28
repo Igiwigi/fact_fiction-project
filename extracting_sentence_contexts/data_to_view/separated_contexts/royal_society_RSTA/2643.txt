@@ -1,9 +1,30 @@
-This value is slightly larger than the value found with the back-
-projection method. This result requires careful verification and could be linked to the fact that we
-do not know the exact structure of the material contained between the position of the detector and
-the Gran Cava. In fact, we have already identified some tunnels near the detector’s location that
-cannot be easily accessed due to the collapse of material from above. The observed effect could
-then be due to some cavities still present below the Gran Cava floor. Apart from these comments,
-which could be important for the optimization phase of the technique, the result is positive for the
-test of the methodology, which seems to also work in the case of very large volumes and bodies
-with respect to the case presented in §3a.
+Tueorem I—Jf a liquid moves irrotationally between the fixed planes y = + b, except for
+the presence of a point-vortex of strength « at (x, ),), and if the liquid is at rest at infinity,
+then the components of velocity at any point (x,y) are given by
+
+yee: we (221) __ n (z—-z1)
+u— v=, ( tanh coat’ San coth i Vive Mba eae toe (AS)
+
+where ; , ;
+z=x+y, aA=Ai+, By — eye eee (4.2)
+
+This is a known result, or immediately deducible from known results*, since the
+system of images of the vortex in the planes _y = + 4 form two collinear rows of
+vortices of strengths x and —«. It is, however, easy to verify directly that (4.1)
+gives a motion satisfying the following conditions :—
+
+(i) The motion is without expansion and irrotational except for z = Z, : this follows from
+the fact that wu — i is an analytic function of z for any point z between the planes
+y= + db except z= %. (ii) The circulation in a circuit surrounding z, is x: this is seen from the fact that for
+such a circuit
+
+(iii) v = 0 for» = + 6: this follows from the fact that in general
+2 cos 1
+=_ = 9
+tanh SAE St Se ee -(454)
+4 4b sinh a (x + wy — *,) —7 sin aE
+
+and when y = + 4 this becomes
+ny
+2 cos wd
++ ¢ cosh

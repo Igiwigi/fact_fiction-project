@@ -1,12 +1,9 @@
-Precision—recall curves for basenets (tested on entire settlement) and models augmented with 50% of settlement
-data (tested on remaining 50%).
-
-only greyscale (panchromatic) imagery, suggesting that the characteristics of the settlement are a
-much more important factor for accuracy of structure detection than the availability of multi-band
-colour images. The extent to which adaptation data helped detection accuracy is shown for sample settlements
-in figure 3, where we zoom in on the high-precision, high-recall area of each curve and show the
-different between the basenet and each of the adapted nets. For some settlements, adaptation data
-give a strong improvement; other less so, and sometimes with accuracy in fact decreasing. Note
-that for each quantity of adaptation data, the test set changes each time (as we only evaluate on
-parts of the settlement which were not used for adaptation training). Hence the performance is
-not guaranteed to increase with increasing adaptation data.
+It would seem as though some irregular or possibly regular series of waves occurred
+at the boundary, changing H, rapidly by from 0°5 to 1 km., and T, by 5° C., or
+occasionally even more, and I am inclined to think that there is some connection
+between these disturbances and the small pressure waves of short period that are not
+infrequently shown on the micro-barograph. Discussion of the Results. The tables and figures given in the preceding part of this paper are, I hope,
+observational facts about which there can be no serious dispute. In addition to the
+observations in Europe we have a certain amount of information from the tropical
+and equatorial regions, and from America. It is certain that as the equator is
+approached the value of H, rises, and that of T, falls.

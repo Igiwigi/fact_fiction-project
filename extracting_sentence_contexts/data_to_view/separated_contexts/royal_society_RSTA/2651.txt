@@ -1,14 +1,15 @@
-Schematic visualization of absorption radiography and scattering tomography and the corresponding detector ape
-geometries. (Online version in colour.) oR
+The resistivity 1/p is introduced into the
+A calculations for purely mathematical reasons, on account of certain analytical
+advantages which it seems to offer. The results obtained in this way, in terms of
+the coefficients of p, might be got otherwise by an extension of the method used by
+Scuuster. This identity of results is clear from the fact that if the Fourrer
+coefficients of p are small enough the Taytor’s series for 1/p is absolutely convergent,
+and the legitimacy of the use of 1/p is in this case immediately evident; the formal
+results, however, do not depend on any property of convergence, so that the results
+obtained by using 1/p remain equally valid with those obtained in any other way,
+even though the series for 1/p should become non-convergent. ‘This is one of many
+instances in which it is possible and advantageous to use expressions which may
+VOL. CCXIII.— A. 2P
 
-Figure 6. Examples of static muon tomography systems, Los Alamos MMT (a), Lynkeos MIS (b) and INFN Padova (c). (Online
-version in colour.)
 
-X-ray source in a CT system, while the lower detectors detect the presence, absence and scattering
-of the muons that were defined by the upper detectors. This is, in fact, very similar to a CT
-system, but due to the angular distribution of cosmic muons and due to the geometric limits
-imposed by the detector system only a narrow angular range around the vertical is covered. This
-necessarily means that the resolution of such a muon tomography system in the horizontal plane
-(in x and y) will be much better than the vertical resolution (along with the z-axis). The existing
-muon tomography systems are static systems, i.e. they require that the object or sample is placed
-inside their active volume.
+290 DR.

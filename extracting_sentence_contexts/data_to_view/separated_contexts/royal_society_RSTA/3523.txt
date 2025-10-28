@@ -1,53 +1,10 @@
-In addition, equation (3.11) represents the second
-Kirchhoff’s law, where a disjunctive, big-M-based model [74] is used for new lines, ¥ being
-a sufficiently large positive constant. For existing network infrastructure, we can assume that
-Hin = Mery =1 in all equations. Similarly, for those lines where there are no candidate FACTS
+The value of b/a for cy is also largest in winter, but in the case of H the summer
+value appears also in excess of the equinoctial. At Kew, the values of b/a for ey
+are with one exception decidedly smaller than the corresponding value for ¢, ; in like
+manner the values for cs are generally less than those for ¢,, and the values for ¢, less
 
-
-devices (i.e.1 ¢ £2), we assume ue 0 and, therefore, fe 0:
-
-Lm Lm,t
-
-Ye Pott DS PB —Dumt= Yo fime— Do fim VYneNVmeMVteT, (3.7)
-
-geGn beBy leFrom, leTon
-fimt =fling thou VleLmeMVteT, (3.8)
-—fiPin Sfmt Sify Viel, ¥meM,VteT, (3.9)
-Foun, <u <feeew Viel VmeM,VteT, (3.10)
-From __ gTo From __ gTo
-ait nyt mt nyt
-and = YL Hy) + fing SE + HL = Hh
-VleL,VmeM,VteT. (3.11)
-Generating units are also constrained by both their available power capacity (driven by the z
-availability of renewable resources, the maximum generation capacity for all units and outages : =
-for conventional units) and their ramp rate limits (equations (3.12) and (3.13), respectively, where 28
-we assume that only conventional generation features ramping-related limitations). Furthermore, : oy
-energy storage plants, which are modelled through equations (3.14)-(3.17), can provide services : 2
-associated with energy arbitrage (i.e. charge/discharge actions to improve the system load 1
-factor, charging during off-peak periods and discharging during peak periods following the : S
-a
-
-minimization of the total cost in equation (3.1)) and flexibility (since storage plants are not affected
-by ramp rate constraints such as those specified in equation (3.13) for generating units):
-
-Pont <PenAgy VeEeG,VmeM,VteT, (3.12)
-
-= ROWE < PS nt — PS ta < Re Pens VE EGo, Wm eM, VtET, (3.13)
-
-gmt-1="g © gm
-
-= PR SPB mt <P VOEBNmeM,VteT, (3.14)
-Pont =Pbmt ~Phme VOEBmeM,VteT, (3.15)
-PRint =Pbint1—Pbhmet Pimp, VbeBmeM,VteT (3.16)
-and Print Pomte, VbEBWmeM,VteT. (3.17)
-
-Finally, all decision variables are continuous and non-negative, except for (i) power transfers,
-voltage angles and net outputs of storage plants, which may be negative, and (ii) investment
-variables associated with new network infrastructure, which are binary, indicating whether a
-candidate asset has been chosen for investment (binary variable equal to 1) or not (binary variable
-equal to 0). Note that further details can be included in a straightforward manner in the operational
-model by adding more variables, constraints and cost functions related to units’ minimum stable
-generations, start-up and shut-down costs, minimum up and down times, etc. (see, for instance,
-[65,67,68,75]), albeit the current level of detail (equations (3.1)-(3.17)) suffices to illustrate the
-importance of operational constraints (through ramp rate and time-coupling constraints, besides
-power flow and capacity constraints) when planning future infrastructure.
+x than those of ¢,. In fact, in summer we have negative values for b/a in ¢, for D, H
+S and N. This may be accidental, as the numerical values appear very small, but we
+§ may at least conclude that sun-spot frequency exerts but a trifling influence on the
+& value of c, at Kew. s The reduction in the value of b/a as we pass from cy to cs, and from ey to ¢,, is also
+© % well shown at Wilhelmshaven, though not quite so prominently as at Kew.

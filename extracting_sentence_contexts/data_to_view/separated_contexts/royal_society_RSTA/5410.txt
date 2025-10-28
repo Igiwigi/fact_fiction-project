@@ -1,12 +1,7 @@
-These modelling techniques may contribute
-greatly to the generation of multiscale detailed meshes, driven by structural data
-from high-resolution tomography. Owing to the large size of these data, also
-mesh coarsening through surface and volumetric simplification methods is
-an important capability. In fact, the effectiveness of adaptive computational
-techniques rests on fast and robust low-level mesh primitives, including Boolean
-operators, for both refinement and coarsening. Bajaj et al. (2008) have recently introduced a simple and robust method to
-trace the intersection curves between triangular or quadrilateral prismatic
-A-patches, while refining the support triangulation where needed. Their
-prototype implementation provides for the computation of Boolean operations
-between proteins (figure 5), offering a simple way of estimating the docking
-quality of very complex shapes.
+When we wish to indicate this fact we may refer to them as intensities. On the
+other hand, electric and magnetic induction, and electric currents, belong to the
+second class, being defined with reference to areas. When we wish to indicate this
+fact we shall refer to them as fluxes.” Now in connecting dashed with undashed
+letters it is absolutely necessary to bear in mind whether the vectors indicated are
+intensities or fluxes. The connection between D and D’ will differ from that between
+H and H’.

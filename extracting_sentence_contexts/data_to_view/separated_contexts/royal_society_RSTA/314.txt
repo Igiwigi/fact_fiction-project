@@ -1,17 +1,14 @@
-However, quantum
-mechanically we cannot proceed this way!
+Consider the mesh of figure 14, on the curved boundary of which the function w and its
+derivatives dw/dx, dw/dy are specified at every point. If the differential equation were of
+the second order (with only one boundary condition to satisfy), finite-difference equations
+would be set up at all internal points, external (fictitious) points being eliminated. The
+finite-difference form of the biharmonic equation, however, involves more pivotal points,
+and in particular its satisfaction at internal points adjacent to the boundary would involve
+the elimination of many fictitious points, at least one of which is more than one mesh length
+distant from the boundary. Ficure 14
 
-(i) Cascaded systems
-
-The simplest form of a network consists of a pair of cascaded systems,
-as shown in figure 7. In the instantaneous feedforward limit, the output
-of the second plant is dBO = dB + Indt= (5 dBO + Lydt) + Indt=
-
-1
-5S, BO + (SLi + Lo) dt. The cascaded system in the instantaneous feedforward limit is in fact equivalent
-
-to the single component [19]
-
-(S2, Le, He) <1 (Si, L1, Ai) = (5251, Le + Soli, Hy + Ho + Im{ L455 L1}),
-
-which is referred to as the series product of the two models [19]. Phil. Trans.
+Fox & Southwell (1941) therefore proposed to satisfy the differential equation only at
+those internal points, marked with a cross in figure 14, which involve only those fictitious
+points, marked with an open circle, less than one mesh length outside the boundary. The
+other internal points, marked with a closed circle, would be obtained by means of the
+boundary conditions; they might then by analogy be called internal fictitious points.

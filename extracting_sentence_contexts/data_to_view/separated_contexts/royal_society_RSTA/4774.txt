@@ -1,21 +1,23 @@
-Only since
-mathematical physics 2008 have twistor methods emerged as yielding efficient
-new methods for calculating scattering amplitudes. Keywords: This brief review will describe this recent sequence
-twistor theory, scattering amplitudes, of developments, with an emphasis on the fwistor
+[At)—f(—t)]dt+...+ = cos ns. L(t) —A(—2)] cos nt dt
++ = cos ns [ L/(t)+f(—t)] cos nt dt+...;
 
-diagram formalism. Twistor diagrams were conceived as
-roughly analogous to Feynman diagrams, as used since
-the 1940s for the calculation of scattering amplitudes.
+and, therefore, in virtue of the fact that the n term converges to zero as n tends
+to o, with those of
 
-amplituhedron
+1 7 4 7 ; 2 7
+*(’ f(t) dt+ = cos § [re cost dt+...+ = cos ns i} f(t) cos nt dt +....
 
-Author for correspondence: They have in fact led the way to a completely new
-Andrew Hodges picture of amplitudes. This review of the sequence of
-e-mail: hodges@maths.ox.ac.uk ideas is intended to be accessible to readers who are
+Referring to the first inequality of § 20, we deduce from this that U(s) and L(s),
+the upper and lower limits of indeterminacy of (43), satisfy the inequality
 
-acquainted with the ideas of relativistic quantum field
-theory, but have not been closely involved in these new
-developments. The central point is that twistor geometry makes
-manifest conformal symmetry within Minkowski space—
-time, and conformal symmetry has increasingly been
-recognized as a feature of fundamental physics.
+U(s)= lim a [" 1, (5,1) (0) de = lim -r |" 1, (3,0) (de = L(s);
+
+* Vide TV., §§ 13-15,
+
+
+FUNCTIONS IN THE THEORY OF INTEGRAL EQUATIONS. 155
+
+which may be written
+U(s) = lim § ay e*[f(s—t)+fls+t)] a= in if ay e*[f(s—t)+ f(s+t)]dt= L(s), (44)
+
+where « is any positive number (§10).

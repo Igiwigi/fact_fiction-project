@@ -1,36 +1,13 @@
-Each FP in (2.12) can now be
-solved and any conditional PDF Q)); can be constructed. We show in detail the FP for P; and P2,
-and their analytical solutions.
-
-
-(a) One- and two-time Fokker—Planck equations 8 |
-
-Performing the derivation found in appendix B, we obtain the Fokker—Planck equations for
-P1(x, t|xo,0) and P2(x, t,x’, '|x9,0), with t > t’, given by
-
-aP. oP, v(t) a?P.
-1p ot b(t) a" Py
-at ax 2 ax? (42)
-d aP2 kw dP v(t) d*Po  AC(t’,t) 8*Po
-an a dx | 2 Oa2 | at dxdx"’
-where for f <t
-a
-cl.) =0| A(t — s)a(t’ — s) ds. (4.3)
-0
-
-The FP equations (4.2) are supplemented by the localized initial conditions
-Pi (x,0| x9,0) = 5(x — xo) (4.4) :2
-and 3
-3
-Po(x, t,x", |x9,0) = 8(x — x')P1 (x,t | x, 0), (4.5) 73
-ae
-which indicates that the solution of the P; equation at time ¢’ is needed to generate the initial 8
-condition at time f = t’ for the P2 equation. : o
-The simple form of equations (4.2) allows us to gain physical intuition about the process they in
-describe. In each equation, the first term represents the deterministic, or mean rate of movement : =
-for the variable x, which in fact corresponds to the derivative of the mean of the DLE (3.3). The : 3
-
-role of this first term, taken as a force resulting from a potential proportional to x, is to drive
-the solution away from the initial preparation of the system, i.e. with x localized at xo, towards
-x=0. To understand how the dynamics are affected by this first term it suffices to consider the
-evolution of P;, or P3, in the absence of diffusion, i.e. o = 0, and zero history ¥(t) = 0.
+This disposition, as I then
+pointed out (XIV, 608), would give the repulsion required to account for the stability
+of such free films. In one way or another, therefore, the molecules in a thin layer of gas enclosed between
+two attracting surfaces must differ in the specification of their energy content from the
+molecules in the body of the gas and, like those in an enclosed layer of liquid, they form
+a different osmotic species, but the difficulties in the way of this hypothesis are serious :—
+An air gap of 0-004 to 0-007 mm. seems inconsistent with the rate of relaxation of
+strain in a gas. An even more formidable difficulty lies in the fact that the gap is
+unchanged when the air is displaced by liquid (XT, 224), for two different causes are
+unlikely to produce precisely the same effect. Finally, electric repulsion of the kind
+indicated above seems inconsistent with the fact that the gap is the same, namely,
+0-004 mm. for carefully-trued cylinders and plates of materials so dissimilar electrically
+as steel and glass.

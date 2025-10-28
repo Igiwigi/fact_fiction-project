@@ -1,16 +1,7 @@
-The latter is explained by the fact that this
-configuration (REG) amounts to discarding the non-equilibrium part of populations that are
-computed using recursive formulae. In addition, it is confirmed that none of the collision models are able to remove the Mach
-number limitation, which was obtained in the linear case, and which is imposed by the lattice
-and the equilibrium. In fact, by adopting a different type of equilibrium, e.g. the entropic
-formulation obtained by minimizing the H-functional under the constraint of density and
-momentum conservation [134], this limitation could be alleviated but at the cost of part of the
-physics [76]. To improve both the physical and numerical properties of LBMs, one could include
-correction terms for the velocity-dependent errors that remain in the definition of the viscous
-
-stress tensor [26,47,77,85,92-95]. : =
-
-Going into more detail, the SRT-RR approach clearly outperforms other collision models based : =
-on an SRT. Even though the SRT-K model leads to better stability domains than in the linear 1B
-case, it remains pretty similar to those obtained with the BGK operator while being far more :2
-complicated.
+|| The heats of formation for calculating the calorimetric values are given in E.S., Table IH, p. 59, with
+the exception of centralite (for which the heats of formation at 15° C. have been taken as 250 calories
+per gram and 67,000 calories per gm. mol.), and of mineral jelly (for which the corresponding values are
+465 calories per gram and 131.130 calories per gm. mol.). In this connection we are indebted to
+Dr, G. Rorrer for drawing our attention to the fact that the figures quoted in E.S., Table I, for dipheny-
+lamine should read + 32-5 calories per gram and +5490 calories per gm. mol. in place of — 325
+and — 54,900 respectively as there entered.

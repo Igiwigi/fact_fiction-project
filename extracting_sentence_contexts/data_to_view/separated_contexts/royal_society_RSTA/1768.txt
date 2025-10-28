@@ -1,13 +1,25 @@
-Furthermore, these two specimens
-form an interesting case study for the application of TCA, as they have different ultrasound
-attenuation factors caused by different ply lay-up sequences, fibre volumetric percentages etc.
-and both contain flat sections that have different nominal thicknesses (7 mm and 7.3mm for the
-source and target, respectively) where damage is present in the flat sections of both specimens. For this reason the flat sections of each specimen are the focus of this study, as specified in the
-label maps in figures 6 and 7. Finally, as the goal in this case study is to transfer label knowledge
-from the source to target panel, only the informative parts of the source panel are used in training
-and testing the algorithm, which is partly due to the fact that training TCA has a computational
-complexity of O(k(Ns + N;)?) [39]. These informative sections from the source panel are chosen as
-they contain representative examples of both the damaged and undamaged classes, where these
-sections are divided into training (black regions) and testing data (red regions) in figure 6. The
-black region in figure 7 relates to unlabelled target data used in inferring the TCA mapping (and
-are not used in training the classifier).
+The Lagrangian function of the system is still of the form
+
+L+ < | (BE?) de,
+
+L being that part of it which is not directly determined by the conditions in the field
+and which will as usual be assumed to be a function of the positions and velocities
+of the electric and magnetic elements only. The sequence of changes is then best
+described by the fact that the action integral
+
+b Lf 2 2 ’ fia [n+ | (BE) av]
+
+taken between fixed time limits is stationary subject to the implied conditions of the
+field. If we assume generally that there are a number of discrete electric particles as
+well in the field, these conditions may be written in the form
+
+div E—47de = 0,
+div (B—H)+472m = 0,
+
+Curl H-+ gE _ its; = 0,
+ce dt c
+
+we - ag —4r Dm», = 0,
+wherein e is the charge of the typical electron and y, its velocity, m is the strength of
+the typical magnetic particle whose velocity is v,, and the sum Z in each equation is
+taken per unit volume at each place over the respective elements indicated in it.

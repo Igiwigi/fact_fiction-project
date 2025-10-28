@@ -1,21 +1,12 @@
-In statistical microeconomics, all the prices are fundamentally dynamical and changing, as
-expressed by the kinetic terms in the Lagrangian given by
+The computations become more and more laborious as n# increases. It was decided
+therefore to make a limited use of extrapolation. This might at first appear a somewhat
+dubious operation, but in fact it is fully justifiable. Thus in the relevant region, at the
+extreme right of the tables, .¥ (nt, n*,/) varies remarkably slowly along a row. In addition,
+it was possible to lock the extrapolated columns at a number of points by evaluating the
+function at integral values of both n#., and n¥ using a formula due to Gordon (1929), who
+showed that for such values of n#_, and n#
 
-2 :
-1 a2x ~ (ax\? :=
-T[x(Hl==|L(—) +i (=) |. i3
-mOI=35 (5) + (3) :F
+| ” R(n#,,1—1,C) R(n#, l, C)rdr = PU, (26)
+0
 
-Hence, in contrast with the standard microeconomic theory, the dynamical nature of a : a
-stochastic price means that it is randomly changing and evolving in time. In particular, the 78
-prices are not the result of an equilibrium between supply and demand—as is expressed in the Dw
-general equilibrium theory—but, instead, market prices are determined by the form of the action :
-functional A[x]. : a
-
-The microeconomic kinetic term T[x(t)] is quite unlike the case for physics, for which only the : Ss
-‘velocity’ term (ax/at)? appears. In fact, it is shown in [6] that the acceleration term (2x/dt?)* is :
-forbidden in quantum mechanics as it leads to a time evolution that does not conserve probability. As the prime purpose of modelling price is to explain the unequal time correlation functions, there
-is no need for a probabilistic interpretation of the action functional, as is the case for quantum
-mechanics. The fundamental assumption of statistical microeconomics is that the behaviour of the price
-of a commodity is described by the microeconomic Lagrangian, a model of which is given
-in equation (3.3).
+(—1)0t-0 (wt +1)!

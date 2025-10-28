@@ -1,20 +1,10 @@
-In both cases, the system is analysed in terms of an equivalent linear damper,
-whose value changes with excitation level. Although the focus of this paper is on systems with
-positive values of both linear and nonlinear damping, which are thus stable, it is noted that
-the amplitude response of an unstable system, with negative linear damping, can be limited by
-positive nonlinear damping, as described by Rayleigh [1]. In fact, amplitude stabilization of such : =
-
-instabilities occurs in the human cochlea, where the resulting limit cycle oscillations are known Sy
-as spontaneous otoacoustic emissions [15]. 2
-
-For sinusoidal excitation, it is seen that such an equivalent linear damper can be obtained aed
-by retaining the fundamental term in a harmonic balance analysis, which is equivalent to _
-the describing function approach used in control engineering. Closed-form solutions for the : Ss
-equivalent linear damper can be obtained, in terms of the driving level, for a single-degree-of- DNS
-freedom system will low-order nonlinear damping, but iterative methods need to be used for : =
-higher order nonlinearities or in MDOF systems. For random excitation, it is shown that an error : s
-
-minimization technique, a series truncation approach and an equivalent power method all give
-the same expression for the equivalent linear damper, which is equal to the cross-correlation
-between the damping force and the velocity, divided by the auto-correlation of the velocity, both
-at zero lag.
+Soc. Journ.,’ 1892, p. 906), we found that
+copper lowered the F.P. of lead by 1°'17 C., and that the eutectic alloy contained
+rather less than ‘2 atomic percentage of copper. The difficulty of tracing the upper branch of the curve between 85 and 100 atomic
+percentages of lead is not due to the insolubility of copper in lead, for, at a red heat,
+copper dissolves freely ; but rather to the fact that, between these limits, the solu-
+bility changes but little with change of temperature, so that at any given temperature
+the amount of solid that separates is small. It is evident that the curve must
+become almost vertical for dilute solutions. At the end of each series, after removing the pyrometer and stirrer, the furnace
+was closed as completely as possible, and the alloy allowed to cool slowly in a current
+of reducing gas.

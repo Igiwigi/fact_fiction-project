@@ -1,23 +1,8 @@
-The only function that
-can be applied initially should be an ordinary processing function, g; € Procs’. Hence, the
-initial state q° € Start; from which g; emerges must be an ordinary state;
+273
 
-(ii) an ordinary function g; can process a symbol from IN; if one is present, or it can proceed
-by ignoring the input value in which case the content of IN; remains unchanged. A similar
-behaviour is expected for the OUT; port; and
-
-(iii) after a communicating function is applied, the machine state will be an ordinary one, and
-so the next function to be applied (if any) will also be ordinary.
-
-
-(c) X-machine testing
-
-The fact that an SXM can be regarded as an augmented version of its associated automaton
-means that well-established automated FSM test-set generation strategies (e.g. based on Chow’s
-W-method [26]) can be ‘lifted’ to provide SXM testing strategies. The goal of SXM testing is to
-establish whether two SXMs, S (the specification) and T (the implementation under test, or IUT)
-compute the same behaviour. We assume that the complete structure of S is known and that S
-has been minimized, that S and T use the same set Procs of processing functions (if not, we define
-Procs to be the union of their respective process sets), and attempt to find a finite test set, Tests C In*,
-with the property that, if [|S[](t) = |Z((#) for every t € Tests, then S and Z must necessarily compute
-the same relation.
+when statistics of this kind are collected, and more than one son in a family is
+included. There is a more significant difference in the variation of wives and
+daughters. It is, however, in the opposite sense to what we may suppose would
+be produced by natural selection, or by the fact that we have drawn daughters from
+aless general population than wives. There is no definite evidence as to natural
+selection to be drawn from these results accordingly. (ii.)

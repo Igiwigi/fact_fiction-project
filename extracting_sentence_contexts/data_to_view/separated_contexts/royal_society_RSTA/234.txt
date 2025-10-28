@@ -1,11 +1,24 @@
-T,0,K*% 0.5-1.5s is a dead time required to process
-information about stimuli and to initiate actions. It may be different for
-different kinds of stimuli; see model (3.10).
+This equation is similar to the equation of heat conduction in a substance
+in which a chemical reaction is taking place, which has been studied, by the method of the present paper
+and otherwise, by Crank and Nicolson (1946).
 
-— Relaxation time. T* 1-10s appears owing to the fact that vehicles are
-capable of only finite acceleration; see model (3.12).
+4-2
 
-— Desired time gap (also called time headway). Tsay 1-2s is the time
-distance drivers would like to keep when following a leader; see
-model (3.13). We remark that these times should also be distinguished from the numerical
-update time that is simply an artefact of time discretization.
+
+28 N. R. EYRES AND OTHERS ON
+
+from it the measure of time on the é-scale in terms of which the variation of surface tempera-
+ture is given. ;
+
+The distortion of the T-scale relative to the tscale (or vice versa) can be represented
+mechanically by connecting the shafts of the machine representing ¢ and T by a continuously
+variable gear giving a gear ratio proportional to the instantaneous value of D (or 1/D). An
+integrator is just such a continuously variable gear; in fact from the definition (9-7) of T
+it follows that
+
+i [e2/m2D(@) aT. (11-1) Hence if an integrator is displaced by an amount proportional to the instantaneous value of
+1/D(@), and rotated from the shaft whose rotation measures 7, its output will be a measure
+of ¢, and can be used to drive an input table carrying a graph of the surface temperature 6,
+as a function of the true time ¢. The displacement proportional to 1/D(@) is furnished to the
+machine from a second input table on which a curve of 1/D(@) as a function of @ is placed,
+and which is driven by a shaft whose rotation measures the mean temperature 0.

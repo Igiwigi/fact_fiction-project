@@ -1,9 +1,10 @@
-Pathway Complexity has an upper bound of Ny — 1, where Ny is the number of vertices on the
-graph. This represents joining two fundamental graphs in the first step, and then adding one more
-ata time until the object is constructed. One lower bound of Pathway Complexity is logy Ny, which
-represents the fact that the simplest way to increase the size of an object in a pathway is to take the
-largest object so far and join it to itself, e.g. we can make an object of size 2 with one join, 4 with
-2 joins, 8 with 3 joins, etc. An illustration of the upper and lower bounds of Pathway Complexity
-can be seen in figure 4, with the orange regions being forbidden due to the above boundary
-conditions. The green portion of the figure is illustrative of the location in the complexity space
-where life might reasonably be found.
+Thus Freiburg is the highest and Wolfenbiittel the lowest. The absolute maxima
+(between 8 a.m. and 8 p.m.) are Wolfenbiittel 64, Freiburg 420, Karasjok 384, i.e.,
+the same order as before. It is a strange fact that the yearly period should be so marked in Karasjok, while
+no yearly period can be detected in either Wolfenbiittel or Freiburg. As stated
+above, neither Etster and Gerret nor GockEL have observed after 8 P.M., so it is
+impossible to compare the daily periods. It would be exceedingly interesting to
+know if there is a large daily variation in mid-Europe, for if there is not, then the
+mean winter value of the radio-activity in Karasjok will be very high compared with
+mid-Europe, the mean for the winter, when night as well as day observations are
+taken into account, being 126 at Karasjok.

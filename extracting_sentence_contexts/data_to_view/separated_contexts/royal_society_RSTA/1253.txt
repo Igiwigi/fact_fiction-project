@@ -1,12 +1,8 @@
-We can suppose that f(t, u,p) < mr for t € [0,1], 0<u <r and |p| < Q(r), and that
-Nu 41 on dxU,;. The same conclusion holds.
-
-6. Zero index result
-
-We now use the fact that elements of K are concave, hence u(t) > y(#)||U/\loo where y (f) = min{t, 1 —
-t}. By exploiting properties of the Green’s function it is sometimes possible to obtain a better
-estimate, namely a larger function y than the one just written, for example see some of the results
-in [1,2,19]. Similarly, it is also possible for more complicated differential equations (in place of u’’)
-
-
-to obtain an inequality such as u(t) > y(t)||u\|oo when concavity is not available.
+1. Except in a few very simple cases, the equations which govern the motion of a
+viscous fluid have so far defied analysis. Their difficulty comes mainly from the fact
+that they are not linear, so that the principle of superposition cannot be employed,
+as in many branches of mathematical physics, to construct solutions by the method
+of series or of singularities. For the same reason the flow pattern in the neighbourhood
+of a moving body must alter when the speed of the body is changed, and it follows that
+any exact determination of the pattern will be restricted to some definite speed. ‘As a matter of fact, no precise determination of this kind exists, except in cases where
+the motion is indefinitely slow.

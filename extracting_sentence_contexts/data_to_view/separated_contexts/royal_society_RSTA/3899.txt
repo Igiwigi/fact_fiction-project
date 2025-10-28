@@ -1,28 +1,17 @@
-Given the choice of the simulated Ma number (in the 10-3 to 10-7
-range), it is verified a posteriori that the scheme guarantees high levels of numerical stability and
-accuracy.
-
-(c) Computational efficiency
-
-Efficiency is a crucial feature of our computational approach due to the fact that water is reduced
-to handling a handful of degrees of freedom per mesh node. Given a mesh voxel of ~ 1 A3, when
-
-
-compared with a water molecule occupying a volume of 27 A3, the cost of handling the single 6 |
-mesh node is still much more convenient than handling water explicitly via molecular dynamics
-
-owing to the local nature of the lattice Boltzmann collisions. In fact, aggregating floating-point “a
-operations with data movements to and from memory, one has to perform about 100 floating point : o
-operations per timestep; in contrast, computing forces in molecular dynamics requires about 10 is
-times more operations, even for a CG version of the solvent. : Zs
-
-As our effort aims at extending the spatial and temporal scales that can be accessed by 3
-the computational scheme, it should be remarked that by making use of a CG model for :e
-
-the macromolecules and the continuum-based methodology for water creates an intrinsically
-uneven distribution of particles in the simulated system. In parallel computing terms, one
-
-wants to distribute the simulation burden across multiple processing units in order to : 8
-reduce systematically the time-to-solution. However, handling a sparse system is not the best Do
-configuration to handle, because load balancing is difficult to achieve and be guaranteed in the : =
-general case.
+For example,
+a tin-rich crystallisation which appeared to be primary, was found to increase to a
+maximum amount as we descended a branch of the curve, and in more than one
+region undeniable primary crystals which stood out in relief on the outside of the
+ingots were found, when polished half-through, to be full of smaller and quite
+different crystals. In fact, it became evident that the final patterns we were
+examining were of the nature of a palimpsest in which several different records were
+superposed, some of these being due to recrystallisations that had taken place after
+solidification. Two other considerations pointed to the same conclusion, the first was
+derived from the very valuable cooling curves, published by Roperts-AustEN and
+STANSFIELD in 1895, which revealed the fact that far below the temperature of
+solidification considerable evolutions of heat occurred in the alloys as they cooled. The second was derived from Professor RoozEBoom’s paper on the “ Solidification of
+Mixed Crystals of Two Substances,” published in the ‘ Zeitschrift fiir Physikalische
+Chemie,’ of December, 1899. These two researches have been respectively the
+experimental and the theoretical basis from which the present work has grown, and
+the possibilities of interpretation which they promised have induced us to make a
+much more serious study of the bronzes than we originally intended.

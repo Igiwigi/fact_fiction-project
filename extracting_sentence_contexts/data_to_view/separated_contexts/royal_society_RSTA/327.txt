@@ -1,8 +1,6 @@
-Numerical optimization in the space of
-orthogonal matrices tends to be faster and more stable than in the general space of matrices,
-which is probably the main reason for making this transformation. It is important to point out that whitening is not uniquely defined. In fact, if z is white, then
-any orthogonal transform Uz, with U being an orthogonal matrix, is white as well. This highlights
-the importance of non-Gaussianity: mere information of uncorrelatedness does not lead to a
-unique decomposition. Because, for Gaussian variables, uncorrelatedness implies independence,
-whitening exhausts all the dependence information in the data, and we can estimate the mixing
-matrix only up to an arbitrary orthogonal matrix.
+The figures quoted above represent good conditions in the Atlantic. On the edge of the
+8 continental shelf, where gradients of up to 1 in 5 are experienced and the bottom is ex-
+2 tremely irregular, it was sometimes difficult to record echoes at all. This was attributed to
+ey the fact that the echoes were very much drawn out. Although it is estimated that under
+> these conditions the maximum pressure did not exceed 0-02 dynes/cm.?, it was always
+= possible to get a sounding, and at the majority of stations excellent records were obtained. = 2:7.

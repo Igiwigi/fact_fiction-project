@@ -1,13 +1,8 @@
-Owing to the helical phase structure, an OAM beam has a ring-shaped
-intensity profile with a central null, and its wavefront twists along the propagation direction
-with a twisting rate depending on ¢ [16]. OAM beams with different ¢ values are mutually
-orthogonal [16], so that beams carrying different OAMs can act as independent channel carriers
-for efficiently (de-)multiplexing multiple information-bearing signals [11]. Moreover, owing to
-the fact that the OAM spatial domain is independent of other properties of an EM wave,
-OAM multiplexing is in principle compatible with other existing multiplexing techniques, such
-as frequency or wavelength division multiplexing (FDM or WDM), and polarization division
-multiplexing (PDM) [17,18]. Specifically, beams with the same wavelength and polarization can
-be re-used by applying different OAM chargers to each of the many beams, enabling a potentially
-significant increase in the system transmission capacity. Applying OAM to enhance classical communication systems has been quite interesting, and
-it is especially exciting given that this is the 25th anniversary of the renowned paper by Allen,
-working with Han Woerdman and colleagues at Leiden University in The Netherlands [13].
+Since, in the application of these integrals, the vanishing
+of « implies the vanishing of 8, we appear to be met by a difficulty. It is known
+that in spheroidal analysis no such terms appear, and we may feel confident that
+they cannot really exist in ellipsoidal analysis. In § 20 it is proved that the
+logarithmic terms do as a fact disappear. The residues of the integrals in the cases
+s = 1, 0 are thus found, and added to the previous portions to form the complete
+results. The second part of the paper ends (§ 22) with a list of the integrals of the squares
+of the surface harmonies for all values of s, as far as the squares of £.

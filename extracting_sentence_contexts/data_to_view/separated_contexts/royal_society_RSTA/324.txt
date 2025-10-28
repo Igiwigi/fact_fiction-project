@@ -1,7 +1,11 @@
-For graphs with loops, the situation is more complex. Exact inference can still be performed
-using techniques such as the junction tree algorithm [16], but the computational cost can become
-prohibitive, depending on the structure of the graph. An alternative approach, known as loopy
-belief propagation [17], uses the same message-passing technique as discussed earlier for tree-
-structured graphs, but simply iterates the messages to allow for the fact that, with loops present,
-a standard two-pass schedule does not lead to exact marginals. Although this process may seem
-ad hoc, it has been found to yield good results in many applications. So far, we have assumed that the local messages at each node can be computed exactly.
+Alternatively, the fictitious
+points could be expressed in terms of w,, Wz, We and wp, leaving four equations for relaxation. OF ELLIPTIC DIFFERENTIAL EQUATIONS 367
+
+Or again, an iterative process could be used, in which the fictitious points are held fixed at
+some approximate values while equations (B.16) are solved for wy, W;, We and wp. New
+and more accurate values can then be obtained for the fictitious points from (B.17) and
+the process repeated until there is no further change. This last method is effectively the one
+used (graphically) by Fox & Southwell, and has the advantage that no complicated formulae
+are used in the relaxation; the process may, however, converge only slowly. The solution of these equations agrees with the analytical solution (B. 14) to four figures,
+the precision being dependent on the number of decimals retained in the binomial coeffi-
+cients and subsequent work.

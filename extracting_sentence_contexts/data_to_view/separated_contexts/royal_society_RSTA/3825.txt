@@ -1,17 +1,16 @@
-The analysis presented herein is one step towards this goal,
-and a number of points can be improved. Most notably, some effort can be made on post-
-processing a beam hardening correction, more advanced filtering methods (bilateral filtering
-would be particularly suitable), as well as a tailor-made edge detector giving correctly sized
-cracks. Furthermore, despite its success in separating the fragments seen above, the watershed
-method could be improved to take into account two physical realities: (i) the fact that some cracks
-can exist without splitting the material and (ii) the geometry of the specimen. As to the latter,
-the region-growing part of the watershed algorithm grows isotropically, whereas the limited
+The
+bombs and crystalline blocks are the larger masses enclosed in the old tuffs from
+which the brown earth has mostly formed. In many respects it bears a strong
+resemblance to the “ head” which covers the rocks in Cornwall, only the appearance
+_ of bedding is more frequent. A fact of some importance in connection with the geographical development of
 
+a
+eee A ae 6a
+“ ae }
 
+wae nz
 
-Table 1. 3D image processing steps on a central slice illustrated on specimen SPS-L.
+By
+ou 9 ote oe
 
-(a) Original greyscale image. Some beam hardening visible, cracks with a range of different
-openings visible (greater and smaller than 1 px, i.e. 40 um).
-
-(6) 3D Sobel operator on (a).
+Fic. 1. Map of the south-east corner of St. Vincent.

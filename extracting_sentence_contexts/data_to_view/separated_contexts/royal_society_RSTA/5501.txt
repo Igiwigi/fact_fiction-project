@@ -1,9 +1,14 @@
-Typically, heart-rate alterations are quantified looking at the time intervals
-between consecutive R peaks because of their ease of detection. However, the frameworks found
-the P-wave very important for this class (figure 2a). Given the fact that the P-wave does not
-change during bradycardia, the assessment of the low heart rate might have been performed
-by the network ‘looking’ at the rate of both P-wave and QRS complex. Similarly, the frameworks
-found the T-wave relevant for the detection of AF (atrial fibrillation), which is characterized by the
-absence of the P-wave, an oscillatory pattern on the ECG baseline and irregular heart rate. In this
-case, the frameworks hint that the network may use samples between consecutive beats where the
-T-wave, the isoelectric line, and part of the P-wave are located to detect AF.
+541
+
+3. The curves obtained with “foil at the back of the guard-tube” had the lowest
+ordinates. We may, therefore, conclude that the attachment of a small piece of foil to the
+guard-tube not only altered the shape of the curve connecting the sensibility of the
+electrometer with the potential of the needle, but, whether the foil was put at the side
+or at the back of the guard-tube, it diminished the sensibility for high potentials of
+the needle, in fact, exaggerated the very peculiarity in the behaviour of the instru-
+ment which is under investigation. This makes it almost certain that the reason
+why, under ordinary circumstances, a high potential of the needle does not produce a
+S high sensibility, lies in the fact that the guard-tube is not continuous all round in the
+‘5 neighbourhood of the needle. = The bending up which may be seen at the ends of the curves on Sheet V.
+“&, (Plate 11), as well as at the ends of many of the curves on the preceding sheets, is
+“ probably due to a slight tilting of the needle at high potentials.

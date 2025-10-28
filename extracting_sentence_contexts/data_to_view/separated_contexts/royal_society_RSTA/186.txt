@@ -1,16 +1,10 @@
-The analogue in random K-SAT is that, although, in principle, there is a
-imit a. separating SAT from UNSAT, in practice, computer programs basec
-on local dynamical algorithms are unable to reach this limit but stick at a lower
-Q@p, the analogue of Tp. The recognition of the existence and quantification o
-he resultant intermediate HARD-SAT region came through the application anc
-extension to K-SAT of statistical-physics techniques developed for spin glassses
-(Mézard et al. 2002; Mézard & Montanari 2009). In fact, the technique, known as
-‘survey propagation’ (and a development of the original cavity method; Mézarc
-et al. 1987), can often be applied to specific as well as averaged problems and has
-proven extremely useful practically.!! Furthermore, there are other quasi-transitions in the p-spin glass; for example,
-at a temperature higher than Tp, a p-spin glass acquires an extensive
-configurational entropy that affects response and correlation functions without
-being thermodynamically relevant, again with an analogue in K-SAT (Krzakala
-et al. 2007). Studies of the p-spin glass in an applied magnetic field demonstrate
-that, beyond a critical field, the dynamical and thermodynamical transitions
-come together.
+We shall return to this
+question in § 42.
+
+39. In the membrane analogue, according to § 10, unstable conditions exist upstream,
+where the circumstances correspond with A in figure 2, but stable conditions downstream,
+where the circumstances correspond with B. Neither region in fact gave trouble, except
+that very fine grading had to be employed, as indicated in figure 25, to determine S with
+precision. The assumed conditions upstream were those of §36, and a multiplying factor
+24 /3 x 100 was employed. On the finest net (part of which is reproduced in a supplementary
+diagram) ¥-values were computed to one more significant figure.

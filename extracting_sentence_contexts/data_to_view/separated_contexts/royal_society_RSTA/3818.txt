@@ -1,50 +1,13 @@
-In order to limit
-this effect, the Hillerborg regularization model has been included [14]. In this method, the energy
-consumed by a crack to propagate through a band of finite elements is no longer dependent on the
-mesh size because of a fixed characteristic length L¢. In fact, the method consists in modifying the
-softening part of the stress-strain relation in order to obtain the same fracture energy whatever
-the mesh size. To do so, a new variable w is introduced,
+K = 0,
+Gy E, + dgky +... + dK = 0,
 
-@=1 if eq Ep, (2.13)
-L
-
-w= Py (1 - =) =“a(Ri) if eq > ep, (2.14)
-& E L
-4 eq) Le
-
-where &p = H€pet(1 - )Epd with Ept and Epd being, respectively, the peak strain in tension
-and compression. a(R;) is a corrective function dependent on the dynamic increase factor Rj. This variable w is included in the damage formula (equation (2.4)) to adapt the damage kinetic,
-taking into account the characteristic length L, of the material and the finite-element characteristic
-length Le,
-De=1- fot“) — wAvexp(—Be(wéeq — €01))- (2.15)
-eq
-
-As proposed by Hillerborg et al. [14], the characteristic length L. is assumed to be directly
-linked to the fracture energy G; and the static tensile strength f, of the material under
-
-consideration,
-EoGe
-
-feo
-
-(2.16)
-
-c=
+OB, Cg Bg ith wc! oat rR Ot eed eect ene
 
 
-(a) (b)
 
-P consolidated behav,
+MR. J, H. JEANS ON THE DISTRIBUTION OF MOLECULAR ENERGY, 407
 
-. are re Ss
-q=min (q)=Vdy + a)P + a,P*, g..,)
-
-K,
-cons grain
-
-Imax f (water cont. 7)
-
-Pps Prong Pressure P
-
-¢ : K,
-Pin ft 5 : Evmax  0ettin.
+These equations are not independent ; when they are added together the resulting
+equation vanishes identically in virtue of the fact that the mean total energy is,
+under all circumstances, unchanged by collisions. Hence the equations can all be satisfied when the variables E,, E,... K are ina
+definite ratio.

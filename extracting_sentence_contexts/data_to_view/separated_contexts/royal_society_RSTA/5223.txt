@@ -1,24 +1,10 @@
-Be iy ald
+Other
+compositions in general follow the same line of route; they all have their defining
+hodes upon the line of route, and a certain number of defining nodes will, in general,
+€ common to all of them. Consider the path AcbB in the graph given below. All compositions whose graphs
+ollow this line of route must have the node b; b, in fact, is an essential node along
+this line of route. 854 MAJOR P. A. MACMAHON ON THE THEORY
 
-Step 2: monotonicity of the coefficients and v!' supersolution. Recall that vy = w/a satisfies —1 < vy <0. Then, for —1 <z <0, we compute
-
-Here, we used the fact that (@’/a)’ < 0. For any h > 0, let
-
-ul(y, t) = vy, t +h). Then, v!' satisfies
-
-Fy,t +h, [v")) = vp — 30707 (E + hv, + pyvtt + rol" —c) + yB(vl,, t +h)
-
-h
-
-<u - OL + pyri + rv" —c)+ yBCv), t)
-
-=F, t [")
-where we used in the second line, the properties vyy > 0, a non-decreasing, and
-t+h
-
-Bu}, t+) = Buf, t) + |
-
-aB ey, h
-; ss (vy,s) < Bivy, t)
-
-because of (8.2).
+Essential nodes occur on a line of route at all points where the course chang
+from the B to the « direction. We may regard a line of route as defined by these essential nodes since the line
+route is completely given by these nodes.

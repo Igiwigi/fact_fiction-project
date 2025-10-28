@@ -1,19 +1,7 @@
-All calculations are performed with periodic supercells, with full structural relaxation,
-including relaxation of the cell shape, unless otherwise stated. To achieve a desired convergence of
-less than 0.1 meV per atom, necessary for the description of the hydrogen diffusion barriers in Fe,
-Monkhorst-Pack k-point grids, with density of approximately 8000 kpts - atoms, are used. Owing
-to the fact that hydrogen is extremely light, the zero-point vibrations of the H atom are taken
-into account in the evaluation of the trapping energies; however, the variation of the zero-point
-vibrational energy along diffusion paths, within the nudged-elastic band scheme, is neglected. In
-some cases, the results are compared with ab initio values; these are obtained with the plane-wave
-VASP package [26], using an equivalent k-point mesh, and an energy cut-off consistent with a
-convergence of less than 0.1 meV per atom.
+The sample space W is limited to the first quadrant of the plane of the x’s, and its
+positive part, W,, (0,), corresponding to any fixed value of 6,, is formed by a triangle
+as suggested in fig. 4. In order to see at once the difficulties introduced by the fact that the probability
+law (70) depends upon two parameters, while we are interested in one only, let us
+try to solve the problem of confidence intervals by a guess. In Example I, the more
 
-3. {110}-Terminated twist grain boundaries
-
-Within an atomistic modelling framework, it is not feasible to screen all possible classes of grain
-boundaries, from near-bulk £3-type boundaries to low-angle grain boundaries characterized
-by periodic arrays of edge dislocations, while encompassing the whole range of twist and tilt
-boundaries. It is the view of the authors that a more systematic approach can be achieved by
-considering a particular class of boundaries, which can be well characterized by a particular order
-parameter, and then to examine properties of the boundaries as a function of that parameter.
+* This point will be discussed later. See pp.

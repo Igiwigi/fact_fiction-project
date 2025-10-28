@@ -1,11 +1,16 @@
-Sphere uses the same basic idea, but extends this paradigm to wide-area
-distributed computing. Many of the GPGPU algorithms and applications can be
-adapted and run in a distributed fashion using Sphere. In fact, it is this analogue to
-GPGPU which inspired our work on Sphere. There are some important differences though: Sphere uses heterogeneous
-distributed computers connected by high-speed, wide-area networks instead of the
-identical ALUs integrated in a GPU; Sphere supports more flexible movement of
-data, but also requires load balancing and fault tolerance; finally, the bandwidth
-setween Sphere’s SPEs, although it may be up to 10 Gbs* |, is not even close to
+Either the electric or the magnetic stress alone may be taken in hand. Start
+Zthen, from a knowledge that the force on a magnetic pole of strength m is Rm, where
+=R is the polar force of any distribution of intrinsic magnetisation in a medium, the
+Ewhole of which has unit inductivity, so that
 
-he bandwidth within a GPU. Owing to these differences, Sphere runs a complete
-orocessing function or program on each SPE, rather than one instruction.
+&
+
+3 Given moon ee seh. aay eg acs ts (280)
+
+3 :
+
+ie)
+
+measures the density of the fictitious “magnetic” matter; h) being the intrinsic
+jo) . . . : : . . . Aforce, or, since here »=1, the intensity of magnetisation, The induction is
+B=h+R.

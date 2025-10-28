@@ -1,12 +1,15 @@
-Broadly
-speaking, the results explain the wide variability of y noted in previous studies of geophysical
-problems involving turbulent mixing. Engineering and geophysical problems involving turbulent mixing—ranging from the spread
-of pollutants and hazardous plumes to combustion to the effect of anthropogenic tracers in
-climate change—are typically very complex and it has been difficult to derive rigorous results for
-these complex problems. On the other hand, rigorous results can, in fact, be attained for simple
-models of the complex phenomena. If these models are good enough to capture qualitatively
-the basic ingredients of laboratory experiments and real phenomena, it is conceivable that
-one may better understand the underlying physical content of the observed complexity. This
-content could include such features as transitions between Gaussian and stretched-tail probability
-density functions for the passive scalar, the nature of the steady-state turbulent spectrum for
-scalar variance and the eddy diffusivity approximations for tracers.
+6. Biharmonic finite-difference equations for rectangular boundaries
+
+The usual finite-difference equation for the numerical solution of equations of the type
+(I. 7) is that given as equation (B. 1). For all points except those adjacent to the rectangular
+boundary, this equation involves only points on and internal to the boundary, while at points
+adjacent to the boundary one line of external (fictitious) points is involved. The most usual
+and important pair of boundary conditions is given by
+
+dw/dv = g(x,);
+
+and the second of these enables the fictitious points to be obtained in terms of internal and
+boundary points. In previous applications of relaxation methods to the biharmonic equation
+(Fox & Southwell 1941), the simplest possible approximation, involving the neglect of third
+differences, has been used for the derivative condition, and no attempt has been made to
+assess the error of equation (B. 1).

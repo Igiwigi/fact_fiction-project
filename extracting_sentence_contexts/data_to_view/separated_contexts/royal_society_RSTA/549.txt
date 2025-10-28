@@ -1,11 +1,12 @@
-However, nonlinear responses : 3
-to greenhouse gas forcing are known to exist, and are expected to be important in specific regions [3
-such as the North Atlantic Subpolar Gyre. Furthermore, competition between multiple forcings :8
-(e.g. greenhouse gases and anthropogenic aerosol) complicate the relationship between changes : s
-in GMST and changes in local climate. An important consequence is that large forced changes in 1&
+Since there is only one centrally located sample for a given sequence or function, no mean
+square deviation corresponding to V[f,] can be calculated for a single sequence or function. The sampling error can only be expressed in terms of the difference of the mean of the sample
+from the mean of the whole sequence or function. (d) End-corrections
 
-regional climates may occur in the absence of any (net) forced change in GMST, a fact which is
-crucial to the assessment of geo-engineering proposals. In reality, the signal of forced climate change on local scales is progressively emerging from
-the background of natural variability. Measuring rates of change relative to this background
-variability (rather than solely in absolute terms) is important for the assessment impacts
-and changing risks.
+Instead of taking the ordinary mean ,/, fora randomly located systematic sample, allow-
+ance can be made for the fact that the first and last terms are situated at distances from the
+ends of the sequence or function which in general differ from 4d. The simplest form of
+adjustment, and the only one which is ordinarily worth considering, is to assign a weight to
+the first term of ($d-+-r—4)/d in the case of a sequence and (4$¢+-7)/din the case of a function,
+and a similar weight of ($d+-r’—4)/d or (4d+7’)/d to the last term, where 7’ is the number
+or distance of the last term reckoned from the end of the sequence or function. We will call such a mean the mean of a randomly located systematic sample with end-
+corrections and will denote it by ,/,.

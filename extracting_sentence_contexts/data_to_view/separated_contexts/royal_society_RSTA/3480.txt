@@ -1,29 +1,18 @@
-Here V7 (tet7 tk+2) indicates the value of committing C; at ty,1 followed by the
-optimal commitments for t > th. In order to optimally manage the operation of the wind farm, at time f=, we lock in the
-commitment at f,,; by maximizing over all possible future commitment decisions j for each of
-the current possible commitments i (for which we are yet to make a decision). Mathematically, we
-can write the optimization as
+With this apparatus it was found possible to maintain an actual current of
+‘4 ampére (corresponding to 2 AMPERES per square centimetre of filament surface) at
+a pressure of Jess than g}9 millim. The current could not be made to surpass this
+value since the filament melted on raising it to a slightly higher temperature. The
+fact that such large currents can be produced at such low pressures has an important
+bearing on the theory of the mechanism by which the corpuscles are produced, which
+will be considered later.
 
-Vi (te; thy) = maxlVii(tki thyi)] Vi. (4.8)
+$5. The Relation between the Saturation Current and the Temperature.
 
-Now as we step back in time across the instant from just after ty to just before t,, we must take
-account of the fact that C, i,j refers to the current and future commitments and that the current one
-will become the future commitment for the previous period. So, if we write f, to denote the value
-the instant before the decision is made, and tt to denote the instant just after, we obtain the final
-condition when solving in the period t € [t,_1, f]:
+From the experiments on the variation of the saturation current with the
+resistance we have been able to give numbers which indicate, roughly at any rate,
+the way in which the former depends on the temperature. It was thought that a
+more reliable estimate might be obtained if the temperature of the filament were
+determined by means of a thermal junction of platinum and iridio-platinum, With
+this object the following experiments were made :—
 
-Vit=t it) = max[ V(t; teya)]- (4.9)
-
-To value the contract in between agreement times ty < f < t,41, with or without a delay before
-its commencement, we can use the Feynman-Kac formula (according to It6 calculus, see [13] for
-more details) to derive a PDE for Vj;. It follows simply that we must solve the following PDE for
-all possible controls C;,;:
-
-aVij 1 ay PVij 19, 9 0?Vij avi 1 d6y avi;
-4 1 xX 4 1 Y 4 i L a in O i —Y a
-ae | 2°X* Gx 7 DPV" Gy2 TQ ber ( YT ey dt ) ay
-1 dox avi;
-+ KX (0+ x dt -x) ax 7 Vii FTX Y,Q,C) =0, (4.10)
-
-where r is the discount rate (per hour) and Z is the instantaneous income function as defined in
-(4.2).
+The tube employed was that shown in fig.

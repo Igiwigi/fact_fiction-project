@@ -1,9 +1,12 @@
-This is indeed the case in the QCT calculations, where
-the capture rate, defined as the rate for entering the ion—molecule well, is essentially the same
-as the overall reaction rate. In fact, the SIFT rate coefficients reported here are slightly larger
-than the parametrized collision rate by Su & Chesnavich [4], which takes into account only the
-polarizability and permanent dipole moment of the neutral species. Despite the fact that our PES has the same long-range terms as in Wei et al. [10], our calculated
-rate coefficients are much larger than the earlier QCT results. The difference can thus be attributed
-to the different level of the ab initio theory. The current CCSD(T)-F12b method is considered as the
-gold standard in ab initio calculations because it captures electron correlation due to high-order
-excitations that are necessary for describing the dispersion interactions.
+Since |7| increases as ¢ and A decrease, the initial parts of the curves in fig. 8 get
+steeper as the wave-length is decreased, and the over land curves are much steeper than
+the over sea ones. This is equivalent to the fact that the ground attenuation due to earth
+losses increases rapidly with decreasing ¢ and A.
+
+By using the reciprocal theorem the analysis applies as well to the case when the
+receiver is on the ground and the transmitter is elevated. By combining both cases the
+effect of having both the transmitter and receiver elevated can be calculated. If hy
+and h, are the heights of the transmitter and receiver respectively above the ground,
+then the signal strength at the receiver is obtained by adding to the value worked out
+with both assumed on the ground, the gain reckoned from the ground up to hp, plus the
+gain reckoned from the ground up to /;.

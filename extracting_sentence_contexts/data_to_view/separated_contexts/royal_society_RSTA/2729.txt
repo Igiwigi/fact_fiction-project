@@ -1,18 +1,12 @@
-Let k=(1 — K) =C,/(Cr+Cp) © Cp/Cr, because Cr > Cy, where Cr = C + C; and K was defined
-by equation (3.6). The step-wise capacitor discharge process was described above and led to the
-equation:
-
-V, =VyK" =Vy(1—k)". (3.13)
-
-Based on Taylor series, (1—k)"=1—nk+n(n— Dk°/2! — n(n —1)(n— 2) /3!+4+--- and, if
-nk <1, the above formula can be approximated as (1—k)"=1—nk. From the fact that
-we have levels Vy and V, fixed (i.e. const) by the measurement method, we must have
-(1—k)® =1~-—nk=const. Thus, under nk «1, nk = const, and hence
-
-n
-
-Cp
-C+G7" const. (3.14)
-
-So, if C >> Cy, then C+ Cy © C. Thus, Cp /C = const, which means n must be linearly proportional
-to C.
+If the above general idea is accepted, there will be two extremes in this kind of
+equilibrium. Where the atomic size factors are markedly unfavourable, the atomic
+factor is predominant, and the classical methods may be applied as in the work of
+Jererery. At the other extreme, when the atomic size factors are favourable, and the
+solvent and solute are in the same period, the equilibrium is essentially electronic and
+ionic, and the classical equations require modification* to allow for the fact that the
+electrons form a degenerate system. In between these extremes are systems such as
+copper-tin and silver-gallium, where the size factors are near the critical limit,
+and the whole position becomes more confused. The fact that in these and
+other systems the experimental work leads to the conception of liquidus and solidus
+factors which are whole numbers suggests clearly that there is some kind of electronic
+quantum equilibrium.

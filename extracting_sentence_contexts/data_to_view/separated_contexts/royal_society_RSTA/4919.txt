@@ -1,29 +1,6 @@
-We denote the first Euler product by ¢z, (s). It can be expressed in closed form by unique factorization in Fy[x]
-
-x
-te) =[Ja-irrsyt= So ins =o’ =a-q' sy. (1.9)
-P neF,[x], monic r=0
-deg n>=0
-
-The second equality follows from unique factorization, the third equality gathers n’s according to
-their degree (there are q” monic polynomials of degree r in F,[x]), and the last equality is the sum
-of the stated geometric series. Letting
-Lx) =[]a-xMPIyt= YS xoin, (1.10)
-P neF,[x] monic
-deg n=0
-
-one can collect together the terms 1 of given degree and get
-
-%
-Ls, x)= og" YO xv). (1.11)
-r=0 nm monic
-deg n=r
-
-Artin used quadratic reciprocity to show that
-
-Yo xn) =0, fred, (1.12)
-nmonic
-deg n=r
-so that L(s, xp) is a polynomial in q~* of degree < d — 1, and in fact of degree d — 1 by means of
-the functional equation, also proved by Artin, described below. To prove (1.12), one can use the fact that the sum of (n|D) over a complete set of residue classes
-n modulo D is 0. Note that on applying quadratic reciprocity, each xp(n) = +(n|D).
+'= ¢, will make the coefficient
+disappear, but the other terms will generally not vanish, and therefore the |
+parabolic points is not generally a solution of the differential equations of
+congruency. : It is, in fact, generally speaking, the cusp-locus of the first singular solution,
+§ 45. Suppose, now, that the surface has a cuspidal curve. It may be shown
+this is a solution.

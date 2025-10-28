@@ -1,22 +1,9 @@
-The variational principle gives us (in our first-order approximation) the
-differential equation
+It is quite certain that any such operand
+must possess at least two properties in common with the exponential function : (i) its
+first term must be unity ; (ii) it must contain an infinite number of terms. The first
+step was to find a symmetric function Q, of the elements a, 8, y, ... such that the
+effect of every Hammond operator upon it is to leave it unchanged ; or, as I prefer to
+say, to multiply it by unity. Q, is, in fact, the sum of unity and the whole of the
+monomial symmetric functions S@?A’y* ... = (pgr ...). It is in the partition notation
 
-LoL
-
-2=25, 2.15
-
-L L (215)
-with the solution 2
-
-, (2.16)
-
-L=[Vii+ = (Via-vi)|
-where L; is the initial piston position at t = 0 and Lz the end position at f = t. Interestingly, also for the adiabatic work, the variational principle yields the same result for
-L(t). This is a direct consequence of that fact that in the adiabatic processes dW(t) = dU(t) and
-v,(t) = /2U()/fNm. The variation of the ensuing work 5Wgas involves terms
-5Weas(t)
-fNmiv-(t)’
-
-Since we require 5Wgas(t) =0 for all f it then also implies that 5vz(t) =0. As a consequence, the
-adiabatic variational principle yields the same solution as the isothermal case, as already stated
-above.
+a= 1+(1)-+(2)+(12)+(8)+(21)+(19)

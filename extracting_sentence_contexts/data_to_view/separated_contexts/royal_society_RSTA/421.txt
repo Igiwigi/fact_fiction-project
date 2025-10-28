@@ -1,11 +1,7 @@
-To address large physical and chemical problems, or even move into the molecular
-biological sciences, is likely to require simulations to run on hundreds of thousands, if not millions
-of cores. Not only does this present an extremely difficult challenge for the parallel scaling of the
-DFT software, particularly any parallel Fourier transforms, it also presents new problems. As the
-number of cores involved in a calculation increases, the probability of a core failing increases
-combinatorially; in fact in a calculation involving a million cores for many hours, it is likely that
-one or more cores will fail during the course of the simulation. This requires a new consideration
-in the design of DFT programs: the capability to detect and recover from severe hardware faults,
-such as core, memory or network connection failure. Such fault-tolerant computing is already
-crucial for key computer server software and is an active area of research in Computer Science,
-but its impact has not yet spread widely in computational science simulations.
+But it differs from the experimental elasticity
+constants. This is an incongruity not of the theory, but of the experimental results. In
+fact, the measurements of ¢c,, are rather inaccurate (it has been measured only within
+10% error). Therefore the experimental values agree with the theoretical values within
+the limits of error. The perfect agreement of the experimental and theoretical values of ¢,, are a strong
+confirmation of the theory; for, the theoretical value of c,, does not depend on A (ork),
+but only on the lattice constant.

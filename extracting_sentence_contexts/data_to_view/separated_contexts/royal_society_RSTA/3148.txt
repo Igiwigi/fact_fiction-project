@@ -1,14 +1,9 @@
-Thus, the
-adjoint of £ can be defined, and indeed we find that
+Suppose now all the conditions of p. 13 are satisfied. Then whatever value of k be
+taken, we have 6”, = 0, so that, as far as we have seen, the transformation does not
 
-L=-J'L], (3.6)
-
-so that £J and JL are self-adjoint (note that J-! =-J). Observe also that the spectrum of L is
-2ni-periodic, because e** Ztw(t) =e +2)" (Ze (z) e2"*7) and Ztw(t) e~2""* is also a travelling
-wave with velocity 1. This symmetry is due to the fact that the shift operators $, commute with
-the multiplier eT for ne Z. Owing to the time-translation invariance of the solution Xtw, an
-important property of L is that its kernel contains
-
-C0 = 07 Xtw, (3.7)
-
-as can be directly verified by differentiating (3.1) in t and evaluating the result at X = Xtw. Here we assume the generic situation when ker(L) =span{eo}.
+render the solution any nearer. We must, in fact, proceed to consider the further conditions for the case when the
+roots 0, are equal (p. 13). Suppose, for instance, the first of these conditions is not satisfied, then putting
+k =n, we shall have @',, =... = @,,, the conditions then necessary before the deter-
+mination of 6,,-, will be satisfied, and we shall eventually obtain a binomial equation
+for 6;,-1 of degree n in which the constant term does not vanish ; the roots of this
+equation being all different, the subnormal integral exists. Thus we may go through all the equations of condition in turn.

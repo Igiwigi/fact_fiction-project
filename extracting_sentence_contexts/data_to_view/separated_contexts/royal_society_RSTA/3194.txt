@@ -1,13 +1,22 @@
-This automatically reduces the anharmonic constant matrix to a single
-element. In addition, this single anharmonic constant has a different value compared to the one
-used in FD SCTST. Interestingly, the resulting rate constants in fact show a better agreement to the
-corresponding FD results [1,9]. Furthermore, to improve the performance of SCTST, in particular,
-in a low-temperature region, the application of the deep-tunnelling correction proposed by
-Wagner et al. [14] has been applied to both FD and 1D SCTST [1,8,9,13]. In the current study, we use 1D SCTST of the second assumption level described above with
-the deep-tunnelling correction to investigate the reaction rate constants for the following two
-reactions in both the forward and reverse directions:
+A theoretical consideration of the relation of the Hittorf migration numbers to the
+sizes of the ions is given, and it is shown that our hypothesis as to the influence of
 
-R1: CH30H +H =CH30 + Hy
+‘
 
-and
-R2: CH30H +H=CH)OH + Hp.
+
+104 MR. W. R. BOUSFIELD: IONIC SIZE IN RELATION TO
+
+ionic sizes upon rates of transference would theoretically lead to the result that the
+reciprocals of the Hittorf migration numbers should be expressible as a linear
+function of the ratio of the radions. This turns out in fact to be the case, and we
+incidentally arrive at a useful method of extrapolation to determine the value of the
+Hittorf number for an electrolyte at “ infinite” dilution. These considerations enable us to determine the coefficients B for the separate ions
+in the expressions for the radions, These coefficients B we refer to as the “ hydration
+numbers,” the relation between the hydration numbers and the migration numbers at
+infinite dilution being of the form
+
+B = B,N, + B.N;. _ Turning now to a consideration of the viscosities of the KCl and NaCl solutions, it
+
+is shown that the viscosity of these solutions can be represented approximately as a
+linear function of the radions, as can also the viscosity of mixtures of normal KCl and
+NaCl solutions.

@@ -1,18 +1,17 @@
-In panel (a) t = 20 ms,
-(6) c = 30 msand (c) t = 41 ms. (The readers should pay attention to the axis scale of each subplot.) When the autaptic time
-delay equals approximately the period of weak signal 7, ~ 21 ms and its integer multiples, the ISls reflecting the electrical
-activity of the neuron exhibit a harmony with the weak signal, implying high Q in figures 3 and 4. (¢ = 0.45, w = 0.3 ms~').
-(Online version in colour.)
+Jo cosh qx cosh gy’
 
-oscillation period of the H-H neurons, so the obtained Q value is high. The reason behind these
-results can be explained as follows: autapse adds an extra time scale to the electrical activity of
-an H-H neuron, and when this time scale matches the intrinsic oscillations period of the neuron
-and the period of weak signal a resonance occurs. This fact induces high Q at the output of the
-H-H neuron.
+indicating that Q («)/cosh gz satisfies the homogeneous equation in its only soluble
+case. ‘'Lhis is, in fact, only a verification, but it is useful as the condition to be super-
+posed on the solution of the cardinal equation. We write accordingly, as before,
 
-(c) The effects of inhibitory autapse on chaotic resonance
+f= Q(x) = 2 cosh qe Sade 14 (@)/,/e = 2 cosh gird (2),
 
-Some studies have revealed that the autaptic transmission can be realized through an inhibitory
-autapse [39]. In this context, the effects of inhibitory autapse were reported in various studies. For
-example, Pinto et al. [40] showed that inhibitory autapse enhances anticipated synchronization
-in unidirectionally coupled neurons.
+— V2 Q («)/2 cosh gx,
+
+and the cardinal equation gives
+
+na
+
+2
+; = x 8
+2% ani cosh gre“ Son. 4 (w) K (x, y)

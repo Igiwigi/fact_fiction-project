@@ -1,63 +1,13 @@
-The Hamilton function has a simple form
-
-T
-
-2
-
-(6.26)
-
-To write equations of motion in explicit form, we need vector fields w;(q) which allow us to
-express the generalized velocities q in terms of quasi-velocities § = (21, 22, 23,v); see (4.17). For
-
-
-the considered case, we obtained
-
-@) a tC)
-wi(q)=—, ws=—
-14 aq3" samara
-cosq3 0 . tc) a
-w2(q) = 2 2 th qo ——
-
-2(q) sinh qo Oq1 sinq3 qa cos q3 coth qz qa (6.27)
-and w3(q) = sings 2s cos ca — sin g3 coth a
-
-= sinh q2 9q1 % aq2 % P aq3°
-
-Non-vanishing commutators of these fields are
-[w1,w2]=—w3,  [w2,w3]= wi, [w3,w1]= —we. (6.28)
-
-With these relations, we obtain
-
-dy -1 P
-GM = 0M) x (m-&s),
-P Lona P
-—z=—_+-—s'r!(m—“s 29
-di mA tA ( 5S) (6.29)
-d 0H
-and qatar:
-
-These equations are Hamiltonian with respect to a degenerated Poisson bracket. In fact, denoting
-x = (M1,M2,M3,z,p) and
-0 M3 -M, 0 0
--M3 0 Mi 0O 0
-P=|M, M O 0 OO], (6.30)
-0 0 0 0 1
-0 0 0 -1 0
-
-we can write system (4.29) in the form
-
-5
-d — 0H
-api= Pigg (6.31)
-j=l 7
-Matrix P defines a degenerated Poisson structure of rank four with one Casimir function
-
-K=M!JM.
-
-7. Pseudo-Euclidean rigid body with a moving point
-
-In this section, we consider a rigid body in the pseudo-Euclidean space with a point with mass
-mg which can move in the body frame along a hyperbola. More precisely, we assume that vector
-Ro(z) is
-
-Ro(z) = [coshz, sinh z, 0].
+(6) B, Of the Methods used for the Removal of Water Skins—Some observers
+may be considerably surprised to learn that anyone should attempt to weigh accurately
+glass vessels without previously drying the air within the balance case in the usual
+manner. This departure from a time-honoured, orthodox, and, as we shall try to show,
+sometimes worse than useless custom, was, on our part, of deliberate design. Let us consider the actual facts. As ordinarily practised, the air within a balance
+case is dried by means of such substances as solid calcium chloride, sticks of caustic
+potash or soda, phosphorus pentoxide, or by concentrated sulphuric acid contained in
+shallow vessels placed upon the bottom of the case. Any of the substances named
+will lap up the moisture in the lowest layers of air with great avidity ; but as the
+density of air increases with the removal of moisture, and as an attempt is usually
+made to maintain the temperature of the balance both uniform and steady, it will be
+necessary to depend almost exclusively upon the inter-diffusion of the dry and damp
+air for completing the removal of the moisture.

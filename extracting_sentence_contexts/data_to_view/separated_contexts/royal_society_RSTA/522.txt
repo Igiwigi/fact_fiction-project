@@ -1,18 +1,24 @@
-We here recap
-some of the basic properties that have been investigated so far:
+(x ener), (9-6)
 
-— Global-local coherence. Coherence of the aggregate field computations in a distributed
-execution is maintained for field calculus by tracking which nbr operations align with
-one another, meaning that they are part of the same aggregate operation and should
-share information via the field output by nbr. Determining alignment has a number
-of subtleties stemming from the fact that execution may proceed differently on different
-devices, and that any given function may be called multiple times. As a consequence, two
-neighbouring devices may each evaluate a single nbr statement in the code many times,
-with some of these evaluations aligning and sharing information, while others do not
-align and remain isolated. Alignment is thus the local implementation of the aggregate
-notion of a field’s domain, and the key to ensuring a provable relationship between
+CS Ge ee eae ye Nera ee
 
-“In fact, it is sufficient to track only the values supplied to nbr operations and the context of those operations.
+and the position of the centre of gravity G after time ¢ is given, relative to the initial
+axes Gx, Gz, by the displacement
+
+bas siné
+x=ujt—tgsind?, k,,,z=—upt+4dgsind 2— gcottlog, (1S ‘), (9-7)
+0
+
+in which wp is the actual velocity along Gx at t= 0, and we proceed only so long as
+(gsin @/uy) tis distinctly less than unity. For different values of @ and uy we get a variety of paths which can be easily plotted;
+we may call them “neutral’’ phugoids, since they are distinguished by the fact that
+the machine is statically neutral. The statically neutral aeroplane is dealt with by
+R. Fuchs and L. Hopf (ibid. pp. 235-9), but no explicit general solution is given.
+
+(ii) If d6/dt is not zero initially, so that # varies during the motion, (9-2) gives
+
+du’ : bie ae ener CP ne
+dg = Sind, —g'u' = cos0—u'?—k,,u'w’, ; ae (9-8)
 
 
-aggregate specification and local implementation.
+GENERAL MOTION OF THE AEROPLANE 323

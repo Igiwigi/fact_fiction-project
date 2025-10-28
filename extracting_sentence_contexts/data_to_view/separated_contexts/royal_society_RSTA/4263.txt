@@ -1,44 +1,33 @@
-We assume that the shape function has been normalized so that its amplitude is bounded by 1,
-ie. max; s(t) = 1 and min; s(t) = —1. Denote $(t) = arccos(s(t)). Using the fact that both cos 6®(#) and s(05(t)) are the representations of the same signal, we
-have
+a  yPa- Pe, Ye eg PP
+o “ My Gin
 
-cos 6=(t) = s(05(t)),
-which implies that
-oF) = 9(°(8).-
-Thus, the instantaneous frequency in the original EMD method can be computed as follows:
-d
-F= 59H = 8 PMO, (Al)
+8
+n
 
-and the mean frequency over one wave cycle, IF,, becomes
+‘S[his indicates that a unipartite partition into the parts P,, P.,... P; may be
+represented by a two-dimensional partition of another kind which involves the parts
 
-lft is Sy
-= 7) e@wesy’Odt,
+a P,, P:— P,, Ps — Po... P;— Pir.
+= zx, gr., the numbers P,, P., P; being in ascending order, the line partition
+g P,P,P,P.P.P,
+Acan be thrown into the plane partition
+P, P, P, P, P, P,
+PoP Baw BHP R=P, P,P,
+of the nature of a regularised graph in the elements P,, P. — P,, Ps — P., though
+these quantities are not necessarily in any specified order of magnitude. We obtain,
 
-to
+in fact, a mixed numerical and graphical representation of a partition of a new kind. If
+
+8A2
 
 
-where the time interval [fo,t;] contains one wave cycle and T = t; — to. Then we have 68(t) -
-68 (tg) = 2m, which gives that
+364 MAJOR P. A. MACMAHON ON THE THEORY OF PARTITIONS OF NUMBERS. the partition 4 3 33 1 has the mixed graph
 
-1 2 ,
-IF, = — dr.
-. a $(r)de
+Lida 2
 
-Using the fact that 6° is a smooth function which is approximately a constant over one wave cycle,
-it follows that
-[@YOIT~6°(h) — (to) = 2x, Vt [tot]
+9999
+22224
 
-Using the above approximation, we get
-1 2"
-IF. ~ (08) () ( = | ¢(c) dr). (A2)
-2x Jo
-Recall that the degree of nonlinearity is defined as
+1
 
-1/2
-IF —IFz\? DN= = .
-(( IF, ))
-
-Substituting (A 1) and (A 2) into the above definition, we have
-
-_ 2 - 2
-w-1F.)*\"" | /( eS) 8" LP ee)—8y?
+as well as its ordinary unit-graph,

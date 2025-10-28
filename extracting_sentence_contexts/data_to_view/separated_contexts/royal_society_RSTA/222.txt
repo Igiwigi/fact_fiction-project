@@ -1,14 +1,32 @@
-Under this model, it was estimated that O(2" N log N) such
-qualitative states, or O(2* N? log N) observed edge directions, are needed before
-he minimal explanation is the correct one. The main difference compared with
-uniform random sampling is the N? log N-dependence of the number of edges
-needed, as opposed to N log N. In fact, there is a continuous spectrum between
-hese two opposites. If data come from a series of qualitative states, where each
-is generated from the last by resetting the states of d of the N species, then
-O(2*(N?/d) log N) edges are needed in expectation. In summary, then, under
-hese simple random-process models of data generation, the expected amount of
-data needed scales approximately as 2“, as suggested by the lower-bound, and as
-something between N log N and N? log N, depending on how similar successive
-samples are in the Hamming distance sense.
+It was remarked
+in Part VIIC (§9) that ‘Simpson’s rule’ will often give results as good, or better, than
+those deduced by more elaborate treatment: here we observe that when the integrand
+has both zero value and zero gradient at either end of its range, still better results may
+come from simple summation. 48. Let 0, 1, 2, ...,2N—1, 2N be points of subdivision in the range AB, figure 14,
+and suppose the integrand y, of which both the value and the slope is zero at A and B, to be
+extrapolated ‘by reflexion’ to fictitious points C and D, just outside the range. Then
+by hypothesis
 
-5.
+Ys =Ye=9; Yo=M> Yo = Yon-1» (i)
+
+so of the two areas shaded, by Simpson’s rule,
+
+1 1
+of ydx = 3 ydx = h(yo+4y4+y,) = 2hy,
+A c
+
+B ee
+and | ydx (similarly) = 2hy.y_,, (ut)
+2N-1
+
+where 2NA = total range AB.
+
+70-2
+
+
+574 J. R. GREEN AND R. V. SOUTHWELL ON RELAXATION
+Hence, applying Simpson’s rule in the range 1—(2N—1), we have Bf yds = BAY, +Yy +t Yon 22 tat t Yaya) (ii)
+and direct application of the rule in the range AB gives
+3 yas = Qh{yo+yyt..-+Yoy_-o+2(yi + 43+ ---+Yon-1)} (iv)
+
+since ¥; = ¥z = 0.

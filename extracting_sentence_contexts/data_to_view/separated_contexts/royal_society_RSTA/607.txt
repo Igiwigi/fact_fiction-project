@@ -1,43 +1,31 @@
-The values were normalized
-to the amount of the total RNA.
+It was found, in this
+range of distance, that the gradient was positive for 404 min. with an average value of
++570 V/m. and negative for 190 min. with an average value of —880 V/m.; the time
+average value, including periods of both signs, was +110 V/m. The results of these
+computations are given in Table VI, and the mean value of the gradient is plotted
+against distance in fig. 2. It will be noted that, at all distances, negative gradients
+tend to be of greater magnitude than positive gradients; this fact, indeed, makes the
+average value of the gradient, at distances between 10 and 15 km., negative although
+periods of positive gradient are more frequent. Tasie VI
 
-(f) Quantification of the absolute transcript numbers
-The copy number of the transcripts (X;) was quantified using the following method [19]:
+Average value
 
-CG
+Average value of :
+with respect to
 
-X= oF T, (2.1)
-where C; represents the mapped reads on a transcript i with a length L; (in nt), C = 7; C; is the sum
-of all mapped reads within a RNA-Seq dataset, whereas T is the length of the transcriptome in
-base pairs [19]. From the reads and the amount of the added spike-in standard, we determined the
-number of molecules of spike-in standard in nt. T was calculated by converting the total mRNA
-mapped reads in each RNA-Seq experiment into molecules of mRNA (in nt) using the number
-of molecules of spike-in standard (nt) and normalized per cell number quantified by fluorescence
-activated cell sorting (FACS). The length of the transcriptome, T, in base pairs, is calculated as follows:
+Distance of Positive Negative time of the
+nearest discharges potential gradient potential gradient _ potential gradient
+km. V/m. V/m. V/m.
+<3 +2950 é — 1200
 
-(i) The amount (nanograms) of added spike-in standard was converted into molecules
-spike-in in nt using the molecular weight and nucleotide length of the spike-in and the
-Avogadro number.
+<5 + 2850 — 1200
+5-10 + 1800 — 650
+10-15 + 1600 — 150
+15-25 + 570 + 110
++250
 
-(ii) The total amount of mRNA to which the spike-in was added was converted into nt using
-the molecules of spike-in (nt) and the sequencing reads mapped to the transcriptome and
-spike-in standard.
-
-(iii) The total mRNA length (nt) was divided by the cell number quantified by FACS to
-calculate the total length (T) of the trasncriptome per cell. 1.81 x 10° + 2.4 x 107, 7.84 x
-108 + 1.21 x 107, 1.52 x 10° + 2 x 107 and 4.72 x 108 + 7.3 x 107 was the total number of
-cells in LB, MM, under heat or osmotic stress, respectively.
-
-(iv) Finally, to calculate the copy number of each gene, we multiply the rpkMd values of each
-gene C;/CL by T (equation (2.1)).
-
-(g) Differential gene expression and GO analyses
-
-The number of raw reads unambiguously aligned to ORFs in both RNA-Seq and RPF datasets,
-for each condition, were normalized by the median of the total number of reads aligned to all
-ORFs, which gives more stable normalization [20] and is more suitable for differential expression
-analysis than other normalization approaches using total number of reads aligned to all ORFs
-(reads per total mapped reads, rpM, or fragment per total mapped reads, FPM) [21]. For
-comparison between different genes, the number of the aligned reads was normalized by the
-length of the ORF and the median of the total number of reads aligned to all ORFs (reads per
-kilobase of ORF per median of the total mapped reads, rpkMd).
+0
+-500F de
+cS] /
+> f
+?

@@ -1,10 +1,33 @@
-This identification of helicity can be implemented concretely by means of Penrose’s ,
-contour integral formula, which gives the zero-mass field of helicity 1 corresponding to a twistor
-function of homogeneity (—n — 2)—or more properly, an element of a first cohomology group. The
-chirality of twistor space means that fields of opposite helicity are represented by quite different
-homogeneities, and there is no natural way of adding them, as one might wish to do to express
-a real Maxwell field. Another striking fact is that the property of being of positive (or negative)
-frequency can be expressed in terms of the geometry of the two halves of twistor space, without
-any reference to momenta. For such fields, there is an inner product structure, which can be
-realized in twistor space as a (many-dimensional) compact contour integral, without reference
-to space-time coordinates. As such, it is manifestly finite and conformally invariant.
++ In virtue of Se kent corollary of II, § 9.
+} This result follows from the fact that
+
+"sin 3 (2n~1)¢ * o"s' aidies
+
+Lf on if dt = £0423, cos rf]
+
+and that
+
+1 ‘ sin 4(2n—1)¢
+t
+
+lim — >
+n>oT Jy sin $
+
+dt = 0,
+by the last corollary of IL., § 6.
+
+
+184 DR. J. MERCER: STURM-LIOUVILLE SERIES OF NORMAL
+
+it is thus clear that the canonical Sturm-Liouville series will all converge uniformly
+to f(s) in (y, ), when
+
+[LA G94 fF (o+)-27 (EERE ae
+
+converges uniformly to zero in this interval. We have thus proved the theorem :—
+
+The answer to the question whether the canonical Sturm-Liouville series corre-
+sponding to an assigned function all converge uniformly, or not, in an interval (y, 8)
+contained within (0, 7) depends only upon the values assumed by the function in an
+interval enclosing (y, 8) in its interior, and exceeding it in length by an arbitrarily
+small amount.

@@ -1,10 +1,16 @@
-Amabili’s paper [78] notes that ‘reduced-order models are essential to study
-nonlinear vibrations of structures and structural components. In fact, large models with many
-thousands or more degrees of freedom obtained by commercial finite-element codes cannot
-be used to obtain all the branches of the forced vibration response around a resonance of the
-structure. This limitation is mainly due to the huge computational problem involved and to the
-fact that stiff systems of equations are obtained due to the very different time scales associated
-with different degrees of freedom’. The author offers suggestions for selection of the modes to
-facilitate reduction of the number of degrees of freedom. In the study by Takacs & Stépan [79],
-the authors deal with the delay differential equation for ‘mystical’ low probability large damage
-phenomena taking place in shimmy.
+In this notation the typical point {D, 0, D,0} of D appears as the two rowed matrix [i] = [p,5 Poy <2 Opi] (7)
+where each of these h blocks is of the type
+
+eee @Oy)+0,, o6,+0,, ..., a, 1 +p,
+0 4,
+
+7] (>) is) In fact the first e, co-ordinates x;, and also the first e, of the y,, are obtained from the
+coefficients of p and o respectively in L,,4, since L, = pD,+oD,, where 0 is a complete
+
+me a
+
+
+H. W. TURNBULL ON THE GEOMETRY OF MATRICES 249
+set of k parameters which includes 4, ..., 4,,-,. Similarly for each further @,,, with ¢,
+new parameters @;, until all the Ye, — £ parameters are exhausted. The verification is
+straightforward.

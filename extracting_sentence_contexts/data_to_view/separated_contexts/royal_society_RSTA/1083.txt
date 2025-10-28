@@ -1,25 +1,13 @@
-Fi (S) still drops out of (2.14) because Cw, ¢) Must remain bounded on the jet axis. By considering
-the conditions across the surface r = 0 in the i= ¢ component of equation (2.72) and using V.i ~
-DoGs = O(e) in the adjoint energy equation, equation (2.7b), it is easy to show that Giro) =O at
-lowest order in equation (2.7) [see Afsar et al. [13], for more details]. The final simplification to the analysis comes as a consequence of using Gg =0 in the i=¢
-component of (2.7), which recovers the fact that the solution to (2.14) is independent of azimuthal
-angle ¢. In other words, the Fourier transform of i(Y, U,¢|X, ®; @) in the difference, (© — ), is
-given by
-
-1 /~ .
-5 (YU) = 5— | H(Y, ULX, ler], ® — @; Qe" d( — $) = A(N)H(Y,U) ogo, (2.20)
-TE J—oo
-
-where 6(e) is the Dirac delta function of argument (e). Using (2.6), the solution, »(Y, U), is therefore
-given by the scaled Fourier transform [note the error in the pre-factor of equation (5.8) in GSA]:
-
-a(Y,U)= el Xie 5(Y, UIX, [xr |,0; 2)
-
-4nc2, |x|
-Sn - ee ~
-
-= al eT (2S 44 + F54(V/UIX, lerl,0;T)—T)d(To—T), (2.21)
-
-2m€ Joo
-
-that is now determined by (2.14) when F(8) =0(1) at arbitrary 92 = O(1) frequencies.
+The curve of differences was quasi-hyperbolic, and the validity of
+the analysis was tested by the extent to which the loop, which is such a conspicuous
+feature of the curves of rotatory dispersion in the region covered by the absorption band,
+was eliminated. Subsequent investigations by Kuun and Braun§ showed that this elimination was
+far from complete, since the curves of differences included two “ shoulders,” which
+could not be got rid of by any re-adjustment of the constants of the equation. This
+discrepancy was attributed to the fact that the hypothesis of ‘‘ damped ’’ vibrators is
+not applicable to the broad absorption bands of a liquid. The absorption curves based
+on this hypothesis show two non-existent shoulders, one on either side of the head of the
+band, and these are reproduced in the curves of rotatory dispersion deduced by means of
+this absorption-law. Absorption curves which show a much closer resemblance to those observed experi-
+mentally can be deduced, as Breteckt and Henri|| have shown, by using an exponential
+formula to express the distribution of frequencies amongst the various vibrators.

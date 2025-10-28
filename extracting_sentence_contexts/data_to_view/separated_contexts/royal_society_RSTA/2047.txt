@@ -1,26 +1,6 @@
-Physically, the scaling laws (3.1) and (3.2) are different due to the fact that the tip velocity is
-much larger in the three-dimensional case than in the two-dimensional case. The latter is caused
-by the fact that the heat- and mass transfer equations, as well as boundary conditions in 3D and
-2D, have a different form, which is dictated by various Lamé coefficients [32,33]. To conclude this section, we stress the fact that the Ivantsov solutions work only at the
-dendritic tip and in a very small vicinity around the tip, but the scaling laws (3.1) and (3.2)
-determine the shape of the neighbouring area to the dendrite tip.
+A, Freeru, O.B.E., M.Se.
 
-4. Sewing together various tip shapes
-
-In this section, we present the analytical expressions for dendritic shapes obtained by the method
-of sewing together two different solutions: the Ivantsov parabolic shape (paraboloidal shape in
-three dimensions) valid at the dendritic tip and the power law (3.1) (or the power law (3.2) in
-three-dimensional case) valid at a distance of the order of several tip diameters from the dendritic
-vertex.
-
-(a) Two-dimensional dendritic shapes
-
-Let us now sew together the two-dimensional Ivantsov solution z),(x) = —x?, which formally
-takes place at small arguments x — 0, and the power shape (3.1), which is valid at increased
-values of the argument x (or formally at x >> 1). Keeping this in mind, assuming for simplicity
-that a = —1 (this can always be done by rescaling [31]), and choosing the fractional function for
-sewing, we finally obtain
-
-bs(x)x* + bi(x)|x15/
-
-Fe?
+Communicated by Prof. F. G. Donnan, F.R.S.
+Received January 14,—Read Mareh 23, 1922. Tue above arbitrary division is due to the fact that the experimental work does not
+include an examination of the vapour phases. EXPERIMENTAL. The solubility determinations were carried out in thermostats of
+an ordinary pattern.

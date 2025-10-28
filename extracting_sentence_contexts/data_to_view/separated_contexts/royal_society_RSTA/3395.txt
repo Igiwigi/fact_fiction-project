@@ -1,37 +1,8 @@
-Given a string w € G;(H), we can define
-the two substrings (Lxw); =wj;, for i=1,...,K, and (Rxw); = wx +j, for i=1,...,t — K: we have
-that Lkw € Gx(H — n), Rew € G;_K(n) and w € Gx(H — n)G;_x(n). Here for A and B sets of strings,
-the set AB is formed by concatenating the elements of A and B. Moreover, if n 4m, then Gx(n)N
-Gx(m) =%, which entails that the products Gx(H — n)G;~x(n) form a partition of G;(H), with
-neéeI=({0,1,...,min{H,t — K}}:
-
-64(H) = |_| Gx(H — 1) G1-x(n). (1)
-
-nel
-
-Thus, the set v @ G;(H) decomposes as
-
-v ®6,(H) =|_|v ®[Sx(H— )Gr_x(n)] (B2)
-nel
-= Lex» © Ox(H — n)][Rxv © S_K(n)] (B3)
-ne.
-=|_|Sx(K-H+n)6i-x(n) (B4)
-nel
-=|]K,H,n), (B5)
-nel
-
-where in the third equation we have made use of the fact that v is in canonical form. The set-bit
-count of w € 20(K, H,n) can be straightforwardly computed:
-
-uw) = u(Lxw) + (Rw) = K —H + 2n. (B6)
-
-Finally, one can easily obtain the size of each factor:
-
-|QW(K, H, n)| =|Gx(K— H+ n)G_-x(n)| (B7)
-=|6x(K—H +n)| -|S:-x(n)| (B8)
-K t—K
-= . B9
-(1-4) 0") wa
-The case K < H follows from a similar reasoning and we have the sought result. a
-
-Proof of corollary 3.3.
+The effect of
+a term of the first degree would be to make the lithosphere protrude from the geoid
+towards one side. If this term were the only one, the land of the globe would form
+a circular island or continent. It is the fact that most of the land is in one
+hemisphere. The great circle of the globe which contains most land has a pole
+situated between Orléans and Le Mans* (latitude 48° N., longitude 30’ E.). Again,
+the zonal harmonic of the third degree vanishes at three circles, one being a great
+circle.

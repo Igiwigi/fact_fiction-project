@@ -1,9 +1,7 @@
-However, nothing prevents the use of a more complicated model valid for thick plates
-(e.g. Mindlin-Reissner plate theory). In fact, the DD strategy is independent of the chosen plate
-
-
-theory. Hence, the mentioned strategy can be applied also in combination with higher order
-plate theories, as long as the plate model gives both the displacement and the displacement
-velocity back to the fluid solver and receives as input from it the fluid pressure on the plate. When the DD strategy is used, and the three-dimensional solver is used in the fluid region
-containing the structure, p is obtained by solving the fluid-structure coupled problem, i.e. it is
-affected by the plate elastic behaviour.
+SOUND PULSES BY AN INFINITELY LONG STRIP 87 The relevant points A and D in figure 1 have been restricted only by the condition that they
+lie outside the disturbance due to the strip up to time ¢,. In fact, v and ; are identical outside
+this region so that the integrands on the right-hand side of equation (104) are zero outside
+the region of disturbance due to reflexion and diffraction at the strip. The physical interpretation of equation (104) is that the excess rate of total flow to the
+sides due to the presence of the strip is proportional to the total force (or average pressure)
+on the rear of the strip. The preceding relations have been derived generally for any time-variation in the
+incident pulse.

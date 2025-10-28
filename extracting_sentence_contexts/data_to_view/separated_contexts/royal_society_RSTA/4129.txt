@@ -1,17 +1,15 @@
-In QBism, quantum states are represented by density operators p in a Hilbert space assumed
-to be finite dimensional. A measurement (an action taken by the agent) is described by a POVM
-H= (Hj), where j labels the potential outcomes experienced by the agent. The agent’s personal
-probability q(H;) of experiencing outcome j is given by the Born rule
-
-(Hj) = Tr pH}. (3.1)
-
-The main achievement of QBism is the demonstration that this operational rule (which was
-postulated by Born and which origin remains one the main mysteries of QM) can be treated as
-a generalization of classical PU.°
-
-In fact, this is generalization of Jeffrey conditioning [59,60], see §2, the transformation (2.5). But it seems that QBists have
-never paid attention to coupling of QBism with Jeffrey’s conditioning. One of the basic points of QBism is that the agent’s reference measurement is an arbitrary
-informationally complete POVM, E = (Ej), such that each E£; is of rank 1, i.e. is proportional to a
-one-dimensional projector 7.” Because the reference measurement is informationally complete,
-any state p corresponds to a unique vector of probabilities q(E;) = Tr pE;, and any POVM F = (F))
-corresponds to a unique matrix of conditional probabilities p(H;|E;) = Tr Hj/7;.
+And, at the same time, it
+follows that if the potential difference between a KCl solution and mercury is zero
+when the surface tension is a maximum, then, when the latter is a maximum in KI
+solution, the potential difference from the solution to the electrode has a considerable
+magnitude. The result obtained by PascuEn* (following up the experiments of OstwAp?) for
+chlorides and iodides, among other salts, that the E.M.F. required to produce the
+maximum surface tension for a given solution is practically identical with the E.M.F.
+of a cell containing the same solution and having as electrodes a similar large mercury
+electrode to that used in the electrometer, and a dropping electrode of which the jet
+becomes discontinuous in the surface of the solution seems, at first sight, a striking
+confirmation of the Helmholtz theory of the electrometer. But, in fact, it is suffi-
+cient for this result that the potential difference between mercury and the solution
+when the surface tension is a maximum is the same as the potential difference
+between the dropping electrode (of the Paschen type) and the solution. A dropping electrode and a capillary electrode were connected up as in the
+diagram. * PASCHEN, ‘ Wied.

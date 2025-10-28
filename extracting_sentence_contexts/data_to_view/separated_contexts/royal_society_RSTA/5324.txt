@@ -1,11 +1,15 @@
-Figure 1 shows examples of the extracted supports of the SWT
-curves corresponding to the ECG and respiration first harmonics. The advantage of using SWT for phase and frequency extraction over the more commonly
-used marked events (MEs) method is that one obtains phase and frequency values at the same
-sampling frequency as the signal, whereas the ME method gives values only at particular points
-(e.g. peaks). Thus, the effective sampling frequency of the characteristics extracted by MEs is,
-in fact, the (time-varying) frequency at which the MEs occur, i.e. the reciprocal of the current
-interpeak interval (usually around 1 Hz for ECG and 0.25 Hz for respiration); all other values,
-obtained by interpolation to match the original sampling frequency, are unphysical. Note that heart activity is sometimes modelled through use of the integral pulse frequency
-modulation (IPFM) model [42] which, in effect, assumes that only the R-peak positions in the ECG
-are informative. Within this framework, much effort has been directed towards the reconstruction
-of instantaneous heart frequency (IHF), treated as the input signal.
+In the plain of
+Tchoukour are some isolated hills capped by beds of gravel, sand, and clay, containing
+a number of recent marine shells, probably Quaternary, of which a short list is given,
+but without the height above the sea. There are detrital deposits of local origin on the slopes of the hills, but
+M. pe TcoHIHATCHEFF was uncertain whether they were Quaternary or modern,
+Elsewhere, in speaking of the detrital deposits in the plain of Smyrna, he says that
+‘they may probably be of the same age as the cave deposits. He remarks on the
+absence of organic remains in the superficial drift of Asia Minor, and on the fact
+that the detritus is always derived from the neighbouring hills, as a reason for
+believing that it is of local origin (formé sur place) when the country had assumed
+its present configuration. Although these observations leave much to be desired, they seem to indicate the
+presence of a Rubble-drift and its comparatively recent origin. Cyprus.—Monsieur A. Gaupry has shown in a valuable paper on the geology of
+‘this island, that a Raised Beach or sea bed (Cordon littoral) of Quaternary age may be
+traced nearly all round the island at a height from 8 to 30 feet above the present sea
+level.

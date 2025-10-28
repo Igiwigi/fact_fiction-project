@@ -1,26 +1,11 @@
-This condition can be satisfied with (b’ |a’) real, with (b’ |a’) = (a’ |b’),
+But when we deal with
+sections like those of the present paper it is by no means so clear that this will be
+the case. There may be stream-lines which consist of two separate ovals (see fig. 11),
+and it then becomes very much open to question towards which part of the section
+the lines will be most crowded. In fact in some eases, as we have seen, this will
+occur at intermediate points, F (fig. 11), and in other cases the narrowness of the
+neck or the sharpness of the bend will counterbalance the limited number of the
+stream-lines through the neck, and the fail-points will be at B, B.
 
-but this would involve (b’| being interchangeable with |b’), which is in conflict with the difference : 2
-in the physical interpretation of the two. Instead, taking (b’|a’) and (a’ |b’) to be complex and : =
-taking (b’ | a’) = (a’|b’)* avoids any such conflict (see below). In fact, the matrix formed by the :8
-p(a’,b’) can be seen to be doubly stochastic. : 5
-With the algebra of measurement symbols established, a measurement-based statistical : Ss
-interpretation of the quantum formalism is possible, in particular, by considering a triple product ih
-of measurements formed from the symbols of two incompatible properties, namely, : g
-M(b)Ma@’)M(b’) = (a’ |b’) (b' | a’) M(b’) = pla’, b' Mv’), (3.12) : =
-
-S
-
-where p(a’, b’) = (a’ |b’) (b' |a’) is the invariant through which (a’ | b’) gains physical meaning. One 18
-
-naturally expects the result of an intervening measurement to produce a fraction of the ensemble
-introduced at the beginning of this composition of measurements. The expectation value of property A for systems in the state b’ is the average of the possible
-values of A, weighted by the probabilities of occurrence that are characteristic of the state b’; one
-can write the probability formula as
-
-pla’, b’) = tr M(a’ M0’). (3.13)
-
-The additivity of p(a’,b’) and the fact that )°,, p(a’, b’) = 1, which follows from this, shows p(a’, b’)
-to be stochastic, establishing the core of its interpretation as the probability that a’ is observed
-in the measurement of A of a system just previously measured to be in state b’, with first
-selective measurement of B playing the role of state preparation.
+§19. Comparison with Saint-VENANT'S Results. “Efficiency” of the various
+Sections.

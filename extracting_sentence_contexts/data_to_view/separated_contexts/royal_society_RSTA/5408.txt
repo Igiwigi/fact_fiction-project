@@ -1,9 +1,18 @@
-The massive data size is due to several factors. First of all,
-simulations require cellular decompositions, instead of more compact boundary
-representations. This fact alone accounts for one order of magnitude increase in
-model size. Also, the common factoring of repeated substructures, exploited to a
-great extent by large-scale hierarchical models in computer graphics, cannot be
-benefited from when dealing with large deformations, thus producing an increase of
-several orders of magnitude in the model size. Finally, consider the sheer number
-and complexity of components: there are thousands of atoms in a protein, several
-thousand proteins in a cell, and so on.
+AIl thermal phenomena not determined by F, and all forces of the
+nature of friction, will be supposed given by a third function X, given by
+
+where x, 2, unlike f, f,, do not in any way depend upon L. The way in which these
+forces and the thermal phenomena depend upon X will be explained later. We shall
+call X the dissipation function. It is, in fact, a generalisation of Lord RayLeicu’s
+dissipation function (‘Theory of Sound,’ Ist ed., § 81).
+
+24. The absolute temperature of any element of matter will be denoted by @. The
+vector ® (assumed an intensity—S 7 above) is defined by the equation
+
+me reer sie te
+Since both © and V are intensities, we have
+ee Se Oe
+
+All electric and magnetic phenomena are supposed ultimately to depend upon the
+magnitudes and rates of variation of two fluxes (§7), d, k, called respectively the
+dielectric displacement and the conduction displacement.

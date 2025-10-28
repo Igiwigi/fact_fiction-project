@@ -1,15 +1,15 @@
-Example of a reservoir scale simulation showing the total amount of MVP loss for the different regimes with different Ds
-viscosities (and therefore response timescales) for the wall rocks. At high melt fraction, MVP mass loss is negligible, while it is Dw
-significant in the lower melt fraction regime (total volatile mass fraction goes from about 5.5 to less than 3 wt% in this particular :
-case). 3
-
-reservoir, potentially leading to a less explosive eruptive style if the system does erupt [40]. Moreover, the fact that melt-rich pockets tend to outgas more slowly than crystal-rich areas leads
-to MVP accumulation in such melt-rich pockets, fostering larger eruptions due to the increase in
-compressibility [12,37,40]. Apart from those mechanical effects on magma reservoir dynamics and volcanic behaviour,
-the presence of an MVP, and the dynamics of outgassing, controls the rates and compositions
-of gases that escape magmatic systems. As the composition of gases emitted during and in
-between eruptive events are key to monitor active volcanic areas [41-45], and feed into global
-volatile cycles on Earth [10,4648], it is of paramount importance to determine how such rates
-and compositions might evolve as outgassing proceeds in crystallizing magma bodies
-
-1.
+The specifications described in the next section were carried out independently of
+any previous work, and as they offer several distinct advantages with regard to the
+construction of a practical standard of anemometry, it has been thought by the writer
+worth while to describe them in some detail. The special type of instrument developed
+may be called a linear anemometer consisting only of a single wire, and is especially
+suited for the study of turbulent flow and the analysis of sharp gradients of velocity
+such as are to be found in the neighbourhood of obstacles in streams, in jets, &c. The
+advantage to be derived from the use of a single wire lies in the fact that it is
+possible to measure with considerable accuracy the velocity in the neighbourhood of
+the wire with no appreciable disturbance of the flow at a distance of a few diameters
+away. This statement is easily verified from the classical solution of the flow of a
+stream past a cylindrical obstacle. In the case of a circular cylinder of radius @ in a
+stream of a perfect fluid of undisturbed velocity V, the velocity potential of the
+point (7, 0) is given by ¢ = V (7+a*/r) cos 6, @ being measured from the down-
+stream direction of the stream.

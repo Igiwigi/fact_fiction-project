@@ -1,9 +1,12 @@
-All that is needed in practice
-is that the record made in the apparatus (e.g. the position of its pointer) must be ‘repeatably
-accessible’. Frequently, one does not care about repeated measurements of the quantum system
-(which may even be destroyed in the measurement process). Axiom (iii) captures in fact the
-whole idea of a record—it has to persist in spite of being read, copied, etc. So one can impose
-the requirement of repeatability at the macroscopic level of an apparatus pointer with a much
-better physical justification than Dirac did for the microscopic measured system. The proof of §3
-then goes through essentially as before, but the details (and how far one can take the argument)
-depend on specific settings.
+'=0 ~~ (Al) This compact relation is most inclusive, and with its aid the majority of transforma-
+tions of partial first derivatives can be effected simply and quickly. It will be
+observed that the important relation, (4), follows at once by rearrangement ;
+putting z=, and w = 8, (41) reduces to (2) or (3) ; in fact, by simple substitu-
+tions and rearrangements, relations (1) to (32) may all be deduced progressively
+from (41). It is obvious that by means of this equation, we may express any one J (7, 5) in
+terms of five others, provided that each variable is completely determined by any
+chosen two which are independent. If« and @ are chosen from among the variables
+included in the expression (41), we find, since J («, 8) = 1, that any one J (7, s) may
+be expressed in terms of four others ; this is equivalent to saying that any one ratio
+of two Jacobians in (41) (and thus any partial first derivative) is expressible in terms
+of four others.

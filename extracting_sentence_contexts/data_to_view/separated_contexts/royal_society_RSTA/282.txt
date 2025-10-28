@@ -1,14 +1,35 @@
-A simple approach to regularizing with respect to the number of states combines the
-negative log likelihood (NLL) of the HMM given estimated values of the parameters with the
-Akaike information criterion [39]:
+L1I;j-1 > > TS
+m-e-vuh- %¢ 7 2h 2 het, heh, dee
+Fe {(2L;+ 1) (25;+ 1)} bee
 
-AIC=NLL+K. (4.6)
+By
 
-The number of states K leading to a minimum in equation (4.6) is taken as the correct number
-of states. HMMs are special kinds of Bayes networks [38], which include classical signal processing
-methods, such as the Kalman filter, but also clustering methods, such as the Gaussian mixure
-model (GMM). In fact, the Gaussian HMM popular in biophysical contexts can also be understood
-as a time-dependent version of the GMM. This also connects with the clustering described
-above, in that K-means clustering can be seen as a special case of the GMM where the most
-probable assignment of time samples to clusters is used rather than the probability of each sample
-belonging to a cluster as in the GMM [16]. The EM algorithm is very general.
+x | [ ¥* (9% LiSp My, Ms) Sty ¥(rpLysSsMyy,M,,) dr, ...dry| |, (15)
+
+= \?
+
+2 4 6 8
+
+energy of incident electron (eV)
+
+Ficure 2. Variation, with electron energy, of the attachment coefficient for electrons in atomic
+oxygen on the assumption of two different values of the polarizability parameter p. A, p = 5-7 a.u.;
+B, p = 18-3 a.u.
+
+where L, = 1, S, = }. In this formula allowance has been made for the fact that the integral
+vanishes unless S, = S,, M,, = My, and the effects of the core and outer electrons have been
+separated. For absorption in which the O atom is left in a state of the normal 3P term, the final
+term of the complete system O('P), +e(#s) in an orbital of the continuum, is either 2P or #P.
+As there is a vanishing probability ofa transition to the latter term we obtain Qy(O- 2P-> O 3P)
+
+34-2
+
+
+280 D. R. BATES AND H. S. W. MASSEY ON THE
+
+by writing L,= 1, S,= $i
+
+Similarly, for absorption in which the O atom is left in
+a level of the 'D or 'S terms the final terms of the complete system must be *D or ?S respec-
+tively. The corresponding cross-sections are therefore obtained by taking L,= 2, $=}
+and L, = 0, S, = 4 respectively in (15).

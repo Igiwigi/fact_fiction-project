@@ -1,14 +1,20 @@
-Any function of the momentum py, must be invariant under this rescaling. This =
-is an important aspect of the spinor representation of amplitudes, and gives rise to a simple :8
-feature of spinorial ‘weight’. It is also important to know that, under a Lorentz transformation : re
-of the pa, the 4 transforms in the simplest possible way, by an SL2C transformation. (The 74 : “
-transforms according to the conjugate representation.) This fact embodies the local isomorphism : 3
-between the two six-real-dimensional groups. [8
-1 0°
+This is primarily true for n greater than 7, but, by
+a suitable choice of v, it is evidently valid for all values of 7. * Previous investigators seem to have overlooked the fact that the yalue of m is not obvious, They
+have all tacitly assumed m = 0,
 
-If desired, the Dirac equation can readily be expressed in terms of 2-spinors, but it becomes
-a pair of coupled spinor equations, rather than a single equation. This might seem a loss of
-simplicity, but this separation of the electron into left- and right-handed parts is consistent with
-its modern interpretation in the standard model. It should also be noted that, when extending
-the 2-spinor calculus to general relativity (one of Roger Penrose’s early achievements), there is
-no analogue of the 4-spinors.
+
+168 DR. J. MERCER: STURM-LIOUVILLE SERIES OF NORMAL
+
+§ 6. It follows from (8) and (15) that the large singular values of «(s,t) may be
+calculated from the asymptotic formula
+
+, en f= 2
+n
+
+T
+
+wVAd Nei =7T,= n+ n (
+
+We proceed to obtain an asymptotic formula for w,4,(s), the normal function
+corresponding to Aj,41. Let uv, denote the function which u (§ 1) becomes when 7, is substituted for 7; then,
+from the definition of 7,, it is clear that u, satisfies the pair of boundary conditions B’.

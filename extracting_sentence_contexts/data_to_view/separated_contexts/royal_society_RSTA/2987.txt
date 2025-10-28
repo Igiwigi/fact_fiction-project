@@ -1,10 +1,16 @@
-Reversible transports of matter that are essential in hydrodynamics
-are replaced by dissipative strictly irreversible diffusion processes. This is appealing, for example,
-in the case of cellular systems the biochemistry of which is in many instances taking place under
-strictly dissipative conditions like those met in open, isothermal reaction—diffusion systems. More fundamental and important for such biological systems is then the fact that the spatial
-symmetry breaking phenomena observed in reaction-diffusion systems are intrinsic. On the
-contrary, Bénard cells are extrinsic dissipative structures: their size is determined by external
-environmental factor like boundary properties and the thickness of the fluid layer considered. The spatial wavelengths observed with chemical spatio-temporal dissipative structures are fixed
-by expressions of the form \/D/k, where D has the dimensions of a diffusion coefficient and
-k is the inverse of a time characteristic of the chemistry; in other words, these quantities are
-specifically fixed by parameters that only depend on the irreversible processes taking place.
+The equations to be solved
+are
+_ a8 dh ds dR
+a P70 * sin Ody’ ee Puupan ao ° «+ (C14),
+
+
+190 MR. ARTHUR SCHUSTER ON THE
+
+where X and Y have the values given in (1), and for p we must substitute the
+expression (18), remembering, however, that we must ultimately restore the factor Pow
+We may also temporarily omit the factor C in the expression for the electric forces. To find the current function R we must eliminate 8, but owing to the fact that p
+contains 6 and X, this does not seem to be possible directly. The difficulty must be
+turned by eliminating in the first place R, and if 8 is then found, R may be
+determined from the first of the above equations. It may occur to the reader that R
+might be more directly obtained if the resistivity were introduced instead of the
+conductivity.

@@ -1,20 +1,9 @@
-The analytical
-solution for the stationary distribution of potential is [21,23,39]
+They consist of a flat part AB joined to a sloping
+part such as AC or AD, whose slope diminishes with diminishing wave-length of the
+monochromatic exciting light. The sloping portions all converge to a common point A
+of the saturation part of the characteristic independently of the wave-length used. A is the position of the true zero of potential difference, and, in fact, these small currents
+are completely saturated in any accelerating electric field, however small. Thus one
+method of locating the zero would be to find the convergence point A to the saturation
+value of different monochromatic characteristics such as CA, DA. This would, of
 
-“1 -—————
-__keT Woe ~y = ekpT
-vy) =4—— (tan (tn (7 exp ())) , = | (3.7)
-
-where Y% is the potential at the bottom boundary and Ap is the Debye length. Figure 6 shows that the numerical results of the concentration and potential distributions along
-the Y axis are consistent with the analysis. In figure 6b, the potentials at location close to y=
-100 Ibu from simulation and analysis different slightly, which due to the fact that in the analytical
-solution, it is assumed a boundary at y = +00.
-
-4. Simulation of the simplified reactive plasma flow in a cylinders packed bed
-
-(a) Simulations and results
-
-With all the validated 2D LB model components discussed previously, we developed a numerical
-model to study a (simplified) weakly ionized plasma flow in a packed bed reactor. The bed
-consist of a regular array of cylinders (which appear to be spheres in 2D) and it is simulated
-to study the reactant consumption rate, q, under different control parameters.
+* © Phil.

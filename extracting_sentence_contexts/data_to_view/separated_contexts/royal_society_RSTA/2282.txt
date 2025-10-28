@@ -1,11 +1,9 @@
-Another interesting rigorous approach is to reduce
-the n-plate problem to the solution of a simple ordinary differential equation [42], here the
-practical difficulty lies in finding some constant parameters of this ODE. A common theme
-in many approaches is the successive treatment of diffraction events to yield Schwarzschild
-diffraction series; our implementation may be interpreted as recovering a diffraction series
-solution in the spectral domain (Fourier space). The fact that the proposed method is devised
-in the spectral domain rather than in the physical space is key. This allows to take advantage of
-the singularity structures of the kernel in the complex plane and hence perform hundreds rather
-than one or two iterations, see §3c. Significantly, the proposed method applies to some Wiener-
-Hopf problems arising in crack propagation or Lévi processes, which are not related to diffraction
-and where a Schwarzschild diffraction series approach would not be a natural choice.
+and.the pressures in
+the lower beam. The other dislocation, due to the different lateral curvatures, is less
+easily disposed of. However, we can observe that when the beam is narrow this second
+dislocation, is small, and we shall show, in fact, that it can be neglected in estimating
+the flexural rigidity of a narrow beam. In the case of wider beams it will evidently
+have a greater effect, and, moreover, its removal should increase the flexural rigidity
+of the beam, since that removal is equivalent to adding an additional restraint to the
+system. It will be shown later, however, that this increase in the flexural rigidity is
+quite small, even in the extreme case when the beam becomes a plate.

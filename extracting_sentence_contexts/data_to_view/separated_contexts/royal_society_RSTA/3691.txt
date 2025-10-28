@@ -1,18 +1,22 @@
-Zero-point-corrected BDEs (kcal mol~') obtained for the diamond proxy models B-D shown in figure 2, at the
-B3LYP/6-311G(d) and B3LYP-D3/6-311G(d) levels of theory. (Geometry optimization and zero-point energy corrections were
-calculated at the B3LYP/6-31G(d) level of theory.)
+The resistance of the compen-
 
-B3LYP B3LYP-D3
+> sating coil is adjusted so that its change of resistance per degree is equal to that of
+: the coil it is intended to compensate, while its actual resistance at any temperature
+£ is much smaller, the ratio of the resistances being inversely as the temperature-
+coefficients. Each compensator is placed in the box in close proximity to the coil it
+is intended to compensate, so as to be always at the same temperature, but coil and
+compensator are connected on opposite sides of the bridge-wire, so that the balance
+depends only on their difference, which remains constant for any change of tempera-
+ture, provided that the adjustment has been properly effected. The advantage of the
+method lies in the fact that this adjustment can be made with extreme accuracy, by
+testing coil and compensator together over the required range of temperature before
+they are connected in their places in the box. But the method has not come into
+general use, partly on account of the labour involved in the adjustment of the coils,
+and also in part owing to the discovery shortly afterwards of manganin and other
+alloys of small temperature-coefficient, which are fairly satisfactory for ordinary work
+though inferior, in my opinion, to the compensation method for work of precision
 
-BDE(C—C) BDE(C-H) BDE(C—C) BDE(C-H)
-model B 87.1 96.4 90.8 97.1
-model C 71 90.5 82.4 11
-model D Bé 90.8 813 1.8
+The objections to manganin, for instance, are—(1) That it cannot be perfectly
 
-show that the smaller model B leads to an overestimate of the C-CH3 and -CH2-H BDEs at the
-diamond [100] surface, due to the lack of steric hindrance at the surface. In this respect, models C
-and D should be closer to the energies that we would expect at the surface of the diamond slab. The data in table 2 suggest that this is in fact the case, as the calculated bond energies appear
-to be converging to a limit as the system size increases. Note that the B3LYP bond energies are
-smaller than the B3LYP-D3 energies (especially for BDE(C-C)), owing to neglect of the attractive
-dispersive interactions between the methyl radical and the surface. A similar effect can also be
-seen for the C-C bond energy of neopentane in table 1.
+* The details of the construction and comparison of the Clark and cadmium cells employed are
+sufficiently described in the ‘Proc. Roy.

@@ -1,14 +1,11 @@
-In particular, it
-follows from Theorem 3.4 that the semigroup (7o(t));>0 is semi-uniformly stable. One would typically like to determine whether (Jo(t)):>0 is exponentially stable or, if not, to
-obtain uniform decay rates for classical solutions. The decay of (Zo(f));=0 is intimately related to
-the decay of the physically relevant energy of solutions u of the second-order problem (4.2):
-
-E(u,t):= 4 (1a¥?u I? + Wii) . (4.5)
-
-In fact, the decay rate of the energy E(u, t) for all pairs of initial values (ug, 1) € D(A) x D(A'?)
-(no restriction to 4!) is the same as the square of the decay rate of ||To(f)Ap 1 and, as a result,
-we may apply the results in §3. It is then natural to say that the energy of (4.2) decays semi-
-uniformly with rate r € Co(R+) if E(u, t) < Cr(t)*|| A(uo, 11) |? for all (uo, u1) € D(A) x D(AY?). Note
-that E(u, t) = O(r(#)*) for some r€Co(R+) and for all initial values (19,11) € ¥ is equivalent to
-exponential stability of the semigroup (7Zo(f));>0), and therefore to exponential decay of E(u, t) for
-all solutions of (4.2).
+Tt was pointed out above that for a complete solution of any problem in plasticity it is
+necessary to know the resistance to further distortion after any given total strain. Many
+observations have been made of the load-extention curve over a large range of strains
+and some have been made of the torque-angle curve for round rods. The connection
+between the torque-angle curve for a rod and that for a tube is known,” in fact one may be
+deduced from the other by purely mathematical processes. From the torque-angle
+curve for a tube, the shear stress—shear curve can be obtained, but for a complete
+analysis of plasticity the whole effect of the past strain history of an element of metal
+would have to be known. This leads to such complexity that further progress is
+impossible unless some simple generalisation can be made to give results of sufficient
+accuracy for practical purposes.

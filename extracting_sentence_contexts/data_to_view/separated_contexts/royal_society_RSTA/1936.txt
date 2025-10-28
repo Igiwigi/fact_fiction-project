@@ -1,19 +1,8 @@
-This is done by satisfying the following requirements
-in terms of flow velocity ug [29]
-
-min(§ig) < Ue < max(Eq), (C1)
-
-and temperature T
-min |tly — Sal? SDT < max lta — fia. (C2)
-i i
-
-Interestingly, the condition (C 1) translates to the fact that information cannot propagate at a speed
-below the smallest discrete velocity of the lattice, and above the maximal one—this condition
-is more commonly known as the (Courant, Friedrichs et Lewy) CFL condition. Similarly, the
-condition (C 2) translates to the fact that the temperature is bounded by the minimal and maximal
-internal energies of discrete velocities. Observing a lower limit for the temperature might be
-surprising at first, but in fact, this is exactly what is observed during simulations of both DVMs
-and LBMs (figures 1 and 2). Consequently, by choosing the minimal and maximal norm of discrete velocities, and by
-centring the velocity discretization accordingly, researchers from the DVM community are able to
-obtain stable simulations that lead to accurate results even for very large velocity and temperature
-variations.
+Diffuse series, \p—md.—Kayser and Runce traced the first three members of this
+series, as shown in Table I. The first in their list was composed of three lines,
+4.13569-95, 3548-16 and 3531-95 (Rowland scale), and it was remarked that the triplet
+was possibly more complex. There are in fact six other lines close to these three which
+must certainly be considered to form part of the diffuse triplet. The wave-lengths
+given for these lines by different observers differ considerably, as will be seen from
+Table II. A difficulty is caused by the fact that the lines are grouped together in sets
+of three, and in each set the lines are very close together ; also the lines are very diffuse .

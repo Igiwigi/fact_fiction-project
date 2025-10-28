@@ -1,7 +1,11 @@
-The outcomes of these two different
-choices of iteration were the same. From the same figure, it can be noted that the TBRmax value
-keeps increasing iteration after iteration and the algorithms do not reach a plateau within 10 full
-iterations. This is consistent with all the patients, and is due to the fact that the analysis is based
-on the voxel with the maximum value. The visual comparison in figure 5, for three patients, shows how HKEM is able to provide
-well-defined lesions in the aneurysm compared to the other two algorithms. KEM also shows
-improved definition and higher contrast over OSEM+G.
+1t is easily seen that any one of these cubic cones contains two trisecant
+planes of c,, and, beside the six chords of c, which lie in these, ten other chords of ¢,. For on projection from P the cone projects into a cubic surface containing the projection
+of cy, say ¢,’ ; and it is a simple matter to show from the plane representation of the cubic
+surface that two lines of the latter are trisecant of c,’ and ten of them are chords. Now
+the ten chords of ¢, which lie on one of the cubic cones in question, K, say,are exceptional
+lines in § and correspond in fact to nodes of the cubic primal V,* to which Ky corre-
+sponds. * For if to one of the chords 1, the corresponding point of V,3 be L,, then to
+any line 4 through L, there corresponds a ®-curve breaking up into the line /, together
+with a rational cubic curve c; meeting /, in one point, c, in four, and passing through P.
+This curve c,; meets K, in nine points of which four lie on ¢,, one lies on /,, and three lie
+at P, so that only one is free.

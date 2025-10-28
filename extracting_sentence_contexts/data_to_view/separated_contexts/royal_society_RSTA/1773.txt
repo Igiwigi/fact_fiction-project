@@ -1,31 +1,16 @@
-For the short-time use transient signal that has the form of exponential
-
-
-damping (as in our case), we can use the Stehfest algorithm which involves specific time instances. The time response is computed by a sum that involves weighted values of the Laplace function:
-
-f(t) m2 Yo ViF (1), (3.3)
-i=1
-
-where the weights V; are determined by
-
-min(i,(1/2))
-Yep
-
-am
-eS
-
-k/2 (2h)!
-(n/2 — WIK(K — DIG — Wk —
-
-(3.4)
-
-An optimal choice for the number of terms n in the summation of (3.3) is 10 <n < 14, here
-we are using 14. Note that (3.4) is incorrectly written in [18], which can be attributed to the fact
-that the same expression is also incorrectly written in [11] from which it was taken. The Stehfest
-algorithm gives very good results in the short-time domain. In §4 we will study its reliable use by
-comparing its results with the universal numerical method.
-
-(c) Pole extraction
-
-The residue theorem is an alternative method for Laplace inversion and involves the computation
-of poles of the function to be inverted.
+The auxiliary conception of electromagnetic
+momentum is not however completely attained under the most general conditions,
+although it will still remain to enable us to obtain an effective mode of expressing
+certain results of the simpler theory; it is probably present in no other capacity in
+former interpretations of the theory so that this is hardly a disadvantage of the present
+formulation. The present theoretical relations require, of course, to be supplemented by the usual
+empirical laws for the induction of the two polarisations and the conduction current. We have however specially refrained from introducing these relations as it was desired
+to emphasise the fact that the theory in its complete form is entirely independent of
+these laws, so that for example it necessarily covers the most complex fields,
+involving ferromagnetic inductions and polarisations. If we interpret the theory as
+determining the electrodynamic changes in the system during its transition from one
+configuration to another even the presence of hysteritic qualities in the inductions
+will not vitiate its validity. This is, of course, no special advantage attaching
+to the present form of the theory as it is in reality fundamentally inherent
+in every interpretation, although it may be hidden by the particular form of
+expression adopted,

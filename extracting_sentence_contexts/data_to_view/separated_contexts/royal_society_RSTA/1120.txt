@@ -1,23 +1,24 @@
-Partial regularity
+, i he eee fle eh t(6}
 
-Finally, we discuss ‘partial regularity results’, which limit the size of the set of possible
-singularities of weak solutions (or a subclass of weak solutions).
+Assuming now that the medium is homogeneous and isotropic, and denoting the
+covariant stress tensor by T;,, we have the stress-strain relations
 
-(a) The set of singular times
+ap
 
-Scheffer [15] showed, using a result of Leray (!), that the set T of singular times has Hausdorff 78
-dimension no larger than 1/2, dimj;(T) < 1/2. We give the proof from [32] of a similar result for :3
-the box-counting dimension here, since it is very simple but nevertheless provides a model of :&
-the proof of a much more powerful result about space-time singularities that we discuss shortly. It combines the fact that near any ‘singular time’ T the solution must blow up at the particular
-rate in (5.4) with the bound So |Vu(s)||? < 00, valid for any weak solution. The finiteness of the
-integral means that there cannot be too many times T near which the lower bound holds. There are number of equivalent definitions of the (upper) box-counting dimension (see [33]),
-but the most convenient to use here is
+= SRC «few tes cel eee (7)
 
-dim (A) = lim sup log N(A,#)
-20 —loge
+where p is the pressure in the medium and y». the rigidity, a constant, We shall assume
+that there are no body-forces (we neglect gravity): the equations of equilibrium are
 
-,
+then
+ADs 10 ne te aoe weaMes oom Warten: sire <1 (8)
 
-where N(A, ) denotes the maximal number of ¢-separated points in A [so N(A,£) ~ ¢~ dimp(A)],
-Let T be the set of singular times, and suppose that dimg(7) =d > 1/2; then taking 6 with
-1/2 <4 <d there is a sequence e; > 0 such that Nj := N(A, ¢)) > 6.
+which, on making use of (6) and the fact that A,A, = A,A, (since the space is Huclidean),
+reduce to
+A'p = pA, (Adm ar epee) sw ws +, (9) It follows immediately that p satisfies the harmonic equation
+A‘Ap = 0, SE OE Ee roe G10)
+and that the components of displacement satisfy the biharmonic equations
+AIRE AaAgY a Olea tai tdt a Waine neue cia ecuesaee (1)
+
+The fundamental equations (6), (9), and the deductions (10), (11), are familiar in
+the theory of slow steady motions of viscous liquids. *

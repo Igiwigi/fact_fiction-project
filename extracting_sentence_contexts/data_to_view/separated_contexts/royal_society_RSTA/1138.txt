@@ -1,21 +1,33 @@
-The latter are related to the famous O(Ma’) errors that are obtained
-in the definition of the viscous stress tensor [42]. Hence, the LSA of the DVBE is able to capture
-the weakly compressible deficiency of the D2Q9 velocity discretization, as previously reported
-for the D3Q19 lattice [67]. In fact, previous studies showed that by adopting higher-order velocity
-discretizations, the LSA further leads to shear and acoustic waves that do not suffer anymore
-from compressibility errors [12,78]. If we now consider results obtained with methods that are supposed to restore the Galilean
-invariance of standard lattices, such as the cascaded and the cumulant-based LBMs [18,19,26],
+The experiments therefore show that the net effect
+of drive, b, was independent of the pressure,
+
+It follows
+
+a=a,4 = W=!,
+
+where W = W,— b.
+
+Tt is then only necessary in order to find the area A of the differential gauge to plot
+a number of values at different pressures in order to determine p or to take a number
+of pairs of values at widely separated pressures and so eliminate b: for instance, from
+the above results at 300 and 800 Ib. pressure. A248 2 Se
+
+=01 —0- = 0124855 sq. inch at 17° C.
+*T so x 453-599 25000 — 0-000145 = 0 55 sq. inch a’
+
+The results of 30 comparisons at various pressures have been plotted. The observa-
+tions on different days lay on slightly different straight lines, due to small variations
+in the setting of the steel yard or in the torque required to turn the piston, and small
+changes in the lubrication of the piston by the oil, but each curve was nearly straight
+and nearly parallel to a line passing through the origin corresponding to a piston area
+of 0-124858 sq. inch at 18° C.
+
+The weighted mean of all those results gave a straight line which cut the ordinate
+at — 2-3 grams, so that the effect of drive was equivalent to a pressure of only 0-04 Ib.
+per sq. inch; in fact, the part of the weight of the belt taken by the wheel was almost
 
 
-x
+THE SATURATION PRESSURES OF STEAM. 175
 
-Act naan
-
-shear :s
-
-0 4 2 34 x 0 Wd x2 34 x 0 4 m2 304 © 3
-k, k, k 1y
-
-x x x
-
-Figure 2. LSA of the D2Q9-BGK-DVBE with a second-order equilibrium (N = 2).
+completely annulled by the lift of the drive. This result was further checked by deter-
+mining the line of closest fit to the observation by the method of least squares.

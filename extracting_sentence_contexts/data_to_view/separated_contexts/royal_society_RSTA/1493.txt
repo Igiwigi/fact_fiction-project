@@ -1,8 +1,13 @@
-A few results exist,
-though, for matrices with specific sparsity structures. Tight lower bounds on communication for
-the sparse Cholesky factorization of a model problem are derived in [58], and the multiplication
-of Erdés-Rényi matrices is discussed in [59]. Reducing communication in iterative methods is a
-challenging topic, with an additional difficulty being the fact that the convergence of iterative
-methods depends on the spectral properties of the matrices involved. Approaches such as s-step
-methods (e.g. [60,61] and the references therein) or enlarged Krylov methods [62,63] are actively
-investigated. Many open questions remain to be addressed beyond linear algebra.
+By means of (11.2), (11.19) we may express I’ as a power series
+in the 2, %. Since the ¢,, «, vanish with (« — v) and the z,, u,, and the series involved
+in the transformations (11.2), (11.19) are uniformly convergent, we may make the
+||, |@,| arbitrarily small by taking |o —v|, |%|, || sufficiently small. Using this
+fact, together with the absolute convergence of the transformations, we see that F
+becomes a power series in the z,, «, with coefficients which are series in (¢ — v), ye”,
+absolutely convergent when I’, = |ye"| =P, and jo — v|, |%|, || are sufficiently
+small. Thus F is regular} in the neighbourhood of any periodic solution of Family 1
+sufficiently near the generating solution. By using similar methods we may construct the normalising contact transformation
+appropriate to a generating solution of Family II or III, and that appropriate to a
+periodic solution of Family I or II when a =0 or A=0 or 4=}4y, and we may
+similarly establish the convergence of the series here involved and the regularity of F
+in the neighbourhood of such a periodic solution.

@@ -1,10 +1,11 @@
-Preliminaries
-
-Throughout this article, X is a separable real Banach space, with norm || - ||. 8,(X), C,(X) and
-BUC(X) denote the spaces of Borel measurable, continuous, uniformly continuous and bounded
-functions from X to R, respectively, endowed with the sup norm || - ||oo. Occasionally, we will be
-concerned also with the mixed topology in C;(X), which is the finest locally convex topology that
-agrees on every bounded set in C,(X) with the topology of uniform convergence on compact sets. As we are concerned with Gaussian measures on X and the relative Cameron—Martin Hilbert
-space H C X is separable, we state the standing assumption that X itself is separable: in fact,
-Gaussian measures are always concentrated on the closure of H in X. See §2d. If Y is any Banach space, -/(X, Y) is the space of linear bounded operators from X to Y; as
-usual, if Y = X, it is denoted by “(X), and if X = R, it is denoted by X*.
+In this form the method is applicable to
+the fitting of populations involving any number of variates, and equally to discontinuous
+as to continuous distributions. In order to make clear the distinction between this method and that of BayEs, we
+will apply it to the same type of problem as that which Bayes discussed, in the hope
+of making clear exactly of what kind 1s the information which a sample is capable of
+supplying. This question naturally first arose, not with respect to populations distri-
+buted in frequency curves and surfaces, but with respect to a population regarded as
+divided into two classes only, in fact in problems of probability. A certain proportion,
+p, of an infinite population is supposed to be of a certain kind, e.g., “ successes,” the
+remainder are then “ failures.” A sample of » is taken and found to contain x successes
+and y failures.

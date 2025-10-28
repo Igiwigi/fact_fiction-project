@@ -1,10 +1,12 @@
-This choice introduces non-zero elements in the residuals [8
-covariance matrix, (2”);j =(2");i #0, and limits us from using (2.9) to solve the disconnected [3
-model. As done before, we neglect the newly introduced off-diagonal elements and solve the
-model using (2.9) anyway, using (2.7) to evaluate the covariance matrix and then discarding
-the off-diagonal elements. This procedure is justified by the fact that, in this way, we can
-quantify instantaneous causality as the error in prediction we commit when neglecting one of
-the instantaneous couplings. Note that our procedure can be carried out in multivariate systems
-and the corresponding instantaneous causality measure can be conditioned on the other variables
-in the system. We denote the time domain instantaneous causality measure we get from (2.4)
-as Fx;-xjlxi,1 and the frequency domain one as f;;.x; xis) (w).
+This
+defect is doubtless due to the imperfect representation of the elliptic, evectional, and
+variational tides inherent to my method. 242
+
+
+228 PROFESSOR G. H. DARWIN ON TIDAL PREDICTION. The slight superiority shown over the mechanical prediction must be attributed to
+the fact that I have used better values of the tidal constants than were available in
+1883, when the Indian predictions must have been made. T learn from Colonel Hitt that two independent observers reading the same tide-
+curve will frequently differ by 5" and sometimes by 10" in their estimate of the time,
+and by 1 and sometimes by 2 inches in the height. Accordingly, predictions which
+agree with a reading of a tide-curve with probable errors of 64" in time and 1 inch in
+height may claim to possess a high order of accuracy.

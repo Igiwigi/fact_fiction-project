@@ -1,18 +1,10 @@
-On the other hand, if Vyq itself reduces below threshold, no
-matter what value the VAC produces the voltage to PWM part will produce relatively large errors
-as the perceptron’s glue logic would kick in anyway. Also of concern is the accumulation of nonlinearity after both parts of the perceptron have
-been put together, and this nonlinearity continues to increase once the perceptron is connected in
-series across multiple stages of an NN of non-trivial depth. Another issue is the fact that there may be difficulties for the perceptron to implement AFs
-other than flavours of ReLU. Of particular concern is that the perceptron, because of the use of
+We shall adopt a semi-geometrical point of view. In the classical discussion of vibrations about equilibrium, the infinitesimal quadric,
+
+(7.69) V,,, dq" dq" = constant,
+
+plays a fundamental part. In fact, it is necessary and sufficient for stability that this
+quadric should be of the closed (or ellipsoidal) type, the independent normal vibrations
 
 
-the voltage across a grounded capacitor to represent a crucial value, only works in the positive
-value domain. Future research topics include the better matching between the constituent parts of the
-perceptron to overcome the threshold and nonlinearity problems and the extension of the
-perceptron to cover a larger set of AFs.
-
-(b) Pulse width modulation-coded neural network
-
-In the single perceptron, two-perceptron and three-perceptron experiments, both the resultant
-model and the Cadence simulations indicate that the voltage to PWM converter, without
-modifications, may serve as an approximate capped ReLU AF, qualitatively.
+94 J. L. SYNGE ON THE GEOMETRY OF DYNAMICS. taking place along its principal axes. In the case of vibrations about a state of motion
+there is a corresponding quadric of importance to which we shall now proceed.

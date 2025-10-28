@@ -1,11 +1,8 @@
-The direct assignment of integral balances demands fewer assumptions, in fact, and
-allows to try to prove Cauchy-type theorems. However, since we consider M as a
-nonlinear manifold, which is the general unifying choice, prescribing an independent
-integral balance of micro-actions would be highly questionable formally. We would write,
-in fact, integrals involving integrands taking values on the cotangent bundle of M, which
-is anonlinear space (unless M coincides with a linear space) and is the target space of the
-integrand, so the definition of the integral itself would be questionable. Moreover, if we
-consider M to be coincident with a linear space, we can see that such a balance would be
-essentially superfluous, as shown in a theorem below. When we adopt the principle of virtual power (as in [38]), we are directly prescribing
-the weak form of the point-wise balance equations, the form used in computational
-procedures.
+[If we write U for a quantity proportional to the excess of kinetic above intrinsic energy, so that
+U=e-+(1—i), then figures of equilibrium are to be determined by making U stationary for variations
+of the parameters involved in it. This course is actually pursued in the Appendix below, the function
+(viii.) being, in fact, this U; and the variations of it, being made stationary, afford a controlling solution
+of the problem of this paper. The similar method may easily be applied to the case of Jacont’s ellip-
+soids. From this point of view the interesting function to tabulate is e + (1 — 7), and we observe that
+in the case of the Jacobian ellipsoid referred to on the last page it is ‘6052, and for the dumb-bell it is
+6156.

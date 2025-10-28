@@ -1,15 +1,22 @@
-The entropy rate (4.14) does not
-depend on the Hamiltonian or its decomposition. Partial entropies can be defined for decomposed
-systems which are discussed in §5. The entropy production (4.38); is not negative according to the Second Law (4.75)
+Siilees we obtain the numbers
+%(2m+1)'+$,  $(2m+2)*
+which, respectively, enumerate the ways of partitioning the multipartite numbers
+(2m, 2m...repeated s times), (2m+1, 2m+1... repeated s times)
 
-D=-p-f=—p®.f>0. (4.77)
+into two or fewer parts. When the enumeration is concerned with exactly two parts we have clearly to
+subtract unity in each case. In fact the generating function is
 
-But pay attention to the fact that different expressions of the entropy production belong to
-different controlled systems: (4.77); belongs according to (4.30) to a non-isolated system, whereas :
-(4.77)2 represents the entropy production of an isolated system according to (4.31). The value of D8
-the entropy production is equal in both systems because isolation of a system does not influence are
-the entropy production according to (4.34). This difference of the meaning of (4.77); and (4.77) 1
-comes into sight, if equilibria are discussed (§4f). 1
+$ (Q,?+Q,)—Q 3
+D;,,Q, = Dini =Q,
 
-The propagator @¢om vanishes in conventional quantum mechanics and with it also the entropy : 3
-rate and entropy exchange and production according to (4.71) and (4.74).
+showing that unity must be subtracted. The numbers then become
+
+and
+
+4(2m+1)'—-4, 4 (2m+2)'-1. These numbers also enumerate the ways of exhibiting the composite integers
+
+wrote:
+
+(pipes-p,)", (pi Pa +
+
+as the product of two factors.

@@ -1,12 +1,11 @@
-In this approach, one 1B
-uses the forecasts available to solve a sequence of MDP formulations over time. At each decision : =
-epoch, a conventional MDP that incorporates the forecasts available is solved, the optimal first 8
-period action is taken, and this process is repeated at the next decision epoch. In particular, the : 4
-MDPs that are used by MPC at each decision epoch do not explicitly model, within the MDP, De
-the fact that the decision-maker will have available a new set of forecasts at each future decision : 3
-epoch within the decision horizon associated with the MDP. This is also the case in adaptations : 3
-of standard MPC to the setting where the forecasts contain probabilistic information [16]. By 8
+Here the silver is found as a distinct micro-constituent. It will
+thus be readily understood also why duplicate determinations of the silver content in
+this specimen showed different amounts. This same fact did not escape the observant Farapay, who, in his joint paper with
+Sroparv in the “ Quarterly Journal of Science,” published in 1820, mentioned that when
+a mixture of silver and steel was kept long in a molten state, a perfect alloy seemed to
+be formed : but on solidification, globules of silver appeared on the surface of the button. When a forged bar of this metal was acted on by dilute sulphuric acid, the silver was
+left in threads through the mass, “ so that the whole has the appearance of a bundle of
+fibres of silver and steel as if they had been united by welding.”
 
-contrast, the MDPs introduced by this paper model the fact that the forecasts are continually
-‘refreshed’ over the MDP’s decision horizon, and do so via a formulation that preserves the
-computational tractability of the MDP.
+(c) Determination of Hardness. For this purpose the Diamond Pyramid hardness test was employed in preference
+to the Brinell.

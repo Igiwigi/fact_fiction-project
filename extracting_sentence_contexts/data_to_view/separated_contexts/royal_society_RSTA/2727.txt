@@ -1,21 +1,14 @@
-In other words, a capacitor is a form of TL in
-which a TEM wave moves with a single fixed velocity, which is the speed of light in the medium. Below we reproduce both the derivation of the TL-based capacitor discharge and the description
+In the preceding sections we have seen how, even for solute elements of favourable
+size factor, the simple valency relations for the solidus lines are more sensitive to slight
+variations of atomic diameter and lattice distortion than are the relations for the
+liquidus curves. For the solid solubility curve where the equilibrium is with a second
+solid phase, it is only natural that this effect of size factor and lattice distortion should
+be more prominent. A study of the equilibrium diagrams now reveals the fact that
+where the alomic size factors are favourable, the maximum «- solid-solubility, to a first
+approximation, corresponds to a constant electron concentration. To a higher degree of
+accuracy correction factors are required to allow for differences in atomic diameters
+and lattice distortions. By the electron concentration is meant the ratio of valency
+electrons to atoms, so that for pure copper or silver the value is 1-0, whilst for an alloy
+containing x atomic %, of a solute element of valency v, the electron concentration is
 
-of the Wakefield experiment. : =
-
-Those lectures triggered my deep interest in studying Oliver Heaviside’s work and, even more, : S
-his whole life. And this very interest drew me to (then PhD student but now Dr) Christopher : 2
-Donaghy-Spargo, with whom we founded NEMIG—northeast Electromagnetics Interest Group, : &
-which since 2013 has enjoyed a formidable series of seminars given by scientists, engineers, : _
-historians and entrepreneurs, driven by the ideas and lives of Maxwell, Heaviside and generally ane]
-by the exciting field of electromagnetism. : 2
-
-Coming back to the main object of this paper, which is the relationship between energy current : 3
-and computing, I must admit that I had drawn most of inspiration from my familiarization with :s
-
-Heaviside’s work, his legacy in the work of others, and to a great extent by the fact that both Ivor
-Catt and David Walton came to studying electromagnetic theory from the point of view of energy
-current through their experiences in dealing with high-speed digital electronics. This electronics
-does not deal with sine waves. It deals with digital pulses, which are physical enough to be dealt
-with in a ‘more physical way’ rather than expressing them as an algebraic sum of sine wave
-harmonics stretching in the time domain from —oo to +00.
+1+ ee _

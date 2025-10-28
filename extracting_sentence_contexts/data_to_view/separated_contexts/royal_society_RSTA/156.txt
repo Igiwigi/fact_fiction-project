@@ -1,13 +1,11 @@
-The manner in which observations of precipitation, water vapour and
+These equations, in the form (9.2), imply that ZT (w,0;) T(8;4,) = T(w;,9,) = 9x, when
+(9.3) D(04, «445 ym) «D (04; «++ 9m) = Va
 
-emperature collapse to simple dependences expected from critical phenomena
-summarized above is highly suggestive. The fact that some of these properties
-occur commonly in simple systems, including lattice models as seen in the
-yarallels between figures 6 and 7, suggests that we ought to be able to capture
-hem in our convective schemes. The fact that some properties are universal
-implies that they do not provide a test of whether a system contains the correct
-ohysics for convection, but systems that aim to represent the statistics of
-convection should include them. It also suggests that systems simpler than fully
-resolving convection can be devised that will include some of these properties
-hat have now been so clearly observed for convection. One promising approach, adapting lattice models for use at the subgrid scale,
-1as been initiated (Majda & Khouider 2002; Khouider et al. 2003).
+Thus for the existence of complementary bases it is necessary that A have non-zero —
+discriminant over f. When that condition is fulfilled, the unique basis complementary to
+Wy «+3 W», is defined by (9.2). Assuming that these bases are in fact complementary, it i
+seen from (9.1) that, in the regular representation determined by 4,,...,9,,, the matrix
+representing f has elements T(fu,6,). It follows that T(f(w,9,+.-.+@n4,)) = T(B) for al
+fe A; and hence, using (9.1) again,
+
+(9.4) 0,6,+...

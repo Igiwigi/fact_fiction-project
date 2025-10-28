@@ -1,12 +1,14 @@
-Transition flaw size analysis: geometry and loading configuration of the numerical model. : >
-
-consideration of a finite ¢ > 0+ introduces a critical stress proportional to 1/V€, which is absent in :
-Griffith’s formulation and linear elastic fracture mechanics. Thus, ¢ becomes a material property. D8
-The motivation for adopting a positive, constant ¢ stems from the fact that Griffith’s theory is tw
-unable to capture some well-characterized size effects. One of these important size effects is the i
-transition flaw size concept, which is the cornerstone of many engineering standards and fracture :8
-mechanics-based engineering design; if a crack is smaller than the transition flaw size, then the a
-crack will not grow and the specimen will fail at the material strength (or at the yield stress oy, :
-if plastic design is considered). We shall show here that the transition flaw size paradigm is a
-natural by-product of variational phase field fracture models that consider ¢ to be an internal
-material length.
+229 In August of last year the author saw a few of these specimens of Farapay’s steel
+at the Science Museum, South Kensington, where they had been placed on exhibition,
+under the care of Sir Henry Lyons, F.R.S., during the recent period of reconstruction of
+the Royal Institution building. In view of the fact that a general exhibition of
+Farapay’s instruments, apparatus and othermaterial was to be held during the Farapay
+Celebrations at the Albert Hall, under the management of a special Committee, with
+Colonel Vianoues as its Chairman, the author suggested that it would be interesting
+and appropriate to have these specimens of Farapay’s steel subjected to analysis and
+other examination. He further discussed this suggestion with Sir Wituiam Brace,
+F.R.S., Fullerian Professor of Chemistry, Director of the Laboratory and Superintendent
+of the House, who now occupies the position so long held by Farapay himself. Tt was
+recognised that Farapay’s researches on steel alloys and his own account thereof would
+acquire a new and greater interest if some of his actual specimens could be completely
+examined by the latest methods.

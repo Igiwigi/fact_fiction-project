@@ -1,27 +1,11 @@
-A final comment pertains to the special cases (i) bz = 0 and (ii) bp = —/bzb4, where (E) is lost
-at the (EI/P) or (EC/H) boundaries, respectively (cf. equations (4.17)). In these cases (see also
-§4c), the (WP) condition (4.21) still holds, so that the Green’s function (4.23) maintains the same
+As he has only a single set of the latter
+left to carry out the identification, his functions (7) and F(7) are not really inde-
+pendent. Theoretically only the shear f(7) should be required, and in a practical
+problem even this is unknown, the total pressure being all that is given. The actual
+distribution of this pressure does not appear to enter into Professor Scuirr’s solution,
+Also the fact that the values of 7 are roots of a transcendental equation singularly
+complicates the solution from a numerical point of view, and Professor ScHIFF appears
+to have made no attempt to translate his results into numbers. |*
 
-
-qualitative characteristics as in the case of a regular material far from loss of (E). In fact, it is Ee
-remarkable that, even in the case of (E) loss, the displacement remains bounded everywhere in a
-
-constrained Cosserat solid under antiplane deformations. This finding is in marked contrast with 3
-the classical elasticity situation, where the loss of (E) implies also loss of (WP) (i.e. the classical : a
-acoustic tensor is no longer positive definite) and hence the Green’s function can only be defined ig
-in the sense of distributions (cf. equation (5.1). : a
-
-In the following, the Green’s function will be used as a perturbing agent to examine the time- : 2
-harmonic mechanical properties of a series of Cosserat materials with extreme orthotropy. To {2
-
-characterize this orthotropy, it is expedient to introduce the dimensionless parameters
-
-55 bp bo 22 wt
-
-e= , , , and «, , 4.37
-
-C44 p ty’ "bs bu a eas (37)
-where € measures the degree of Cauchy anisotropy, (8, y) the degree of couple-stress anisotropy, 6 : =
-the degree of microinertia anisotropy and wq denotes the frequency made dimensionless through 3
-division by the classical shear-wave velocity in the y-direction (./c44/p) and multiplication by the 3
-characteristic material length ¢.
+It has therefore appeared worth while to apply the solutions involving circular
+functions of z to problems such as those sketched above. Of each of these I have given a concrete numerical example.

@@ -1,10 +1,9 @@
-These quantities define box-to-box rate coefficients, which can then be used
-to calculate a potential of mean force, which is independent of the boundary locations. Choosing
-BXD boundaries is analogous to the process of specifying umbrellas (in umbrella sampling). A
-key difference is the fact that umbrella sampling requires two parameters per umbrella (location
-and force constant), whereas BXD requires only one parameter (location). While the latest BXD
-algorithms are able to adaptively determine the most computationally optimal box boundary
-locations [36] without requiring user specification, this capability was not available at the time
-the work described in this paper was carried out, and BXD boundaries were specified the ‘old-
-fashioned’ way (via user trial and error). In order to calculate thermal dissociation rate coefficients, we performed BXD simulations
-from 700 K to 1300 K in 100 K intervals.
+with calorimeter D at 28°°0 C., which would give 4°1805 at 29°10 C.
+
+(37.) Variation of the Gradient-Correction with Temperature. The importance of this correction arises chiefly from the fact that the value of the
+heat-loss increases with rise of temperature for any calorimeter. As a result, the
+correction, which depends on the square of the heat-loss, is considerably larger at
+higher temperatures, and thus affects the curve of variation of the specific heat as
+well as the absolute values. If the correction were constant, it would affect only the
+absolute values, which would matter little owing to the uncertainty of the electrical
+units.

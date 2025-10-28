@@ -1,19 +1,16 @@
-The ae
+It was decided
+that half the total energy of both the a- and f-particles emitted from the splinters should be
+considered as being absorbed by the solution. In the later experiments the correction was
+in any case small. The second uncertainty arises from the fact that the radon is not completely removed
+as soon as the tube is opened; the amount in solution probably decreases roughly expo-
+nentially during the removal period. By taking samples of solutions during and after the
+radon removal period it was estimated that 1 min. could be taken as the ‘average life’ of
 
-set of all K-sparse vectors is thus a union of subspaces. eae
-For an arbitrary vector x, calculation of the K-sparse approximation Xx with the smallest least- 7
+Vo. 242. A. 6
 
-squares error can be done extremely efficiently. All that is required is to sort the entries in x Dy
 
-by decreasing magnitude and set all but the K largest elements of x to zero. We will call the aS
+42 W. M. DALE, L. H. GRAY AND W. J. MEREDITH
 
-calculation of the best K-sparse approximation of a vector a projection of the vector onto the union 1S
-
-of subspaces. ,
-The power of sparsity constraints comes from the fact that they are not restricted to the
-
-canonical basis, but that we can restrict coefficients in any basis. By carefully choosing the right
-
-basis, we are thus often able to model and constrain different characteristics of x. For example, for
-
-our tomographic X-ray problem, wavelet bases can provide good sparse models.
+the radon in the solution, after the opening of the vessel; when calculating the dose 1 min.
+was, therefore, added to the main exposure and deducted from the time of the last stage
+of the irradiation process.

@@ -1,12 +1,7 @@
-Let K(E) C £(E) denote the space of all compact linear operators on E. For every R € L(E), we
-call
-[IRlless == inf{||R — K||: K € K(E)},
+For the case in which K —1 is small this conclusion is given by G. W. WALKER, ‘Quarterly Journal
+of Mathematics,’ vol. 30, 1899, p. 217. The formule given on that page agree with (5-6), when K — 1 is
+small; but the more general formule on the preceding page do not agree with (5-6) completely. I have
+not succeeded in tracing the discrepancy on account of the fact that G. W. WALKER has omitted some of
+the details of his preliminary calculations. + E. T. Panis, ‘Phil. Mag.,’ vol. 30 (Ser. 6), 1915, p. 459.
 
-the essential norm of R. In fact, ||- lle; is a Semi-norm on L(E) (and technically speaking, the
-essential norm of an operator R € L(E) coincides with the quotient norm of the equivalence class
-of R in the Calkin algebra L(E)/K(E)). Proposition and Definition 3.3 (Asymptotically compact semigroups). A semigroup S on E
-is called asymptotically compact (often also quasi-compact) if it satisfies the following equivalent
-assertions:
-
-(1) limp co IIS(lless = 0-
-(ii) There exists a times t € (0,00) such that ||S(t)lless < 1.
+{ To obtain an accuracy of 1 per cent.

@@ -1,16 +1,17 @@
-RCA led in the early research on TFTs
-and LCDs, but the belief that flat-panel displays were against their long-term
-interests led them to withdraw from the field in 1972. The other potential
-industrial leader, BTL, had stayed curiously aloof from the frenzied search
-for novel display technology, partly because of their increased involvement in
-semiconductor lasers for communications, but also because senior figures in
-their laboratory were unconvinced that new displays were required. They said
+Now in vibration theory (cf., for example, Southwell 1940, Chap. vi) the natural
+frequencies of vibration of a system, i.e. the Eigenwerte of = 2mn, can be calculated
+from the condition that p? as given by
 
-(Gordon & Anderson 1973):
+pr =B/X (4)
 
-Prospects for new display technologies are clouded by the fact that there exists a device, the
-familiar CRT, that has long provided a versatile, elegant, functional, economical, and largely
-satisfactory solution. In circumstances where industry was unwilling to lead in long-term research
-programmes, defence funding had previously filled the gap, and we have seen
-that this indeed happened in the UK. In the USA, however, the Department
-of Defense (DoD) was also unconvinced about flat panels.
+has a value which is stationary for all permitted variations of the displacements, 8 and
+& being essentially positive functions representative of the total potential and kinetic
+energies. Comparing (3) with (4), we see that when , is essentially positive (and this
+is usually the fact in cases of elastic instability*) the two classes of problem are exactly
+analogous. Accordingly any method devised for the solution of vibration problems can
+also be applied to the problems of this paper; and from a practical standpoint the latter
+are more simple, in that usually only the smallest critical value of P is wanted, whereas
+in vibration problems it is often necessary to determine frequencies higher than the
+gravest. In particular, *Rayleigh’s principle’ is immediately applicable to problems of elastic
+stability, also the relaxation technique which was based on that principle in Part VI
+of this series (Pellew & Southwell 1940).

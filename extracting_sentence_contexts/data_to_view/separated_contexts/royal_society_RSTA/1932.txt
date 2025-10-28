@@ -1,15 +1,8 @@
-The collision step is usually carried out by manipulating the component of the populations that
+of the initial value in a few minutes. This percentage, however, diminishes as the load
+is decreased. These facts have an important bearing on stress determinations from
+observations of artificial double refractions in celluloid. (4) The stretch of the celluloid follows laws closely similar to those of the optical
+retardation, the initial stretch being also approximately proportional to the applied load. (5) The retardation r and stretch § are connected in each case by a linear relation
 
+r = aT-+ 8,
 
-deviates from equilibrium, through a linear term, as in the straightforward BGK model [49], or
-a more general expression, as in multiple-relaxation-time approaches [4]. A crucial importance
-is therefore attributed to the explicit calculation of the equilibrium term, as a function of the
-macroscopic variables density, velocity and temperature. As a matter of fact, the expression of
-the equilibrium distribution can be considered to entirely determine the physics expressed by the
-model [94,95], if and only if the different non-equilibrium contributions are relaxed to recover the
-correct transport coefficients of the macroscopic equations of interest (see [96] for a systematic
-approach in the context of fluid mechanics). While LB models frequently approximate the equilibrium through an explicitly constructed
-polynomial expression [4,5], the present paper follows the path of DVMs and adopts
-a computationally more expensive approach of exponential-of-polynomial expression with
-iteratively computed coefficients, as extensively discussed in [29,30]. Here, the equilibrium is
-computed through the following process described in §2d where V = 39 and M = 13.
+T being the applied load in each case.

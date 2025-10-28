@@ -1,33 +1,11 @@
-In fact, the matrix formed by the :8
-p(a’,b’) can be seen to be doubly stochastic. : 5
-With the algebra of measurement symbols established, a measurement-based statistical : Ss
-interpretation of the quantum formalism is possible, in particular, by considering a triple product ih
-of measurements formed from the symbols of two incompatible properties, namely, : g
-M(b)Ma@’)M(b’) = (a’ |b’) (b' | a’) M(b’) = pla’, b' Mv’), (3.12) : =
-
-S
-
-where p(a’, b’) = (a’ |b’) (b' |a’) is the invariant through which (a’ | b’) gains physical meaning. One 18
-
-naturally expects the result of an intervening measurement to produce a fraction of the ensemble
-introduced at the beginning of this composition of measurements. The expectation value of property A for systems in the state b’ is the average of the possible
-values of A, weighted by the probabilities of occurrence that are characteristic of the state b’; one
-can write the probability formula as
-
-pla’, b’) = tr M(a’ M0’). (3.13)
-
-The additivity of p(a’,b’) and the fact that )°,, p(a’, b’) = 1, which follows from this, shows p(a’, b’)
-to be stochastic, establishing the core of its interpretation as the probability that a’ is observed
-in the measurement of A of a system just previously measured to be in state b’, with first
-selective measurement of B playing the role of state preparation. In order to completely qualify the
-probability interpretation, the requirement mentioned above that (b’ | a’) and (a’ | b’)* are complex
-conjugate numbers that establishes the non-negativity of p(a’, b’) requires that A(a’)* = 2(a’)~! and
-so, significantly, requires them to take the form
-
-aa’) =e, (3.14)
-
-in which the values of the real numbers ¢(q’), i.e. phases, importantly are unrestricted and so all
-possible, a point taken up in detail in §5. Thus, we see that correspondence between operators and physical quantities is such that a
-function f(A) of the property A is assigned the operator f(A), as seen in equation (3.10), and the
-operators associated with a complete set of compatible physical quantities form a complete set
-of commuting Hermitian operators.
+For the ellipse « = 7/2, the depth = *601 (semi-major axis), Thus, when the depth
+of the keyway is only decreased to one-fifth of what it was before, the reduction of
+torsional rigidity falls from 23 per cent. to 1 per cent., or nearly in the ratio of the
+squares of the depths of the keyways. This result may explain the fact that, when keyways of only moderate depth are
+cut into shafts, the decrease of torsional rigidity is by no means so great as would
+have been inferred from Dr SAtt-VENANY’s results for a circular section, with a thin
+keyway or slit extending right up to the centre. If we suppose, which appears reasonable, that the effect of such a slit upon an
+ellipse, which is not very elongated, does not differ much from the effect on a circle,
+we see that a keyway, whose depth equals about one-eighth of the radius, will decrease
+the torsional rigidity by only about 1 per cent. Now, when we make « =, we get the case of the circle with a keyway going
+right up to the centre.

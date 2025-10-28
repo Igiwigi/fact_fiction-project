@@ -1,20 +1,25 @@
-Nevertheless, the proper definition of a
-limit dynamics when an external control is added to the system, and it is supposed to have some
-sparsity surprisingly remains a difficult task. In fact, the most immediate and perhaps natural
-approach would be to assign as well to the finite-dimensional control u an atomic vector-valued
-time-dependent measure
+A similar procedure, using the
+a observed variations at the eighths phases, gives corresponding residual variations for
+& the eighths phases.
+2 12. On curving these residuals for each quarter of the year—-eight in all for each
 
-N
-vy () = > Uj8(x,(t),v(t)
+1°}
+Z magnetic element—and comparing each curve with the corresponding typical variation
+e curve, they were all found to be of small relative range, but most of them had a
+= definite character, in which the principal harmonic element was that which has the
+& lunar day for its period. In the latter fact we found a suggestion that, although our
+€ formula disposes of the bulk of the phenomena for which an expression is to be found,
+& the addition to it of two more independent terms would not only make it mathe-
+3 matically more complete, but would render it further expressive of an otherwise
+© neglected, but significant, element in the luni-solar variation. Making this addition,
 
-i=l
-and consider a proper limit v for N + +00, leading to the controlled PDE
-+0 View = Vy - (A * we + vd, (1.4)
+E the formula becomes
+2
 
-where now v represents an external source field. Unfortunately, despite the fact that vy are
-supposed to be the minimizers of certain cost functionals which may allow for the necessary
-compactness to derive the limit vy — v, it seems eventually hard to design a cost functional
-with a proper meaning in the finite-dimensional model and at the same time promoting a good
-behaviour of the measure v. In fact, for the optimal control problems considered for instance
-in [6, section 5], such a limit procedure does not prevent v being singular with respect to jp. This means that in the weak formulation of the equation (1.4) the role of v is essentially mute,
-it does not interact at all with , hence it loses completely its steering purpose.
+Fealh) cos (F 7 + f.(h) sin (z 7 + fig(h) cos 2(F t) + fio(h) sin 2 (Fe)
+
+* Tf @ be written for the angle at, and @ for the angle a gs the formula may easily be transformed
+
+into
+2 kee 2 s 2
+F..,(#) cos (32 + F,,(@) sin (0) + F.9(P) cos2 (0) +

@@ -1,13 +1,9 @@
-Thus, ‘an intuitive version of mathematical induction’ allows one
-
-to see that for any n, the number of squares in the nth row will be n. Therefore, calculating :8
-
-"i requires calculating the total number of squares in the diagram, which is n?/2 + n/2, Ss
-by the formula for the area of a triangle plus the number of squares supplied by the shaded : =
-half-squares. 7
-
-Note that Chihara’s suggested induction does not lead directly to the theorem: rather, it leads : a
-to the result that )>/"_, i is the number of squares in the diagram with n rows. Put another way, : =
-Chihara’s induction shows that the diagram (3.1) can be extended to any number of rows 1 : =
-without changing the fact that its area is )~'' , i. It is from this statement that the result is then 1B
-deduced. By contrast, the non-spatial induction leads directly to the result.
+The former are generally greater than the latter, and the mean value of
+the ratio is 1°8. In Diagram 3 these ratios are plotted against wave-length ; if the
+relationship between the pressure and displacement were precisely linear, the dots
+would group themselves about the line marked 1:0, but it is very obvious that the
+readings at 10 atmospheres are too large for this relationship to hold. The diagram
+also shows the curious fact that the departure from a linear relation is much more
+pronounced for lines of small wave-length. For large wave-lengths the ratio is nearly
+equal to unity. This is partly, but not entirely, due to the fact that the lines of great
+wave-length have not been examined over the full range of pressures.

@@ -1,20 +1,11 @@
-This stress tensor for
-incompressible Navier-Stokes may be taken in the form
-
-T=uu+pl—vVu, (1.2)
-
-with p = P/p the kinematic pressure and v = n/p the kinematic viscosity. The stress tensor is the
-ultimate vehicle of transmission of momentum to the wall, via its normal component
-
-n-T=pn— —— 13
-
-pa, (1.3)
-which produces both viscous drag due to the Newtonian wall stress and form drag due to the
-pressure distribution, acting as sinks of momentum.
-
-1We do not follow the fashion of referring to Onsager’s result on energy conservation for Hélder exponent h > 1/3 as the
-‘Onsager conjecture’, and we shall instead refer to it as the ‘Onsager theorem’. Onsager did not state this result in his
-published 1949 paper [5] as a conjecture, but instead he claimed that ‘it is possible to show that’ and he had, in fact, the
-outlines of a rigorous proof [6,7]. The idea further suggested by Onsager [5] that energy should be dissipated for some Euler
-solutions with Hélder exponent h < 1/3 is, however, legitimately referred to as the ‘Onsager conjecture’. For a review of the
-important recent progress on that latter problem by ‘convex integration’ methods, see [8,9].
+There are, of course, not a few days when the giving a
+“0” ora “1,” ora “1” ora “2” is very much a toss up. If the choice made one
+day were to be made independently even the next week, there would be no doubt an
+appreciable number of alterations in the figure ascribed, and the longer the interval
+between the two choices the more would this tend to be the case. In view of this fact, in the present enquiry, the days of each year were dealt with,
+so far as practicable, in immediate succession. While the standard remained, I think,
+fairly uniform throughout the days of any one year, it not improbably varied sensibly
+as between different years, for the time that elapsed between the consideration of the
+first and last of the years was naturally considerable. In assigning the character figures the appearance of the curves was alone considered,
+and the lists of the daily ranges were never consulted, so that the two lines of
+investigation are at least absolutely independent.

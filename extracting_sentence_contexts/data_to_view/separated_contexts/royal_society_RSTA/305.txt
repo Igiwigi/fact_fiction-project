@@ -1,12 +1,11 @@
-But which exact scaling numbers are we to use? Is it acceptable for us to use
-‘metrological constants’, combinations of physical constants such as e and h tha
-are not precisely known in SI units? In fact, the developing consensus is to move
-to making the physics numbers be the adopted values, and calculate out wha
-our mass, energy and temperature units will be. The thoughtful utilization o
-this large amount of data poses a very interesting task, deciding how best to
-provide low uncertainty in the base units. This work is somewhat similar to the
-task involved in the periodic analyses undertaken by CODATA (for the benefi
-of readers from other fields, a list of abbreviations used in this article is given
-in table 1), where the objective is to provide the best values of the physical
-constants, especially including the effort needed to make the results consistent
-to within the assigned errors—with the known physics relationships.
+With regard to the differential
+equation there is clearly no worry, but the boundary condition presents great technical
+difficulties. The difficulty can be seen with reference to figure 7, in which it is required to establish
+finite-difference equations at points adjacent to the curved boundary, and to satisfy a boun-
+dary condition involving a normal derivative. The differential equation at the point 0
+involves the fictitious points 1 and 2, and expressions for the values at these points must
+therefore be obtained in terms of internal points and the given boundary conditions. There
+are two obvious possibilities, neither of which is completely satisfactory. FicureE 7
+
+First, normals can be drawn from the fictitious points (Fox 1944) and the boundary con-
+dition satisfied at the points where these normals cut the boundary.

@@ -1,13 +1,17 @@
-Observing the chirality of
-these two modes is instructive; in the regions where one is left handed the other is right handed
-and vice versa (figure 3d).3
+No special symmetry properties are associated with ‘. It is expanded in terms of
+the complete set of eigenfunctions y,,,(r,) of the hydrogen atom; thus
 
-Importantly though, using the C-points present in the glide waveguide at vg = 0 will not result
-in unidirectional emission dependent on spin. Nature conspires against the use of the C-points
-present at the bandedge: whereas in the W1 waveguide the left- and right-handed C-points
-approached each other in position and annihilated at the bandedge, in the glide waveguide :
-they approach in frequency and annihilate at the bandedge. This unfortunate fact is caused [=
-by the multi-mode nature of the waveguide at the bandedge. The two degenerate modes have 23
-oppositely handed C-points at identical locations and frequencies. For example, at the location
-of a right-handed C-point in the lower mode, there will be a left-handed C-point in the upper mea)
-mode with the same frequency and group velocity.
+¥(t,,02) = 2 ¥m(F2) F,,(T,)5 (11)
+
+the summation sign including integration over the continuum. By substituting in (7) and
+making use of the fact that y,, satisfies the equation
+
+[¥8+2(En+;)| Yu (ts) = 0, (12)
+
+by then multiplying by y* (r,) and integrating over the spatial co-ordinates of the atomic
+electron it can be shown that
+
+I il
+(WEEE) Ry ry) = 2 (77) Wet) vt (re) are (13)
+Hence using (11) again
+{V}+2(E—E, —Voe()))}F(t1) = 2 5 Vag(F1)

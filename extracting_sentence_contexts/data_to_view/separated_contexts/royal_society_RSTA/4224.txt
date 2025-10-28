@@ -1,16 +1,22 @@
-The solution that bends preferentially in the short direction of the plate (blue with a solid
-boundary curve in the right inset) has highest energy; the solution that bends preferentially in the long direction of the plate
-(light orange with a dashed boundary curve) has intermediate energy; and the solution with lowest energy bends approximately
-equally in both directions (green with a dotted boundary curve). The two new solutions arise from a saddle-node bifurcation
-that is part of the unfolding of a pitchfork bifurcation, where the imperfection parameter is related to deviations of the aspect
-ratio of the plate from 1. (Online version in colour.)
+W. H. YOUNG ON THE GENERAL THEORY OF INTEGRATION.
 
+can be generalised. This theory has in fact taught us on the one hand that many of
+the theorems hitherto stated for finite numbers are true with or without modification
+for a countably infinite number, and on the other hand that closed sets of points
+possess many of the properties of intervals. We may, in accordance with these facts,
+divide the segment (1) into an infinite number of non-overlapping intervals, in which
+case, however, seeing that such a set of intervals always has points which are
+external or semi-external to them, we must in general add a set of points to the
+set of intervals, if the division of the segment is to be properly performed, that is,
+if all the points of the segment are to be accounted for in our division ; or, more
+generally, (2) into a finite or countably infinite number of sets of points. What would be the effect on the Riemann and Darboux definitions, if in those
+definitions the word “finite” were replaced by “ countably infinite,” and the word
+“interval” by “set of points”? A further question suggests itself:—Are we at
+liberty to replace the segment (@, 6) itself by a closed set of points, and so define
+integration with respect to any closed set of points ?
 
-this branch has indeed higher energy than the other two, quasi-cylindrical, branches for V > V*. Figure 5 shows the deformation energy as opposed to the total energy because the bifurcation
-is difficult to visualize in the latter representation, due the fact that all of the solutions have
-comparable total energy. To summarize, the three-dimensional model discussed here, although limited to small
-deflections of the plate, is able to reproduce the initial configurations seen in capillary origami
-experiments, as the plate begins to wrap around the drop. Although it cannot capture folding, it
-nevertheless provides a physically valid reduction, which can be used to understand the three-
-dimensional effects that are of paramount importance in the early stages of the encapsulation
-process.
+Going one step further, recognising that the theory of the content of open sets
+quite recently developed by M. Lesesaur* has enabled us to deal with all known open
+sets in much the same way as with closed sets as regards the very properties which
+here come into consideration, we may attempt to replace both the segment and the
+intervals of the segment by any kinds of measurable sets.

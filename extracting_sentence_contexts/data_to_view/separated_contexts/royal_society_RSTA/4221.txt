@@ -1,7 +1,15 @@
-In the periodic case, the corrector problem is posed on a bounded
-domain (namely, the periodic cell Q), because the corrector wy is periodic. In sharp contrast,
-the corrector problem (2.3) of the random case is posed on the whole space R?, and cannot be
-reduced to a problem posed on a bounded domain. The fact that the random corrector problem
-is posed on the entire space has far-reaching consequences for numerical practice. Truncations of
-problem (2.3) have to be considered. The actual homogenized coefficients are only captured in the
-asymptotic regime.
+The alternative definition of upper (lower) integration, given in §11, shows that
+when the two component sets consist of parts of 8 obtained by means of segments,
+the sum of the upper (lower) integrals over the two components is the upper (lower)
+integral over the whole fundamental set. Theorem 16.—More generally, the sum of the upper (lower) integrals over any
+Jinite or countably infinite nwmber of non-overlapping components of 8 obtained by
+means of segments (e, e’), is the same as the upper (lower) integral over the whole
+fundamental set, provided only the content of the components is equal to that of the
+fundamental set. ,
+
+An upper (lower) semi-continuous function stands here again in an exceptional
+position, We have, in fact, the following theorem :—
+
+Theorem 17.—The upper (lower) integral of an upper (lower) semi-continuous
+function over any fundamental set 8 is equal to the sum of its integrals over every
+Jinite or countably infinite number of sets into which 8 may be divided. DR. W. H. YOUNG ON THE GENERAL THEORY OF INTEGRATION. 239

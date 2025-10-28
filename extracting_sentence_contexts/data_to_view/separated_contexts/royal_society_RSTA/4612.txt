@@ -1,29 +1,18 @@
-It is possible to prove that solutions to this problem belong to W?? (By) for any p > 1, and because [=
-W?? functions are twice differentiable a.e. when p > 1, one deduces that Au = Ay a.e. on {u =}. a)
-Hence, the obstacle problem can be rewritten as :
-
-Au=AWxX{u=y) in Bi, 18
-
-with the additional (global) information u € W??(B}) for all p € (1,00) [1, ch. 1, §3]. Note that [3
-because Au jumps from the value zero inside {u > y} to the value AW on {u =}, the second [8
-derivatives of u cannot be continuous in general. However, it is possible to prove that u € ch, :sS
-and starting from this fact one can show the regularity of the free boundary d{u > yr} [2,3] (see a)
-also [1, ch. 2-8]).
-
-(c) Bernoulli problems
-Bernoulli-type problems are free boundary problems with a transition conditions across the free
-boundary. The archetype for this class of problems is
-
-min| [Wel? + xjo0) Kix (ve W!2(B): von, =81, 2)
-‘1
-
-where g may take both negative and positive values. Solutions to this problem satisfy
-Au=0 whenu #40,
-
-with a transition condition on the free boundary {u = 0} that can be derived formally in the case
-of a smooth free boundary and reads
-
-(sy — (uy P= 1
-
-Here, us denote the normal derivatives in the inward direction to {--u > 0}, so that us are both
-non-negative.
+It is found
+that if the density of the water is uniform, the only forms of steady motion possible
+when the depth depends on the latitude alone are those in which the water always
+moves along parallels of latitude, while in general the paths of the fluid particles
+coincide with certain lines depending only on the distribution of land and water and
+on the configuration of the ocean bed. The equation by which these lines are defined
+is of an extremely simple character, and from it we could at once trace out the forms
+of the stream-lines on a chart if we had a sufficient knowledge of the configuration
+of the ocean bed. The equator will always be one of these stream-lines, and herein
+we seem to have the explanation of the fact that the ocean-currents always tend to
+set along the equator, but in other respects it is shewn that the effects of variations
+of density will seriously interfere with the simple laws which must hold so long as
+the density is uniform. The importance of the earth’s rotation in influencing ocean-currents has long been
+recognised by physicists, but I am not aware that any previous attempt has been
+made to investigate this influence mathematically. ‘The numerical results obtained
+in § 15 are interesting, as showing how a cause, which on a non-rotating globe could
+not give rise to any appreciable currents, may be rendered highly effective in main-
+taining currents as a consequence of the rotation of the earth.

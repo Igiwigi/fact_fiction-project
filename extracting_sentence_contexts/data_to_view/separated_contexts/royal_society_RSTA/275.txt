@@ -1,19 +1,18 @@
-When this heat exchange
-is sustained through time, resulting in a diffusive heat flux J =dQ/dt, then the
-diffusive heat exchange produces entropy ¢ at a rate of
+The interlocking of
+osculating systems of A and C determine the intermediate points of the canonical frame. MINIMAL INDICES OF ROW DEPENDENCE
 
-ds 1 1
-r= Sasx(Z-z): (2.4)
+18
+of points we can derive the minimal indices m; of row dependence for the singular
 
-When we deal with a non-isolated system, we also need to consider the entropy
-changes owing to the exchange fluxes of energy and mass with the surroundings. Then, equation (2.3) becomes a balance equation for the entropy of the system
-that relates the changes in entropy dS/dt with the entropy production a by
-irreversible processes within the system, e.g. heat diffusion, and the net exchange
-of entropy across the system boundary, Js net. The net entropy exchange captures
-the fact that the energy which is exchanged with the surroundings is not of the
-same quality. For instance, it captures the fact that solar, shortwave radiation is
-of different composition to terrestrial, longwave radiation that leaves the Earth. Hence, the entropy balance is written as
+By transposing the matrix D to 1 and working with reflexions of primes instead
 
-ds
-at =o—- Ig nets (2.5)
-with an isolated system represented by J net = 0.
+pencil. But it is interesting to derive them directly in terms of points as before; and this
+is done by starting with the éo/a/ reflexion of D in either A or C.
+In fact, let A, and C, be these total reflexions of D; and let C, be the reflexion of A
+
+through B to C, so that A, > C,. Further, let
+Cy = (Cas Ca) 1)
+
+denote the space common to C, and C, when they overlap or coincide. When they have
+
+no point common let C; — 0.

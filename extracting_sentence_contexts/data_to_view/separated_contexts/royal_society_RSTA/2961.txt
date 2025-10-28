@@ -1,13 +1,12 @@
-One can then solve equation (3.2) for the field profile over
-a whole round trip that we denote Ayn. Several methods are possible, but the most convenient
-choice is to use the Fourier transform, since transverse diffraction can also be evaluated that way. In particular, the fact that the pulse train is asymptotic to zero makes it possible to apply the
-Fourier transform along the propagation axis (i.e. in the time domain) with periodic boundary
-conditions. Solving equation (3.2) in Fourier space and transforming back to the time domain
-yields a simple expression of the mapping operator
-
-An =F UL(o) FHAn—)D, (3.3)
-
-where F; denotes the Fourier transform in time and L(w)=(1+iw/y)! is the Lorentzian
-function. The fact that equations of the same type as equation (3.2) could be solved by a Fourier
-method as a functional mapping in the long delay limit was already pointed out in [36] for the case
-of a single variable.
+He then showed that this apparent anomaly is due to the drops becoming deformed,
+so that instead of retaining the shape of spheres they become flattened out, thus
+presenting an increased resistance to the air through which they fall. In consequence of
+this deformation large drops rapidly break up in the air into smaller drops, and
+Lenarp found that drops of 4 mm. diameter were stable under all conditions, but that
+drops 5°5 mm, and above in diameter could not exist for more than a few seconds after
+attaining their final velocity relative to the air. This fact plays an important part when drops of water are falling through ascending
+currents. According to the table given above, all drops of water of a smaller diameter
+than 4°5 mm. will be carried upwards by a current of 8 metres a second, while
+all drops of a larger diameter than this will be held in suspension, neither rising nor
+falling. But the latter are unstable, and after floating for a few seconds in the
+current break up inte small drops which are carried upwards.

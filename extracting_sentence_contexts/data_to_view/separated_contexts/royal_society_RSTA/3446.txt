@@ -1,11 +1,15 @@
-The specification was not live: the recent
-CakeML can be considered a machine-checked implementation [12] but no prior ML compiler
-adheres to the specification strictly—certainly not provably so. It was also buggy [92]: subtle
-errors were later eliminated in a revised version [93]. Illustrating the importance of two-sided
-evaluation, many mistakes were in fact only uncovered when the specification was subjected
-to an unanticipated use case, namely the development of Extended ML [94]. Nevertheless,
-SML/’89 represented a remarkable achievement: it demonstrated to a wider audience that
-formal language specification that goes beyond syntactic issues is possible and provided
-a point of reference for numerous compilers of the greater ML family, including SML/NJ
-and OCaml. As illustrated by this comparison, core objectives of deep specifications were identified several
-decades ago.
+Communicated by Sir Witu1amM Ramsay, K.C.B., F_R.S.
+
+5 Received June 12,—Read June 18, 1903. SS0ON after the discovery of the new gases, neon, krypton and xenon, by Sir WiiitaM
+Ramsay and Dr. TRAVERS, in 1898, measurements were made of the lines of their
+smission spectra by means of a large prism spectrograph in University College. In
+‘pyiew of the fact that a large Rowland grating apparatus was at that time in process
+Spf erection, it did not appear worth while to publish this first series of measurements,
+‘Eis I was in hopes of being able to obtain with the help of the grating far more
+Frccurate results than was possible from measurements of the photographs taken with
+he prism apparatus. Since the commencement of this work three series of measure-
+-Qnents have been published, one by Runce* of certain lines in the krypton spectra,
+Sand two by Liverne and Dewar of the lines in the spectra of the light + and heavy {
+peonstituents of atmospheric air respectively. All these measurements contain only
+“the principal lines and, moreover, extend only a short distance into the ultra-violet
+Segion.

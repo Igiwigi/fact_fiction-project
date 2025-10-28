@@ -1,13 +1,22 @@
-In a broad sense this arises both from the
-social uncertainty about whether and when mitigation efforts will be agreed and
-achieved, as well as from the scientific uncertainty about how the many feedbacks
-in the Earth system operate, arising from imperfect climate modelling, the role of
-tipping points [9] and other limits to our understanding of the system. Hallegatte
-[8] notes that these sources of uncertainty will not go away in the foreseeable
-future: social uncertainties will play out over decades, and recent experiences of
-improving scientific understanding have often led to more uncertainty about the
-future rather than less [10], as the implications of unappreciated processes such
-as ice-sheet dynamics become clearer. Set against these challenges, though, are two inescapable facts. Many areas
-of human endeavour proceed in the face of great uncertainty. Hallegatte [8]
-cites managing exchange rate risk, energy cost uncertainty and research and
-development outcomes among others.
+(10-13)
+dZ dZ Now two solutions of the equation
+
+ae a =
+
+dz 22 ag mt =0
+
+are (Hartree 1935) exactly, not only asymptotically, a polynomial of degree n in z (in fact
+the Hermite polynomial of order n and argument iz) and the n-fold integral of the error
+function, with integration constants chosen so that this integral is zero at infinity, which is
+of order e~7*/Z"*" for large Z. Since h,—+ is zero at infinity, it follows that if it is satisfied
+(10-13) exactly, it would have this behaviour at infinity, but since terms of order ne”
+have been omitted in equation (10-13) it follows that h, is of the same order. This argument can be extended. It can be shown similarly that h/, and 7’ are at most of
+order y?e~°"", where p is finite, whereas f, is at most of order 7; hence the only terms in
+equations (8-25) remaining finite are those with ¢, as a factor, and these, on re-arranging,
+become (starting with (8-25 ii))
+
+$o(2Xo1—1) = 0,
+2o(2xohe +X M1) +91 (2xol, —1) = 9,
+2o(BXo ls + 2xy hy t+ Xohy) +29, (xy hy + Xo he) +$2(2Xoh, —1) = 0,
+etc., so that in succession we have the asymptotic relations
+2Xoh;—1

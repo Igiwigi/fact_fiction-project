@@ -1,15 +1,17 @@
-If one wants to improve the asymptotic behaviour of LBMs in an a priori
-manner, one must adapt either the discrete equilibrium state or the velocity discretization. This statement obviously extends to LBMs based on collision models with dynamic relaxation
-frequencies (entropic [87-89], KBC [10], subgrid scale models [90], space filtering [66,91], etc.). This is explained by the fact that they either lead to (1) a space- and time-dependent kinematic
-viscosity v(x, t), or (2) a dynamic relaxation of third- and higher-order non-equilibrium moments
-that should not have any impact on the isothermal macroscopic behaviour. It is finally worth
-noting that one could rely on approaches based on velocity-dependent relaxation times [47], or
-even correction terms [26,77,85,92-95], to alleviate the remaining deficiencies of standard velocity
-discretizations.
+Any supposition that the “spin” is primarily due to some stationary wave
+system set up in the gaseous medium as the result of vibrations (due to distortions) along
+the explosion tube itself seemed disposed of when it was found that the insertion of a
+2-5 cms. plasticine junction between two successive glass sections of the explosion tube
+had no effect whatsoever upon either the frequency or intensity of the phenomenon
+observed in a moist 200 + O, detonation (vide Photograph No. 27). Taking the foregoing facts and circumstances as a whole, as constituting substantially
+the principal experimental evidence so far available, they seem to be consistent with
+Professor Levy’s third suggestion (c), namely, that the observed “ spin” in detonation
+is due, not to the medium rotating as a whole, but to the “ head” of detonation travelling
+spiral-wise as a wave-front through the medium in the tube at the observed flame
+speed, the banded appearance of the “ tail ” being ascribable to periodic waves along
+itself. ”
 
-3. Linear stability analyses of the discrete velocity Boltzmann equation
 
-(a) Motivation
+INVESTIGATION OF FLAME MOVEMENTS IN GASEOUS EXPLOSIONS. 379
 
-In the previous section, the impact of the equilibrium on the macroscopic behaviour was
-highlighted.
+The Flame Photographs.

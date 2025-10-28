@@ -1,29 +1,7 @@
-If the whole spectrum is concave (a), Wss is the distance between Ds
-the largest, ne, and smallest, hi, Holder's exponents, Wi and we are the distances between Hilder's exponent corresponding :3
-to the maximum of the spectrum, h;°**, and, respectively, the smallest/largest exponent; if only a portion of the spectrum ed
-is concave (b), the widths are defined for the concave portion only. Readers can find a numerical example discussing how the :s
-singularity spectrum may have a non-concave shape in fig. 2 of [15]. (Online version in colour.) [3
-
-singularity spectrum 8
-Weg = hk — hk (2.7) a
-
-where nR and hk are the right and left limits of the spectrum; the right component of Wss
-WSs = hf — HX, (2.8)
-
-with h?** the Hélder’s exponent of the maximum of the singularity spectrum, and the left
-component of Weg
-Weg = HP — hi. (29)
-
-If the singularity spectrum is concave with a continuous first derivative, then its maximum occurs
-at q=0. In fact, substituting the definition of /j in equation (2.5) into equation (2.6), one obtains
-
-qx dME(q)
-D(q) = 12" 2.10
-iq ME@) en)
-and calculating the derivative versus q
-AD(q) _ 4 x d?ME(q) (2.11)
-
-dq dq? Thus dD(q)/dq=0 for q=0, which corresponds to the maximum because D(q) is concave. In
-practice, a(q) is estimated over a finite number of moment orders q spaced by Aq increments and
-thus, the evaluated D(q) maximum is influenced by the Aq amplitude and the finite-difference
-method used to calculate the derivative of the mass exponent.
+The air in these experiments was compressed in contact with oil, and
+hence moisture and impurities in the air are probably the source of difference. These
+experiments, too, appeared to indicate invariability of the specific heat over a con-
+siderable range of pressure. Subsequent experiments, which from the very fact of the
+existence of the discrepancy have been multiplied in number, disprove this result. There is an undoubted diminution of the specific heat with decreasing pressure or
+density. A plausible explanation of the first result exists in the very certain presence
+of moisture in the gas, taken in conjunction with the course of procedure adopted.

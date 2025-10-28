@@ -1,54 +1,15 @@
-It is not anticipated from our experience of studying linear systems with
-short-range interactions at equilibrium. That the equilibrium distributions arising in molecular dynamics should be non-Gaussian may
-appear surprising, given the accounts in most textbooks and lectures, which transfer themselves
-into research articles very readily. The reason for the presence of non-normal statistics in such
-systems at equilibrium comes from the fact that here too we are dealing with the infinite range
-interactions mediated by Coulomb forces. In a computer simulation of a closed system, such as the
-canonical or (N,V,T) ensemble, the molecular dynamics is driven by the existence of thermostats
-
-
-
-(a) (b)
-
-2.0 T T 2.0 T 1
-0.08 0.08 0.08
-0.06 on 0.06] 0.06
-0.04 0.04) 0.04
-15 ho 0.05 r] 15 foo 0.02 q
-> 0 oll ~ 0) 0
-B “40-30 -20 -10 0 “40-30-20 B -30—40-30-20-100_10 -S0-40-30-20-10°0 10
-FI AG (keal mot!) AG (kcal mot) FI AG (kcal mol-!) AG (kcal mol)
-3 10F 4 B10f |
-> BL
-3 3
-& &
-0.5 + 4 0.5 + 4
-0 Hn i | L in... a 0 L allall allan. i
--0.5 0 0.5 1 -1 0 1 2
-skewness excess kurtosis
-(c) @
-2.0 T T T 2.0 1 1 T :
-08 15 4 10 a]
-0.6 = Lol 3 4 08 =
-0.6 22
-04 2 on 4
-—
-15 foo 1 0s + 1S- 02 4 is
-> 0 Oo > 0 0 arn)
-is) 123 45 6 2-10 1 2 8 16 18 20 2.2 24 26 0 123 to
-5 AAG (kcal mol!) AAG (kcal mol!) 5 AAG (keal mol!) AAG (kcal mol!) aH
-w
-2 1O0- 4 2 10+ 4 a
-8 5 Ds
-& & i>
-2S
-0.5 - 4 05+ 4 1
-N
-Ss
-S
-:S
-0 1 \ Lim 0 1 ! Oo ian :s
--1 -0.5 0 0.5 1 15 -1 0 1 2 13
-skewness excess kurtosis
-
-Figure 1.
+The
+corresponding rotations, however, were completely concordant in three series of exposures
+at 428x + 2°, 3°, 4° = 77043 + 1°, and these concordant rotations would have to be
+increased by about 6° in order to give the calculated value for the rotation in degrees per
+millimetre. In such a case as this it is much easier to imagine that the polarimetric
+readings included a satellite which increased the effective wave-length of the light by
+0-07 A.U. than to postulate an error of this magnitude in the recorded wave-length of the
+main line, or of 6° in rotations which differed only by + 1°. This explanation probably
+applies to a large number of other cases in which concordant errors are recorded in two
+series of readings, and it is even possible that some of the discordant readings may have
+been due to the fact that in one series a satellite was included in the readings, whilst in
+the other series it was possible to read the main line without the satellite. (f) Sub-Division of the Table-—The number and accuracy of the readings, as well as of
+the available wave-lengths, vary greatly in different parts of the table. The table has,
+therefore, been broken up into a series of sections, and notes dealing with the special
+features of each section are set out below.

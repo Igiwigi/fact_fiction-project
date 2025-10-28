@@ -1,14 +1,12 @@
-On the topic of energy-driven computers, there
-are many research challenges yet to be solved. We highlight what we regard as the main
-remaining challenges that are currently hindering adoption: development tools for energy-driven
-computers, and wireless communication under intermittent operation.
+Three explanations seem to me to be possible :
 
-(a) Simulation, emulation and debugging
+(1) The current of air may not be fast enough to prevent an extra loss caused by
+diffusion to the sulphuric acid. (It is to be noted that when no air passes, about
+0°03 gr. of water diffuses in the time usually taken for an experiment.) This
+hypothesis is ruled out by the fact that in an experiment with water in 3, 4 and the
+first two branches at 5 (the other two containing sulphuric acid), 4 still showed the
+usual loss in weight. (2) Remembering that the vapour is practically all absorbed in the first branch
+of 5, it seemed possible that the sudden drop in pressure caused by this absorption
 
-Simulation and debugging of energy-driven computers is inherently more complex than for
-traditional application-driven ones. This stems from the fact that energy-driven computers adapt
-their behaviour according to the amount of available energy. Traditionally, simulations are
-performed under the assumption of a steady power supply, so emulating the ISA and platform
-is usually sufficient for finding bugs, evaluating performance and developing applications. However, to correctly simulate the behaviour of an energy-driven computer, execution, power
-consumption and power production (harvested energy) must be simulated simultaneously to
-correctly model their influence on each other.
+* It is only with apparatus D, where the deposition of water in the quartz joining tubes is very small,
+that we have been able to put two water vessels in series.

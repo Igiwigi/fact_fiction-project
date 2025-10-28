@@ -1,10 +1,6 @@
-A computational method can be obtained by first lifting the
-coefficients of F from Fy to a field of characteristic 0. To do so, choose an algebraic extension
-K of Q such that K becomes isomorphic to F, when reduced modulo 2, and choose any lifting
-Fo(x) =40,nx" + aon—1x"—+ +--+ 49, with coefficients in K such that Fo = F (mod 2). If the roots
-of Fo in the algebraic closure are 191,...,9, (such that 7; =1; (mod 2)) we have disc Fy =
-ag Tigi, — r9j)°- Define similarly disc;Fo = ag", 7 Tigjo,i + r0j)°- Note that disc,Fo is a
-symmetric polynomial in the roots of Fo, and therefore an integral polynomial in the coefficients
-of Fo—in fact, it is the square of such a polynomial. Furthermore, it is clear that disc Fy =
-disc; Fo (mod 4), as polynomials in either the roots or coefficients. Therefore, the expression
-(Fo) = (disc;F9 — disc Fo)/4 is also an integral polynomial in the coefficients of Fo.
+The results in (94), (96), (97) agree with those of Hrrve,* the more general formule
+(93), (95) are not given by him. 45. Results such as those in Arts. 38, 43, 44, could be foreseen by a consideration
+of the fact that (z+ aa + By)” satisfies LarLace’s equation V°V = 0, provided «, B
+are any constants such that «? + 6? = —1; this holds for complex values of n, and
+when 2, y, z are not restricted to be real. Let a=—ccos (WF), B= —csin (bu),
+then, since z= 7p, x= w'/p?

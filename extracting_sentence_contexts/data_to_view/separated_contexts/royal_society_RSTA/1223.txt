@@ -1,16 +1,18 @@
-The papers [26,27] extend the result just described to the case where there are two thin layers Lo |
-lying on two sides of a semi-permeable membrane. The role of boundary conditions is then played
+The modifications due to thermo-elastic effects are not of any
+importance in problems concerning the vibrations of solids, though the integral term
+may be important in the discussion of afterworking effects. As an approximation,
+the stress-strain relations are taken in the simple form for isothermal changes, namely
+(1-821). The equations of motion and the stress-strain relations for a visco-elastic
+solid in this approximate form, differ from the corresponding equations for a perfectly
+elastic solid only in the fact that the elastic constants ¢,,,,, are replaced by linear
 
-by various sorts of transmission conditions, but the effect is the same: transmission conditions 13
-become integral parts of the limit master equation, and describe jumps of a limit process from 1S
-one side of the membrane to the other. The fact that the same biological phenomenon, depending : gS
-on ‘geometry’, may be described by a boundary /transmission condition or a term in the master 13
+Operators Cogan + Gaamn at
 
-equation is thoroughly discussed, and connections to the underlying, so-called Lévy local time of
-stochastic process are drawn.
+Condition for the stability of equilibrium of the standard configuration.—It is a matter
+of experience that a solid is in stable equilibrium in its standard configuration, as here
+defined. As we are neglecting thermo-elastic effects, we put
 
-7. An introduction to asymptotic stability: the Perron—Frobenius theorem
+Cg =0, up =0, 0 =O.
 
-Let us turn to the question of asymptotic stability: a good starting point is a continuous version of : Fd
-the classical Perron—Frobenius theorem. To recall it, let X be the space R” with the scalar product if
-(-,-).
+J ow
+Thus (1-773) reduces to hl

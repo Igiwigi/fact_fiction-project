@@ -1,13 +1,22 @@
-This matter is important to discuss, because it will hopefully shed
-light on whether other techniques commonly accepted to be NDE, could usefully be applied to
-SHM problems or elsewhere. The main aim of this paper will be to show that ultrasonic inspection has benefited from the
-use of machine learning or data-based analysis techniques over the last few years. In fact, this :
-observation is true of SHM generally, where the data-based approach is arguably the dominant : =
-paradigm at this time [1]. The main intention of this paper is to inspire the more widespread a
-possibilities of using data-based analysis, alongside physics-based techniques, in other areas of 13
-NDE than ultrasound, e.g. in electromagnetic NDE. This paper will provide illustrations spanning 1
-a range of machine learning applications to NDE, from using compressive sensing to handle the D8
-large quantities of data obtained in ultrasonic inspection, to optimizing robotic scan paths for are
-damage detection, and finally a state-of-the-art application of transfer learning. 5 99
+The last result also shows why it is that the particular form pee for the kinetic
+energy is irrelevant to the general dynamical discussion of paragraph 7. In fact,
+if, instead of the form T used on that occasion, we had employed the general value
+derived above
 
-2.
+T= | div Ude
+the part of the variation depending on this energy becomes the time integral of
+aT | div 8U dr,
+
+and the latter integral reduces toa surface integral over the infinitely distant boundary
+and cannot therefore contribute anything in this general variational equation. Of course, from another point of view, the various forms of the theory here under
+review, differ merely in assigning different distributions to the magnetic energy in the
+field, each of these distributions being ultimately consistent with the same proper total
+for this quantity; and the fact that they all lead to the same dynamical equations,
+merely verifies a well-known result of analytical dynamics that the particular form of
+expression for the energies of the system is immaterial to the ultimate dynamical
+equations for the field inside a continuous medium. Of course the solutions of
+boundary problems such as are, for example, involved in a specification of the energy
+flux, depend essgntially on the particular form assumed for the energy distribution ;
+
+
+FUNDAMENTAL FORMULATIONS OF ELECTRODYNAMICS. 233

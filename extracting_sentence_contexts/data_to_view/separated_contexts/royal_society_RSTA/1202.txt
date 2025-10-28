@@ -1,24 +1,40 @@
-Complex valued functions
-are needed only in a part of the next subsection.
+In brief, then, the method of comparing a wave-length of light with one of the
+present fundamental standards of length consists of a minimum of seven operations :—
 
-(a) The semigroup in G(R")
+(a) Determination of the number of waves of a monochromatic radiation contained
+in a Fabry-Perot étalon approaching 10 cm. in length ;
 
-As usual, C;(R) and all its subspaces are endowed with the sup norm || - ||oo-
+(b) Optical comparison of the first étalon with a second of intermediate length by
+the use of BRewsTEr’s fringes in white light ;
 
-Since gr is continuous, by (2.6) we see that T(t) maps L®(RY) into Cy(RY), and therefore it is
-a strong Feller semigroup. However, it is not strongly continuous even in BUC(RN) unless B= 0. Indeed, given any f € BUC(RN), using the fact that lim;_.9 Jtyiesy gly) dy =0 for every 6 > 0, it is
-easily seen that
+(c) Optical comparison of the second étalon with a third, of length somewhat greater
+than the fundamental unit of length, by the same method as in () ;
 
-Jim ITF — fle JIloo =0 (3.1)
+(d) Direct determination of the difference between the lengths of the third étalon
+and an end-gauge of length nominally equal to one of the fundamental units,
+in terms of the same monochromatic radiation as used in (a) ;
 
-and therefore we have
+(e) Direct optical comparison of the end-gauge mentioned in (d) with a composite
+gauge of special construction, in terms of the same monochromatic radiation ;
 
-jim ITF ~filoo =0
+(f) Comparison of the composite gauge, in a line-standard comparator, with a reference
+line-standard which has been compared with the Prototype ;
 
-if and only if
-lim f(e!B x) —f(x)|=0 uniformly for x € RN, (3.2)
-10
+(g) Comparison of the reference standard with the Prototype in a line-standard
+comparator. With regard to the last two operations, the introduction of the reference line-
+standard, or Prototype copy, is rendered necessary by the fact that the use of the
 
 
-see [6, Lemma 3.2]. For N =1 and B = 1, a counterexample to strong continuity is thus provided
-by f(x) =sinx € BUC(R). In fact, f(e'-) does not converge uniformly to f as > 0.
+88 SEARS AND BARRELL: NEW APPARATUS FOR DETERMINING RELATIONSHIP
+
+Prototypes is legally restricted to comparisons with their copies at certain prescribed
+times, and that it is the copies which serve as the bases of comparison during inter-
+mediate periods,
+
+For the provisional measurements of the Metre, the results of which are quoted
+
+later in this paper, two further stages were involved between (f) and (g). The inter-
+mediate line-standard employed for comparison with the composite end-bar was the
+nickel bar which constitutes the reference standard of the Laboratory. This bar has
+been compared with the working standards of the Bureau International both directly
+and through the agency of the British National Copy of the Metre.

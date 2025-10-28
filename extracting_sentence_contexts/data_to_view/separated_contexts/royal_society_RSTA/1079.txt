@@ -1,9 +1,14 @@
-In the SDT experiment, the hotwire probe was moved along a single radial line to obtain data
-at different locations between the hub and tip. When the radial locations are placed in the volume
-at different circumferential locations from 90° to 106°, slight differences in the results are found
-as shown in figure 4. The difference is attributed to both the fact that a cartesian grid not aligned
-with the wake is used in the gap and that there is an averaging process used when saving the data
-into the volume file and an interpolation process used when extracting the data. Note that probe
-values are saved without any space averaging or interpolation involved (the value of the probe
-containing voxel is used). Figure 4a shows there is no appreciable grid, sampling or interpolation effect present in the
-total mean flow values.
+8 shows a diagrammatic scheme for the distribution and interaction of the
+three elastic phases of the hair fibre. It is based on idealized rhombic dodecahedra
+elongated along a tetrad axis, but the precise form is immaterial to the argument that
+the phase K, effectively forms a continuous sheet between each layer of cells, and that
+all three phases act both in series and in parallel. Furthermore, it must be emphasized
+that the whole treatment in this paper is based on the hypothesis, which appears to
+be consistent with the known facts, that there is no sharp demarcation between the phases,
+and. that, fundamentally, they must all be considered as “ keratin,” though keratin slightly
+variable mainly through certain side-chain modifications. From this point of view we
+must regard the intercellular keratin, K,, as being deficient in certain of the chemical
+cross-linkages which bridge the main chains (such as the cystine bridge—see below),
+the cell-wall keratin, K,, as being most crystalline or most “ organized ” (as one might
+expect from other X-ray investigations of cell-wall structuret), and the intracellular
+keratin, Ky, as being physico-chemically the most resistant of all three.

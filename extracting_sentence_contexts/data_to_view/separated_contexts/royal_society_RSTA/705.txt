@@ -1,21 +1,11 @@
-The topological entropy is the least upper bound
-over all parameters of the logarithm of the orbit number No. Although the topological entropy and the computing exponent are defined similarly, two
-apparent differences exist: when counting functions and orbits, the function number depends
-only on the final symbols while the orbit number depends also on the intermediate symbols;
-furthermore, the function number depends only on groups of final symbols, not on the final
-symbols individually. Because the set of functions is a fair sample of the set of orbits, we expect the
-computing exponent to be similar to the topological entropy, and in fact numerically we observe
-AL SAc © Ag and we conjecture that the final equality is true in general.
+It is apparent that as the pressure decreases the
+time to half-value increases rapidly. At a pressure of 49-80 atmospheres the time
+to half-value was not reached in seven hours. As a matter of fact, for most points
+on the curve the equilibrium values could not be obtained. For instance, on the
+50-54 atmosphere isobar the time to half-value of 45 minutes was taken as the time
+when the density had reached the half-way value to 0-2150 g./c.c. as originally
 
-(c) Numerical examples
 
-The approach we use in this paper to estimate the computing exponent is a kind of ‘analysis
-by synthesis’ in the sense that we analyse and measure the computing power of the system by
-actually trying different configurations and counting the number of different functions that the
-system in these different configurations can implement. Of course, we cannot apply and try all
-possible configurations in a system with continuous variables; however, we can use a subset of
-these configurations to get a measure on the number of different observed functions, and estimate
-the rate at which the number of these functions increases as evolution time increases. This rate,
-which is an exponent, and we named it the computing exponent, is independent of the details
-of the analysis by synthesis method for its estimation, such as the size of data input ng, or the
-size of control inputs ¢ or the base of the computation (the number of levels for each symbol).
+PERSISTENCE OF THE LIQUID STATE 321
+
+measured on the isobar by decreasing the temperature.

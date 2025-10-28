@@ -1,8 +1,19 @@
-We define map C: R° x R° > R° requiring that z = C(x, y) is a vector satisfying
-det[x, y,v] =J(z,v), for arbitrary v € R. (6.5)
+comment. In considering the effects which may be produced by the last of three variables
+named above, we would first note that when the buoyancy of the air is to be allowed
+for, a thermometer is placed in some convenient position within the balance case and
+read at the time the object is weighed; the density of the air at the observed
+temperature is then taken into account and the proper correction applied. For very
+many cases this way of treating the problem in hand is doubtless sufficiently accurate
+and calls for little or no criticism, Yet it must be admitted that a close examination
+of the actual facts will show that such a plan must not infrequently lead to the
+adoption of an inaccurate correcting value for the buoyancy. To obtain a rigorously
+true correcting value, the temperature of the air should be taken, not as is often done
+anywhere within the balance case, but at a point infinitely near the object weighed ;
+for, unless the temperature of the air which is in close contact with the object upon
+the balance pan be accurately known, it will be impossible to assign to the correcting
+factor a precise value. The following remarks will, it is hoped, render evident the
+nature of the error that may be introduced by pursuing the usual instead of the ideal
+method,
 
-As it is easy to show
-z=C(x,y) =J(x x y). (6.6)
 
-This is why one can interpret it as a vector product in pseudo-Euclidean space R°. More
-importantly, one can easily check that R° with bracket [x, y] := C(x,y) is a Lie algebra. Later we will need the following facts. Lemma 6.1. Let x,y € R° and z=C(x, y) £0.
+CHANGE IN WEIGHT DURING CHEMICAL REACTION.

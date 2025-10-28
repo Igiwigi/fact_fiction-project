@@ -1,6 +1,15 @@
-Let u,v € V". We will show that
-(u,v) € E” if and only if either (i) ou) is an edge entering X and 9 (x) is an edge leaving X
-or (ii) the edges gy MW) and gy 1(v) in G lie end to end with the destination node of gy la) being
-the origin of gy, lv), We shall also prove the analogous statement but taking instead u,v € V° and
-replacing ¢; with ¢ in the above. These two facts together imply g is an isomorphism. Suppose (u,v) € E", then certainly the edges Ly lu) and Ly1(v) in Ex lie end to end with the
-destination s of Ly 1(u) equalling the origin of Ly! (v). We consider two cases.
+It was found
+
+that most of the terms in this integral vanished in the limit on account of their
+order of magnitude. In all these cases, multiplication of the integrand by wu will
+cause the integral to tend to zero still more rapidly. Further, in those cases which
+formerly depended on the fact that the integral with respect to vanished, and
+those which actually led to a finite result, it is easily seen, with the help of equations
+(8.21) to (8.27), that multiplication by u will cause the integral to vanish on account
+of its order of magnitude. Thus we have
+
+lim i u (lu + m'v + n'w) d= = 0,
+
+whence
+M, = PU | Le, Sheela rem 9 5 (9.33) We now have from (9.12), (9.2), and (9.33),
+—— {Le (p + pUn) dd.

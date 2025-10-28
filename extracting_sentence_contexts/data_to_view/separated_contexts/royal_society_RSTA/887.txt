@@ -1,7 +1,9 @@
-For example,
-the complete graph has very low complexity, due to its highly symmetric nature, but the tree-
-width is in this case maximal. On the other hand, the rank-width is one for both trees and complete
-graphs. In fact, it turns out that the graphs of rank-width one are exactly the distance-hereditary
-graphs, see [23]. We start by defining the cut-rank of a graph. To do this, we will use the following notation
-for a graph G with vertices V and adjacency matrix I and two subsets of the vertices A,B C V;
-IA, B] is the |A| x |B|-matrix describing the connections between the sets A and B.
+The separation of geoid and compensated geoid is easily calculated when the
+topography is known.* The reduction of gravity observations, including compen-
+sation according to the Hayrorp hypothesis, is well understood. The fact that
+many gravity results have already been so reduced makes it convenient to adopt this
+form of compensation. For the present purpose, in addition a height correction
+for the amount of separation of the geoid (from which heights of pendulum stations
+are ordinarily given) and compensated geoid is required ; for our data are to be
+applied to the compensated geoid. The height correction in all cases may be derived
+best by means of equation (17.4)

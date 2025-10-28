@@ -1,21 +1,22 @@
-A precise statement of this problem is the following.
+13
 
-(The generalized Markov problem): Given a natural integer n =1,2,..., (or +00), a commutative
-associative real «-algebra xo with identity, a set T and a family {P(x, y) : x,y € T} of xo-valued n x n
-transition probability matrices, determine under which conditions there exist:
+Similarly the equation Z, gives
 
-(i) a commutative associative +-algebra « containing (an isomorphic copy of) ko and a a
-Schwinger algebra A with centre «; |
-(ii) for each x € T, a maximal abelian partition of the identity {Ag(x):=1,...,n} in A, such Dp
-that, for each x,y¢T, the bi-stochastic matrix canonically associated with the pair : S
-A(x), A(y) according to theorem 3.10 is P(x, y). =
+1
 
-Remark. The distinction between «9 and « in the above problem may seem a mathematical :8
+Eee Bk ae 2e-1_» 4-1 — p de 2,¢-1 1,e;-2
+0 = a,°°-Y" = p lo a x," = 4, ok ee +a, by
 
-pedantry. But in fact it has a deep probabilistic and physical meaning. This follows from the :&
-paper [21] where the following very special case was considered: the set T contains only three :S
-elements (observables A, B, C), n = 2 (the observables take only two values), and xo = R (the P(x, y)
-(x,y € {A,B,C} are usual 2 x 2 bi-stochastic matrices). In the language of this paper, the result
-of [21] is that only in very special cases (described in the paper) does the generalized Markov
-problem for the family of bi-stochastic matrices {P(x,y) : x,y € {A, B, C}} have a solution with « =
-R: the generic case requires « = C.
+and so on for the equations for each of the first ¢, columns of 7. For the (¢,+1) column, however, the non-diagonal term of y,,,; = 0 and the
+equations for this column do not contain the elements of the preceding column. In fact, the « columns beginning with the (¢+1) form a group related to one
+another in just the same manner as the first ¢, are. We obtain from them, as from
+the latter, the conditions
+
+atleytey
+arth = 0,
+
+e+1, 46-1 €, +2, e+e, Oe, +a, = 0,
+
+a,othatl sp qatents =0,
+
+and so for the columns associated with each group of equal roots.

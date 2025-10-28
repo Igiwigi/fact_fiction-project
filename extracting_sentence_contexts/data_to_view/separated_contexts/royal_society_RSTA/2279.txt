@@ -1,17 +1,11 @@
-Analogous arguments can be found for the other vertices. The observation that such extremal points of the polytope cannot be reached, provides us
-with a way of writing down temporal inequalities able to discriminate between qubit and qutrit
+This is undoubtedly due to the fact that the cross-sections of the cells are not
+accurately circular, but often approach a rectangular or hexagonal shape, and that the
+cells are not open, but either taper to a point or are closed in some other way. However, the results seem to justify the conclusion that the form and arrangement
+of the cells have a sufficiently large effect to account for the relative values of Hy,
+and Ey.
 
-
-machines. In fact, for each vertex we can write an expression in terms of probabilities that reaches
-its algebraic maximum precisely on it. Namely, we can write
-
-By := p(00|00) + p(00|11) + p(01|01) + p(01)10),
-By := p(01|00) + p(01|11) + p(00|01) + p(00)10),
-
-(5.15)
-B3 := p(01|00) + p(00|11) + p(01\01) + p(01|10)
-and Bg := p(01|00) + p(01/11) + p(01|01) + p(00|10). One can, then, derive bounds for such expression in the case of qubit machines
-Bi <3, Bo <3, B3 53.186 and By <3.186. (5.16)
-
-So far, no general method has been developed for calculating such bounds and the methods
-presented in [16] to calculate them seem hardly generalizable.
+Another fact, which is perhaps more significant, is that the theory suggests that the
+ratio Ey/E, should increase with the cell-wall thickness, and therefore with the specific
+gravity of the wood. ‘This is certainly the case for the four woods already considered,
+and there does not seem to be any obvious alternative explanation of this fact. A further conclusion from this theory is that E,, should be approximately proportional
+to the specific gravity for all woods. This is also in agreement with experience.

@@ -1,17 +1,9 @@
-Thus, selecting the direction of causality is simply reduced to choosing aia
-between two ICA models. 7y
-In principle, we could just estimate ICA on the vector x = (x1,x2) and see whether the mixing iN
-matrix is closer to the form of the one in model 1 or model 2. The zeros in the mixing matrices :3
-are in different places, which clearly distinguish them. A more efficient way of choosing between : BY
-the models can be based on likelihood ratios of the two models [13,14]. (An earlier approach used .
-cumulants [15].)
-In fact, this is just a special case of the general problem of estimating a linear Bayesian network,
-or an SEM. In the general SEM, we model the observed data vector x as
+This factor is almost independent of frequency for a considerable band in the
+region of 8 to 9 sec., but if wave periods widely different from this value are present the
+magnification factor estimated from the ‘mean wave period’ will certainly be too small. An estimate of the magnitude indicates, however, that this error can hardly exceed 10%
+even under the most severe conditions encountered. The damping of the long-period
+pendulums and the fact that their knife edges are above the axis of the gimbals will also tend
+to cause a slight overestimate of the acceleration, but their combined effects cannot exceed
+a few per cent. These errors account for part of the observed discrepancy but not all of it. SUBMARINE GRAVITY SURVEYS OF 1938 AND 1946 271
 
-and
-
-x=Bx+e or xj= > bixj + ei, (3.5)
-iAi
-
-with a matrix B that has zeros in the diagonal. The idea that each x; is a function of the other x;
-formalizes the causal connections between the different variables.
+(2) Vertical accelerations.

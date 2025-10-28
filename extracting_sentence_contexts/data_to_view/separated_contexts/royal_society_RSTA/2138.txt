@@ -1,14 +1,8 @@
-In their unpublished work, Kang and J-K Yu obtained a similar identity for n > 4 involving
-Z,(Xu) for l1<r<n—-1.
+H2
 
-(c) Ramanujan and strongly Ramanujan complexes
 
-Motivated by the Ramanujan conjecture, a Ramanujan complex arising as a finite quotient of
-the building B,,r is defined in §4b in terms of the Hecke operators, or equivalently, adjacency
-operators on vertices. To see this from the viewpoint of zeta functions as we did in §3d for
-graphs, as shown in theorem 6.1, for n>3 other operators also appear in the zeta function. In fact, adjacency operators on r-dimensional simplicies for each 0 <r<n—1 would appear. It is natural to ask whether the temperedness condition holds for each r and how they affect
-each other. For n=3, Kang-Li-Wang proved in [60] that a finite quotient Xr of B3r is a Ramanujan
-complex if and only if the non-trivial spherical representations in L?(7\PGLa(F)) are tempered
-(by definition), which is equivalent to the non-trivial parahoric representations in L?(7\PGLa(F))
-being tempered, which in turn is equivalent to the non-trivial Iwahori-spherical representations
-in L?(P\PGL3(F)) being tempered.
+50 J. L. SYNGE ON THE GEOMETRY OF DYNAMICS. This result is really intuitively obvious from Theorem VI, since f sin ¢ is the component
+of the acceleration vector in the direction of the principal normal. We verify at once the well-known fact that a natural trajectory under no forces is a
+geodesic.t or, if there is no force, the acceleration is zero and therefore by (3.45) the
+curvature is zero, which is a sufficient condition for a geodesic in the case of a positive
+definite line-element. § 3.5. Curvature relative to a natural trajectory.

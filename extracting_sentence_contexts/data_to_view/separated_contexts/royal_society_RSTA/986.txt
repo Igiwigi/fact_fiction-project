@@ -1,27 +1,11 @@
-Before :s
-analysing the structure of the inhomogeneous rod let us consider what it means to be in the :
-quasi-static regime of a viscoelastic material that has been subjected to finite deformation. For
-convenience, we do not append a hat to time varying variables in this section as we have done
-above, because we are not envisaging taking Fourier transforms of these variables - they are
-associated with the large deformation problem.
-
-(a) Quasi-static deformations
-
-We shall study nonlinear viscoelastic media that behave in a manner described by the QLV
-
-theory [40,45,71]. The general constitutive expression for anisotropic media takes the form
-
-aTT®(s)
-ds
-
-t
-TT’(t) =| G(t—s): ds, (4.1)
-00
-
-where TT is the second Piola—Kirchhoff stress with superscripts ‘ve’ and ‘e’ referring to the
-viscoelastic and elastic stresses, respectively, and G is a fourth-order reduced relaxation tensor,
-where reduced refers to the fact that it is non-dimensional, unlike the relaxation tensor in linear
-viscoelasticity, which has dimensions of stress, see e.g. (2.3). The stress T° is the (instantaneous)
-elastic stress, derived from a strain energy W as is standard in nonlinear elasticity. The form
-prescribed in (4.1) preserves objectivity and provides a balance between realistic modelling and
-ease of implementation in computational simulations.
+In both the liquid air and liquid hydrogen researches
+the materials which showed a reduction in tenacity had all very small elongations, and
+one or two also had this even at ordinary temperature. On the other hand, in four
+materials (Nos. 1240/1, 12911, 1379B, and 1166A/4) out of six, where the tenacity has,
+on the contrary, continued to increase progressively between — 182° and — 252-8°, the
+ductility at the lower of these temperatures is also less than 1%. One of the specimens
+1166A/4, in fact, shows the greatest relative increase in tenacity in the present series,
+from 21-4 tons per square inch to 69-2 tons; that is, more than trebled. Although, therefore, increasing brittleness, no doubt, has an important effect in
+tending to prevent any further increase in tenacity after the temperature of liquid air
+is reached, this is not an entirely satisfactory explanation, which remains to be sought. Owing to this failure of liquid hydrogen temperature to further increase in general
+the tenacity, especially high tenacity figures are not a feature of the results.

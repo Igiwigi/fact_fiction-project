@@ -1,22 +1,15 @@
-For
-TIRF-SIM, the structured illumination pattern has a finer frequency than that permitted by the
-refractive index of the sample, and so Heintzmann says that TIRF-SIM breaks this ‘restricted super
-resolution’ criterion. Hence, the suggestion is that TIRF-SIM is not diffraction-limited even under
-the considerations of this more strict approach. However, the fact remains that the fineness of the illumination pattern is limited by diffraction,
-just in a medium of refractive index n rather than 2. Even in the situation where the sample was
-mounted on a diamond coverslip (ignoring the deleterious effects of the strong dispersion in such
-a material) and we had an objective lens with numerical aperture matching that of the refractive
-index of the material, 2.4, TIRF-SIM of the same sample as Li et al. used could not produce a
-resolution better than
-
-2m sina  2npsina\~' (2x24 2x 1.38\71
-d .onm. 2
-(; + ) 488nm 510nm 65.6nm (32)
-
-illumination emission
-
-Hence, this author would class this as extended resolution, not super resolution or even enhanced
-resolution.
+The actual values of 2 will now be unpredictable; but since the
+chances of the error in either 0, or 0, being positive are equal to those for its being
+negative there is still the probability that they will be complementary ; a conclusion
+which also holds if the error in 6, happens to be negative. It is, of course, necessary for this that these secondary oscillations should persist
+beyond 06;, and we found in fact that they did so; their damping coefficients being in
+general far smaller than that for the oscillations of the R effect. If, therefore, the numbers in Table VII. are to be taken as indicating the effects
+of pendulum disturbances, we should expect these numbers also to exhibit the
+complementary character ; and this in fact they do. We found that the departure of these numbers from unity increased rapidly when the
 
 
-4. Can nonlinear SIM become broadly applicable and live-cell compatible?
+ON THE RICHARDSON GYRO-MAGNETIC EFFECT. 281
+
+gallows adjustment was imperfectly made; but though we looked carefully for any
+indication of a connection between the direction of the residual earth’s field and the sign
+of the differences between 0, 0, and 0, 0,, we failed to find one.

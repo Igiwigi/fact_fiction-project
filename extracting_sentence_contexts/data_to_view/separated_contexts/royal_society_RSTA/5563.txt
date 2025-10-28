@@ -1,46 +1,17 @@
-Given the first- and second- ‘Ss
+It is obvious @ priori that, so far as the present research is concerned, a range of
+720y must be regarded as largely an “accident.” There are no outstanding daily
+values of sunspot area in the whole 11 years which overtop their neighbours in the
+way the larger magnetic ranges do. The recognition of this fact suggested the next
+mode of attack. It follows lines which were suggested by the procedure followed now
 
-order moments {/1,9, 0,1, 2,0, 41,1, Ho,2} it computes the nodes (&;, é;) and corresponding weights
-w; for i=1,2,3,4, in phase-space. In this work, we assume j19,9 = 1. To tail the algorithm to our
-hybrid scheme of arbitrary number of quadrature nodes, the algorithm adds some fictitious extra
-nodes to the scheme with zero-valued weights to match the desired number of nodes of the hybrid
-scheme. Algorithm 3: CHyQMOM inversion algorithm.
-
-1 w;=0.25, 1<i<4;
-2 w;=0.00, 4<i<N;
-
-2.
-3 OR=/ 12,0 — Lior
-
-4 qa =H10HO1 ,
-
-OR ,
-5 OR=,/Mo2 — a? — Mh;
-6 §&=1,0+0R;
-
-7 &=11,0+0R;
-
-8 §&=11,0 — OR;
-
-9 §4=11,0 — OR;
-
-w §="10, 4<i<N;
-u §1=H0,1+a+oR;
-
-2 §2=Lo1+a — oR;
-
-23 &=L9,1 — a+op;
-
-4 §4=10,1 — a — oR;
-1s &i=uo1, 4<isN
+VOL. OCXIT.—A. N
 
 
+90
 
-L L L L L L L L
-0 5 10 15 20 25 30 35 40 45 50
-t
+DR. C. CHREE: SOME PHENOMENA OF SUNSPOTS AND OF
 
-Figure 8. Evolution of L? error for different moments for a particular forcing realization. (Online version in colour.)
+DOWMOAON HAE | oe a ADH SDT
 
-
-Appendix B.
+*
+ea DROHONUMON

@@ -1,18 +1,23 @@
-To fit a
-given distribution, we require to determine from it the two constants that determine
-its form, the time + (in doubling-periods) elapsed since the commencement, and the
-ratio p of the chance of a specific mutation to the chance of a generic mutation : we also
-require the initial number Ny of primordial genera, which determines the total number
-of genera existing. ‘The first two constants are found from the proportion of monotypes
-and the mean size of genus in the data: N, is then given by the number of species (or
-‘ genera) in the data.* The reader will find the results in Tables V to VIII (pp. 56-58) and
-the values of +, 9, and Ny in Table IV (p. 54). The numbers of monotypic genera
-observed and calculated must agree within a decimal point or so owing to the method
-of fitting : but I think the reader who studies Tables V to VIII will admit that the agree-
-ment between observation and calculation is throughout extraordinarily close. It
-is in fact better than one has any right to expect. I admit very considerable difficulties
-of interpretation and would refer to the discussion on pp. 58-62. Here I would only
-direct attention to the rather large number of primordial genera found in each case
-(Table LV, line 7, p. 54): to the comparatively limited range of values of + (4-26 to
-6-28, ibid. line 5): and to the comparatively limited range also of the values of ¢
-(1-188 to 1-925, ibid. line 6).
+ar dt = C-+ a) + op, + %6,-+ ...-
+
+Now the values of 9, 9, @2,..., may be obtained for each year from the rain
+record, and by correlating them with the crop data, we can obtain the values of
+%, %, %g, ... , a8 partial regression coefficients of the crop on the coefficients of the rainfall
+distribution ; then from (IV) we can evaluate the expansion of a@ to as many terms as
+we have obtained. It is easy to verify that in the same manner the double regression
+integral may be expressed as a quadratic regression formula for the crop in terms of the
+rainfall distribution values. The advantage of this indirect method of attack lies not only in the facts that for a
+fine division of the year, the arithmetical difficulties of a direct attack are insurmountable,
+and that no existing crop record is sufficiently long to justify the calculation from it of
+50 or 60 independent regression coefficients, for the probable error of such determinations
+depends on the excess of the number of observations over that of the coefficients evaluated
+(9), but also in the increased accuracy attained through utilising our knowledge that the
+regression function must in fact vary relatively slowly. This advantage is analogous to
+that obtained by the author in collaboration with Miss Mackenzie, who found that using
+the correlations of weekly rainfall between different stations in Great Britain from a
+record of about 40 years, it is possible to estimate the correlation, for any one week
+of the year, with an accuracy which, for any single week, would have required records
+for over 1,000 years ; this was due to the fact that the sequence of correlations could be
+well represented by a harmonic curve of only the second order, so that use could be made
+of some 2,000 actual simultaneous observations of weekly rainfall to eliminate errors of
+random sampling (8. Fisher and Mackenzin, 1922).

@@ -1,27 +1,14 @@
-Introduction
-
-planar Brownian motion, winding angle
-
-distribution, point vortices Let R(t) be a two-dimensional Brownian motion in R?
-
-with unit diffusivity, so that E|R(f)|? =4t. Take @(f) to
-be the total winding angle with respect to the origin
-accumulated by R(t) up to time f. It is a known fact that
-Jean-Luc Thiffeault Brownian motion avoids the origin with probability 1,
-e-mail: jeanluc@math.wisc.edu so the winding angle is well defined. Since the winding
-angle takes value in (—oo,0o) instead of [0,27), we
-can view the Brownian motion as taking place in the
-universal cover of C\{0}, ie. the Riemann surface of log z. Spitzer [1] in 1958 showed that the normalized
-winding angle converges to a standard Cauchy distribution
-
-as t > 00,
-
-20(t) a 1
-
-1
-x d x) = ——— 11
-logt ~ and px(s) mw1+x2’ (14)
-
-Author for correspondence:
-
-where px(x) denotes the probability density of X.
+It is, moreover, necessary to encounter the difficulty referred to above of
+Smaintaining the light source constant during a series of measurements. © Inarecent paper,t we have discussed the application of a method, involving the
+“Zuse of a neutral-tinted wedge, to the determination of the distribution of intensity in
+“Bbroadened spectrum lines. In this case, the problem is reduced to its simplest form
+Bowing to the fact that over the short range of wave-length covered in a single
+‘Sbroadened line, we may consider that both the extinction-coefficient of the wedge
+"Zand the sensibility of the photographic plate remain constant. Sucha method cannot
+Bbe applied directly to the present problem without important modifications and
+additions, for in the measurement of the relative intensities of lines of widely
+different wave-length neither of these essential conditions is even approximately
+§ fulfilled, and, in addition, the loss of light in the spectroscope must be considered.
+& The problem dealt with in the present communication is therefore of an essentially
+g different nature, but it has been found possible to evade these difficulties without
+8 altering the character of the method employed. E

@@ -1,14 +1,14 @@
-A frame-by-frame processing speed of 175 fps
-for 512 x 512 pixel frames was recorded on the workstation that incorporated a gaming GPU card. When processing in a batch mode at a batch size of 280 frames, an effective frame rate of 239 fps is
+On substitution of (10.9) in (10.5) we obtain
+for the x, y a periodic solution of parameter co. Now from §§ 6, 7 we know that the
+equations (10.1) possess formal periodic solutions precisely of the nature we have been
+constructing, and we infer that these solutions must be obtainable from (10.9) by
+restricting the «,, 8,, (¢ — v) to satisfy (10.15), (10.16). In fact the conditions (10.15),
+(10.16) render (10.9) a periodic solution, just as in §§ 6, 7 the conditions
 
+oK  oK
 
-achieved generating over 34 fps of super-resolved images at 512 x 512 pixel resolution. Combined 1s |
-with the fewer frames required by hexSIM, the fact that near isotropic lateral resolution can be
+SS Sane ye0. ee ew OT
 
-achieved with just 3 fixed-position illumination beams makes the whole system promising for the 3
-realization of subdiffraction resolution in a light-sheet geometry on a microfluidic chip. It should oS
-also be straightforward to adapt hexSIM to most existing 2D-SIM systems, as it requires no change : gS
-in hardware but the display of a different set of patterns on the SLM. Moreover, we believe that 12
-
-our hexSIM concept is compatible with the on-chip TIRF-SIM system proposed by Helle et al. [46]
-and may simplify their chip design by reducing the number of waveguides needed.
+Og 0g t sila
+make (5.20) a periodic solution of (5.1). We see that x,, 6, correspond respectively to
+%, UW, and that the conditions (10.15), (10.16) correspond to the conditions (10.17).

@@ -1,10 +1,13 @@
-This is reproduced in figure 19. As RAPID observations are not currently assimilated by the FOAM system (although studies
-have considered this [69]), they can be used for independent evaluation of the initialized model
-state—analogous to the use of surface drifters to assess the initialization of the ocean mesoscale,
-as discussed in §2. More surprising is the fact that when only atmospheric boundary conditions are prescribed (i.e.
-no ocean data are assimilated), the FOAM system still captures the majority of the 30% reduction
-in the 2009-2010 event (blue lines in figure 19). This result does not preclude an important role
-for the ocean in constraining the evolution of the atmosphere during this time. However, it does
-indicate that constraining surface momentum and buoyancy fluxes is sufficient to explain the
-seasonal and interannual variability of the AMOC at 26° N and indicates a limited role for initial-
-condition-dependent mesoscale activity in driving the observed event during 2009-2010 [65,70].
+In Case (c)
+we are concerned with a region of infinite extent, and the device of ‘geometrical
+inversion”’ must be applied in order to render the problem tractable by relaxation
+
+
+RELAXATION METHODS APPLIED TO ENGINEERING PROBLEMS 475
+
+methods. For some applications we require values of the ratio h = | d(a+-7f)/d(x-+1y)| at
+least as accurate as those of « or #: examples are given to show that the requisite accuracy
+is attainable, use being made (when necessary) of the fact that log / is plane-harmonic. The last problem treated (calculation of the electric capacity of a straight cable or
+condenser) is in essence an example of conformal transformation but can be solved
+when only one of «, # has been computed. It does not demand construction of the «—/
+map.

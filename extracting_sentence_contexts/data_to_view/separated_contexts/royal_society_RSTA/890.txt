@@ -1,20 +1,32 @@
-In section 6.4.1 of [28], it is also shown that the
-CMS property-checking problem can be reduced to the CMS model-checking problem and can
-therefore equivalently be solved in time as in equation (5.9). Furthermore, in definition 6.1 of [28]
-they show that the CMS model-checking problem can be solved in time
+‘Therefore, by
+Theorem 3,
 
-O(F (idl, ewd(G)) - |GI), (5.10)
+Nx (9) = Ne (9) > 1. The next question of course is whether N,, (_y) is continuous. In fact, we show
+that Ny, (9), regarded as a function of y, satisfies the following Lipschitz condition. Theorem 4—Ifu, v < WM, u # v, then for any y, 9’,
 
-as there are only finitely many sentences of size bounded by a given integer. The theorem then
-follows since the rank-width is bounded if and only if the clique-with is bounded, which is
-because
+IN» (9) — Nx (9’)| Ss ot et
 
-rwd(G) < cwd(G) < 2°74)+1 _ 4, (5.11)
+lu — o|
+Proof—There are numbers n, a,, x,, satisfying
+s
+x, <M, 2 ax; = 9; eG, ee; E |a.|]<Ne(9) +e. - (20)
 
-as shown by Oum & Seymour in [29]. a
++R, p. 31.
 
-In many cases, it is in fact the quantifier rank, see definition 5.3, which dominates the runtime
-to solve MS problems. For example in [30], it is shown by Langer et al. that the MS model-checking
-problem, i.e. if G — ¢, can be solved in time O(f(qr(¢), cwd(G)) - |G|°)). As discussed with Langer,
-it is probably possible to extend this statement to also the CMS model-checking problem and
-therefore CMS property-checking problem.
+3D2
+
+
+378 R. RADO
+
+We define b by
+Xa,x, + bu — bv = 4’,
+
+that is,
+b= 2—2,
+u—v
+
+Then, according to the definition of Ny, (9’),
+
+a 7
+
+Nw (9")

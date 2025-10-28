@@ -1,11 +1,7 @@
-Sublayers can work together :
-to compensate weakness in the physical system (as illustrated in our previous example). The aoa)
-interaction between sublayers also complicates our attempt to optimize the overall system. :
-Optimization of one sublayer may be detrimental to another sublayer. This fact was illustrated D4
-in our example when for instance a one-way cavity design was considered. The optimization ae
-needs to be done on the system, which clearly indicates the importance of the architecture of aon
-the system. [BB
-In this paper, we focused our attention on quantum information systems where we can realize ,
-
-large pure quantum states (large enough to run quantum information tasks). This is a necessary
-approach for these applications which require high-fidelity quantum coherence.
+It is perhaps as well to state
+which of the general results quoted apply to all crystals and which are of special
+nature. The first point concerns the fall of the absorption on the short wave-length side
+of the maximum. This effect depends only on the fact that the vibrational spectrum
+of a crystal has a finite upper Timit, and that the spectrum of the combination tones
+has a similar upper limit. Hence the effect should appear in all polar crystals. The existence of an absorption continuum is a result of the existence of a more
+or less continuous vibrational spectrum, and is, as such, a general effect.

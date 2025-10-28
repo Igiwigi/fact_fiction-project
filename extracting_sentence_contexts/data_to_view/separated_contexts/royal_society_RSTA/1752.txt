@@ -1,13 +1,11 @@
-The dashed blue line shows
-the single case with two SSD colour cycles (Ncc = 2), otherwise for the same parameters as the 35 = 6 and Vmoq = 17 GHz
-case. The dashed curve in orange corresponds to the analytic model for power transfer, 7(G) as explained in §2c. (Online version
-in colour.)
+The motion of the system can now be expressed in the form
 
-with respect to RPPs. This is emphasized by the fact that for lower intensities up to Ip/Ip ~
-0.75, in absence of nonlinear processes, the lower bandwidth SSD case reproduces the RPP
-case values. The same is seen when inspecting density perturbations comparing the RPP and
-the SSD cases, see figure 6: the RPP case shows the strongest nonlinear structures due to the
-presence of speckles, which still are present for the SSD case with 17GHz, 35 =6 SSD. The
-higher bandwidth cases for SSD, 17 GHz with 36 = 18 and 50GHz with 35 = 6, seen in the red
-and green curves of figure 5, respectively, clearly diminish the CBET net transfer with respect
-to RPPs.
+a f'ae | [1.-wi+ tee] a
+
+and we could conduct the variation directly were it not for the fact that our functions
+are not all expressed explicitly in terms of the independent co-ordinates of the
+systems, which are in reality the position co-ordinates of the elements of matter and
+electricity. As indicated above we can however avoid the use of any such explicit
+interpretation by the use of undetermined multipliers. In this way the variations of
+E and B can be temporarily rendered independent of each other and of the
+actual co-ordinates of the material and electrical elements.

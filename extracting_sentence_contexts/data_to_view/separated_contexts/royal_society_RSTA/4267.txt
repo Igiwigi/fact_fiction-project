@@ -1,7 +1,13 @@
-In
-the case of an AM signal, the Hilbert transform would only compute frequency from the higher
-carrier wave components. In most cases, the Hilbert transform-defined envelopes are also highly
-oscillatory and verge on nonsensical results [3]. In fact, the envelope for an arbitrary time series
-cannot be defined meaningfully as discussed in [11]. The only way a unique envelope can be
-defined is through the IMF [2]. This requires the time series to be decomposed by the EMD first,
-as given in equation (1.3).
+379
+
+a theorem of reciprocity analogous to and including the well-known theorem con-
+nected with the partitions of a number on a line. There is also a lattice theory
+connected with unipartite partitions on a line, for the unit-graph of such a partition
+is nothing more than a number of units and zeros placed at the points of a two-
+1+m—2
+t—1
+Art. 96, The fact is that the theory of the two-dimensional lattice, the part-
+magnitude being restricted to unity, is co-extensive with the whole theory of
+partitions upon a line. Hence for such partitions we may represent the generating
+Sfunetion, diagrammatically, in two ways upon a lattice as well as in two ways upon
+Aa line. 8

@@ -1,15 +1,15 @@
-As it turns out, this already suffices to prove a version of the It6 formula with the
-help of which the argument can be completed. This approach, however, does not seem to give the
-optimal p-dependence of the constant as p — oo.
+If we apply the preceding discussion to the losses
+in two water vessels, which are joined together without any intervening H,SO,, it is
+manifest that the second vessel will lose more than the first. If the dimensions of the
+two vessels are the same and if the rate of change of temperatures is slow and its range
+sufficiently restricted, the first vessel will on balance suffer no loss. This result is due
+to the fact that in the first operation (that of heating) the first vessel loses a quantity of
+vapour which during the subsequent cooling is returned to it by the air passing through
+vessel 2 provided that no condensation takes place in the connecting U-tubes. The following considerations, which avoid the postulate that an air-vapour mixture
+obeys the gas laws give us a general method for calculating the maximum loss in any
 
-(b) The It6 formula approach revisited
+* For simplicity we neglect the probability that the supersaturated vapour may carry with it condensed
+vapour,
 
-The aim of the present subsection is to present the It6 formula approach to maximal estimates
-for stochastic convolutions. In comparison with Theorem 5.2, it does not lead to new results (in
-fact we need stronger assumptions on the evolution family and obtain non-optimal asymptotic
-dependence of the constant), but this approach has the merit that it can be extended to
-random Co-evolution families of contractions. To the best of our knowledge, for this setting no
-maximal L?-estimates of the form (4.1) in 2-smooth spaces are available in the literature. For
-stochastic evolution equations with random coefficients in Hilbert spaces subject to monotonicity
-conditions, L?-maximal inequalities go back to [51,52]; for an exposition and further reference see
-[53].
+
+WITH WATER, ETHYL ALCOHOL, METHYL ALCOHOL AND BENZENE.

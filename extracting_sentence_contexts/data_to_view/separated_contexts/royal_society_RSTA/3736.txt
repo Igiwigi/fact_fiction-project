@@ -1,12 +1,13 @@
-Our nonlinear
-spectroscopy set-up has an option for measuring the linear transmittance spectra by focusing
-white light to a 201m wide spot on the sample plane and consecutively measuring its spectrum
-using an IR spectrometer. All measurements are carried out under normal incidence and with all the beams polarized
-along the side of the sample periodicity cell. The numerical aperture for the pump beam was
-equal to 0.15.
+to XI. If we consider the temperature constant, we obtain for the variation of emissivity
 
-(c) Estimation of third-harmonic output via local fields integration
+with pressure :t
+E = ap* + bp’,
 
-The fact of the higher TH yield upon pumping the MD resonances if compared with the ED
-resonance is supported by estimating the overall nonlinear polarization within the nanodiscs. This has been done by integrating the local fields over the volume of the nanodisc. To simulate the nanodisc response to external radiation, we implement a model using 4 |
-FDTD SOLUTIONS software by Lumerical Solutions, Inc.
+and we have seen that the exponents of p are different for every gas studied. It is
+not easy to reconcile this fact with the theory that conductivity, viscosity, and
+specific heat are all three independent of pressure. It must be remembered,
+however, that the theory is deduced on the assumptions that the molecular paths
+are straight lines, that the radius of the molecular sphere of action is very small
+compared with the mean free path, and that the cohesion of the gas is a negligible
+quantity. Neither of these hypotheses seems altogether justifiable at pressures of one or two
+hundred atmospheres.

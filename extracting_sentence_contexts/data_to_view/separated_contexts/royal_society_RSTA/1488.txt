@@ -1,10 +1,6 @@
-By exploiting the computational structure of multiscale simulation,
-the cost of a multiscale UQ can be reduced by relying on a family of recently proposed semi-
-intrusive UQ methods [14]. In this manuscript, we extend the notion of exploiting generic
-computational structure of multiscale simulations to further improve the computational efficiency
-by identifying generic UQPs, and then implementing the UQ analysis with these UQPs. In fact,
-we propose a series of uncertainty quantification patterns (UQPs) according to the degree of
-intrusion and architecture of multiscale simulation. These UQPs provide basic building blocks
-for creating tailored UQ for multiscale models. The UQPs are implemented as generic templates,
-which can then be customized and aggregated to create a dedicated UQ procedure for multiscale
-applications.
+Convergence of the Series. In default of a proof that the formal power series (5.13) giving the general solution of
+the equations (5.1) are convergent, the investigation of §§ 5-9 is of only formal validity. In point of fact the series (5.13) are in general divergent, but the arguments by which this
+may be proved are of an indirect nature.* A new line of attack is therefore needed to
+prove the convergence of the series giving the formally periodic solutions. ‘The procedure
+is to give a process for the direct construction of these solutions, and then to prove that
+the series involved are convergent by the method of “ dominant series.”

@@ -1,8 +1,10 @@
-Recall that a is invertible if and only if 0 ¢ o(a). In light
-of theorem 4.4, we know that for any c € R (with c #1) and with a=4a,, as usual, o(a¢)
-coincides with the closure of the range of ¢ = ¢(s) along the vertical line {Re(s) = c}. Now,
-according to a result of GarunkStis & Steuding in [113] concerning the non-universality of
-¢ in the left critical strip {0 < Re(s) < ah we know that, conditionally (i.e. under the RH),
-we have that, for all c € (0, 3),0(a) (that is, the closure of the range of ¢ on {Re(s) =c}) isa
-strict subset of C and, in fact, that 0 ¢ o(a); see [113, lemma 4 and proposition 5] and their
-proofs. Hence, a is invertible. Conversely, assume that a = a¢ is invertible (i.e. 0 ¢ o(a)) for every c € (0, 3).
+They apply, in particular, to the expansion of a function
+in both the sine and cosine series of Fourrer. It is in the light of our knowledge of
+the properties of the latter series that the narrowness above referred to becomes
+evident. In point of fact, the Hilbert-Schmidt theory is only applicable to Fourrer’s
+series corresponding to a function which has a continuous second differential coefticient
+in (0, 7), and which furthermore satisfies certain boundary conditions at the end
+points of the interval. For example, in the case of the sine series, the function must
+vanish at both end points. It would appear, therefore, that the wide generality as
+to the system of normal functions is obtained at the cost of the generality of the
+function which it is desired to represent.

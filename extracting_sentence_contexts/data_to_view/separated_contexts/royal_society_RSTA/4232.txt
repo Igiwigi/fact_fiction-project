@@ -1,23 +1,9 @@
-There is no ambiguity DN
-
-because (2.2) has a unique solution g up to an additive constant, among potentials with finite [GS
-
-magnetostatic energy. [8
-The key point for this paper is the precise form of the energy wells of W. These are pairs (F,m) .
-
-consisting of a 3 x 3 deformation gradient F and corresponding magnetization m that minimize
-
-the local free-energy density W. In the case that the martensite is ferromagnetic and 6 < 69, these
-
-have the following general form [23]:
-
-(RU, +Rmj), (RUz,+Rmp),...,(RU;,+Rm,), R€SO(3). (2.3)
-
-Note for later use the rotational invariance, and the important fact that the same rotation
-matrix appears in front of U; and m;. The symmetric, positive-definite tensors Uj,...,Uy, called
-transformation stretch tensors, define the variants of martensite. All of the wells can be obtained
-from the first one by using the point group P = {Q;,...,Q,,} of undistorted austenite:
-
-{(U1,my),..., (Un, m)} = (Q;U1 QF, Q;m1):i= 1,..., m1). (2.4)
-
-Generally, n < m because there can be degeneracy, as in the tetragonal case below.
+The Relative Velocities of the Ions in the Flame. The way in which the current through the flame depends on the temperature of
+the negative electrode indicates that the part played by the negative ions in carrying
+the current is more important than that played by the positive ions. This fact, and
+the results obtained in investigating the fall of potential between the electrodes,
+suggested the idea that the velocity of the negative ions, due to a given potential
+gradient, is much larger than the corresponding velocity of the positive ions. To test this, experiments were made in which the potential difference between the
+upper and lower electrodes necessary to cause the positive or negative ions to move
+down the flame against the upward stream of gases was determined. The apparatus
+used for this purpose is shown in fig.

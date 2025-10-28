@@ -1,48 +1,27 @@
-UDNY YULE ON A MATHEMATICAL THEORY OF EVOLUTION,
+A consideration which has been still more influential in framing our method is that
+even if we were to calculate the 52 partial regression coefficients showing the average
+effect in bushels per acre of an extra inch of rainfall, for each week of the year, such a
+calculation would leave out of consideration the all-important fact that this effect
+may be expected to change continuously during the year. The true partial regression
+coefficients for neighbouring periods must be relatively alike. The method of partial
+correlation as hitherto developed, takes no account of the serial character of our weather
+variates ; after calculating the partial regression coefficients, we should still be far from
+the facts, if we did not smooth the series so obtained by a continuous curve, which
+should average out the independent errors in the values obtained for the successive
+weeks. Disregarding, then, both the arithmetical and the statistical difficulties, which a direct
+attack on the problem would encounter, we may recognise that whereas with q subdi-
+visions of the year, the linear regression equations of the wheat crop upon the rainfall
+would be of the form
 
-TABLE XIV.
-in pee Powers sN, by equation
-periods. of 2. (24): p= 1-5,
-1 2 3
-0 1 1
-1 2 3
-2 4 7
-3 8 16
-4 16 35
-5 32 16
-6 64 160
-7 128 333
-8 256 687
-9 512 1,408
-10 1,024 2.869
-1 2,048 5,821
-12 4,096 11,776
-13 8,192 23,763
-14 16,384 47,862
-a 32,768 96,256
-16 65,536 193,357
-17 | 131,072 388,055
-18 262,144 778,240
-19 524,288 1,559,860
-20 | 1,048,576 3,125,085
+= C+ 47, + 4%, + ... af,
 
-assume the law of free increase as simply logarithmic from the beginning, and write A
-in (39) as unity. As we have just seen, the only effect of such an assumption in the
-above case is to reduce the estimated doubling-period from 6-4 to 5-8 million years. I will first suppose the killing-out to be practically continuous, though as stated in the
-Introduction I do not think this at all closely represents the facts. Let the numbers at
-successive small intervals of time be
+where 7, 72, ..., 7, are the quantities of rain in the several intervals of time, and
+@, ... @, are the regression coefficients, so if infinitely small subdivisions of time were
+taken, we should replace the linear regression function by a regression integral of the
+form
 
-BS pinay. gers. oo pes
-where p is the proportion of survivors and r gives the free rate of increase. If
-p=1—80
-r=1+a0
-in the limit when the time-interval 6 is made very small we may write
-y= 6th suc 8 Sete Tee ee
+w= e+ | ard, L otis bok wen ee ale
 
-The total number of deaths from the beginning to the time of observation is
-D=qr+ gp'*+qprP+...+qpor
-am Ongar” 2) (pn 1)ES
-me grr — 1)" (Y=)
-
-
-BASED ON THE CONCLUSIONS OF DR.
+where 7 dé is the rain falling in the element of time dt; the integral is taken over the whole
+period concerned, and a is a continuous function of the time ¢, which it is our object to
+evaluate from the statistical data.

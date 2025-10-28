@@ -1,14 +1,15 @@
-Next, let us change the design specification for the flat lens as follows: we now stipulate that the
-flat lens perform precisely like the convex lens in its entirety, implying that the fields at the input
-and output ports be identical for the convex and flat lens designs. Obviously, such a performance
-of the flat lens would be highly desirable because it would deliver the proven performance of the
-classical convex lens design. In fact, this is exactly the goal of the TO-based design, which has
-been attempted by a number of authors [9-14]. What is not so obvious, however, is that such a
-seemingly minor change in the specifications, in which we insist that the flat lens design should
-not only manipulate the phase distribution at the output port but also the amplitude distribution,
-has a highly significant impact on the realizability of this type of flat lens, which we refer to herein
-as the TO-based design. Some of the difficulties arising in the realization of the TO design are: (i) it
-calls for both dielectric and magnetic materials, (ii) these materials must be anisotropic in general,
-and (iii) typically some of the values called for can only be realized by using MTMs, which can
-be lossy, dispersive and narrowband, forcing us to use substitutes that are likely to compromise
-the performance of the lens.
+parallel to the axis, the effect on the heat loss
+is to introduce a term which to the first order may be written —/*/k(n—4l) JSQ or
+—h?/10kISQ, where n and / have the significance and values accorded to them on p. 212. The correction thus tends in the opposite direction to that discussed on pp. 211-214. Now, in view of the fact that there was only a small space between the wall of the
+tube and the bundle of glass rods which contained the leads of the heating coil and
+thermometers, and further, since the heating coil wire and the pieces of wire gauze,
+&e., offered a large amount of obstruction to the flow of the gas, it is highly probable
+that / was at least equal to 1. If we take & equal to unity, the correction for the
+heat-loss term amounts to —h?/L0JSQ, and produces an effect amounting to about
+5 parts in 10,000 on the value of the specific heat at 20° C. and 1 part per 1000 on
+the value of the specific heat at 100° C. The effect tends in the opposite direction to
+that discussed on pp. 211-214, but the conduction of heat to the walls of the tube
+by the dises of copper gauze tends to make the value of the correction much smaller
+than that above deduced, so that it is safe to assume that entire neglect of it does
+not produce an error of more than 3 or 4 parts in 10,000 on the values of the specific
+heats,

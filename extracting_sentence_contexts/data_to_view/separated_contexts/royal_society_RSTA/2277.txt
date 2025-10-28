@@ -1,10 +1,16 @@
-Since both classical and quantum models are able to generate deterministic functions, it
-is clear that some restriction are necessary in order to understand the difference between classical
-and quantum correlations. A natural candidate is the restriction on the amount of memory that
-can be stored in the system. In fact, if the system is not able to ‘remember’, at a certain step s,
-all previous inputs and outputs in the sequence, it will not be able to generate the corresponding
-deterministic function associated with the sth step. We may, thus, identify ‘memory’ as a resource
-needed to generate temporal correlations, and speak of the ‘memory cost’ of simulating temporal
-quantum correlations with classical models. Of course, one can extend this idea and speak more
-generally of the ‘memory cost’ of generating certain correlation with a given theory, e.g. in the
-framework of GPTs, as discussed in [17].
+T/L:
+0-08 0-009 0-036
+0-10 0-014 0-039
+0-15 0-036 0-064
+0-11 0-018 | 0-057 We observe that the calculated ratios are always considerably smaller than the
+actual ones, so that our model would show an even greater anisotropy than the wood
+itself. This is undoubtedly due to the fact that the cross-sections of the cells are not
+accurately circular, but often approach a rectangular or hexagonal shape, and that the
+cells are not open, but either taper to a point or are closed in some other way. However, the results seem to justify the conclusion that the form and arrangement
+of the cells have a sufficiently large effect to account for the relative values of Hy,
+and Ey.
+
+Another fact, which is perhaps more significant, is that the theory suggests that the
+ratio Ey/E, should increase with the cell-wall thickness, and therefore with the specific
+gravity of the wood. ‘This is certainly the case for the four woods already considered,
+and there does not seem to be any obvious alternative explanation of this fact.

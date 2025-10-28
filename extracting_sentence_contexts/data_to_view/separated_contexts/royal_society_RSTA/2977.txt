@@ -1,51 +1,7 @@
-Further details on the general O(1/N*) and O(1/N) bounds
+The Rigorous Expression for the Harmones of the Second Kind. The integral Q; denotes 33,'(%) Q'(%), and %B, denotes Qi(n) 23/(%). Thus
+0
 
-Here, we provide more detailed technical proof of our O(1/N ?) and O(1/N) bounds, showing that
-they are indeed bounded in the required sense, and giving an explicit bound in each case showing
-their dependence on the various constants. In the first case, we wish to show that
-
-|txivors @oVE) ~ (os -ikto-esl)], <0(5)- (D1)
-
-where Vy = exp(—i(w/N)SWAP). Expanding Vy and Vi as power series in 1/N and using (3.3),
-we obtain
-
-[tre (Vans @oVt}— (ps - i<[o, ps]) |,
-
-(-i(@ IN) swary (i(w/N)SWAP)"-*
-=| Stel Ps @ 0 ~~
-
-n=2 k=0
-
-ayn 1 Kk nk
-=X (y) © ea —mtSWAP ps @ 0 SWAP" |},
-i =
-
-Sanh 4
-=X (y) da
->! a(s y’ 3 r= k)!
-
-naz"
-
-~ =r ni u(x) ¢ 2")
-
-n=2
-
-n=2
-oO 1 2 n—2
-=(x) Dna) 2)
-=
-
-where we have used the fact that the trace norm satisfies ||trg{O4B}ll1 < ||Oaslla [27] and ||Al|1 =
-||UAV ||; for unitary U and V. For all N > 2a we therefore have
-
-a 1
-
-|tre(Vars @oVi}— (0s - igle,esl)| <4(%)° s a
-n=2
-
-=4e-2)(4)°. (D3)
-
-
-Hence, ||trr{Vaps @ o Vt} — (ps — i(a/N)[o, ps})\]1 = O(1/N?). Note that this is not the tightest
-provable bound, and a higher threshold for N can generate a smaller (yet more complicated)
-constant, but this is not the focus of this paper.
+G; is, in fact, the harmonic function of the second kind. 4%; is clearly determinable
+from @;*. In the original paper @,* was found by quadrature, and this defect in my procedure
+is referred to by M. Lrapounorr as a cause possibly contributory to the discrepancy
+between our results.

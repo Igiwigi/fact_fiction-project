@@ -1,14 +1,11 @@
-A vortex sheet is the free boundary between two fluids shearing past each
-other in irrotational flow, the vorticity being measure-valued and supported on
-the free boundary between the fluids. Linearizing the equation of motion of the
-vortex sheet one obtains that the motion is linearly stable if surface tension acts,
-while linear instability holds if the effects of surface tension are neglected—an
-effect known as the Kelvin-Helmholtz instability (Saffman 1995). The paper by
-Ambrose (2007) presents a proof of the fact that surface tension regularizes the
-Kelvin-Helmholtz instability for the full nonlinear equations. Several papers of this issue are devoted to qualitative studies of two recently
-derived integrable nonlinear models for the propagation of shallow water waves:
-the CH equation (Camassa & Holm 1993; Johnson 2002) and the DP equation
-(Degasperis & Procesi 1999). Both nonlinear PDEs share with the classical KdV
-model the properties that they have a bi-Hamiltonian structure and are formally
-integrable? (Fokas & Fuchssteiner 1981; Camassa & Holm 1993; Degasperis &
-Procesi 1999).
+It follows just
+as in the last paragraph that there are an infinity of points of A in Ky. This proves that the
+conclusion (b) of theorem 4 is valid in the present case. The conclusion (c) of theorem 4 may be established by a very similar argument, using the
+fact that, if K is fully reducible, there is a bounded star body K’ contained in K such that
+A(K’) = A(K) and such that every lattice, which has determinant A<A(K) and which has
+no point other than O strictly inside XK’, is necessarily a critical lattice of K.
+
+Corotiary. If d(A) <A(K), then either A has an infinity of points in the interior of K or A has
+a point other than O in every core of K.
+
+We conclude this section by applying the corollary to the body K defined by (48).

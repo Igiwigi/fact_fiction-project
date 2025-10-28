@@ -1,14 +1,11 @@
-Attempts at
-classifying aftershocks in earthquake catalogues have relied on simple space-time windowing
-approaches [4,5]; single-link graphs based on a distance metric [6]; a context-dependent game-
-theoretic combination of above methods [7]; evolving random graphs based on windowing
-[8,9]; and a pair-wise nearest-neighbour rescaled space-time-magnitude metric derived from
-phenomenological laws [10]. The latter was refined [11] to include a threshold separating
-strongly correlated and background events, which emerged from the bimodal distribution of
-the nearest-neighbour metric and has since been applied in numerous studies [12-16] with some
-variations. It is to be noted that all the above-mentioned tools are in fact statistical, which simply try to
-assign a correlation between the events, with causality itself being assumed to be valid above
-some prescribed threshold in the correlation. This inability to firmly establish causality is, of
-course, understandable, given that seismologists do not have access to a real-time dynamical
-state of stress or accurate microscopic knowledge of earthquake nucleation sites inside the Earth. However, a proxy earthquake analogue [17] based on numerical simulations of soft glasses, with
-access to the relevant dynamic variables at all scales, in theory, does not suffer such limitations.
+This is not surprising; even in the case of
+substances which can be obtained in the form of large single crystals, Turron* remarks
+that measurements on several crystals are made and the highest value is adopted. The
+difficulties of measurement on organic substances, which are usually in the form of
+micro-crystals, are naturally greater, and hence the above discrepancies. In fact, it
+has been suggested by Brace} that the calculation of the density from the size of the
+unit cell determined by X-ray methods is likely to give a more accurate value than
+direct methods of measurement. Thus it is clear that in our calculation of the gram molecular susceptibility of a crystal
+from its volume susceptibility we have to use the proper value of the density for the
+particular crystal used. This was determined by the “ immersion” method, using a
+solution of zine sulphate for the purpose.

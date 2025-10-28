@@ -1,34 +1,26 @@
-For simplicity, consider a black hole created by collapsing matter initially in a pure quantum
-state (the result holds in general, see appendices). In this case, the global state of (B, N, R) may
-also be treated as pure implying S(B, N,R) =0, S(B, N) = S(R), S(B, R) = S(N), S(N, R) = S(B) and
-hence I(B,N : R) = 1(B: R) + I(N: R) which is therefore bounded below by
+The difficulty must be
+turned by eliminating in the first place R, and if 8 is then found, R may be
+determined from the first of the above equations. It may occur to the reader that R
+might be more directly obtained if the resistivity were introduced instead of the
+conductivity. ‘This is true, but the results are less valuable, as may be seen from the
+fact that, as suggested above, the Fourier expansion may have to be applied to the
+conducting power in so far as it depends on the position of the sun. If the resistivity
+were introduced as the variable, the high and possibly infinite values which the factor
+would take when the conductivity sinks low or vanishes would present difficulties
+much greater than those met with by keeping the conductivity as the variable
+quantity. The elimination of R requires in the first instance the reduction of
+4 pX sin 6+ eS py,
+ze. of
+p (4 Xsin 0+ fy) +X sin oe sy,
 
-I(B:R) +1(N:R) > 1(R’:R). (1.2)
+Introducing the values of X and Y, the operation reduces to
 
+‘ ea : l
+—(1+y’ cos O+¥ sin 6 cos \) sin oe sin 8 cos ost
 
-Complete evaporation 1(a)(ii): After the pure state black hole has completely evaporated away 4 |
-the net radiation, (R,R’), should also be in a pure quantum state to preserve unitarity, so that
+= dy diy
+y 008 0 (cos @ cos ae sin @ sin rst),
 
-S(R’, R) = 0. Thus one might expect that correlations would exist between the early and late epoch “3
-radiation, R and R’, respectively. :
-
-In fact, the study of random unitary operations allows us to say much more: as the Hilbert ig
-space dimensionalities involved are so huge Levy’s lemma guarantees a generic behaviour for : a
-
-entropy in all but a set of measure zero of evaporation mechanisms [3]. (Indeed Levy’s lemma
-can be interpreted as implying that mechanisms with behaviour different from the generic will be
-exponentially unstable to any but a set of measure zero of perturbations.)
-
-The consequences of random unitary evaporation [3,12] may be succinctly summarized: the
-
-entropy of the radiation grows monotonically (at almost exactly the maximal rate of one bit’s : &
-worth of entropy per qubit of radiation emitted) until the Page time (PT), when the black hole’s Dos
-area has halved. From the PT onward, the overall entropy in the radiation decreases at the same : =
-rate, reaching zero when evaporation is complete [3,12]. (Note that the terms ‘bits’ and ‘qubits’ are : a
-used as units for information content and do not imply two-level systems.) Thus, combining both 73
-the pre- and post-PT results we may write S(R) = S(R’) = min(In |R|, In|R’|), where |X| = dim(X). aes
-
-The Bekenstein-Hawking entropy quantifies the thermal entropy in a black hole from the first 22
-law of black hole thermodynamics. This presumes, however, that the radiation lacks correlations. [4
-Thus by ignoring the correlations above we may identify [13] the Bekenstein-Hawking entropy : *
-of the initial black hole as Spy =In|R| + In|R’|.
+The part independent of y and y’ is
+an oY = ed
+sin O- o sin Hp,” cos (oh—«).

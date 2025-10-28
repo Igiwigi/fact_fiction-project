@@ -1,30 +1,24 @@
-The internal field therefore costs spin entropy
+Table 1 gives expressions for w_,, together with the error term or difference cor-
+rection, according to the number (r) of differences replaced by pivotal values. TABLE 1
+r w_y error term
+1 —h(dw/8x), + wo
+2 —2h(dw/2x), + w,
+3 — 3h(Gw/Ox)) — $wy +3w, — jw, 3 (-1)" At
+4 —4h(2w]Ox))— Pw, + 6w, —2w, + fw; cranes
+5 —5h(Gw/Ax), — $$ + 10w, — Sw, + 3ws— pw,
+a. 6 —6h(Gw/Ax) 9 — Fwy + 15w, — 10w, + 5w, — fw, + us
 
-— Thea = wo He)? (8.1)
+Similar expressions for w, can be obtained from this table by changing thesign of h, replacing
+5 w, by we, w, by w;, etc.; in the error term backward differences replace forward differences
+a and the factor (— 1)" becomes — 1.
 
-and energy 1
-Brea = 5B H= SPL xr); (8.2)
+8» For a boundary condition of the type (I. 5) which can here be written as
 
-but this is offset by the energy gain in magnetizing the sample,
-E! = —moM-H=—pox rH’. (8.3)
+w+kdw/dx = K, (A. 10)
+EB the fictitious point in figure 1 can now readily be obtained from table 1. Taking r = 4 for
+example, it easily follows from the table and equation (A. 10) that the required expression
+m - .
 
-Summing these contributions and allowing the magnetic charge density to
-fluctuate along with the field, we find a free energy functional for field fluctuations,
+2 is given by K te 10
 
-F(H(r)) = | Male)? + MP iy -H)? dr. (8.4)
-
-This functional is entirely equivalent to that for electric field fluctuations in an
-electrolyte and in fact is equivalent to Debye-Hiickel theory [49]. Thus, we see
-that by suppressing spin fluctuations (i.e. setting H(r) = x7 M()) we recover the
-Debye~Hiickel approximation of Castelnovo et al. [17]. Introducing the Fourier transformed field H(r)= V7! >, H(a) e4™ and
-
-substituting into equation (8.4), we find
-
-V : ;
-F=5— SC H@)(1+ eb), (8.5)
-q
-
-where V is the volume and we have used D/k = Bh and the fact that the field,
-being derived from a scalar potential, is longitudinal to the wavevector. Since the
-
-Phil. Trans.
+> w_y 4he +

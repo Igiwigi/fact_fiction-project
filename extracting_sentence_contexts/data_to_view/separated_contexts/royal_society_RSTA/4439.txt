@@ -1,14 +1,26 @@
-However, for non-dilute systems, the
-solubility of the gaseous solute generally accounts for the partial pressure P(x, T) of the solute in
-the gas phase above the liquid mixture, as shown in equation (3.3), where (P, T) is the fugacity
-coefficient and P¥*P(T) is the equilibrium vapour pressure of the solute [45]:
+Lunar Semi-diurnal Tides. A similar method to that of the last section may he used to evaluate the lunar
+semi-diurnal tides for which we take \/2w = 0:96350. The arithmetical work is,
+however, more severe, in consequence of the fact that the quantities x, y, A’ must
+be evaluated from the formule (29), (30) which do not assume the simple forms
+obtained in the last section. Substituting in these formule the value of 4/20
+quoted above we deduce
 
-®(P,T)P(x,T) =x(PY*P, T)PY*P (T)y(x,T). (3.3)
+A3 = 0:075603 Aj) = 0°003845
+Ai = 0:019864 Aj, = 0°002750
+A} = 0'009856 Aj, = 0°002028
+A} = 0:005834 Aj, = 0°001968 ;
+log a3 = 376026 log aj, = 3°1566
+log aj = 3°63756 log aj, = 3:0362
+log aj = 3°45530 log xj, = 4:9299 ;
 
-COSMO-RS theory is based upon the assumptions of an incompressible liquid and an ideal
-gas phase. Therefore, equation (3.3) is only valid for systems at subcritical conditions and low
-pressures. In fact, direct COSMOtherm predictions of high-pressure systems show qualitative, as
-well as quantitative, deviations from the real high-pressure systems [46]. In addition, for the case
-of CO2, whose critical temperature is just above ambient, the quality of the predictions is expected
-to be lower, leading to consistent deviations from the real behaviour [47]. In order to overcome this limitation and achieve better predictions for high pressure systems,
-combining COSMO-RS with an EoS has been suggested [40,48,49].
+log x} = 3:29488
+
+log y3 = 2°68108 log Yio = 3°3867
+log yj = 2°14687 log y?, = 3°2318
+log yf = 3°81592 log yi, = 3°0994,
+
+log yi = 3°57549 Our procedure is now exactly similar to that of the last section, Thus, if the
+height of the equilibrium tide be
+
+@ Pi (,),
+we find, when hg/4o°a?

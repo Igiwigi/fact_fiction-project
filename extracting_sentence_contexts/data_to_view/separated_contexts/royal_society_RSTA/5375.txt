@@ -1,17 +1,18 @@
-However, this being the case ILES should, as
-LES, become problematic near walls where at high Reynolds number grid
-resolution demands are severe. Hence it seems unclear why the LES community
-has invested substantial research effort into hybridization with near-wall RANS
-modelling and the ILES community has not considered this technique. There
-seems three possible reasons for the success of pure ILES for wall bounded flows:
+show that for a range of temperature
+from 14°+4 to 0° our cell and Lord Rayteran’s cell No, 1 have the same E.M.F.
 
-—some ILES are akin to wall resolved LES, i.e. they are quasi-direct numerical
-simulation (DNS) near walls (Drikakis et al. 2009);
+When the cell was put into the warm water on August 17 readings were taken of
+the E.M.F. and temperature. About half-an-hour after being put into the bath the E.M.F. was 45 units below
+the standard, the temperature was 31°, that of the standard 17°3. The readings
+remained steady at this for five minutes,
 
-—some form of wall modelling is used, such as log-wall functions, but the use
-and justification of the actual ILES approach detracts attention from the fact
-that there is wall treatment (Fureby 2009); and
+This would correspond to an increase of only about 3°3 units per 1° C. instead of
+43, and again emphasizes the fact that the E.M.F. of the cell is not a fixed quantity
+at a given temperature unless the temperature has remained steady for some time
+previously,
 
-—some flows considered are more ‘top-down’ than ‘bottom-up’. By the former, it is meant that turbulent structures external to the wall region
-are strongly convected into the boundary layer. The structures overwhelm the
-classical boundary-layer physics.
+Most of our cells were compared with the standard at various temperatures
+between 9° and 18°. The observations show that all the cells except those known to
+be unsaturated have the same coefficient, and the average value of that coefficient
+between 0° and 15° is 00076. Our experiments do not show whether the relation
+between E,M.F. and temperature is linear or not.

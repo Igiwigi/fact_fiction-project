@@ -1,48 +1,12 @@
-This analogy is just formal because the two systems (turbulence and amorphous
-
-
-c=}
-
-2
-
-B02 |
-
-ke
-
-2 0.1 4
-
-be
-
-5 iw Ll
-
-° l L hi
-0 10 20 30 40 50 60 70 80 90 100
-
-(b)
-
->, 0.10 : : —— —— +
-
-3 0.08 vA \, |
-
-© 0.06 + | |
-
-S) WA \
-
-2 0.04R ~~ VA wa wd
-
-2 0.02} ‘ |
-
-0 10 20 30 40 50 60 70 80 90 100
-time
-
-Figure 1. (a) Rate of energy dissipation €(t) as a function of t corresponding to equation (2.1) at constant power input.
-(6) Behaviour of the kinetic energy E(t) for the same time window. Looking at E(t), we can easily distinguish two different
-dynamical phases in the system: a laminar phase where E(t) ~ t and an avalanche phase where we observe drops of E(t)
-corresponding to the bursts in the energy dissipation. (Online version in colour.)
-
-solid) obey completely different physics and the variable F is not at all related to any plastic flow. In fact, as we shall see, the scaling observed for the avalanche sizes and their interevent time are
-completely different with respect to the one observed in amorphous solid. In figure 1a, we also report the signal corresponding to the energy dissipation for the same time
-window, which shows, as expected, a strongly intermittent behaviour. Notice the link between the
-strong fluctuations occurring in the upper signal and the kinetic energy loss in the lower signal.
-
-3.
+It will cease to hold at DD’, when the waves
+from B, B’ first reach the other ends of the aerofoil at D’ and D respectively. However,
+a process of successive approximation will be found by which the solution can be continued,
+first for the portion DF, and then for successive portions of length 2ah. The process, in fact,
+consists in the addition to the original wave system of successively more complicated waves
+beginning at DD’, FF’ and so on. Mathematically, the technique required for this treatment is very similar to that intro-
+duced by Sommerfeld (1897) in his classic discussion of the diffraction of electromagnetic
+waves at a semi-infinite perfectly conducting obstacle, and later simplified and developed
+by various authors, including Lamb and Carslaw. In particular, our method of the succes-
+sive introduction of new waves at D, F, etc., is very similar to the approximate method
+employed by Schwarzschild (1902) for the solution of the problem of diffraction at a slit of
+monochromatic electromagnetic radiation.

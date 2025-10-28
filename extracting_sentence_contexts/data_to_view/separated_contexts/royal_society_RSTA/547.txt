@@ -1,54 +1,14 @@
-Thus deciding which models
-provide the most accurate representation of internal variability in the real world is a key challenge,
-and is closely linked to the challenge of constraining climate feedbacks. Note that differences in
-internal variability among models are even greater on regional scales [20,21]. Note also that none
-of the unforced models shown in figure 3 exhibits a centennial trend as large as that observed
-(in spite of the fact that some of the models exhibit significant drifts), which is evidence for the
-importance of forced signals in the real world (see §§4 and 5). Regression analysis can be used to identify the spatial patterns of climate change that are
-related to internal variability in GMST [22]. Application to CMIP5 control simulations (figure 4)
+The value of R, can be estimated indirectly from the values of D,, s = 1,... ,d—1. This
+follows from the fact that the sum of the squares of the deviations of the d values y;, y», ..-
+from their mean is equal to ae wy
+do pas, Yo Ya)
+
+q=l p=qt
 
 
-@ regression coefficients (ii) variance explained by GMST
-90°N
-60°N a
-Ey
-30°N 13
-<
-Ss
-0 S
-2.
-30°S et
-:2
-60°S S
-=
-90°s =
-5
-90°N i¢
-18
-on 1° e
-=
-30°N =
-=
-0 s
-PA
-30°S =
-wn
-s
-60°S Ss
-=>
-. [4
-90°s 3
-90°N w
-gS
-60°N &
-s
-30°N >
-0
-30°S
-60°S
-9 50s
-Iso°;w 90°w 0 90°E 180°E 180°W 90°w 0 90°E 180°
-————————— —————
-=15-12-09-06-03 0 03 06 09 12 15 01 02 03 04 05 06 07 08 0.9
+F. YATES ON SYSTEMATIC SAMPLING ‘ 349
 
-Figure 4.
+This expression contains d—1 differences 1 unit apart, d—2 differences 2 units apart, etc. Consequently an estimate of R, is given by
+
+WaT {(d—1) D,+ (d—2) D,+...4Dy_4}- If all possible block divisions and all possible differences are used for estimating R, and D,,
+the two methods of estimation of R, will give identical results except for end-disturbances.

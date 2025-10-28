@@ -1,37 +1,14 @@
-For example, the version of the periodic table shown in figure 13 was featured as the
-logo of the Inorganic Chemistry Division of the American Chemical Society until recently when
-it was withdrawn specifically because of the controversies concerning group 3. The fourth possible presentation is one that abstains from specifying which elements belong in
-group 3 or rather it is a presentation that only contains two elements, scandium and yttrium, as
-being definitely in group 3. This table is sometimes labelled as the official IUPAC periodic table
-
-10One minor exception to this statement is the fact that the s-block is split just in the case of the first two members, hydrogen
-and helium, at least in the way that the periodic table is generally depicted with helium in group 18.
-
-
-1
-3
-
-11
-
-Na
-19
-K
-
-37 | 38 | 39 | 40
-
-55 | 56 72
-
-Cs | Ba Hf | Ta Bi | Po
-
-87 | 88 104] 105 | 106 115 | 116] 117] 118
-
-Fr | Ra Rf | Db| Sg Mc} Lv | Ts | Og
-
-57| 58 | 59 | 60 | 61 | 62 | 63 | 64 | 65 | 66 | 67] 68] 69 | 70} 71
-
-La | Ce | Pr |Nd | Pm|Sm| Eu | Gd} Tb | Dy | Ho | Er |Tm] Yb | Lu
-89 | 90 | 91 | 92 | 93 | 94 | 95 | 96 | 97 | 98 | 99 | 100] 101} 102} 103
-
-Ac | Th} Pa | U_|Np| Pu |Am|Cm| Bk |} Cf | Es |}Fm|Md]No | Lr
-
-Figure 13. Periodic table sometimes labelled as ‘official |UPAC periodic table’. Group 3 appears to contain only two elements.
+A considerable amount of theoretical work has been done on aberrations of the
+first order by SEMEL, ABBE and others, and the treatment of these is fairly well
+known. Unfortunately, it is found in practice that the first order aberrations do not
+give a sufficient approximation for the optician’s requirements. In fact for a certain
+range of object and image positions, they are so badly out that they cannot be
+said to constitute an approximation at all. This fact has long been recognised by
+optical designers, whose practice is invariably to calculate, using the exact trigono-
+metrical equations which involve no approximation at all, the correct paths of a
+number of selected rays, from which they draw conclusions as to the efficiency, or
+otherwise, of the proposed system from the practical point of view. The trigonometrical method, however, from the designer’s point of view, has the
+radical defect that, while it gives partial information about the performance of a given
+system, it gives no direct intimation of the direction in which the elimination of various
+detects is to be looked for, and it entails a long and laborious process of seeking for
+the optimum by trial and error.

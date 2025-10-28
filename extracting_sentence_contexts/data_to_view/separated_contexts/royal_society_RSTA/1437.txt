@@ -1,12 +1,10 @@
-In that context, the underlying idea in ComPat is that performance of the entire multiscale
-application can be predicted by combining two pieces of information together: (1) computational
-costs of every single-scale submodel and (2) interactions among submodels. These interactions
-are described by the submodel coupling topology and other parameters, such as the number
-and dynamicity of their instances. In fact, the claim is that, with only three configurations and
-any of their combinations, one can describe all kinds of multiscale applications and predict
-their performances on any HPC where the submodels have been profiled. These configurations
-are called the multiscale computing patterns (MCPs), and they are the extreme scaling (ES),
-heterogeneous multiscale computing (HMC) and replica computing (RC) patterns. In particular, a
-multiscale application follows the ES pattern if one submodel (the primary) dominates by far in
-terms of application computing costs compared to the other submodels (the auxiliaries), and both
-the number and creation of all submodels are static.
+The result also bears out the assumption that
+it is disturbances rather than superposed fluctuations which are the main cause of the
+irregularity, the element of unpredictability, in the data. The fact that we get a worse and not a better estimate, although that estimate is
+based on a larger number of variables, will naturally seem paradoxical to those who are
+accustomed to the ordinary theory of correlation. It is simply due to the fact that we
+have insisted on the regression equation being of a particular form, the coefficients of
+U,—1 and u,-3 being identical, and the coefficient-of u,-, unity. The result tells us merely
+that, if we insist on this, such and such values of the coefficients are the best, but even so
+they cannot give as good a result as the equation of form (13) with only two terms on
+the right. III.

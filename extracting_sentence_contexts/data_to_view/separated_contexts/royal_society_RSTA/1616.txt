@@ -1,13 +1,20 @@
-We conclude that 0 < 71(8) <r. Also we have that
+G. B. JEFFERY ON PLANE STRESS AND
 
-®(y(s)) € Q) for each s € [s},[. In fact by the definition of $ and, by (/2), for each s € [s1,$[, ®(y(s))
-cannot be in Q4, Q2 and hence in Q3. The result now follows. a
+corresponding to forces and couple applied at « = —, and similar terms in @,, log 7,
+corresponding to forces and couple applied at a= +. The corresponding forms of
+hx can be expanded in series which are included in our general form, but here again
+the expansions are different on opposite sides of « = 0 and diverge for a= 0, 8 = 0
+together, 7.e., at infinity. This divergence corresponds to the obvious fact that forces
+or couples must be applied at infinity to maintain equilibrium. Owing to difficulties of this kind we shall find it convenient to insert the
+appropriate terms corresponding to the resultant foree and couple over a boundary
+and to investigate the stress-function corresponding to the remaining applied forces
+which will be in statical equilibrium for each boundary. Let us write for brevity
 
-(d) Main results
+¢, (a) = A, cosh (n+1) «+B, cosh (n—1) «+4 C, sinh (n+1)¢+D, sinh (n—1) a } (26)
+a,
 
-Our next goal consists in the investigation of the dynamical properties associated with a map
-which can be expressed as a composition of maps of the form like Y and @ in the theorems
-above. As a preliminary example, we consider a planar map F of the form
+vw, (a) = A’, cosh (n+1)a+B’, cosh (n—1)a+C’, sinh (n+1)4+D,’ sinh (n—1)
+if n= 2 and
+¢, (a) = A, cosh 2a+B,+C, sinh | (27)
 
-F:=@ow,
-Our first result gives a conclusion in the line of Poincaré—Birkhoff fixed-point theorem.
+vy, (a) = A’, cosh 2a+C’, sinh 2a.

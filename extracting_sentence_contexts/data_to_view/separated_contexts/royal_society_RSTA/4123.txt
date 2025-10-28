@@ -1,33 +1,13 @@
-Thus, we consider
-Hamiltonians of the form
-
-A
-Hp=——km-o, (2.5)
-2
-where o = (ox, oy, 0z) are the Pauli matrices and
-
-2
-n= a" + cosk, sink, 0) (2.6)
-
-Ax =2y (m+ cosk? + sin? k. (2.7)
-
-'The use of the word ‘phase’ in two different senses is unavoidable, and can be traced back to Gibbs.
-
-and
-
-
-1 1
-2n 2n 2n
--1 -1 _
-1
-2n 2m 2n :
--l -l E
-mn]
-
-Figure 1. The spectra for A, as in equation (2.7) and m = 0 1
-
-, 1, 4 from left to right in the top row and m = 3,1, ? from left =
-to right in the bottom row. The fact that it matters whether m is larger or smaller than one is not yet apparent. LB
-
-What is the physics of this? The model has two energy bands (which is why we can treat it as tw
-a qubit), with a band gap that closes if m = 1 (figure 1).
+The value of this current
+can in general be neglected in comparison with the current value found by dividing
+the E.M.F. applied by the calculable resistance of the electrolyte. It is therefore
+considered that the potential fall within the liquid can be neglected in comparison
+with the sum of the potential changes in the neighbourhood of the electrodes, and
+that this sum is equal in value to the applied E.M.F. The system is, in fact,
+considered equivalent to a pair of condensers (supposed existent at the surfaces of
+separation between electrode and solution) connected in series by a resistance (repre-
+sented by the resistance of the electrolyte). For electrodes of the same nature in the
+same solution the respective capacities are taken to be proportional to the areas of the
+surfaces in contact with the solution. In the capillary electrometer, therefore, the
+capacity of one electrode would in general be indefinitely small compared with that of
+the other.

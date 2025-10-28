@@ -1,21 +1,8 @@
-Even without a formal entropy inequality, the nonlinear Grad-type
-equations are able to describe processes outside of the hydrodynamic regime sufficiently well. However, the lack of structure—loss of 2nd law and hyperbolicity—might lead to breakdown of
-solutions, or unphysical results for strong non-equilibria.
-
-(d) Closure by entropy maximization
-
-For the Grad closure, the distribution is a perturbation of the Maxwellian that assumes (very
-small) negative values at large velocities, and hence the entropy (2.6) cannot be determined. Maximization of entropy (MaxEnt) offers an alternative route to closure, that is in fact centred on
-entropy, and produces a positive distribution function, and a proper form of the 2nd law [31,32]. The idea is to chose the least biased distribution that is compatible with the chosen variables,
-which is obtained by maximizing the entropy (2.6) under the constraint of given values for the
-
-
-variables F4. Taking care of the constraints by means of Lagrange multipliers A, this results in a
-distribution that is the exponential of a polynomial in c,
-
-fax = exp [- > Axoa| . (2.12)
-A
-
-The thermodynamic structure for the resulting moment equations is just as for the
-phenomenological theory of rational extended thermodynamics, that will be discussed further
-below.
+Looked at from this point of view, (iii) is largely
+identical with (iv). We are thus almost inevitably driven to the conclusion (iv), that the method of
+approximation is unsound. Now examination of the expressions (19.1), (19.2) will show
+that the most important terms in our second approximation for the velocities are, in fact,
+of smaller order than the most important terms in the first approximation. Thus away from the tail the most important terms of second order are of magnitude
+r~*”, those of the first order of magnitude 7~'; in the tail the most important terms of
+second order are of magnitude (log 7/r), those of the first order of magnitude r~*. There
+is thus, so far as we have gone, no apparent failure of convergency.

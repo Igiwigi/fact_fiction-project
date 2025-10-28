@@ -1,10 +1,16 @@
-In effect, a new scientific subfield dedicated to the study of coupling
-functions has started to emerge, paving the way to specialized scientific gatherings on coupling
-functions in the form of minisymposia, workshops and conferences, as well as to dedicated
-reviews. Thus the topical issue has emerged naturally to unite and document these activities in
-one place, thereby bringing out the universality of the coupling function as a theoretical construct. The need for a theme issue is perhaps most strongly supported by the fact that the applications
-of coupling functions span such a great diversity of very different scientific areas. Although
-originally stemming from physics and mathematics, applications have now emerged in, for
-example, chemistry, neuroscience, physiology, system microbiology, mechanics, climate science,
-secure communications and the social sciences. The experts in these separate fields seldom
-encounter each other or come across work on coupling functions by scientists in the other areas.
+5. We now expand the generating function. On well-known principles we
+can assert that the coefficient of a‘ in the expansion is the homogeneous product-sum
+of order k of unity, and of the whole of the a, 8, y, ... products which occur in the
+denominator factors of the generating function. The elements, of which we must
+form homogeneous product sums are, in fact, ,
+
+1
+a, B, Y ave’ a
+ral B, rae oe ap, ay; By, sie «|
+
+a’, B, y’*, ... a8, ay, ...aBy, 28d, ... We can form these product-sums from the sums of the powers of these elements,
+because we have before us the well-known symmetric function formula
+
+hig ke kK
+te as 8 18g" +++ 8% F
+= 18Q* ,.. a. ky hy! ... he!

@@ -1,53 +1,9 @@
-Sede VW, = |. S'(e)uxlx,€,1) de (2.17)
+The fourth and sixth equations of (18-9) give that
 
-
-and
-
-k-1 k-1
-U(x, &, t) : D PROS (E=Px) = D PrlWk — pk + vG(px) 5 (e=p,)- (2.18)
-Eliminating the test function S‘(-), this is equivalent to writing
-xk — Vk VWre= bee (2.19)
-
-However, this formula is not enough to pass to the limit k > oo and we need the divergence
-form,
-
-ayS(p.)~ civTSIpA) VW + Stpx) PE = 1p QS") =|_° SEH. Therefore, using (2.16) and the fact that S(px)px = J” (S(E) + €5'(E)) xz dé, we have
-| S() — S(0)
-
-0 v
-
-~ We «
-J 8 [Pr divin: Ved + eK] a - nde = Se uu(ae). 20)
-
-Because x;(&) = —(0/0é) Je Xx(x,n, t) dn, and integrating by parts, we have
-
-~ S(&) — S(0) % Si(z) po
-j, v D I. xK(x, n, t) dn dé.
-
-rade =|
-
-0
-
-Therefore, (2.20) is equivalent to our final formulation
-
-Wr -&
-v
-
-xk — div xe VWe] + Xk
-
-_
--* l vat, nt) dn = pp. (2.21)
-
-One can simplify this relation and write
-
-: . Wr - kK —&
-dexXK — div xRV We] + kas - (aS) = Uk
-
-Finally, (2.20) is equivalent to
-
-F Wr — Pk
-xk — div xe VWe] + Xe D Ph = uy
-
-In particular, integrating in € we recover the expected formula
-
-appx — div[prV We] + PEW — Pk] =| dé. Third step.
+Lv’ +1,s'q’P+1s'q'R = 0,)
+r (20-3)
+and nv’ +n,s'q'P+n,s'q'R = 0,
+to the first order. Now it is a well-known fact that, of the six rotary derivatives con-
+tained in (20-3), /, stands out as predominantly large. In fact J, is a quantity of order
+— 1, while of the other five derivations only /, is at all large, namely, like 2. We therefore
+suggest that, in our first approximation, we can take P = 0. This suggestion is much nearer the truth than appears on the surface at first.

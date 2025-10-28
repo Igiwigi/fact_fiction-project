@@ -1,51 +1,21 @@
-Dielectric property of materials assigned in simulation.
+Mag.,’ vol. 34 (1917), -p. 385. VOL, COXX.—a, 2*
 
-material permittivity
 
-M1 2.43
-M2 247
-defect (air void) 1
-mechanical interlocking: layer between adhesion and M1 2.43
-mechanical interlocking: layer between adhesion and M2 2.47
-adhesion 6.2
-contamination 1
-Table 2. Boundary conditions defined in COMSOL-based simulation model and corresponding explanation. [2
-:S
-boundary conditions descriptions :§
-ground sensing electrode is specified as ground along with holder and : =
-substrate, with the electric potential of 0 V while the driving : 8
-electrode has an applied potential of 1 V at 4.9 MHz : ra
-zero charge boundary to simulate a perfectly insulating surface and is assigned to the outer : ra
-domain boundary : S
-floating potential boundary condition to simulate a perfectly conducting surface where both electrode : S
+232 MR. G. H. LIVENS ON THE
 
-surfaces are assigned to this boundary condition
+on each other, being connected by the equation given above, and there will be a
+relation between the forms for two different theories. In fact if S and T are the
+forms corresponding to any one mode of separation and if we write :
 
-computation domain the size of the computation domain truncates the modelling space. In
-fact, the fringing electric field extends to infinity, but drops off in
-proportion to the inverse cube of the distance. They rapidly become
-small enough to be considered numerically insignificant. Here, it is
-verified that the computation domain is large enough to capture
+s=8+0
 
-the fringing fields
-(b) (c) (a)
-10 —————— —
-09 —
-08
-07
-(0.6
-os
-04
+where U is any arbitrary vector function we shall have
 
-03
-$s
+where
 
-Eee
-Ol —__ eee $a
+TVe=iT— | div Udr,
 
-.— =} —s a
-
-Figure 3. (a) Electric field lines distribution overview, (b) air void of size 10% of adhesion thickness, (c) air void of size 50% of
-adhesion thickness and (d) air void of 90% of adhesion thickness. (Online version in colour.)
-
-gives us ideas about the intensity of the electric field at each point.
+and 8’ and T’ are appropriate forms for a new mode of separation. In this way, by
+assigning convenient values for U, we might tentatively construct a number of
+interesting formule. The last result also shows why it is that the particular form pee for the kinetic
+energy is irrelevant to the general dynamical discussion of paragraph 7.

@@ -1,28 +1,8 @@
-Tile Assembly Model is intrinsically universal, and that this holds with a fairly strict notion 6 |
-of simulation, we can attempt to use simulation to tease apart the power of different tile
-
-assembly models. Specifically we ask if natural subclasses of the model can achieve the full a
-expressive power of the model via spatially scaled dynamics-preserving simulation and/or if :
-such subclasses can even simulate each other.
-
-(a) Separating the power of cooperative and non-cooperative tile assembly systems
-
-It has been known for some time that the abstract Tile Assembly Model at temperature 2, where
-at least some of the tiles are required to match on two or more sides for correct binding, i.e.
-cooperative binding, is capable of highly non-trivial behaviour. Turing machine simulation [40],
-
-efficient production of n x n squares and other simple size-n shapes using ©(log1/ log log 1) : 2
-tile types [48], efficient production of arbitrary finite connected shapes using a number of : =
-tile types within a logarithmic factor of the Kolmogorov complexity of the shape [17] and 78
-even intrinsic universality [46] (as already discussed) can all be achieved with cooperative, or : 2
-temperature 2, growth. : S
-
-The fact that the (full) abstract Tile Assembly Model is intrinsically universal means that there Dos
-is a subclass of the model, namely the class of systems that use the intrinsically universal tile set U, : Ss
-that is capable of simulating the full model. This suggests an obvious question: can we show that : S
-some subclasses of the model are provably weaker than the full model, by showing that systems :s
-from these subclasses cannot simulate the full model? : =
-
-The most notorious such subclass is called temperature 1. Despite its esoteric name, it models
-a fundamental and ubiquitous form of growth: asynchronous growing and branching tips in
-Euclidian space where each new tile is added if it matches on at least one side.
+r
+= peosy +n (5° cos a + 38 cos B+ 300s 7) + (08 + 2 cos B+ % cosy) = — pgf cos y. These equations express the fact that the surface-tractions at the mean surface are
+equivalent to a normal stress equal to the weight of the harmonic inequality,
+and they might have been written down at once from this consideration. 1t has,
+however, been thought preferable to verify them at length ; it will be seen that the
+shorter procedure is only justifiable in the case where the material is initially in
+a state of hydrostatic equilibrium. If in the zero configuration this condition is not
+satisfied the form of the boundary equations will be much more complicated.

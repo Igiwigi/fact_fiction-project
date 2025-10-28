@@ -1,11 +1,20 @@
-While these non-convex constraints do not guarantee globally optimal solutions, we could
-show that when we initialized our method with a good linear reconstruction, then the non-
-convexly constraint nonlinear reconstructions were often better. However, the improvement also :
-comes at the cost of increased computational complexity. For real data, inverting the nonlinear =
-model often took hundreds of iterations to achieve the best performance. =
+It is clear that, even under conditions in which radicals are predominantly eliminated
+by interaction with enzyme, the expansion of the column may be quite limited, and
+appreciable concentrations of radicals may only exist in the immediate vicinity of the
+track, so that only a small fraction of the enzyme in solution may be exposed to inactiva-
+tion. Lea has shown* that if, as appears to be true in the case of carboxypeptidase,
+inactivated enzyme has approximately the same efficiency in eliminating radicals as the
+unchanged enzyme, then the a-ray ionic yield limited in this way by the self-protection of
+the enzyme will be independent of enzyme concentration. We incline to the view that these conditions do not, in fact, prevail in our a-ray experi-
+ments. It appears most probable that the small observed «-ray ionic yield is due princi-
+pally to d-ray ionization, and that the majority of the labile product has no opportunity
+of reacting with enzyme molecules because it is rapidly eliminated within the a-ray
+column by alternative reactions. APPENDIX
 
-The fact that TV regularization outperforms even our best nonlinear model-based estimate {8
-shows the power to the TV constraint for objects with uniform material density as we simulated :
-here. It is likely that the inclusion of such a TV regularization term in our nonlinear model aa)
-will offer similar benefits, especially when combined with the non-negative matrix factorization Dw
-constraint. Using joint constraints has also demonstrated clear benefits.
+The inactivation of carboxypeptidase by the a-radiation from thorium X
+
+thorium X 88 Ba
+3-64 days
+a 5-645 MeV
+thoron 86 Xe
+54-5 sec.

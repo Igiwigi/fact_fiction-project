@@ -1,12 +1,16 @@
-For this, we may naively
-expand the interaction part of the potential (2.5) in powers of 1? g?/A2 for large A. Then we
-may absorb the log A divergence into a renormalization of 4, introducing a renormalization scale
-A—k,and end up with
+In order to test the law with great accuracy, we ought to examine it over a range
+of dilutions so high that the viscosity is practically constant and the increase of ionic
+size (if any) is practically complete. In such a case we might expect to find the value
+of n practically constant and equal to 3, if the Van ’t Hoff law holds accurately. It
+is impossible to make such a test, owing to the fact that the error introduced by the
+uncertainty us to the correction for the conductivity of the solvent, multiplied by the
 
-2 1D gg Pg hg? Urls = Fe hitot in SF +O ( E ). (2.6)
+x 2
 
-This in fact looks like an unstable interaction potential for large ¢ (in obvious contradiction with
-(2.5)). This corollary of the original puzzle is resolved by noting that the instability sets in for
-large fields where (i?¢7/ A?) ~ O(1), ie. where the large-A expansion is no longer justified. We
-emphasize that our line of argument does not rely on the momentum cut-off regularization, but is
-identical for gauge-invariant regulators such as propertime or zeta function regularization.
+
+156 MR. W. R. BOUSFIELD: IONIC SIZE IN RELATION TO
+
+large factor necessary to obtain the equivalent conductivity, entirely swamps the small
+difference (if any) from the exact value of the index which we desire to detect. Hence the only available means of investigation is to get the true value of at
+high dilutions, by extrapolation from lesser dilutions where the errors to which
+reference is made above become almost inappreciable.

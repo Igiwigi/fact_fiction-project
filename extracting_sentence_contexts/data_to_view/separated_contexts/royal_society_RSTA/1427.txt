@@ -1,14 +1,14 @@
-The
-notion of what is affordable raises the question of how much society values accurate forecasts
-of climate and whether climate simulation and prediction is of such importance societally that
-it should be funded at a similar level of ambition to something like the Large Hadron Collider
-[4]. We do not answer such questions here, but nevertheless suggest that the development of
-algorithms which run in a reasonable time (say a day of wall-clock time for a decade of simulated
-climate) on a dedicated exascale high-performance computer would appear a plausible objective
-for the design of algorithms for the next-generation climate simulation and prediction models. Since it is believed that the underpinning equations of motion on which the algorithms are
-based are correct, an inability to solve these equations numerically without significant bias
-must arise from the fact that existing numerical representations are not sufficiently accurate. In
-practice, this means that the resolution of existing models is inadequate. As such, it should be
-possible to reduce these errors by increasing the resolution of the model sufficiently, thereby
-eliminating some of the semi-empirical subgrid parametrizations [5], which are required to
-represent processes, which are not resolvable on the chosen grid.
+If a specimen
+of elliptical cross-section be distorted by shear on a system of parallel planes having
+a common direction of slip, it is apparent that the direction of displacement of neigh-
+bouring particles will vary from a direction perpendicular to the boundary to one
+tangential to the boundary. Hence, if the polished surface of such a distorted specimen
+is viewed through a (reflecting) metallurgical microscope, the intensity of the shadows
+(representing the slip-bands) will vary from a maximum value through zero value to
+the same maximum value twice as the specimen rotates through 360°. In the present
+instance, the fact that the “gaps” observed had definite regular widths is explained
+by the absence of a perfect surface and also by the limits of resolution of the
+optical system employed. The slip-bands faded away as the gaps were approached,
+and the width of the latter was approximately 0”-02. The positions of the centres
+of the gaps could, however, be estimated with considerable accuracy, and were
+found to coincide with the reference marks 2 and 8.

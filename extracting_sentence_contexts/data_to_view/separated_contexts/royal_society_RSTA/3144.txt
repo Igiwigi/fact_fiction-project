@@ -1,57 +1,18 @@
-In this and the previous section the partitions of the identity A = (A,) and B = (B,) are
-fixed, so we have omitted them from the notations. For future use it is convenient to introduce
-the more precise notations P(A | B) = (pqp(A | B)) and P(B | A) = (ppq(B| A)) and the corresponding
-ones U(A | B) = (ugp(A | B)) and U(B | A) = (upa(B | A)) defined, respectively, by
+are independent of «”,
+the coefficients of y,', &c., are those found there whether «* be zero or not. In the same way for the third column, with a, a", taken into account, the equations
+become
 
-ugp(A | B) = ab, sg(B |A) = P= wipe (3.85)
-7
+(@r41— 3) m—Y = 0,
 
-In this section, « will be a *-algebra and U = (up) will be a matrix with entries in « satisfying the
-conditions of theorem 3.20 and the additional condition
+(p41 — Progr) + (4p—9,") Hy — Yr — Apap — A % = 0,
 
-us = a (3.86)
-F
+and just as before the first equation in which «,, occurs with a non-vanishing coefficient
+is the one following the equation from which @,° first does not vanish out identically,
+viz., Z..+,-2; While #, will occur first in the equation homologous to the Y equation
+in which @,, first occurred, viz., Z,4,-1; in fact, in Z,,4p-2, %. will occur multiplied by
+the left-hand member of Z,4,-3 with 0,°+1 put for 6°, and in Z.4p-2, @_ will be
+multiplied by the left-hand member of Y,4,-3 with 6,°+1 put for 0,°: both these
+factors are other than zero. Thus «” can be chosen to satisfy Z,4,-s, and subsequently a” to satisfy Z.4)-2,
+bi the preceding equations are quite independent of them both ; just as for y, then,
 
-where * denotes the involution in «. Note that the compatibility of (3.86) with the properties of
-involution is guaranteed by the symmetry condition p,p(A | B) = ppa(B | A); in fact
-
-PavlA | m) Pa(A | B) Pav(A |B)
-Ugp(A | B) Ugp(A | B)* — Pba(B| A)/tpa(B | A)
-
-For such a U conditions (3.77) and (3.78) become the usual unitarity conditions:
-
-(ag (B|A)*Y* ( tig(BLA).
-
-n
-(UU")aa =) Uap, = baa’, aa =1,...,0 (3.87)
-b=1
-and
-1
-(U*U)yy =o uae = Spy, v,b'=1,...,0. (3.88)
-
-a=1
-
-
-Theorem 3.22. If the matrix U = (ugy) satisfies condition (3.75), then the associative algebra A, with El
-structure constants defined by (ugpy) and (pap) through (3.68) (see theorem 3.20), is a *-algebra whose
-involution restricted to x is reduced to the involution of x. “a
-
-Proof. We first show that if (3.86) holds, then condition (3.50) of theorem 3.17 is equivalent to is
-the unitarity conditions (3.87) and (3.88): :
-
-5-8 yi caye yc 3 Undlch  \* Ucd Med
-ac’ * Obd! = Vab Pab eattog
-
-Ugh,
-cd=1 coda \MabMted
-
-n
-
-yt
-
-Pab > Madch Heated = Pab y Meat b Med’ Mord Ped
-a Ped
-
-cial Unley Medllcd’ uy dal ur, Med Ued
-
-.
+.. are given in succession without ambiguity.
